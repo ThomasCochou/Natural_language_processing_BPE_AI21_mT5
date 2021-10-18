@@ -1,0 +1,17 @@
+{
+  "manifestVersion": "1.0",
+  "creationDate": "2021-10-18",
+  "creationTimestamp": 1634568643676,
+  "query": {
+    "q": "language:fre",
+    "extract": "fulltext[tei]",
+    "size": "50",
+    "rankBy": "qualityOverRelevance",
+    "archiveType": "zip",
+    "compressionLevel": "6",
+    "sid": "istex-dl",
+    "usage": "1",
+    "totalResults": 299881
+  },
+  "url": "/document/?q=language%3Afre&extract=fulltext%5Btei%5D&size=50&rankBy=qualityOverRelevance&archiveType=zip&compressionLevel=6&sid=istex-dl&usage=1"
+}

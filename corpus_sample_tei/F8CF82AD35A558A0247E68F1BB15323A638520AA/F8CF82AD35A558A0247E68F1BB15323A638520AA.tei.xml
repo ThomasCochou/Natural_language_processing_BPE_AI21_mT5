@@ -1,0 +1,2980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Altruisme, égoïsme et individualisme dans l’École durkheimienne</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><availability><licence><p>Copyright © A.E.S. 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Altruisme, égoïsme et individualisme dans l’École durkheimienne</title><author xml:id="author-0000"><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName><affiliation>Centre d’Études Sociologiques de la Sorbonne, Université Paris Sorbonne [Philippe.Steiner@paris-sorbonne.fr].</affiliation></author><idno type="istex">F8CF82AD35A558A0247E68F1BB15323A638520AA</idno><idno type="ark">ark:/67375/6GQ-0GJQKFVX-R</idno><idno type="DOI">10.1017/S0003975609000411</idno><idno type="PII">S0003975609000411</idno><idno type="article-id">00041</idno></analytic><monogr><title level="j">European Journal of Sociology</title><title level="j" type="abbrev">Arch. eur. sociol.</title><idno type="pISSN">0003-9756</idno><idno type="eISSN">1474-0583</idno><idno type="publisher-id">EUR</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><date type="published" when="2009"/><biblScope unit="volume">50</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="35">35</biblScope><biblScope unit="page" to="59">59</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>This article studies Durkheim's views on altruism and selfishness and, therefore, on modern individualism. In contrast to Comte and Spencer, Durkheim used these concepts in his empirical work on suicide and then as intellectual tools for explaining his view on the professional and political organization required in a modern democracy. Finaly, the article examines how Durkheim's views were modified by the Durkheimian, notably with Marcel Mauss’ emphasis on interested/desinterested behaviors in gift-giving processes which are the empirical and symbolical roots of social solidarity.</p></abstract><abstract xml:lang="fr" style="translated"><p>Cet article examine la réflexion de Durkheim sur l'altruisme et l’égoïsme et, par voie de conséquence, sur l'individualisme moderne. L'accent est mis sur l'inscription de ces thèmes dans la recherche empirique sur le suicide, mais aussi dans les cours sur l'organisation professionnelle et politique, la moralité et l'altruisme de l'enfant. La dernière partie montre comment ces thèmes sont traités par les durkheimiens, tout particulièrement Marcel Mauss qui déplace la réflexion en soulignant l'imbrication de l'intérêt et du désintérêt lors des échanges-dons qu'il considère comme le soubassement empirique et symbolique de la solidarité sociale.</p></abstract><abstract xml:lang="de" style="translated"><p>Dieser Beitrag untersucht die Überlegungen Durkheims zum Altruismus und Egoismus sowie schließlich zum modernen Individualismus. Im Gegensatz zu Comte und Spencer zog Durkheim diese Begriffe für seine empirische Arbeit über den Selbstmord heran, sowie für seine Untersuchungen bzg. beruflicher und politischer Organisationen in modernen Demokratien. Der Schlussteil des Beitrags ist den Nachfolgern Durkheims gewidmet und hier besonders Mauss, der die Vernetzung von Interesse und Desinteresse bei Tausch-Gabe unterstreicht, die den empirischen und symbolischen Untergrund für die soziale Solidarität darstellt.</p></abstract><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>Altruism</term></item><item><term>Durkheim</term></item><item><term>Individualism</term></item><item><term>Mauss</term></item><item><term>Selfishness</term></item><item><term>Solidarity</term></item></list></keywords></textClass><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>Altruisme</term></item><item><term>Durkheim</term></item><item><term>Égoïsme</term></item><item><term>Individualisme</term></item><item><term>Mauss</term></item><item><term>Solidarité</term></item></list></keywords></textClass><textClass xml:lang="de"><keywords scheme="keyword"><list><head>Schlagwörter</head><item><term>Altruismus</term></item><item><term>Durkheim</term></item><item><term>Egoismus</term></item><item><term>Individualismus</term></item><item><term>Mauss</term></item><item><term>Solidarität</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+philippe steiner
+
+Altruisme, goisme et individualisme dans
+e ¨
+´
+l’Ecole durkheimienne
+« Partout ou il y a des socits, il y a de
+ee
+`
+l’altruisme, parce qu’il y a de la solidarit. »
+e
+´
+Emile Durkheim, De la division du travail
+social, 1893, page 215.
+
+Abstract
+This article studies Durkheim’s views on altruism and selﬁshness and, therefore, on
+modern individualism. In contrast to Comte and Spencer, Durkheim used these
+concepts in his empirical work on suicide and then as intellectual tools for explaining
+his view on the professional and political organization required in a modern
+democracy. Finaly, the article examines how Durkheim’s views were modiﬁed by
+the Durkheimian, notably with Marcel Mauss’ emphasis on interested/desinterested
+behaviors in gift-giving processes which are the empirical and symbolical roots of
+social solidarity.
+Keywords: Altruism; Durkheim; Individualism; Mauss; Selﬁshness; Solidarity.
+
+L e p r o p o s de cet article est de faire ressortir l’importance de la
+´
+rﬂexion d’Emile Durkheim et de son cole sur le theme de l’altruisme
+e
+e
+`
+e
+e
+ˆ
+et de l’goısme1. L’enjeu est dtermin par le role essentiel que joue la
+e ¨
+sociologie durkheimienne dans le courant qui, d’Auguste Comte a
+`
+Pierre Bourdieu, cherche a construire une alternative a la vision du
+`
+`
+monde que l’conomie politique dveloppe a partir du dbut du milieu
+e
+e
+e
+`
+du xviiie siecle en Europe et bien au-dela depuis. En ce sens, la
+`
+`
+confrontation de l’altruisme et de l’goısme n’est pas tant la reprise
+e ¨
+d’un theme classique qu’une rﬂexion sur la sociologie en tant qu’elle se
+e
+`
+prsente comme un contre discours au discours politique qu’est
+e
+l’conomie politique.
+e
+La premiere partie rappelle la maniere dont la question de
+`
+`
+l’altruisme est pose dans l’œuvre d’Auguste Comte – crateur du
+e
+e
+terme dans son Catchisme positiviste – qui, tout en reconnaissant dans
+e
+
+1
+Une premiere version a t prsente
+ee
+e
+e
+`
+lors du colloque « Durkheim 150 » organis
+e
+par le dpartement de sociologie de l’Unie
+
+versidade de Sao Paulo, en novembre 2008.
+˜
+Je remercie Steven Lukes pour ses commentaires et suggestions.
+
+35
+´
+Philippe Steiner, Centre d’Etudes Sociologiques de la Sorbonne, Universit Paris
+e
+Sorbonne [Philippe.Steiner@paris-sorbonne.fr].
+Arch.europ.sociol., L, 1 (2009), pp. 35–59—0003-9756/09/0000-900$07.50per art + $0.10 per pageÓ2009
+A.E.S.
+
+philippe steiner
+sa Politique positive la ncessaire combinaison de l’goısme et de
+e
+e ¨
+l’altruisme, leve la prminence du second sur le premier au rang de
+e`
+ee
+probleme humain fondamental. Dans les Data of Ethics, Herbert
+`
+Spencer integre cette question dans sa perspective volutionniste et
+e
+`
+utilitariste pour avancer l’ide d’un compromis entre les deux ressorts
+e
+de l’action humaine. La deuxieme partie est consacre a la
+e `
+`
+prsentation de l’apport de Durkheim dont le point de dpart se
+e
+e
+trouve dans les nombreuses remarques qui maillent De la division du
+e
+travail social, avant qu’il n’inscrive l’opposition entre l’altruisme et
+l’goısme dans la morphologie des groupes sociaux. En effet, du
+e ¨
+suicide au cours sur le socialisme, Durkheim dlaisse l’approche
+e
+psycho-philosophique de Comte et de Spencer pour avancer dans la
+recherche empirique, et mettre au jour l’existence d’une relation non
+linaire entre intgration du groupe et altruisme. La troisieme partie
+e
+e
+`
+montre comment la rﬂexion de Durkheim est rlabore dans l’cole
+e
+ee
+e
+e
+durkheimienne. Alors que des durkheimiens de premier rang comme
+Francois Simiand et Maurice Halbwachs dlaissent cette question,
+¸
+e
+d’autres, en le reformulant en termes d’intret et de dsintret, lui
+e ˆ
+e
+e ˆ
+donnent une place de choix comme c’est le cas de Marcel Mauss dans
+l’Essai sur la nature et la fonction du sacriﬁce (crit avec Henri Hubert),
+e
+puis dans l’Essai sur le don. Cette direction de recherche dbouche
+e
+e
+e
+sur une rﬂexion originale avec la mise en vidence de systemes
+`
+d’changes-dons imbriqus aux changes marchands, mais fonctione
+e
+e
+nant selon des regles diffrentes pour produire de la solidarit.
+e
+e
+`
+
+1. Sociologie et altruisme dans la socit industrielle
+ee
+La question du comportement goıste est bien sur tres ancienne.
+e ¨
+ˆ
+`
+Sans remonter a l’origine de la pense occidentale, les recherches
+e
+`
+rcentes sur la notion d’intret ont montr l’importance croissante que
+e
+e ˆ
+e
+revet cette question au cours du xviie siecle (Hirschman 1977 ;
+ˆ
+`
+Heilbron 2002 ; Force 2003), et meme au-dela de la place grandissante
+ˆ
+`
+faite a l’activit marchande puisque les rﬂexions des moralistes
+e
+e
+`
+francais de cette priode, comme la querelle du « pur amour » au
+¸
+e
+tournant des xviie et xviiie siecles portent plus sur la morale et la
+`
+religion que sur le comportement marchand. Bien sur, avec
+ˆ
+l’mergence de la science du commerce politique puis de l’conomie
+e
+e
+politique, la question prend de plus en plus d’ampleur puisque
+l’conomie politique se prsente comme un discours fond sur le
+e
+e
+e
+36
+
+sentiments moraux ; durkheim
+comportement intress des individus qu’il s’agit de gouverner
+e
+e
+(Faccarello et Steiner 2008a). Dans cette priode, et cela jusqu’a la
+e
+`
+ﬁn du xviiie siecle, on distingue l’amour de soi, principe essentiel de
+`
+conservation des individus, et l’amour-propre qui en est une perversion. Les choses changent au dbut du xixe siecle lorsque commencent
+e
+`
+les efforts pour stabiliser ce que l’on appelle, en France, la socit
+ee
+industrielle caractrise par l’importance centrale accorde au travail,
+e e
+e
+a la production et, par voie de consquence, a l’change marchand.
+e
+`
+` e
+Une critique vigoureuse de l’conomie politique en tant que discours
+e
+politique se fait alors jour (Faccarello et Steiner 2008b). Et c’est au
+cours de ces passes d’armes que la sociologie fait son apparition,
+comme on le sait, lors des sances que Comte consacre a la critique de
+e
+`
+la dmarche des conomistes (Comte [1827-1842] 1975, II, lecon 47).
+e
+e
+¸
+Il n’est pas question de revenir ici en dtail sur cet pisode de
+e
+e
+l’histoire intellectuelle (Steiner 2006, 2008a), il sufﬁt de rappeler que
+l’goısme devient la cible par excellence de la critique de la socit
+e ¨
+ee
+industrielle parce que nombreux sont alors les penseurs pour qui ce
+principe d’action ne saurait donner sa stabilit a la socit industrielle.
+e`
+ee
+C’est un lment central du mouvement intellectuel qui va de Henri
+ee
+Saint-Simon a Comte et aux saint-simoniens.
+`
+Lorsque Saint-Simon dcouvre l’conomie politique, il est bloui :
+e
+e
+e
+il y voit la science a meme de mettre ﬁn a la situation politique instable
+` ˆ
+`
+e e
+dans laquelle, selon lui, se trouvent la France et, plus gnralement,
+l’Europe. Saint-Simon fait de la communaut des intrets entre les
+e
+e ˆ
+industriels l’lment qui donne leur force a ces derniers et sa stabilit a
+ee
+e`
+`
+la socit moderne :
+ee
+Il est un ordre d’intrets senti par tous les hommes, les intrets qui appartiennent
+e ˆ
+e ˆ
+a l’entretien de la vie et au bien-etre. Cet ordre d’intrets est le seul sur lequel
+ˆ
+e ˆ
+`
+tous les hommes s’entendent et aient besoin de s’accorder, le seul ou ils aient a
+`
+`
+dlibrer, a agir en commun, le seul donc autour duquel puisse s’exercer la
+e e
+`
+politique et qui doive etre pris pour mesure unique dans la critique de toutes les
+ˆ
+institutions et de toutes les choses sociales. La politique est donc, pour me
+rsumer en deux mots, la science de la production, c’est-a-dire la science qui
+e
+`
+a pour objet l’ordre des choses le plus favorable a tous les genres de productions.
+`
+(Saint-Simon et Thierry [1817] 1966, p. 188)
+
+Dans cette phase, Saint-Simon fait de la morale une morale des
+e e
+intrets2, laquelle se logerait dans les institutions morales hrites du
+e ˆ
+2
+« En un mot, il faut passer de la morale
+cleste a la morale terrestre » (Saint-Simon
+e
+`
+et Thierry [1817] 1966, II, p. 37). Le
+christianisme a fait son temps, son regne est
+`
+
+ﬁni : « L’ere des ides positives commence :
+e
+`
+on ne peut plus donner a la morale d’autres
+`
+motifs que les intrets palpables, certains,
+e ˆ
+prsents » (ibid., p. 38).
+e
+
+37
+
+philippe steiner
+pass – les institutions religieuses – le temps que de nouvelles
+e
+institutions morales apparaissent. Avec l’arrive de Comte, les ides
+e
+e
+publies sous la signature de Saint-Simon changent, comme on peut le
+e
+voir des 1819-1820 dans les pages de L’organisateur. Dsormais la
+e
+`
+socit industrielle est concue autour de deux poles : la communaut
+ee
+¸
+ˆ
+e
+d’intret et la communaut de valeur. Cela est accentu dans Du
+e ˆ
+e
+e
+`me
+syste industriel :
+Une socit ne peut pas subsister sans ides morales communes ; cette
+ee
+e
+communaut est aussi ncessaire au spirituel que l’est au temporel la
+e
+e
+communaut d’intrets. Or ces ides ne peuvent etre communes, si elles n’ont
+e
+e ˆ
+e
+ˆ
+pas pour base une doctrine philosophique universellement adopte dans l’diﬁce
+e
+e
+social ; cette doctrine est la clef de voute, le lien qui unit et consolide toutes les
+ˆ
+parties. (Saint-Simon et Comte [1821] 1966b, p. 51)
+
+Que s’est-il pass qui puisse expliquer ce revirement ? L’intret est
+e
+e ˆ
+maintenant considr comme une menace pour le lien social car il est
+e e
+rapport a un goısme qui, faisant « d’effrayant progres », isole les
+e `
+e ¨
+`
+industriels les uns des autres. Cette situation oblige les penseurs
+de l’industrialisme a chercher un nouvel lment moral propre a
+ee
+`
+`
+combattre cet goısme : c’est ainsi que la philanthropie fait son
+e ¨
+apparition. C’est d’ailleurs dans une « Adresse aux philanthropes »
+que l’on trouve dress le constat de la difﬁcult majeure qui se pose
+e
+e
+a la science de l’industrie :
+`
+La cupidit avait t un sentiment national et n’avait t prouve par les
+e
+ee
+ee e
+e
+citoyens que d’une maniere collective [lors des conquetes] ; l’avidit devient un
+ˆ
+e
+`
+sentiment dominant chez tous les citoyens ; l’goısme, qui est la gangrene morale
+e ¨
+`
+de l’espece humaine, s’attache au corps politique, et devient une maladie
+`
+commune a toutes les classes de la socit. (Saint-Simon et Comte [1821]
+ee
+`
+1966b, p. 90)
+
+Dans un systeme social qui produit de l’avidit en gnralisant la
+e
+e e
+`
+cupidit, un mal moral ancien mais contenu parce que passager ou
+e
+limit a quelques groupes sociaux, la morale devient la science
+e `
+fondamentale, celle qui constitue la socit en la protgeant de
+ee
+e
+l’goısme. Comte reprend ce theme lorsqu’il appelle les « artistes » a
+e ¨
+`
+`
+la rescousse des « savants » : il faut que les industriels apprennent a se
+`
+passionner pour leurs intrets, ce qui signiﬁe qu’il ne sufﬁt pas de leur
+e ˆ
+montrer le vrai ou l’utile pour qu’ils se dirigent dans ce sens. La raison
+ne sufﬁt pas et la dimension affective de l’agir humain doit intervenir
+elle aussi.
+L’anthropologie de Comte distingue l’affectif et le rationnel dans
+l’homme pour souligner l’importance dcisive de l’affectif lorsqu’il
+e
+s’agit de l’activit (Comte [1827-1842] 1975, I, pp. 856, 866). L’goısme
+e
+e ¨
+38
+
+sentiments moraux ; durkheim
+n’est pas nglig puisque Comte en fait une dimension importante de
+e
+e
+l’humain en permettant a l’individu de devenir autonome et de ﬁxer
+`
+ses propres buts, tout en donnant prise ensuite aux instincts de
+sociabilit et a la raison qui rattachent l’individu au collectif (ibid.,
+e
+`
+`me
+II, pp. 180-182). Dans le Syste de politique positive, la confrontation
+entre l’goısme et l’altruisme, avec l’ascendant que ce dernier motif
+e ¨
+doit prendre, est leve au statut de probleme politique fondamental
+e e
+`
+(Comte [1851-1853] 1890, II, p. 173 ; [1852] 1922, pp. 48, 60). On sait
+le role dcisif que Comte donne alors a la femme pour assurer le
+ˆ
+e
+`
+dveloppement d’une philosophie du cœur qui, associe a l’nergie des
+e
+e ` e
+proltaires, doit dboucher sur la suprmatie de l’altruisme sur
+e
+e
+e
+l’goısme.
+e ¨
+En s’inscrivant d’une maniere critique dans la voie ouverte par la
+`
+sociologie de Comte, Spencer ne pouvait manquer de s’intresser a
+e
+`
+cette confrontation entre altruisme et goısme. Comme on peut s’y
+e ¨
+attendre, il inscrit le theme dans sa philosophie marque par
+e
+`
+e ¨
+l’volutionnisme et l’utilitarisme. L’goısme devient la base de
+e
+l’altruisme au sens ou le second ne peut s’exercer sans puiser dans
+`
+les ressources offertes par le premier (Spencer [1879] 1900, x 73),
+meme si un goıste rationnel ne nglige pas de s’occuper du collectif et
+ˆ
+e ¨
+e
+donc d’autrui (ibid., x 75). Puis Spencer met l’accent sur ce qu’il
+appelle l’altruisme inconscient des parents au proﬁt de leur
+progniture et, plus gnralement, des membres d’une gnration a
+e
+e e
+e e
+`
+ceux de la suivante. Il va meme jusqu’a voquer un quilibre proie/
+ˆ
+e
+` e
+prdateur entre personnes altruistes et goıstes (ibid., x 74). Comme
+e
+e ¨
+Comte, Spencer pense que l’altruisme se loge principalement dans le
+sein de la vie familiale, a l’image des soins donns aux enfants, et dans
+e
+`
+le cercle des relations amicales (ibid., x 97). Il entrevoit cependant
+la possibilit d’un quotidien offrant une multitude d’occasions
+e
+d’exprimer ses sentiments d’amiti a des trangers.
+e`
+e
+Si les deux tendances sont en opposition, Spencer insiste sur les
+compromis qui peuvent les rendre conciliables. Il propose ainsi un
+parallele entre la concurrence goıste et la concurrence altruiste (ibid.,
+e ¨
+`
+x 98) : dans la premiere, un compromis est atteint lorsque chacun se
+`
+contente de rclamer sa part dans le produit collectif, tandis
+e
+e
+e ¨
+qu’ultrieurement une conciliation entre goısme et altruisme est
+atteinte lorsque chacun insiste pour que les autres prennent leur part
+du produit commun. Dans la concurrence altruiste le compromis est
+atteint lorsque chacun ne prend que sa part de satisfactions altruistes,
+rares et tres prises ; la conciliation entre cet altruisme goıste et
+e
+e ¨
+`
+l’altruisme est atteinte lorsque chacun fait en sorte que les autres aient
+39
+
+philippe steiner
+leur part des opportunits d’actions altruistes. These audacieuse qui
+e
+`
+fait de l’altruisme un bien rare, susceptible de ce fait d’entrer a l’instar
+`
+de toute autre ressource rare dans un processus concurrentiel.
+11. Altruisme et formes de solidarit
+e
+Redevable de ces auteurs qu’il a lus, mdits et comments3, la
+e e
+e
+question de l’altruisme n’tait donc pas une nouveaut lorsque
+e
+e
+Durkheim monte sur la scene intellectuelle parisienne au moment
+`
+de soutenir sa these de doctorat (Fournier 2007, chap. 6). Il va
+`
+cependant modiﬁer en profondeur la maniere d’inscrire cette question
+`
+dans la sociologie. Mais cela ne se fait pas d’un seul coup et il faut
+suivre le ﬁl de ses publications et de ses enseignements au cours des
+annes 1890 pour voir comment il procede.
+e
+`
+`se
+1. L’altruisme dans la the de 1893
+Il y a peu d’occurrences du terme d’altruisme dans De la division du
+travail social – sans prtendre en avoir fait un comptage exhaustif, il y
+e
+en a moins d’une dizaine. Il n’y a pas meme un balancement
+ˆ
+systmatique entre goısme et altruisme, ainsi qu’on le voit dans les
+e
+e ¨
+pages denses de la conclusion de l’ouvrage lorsque l’goısme est tour a
+e ¨
+`
+tour oppos a la moralit et a la solidarit (Durkheim 1893, pp. 448,
+e `
+e
+e
+`
+ee
+452)4, a la pression de la socit (ibid., p. 450), ou encore a la morale
+`
+`
+professionnelle (ibid., p. 452). Des cette priode, la puissance manant
+e
+e
+`
+des groupes est prsente comme la force qui sert de frein a l’goısme
+e
+e
+` e ¨
+individuel5.
+`
+A ce stade, l’essentiel de la rﬂexion de Durkheim tient dans les
+e
+quelques pages qui concluent le chapitre six sur les progres de la
+`
+solidarit organique (ibid., pp. 214-217). Il y prend pour cible
+e
+l’argumentaire de Spencer qu’il a lu dans La morale evolutionniste,
+
+traduction francaise des Data of Ethics. Durkheim s’oppose a l’ide
+¸
+e
+`
+selon laquelle l’altruisme est une forme suprieure de moralit au
+e
+e
+3
+Comte (Heilbron 1993 ; Petit 1995) et
+Spencer (Borlandi 1993) sont abondamment comments dans De la division du
+e
+travail social, c’est aussi le cas de SaintSimon auquel presque la moiti du cours
+e
+sur le socialisme est consacr (Durkheim
+e
+[1895] 1971).
+4
+Dans le corps du texte, c’est parfois la
+
+40
+
+sociabilit qui ﬁgure a titre de principe
+e
+`
+modrateur (ibid., p. 129).
+e
+5
+« La seule puissance qui puisse servir de
+modrateur a l’goısme individuel est celle
+e
+` e ¨
+du groupe, la seule qui puisse servir de
+modrateur a l’goısme des groupes est celle
+e
+` e ¨
+d’un autre groupe qui les embrasse » (ibid.,
+p. 45).
+
+sentiments moraux ; durkheim
+sens ou il serait une forme nouvelle de moralit qui se surajouterait a
+e
+`
+`
+la moralit plus goıste des premiers temps de l’humanit. Comme
+e
+e ¨
+e
+l’indique le passage plac en exergue de ce texte, Durkheim tablit
+e
+e
+un lien troit entre vie sociale et altruisme et, mettant a proﬁt le
+e
+`
+concept de solidarit mcanique, il renverse la perspective de
+e
+e
+Spencer. Rejetant l’ide selon laquelle la socit rsulte de la runion
+e
+ee e
+e
+d’individus, afﬁrmant que l’individu est form par la socit, qu’il
+e
+ee
+´
+rsulte de celle-ci et de l’action de l’Etat, Durkheim explique
+e
+que la conscience collective est bien plus tendue dans les socits
+e
+ee
+primitives que dans les socits modernes et donc que la part propreee
+ment personnelle dans les reprsentations y est bien plus faible,
+e
+il en conclut que l’altruisme occupe presque toute la conduite
+individuelle :
+Scientiﬁquement, une conduite est goıste dans la mesure ou elle est dtermine
+e ¨
+e
+e
+`
+par des sentiments et des reprsentations qui nous sont exclusivement persone
+nels. Si donc nous nous rappelons a quel point, dans les socits infrieures, la
+ee
+e
+`
+conscience de l’individu est envahie par la conscience collective, nous serons
+meme tent de croire qu’elle est tout entiere autre chose que soi, qu’elle est tout
+ˆ
+e
+`
+altruiste, comme dit Condillac. (Ibid., pp. 215-216)
+
+Bien sur, il existe une limite a cette suprmatie du groupe sur
+e
+ˆ
+`
+l’individu puisque les reprsentations lies au corps font qu’il y
+e
+e
+`
+a place pour l’goısme dans les socits primitives. A l’inverse, il
+e ¨
+ee
+serait faux de croire que l’goısme s’est tendu dans la socit
+e ¨
+e
+ee
+moderne car si la place accorde aux reprsentations personnelles
+e
+e
+s’est accrue avec l’individualisation, l’largissement du domaine des
+e
+reprsentations collectives s’est largi ce qui empeche de tirer trop
+e
+e
+ˆ
+vite des conclusions sur ce point. Bref, la critique de la these de
+`
+Spencer domine une rﬂexion qui reste ancre sur l’afﬁrmation selon
+e
+e
+laquelle :
+L’altruisme n’est pas destin a devenir, comme le veut M. Spencer, une sorte
+e `
+d’ornement agrable de notre vie sociale ; mais c’en sera toujours la base
+e
+fondamentale. Comment en effet pourrions-nous jamais nous en passer ? Les
+hommes ne peuvent vivre ensemble sans s’entendre et, par consquent, sans se
+e
+faire des sacriﬁces mutuels, sans se lier les uns aux autres d’une maniere forte et
+`
+durable. (Ibid., p. 249)
+
+2. Deux enseignements dcisifs : le socialisme et la sociologie politique
+e
+Nanmoins, la these de Durkheim est grosse de dveloppements a
+e
+e
+`
+`
+venir. Ces derniers ne tardent pas a prendre corps comme on peut le
+`
+constater dans deux sries d’enseignement qui prennent place dans les
+e
+41
+
+philippe steiner
+annes 1895-1900 (Lukes 1973, pp. 617-620 ; Fournier 2007, pp. 124e
+125) avec le cours sur le socialisme tout d’abord (Durkheim [1895]
+1971), le cours sur la Physique gnrale des mœurs et du droit ensuite
+e e
+(Durkheim [1898-1900] 1950). Ce dernier tant le plus gnral, c’est
+e
+e e
+par lui qu’il convient de commencer.
+Dans le cours sur la Physique des mœurs Durkheim aborde trois
+´
+domaines : les groupements professionnels, l’Etat et le droit (proprit
+ee
+et contrat). C’est dans la premiere partie que se trouvent les
+`
+considrations sur l’altruisme, mais il faut, a la suite de ce qu’il a fait
+e
+`
+´
+dans sa these, examiner aussi brievement son approche de l’Etat de
+`
+`
+maniere a distinguer l’goısme et l’individualisme, ce que Durkheim
+e ¨
+` `
+prend grand soin de faire dans son important article sur l’affaire
+Dreyfus lorsqu’il critique avec force le point de vue qui confond
+individualisme et goısme6.
+e ¨
+Dans la partie consacre aux groupements professionnels,
+e
+Durkheim dveloppe l’ide selon laquelle l’activit conomique dans
+e
+e
+ee
+les socits modernes n’est pas assez rgule ; en effet, selon les
+ee
+e e
+prceptes du libralisme conomique, il convient : « [. . .] de laisser, les
+e
+e
+e
+initiatives individuelles, les goısmes particuliers se stimuler et
+e ¨
+s’enﬁvrer mutuellement au lieu de chercher a les contenir et a les
+e
+`
+`
+modrer » (Durkheim [1898-1900] 1950, p. 54). Par consquent, les
+e
+e
+intrets ne rencontrant plus de freins, les individus se heurtent les uns
+e ˆ
+aux autres dans une guerre continuelle (ibid., p. 68). Ce point est
+dcisif et pour comprendre la position de Durkheim il est utile de
+e
+revenir a l’argument d’Albert Hirschman ([1977] 1980) et de le
+`
+complter. En tudiant les dbats sur la maniere de gouverner les
+e
+e
+e
+`
+passions, Hirschman contraste la situation dans laquelle la raison est
+charge de contenir les passions, intrets inclus, avec celle dite des
+e
+e ˆ
+« passions compensatrices » selon laquelle les passions se contiennent
+les unes les autres. Ce contraste lui permet de faire ressortir le ro
+ˆle
+particulier attribu a l’intret qui tient de la raison et des passions :
+e `
+e ˆ
+e
+c’est une passion, mais comme la raison elle dbouche sur des
+comportements rguliers et constants. Avec l’conomie politique,
+e
+e
+cette caractristique de l’intret trouve son explication en termes de
+e
+e ˆ
+concurrence (Faccarello et Steiner 2008a). La concurrence marchande
+est le dispositif social dans lequel la passion est oppose a elle-meme a
+e `
+ˆ
+`
+6
+« Pour faire plus facilement le proces de
+`
+l’individualisme, on le confond avec l’utilitarisme troit et l’goısme utilitaire de Spene
+e ¨
+cer et des conomistes. C’est se faire la partie
+e
+belle » (Durkheim [1898] 1970c, p. 262). Et
+Durkheim de rappeler l’existence du courant
+
+42
+
+issu de Kant et de Rousseau ou se dveloppe
+e
+`
+un individualisme moral fond soit sur la
+e
+gnralisation des maximes pratiques soit sur
+e e
+la fusion des volonts particulieres dans la
+e
+`
+volont gnrale.
+e e e
+
+sentiments moraux ; durkheim
+l’intrieur du groupe d’individus qui agissent pour satisfaire leurs
+e
+intrets : le prix concurrentiel permet la coordination entre des agents
+e ˆ
+dont les intrets s’opposent les uns les autres, les acheteurs voudraient
+e ˆ
+acheter moins cher, les vendeurs vendre plus cher, mais la composition
+des intrets dﬁnit un prix unique qui s’impose a tous7. C’est en ce
+e ˆ
+e
+`
+sens que le march thoris par l’conomie politique est un dispositif
+e e
+e
+e
+social dont la dimension politique est cruciale : il permet de contenir la
+passion marchande en la mettant en opposition avec elle-meme.
+ˆ
+Durkheim n’accepte pas une telle these : il ne croit pas a l’ide d’un
+e
+`
+`
+march auto-rgul au sens ou la concurrence ainsi dﬁnie ne lui
+e
+e e
+e
+`
+semble pas un mcanisme rgulateur sufﬁsant ; au contraire, il y voit
+e
+e
+un processus qui enﬁevre les intrets et les passions marchandes
+e ˆ
+`
+au point de risquer de faire perdre aux individus leurs reperes et
+`
+de dvelopper une situation d’anomie8. D’autres mobiles d’action
+e
+doivent intervenir pour contenir l’intret marchand goıste et c’est en
+e ˆ
+e ¨
+ce sens profond que sa sociologie est un contre discours au discours
+`
+politique de l’conomie politique. A ce point, il opere un dplacement
+e
+e
+`
+thorique important en afﬁrmant l’existence d’un lien etroit entre
+e
+
+groupe et morale (Durkheim [1898-1900] 1950, p. 46) et plus particulierement encore d’un lien de causalit qui fait de l’existence d’un
+e
+`
+groupe social organis la condition d’mergence d’une morale adapte a
+e
+e
+e `
+une socit ou se dveloppe la division du travail et son pluralisme
+ee `
+e
+moral :
+Cette rglementation, cette moralisation ne peuvent pas etre institues, ni par un
+e
+ˆ
+e
+´
+savant dans son cabinet, ni par un homme d’Etat ; elles ne peuvent etre l’œuvre
+ˆ
+que des groupes intresss. C’est pourquoi, puisque ces groupes n’existent pas
+e
+e
+actuellement, il n’est rien de plus urgent que de les appeler a l’existence. (Ibid., p. 69)
+`
+7
+Ce point est tres clairement explicit par
+e
+`
+Lon Walras lorsqu’il dﬁnit le prix comme
+e
+e
+fait naturel (fait social aurait dit Durkheim) :
+« le bl vaut 24 F l’hectolitre. Remarquons
+e
+d’abord que ce fait a le caractere d’un fait
+`
+naturel. Cette valeur du bl en argent ou ce
+e
+prix du bl, ne rsulte ni de la volont du
+e
+e
+e
+vendeur, ni de la volont de l’acheteur, ni
+e
+d’un accord de volont entre les deux. Le
+e
+vendeur voudrait bien vendre plus cher, il ne
+le peut parce que le bl ne vaut pas plus, et
+e
+que, s’il ne voulait vendre a ce prix, l’ache`
+teur trouverait a cot de lui un certain
+` ˆ e
+nombre de vendeurs prets a le faire. L’acheˆ `
+teur ne demanderait pas mieux que d’acheter
+a meilleur march, cela lui est impossible,
+e
+`
+parce que le bl ne vaut pas moins, et que s’il
+e
+ne voulait acheter a ce prix, le vendeur
+`
+trouverait a cot de lui un certain nombre
+` ˆ e
+
+d’acheteurs disposs a y consentir » (Walras
+e `
+[1900] 1988, x 28).
+8
+C’est la these qui est au cœur de la
+`
+prface rdige a l’occasion de la deuxieme
+e
+e e `
+`
+dition de De la division du travail social,
+e
+prface dans laquelle Durkheim prend acte
+e
+du fait qu’il ne terminera pas le travail
+entrepris sur les groupements professionnels :
+« Nous insistons a plusieurs reprises dans le
+`
+cours de ce livre sur l’tat d’anomie juridique
+e
+et morale ou se trouve actuellement la vie
+`
+conomique. Dans cet ordre de fonctions, en
+e
+effet, la morale professionnelle n’existe
+vritablement qu’a l’tat rudimentaire [. . .]
+e
+` e
+Il en rsulte que toute cette sphere de la vie
+e
+`
+collective est, en grande partie, soustraite a
+`
+l’action modratrice de la regle » (Durkheim
+e
+`
+1902, p. iii).
+
+43
+
+philippe steiner
+Pour contenir les effets individuels et sociaux de l’goısme
+e ¨
+conomique, il faut passer par l’institution et l’organisation de groue
+pements professionnels, seule force a meme d’engendrer une discipline
+` ˆ
+capable de moraliser la vie publique.
+Si dans les occupations [professionnelles] qui remplissent presque tout notre
+temps, nous ne suivons d’autre regle que celle de notre intret bien entendu,
+e ˆ
+`
+comment prendrons-nous gout au dsintressement, a l’oubli de soi, au sacriﬁce ?
+e
+e
+ˆ
+`
+Voila comment le dchaınement des intrets conomiques a t accompagn d’un
+e ˆ
+e ˆ e
+ee
+e
+`
+abaissement de la morale publique. (Ibid., p. 51)
+
+Il faut preter attention au fait que Durkheim parle de la morale
+ˆ
+publique, ce qui va bien au-dela de la morale propre a l’activit
+e
+`
+`
+conomique. C’est qu’il a en vue une ide de vaste ampleur puisque les
+e
+e
+groupements professionnels chargs de mettre en place la rglementation
+e
+e
+de la vie conomique entrent de plain-pied dans le cadre de sa conception
+e
+de la vie politique dans une socit dmocratique. En effet, Durkheim
+ee e
+n’entretient aucune naıvet a propos des groupements professionnels et il
+¨ e`
+est conscient du discrdit dans lequel cette institution est tombe en
+e
+e
+France depuis la Rvolution francaise. Aussi souleve-t-il la question de
+e
+¸
+`
+savoir si la mise en place de cette institution et de cette organisation peut
+etre autre chose que le fait de « [. . .] substituer simplement a l’goısme
+ˆ
+` e ¨
+individuel l’goısme corporatif » (ibid., p. 58). Cela ouvre un vaste champ
+e ¨
+que Durkheim n’a que tres partiellement explor puisqu’il a laiss sa
+e
+e
+`
+sociologie politique dans un tat rudimentaire de dveloppement.
+e
+e
+´
+Nanmoins, dans ce cours, Durkheim fait de l’Etat le vecteur de
+e
+´
+l’individualisme et non son adversaire comme le clame Spencer. L’Etat
+y parvient en contenant cet goısme collectif multiforme qui s’exerce sous
+e ¨
+e
+l’Ancien rgime9 ; cela suppose que soient runies des conditions
+e
+´
+sociales particulieres empechant que l’Etat ne devienne despotique.
+ˆ
+`
+C’est a ce point que les groupements professionnels interviennent et
+`
+prennent une dimension politique qui dpasse la simple dimension
+e
+conomique :
+e
+Mais la conclusion qui se dgage de cette remarque, c’est simplement que la
+e
+´
+force collective qu’est l’Etat, pour etre libratrice de l’individu, a besoin elleˆ
+e
+meme de contrepoids ; elle doit etre contenue par d’autres forces collectives, a
+ˆ
+ˆ
+`
+savoir par ces groupes secondaires. (Ibid., pp. 98-99)
+
+Les groupements auxquels pense Durkheim joueraient le role de
+ˆ
+´
+contre-forces a la force sociale que reprsente l’Etat ce qui viterait
+e
+e
+`
+9
+« Le seul moyen de prvenir ce partie
+cularisme collectif et les consquences qu’il
+e
+implique pour l’individu, c’est qu’un organe
+spcial ait pour charge de reprsenter aupres
+e
+e
+`
+
+44
+
+de ces collectivits particulieres la collectivit
+e
+e
+`
+totale, ses droits et ses intrets. Et ces droits
+e ˆ
+et ces intrets se confondent avec ceux de
+e ˆ
+l’individu » (ibid., p. 98).
+
+sentiments moraux ; durkheim
+d’un cot l’closion de l’goısme collectif du groupement professionˆ e e
+e ¨
+´
+nel et le caractere despotique de l’Etat. Le rpublicanisme de
+e
+`
+Durkheim renoue de ce point de vue avec le principe de l’quilibre
+e
+social fond sur l’opposition de forces constitues et constitutives de la
+e
+e
+vie politique thoris par Machiavel dans sa lecture de Tite-Live, tout
+e
+e
+en lui donnant d’une maniere inﬂexible la libert individuelle comme
+e
+`
+objectif : « Et c’est de ce conﬂit de forces sociales que naissent les
+liberts individuelles » (ibid., p. 99)10.
+e
+Ces dveloppements irriguent galement la rﬂexion du cours que
+e
+e
+e
+Durkheim consacre au socialisme, cours a l’occasion duquel il tudie
+e
+`
+et prsente en dtail la pense de Saint-Simon et des saint-simoniens.
+e
+e
+e
+Durkheim en retrace avec nettet l’volution et il ne manque pas de
+e e
+percevoir le glissement dans la pense de Saint-Simon dont il a t
+e
+ee
+question dans la premiere partie de cet article. Important pour suivre
+`
+le ﬁl des ides sociologiques en France au xixe siecle, ce cours apporte
+e
+`
+sa contribution a la dimension politique de la pense de Durkheim, de
+e
+`
+meme qu’il met sur la piste de son basculement vers la religion comme
+ˆ
+forme de rgulation sociale, basculement qui n’est pas encore cone
+somm. On en veut pour preuve les phrases qui se trouvent dans la
+e
+page de conclusion et qui noncent un programme dont la dimension
+e
+politique est explicite :
+Le probleme doit donc se poser ainsi : chercher par la science quels sont les
+`
+freins moraux qui peuvent rglementer la vie conomique, et, par cette
+e
+e
+rglementation, contenir les goısmes, et par consquent permettre de satisfaire
+e
+e ¨
+e
+les besoins. (Durkheim [1895] 1971, p. 267)
+
+En ne faisant pas conﬁance au mcanisme concurrentiel pour
+e
+modrer les intrets goıstes en mettant ces derniers aux prises les
+e
+e ˆ e ¨
+uns avec les autres, Durkheim est conduit a reprendre le discours plus
+`
+classique de la morale comme seul frein aux passions goıstes : ce n’est
+e ¨
+pas la marque d’un soi-disant conservatisme social, mais celle d’une
+prise de position politique. Conscient qu’il n’est pas possible de s’en
+remettre aux solutions du pass Durkheim va rﬂchir aux conditions
+e
+e e
+de cration d’une morale renouvele et adapte au monde moderne, et
+e
+e
+e
+pour ce faire, il va s’avancer dans la recherche empirique.
+
+10
+Cet aspect majeur qui empeche de voir
+ˆ
+en Durkheim un penseur conservateur voire
+ractionnaire a l’occasion de sa dfense des
+e
+e
+`
+groupements professionnels a fait l’objet
+d’une longue prsentation (Spitz 2005, chap. 5
+e
+
+et 6). Curieusement, la dimension conﬂictuelle du rpublicanisme durkheimien a t
+e
+ee
+passe sous silence au proﬁt d’une seconde
+e
+dimension, plus saillante, qui est celle de la
+justice sociale.
+
+45
+
+philippe steiner
+3. L’altruisme au cœur de la recherche empirique
+Dans cette meme priode, Durkheim rdige puis fait paraıtre son
+ˆ
+e
+e
+ˆ
+ouvrage sur le suicide. Pour ce qui nous concerne, cet ouvrage est
+important moins par le fait que deux des quatre types de suicides
+(goıste/altruiste, anomique/fataliste) que distingue Durkheim mete ¨
+tent en pleine lumiere l’importance donne a l’opposition entre
+e `
+`
+l’goısme et l’altruisme que par le fait que dsormais le theme de
+e ¨
+e
+`
+l’altruisme entre de plain-pied dans la recherche empirique. Cette
+opration que l’on peut considrer comme fondamentale dans le mouvee
+e
+ment qui voit l’inscription de la sociologie dans le cadre universitaire
+francais est troitement lie aux apports qui se trouvent dans les cours
+¸
+e
+e
+dont on vient de parler. D’ailleurs, pour les lecteurs de la priode, c’est
+e
+dans les conclusions de cet ouvrage que les theses durkheimiennes sur le
+`
+role des groupements professionnels sont connues.
+ˆ
+Durkheim procede d’une maniere assez proche de ce qu’il avait
+`
+`
+dja fait dans sa these lorsqu’il s’agissait de montrer le passage de la
+e`
+`
+solidarit mcanique a la solidarit organique en s’appuyant sur les
+e e
+e
+`
+codes juridiques. Il conceptualise le probleme grace a la thorie de la
+ˆ `
+e
+`
+socialisation (intgration et rgulation sociale), ce qui revient a faire du
+e
+e
+`
+taux de suicide un indicateur de la socialisation, puis il rapporte cet
+´
+indicateur de socialisation a diffrents groupes sociaux (Etat-nation,
+e
+`
+religion, profession, famille), calcule des coefﬁcients de prservation
+e
+(inversement : d’aggravation) du suicide, les compare et, ainsi, fournit
+`gles de la mthode sociologique.
+e
+une explication selon les canons des Re
+Muni des rsultats obtenus par cette imposante dmarche, le socioe
+e
+logue peut revenir aux questions politiques qui l’intressent.
+e
+L’goısme y est dﬁni comme un individualisme exacerb ou
+e ¨
+e
+e
+excessif11 – Durkheim n’est d’ailleurs pas tres rigoureux sur ce point
+`
+en dsignant parfois indiffrent l’goısme et l’individualisme comme
+e
+e
+e ¨
+cause du suicide (Durkheim [1897] 1976, pp. 224, 230). Le terme de
+suicide altruiste est ensuite retenu pour marquer au niveau du fait
+social le balancement classique qui est attribu au comportement
+e
+e
+e
+individuel12. Puis, une fois justiﬁ le lien entre l’intgration trop faible
+11
+« Si donc on convient d’appeler goısme
+e ¨
+cet tat ou le moi individuel s’afﬁrme avec
+e
+`
+exces en face du moi social et aux dpens de
+e
+`
+ce dernier, nous pourrons donner le nom
+d’goıste au type particulier de suicide qui
+e ¨
+rsulte d’une individuation dmesure »
+e
+e
+e
+(Durkheim [1897] 1976, p. 223).
+12
+« Puisque nous avons appel egoı¨sme
+e 
+l’tat ou se trouve le moi quand il vit de sa
+e
+`
+
+46
+
+vie personnelle et n’obit qu’a lui-meme, le
+e
+ˆ
+`
+mot d’altruisme exprime assez bien l’tat
+e
+contraire, celui ou le moi ne s’appartient
+`
+pas, ou il se confond avec autre chose que
+`
+lui-meme, ou le pole de sa conduite est situ
+ˆ
+ˆ
+e
+`
+en dehors de lui, a savoir dans un des groupes
+`
+dont il fait partie. C’est pourquoi nous appellerons suicide altruiste celui qui rsulte
+e
+d’un altruisme intense » (ibid., p. 238).
+
+sentiments moraux ; durkheim
+(forte) et le suicide goıste (altruiste) dans le cadre des groupes
+e ¨
+politiques, religieux et familiaux, Durkheim aboutit a un premier
+`
+rsultat d’envergure avec la mise en vidence d’une relation en U, non
+e
+e
+linaire, entre intgration et suicide lorsqu’il voque le fait que le role
+e
+e
+e
+ˆ
+protecteur du traditionalisme – associ a l’esprit militaire – face a
+e `
+`
+l’individualisme excessif et son cortege de suicides (goıstes) devient a
+e ¨
+`
+`
+son tour facteur de suicide (altruiste) lorsqu’il « dpasse un certain
+e
+degr d’intensit » (ibid., p. 257). Cette relation est essentielle :
+e
+e
+Philippe Besnard a montr qu’elle avait une porte gnrale puisqu’on
+e
+e e e
+la retrouve au niveau de la rgulation sociale (Besnard 1987, pp. 90-92).
+e
+L’goısme et l’altruisme s’chappent de la dimension philosophique
+e ¨
+e
+et anthropologique que l’on trouve chez Comte et Spencer. Les deux
+mobiles ne sont plus rattachs au genre et a une sphere sociale
+e
+`
+`
+comme chez Comte (la femme et l’altruisme dans la famille, l’homme
+et l’goısme sur le march) pour qualiﬁer la structure morale et
+e ¨
+e
+relationnelle des groupes sociaux, de tailles diffrentes.
+e
+N’ayant pas perdu de vue des problemes sociaux plus vastes,
+`
+Durkheim revient sur ce que les taux de suicide et leur volution apprend
+e
+ee
+sur l’tat prsent des socits. En premier lieu, Durkheim insiste sur le
+e
+e
+fait que c’est le suicide goıste qui fournit les plus gros contingent de
+e ¨
+morts volontaires dans les pays europens (Durkheim [1897] 1976,
+e
+pp. 406, 409) et non les suicides anomiques qui sont, eux, explicitement
+renvoys a l’activit conomique et industrielle (ibid., p. 409). Cette
+e `
+e e
+remarque est plus qu’une incidente, car elle signiﬁe que Durkheim ne
+place pas la drgulation dont souffre le monde conomique au premier
+e e
+e
+rang des problemes sociaux comme Saint-Simon et les saint-simoniens
+`
+ont t amens a la faire. Ces problemes sont des problemes importants,
+ee
+e `
+`
+`
+mais ils ne sont pas ceux qui dominent la situation. Bref, l’goısme n’est
+e ¨
+ni seulement ni principalement un phnomene conomique13. En
+e
+e
+`
+ˆme e
+`ne `
+deuxieme lieu, Durkheim met dsormais un me phnome a l’origine
+e
+`
+de l’goı¨sme et de l’altruisme. Avec la socit moderne se dveloppe
+e
+ee
+e
+´
+l’individualisme, notamment par le truchement de l’Etat. Ce raisonnement avait t tenu aux auditeurs de ses enseignements, mais Durkheim
+ee
+va dsormais plus loin en considrant que l’altruisme et l’goısme sont
+e
+e
+e ¨
+explicables par la meme raison. En effet, le culte de l’individu selon
+ˆ
+13
+Cette conclusion est cohrente avec la
+e
+rorientation des recherches de Durkheim,
+e
+tel qu’il s’en explique dans la prface a la
+e
+`
+deuxieme dition de sa these. L’goısme et
+e
+e ¨
+`
+`
+l’anomie du monde conomique peuvent etre
+e
+ˆ
+modrs grace aux groupements professione e
+ˆ
+nels, mais cela n’empeche pas Durkheim de
+ˆ
+
+dlaisser ces questions pour d’autres qui lui
+e
+paraissent plus profondes : comment se forment les religions et les idaux moraux a la
+e
+`
+base du travail que les socits font sur ellesee
+memes pour engendrer les ressources moˆ
+rales qui leur permettent de se dvelopper.
+e
+
+47
+
+philippe steiner
+lequel « l’homme est un Dieu pour l’homme » (ibid., p. 416) devient la
+composante essentielle de la conscience collective dans une socit a
+ee `
+solidarit organique et ce culte engendre l’individualisme ainsi que
+e
+l’altruisme des modernes. Les reprsentations collectives qui donnent
+e
+force a ce culte « [. . .] expriment la maniere dont l’opinion apprcie la
+e
+`
+`
+valeur morale de l’individu en gnral. S’il compte pour beaucoup dans
+e e
+l’estime publique nous appliquons ce jugement social aux autres en
+meme temps qu’a nous-memes ; leur personne, comme la notre, prend
+ˆ
+ˆ
+ˆ
+`
+plus de prix a nos yeux et nous devenons plus sensibles a ce qui touche
+`
+`
+individuellement chacun d’eux comme a ce qui nous touche en
+`
+particulier » (ibid., p. 411). Aussi, bien loin de vouloir chercher a
+`
+comprendre comment l’goısme, suppos premier par Spencer, a pu
+e ¨
+e
+donner naissance a l’altruisme, Durkheim explique qu’ils rsultent tous
+e
+`
+deux du culte de l’individu (ibid.). En lieu et place de la vision
+anthropologique de Comte et de Spencer, Durkheim voit donc
+l’goısme et l’altruisme rsulter d’un travail que la socit opere sur
+e ¨
+e
+ee
+`
+elle-meme. Ce sont des constructions sociales, selon la terminologie
+ˆ
+actuellement en cours14.
+Enﬁn, Durkheim envisage une solution aux difﬁcults que rencone
+trent les socits modernes au moyen des groupements professionnels
+ee
+dont il a dja t question dans les enseignements bordelais. Pour ne
+e` ee
+pas croire qu’il s’agit d’une maniere de donner a l’conomique une
+`
+` e
+primaut dont nous avons vu qu’elle lui avait t retire quelques
+e
+ee
+e
+pages plus haut, il faut preter attention au fait que Durkheim voit dans
+ˆ
+´
+cette nouvelle forme de groupe social le moyen d’agir la ou ni l’Etat, ni
+` `
+la religion, ni la famille ne peuvent intervenir. L’activit laborieuse
+e
+occupe un temps considrable dans la vie de l’individu et ce temps est
+e
+laiss en dehors de toute socialisation labore. Les groupements
+e
+e
+e
+professionnels offrent donc la possibilit de fournir une meilleure
+e
+intgration sociale sur ce point et, donc, de diminuer l’goısme qui
+e
+e ¨
+engendre les suicides du meme nom. Du meme coup, ces groupes
+ˆ
+ˆ
+pourront contribuer a diminuer les suicides anomiques propres au
+`
+14
+Cette afﬁrmation ne s’oppose pas a la
+`
+these durkheimienne de l’homo duplex.
+`
+L’goısme est certes renvoy aux apptits
+e ¨
+e
+e
+sensibles et a leur satisfaction matrielle,
+e
+`
+choses qui ne relevent pas d’une construction
+`
+sociale, mais l’goısme ne se limite pas a ces
+e ¨
+`
+apptits sensibles, aussi Durkheim indique-te
+il qu’il entre du social dans l’goısme : « Nous
+e ¨
+croyons meme que les inclinations qui nous
+ˆ
+rattachent a un objet d’autre genre, quelque
+`
+role qu’y joue le mobile goıste, impliquent
+ˆ
+e ¨
+
+48
+
+ncessairement un mouvement d’expansion
+e
+hors de nous qui dpasse le pur goısme.
+e
+e ¨
+C’est le cas, par exemple, de l’amour de la
+gloire, du pouvoir, etc. » (Durkheim [1914a]
+1970a, p. 317). Cette afﬁrmation est aussi en
+phase avec la confrence, prononce la meme
+e
+e
+ˆ
+anne, sur l’avenir de la religion puisque
+e
+Durkheim fait de la religion le produit de la
+vie sociale et des idaux adapts a l’tat de
+e
+e ` e
+celle-ci (Durkheim [1914b] 1970b, p. 312).
+
+sentiments moraux ; durkheim
+domaine conomique en faisant leur œuvre rgulatrice, c’est-a-dire en
+e
+e
+`
+donnant « [. . .] cette loi de justice distributive, si urgente [. . .] » (ibid.,
+p. 440) pour le monde conomique.
+e
+Comme Saint-Simon en sa derniere priode, Durkheim considere
+e
+`
+`
+que le probleme essentiel est celui de la misere morale, bien plus que
+`
+`
+celui de la misere conomique. Sur ce point, il n’a pas chang : a
+e `
+` e
+l’instar de ce qu’il crivait dans la derniere page de sa these (Durkheim
+e
+`
+`
+1893, p. 460), il peut toujours afﬁrmer que la tache urgente est de se
+ˆ
+faire une morale, meme si, dsormais, c’est l’tude du phnomene
+ˆ
+e
+e
+e
+`
+religieux qui doit en donner la cl.
+e
+4. Imbrication de l’altruisme et de l’goı¨sme
+e
+`
+A l’occasion de son cours sur l’ducation morale Durkheim revient
+e
+sur ce qui fait le lien de l’individu au groupe, ce qui fait la moralit et
+e
+dveloppe sa rponse dans le triptyque discipline – attachement au
+e
+e
+groupe – autonomie de la volont. Comme a l’accoutume, mais avec
+e
+e
+`
+encore plus de force, Durkheim nie la dimension morale de l’acte
+goıste, c’est-a-dire des actes tourns vers soi-meme, considrant que
+e ¨
+e
+ˆ
+e
+`
+cet acte n’est rien d’autre qu’une donne fondamentale du maintien de
+e
+l’existence et qu’a ce titre il n’a aucune valeur thique (Durkheim
+e
+`
+e
+e
+[1902-1903] 1963, pp. 48-50)15. Dﬁni comme un acte tourn vers
+autrui, ou encore un acte a ﬁns impersonnelles, l’altruisme est par
+`
+contre le lieu de la moralit et c’est d’ailleurs sous le registre de
+e
+« l’attachement au groupe », donc de l’acte tourn vers autrui, que
+e
+Durkheim traite de l’altruisme des enfants. L’intret de sa
+e ˆ
+prsentation tient au fait qu’il lui donne l’occasion de revenir sur le
+e
+couple form par l’goısme et l’altruisme d’une maniere originale.
+e
+e ¨
+`
+Dans un premier temps, Durkheim rcuse l’association stricte qui
+e
+est faite entre goısme et plaisir personnel d’un cot, altruisme et
+e ¨
+ˆ e
+plaisir d’autrui de l’autre. Par exemple, en se consacrant a la science, le
+`
+savant ne sait en aucune maniere quel plaisir en rsultera pour
+e
+`
+l’humanit ; a l’inverse, l’goıste peut s’inﬂiger de la souffrance
+e
+e ¨
+`
+comme c’est le cas de l’avare qui s’impose des privations pour amasser
+de l’or (ibid., pp. 176-177). En outre, comme cela est bien connu,
+15
+Durkheim n’utilise pas la distinction
+entre amour de soi et amour-propre qu’il
+a cependant rencontre lors de sa lecture de
+e
+Rousseau. L’usage de cette distinction aurait
+pu lui permettre de clariﬁer l’expression de sa
+pense. L’apptit sensible (la faim, la soif,
+e
+e
+
+etc.) est tourn vers la satisfaction de l’intret
+e
+e ˆ
+personnel mais n’est pas pour autant goıste
+e ¨
+au sens d’un amour de soi dmesur et outr
+e
+e
+e
+qu’est l’amour-propre. De ce fait, Durkheim
+est parfois amen a employer le terme
+e `
+d’goısme dans deux sens diffrents.
+e ¨
+e
+
+49
+
+philippe steiner
+Durkheim sait que l’altruiste tire un plaisir personnel du plaisir qu’il
+procure a autrui. Bref, si on les examine en termes de plaisir et de
+`
+peine, l’altruisme et l’goısme sont troitement imbriqus (ibid.,
+e ¨
+e
+e
+pp. 181-183) et c’est la raison pour laquelle il a prfr dﬁnir les deux
+ee e e
+concepts selon le rapport a soi ou a autrui, l’intre ou le dsintre
+e ˆt
+e e ˆt.
+`
+`
+Cette redﬁnition n’est cependant pas le point d’arret de sa rﬂexion
+e
+ˆ
+e
+puisque dans un second temps Durkheim marque la part du soi dans
+l’altruisme et la part du social dans l’goısme. Quant au premier, il
+e ¨
+explique que l’altruiste doit se reprsenter en lui-meme et faire siens
+e
+ˆ
+les sentiments se rapportant a autrui pour agir ; cette appropriation est
+`
+dja la marque du soi dans l’action tourne vers l’extrieur (ibid.,
+e`
+e
+e
+p. 181). Quant au second, il explique que les objets (or, pouvoir, les
+honneurs) vers lesquels l’goıste fait tourner son action sont choses
+e ¨
+sociales qui rsident en dehors de l’individu lui-meme. Pour le dire
+e
+ˆ
+autrement, Durkheim fait valoir ici la consquence qui dcoule de sa
+e
+e
+these concernant le processus social de production de l’individu : ce
+`
+´
+e
+dernier tant un produit de l’Etat et de la socit, et les reprsentations
+e
+ee
+que l’on s’en fait tant dsormais marques par le culte de l’individu,
+e
+e
+e
+on a vu plus haut que Durkheim en concluait a une origine commune a
+`
+`
+l’altruisme et a l’goısme. Dans cet enseignement, il pousse son
+` e ¨
+argument a son terme en montrant que les deux penchants sont
+`
+troitement lis l’un a l’autre dans l’etre humain. Il paracheve ainsi le
+e
+e
+ˆ
+`
+`
+travail du sociologue dont la recherche aboutit a « [. . .] atteindre
+`
+ﬁnalement l’individu, l’lment dernier dont les groupes sont
+ee
+composs » (Durkheim [1914a] 1970a, p. 315).
+e
+
+111. Suicide, don et solidarit
+e
+Comment la problmatique labore par Durkheim autour de
+e
+e
+e
+l’goısme et de l’altruisme prend place dans l’agenda de l’quipe
+e ¨
+e
+durkheimienne ? Pour aborder cette question, il peut etre utile de
+ˆ
+considrer la facon dont Clestin Bougl la considere puisqu’il est
+e
+¸
+e
+e
+`
+celui qui consacre un effort soutenu a la sociologie gnrale dans
+e e
+`
+l’quipe durkheimienne (Borlandi 1998), rubrique dont on peut
+e
+penser qu’elle est la plus proche du questionnement, lui-meme tres
+ˆ
+`
+e e
+e
+e ˆ
+gnral, de Durkheim. Or, Bougl ne marque pas d’intret particulier
+pour la thmatique de l’altruisme et de l’goısme : celle-ci n’est pas
+e
+e ¨
+prsente dans son tude sur les ides galitaires (Bougl [1899] 1925),
+e
+e
+e e
+e
+elle ne l’est pas non plus dans ses enseignements sur les valeurs
+50
+
+sentiments moraux ; durkheim
+(Bougl 1922) ou encore dans sa synthese sur le socialisme (Bougl
+e
+e
+`
+1932). Toutefois, il faut preter attention au fait que Bougl s’accorde
+ˆ
+e
+avec Durkheim quant a l’importance a donner a la notion d’indivi`
+`
+`
+dualisme et a ses bases sociologiques. En effet, sa prsentation du
+e
+`
+phnomene galitaire montre qu’il suit une voie proche de celle que
+e
+` e
+Durkheim vient juste de mettre en place dans sa rponse a Ferdinand
+e
+`
+ˆ
+e
+Brunetiere16. De meme, on peut trouver dans un chapitre intitul
+`
+« Valeurs conomiques et valeurs idales » (Bougl 1922, pp. 103-111)
+e
+e
+e
+des rﬂexions sur l’imbrication de l’intret personnel et des idaux,
+e
+e ˆ
+e
+identiques a celles de Durkheim sur l’imbrication entre altruisme et
+`
+goısme. Mais cette terminologie n’est pas dploye par Bougl17.
+e ¨
+e
+e
+e
+Si l’on considere les ractions au Suicide, il semble que la encore la
+e
+`
+`
+problmatique de Durkheim a t laisse en dshrence. Dans son
+e
+ee
+e
+e e
+compte rendu de l’ouvrage, que Durkheim avait apprci comme
+e e
+l’atteste sa correspondance avec Mauss (Durkheim 1998, p. 81),
+Francois Simiand (1898) n’attache pas grande importance aux
+¸
+dnominations retenues par Durkheim, qu’il voque comme en
+e
+e
+passant, et, chose plus surprenante, le theme de l’altruisme est absent
+`
+de son immense travail de sociologue conomiste. La dmarche de
+e
+e
+Durkheim ne dbouche ici sur rien. Une conclusion un peu moins
+e
+tranche ressort de l’examen du travail de Maurice Halbwachs (1930).
+e
+Non seulement Halbwachs ne retient pas la distinction entre les
+suicides goıstes et les suicides altruistes, mais il critique vigoureusee ¨
+ment cette derniere catgorie dans laquelle il repere une difﬁcult
+e
+e
+`
+`
+´
+puisque Durkheim y a confondu suicide et sacriﬁce18. Eliminant ce
+16
+En effet, Bougl associe troitement les
+e
+e
+ides galitaires a l’individualisme, c’est-ae e
+`
+`
+dire a la valeur accorde a la personne
+e `
+`
+humaine : « On ne saurait les [les individus]
+galiser sans tenir compte de ce fait que ce
+e
+sont des personnes, c’est-a-dire des centres
+`
+d’activit indpendants et originaux. Et c’est
+e
+e
+justement le sentiment de la valeur propre a
+`
+la personne qui interdit de parquer les personnes en des groupes d’ingale valeur [. . .]
+e
+Le respect du genre humain ruine celui de la
+caste, mais non celui de la personnalit.
+e
+L’individualisme est, en ce sens, une piece
+`
+maıtresse de l’galitarisme. L’ide de la vaˆ
+e
+e
+leur commune aux hommes n’carte nullee
+ment, mais appelle, au contraire, l’ide de la
+e
+valeur propre a l’individu » (Bougl [1899]
+e
+`
+1925, p. 25).
+17
+Elle ne l’est pas non plus dans l’ouvrage
+de Lon Bourgeois fondateur de la doctrine
+e
+
+du solidarisme (Bourgeois [1896] 1998).
+Bien que faisant cho a la doctrine de Comte,
+e
+`
+Bourgeois ne prend pas le theme de
+`
+l’altruisme.
+18
+Halbwachs est soucieux de distinguer
+les deux en fonction de la forme sociale par
+laquelle la mort advient : le rituel dans le cas
+du sacriﬁce, l’acte priv dans celui du suicide :
+e
+« Il y a des suicides exemplaires et il y a une
+publicit du suicide. Il ne s’ensuit pas cee
+pendant que la mort volontaire soit un acte
+rituel. Le rite, c’est la forme que prend une
+volont collective lorsqu’il est ncessaire,
+e
+e
+pour qu’elle parvienne a ses ﬁns, qu’elle se
+`
+manifeste explicitement, qu’elle devienne
+visible et sensible, de facon a crer chez les
+¸
+` e
+assistants et les participants une communaut
+e
+de sentiment, et une dcision unanime »
+e
+(Halbwachs 1930, p. 476).
+
+51
+
+philippe steiner
+qui ressortit du sacriﬁce dans le suicide altruiste, Halbwachs (1930,
+p. 479) vide en grande partie cette catgorie de sa dimension altruiste.
+e
+Toutefois cette impression change du tout au tout lorsqu’on
+considere le travail de Mauss. Avec Mauss, on prend fermement pied
+`
+dans le deuxieme programme durkheimien (Steiner 2001, 2005, chap. 5),
+`
+celui dans lequel Durkheim dlaisse la sociologie conomique qui lui
+e
+e
+servait d’appui pour dvelopper sa sociologie gnrale pour mettre
+e
+e e
+au premier plan la sociologie religieuse, laquelle lui permet de
+renouveler profondment son approche du fait conomique. Or,
+e
+e
+c’est sur ce terrain que se place Mauss pour aboutir a ce qui est
+`
+un point d’orgue de la sociologie conomique durkheimienne. C’est
+e
+sur ce terrain qu’il faut le suivre pour retrouver le ﬁl, momentane
+ment interrompu, de la rﬂexion sur l’altruisme et l’goısme.
+e
+e ¨
+D’un point de vue rtrospectif, le ﬁl n’est pas vritablement rompu
+e
+e
+puisque le theme de l’altruisme se trouve prsent dans la conclusion
+e
+`
+de l’important article de Hubert et Mauss sur le sacriﬁce, article dont
+Durkheim a suivi de pres l’laboration (Durkheim 1998, pp. 95-176)
+` e
+avant sa parution dans le deuxieme volume de L’Anne sociologique – il
+e
+`
+`
+est ensuite republi en 1909 dans les Mlanges d’histoire des religions. A
+e
+e
+cette occasion, les deux auteurs rappellent l’importance qu’ils accordent a la morphologie du sacriﬁce et a sa fonction de communication
+`
+`
+e
+entre le sacr et le profane par l’intermdiaire de la victime. Cette
+e
+communication procede du fait que pour le sacriﬁant, la mise rituelle
+`
+en contact avec le divin est source de vie, est condition de son
+existence. Cette communication ou encore ce commerce, si l’on veut
+bien reprendre l’acception large que le terme a garde depuis le
+e
+e
+e
+xviiie siecle (Steiner 2009, introduction), est alors prsent comme un
+`
+mlange d’intret et de dsintret :
+e
+e ˆ
+e
+e ˆ
+Dans tout sacriﬁce, il y a un acte d’abngation, puisque le sacriﬁant se prive et
+e
+donne [. . .] Mais cette abngation et cette soumission ne sont pas sans un retour
+e
+goıste. Si le sacriﬁant donne quelque chose de soi, il ne se donne pas ; il se
+e ¨
+rserve prudemment. C’est que, s’il donne, c’est en partie pour recevoir. Le
+e
+sacriﬁce se prsente donc sous un double aspect. C’est un acte utile et c’est une
+e
+obligation. Le dsintressement s’y mele a l’intret. Voila pourquoi il a t si
+e
+e
+ˆ `
+e ˆ
+ee
+`
+souvent concu sous la forme d’un contrat. Au fond, il n’y a peut-etre pas de
+¸
+ˆ
+sacriﬁce qui n’ait quelque chose de contractuel. Les deux parties en prsence
+e
+changent leurs services et chacun y trouve son compte. (Hubert et Mauss [1899]
+e
+1968, pp. 304-305)
+
+Ces quelques phrases ne sont pas de celles qui tombent ensuite
+dans l’oubli. Ou plutot, comme on a parfois tendance a rsumer
+ˆ
+` e
+drastiquement l’œuvre de Mauss dans l’Essai sur le don, on a souvent
+oubli que les passages clebres de l’introduction et de la conclusion
+e
+e`
+52
+
+sentiments moraux ; durkheim
+de cet essai reprennent un theme esquiss vint-cinq ans auparavant.
+e
+`
+Commentant le poeme scandinave plac en ouverture de son texte,
+e
+`
+Mauss explique :
+On voit le sujet. Dans la civilisation scandinave et, dans bon nombre d’autres, les
+changes et les contrats se font sous la forme de cadeaux, en thorie volontaires,
+e
+e
+en ralit obligatoirement faits et rendus. (Mauss [1925] 1950, p. 147)
+e e
+
+Et un peu plus bas, il prcise :
+e
+[. . .] nous voulons ici ne considrer qu’un des traits, profond mais isol : le
+e
+e
+caractere volontaire, pour ainsi dire, apparemment libre et gratuit, et cependant
+`
+contraint et intress de ces prestations. Elles ont revetu presque toujours la
+e
+e
+ˆ
+forme du prsent, du cadeau offert gnreusement meme quand, dans ce geste
+e
+e e
+ˆ
+qui accompagne la transaction, il n’y a que ﬁction, formalisme et mensonge
+social, et quand il y a, au fond, obligation et intret conomique. (Ibid.)
+e ˆ e
+
+Le meme probleme resurgit au moment de tirer les conclusions :
+ˆ
+`
+Nous revenons a une morale de groupe [. . .] la socit entoure l’individu, dans un
+ee
+`
+curieux tat d’esprit, ou se mlangent le sentiment des droits qu’il a et d’autres
+e
+e
+`
+sentiments plus purs : de charit, de « service social », de solidarit. Les themes
+e
+e
+`
+du don, de la libert et de l’obligation dans le don, celui de la libralit et celui de
+e
+e
+e
+l’intret qu’on a de donner, reviennent chez nous, comme reparaıt un motif
+e ˆ
+ˆ
+dominant trop longtemps oubli. (Ibid., p. 262)
+e
+
+Ces passages tablissent la ﬁliation des ides entre l’oncle et le
+e
+e
+neveu, mais aussi la diffrence qui s’installe entre eux. En premier
+e
+lieu, Mauss poursuit de diffrentes manieres la rﬂexion sur l’imbrie
+e
+`
+cation entre intret et dsintret qui avait t la sienne, comme elle
+e ˆ
+e
+e ˆ
+ee
+avait tait celle de Durkheim notamment dans son cours sur
+e
+l’ducation morale. Il faut souligner le fait que Mauss, dans sa
+e
+conclusion, fait une rfrence appuye aux theses de Durkheim sur
+ee
+e
+`
+les groupements professionnels (ibid., p. 263)19 lorsqu’il s’agit de faire
+le lien entre les socits archaıques qu’il a principalement tudies et
+ee
+e
+e
+¨
+les socits modernes. Cette double ﬁliation est essentielle a saisir
+ee
+`
+avant d’insister sur le fait que Mauss modiﬁe assez considrablement
+e
+l’tat de la question telle que Durkheim l’avait laisse. Mauss
+e
+e
+n’emploie pas les termes d’altruisme et d’goısme qui sont si prsents
+e ¨
+e
+dans les travaux de Durkheim. En lieu et place, il est question
+d’intret et de dsintret, d’obligation et de libert, ce qui permet a
+e ˆ
+e
+e ˆ
+e
+`
+Mauss de dplacer encore plus la recherche sociologique de la
+e
+19
+En 1937, Mauss rdite les trois lecons
+ee
+¸
+consacres au groupement professionnel du
+e
+cours sur la physiologie du droit et des
+mœurs dans la Revue de mtaphysique et de
+e
+morale. L’introduction qu’il rdige a cette
+e
+`
+
+occasion (Mauss [1937] 1969) montre toute
+l’importance qu’il accorde a ce theme dont il
+`
+`
+avait l’expos lors de son arriv au College de
+e
+e
+`
+France pour l’anne 1931-1932.
+e
+
+53
+
+philippe steiner
+question anthropologique et philosophique qui tait hrite de Comte
+e
+e e
+et de Spencer en marquant que ces termes sont rcents dans l’histoire
+e
+de la pense humaine et qu’en consquence le comportement intress
+e
+e
+e
+e
+de l’homme conomique que thorisent les conomistes n’est que l’un
+e
+e
+e
+des futurs possibles de l’individu contemporain20. Mais ce rejet de la
+forme traditionnelle du dbat ne signiﬁe en rien que Mauss se
+e
+dsintresse de la dimension philosophique et anthropologique, plus
+e
+e
+simplement encore, politique, de la question. Tout au contraire : en
+procdant a une longue tude sur les socits archaıques et sur une
+e
+e
+ee
+`
+¨
+vaste gamme de documents historiques, Mauss donne un soubassement empirique au dbat, comme Durkheim l’avait fait dans Le
+e
+suicide.
+Mauss ajoute ainsi un lment original et de grande porte au dbat
+ee
+e
+e
+sur l’altruisme et l’goısme que l’on a suivi de Comte a Durkheim.
+e ¨
+`
+´
+Etudiant les systemes de dons et contre-dons Mauss ne se contente
+`
+pas de montrer ce qui est la marque et le substrat de la solidarit – le
+e
+fait de se donner comme fondement du social – comme l’a fait
+Durkheim. Avec les diffrents systemes de prestation totale, Mauss
+e
+`
+met au jour la fabrique lmentaire de la solidarit et en dcrivant les
+ee
+e
+e
+nombreux exemples tirs de sa vaste connaissance des socits
+e
+ee
+archaıques il montre empiriquement que les pratiques de dons et
+¨
+contre-dons se trouvent prsent des l’origine de la socit. Il montre
+e
+ee
+`
+en outre que ces formes de commerce existent toujours dans la socit
+ee
+ˆ
+prsente21. Mauss ne s’arrete pas la : avec une grande audace
+e
+`
+intellectuelle, il nonce les regles que suivent les etres humains
+e
+ˆ
+`
+lorsqu’ils produisent le social au travers de ces systemes de dons et
+`
+contre-dons : ce sont les fameuses trois obligations de donner, recevoir
+et rendre que nous avons propos de considrer (Steiner 2005,
+e
+e
+pp. 184-186) comme une dmarche similaire a celle d’Adam Smith
+e
+`
+lorsqu’il dﬁnit, dans les premiers chapitres de sa clebre Enquiry Into
+e
+e`
+the Nature and the Cause of the Wealth of Nations, les regles que les
+`
+hommes suivent dans l’change marchand. Enﬁn, a la suite de
+e
+`
+Bronislav Malinowski, Mauss souligne le fait que, tant dans les
+socits archaıques que dans les socits modernes, les systemes
+ee
+ee
+`
+¨
+d’changes-dons coexistent avec les systemes d’changes marchands.
+e
+e
+`
+20
+« L’homo œconomicus n’est pas derriere
+`
+nous, il est devant nous, comme l’homme de
+la morale et du devoir, comme l’homme de la
+science et de la raison. L’homme a t tres
+ee `
+longtemps autre chose, et il n’y a pas bien
+longtemps qu’il est une machine, complique
+e
+
+54
+
+d’une machine a calculer » (Mauss [1925]
+`
+1950, p. 272).
+21
+Depuis, cette perspective a t
+ee
+dveloppe par le groupe form autour
+e
+e
+e
+d’Alain Caill et de la revue du MAUSS
+e
+(Godbout et Caill 1992 ; Chanial 2008).
+e
+
+sentiments moraux ; durkheim
+Une tape importante a t franchie. En passant de la question de
+e
+ee
+l’altruisme et de l’goısme a celle des systemes de dons et contre-dons,
+e ¨
+`
+`
+la sociologie produit un contre-discours politique a l’conomie
+` e
+politique. Elle met au jour un ensemble de transactions qui nourrissent la solidarit entre les individus qui produisent et reproduisent
+e
+celle-ci au moyen d’un vaste commerce social, diffrent du commerce
+e
+marchand mais articul avec celui-ci.
+e
+
+Conclusions
+Comme indiqu dans l’introduction, cet article prend place dans
+e
+une tude plus vaste sur l’histoire intellectuelle qui conduit du theme
+e
+`
+de l’altruisme a celui du don, puis du don a l’change symbolique. En
+`
+` e
+suivant cette volution de la rﬂexion, on voit apparaıtre toute
+e
+e
+ˆ
+l’importance de la dimension positive de la critique sociologique de
+l’conomie politique qui thorise le comportement intress et ratione
+e
+e
+e
+nel sur les marchs pour donner lieu a une forme originale de discours
+e
+`
+politique. Sans rejeter ce principe de gouvernement, la sociologie de
+Comte a l’cole durkheimienne afﬁrme que d’autres principes d’action
+` e
+sont a l’œuvre et qu’il serait aussi vain que dangereux de les ngliger.
+e
+`
+Altruisme, dsintret, sacriﬁce, dons et changes symboliques font
+e
+e ˆ
+e
+voir les contours de tout un continent de pratiques a l’intrieur du
+e
+`
+commerce social, continent vis-a-vis duquel le discours politique de
+`
+l’conomie politique est impuissant a s’emparer pour les maıtriser par
+e
+ˆ
+`
+e
+e
+e
+la pense et les inclure dans la logique du comportement intress qui
+e `
+est son ressort ultime22. Couple a la dimension critique, la dimension
+positive de cette sociologie donne sa pleine force au contre discours
+politique qu’est la sociologie des auteurs concerns.
+e
+Mais, des a prsent, on peut faire sentir cette dimension politique
+` ` e
+et en tirer des enseignements quant aux relations entre dsintret et
+e
+e ˆ
+intret dans le commerce social contemporain. En mettant l’accent sur
+e ˆ
+le groupe et plus encore sur la coexistence d’une pluralit de groupes
+e
+par lesquels et pour lesquels « il y a de l’altruisme, parce qu’il y a de la
+solidarit » l’approche durkheimienne permet de distinguer deux
+e
+22
+On pense ici au clebre article d’Armae`
+tya Sen sur l’idiot rationnel (rational fool) et a
+`
+son afﬁrmation centrale selon laquelle le
+comportement d’engagement (commitment)
+ou un individu entre, en connaissance de
+`
+cause, dans un commerce social qui lui fait
+
+perdre des ressources, est impossible a
+`
+intgrer dans la thorie conomique, a la
+e
+e
+e
+`
+diffrence de l’altruisme – l’altruisme ratione
+nel de Spencer tout du moins – qui en est
+redevable (Sen 1976).
+
+55
+
+philippe steiner
+grandes classes de comportement a l’intrieur de l’altruisme. Par
+e
+`
+analogie avec la solidarit mcanique, il y a tout d’abord un altruisme
+e e
+quotidien vcu dans le cadre familial ou dans le monde de l’intere
+connaissance, celui que magniﬁe Jacques Godbout (2000, 2007). En
+raison de place qu’y occupe la conscience collective, la solidarit peut
+e
+se mettre directement en place entre les individus, c’est-a-dire sans
+`
+faire intervenir tout un monde d’organisations et de taches spciales.
+ˆ
+e
+Mais la socit moderne n’est pas que cela puisque a cot de ces
+ee
+` ˆ e
+relations primordiales s’leve le monde des organisations (Coleman
+e`
+1982), support de la solidarit organique et d’un altruisme que l’on
+e
+pourrait qualiﬁer de socital et que Durkheim dsignait par le terme
+e
+e
+e e
+e
+de « charit collective organise23 ». La gnrosit, le sacriﬁce, le don
+e
+e
+de soi et du sien passent dsormais massivement par l’intermdiaire
+e
+e
+d’associations qui sont autant d’organisations spcialises dans le
+e
+e
+commerce charitable (Donsimoni 1996). Si on « soufre a distance »
+`
+(Boltanski 1993), c’est aussi a distance que l’on donne et que s’exerce
+`
+l’altruisme.
+Que l’on soit persuad qu’il ne s’agit pas la de mots creux : cette
+e
+`
+question est « passe dans les faits » pour parler a la maniere de
+e
+`
+`
+Durkheim. Comme au dbut de la rvolution no-conservatrice
+e
+e
+e
+librale, lorsque Richard Titmuss ([1970] 1997) s’tait fait le
+e
+e
+dfenseur du systeme de collecte du sang sur la base du bnvolat
+e
+e e
+`
+de maniere a lutter contre les partisans de la cration en Grandee
+` `
+Bretagne d’un march du sang calqu sur la collecte qui avait cours
+e
+e
+´
+aux Etats-Unis, le dbat est intense autour des questions poses par les
+e
+e
+projets de cration de biomarchs, sur lesquels se vendraient et
+e
+e
+s’acheteraient des organes pour transplantation (Steiner 2009, chap. 7
+`
+e
+e
+et 8). Et ce dbat n’est pas qu’un dbat d’ides. En effet, alors qu’il
+e
+s’agit de savoir comment rendre plus efﬁcace la production d’organes
+humains a transplanter, s’affrontent des technologies et des ingnieries
+e
+`
+23
+« Des maux [vagabondage, alcoolisme]
+sociaux demandent a etre traits socialement.
+e
+` ˆ
+Contre eux, l’individu isol ne peut rien. Le
+e
+seul remede efﬁcace se trouve dans une
+`
+charit collectivement organise. Il faut que
+e
+e
+les efforts particuliers se groupent, se concentrent, s’organisent pour produire quelque
+effet. Alors, en meme temps, l’acte prend un
+ˆ
+plus haut caractere moral, prcisment parce
+e e
+`
+qu’il sert a des ﬁns plus gnrales, plus
+e e
+`
+impersonnelles » (Durkheim [1902-1903]
+1963, p. 71). Cette formulation se situe dans
+le droit ﬁl de l’argumentaire dvelopp dans
+e
+e
+la derniere partie du Suicide : les groupe`
+
+56
+
+ments professionnels sont l’exemple meme
+ˆ
+d’une organisation nouvelle destine a proe `
+duire du social, c’est-a-dire des regles mo`
+`
+rales devant servir a amliorer la solidarit de
+e
+e
+`
+ses membres. On peut donc prendre au pied
+de la lettre la maniere dont Durkheim in`
+troduit les groupements professionnels : « le
+systeme mental d’un peuple est un systeme
+`
+`
+de forces dﬁnies qu’on ne peut ni dranger
+e
+e
+ni rarranger par voie de simples injonctions.
+e
+Il tient, en effet, a la maniere dont les
+`
+`
+lments sociaux sont groups et organiss »
+ee
+e
+e
+(Durkheim [1897] 1976, p. 446, je souligne).
+
+sentiments moraux ; durkheim
+sociales diffrentes. Tandis que des conomistes, des juristes et des
+e
+e
+biothiciens proposent toute une gamme de micro-structures mare
+chandes – du spot market ou vendeur et acheteur sont en face a face,
+`
+`
+jusqu’a des marchs a termes contingents – pour rduire l’cart entre
+e `
+e
+e
+`
+le nombre d’organes disponibles et le nombre d’organes mdicalement
+e
+ncessaires, Alvin Roth, un conomiste atypique, spcialiste de thorie
+e
+e
+e
+e
+des jeux et d’conomie exprimentale, propose un dispositif capable
+e
+e
+de produire des formes inattendues de commerce entre paires de
+donneurs et receveurs biologiquement incompatibles de maniere a
+` `
+mettre en place des cycles complexes de rciprocit gnralise entre
+e
+e e e
+e
+ces paires (Steiner 2008b). En d’autres termes, de maniere a con` `
+tourner les reprsentations sociales et politiques qui rejettent l’ide
+e
+e
+d’une cration de marchs d’organes a transplanter, ce que Roth
+e
+e
+`
+(2007) qualiﬁe de « rpugnance pour le march », un altruisme
+e
+e
+organisationnel se met en place comme alternative au march d’ore
+ganes. Cette pratique sociale complexe en phase d’exprimentation
+e
+´
+dans l’Etat du New Jersey mrite d’etre pleinement reconnue comme
+e
+ˆ
+une forme d’altruisme organique, et non pas seulement d’un altruisme
+exerc dans le seul monde de l’inter-connaissance pour marquer le
+e
+fait que le refus de solution marchande dans le domaine de la
+transplantation se trouve associ a des propositions alternatives a
+e `
+`
+celles offertes par le discours conomique, quand bien meme les
+e
+ˆ
+concepteurs de ces formes originales et rafﬁnes d’ingnierie sociale
+e
+e
+(Roth 2002) sortent du rang des conomistes !
+e
+
+BIBLIOGRAPHY
+Besnard Philippe, 1987. L’Anomie, ses usages
+et ses fonctions dans la discipline sociologique
+depuis Durkheim (Paris, PUF).
+`
+Boltanski Luc, 1993. La Souffrance a distance. Morale humanitaire, mdias et politie
+que (Paris, Mtaill).
+e
+e
+Borlandi Massimo, 1993. « Durkheim lecteur
+de Spencer », in Besnard Philippe, Massimo
+Borlandi et Paul Vogt, eds., Division du
+`cle
+`s
+travail et lien social. Durkheim un sie apre
+(Paris, PUF, pp. 67-109).
+—, 1998. « Durkheim, les durkheimiens et la
+sociologie gnrale », L’Anne sociologie e
+e
+que, 48 (1), pp. 27-65.
+Bougl Clestin, 1922. Lecons de sociologie sur
+e e
+¸
+l’volution des valeurs (Paris, Armand Colin).
+e
+´
+—, [1899] 1925. Les Ides egalitaires. Etudes
+e 
+de sociologie, 3e d. (Paris, Alcan).
+e
+
+—, 1932. Socialismes francais. Du « Socialisme
+¸
+`
+utopique » a la « Dmocratie industrielle »
+e
+(Paris, Armand Colin).
+Bourgeois Lon, [1896] 1998. Solidarit
+e
+e
+(Lille, Presses du Septentrion).
+Chanial Philippe, ed., 2008. La Socit vue
+ee
+du don. Manuel de sociologie anti-utilitariste
+applique (Paris, La Dcouverte).
+e
+e
+Coleman James S., 1982. The Asymetric Society
+(Syracuse, Syracuse university Press).
+`me
+Comte Auguste, [1851-1853] 1890. Syste
+de politique positive ou Trait de sociologie
+e
+instituant la religion de l’humanit (Paris).
+e
+—, [1852] 1922. Catchisme positiviste, ou
+e
+sommaire exposition de la religion universelle
+(Paris, Flammarion).
+—, [1827-1842] 1975. Cours de philosophie
+positive (Paris, Hermann).
+
+57
+
+philippe steiner
+`
+Donsimoni Myriam, 1996. Du don a l’aide : le
+march de l’altruisme (Paris L’Harmattan).
+e
+´
+Durkheim Emile, 1893. De la division du
+travail social (Paris, Alcan).
+—, 1902. De la division du travail social,
+2e d. (Paris, Alcan).
+e
+—, [1898-1900] 1950. Lecons de sociologie
+¸
+(Paris, PUF).
+´
+—, [1902-1903] 1963. L’Education morale
+(Paris, PUF).
+—, [1914a] 1970a. « Le dualisme de la nature
+humaine et ses conditions sociales », in
+´
+Durkheim Emile, La Science sociale et
+l’action (Paris, PUF, pp. 314-332).
+—, [1914b] 1970b. « L’avenir de la religion »,
+´
+in Durkheim Emile, La Science sociale et
+l’action (Paris, PUF, pp. 305-313).
+—, [1898] 1970c. « L’individualisme et les
+´
+intellectuels », in Durkheim Emile, La
+Science sociale et l’action (Paris, PUF,
+pp. 261-278).
+—, [1895] 1971. Le Socialisme (Paris, PUF).
+´
+—, [1897] 1976. Le Suicide. Etude de sociologie (Paris, PUF).
+`
+—, 1998. Lettres a Marcel Mauss (Paris,
+PUF).
+Faccarello Gilbert et Philippe Steiner,
+2008a. « Interest, Sensationism and the
+Science of the Legislator : French ‘‘philosophie conomique’’, 1695-1830 », European
+e
+Journal of the History of Economic Thought,
+15 (1), pp. 1-24.
+—, 2008b. « Political Economy and Religion
+in the Beginning of Nineteenth Century
+France », History of Political Economy, 40
+(Annual Supplement), pp. 26-61.
+Force Pierre, 2003. Self Interest Before
+Adam Smith. A Genealogy of Economic Science
+(Cambridge, Cambridge University Press).
+´
+Fournier Marcel, 2007. Emile Durkheim
+(1858-1917) (Paris, Fayard).
+Godbout Jacques T., 2000. Le Don, la dette et
+l’identit. Homo donator versus homo œcoe
+nomicus (Paris, La Dcouverte).
+e
+—, 2007. Ce qui circule entre nous. Donner,
+recevoir, rendre (Paris, Seuil).
+Godbout Jacques T. et Alain Caill, 1992.
+e
+L’Esprit du don (Paris, La Dcouverte).
+e
+Halbwachs Maurice, 1930. Les Causes du
+suicide (Paris, Alcan).
+Heilbron Johan, 1993. « Ce que Durkheim
+doit a Comte », in Besnard Philippe, Mas`
+simo Borlandi et Paul Vogt, eds., Division
+`cle
+du travail et lien social. Durkheim un sie
+`s
+apre (Paris, PUF, pp. 59-66).
+—, 2002. « French Moralists and the Anthropology of the Modern Era : On the Genesis
+
+58
+
+of the Notions of ‘‘Interests’’ and ‘‘Commercial Society’’ », in Heilbron Johan,
+Lars Magnusson et Bj€rn Wittrock, eds.,
+o
+The Rise of the Social Sciences and the
+Formation of Modernity. Conceptual
+Change in Context, 1750-1850 (Dordrecht,
+Kluwer, pp. 77-106).
+Hirschman Albert, [1977] 1980. Les Passions
+et les intre Les arguments en faveur du
+e ˆts.
+capitalisme avant son triomphe, trad. francaise (Paris, PUF).
+¸
+Hubert Henri et Marcel Mauss, [1899] 1968.
+« Essai sur la nature et la fonction du
+sacrifice », in Mauss Marcel, Œuvres 1. Les
+fonctions sociales du sacr (Paris, Minuit,
+e
+pp. 193-307).
+´
+Lukes Steven, 1973. Emile Durkheim. His
+Life and Work (London, The Penguin
+Press).
+Mauss Marcel, [1925] 1950. Essai sur le don.
+Forme et raison de l’change dans les socits
+e
+ee
+archaı¨ques, in Mauss Marcel, Sociologie et
+anthropologie (Paris, PUF).
+—, [1937] 1969, « Introduction a E.
+` ´
+Durkheim ‘‘Trois lecons extraites du cours
+¸
+de Morale civique et professionnelle’’ », in
+Mauss Marcel, Œuvres (Paris, Minuit,
+vol. 3, pp. 500-505).
+Petit Annie, 1995. « De Comte a Durkheim :
+`
+un hritage ambivalent », in Borlandi
+e
+Massimo et Laurent Mucchielli, eds., La
+`gles’ de
+sociologie et sa mthode. Les ‘Re
+e
+`cle
+`s
+Durkheim un sie apre (Paris, L’Harmattan,
+pp. 49-70).
+Roth Alvin, 2002. « The Economist as Engineer : Game Theory, Experimentation,
+and Computation as Tools for Design
+Economics », Econometrica, 70 (4),
+pp. 1341-1378.
+—, 2007. « Repugnance as a Constraint on
+Market », Journal of Economic Perspectives,
+21 (3), pp. 37-58.
+Saint-Simon Henri et Auguste Comte,
+[1819-1820] 1966a. L’Organisateur, dans
+Œuvres de Claude-Henri de Saint-Simon,
+vol. 2 (Paris, Anthropos).
+`me industriel, dans
+—, [1821] 1966b. Du syste
+Œuvres de Claude-Henri de Saint-Simon,
+vol. 3 (Paris, Anthropos).
+Saint-Simon Henri et Augustin Thierry,
+[1817] 1966. L’Industrie, dans Œuvres de
+Claude-Henri de Saint-Simon, vol. 1 et 2
+(Paris, Anthropos).
+Sen Armatya, 1976. « Rational Fools, a Critique of the Behavioral Foundations of
+Economic Theory », Philosophy and Public
+Affairs, 6, pp. 317-344.
+
+sentiments moraux ; durkheim
+Simiand Francois, 1898. « L’Anne socio¸
+e
+logique 1897 », Revue de mtaphysique et
+e
+de morale, 6, pp. 641-651.
+Spencer Herbert, 1876-1895. Principes de
+sociologie, trad. francaise (Paris, Alcan).
+¸
+—, [1879] 1900. The Data of Ethics (New
+York, Collier and Son).
+Spitz Jean-Fabien, 2005. Le Moment
+rpublicain en France (Paris, Gallimard).
+e
+Steiner Philippe, 2001. « Religion et
+conomie. Mauss, Simiand et le proe
+gramme durkheimien », Revue francaise
+¸
+de sociologie, 42 (4), pp. 695-718.
+´
+—, 2005. L’Ecole durkheimienne et l’conomie.
+e
+Sociologie, religion et connaissance (Geneve,
+`
+Droz).
+—, 2006. « La science de l’conomie politique
+e
+et les sciences sociales en France (17501840) », Revue d’histoire des sciences humaines, 15, pp. 15-42.
+
+—, 2008a. « La tradition francaise de critique
+¸
+sociologique de l’conomie politique », Ree
+vue d’histoire des sciences humaines, 18,
+pp. 63-84.
+—, 2008b. « Gift-Giving or Biomarkets ?
+Economists and the Performation of Organ
+Commerce », communication au colloque
+« Beyond Economic Sociology : Politics and
+Performativity », Universit Toulousee
+Le-Mirail, 23-25 octobre.
+—, 2009 (a paraıtre). La Transplantation
+ˆ
+`
+ˆtres
+d’organes : un commerce entre les e
+humains.
+Titmuss Richard, [1970] 1997. The Gift Relationship. From Human Blood to Social
+Policy (London, LSE Books).
+´e
+Walras Lon, [1900] 1988. Elments
+e
+d’conomie politique pure, dans Œuvres
+e
+`tes de Lon Walras,
+economiques comple
+
+e
+vol. 8 (Paris, Economica).
+
+R sum
+e
+e
+
+Zusammenfassung
+
+Cet article examine la rflexion de Durkheim
+e
+sur l’altruisme et l’goısme et, par voie de
+e ¨
+consquence, sur l’individualisme moderne.
+e
+L’accent est mis sur l’inscription de ces
+themes dans la recherche empirique sur le
+`
+suicide, mais aussi dans les cours sur l’organisation professionnelle et politique, la moralit et l’altruisme de l’enfant. La derniere
+e
+`
+partie montre comment ces themes sont
+`
+traits par les durkheimiens, tout particulieree
+`
+ment Marcel Mauss qui dplace la rflexion
+e
+e
+en soulignant l’imbrication de l’intret et du
+e ˆ
+dsintret lors des changes-dons qu’il cone
+e ˆ
+e
+sidere comme le soubassement empirique et
+`
+symbolique de la solidarit sociale.
+e
+
+¨
+Dieser Beitrag untersucht die Uberlegungen
+Durkheims zum Altruismus und Egoismus
+sowie schließlich zum modernen Individualismus. Im Gegensatz zu Comte und Spencer
+zog Durkheim diese Begriffe f€ r seine emu
+pirische Arbeit uber den Selbstmord heran,
+€
+sowie f€ r seine Untersuchungen bzg. beruu
+flicher und politischer Organisationen in
+modernen Demokratien. Der Schlussteil
+des Beitrags ist den Nachfolgern Durkheims
+gewidmet und hier besonders Mauss, der die
+Vernetzung von Interesse und Desinteresse
+bei Tausch-Gabe unterstreicht, die den empirischen und symbolischen Untergrund f€ r
+u
+die soziale Solidarit€t darstellt.
+a
+
+´ ¨
+Mots cls : Altruisme ; Durkheim ; Egoısme ;
+e
+Individualisme ; Mauss ; Solidarit.
+e
+
+Schlagw€rter: Altruismus; Durkheim; Egoiso
+mus; Individualismus; Mauss; Solidarit€t.
+a
+
+59
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">L'Anomie, ses usages et ses fonctions dans la discipline sociologique depuis Durkheim</title><editor><persName><forename type="first">Philippe</forename><surname>Besnard</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1987</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">La Souffrance à distance. Morale humanitaire, médias et politique</title><editor><persName><forename type="first">Luc</forename><surname>Boltanski</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Division du travail et lien social. Durkheim un siècle après</title><editor><persName><forename type="first">Massimo</forename><surname>Borlandi</surname></persName></editor><editor><persName><forename type="first">Philippe</forename><surname>Besnard</surname></persName></editor><editor><persName><forename type="first">Massimo</forename><surname>Borlandi</surname></persName></editor><editor><persName><forename type="first">Paul</forename><surname>Vogt</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1993</date><biblScope unit="page" from="67">67</biblScope><biblScope unit="page" to="109">109</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">« Durkheim, les durkheimiens et la sociologie générale »</title><author><persName><forename type="first">Massimo</forename><surname>Borlandi</surname></persName></author></analytic><monogr><title level="j">L'Année sociologique</title><imprint><date type="published">1998</date><biblScope unit="volume">48</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="27">27</biblScope><biblScope unit="page" to="65">65</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Leçons de sociologie sur l’évolution des valeurs</title><editor><persName><forename type="first">Célestin</forename><surname>Bouglé</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1922</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Les Idées égalitaires. Études de sociologie</title><editor><persName><forename type="first">Célestin</forename><surname>Bouglé</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1925</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Socialismes français. Du « Socialisme utopique » à la « Démocratie industrielle »</title><editor><persName><forename type="first">Célestin</forename><surname>Bouglé</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1932</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Solidarité</title><editor><persName><forename type="first">Léon</forename><surname>Bourgeois</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lille</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">La Société vue du don. Manuel de sociologie anti-utilitariste appliquée</title><editor><persName><forename type="first">Philippe</forename><surname>Chanial</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">The Asymetric Society</title><editor><persName><forename type="first">James S</forename><surname>Coleman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Syracuse</pubPlace><date type="published">1982</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Système de politique positive ou Traité de sociologie instituant la religion de l'humanité</title><editor><persName><forename type="first">Auguste</forename><surname>Comte</surname></persName></editor><imprint><date type="published">1890</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Catéchisme positiviste, ou sommaire exposition de la religion universelle</title><editor><persName><forename type="first">Auguste</forename><surname>Comte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1922</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Cours de philosophie positive</title><editor><persName><forename type="first">Auguste</forename><surname>Comte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1975</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Du don à l'aide : le marché de l'altruisme</title><editor><persName><forename type="first">Myriam</forename><surname>Donsimoni</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">De la division du travail social</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1893</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">De la division du travail social</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1902</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Leçons de sociologie</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1950</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">L’Éducation morale</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1963</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">La Science sociale et l'action</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1970</date><biblScope unit="page" from="314">314</biblScope><biblScope unit="page" to="332">332</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">La Science sociale et l'action</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1970</date><biblScope unit="page" from="305">305</biblScope><biblScope unit="page" to="313">313</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">La Science sociale et l'action</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1970</date><biblScope unit="page" from="261">261</biblScope><biblScope unit="page" to="278">278</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">Le Socialisme</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1971</date></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Le Suicide. Étude de sociologie</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1976</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">Lettres à Marcel Mauss</title><editor><persName><forename type="first">Émile</forename><surname>Durkheim</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">« Interest, Sensationism and the Science of the Legislator : French “philosophie économique”, 1695-1830 »</title><author><persName><forename type="first">Gilbert</forename><surname>Faccarello</surname></persName></author><author><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></author></analytic><monogr><title level="j">European Journal of the History of Economic Thought</title><imprint><date type="published">2008</date><biblScope unit="volume">15</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="24">24</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">« Political Economy and Religion in the Beginning of Nineteenth Century France »</title><author><persName><forename type="first">Gilbert</forename><surname>Faccarello</surname></persName></author><author><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></author></analytic><monogr><title level="j">History of Political Economy</title><imprint><date type="published">2008</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="26">26</biblScope><biblScope unit="page" to="61">61</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="inbook"><monogr><title level="m">Self Interest Before Adam Smith. A Genealogy of Economic Science</title><editor><persName><forename type="first">Pierre</forename><surname>Force</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="inbook"><monogr><title level="m">Émile Durkheim (1858-1917)</title><editor><persName><forename type="first">Marcel</forename><surname>Fournier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="inbook"><monogr><title level="m">Le Don, la dette et l'identité. Homo donator versus homo œconomicus</title><editor><persName><forename type="first">Jacques T</forename><surname>Godbout</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="inbook"><monogr><title level="m">Ce qui circule entre nous. Donner, recevoir, rendre</title><editor><persName><forename type="first">Jacques T</forename><surname>Godbout</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">L'Esprit du don</title><editor><persName><forename type="first">Jacques T.</forename><surname>Godbout</surname></persName></editor><editor><persName><forename type="first">Alain</forename><surname>Caillé</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">Les Causes du suicide</title><editor><persName><forename type="first">Maurice</forename><surname>Halbwachs</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1930</date></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="inbook"><monogr><title level="m">Division du travail et lien social. Durkheim un siècle après</title><editor><persName><forename type="first">Johan</forename><surname>Heilbron</surname></persName></editor><editor><persName><forename type="first">Philippe</forename><surname>Besnard</surname></persName></editor><editor><persName><forename type="first">Massimo</forename><surname>Borlandi</surname></persName></editor><editor><persName><forename type="first">Paul</forename><surname>Vogt</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1993</date><biblScope unit="page" from="59">59</biblScope><biblScope unit="page" to="66">66</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">The Rise of the Social Sciences and the Formation of Modernity. Conceptual Change in Context, 1750-1850</title><editor><persName><forename type="first">Johan</forename><surname>Heilbron</surname></persName></editor><editor><persName><forename type="first">Johan</forename><surname>Heilbron</surname></persName></editor><editor><persName><forename type="first">Lars</forename><surname>Magnusson</surname></persName></editor><editor><persName><forename type="first">Björn</forename><surname>Wittrock</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Dordrecht</pubPlace><date type="published">2002</date><biblScope unit="page" from="77">77</biblScope><biblScope unit="page" to="106">106</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">Les Passions et les intérêts. Les arguments en faveur du capitalisme avant son triomphe</title><editor><persName><forename type="first">Albert</forename><surname>Hirschman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1980</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Œuvres 1. Les fonctions sociales du sacré</title><editor><persName><forename type="first">Henri</forename><surname>Hubert</surname></persName></editor><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1968</date><biblScope unit="page" from="193">193</biblScope><biblScope unit="page" to="307">307</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">Émile Durkheim. His Life and Work</title><editor><persName><forename type="first">Steven</forename><surname>Lukes</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">1973</date></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="inbook"><monogr><title level="m">Sociologie et anthropologie</title><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1950</date></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="inbook"><monogr><title level="m">Œuvres</title><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><editor><persName><forename type="first">Marcel</forename><surname>Mauss</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1969</date><biblScope unit="volume">3</biblScope><biblScope unit="page" from="500">500</biblScope><biblScope unit="page" to="505">505</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="inbook"><monogr><title level="m">La sociologie et sa méthode. Les ‘Règles’ de Durkheim un siècle après</title><editor><persName><forename type="first">Annie</forename><surname>Petit</surname></persName></editor><editor><persName><forename type="first">Massimo</forename><surname>Borlandi</surname></persName></editor><editor><persName><forename type="first">Laurent</forename><surname>Mucchielli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1995</date><biblScope unit="page" from="49">49</biblScope><biblScope unit="page" to="70">70</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="article"><analytic><title level="a">« The Economist as Engineer : Game Theory, Experimentation, and Computation as Tools for Design Economics »</title><author><persName><forename type="first">Alvin</forename><surname>Roth</surname></persName></author></analytic><monogr><title level="j">Econometrica</title><imprint><date type="published">2002</date><biblScope unit="volume">70</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="1341">1341</biblScope><biblScope unit="page" to="1378">1378</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="article"><analytic><title level="a">« Repugnance as a Constraint on Market »</title><author><persName><forename type="first">Alvin</forename><surname>Roth</surname></persName></author></analytic><monogr><title level="j">Journal of Economic Perspectives</title><imprint><date type="published">2007</date><biblScope unit="volume">21</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="37">37</biblScope><biblScope unit="page" to="58">58</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="inbook"><monogr><title level="m">L'Organisateur, dans Œuvres de Claude-Henri de Saint-Simon</title><editor><persName><forename type="first">Henri</forename><surname>Saint-Simon</surname></persName></editor><editor><persName><forename type="first">Auguste</forename><surname>Comte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1966</date><biblScope unit="volume">2</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="inbook"><monogr><title level="m">Du système industriel, dans Œuvres de Claude-Henri de Saint-Simon</title><editor><persName><forename type="first">Henri</forename><surname>Saint-Simon</surname></persName></editor><editor><persName><forename type="first">Auguste</forename><surname>Comte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1966</date><biblScope unit="volume">3</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="inbook"><monogr><title level="m">L'Industrie, dans Œuvres de Claude-Henri de Saint-Simon</title><editor><persName><forename type="first">Henri</forename><surname>Saint-Simon</surname></persName></editor><editor><persName><forename type="first">Augustin</forename><surname>Thierry</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1966</date><biblScope unit="volume">1</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">« Rational Fools, a Critique of the Behavioral Foundations of Economic Theory »</title><author><persName><forename type="first">Armatya</forename><surname>Sen</surname></persName></author></analytic><monogr><title level="j">Philosophy and Public Affairs</title><imprint><date type="published">1976</date><biblScope unit="volume">6</biblScope><biblScope unit="page" from="317">317</biblScope><biblScope unit="page" to="344">344</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">« L'Année sociologique 1897 »</title><author><persName><forename type="first">François</forename><surname>Simiand</surname></persName></author></analytic><monogr><title level="j">Revue de métaphysique et de morale</title><imprint><date type="published">1898</date><biblScope unit="volume">6</biblScope><biblScope unit="page" from="641">641</biblScope><biblScope unit="page" to="651">651</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b48" type="inbook"><monogr><title level="m">Principes de sociologie</title><editor><persName><forename type="first">Herbert</forename><surname>Spencer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1895</date></imprint></monogr></biblStruct><biblStruct xml:id="b49" type="inbook"><monogr><title level="m">The Data of Ethics</title><editor><persName><forename type="first">Herbert</forename><surname>Spencer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1900</date></imprint></monogr></biblStruct><biblStruct xml:id="b50" type="inbook"><monogr><title level="m">Le Moment républicain en France</title><editor><persName><forename type="first">Jean-Fabien</forename><surname>Spitz</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b51" type="article"><analytic><title level="a">« Religion et économie. Mauss, Simiand et le programme durkheimien »</title><author><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></author></analytic><monogr><title level="j">Revue française de sociologie</title><imprint><date type="published">2001</date><biblScope unit="volume">42</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="695">695</biblScope><biblScope unit="page" to="718">718</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b52" type="inbook"><monogr><title level="m">L’École durkheimienne et l’économie. Sociologie, religion et connaissance</title><editor><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Genève</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b53" type="article"><analytic><title level="a">« La science de l’économie politique et les sciences sociales en France (1750-1840) »</title><author><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></author></analytic><monogr><title level="j">Revue d'histoire des sciences humaines</title><imprint><date type="published">2006</date><biblScope unit="volume">15</biblScope><biblScope unit="page" from="15">15</biblScope><biblScope unit="page" to="42">42</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b54" type="article"><analytic><title level="a">« La tradition française de critique sociologique de l’économie politique »</title><author><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></author></analytic><monogr><title level="j">Revue d'histoire des sciences humaines</title><imprint><date type="published">2008</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="63">63</biblScope><biblScope unit="page" to="84">84</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b55" type="inbook"><monogr><title level="m">« Beyond Economic Sociology : Politics and Performativity »</title><editor><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">2008</date><biblScope unit="page" from="23">23</biblScope><biblScope unit="page" to="25">25</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b56" type="inbook"><monogr><title level="m">La Transplantation d'organes : un commerce entre les êtres humains</title><editor><persName><forename type="first">Philippe</forename><surname>Steiner</surname></persName></editor><imprint><date type="published">2009</date></imprint></monogr></biblStruct><biblStruct xml:id="b57" type="inbook"><monogr><title level="m">The Gift Relationship. From Human Blood to Social Policy</title><editor><persName><forename type="first">Richard</forename><surname>Titmuss</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b58" type="inbook"><monogr><title level="m">Éléments d’économie politique pure, dans Œuvres économiques complètes de Léon Walras</title><editor><persName><forename type="first">Léon</forename><surname>Walras</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1988</date><biblScope unit="volume">8</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

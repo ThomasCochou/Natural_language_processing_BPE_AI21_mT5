@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="editorial"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Éditorial : Concrétisation de la vision. L’Étude longitudinale canadienne sur le vieillissement, une initiative stratégique des Instituts de recherche en santé du Canada</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="editorial" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-STW636XV-K">editorial</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Éditorial : Concrétisation de la vision. L’Étude longitudinale canadienne sur le vieillissement, une initiative stratégique des Instituts de recherche en santé du Canada</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Anne</forename><surname>Martin-Matthews</surname></persName><email>amm@exchange.ubc.ca</email><affiliation>Institute of Aging, Canadian Institutes of Health Research, and University of British Columbia</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Linda</forename><surname>Mealing</surname></persName><affiliation>Canadian Longitudinal Study on Aging, Canadian Institutes of Health Research</affiliation></author><idno type="istex">FDA65D6F494F1E99D8F6D92EB343D5823F28747E</idno><idno type="ark">ark:/67375/6GQ-2K8S23LN-S</idno><idno type="DOI">10.1017/S0714980809990067</idno><idno type="PII">S0714980809990067</idno><idno type="article-id">99006</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="215">215</biblScope><biblScope unit="page" to="220">220</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>The Canadian Longitudinal Study on Aging has progressed from a vision initiated by the CIHR Institute of Aging in 2001 to a federally funded national research platform in 2008. The development of the CLSA protocol was enhanced through a series of international peer reviews, a multisectorial Steering Committee, and a CIHR Ethical, Legal, and Social Issues committee; each was essential to the excellence of the science and to making the CLSA relevant to multiple sectors. The CLSA research team, led by three co-principal investigators (Kirkland, Raina, and Wolfson), has developed a unique protocol focusing on aging from cell to society, designed to follow 50,000 people aged 45 to 85, for 20 years. A strategic partnership with Statistics Canada has been crucial to the development and launch of the CLSA. The CLSA will contribute to our understanding of transitions and trajectories within an aging population, and will differ from longitudinal studies of aging worldwide through the breadth of its scope, the early age of recruitment into the study (age 45), the ethno-cultural diversity of Canada’s population, and the potential to link collected data to health administrative data at the provincial level. The CIHR is a novel longitudinal population-based study that will be an unprecedented research resource underpinning multidisciplinary research and evidence-based decision making in aging in Canada.</p></abstract><abstract xml:lang="fr" style="translated"><p>L’Étude longitudinale canadienne sur le vieillissement (ÉLCV) a progressé à partir d’une vision lancée par l’Institut du vieillissement des IRSC en 2001 à une plateforme nationale de recherche subventionnée par le fédéral en 2008. Le développement du protocole d’ÉLCV a été mis en valeur par une série d’examens internationaux par les pairs, un comité de coordination multisectoriel, et un comité des IRSC des questions d’éthique, juridiques, et sociales; chacun était essentiel à l’excellence de la science et à rendre l’ÉLCV pertinente aux secteurs multiples. L’équipe de recherche de l’ÉLCV, menée par trois cochercheurs principaux (Kirkland, Raina, et Wolfson), a développé un protocole unique se concentrant sur le vieillissement de la cellule à la société – conçue pour suivre 50 000 personnes âgées entre 45 à 85 ans, sur une période de 20 ans années. Une association stratégique avec Statistique Canada a été cruciale au développement et au lancement de l’ÉLCV. L’ÉLCV contribuera à notre compréhension des transitions et de la trajectoire chez une population qui vieillit, et différera des études longitudinales du vieillissement dans le monde entier par rapport á l’ampleur de sa portée, le recrutement des moins âgés dans l’étude (âge 45), la diversité ethno-culturelle de la population du Canada, et au potentiel de lier des données rassemblées aux données administratives de santé au niveau provincial. L’étude d’IRSC est une étude novatrice longitudinale, basée sur la population, qui sera une ressource de recherche sans précédent soutenant la recherche multidisciplinaire et la prise de décision fondée sur des faits dans le domaine du vieillissement au Canada.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>cohorte</term></item><item><term>santé de la population</term></item><item><term>études longitudinales</term></item><item><term>fédéral</term></item><item><term>Instituts de recherche en santé du Canada</term></item><item><term>vieillissement</term></item><item><term>l’éthique</term></item><item><term>financement</term></item><item><term>stratégique</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>cohort</term></item><item><term>population health</term></item><item><term>longitudinal</term></item><item><term>federal</term></item><item><term>CIHR</term></item><item><term>aging</term></item><item><term>ethics</term></item><item><term>funding</term></item><item><term>strategic</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Éditorial : Concrétisation de la vision.
+L’Étude longitudinale canadienne sur le
+vieillissement, une initiative stratégique des
+Instituts de recherche en santé du Canada*
+Anne Martin-Matthews
+Institute of Aging, Canadian Institutes of Health Research, and University of British Columbia
+Linda Mealing
+Canadian Longitudinal Study on Aging, Canadian Institutes of Health Research
+ABSTRACT
+The Canadian Longitudinal Study on Aging has progressed from a vision initiated by the CIHR Institute of Aging in
+2001 to a federally funded national research platform in 2008. The development of the CLSA protocol was enhanced
+through a series of international peer reviews, a multisectorial Steering Committee, and a CIHR Ethical, Legal, and
+Social Issues committee; each was essential to the excellence of the science and to making the CLSA relevant to multiple
+sectors. The CLSA research team, led by three co-principal investigators (Kirkland, Raina, and Wolfson), has developed
+a unique protocol focusing on aging from cell to society, designed to follow 50,000 people aged 45 to 85, for 20 years.
+A strategic partnership with Statistics Canada has been crucial to the development and launch of the CLSA. The CLSA
+will contribute to our understanding of transitions and trajectories within an aging population, and will differ from
+longitudinal studies of aging worldwide through the breadth of its scope, the early age of recruitment into the study
+(age 45), the ethno-cultural diversity of Canada’s population, and the potential to link collected data to health
+administrative data at the provincial level. The CIHR is a novel longitudinal population-based study that will be an
+unprecedented research resource underpinning multidisciplinary research and evidence-based decision making in
+aging in Canada.
+
+RÉSUMÉ
+L’Étude longitudinale canadienne sur le vieillissement (ÉLCV) a progressé à partir d’une vision lancée par l’Institut
+du vieillissement des IRSC en 2001 à une plateforme nationale de recherche subventionnée par le fédéral en 2008. Le
+développement du protocole d’ÉLCV a été mis en valeur par une série d’examens internationaux par les pairs, un
+comité de coordination multisectoriel, et un comité des IRSC des questions d’éthique, juridiques, et sociales; chacun
+était essentiel à l’excellence de la science et à rendre l’ÉLCV pertinente aux secteurs multiples. L’équipe de recherche
+de l’ÉLCV, menée par trois cochercheurs principaux (Kirkland, Raina, et Wolfson), a développé un protocole unique se
+concentrant sur le vieillissement de la cellule à la société – conçue pour suivre 50 000 personnes âgées entre 45 à 85 ans,
+sur une période de 20 ans années. Une association stratégique avec Statistique Canada a été cruciale au développement
+et au lancement de l’ÉLCV. L’ÉLCV contribuera à notre compréhension des transitions et de la trajectoire chez une
+population qui vieillit, et différera des études longitudinales du vieillissement dans le monde entier par rapport á
+l’ampleur de sa portée, le recrutement des moins âgés dans l’étude (âge 45), la diversité ethno-culturelle de la
+population du Canada, et au potentiel de lier des données rassemblées aux données administratives de santé au
+niveau provincial. L’étude d’IRSC est une étude novatrice longitudinale, basée sur la population, qui sera une ressource
+de recherche sans précédent soutenant la recherche multidisciplinaire et la prise de décision fondée sur des faits dans
+le domaine du vieillissement au Canada.
+* Les auteurs sont reconnaissantes de conseiles et contributions utiles de Christine Fitzgerald, vice-présidente exécutive actuelle
+aux IRSC, lors de la préparation de cet article.
+Manuscript received: / manuscrit reçu : 13/04/09
+Manuscript accepted: / manuscrit accepté : 19/05/09
+Mots clés : cohorte, santé de la population, études longitudinales, fédéral, Instituts de recherche en santé du Canada,
+vieillissement, l’éthique, ﬁnancement, stratégique
+Keywords: cohort, population health, longitudinal, federal, CIHR, aging, ethics, funding, strategic
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (3) : 215–220 (2009)
+doi:10.1017/S0714980809990067
+
+215
+
+216
+
+Canadian Journal on Aging 28 (3)
+
+Anne Martin-Matthews et Linda Mealing
+
+Correspondance à : / Correspondence to:
+Anne Martin-Matthews, Ph.D.
+CIHR Institute of Aging
+University of British Columbia
+6303, NW Marine Drive
+Vancouver, BC, V6T 1Z1
+amm@exchange.ubc.ca
+
+En 2001, la vision de l’ÉLCV était celle d’un réseau
+national pancanadien d’infrastructure permettant
+d’effectuer des recherches interdisciplinaires à la ﬁne
+pointe basées sur la population, en matière de vieillissement. Cette vision a pris naissance avec Réjean
+Hébert, premier directeur scientiﬁque (2001–2003)
+de l’Institut du vieillissement, lequel fait partie des
+Instituts de recherche en santé du Canada (IRSC), avec
+l’appui du premier conseil consultatif de l’Institut1.
+L’ÉLCV va beaucoup plus loin que les approches communes qui consistent à se concentrer sur les aspects
+sociaux ou sur des maladies particulières. Elle se focalise
+non seulement sur les personnes qui ont atteint un certain âge, mais aussi sur le phénomène du vieillissement
+lui-même, y compris l’adaptation et les transitions liées
+au vieillissement. Malgré l’existence d’autres études
+longitudinales sur le vieillissement dans le monde,
+l’ÉLCV proﬁte d’un statut particulier en raison de
+l’unique diversité ethnoculturelle du Canada, des
+systèmes nationaux de prestation de soins de santé (ce
+qui peut donner accès à des données administratives
+sur la santé) ainsi que des éléments distincts du climat,
+de l’environnement, de la géographie, et des politiques
+en matière de retraite et des programmes de pension.
+
+nombre de membres de divers milieux de recherche
+sur le vieillissement, qui ont discuté des étapes essentielles à la mise en place d’une étude longitudinale
+canadienne sur le vieillissement, y compris la conception
+du protocole, les partenaires clés et la formation d’un
+comité directeur. Un appel de demandes (AD) pour la
+conception du protocole de l’ÉLCV a été lancé en 20012.
+Bien que l’Institut du vieillissement ait été le principal
+institut des IRSC pour l’AD, 10 des 12 autres instituts
+des IRSC ainsi que l’organisme des IRSC lui-même ont
+été des partenaires ﬁnanciers dans cette initiative, tout
+comme Santé Canada. Une demande a été reçue en
+réponse à l’AD, et l’étendue de l’équipe demanderesse
+était réellement pancanadienne et multidisciplinaire,
+ce qui correspondait exactement aux espérances lors
+de la diffusion de l’AD. L’équipe était constituée
+de trois cochercheurs principaux (Kirkland, Raina et
+Wolfson), appuyés par des directeurs de thème, des
+conseillers scientiﬁques principaux et des conseillers
+institutionnels principaux, et comprenait plus de 200
+cochercheurs à la grandeur du pays. Travaillant sur
+huit thèmes différents, cette équipe a développé
+l’ébauche d’un protocole de recherche, de 2002 au
+début de 2004. Un comité directeur multisectoriel3 a été
+établi, ayant comme mandat de superviser l’évolution
+et la concrétisation du protocole de l’ÉLCV. Présidé par
+le directeur scientiﬁque de l’Institut du vieillissement
+des IRSC, le comité était formé de représentants de
+Santé Canada, de Statistique Canada, de l’Association
+canadienne de gérontologie, de l’Institut canadien
+d’information sur la santé, du Conseil canadien des
+organismes bénévoles en santé, de Merck Frosst
+Canada et des directeurs scientiﬁques des instituts
+des IRSC suivants : l’Institut de la santé publique et des
+populations, l’Institut de l’appareil locomoteur et de
+l’arthrite ainsi que l’Institut des services et des politiques de la santé. D’autres spécialistes, par exemple
+feue Betty Havens, directrice de l’étude longitudinale
+du phénomène du vieillissement au Manitoba, faisaient
+partie des membres du comité directeur. Des consultations auprès de différents ministères fédéraux, entre
+autres Ressources humaines et Développement des
+compétences Canada, ont également eu lieu.
+
+À la ﬁn de 2001, l’Institut du vieillissement, en partenariat avec Santé Canada, a commandité un atelier sur
+invitation nommé Le vieillissement – de la cellule à la société – atelier de planiﬁcation de l’ÉLCV, qui a eu lieu à
+Aylmer, Québec, Canada. Cet atelier a rassemblé bon
+
+À l’époque où l’ébauche du protocole et un plan pour le
+développement du travail considérable à effectuer ont
+été soumis au comité directeur au début de 2004, Anne
+Martin-Matthews a succédé à Réjean Hébert au poste de
+directeur scientiﬁque de l’Institut du vieillissement. En
+
+Cette édition spéciale de la Revue canadienne du vieillissement constitue un jalon important pour l’Étude
+longitudinale canadienne sur le vieillissement (ÉLCV),
+car elle documente les résultats des études pilotes qui
+ont contribué au développement de l’ÉLCV. Le rôle
+destiné à l’ÉLCV est celui de plateforme nationale
+de recherche, laquelle fournira des renseignements
+importants à propos de l’état de santé des Canadiens au
+fur et à mesure qu’ils vieillissent et générera des données qui serviront à de nombreux projets de recherche
+à l’avenir. Bien que dans d’autres articles du présent
+numéro se trouve la description de la vision de l’ÉLCV
+et les détails sur les résultats des études de recherche
+essentielles à son lancement, le présent document met
+l’accent sur le procédé de développement de l’ÉLCV
+ainsi que sur les divers moyens utilisés pour concrétiser cette initiative stratégique de « grande science ».
+
+La vision et le procédé
+
+Éditorial
+
+mars 2004, le protocole, le plan et le budget ont fait
+l’objet d’un examen par un comité international d’experts.
+Cet examen était importante tant pour les IRSC que
+pour l’ÉLCV, car les commentaires recueillis constituaient une évaluation du mérite et fournissaient des
+recommandations permettant d’optimiser les aspects
+scientiﬁques et techniques de l’ébauche du protocole. Le
+comité a conclu que l’équipe demanderesse démontrait
+sufﬁsamment d’engagement et de connaissance pour
+préparer l’initiative et réussir son lancement. Il a également recommandé une révision et une nouvelle soumission de l’ébauche du protocole après avoir appliqué ses
+commentaires. Les recommandations du comité comprenaient la rectiﬁcation de la chronologie aﬁn de mener
+d’autres études pilotes clés et des observations à propos de la structure d’administration. Par ailleurs, le
+comité encourageait fortement la continuité des efforts
+en vue de bâtir une relation avec Statistique Canada.
+
+Le contexte des IRSC
+Au moment même où l’équipe de recherche de l’ÉLCV
+travaillait pour réviser et développer l’ébauche du protocole, des développements ont été effectués en parallèle
+aux IRSC. Ceux-ci ont aidé à constituer une base pour
+appuyer l’initiative. L’approbation de l’ÉLCV en tant
+qu’« initiative stratégique transsectorielle » par le conseil
+scientiﬁque des IRSC4 (formé de treize directeurs scientiﬁques d’instituts, ainsi que des vice-présidents et du
+président des IRSC) a été un événement crucial. L’ÉLCV
+et une étude connexe de cohortes sur les naissances fut
+dorénavant menées sous l’égide de l’Initiative sur la santé
+des Canadiens à tous les stades de la vie (ISCSV)5. Le
+plan stratégique de 2004 des IRSC, Investir dans l’avenir du
+Canada : Plan stratégique des IRSC pour l’innovation et la
+recherche en santé, a cerné l’engagement de l’organisme
+dans le développement de plateformes et d’initiatives nationales de recherche. L’ISCSV était une des quatre principales initiatives transsectorielles déﬁnies dans le Plan
+stratégique, et il était reconnu que l’échelle de mise en œuvre de ces initiatives était conditionnelle à la disponibilité
+du ﬁnancement des IRSC et des partenaires. Pendant la
+plus grande partie de son développement historique aux
+IRSC, l’ÉLCV était valorisée et soutenue dans l’optique
+qu’elle sera liée (d’une quelconque manière) à une étude
+nationale sur les naissances, sous l’égide de l’ISCSV, dont
+l’objectif était de faciliter la mise en place d’un programme
+de recherche aﬁn de mener de grandes études longitudinales sur les Canadiens à partir de plusieurs centres. De
+telles études améliorent la compréhension 1) du rôle
+et de l’interaction que jouent divers facteurs génétique et
+environnementaux, lesquels constituent des facteurs au
+développement humain et aux processus de vieillissement au cours de la vie, 2) des causes multifactorielles et
+de l’évolution des maladies communes et 3) l’utilisation
+des services de soins de santé.
+
+La Revue canadienne du vieillissement 28 (3)
+
+217
+
+Phase de développement I : 2004–2006
+Au printemps 2004, le rapport du comité international
+d’examen par les pairs sur le protocole révisé a été reçu.
+En plus de la révision de l’ébauche du protocole, le comité
+a fourni des conseils importants aux IRSC au sujet de
+l’engagement qui devait alors être pris pour continuer le
+travail de développement nécessaire à la mise en place de
+cette initiative nationale, ce qui requérait un ﬁnancement
+d’au moins deux ans. Le message était clair : la prochaine
+phase de développement de l’ÉLCV ne devait pas tarder,
+et le ﬁnancement devait être obtenu sans interruption.
+À ce moment, un tournant stratégique important dans
+l’histoire de l’ÉLCV a eu lieu. Les avancées notoires
+de l’ÉLCV ainsi que son concept et sa valeur salués
+internationalement ont été reconnus par les IRSC. Des
+ressources largement supérieures à ce qui est normalement accordé à l’Institut du vieillissement (même si on
+compte les ressources partenaires provenant d’autres
+instituts) étaient nécessaires pour continuer le développement de l’ÉLCV : le conseil d’administration des
+IRSC a donc été approché pour l’obtention d’un soutien
+ﬁnancier. En avril 2004, le comité directeur du conseil
+d’administration a approuvé une subvention intérimaire de 250 000 dollars pour soutenir le développement
+de l’ÉLCV, à condition qu’une discussion en profondeur
+ait lieu lors de la réunion du conseil d’administration en
+juin de la même année. Conscients qu’ils travaillaient
+dans un environnement jamais vu en matière de développement et de ﬁnancement pour ce type d’initiative
+par les IRSC à ce stade de son évolution, les cochercheurs principaux ont produit un plan actualisé pour le
+développement de l’ÉLCV, comprenant un budget
+d’envergure. Après la révision du plan par des arbitres
+externes et les IRSC, la directrice scientiﬁque de l’Institut
+du vieillissement et le vice-président de la recherche aux
+IRSC à l’époque, Mark Bisby6, ont présenté les arguments soutenant l’ÉLCV lors de la réunion du conseil
+d’administration de juin 2004. Le résultat : l’approbation
+de 1,7 million de dollars additionnels en ﬁnancement
+pour le développement de l’ÉLCV. Les projets ﬁnancés
+devaient représenter des études de faisabilité méthodologiques pertinentes et utiles pour d’autres initiatives
+de cohortes dans les IRSC, en lien avec l’ISCSV, et non
+seulement avec l’ÉLCV. Toutes les études de faisabilité
+publiées dans le présent numéro ont été ﬁnancées à ce
+moment. Grâce au soutien du conseil d’administration,
+l’ÉLCV a effectué une transition importante : elle est
+passée d’une initiative de l’Institut du vieillissement à
+une initiative proﬁtant de l’appui et des ressources de
+l’ISCSV transsectorielle stratégique des IRSC.
+
+Phase de développement II : 2006–2008
+Deux ans plus tard, les études de faisabilité étaient
+terminées, et il était nécessaire d’obtenir un soutien
+
+218
+
+Canadian Journal on Aging 28 (3)
+
+ﬁnancier pour la réalisation du pilote de l’ébauche du
+protocole ainsi que pour se rapprocher du lancement de
+l’initiative. Le comité international d’examen par les
+pairs a de nouveau été convoqué pour évaluer le rapport
+sur les résultats des études pilotes (phase I de développement) et la demande de ﬁnancement de la phase II
+de développement. Le comité a accueilli positivement
+les améliorations effectuées à la soumission originale et
+a souligné que l’approche de l’ÉLCV pour traiter tant les
+aspects biologiques que sociaux était bien planiﬁée, solide, de très grande valeur, et qu’elle possédait sufﬁsamment de potentiel pour avoir des répercussions sur les
+politiques et les pratiques. Le comité a mentionné que
+l’ÉLCV contribuera à la science sur le vieillissement au
+Canada et ailleurs en liant divers secteurs de recherche
+différents. De plus, l’étude générera des données qui
+serviront à informer le domaine de la santé publique et
+des politiques sociales sur des sujets comme la gestion
+des maladies chroniques, le lien de l’état de santé avec le
+passage à la retraite, et la prestation de soins de santé.
+L’étude comporte de nombreux bienfaits, par exemple
+la création de nouveaux emplois, l’augmentation de la
+capacité de la recherche, le maintien des scientiﬁques au
+Canada et – l’objectif principal – l’amélioration de la
+santé des Canadiens vieillissants.
+
+Anne Martin-Matthews et Linda Mealing
+
+portance stratégique dans la négociation de la collaboration entre l’ÉLCV et Statistique Canada, pendant laquelle
+une proposition a été formulée voulant que l’Enquête sur
+la santé dans les collectivités canadiennes 4.2 (ESCC 4.2)
+soit centrée sur le vieillissement et devienne le moyen de
+recrutement de 20 000 personnes, à titre de cohorte initiale
+(globale) pour l’ÉLCV. Le détachement pendant un an
+d’un directeur de Statistique Canada pour occuper le poste
+de directeur général dans l’organisation des IRSC a facilité
+la relation entre l’équipe de recherche de l’ÉLCV et Statistique Canada, et ce, à un moment crucial, au cours duquel le protocole de l’ÉLCV était en période d’adaptation
+pour permettre son utilisation avec l’ESCC 4.2.
+
+Sécuriser le soutien pour le lancement
+
+En juin 2006, après avoir pris en considération la récente révision internationale, le conseil d’administration
+des IRSC a accordé un appuie ﬁnancier de 2,1 millions
+de dollars pour la période de 2006 à 2008. Ces fonds
+ont été attribués spécialement au projets pilote et aux
+études de faisabilité dans le but de ﬁnaliser le protocole
+de l’ÉLCV, par exemple l’analyse des attitudes adoptées par les Canadiens au sujet de la participation à
+long terme dans l’ÉLCV, ainsi que pour améliorer le
+processus de consentement éclairé, en traitant certains
+problèmes comme la déﬁcience cognitive parmi les
+participants de l’étude. Le développement d’un partenariat avec Statistique Canada (décrit ci-dessous) a été
+un élément critique dans l’obtention de ce soutien
+additionnel du conseil d’administration.
+
+Le partenariat avec Statistique Canada est devenu encore une fois stratégiquement important au printemps
+2008, alors que l’ESCC 4.2. se trouvait à ses dernières
+étapes de planiﬁcation. Un ﬁnancement additionnel était
+nécessaire aﬁn de diminuer la fourchette d’âge de
+l’échantillon proposé pour l’ESCC, soit de réduire l’âge
+limite minimal de 55 ans à 45 ans, car il s’agissait de l’âge
+minimum d’admission idéal à l’ÉLCV. De plus, Statistique Canada a réclamé à l’équipe de l’ÉLCV une conﬁrmation que le ﬁnancement du deuxième cycle de collecte
+de données sur les 20 000 individus âgés de 45 à 85 ans
+recrutés pour l’ÉLCV était assuré. Sans cette conﬁrmation, Statistique Canada ne pouvait pas fournir les données des participants de l’ESCC 4.2 qui avaient accepté
+de partager avec l’ÉLCV les renseignements relatifs à
+leur identiﬁcation dans le but d’être recrutés par l’ÉLCV.
+En fonction des politiques et procédures rigoureuses
+maintenant en place aux IRSC relatives au traitement
+de telles demandes de ﬁnancement, les cochercheurs
+principaux de l’ÉLCV et le personnel de l’Institut du
+vieillissement ont travaillé assidument tout au long du
+printemps 2008 pour garantir l’engagement de ﬁnancement de 3,85 millions de dollars par les IRSC, lequel était
+nécessaire pour renforcer le partenariat avec Statistique
+Canada, et ainsi recruter la cohorte initiale de l’ÉLCV.
+
+L’engagement des IRSC envers l’ÉLCV a été démontré
+non seulement par le ﬁnancement des phases de
+planiﬁcation et de faisabilité de l’ÉLCV, mais aussi par
+l’attribution de ressources à l’intérieur des IRSC pour
+former un comité sur les questions éthiques, juridiques
+et sociales (avec le mandat de conseiller les dirigeants
+des IRSC et de l’ISCSV sur les actions et les pratiques
+d’excellence à adopter en ce qui concerne les problèmes
+de l’ISCSV) et la création, en 2006, du poste de directeur
+général de l’ÉLCV. Cette position a marqué une autre
+étape stratégique déterminante pour l’ÉLCV, car elle signiﬁait que les IRSC reconnaissaient l’importance du
+développement de partenariats et de la supervision de
+grandes initiatives stratégiques (au-delà de l’étendue des
+rôles des scientiﬁques). Cela a également été d’une im-
+
+Un autre déﬁ restait à relever : l’obtention du ﬁnancement nécessaire au lancement d’une « cohorte complète »
+de 30 000 personnes supplémentaires, aﬁn de pouvoir
+effectuer des évaluations cliniques durant la période de
+20 ans de l’ÉLCV. Plusieurs facteurs augmentaient le
+déﬁ. L’ÉLCV et le développement d’une cohorte nationale sur les naissances progressaient maintenant à une
+vitesse différente et, d’une certaine façon, indépendamment l’un de l’autre. De plus, leur lien éventuel dans le
+cadre de l’ISCSV devenait de moins en moins probable
+à court terme (les IRSC maintiennent toutes possibilités
+potentielles de collaboration à l’avenir). Au printemps
+2008, une grande étude de cohortes sur le cancer importante a été lancée, où il fut alors reconnu que d’autres
+cohortes nationales de grande échelle, possédant
+
+Éditorial
+
+chacune un objectif distinct, mais ciblant des groupes
+d’âge quelque peu similaires, pouvaient éprouver de la
+difﬁculté à obtenir le soutien nécessaire à long terme.
+Cependant, un certain nombre de facteurs ont annoncé
+le soutien des IRSC à l’ÉLCV. En 2008, le Conseil des
+sciences, de la technologie et de l’innovation, relevant
+du ministre de l’Industrie, a recommandé quatre domaines sous-prioritaires de recherche à l’intérieur du
+domaine prioritaire « sciences et technologies de la santé
+et sciences de la vie connexes ». Parmi ces domaines se
+trouve la santé dans une population vieillissante7. Les
+recommandations ont été acceptées par le ministère
+de l’Industrie en septembre 2008. Stratégiquement, il
+s’agissait d’une étape très importante. De plus, le conseil consultatif de l’Institut du vieillissement a continué
+d’offrir un soutien non négligeable à l’ÉLCV. Par exemple, il a créé en 2007 un concours semestriel de bourse
+pour l’ÉLCV (ce programme pluriannuel vise à construire et à renforcer la capacité et l’expertise en matière de
+recherche au Canada dans les études de mesure de la
+santé, en focalisant sur l’ÉLCV et d’autres études longitudinales similaires) et il s’est engagé en mai 2008 à
+verser 2,5 millions de dollars de plus en ﬁnancement
+pour les projets de recherche qui utiliseront les données
+de l’ÉLCV pour la période de 2011 à 2013. Le soutien
+continu des partenaires de l’initiative, surtout l’Agence
+de la santé publique du Canada, Santé Canada, le Réseau
+québécois de la recherche sur le vieillissement (ﬁnancé
+par le Fonds de la recherche en santé du Québec), le
+réseau de recherche sur le vieillissement de la ColombieBritannique (ﬁnancé par la Michael Smith Foundation
+for Health Research de la Colombie-Britannique), ainsi
+que l’Université McMaster, l’Université McGill, et
+l’Université Dalhousie aux trois cochercheurs principaux, a été, depuis 2002, un élément essentiel au succès
+des efforts de partenariat de l’ÉLCV.
+En plus de ces facteurs, trois enjeux ont été particulièrement importants dans les décisions prises par les IRSC
+pour ﬁnancer l’ÉLCV. L’engagement de Statistique Canada pour des contributions en nature à la conception de
+l’ÉLCV et au recrutement de la cohorte initiale ont indiqué aux IRSC 1) à quel point l’étude a de l’importance
+sur le plan national, 2) sa faisabilité opérationnelle et 3)
+le niveau d’intérêt manifesté par les autres partenaires
+fédéraux au sujet des données longitudinales sur le
+vieillissement. De plus, la valeur scientiﬁque de l’ÉLCV
+et ses répercussions potentielles sur les politiques et les
+pratiques étaient bien déﬁnies, et conﬁrmées par les
+nombreux examens internationaux par les pairs. Par
+ailleurs, la ténacité et le dévouement de l’équipe fondamentale de l’ÉLCV depuis les six dernières années de
+développement du projet – à travers les multiples étapes
+d’examens rigoureux par les pairs, les hauts et les bas
+des discussions concernant les initiatives de cohortes
+indépendantes ou la collaboration et l’engagement des
+
+La Revue canadienne du vieillissement 28 (3)
+
+219
+
+membres de l’équipe s’étalant sur une période considérable de leur carrière universitaire – ont été pris en considération. Le 25 juin 2008, le conseil scientiﬁque des
+IRSC a voté pour un soutien ﬁnancier additionnel de
+19,65 millions de dollars8 aﬁn de mettre en application
+le volet complet de l’ÉLCV à travers dix sites pancanadiens. Cet engagement de ﬁnancement a ﬁnalement été
+approuvé en décembre 2008. L’engagement total des
+IRSC dans le soutien de la phase de mise en œuvre de
+l’ÉLCV totalise maintenant 23,5 millions de dollars, ce
+qui permet à l’ÉLCV de se positionner fermement en
+tant que plateforme de recherche et de données nationale et longitudinale. La vision s’est concrétisée.
+
+Réalité, risque et rendement de
+l’investissement
+Le lancement de l’ÉLCV signale une nouvelle ère dans
+la recherche sur le vieillissement au Canada. L’ampleur,
+l’étendue et la durée de cette étude changeront la façon
+dont les études sur le vieillissement seront menées partout au pays, et sa création a déjà changé la manière
+dont le Canada est perçu sur le plan mondial. En effet, le
+Canada se distingue comme un joueur majeur dans la
+recherche, non seulement en raison de son engagement
+dans le domaine de la recherche sur le vieillissement,
+mais aussi en raison de son investissement dans une initiative scientiﬁque de cette échelle. Quelques mois après
+l’obtention du ﬁnancement, l’ÉLCV a participé à plusieurs
+réunions internationales axées sur l’harmonisation et la
+comparaison transnationales des données et des accès.
+Par ailleurs, le ﬁnancement de l’ÉLCV représente une
+approche différente du soutien de la recherche au Canada. Il ne s’agit pas d’un projet de recherche entamé par
+un chercheur, mais d’une « plateforme » de recherche
+stratégiquement amorcée, laquelle fournira des données
+pour de nombreuses recherches futures sur le vieillissement et pour les parties prenantes pertinentes. Sa nature
+unique et l’ampleur de son échelle déﬁent les modèles
+traditionnels d’opération et de ﬁnancement de la recherche. Cette initiative n’était qu’un rêve pour l’Institut du
+vieillissement, et sa mise en application en 2008 a été
+possible uniquement parce que les IRSC ont reconnu, à
+un moment critique, que son développement ne pouvait être garanti qu’en tant qu’initiative transversale
+stratégique, moyennant un investissement considérable
+en ressources et en ﬁnancement9.
+De plus, la concrétisation de la vision de l’ÉLCV comporte un historique de risques reconnus et encourus.
+Les membres de l’équipe, en particulier les cochercheurs principaux, ont pris des risques en investissant
+considérablement de leur capital scientiﬁque et en respectant leur engagement dans un projet qui a tardé à
+démarrer, dont les résultats étaient souvent incertains,
+et qui allaient prendre quelques années avant d’être
+
+220
+
+Canadian Journal on Aging 28 (3)
+
+entièrement mis en œuvre. L’Institut du vieillissement
+et les IRSC ont assumé des risques non négligeables au
+cours du processus : les risques associés au ﬁnancement de 2002, 2004 et 2006 alors que l’objet de ces investissements, soit le lancement réussi de l’ÉLCV, n’était
+pas garanti. Encore aujourd’hui, bien que l’étude soit
+amorcée, il est reconnu que la durabilité d’une initiative comme l’ÉLCV fait l’objet d’éléments se trouvant
+bien au-delà des capacités des IRSC à eux seuls.
+Malgré tout, durant les sept années qui se sont écoulées,
+de la première réunion en novembre 2001 à l’approbation
+du ﬁnancement de la mise en œuvre de l’ÉLCV en
+décembre 2008, les avantages de cette initiative
+stratégique ont indéniablement été reconnus par les
+chercheurs, les partenaires gouvernementaux et non
+gouvernementaux, les investisseurs et les membres du
+domaine. Parmi les avantages de cette initiative se
+trouve le potentiel de contributions permettant d’aider à
+cerner des façons de prévenir des maladies et d’améliorer
+les services sanitaires et sociaux offerts aux personnes
+âgées, ainsi que de mieux comprendre les répercussions
+de certains facteurs non médicaux, comme les changements économiques et sociaux, sur les individus au
+fur et à mesure qu’ils vieillissent. L’énorme banque de
+données recueillies générera également de nouvelles
+connaissances sur les nombreux facteurs biologiques,
+cliniques, psychosociaux et sociétaux interreliés qui
+viennent inﬂuencer le vieillissement sain. De plus, trois
+forces soulignées par les réviseurs lors des examens
+internationaux par les pairs ont grandement contribué
+au succès de l’obtention du soutien nécessaire à cette
+initiative : l’amorce de l’étude sur des participants dès la
+mi-vie, la capacité à contribuer à la compréhension du
+vieillissement dans le contexte de diversité ethnoculturelle du Canada, et la possibilité de lier les données
+fournies par les participants de l’étude aux données
+administratives sur la santé de leur province.
+Le lancement de l’ÉLCV symbolisait la concrétisation
+de la vision. Les objectifs qui poussent la science sont
+maintenant à notre portée, et les applications des connaissances peuvent maintenant être décelées. Tant de
+possibilités motivantes et viviﬁantes! Maintenant, le
+vrai travail ardu commence.
+
+Notes
+1 Parmi les membres du premier conseil consultatif de l’Institut
+du vieillissement se trouvait feue Betty Havens, chercheuse
+principale dans l’étude longitudinale du phénomène du vieillissement au Manitoba, ainsi que des personnes familières
+avec les trois cycles de collecte de données de l’Étude sur la
+santé et le vieillissement au Canada (1991–1992, 1996–1997
+et 2001–2002), y compris N. Chappell, P. Durand, R. Hébert,
+Y. Joanette et K. Rockwood. Leur expérience sur ces études
+et leurs connaissances sur les déﬁs associés à la mise en place
+et au maintien d’une recherche longitudinale ont été des
+facteurs importants durant les discussions de la première
+
+Anne Martin-Matthews et Linda Mealing
+commission consultative, ainsi que pour appuyer l’ÉLCV. A.
+Martin-Matthews était la vice-présidente du premier conseil
+consultatif de l’Institut à l’époque de ces discussions.
+2 Il est possible de consulter l’ADO à l’adresse suivante :
+http://www.cihr-irsc.gc.ca/f/4169.html. La date limite de
+la soumission était janvier 2002. Le ﬁnancement offert était
+de 462 024 dollars.
+3 Ce comité a supervisé le développement du protocole. Santé
+Canada, Statistique Canada, l’Institut canadien d’information
+sur la santé, l’Association canadienne de gérontologie, le
+Conseil canadien des organismes bénévoles en santé, Merck
+Frosst Canada et les autres institutions des IRSC, en tant que
+membres du comité directeur de l’ÉLCV entre 2002 et 2006,
+se sont joints à la planiﬁcation et à la supervision du développement du protocole de l’étude. Cette approche était essentielle pour établir la pertinence de l’ÉLCV dans divers
+secteurs. Ce comité a été ofﬁciellement dissous en 2006,
+après l’acceptation de l’ébauche (à l’époque) du protocole
+de l’ÉLCV, conformément aux exigences de l’ADO de 2002.
+4 À divers moments de son histoire, ce groupe était connu
+sous le nom de Comité de planiﬁcation et des priorités
+de recherche (CPRR) et de Comité de la recherche et de
+l’application des connaissances (CRAC) des IRSC. Le
+groupe a reçu l’appellation de conseil scientiﬁque depuis
+septembre 2008, mais d’autres termes peuvent lui faire
+référence dans des documents diffusés antérieurement.
+5 Quatre directeurs scientiﬁques ﬁguraient comme chefs de
+« cohortes » dans les IRSC. Ils ont travaillé en vue de faire
+évoluer une initiative coordonnée de cohortes : John Frank
+(Institut de la santé publique et des populations), Michael
+Kramer (Institut du développement et de la santé des enfants et des adolescents), Anne Martin-Matthews (Institut
+du vieillissement) et Rod McInnes (Institut de génétique).
+6 Au nom des membres de la recherche sur le vieillissement
+au Canada, les auteures du présent document tiennent à
+remercier sincèrement Mark Bisby pour l’appui qu’il a
+fourni à l’ÉLCV pendant les étapes déterminantes de
+l’étude lors du procédé de développement et des demandes de ﬁnancement adressées aux IRSC.
+7 Le rapport du Conseil des sciences, de la technologie et
+de l’innovation peut être consulté à l’adresse suivante : http://
+www.stic-csti.ca/eic/site/stic-csti.nsf/fra/h_00007.html
+(date de consultation : 7 avril 2009).
+8 En autorisant ce ﬁnancement, le conseil scientiﬁque reconnaissait que ce montant représente environ 86 pour cent du
+ﬁnancement exigé pour couvrir les cinq premières années
+de l’ÉLCV. Il est prévu que d’autres partenaires de ﬁnancement soient intéressés par cette initiative.
+9 Des initiatives scientiﬁques d’envergure requièrent également la supervision d’une gestion complexe, de partenariats et de structures organisationnelles. Partant de cette
+réalité, les IRSC ont nommé Linda Mealing au poste de
+directrice adjointe de l’ÉLCV pour la période 2009–2012.
+
+Référence
+Instituts de recherche en santédu Canada (2004). Investir
+dans l’avenir du Canada: Plan stratégique des IRSC pour
+l’innovation et la recherche en santé, Ottawa: IRSC.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Investir dans l’avenir du Canada: Plan stratégique des IRSC pour l’innovation et la recherche en santé</title><editor><orgName>Instituts de recherche en santédu Canada</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ottawa</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">L’âgisme : Adaptation française d’une mesure et test d’un modèle structural des effets de l’empathie, l’orientation à la dominance sociale et le dogmatisme sur l’âgisme</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">L’âgisme : Adaptation française d’une mesure et test d’un modèle structural des effets de l’empathie, l’orientation à la dominance sociale et le dogmatisme sur l’âgisme</title><author xml:id="author-0000"><persName><forename type="first">Valérian</forename><surname>Boudjemad</surname></persName><affiliation>Université de Nancy 2, France</affiliation></author><author xml:id="author-0001" corresp="yes"><persName><forename type="first">Kamel</forename><surname>Gana</surname></persName><email>kamel.gana@u-bordeaux2.fr</email><affiliation>Université de Bordeaux 2, France</affiliation></author><idno type="istex">C9EA60ACA6EA92FF52FB51DEE0F48EB8C841D647</idno><idno type="ark">ark:/67375/6GQ-XX11RQSD-6</idno><idno type="DOI">10.1017/S071498080999016X</idno><idno type="PII">S071498080999016X</idno><idno type="article-id">99016</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="371">371</biblScope><biblScope unit="page" to="389">389</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>This article presents two studies dealing with ageism. The objective of the first study was to adapt to French language and validate the Fraboni of Ageism Scale-Revised (FSA-R) which contains 23 items, while the objective of the second study was to test a structural model containing ageism as measured by the FSA-R and the “Big Three”: empathy, social dominance orientation, and dogmatism, controlled for by sex and age. The results of the first study (n = 323) generated a version of the FSA-R comprising 14 items, of which the psychometric properties were very satisfactory. Using structural equation modelling and bootstrap procedure, the results of the second study (n = 284) showed a direct negative and significant effect of empathy on agism. They also showed that this negative effect was mediated by dogmatism and social dominance orientation, which both exerted a positive effect on ageism.</p></abstract><abstract xml:lang="fr" style="translated"><p>Cet article présente deux études portant sur l’âgisme. La première avait pour objectif d’adapter et de valider la Fraboni Scale of Ageism-Revisited (FSA-R) comprenant 23 items, alors que la seconde se proposait de soumettre à l’épreuve des faits un modèle structural mettant en jeu l’âgisme mesuré par la FSA-R et le « Big Three », à savoir l’empathie, l’orientation à la dominance sociale, et le dogmatisme, sous le contrôle du sexe et de l’âge des participants. Les résultats de la première étude (n = 323) ont permis de retenir une version du FSA-R comprenant 14 items, dont les qualités psychométriques se sont révélées très satisfaisantes. Les résultats de la seconde étude (n = 284), en l’occurrence la modélisation structurale et la procédure de rééchantillonnage (Bootstrap Procedure), montrent un effet négatif direct de l’empathie sur l’âgisme. Ils montrent aussi que cet effet négatif est médiatisé par le dogmatisme et l’orientation à la dominance sociale qui exercent, quant à eux, un effet positif sur l’âgisme.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>âgisme</term></item><item><term>Fraboni Scale of Agism</term></item><item><term>empathie</term></item><item><term>orientation à la dominance sociale</term></item><item><term>dogmatisme</term></item><item><term>validation</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>ageism</term></item><item><term>Fraboni Scale of Ageism</term></item><item><term>empathy</term></item><item><term>social dominance orientation</term></item><item><term>dogmatism</term></item><item><term>Big-Three</term></item><item><term>validation</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+L’âgisme : Adaptation française d’une mesure
+et test d’un modèle structural des effets de
+l’empathie, l’orientation à la dominance
+sociale et le dogmatisme sur l’âgisme
+Valérian Boudjemad
+Université de Nancy 2, France
+Kamel Gana
+Université de Bordeaux 2, France
+ABSTRACT
+This article presents two studies dealing with ageism. The objective of the ﬁrst study was to adapt to French language
+and validate the Fraboni of Ageism Scale-Revised (FSA-R) which contains 23 items, while the objective of the second study
+was to test a structural model containing ageism as measured by the FSA-R and the “Big Three”: empathy, social
+dominance orientation, and dogmatism, controlled for by sex and age. The results of the ﬁrst study (n = 323) generated
+a version of the FSA-R comprising 14 items, of which the psychometric properties were very satisfactory. Using structural
+equation modelling and bootstrap procedure, the results of the second study (n = 284) showed a direct negative and
+signiﬁcant effect of empathy on agism. They also showed that this negative effect was mediated by dogmatism and social
+dominance orientation, which both exerted a positive effect on ageism.
+
+RÉSUMÉ
+Cet article présente deux études portant sur l’âgisme. La première avait pour objectif d’adapter et de valider la Fraboni
+Scale of Ageism-Revisited (FSA-R) comprenant 23 items, alors que la seconde se proposait de soumettre à l’épreuve des
+faits un modèle structural mettant en jeu l’âgisme mesuré par la FSA-R et le « Big Three », à savoir l’empathie, l’orientation
+à la dominance sociale, et le dogmatisme, sous le contrôle du sexe et de l’âge des participants. Les résultats de la première
+étude (n = 323) ont permis de retenir une version du FSA-R comprenant 14 items, dont les qualités psychométriques
+se sont révélées très satisfaisantes. Les résultats de la seconde étude (n = 284), en l’occurrence la modélisation structurale
+et la procédure de rééchantillonnage (Bootstrap Procedure), montrent un effet négatif direct de l’empathie sur l’âgisme. Ils
+montrent aussi que cet effet négatif est médiatisé par le dogmatisme et l’orientation à la dominance sociale qui exercent,
+quant à eux, un effet positif sur l’âgisme.
+Manuscript received: / manuscrit reçu : 25/02/09
+Manuscript accepted: / manuscrit accepté : 25/05/09
+Mots clés : âgisme, Fraboni Scale of Agism, empathie, orientation à la dominance sociale, dogmatisme, validation
+Keywords: ageism, Fraboni Scale of Ageism, empathy, social dominance orientation, dogmatism, Big-Three, validation
+Correspondence concerning this article should be addressed to: / La correspondance concernant cet article doit être adressées à :
+Prof. Kamel Gana
+Département de psychologie
+Université de Bordeaux 2
+3 Place de la Victoire
+33076 Bordeaux
+(kamel.gana@u-bordeaux2.fr)
+
+Introduction
+Actuellement, les proportions de personnes âgées de
+plus de 64 ans et de personnes de moins de 15 ans sont
+respectivement de 4% et 42% de la population mondiale
+
+(Haub, 2003, 2005; Thouez, 2001). Cependant, selon les
+mêmes sources, la proportion de personnes âgées
+approche celle des adolescents (16% de plus de 64
+ans, 17% de moins de 15 ans) sur le sol européen. Cette
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (4) : 371–389 (2009)
+doi:10.1017/S071498080999016X
+
+371
+
+372
+
+Canadian Journal on Aging 28 (4)
+
+tendance semble se retrouver au sein de l’ensemble des
+pays occidentaux. En France, par exemple, selon les
+statistiques de l’Institut National de la Statistique et
+des Etudes Economiques (INSEE), la génération «papy
+boom», après avoir rajeuni la population, semble la
+vieillir aujourd’hui. Au Canada1, la croissance du nombre de personnes âgées va s’accélérer à partir de 2011
+pour représenter plus d’un quart de la population d’ici
+2056, alors qu’à cette même date les moins de 20 ans
+n’en représenteront que moins de 20%. Ce constat
+démographique, accentué par une espérance de vie de
+plus en plus longue, pose à la société occidentale au
+moins trois déﬁs humains sérieux. Le premier est celui
+de la place des personnes âgées au sein du marché du
+travail, vient ensuite celui de leur statut une fois à la
+retraite, et celui, enﬁn, de leur prise en charge avec
+l’avancement en âge. Qu’il s’agisse de discrimination à
+l’embauche et sur leur lieu de travail, ou de maltraitance
+dans les maisons de retraite, nous ne devons ni exagérer
+ni sous-estimer les risques encourus par les séniors
+dans notre société occidentale, dont l’engouement pour
+la jeunesse et les valeurs économiques de productivité
+sont, il est vrai, la quintessence. D’aucuns pensent et
+espèrent que la nouvelle donne démographique est de
+nature à rétablir l’image positive des séniors, d’autres
+pensent et craignent qu’elle ne s’accompagne d’un
+relent d’âgisme.
+L’âgisme, qui représente le troisième grand «isme»
+de notre société (Barrow &amp; Smith, 1979), pourrait
+même, selon certains auteurs, s’avérer plus omniprésent et plus sournois que le racisme et le sexisme
+(Banaji, 1999; Palmore, 2001; Rupp, Vodanovich, &amp;
+Crédé, 2005). L’âgisme, comme les autres «isme», reﬂète donc une forme de préjugés qui sévissent dans
+notre société. Cependant, il diffère sur plusieurs
+points du racisme et du sexisme (Palmore, 2004;
+Woolf, 1998). Tout d’abord, personne n’est en principe exempt d’acquérir le statut de «vieux» et, de ce
+fait, d’être victime d’âgisme, si tant est que l’individu
+vive assez longtemps. Ensuite, la classiﬁcation en
+fonction de l’âge n’est pas statique. Elle est fonction
+de la progression des individus (cible évaluée ou
+évaluateur) dans le cycle de vie. De ce fait, la
+classiﬁcation sur la base de l’âge est caractérisée par
+des changements continuels, alors que les autres systèmes de classiﬁcation utilisés dans notre société, tels
+que l’ethnie ou le genre, restent constants. Enﬁn, le
+concept d’âgisme est relativement nouveau, nombreux sont ceux qui n’en ont jamais entendu parler,
+et qui ignorent tout de son importance et du caractère
+insidieux de sa nature.
+Le concept d’âgisme est issu d’une publication datant
+de 1969 du gérontologue américain Robert Butler, intitulée « age-ism : another form of bigotry », où ce dernier
+identiﬁe sous ce néologisme une forme de préjugé
+
+Valérian Boudjemad and Kamel Gana
+
+relatif à l’âge, source de discrimination sociale censée
+reposée sur une généralisation abusive et des croyances fausses, c’est-à-dire des stéréotypes. L’âgisme
+est aussi appelé «préjugé ultime», «dernière discrimination», « rejet le plus cruel », (The International Longevity Center, 2006) ou encore « maladie psychosociale
+» (Palmore, 2004). Depuis la première publication de
+Butler, la déﬁnition de l’âgisme n’a cessé d’évoluer
+(Fraboni, Saltstone, &amp; Hugues, 1990; The International
+Longevity Center, 2006; Nussbaum, Pitts, Huber,
+Krieger, &amp; Ohs, 2005; Rupp et al., 2005). Nous déﬁnissons
+l’âgisme comme un mécanisme psychosocial engendré
+par la perception, consciente ou non, des qualités intrinsèques d’un individu (ou d’un groupe) en lien avec
+son âge. Le processus qui le sous-tend s’opère de
+manière implicite et/ou explicite, et s’exprime de manière
+individuelle ou collective par l’entremise de comportements discriminatoires, de stéréotypes et de préjugés
+pouvant être positifs, mais qui s’avèrent plus généralement négatifs.
+L’âgisme : aspects psychométriques
+Les échelles mesurant les attitudes et les stéréotypes à
+l’égard des personnes âgées existaient bien avant
+l’introduction par Butler du néologisme «âgisme». En
+effet, The Old People Questionnaire de Tuckman et Lorge
+(1953) se proposait d’évaluer, à l’aide de 137 items, les
+fausses conceptions et les stéréotypes négatifs envers le
+vieil âge, à travers 13 catégories. L’Attitude Toward Old
+People Scale de Kogan (1961, voir aussi Golde &amp; Kogan,
+1959) se proposait de mesurer, à l’aide de 20 items, les
+attitudes générales envers les personnes âgées.
+L’utilisation d’échelles multidimensionnelles, dans les
+années 70 aux années 80, a permis de dépasser l’étude
+des attitudes générales au proﬁt de l’étude de construits plus spéciﬁques. Ainsi, L’Aging Semantic Differential
+(Rosencranz &amp; McNevin, 1969) est un test de 32 items
+bipolaires composés par des paires d’adjectifs. Il permet
+de mesurer les attitudes envers les personnes âgées à
+travers trois dimensions. L’Opinion About People Scale
+(Ontario Welfare Council, Section on Aging, 1971) est
+une autre échelle qui tente de mesurer six facteurs spéciﬁques. The Salter View of Elderly Scale (Salter &amp; Salter,
+1976) tente d’évaluer six domaines relatifs aux croyances et aux conduites des sujets par rapport aux personnes âgées. Kilty et Feld (1976) ont quant à eux utilisé
+80 énoncés aﬁn d’étudier certaines dimensions de la
+perception sociale, à travers l’Attitudes Toward Aging and
+Toward the Needs of Older People. En 1981, Sheppard a
+développé l’Attitude Toward Aging Inventory. Il s’agit
+d’une échelle composée de 20 items censés distinguer
+les individus ayant des préjugés positifs sur le vieillissement de ceux qui en ont des opinions négatives.
+La dernière échelle en date fut développée par Fraboni
+et al. (1990): la Fraboni Scale of Agism (FSA). La FSA est
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+un instrument qui se démarque des autres car il tient
+compte de la composante affective de l’âgisme, négligée
+dans les autres mesures au proﬁt de la composante cognitive. L’instrument de Fraboni a donc été construit
+pour représenter le concept d’âgisme tel que déﬁni par
+Butler (1978) comme un profond désordre psychosocial
+caractérisé par des préjugés institutionnalisés, des stéréotypes, et l’établissement d’une distance et/ou d’un
+évitement vis à vis des seniors. Fraboni et al. (1990) se
+sont donc appuyés sur trois des cinq niveaux de préjugés déﬁnis par Allport (1954) qui sont : Antilocution
+(propos antipathiques): construit désigné pour regrouper des expressions antagonistes et antipathiques, constitué de fausses conceptions, d’informations erronées
+et/ou de mythes (concernant les personnes âgées ici);
+Avoidance (évitement) : construit faisant référence aux
+expressions liées à des préjugés « plus accentués ». Ce
+construit est lié aux comportements (ou préférences) de
+retrait et d’évitement de contact social (face aux personnes âgées). Ici, l’individu dont le préjugé est plus intense est guidé vers un évitement du groupe indésirable
+sans pour autant l’exprimer directement à ce groupe.
+Discrimination: considéré comme le construit exprimant
+le plus l’âgisme. Les items développés pour ce construit
+reﬂètent les préjugés les plus vifs et les plus actifs. On y
+retrouve des contenus concernant les droits politiques,
+la ségrégation (forme de discrimination institutionnelle
+légale) et l’intervention dans les activités des personnes.
+Le sujet effectue ici des distinctions nuisibles, et un tri
+actif : exclusion et refus de côtoyer la personne.
+
+Avoidance (Evitement) de Fraboni et al. (1990), et apparaît comme une mesure de la composante affective de
+l’âgisme (Rupp et al., 2005), comptant 8 items. Le
+troisième facteur, relatif à la composante affective de
+l’âgisme, (Attitudes Affectives, α = .70) reﬂète le mieux
+les attitudes émotionnelles relatives aux plus âgés, de
+la même manière que le facteur Discrimination de Fraboni et al.(1990), et compte 5 items.
+
+Lors de la construction du FSA, Fraboni et al. (1990)
+ont utilisé un premier échantillon de 102 étudiants aﬁn
+de tester la version pilote. Suite à cela, les auteurs ont
+conduit une analyse en composantes principales sur
+un échantillon de 231 étudiants et de travailleurs, pour
+sélectionner les items ﬁnaux parmi les 44 retenus. La
+version ﬁnale de la FSA contient 29 items (dont 6 inversés) assortis chacun d’une échelle de type Likert en 4
+points. Un score élevé est indicatif d’un fort âgisme.
+Nous noterons qu’aucune analyse conﬁrmatoire n’a
+été réalisée en vue d’éprouver la validité de structure
+de l’échelle.
+Une version révisée de la FSA a été récemment proposée par Rupp et al. (2005). Elle est composée de 23 items
+répartis sur 3 dimensions (Stéréotypes, Séparation, Attitude Affective), permettant de mesurer les composantes
+affective et cognitive de l’âgisme à l’aide d’une échelle
+de Likert numérotée de 1 à 5. Les corrélations entre les
+différentes sous-échelles varient entre .65 et .73. Le premier facteur (Stéréotype, α = .79) est similaire au facteur
+Antilocution (Propos Anthipatiques) de Fraboni et al.
+(1990). Il mesure la composante cognitive de l’âgisme
+identiﬁée par Kogan (1961) et Tuckman et Lorge (1953)
+(Rupp et al., 2005), et compte 10 items. Le second facteur (Séparation, α = .76) est comparable au facteur
+
+373
+
+L’âgisme : aspects nomologiques
+Déterminer les variables intervenant dans les différences individuelles relatives à l’âgisme, tout comme
+étudier son émergence du point de vue développemental, sont des champs de recherche assez récents.
+Contrairement à l’étude des préjugés généralisés,
+l’âgisme, dont il peut être une variante voire une composante, a fait l’objet de peu de recherches portant sur
+les différences individuelles le concernant. Nous pourrions nous contenter d’afﬁrmer que ce qui vaut pour
+les préjugés généralisés doit également valoir pour
+l’âgisme. Ce point de vue est en accord avec la thèse
+d’Allport (1954) stipulant que les individus qui rejettent un exo-groupe tendront à en rejeter d’autres.
+Cependant, cette thèse reste à vériﬁer en ce qui concerne
+l’âgisme. Voyons d’abord les principales variables susceptibles d’expliquer les différences individuelles relatives aux préjugés généralisés.
+L’une des questions dont la psychologie des préjugés
+n’a pas ﬁni de débattre porte sur la part de la personnalité et de celle du contexte dans l’explication de ces
+préjugés. Les conclusions de Guimond, Dambrun,
+Michinov, et Duarte (2003) tendent vers une explication principale en termes de facteurs situationnels suggérant l’implication d’un phénomène intergroupe où
+interviendraient plutôt l’appartenance des individus à
+un groupe, l’identiﬁcation à ce groupe et la position
+sociale, plus que la personnalité. Les bases théoriques
+de cette vision se retrouvent au sein de la théorie de
+l’identité sociale (Tajfel &amp; Turner, 1979, 1986), de la catégorisation sociale (Turner, Hogg, Oakes, Reicher, &amp;
+Wetherell, 1987), et des modèles de socialisation des
+groupes (Guimond et al., 2003). Cependant, certains
+auteurs (Akrami &amp; Ekehammar, 2006a, 2006b, 2007)
+nuancent ces propos en réintroduisant l’importance
+partagée des variables liées à la personnalité. Ici, cette
+vision est le fruit d’un ensemble d’études ayant isolé
+une conception particulière des préjugés, dans laquelle
+différentes formes de préjugé (envers les noirs, les
+femmes et les homosexuels) satureraient sur un facteur
+unique (McFarland &amp; Adelson, 1996). D’autres travaux
+plus récents ont conﬁrmé cette hypothèse de représentation des préjugés envers différentes cibles sur un facteur général (Bäckström &amp; Björklund, 2007; Ekehammar,
+Akrami, Gylje, &amp; Zakrisson, 2004; Guimond et al., 2003;
+McFarland, 2001, 2008).
+
+374
+
+Canadian Journal on Aging 28 (4)
+
+De ces travaux avaient émergés un ensemble de variables
+impliquées dans l’expression des préjugés. Ainsi, Altemeyer (1998) qualiﬁe l’autoritarisme et l’orientation à la
+dominance sociale comme « l’union fatale » conduisant
+aux préjugés généralisés. Plus tard, McFarland (2001,
+2008) les appellera «Big Three», à savoir l’autoritarisme,
+l’orientation à la dominance sociale, et l’empathie, les
+trois principales variables indépendantes expliquant les
+différences individuelles relatives aux préjugés. Nous allons les présenter tour à tour brièvement.
+L’autoritarisme est un concept connu et qui a été largement étudié ces soixante dernières années (Deconchy
+&amp; Dru, 2007). Les recherches relatives à l’autoritarisme,
+et plus précisément à la personnalité autoritaire, trouvent leur origine dans les travaux d’Adorno, FrenkelBrunswik, Levinson, et Sanford (1950), pour lesquels le
+concept de personnalité autoritaire renvoie à un ensemble de caractéristiques prédisant, chez un individu,
+un penchant et des comportements fascistes et antidémocratiques. Ces caractéristiques sont évaluées par
+un système cohérent (convictions économiques, politiques et sociales) renvoyant à une structure de la personnalité qui provient d’expériences vécues lors de
+l’enfance et d’un schéma de fonctionnement interne.
+L’orientation à la dominance sociale (ODS) (Pratto,
+Sidanius, Stallworth, &amp; Malle, 1994; Sidanius &amp; Pratto,
+1999) correspond à une variable centrale, en terme de
+différence individuelle, au sein de la théorie de la dominance sociale (Sidanius &amp; Pratto, 1999), et offre une base
+solide pour la prédiction des préjugés (Akrami &amp; Ekehammar, 2006b; McFarland, 1998). L’ODS correspond au
+degré d’approbation des individus relativement à
+l’existence d’une hiérarchisation sociale répartissant les
+groupes entre dominants et dominés (Pratto et al., 1994;
+Sidanius &amp; Pratto, 1999). La théorie de la dominance sociale explique que la société crée des idéologies permettant de promouvoir la supériorité d’un groupe sur un
+autre, aﬁn de minimiser les conﬂits intergroupes (Pratto
+et al., 1994; Sidanius &amp; Pratto, 1999). Là où la théorie de
+l’identité sociale (Tajfel &amp; Turner, 1979, 1986) prédit le
+déni de l’exo-groupe comme moyen pour s’assurer
+une identité positive, la théorie de la dominance sociale explique que le maintien du bas statut de cet exogroupe sert à soutenir le statut élevé de l’endo-groupe
+(Levin, 2004; Pratto et al., 1994), justiﬁé par
+l’intermédiaire d’une légitimité morale et intellectuelle
+(Légal &amp; Delouvée, 2008). Dans ce cadre, les classes
+d’âge, d’ethnie et de sexe sont partagées au sein des
+différents groupes aﬁn de donner une légitimité
+morale et intellectuelle aux relations hiérarchiques
+parmi ces groupes (Sidianus, Pratto, Van Laar, &amp; Levin,
+2004).
+L’empathie est un concept ayant connu de nombreuses
+déﬁnitions. Au sens large, l’empathie renvoie aux réac-
+
+Valérian Boudjemad and Kamel Gana
+
+tions d’une personne relatives aux expériences des autres (Davis, 1983). Deux grandes traditions de recherche
+ont émergé à travers les études sur l’empathie. Premièrement, l’empathie peut être déﬁnie cognitivement
+en relation avec le fait de comprendre les autres
+(Caruso &amp; Mayer, 1998). Par exemple, Hogan (1969)
+décrit ce concept comme « l’appréhension intellectuelle ou imaginative de la condition ou de l’état d’esprit
+des autres, sans avoir fait réellement l’expérience de
+leurs sentiments ». Dans un second temps, l’empathie
+peut aussi être perçue comme une réaction émotionnelle ou une sympathie en réponse aux sensations ou
+aux expériences des autres. Des chercheurs tels que
+Mehrabian et Epstein (1972) ont d’ailleurs déﬁni
+l’empathie comme «une réponse sensible aux expériences émotionnelles des autres ».Enﬁn, une approche
+intégrative, utilisant les deux traditions de recherches
+présentées précédemment, conçoit l’empathie comme
+un construit multidimensionnel comprenant des composantes cognitives et émotionnelles (Davis, 1980,
+1983; Thornton &amp; Thornton, 1995). Nous aborderons
+l’empathie sous l’angle de cette dernière conception.
+Le rôle positif de l’empathie a été démontré dans diverses cultures, et son implication dans les relations
+interpersonnelles a été largement prouvée (Del Barrio,
+Aluja, &amp; Garcia, 2004). En outre, l’empathie entretient
+des relations positives avec certaines dimensions de la
+personnalité telles que l’agréabilité et l’extraversion
+(Del Barrio et al., 2004; Matthews &amp; Deary, 1998).
+Qu’en est-il maintenant des liens entre les «Big Three »?
+Pratto et al. (1994) ont montré que le concept d’empathie
+est négativement corrélé avec l’orientation à la dominance sociale, l’autoritarisme et les mesures de préjugés. McFarland (2001) trouve un lien négatif assez fort
+entre préjugés et empathie, telle que mesurée par
+l’Interpersonal Reactivity Index (IRI) de Davis (1980,
+1983). De même, l’IRI, et particulièrement la souséchelle «Intérêt à l’égard des Autres », entretient des
+relations négatives statistiquement signiﬁcatives avec
+l’ODS (Pratto et al., 1994). De plus, il semble que
+l’empathie soit un facteur important de la réduction
+des préjugés (Buswell, 2006; Galinsky &amp; Moskowitz,
+2000) et que le fait d’évoquer de l’empathie envers des
+groupes stigmatisés générerait des attitudes plus positives envers ces mêmes groupes (Batson et al., 1997).
+Une autre relation, établie par diverses études empiriques, montre que l’orientation à la dominance sociale est une des variables prédisant le mieux les
+préjugés à l’égard d’un groupe donné (Altemeyer,
+1998; Duarte, Dambrun, &amp; Guimond, 2004; Guimond
+et al., 2003).
+L’autoritarisme (Adorno et al., 1950), caractérisé par
+l’hostilité, la soumission à l’autorité, et lié au conservatisme, entretient une relation avérée avec les préjugés
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+(Bäckström &amp; Björklund, 2007). En revanche, le lien
+existant entre autoritarisme et orientation à la dominance sociale n’est pas aussi substantiel. En effet, malgré les similarités théoriques dans leurs effets, ODS
+et autoritarisme diffèrent sur plusieurs points (Pratto
+et al., 1994). Premièrement, l’autoritarisme est déﬁni
+comme une condition pathologique et une forme de
+défense de son propre ego, alors que l’ODS est déﬁnie
+comme une condition ‘normale’ sur laquelle les individus varient. Deuxièmement, l’autoritarisme et l’ODS
+trouvent leur origine dans des patterns éducatifs distincts (Duckitt, 2001): l’autoritarisme se développerait
+lorsqu’un enfant reçoit une éducation punitive et dure,
+qui engendrerait un sens aigu de la menace et de
+la conformité sociale pour échapper à cette menace,
+alors que l’ODS se développerait lors d’une absence
+d’affection dans l’enfance, engendrant ainsi un sens de
+la froideur et une recherche de supériorité. Enﬁn, là où
+l’autoritarisme renvoie à un désir de dominance individuelle résultant de son expérience avec des ﬁgures
+autoritaires (phénomène intragroupe) (Duckitt, 1989),
+l’ODS est vue comme un désir de dominance d’une catégorie sur une autre (phénomène intergroupe) Pratto
+et al. (1994). Empiriquement, les corrélations entre
+ODS et autoritarisme sont faibles (Duckitt, 2001), mais
+en raison des variables prédites par les deux construits (conservatisme, ethnocentrisme) et des aspects
+théoriques similaires, l’étude de ces deux construits en
+lien avec l’âgisme nous semble fort pertinente (Bäckström &amp; Björklund, 2007; Ekehammar et al., 2004; Pratto
+et al., 1994).
+
+(forme d’autoritarisme) sur l’âgisme. En effet, l’effet
+médiateur de l’orientation à la dominance sociale et
+l’autoritarisme sur les préjugés généralisés à été démontré par Bäckström et Björklund (2007).
+
+Objectifs de la recherche
+Notre travail s’inscrit dans le « combat » engagé
+par Butler (1969) et poursuivi par, entre autres,
+Palmore (2004), pour lesquels l’âgisme est un «mal
+psychosocial» qu’il faut prendre très au sérieux tant il
+est omniprésent, chronique, insidieux et virulent. Notre
+contribution se fera à travers deux études complémentaires. La première étude a pour objectif d’adapter en
+français un instrument de mesure de l’âgisme (selon la
+conception butlerienne [1978] du terme) (Bulter, 1978)
+aﬁn de le mettre à disposition des chercheurs et des
+praticiens francophones. A notre connaissance, il
+n’existe en langue française aucun instrument mesurant
+l’âgisme ou l’une de ses composantes. La seconde
+étude a pour objectif de soumettre à l’épreuve des faits
+un modèle structural mettant en jeu l’âgisme et le «Big
+Three», à savoir l’empathie, l’orientation à la dominance sociale, et le dogmatisme, tout en contrôlant le
+sexe et l’âge des participants. Non seulement un tel
+modèle explicatif des différences individuelles n’a jamais été testé, mais il permet aussi d’évaluer les effets
+directs et indirects (médiateurs) de l’empathie, de
+l’orientation à la dominance sociale, et du dogmatisme
+
+375
+
+Etude 1
+Méthode
+Traduction et adaptation française du Fraboni Scale of
+Ageism-Revisited (FSA-R)
+Dans un premier temps, nous avons fourni à quatre
+personnes bilingues (deux professeurs du département
+d’anglais et deux étudiants étrangers, tous maîtrisant
+parfaitement les langues et cultures françaises et anglaises) la version originale du Fraboni Scale of Ageism
+(FSA). Elles avaient pour consigne de traduire cette
+échelle.
+Vallerand (1989) conseille d’utiliser la méthode des traductions dites renversées. Compte- tenu de la difﬁculté, inhérente à cette méthode, d’obtenir des
+reproductions identiques, il y avait lieu de douter de la
+pertinence de cette méthode au sein de notre recherche. De plus, comme le font remarquer Gauthier et
+Bouchard (1993), certains auteurs expriment clairement leur réserve face aux limites de cette technique
+(Haccoun, 1987; LeCompte &amp; Oner, 1976). Suite à ces
+traductions, cinq individus bilingues maîtrisant les
+concepts se rapportant à la psychologie ont été réunis
+en comité aﬁn d’établir une adaptation préliminaire du
+FSA2. La version préliminaire a été ensuite soumise à
+un échantillon de 30 participants (âge moyen = 24.33
+ans, écart type = ET = 8.52 ans) aﬁn d’évaluer la clarté
+des items assortis chacun d’une échelle de type Likert
+en cinq points, allant de « pas du tout clair » à « parfaitement clair ». La version déﬁnitive de l’échelle est
+présentée en annexe.
+Enﬁn, la validité concomitante (concurrent validity) de
+cette version déﬁnitive a été évaluée en l’administrant,
+accompagnée de sa version anglaise, à un échantillon
+de 32 étudiants bilingues (âge moyen = 23.17 ans, ET =
+6.25 ans). La très forte corrélation entre les scores obtenus aux deux versions (r = .87, p = .000) plaide en faveur
+de la qualité de l’adaptation française de l’échelle.
+Participants. Cette première étude repose sur un
+échantillon de convenance de 323 participants majoritairement étudiants (88%), dont 203 femmes. Leur
+âge moyen était de 23.31 ans (écart type = 7.68 ans). Les
+participants, qui étaient tous des volontaires ont été approchés soit directement sur le campus universitaire de
+Lettres et Sciences Humaines, soit par l’intermédiaire
+de nos étudiants auxquels nous avions conﬁé le questionnaire dans une enveloppe, aﬁn de le faire remplir par leur entourage. Cette procédure nous a permis
+d’obtenir un taux de retour approchant les 60%.
+
+376
+
+Canadian Journal on Aging 28 (4)
+
+Instruments de mesure. Outre la version française
+du FSA-R, les participants étaient invités à compléter
+les questionnaires suivants, dont l’utilisation servait à
+éprouver la validité de construit de la version française
+de la FSA-R.
+La version française de version révisée de l’Aging Semantic Differential (ASD) (Rosencranz &amp; McNevin,
+1969): nous avons utilisé dans cette recherche la version révisée de l’ASD (Intrieri, Von Eye, &amp; Kelly, 1995),
+composée de 26 items bipolaires assortis chacun d’une
+échelle en sept niveaux mesurant les attitudes et les
+stéréotypes négatifs envers les personnes âgées. Un
+score élevé est indicatif d’une attitude négative envers
+les personnes âgées. La version traduite a été soumise,
+accompagnée de la version anglaise, au même échantillon ayant servi à tester la qualité de la version française de la FSA-R. La très forte corrélation des scores
+obtenus aux deux versions plaide en faveur de la qualité de notre adaptation (r = .89, p &lt; .01). Intrieri et al.
+(1995) avaient dégagé quatre facteurs : 1) Instrumentalité des personnes âgées, qui mesure la perception de
+l’adaptabilité, de la vitalité et de la capacité d’une personne âgée à poursuivre un but (exemple: OccupéOisif); 2) Autonomie des personnes âgées, qui évalue
+la participation sociale et la sufﬁsance de soi chez les
+personnes âgées (exemple: Indépendante-Dépendante);
+3) Acceptabilité des personnes âgées, qui renvoie à
+l’étendue avec laquelle une personne âgée se montre
+aimable et fait plaisir aux autres en société (exemple:
+Généreux-Egoïste); et 4) Intégrité des personnes âgée,
+qui évalue la perception du sens de la satisfaction personnelle chez les personnes âgées, ainsi que le fait
+d’être en paix avec soi même (exemple: Plein d’espoir–
+Abattu). Les coefﬁcients alpha de Cronbach calculés à
+partir des scores de nos participants se sont révélés satisfaisants, aussi bien pour l’échelle globale (α = .90) que
+pour les quatre sous-échelles (Instrumentalité = .72,
+Autonomie = .74, Acceptabilité = .73, Intégrité = .75).
+Nous nous attendons ici à observer une relation positive entre les scores obtenus à l’ASD et ceux obtenus à
+la FSA-R.
+La version française de l’Ambivalent Sexism Inventory
+(Glick &amp; Fiske, 1996), validée par Dardenne, Delacollette, Grégoire, et Lecocq (2006), a été utilisée. Il s’agit
+d’une mesure comportant 22 items assortis chacun
+d’une échelle de réponse de type Likert en 6 points,
+évaluant deux aspects du sexisme : le sexisme hostile
+(antipathie sexiste, exemple d’item : « Les femmes sont
+trop rapidement offensées ») et le sexisme bienveillant
+(attitude subjectivement positive envers les femmes,
+exemple : « Lors d’une catastrophe, les femmes doivent
+être sauvées en premier »). Un score élevé est indicatif
+d’une vision sexiste axée sur le conﬂit homme/femme,
+et sur une certaine fragilité de cette dernière. Le coefﬁcient alpha de Cronbach calculé à partir des scores de
+
+Valérian Boudjemad and Kamel Gana
+
+nos participants s’est révélé fort satisfaisant (α = 0, 89).
+Nous devrions ici nous attendre à observer une relation positive entre le sexisme et l’âgisme.
+L’échelle de préjugés généralisés (EPG) de Dambrun et
+Guimond (2001) est composée de 15 items, assortis
+chacun d’une échelle de réponse de type Likert en 7
+points évaluant les préjugées envers les étrangers, et
+plus particulièrement envers les maghrébins, ces derniers étant la principale cible des préjugés en France
+depuis plusieurs décennies (Pettigrew et al., 1998). En
+voici deux items à titre d’illustration : «Les français
+sont prioritaires en matière d’emploi», et «On ne
+devrait pas accorder aussi facilement la nationalité
+française». Un score élevé indique que le sujet entretient des préjugés négatifs à l’égard du groupe cible. Le
+coefﬁcient alpha calculé à partir des scores de nos participants s’est révélé fort satisfaisant (α = 0, 91). Nous
+devrions nous attendre à observer une relation positive entre le racisme et l’âgisme.
+La désirabilité sociale a été évaluée par l’entremise du
+DS36 développé par Tournois, Mesnil, et Kop (2000). Il
+s’agit d’une échelle comportant 36 items assortis chacun d’une échelle de réponse de type Likert en 7 points,
+mesurant deux aspects de la désirabilité sociale:
+l’autoduperie, qui réfère au fait de se tromper soi même
+en toute bonne foi, de façon non intentionnelle (Exemple: «je suis toujours optimiste »), et l’hétéroduperie,
+qui réfère au fait de tromper autrui intentionnellement
+(exemple : «je dis toujours des choses favorables sur les
+autres»). Un score élevé indique une propension à se
+mentir à soi et aux autres. Les coefﬁcients alpha calculés à partir des scores de nos participants se sont
+révélés fort satisfaisants, à savoir .86 pour l’autoduperie
+et .82 pour l’hétéroduperie.
+
+Résultats
+Fiabilité et analyse d’items de l’Echelle Révisée
+d’Agisme de Fraboni (FSA-R)
+Nous avons utilisé le coefﬁcient alpha de Cronbach
+avec une valeur seuil de .70 (DeVellis, 2003), ainsi que
+la corrélation corrigée de l’item au score total avec une
+valeur supérieure à .35 pour examiner la qualité des
+items de la FSA-R. Nous noterons tout d’abord que le
+coefﬁcient alpha, à savoir .80, s’est révélé fort satisfaisant. En revanche, sur les vingt trois items, nous pouvons en dénombrer huit dont la corrélation corrigée
+avec le score total était inférieur ou égale à .35. En
+outre, l’item 10 afﬁchait une corrélation corrigée négative, et sa suppression avait pour effet d‘augmenter le
+coefﬁcient alpha de 3 points. Ainsi, nous avons décidé
+d’éliminer ces neuf items, à savoir 1, 3, 7, 10, 11, 13,
+15, 18 et 19. Le coefﬁcient alpha obtenu avec les 14
+items retenus s’en est trouvé amélioré de deux points
+(α = .82). Un examen attentif de ces items montre
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+que certains peuvent prêter à discussion quant à leur
+valeur indicative de l’âgisme («Beaucoup de personnes
+âgées sont plus heureuses lorsqu’elles sont en compagnie de personnes de leur âge»), alors que d’autres souffrent, nous semble-t-il, de leur formulation trop directe
+(«On ne peut espérer une conversation intéressante et
+complexe avec la plupart des personnes âgées »).
+
+du modèle aux données. Toutefois, cette statistique
+étant sensible à la taille de l’échantillon, il est recommandé de recourir à d’autres indices d’adéquation tels
+que le RMSEA, LE CFI et l’AGFI. Nous rappelons
+qu’une valeur du RMSEA inférieure à .08 est indicative
+d’une bonne adéquation du modèle aux données
+(Browne &amp; Cudeck, 1993; McCallum, Browne, &amp; Sugawara, 1996). Les valeurs de l’AGFI et du CFI varient
+de zéro (mauvaise adéquation) à 1 (adéquation parfaite), avec comme valeur seuil 0.90 pour accepter un
+modèle. Toutefois, Hu et Bentler (1999) suggèrent
+qu’un RMSEA « proche de » ou inférieur à 0.06, et assorti d’un CFI égal ou supérieur à 0.95, sont des bons
+indicateurs de l’ajustement d’un modèle.
+
+Stabilité temporelle
+Un test-retest, sur une période de quatre semaines, a
+été effectué auprès d’un échantillon d’une trentaine
+d’étudiants (n = 32). La corrélation obtenue, à savoir
+.89, montre la très bonne stabilité temporelle des scores
+de cette échelle.
+Validité de structure
+Aﬁn de vériﬁer la structure factorielle de le la FSA-R,
+nous avons opté pour une démarche conﬁrmatoire
+avec modèles compétitifs, en vue de rechercher le
+modèle qui offre la meilleure adéquation avec nos données. Ainsi, deux modèles ont été spéciﬁés. Le premier
+(M1) correspond au modèle trifactoriel obtenu par
+Rupp et al. (2005) incluant les 23 items, le second (M2)
+reprend les trois mêmes facteurs, mesurés cette fois-ci
+par les 14 items retenus à l’issue de notre analyse
+d’items.
+Les analyses ont été réalisées à l’aide du logiciel Lisrel
+8.51 (Jöreskog &amp; Sörbom, 1993a) avec la méthode
+d’estimation du maximum de vraisemblance. Ce programme fournit un ensemble d’indices d’adéquation
+au modèle théorique. Cependant, nous n’avons utilisé
+que les plus recommandés (Hu &amp; Bentler, 1999), à savoir le chi2, le Root Mean Square Error of Approximation
+(RMSEA) assorti de son intervalle de conﬁance, le
+Adjusted Goodness of Fit Index (AGFI) de Jöreskog et
+Sörbom (1993), et le Comparative Fit Index (CFI) de
+Bentler (1990). Il convient de rappeler qu’un Chi2 non
+signiﬁcatif (proche de zéro) indique un bon ajustement
+
+377
+
+Les résultats présentés dans le tableau 1 montrent que
+M2 ajuste mieux les données que M1. Toutefois, avec
+un RMSEA de .079 et un CFI de .93, ce modèle n’est
+toujours pas bien satisfaisant. Dans l’espoir de pouvoir
+améliorer l’adéquation globale des deux modèles en
+présence, nous avons fait appel aux indices de modiﬁcation, qui nous ont suggéré d’autoriser la corrélation
+entre les erreurs de mesure de certains items, en
+l’occurrence entre les erreurs de l’item 3 et l’item 4, de
+l’item 5 et l’item 6 pour M1, et entre les erreurs de l’item
+5 et l’item 6, et de l’item 16 (17) et l’item 19 (20) pour
+M2. Ces corrélations sont dues aux causes communes
+inﬂuençant les réponses à ces items, et dont ne peuvent
+rendre compte les facteurs au sein du modèle. Ces modiﬁcations ont grandement amélioré l’adéquation globale
+des deux modèles. Mais comme nous pouvons le voir
+dans le tableau, M2 semble mieux proﬁter des modiﬁcations. Avec un RMSEA égal à .051 et un CFI égal à .97,
+ce modèle modiﬁé devient certes très satisfaisant. Toutefois, l’examen analytique de la solution montre que les
+corrélations entre les trois facteurs sont trop élevées
+(entre .81 et .96), laissant supposer l’éventualité d’un
+modèle unifactoriel. Un tel modèle, nommé M3, fut
+alors évalué et ensuite modiﬁé. Bien que M3 modiﬁé
+soit très satisfaisant, M2 modiﬁé offre toujours la meilleure
+
+Tableau 1 : Indices d’ajustement relatifs aux modèles de mesure du FSA-R testés dans l’étude 1
+χ2
+M1
+M1modiﬁé
+M2
+M2modiﬁé
+M3
+M3modiﬁé
+
+dl
+
+RMSEA (intervalle de conﬁance)
+
+CFI
+
+AGFI
+
+563.38
+487.89
+222.92
+132.27
+264.84
+155.54
+
+227
+225
+74
+72
+77
+75
+
+.068
+.060
+.079
+.051
+.087
+.058
+
+.90
+.92
+.93
+.97
+.91
+.96
+
+.84
+.86
+.87
+.92
+.86
+.91
+
+(.061-.075)
+(.053–.068)
+(.067–.091)
+(.037–.065)
+(.076–.099)
+(.045–.071)
+
+Notes. RMSEA = root mean squared error of approximation; CFI = comparative ﬁx index;
+AGFI = adjusted goodness of ﬁt index ; M1 = modèle de Rupp et al. (2005) ; M1 modiﬁé = Modèle incluant deux corrélations entre
+les variances d’erreur : items 3 et 4 et items 5 et 6 ; M2 = Modèle incluant 14 items ; M2 modiﬁé = Modèle incluant deux corrélations
+entre les variances d’erreur : items 5 et 6 et items 16 (17) et 19 (20); M3 = modèle unifactoriel avec 14 items ; M3 modiﬁé = incluant
+deux corrélations entre les variances d’erreur : items 5 et 6 et items 16(17) et 19(20).
+
+378
+
+Canadian Journal on Aging 28 (4)
+
+adéquation aux données. Etant donné qu’il est plus
+parcimonieux, il convient de le préférer aux autres
+modèles testés. Nous noterons que l’examen des estimés des paramètres de M1 modiﬁé et M2 modiﬁé révèle
+que toutes les saturations factorielles des deux modèles
+sont supérieures à .40 (valeur minimale conseillée par
+Ford, McCallum, &amp; Tait, 1986). En revanche, sept saturations factorielles de M1 modiﬁé sont inférieures à .40.
+La saturation de l’item 10 était même nulle. Ainsi,
+l’échelle déﬁnitive qui fera l’objet d’examen de validité
+comporte 14 items (nous l’appellerons FSA-14), répartis
+de la manière suivante : Stéréotypes (items 2, 4,14,21,22,23),
+Séparation (items 5,6,8,9,16) et Attitudes affectives
+(items 12, 17, 20). Nous pensons qu’étant donné les
+fortes corrélations entre les trois dimensions, il est préférable d’utiliser un score unique indiquant le degré
+d’âgisme du répondant. L’utilisation des trois dimensions dans le cadre d’un modèle structural avec variables latentes pourrait être envisagée.
+Validité de construit de la FSA-14
+Les corrélations entre les scores obtenus à la FSA-14 et
+les mesures du sexisme, du racisme et le différenciateur sémantique du vieillissement sont à même de
+nous fournir quelques sérieux indicateurs sur la validité du construit de la FSA-14. Les résultats obtenus
+plaident en faveur de cette validité. Nous noterons, en
+effet, les liens positifs et statistiquement signiﬁcatifs (à
+p &lt; .01) entre l’âgisme et le différenciateur sémantique
+du vieillissement (r = .33), ainsi qu’entre l’âgisme et le
+sexisme (r = .33), de même qu’entre l’âgisme et le racisme (r = .26).
+La FSA-14 et Désirabilité sociale
+Nous pouvons remarquer ici que trois items semblent
+être entachés de désirabilité sociale. En effet, l’item 6
+(« Je n’apprécie pas que les personnes âgées engagent
+la conversation avec moi ») afﬁche une corrélation faible mais signiﬁcative, avec aussi bien l’hétéroduperie
+(r = .15, p &lt; .05) que l’autoduperie (r = .13, p &lt; .05), alors
+que les items 14 (« On ne devrait pas faire conﬁance
+à la plupart des personnes âgées pour s’occuper
+d’enfants ») et 23 (« Les personnes âgées se plaignent
+davantage que les autres ») afﬁchent une corrélation
+faible mais signiﬁcative (p &lt; .05) avec l’hétéroduperie
+seulement (.13 et .12 respectivement).
+
+Discussion
+Cette étude avait pour principal objectif d’adapter
+et de valider l’échelle de l’âgisme de Fraboni (FSA,
+Fraboni et al., 1990), révisée récemment par Rupp et al.
+(2005). Cette validation a porté sur une version française adaptée d’après une procédure de traduction à
+laquelle ont pris part des personnes bilingues, et inclu-
+
+Valérian Boudjemad and Kamel Gana
+
+ant la participation à distance de Maryan Fraboni.
+Cette version a non seulement fait l’objet d’un test de
+clarté préalable, mais elle a de plus été administrée, assortie de sa version originale, à un échantillon d’étudiants
+en langue et littérature anglaises. La forte corrélation
+entre les scores obtenus aux deux versions nous conforte dans l’idée que l’adaptation française de l’échelle
+était de bonne qualité. Nous allons maintenant clariﬁer
+ses qualités psychométriques.
+Tout d’abord, l’analyse d’items a révélé que sur les 23
+items que compte l’échelle révisée, neuf n’offraient pas
+les qualités sufﬁsantes pour prétendre être de bons indicateurs de l’âgisme. Nous avons donc décidé de les
+éliminer. Les 14 items retenus constituent une version
+appelée FSA-14. Ce sont les qualités psychométriques
+de cette version qui seront discutées. Pour commencer,
+il faut souligner sa très bonne cohérence interne et
+sa très satisfaisante stabilité temporelle. Quant à sa validité de construit, les résultats nous ont dévoilé des
+liens positifs entre les scores de l’âgisme et les scores
+obtenus au différenciateur sémantique du vieillissement, ainsi qu’entre les scores du sexisme et du racisme. Il reste à appréhender l’effet de chacun de ces
+préjugés sur l’âgisme. A cette ﬁn, une analyse de régression multiple pas à pas a été réalisée avec les scores
+au FSA-14 comme critère, et les scores au sexisme, au
+racisme et au différenciateur sémantique du vieillissement comme prédicteurs. Les résultats ont montré que
+ces derniers avaient chacun un effet statistiquement
+signiﬁcatif, et que la part de variance dont ils rendent
+compte était de 26% (R2 ajusté). Toutefois, une part importante était imputable au score obtenu au différenciateur sémantique du vieillissement (14%) et au
+sexisme (10%). Il est clair que si l’âgisme et le sexisme
+ne sont pas du racisme, ils en partagent un fond commun basé sur le rejet de l’autre.
+La validité de structure est d’une importance capitale
+pour une mesure, puisque nous savons bien que la
+structure factorielle est avant tout la représentation
+d’une déﬁnition opérationnelle du construit, ainsi que
+du fondement théorique qui le sous-tend (Brown,
+2006). Par ailleurs, elle détermine la manière dont les
+scores seront utilisés: un score global, des sous-scores,
+ou les deux? Ainsi, nous avons soumis à l’épreuve des
+faits la structure factorielle du FSA-14. Il est évident
+que l’invariance d’un modèle de mesure selon les populations pourrait signiﬁer la validité de la construction
+théorique dont il est la représentation empirique. En
+effet, une échelle est d’autant plus valide qu’elle convient à différents échantillons, car le pire scénario serait
+de se retrouver avec autant de modèles de mesure que
+d’échantillons. Les résultats de nos analyses factorielles conﬁrmatoires ont démontré que la structure factorielle (avec trois facteurs corrélés) basée sur nos 14
+items était meilleure que celle basée sur les 23 items de
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+la version de Rupp et al. (2005). Cependant, elle
+n’était pas très satisfaisante pour autant. En effet, une
+modiﬁcation fut nécessaire pour atteindre un niveau
+d’adéquation statistique satisfaisant. Ainsi, nous avons
+été amenés à autoriser les corrélations entre les résidus
+d’erreurs de l’item 5 et l’item 6, et de l’item 17 et l’item 20.
+Cette initiative mérite une explication, car il ne sufﬁt
+pas de modiﬁer un modèle dans l’unique objectif
+d’améliorer son ajustement statistique (Rubio &amp;
+Gillespie, 1995). Il est impératif de déterminer les raisons théoriques et psychométriques qui justiﬁent ces
+modiﬁcations. Il est évident que les corrélations entre
+les erreurs de mesure signiﬁent que ces mesures (indicateurs) partagent les mêmes sources de variations inconnues que celles dont rend compte le facteur auquel
+elles sont reliées. Elles sont parfois dues simplement à
+la redondance des items. Nous pouvons aisément admettre, en effet, que lorsque l’on trouve au sein d’une
+échelle deux items similaires, la réponse à l’un pourrait
+affecter la réponse à l’autre, ce qui constitue une source
+d’erreur (Rubio &amp; Gillespie, 1995). L’examen des items
+dont les erreurs de mesure ont été autorisées à corréler
+laisse à penser que ces corrélations expriment plutôt
+des effets instrumentaux imputables à leur redondance.
+Nous remarquerons, en effet, la frappante ressemblance
+entre l’item 16 «La plupart des personnes âgées sont
+d’agréable compagnie » et l’item 19 «La plupart des
+personnes âgées sont intéressantes car chacune possède
+sa propre identité». Toutefois, la structure à trois facteurs corrélés est problématique, car ces corrélations se
+sont révélées trop fortes, laissant alors supposer une
+structure unifactorielle. En effet, bien que cette dernière
+soit statistiquement un peu moins satisfaisante que la
+structure trifactorielle, nous estimons qu’il est préférable d’utiliser un score global, comme l’avait suggéré Fraboni et al. (1990) pour sa version originale, en
+opposition à Rupp et al. qui conseillaient, suite à leur
+analyse, l’emploi de trois sous scores d’âgisme.
+Nous noterons enﬁn que trois items se sont révélés être
+entachés de désirabilité sociale. Ce résultat prouve les
+limites des mesures auto-rapportées des stéréotypes,
+des attitudes et des préjugés. Sans pour autant
+mettre en doute les bonnes qualités psychométriques
+d’ensemble de la FSA-14, il convient d’être prudent
+quant à l’utilisation de ce type de mesure. Des mesures
+indirectes devraient être développées.
+
+Etude 2
+La présente étude a pour objectif de soumettre à
+l’épreuve des faits un modèle structural mettant en jeu
+l’âgisme et le « Big Three », à savoir l’empathie,
+l’orientation à la dominance sociale, et le dogmatisme,
+sous le contrôle du sexe et de l’âge des participants. Ce
+modèle, présenté dans la ﬁgure 1, expose l’hypothèse
+
+La Revue canadienne du vieillissement 28 (4)
+
+379
+
+Figure 1 : Modèle structural ﬁnal de la médiation entre
+l’empathie et l’âgisme
+Notes : les indices sont signiﬁcatifs à p &lt; .05 ; * = non signiﬁcatif ;
+EMP = empathie ; ODS = orientation à la dominance sociale ;
+IA = intolérance autoritaire ; sexe : 1 = homme, 2 = femme.
+Par manque de place, ni les indicateurs des variables latentes
+ni les variables résiduelles ne sont représentées dans cette
+ﬁgure.
+
+selon laquelle le dogmatisme et l’orientation à la dominance sociale jouent un rôle médiateur entre l’empathie
+et l’âgisme, en tant que variable dépendante ultime
+(outcome). Il a été démontré que l’âge chronologique est
+impliqué dans les attitudes à l’égard du vieillissement
+(Anantharaman, 1979; Bell &amp; Stanﬁeld, 1973a, 1973b;
+Berg &amp; Sterberg, 1992; Erber, 1989; Finkelstein, Burke,
+&amp; Raju, 1995; Hummert, 1994; Hummert, Gartska,
+O’Brien, Greenwald, &amp; Mellott, 2002; Hummert,
+Garstka, &amp; Shaner, 1997; Hummert, Garstka, Shaner, &amp;
+Strahm, 1995; Kite, Stockdale, Whitley, &amp; Johnson,
+2005; Kogan, 1961; Kogan &amp; Shelton, 1962; Rupp et al.,
+2005) et que le sexe intervient dans les préjugés généralisés (Bäckström &amp; Björklund, 2007). En effet, les
+hommes entretiennent davantage de préjugés généralisés que les femmes. De même, les jeunes afﬁchent plus
+d’attitudes négatives à l’égard du vieillissement que
+les moins jeunes.
+Plusieurs procédures ont été proposées dans le but
+d’évaluer l’effet médiateur (effet indirect) d’une
+variable (MacKinnon, 2008; MacKinnon, Lockwood,
+Hoffmann, West, &amp; Sheets, 2002). Bien qu’utilisées
+dans le cadre de modèles à médiateur unique, certaines procédures conviennent aussi aux modèles à
+médiateurs multiples (MacKinnon, 2008; Preacher &amp;
+Hayes, 2008). Nous pouvons citer la procédure d’étapes
+causales proposées par Baron et Kenny (1986), celle du
+produit des coefﬁcients, de la distribution du produit
+de deux variables aléatoires, et enﬁn la procédure de
+rééchantillonnage (Bootstrap). Contrairement aux autres procédures, cette dernière n’exige ni une
+distribution multivariée normale, ni un large échantillon. En outre, Shrout et Bolger (2002) font valoir que
+cette procédure peut être utilisée pour tester des
+modèles à médiateurs multiples. MacKinnon, Lockwood, e Williams (2004) estiment qu’elle produit des
+
+380
+
+Canadian Journal on Aging 28 (4)
+
+résultats (intervalles de conﬁance) plus précis qu’avec
+les autres procédures. Le principe de cette procédure
+est simple (MacKinnon, 2008). Un certain nombre
+d’échantillons (ﬁxé par le chercheur) sont générés aléatoirement avec remplacement à partir de l’échantillon
+initial considéré comme la population. Chaque échantillon généré contient le même nombre d’observations
+que l’échantillon initial. Il y aura ensuite autant
+d’estimations du modèle que d’échantillons générés.
+Une moyenne des estimations de chaque paramètre du
+modèle est calculée et assortie d’un intervalle de conﬁance (CI). Une estimation (effet indirect par exemple)
+est signiﬁcative à .05 si son intervalle de conﬁance à
+95% (95% CI) ne comporte pas de valeur nulle (voir
+Preacher &amp; Hayes, 2008).
+
+Méthode
+Participants
+Cette deuxième étude repose sur un échantillon de
+convenance regroupant 284 personnes âgées entre
+17 et 74 ans (moyenne = 30.35 ans, ET = 13.58 ans),
+dont 52 % d’étudiants, et composé de 185 femmes et
+99 hommes. Les personnes interrogées ont participé
+volontairement à l’étude et ont toutes été informées du
+caractère anonyme des questionnaires.
+Les étudiants ont été approchés sur le campus Lettres et
+Sciences humaines de notre université. Les autres (48%)
+l’étaient par l’entremise de nos étudiants auxquels nous
+avions conﬁé le questionnaire sous pli, aﬁn de le faire
+remplir par leur entourage. Cette procédure nous à permis d’obtenir un taux de retour approchant les 75%.
+Instruments de mesure
+L’échelle d’âgisme de Fraboni révisée-version courte
+(FSA-14). Nous avons utilisé ici la FSA-14 validée
+dans notre première étude. Pour chaque item, les
+répondants expriment leur degré d’accord à l’aide
+d’une échelle de type Likert en cinq points.
+Nous avons procédé à une contre-validation de la
+structure factorielle de cette version courte. A cette ﬁn,
+une analyse factorielle conﬁrmatoire a été réalisée pour
+tester deux modèles: un modèle monofactoriel et un
+modèle à trois facteurs corrélés, à savoir Stéréotypes,
+Séparation et Attitudes affectives. Les résultats montrent que le modèle trifactoriel (CFI = .92, RMSEA = .079
+[90% CI : .066–.092]) ajuste mieux les données que le
+modèle monofactoriel (CFI = .90, RMSEA = .089 [90%
+CI = .077–.101]). Toutefois, le fait d’autoriser, comme
+pour la première étude, les erreurs de mesure de l’item
+5 et de l’item 6 à covarier, a permis d’améliorer considérablement l’ajustement des deux modèles, donnant
+toujours un avantage au modèle à trois facteurs corrélés, comme en témoignent les indices d’adéquation
+
+Valérian Boudjemad and Kamel Gana
+
+globale (CFI = .96 et RMSA = .059 (.045-.073) vs CFI =
+.94, RMSEA = .070 (.057-.083) pour le modèle unifactoriel). Nous noterons par ailleurs que les valeurs des saturations factorielles s’échelonnent de .57 à .79. L’examen
+de la corrélation multiple au carré de chaque item montre l’existence d’une forte corrélation des items à leurs
+facteurs respectifs (tous les R2 étaient supérieurs à .30).
+Le coefﬁcient Alpha obtenu à partir des scores de nos
+participants s’est révélé fort satisfaisant, à savoir .91.
+L’échelle d’orientation à la dominance sociale (ODS).
+Cette échelle, initialement développée par Pratto et al.
+en 1994, mesure l’Orientation à la Dominance Sociale
+telle que décrite dans la théorie de la dominance sociale de Sidanius et Pratto (1999). Elle évalue globalement une attitude favorable ou non envers les relations hiérarchiques et la domination des groupes dits
+inférieurs par les groupes dits supérieurs. La version
+francophone validée par Duarte et al. (2004) se compose de 16 items, assortis chacun d’une échelle de
+réponse de type Likert en 7 points. Elle se décompose
+en deux dimensions : Dominance basée sur des Groupes
+(exemple « Les groupes inférieurs devraient rester à
+leur place ») et Opposition à l’Egalité (exemple «Ce serait bien si les groupes pouvaient être égaux » item inversé). Un score élevé indique une attitude favorable
+à la domination de certains groupes sur d’autres, ainsi
+qu’aux relations hiérarchiques entre ces derniers. Le
+coefﬁcient alpha calculé à partir des scores de nos participants s’est révélé fort satisfaisant, à savoir .90. Il est
+légèrement supérieur à celui obtenu par Duarte et al. à
+savoir .88.
+L’échelle d’intolérance autoritaire envers l’outgroup. Il
+s’agit d’une échelle de dogmatisme développée par
+Rokeach (1960) rendant compte des aspects formels et
+structuraux du système de croyances d’une personne,
+sans tenir compte du contexte socio-idéologique. Nous
+avons utilisé la version française adaptée et validée par
+Dru (1998). Son travail de validation a permis de dégager deux facteurs nommés Croyance Activisme envers
+une Cause et Intolérance Autoritaire envers l’Outgroup.
+Nous avons choisi de ne conserver que ce dernier
+comme indicateur du dogmatisme. En effet, Dru (1998,
+2003) précise que le premier facteur correspondrait,
+et ce malgré la déﬁnition initiale du concept, à une
+dimension idéologique du dogmatisme (exemple
+« D’une manière générale, il vaut mieux mourir en se
+battant que se soumettre. »). Composée de huit items,
+assortis chacun d’une échelle de réponse à cinq points,
+la dimension Intolérance Autoritaire envers l’Outgroup
+(exemple « Certaines personnes peuvent m’être antipathiques à cause de leurs opinions ») est plus appropriée aux objectifs recherchés. Un score élevé indique
+une tendance comportementale autoritaire à l’égard
+de groupes différents de son groupe d’appartenance.
+L’alpha de Cronbach calculé à partir des scores de
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+nos participants est proche de celui obtenu par Dru
+(1998), puisqu’il s’élève à .69. Ce coefﬁcient est assez
+satisfaisant, eu égard au nombre réduit d’item (Netemeyer, Bearden, &amp; Sharma, 2003; Streiner, 2003). Pour
+les besoins de notre modèle structural, nous avons parcellisé les items et créé deux indicateurs pour la variable latente «dogmatisme ». Pour ce faire, nous avons
+suivi les recommandations de Russell, Kahn, Spoth, et
+Altmaier (1998) qui consistaient à ordonner les items
+en fonction de leur saturation factorielle obtenue à la
+suite d’une analyse factorielle (maximum de vraisemblance pour un facteur unique), et à les répartir ensuite
+en deux parcelles comme suit: l’item ayant la plus forte
+saturation, ainsi que celui ayant la plus faible, sont affectés à une parcelle, l’item classé second et celui classé
+avant-dernier sont affectés à une autre parcelle, et ainsi
+de suite. Cette procédure a l’avantage de permettre
+d’obtenir deux parcelles équilibrées.
+
+que soi (exemple «Je suis souvent touché et concerné
+par les événements dont je suis témoin»). La troisième
+dimension, nommée Personal Distress (PD), mesure la
+tendance des émotions orientées vers soi et relatives
+à une anxiété personnelle dans le cadre de tensions
+interpersonnelles (exemple «Lorsque je vois quelqu’
+un qui a vraiment besoin de secours, je perds mes
+moyens»).
+
+L’interpersonal reactivity Index (IRI) de Davis (1980,
+1983). L’Interpersonal Reactivity Index (IRI), développé par Davis (1980, 1983), a été choisi pour mesurer
+l’empathie. De nombreuses conceptions des mesures
+d’empathie ont été mises en place, certaines se focalisant sur l’aspect cognitif et d’autres sur l’aspect affectif (Caruso &amp; Mayer, 1998; Favre, Joly, Reynaud, &amp;
+Salvador, 2005). L’IRI présente l’avantage d’être une
+échelle multidimensionnelle évaluant à la fois les
+composantes affectives et cognitives de l’empathie au
+travers de 28 items, assortis chacun d’une échelle de
+réponse en 5 points. Nous avons utilisé une version
+française traduite par Saroglou, Pichon, Trompette,
+Verschueren, et Dernelle (2005). Nous avons jugé
+nécessaire d’améliorer cette traduction. Pour ce faire,
+nous l’avons soumise, accompagnée de deux autres
+traductions effectuées par des personnes bilingues,
+à un comité qui en a sélectionnés les items déﬁnitifs
+(voir Vallerand, 1989). Initialement, la version utilisée
+par Saroglou et al. (2005) ne comprend que trois des
+quatre dimensions dégagées par Davis (1980, 1893).
+En effet, ces auteurs ont jugé pertinent de ne pas
+retenir le facteur Fantasy mesurant la tendance à se
+transposer aux émotions et ressentis de personnages
+de livres, ﬁlms ou jeux (Davis, 1983), représentant un
+aspect peu informatif dans le cadre d’études sur les
+préjugés. Nous souscrivons à cette idée. La version
+retenue de l’IRI comporte donc 21 items mesurant
+les trois dimensions considérées comme étant des aspects importants de l’empathie (Davis, 1983). La première, d’ordre cognitif et nommée Perspective-Taking
+(PT) mesure la tendance spontanée à adopter le point
+de vue des autres (exemple « Je trouve parfois difﬁcile de voir les choses du point de vue des autres »).
+La seconde dimension, d’ordre émotionnel, se nomme
+Empathic Concern (EC) et renvoie au fait de développer
+de la sympathie envers les individus moins chanceux
+
+381
+
+Aﬁn d’examiner les qualités psychométriques de l’IRI
+auprès d’un échantillon français, nous avons utilisé,
+comme dans notre première étude avec le FSA-R, la
+corrélation corrigée de l’item au score total avec une
+valeur supérieure à .35 comme critère d’acceptabilité
+de l’item. Six items ne remplissaient pas ce critère, et
+leur suppression avait amélioré la consistance interne
+de la mesure (α = .86). Les items restants avaient fait
+l’objet d’une analyse factorielle (extraction par la méthode des axes principaux avec rotation oblique). La
+meilleure solution obtenue ici correspond à une solution à trois facteurs. N’ont été retenus que les items
+dont la saturation sur le facteur était égale ou supérieure à .40. Le premier facteur, composé des items
+1, 5, 6, 8, 10, 15, 16, 17, correspond au facteur de Davis
+(1980, 1983) Empathic Concern, et obtient un alpha de
+Cronbach de .85. Le second facteur, correspondant à
+Personal Distress, regroupe les items 4, 7, 12, 20 (alpha =
+.74). Enﬁn, la troisième dimension (items 11, 19, 21)
+renvoyant à Perspective-Taking afﬁche un alpha de .60.
+Un score élevé à cette échelle traduit une capacité
+générale à faire preuve d’empathie.
+
+Résultat
+Statistiques descriptives
+Une analyse de variance (ANOVA) a été réalisée aﬁn de
+vériﬁer s’il y avait des différences signiﬁcatives entre
+les hommes et les femmes au niveau des mesures utilisées dans notre étude (trois sous-échelles de l’âgisme,
+trois sous-échelles de l’empathie, deux sous-échelles
+du dogmatisme et deux sous-échelles de l’orientation à
+la dominance sociale). Les résultats révèlent des différences signiﬁcatives (à p &lt; .001) au niveau de toutes
+ces mesures. Les hommes obtiennent des scores plus
+élevés que les femmes en dogmatisme, en dominance
+sociale et en âgisme. Les femmes afﬁchent des scores
+plus élevés que les hommes en empathie.
+Les moyennes, les écarts-types, ainsi que les corrélations
+entre ces variables, sont synthétisés dans le tableau 2. On
+notera que l’âge est corrélé positivement avec deux dimensions de l’empathie, et négativement avec les trois
+dimensions de l’âgisme. Le sexe est corrélé négativement avec l’orientation à la dominance sociale, avec
+le dogmatisme et avec l’âgisme, et positivement avec
+l’empathie. Ces résultats vont dans le sens des différences
+
+382
+
+Canadian Journal on Aging 28 (4)
+
+Valérian Boudjemad and Kamel Gana
+
+Tableau 2 : Moyenne (M), écart type (EC) et corrélations entre les mesures utilisées dans l’étude 2
+M
+1.Sep
+2.Sté
+3.Aff
+4.PT
+5.Ec
+6.PD
+7.IA1
+8.IA2
+9.DG
+10.OE
+11.Age
+12.Sexe
+
+EC
+
+1
+
+9,26
+4,34 1.00
+15,46 4,95
+.71**
+6,34
+2,72
+.73**
+9,45
+2,69 −.42**
+29,68 6,06 −.62**
+11,79 3,70 −.29**
+12,81 3,02
+.47**
+12,14 3,21
+.44**
+22,69 10,59 .59**
+20,68 10,49 .50**
+30,35 13,58 −.18**
+1,65
+0,48 −.31**
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1.00
+.62**
+−.45**
+−.54**
+−.29**
+.51**
+.49**
+.60**
+.44**
+−.25**
+−.24**
+
+1.00
+−.35**
+1.00
+−.61** 56**
+1.00
+−.36**
+.22**
+.43** 1.00
+.37**
+−.42** −.41** −.20** 1.00
+.39**
+−.36** −.42** −.28** .59** 1.00
+.57**
+−.48** −.63** −.33** .43** .41** 1.00
+.50**
+−.35** −.60** −.32** .33** .26** .70** 1.00
+−.24**
+.03
+.18**
+.12*
+.01
+.10
+−.10
+−.08
+1.00
+.21**
+.28**
+.29** −.25** −.23** −.28** −.28** .02 1.00
+−.47**
+
+Notes. N = 284 ; **p &lt; .001 ; *p &lt; .05 ; Codage Sexe = homme (1) et femme (2) ; Sep = Séparation ; Sté = Stéréotype ; Aff = Attitudes
+affectives ; PT = Perspective-Taking ; EC = Empathic Concern ; PD = Personal Distress ; IA1 = Intolérance Autoritaire parcelle1 ; IA2
+Intolérance Autoritaire parcelle2 ; DG = Dominance Basée sur des Groupes ; OE = Opposition à l’Egalité ; Sexe : homme = 1, femme = 2.
+
+observées au niveau des moyennes à travers l’ANOVA.
+On notera enﬁn que les trois sous-échelles de l’âgisme
+sont reliées à toutes les autres mesures de l’étude.
+Modèle de mesure
+Conformément aux recommandations de Anderson et
+Gerbing (1988), nous avons opté pour la procédure en
+deux étapes consistant à commencer par évaluer le
+modèle de mesure, aﬁn d’en établir la validité avant de
+tester le modèle structural de la médiation. Ainsi, une
+analyse factorielle conﬁrmatoire, incluant cinq variables
+latentes (âge, le sexe, l’orientation à la dominance sociale, le dogmatisme, l’empathie et l’âgisme)3, a été réalisée à l’aide du logiciel Amos 6.00 en utilisant la
+méthode d’estimation du maximum de vraisemblance.
+Avec un Chi2 (40, N = 284) = 117.26, p = .000, un CFI = .95
+et un RMSEA = .083 (90% CI : .066-.10), ce modèle de
+mesure n’était pas très satisfaisant. Ainsi, nous avons
+fait appel aux indices de modiﬁcation dans l’espoir de
+pouvoir en améliorer l’adéquation globale. En effet, le
+fait de libérer les corrélations entre les erreurs de mesure
+des deux sous-échelles du FSA (Stéréotypes et Attitudes
+affectives) et de deux des sous-échelles de l’empathie a
+considérablement amélioré l’ajustement du modèle,
+comme en témoignent les résultats suivants : Chi2 (38,
+N = 284) = 101.84, p = .000 ; CFI = .96, RMSEA = .077 (90%
+CI : .059–.095). Ces modiﬁcations seront maintenues et
+introduites lors de l’évaluation du modèle structural. Il
+est à noter que toutes les saturations factorielles étaient
+signiﬁcatives (p &lt; .001) (voir tableau 3). Nous remarquerons, en examinant la matrice de corrélations entre les
+variables latentes (Tableau 4), qu’aucune n’atteint la
+valeur absolue de .85, indiquant la présence d’une certaine multicollinéarité (Kline, 1998). Nous pouvons y
+lire, en effet, que l’âge ne corrèle ni avec le dogmatisme
+ni avec l’orientation à la dominance sociale. En revanche,
+
+le sexe corrèle négativement avec l’âgisme (−.41, p &lt;
+.001), le dogmatisme (−.31, p &lt; .001) et l’orientation à la
+dominance sociale (−.40, p &lt; .001), mais corrèle positivement avec l’empathie (.34, p &lt; .001). L’âgisme est corrélé
+avec toutes les autres variables: négativement avec
+l’âge (−.27, p &lt; .001), le sexe (−.41, p &lt; .001) et l’empathie
+(−.80, p &lt; .001), et positivement avec le dogmatisme
+(.69, p &lt; .001) et l’orientation à la dominance sociale
+(.75, p &lt; .001).
+Modèle structural : tests des effets indirects
+Le modèle structural (Figure 1) a été évalué à l’aide du
+Logiciel Amos 6.0 en utilisant la méthode d’estimation
+du maximum de vraisemblance. Etant donnée l’absence
+de corrélation entre l’âge et le dogmatisme, ainsi qu’
+Tableau 3 : Saturations factorielles du modèle de mesure de
+l’étude 2
+Construits et
+mesures
+Agisme
+Stéréotypes
+Séparation
+Affectivité
+Empathie
+PT
+PD
+EC
+Dogmatisme
+Parcelle 1
+Parcelles 2
+Dominance sociale
+Groupes
+Egalité
+
+saturation non SE
+standardisée
+
+z
+
+saturation
+standardisée
+
+1.00
+.880
+.548
+
+.85
+.055 16.103 .85
+.037 14.802 .84
+
+1.00
+.994
+3.08
+
+.63
+.146 6.828 .46
+.283 10.919 .88
+
+.981
+1.00
+
+.099
+
+1.00
+.837
+
+.91
+.059 14.094 .77
+
+9.875 .79
+.75
+
+Note. N = 284. Toutes les saturations sont signiﬁcatives à
+p &lt; .001 .
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+Tableau 4 : Matrice des corrélations entre les variables
+latentes du modèle de mesure de l’étude 2
+
+s’est révélé statistiquement signiﬁcatif (b = −.945 [95%
+CI : −1.58, −.496], β = (−.78 × .29) (représentant l’effet
+indirect via l’orientation à la dominance sociale) +
+(−.67 × .26) (représentant l’effet indirect via le dogmatisme) = −.39, p = .001). L’effet direct de l’empathie sur
+l’âgisme s’est avéré lui aussi statistiquement signiﬁcatif (b = −.762 [95% CI : −1.42, −.150, p = .02], β =
+−.32). L’effet direct de l’âge s’est révélé lui aussi statistiquement signiﬁcatif ((b = −.050 [95% CI : −.074, −.025,
+p = .002], β = −.16, p = .003). Il en est de même concernant l’effet direct du sexe sur l’âgisme (b = −.886 [95%
+CI = −1.71–.043], β = −.10, p = .041). Nous notons enﬁn
+que l’effet total s’élève à .71 et que 73% de la variance
+de l’âgisme sont expliqués par les autres variables du
+modèle (R2 = .73 [95%CI : .581–.814], p = .008).
+
+Variable latente 1
+5-Agisme
+6-Empathie
+7-Dogmatisme
+8-Dominance
+sociale
+9-Age
+10-Sexe
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1.00
+−.80** 1.00
+.69** −.64** 1.00
+.75** −.76** .57** 1.00
+−.26**
+−.41**
+
+.18* −.05
+−.11
+1.00
+.34** −.31** −.40** .02 1.00
+
+Note. N = 284
+** p &lt; .001
+* p &lt; .05
+Codage Sexe = homme (1) et femme (2)
+
+entre l’âge et l’orientation à la dominance sociale (voir
+tableau 3), nous avons éliminé les effets directs de la première variable sur ces dernières. Ceci a l’avantage de rendre le modèle plus parcimonieux. Les résultats obtenus, à
+savoir un Chi2 (44, N = 284) = 123.68, p = .000, un CFI = .95
+et un RMSEA = .080 (90% CI : .064–.097), plaident en
+faveur d’un ajustement satisfaisant du modèle aux données. Toutefois, aﬁn de pouvoir l’améliorer, nous avons
+recouru aux indices de modiﬁcation qui nous ont suggéré de libérer l’effet direct du sexe sur l’orientation à la
+dominance sociale. Les résultats obtenus montrent une
+amélioration de l’adéquation du modèle aux données :
+Chi2 (43, N = 284) = 117.76, p = .000, CFI = .95, RMSEA =
+.078 (90% CI = .062-.095). Tous les effets directs et
+indirects se sont révélés statistiquement signiﬁcatifs,
+suggérant ainsi l’existence d’une médiation partielle.
+Toutefois, pour en afﬁrmer l’existence, il est recommandé
+de comparer ce modèle de la médiation partielle à un
+modèle de la médiation totale qui fait l’hypothèse de
+l’absence d’effet direct de l’empathie sur l’âgisme. Les résultats de ce modèle, à savoir un Chi2 (44, N = 284) =
+124.58, p = 000 ; CFI = .95, RMSEA = .080 (90% CI : .064–
+.097), montrent que l’élimination de l’effet direct de
+l’empathie sur l’âgisme détériore l’adéquation du modèle.
+En effet, le ΔX2 (1, N = 284) = 6.82, p &lt; .05) montre qu’il y
+a une différence signiﬁcative entre les deux modèles. En
+effet, celui de la médiation totale peut être rejeté. Nous
+noterons ici les effets négatifs de l’empathie (β = −.32, p =
+.001), de l’âge (β = −.16, p = .01) et du sexe (β = −.10, p =
+.02), ainsi que les effets positifs de l’orientation à la dominance sociale (β = .29, p = .005) et le dogmatisme (β = .26,
+p = .005) sur l’âgisme (voir ﬁgure 1).
+Procédure de rééchantillonnage (Bootstrap Procedure):
+tests de signiﬁcativité des effets indirects
+Les résultats de la procédure Bootstrap pour le modèle
+de la médiation partielle (n = 1000)4 apportent une
+conﬁrmation à la signiﬁcativité des effets indirects.
+En effet, l’effet indirect de l’empathie sur l’âgisme
+
+383
+
+Discussion
+Cette étude avait pour objectif de soumettre à l’épreuve
+des faits un modèle structural faisant l’hypothèse que
+l’effet direct de l’empathie sur l’âgisme est médiatisé
+aussi bien par le dogmatisme que par l’orientation à la
+dominance sociale. L’âge et le sexe avaient servi de variables contrôles puisque leurs effets, aussi bien sur
+l’âgisme que sur les préjugés généralisés, ont été
+démontrés dans plusieurs études. Par ailleurs, nos
+résultats conﬁrment celles-ci. En effet, les femmes
+font preuve de moins d’âgisme que les hommes, et
+l’avancement en âge diminue la propension à l’âgisme.
+L’âge et le sexe sont considérés ici comme variables de
+confusion « Confounding variables », dont le lien avec les
+variables du modèle en modiﬁe ou en accentue les relations. Ainsi, contrôler ces variables, qui peuvent covarier avec les variables indépendantes du modèle,
+permet d’obtenir des estimations non faussées (MacKinnon, Krull, &amp; Lockwood, 2000). Tout en contrôlant
+l’âge et le sexe, ainsi que le dogmatisme et l’orientation
+à la dominance sociale, l’effet direct de l’empathie sur
+l’âgisme s’est révélé statistiquement signiﬁcatif. Comme
+nous pouvions nous y attendre, cet effet était négatif,
+c’est-à-dire que plus nous entretenons de l’empathie en
+tant que trait de personnalité, et moins nous sommes
+enclins à afﬁcher des préjugés négatifs à l’égard des
+personnes âgées. Ce résultat va dans le sens de ceux
+relatifs aux préjugés généralisés. L’effet indirect de
+l’empathie sur l’âgisme, par l’entremise du dogmatisme
+et de l’orientation à la dominance sociale, est lui aussi
+statistiquement signiﬁcatif. Ceci conﬁrme l’effet médiateur de ces dernières variables. Cet effet est lui aussi
+négatif; ainsi, nous pouvons afﬁrmer que le dogmatisme et l’orientation à la dominance sociale n’avaient
+pas eu un effet suppressif. Selon MacKinnon et al.
+(2000), c’est le signe et l’amplitude de l’effet total et de
+l’effet direct qui indiquent l’absence ou la présence
+d’une suppression. Ainsi, si les deux effets vont dans
+le même sens (négatif ou positif), un effet direct plus
+
+384
+
+Canadian Journal on Aging 28 (4)
+
+faible que l’effet total est indicatif, comme c’est le cas
+dans notre modèle, de la présence d’une médiation, alors
+que l’inverse est indicatif de la présence d’une suppression. Selon Conger (1974), est considérée comme suppressive toute variable qui augmente la valeur prédictive
+d’une (ou plusieurs) autre(s) variable(s) lorsqu’elle est
+introduite dans un modèle de régression. Autrement dit,
+il y a un effet suppressif lorsque la magnitude de l’effet
+d’une variable indépendante sur une variable dépendante augmente par le simple fait d’introduire une
+troisième variable (Cheung &amp; Lau, 2008).
+Nos résultats plaident en faveur d’un effet négatif direct
+de l’empathie sur l’âgisme. Ils montrent aussi que cet
+effet négatif est médiatisé par le dogmatisme et
+l’orientation à la dominance sociale, qui exercent un effet positif sur l’âgisme. Le dogmatisme augmente donc
+la propension à l’âgisme. Plus on afﬁche une orientation
+à la dominance sociale, et plus on est enclin à entretenir
+des préjugés négatifs à l’égard des personnes âgées. Ces
+résultats vont dans le sens de ceux relatifs aux préjugés
+généralisés (Bäckström &amp; Björklund, 2007; McFarland,
+2001). Toutefois, la dimension «groupale» de l’orientation
+à la dominance sociale mérite d’être étudiée. Il faudrait
+envisager et soumettre à l’épreuve des faits un modèle
+incluant aussi bien l’effet de la dimension « groupale »
+de l’ODS que sa dimension « trait de personnalité » sur
+l’âgisme.
+
+Conclusion générale
+L’âgisme est un mécanisme psychosocial engendré par
+la perception, consciente ou non, des qualités intrinsèques d’un individu (ou d’un groupe) en lien avec son
+âge. Il s’exprime de manière individuelle ou collective,
+explicite et/ou implicite par l’entremise de comportements discriminatoires, de stéréotypes et de préjugés
+très généralement négatifs. De plus, compte-tenu du
+vieillissement de la population et de l’augmentation de
+l’espérance de vie dans les sociétés occidentales, il risque de devenir un champ d’investigation incontournable en psycho-socio-gérontologie. Notre recherche
+s’inscrit pleinement dans ce champ, dont l’objectif est
+de comprendre l’âgisme aﬁn de pouvoir le prévenir et
+le combattre. N’est-il pas considéré comme un «mal
+psychosocial» par Palmore (2004) ? Mais avant de récapituler nos principaux résultats, il convient de noter
+qu’ils comportent des limites liées aussi bien à la nonreprésentativité de nos échantillons qu’à l’utilisation
+de mesures auto-rapportées.
+La Fraboni Scale of Ageism (FSA) (Fraboni et al., 1990)
+a été construite pour mesurer le concept d’âgisme
+tel que déﬁni par Butler en 1978, en s’appuyant sur
+les principales dimensions des préjugés déﬁnies par
+Allport (1954). Une version révisée de cette échelle a
+été proposée récemment par Rupp et al. (2005). En
+
+Valérian Boudjemad and Kamel Gana
+
+l’absence de mesures françaises de l’âgisme, nous
+avons jugé utile d’adapter et de valider cette échelle
+dont nous avons besoin pour, entre autres, tester des
+modèles explicatifs. Notre première étude avait permis
+d’obtenir une version de la Fraboni Scale of Ageism comprenant 14 items (appelée FSA-14) dont les qualités
+psychométriques se sont révélées fort satisfaisantes.
+Outre leur stabilité temporelle, les scores obtenus avec
+cette version ont démontré une bonne cohérence interne et une excellente validité de construit. Celle-ci
+a conﬁrmé l’appartenance de l’âgisme à un système
+global d’intolérance, comme l’avaient déjà montré
+Aosved et Long (2006), dans lequel les corrélations entre les différentes mesures de préjugés sont signiﬁcatives mais témoignent de construits distincts. Quant à
+la structure factorielle, nos analyses conﬁrmatoires ont
+démontré qu’une conception à trois facteurs en corrélation (Stéréotypes, Séparation et Attitudes affectives) apparaît comme étant la représentation la plus plausible
+de l’échelle. Toutefois, les très fortes corrélations
+entre ces trois dimensions nous incitent à privilégier
+l’utilisation d’un score global, sans exclure la possibilité de leur utilisation dans le cadre de modèles structuraux avec variables latentes.
+D’ailleurs, notre seconde étude avait permis de soumettre à l’épreuve des faits un modèle structural avec
+variables latentes faisant l’hypothèse que le dogmatisme et l’orientation à la dominance sociale jouent un
+rôle médiateur entre l’empathie et l’âgisme. Les trois
+premières variables constituent le «Big Three» dont
+nous connaissons désormais l’implication dans les
+préjugés généralisés. Nos résultats plaident en faveur
+du modèle de la médiatisation partielle, qui montre
+que l’empathie exerce sur l’âgisme un effet aussi bien
+direct qu’indirect, par l’entremise du dogmatisme et
+de l’orientation à la dominance sociale. Ces résultats
+montrent que ce qui vaut pour les préjugés généralisés
+pourrait valoir pour l’âgisme. Ils confortent l’idée
+selon laquelle l’âgisme fait partie de la famille des
+préjugés, et que celui-ci est «un mal psychosocial »
+dont il ne faut guère sous-estimer les conséquences. Il
+convient de rappeler, pour ﬁnir, qu’un modèle n’est
+qu’une représentation simpliﬁée et réductrice d’une
+réalité qui est autrement plus complexe. En outre, un
+modèle qui ajuste bien les données n’offre qu’une approximation de la réalité. Par conséquent, une contrevalidation ainsi que d’autres modèles seront nécessaires
+aﬁn de mieux cerner la nature profonde de l’âgisme et
+de le combattre. Enﬁn, il est loisible de croire que
+l’échelle que nous venons d’adapter pourrait concourir
+à promouvoir la recherche sur l’âgisme. Toutefois, il
+nous faut rappeler que la quasi totalité des mesures
+explicites, et plus particulièrement celles évaluant les
+préjugés, est souvent inﬂuencée par la désirabilité sociale. Ainsi, il serait judicieux de les compléter par des
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+mesures indirectes opérant sous le seuil de conscience
+du sujet (Blaison, Chassard, Kop, &amp; Gana, 2006; Fazio
+&amp; Olson, 2003; Greenwald &amp; Banaji, 1995) tels que
+l’Implicit Association Test (IAT, Greenwald, McGhee, &amp;
+Schwartz, 1998) pour des évaluations relatives, ou le
+Single Category Implicit Association Test (SC-IAT, Karpinski &amp; Steinman, 2006) pour des évaluations plus
+absolues.
+
+Bäckström, M., &amp; Björklund, F. (2007). Structural modeling
+of generalized prejudice: The role of social dominance,
+authoritarianism, and empathy. Journal of Individual
+Differences, 28, 10–17.
+
+Notes
+1 http :// www. statcan . gc . ca / daily - quotidien / 061026 /
+dq061026b-fra.htm
+2 Nous tenons à remercier vivement le Dr Maryann Fraboni
+pour avoir participé à distance à ce travail de traduction.
+Elle a, en effet, accepté à plusieurs reprises de nous préciser le sens anglo-saxon de certains items.
+3 Les variables latentes « âge » et « sexe » étaient mesurées
+chacune par un seul indicateur dont on a ﬁxé la variance
+d’erreur à zéro. On faisait l’hypothèse que l’une et l’autre
+étaient mesurées sans erreur. Le sexe était codé comme suit :
+Homme (1) et femme (2).
+
+385
+
+Banaji, M.R. (1999). Unconscious isms: Examples from racism,
+sexism, and ageism. Document présenté lors de la
+conférence “the Way Women Lean Conference,” New
+Haven, CT.
+Baron, R.M., &amp; Kenny, D.A. (1986). The moderator–mediator
+variable distinction in social psychological research:
+Conceptual, strategic, and statistical considerations.
+Journal of Personality &amp; Social Psychology, 51, 1173–1182.
+Barrow, G.M., &amp; Smith, P.A. (1979). Aging, ageism, and society.
+New York: West Publishing.
+Batson, C.D., Polycarpou, M.P., Harmon-Jones, E., Imhoff,
+H.J., Mitchener, E.C., Bednar, L.L., et al. (1997). Empathy
+and attitudes: Can feeling for a member of a stigmatized
+group improve feelings toward the group? Journal of
+Personality and Social Psychology, 72, 105–118.
+
+4 MacKinnon (2008, p.333) considère que 1000 rééchantillons sont sufﬁsants pour ce type d’analyse.
+
+Bell, B.D., &amp; Stanﬁeld, G.G. (1973a). The aging stereotype in
+experimental perspective. The Gerontologist, 13, 341–344.
+
+Références bibliographiques
+
+Bell, B.D., &amp; Stanﬁeld, G.G. (1973b). Chronological age in
+relation to attitudinal judgments: An experimental
+analysis. Journal of Gerontology, 28, 491–496.
+
+Adorno, T.W., Frenkel-Brunswik, E., Levinson, D.J., &amp;
+Sanford, R.N. (1950). The authoritarian personality. New
+York: Norton.
+Akrami, N., &amp; Ekehammar, B. (2006a). Prejudice: Personality or
+social psychology?Manuscript submitted for publication.
+Akrami, N., &amp; Ekehammar, B. (2006b). Right-wing authoritarianism and social dominance orientation: Their roots
+in Big-Five personality factors and facets. Journal of Individual Differences, 27, 117–126.
+
+Bentler, P.M. (1990). Fit indices, Lagrange multipliers, constraint changes, and incomplete data in structural
+models. Pyshologycal Bulletin, 88, 588–600.
+Berg, C.A., &amp; Sterberg, R.J. (1992). Adults’ conceptions of
+intelligence across the adult life span. Psychology and
+Aging, 7, 221–231.
+
+Akrami, N., &amp; Ekehammar, B. (2007). Personality and prejudice: From Big Five personality factors to facets. Journal
+of Personality, 75, 899–925.
+
+Blaison, C., Chassard, D., Kop, J.-L., &amp; Gana, K. (2006). L’IAT
+(Implicit Association Test) ou la mesure des cognitions
+sociales implicites: Revue critique de la validite et des
+fondements theoriques des scores qu’il produit. L’Année
+Psychologique, 106, 305–336.
+
+Allport, G.W. (1954). The nature of prejudice. Reading, MA:
+Addison-Wesley.
+
+Brown, T.A. (2006). Conﬁrmatory factor analysis for applied
+research. New York: The Guilford Press.
+
+Altemeyer, B. (1998). The other ‘‘authoritarian personality.’’
+In L. Berkowitz (Ed.), Advances in experimental social
+psychology (Vol. 30, pp. 47–92). Orlando, FL: Academic
+Press.
+
+Browne, M.W., &amp; Cudeck, R. (1993). Alternative ways of
+assessing model ﬁt. In K.A. Bollen &amp; J.S. Long (Eds.),
+Testing structural equation models (pp. 136–162). Beverly
+Hills, CA: Sage Publications.
+
+Anantharaman, R.N. (1979). Perception of old age by two generations. Journal of Psychological Researches, 23, 198–199.
+Anderson, J.C., &amp; Gerbing, D.W. (1988). Structural equation
+modeling in practice: A review and recommended twostep approach. Psychological Bulletin, 103, 411–423.
+Aosved, A., &amp; Long, P. (2006). Co-occurrence of rape myth
+acceptance, sexism, racism, homophobia, ageism, classicism, and religious intolerance. Sex Roles: A Journal of
+Research, 55, 481–492.
+
+Buswell, B.N. (2006). The role of empathy, responsibility, and
+motivations to respond without prejudice in reducing
+prejudice. Dissertation Abstracts International: Section B:
+The Sciences and Engineering, 66, 6968.
+Butler, R.N. (1969). Age-ism; another form of bigotry. The
+Gerontologist, 9, 243–246.
+Butler, R.N. (1978). Thoughts on aging. American Journal of
+Psychiatry, 135, 14–16.
+
+386
+
+Canadian Journal on Aging 28 (4)
+
+Caruso, D.R., &amp; Mayer, J.D. (1998). A measure of emotional
+empathy for adolescents and adults. Unpublished
+Manuscript.
+
+Valérian Boudjemad and Kamel Gana
+Ekehammar, B., Akrami, N., Gylje, M., &amp; Zakrisson, I. (2004).
+What matters most to prejudice: Big Five personality, social dominance orientation, or Right-wing authoritarianism? European Journal of Personality, 18, 463–482.
+
+Cheung, G.W., &amp; Lau, R.S. (2008). Testing mediation and
+suppression effects of latent variables bootstrapping
+with structural equation models. Organizational Research
+Methods, 11, 296–325.
+
+Erber, J.T. (1989). Young and older adults’ appraisal of memory
+failures in young and older adult target persons. Journals
+of Gerontology, 44, 170–175.
+
+Conger, A.J. (1974). A revised deﬁnition for suppressor variables: A guide to their identiﬁcation and interpretation. Educational and Psychological Measurement, 34,
+35–46.
+
+Favre, D., Joly, J., Reynaud, C., &amp; Salvador, L.L. (2005). Empathie, contagion émotionnelle et coupure émotionnelle
+Partie 1: historique critique de la notion d’empathie.
+Enfance, 4, 363–382.
+
+Dambrun, M., &amp; Guimond, S. (2001). La théorie de la privation relative et l’hostilité envers les Nord-Africain. Revue
+Internationale de Psychologie Sociale, 1, 57–89.
+
+Fazio, R.H., &amp; Olson, A.O. (2003). Implicit measures in social
+cognition research: Their meaning and use. Annual
+Review in Psychology, 54, 297–327.
+
+Dardenne, B., Delacollette, N., Grégoire, C., &amp; Lecocq, D.
+(2006). Structure latente et validation de la version
+française de l’Ambivalent Sexism Inventory: L’échelle
+de sexisme ambivalent (Latent Structure of the French
+Validation of the Ambivalent Sexism Inventory: Echelle
+de Sexisme Ambivalent). L’année Psychologique, 106,
+235–264.
+
+Finkelstein, L.M., Burke, M.J., &amp; Raju, N.S. (1995). Age discrimination in simulated employment contexts: An integrative
+analysis. Journal of Applied Psychology, 52, 652–663.
+Ford, K.J., McCallum, R.C., &amp; Tait, M. (1986). The application
+of exploratory factor analysis in applied psychology: A
+critical review. Personnel Psychology, 39, 291–314.
+
+Davis, M.H. (1980). A multidimensional approach to individual differences in empathy. JSAS Catalog of Selected
+Documents in Psychology, 10, 85.
+
+Fraboni, M., Saltstone, R., &amp; Hugues, S. (1990). The Fraboni
+scale of ageism: An attempt at a more precise measure of
+ageism. Canadian Journal on Aging, 9, 55–66.
+
+Davis, M.H. (1983). Measuring individual differences in
+empathy: Evidence for multidimensional approach.
+Journal of Personality and Social Psychology, 44, 113–126.
+
+Galinsky, A.D., &amp; Moskowitz, G.B. (2000). Perspective-taking:
+Decreasing stereotype expression, stereotype accessibility, and in-group favoritism. Journal of Personality and
+Social Psychology, 78, 708–724.
+
+Deconchy, J.P., &amp; Dru, V. (2007). L’Autoritarisme. Grenoble,
+France: Presses Universitaires de Grenoble.
+Del Barrio, V., Aluja, A., &amp; Garcia, L.F. (2004). Relationship
+between empathy and the Big Five personality traits in a
+sample of Spanish adolescents. Social Behavior and
+Personality, 32, 677–681.
+DeVellis, R.F. (2003). Scale development: Theory and applications
+(2nd ed.). Thousand Oaks, CA: Sage Publications.
+Dru, V. (1998). Dogmatisme et culture: facteurs permanents
+et spéciﬁques. Revue Européenne de Psychologie Appliquée,
+48, 97–102.
+Dru, V. (2003). Relationships between an ego orientation
+scale and a hypercompetitive scale: Their correlates with
+dogmatism and authoritarianism factors. Personality and
+Individual Differences, 35, 1509–1524.
+Duarte, S., Dambrun, M., &amp; Guimond, S. (2004). Social dominance and legitimizing myths: Validation of a French
+form of the social dominance orientation scale. Revue
+Internationale de Psychologie Sociale, 4, 97–126.
+
+Gauthier, J., &amp; Bouchard, S. (1993). Adaptation canadiennefrançaise de la forme révisée du State-Trait Anxiety
+Inventory de Spielberger. Revue Canadienne des Sciences
+du Comportement, 25, 559–578.
+Glick, P., &amp; Fiske, S.T. (1996). The ambivalent sexism inventory: Differentiating hostile and benevolent sexism. Journal
+of Personality and Social Psychology, 70, 491–512.
+Golde, P., &amp; Kogan, N. (1959). A sentence completion procedure for assessing attitudes toward old people. Journal of
+Gerontology, 14, 355–363.
+Greenwald, A.G., &amp; Banaji, M.R. (1995). Implicit social cognition: Attitudes, self-esteem, and stereotypes. Psychological
+Review, 102, 4–27.
+Greenwald, A.G., McGhee, D.E., &amp; Schwartz, J.L.K. (1998).
+Measuring individual differences in implicit cognition:
+The Implicit Association Test. Journal of Personality and
+Social Psychology, 74, 1464–1480.
+
+Duckitt, J. (1989). Authoritarianism and group identiﬁcation:
+A new view of an old construct. Political Psychology, 10,
+63–84.
+
+Guimond, S., Dambrun, M., Michinov, N., &amp; Duarte, S. (2003).
+Does social dominance generate prejudice? Integrating
+individual and contextual determinants of intergroup
+cognitions. Journal of Personality and Social Psychology, 84,
+697–721.
+
+Duckitt, J. (2001). A dual-process cognitive-motivational
+theory of ideology and prejudice. Advances in Experimental
+Social Psychology, 33, 41–113.
+
+Haccoun, R.R., (1987). Une nouvelle technique de vériﬁcation de l’équivalence de mesures psychologiques
+traduites. Revue Québécoise de Psychologie, 8(3), 30–39.
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+Haub, C. (2003). World population data sheet. Washington, DC:
+Population Reference Bureau. http://www.prb.org
+(consultépour la dernière fois le 13 février 2008).
+
+Kogan, N., &amp; Shelton, F.C. (1962). Differential cue value of
+age and occupation in impression formation. Psychological Reports, 7, 203–216.
+
+Haub, C. (2005). World population data sheet. Washington, DC:
+Population Reference Bureau. http://www.prb.org
+(consultépour la dernière fois le 13 février 2008).
+
+LeCompte, W.A., &amp; Oner, N. (1976). Development of the
+Turkish edition of the state-trait anxiety inventory. In
+C.D. Spielberger &amp; D. Guerrero (Eds.), Cross Cultural
+Anxiety (pp. 51–68). Washington, DC: Hemisphere Publishing Corp.
+
+Hogan, R. (1969). Development of an empathy scale. Journal
+of Consulting and Clinical Psychology, 33, 307–316.
+Hu, L., &amp; Bentler, P.M. (1999). Cutoff criteria for ﬁt indexes in
+covariance structure analysis: Conventional criteria versus
+new alternatives. Structural Equation Modeling, 6, 1–55.
+Hummert, M.L. (1994). Stereotypes of the elderly and patronizing speech style. In M.L. Hummert, J.M. Wiemann &amp;
+J.F. Nussbaum (Eds.), Interpersonal communication in adulthood: Interdisciplinarity theory and research (pp. 162–185).
+Newbury Park, CA: Sage.
+Hummert, M.L., Gartska, T.A., O’Brien, T., Greenwald, A.G., &amp;
+Mellott, S. (2002). Using the implicit association test
+to measure age differences in implicit social cognition.
+Psychology and Aging, 17, 482–495.
+Hummert, M.L., Gartska, T.A., &amp; Shaner, J.L. (1997). Stereotyping of older adults: The role of target facial cues and perceiver characteristics. Psychology and Aging, 12, 107–114.
+Hummert, M.L, Garstka, T.A., Shaner, J.L., &amp; Strahm, S.
+(1995). Judgments about stereotypes of the elderly: Attitudes, age associations, and typicality ratings of young,
+middle-aged, and elderly adults. Research on Aging, 17,
+168–189.
+Intrieri, R.C., Von Eye, A., &amp; Kelly, J.A. (1995). The aging
+semantic differential: A conﬁrmatory analysis. The gerontologist, 35, 616–621.
+Jöreskog, K.G., &amp; Sörbor, D. (1993a). Lisrel 8: Structural equation
+modeling with the SIMPLIS command language. Hillsdale,
+NJ: Lawrence Erlbaum.
+Jöreskog, K.G., &amp; Sörbor, D. (1993b). Lisrel 8: User’s reference
+guide. Chicago: Scientiﬁc Software International.
+Karpinski, A., &amp; Steinman, R.B. (2006). The single category
+implicit association as a measure of implicit social cognition. Journal of Personality and Social Psychology, 91, 16–32.
+Kilty, K.M., &amp; Feld, A. (1976). Attitudes toward aging and
+toward the needs of older people. Journal of Gerontology,
+31, 586–594.
+Kite, M.E., Stockdale, G.D., Whitley, B.E., &amp; Johnson, B.T.
+(2005). Attitudes toward younger and older adults: An
+updated meta-analytic review. Journal of Social Issues, 61,
+241–266.
+
+387
+
+Légal, J.-B., &amp; Delouvée, S. (2008). Stéréotypes, préjugés et
+discrimination. Paris: Dunod.
+Levin, S. (2004). Perceived group status differences
+and the effects of gender, ethnicity, and religion on
+social dominance orientation. Political Psychology, 25,
+31–48.
+Matthews, G., &amp; Deary, I.J. (1998). Personality traits. Cambridge,
+England: Cambridge University.
+MacKinnon, D.P. (2008). Introduction to statistical mediation
+analysis. New York: Lawrence Erlbaum Associates.
+MacKinnon, D.P., Krull, J.L., &amp; Lockwood, C.M. (2000).
+Equivalence of the mediation, confounding and
+suppression effect. Prevention Science, 1, 173–181.
+MacKinnon, D.P., Lockwood, C.M., Hoffmann, J.M., West,
+S.G., &amp; Sheets, V. (2002). A comparison of methods to
+test the signiﬁcance of mediation and other intervening
+variable effects. Psychological Methods, 7, 83–104.
+MacKinnon, D.P., Lockwood, C.M., &amp; Williams, J. (2004).
+Conﬁdence limits for the indirect effect: Distribution
+of the product and resampling methods. Multivariate
+Behavioral Research, 39, 99–128.
+McCallum, R.C., Browne, R.W., &amp; Sugawara, H.M. (1996).
+Power analysis and determination of sample size for
+covariance structure modelling. Psychological Methods, 1,
+130–149.
+McFarland, S. (2008). Authoritarianism, social dominance, and
+other roots of generalized prejudice. Paper submitted for
+publication.
+McFarland, S., &amp; Adelson, S. (1996, July). An omnibus study
+of personality and prejudice. Paper presented at the meeting
+of the International Society of Political Psychology,
+Vancouver, Canada.
+McFarland, S.G. (1998). Toward a typology of prejudiced persons.
+Paper presented at the annual convention of the International Society for Political Psychology, Montreal, Canada.
+McFarland, S.G. (2001). Prejudiced people: Individual differences
+in explicit prejudice. Manuscript, Western Kentucky
+University, Bowling Green.
+
+Kline, R.B. (1998). Principles and practice of structural equation
+modeling. New York: The Guilford Press.
+
+Mehrabian, A., &amp; Epstein, N. (1972). A measure of emotional
+empathy. Journal of Personality, 40, 525–543.
+
+Kogan, N. (1961). Attitudes toward old people: The development of a scale and an examination of correlates. Journal
+of Abnormal and Social Psychology, 62, 44–54.
+
+Netemeyer, R.G., Bearden, W.O., &amp; Sharma, S. (2003). Scaling
+procedures: Issues and applications. Thousand Oaks, CA:
+Sage Publications.
+
+388
+
+Canadian Journal on Aging 28 (4)
+
+Nussbaum, J.F., Pitts, M.J., Huber, F.N., Krieger, J.L.R., &amp;
+Ohs, J.E. (2005). Ageism and ageist language across the
+life span: Intimate relationships and non-intimate interactions. Journal of Social Issues, 61, 287–305.
+Ontario Welfare Council, Section on Aging. (1971). Opinions
+about people, Form A: Guidelines and manual. Toronto,
+Ontario, Canada: Queen’s Park.
+Palmore, E.B. (2001). The ageism survey: First ﬁndings. The
+Gerontologist, 41, 572–575.
+Palmore, E.B. (2004). The future of ageism. http://www.ilcusa.
+org (consultépour la dernière fois le 13 février 2008).
+Pettigrew, T.F., Jackson, J.S., Ben Bricka, J., Meertens, R.W., Wagner, U., &amp; Zick, A. (1998). Outgroup prejudice in Western
+Europe. European Review of Social Psychology, 8, 241–273.
+Pratto, F., Sidanius, J., Stallworth, L.M., &amp; Malle, B.F. (1994).
+Social dominance orientation: A personality variable
+predicting social and political attitudes. Journal of
+Personality and Social Psychology, 67, 741–763.
+Preacher, K.J., &amp; Hayes, A.F. (2008). Asymptotic and resampling strategies for assessing and comparing indirect
+effects in multiple mediator models. Behavior Research
+Methods, 40, 879–891.
+Rokeach, M. (1960). The open and closed mind. New York: Basic
+Books.
+Rosencranz, H.A., &amp; McNevin, T.E. (1969). A factor analysis
+of attitudes toward the aged. The Gerontologist, 3, 55–59.
+Rubio, M.D., &amp; Gillespie, D.F. (1995). Problems with errors in
+structural equation models. Structural Equation Modeling,
+2, 367–378.
+Rupp, D.E., Vodavovich, S.J., &amp; Crédé, M. (2005). The multidimensional nature of ageism: Construct validity and group
+differences. Journal of Social Psychology, 145, 335–362.
+Russell, D.W., Kahn, J.H., Spoth, R., &amp; Altmaier, E.M. (1998).
+Analyzing data from experimental studies: A latent
+variable structural equation modeling approach. Journal
+of Counseling Psychology, 45, 18–29.
+Salter, C.A., &amp; Salter, C.D. (1976). Attitudes toward aging and
+behaviors toward the elderly among young people as a
+function of death anxiety. The Gerontologist, 16, 232–23.
+Saroglou, V., Pichon, I., Trompette, L., Verschueren, M., &amp; Dernelle, R. (2005). Prosocial behavior and religion: New evidence based on projective measures and peer ratings.
+Journal for the Scientiﬁc Study of Religion, 44, 323–348.
+
+Valérian Boudjemad and Kamel Gana
+Sheppard, A. (1981). Attitude toward aging: Analysis of an
+attitude inventory for younger adults. Catalog of Selected
+Documents in Psychology, 11, 9–27.
+Shrout, P.E., &amp; Bolger, N. (2002). Mediation in experimental
+and nonexperimental studies: New procedures and
+recommendations. Psychological Methods, 7, 422–445.
+Sidanius, J., &amp; Pratto, F. (1999). Social dominance: An intergroup
+theory of social hierarchy and oppression. New York:
+Cambridge University Press.
+Sidianus, J., Pratto, F., Van Laar, C., &amp; Levin, S. (2004). Social
+dominance theory: Its agenda and method. Political
+Psychology, 25, 845–880.
+Streiner, D.L. (2003). Starting at the beginning: An introduction to coefﬁcient alpha and internal consistency. Journal
+of Personality Assessment, 80, 99–103.
+Tajfel, H., &amp; Turner, J.C. (1979). An integrative theory of intergroup conﬂict. In S. Worchel &amp; W. Austin (Eds.), The social
+psychology of intergroup relations (pp. 33–48). Paciﬁc Grove,
+CA: Brooks/Cole.
+Tajfel, H., &amp; Turner, J.C. (1986). The social identity theory of
+intergroup behavior. In S. Worchel &amp; W. Austin (Eds.),
+Psychology of intergroup relations (2nd ed., pp. 7–24).
+Chicago: Nelson-Hall.
+Thornton, S., &amp; Thornton, D. (1995). Facets of empathy.
+Personality and Individual Differences, 19, 765–767.
+Thouez, J.P. (2001). Territoire et vieillissement. Paris: Presses
+universitaires de France, Coll. Médecine et Société.
+Tournois, J., Mesnil, F., &amp; Kop, J.-L. (2000). Autoduperie et
+Hétéroduperie: Un instrument de mesure de la désirabilité sociale. Revue Européenne de Psychologie Appliquée,
+50, 219–232.
+Tuckman, J., &amp; Lorge, I. (1953). Attitudes toward old people.
+Journal of Social Psychology, 37, 249–260.
+Turner, J.C., Hogg, M.A., Oakes, P.J., Reicher, S.D., &amp; Wetherell,
+M.S. (1987). Rediscovering the social group: A self-categorization
+theory. Oxford, England: Blackwell.
+Vallerand, R.J. (1989). Vers une méthodologie de validation
+transculturelle des questionnaires psychologiques:
+Implications pour la recherche en langue française.
+Canadian Psychology, 30, 662–680.
+Woolf, L.M. (1998). Ageism. http://www.webster.edu/
+~woolﬂm/ageism.html (consultépour la dernière fois le
+13 février 2008).
+
+Empathie, orientation à la dominance, dogmatisme et âgisme
+
+La Revue canadienne du vieillissement 28 (4)
+
+389
+
+Annexe : Les items de la FSA-R et de la FSA-14
+ITEMS
+
+Dimensions (FSA-R)
+
+Dimensions (FSA-14)
+
+1. Le suicide des adolescents est plus tragique que celui des personnes âgées.
+2. Beaucoup de personnes âgées sont avares et amassent leur argent et leurs biens.*
+3. De nombreuses personnes âgées ne voient pas l’intérêt de se faire de nouveaux
+amis et préfèrent se contenter du cercle d’amis qu’ils ont depuis des années.
+4. Beaucoup de personnes âgées ne font que vivre dans le passé.*
+5. Parfois, quand je vois des personnes âgées, j’évite de croiser leur regard.*
+6. Je n’apprécie pas que les personnes âgées engagent la conversation avec moi.*
+7. On ne peut espérer une conversation intéressante et complexe avec la
+plupart des personnes âgées.
+8. Il peut paraître normal de se sentir déprimé quand on est entouré de personnes âgées.*
+9. Les personnes âgées devraient se trouver des amis de leur âge.*
+10. Les personnes âgées devraient se sentir les bienvenues dans les réunions entre jeunes.
+11. Si on m’invitait, je préférerais ne pas participer à une journée porte ouverte d’un
+club de troisième âge.
+12. Personnellement, je ne souhaiterais pas passer beaucoup de temps en
+compagnie d’une personne âgée.*
+13. Les personnes âgées n’ont pas vraiment besoin d’utiliser les installations sportives
+de la collectivité.
+14. On ne devrait pas faire conﬁance à la plupart des personnes âgées
+pour s’occuper d’enfants.*
+15. Beaucoup de personnes âgées sont plus heureuses lorsqu’elles sont en
+compagnie de personnes de leur âge.
+16. Il est préférable que les personnes âgées vivent là où elles ne gênent personne.*
+17. La plupart des personnes âgées sont d’agréable compagnie. (I) *
+18. Il est triste de constater la situation difﬁcile dans laquelle se trouvent les
+personnes âgées dans la société actuelle. (I)
+19. On devrait encourager les personnes âgées à exprimer leurs idées politiques. (I)
+20. La plupart des personnes âgées sont intéressantes car chacune
+possède sa propre identité. (I) *
+21. Beaucoup de personnes âgées auraient une mauvaise hygiène corporelle.*
+22. La plupart des personnes âgées peuvent être agaçantes car elles
+racontent sans cesse les mêmes histoires.*
+23. Les personnes âgées se plaignent davantage que les autres.*
+
+Stereotypes
+Stereotypes
+Stereotypes
+
+–
+Stéréotypes
+–
+
+Stereotypes
+Separation
+Separation
+Separation
+
+Stéréotypes
+Séparation
+Séparation
+–
+
+Separation
+Separation
+Separation
+Stereotypes
+
+Séparation
+Séparation
+–
+–
+
+Affective attitude
+
+Attitudes affectives
+
+Separation
+
+-
+
+Stereotypes
+
+Stéréotypes
+
+Stereotypes
+
+–
+
+Separation
+Affective attitude
+Affective attitude
+
+Séparation
+Attitudes affectives
+–
+
+Affective attitude
+Affective attitude
+
+–
+Attitudes affectives
+
+Stereotypes
+Stereotypes
+
+Stéréotypes
+Stéréotypes
+
+Stereotypes
+
+Stéréotypes
+
+Notes. (I) = items à inverser ; * = items retenus pour la FSA-14.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">The authoritarian personality</title><editor><persName><forename type="first">T.W.</forename><surname>Adorno</surname></persName></editor><editor><persName><forename type="first">E.</forename><surname>Frenkel-Brunswik</surname></persName></editor><editor><persName><forename type="first">D.J.</forename><surname>Levinson</surname></persName></editor><editor><persName><forename type="first">R.N</forename><surname>Sanford</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1950</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Prejudice: Personality or social psychology?</title><editor><persName><forename type="first">N.</forename><surname>Akrami</surname></persName></editor><editor><persName><forename type="first">B</forename><surname>Ekehammar</surname></persName></editor><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Right-wing authoritarianism and social dominance orientation: Their roots in Big-Five personality factors and facets</title><author><persName><forename type="first">N.</forename><surname>Akrami</surname></persName></author><author><persName><forename type="first">B</forename><surname>Ekehammar</surname></persName></author></analytic><monogr><title level="j">Journal of Individual Differences</title><imprint><date type="published">2006</date><biblScope unit="volume">27</biblScope><biblScope unit="page" from="117">117</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Personality and prejudice: From Big Five personality factors to facets</title><author><persName><forename type="first">N.</forename><surname>Akrami</surname></persName></author><author><persName><forename type="first">B</forename><surname>Ekehammar</surname></persName></author></analytic><monogr><title level="j">Journal of Personality</title><imprint><date type="published">2007</date><biblScope unit="volume">75</biblScope><biblScope unit="page" from="899">899</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">The nature of prejudice</title><editor><persName><forename type="first">G.W</forename><surname>Allport</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Reading, MA</pubPlace><date type="published">1954</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Advances in experimental social psychology</title><editor><persName><forename type="first">B</forename><surname>Altemeyer</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Berkowitz</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Orlando, FL</pubPlace><date type="published">1998</date><biblScope unit="volume">30</biblScope><biblScope unit="page" from="47">47</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Perception of old age by two generations</title><author><persName><forename type="first">R.N</forename><surname>Anantharaman</surname></persName></author></analytic><monogr><title level="j">Journal of Psychological Researches</title><imprint><date type="published">1979</date><biblScope unit="volume">23</biblScope><biblScope unit="page" from="198">198</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Structural equation modeling in practice: A review and recommended two-step approach</title><author><persName><forename type="first">J.C.</forename><surname>Anderson</surname></persName></author><author><persName><forename type="first">D.W</forename><surname>Gerbing</surname></persName></author></analytic><monogr><title level="j">Psychological Bulletin</title><imprint><date type="published">1988</date><biblScope unit="volume">103</biblScope><biblScope unit="page" from="411">411</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Co-occurrence of rape myth acceptance, sexism, racism, homophobia, ageism, classicism, and religious intolerance</title><author><persName><forename type="first">A.</forename><surname>Aosved</surname></persName></author><author><persName><forename type="first">P</forename><surname>Long</surname></persName></author></analytic><monogr><title level="j">Sex Roles: A Journal of Research</title><imprint><date type="published">2006</date><biblScope unit="volume">55</biblScope><biblScope unit="page" from="481">481</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Structural modeling of generalized prejudice: The role of social dominance, authoritarianism, and empathy</title><author><persName><forename type="first">M.</forename><surname>Bäckström</surname></persName></author><author><persName><forename type="first">F</forename><surname>Björklund</surname></persName></author></analytic><monogr><title level="j">Journal of Individual Differences</title><imprint><date type="published">2007</date><biblScope unit="volume">28</biblScope><biblScope unit="page" from="10">10</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Unconscious isms: Examples from racism, sexism, and ageism</title><editor><persName><forename type="first">M.R</forename><surname>Banaji</surname></persName></editor><imprint><date type="published">1999</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations</title><author><persName><forename type="first">R.M.</forename><surname>Baron</surname></persName></author><author><persName><forename type="first">D.A</forename><surname>Kenny</surname></persName></author></analytic><monogr><title level="j">Journal of Personality &amp; Social Psychology</title><imprint><date type="published">1986</date><biblScope unit="volume">51</biblScope><biblScope unit="page" from="1173">1173</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Aging, ageism, and society</title><editor><persName><forename type="first">G.M.</forename><surname>Barrow</surname></persName></editor><editor><persName><forename type="first">P.A</forename><surname>Smith</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1979</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Empathy and attitudes: Can feeling for a member of a stigmatized group improve feelings toward the group?</title><author><persName><forename type="first">C.D.</forename><surname>Batson</surname></persName></author><author><persName><forename type="first">M.P.</forename><surname>Polycarpou</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Harmon-Jones</surname></persName></author><author><persName><forename type="first">H.J.</forename><surname>Imhoff</surname></persName></author><author><persName><forename type="first">E.C.</forename><surname>Mitchener</surname></persName></author><author><persName><forename type="first">L.L.</forename><surname>Bednar</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1997</date><biblScope unit="volume">72</biblScope><biblScope unit="page" from="105">105</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">The aging stereotype in experimental perspective</title><author><persName><forename type="first">B.D.</forename><surname>Bell</surname></persName></author><author><persName><forename type="first">G.G</forename><surname>Stanfield</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1973</date><biblScope unit="volume">13</biblScope><biblScope unit="page" from="341">341</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Chronological age in relation to attitudinal judgments: An experimental analysis</title><author><persName><forename type="first">B.D.</forename><surname>Bell</surname></persName></author><author><persName><forename type="first">G.G</forename><surname>Stanfield</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology</title><imprint><date type="published">1973</date><biblScope unit="volume">28</biblScope><biblScope unit="page" from="491">491</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Fit indices, Lagrange multipliers, constraint changes, and incomplete data in structural models</title><author><persName><forename type="first">P.M</forename><surname>Bentler</surname></persName></author></analytic><monogr><title level="j">Pyshologycal Bulletin</title><imprint><date type="published">1990</date><biblScope unit="volume">88</biblScope><biblScope unit="page" from="588">588</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">Adults’ conceptions of intelligence across the adult life span</title><author><persName><forename type="first">C.A.</forename><surname>Berg</surname></persName></author><author><persName><forename type="first">R.J</forename><surname>Sterberg</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">1992</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="221">221</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">L’IAT (Implicit Association Test) ou la mesure des cognitions sociales implicites: Revue critique de la validite et des fondements theoriques des scores qu’il produit</title><author><persName><forename type="first">C.</forename><surname>Blaison</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Chassard</surname></persName></author><author><persName><forename type="first">J.-L.</forename><surname>Kop</surname></persName></author><author><persName><forename type="first">K</forename><surname>Gana</surname></persName></author></analytic><monogr><title level="j">L’Année Psychologique</title><imprint><date type="published">2006</date><biblScope unit="volume">106</biblScope><biblScope unit="page" from="305">305</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Confirmatory factor analysis for applied research</title><editor><persName><forename type="first">T.A</forename><surname>Brown</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Testing structural equation models</title><editor><persName><forename type="first">M.W.</forename><surname>Browne</surname></persName></editor><editor><persName><forename type="first">R</forename><surname>Cudeck</surname></persName></editor><editor><persName><forename type="first">K.A.</forename><surname>Bollen</surname></persName></editor><editor><persName><forename type="first">J.S.</forename><surname>Long</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Beverly Hills, CA</pubPlace><date type="published">1993</date><biblScope unit="page" from="136">136</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">The role of empathy, responsibility, and motivations to respond without prejudice in reducing prejudice</title><author><persName><forename type="first">B.N</forename><surname>Buswell</surname></persName></author></analytic><monogr><title level="j">Dissertation Abstracts International: Section B: The Sciences and Engineering</title><imprint><date type="published">2006</date><biblScope unit="volume">66</biblScope><biblScope unit="page" from="6968">6968</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">Age-ism; another form of bigotry</title><author><persName><forename type="first">R.N</forename><surname>Butler</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1969</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="243">243</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="article"><analytic><title level="a">Thoughts on aging</title><author><persName><forename type="first">R.N</forename><surname>Butler</surname></persName></author></analytic><monogr><title level="j">American Journal of Psychiatry</title><imprint><date type="published">1978</date><biblScope unit="volume">135</biblScope><biblScope unit="page" from="14">14</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">A measure of emotional empathy for adolescents and adults</title><editor><persName><forename type="first">D.R.</forename><surname>Caruso</surname></persName></editor><editor><persName><forename type="first">J.D</forename><surname>Mayer</surname></persName></editor><imprint><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">Testing mediation and suppression effects of latent variables bootstrapping with structural equation models</title><author><persName><forename type="first">G.W.</forename><surname>Cheung</surname></persName></author><author><persName><forename type="first">R.S</forename><surname>Lau</surname></persName></author></analytic><monogr><title level="j">Organizational Research Methods</title><imprint><date type="published">2008</date><biblScope unit="volume">11</biblScope><biblScope unit="page" from="296">296</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">A revised definition for suppressor variables: A guide to their identification and interpretation</title><author><persName><forename type="first">A.J</forename><surname>Conger</surname></persName></author></analytic><monogr><title level="j">Educational and Psychological Measurement</title><imprint><date type="published">1974</date><biblScope unit="volume">34</biblScope><biblScope unit="page" from="35">35</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">La théorie de la privation relative et l’hostilité envers les Nord-Africain</title><author><persName><forename type="first">M.</forename><surname>Dambrun</surname></persName></author><author><persName><forename type="first">S</forename><surname>Guimond</surname></persName></author></analytic><monogr><title level="j">Revue Internationale de Psychologie Sociale</title><imprint><date type="published">2001</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="57">57</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Structure latente et validation de la version française de l’Ambivalent Sexism Inventory: L’échelle de sexisme ambivalent (Latent Structure of the French Validation of the Ambivalent Sexism Inventory: Echelle de Sexisme Ambivalent)</title><author><persName><forename type="first">B.</forename><surname>Dardenne</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Delacollette</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Grégoire</surname></persName></author><author><persName><forename type="first">D</forename><surname>Lecocq</surname></persName></author></analytic><monogr><title level="j">L’année Psychologique</title><imprint><date type="published">2006</date><biblScope unit="volume">106</biblScope><biblScope unit="page" from="235">235</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">A multidimensional approach to individual differences in empathy</title><author><persName><forename type="first">M.H</forename><surname>Davis</surname></persName></author></analytic><monogr><title level="j">JSAS Catalog of Selected Documents in Psychology</title><imprint><date type="published">1980</date><biblScope unit="volume">10</biblScope><biblScope unit="page" from="85">85</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="article"><analytic><title level="a">Measuring individual differences in empathy: Evidence for multidimensional approach</title><author><persName><forename type="first">M.H</forename><surname>Davis</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1983</date><biblScope unit="volume">44</biblScope><biblScope unit="page" from="113">113</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">L’Autoritarisme</title><editor><persName><forename type="first">J.P.</forename><surname>Deconchy</surname></persName></editor><editor><persName><forename type="first">V</forename><surname>Dru</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Grenoble, France</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Relationship between empathy and the Big Five personality traits in a sample of Spanish adolescents</title><author><persName><forename type="first">V.</forename><surname>Del Barrio</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Aluja</surname></persName></author><author><persName><forename type="first">L.F</forename><surname>Garcia</surname></persName></author></analytic><monogr><title level="j">Social Behavior and Personality</title><imprint><date type="published">2004</date><biblScope unit="volume">32</biblScope><biblScope unit="page" from="677">677</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">Scale development: Theory and applications</title><editor><persName><forename type="first">R.F</forename><surname>DeVellis</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks, CA</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="article"><analytic><title level="a">Dogmatisme et culture: facteurs permanents et spécifiques</title><author><persName><forename type="first">V</forename><surname>Dru</surname></persName></author></analytic><monogr><title level="j">Revue Européenne de Psychologie Appliquée</title><imprint><date type="published">1998</date><biblScope unit="volume">48</biblScope><biblScope unit="page" from="97">97</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="article"><analytic><title level="a">Relationships between an ego orientation scale and a hypercompetitive scale: Their correlates with dogmatism and authoritarianism factors</title><author><persName><forename type="first">V</forename><surname>Dru</surname></persName></author></analytic><monogr><title level="j">Personality and Individual Differences</title><imprint><date type="published">2003</date><biblScope unit="volume">35</biblScope><biblScope unit="page" from="1509">1509</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="article"><analytic><title level="a">Social dominance and legitimizing myths: Validation of a French form of the social dominance orientation scale</title><author><persName><forename type="first">S.</forename><surname>Duarte</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Dambrun</surname></persName></author><author><persName><forename type="first">S</forename><surname>Guimond</surname></persName></author></analytic><monogr><title level="j">Revue Internationale de Psychologie Sociale</title><imprint><date type="published">2004</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="97">97</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="article"><analytic><title level="a">Authoritarianism and group identification: A new view of an old construct</title><author><persName><forename type="first">J</forename><surname>Duckitt</surname></persName></author></analytic><monogr><title level="j">Political Psychology</title><imprint><date type="published">1989</date><biblScope unit="volume">10</biblScope><biblScope unit="page" from="63">63</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="article"><analytic><title level="a">A dual-process cognitive-motivational theory of ideology and prejudice</title><author><persName><forename type="first">J</forename><surname>Duckitt</surname></persName></author></analytic><monogr><title level="j">Advances in Experimental Social Psychology</title><imprint><date type="published">2001</date><biblScope unit="volume">33</biblScope><biblScope unit="page" from="41">41</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="article"><analytic><title level="a">What matters most to prejudice: Big Five personality, social dominance orientation, or Right-wing authoritarianism?</title><author><persName><forename type="first">B.</forename><surname>Ekehammar</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Akrami</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Gylje</surname></persName></author><author><persName><forename type="first">I</forename><surname>Zakrisson</surname></persName></author></analytic><monogr><title level="j">European Journal of Personality</title><imprint><date type="published">2004</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="463">463</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="article"><analytic><title level="a">Young and older adults’ appraisal of memory failures in young and older adult target persons</title><author><persName><forename type="first">J.T</forename><surname>Erber</surname></persName></author></analytic><monogr><title level="j">Journals of Gerontology</title><imprint><date type="published">1989</date><biblScope unit="volume">44</biblScope><biblScope unit="page" from="170">170</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="article"><analytic><title level="a">Empathie, contagion émotionnelle et coupure émotionnelle Partie 1: historique critique de la notion d’empathie</title><author><persName><forename type="first">D.</forename><surname>Favre</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Joly</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Reynaud</surname></persName></author><author><persName><forename type="first">L.L</forename><surname>Salvador</surname></persName></author></analytic><monogr><title level="j">Enfance</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="363">363</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">Implicit measures in social cognition research: Their meaning and use</title><author><persName><forename type="first">R.H.</forename><surname>Fazio</surname></persName></author><author><persName><forename type="first">A.O</forename><surname>Olson</surname></persName></author></analytic><monogr><title level="j">Annual Review in Psychology</title><imprint><date type="published">2003</date><biblScope unit="volume">54</biblScope><biblScope unit="page" from="297">297</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="article"><analytic><title level="a">Age discrimination in simulated employment contexts: An integrative analysis</title><author><persName><forename type="first">L.M.</forename><surname>Finkelstein</surname></persName></author><author><persName><forename type="first">M.J.</forename><surname>Burke</surname></persName></author><author><persName><forename type="first">N.S</forename><surname>Raju</surname></persName></author></analytic><monogr><title level="j">Journal of Applied Psychology</title><imprint><date type="published">1995</date><biblScope unit="volume">52</biblScope><biblScope unit="page" from="652">652</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="article"><analytic><title level="a">The application of exploratory factor analysis in applied psychology: A critical review</title><author><persName><forename type="first">K.J.</forename><surname>Ford</surname></persName></author><author><persName><forename type="first">R.C.</forename><surname>McCallum</surname></persName></author><author><persName><forename type="first">M</forename><surname>Tait</surname></persName></author></analytic><monogr><title level="j">Personnel Psychology</title><imprint><date type="published">1986</date><biblScope unit="volume">39</biblScope><biblScope unit="page" from="291">291</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">The Fraboni scale of ageism: An attempt at a more precise measure of ageism</title><author><persName><forename type="first">M.</forename><surname>Fraboni</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Saltstone</surname></persName></author><author><persName><forename type="first">S</forename><surname>Hugues</surname></persName></author></analytic><monogr><title level="j">Canadian Journal on Aging</title><imprint><date type="published">1990</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="55">55</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">Perspective-taking: Decreasing stereotype expression, stereotype accessibility, and in-group favoritism</title><author><persName><forename type="first">A.D.</forename><surname>Galinsky</surname></persName></author><author><persName><forename type="first">G.B</forename><surname>Moskowitz</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">2000</date><biblScope unit="volume">78</biblScope><biblScope unit="page" from="708">708</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b48" type="article"><analytic><title level="a">Adaptation canadienne-française de la forme révisée du State-Trait Anxiety Inventory de Spielberger</title><author><persName><forename type="first">J.</forename><surname>Gauthier</surname></persName></author><author><persName><forename type="first">S</forename><surname>Bouchard</surname></persName></author></analytic><monogr><title level="j">Revue Canadienne des Sciences du Comportement</title><imprint><date type="published">1993</date><biblScope unit="volume">25</biblScope><biblScope unit="page" from="559">559</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b49" type="article"><analytic><title level="a">The ambivalent sexism inventory: Differentiating hostile and benevolent sexism</title><author><persName><forename type="first">P.</forename><surname>Glick</surname></persName></author><author><persName><forename type="first">S.T</forename><surname>Fiske</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1996</date><biblScope unit="volume">70</biblScope><biblScope unit="page" from="491">491</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b50" type="article"><analytic><title level="a">A sentence completion procedure for assessing attitudes toward old people</title><author><persName><forename type="first">P.</forename><surname>Golde</surname></persName></author><author><persName><forename type="first">N</forename><surname>Kogan</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology</title><imprint><date type="published">1959</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="355">355</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b51" type="article"><analytic><title level="a">Implicit social cognition: Attitudes, self-esteem, and stereotypes</title><author><persName><forename type="first">A.G.</forename><surname>Greenwald</surname></persName></author><author><persName><forename type="first">M.R</forename><surname>Banaji</surname></persName></author></analytic><monogr><title level="j">Psychological Review</title><imprint><date type="published">1995</date><biblScope unit="volume">102</biblScope><biblScope unit="page" from="4">4</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b52" type="article"><analytic><title level="a">Measuring individual differences in implicit cognition: The Implicit Association Test</title><author><persName><forename type="first">A.G.</forename><surname>Greenwald</surname></persName></author><author><persName><forename type="first">D.E.</forename><surname>McGhee</surname></persName></author><author><persName><forename type="first">J.L.K</forename><surname>Schwartz</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1998</date><biblScope unit="volume">74</biblScope><biblScope unit="page" from="1464">1464</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b53" type="article"><analytic><title level="a">Does social dominance generate prejudice? Integrating individual and contextual determinants of intergroup cognitions</title><author><persName><forename type="first">S.</forename><surname>Guimond</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Dambrun</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Michinov</surname></persName></author><author><persName><forename type="first">S</forename><surname>Duarte</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">2003</date><biblScope unit="volume">84</biblScope><biblScope unit="page" from="697">697</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b54" type="article"><analytic><title level="a">Une nouvelle technique de vérification de l’équivalence de mesures psychologiques traduites</title><author><persName><forename type="first">R.R.</forename><surname>Haccoun</surname></persName></author></analytic><monogr><title level="j">Revue Québécoise de Psychologie</title><imprint><date type="published">1987</date><biblScope unit="volume">8</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="30">30</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b55" type="inbook"><monogr><title level="m">World population data sheet</title><editor><persName><forename type="first">C</forename><surname>Haub</surname></persName></editor><idno type="uri">http://www.prb.org</idno><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b56" type="inbook"><monogr><title level="m">World population data sheet</title><editor><persName><forename type="first">C</forename><surname>Haub</surname></persName></editor><idno type="uri">http://www.prb.org</idno><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b57" type="article"><analytic><title level="a">Development of an empathy scale</title><author><persName><forename type="first">R</forename><surname>Hogan</surname></persName></author></analytic><monogr><title level="j">Journal of Consulting and Clinical Psychology</title><imprint><date type="published">1969</date><biblScope unit="volume">33</biblScope><biblScope unit="page" from="307">307</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b58" type="article"><analytic><title level="a">Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</title><author><persName><forename type="first">L.</forename><surname>Hu</surname></persName></author><author><persName><forename type="first">P.M</forename><surname>Bentler</surname></persName></author></analytic><monogr><title level="j">Structural Equation Modeling</title><imprint><date type="published">1999</date><biblScope unit="volume">6</biblScope><biblScope unit="page" from="1">1</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b59" type="inbook"><monogr><title level="m">Interpersonal communication in adulthood: Interdisciplinarity theory and research</title><editor><persName><forename type="first">M.L</forename><surname>Hummert</surname></persName></editor><editor><persName><forename type="first">M.L.</forename><surname>Hummert</surname></persName></editor><editor><persName><forename type="first">J.M.</forename><surname>Wiemann</surname></persName></editor><editor><persName><forename type="first">J.F.</forename><surname>Nussbaum</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Newbury Park, CA</pubPlace><date type="published">1994</date><biblScope unit="page" from="162">162</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b60" type="article"><analytic><title level="a">Using the implicit association test to measure age differences in implicit social cognition</title><author><persName><forename type="first">M.L.</forename><surname>Hummert</surname></persName></author><author><persName><forename type="first">T.A.</forename><surname>Gartska</surname></persName></author><author><persName><forename type="first">T.</forename><surname>O’Brien</surname></persName></author><author><persName><forename type="first">A.G.</forename><surname>Greenwald</surname></persName></author><author><persName><forename type="first">S</forename><surname>Mellott</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">2002</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="482">482</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b61" type="article"><analytic><title level="a">Stereotyping of older adults: The role of target facial cues and perceiver characteristics</title><author><persName><forename type="first">M.L.</forename><surname>Hummert</surname></persName></author><author><persName><forename type="first">T.A.</forename><surname>Gartska</surname></persName></author><author><persName><forename type="first">J.L</forename><surname>Shaner</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">1997</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="107">107</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b62" type="article"><analytic><title level="a">Judgments about stereotypes of the elderly: Attitudes, age associations, and typicality ratings of young, middle-aged, and elderly adults</title><author><persName><forename type="first">M.L</forename><surname>Hummert</surname></persName></author><author><persName><forename type="first">T.A.</forename><surname>Garstka</surname></persName></author><author><persName><forename type="first">J.L.</forename><surname>Shaner</surname></persName></author><author><persName><forename type="first">S</forename><surname>Strahm</surname></persName></author></analytic><monogr><title level="j">Research on Aging</title><imprint><date type="published">1995</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="168">168</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b63" type="article"><analytic><title level="a">The aging semantic differential: A confirmatory analysis</title><author><persName><forename type="first">R.C.</forename><surname>Intrieri</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Von Eye</surname></persName></author><author><persName><forename type="first">J.A</forename><surname>Kelly</surname></persName></author></analytic><monogr><title level="j">The gerontologist</title><imprint><date type="published">1995</date><biblScope unit="volume">35</biblScope><biblScope unit="page" from="616">616</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b64" type="inbook"><monogr><title level="m">Lisrel 8: Structural equation modeling with the SIMPLIS command language</title><editor><persName><forename type="first">K.G.</forename><surname>Jöreskog</surname></persName></editor><editor><persName><forename type="first">D</forename><surname>Sörbor</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hillsdale, NJ</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b65" type="inbook"><monogr><title level="m">Lisrel 8: User’s reference guide</title><editor><persName><forename type="first">K.G.</forename><surname>Jöreskog</surname></persName></editor><editor><persName><forename type="first">D</forename><surname>Sörbor</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Chicago</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b66" type="article"><analytic><title level="a">The single category implicit association as a measure of implicit social cognition</title><author><persName><forename type="first">A.</forename><surname>Karpinski</surname></persName></author><author><persName><forename type="first">R.B</forename><surname>Steinman</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">2006</date><biblScope unit="volume">91</biblScope><biblScope unit="page" from="16">16</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b67" type="article"><analytic><title level="a">Attitudes toward aging and toward the needs of older people</title><author><persName><forename type="first">K.M.</forename><surname>Kilty</surname></persName></author><author><persName><forename type="first">A</forename><surname>Feld</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology</title><imprint><date type="published">1976</date><biblScope unit="volume">31</biblScope><biblScope unit="page" from="586">586</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b68" type="article"><analytic><title level="a">Attitudes toward younger and older adults: An updated meta-analytic review</title><author><persName><forename type="first">M.E.</forename><surname>Kite</surname></persName></author><author><persName><forename type="first">G.D.</forename><surname>Stockdale</surname></persName></author><author><persName><forename type="first">B.E.</forename><surname>Whitley</surname></persName></author><author><persName><forename type="first">B.T</forename><surname>Johnson</surname></persName></author></analytic><monogr><title level="j">Journal of Social Issues</title><imprint><date type="published">2005</date><biblScope unit="volume">61</biblScope><biblScope unit="page" from="241">241</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b69" type="inbook"><monogr><title level="m">Principles and practice of structural equation modeling</title><editor><persName><forename type="first">R.B</forename><surname>Kline</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b70" type="article"><analytic><title level="a">Attitudes toward old people: The development of a scale and an examination of correlates</title><author><persName><forename type="first">N</forename><surname>Kogan</surname></persName></author></analytic><monogr><title level="j">Journal of Abnormal and Social Psychology</title><imprint><date type="published">1961</date><biblScope unit="volume">62</biblScope><biblScope unit="page" from="44">44</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b71" type="article"><analytic><title level="a">Differential cue value of age and occupation in impression formation</title><author><persName><forename type="first">N.</forename><surname>Kogan</surname></persName></author><author><persName><forename type="first">F.C</forename><surname>Shelton</surname></persName></author></analytic><monogr><title level="j">Psychological Reports</title><imprint><date type="published">1962</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="203">203</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b72" type="inbook"><monogr><title level="m">Cross Cultural Anxiety</title><editor><persName><forename type="first">W.A.</forename><surname>LeCompte</surname></persName></editor><editor><persName><forename type="first">N</forename><surname>Oner</surname></persName></editor><editor><persName><forename type="first">C.D.</forename><surname>Spielberger</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Guerrero</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">1976</date><biblScope unit="page" from="51">51</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b73" type="inbook"><monogr><title level="m">Stéréotypes, préjugés et discrimination</title><editor><persName><forename type="first">J.-B.</forename><surname>Légal</surname></persName></editor><editor><persName><forename type="first">S</forename><surname>Delouvée</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b74" type="article"><analytic><title level="a">Perceived group status differences and the effects of gender, ethnicity, and religion on social dominance orientation</title><author><persName><forename type="first">S</forename><surname>Levin</surname></persName></author></analytic><monogr><title level="j">Political Psychology</title><imprint><date type="published">2004</date><biblScope unit="volume">25</biblScope><biblScope unit="page" from="31">31</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b75" type="inbook"><monogr><title level="m">Personality traits</title><editor><persName><forename type="first">G.</forename><surname>Matthews</surname></persName></editor><editor><persName><forename type="first">I.J</forename><surname>Deary</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge, England</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b76" type="inbook"><monogr><title level="m">Introduction to statistical mediation analysis</title><editor><persName><forename type="first">D.P</forename><surname>MacKinnon</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b77" type="article"><analytic><title level="a">Equivalence of the mediation, confounding and suppression effect</title><author><persName><forename type="first">D.P.</forename><surname>MacKinnon</surname></persName></author><author><persName><forename type="first">J.L.</forename><surname>Krull</surname></persName></author><author><persName><forename type="first">C.M</forename><surname>Lockwood</surname></persName></author></analytic><monogr><title level="j">Prevention Science</title><imprint><date type="published">2000</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="173">173</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b78" type="article"><analytic><title level="a">A comparison of methods to test the significance of mediation and other intervening variable effects</title><author><persName><forename type="first">D.P.</forename><surname>MacKinnon</surname></persName></author><author><persName><forename type="first">C.M.</forename><surname>Lockwood</surname></persName></author><author><persName><forename type="first">J.M.</forename><surname>Hoffmann</surname></persName></author><author><persName><forename type="first">S.G.</forename><surname>West</surname></persName></author><author><persName><forename type="first">V</forename><surname>Sheets</surname></persName></author></analytic><monogr><title level="j">Psychological Methods</title><imprint><date type="published">2002</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="83">83</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b79" type="article"><analytic><title level="a">Confidence limits for the indirect effect: Distribution of the product and resampling methods</title><author><persName><forename type="first">D.P.</forename><surname>MacKinnon</surname></persName></author><author><persName><forename type="first">C.M.</forename><surname>Lockwood</surname></persName></author><author><persName><forename type="first">J</forename><surname>Williams</surname></persName></author></analytic><monogr><title level="j">Multivariate Behavioral Research</title><imprint><date type="published">2004</date><biblScope unit="volume">39</biblScope><biblScope unit="page" from="99">99</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b80" type="article"><analytic><title level="a">Power analysis and determination of sample size for covariance structure modelling</title><author><persName><forename type="first">R.C.</forename><surname>McCallum</surname></persName></author><author><persName><forename type="first">R.W.</forename><surname>Browne</surname></persName></author><author><persName><forename type="first">H.M</forename><surname>Sugawara</surname></persName></author></analytic><monogr><title level="j">Psychological Methods</title><imprint><date type="published">1996</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="130">130</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b81" type="inbook"><monogr><title level="m">Authoritarianism, social dominance, and other roots of generalized prejudice</title><editor><persName><forename type="first">S</forename><surname>McFarland</surname></persName></editor><imprint><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b82" type="inbook"><monogr><title level="m">An omnibus study of personality and prejudice</title><editor><persName><forename type="first">S.</forename><surname>McFarland</surname></persName></editor><editor><persName><forename type="first">S</forename><surname>Adelson</surname></persName></editor><imprint><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b83" type="inbook"><monogr><title level="m">Toward a typology of prejudiced persons</title><editor><persName><forename type="first">S.G</forename><surname>McFarland</surname></persName></editor><imprint><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b84" type="inbook"><monogr><title level="m">Prejudiced people: Individual differences in explicit prejudice</title><editor><persName><forename type="first">S.G</forename><surname>McFarland</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Bowling Green</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b85" type="article"><analytic><title level="a">A measure of emotional empathy</title><author><persName><forename type="first">A.</forename><surname>Mehrabian</surname></persName></author><author><persName><forename type="first">N</forename><surname>Epstein</surname></persName></author></analytic><monogr><title level="j">Journal of Personality</title><imprint><date type="published">1972</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="525">525</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b86" type="inbook"><monogr><title level="m">Scaling procedures: Issues and applications</title><editor><persName><forename type="first">R.G.</forename><surname>Netemeyer</surname></persName></editor><editor><persName><forename type="first">W.O.</forename><surname>Bearden</surname></persName></editor><editor><persName><forename type="first">S</forename><surname>Sharma</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks, CA</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b87" type="article"><analytic><title level="a">Ageism and ageist language across the life span: Intimate relationships and non-intimate interactions</title><author><persName><forename type="first">J.F.</forename><surname>Nussbaum</surname></persName></author><author><persName><forename type="first">M.J.</forename><surname>Pitts</surname></persName></author><author><persName><forename type="first">F.N.</forename><surname>Huber</surname></persName></author><author><persName><forename type="first">J.L.R.</forename><surname>Krieger</surname></persName></author><author><persName><forename type="first">J.E</forename><surname>Ohs</surname></persName></author></analytic><monogr><title level="j">Journal of Social Issues</title><imprint><date type="published">2005</date><biblScope unit="volume">61</biblScope><biblScope unit="page" from="287">287</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b88" type="inbook"><monogr><title level="m">Opinions about people, Form A: Guidelines and manual</title><editor><orgName>Ontario Welfare Council, Section on Aging</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Toronto, Ontario, Canada</pubPlace><date type="published">1971</date></imprint></monogr></biblStruct><biblStruct xml:id="b89" type="article"><analytic><title level="a">The ageism survey: First findings</title><author><persName><forename type="first">E.B</forename><surname>Palmore</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2001</date><biblScope unit="volume">41</biblScope><biblScope unit="page" from="572">572</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b90" type="inbook"><monogr><title level="m">The future of ageism</title><editor><persName><forename type="first">E.B</forename><surname>Palmore</surname></persName></editor><idno type="uri">http://www.ilcusa.org</idno><imprint><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b91" type="article"><analytic><title level="a">Outgroup prejudice in Western Europe</title><author><persName><forename type="first">T.F.</forename><surname>Pettigrew</surname></persName></author><author><persName><forename type="first">J.S.</forename><surname>Jackson</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Ben Bricka</surname></persName></author><author><persName><forename type="first">R.W.</forename><surname>Meertens</surname></persName></author><author><persName><forename type="first">U.</forename><surname>Wagner</surname></persName></author><author><persName><forename type="first">A</forename><surname>Zick</surname></persName></author></analytic><monogr><title level="j">European Review of Social Psychology</title><imprint><date type="published">1998</date><biblScope unit="volume">8</biblScope><biblScope unit="page" from="241">241</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b92" type="article"><analytic><title level="a">Social dominance orientation: A personality variable predicting social and political attitudes</title><author><persName><forename type="first">F.</forename><surname>Pratto</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Sidanius</surname></persName></author><author><persName><forename type="first">L.M.</forename><surname>Stallworth</surname></persName></author><author><persName><forename type="first">B.F</forename><surname>Malle</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1994</date><biblScope unit="volume">67</biblScope><biblScope unit="page" from="741">741</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b93" type="article"><analytic><title level="a">Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models</title><author><persName><forename type="first">K.J.</forename><surname>Preacher</surname></persName></author><author><persName><forename type="first">A.F</forename><surname>Hayes</surname></persName></author></analytic><monogr><title level="j">Behavior Research Methods</title><imprint><date type="published">2008</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="879">879</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b94" type="inbook"><monogr><title level="m">The open and closed mind</title><editor><persName><forename type="first">M</forename><surname>Rokeach</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1960</date></imprint></monogr></biblStruct><biblStruct xml:id="b95" type="article"><analytic><title level="a">A factor analysis of attitudes toward the aged</title><author><persName><forename type="first">H.A.</forename><surname>Rosencranz</surname></persName></author><author><persName><forename type="first">T.E</forename><surname>McNevin</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1969</date><biblScope unit="volume">3</biblScope><biblScope unit="page" from="55">55</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b96" type="article"><analytic><title level="a">Problems with errors in structural equation models</title><author><persName><forename type="first">M.D.</forename><surname>Rubio</surname></persName></author><author><persName><forename type="first">D.F</forename><surname>Gillespie</surname></persName></author></analytic><monogr><title level="j">Structural Equation Modeling</title><imprint><date type="published">1995</date><biblScope unit="volume">2</biblScope><biblScope unit="page" from="367">367</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b97" type="article"><analytic><title level="a">The multidimensional nature of ageism: Construct validity and group differences</title><author><persName><forename type="first">D.E.</forename><surname>Rupp</surname></persName></author><author><persName><forename type="first">S.J.</forename><surname>Vodavovich</surname></persName></author><author><persName><forename type="first">M</forename><surname>Crédé</surname></persName></author></analytic><monogr><title level="j">Journal of Social Psychology</title><imprint><date type="published">2005</date><biblScope unit="volume">145</biblScope><biblScope unit="page" from="335">335</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b98" type="article"><analytic><title level="a">Analyzing data from experimental studies: A latent variable structural equation modeling approach</title><author><persName><forename type="first">D.W.</forename><surname>Russell</surname></persName></author><author><persName><forename type="first">J.H.</forename><surname>Kahn</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Spoth</surname></persName></author><author><persName><forename type="first">E.M</forename><surname>Altmaier</surname></persName></author></analytic><monogr><title level="j">Journal of Counseling Psychology</title><imprint><date type="published">1998</date><biblScope unit="volume">45</biblScope><biblScope unit="page" from="18">18</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b99" type="article"><analytic><title level="a">Attitudes toward aging and behaviors toward the elderly among young people as a function of death anxiety</title><author><persName><forename type="first">C.A.</forename><surname>Salter</surname></persName></author><author><persName><forename type="first">C.D</forename><surname>Salter</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1976</date><biblScope unit="volume">16</biblScope><biblScope unit="page" from="232">232</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b100" type="article"><analytic><title level="a">Prosocial behavior and religion: New evidence based on projective measures and peer ratings</title><author><persName><forename type="first">V.</forename><surname>Saroglou</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Pichon</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Trompette</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Verschueren</surname></persName></author><author><persName><forename type="first">R</forename><surname>Dernelle</surname></persName></author></analytic><monogr><title level="j">Journal for the Scientific Study of Religion</title><imprint><date type="published">2005</date><biblScope unit="volume">44</biblScope><biblScope unit="page" from="323">323</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b101" type="article"><analytic><title level="a">Attitude toward aging: Analysis of an attitude inventory for younger adults</title><author><persName><forename type="first">A</forename><surname>Sheppard</surname></persName></author></analytic><monogr><title level="j">Catalog of Selected Documents in Psychology</title><imprint><date type="published">1981</date><biblScope unit="volume">11</biblScope><biblScope unit="page" from="9">9</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b102" type="article"><analytic><title level="a">Mediation in experimental and nonexperimental studies: New procedures and recommendations</title><author><persName><forename type="first">P.E.</forename><surname>Shrout</surname></persName></author><author><persName><forename type="first">N</forename><surname>Bolger</surname></persName></author></analytic><monogr><title level="j">Psychological Methods</title><imprint><date type="published">2002</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="422">422</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b103" type="inbook"><monogr><title level="m">Social dominance: An intergroup theory of social hierarchy and oppression</title><editor><persName><forename type="first">J.</forename><surname>Sidanius</surname></persName></editor><editor><persName><forename type="first">F</forename><surname>Pratto</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1999</date></imprint></monogr></biblStruct><biblStruct xml:id="b104" type="article"><analytic><title level="a">Social dominance theory: Its agenda and method</title><author><persName><forename type="first">J.</forename><surname>Sidianus</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Pratto</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Van Laar</surname></persName></author><author><persName><forename type="first">S</forename><surname>Levin</surname></persName></author></analytic><monogr><title level="j">Political Psychology</title><imprint><date type="published">2004</date><biblScope unit="volume">25</biblScope><biblScope unit="page" from="845">845</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b105" type="article"><analytic><title level="a">Starting at the beginning: An introduction to coefficient alpha and internal consistency</title><author><persName><forename type="first">D.L</forename><surname>Streiner</surname></persName></author></analytic><monogr><title level="j">Journal of Personality Assessment</title><imprint><date type="published">2003</date><biblScope unit="volume">80</biblScope><biblScope unit="page" from="99">99</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b106" type="inbook"><monogr><title level="m">The social psychology of intergroup relations</title><editor><persName><forename type="first">H.</forename><surname>Tajfel</surname></persName></editor><editor><persName><forename type="first">J.C</forename><surname>Turner</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Worchel</surname></persName></editor><editor><persName><forename type="first">W.</forename><surname>Austin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Pacific Grove, CA</pubPlace><date type="published">1979</date><biblScope unit="page" from="33">33</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b107" type="inbook"><monogr><title level="m">Psychology of intergroup relations</title><editor><persName><forename type="first">H.</forename><surname>Tajfel</surname></persName></editor><editor><persName><forename type="first">J.C</forename><surname>Turner</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Worchel</surname></persName></editor><editor><persName><forename type="first">W.</forename><surname>Austin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Chicago</pubPlace><date type="published">1986</date><biblScope unit="page" from="7">7</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b108" type="article"><analytic><title level="a">Facets of empathy</title><author><persName><forename type="first">S.</forename><surname>Thornton</surname></persName></author><author><persName><forename type="first">D</forename><surname>Thornton</surname></persName></author></analytic><monogr><title level="j">Personality and Individual Differences</title><imprint><date type="published">1995</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="765">765</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b109" type="inbook"><monogr><title level="m">Territoire et vieillissement</title><editor><persName><forename type="first">J.P</forename><surname>Thouez</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b110" type="article"><analytic><title level="a">Autoduperie et Hétéroduperie: Un instrument de mesure de la désirabilité sociale</title><author><persName><forename type="first">J.</forename><surname>Tournois</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Mesnil</surname></persName></author><author><persName><forename type="first">J.-L.</forename><surname>Kop</surname></persName></author></analytic><monogr><title level="j">Revue Européenne de Psychologie Appliquée</title><imprint><date type="published">2000</date><biblScope unit="volume">50</biblScope><biblScope unit="page" from="219">219</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b111" type="article"><analytic><title level="a">Attitudes toward old people</title><author><persName><forename type="first">J.</forename><surname>Tuckman</surname></persName></author><author><persName><forename type="first">I</forename><surname>Lorge</surname></persName></author></analytic><monogr><title level="j">Journal of Social Psychology</title><imprint><date type="published">1953</date><biblScope unit="volume">37</biblScope><biblScope unit="page" from="249">249</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b112" type="inbook"><monogr><title level="m">Rediscovering the social group: A self-categorization theory</title><editor><persName><forename type="first">J.C.</forename><surname>Turner</surname></persName></editor><editor><persName><forename type="first">M.A.</forename><surname>Hogg</surname></persName></editor><editor><persName><forename type="first">P.J.</forename><surname>Oakes</surname></persName></editor><editor><persName><forename type="first">S.D.</forename><surname>Reicher</surname></persName></editor><editor><persName><forename type="first">M.S</forename><surname>Wetherell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford, England</pubPlace><date type="published">1987</date></imprint></monogr></biblStruct><biblStruct xml:id="b113" type="article"><analytic><title level="a">Vers une méthodologie de validation transculturelle des questionnaires psychologiques: Implications pour la recherche en langue française</title><author><persName><forename type="first">R.J</forename><surname>Vallerand</surname></persName></author></analytic><monogr><title level="j">Canadian Psychology</title><imprint><date type="published">1989</date><biblScope unit="volume">30</biblScope><biblScope unit="page" from="662">662</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b114" type="inbook"><monogr><title level="m">Ageism</title><editor><persName><forename type="first">L.M</forename><surname>Woolf</surname></persName></editor><idno type="uri">http://www.webster.edu/~woolflm/ageism.html</idno><imprint><date type="published">1998</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,2212 @@
+1
+
+Bull. SOC.Chim. Belg., 67, pp. 96-122, 20 fig. (1958)
+
+I
+
+LES PROPRIETES DIELECTRIQUES
+DES POLYMERES SOLIDES
+LUCIADE BROUCKBRE
+et G. OFFERGELD
+(BruxelIes)
+
+SUMMARY
+Dielectric constants and loss factors of various polyacrylic and polymethacrylic esters have been measured for frequencies ranging from .5 to
+500 kilocycles/sec (in some cases to I4 megacycles/sec). The measurements
+covered a fairly wide temperature interval, both below and above the glass
+transition temperature TK.
+In all cases a secondary, or fi absorption band was found, which could
+not be attributed to cooperative movements of the chain segments. The dispersion curves could not be represented b j the classical equation of Landell,
+Williams and Ferry, valid for the u bands. The energy of activation was lower
+for the P band than for the U , and for P bands this energy did not change
+abruptly at Tg. The p relaxation spectrum contrary to the R one, spreads out
+as the temperature is lowered.
+The fi band seems to be due to movements of side groups, and when
+these are not too bulky the movements are not frozen at Tg.
+
+INTRODUCTION
+L’Ctude des phtnombnes de relaxation dans les hauts polymbres amorphes a montrC qu’il apparait d a m la zone de transition
+vitreuse, tant au point de vue diilectrique que micanique, un
+important domaine de dispersion, gCnCralement appelC domaine
+de dispersion
+L’origine microscopique du domaine de dispersion tc doit
+&re attribuCe aux mouvements coordoniiCs des segments de la
+chaine principale de la macromolCcule, mouvements qui ne s’effectuent, avec une vitesse appreciable, qu’au dessus de la tempCrature
+de transition vitreuse Tg.
+L’Ctude des propriCtCs de la dispersion 0: a surtout CtC faite
+~ ( ~ 5 . ” ) .
+
+(l) D. MEAD, R. M. Fuoss, J. Am. Chern. Suc., 63, 2832 (1941); 64,
+2389 (1942).
+( z ) K. DEUTSCH,
+E. A. HOFF,W. REDDISH,
+J. Polymer Sci., 13, 565 (1954).
+
+97
+
+P R O P R I ~ T ~DIJ~ECTRIQUES
+S
+DES POLYM~RES
+
+par FERRYet ses collaborateurs (,) WILLIAM,
+LANDELet FERRY
+(*)
+ont notamment Ctabli que, dans un intervalle de tempkrature
+compris entre Tg et (Tg
+100) environ, la variation avec la temperature d’un temps de relaxation diklectrique (ou mCcanique)
+pouvait se dCcrire B l’aide d’une Cquation pilote semi-empirique.
+Celle-ci a trouvC rCcemment une justification plus complbte dans
+une thCorie molCculaire ktablie par BUECHE(”.
+En plus du domaine de dispersion a, plusieurs auteurs
+ont Cgalement mis en Cvidence, dans de nombreux polymbres,
+l’existence de bandes secondaires d’absorption micanique, ou
+diklectrique, qui apparaissent B des tempiratures infkrieures B la
+temperature de transition vitreuse. Les donnCes de la littkrature
+concernant ces domaines secondaires de dispersion (domaine de
+dispersion p, y) sont assez fragmentaires, et les micanismes moleculaires qui les provoquent sont encore trks ma1 connus. DEUTSCH,
+HOFF et REDDISH(z) ont Cmis I’hypothkse que chaque zone de
+dispersion particulikre trouve son origine dans le mouvement d’un
+groupement molCculaire diffirent. Le problkme qui se pose d6s
+lors en premier lieu revient A identifier la nature du groupement
+molCculaire mobile. Plusieurs auteurs
+ont CtudiC plus
+sptcialement la bande d’absorption p du polymCthacrylate de
+mCthyle, et sont arrivts B la conclusion que ce domaine de dispersion a pour base le mouvement du groupement IatCral carbo-
+
++
+
+(1,6.778.9)
+
+(2-9910J1)
+
+0
+
+k
+
+methoxy (-C-0-CH,) de la macromolCcule.
+Le but du prCsent travail a CtC d’obtenir des informations
+quant A la nature du mCcanisme microscopique responsable de
+l’existence du domaine de dispersion diklectrique p. A cet effet
+nous avons examink l’influence de divers paramktres physiques et
+(!j)
+
+J. D. FERRY,M. L. WILLIAMS,
+E. R. FITZGERALD,
+J. Phys. Chem.,
+
+59, 403 (1955).
+(4)
+M. L. WILLIAMS,
+R. F. LANDEL,J. D. FERRY,J. Am. Chem. SOC.,77,
+3701 (1955).
+( 5 ) F. BUECHE,
+J. Chem. Phys., 24, 418 (1956).
+K. SCHNEIDER,
+K. WOLF,Koll. Zeits., 127, 65 (1952).
+(’) H. THURN,F. WURSTLIN,
+KoN. Zeits., 145, 133 (1956).
+H. THURN,K. WOLF,Koll. Zeits., 148, 16 (1956).
+(9)
+E. A. W. HOFF,D. W. ROBINSON,
+A. H. WILLBOURN,
+J. Polymer Sci.,
+19, 161 (1955).
+( l ” ) J . HEYBOER,
+P. DEKKING,
+A. J. STAVERMAN,
+Rheology, p. 123. (Butterworths - London, 1954).
+(11) J. HEYBOER,
+Koll. Zeits., 148, 36 (1956).
+(‘j)
+
+98
+
+LUCIA DE BROUCK~REET G. OFFERGELD
+
+chimiques sur le comportement diklectrique de plusieurs polymbres
+IinCaires, amorphes, du type vinylique.
+1) Les propriCtCs diilectriques ont CtC mesurCes dans une large
+gamme de frkquences (gCnCralement de 500c/s, a’ 5OOKc/s, et
+parfois jusqu’h 14Mc/s) et h diffkrentes tempiratures, tant en
+dessous qu’au dessus du point de vitrification.
+2) Nous avons compare les caractkristiques diklectriques des
+polymCthacrylates de mCthyle, d’Cthyle, de butyl- et d’isobutyle,
+ainsi que celles du polyacrylate de mtthyle. Tous ces polymeres
+sont porteurs du m@medipole dam la chaine lattrale (le groupement -C-0-R), mais diE&rent,d’une part dans la flexibilitC de la
+
+/I
+
+0
+chaine principale (les polymethacrylate et polycrylate de mithyle)
+et d’autre part dans I’encombrement et la rigidit6 du radical alcoyl
+latCral (les esters polymethacryliques).
+3) Plusieurs Cchantillons de masse molCculaire diffkrente ont
+Cgalement 6tC CtudiCs afin de dkterminer l’influence Cventuelle du
+degrC de polymCrisation sur les propriCtCs diklectriques.
+TECHNIQUES EXPERIMENTALES
+TABLEAU I
+
+1 Indice visco1 simetrique
+limite
+
+Degre de
+polymerisation
+
+polyacrylate de
+methyle
+(PAM)
+polymethacrylate
+de mtthyle
+(PMAM)
+polymethacrylate
+d’tthyle
+(PMAEt)
+Polymethacrylate
+de butyle
+(P.M.A.B.)
+
+U. C. B. ))
+A ete fractionne
+a Rohm Haas ))
+A ete fractionne
+
+1) 73
+2) 110
+3) 132
+
+2.140
+3.880
+5.050
+
+~~
+
+polymer
+consultants B
+a Monomer Polymers ))
+a ete fractionne
+
+108
+
+Polymkthacry late
+d’isobutyle
+(PMAi oB)
+
+1
+
+Provenance
+
+polymkre utilise
+
+K
+
+(<
+
+a Monomer
+
+polymer ))
+
+-
+
+35
+
+I
+
+184.000
+333.500
+434.000
+71.000
+
+710
+
+5.500
+~-
+
+1) 42
+2) 52
+3) 61
+4) 124
+
+Masse
+moleculaire
+
+680
+880
+1.070
+2.590
+
+630.000
+-
+
+96.000
+125.000
+152.000
+368.000
+
+PROPRIMS
+D~~LECTRIQUES
+DES POLYMBRES
+
+99
+
+I. LESPOLYM~RESUTILISBS
+Dans le tableau I nous avons rassemble les caracteristiques des differents
+polymbres que nous avons utilises.
+Les PMAEt et PMAisoB n’ont pas ete soumis a un fractionnement
+systematique. Nous avons dissous les polym&res dans l’acetone (solution a
+1 %) et prkipitk successivement trois fractions au moyen de methanol. Nous
+avons utilise la fraction mediane, eliminant ainsi les substances a trbs grand
+et trbs petits poi& moleculaires.
+Les poids moleculaires moyens ont ete determines a partir des indices
+viscosimetriques limites. Nous avons utilise les relations suivantes :
+PAM (solution dam le benzene i 25C) : [q] = 1,7M0~bs10--8
+(Iz)
+PMAM (solution dans le benzene a 2 5 T ) : [q] = 0,745M0,761CF2(13)
+PMAEf(so1ution dans la methyl-ethylcetone a 23 OC): [q]=0,283M0r79910-z( 14)
+PMAB (solution dans le chloroforme a 25T) [~]=0,437M0W0-z (9
+Pour le PMAisoB nous n’avons pas trouve dans la litterature de formule
+reliant la masse moleculaire a l’indice viscosimktrique limite
+
+2. FABRICATION
+DES PASTILLES
+Les echantillons de polymbres que nous avons utilises pour les rnesures
+dielectriques etaient des disques de 5 cm de diambtre et d’environ 1 mm
+d’epaisseur. Nous avons prepare ces disques par moulage a chaud, a une
+LOO)”, et en exerqant pendant une dizaine de
+temperature d’environ (Tg
+minutes une pression de l’ordre de 100 Kg/cm3. Le diambtre des pastilles
+a ete ajuste aprbs le demoulage & la temperature ambiante. Pour eviter l’absorption d’humidite les disques de polymkres ont ete conserves sous vide
+dans un dessicateur contenant du P,O,.
+
++
+
+3. CELLULES
+DE
+
+MESURE
+
+Nous avons utilise deux types de cellule de mesure suivant la region de
+temperature examink.
+a) Dans le domaine de temperature qui s’etend de
+30oC
+15OOC
+nous avons employe la cellule type 1690A de la General Radio Co. Cette
+cellule a Bte placee dans un thermostat a air. La temperature a Cte mesuree
+dans l’air au voisinage immediat de 1’6chantillon a l’aide d’un thermombtre
+a resistance de platine. Jusqu’a des temperatures voisines de lOOoC nous avons
+obtenu une temperature constante au dixibme de degre prks. Au dessus de
+100°C les fluctuations de temperature ont ete superieures a 0,lOC.
+b) La thermostatisation de la cellule General Radio s’est averee trks
+difficile pour les temperatures inferieures a la temperature ambiante. Dans
+ce domaine de temperature nous avons utilise une seconde cellule de mesure
+mise au point par M. Mandel. Celle-ci est representee dans la fig. 1. L’electrode
+inferieure A fixe constitue l’tlectrode sensible qui est isolke de la masse par
+un disque en polystyrkne P. L’armature supkrieure mobile, B, coulisse dans
+une cavite cylindrique, creuste dans la masse C, qui la guide dans la majeure
+
++
+
++
+
+J WILLOT,Mkmoire de Licence (Universit6 de Bruxelles, 1951)
+J H BAXENDAELE,
+S BYWATER,M. G. EVANS,J. Polymer Sci., I ,
+237 (1 946).
+(14) S. N. CHINAI, R. J. SAMUELS,
+J. Polymer Sci., 19, 463 (1956).
+(15) ZDENEK
+MENCIK,Chem. Listy. 46, 407 (1952).
+(lZ)
+
+(13)
+
+100
+
+LUCIA DE
+
+BROUCKBRE
+
+ET G. OFFERGELD
+
+partie de son parcours assurant ainsi le centrage de l’electrode. Le contact
+avec la masse est realis6 B l’aide du ressort metalliaue flexible soude d’une
+part a I’electrode’B et d’autre part a la
+CELLULEII
+masse metallique rigide C. Le deplacement
+de l’armature B s’effectue en tournant le
+disque D. La mesure du deplacement de
+l’armature superieure est obtenue A l’aide
+d’un comparateur, ce qui permet de lire
+la distance entre les electrodes a 0,02 mm
+prks. L’enltvement des pameaux P, et P,
+Cree deux ouvertures laterales, ce qui permet l’introduction de I’khantillon solide.
+Dans l’intervalle de distances inter-tlectrodes que nous avons utilise la capacite
+de la cellule est une fonction linkaire de
+l’inverse de cette distance.
+Pour thermostatiser la cellule nous
+l’avons p1aci.e dans un recipient metallique
+plongeant dans un cryostat a alcool isopropylique. La mesure de la temperature
+a kt6 effectuee a l’aide d’un thermocouple
+place dans la masse de la cellule. En reliant
+la cellule au pont de mesure nous avons
+observe une ClCvation lente de la temptrature de la cellule qui etait de l’ordre de
+10 a 20C’ pour la durke des mesures.
+4. LESAPPAREILS DE MESURE
+
+Nous avons employe deux ponts
+de mesure suivant la gamme de frequences utilisee : de 500 c/s 5 500 Kc/s
+un pont du type Scheming; de 500 Kc/s
+Fig. 1
+a 14 MgC/s le pont Twin-T de la
+General Radio CO.
+Nous avons opere par la methode de substitution : aprks avoir Btabli
+un premier Cquilibre du pont nous avons place la cellule de mesure chargke
+de l’echantillon, en parallkle sur un bras du pont. L’equilibre est ensuite
+retabli en agissant uniquement sur les condensateurs variables etalons du
+pont de mesure.
+Dans l’assemblage de haute temperature la valeur elevee de la self
+inductance du coaxial reliant la cellule au pont nous a interdit de depasser
+la frequence de 500 Kc/s. Par contre aux basses temperatures la distance entre
+la cellule et le pont a pu &trerendue suffisamment petite pour permettre des
+mesures jusqu’a 14 Mgc/s sans devoir introduire des corrections de selfinductance.
+Nous avons employe d e w gkntrateurs et deux detecteurs differents suivant la gamme de frequences dans laquelle nous avons travaill6.
+1) De 5OOc/s B 40Kc/s nous avons utilise un gknerateur de la marque
+C.R.A. et un dktecteur de tension a amplification selective couple ?
+unioscillographe cathodique.
+
+6
+
+PROPRIMS
+DI~LECTRIQUESDES
+
+101
+
+POLYM~RES
+
+2) De 100 Kc/s i 14 Mgc/s nous avons employe un oscillateur a quartz.
+Dans cette bande de frequences nous avons utilise comme dktecteur un poste
+recepteur heterodyne (( H.R.O. )) de la a National Co n.
+PRECISION ET REPRODUCTIBILIT~DES MESURES
+
+Le calcul montre que les erreurs resultant des lectures faites sur les divers
+appareils de mesure sont negligeables devant l’imprecision provenant de la
+determination de l’kpaisseur moyenne des disques de polymbre. Celle-ci est
+de l’ordre de 1 mm et a Bte determink par lecture directe de 1’Ccartement
+entre les armatures du condensateur de mesure. L’epaisseur est connue a
+& 0,02 mm prbs, ce qui entraine une erreur theorique sur les valeurs de E ’
+et E” de 2 % environ. Nous nous sommes gardes des erreurs provenant du
+contact imparfait entre l’echantillon et les electrodes en recouvrant les surfaces
+de nos disques d’une mince couche d’un revQtement a base d’argent metallique
+finement divise (a Electrode coating )) de la firme E. I. Dupont). En comparant les valeurs de E’ et E“ de plusieurs pastilles fabriqukes avec un m6me
+polymkre, nous avons constate que celles-ci pouvaient differer fortement entre
+elles, l’ecart atteignant jusqu’a 20 %. Les courbes des pertes dielectriques sont
+dkcalees les unes par rapport aux autres, le maximum de E ” ~apparaissant
+cependant toujours pour la mime valeur de la frtquence critique. Nous attribuons ce manque de reproductibilite dans les valeurs absolues de E’ et E ”
+principalement au fait que nous ne connaissons pas avec suffisamment de
+precision la forme exacte de la pastille. Nous avons en effet observe que nos
+tchantillons de polymbres se deformaient lentement aux temperatures superieures a Tg. Cet effet dont nous ne sommes pas maitres, rend impossible la
+determination precise des valeurs de E’ et E”. Une autre cause du manque de
+reproductibilite des Cchantillons entre eux pourrait Qtre la prgsence d’occlusions microscopiques d’air en quantite variable dans Ies differents echantiffo%s.
+Lorsqu’on exprime les resultats a l’aide des grandeurs relatives E / E m
+et E ‘ / E ’ m , qui ne dependent pas de la fo$Fe de l’echantillon, la reproductibilitk
+des mesures est excellente (E’,,, et E correspondent respectivement aux
+valeurs de E’ et E ‘ ~i la frkquence critique fr).
+Dans les tableaux I1 et 111 ainsi que les figs. 2 et 3, nous avons $ o m 6
+a titre d’exemple les valeurs comparees; absolues et rkduites, de E’ et E pour
+deux echantillons differents de polymkthacrylate de butyle.
+TABLEAU I1
+Reproductibilite des mesures. Polymethacrylate de butyle (8 lo)
+Polymkre
+
+tempkrat. OC
+
+PMAB 1
+
+810
+
+3,95
+
+0,492
+
+PMAB 2
+
+810
+
+3,92
+
+0,434
+
+I
+
+3,85
+
+3,40
+
+LUCIA DE BROUCKBRE ET G . OFFERGELD
+
+102
+
+TABLEAU I11
+
+Reproductibilite des mesures. Polymethacrylate de butyle
+
+-
+
+Frequence
+en Kc/s
+
+E'1
+
+4,60
+4,51
+4,37
+4,16
+3,94
+3,81
+3,68
+3,55
+3,425
+3,34
+3,12
+3,Ol
+2,84
+
+-
+
+&'a
+
+")
+
+E')4
+
+&Ill
+
+4,05
+3,97
+3,85
+3,65
+3,47
+3,36
+3,24
+3,125
+3,03
+2,95
+2,77
+2,68
+2,59
+
+0,176
+0,266
+0,370
+0,455
+0,490
+0,492
+0,482
+0,463
+0,43 1
+0,398
+0,300
+0,233
+0,167
+
+E"m
+
+0,159
+0,244
+0,332
+0,408
+0,433
+0,433
+0,422
+0,405
+0,374
+0,346
+0,260
+0,202
+0,146
+
+1,195
+1,17
+1,135
+1,08
+
+1,02
+0,99
+0,955
+0,92
+0,89
+0,87
+0,81
+0,78
+0,74
+
+1,19
+1,17
+1,13
+1,07
+1,02
+0,99
+0,95
+0,92
+0,89
+
+I
+
+I
+
+I
+
+I
+
+0.5
+
+1
+
+2
+
+4
+
+l
+
+l
+
+710
+
+Fig. 2
+
+0,36
+0,54
+0,75
+0,92
+0,99
+1,00
+0,98
+0,94
+0,87
+0,81
+
+0,87
+
+PMAamE(e1:)
+
+&"
+
+(O).
+
+&'
+
+I
+
+I
+
+20
+
+40
+
+11
+
+100 200
+
+1
+
+500
+
+0,37
+0,56
+0,77
+0,94
+1
+1,oo
+0,97
+0,93
+0,86
+0,80
+0,a
+0,47
+0,34
+
+P
+
+PROPRIBT~~S
+DI~LECTRIQUESDES POLYMBRES
+
+103
+
+z
+E’rn
+
+(Kc/*)
+I
+
+I
+
+I
+
+0,5
+
+1
+
+2
+
+I
+
+l
+
+l
+
+I
+
+1
+
+4 710 20 4 0
+
+I
+
+1
+
+I
+
+100 200 500
+
+Fig. 3
+
+Crithes utilise‘s dam I’analyse des rksultats expe‘rimentaux
+
+Dans l’analyse des courbes de dispersion ( E ’ et
+nous avons tenu compte des critkres suivants :
+
+E”
+
+en fonction de logf)
+
+1. DE LA
+
+LOCALISATION DE LA ZONE DE DISPERSION DI~LECTRJQUEPAR RAPPORT
+A LA TEMPBRATURE DE TRANSITION VITREUSE Tg
+
+Dans le tableau IV nous avons rassemble les temperatures de transition
+vitreuse des differents polymbres que nous avons etudie.
+
+2. GRANDEURS
+D’ACTIVATION
+
+CARACTEREANT
+
+LE PROCESSUS DE RELAXATION
+
+DI~LECTRIQUE
+
+Les grandeurs d’activation ont ete obtenues a partir des diagrammes
+representant logf, (ou fc est la frequence critique correspondant au maximum
+de la courbe d’absorption) en fonction de 1/T. La frequence critique a ete
+determinee dans tous les cas a l’aide de la methode de FUOSS-KIRKWOOD
+(“).
+L’ecart entre les valeurs de log fc determinees par la mkthode de FuossKIRKWOOD
+et celles obtenues par mesure directe A partir des courbes exptrimentales est de 0,l environ. Nous avons estime que l’imprecision sur les
+valeurs de log& est de 0,l; ce qui peut entrainer une erreur sur la frequence
+critique d’environ 20 %. Dans les intervalles de temperatures dam Iesquels
+(*l)
+
+R. M. Fuoss, J. G. KIRKWOOD,
+J. Am. Chem. SOC.,63, 385 (1941).
+
+104
+
+LUCIA DE BROUCK~RE ET G. OFFERGELD
+
+TABLEAU IV
+Temperature de transition des polymhres utilises.
+Polymbre
+
+Formule chimique
+
+temperature
+de transition
+(en oC)
+
+Ref.
+
+__
+
+~
+
+H
+polyacrylate de methyle
+(PAM)
+
+I
+I
+
+(-CHz-C -)Z
+
+00
+
+16
+
+1050
+
+17
+
+COOCH,
+CH,
+Polymkthacrylate de mCthyli
+(PMAM)
+
+I
+I
+
+(-CHe-C-)Z
+COOCH,
+CH3
+
+polymkthacrylate d'ethyle
+(PMAEf)
+
+I
+I
+
+(-CHz-C-)Z
+
+*
+620
+
+18
+
+17"
+
+19
+
+COOCzH,
+CH
+polymkthacrylate de butyl
+(PMAB)
+
+I
+I
+
+(- CHz - C-)Z
+
+COOC,H,
+CH3
+polymethacrylate d'isobutyl
+(PMAiosB)
+
+1
+I
+
+**
+
+20
+/CH3
+CO-CH 2-CH
+\CH a
+* Pour le PMAEf nous avons adopt6 la valeur renseignke par J. D. FERRY
+et ses collaborateurs (la) et qui est de 150 inferieure B celle donnee par WILEY
+(lo).
+et BRAUER
+** La valeur de 67oC donnke pour le PMAisoB correspond au point de
+ramolissement de ce polymcre, et est donc de quelques degrCs trop &levee.
+- CH2 - C - )Z
+
+(670)
+
+E. H. RIDDLE: Monomeric acrylic esters. (Reinhold Publ. C o , 1954).
+S. L. SHAEK,
+J . Poljmer Sci.,15, 391 (1955).
+(la) J. D. FERRY,
+W. C. CHILD, R. ZAND,D. M. STERN,M. L. WILLIAMS,
+R. F. LANDEL,J. Coll. Sci. 12, 53 (1957).
+( l o ) R. H. WILEY,G. M. BRAUER,
+J . Polymer Sci., 3, 455 (1948).
+(zo) J. W. C. CRAWFORD
+: J. SOC.Chem. Ind., 68, 201 (1949).
+(16)
+
+(l')
+
+105
+
+P R O P R I ~ T ~DI~LECTRIQUES
+S
+DES P O L Y M ~ R E S
+
+nous avons pu determiner les frequences critiques les points representant
+logf, exprimes en fonction de I/T se placent, aux erreurs d’experiences pres,
+sur un segment de droite. Nous avons calcule les grandeurs d’activation en
+considerant le temps de relaxation moyen comme l’inverse d’une constante
+cinetique a partir de la relation :
+
+1
+~~
+
+T
+
+AE*
+-
+
+=p*z*e*
+
+RT
+
+avec
+
+T =
+
+1 / 2 ~ f cou
+
+AE* represente l’energie d’activation caracterisant le processus d’orientation
+dipolaire. Le terme Z * est le facteur de frequence, et le paramktre P* (facteur
+de probabilite) peut &re considere comme une mesure de l’entropie d’activation (P* = exp.(AS*/R)).
+
+3.
+
+VALEURS DES CONSTANTES DIELECTRIQUES Eo, E l z ET E m
+
+:
+
+Nous avons construit les diagrammes de COLEet COLE(zz’) dans tous
+les cas oh les points experimentaux sont en nombre sufisant que pour tracer
+l’arc de cercle d’une maniere univoque. I1 est a remarquer cependant que
+I’application de cette methode n’est pas rigoureusement valable dans le cas
+des polymkres que nous avons examines. En effet nous avons constate que Ies
+courbes des pertes sont legkrement dissymetriques par rapport a l’ordonnee
+du maximum.
+Les points d’intersection de l’arc de cercle
+avec l’axe reel nous ont fourni, suivant les cas, les
+valeurs de la constante dielectrique statique E ~ de
+,
+la constante dielectrique a tres haute frequence
+E m , ainsi que de la constante dielectrique intermediaire E , ~ . Cette dernikre correspond a la
+E, valeur que prend E’ a la fin de la premikrere&€12
+Eo
+gion de dispersion et au debut de la seconde
+zone de dispersion. En effet idealement la
+Fig. 4
+presence, a une m&me temperature, de deux
+zones de dispersion se traduit graphiquement
+dans le plan complexe a I’aide de deux arcs de cercle possedant un point
+en commun (le point E , ~ ) sur I’axe reel (cfr. fig. 4).
+
+I&*
+
+4. LARGEURDE
+
+LA FONCTION DE DISTRIBUTION DES TEMPS DE RELAXATION
+
+Nous avons caracterise la largeur relative de la courbe d’absorption
+dielectrique a l’aide des parametres de distribution yl,ou y Z de FUOSS-KIRKWOOD, dkfinis par les relations :
+y l = ~ ( E ” ~ ~ ) ~ / E ~ - Eet, ~ y z = ~ ( E ’ ’ ~ ) ~- /- EE ~~ ~
+ou (E”,~) et ( E ” ~ ) ~representent les valeurs de E ” respectivement aux frequences critiques (fC), et ( f c ) z . (cfr. fig. 4).
+
+I. Polyacrylate de methyle
+L’examen des courbes de dispersion (fig. 5 ) niontre que dans
+le PAM il apparait deux zones de dispersion diklectrique distinctes :
+-
+
+K. S. COLE, R. H. COLE,J. Chem. Phys.. 9,341 (1941).
+
+106
+
+LUCIA DE B R O U C ~ R EET G. OFFERGELD
+
+1) Une premikre bande d’absorption nettement marquCe au
+dessous de la tempkrature de vitrification.
+2) Un second domaine de dispersion qui s’amorce aux basses
+temperatures au dessous du point de transition vitreuse.
+
+0,s I
+
+2
+
+4
+
+7 1 0 20 40
+
+100 200 5001.0002.0004.00010L)00
+
+Fig. 5
+
+Au dessus de Tg les deux zones de dispersion s’observent
+simultankment. La prCsence de cette deuxikme bande d’absorption
+au dessus de la temperature de vitrification se traduit d’une manikre
+trks nette A l’aide des diagrammes de COLEou les points correspondants aux frCquences ClevCes s’icartent systimatiquement de
+I’arc de cercle track au travers des points de basse fr6quence
+(cfr. fig. 6 ) .
+Domaine de dispersion
+
+M
+
+Le domaine de dispersion localis6 au dessus du point de
+vitrification, aux basses frkquences, doit Ctre considCrC comme le
+
+P R O P R I ~ ~ TDI~LECTRIQUES
+~~S
+DES POLYM~RES
+
+5.0
+
+45
+
+69
+
+5.5
+
+107
+
+6.5
+..
+
+0,6
+
+E”
+
+PAM(Z=J~~O
+2 9):
+
+Fig. 6
+
+domaine de dispersion CI rCsultant du inouvement des segments
+de la chaine principale.
+Nous avons cornpard les caractiristiques diilectriques avec
+et ses collaborateurs.
+celles Ctablies par FERRY
+1. Dans l’intervalle trks restreint de tempirature que nous
+avons examin6 la largeur de la fonction de distribution des temps
+de relaxation ne varie pas avec la tempCrature. En effet dans les
+limites des erreurs expirimentales les courbes riduites expriment
+E‘’/E:
+en fonction de log fiJ,, obtenues B diverses tenipCratures,
+sont superposables (cfr. fig. 7).
+
+-2.0
+
+-l,o
+Fig. 7
+
+0
+
++ 1.0
+
+12.0
+
+108
+
+LUCIA DE BROUCK~REET G. OFFERGELD
+
+2. Nous avons Cgalement
+compark les valeurs du paramktre log aT exprim6 en fonction
+de (T-TJ
+B la courbe donnCe
+par 1’Cquation de WILLIAMS,
+LANDEL
+et FERRY
+(”. La temp&rature de rCfCrence a CtC choisie
+Cgale B 5OoC, et la valeur du
+temps de relaxation moyen a Ts
+a CtC obtenu par interpolation
+graphique. L’accord entre les
+valeurs expCrimentales et celles
+calculCes de 1’Cquation de WILLLAMS, LANDELet FERRY
+semble
+assez bon comme on peut le voir
+dans la fig. 8.
+Nous avons CtudiC trois
+Cchantillons de degrC de polymC-30-20-10 0 10 20 30
+risation, moyen diffkrents, resFig. 8
+pectivement 2.140, 3.880 et 5050.
+Aucune influence de la masse molCculaire n’a CtC observie, ni sur
+la largeur relative de la courbe des pertes diilectriques, ni sur les
+valeurs des frkquences critiques.
+Dans le tableau V nous avons group6 les valeurs des divers
+paramktres caractkrisant le domaine de dispersion cc.
+TABLEAU IV
+DegrC depolymkrisation
+
+1
+
+t(oc)
+
+2
+
+2.140
+
+3.880
+
+5.050
+
+29O
+41°
+490
+530
+290
+410
+490
+530
+440
+470
+490
+530
+
+0,45
+24
+0,40
+4,9
+0,50
+2,15
+3,3
+4,9
+4,95
+0,525
+4,1
+13
+032
+4,6
+40
+4,9
+-__
+__
+0,46
+2,4
+0,25
+4,4
+0,52
+3,4
+2s
+43
+4,15
+14
+0,50
+4,8
+0,54
+4;9
+4,6
+40
+.___ -~
+0,50
+3,75
+5,6
+4,7
+0,49
+10
+4,O
+46
+0,52
+4,3
+21,5
+4,7
+4,8
+63
+I 0,54
+4,9
+~
+
+109
+
+P R O P R I ~ T ~DI~LECTRIQUES
+S
+DES POLYM~RES
+
+Domaine de dispersion p
+Les caractkristiques du domaine de dispersion p du PAM
+sont rassemblkes dans le tableau VI.
+
+8
+
+Degre de polymesation
+Z
+
+3.880
+
+I
+tOC
+
+~
+
+El2
+
+I
+
+I
+- 300
+- 19’5
+- 10
+
+logf,
+
+Em
+
+3,7
+3,7
+33
+
+fc
+
+(Kc/s)
+
+4.000
+21.500
+
+~
+
+’’
+0,22
+0,25
+
+Les points reprhsentant les ,fi exprimes en fonction de T’
+se placent sur un segment de droite. L’energie d’activation caracterisant le processus p est relativement petite : AE* = 14 kcal/mole.
+La trks faible valeur du paramktre de distribution (y2 = 0,22)
+indique la prCsence d’une fonction de distribution des temps de
+relaxation extremement Ctendue.
+
+Remarques ;
+Dam le graphique (17) representant les valeurs de E ~ q
+, 2
+et E~ en fonction de la tempCrature, on constate une difference
+d’environ 1,O entre les valeurs de E ~ Zdeterminees d’une part en
+dessous de Tg il l’aide de l’arc de cercle correspondant au domaine
+de dispersion p, et d’autre part au dessus de T, au moyen de l’arc
+de cercle trace cette fois au travers des points correspondant au
+domaine de dispersion u. Cette difference semble indiquer qu’il
+s’est produit un rapide accroissement de E~~ au voisinage de Tg.
+Cet effet pourrait cependant Cgalement rCsulter du fait qu’en
+rCalitC les deux zones de dispersion ne se prksentent pas d’une
+rnanikre aussi differenciie que dans le cas ideal, la reprksentation
+dans le plan complexe fournissant un diagramme du type de la
+fig. 9. Dans ce cas il devient Cvidemment difficile de sCparer les
+deux zones de dispersion d’une manikre nette.
+
+110
+
+LUCIA DE BROUCKBRE ET G. OFFERGELD
+
+11. ESTERSPOLYMI~THACRYLIQUES
+
+Dans tous les esters polymCthacryliques que nous avons
+examinis, et dans l’intervalle de tempkrature CtudiC qui s’Ctend
+de part et d’autre de la tempCrature de transition vitreuse, nous
+n’avons observe qu’un seul domaine de dispersion, qui se diplace
+vers les plus basses friquences lorsqu’on abaisse la tempirature
+(cfr. fig. 9, 10, 11, 12).
+E’
+
+I
+
+I
+
+I
+
+q5 1
+
+2
+
+4 7 1 0 20 40
+
+I
+
+.
+
+1
+
+1
+
+1
+
+I
+
+1
+
+1
+
+100 200 500
+
+Fig. 9
+
+1
+
+1
+
+45 1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+4 710 2 0 40
+
+Fig. 10
+
+1
+
+1
+
+I
+
+I
+
+I
+
+(
+
+I
+
+100200 5001.00020004.0001Q000
+
+111
+
+P R O P R I ~ ~ TDI~~LECTRIQUES
+~~S
+DES POLYMERES
+
+E'
+
+P M A B(Z=BBO)
+
+q...
+2.-
+
+::
+
+- 3 9 e
+I
+
+I
+
+0.5 1
+
+I
+
+2
+
+I
+
+4
+
+I
+
+5
+I
+
+33.
+
+:
+~
+
+710 20 4 0
+
+: :
+"
+
+I
+
+: "
+
+=
+
+I
+
+(
+
+"
+
+'(KC4
+
+-~
+
+4
+
+I
+
+1002005001.00020004D0010.000
+
+Fig. 11
+
+PMAiso B
+
+0
+
+42
+
+0,s
+
+1
+
+2
+
+4 7 1 0 20 4 0
+
+€'
+
+100200 5001.0002.0005m010.000
+
+Fig. 12
+
+Dans le PMAisoB on observe une remontke dans la courbe
+des pertes aux basses frkquences et aux tempkratures Clevtes (fig.13).
+Comme cette augmentation assez considkrable des pertes ne correspond aucune variation sensible de la constante diklectrique E',
+on peut attribuer l'accroissenient a un effet de conductivitC.
+
+112
+
+LUCIA DE BROUCK~REET G. OFFERGELO
+
+Nous avons examinC quatre Cchantillons de PMAB de degres
+de polymCrisation diffirents : 680, 880, 1070 et 2590.Aucune
+influence de la masse molCculaire sur les propriCtCs diklectriques
+n’a CtC observCe.
+Dans les tableaux VII, VIII, IX et X, nous avons group6 les
+valeurs des divers parambtres caractirisant le domaine de dispersion observC dans les esters polymCthacryliques.
+TABLEAU VII
+Polymkthacrylate de mkthyle (Z
+
+=
+
+710)
+
+I
+
+tOC
+
+Yz
+
+51°
+590
+7005
+750
+790
+830
+860
+89O
+900
+910
+950
+990
+1040
+1110
+1180
+12105
+
+0,20
+0,21
+0,23
+0,26
+0,27
+0,28
+0,29
+0,32
+0,30
+0,34
+0,29
+0,3 1
+0,30
+0,32
+0,37
+0,38
+
+1330
+
+0,38
+
+TABLEAU VIII
+Polymethacrylate d’ethyle (Z
+
+=
+
+5.500)
+
+Ya
+
+51°5
+
+4,o
+4s
+
+84O
+
+96O
+1020
+1090
+
+1190
+
+435
+
+1
+
+4,4
+4,4
+4,3
+
+570
+
+0,25
+0,32
+0,35
+
+10
+213
+50
+
+0940
+0944
+0,51
+
+0.08
+1,6
+
+113
+
+P R O P R I ~ T ~DI~LECTRIQUES
+S
+DES POLYMERES
+
+TABLEAU IX
+PolymCthacrylate de butyle
+DegrC de
+polymerisation
+Z
+
+t°C
+
+1
+
+El2
+
+2.5
+
+680
+
+880
+
+I .070
+
+540
+62O
+69O
+78O
+
+492
+
+680
+750
+810
+92O
+
+4,3
+4,2
+4,3
+46
+
+4,4
+4,3
+4,3
+
+1
+
+2.5
+2,95
+3s
+3,9
+
+0,315
+0,895
+3,15
+7,95
+
+2,4
+2,9
+393
+3,75
+
+0,25
+0,795
+2,15
+5,6
+
+I
+
+I
+
+0,37
+0,41
+0,50
+
+0,48
+0,38
+0,40
+0,48
+0,54
+0,43
+0,49
+
+2,4
+2,45
+2s
+2,75
+
+0,53
+0,54
+
+- 1 - 1
+
+0,42
+0,48
+0,56
+
+TABLEAU X
+PolymCthacrylate d'isobutyle
+t0C
+
+Y 3
+
+~-
+
+810
+
+89O
+98O5
+107O
+113O
+123O
+1280
+1350
+143O
+
+0,06
+091
+1,O
+
+3,15
+7,95
+31,s
+56
+130
+400
+
+0,35
+0,325
+0,42
+0,45
+
+0,49
+0,57
+
+0,63
+0,68
+0,68
+
+L'analyse des rksultats expkrimentaux nous a m h e B la conclusion que pour chaque ester polymkthacrylique examink nous
+avons mis en Cvidence le domaine de dispersion p. Ce point de vue
+est Ctayk par les considkrations suivantes :
+
+114
+
+LUCIA DE
+
+BROUCKBRE
+
+ET G. OFFERGELD
+
+1. Valeurs des Pnergies d’activation caractkrisant le processus de
+
+relaxation die‘lectrique
+Pour le PMAM la dispersion diklectrique apparait A des
+tempiratures nettement infCrieures A Tg et se prolonge sans discontinuit6 apparente au dessus du point de vitrification.
+L’Cnergie d’activation calculCe B partir de la droite log.6
+en fonction de la l/T est de 23 kcal/mole. Ces rCsultats sont en bon
+WOLFFet REDDISH(2)
+accord avec les observations de DEIJTSCH,
+pour le domaine de dispersion p.
+Pour le PMAEt on constate Cgalement que la zone de dispersion dCbute A de tempCratures infirieures B Tg. L’Cnergie d’activation caracthisant le processus de relaxation diClecl0g.fc
+PMAiso
+trique est du m&meordre de
+grandeur que celle observCe
+dans le PMAM (cfr. tableau
+XI). Dans le cas du PMAB
+et PMAisoB, dans la gamme
+de frCquences que nous
+avons utilisCe, nous avons
+localis6 les frCquences critiques uniquement B des
+tempkratures supirieures A
+la tempCrature de transition
+vitreuse. Dans la fig. 14 nous
+avons reprCsentC, A titre
+2.0
+2,s
+340
+d’exemple, le diagramme
+Fig. 13
+du PMAisoB.
+logf, - T’
+Pour le PMAR et surtout pour le PMAisoB les valeurs des
+Cnergies d’activation sont plus ClevCes que le AE* qui caractCrise
+le processus p du PMAM, mais sont systkmatiquement infkrieures
+aux valeurs des Cnergies d’activation apparentes calculCes B partir
+de l’tquation de WILLIAMS,
+LANDEL
+et FERRYpour une tempkrature
+T, correspondant au milieu de la region de tempkrature dans
+laquelle nous avons dCtermiiiC les frCquences critiques.
+
+a
+B
+
+(*) Pour le PMAM les points experimentaux ne se trouvent pas tous dans
+la droite la plus probable calculke par la methode des moindres carres, mais
+semblent plut6t se placer sur un arc de courbe. L’effet observe nous apparait
+cependant comme trop faible que pour pouvoir en deduire avec certitude
+I’existence d’une courbure dam le diagramme log&/
+
+.
+
+PROPRIBT~SDII~LECTRIQUESDES POLYMBRES
+
+115
+
+TABLEAU XI
+~~
+
+Polymbre
+
+PMAEf
+PMAB
+PMAisoB
+
+Tnz (OK)
+tempkrature
+medi ane
+
+(T,n-Tg)
+
+358
+343
+385
+
+53
+45
+
+1
+
+Energie d’activation apparente
+(kcal/mole)
+
+AE*
+kcal/mole
+24
+30
+43
+
+66
+
+PMA B
+
+PMAiso6
+
+Y
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+40302010 0 102030
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+3 0 2 0 1 0 0 10 2 0 3 0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+30 2010 0 10 2 0 3 0
+
+Fig. 14
+
+D’autre part le dCsaccord entre la variation experimentale
+du temps de relaxation moyen avec la tempirature d’une part,
+et celle dCterminCe a partir de 1’Cquation de WILLIAMS,
+LANDEL
+et FERRYd’autre part se met egalement en Cvidence ii l’aide des
+courbes exprimant log aT en fonction de (T - Ts).(cfr. fig. 14)
+La tempCrature de rCfCrence Tsa Ctt choisie Cgale ii (T,
+50)O.
+
++
+
+-3,O -2,0
+
+-1.0
+
+0
+
+Fig. 15
+
+1.0
+
+2p
+
+$0
+
+4,C
+
+2. Variation de la fonction de distribution
+des temps de relaxation avec la
+tempkrature
+Le dCsaccord avec
+les c a r a c t i r i s t i q u e s
+Ctablies par FERRY
+pour le domaine de
+dispersion CL apparait
+
+116
+
+LUCIA DE
+
+BROUCKBRE
+
+ET G. OFFERGELD
+
+Cgalement trks nettement dans l’accroissement systCmatique du
+paramktre de distribution y avec la tempkrature.
+Ce risultat indique que la fonction de distribution des temps
+de relaxation se ritrkcit au fur et
+mesure que la tempkrature
+augmente. Cet effet peut se mettre Cgalement en Cvidence a
+l’aide de courbes rCduites. Dans la fig. 16 nous avons reprCsentC
+comme exemple la courbe rCduite du PMAEt a diffirentes
+tempiratures.
+8-
+
+PAM
+
+6-
+
+=--
+
+4-
+
+2--‘12
+
+El2
+
+€
+-Ed
+
+I2
+
+Tg
+
+3. Valeurs de
+
+6 .I
+
+€0, €12
+
+t%
+
+et €-
+
+Dans le PMAM nous n’avons pas observC la prCsence du
+domaine de dispersion a, celui-ci se situant probablement a des
+frCquences infkrieures
+500 cjs (DEUTSCH,HOW, REDDISH(2),
+MIKHA~OV,
+BORISOVA,
+DANITROCHENK
+(”)). De mCme pour les
+PMAEt, PMAB et PMAisoB nous n’avons pas observC la moindre
+Cbauche d’une zone de dispersion diffkrencite aux basses frCquences,
+bien que nous ayons effectuC des mesures jusqu’h des tempkratures
+de 70° a 80° au dessus de Ty.
+Cependant la valeur correspondant au point d’intersection avec
+l’axe riel de l’arc de cercle de COLE,aux basses frkquences, pour
+le PMEt, le PMAB et le PMAisoB est du mCme ordre de grandeur
+que la valeur obtenue pour le PMAM qui correspond a q2.
+Celle-ci est nettement plus petite que la. valeur de la constante
+diklectrique E~ du PAM, mais est du m&meordre de grandeur que
+la valeur de c I 2 du PAM (cfr. tableau XII).
+-
+
+(9G . P. MIKHAILQW,
+T. I. BORISOVA,
+D. A. DMITROCHENKO,
+J. Tech.
+Phys., (URSS) 26, 1924 (1956).
+(*) Dans les limites des erreurs experimentales nous n’avons pas pu
+mettre en evidence la variation de E, avec la temperature (celleci etant inferieure A l’erreur sur E,,) exception faite peut-Ctre dans le PMAisoB, oh il y a
+une legkre dhoissance c0 quand T croit.
+
+P R O P R I ~ T ~DI~LECTRIQUES
+S
+DES POLYMBRES
+
+117
+
+TABLEAU XI1
+
+PAM
+PMAM
+PMAEf
+PMAB
+PMAisoB
+
+Les valeurs renseignies dam le tableau XI1 sont les valeurs
+moyennes diterminkes graphiquement ii I'aide des figures 16, 17,
+18, 19, 20 et .
+PM A M(Z= 71 0 )
+
+0-
+
+6-
+
+' . n
+
+.-
+
+4-
+
+2--r2
+
+40
+
+20
+
+0 0 0 , .
+
+0
+
+0
+
+oo'
+
+-
+
+-*;--
+
+"
+-;
+
+&o
+
+0
+
+-
+
+&-
+
+tfc
+
+$
+l
+
+0
+
+20
+
+40
+
+Fig. 19
+
+60
+
+00
+
+100
+
+LUCIA DE BROUCKBRE
+
+118
+
+2
+
+3
+
+ET G . OFFERGELD
+
+4
+
+PMAisoB
+
+20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+Fig. 20
+
+Dans tous les polymeres que nous avons CtudiCs, les valeurs
+de €m sont 1Cgkrementsupkrieures aux valeurs des carrCs des indices
+de rkfraction de ces substances, valeurs obtenues A partir des donnkes
+de la littkrature (l9). Ce rksultat indique que, dans l’intervalle de
+tempCrature exaniink, il ne peut y avoir qu’une trks faible contribution d’un Cventuel mkcanisme d’orientation dipolaire a un
+domaine de dispersion localisC aux hautes frkquences (domaine
+y par exemple.)
+
+INTERPRETATION DES RESULTATS EXPERIMENTAUX
+L’ensemble des rCsultats expkrimentaux peut s’interprkter B
+partir de l’hypothbse suivant laquelle le domaine de dispersion p,
+aussi bien dans le polyacrylate de mCthyle que dans les esters
+polymkthacryliques, trouve son origine dans le mouvement du
+0
+
+//
+
+groupe IatCral -C-0-R.
+L’accroissement des knergies d’activation AE* avec l’encombrement et la rigiditk de la partie hydrocarbonke R du groupe
+carboalcoxy nous semble un argument trbs net en faveur de cette
+hypothbse. En effet quel que soit le mkcanisme de rotation du
+dipole -C-OR que l’on envisage, le radical hydrocarbonk, est
+
+It
+
+0
+
+entrain6 au moins partiellement par le mouvement d’orientation,
+et la barribre de potentiel B franchir sera d’autant plus klevke que
+le radical R sera plus encombrant ou plus rigide.
+D’autre part l’augmentation du nombre d’atomes de carbone
+du radical alcoyl-normal de la chaine latkrale a pour effet d’abaisser
+la hauteur de la barrikre de potentiel s’opposant aux mouvements
+des segments de la chaine principale. Cet effet se traduit macrosco-
+
+P R O P R ~ T ~DI~LECTRIQUES
+S
+DES P O L Y M & ~ S
+
+119
+
+piquement par un abaissement systkmatique de la temperature de
+transition vitreuse avec la longueur de la chaine hydrocarbonee
+normale laterale et peut Ctre attribute a la diminution des forces
+d’intkraction dipole-dipole entre une chaine macromolCculaire et
+ses voisines (24.25).
+L’tnergie d’activation caractirisant le processus diilectrique p
+est nettement plus ClevC pour le PMAM (AE* = 23 Kcal/mole)
+que pour le PAM (AE* = 14 kcal/mole). Cette difference peut
+s’expliquer qualitativement par un effet d’empechement stCrique
+au mouvement du groupe lateral resultant de la prisence des groupements CH3 directement lies aux atomes de carbone de la chaine
+principale. Cet effet se constate aisCment
+l’aide des modkles
+sttrtochimiques B 1’Cchelle ( 2 6 ) .
+Le facteur de friquence (P*Z*) peut Ctre considire comme
+une mesure de l’entropie d’activation (P* = exp. (AS*/R)). Les
+valeurs elevies observies pour les facteurs de frequence doivent
+Ctre rattachies B des valeurs positives et ClevCes des entropies
+d’activation. Ce resultat indique vraisemblablement que le passage
+a 1’Ctat activitC implique une destruction (au moins partielle) d’un
+certain ordre local. Nous avons constate que la valeur du terme
+P*Z* est pratiquement la mCme pour le domaine de dispersion fi
+du PAM, du PMAM et du PMAEt, mais augmente lorsque le
+groupement lattral devient plus encombrant ou plus rigide. Ce
+rCsultat peut s’interprkter qualitativement en admettant que le
+mouvement d-une chaine latirale encombrante (ou encombrante
+et rigide) s’effectue nbcessairement conjointement B une diformation importante de la chahe principale. I1 est interessant de comparer les valeurs des temps de relaxation moyens extrapoles ATg
+A I’aide des droites logf/,l/T.
+I1 apparait clairement B l’aide du tableau XI11 que les mouvements de la chaine laterale restent relativement importants B T,
+pour le PAM, le PMAM et le PMAEt. Pour les PMAB et PMAisoB
+on constate cependant que les mouvements de la chaine laterale
+sont devenus trPs lents au point de transition vitreuse, ce qui ferait
+supposer que le mouvement du groupe lateral est favorise par celui
+des segments de la chaine principale. Pour interpriter l’accrois(24)
+
+(25)
+
+R. BOYER,Changements de phases, p. 383 (Paris 1952).
+F. WURSTLIN,H. THURM,Die Physik der Hchpolymeren Bd. IV
+
+(Springer - Berlin, 1956).
+(”) G . D. CONOPOULOS,
+Proc. Roy. SOC.,182A, 166 (1944).
+
+120
+
+LUCIA DE B R O U C K ~ET G . OFFERGELD
+
+TABLEAU XI11
+polymkre
+
+PAM
+PMAM
+PMAEf
+PMAB
+PMAisoB
+
+00
+105O
+
+62O
+17O
+
+(67”)
+
+1
+
+I
+
+I
+
+25MW
+13 Kc/s
+215 c . s
+0,8 CIS
+3 c/s
+
+1
+
+0,2b
+6,4.10-9
+1,2.10-5
+9,8.10-4
+
+1
+
+0,05
+
+*
+
+sement du paramktre y de Fuoss-Krikwood avec la tempirature,
+nous avons admis l’hypothkse que la distribution des temps de
+relaxation correspond B. une distribution des barrieres de potentiel
+que franchissent les groupements lateraux lors de leurs mouvernents d’orientation, chaque barrikre de potentiel ttant attachie i
+un ordre local particulier (”). Dans ce cas l’accroissement du coefficient y avec la tempirature resulte sans doute principalement
+d’une uniformisation avec la temperature de la structure locale
+environnement les dipoles. I1 est B. remarquer que la vitesse d’accroissement du parambtre de distribution y avec la temperature est
+environ deux fois plus faible pour le PMAM (Ay/Ar = 2.10-3
+deg.-l) que pour le polymerithacrylate d’Cthyle, de butyle et
+d’isobutyle (Ay/Ar M 4 9’5.10-3 deg.-’).
+I1 nous semble que cet effet doit &re attribuC au fait que dans
+PMAM nous avons dktermine les valeurs du paramktre de distribution principalement en dessous de Tg, tandis que pour les trois
+autres esters polymCthacryliques les valeurs du coefficient correspondent B un domaine de temperature situe au dessus du point
+de vitrification. L’accroissement du volume libre avec la temptraiure A partir de Tg (28299) permet fort probablement une uniformisation plus rapide avec la temptrature des Cdifices quasi-cristallins
+environnant les groupes lattraux.
+(*) I1 est A noter que la valeur du temps de relaxation moyen a Tg du
+PMAisoB est certainement plus BlevCe que celle indiquCe dans le tableau XIII,
+la valeur du point de vitrification Btant de quelques degrks inferieure a la
+valeur adoptee ( 6 7 W qui correspond au point de ramollissement (zo).
+(”) H. FROHLICH,
+Theory of dielectrics (Oxford 1949).
+( z 8 ) T. G. Fox, P J. FLORY,
+J. appl. phys., 21, 581 (1950).
+(29)
+T. G. Fox, S. LOSHACK.
+J. Polymer Sci., 15, 371 (1955).
+
+PROPRIET~SDI~LECTRIQUESDES
+
+POLYM~RES
+
+121
+
+CONCLUSIONS
+Nous avons mis en evidence I’existence de deux zones de dispersion diilectrique distinctes dans le polyacrylate de mithyle qui
+peuvent &re attribuCes d’une part au mouvement des segments
+de la chaine principale (processus R), et d’autre part au mouvement
+du groupe latiral -C-0-CH, (processus p) . Pour chaque ester
+
+I1
+
+0
+polymethacrylique CtudiC, et dans la gamme de frCquences que
+nous avons utilistes, nous n’avons constat6 la prCsence que d’un
+domaine de dispersion unique. L’analyse des rCsultats exPCrimentaux a montrC que ce domaine de dispersion diklectrique risulte
+vraisemblablement du mouvement des groupes latiraux (processus p)
+mouvement qui s’effectue conjointement B une deformation de la
+chaine princjpale lorsque le radical alcoyl est suffisamment encombrant. Les valeurs ClevCes et positives des entropies d’activation
+caractCrisant le processus de relaxation diklectrique p indiquent
+que le mouvement d’orientation du groupe latCral s’accompagne
+d’une desorganisation d’une structure locale quasi-cristalline. Dans
+les esters polymethacryliques nous avons constatt que le paramktre
+de distribution croit rapidement avec la temperature, ce qui indique
+vraisemblablement que les divers types d’kdifice quasi-cristallin
+deviennent de moins en moins diffCrenciCs au fur et a mesure que
+la temperature augmente.
+L’interprCtation proposCe concernant l’origine molCculaire de
+la zone de dispersion p observke dans le polyacrylate de mCthyle
+et les esters polymkthacryliques ne peut cependant pas s’appliquer
+B tous les polymbres. En effet il est Ctabli (30,31) qu’il existe dans
+le chlorure de polyvinyle un domaine de dispersion secondaire
+dont les friquences critiques ont Ctk localisCes, dans la gamme de
+radiofrequences, en dessous du point de vitrification. I1 est Cvident
+qu’un mecanisme d’orientation dipolaire qui permettrait d’expliquer ce domaine de dispersion secondaire dans le chlorure de
+polyvinyle devrait nkcessairement faire intervenir un mouvement
+impliquant une deformation de la chaine principale, car le dipole
+est localis6 dans la liaison -C-Cl, l’atome de carbone faisant partie
+(30)
+
+(31)
+
+A. DYSON,
+J. Polymer Sci,. 7, 147 (1951).
+H. VOIGT,Kunststofe, 42, 395 (1952).
+
+122
+
+LUCIA DE BROUCK~REET G. OFFERGELD
+
+de la chaine principale. I1 nous semble qu’il faut rechercher l’origine
+de ces zones de dispersion dans la structure h&Lrogkne de ces
+polymhes vitreux, des mouvements limites des segments de la
+chaine principale s’effectuant probablernent encore en dessous de
+Tg dans certaines rigions A structure locale moins dense.
+Nous exprimons toute notre gratitude au Fonds National de
+la Recherche Scientilique pour I’aide matCrielIe qu’il a accordCe
+h l’un de nous (G. 0.).
+UNIVERSITI? LIBREDE
+
+BRUXELLES
+Faculte‘ cles Sciences
+
+Communique ci la SocitW Chimique
+de‘Belgique le 4 novembre 1957
+

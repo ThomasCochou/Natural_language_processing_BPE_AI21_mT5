@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 7-12-2018--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Expriences sur certaines transformations birationnelles quadratiques</title><title level="a" type="alt" xml:lang="en">Experiments on some birational quadratic transformations</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">IOP Publishing</publisher><availability><licence><p>2008 IOP Publishing Ltd and London Mathematical Society</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-4D4R3TJT-T">IOP</p></availability><date>2008</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Expriences sur certaines transformations birationnelles quadratiques</title><title level="a" type="alt" xml:lang="en">Experiments on some birational quadratic transformations</title><author xml:id="author-0000"><persName><forename type="first">Julie</forename><surname>Dserti</surname></persName><email>deserti@math.jussieu.fr</email><affiliation>Institut de Mathmatiques de Jussieu et Universit Paris 7, Projet Gomtrie et Dynamique, Site Chevaleret, Case 7012, 75205 Paris Cedex 13, France</affiliation></author><idno type="istex">F44AC325CD848FBB9EDA7EDDAFF5CAD89B69B7B3</idno><idno type="ark">ark:/67375/0T8-ZCXXFNTJ-J</idno><idno type="DOI">10.1088/0951-7715/21/6/013</idno><idno type="PII">S0951-7715(08)49011-4</idno><idno type="article-id">249011</idno><idno type="articleNumber">013</idno></analytic><monogr><title level="j">Nonlinearity</title><title level="j" type="abbrev">Nonlinearity</title><idno type="pISSN">0951-7715</idno><idno type="eISSN">1361-6544</idno><idno type="publisher-id">non</idno><idno type="CODEN">NONLE5</idno><idno type="URL">stacks.iop.org/Non</idno><imprint><publisher>IOP Publishing</publisher><date type="published" when="2008"/><biblScope unit="volume">21</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="1367">1367</biblScope><biblScope unit="page" to="1383">1383</biblScope><biblScope unit="production">Printed in the UK</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2008</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract style="fre"><p>Nous prsentons une famille de transformations birationnelles (f,) au comportement curieux. D'une part chaque lment de la famille est de premier degr dynamique 1 (donc d'entropie topologique nulle) et prserve une fibration rationelle; d'autre part le centralisateur d'un element gnrique est trivial. On montre que, pour , generiques, a deux points fixes linarisables; au voisinage de ces points les adhrences des orbites sont des tores ou deux cercles. Des expriences numriques montrent qu'entre ces deux zones de linearisation rgne un certain chaos.</p></abstract><abstract><p>We introduce and study a family (f,) of birational maps of , which exhibits interesting and puzzling dynamical phenomena. On the one hand, each element of the family has first dynamical degree 1 (hence topological entropy zero) and preserves a rational fibration. On the other hand its centralizer is generically trivial (it coincides with its iterates). We show that has two linearizable fixed points for generic (, ). Near these points, the closure of all orbits are tori or circles. Finally, we provide numerical experiments which show that chaos prevails outside these two domains of linearizability.</p></abstract><textClass><keywords scheme="keyword"><list><head>keywords</head><item><term>birational transformation</term></item><item><term>invariant fibration</term></item><item><term>chaos</term></item></list></keywords></textClass><textClass><classCode scheme="">37F10</classCode><classCode scheme="">37F50</classCode></textClass></profileDesc><revisionDesc><change when="2008">Published</change></revisionDesc></teiHeader><text><body><div><p>
+IOP PUBLISHING
+
+NONLINEARITY
+
+Nonlinearity 21 (2008) 1367–1383
+
+doi:10.1088/0951-7715/21/6/013
+
+Exp´ riences sur certaines transformations
+e
+birationnelles quadratiques
+Experiments on some birational quadratic
+transformations
+Julie D´ serti
+e
+Institut de Math´ matiques de Jussieu et Universit´ Paris 7, Projet G´ om´ trie et Dynamique,
+e
+e
+e e
+Site Chevaleret, Case 7012, 75205 Paris Cedex 13, France
+E-mail: deserti@math.jussieu.fr
+
+Recu le 23 avril 2007, pr´ sentation d´ ﬁnitive le 10 mars 2008
+¸
+e
+e
+Published 15 mai 2008
+Online at stacks.iop.org/Non/21/1367
+Recommand´ par S Nonnenmacher
+e
+R´ sum´
+e
+e
+Nous pr´ sentons une famille de transformations birationnelles (fα,β ) au
+e
+´e
+comportement curieux. D’une part chaque el´ ment de la famille est de premier
+degr´ dynamique 1 (donc d’entropie topologique nulle) et pr´ serve une ﬁbration
+e
+e
+rationelle; d’autre part le centralisateur d’un element g´ n´ rique est trivial. On
+e e
+2
+montre que, pour α, β generiques, fα,β a deux points ﬁxes lin´ arisables; au
+e
+voisinage de ces points les adh´ rences des orbites sont des tores ou deux cercles.
+e
+Des exp´ riences num´ riques montrent qu’entre ces deux zones de linearisation
+e
+e
+r` gne un certain chaos.
+e
+Abstract
+We introduce and study a family (fα,β ) of birational maps of P2 (C), which
+exhibits interesting and puzzling dynamical phenomena. On the one hand, each
+element of the family has ﬁrst dynamical degree 1 (hence topological entropy
+zero) and preserves a rational ﬁbration. On the other hand, its centralizer is
+2
+generically trivial (it coincides with its iterates). We show that fα,β has two
+linearizable ﬁxed points for generic (α, β). Near these points, the closure of
+all orbits are tori or circles. Finally, we provide numerical experiments which
+show that chaos prevails outside these two domains of linearizability.
+Mathematics Subject Classiﬁcation: 37F10, 37F50
+
+0951-7715/08/061367+17$30.00 © 2008 IOP Publishing Ltd and London Mathematical Society Printed in the UK
+
+1367
+
+1368
+
+J D´ serti
+e
+
+Le groupe des automorphismes polynomiaux de C2 a fait l’objet de nombreux travaux. D’apr` s
+e
+Friedland et Milnor [8], si f est un automorphisme polynomial de C2 , alors
+´e
+• ou bien f est de type el´ mentaire, i.e. f est conjugu´ a un automorphisme qui pr´ serve
+e`
+e
+le feuilletage y = cte;
+´e
+• ou bien f est de type H´ non, i.e. f est conjugu´ a un el´ ment de la forme g1 ◦ · · · ◦ gm
+e
+e`
+avec
+gi : (x, y) → (y, Pi (y) − δi x),
+δi ∈ C∗ , Pi ∈ C[y], deg Pi 2.
+`
+Les transformations de H´ non doivent leur nom a l’astronome francais H´ non qui, en 1976,
+e
+¸
+e
+introduisit la famille de transformations suivantes:
+ga,b : (x, y) → (a − by − x 2 , x).
+Le param` tre b est le d´ terminant jacobien de ga,b . Lorsque b est non nul, ces transformations
+e
+e
+sont des diff´ omorphismes; quand b est nul, ga,b se conduit essentiellement comme x → a−x 2 .
+e
+Des exp´ riences num´ riques ont montr´ que pour certaines valeurs des param` tres (par exemple
+e
+e
+e
+e
+´
+a = −1, 4 et b = 0, 3) les orbites sous l’action de ga,b convergent vers un ‘attracteur etrange’;
+´e
+´
+c’est la premi` re famille pour laquelle l’existence d’un tel attracteur a et´ mise en evidence [2].
+e
+Pour certaines valeurs des param` tres on observe d’autres ph´ nom` nes: un comportement
+e
+e
+e
+`
+hyperbolique type fer a cheval de Smale [6] ou un comportement non hyperbolique [12].
+L’entropie topologique permet de mesurer les comportements chaotiques. En dimension
+1, pour une fraction rationnelle elle co¨ncide avec le logarithme du degr´ . Mais pour les
+ı
+e
+diff´ omorphismes de C2 le degr´ alg´ brique, not´ deg, n’est plus un invariant dynamique; on
+e
+e e
+e
+introduit donc le degr´ dynamique d´ ﬁni par
+e
+e
+d(f ) := lim (deg f n )1/n .
+n→+∞
+
+L’entropie topologique est le logarithme du degr´ dynamique [1, 15]; ce dernier est donc tr` s
+e
+e
+appropri´ pour estimer le comportement chaotique d’un diff´ omorphisme de C2 . Si f = ga,b
+e
+e
+est un diff´ omorphisme de H´ non, le degr´ alg´ brique de f n est 2n donc son degr´ dynamique
+e
+e
+e e
+e
+est 2; de plus un diff´ omorphisme polynomial de degr´ dynamique 1 est conjugu´ a un
+e
+e
+e `
+´e
+automorphisme afﬁne ou el´ mentaire [8]. Une autre facon de mesurer le chaos est d’observer
+¸
+la taille des centralisateurs. Le groupe des automorphismes polynomiaux de C2 poss` de une
+e
+structure de produit amalgam´ [9]; d’apr` s la th´ orie de Bass–Serre ce groupe agit donc non
+e
+e
+e
+´
+trivialement sur un arbre [13]. En etudiant cette action, Lamy a d´ montr´ qu’un automorphisme
+e
+e
+polynomial est de type H´ non si et seulement si son centralisateur est d´ nombrable [11]. Cette
+e
+e
+liste de propri´ t´ s des automorphismes de H´ non est loin d’ˆ tre exhaustive [16]; n´ anmoins
+ee
+e
+e
+e
+on observe la dichotomie suivante:
+´e
+• ou bien f est de type el´ mentaire alors f pr´ serve une ﬁbration rationnelle, a un
+e
+centralisateur non d´ nombrable et pr´ sente une dynamique pauvre (essentiellement afﬁne
+e
+e
+`
+a conjugaison pr` s);
+e
+• ou bien f est de type H´ non; f ne pr´ serve pas de ﬁbration rationnelle, a un centralisateur
+e
+e
+d´ nombrable et ‘admet une dynamique sauvage’.
+e
+Les automorphisms polynomiaux de C2 s’´ tendent naturellement en des transformations
+e
+birationelles de P2 (C); pour ces derni` res on dispose de la mˆ me facon de la notion de
+e
+e
+¸
+premier degr´ dynamique λ et l’id´ e g´ n´ rale est que l’on dispose d’une dichotomie semblable
+e
+e e e
+`
+´
+`
+a la pr´ c´ dente mesur´ e par le fait que λ soit egal ou non a 1. Toutefois la pr´ sence
+e e
+e
+e
+pour une transformation birationelle ‘non polynomiale’ de courbes contract´ es et de points
+e
+´ e
+eclat´ s rend difﬁcile une application directe des techniques propres aux automorphismes
+polynomiaux de C2 .
+`
+Nous pr´ sentons ici une famille de transformations birationnelles qui vont a l’encontre
+e
+de cette dichotomie. En effet, nous verrons que ces transformations pr´ servent une ﬁbration
+e
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1369
+
+`
+rationnelle, ont un centralisateur d´ nombrable, r´ duit a ses it´ r´ s (proposition 1.6), et un
+e
+e
+ee
+´
+`
+premier degr´ dynamique egal a 1 (proposition 1.4). Elles pr´ sentent deux zones de
+e
+e
+‘lin´ arisation’ dans lesquelles l’adh´ rence de l’orbite d’un point est un tore (proposition 1.2),
+e
+e
+resp. deux cercles (proposition 1.3); les exp´ riences sugg` rent qu’entre ces deux zones r` gne un
+e
+e
+e
+certain chaos comme en t´ moignent les ﬁgures qui seront pr´ sent´ es ult´ rieurement. Dans tous
+e
+e
+e
+e
+`
+les mod` les que nous consid´ rerons nous nous attacherons a exhiber une r´ gion de transition
+e
+e
+e
+´
+entre les deux domaines de lin´ arisation evoqu´ s pr´ c´ demment. Ainsi les invariants classiques
+e
+e e e
+ˆ
+caract´ risant les automorphismes polynomiaux s’av` rent etre, dans le cas des transformations
+e
+e
+birationnelles, de nature incompl` te.
+e
+1. Une famille particuli` re de transformations
+e
+Une transformation birationnelle f de P2 (C) dans lui-mˆ me est une transformation de la forme
+e
+f : (x : y : z) → (P0 (x, y, z) : P1 (x, y, z) : P2 (x, y, z)),
+´
+les Pi etant des polynˆ mes homog` nes de mˆ me degr´ , dont l’inverse est du mˆ me type.
+o
+e
+e
+e
+e
+Nous notons Ind(f ) le lieu d’ind´ termination de f ; c’est le lieu d’annulation des polynˆ mes
+e
+o
+e
+e
+Pi . L’ensemble Exc(f ) d´ signera l’ensemble des courbes contract´ es par f, i.e. des courbes
+envoy´ es sur un point; en un certain sens c’est ‘l’image’ par f −1 de Ind(f −1 ). L’involution de
+e
+Cremona σ d´ ﬁnie par
+e
+σ : (x : y : z) → (yz : xz : xy)
+est une transformation birationnelle et
+Ind(σ ) = {(1 : 0 : 0), (0 : 1 : 0), (0 : 0 : 1)},
+Exc(σ ) = {x = 0, y = 0, z = 0}.
+L’ensemble des transformations birationnelles du plan projectif complexe forme un groupe,
+´
+appel´ groupe de Cremona. En 1871 Nœther enonca le th´ or` me suivant:
+e
+¸
+e e
+Th´ or` me 1.1. Le groupe de Cremona est engendr´ par Aut(P2 (C)) = PGL3 (C) et σ.
+e e
+e
+e
+Consid´ rons la famille des transformations birationnelles fα,β d´ ﬁnie par:
+e
+fα,β : (x : y : z) → ((αx + y)z : βy(x + z) : z(x + z))
+´
+o` α et β sont deux complexes non nuls; nous etudierons plus sp´ cialement le cas o` α et
+u
+e
+u
+β sont respectivement du type exp(iη) et exp(iµ) avec η, µ deux r´ els ‘g´ n´ riques’. Cette
+e
+e e
+famille est tr` s simple au sens suivant: sa ‘d´ composition de Nœther’ ne fait intervenir qu’une
+e
+e
+seule fois σ, i.e.
+fα,β = (x + αz : β(y + αz) : z)σ (x + z : z : y − αz).
+Dans la carte afﬁne z = 1, on constate que
+αx + y
+fα,β =
+, βy
+x+1
+ce qui montre que fα,β laisse la ﬁbration y = cte invariante.
+Suivant le type de probl` me nous regarderons fα,β comme application birationnelle tantˆ t
+e
+o
+de P2 (C), tantˆ t de P1 (C) × P1 (C).
+o
+1.1. R´ sultats de lin´ arisation
+e
+e
+Vue sur P2 (C) la transformation fα,β compte trois points d’ind´ termination:
+e
+Ind(fα,β ) = {(1 : 0 : 0), (0 : 1 : 0), (−1 : α : 1)};
+son lieu exceptionnel est form´ des trois droites suivantes:
+e
+Exc(fα,β ) = {(z = −x), (z = 0), (y = αz)}.
+
+1370
+
+J D´ serti
+e
+
+Si nous regardons maintenant l’application fα,β sur P1 (C) × P1 (C) elle contracte les deux
+x
+y
+droites y = α et y = ∞; ses points d’ind´ termination sont (−1, α) et (∞, ∞). Remarquons
+e
+que les it´ r´ s de la droite y = α sont des courbes contract´ es par les fα,β ; ainsi lorsque
+ee
+e
+n
+β = exp(iµ) est g´ n´ rique, l’adh´ rence ordinaire ∪n∈Z Exc(fα,β ) contient la vari´ t´ r´ elle de
+e e
+e
+ee e
+dimension 3 donn´ e par |y| = α.
+e
+Proposition 1.2. Si α et β sont ‘g´ n´ riques’, il existe un r´ el ρ strictement positif tel que fα,β
+e e
+e
+soit conjugu´ a (αx, βy) sur P1 (C) × D(0, ρ), o` D(0, ρ) d´ signe un disque de centre 0 et de
+e`
+u
+e
+rayon ρ.
+Remarques 1.
+1. La condition de g´ n´ ricit´ est celle qui permet d’appliquer le th´ or` me de Siegel [14]: non
+e e
+e
+e e
+r´ sonance pour la lin´ arisante formelle et conditions diophantiennes pour la lin´ arisante
+e
+e
+e
+holomorphe.
+2. Lorsque β est de module 1, le domaine P1 (C) × D(0, ρ) est invariant par fα,β . Sur ce
+domaine et sous les hypoth` ses de la proposition 1.2 la dynamique est globalement lin´ aire.
+e
+e
+En particulier si α et β sont de module 1 et g´ n´ riques, les adh´ rences des orbites de fα,β
+e e
+e
+dans P1 (C) × D(0, ρ) sont des tores de dimension 2.
+e
+D´ monstration. Dans la carte afﬁne z = 1, la transformation fα,β s’´ crit αx+y , βy ; elle
+e
+x+1
+compte deux points ﬁxes (0, 0) et (α − 1, 0).
+Placons nous au voisinage de l’origine. La partie lin´ aire de fα,β est (αx + y, βy);
+¸
+e
+y
+`
+a conjugaison pr` s par x + β−α , y , l’application
+e
+s’´ crit (αx, βy). Ainsi fα,β est
+e
+holomorphiquement lin´ arisable sur un voisinage U de l’origine [14].
+e
+´
+Cherchons la conjuguante sous la forme a(y)x+b(y) , y ; nous obtenons les trois egalit´ s
+e
+c(y)x+1
+suivantes:
+
+α 2 a(y)c(βy) + αa(y) − αc(y)a(βy) − c(y)b(βy) = 0
+αa(y)c(βy)y + αa(y) + α 2 b(y)c(βy) + αb(y) − c(y)a(βy)y
+−c(y)b(βy) − αa(βy) − b(βy) = 0
+αb(y)c(βy)y + αb(y) − a(βy)y − b(βy) = 0.
+´
+Ecrivons a(y) (resp. b(y), resp. c(y)) sous la forme
+i
+i 0 ci y ). Notons que nous pouvons poser
+
+i 0
+
+ai y i (resp.
+
+i 0
+
+bi y i , resp.
+
+1
+.
+1−α
+´
+Supposons que nous ayons calcul´ a0 , b0 , c0 , . . ., aν−1 , bν−1 et cν−1 . Les trois egalit´ s
+e
+e
+`
+pr´ c´ dentes conduisent a:
+e e
+a0 := 1,
+
+b0 := 0
+
+et
+
+c0 :=
+
+bν (α − β ν ) + F1 (ai , bi , ci , β, i &lt; ν) = 0
+α(1 − β ν )aν +
+α
+
+α 2 − 2β ν + αβ ν
+bν + F2 (ai , bi , ci , β, i &lt; ν) = 0
+1−α
+
+βν
+2 − α − βν
+aν −
+bν + α(β ν − 1)cν + F3 (ai , bi , ci , β, i &lt; ν) = 0
+1−α
+1−α
+
+`
+e
+o
+e
+o` les Fi d´ signent des polynˆ mes universels du second degr´ en les ai , bi , ci , a coefﬁcients
+u
+entiers, faisant intervenir certains ai , bi , ci avec i &lt; ν ce qui permet de calculer bν , aν et
+cν ; nous obtenons ainsi une conjugaison formelle. Le th´ or` me de Siegel [14] assure que
+e e
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1371
+
+toute lin´ arisante est convergente sur un polydisque; ceci implique que a(y), b(y) et c(y) sont
+e
+`
+convergentes. A y ﬁx´ , a(y)x+b(y) est une homographie en x donc fα,β est conjugu´ e a (αx, βy)
+e c(y)x+1
+e `
+1
+sur P (C) × D(0, ρ) o` ρ d´ signe un r´ el strictement positif.
+u
+e
+e
+´ e
+Pour ce qui suit, il est pr´ f´ rable de se placer sur P2 (C). Notons que le point (0 : 1 : 0) est eclat´
+ee
+par fα,β sur la droite d’´ quation z = 0 et que cette droite est contract´ e sur ce mˆ me point:
+e
+e
+e
+´
+l’application n’est pas alg´ briquement stable au sens de [7]; c’est pour eviter ce ph´ nom` ne que
+e
+e
+e
+2
+´
+nous etudions fα,β qui est encore quadratique (notons que pour une transformation birationnelle
+2
+e
+quadratique g´ n´ rique f on a deg f 2 = 4). La transformation fα,β s’´ crit:
+e e
+(x(α 2 z + βy) + (α + β)yz : β 2 y(z + (1 + α)x + y) : z(z + (1 + α)x + y)).
+Nous avons
+2
+Ind(fα,β ) = {(1 : 0 : 0), (−1 : α : 1), (−(α + β) : α(1 + α) : β(1 + α)))}
+
+et
+2
+Exc(fα,β ) = {(z = −y − (1 + α)x), (y = αz/β), (y = αz)}.
+
+Proposition 1.3. Si β est du type exp(2iµ) avec µ un r´ el ‘g´ n´ rique’ , il existe V un voisinage
+e
+e e
+2
+de (0 : 1 : 0) tel que la dynamique de fα,β soit localement lin´ aire dans V ; l’adh´ rence de
+e
+e
+l’orbite d’un point g´ n´ rique de V est un cercle.
+e e
+2
+D´ monstration. Dans la carte afﬁne y = 1, la transformation fα,β est de la forme:
+e
+
+x(α 2 z + β) + (α + β)z z
+,
+β 2 (z + (1 + α)x + 1) β 2
+
+.
+
+2
+e
+L’origine est un point ﬁxe o` la partie lin´ aire de fα,β s’´ crit
+u
+e
+l’application est diagonalisable:
+
+βx+(α+β)z z
+, β2
+β2
+
+. Puisque β = 1,
+
+∼ (x/β, z/β 2 );
+e `
+u
+autrement dit fα,β est conjugu´ a (x/β + p(x, z), z/β 2 + q(x, z)) o` p et q sont deux
+applications holomorphes sans partie lin´ aire. Posons η1 := 1/β et η2 := 1/β 2 ; comme
+e
+2
+η2 = η1 , une variante (r´ sonante) du th´ or` me de Siegel assure que fα,β est conjugu´ a
+e
+e e
+e `
+(x/β, z/β 2 +γ x 2 ). Mais puisque la droite d’´ quation z = 0 est invariante par fα,β , le coefﬁcient
+e
+2
+e
+γ est n´ cessairement nul et la transformation fα,β est lin´ arisable. Ainsi dans la carte afﬁne
+e
+y = 1, l’adh´ rence de l’orbite d’un point au voisinage de l’origine est un cercle.
+e
+Remarque. Nous pouvons voir l’application
+x(α 2 z + β) + (α + β)z z
+,
+β 2 (z + (1 + α)x + 1) β 2
+e
+e
+e
+sur P1 (C) × P1 (C); il est alors possible de pr´ ciser le domaine V comme dans l’´ nonc´ 1.2:
+x
+z
+la conjugaison est holomorphe sur un produit P1 (C) × D(0, ρ).
+1.2. Quelques orbites
+Soit g une transformation birationnelle de P2 (C) dans P2 (C); si on se place dans la carte afﬁne
+z = 1 on dispose de deux projections l’une sur la premi` re composante, l’autre sur la seconde
+e
+que l’on notera respectivement p1 et p2 .
+Lorsque |β| = 1, les transformations fα,β laissent invariantes les 3-vari´ t´ s |y| = cte
+ee
+dans la carte afﬁne (x, y); les orbites pr´ sent´ es sont born´ es en particulier dans un R2 × S1 .
+e
+e
+e
+La dynamique se passant essentiellement en dimension 3, ceci rend plausible les projections.
+
+1372
+
+J D´ serti
+e
+
+Lorsque nous parlerons d’‘orbite du point (x, y) sous l’action de fα,β ’ il s’agira des deux
+ensembles suivants:
+• d’une part 1 = {(Rep1 (f n (x, y)), Imp1 (f n (x, y)), Imp2 (f n (x, y))|n = 1..30000} qui
+e
+e
+est le produit de R2 par un intervalle, l’orbite est ‘comprim´ e’ par le revˆ tement double
+eiθ → sin θ ;
+• d’autre part 2 = {(Rep1 (f n (x, y)), Rep2 (f n (x, y)), Imp2 (f n (x, y)))|n = 1..30000}
+qui est un cylindre R × S1 contenu dans R × R2 , cette projection montre comment
+‘d´ comprimer’ la premi` re pour avoir l’allure de l’orbite.
+e
+e
+`
+`
+Dans les ﬁgures les dessins de gauche correspondent a 1 , ceux de droite a 2 . Notons que
+les points de croisement ou les points cuspidaux que nous pouvons observer sont des art´ facts
+e
+de la projection.
+1.2.1. Comportement de fα,β au voisinage de l’axe y = 0. Ces deux dessins sont ‘conformes’
+`
+a la proposition 1.2: l’adh´ rence de cette orbite est un tore r´ el de dimension 2.
+e
+e
+
+Figure 1. Orbite des points (10−4 i, 10−4 i) et (0.1 + 10−4 i, 0.1 + 10−4 i) sous l’action de
+fexp(2i√7),exp(2i√5) .
+Figure 1. fexp(2i√7),exp(2i√5) -orbit of the points (10−4 i, 10−4 i) and (0.1 + 10−4 i, 0.1 + 10−4 i).
+
+Figure 2. Orbite du point (0.2 + 10−4 i, 0.2 + 10−4 i) sous l’action de fexp(2i√7),exp(2i√5) .
+Figure 2. fexp(2i√7),exp(2i√5) -orbit of the points (0.2 + 10−4 i, 0.2 + 10−4 i).
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1373
+
+Figure 3. Orbite des points (−0.25 − 0.5i, 0.1i) et (0.3 + 10−4 i, 0.3 + 10−4 i) sous l’action de
+fexp(2i√7),exp(2i√5) .
+Figure 3. fexp(2i√7),exp(2i√5) -orbit of the points (−0.25 − 0.5i, 0.1i) and (0.3 + 10−4 i, 0.3 + 10−4 i).
+
+´
+Nous sommes encore dans le domaine de lin´ arisation evoqu´ dans la proposition 1.2.
+e
+e
+`
+Les tores persistent mais commencent a se d´ former.
+e
+Si on change les param` tres α et β on observe de nouveau des dessins en accord avec la
+e
+proposition 1.2.
+1.2.2. Comportement de fα,β ‘pr` s’ de (0 : 1 : 0). Comme annonc´ dans la proposition 1.3
+e
+e
+2
+l’adh´ rence de l’orbite d’un point ‘pr` s’ de (0 : 1 : 0) sous l’action de fα,β est un cercle.
+e
+e
+
+Figure 4. Orbite du point (10000 + 10−4 i, 10000 + 10−4 i) sous l’action de f 2
+
+√ .
+√
+exp(2i 7),exp(2i 5)
+
+Figure 4. f 2
+
+√ -orbit
+√
+exp(2i 7),exp(2i 5)
+
+of the points (10000 + 10−4 i, 10000 + 10−4 i).
+
+Les exp´ riences conﬁrment donc la th´ orie: les adh´ rences d’orbites au voisinage de
+e
+e
+e
+(0 : 1 : 0) sous l’action de fα,β sont constitu´ es de deux cercles.
+e
+1.2.3. ‘Chaos’? Bien que l’orbite s’organise autour d’un ‘cercle’, elle ne semble pas
+d’adh´ rence un tore. Rappelons que (−1 : α : 1) est un point d’ind´ termination de fα,β ;
+e
+e
+e
+e
+ainsi lorsque |y| = |yk | est tr` s proche de 1 nous pouvons penser qu’il r` gne un certain
+chaos toutefois arrang´ autour d’un ‘cercle’. Les ﬁgures qui suivent semblent conforter cette
+e
+hypoth` se.
+e
+
+1374
+
+J D´ serti
+e
+
+Figure 5. Orbite du point (0.4 + 10−4 i, 0.4 + 10−4 i) sous l’action de fexp(2i√7),exp(2i√5) .
+Figure 5. fexp(2i√7),exp(2i√5) -orbit of the points (0.4 + 10−4 i, 0.4 + 10−4 i).
+
+Figure 6. Orbite des points (0.9+10−4 i, 0.9+10−4 i), (1+10−4 i, 1+10−4 i) et (1.08+10−4 i, 1.08+
+10−4 i) sous l’action de fexp(2i√7),exp(2i√5) .
+Figure 6. fexp(2i√7),exp(2i√5) -orbit of the points (0.9 + 10−4 i, 0.9 + 10−4 i), (1 + 10−4 i, 1 + 10−4 i)
+and (1.08 + 10−4 i, 1.08 + 10−4 i).
+
+ˆ
+e
+La premi` re projection de l’orbite du point (1 + 10−4 i, 1 + 10−4 i) semble etre compos´ e
+e
+d’un reliquat de la premi` re projection de l’orbite du point (0.9 + 10−4 i, 0.9 + 10−4 i) auquel
+e
+s’ajoutent deux cercles (approche du domaine de lin´ arisation du point (0 : 1 : 0)).
+e
+1.3. Premier degr´ dynamique [7]
+e
+Soit f une transformation birationnelle d’une surface complexe compacte k¨ hl´ rienne S dans
+a e
+`
+elle-mˆ me. A S on peut associer son groupe H(p,q) (S, R) de cohomologie de Dolbeault.
+e
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1375
+
+Notons (f ) le graphe de f et π1 (resp. π2 ) la premi` re (resp. seconde) projection de (f )
+e
+sur S. Si {ω} est la classe de cohomologie de Dolbeault d’une certaine forme lisse ω, on pose
+∗
+f ∗ {ω} := {π1∗ π2 ω}. Ceci d´ ﬁnit une application lin´ aire f ∗ de H(p,q) (S, R) dans lui-mˆ me.
+e
+e
+e
+Le premier degr´ dynamique de f est d´ ﬁni par:
+e
+e
+λ(f ) = lim
+
+n→+∞
+
+(f n )∗
+
+1/n
+
+o` . d´ signe une norme sur End(H(1,1) (S, R)). Ce nombre est minor´ par 1 et invariant par
+u
+e
+e
+conjugaison birationnelle [7]. Lorsque S = P2 (C), on a λ(f )n deg f n o` deg f d´ signe le
+u
+e
+degr´ alg´ brique de f, i.e. le degr´ des polynˆ mes homog` nes d´ ﬁnissant f.
+e e
+e
+o
+e
+e
+Lemme 1.4. Le premier degr´ dynamique de fα,β vaut 1.
+e
+n
+D´ monstration. On montre par induction que deg fα,β ∼ n ; les in´ galit´ s 1
+e
+e
+e
+2
+n
+n
+λ(fα,β )
+deg fα,β permettent de conclure.
+
+λ(fα,β )n et
+
+Signalons le r´ sultat suivant qui d´ crit les transformations birationnelles de premier degr´
+e
+e
+e
+dynamique 1:
+Th´ or` me 1.5 ([7]). Soit f une transformation bim´ romorphe d’une surface de K¨ hler dans
+e e
+e
+a
+`
+elle-mˆ me dont le premier degr´ dynamique vaut 1. Alors, a conjugaison bim´ romorphe pr` s,
+e
+e
+e
+e
+nous sommes dans l’une des situations suivantes:
+`
+• la suite ( (f n )∗ )n∈N est born´ e et f n est un automorphisme isotope a l’identit´ pour un
+e
+e
+certain n;
+• la suite ( (f n )∗ )n∈N croˆt lin´ airement et f pr´ serve une ﬁbration rationnelle; dans ce
+ı
+e
+e
+ˆ
+cas f ne peut etre conjugu´ a un automorphisme;
+e`
+• la suite ( (f n )∗ )n∈N croˆt quadratiquement et f est un automorphisme pr´ servant une
+ı
+e
+ﬁbration elliptique.
+Dans les deux derniers cas, les ﬁbrations invariantes sont uniques.
+Remarque. Les sp´ cialistes utilisent usuellement le concept d’exposant de Lyapunov pour
+e
+s’assurer qu’une transformation pr´ sente une dynamique chaotique ou non [4, 10]. Lorsque
+e
+ces exposants sont nuls il est classiquement admis que la transformation ne pr´ sente pas
+e
+de dynamique int´ ressante. Nous avons fait divers calculs d’exposants de Lyapunov pour
+e
+`
+des param` tres diff´ rents qui conduisent tous a des exposants nuls ou quasi-nuls malgr´ la
+e
+e
+e
+dynamique apparemment compliqu´ e que sugg` re les ﬁgures. Il semble donc que dans le cadre
+e
+e
+birationnel les coefﬁcients de Lyapunov soient insufﬁsants pour statuer sur la complexit´ de
+e
+la dynamique.
+1.4. Centralisateur
+Une facon de mesurer le chaos (alg´ brique) est d’observer la ‘taille’ des centralisateurs.
+¸
+e
+Donnons deux exemples. Les automorphismes polynomiaux de C2 qui admettent de la
+´e
+dynamique sont les automorphismes de H´ non qui, contrairement aux el´ mentaires, ont
+e
+un centralisateur d´ nombrable [3, 11]. En ce qui concerne les transformations rationnelles
+e
+de la sph` re, nous constatons que si le centralisateur d’une transformation f n’est pas
+e
+`
+essentiellement r´ duit a {f n |n ∈ Z}, alors l’ensemble de Julia de f est ‘sp´ cial’ (monˆ mes,
+e
+e
+o
+polynˆ mes de Tchebychev, exemples de Lattes . . .).
+o
+`
+Introduisons le groupe J de Jonqui` res; c’est, a conjugaison birationnelle pr` s, le groupe
+e
+e
+´
+maximal des transformations birationnelles qui pr´ servent la ﬁbration y = cte. Evidemment
+e
+`
+fα,β appartient a J.
+
+1376
+
+J D´ serti
+e
+
+Dans [5] Cantat montre que si f d´ signe une transformation birationnelle de premier degr´
+e
+e
+´e
+`
+dynamique λ(f ) &gt; 1, alors pour tout el´ ment g qui commute a f il existe n dans Z et m dans
+N∗ tels que f n = g m . En utilisant certains de ses arguments on obtient le:
+`
+Th´ or` me 1.6. Soit g une transformation birationnelle qui commute a fα,β ; alors g est une
+e e
+puissance de fα,β .
+D´ monstration. Posons p := (−1 : α : 1). L’image de p par fα,β est la ﬁbre y = αβ. Soit
+e
+´e
+`
+g un el´ ment du groupe de Cremona qui commute a fα,β . Puisque Exc(g) est ﬁni il existe un
+k
+entier k positif (que l’on choisit minimal) tel que fα,β (p) ne soit pas une branche de Exc(g).
+k−1
+`
+Quitte a remplacer g par g := gfα,β on a: g(p) ∈ Ind(fα,β ). Autrement dit g permute les points
+˜
+˜
+˜
+e
+d’ind´ termination de fα,β . Observons les orbites des deux autres points d’ind´ termination de
+e
+´ e
+e
+fα,β : le point (0 : 1 : 0) est eclat´ sur la droite z = 0, cette droite est contract´ e sur (0 : 1 : 0)
+´ e
+et le point (1 : 0 : 0) est eclat´ sur la droite x = −z qui est contract´ e sur le point (0 : 1 : 0):
+e
+
+ˆ
+Les orbites des deux autres points d’ind´ termination de fα,β ne peuvent donc pas etre permut´ es
+e
+e
+´
+avec celle de p; on en d´ duit que p est un point ﬁxe de g. Les param` tres α, β etant g´ n´ riques
+e
+˜
+e
+e e
+l’adh´ rence de l’orbite n´ gative de p par fα,β est Zariski dense. Il en r´ sulte que g co¨ncide
+e
+e
+e
+˜ ı
+n
+avec l’identit´ ; dit autrement il existe n dans Z tel que g = fα,β .
+e
+2. Premi` re variante
+e
+2.1. Un r´ sultat de lin´ arisation
+e
+e
+Consid´ rons la sous-famille de fα,β d´ ﬁnie par:
+e
+e
+f1,β : P2 (C)
+
+P2 (C)
+
+(x : y : z) → ((x + y)z : βy(x + z) : z(x + z))
+qui correspond donc au cas o` α vaut 1.
+u
+Remarque. Comme nous l’avons vu, ind´ pendamment de α il existe un voisinage de
+e
+2
+(0 : 1 : 0) sur lequel f1,β est lin´ arisable et l’adh´ rence de l’orbite d’un point est un cercle
+e
+e
+(proposition 1.3).
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+Dans la carte afﬁne z = 1, la transformation f1,β s’´ crit (x, y) →
+e
+
+1377
+x+y
+, βy
+x+1
+
+.
+
+Proposition 2.1. Pour β g´ n´ rique, il existe un r´ el ρ &gt; 0 tel que x+y , βy soit
+e e
+e
+x+1
+analytiquement conjugu´ a 1+x , βy sur P1 (C) × D(0, ρ), o` D(0, ρ) d´ signe un disque
+e ` x
+u
+e
+centr´ en 0 et de rayon ρ.
+e
+`
+D´ monstration. Elle est plus ou moins analogue a celle de la proposition 1.2. Cherchons la
+e
+x+a(y)
+´
+e
+conjuguante sous la forme b(y)x+c(y) , y ; nous obtenons les trois egalit´ s suivantes:
+c(βy)a(y) + c(βy)c(y)y − a(βy)a(y) − a(βy)c(y) = 0
+c(βy) + c(βy)b(y)y − a(βy) − a(βy)b(y) − a(y) − c(y) + b(βy)c(y)y − b(βy)a(y) = 0
+1 + b(y) − b(βy) − b(y)b(βy)y − a(y) − c(y) + b(βy)c(y)y + b(βy)a(y) = 0.
+i
+i
+´
+Ecrivons a(y) (resp. b(y), resp. c(y)) sous la forme
+i 0 ai y (resp.
+i 0 bi y , resp.
+i
+i 0 ci y ). Notons que nous pouvons poser c0 = 1 et a0 = b0 = 0. Supposons que nous
+´
+`
+ayons calcul´ a0 , b0 , c0 , . . . , aν−1 , bν−1 et cν−1 . Les trois egalit´ s pr´ c´ dentes conduisent a:
+e
+e e e
+
+aν (1 − β ν ) + F1 (ai , bi , ci , β, i &lt; ν) = 0
+cν (1 − β ν ) − aν (1 + β ν ) + F2 (ai , bi , ci , β, i &lt; ν) = 0
+bν (1 − β ν ) − aν − cν + F3 (ai , bi , ci , β, i &lt; ν) = 0
+`
+o` les Fi d´ signent des polynˆ mes universels du second degr´ en les ai , bi , ci , a coefﬁcients
+u
+e
+o
+e
+entiers, faisant intervenir certains ai , bi , ci avec i &lt; ν. Nous pouvons donc d´ terminer aν , cν
+e
+et bν et l’algorithme de Siegel [14] assure que a(y), b(y) et c(y) sont convergentes. Puisqu’`
+a
+y ﬁx´ , b(y)x+c(y) est une homographie en x nous avons le r´ sultat annonc´ .
+e x+a(y)
+e
+e
+2.2. Quelques orbites
+Nous pr´ sentons quelques simulations dans le contexte de la proposition 2.1.
+e
+
+Figure 7. Orbite des points (10−4 i, 10−4 i) et (0.1+10−4 i, 0.1+10−4 i) sous l’action de f1,exp(2i√5) .
+Figure 7. f1,exp(2i√5) -orbit of the points (10−4 i, 10−4 i) and (0.1 + 10−4 i, 0.1 + 10−4 i).
+
+1378
+
+J D´ serti
+e
+
+Sur le second dessin nous voyons clairement les orbites s’accumuler sur un ‘cercle’; il
+en est de mˆ me pour le premier mais les it´ r´ s sont ‘plus denses’. Ces deux dessins sont
+e
+ee
+x
+` e
+`
+conformes a l’´ nonc´ 2.1; a cet effet consid´ rons les orbites sous l’action de 1+x , βy =
+e
+e
+y
+1
+1
+lim (x, ε )f1,β (x, εy) dont on remarque qu’il est lin´ are dans P (C) × P (C).
+e
+
+ε→0
+
+Figure 8. Orbite des points (2 × 10−4 i, 10−4 i) et (0.2 + 2 × 10−4 i, 0.1 + 10−4 i) sous l’action de
+x
+(x + y, y) 1+x , βy (x − y, y).
+Figure 8. (x + y, y)
+10−4 i, 0.1 + 10−4 i).
+
+x
+1+x , βy
+
+(x − y, y).-orbit of the points (2 × 10−4 i, 10−4 i) and (0.2 + 2 ×
+
+On observe ainsi une similarit´ quasi-parfaite entre les mod` les lin´ aires et non lin´ aires.
+e
+e
+e
+e
+´
+Revenons aux orbites sous l’action de f1,exp(2i√5) en nous eloignant de la zone de
+lin´ arisation.
+e
+
+Figure 9. Orbite des points (0.5+10−4 i, 0.5+10−4 i) et (0.936+10−4 i, 0.936+10−4 i) sous l’action
+de f1,exp(2i√5) .
+Figure 9. f1,exp(2i√5) -orbit of the points (0.5+10−4 i, 0.5+10−4 i) and (0.936+10−4 i, 0.936+10−4 i).
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1379
+
+Le premier dessin est pr´ dit par l’´ nonc´ 2.1; ensuite nous observons encore un ‘cercle
+e
+e
+e
+limite’ qui se d´ forme.
+e
+
+Figure 10. Orbite des points (0.95 + 10−4 i, 0.95 + 10−4 i) et (0.96 + 10−4 i, 0.96 + 10−4 i) sous
+l’action de f1,exp(2i√5) .
+Figure 10. f1,exp(2i√5) -orbit of the points (0.95 + 10−4 i, 0.95 + 10−4 i) and (0.96 + 10−4 i, 0.96 +
+10−4 i).
+
+Est-ce la proximit´ du point d’ind´ termination qui explique la nature de ces ﬁgures?
+e
+e
+
+Figure 11. Orbite du point (0.98 + 10−4 i, 0.98 + 10−4 i) sous l’action de f1,exp(2i√5) .
+Figure 11. f1,exp(2i√5) -orbit of the points (0.98 + 10−4 i, 0.98 + 10−4 i).
+
+Si cette ﬁgure est bien un cercle limite, que penser des suivantes?
+Comme pr´ vu on constate que l’orbite du point consid´ r´ est un ‘cercle’, celle du mˆ me
+e
+ee
+e
+point sous f1,exp(2i√5) est constitu´ e de deux ‘cercles’.
+e
+3. Seconde variante
+3.1. Quelques orbites
+Dans cette partie, nous tracons l’orbite de quelques points sous l’action de f0,5 exp(2i√7),exp(2i√5) ;
+¸
+alors que β est toujours de module 1, le param` tre α ne l’est plus.
+e
+
+1380
+
+J D´ serti
+e
+
+Figure 12. Orbite des points (1.03 + 10−4 i, 1.03 + 10−4 i), (1.07 + 10−4 i, 1.07 + 10−4 i) et
+(1.1 + 10−4 i, 1.1 + 10−4 i) sous l’action de f1,exp(2i√5) .
+Figure 12. f1,exp(2i√5) -orbit of the points (1.03 + 10−4 i, 1.03 + 10−4 i), (1.07 + 10−4 i, 1.07 + 10−4 i)
+and (1.1 + 10−4 i, 1.1 + 10−4 i).
+
+Figure 13. Orbite du point (10 + 10−4 i, 10 + 10−4 i) sous l’action de f 2
+
+√ .
+1,exp(2i 5)
+
+Figure 13. f 2
+
+√ -orbit
+1,exp(2i 5)
+
+of the points (10 + 10−4 i, 10 + 10−4 i).
+
+´
+Ces dessins sont pr´ dits par le th´ or` me de Siegel; d’apr` s cet enonc´ , √es de l’origine,
+e
+e e
+e
+e pr`
+√
+e e
+fα,β , avec α et β g´ n´ riques (on peut penser que 0.5 exp(2i 7) et exp(2i 5) le sont), est
+conjugu´ e a la transformation lin´ aire (αx, βy). Comme |α| &lt; 1, les it´ r´ s positifs d’un
+e `
+e
+ee
+point (x0 , y0 ) proche de (0, 0) par (αx, βy) s’accumulent sur le cercle {(0, y)||y| = 1}; nous
+1
+retrouvons donc ce ph´ nom` ne pour notre application. Puisque |α| = 2 , l’approximation est
+e
+e
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1381
+
+Figure 14. Orbite des points (10−4 i, 10−4 i) et (0.5 + 10−4 i, 0.5 + 10−4 i) sous l’action de
+f0.5 exp(2i√7),exp(2i√5) .
+Figure 14. f0.5 exp(2i√7),exp(2i√5) -orbit of the points (10−4 i, 10−4 i) and (0.5 + 10−4 i, 0.5 + 10−4 i).
+
+tr` s rapide ce qui explique que nous ne voyons qu’un tr` s petit nombre de points ‘en dehors’
+e
+e
+du cercle.
+
+Figure 15. Orbite des points (0.7 + 10−4 i, 0.7 + 10−4 i) et (0.9 + 10−4 i, 0.9 + 10−4 i) sous l’action
+de f0.5 exp(2i√7),exp(2i√5) .
+Figure 15. f0.5 exp(2i√7),exp(2i√5) -orbit of the points (0.7+10−4 i, 0.7+10−4 i) and (0.9+10−4 i, 0.9+
+10−4 i).
+
+`
+Nous observons la d´ formation des cercles limites pour aboutir a des orbites plus
+e
+chaotiques dans les ﬁgures suivantes.
+Peut-on encore parler de cercles limites?
+Sans doute les ﬁgures ci-dessus approchent la zone o` les adh´ rences d’orbites sont une
+u
+e
+paire de cercles.
+` e
+Ces deux dessins sont conformes a l’´ nonc´ 1.3: ‘pr` s du point (0 : 1 : 0)’ les adh´ rences
+e
+e
+e
+2
+d’orbites pour fα,β sont des cercles; celles de fα,β sont donc des couples de cercles. Comme
+toujours les points de croisement ou points cuspidaux sont des art´ facts de projection.
+e
+
+1382
+
+J D´ serti
+e
+
+Figure 16. Orbite des points (0.98 + 10−4 i, 0.98 + 10−4 i) et (1.05 + 10−4 i, 1.05 + 10−4 i) sous
+l’action de f0.5 exp(2i√7),exp(2i√5) .
+Figure 16. f0.5 exp(2i√7),exp(2i√5) -orbit of the points (0.98 + 10−4 i, 0.98 + 10−4 i) and (1.05 +
+10−4 i, 1.05 + 10−4 i).
+
+Figure 17. Orbite du point (1.15 + 10−4 i, 1.15 + 10−4 i) sous l’action de f0.5 exp(2i√7),exp(2i√5) .
+Figure 17. f0.5 exp(2i√7),exp(2i√5) -orbit of the points (1.15 + 10−4 i, 1.15 + 10−4 i).
+
+Figure 18. Orbite du point (10 + 10−4 i, 10 + 10−4 i) sous l’action de f 2
+
+√ .
+√
+0.5 exp(2i 7),exp(2i 5)
+
+Figure 18. f 2
+
+√ -orbit
+√
+0.5 exp(2i 7),exp(2i 5)
+
+of the points (10 + 10−4 i, 10 + 10−4 i).
+
+4. Conclusion
+Il est commun´ ment admis par les dynamiciens que les transformations birationnelles de
+e
+premier degr´ dynamique 1 ne pr´ sentent pas d’int´ rˆ t. Les exp´ riences pr´ c´ dentes semblent
+e
+e
+ee
+e
+e e
+prouver le contraire; il serait int´ ressant d’obtenir une explication th´ orique de ces ph´ nom` nes.
+e
+e
+e
+e
+
+Exp´ riences sur certaines transformations birationnelles
+e
+
+1383
+
+Remerciements
+Je remercie Dominique Cerveau pour les innombrables et fructueuses discussions que nous
+´
+´
+avons eues. Merci aux rapporteurs, a Serge Cantat et a Charles Favre pour leurs remarques et
+suggestions.
+R´ f´ rences
+ee
+[1] Bedford E et Smillie J 1992 Polynomial diffeomorphisms of C2 : III. Ergodicity, exponents and entropy of the
+equilibrium measure Math. Ann. 294 395–420
+[2] Benedicks M et Carleson L 1991 The dynamics of the H´ non map Ann. Math. 133 73–169
+e
+[3] Bisi C 2004 On commuting polynomial automorphisms of C2 Publ. Mat. 48 227–39
+[4] Brin M et Stuck G 2002 Introduction to Dynamical Systems (Cambridge: Cambridge University Press)
+[5] Cantat S 2006 Sur les groupes de transformations birationnelles des surfaces Preprint available at
+http://perso.univ-rennes1.fr/serge.cantat/publications.html
+[6] Devaney R et Nitecki Z 1979 Shift automorphisms in the H´ non mapping Commun. Math. Phys. 67 137–46
+e
+[7] Diller J et Favre C 2001 Dynamics of bimeromorphic maps of surfaces Am. J. Math. 123 1135–69
+[8] Friedland S et Milnor J 1989 Dynamical properties of plane polynomial automorphisms Ergod. Theory Dyn.
+Syst. 9 67–99
+¨
+[9] Jung H W E 1942 Uber ganze birationale Transformationen der Ebene J. Reine Angew. Math. 184 161–74
+[10] Katok A et Hasselblatt B 1995 Introduction to the modern theory of dynamical systems (+ suppl. chap. by
+A Katok and Mendoza) Encyclopedia of Mathematics and its Applications vol 54 (Cambridge: Cambridge
+University Press)
+[11] Lamy S 2001 L’alternative de Tits pour Aut[C2 ] J. Algebra 239 413–37
+[12] Newhouse S 1979 The abundance of wild hyperbolic sets and nonsmooth stable sets for diffeomorphisms Inst.
+´
+Hautes Etudes Sci. Publ. Math. 50 101–51
+[13] Serre J-P Arbres, Amalgames, SL2 (Paris: Soci´ t´ math´ matique de France) (R´ dig´ avec la collaboration de
+ee
+e
+e e
+Hyman Bass, Ast´ risque, No 46)
+e
+[14] Siegel C L 1942 Iteration of analytic functions Ann. Math. 43 607–12
+[15] Smillie J 1990 The entropy of polynomial diffeomorphisms of C2 Ergod. Theory Dyn. Syst. 10 823–7
+[16] Smillie J 2002 Dynamics in two complex dimensions Proc. Int. Congress of Mathematicians (Beijing, China,
+2002) vol 3 pp 373–82
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Polynomial diffeomorphisms of : III. Ergodicity, exponents and entropy of the equilibrium measure</title><author><persName><forename type="first">E</forename><surname>Bedford</surname></persName></author><author><persName><forename type="first">J</forename><surname>Smillie</surname></persName></author></analytic><monogr><title level="j">Math. Ann.</title><imprint><date type="published">1992</date><biblScope unit="volume">294</biblScope><biblScope unit="range">395420</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">The dynamics of the Hnon map</title><author><persName><forename type="first">M</forename><surname>Benedicks</surname></persName></author><author><persName><forename type="first">L</forename><surname>Carleson</surname></persName></author></analytic><monogr><title level="j">Ann. Math.</title><imprint><date type="published">1991</date><biblScope unit="volume">133</biblScope><biblScope unit="range">73169</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">On commuting polynomial automorphisms of</title><author><persName><forename type="first">C</forename><surname>Bisi</surname></persName></author></analytic><monogr><title level="j">Publ. Mat.</title><imprint><date type="published">2004</date><biblScope unit="volume">48</biblScope><biblScope unit="range">22739</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Introduction to Dynamical Systems</title><editor><persName><forename type="first">M</forename><surname>Brin</surname></persName></editor><editor><persName><forename type="first">G</forename><surname>Stuck</surname></persName></editor><idno type="ref-id">non249011bib04</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>Cambridge</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Sur les groupes de transformations birationnelles des surfaces</title><editor><persName><forename type="first">S</forename><surname>Cantat</surname></persName></editor><idno type="ref-id">non249011bib05</idno><idno type="URL">http://perso.univ-rennes1.fr/serge.cantat/publications.html</idno><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Shift automorphisms in the Hnon mapping</title><author><persName><forename type="first">R</forename><surname>Devaney</surname></persName></author><author><persName><forename type="first">Z</forename><surname>Nitecki</surname></persName></author></analytic><monogr><title level="j">Commun. Math. Phys.</title><imprint><date type="published">1979</date><biblScope unit="volume">67</biblScope><biblScope unit="range">13746</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Dynamics of bimeromorphic maps of surfaces</title><author><persName><forename type="first">J</forename><surname>Diller</surname></persName></author><author><persName><forename type="first">C</forename><surname>Favre</surname></persName></author></analytic><monogr><title level="j">Am. J. Math.</title><imprint><date type="published">2001</date><biblScope unit="volume">123</biblScope><biblScope unit="range">113569</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Dynamical properties of plane polynomial automorphisms</title><author><persName><forename type="first">S</forename><surname>Friedland</surname></persName></author><author><persName><forename type="first">J</forename><surname>Milnor</surname></persName></author></analytic><monogr><title level="j">Ergod. Theory Dyn. Syst.</title><imprint><date type="published">1989</date><biblScope unit="volume">9</biblScope><biblScope unit="range">6799</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">ber ganze birationale Transformationen der Ebene</title><author><persName><forename type="first">H W E</forename><surname>Jung</surname></persName></author></analytic><monogr><title level="j">J. Reine Angew. Math.</title><imprint><date type="published">1942</date><biblScope unit="volume">184</biblScope><biblScope unit="range">16174</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Introduction to the modern theory of dynamical systems ( suppl. chap. by A Katok and Mendoza)</title><author><persName><forename type="first">A</forename><surname>Katok</surname></persName></author><author><persName><forename type="first">B</forename><surname>Hasselblatt</surname></persName></author></analytic><monogr><title level="j">Encyclopedia of Mathematics and its Applications</title><imprint><date type="published">1995</date><publisher>Cambridge University Press</publisher><pubPlace>Cambridge</pubPlace><biblScope unit="volume">vol 54</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">L'alternative de Tits pour Aut</title><author><persName><forename type="first">S</forename><surname>Lamy</surname></persName></author></analytic><monogr><title level="j">J. Algebra</title><imprint><date type="published">2001</date><biblScope unit="volume">239</biblScope><biblScope unit="range">41337</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">The abundance of wild hyperbolic sets and nonsmooth stable sets for diffeomorphisms</title><author><persName><forename type="first">S</forename><surname>Newhouse</surname></persName></author></analytic><monogr><title level="j">Inst. Hautes tudes Sci. Publ. Math.</title><imprint><date type="published">1979</date><biblScope unit="volume">50</biblScope><biblScope unit="range">10151</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Arbres, Amalgames, SL2</title><editor><persName><forename type="first">J-P</forename><surname>Serre</surname></persName></editor><idno type="ref-id">non249011bib13</idno><imprint><publisher>Socit mathmatique de France</publisher><pubPlace>Paris</pubPlace></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Iteration of analytic functions</title><author><persName><forename type="first">C L</forename><surname>Siegel</surname></persName></author></analytic><monogr><title level="j">Ann. Math.</title><imprint><date type="published">1942</date><biblScope unit="volume">43</biblScope><biblScope unit="range">60712</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">The entropy of polynomial diffeomorphisms of</title><author><persName><forename type="first">J</forename><surname>Smillie</surname></persName></author></analytic><monogr><title level="j">Ergod. Theory Dyn. Syst.</title><imprint><date type="published">1990</date><biblScope unit="volume">10</biblScope><biblScope unit="range">8237</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Dynamics in two complex dimensions</title><editor><persName><forename type="first">J</forename><surname>Smillie</surname></persName></editor><idno type="ref-id">non249011bib16</idno><imprint><date/></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,1007 @@
+Revue internationale de sécurité sociale
+
+MONDE
+
+Le système de santé de la
+République populaire de Chine:
+entre privatisation et système
+public de santé
+Barbara Darimont et Dongmei Liu
+Institut Max Planck pour le droit social et la politique sociale, Munich,
+Allemagne, Université ZhongNan, Faculté de droit, Changsha,
+République populaire de Chine
+
+Résumé Ces dernières années, la Chine a réformé sa politique
+de santé à de multiples reprises. Ces réformes ont souvent fait
+émerger de nouvelles difficultés, qui ont nécessité d’autres
+changements. La dernière réforme en date tente de trouver un
+moyen terme entre un modèle reposant sur la fourniture de
+soins par le secteur public et un modèle fondé sur l’assurance
+individuelle privée. La Chine emboîte ainsi le pas de pays qui,
+après avoir, dans les années 90 et au début du XXIe siècle, renforcé la place du secteur privé dans leur système de santé,
+s’orientent aujourd’hui vers un système de santé public. Toutefois, ces réformes incessantes ont conduit à un manque de
+transparence du fonctionnement du système de santé et, par
+conséquent, à une perte de confiance du public. Bien que de
+nombreuses incertitudes demeurent quant à la direction dans
+laquelle le système de santé chinois va évoluer, il est possible
+qu’un financement hybride, associant financement par l’impôt
+et assurance sociale, s’impose et constitue un modèle dont
+d’autres pays pourraient s’inspirer.
+Mots clés assurance-maladie, accès aux soins, qualité des
+soins, consommation de soins de santé, Chine
+Adresses pour correspondance: Barbara Darimont, Institut Max Planck pour le droit social et la politique
+sociale, Amalienstraße 33, 80799 Munich, Allemagne; courriel: darimont@mpisoc.mpg.de; Dongmei
+Liu, Université ZhongNan, Faculté de droit, Changsha, province de Hunan, République populaire de
+Chine; courriel: dongmei1215@hotmail.com.
+Cet article a bénéficié du soutien du Projet de recherche du Fonds national chinois de recherche en droit
+de la santé.
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+Publiée par Blackwell Publishing Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK, et 350 Main Street, Malden, MA 02148, USA
+
+105
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+Introduction
+
+106
+
+Avant le processus de réforme économique qui s’est amorcé en 1978, tout citoyen
+de la République populaire de Chine bénéficiait d’un accès garanti à des services
+de santé rudimentaires. Les réformes du système de santé engagées par la suite, en
+particulier celles menées ces dix dernières années, se sont traduites par une dégradation de la qualité des soins. Plus précisément, les autorités locales ont réagi aux
+coupes pratiquées dans leur budget en privatisant certains services publics, dont les
+services de santé. Cette situation a donné lieu à d’intenses débats dans la société
+chinoise, les soins étant devenus inabordables pour beaucoup de citoyens.
+Prenant conscience du problème, le gouvernement chinois a décidé de réformer
+le système de santé. Reste toutefois à déterminer dans quelle direction il doit orienter ces réformes. Est-il réaliste d’opter pour un système public de santé ou faut-il
+privilégier une privatisation des services de santé? En l’absence de consensus entre
+les deux camps, cette question reste sujette à controverse (Liu, 2011).
+Dans le présent article, nous présentons et évaluons le système d’assurance santé
+chinois. Dans la partie qui suit, nous définissons le concept d’assurance santé et
+présentons les réformes récentes ainsi que les débats qu’elles ont suscités. Nous
+évoquons ensuite le changement de cap du processus de réforme, qui s’est traduit
+par un recul de la privatisation de l’assurance santé en faveur du renforcement de
+la place accordée à la responsabilité de l’Etat et au système public de santé. En
+conclusion, nous examinons si ces évolutions sont spécifiques à la Chine ou s’inscrivent dans une tendance internationale plus large.
+
+Le concept de soins de santé
+Après la fondation de la République populaire de Chine (ci-après la Chine), en
+1949, la mise en place d’une économie planifiée s’est notamment traduite par le fait
+que la fourniture de soins de santé incombait principalement à l’Etat et aux entreprises d’Etat. A la suite de la transition vers l’économie de marché, qui s’est amorcée
+au début des années 80, les entreprises d’Etat n’ont plus été en mesure d’assumer
+seules le coût financier de la sécurité sociale et des soins de santé, en particulier en
+raison de problèmes de compétitivité. Du fait de l’effondrement progressif du
+système de santé, la majorité des habitants des zones rurales et des personnes inactives résidant en milieu urbain ont cessé de recevoir des services de santé de la part
+de l’Etat et ont dû financer eux-mêmes leurs dépenses de santé. Le besoin de
+réforme était donc criant. Un régime d’assurance santé de base a été instauré en
+1998, mais il ne couvrait initialement que les salariés résidant en zone urbaine. A
+la fin des années 90, la couverture du système chinois comportait d’importantes
+lacunes, puisqu’environ 50 pour cent de la population urbaine et 80 pour cent de
+la population rurale étaient dépourvus d’assurance santé ou n’avaient pas accès aux
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+soins (ministère de la Santé – Centre d’information pour la statistique, 2005).
+Combler ces lacunes constitue l’un des objectifs actuellement poursuivis par la
+politique de santé chinoise.
+Comme beaucoup d’autres domaines de l’action publique en Chine, le système
+de santé est composé de deux filières parallèles, l’une pour le milieu urbain, l’autre
+pour les zones rurales (tableau 1). La filière dont dépend un citoyen est déterminée
+par le système d’enregistrement des familles (ou hukou). Ainsi, dès lors qu’un
+ménage est enregistré en milieu rural, il est difficile à ses membres de demander à
+être enregistrés en milieu urbain, ce transfert n’étant parfois possible que moyennant des frais élevés. C’est la raison pour laquelle beaucoup de travailleurs dits
+migrants résident en ville officieusement et n’ont pas accès aux prestations sociales
+parce que les droits à prestations dépendent du lieu de résidence initial. En 2009,
+les conditions appliquées aux habitants des zones urbaines ont changé, si bien qu’il
+leur est devenu impossible de modifier leur inscription au profit d’une résidence
+en milieu rural. Ces obstacles administratifs entravent considérablement la mobilité
+des travailleurs et des citoyens.
+De surcroît, la répartition des compétences en matière de politique de la santé
+constitue également une source de problèmes, plusieurs ministères intervenant de
+manière concurrente. Par exemple, le ministère de la Santé est compétent s’agissant
+de la politique de la santé et du nouveau système de santé coopératif en milieu rural
+(NCMS). C’est cependant le ministère des Ressources humaines et de la Sécurité
+sociale qui est chargé des politiques de protection sociale, et, par conséquent, de
+l’assurance santé. En outre, au sein du Conseil d’Etat, instance administrative
+suprême du pays, ces différents domaines de l’action publique relèvent de services
+différents. Cette mosaïque d’acteurs complique le processus décisionnel, chaque
+ministère ayant ses propres objectifs et priorités. L’administration chinoise comporte cinq échelons au total: l’échelon national; le niveau provincial, qui inclut
+également les régions autonomes; le comté; le district; et l’échelon municipal. Aux
+Tableau 1. Accès aux soins de santé par catégorie de la population et contenu de
+la couverture
+Population
+
+Soins de santé
+
+Couverture
+
+Couverture du MFA
+
+Salariés résidant en
+milieu urbain
+
+Assurance santé
+obligatoire (UEBMI)
+
+Hospitalisation et soins
+ambulatoires/part à la
+charge des patients
+
+Pour aider les patients en
+difﬁculté à acquitter la part
+laissée à leur charge
+
+Personnes résidant en
+milieu urbain, non
+titulaires d’un contrat
+de travail
+
+Assurance santé
+volontaire (URBMI)
+
+Hospitalisation et traitement
+d’affections chroniques
+
+Participation aux frais
+d’hospitalisation (absence
+de règles nationales)
+
+Personnes résidant en
+milieu rural
+
+Assurance santé
+volontaire (NCMS)
+
+Hospitalisation et traitement
+d’affections chroniques
+
+Maladies graves
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+107
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+niveaux national et provincial en particulier, différents groupes de pression exercent
+une influence sur la politique de la santé, ce qui est en contradiction avec le caractère centralisé des structures de gouvernance et pose des problèmes en matière de
+prise de décision et d’application des politiques et de la législation (Bloom, 2004).
+
+Le régime d’assurance médicale de base des salariés résidant en milieu
+urbain (UEBMI)
+
+108
+
+Le régime d’assurance médicale de base des salariés résidant en milieu urbain
+(UEBMI) a fait l’objet de projets pilotes dès 1988. Les enseignements tirés de ces
+projets ont été inclus dans la «Décision du Conseil d’Etat relative à la création d’un
+système d’assurance médicale de base en faveur des salariés des villes et municipalités», adoptée le 14 décembre 1998, qui met en place un cadre national
+uniforme pour l’assurance médicale de base obligatoire. Tous les employeurs enregistrés dans les villes et municipalités sont tenus de s’affilier à ce régime et d’en faire
+bénéficier leur personnel. Il appartient aux autorités provinciales de décider si les
+entreprises implantées dans les districts ruraux et les exploitants agricoles indépendants doivent, ou non, affilier leurs salariés au régime. Actuellement, l’UEBMI
+couvre plus de 237 millions d’individus, ce qui ne représente que 20 pour cent des
+1,3 milliard d’habitants du pays (MOHRSS, 2011). Il n’en reste pas moins que,
+comparativement à l’ensemble des régimes d’assurance sociale existant en Chine,
+il est celui qui affiche la couverture la plus large.
+La cotisation est partagée entre les employeurs et les salariés (les employeurs
+cotisent à raison de 6 pour cent de la masse salariale mensuelle et les salariés à
+raison de 2 pour cent de leur rémunération mensuelle). L’UEBMI a été conçu selon
+les préconisations de la Banque mondiale, à savoir qu’il comprend, outre un fonds
+de solidarité, des comptes d’épargne santé individuels, sur lesquels chaque assuré
+verse un pourcentage de son salaire et qui sont gérés par le Bureau des ressources
+humaines et de la sécurité sociale compétent. Les cotisations versées par les
+employeurs alimentent à la fois le fonds de solidarité et les comptes d’épargne santé
+individuels, tandis que celles acquittées par chaque salarié alimentent exclusivement
+son propre compte d’épargne. Le fonds de solidarité a principalement vocation à
+financer les dépenses d’hospitalisation, ainsi que les dépenses de soins ambulatoires
+liées à certaines maladies chroniques graves. En général, l’assuré utilise son compte
+individuel pour ses dépenses de soins ambulatoires, dans les limites de montants
+minimaux et maximaux prédéfinis. Ces montants, de même que la part laissée à la
+charge des patients, sont fixés par les autorités locales. Au fil du temps, les réformes
+ont rendu l’assurance médicale des salariés moins généreuse. Par exemple, alors que
+l’ancien système était, dans une très large mesure, gratuit, les salariés assurés doivent
+désormais acquitter une cotisation, tandis que la part des dépenses de santé remboursée a diminué (Zhang, 2005).
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+Les salariés sont encouragés à souscrire une assurance-maladie d’entreprise en
+complément du régime d’assurance médicale de base. Ajoutons, pour brosser un
+tableau complet de la situation des salariés en matière d’assurance, que les fonctionnaires et autres agents du service public bénéficient de prestations supplémentaires et qu’il existe un dispositif d’aide médicale pour les personnes en situation
+précaire.
+
+Le régime d’assurance médicale de base en faveur des personnes résidant
+en milieu urbain (URBMI)
+Lorsque l’UEBMI a été créé, il est apparu que les personnes sans activité – par
+exemple les étudiants et les personnes handicapées – continueraient d’être dépourvues d’assurance ou exclues de la protection offerte par l’assurance sociale. Il a fallu
+attendre 2007 pour que des projets pilotes visant à offrir une assurance médicale
+de base à cette catégorie de la population soient lancés dans diverses villes et municipalités. Le 1er juillet 2007, les «Lignes directrices du Conseil d’Etat relatives à
+l’extension du projet pilote de régime d’assurance médicale de base en faveur des
+personnes résidant en milieu urbain» ont été publiées. Depuis 2009, le régime
+d’assurance médicale de base en faveur des personnes résidant en milieu urbain
+(URBMI) a été introduit à l’échelle nationale, même si l’affiliation repose pour
+l’instant sur une démarche volontaire.
+Il est financé par des cotisations des assurés et des subventions publiques. Durant
+la phase pilote, le montant de la cotisation était fixé par l’autorité locale de la ville
+concernée. Dans le programme pilote de 2007, l’assuré percevait une subvention
+publique annuelle de 40 CNY1 au minimum, dont 20 CNY étaient pris en charge
+par le gouvernement central pour les populations de Chine centrale et occidentale.
+En 2008, la subvention a été doublée et, depuis 2012, les subventions versées par le
+gouvernement central et les autorités locales représentent 240 CNY par personne
+(Bureau du Conseil d’Etat, 2012). Les enfants et étudiants lourdement handicapés,
+les pauvres âgés de plus de 60 ans et les habitants de régions défavorisées bénéficient
+de subventions supplémentaires des échelons local et central. Le régime est financé
+par répartition: en d’autres termes, les cotisations versées par les assurés et les subventions publiques sont affectées au financement des services médicaux et il n’est
+pas constitué de réserves. Il n’est pas prévu d’introduire des comptes d’épargne
+santé individuels.
+L’URBMI est principalement utilisé pour financer les dépenses d’hospitalisation,
+ainsi que les dépenses de soins ambulatoires liées à certaines maladies chroniques
+graves, dans le cadre de limites annuelles minimales et maximales fixées par les
+autorités des villes. Il rembourse sur la base des dépenses réellement engagées, dans
+1. En octobre 2012, 100 CNY étaient équivalents à 12,24 EUR ou 15,98 USD environ.
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+109
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+le sens où des justificatifs des soins doivent être fournis dans les délais requis, faute
+de quoi les frais ne sont pas remboursés. Depuis 2010, le plafond de remboursement
+est égal à six fois le revenu disponible annuel moyen local; à partir de 2012, il ne
+pourra pas être inférieur à 60 000 CNY.
+
+Le nouveau système de santé coopératif en milieu rural (NCMS)
+
+110
+
+Durant la période de planification économique, la Chine était dotée d’un système
+de santé coopératif en milieu rural qui fonctionnait selon le principe de l’entraide
+mutuelle assortie d’un soutien de l’Etat. L’introduction des réformes de marché s’est
+traduite par la suppression des communes populaires (remin gongshe), qui étaient
+chargées de multiples aspects du processus décisionnel local dans les zones rurales,
+par la décollectivisation de l’agriculture et par la mise en place d’un système de
+responsabilité budgétaire. Ces évolutions ont également eu pour corollaire l’effondrement du système de santé coopératif (Duckett, 2011). En 1986, seulement 5 pour
+cent environ de la population rurale avaient accès aux services [publics] de santé
+(Hua, 2007). La population rurale était contrainte d’assumer le coût de ses médicaments et traitements, lequel ne cessait d’augmenter sous l’effet de l’inflation et
+parce que le système de santé issu des réformes obéissait aux principes du marché.
+Elle a alors eu tendance à renoncer aux soins, ce qui s’est traduit par un allongement
+de la durée des maladies et un accroissement du risque de propagation des maladies
+et épidémies. Dans certains cas, le risque de pauvreté s’est également aggravé, certains ménages ayant dû utiliser leur revenu pour payer, par exemple, les soins dispensés à un membre de leur famille victime d’une maladie grave nécessitant des
+soins coûteux, comme le cancer. A partir des années 90, le gouvernement chinois
+s’est mobilisé pour remettre sur pied le système de santé coopératif, fût-ce sous une
+forme différente2. En 2003, le nouveau système de santé coopératif en milieu rural
+(NCMS) a été instauré.
+Selon les statistiques officielles, fin 2009, 830 millions d’individus étaient assurés,
+soit 94 pour cent de la population rurale (ministère de la Santé – Centre d’information pour la statistique, 2009), et ce malgré le caractère «volontaire» de l’affiliation. Toutefois, ce taux d’affiliation élevé peut en réalité s’expliquer par l’importance
+des subventions publiques dont bénéficie le système et par le fait que les autorités
+locales ont incité la population rurale à s’affilier pour que les objectifs chiffrés du
+programme soient atteints. Dans la pratique, le NCMS s’apparente donc davantage
+à un système obligatoire.
+
+2. En outre, à partir de 2002, des projets qui visaient à mettre au point une assurance sociale permettant
+d’atténuer les conséquences financières du traitement de maladies graves ont été lancés à titre expérimental, puis déployés à l’échelle nationale en 2008 (Comité central du Parti communiste chinois, 2002;
+ministère de la Santé et ministère des Finances, 2008).
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+L’ancien système coopératif était essentiellement financé par l’économie collective rurale et géré au niveau des municipalités des villages. En revanche, le nouveau
+système – bien qu’il continue à être qualifié de «coopératif» et soit administré par
+le ministère de la Santé – est principalement financé par des cotisations acquittées
+par les agriculteurs et des subventions versées par différents échelons de l’administration. L’économie collective n’apporte qu’un soutien limité. Les fonds qui alimentent le budget du système sont mis en commun et gérés au niveau des districts. En
+principe, l’importance de l’offre de services de santé dépend uniquement des fonds
+reçus – sauf si l’Etat accorde des subventions supplémentaires. Chaque agriculteur
+assuré verse une cotisation, dont le montant s’établissait initialement à 20 CNY par
+an au minimum, qui s’ajoute aux subventions versées par les autorités locales et le
+gouvernement central (Bureau du Conseil d’Etat, 2012). En outre, les municipalités
+et les villages doivent également contribuer au financement du NCMS s’ils exploitent des entreprises collectives, étant entendu qu’il appartient aux autorités de
+district d’établir des directives au sujet de cette contribution. Le NCMS – comme
+l’URBMI – prend essentiellement en charge les dépenses d’hospitalisation, ainsi que
+les dépenses de soins ambulatoires liées à certaines affections chroniques. L’éventail
+des services pris en charge et le niveau de cette prise en charge sont fixés par les
+autorités des districts.
+Au fil du temps, les subventions octroyées par le gouvernement central et les
+autorités locales ont augmenté, passant de 20 CNY par personne en 2006 à 40 CNY
+en 2008 et s’établissant à 240 CNY aujourd’hui (comme pour l’URBMI). En 2012,
+la cotisation annuelle acquittée par les agriculteurs a été fixée à 60 CNY. Le plafond
+annuel de remboursement est égal à huit fois le revenu national moyen annuel
+(Bureau du Conseil d’Etat, 2012).
+
+Dispositif d’aide financière médicale (MFA)
+L’instauration du dispositif d’aide financière médicale (MFA) a été jugée nécessaire
+parce que le régime pour les salariés résidant en milieu urbain ne couvrait pas toutes
+les catégories de la population et que l’affiliation au régime pour les personnes
+résidant en milieu urbain reposait sur une démarche volontaire. De surcroît, les
+prestations sont très insuffisantes, si bien que la part des frais laissée à la charge des
+patients est très élevée. Le MFA est censé combler ces lacunes de la couverture. A
+partir de 2003, le MFA a été lancé à titre pilote dans des zones urbaines et rurales.
+Conformément à la «Décision du Comité central du Parti communiste chinois et
+du Conseil d’Etat relative à la poursuite du renforcement du système de santé en
+milieu rural», en 2003, plusieurs ministères ont publié un document intitulé «Points
+de vue sur la mise en œuvre du dispositif d’aide médicale en milieu rural».
+Fin 2005, un système d’aide médicale en milieu rural avait été déployé à l’échelle
+nationale. Ce système s’adresse aux familles d’agriculteurs pauvres et aux ménages
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+111
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+qui remplissent les conditions pour bénéficier des «cinq types d’aide»3. Dans les
+régions couvertes par le NCMS, les personnes défavorisées peuvent obtenir une aide
+financière pour payer leur cotisation à ce système coopératif. En outre, en cas de
+maladie grave, les familles bénéficient de l’aide financière nécessaire. Pour les personnes défavorisées qui ne s’affilient pas au NCMS, l’aide financière est limitée à la
+prise en charge de dépenses d’hospitalisation.
+Dans les zones urbaines sont considérés comme défavorisés les résidents qui
+reçoivent l’allocation de minimum vital4, les personnes non affiliées au régime pour
+les salariés vivant en milieu urbain, celles qui sont affiliées à ce régime mais ne sont
+pas en mesure d’assumer leurs dépenses de santé et d’autres personnes en difficulté.
+Dans toutes ces situations, l’aide médicale est versée pour aider les familles à faire
+face aux frais d’hospitalisation.
+Les règles relatives au paiement de l’aide médicale sont, en milieu rural comme
+en milieu urbain, fixées par les autorités locales, qui établissent et gèrent les fonds.
+Dans les provinces pauvres de Chine centrale et orientale, ces autorités bénéficient
+de l’aide de l’Etat (Liu, 2011; Bureau du Conseil d’Etat, 2012). Le système d’aide
+médicale en est encore à ses débuts et, bien que son rôle soit de mieux en mieux
+compris, sa mise en œuvre à plus grande échelle ne se fait que progressivement.
+112
+
+Analyse des réformes
+Les réformes ont conduit à une dégradation de la qualité des soins dispensés par le
+système de santé chinois. Le risque de maladie grave est pratiquement le seul risque
+entièrement couvert par le nouveau système, si bien que les dépenses de soins élémentaires et de soins ambulatoires doivent être assumées par l’assuré lui-même (Ge
+et Gong, 2007). En outre, les règles relatives aux limites minimales et maximales de
+remboursement sont tellement restrictives qu’en moyenne environ 40 pour cent
+des frais doivent être pris en charge par l’assuré dans le cas de l’UEBMI (Gao, 2006)
+et plus de 70 pour cent dans le cas du NCMS (Groupe d’évaluation, 2006), ce qui
+représente un net recul du niveau de la couverture comparativement à celui garanti
+durant la période de planification économique.
+L’UEBMI comprend des comptes d’épargne santé individuels, utilisés pour la
+prise en charge des dépenses de soins ambulatoires. Ce modèle, inspiré du système
+
+3. Les ménages qui remplissent les conditions pour obtenir les «cinq types d’aide» sont des familles qui
+vivent en milieu rural et bénéficient d’une assistance spécifique. Cette assistance revêt la forme d’une
+aide en matière alimentaire, vestimentaire, dans le domaine du logement, des soins de santé et des
+services funéraires (Liu, 2011).
+4. Le minimum vital correspond au revenu jugé indispensable. Il est généralement nettement inférieur
+au revenu nécessaire pour assurer le niveau de vie minimum défini à l’échelle nationale.
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+d’assurance vieillesse obligatoire, a été critiqué par certains observateurs (Gao,
+2006; Rösner, 2004), qui lui reprochent de réserver une place marginale au rôle de
+garant de la solidarité de l’assurance sociale – seulement 4,2 pour cent des salaires
+soumis à cotisation sont affectés au fonds de solidarité –, les assurés devant essentiellement financer l’assurance santé de base (Lin, 2002; Ge et Gong, 2007). De
+surcroît, les comptes d’épargne santé individuels affichent des frais de gestion relativement élevés par rapport au faible montant des cotisations qui les alimentent et
+le taux d’intérêt appliqué à l’épargne individuelle est faible. Les assurés peuvent en
+outre employer le solde figurant sur les comptes à des fins non médicales: ils
+peuvent par exemple, avec l’aval des organismes compétents, l’utiliser pour effectuer des achats dans certains magasins (ministère du Travail et de la Sécurité sociale,
+2007a). Il s’agit là de l’une des raisons pour lesquelles la suppression de ces comptes
+a été préconisée à de multiples reprises – recommandation que le gouvernement
+chinois a, pour l’heure, décidé d’ignorer.
+S’agissant des objectifs des réformes du système de santé, l’Etat n’en a pour
+l’instant atteint qu’un, à savoir l’allègement du poids que ce système représentait
+pour ses propres finances. Le total des dépenses de santé est certes passé de
+3,17 pour cent du PIB en 1980 à 5,62 pour cent du PIB en 2003, date à laquelle
+seulement 17 pour cent de ces dépenses ont été financés par le budget de l’Etat
+(Chen et Wang, 2007), la hausse ayant été supportée par les citoyens. Les dépenses
+de santé sont désormais le troisième poste de dépenses des ménages par ordre
+d’importance, après l’alimentation et l’éducation (ministère de la Santé – Centre
+d’information pour la statistique, 2005). L’inadéquation de la protection offerte par
+la sécurité sociale contraint les citoyens à épargner davantage en prévision de leur
+retraite ou de problèmes de santé et freine ainsi la hausse de la demande intérieure,
+qui constitue pourtant un important objectif du gouvernement chinois en termes
+de promotion d’une croissance économique durable. La population, les experts et
+les instituts de recherche officiels se sont montrés critiques vis-à-vis de la réforme
+du système de santé et considèrent qu’elle a échoué (Wang, 2003; Ge et Gong, 2007).
+
+Privatisation des hôpitaux publics
+La fourniture de services publics de santé est étroitement liée à la manière dont le
+système d’assurance sociale ainsi que ses prestations et services sont conçus. En
+Chine, la majorité des médecins exercent dans les hôpitaux, qui occupent une place
+centrale dans le système de santé. Par conséquent, toute analyse du système de santé
+chinois doit tenir compte du rôle des hôpitaux publics, qui constituent d’importants prestataires de soins.
+Durant la période de planification économique, la santé publique faisait partie
+intégrante de la protection sociale et était subventionnée par l’Etat, lequel encadrait
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+113
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+114
+
+le prix des services médicaux et des médicaments pour que l’ensemble de la population puisse y avoir accès. Avant 1978, plus de 50 pour cent des ressources des
+hôpitaux provenaient du budget de l’Etat. A partir de 1985, le gouvernement a, pour
+alléger le poids que ces dépenses représentaient pour les finances publiques, engagé
+des réformes et accordé plus d’autonomie aux hôpitaux, qui ont ainsi été largement
+privatisés. Depuis 1985, les hôpitaux et les citoyens doivent assumer une part plus
+importante des dépenses de santé (Liu, 2011). Ainsi, à la fin des années 90, les
+subventions publiques ne représentaient plus que 6 pour cent des ressources des
+hôpitaux (Wang, 2005). Pour les aider à financer leurs dépenses, le gouvernement
+les a autorisés à fixer le prix des services médicaux et des médicaments, si bien que
+le revenu provenant des services médicaux et des médicaments est devenu leur
+principale source de revenu.
+Le renforcement de l’autonomie des hôpitaux et surtout le pouvoir de fixation
+des prix dont ils ont été investis ont ouvert la porte aux abus (Meng et al., 2004):
+les médecins qui exercent en milieu hospitalier se sont mis à prescrire des soins ou
+médicaments ne répondant pas aux besoins des patients et à procéder à des surfacturations. Le coût des soins a connu une véritable explosion dans les années 90, si
+bien que nombre de patients ont été incapables d’y faire face. Ils ont généralement
+réagi en renonçant à se faire soigner ou ont basculé dans la pauvreté en raison de
+la lourde charge financière que représentait le traitement (Liu, 2011; Darimont,
+2009; Duckett, 2010).
+La réforme du système public de santé a également entraîné l’extension des
+grands hôpitaux urbains, tandis que des centres de santé primaire et préventive
+implantés en milieu rural ont dû fermer, faute de soutien financier suffisant de la
+part de l’Etat. Ces soins étant moins accessibles, les maladies infectieuses et les
+épidémies sont devenues plus fréquentes ces dernières années (Wang, 2003). Dans
+le sillage de la crise provoquée par le Syndrome respiratoire aigu sévère (SRAS), en
+2003, la réforme du système de santé a été de plus en plus contestée et le gouvernement a été enjoint d’assumer la responsabilité du financement et du fonctionnement de ce système (ministère du Travail et de la Sécurité sociale, 2007b), ce qui a
+abouti à de nouveaux projets de réforme.
+
+Projets de réformes dans les provinces
+Bien que les règles relatives à l’autofinancement des hôpitaux publics aient été
+appliquées à l’échelle nationale, en 2001, le district administratif de Suqian, dans
+la province du Jiangsu, a introduit une réforme radicale de ses établissements de
+soins publics. Le district de Suqian s’était heurté à des difficultés financières dans
+le sillage de la réforme financière de 1994, les autorités de la ville, qui avaient désormais la responsabilité de services publics comme l’éducation et la santé, n’étant pas
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+en mesure de les financer. Face à cette situation, les autorités ont décidé de vendre
+les hôpitaux publics au lieu de se contenter de cesser de les subventionner. En 2006,
+elles avaient vendu 134 hôpitaux sur 135. Elles ont utilisé le produit de la vente
+pour financer des centres de soins publics et une assurance santé de base (Groupe
+de recherche de l’Université de Beijing, 2006).
+Cette réforme a donné lieu à d’intenses débats entre experts. Ainsi, Li Ling,
+économiste reconnue, et son équipe de recherche ont publié à la suite d’une évaluation de la réforme de Suqian un rapport qui dénonçait la marchandisation et la
+privatisation des soins, avançant qu’il n’y avait eu ni diminution du coût des soins
+ni amélioration de leur qualité. Le rapport soulignait l’absence totale de mécanisme
+d’encadrement des prix pratiqués par les hôpitaux et les hausses de prix importantes qui en ont découlé. Li Ling proposait, pour remédier aux difficultés financières des autorités locales, de procéder à une redistribution entre les échelons
+administratifs central et local, ce qui aurait supposé d’accroître le rôle de l’Etat dans
+le domaine de la santé (Groupe de recherche de l’Université de Beijing, 2006).
+Au contraire, Zhou Qiren, économiste libéral, a émis un jugement positif sur la
+réforme de Suqian, avançant que les dépenses de santé continuaient certes à représenter un poids pour les citoyens, mais qu’il n’en allait plus ainsi pour l’Etat, en
+particulier pour les autorités locales. Selon lui, le rôle de l’Etat consiste non pas à
+intervenir directement, mais à permettre l’instauration d’une libre concurrence
+entre hôpitaux (Zhou, 2007).
+Le débat suscité par la réforme de Suqian s’est apaisé après la publication, en
+2009, de la «Notification du Comité central du Parti communiste chinois et du
+Conseil d’Etat au sujet de l’approfondissement de la réforme de la santé» qui insiste
+sur la responsabilité de l’Etat en matière de santé, qualifiée de bien public commun,
+et exclut la marchandisation et la privatisation des hôpitaux publics.
+En 2009, le modèle dit de Shenmu, qui entendait remédier à la fois aux causes
+du mécontentement de la population à l’égard du système de santé et aux problèmes que constituaient les coûts élevés et l’insuffisance des services, a été envisagé
+comme contre-pied au modèle incarné par la réforme de Suqian. Shenmu, district
+de la province de Shanxi, a considérablement accru l’offre de services de santé
+depuis 2009, à tel point que ses habitants disposent désormais d’une forme de
+système de santé gratuit, financé par l’Etat. Contrairement à Suqian, Shenmu est
+un district riche, de sorte que les autorités locales ont les moyens de prendre en
+charge les dépenses de soins et d’ériger la santé publique au rang de priorité.
+Le document de 2009 intitulé «Mesures adoptées par le district de Shenmu
+pour la mise en œuvre d’un système de santé gratuit» précise que tous les citoyens
+enregistrés comme résidents de Shenmu peuvent avoir accès aux soins gratuitement, à condition de s’affilier au régime d’assurance santé et de verser des cotisations. Un habitant du district de Shenmu peut percevoir une subvention de
+100 CNY par an au titre des soins ambulatoires. Le plafond du remboursement des
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+115
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+116
+
+frais d’hospitalisation a été majoré et porté à 300 000 CNY par an et le montant
+minimal du remboursement s’établit à 200 CNY pour une hospitalisation dans
+un hôpital municipal et à 400 CNY pour une hospitalisation dans un hôpital de
+district.
+Le ministère de la Santé et le ministère des Affaires civiles ont dressé un bilan
+très positif des douze premiers mois d’existence du système de santé de Shenmu.
+Selon Chen Zhu, ministre de la Santé, environ 20 pour cent des districts chinois
+pourraient assumer le coût d’une réforme similaire. Certains experts jugent cependant ce modèle utopique en raison de l’incertitude qui pèse sur la question de savoir
+comment les régions plus pauvres pourraient financer un système de soins gratuit
+si ce dernier était déployé à l’échelle nationale (Gu, 2008). Selon eux, globalement,
+le modèle de Shenmu ne peut pas s’imposer.
+En 2009, dans la province d’Anhui, une réforme de la santé prévoyant le financement de centres de soins – primaires – par l’Etat et un strict encadrement du
+marché des médicaments par les pouvoirs publics a été lancée. Anhui, qui fait partie
+des provinces pauvres de Chine centrale, avait depuis longtemps besoin d’une
+réforme, les faiblesses des réformes antérieures étant devenues particulièrement
+flagrantes. La genèse de cette réforme remonte au 23 novembre 2009, date d’adoption, par les autorités de la province, du texte intitulé «Premiers points de vue
+sur le projet de réforme globale du système de soins de santé de base et du marché
+des médicaments». Le système d’assurance sociale est assorti d’un barème fixé
+par l’Etat pour le prix des médicaments, applicable à l’ensemble de la province.
+Les prix des médicaments s’établissent à 52,8 pour cent de ceux constatés à l’échelle
+nationale. Cette réforme a certes été contestée par l’industrie pharmaceutique et
+dénoncée comme un retour à l’économie planifiée, mais les médicaments sont
+désormais abordables pour les citoyens et la part laissée à la charge des patients
+par le système d’assurance sociale est restée raisonnable. De surcroît, les établissements médicaux – par exemple les centres de soins en zones rurales ou
+urbaines et les hôpitaux publics – sont financés par des fonds publics et ne sont
+plus contraints de dépendre du produit de la vente de médicaments. En principe,
+les patients qui souffrent d’affections bénignes doivent se rendre dans les centres
+de soins, les hôpitaux ne prenant en charge que les cas plus graves, et la rééducation
+s’effectue à domicile. Globalement, la part du coût des soins et dépenses d’hospitalisation laissée à la charge des assurés a baissé, pour s’établir à 11,47 pour cent
+du total des coûts (Zhu, Gu et Chu, 2011). Le modèle de réforme mis en œuvre
+dans la province d’Anhui est jugé exemplaire et doit être déployé à l’échelle
+nationale.
+Ainsi, les expériences menées à ce jour laissent penser que seule une réforme
+globale, portant à la fois sur le marché des médicaments, la réglementation de
+l’assurance sociale et la santé publique, est en mesure de remédier aux maux dont
+souffre actuellement le système de santé chinois.
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+Orientations de la politique de la Chine dans le domaine
+de la santé
+Face au mécontentement croissant que l’inadaptation du système de soins suscitait
+au sein de la population, le gouvernement a fait de l’amélioration des résultats de
+la politique sociale l’un des principaux objectifs politiques présentés lors de la
+6e session plénière du 16e Comité central du Parti communiste chinois, en 2006
+(Duckett, 2010). L’engagement a alors été pris d’établir un système de sécurité
+sociale universel à l’horizon 2020, dans le but d’édifier une «société socialiste harmonieuse». Selon la formulation de cet engagement dans la «Décision du Comité
+central du Parti communiste chinois relative à certaines questions importantes pour
+l’édification d’une société socialiste harmonieuse», l’objectif est «que chacun
+dispose de moyens de subsistance de base, que chacun ait accès à des soins médicaux
+de base» (Hu, 2007). A cette fin, depuis 2006, l’Etat accroît le soutien financier qu’il
+apporte aux services publics. Par ailleurs, lors de la 5e session plénière du 16e Comité
+central du Parti communiste chinois, il a été décidé de soutenir les efforts déployés
+pour accroître la demande intérieure. Or, l’extension du système de sécurité sociale
+est considérée comme un moyen de permettre à la population d’augmenter ses
+dépenses de consommation (Banque mondiale, 2006).
+Face aux critiques de plus en plus nombreuses formulées à l’encontre du système
+de santé, le gouvernement a été contraint de lancer de nouvelles réformes. En 2006,
+un groupe de coordination de la réforme du système de santé, au sein duquel
+16 ministères et commissions du Conseil d’Etat étaient représentés, a été constitué.
+La Commission nationale pour le développement et la réforme et le ministère de
+la Santé ont préparé le projet de réforme et, fin 2007, le Conseil d’Etat a publié
+de nouvelles directives pour la réforme du système de santé dans un rapport au
+Comité permanent du Congrès national du peuple. Toutefois, différents points
+étant litigieux, il a fallu attendre le 17 mars 2009 pour que le projet de réforme soit
+approuvé par le Comité central du Parti communiste et le Conseil d’Etat (Comité
+central du Parti communiste chinois, 2009). Les directives laissant une très grande
+latitude aux autorités locales, beaucoup de provinces ont élaboré leurs propres
+projets de système de santé. Cependant, l’adoption de modèles de réforme différents dans différentes provinces, voire villes, a été préjudiciable à la clarté et à la
+transparence.
+
+Consensus au sujet du renforcement du rôle de l’Etat
+Les chercheurs chinois en sciences sociales s’accordent à reconnaître que les pouvoirs publics ont les moyens de jouer un rôle plus important dans le financement
+de la santé au niveau national (Wang, 2005). Les principes directeurs de la nouvelle
+réforme de la santé, énoncés par le Parti communiste chinois dans la décision de
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+117
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+2006 relative à l’édification d’une société socialiste harmonieuse (Comité central
+du Parti communiste chinois, 2006), disposent que:
+La qualité de bien public du système public de santé doit être réaffirmée et le rôle de
+l’Etat doit être renforcé.
+
+118
+
+La réforme a vocation à permettre l’instauration d’un système de santé de base et
+à garantir l’accès des citoyens à des services de santé efficaces et abordables (Comité
+central du Parti communiste chinois, 2006). Selon la décision de 2006, le système
+de santé doit être composé des régimes d’assurance santé pour les salariés résidant
+en milieu urbain et pour les personnes résidant en milieu urbain, du nouveau
+système de santé coopératif en milieu rural et du dispositif d’aide médicale. De
+surcroît, il doit également prévoir des interventions de santé publique en matière
+de prévention des maladies, de traitement des maladies infectieuses et épidémies et
+d’hygiène, ainsi que des services de santé maternelle et pédiatrique. Le gouvernement crée actuellement un réseau d’établissements de soins publics, qui devront
+tous être coordonnés et administrés par les autorités sanitaires locales. En outre, la
+réforme a également pour objectif de garantir l’accès aux médicaments, le gouvernement devant fixer le prix des médicaments essentiels. La décision de 2006 disposait qu’à l’avenir les établissements de soins publics ne seraient plus autorisés à
+dégager des bénéfices de la vente de médicaments (Comité central du Parti communiste chinois, 2006). Selon les déclarations faites en 2009 par le Parti communiste chinois et le gouvernement national, les autorités, à tous les échelons, doivent
+participer au financement des soins de santé publics et des établissements médicaux
+et au subventionnement des hôpitaux publics. La notification de 2009 qualifie pour
+la première fois le système de santé de «bien public pour tous les citoyens» (Comité
+central du Parti communiste chinois, 2009). Cette reconnaissance est pour l’heure
+considérée comme l’étape la plus importante de la réforme du système de santé,
+dans la mesure où la priorité avait jusqu’alors été accordée à la réduction du coût
+des soins (Wang, 2009).
+
+Désaccords au sujet du mode de financement des soins de santé
+Depuis lors, le débat s’est déplacé et porte désormais plus précisément sur la
+manière dont les dépenses de santé doivent être partagées. La question de la répartition des dépenses entre l’Etat, la collectivité et les citoyens constitue un enjeu
+décisif. Le choix du modèle à retenir pour le financement du système de santé, en
+d’autres termes la question de savoir s’il faut opter pour un modèle financé par
+l’impôt ou pour un système d’assurance sociale contributif est un autre enjeu
+important. Le gouvernement chinois n’a pour l’instant pas tranché en faveur de
+l’une ou de l’autre approche et cherche en réalité un modèle consensuel. Il s’ensuit
+cependant une incertitude au sujet de la politique de santé.
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+Selon Ge Yanfeng et son équipe du Centre de recherche du Conseil d’Etat sur le
+développement, il faudrait créer un système de santé de base au sein du système de
+santé existant, qui comprend des régimes d’assurance santé et un dispositif d’aide
+médicale. Ce système pourrait être financé par l’Etat à travers la fiscalité. Les établissements de soins publics pourraient traiter gratuitement les maladies courantes,
+tandis que l’assurance santé interviendrait pour le traitement d’affections sévères
+ou nécessitant des soins coûteux, non prises en charge par le système de base, si
+bien que les deux systèmes seraient complémentaires (Ge et Gong, 2007).
+L’équipe de recherche du Conseil d’Etat est favorable à la création d’un système
+de santé de base financé par l’impôt en raison des fortes disparités de revenu et des
+taux de pauvreté élevés actuellement observés en Chine, en particulier au sein de
+la population rurale et dans les régions moins développées. Les ménages à faible
+revenu n’ont pas les moyens de s’affilier à un régime d’assurance. Le gouvernement
+pourrait remédier à ce problème au moyen de subventions et de l’aide médicale. Il
+s’ensuivrait cependant des frais de gestion très élevés dans les régions rurales isolées.
+De surcroît, compte tenu de l’organisation et du mode d’administration actuels de
+l’assurance santé, un tel système aurait beaucoup de difficultés à fonctionner efficacement (Ge et Gong, 2007).
+L’introduction de ce type de système de santé, financé par l’impôt, a été présentée
+comme un «retour à la tradition chinoise de responsabilité de l’Etat» (Wang, 2005)
+parce que, durant la période de planification économique, l’Etat avait la charge de
+la sécurité sociale de ses salariés. Globalement, le système proposé présente des
+similitudes avec le Système national de santé britannique; il s’inscrit en outre dans
+la tradition socialiste tout en s’inspirant d’expériences européennes et en comportant des influences libérales, si bien qu’il pourrait permettre qu’un consensus se
+dégage (Wang et Ding, 2006).
+Le ministère de la Santé a préparé un document qui présente un système de
+santé fondé sur trois piliers, très proche du modèle proposé par l’équipe de recherche
+dirigée par Ge Yanfeng (Wang et Ding, 2006). Le premier pilier garantit à l’ensemble
+de la population l’accès à des services de santé de base, dans le cadre d’un système
+de santé uniforme, financé par l’impôt. Le deuxième pilier est constitué d’une
+assurance santé obligatoire couvrant les maladies graves. Conçu pour les salariés, il
+est financé conjointement par les salariés et les employeurs et couvre également les
+membres de la famille des assurés. Enfin, le troisième pilier est constitué d’une
+assurance santé complémentaire privée.
+Si beaucoup d’experts accordent leur préférence au modèle dans lequel l’impôt
+finance un système de santé de base (Liu, 2005; Li, 2006), Gu Xin propose, pour
+parvenir à l’édification d’un système de santé couvrant l’ensemble de la population,
+d’opter pour un système d’assurance sociale, selon un modèle qualifié de «modèle
+allemand» en Chine. Une réforme du système de santé passant par l’amélioration
+des régimes d’assurance santé existants s’accompagnerait en effet de coûts de
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+119
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+120
+
+transition beaucoup moins élevés qu’une réforme nécessitant la création d’un
+nouveau système de sécurité sociale. Dans son programme de réforme, Gu propose
+d’étendre la couverture des différents régimes d’assurance à travers une augmentation des subventions publiques et la transformation des régimes volontaires en
+régimes obligatoires, de faire en sorte que l’assurance santé ne couvre plus seulement le traitement des maladies graves et prenne également en charge les maladies
+courantes et de veiller à ce que l’assurance sociale prenne en charge jusqu’à 70 à
+80 pour cent des frais médicaux engagés (Gu, 2008).
+Le ministère des Ressources humaines et de la Sécurité sociale s’oriente vers la
+mise en place d’un modèle reposant sur l’assurance sociale et couvrant – dans la
+mesure du possible – l’ensemble de la population (Wang et Ding, 2006). Selon un
+rapport de l’Institut de recherche sur la sécurité sociale, le gouvernement n’aurait
+pas les moyens de financer par l’impôt un système de santé de base. Si un tel système
+était mis en place, son coût élevé pour l’Etat et le risque que les citoyens soient
+mécontents de la qualité des soins pourraient conduire à une confrontation directe
+entre les pouvoirs publics et la population. Il serait possible d’éviter une telle situation en introduisant un tiers-payeur – un prestataire d’assurance sociale (ministère
+du Travail et de la Sécurité sociale, 2007c).
+La préservation de la stabilité sociale constitue une priorité absolue pour le Parti
+communiste chinois comme pour le gouvernement. En 2008, la mise en place de
+l’URBMI et du NCMS a été accélérée et l’Etat a accru son financement. Des efforts
+sont déployés pour que 90 pour cent de la population soient couverts par le système
+de soins de base (Comité central du Parti communiste chinois, 2009).
+
+Conclusions
+A travers sa politique actuelle, le gouvernement central insiste sur l’importance de
+la solidarité et reconnaît que les soins de santé constituent un bien public essentiel
+au bien-être. Les hôpitaux publics ne pourront donc plus dégager des bénéfices à
+travers la vente de médicaments et leurs besoins de financement seront couverts
+par des subventions publiques. Ces nouvelles mesures montrent que, après trois
+décennies marquées par la marchandisation et la privatisation de la santé, la politique de la santé connaît actuellement un changement de cap.
+Les subventions versées par l’Etat aux hôpitaux publics et les prestations servies
+par l’assurance santé ont été fortement revalorisées pour réduire le coût que l’accès
+aux soins représentait pour les citoyens (Comité central du Parti communiste
+chinois, 2009). Entre 2009 et 2011, les autorités ont, au total, consacré 850 milliards
+de CNY au système de santé (dont 332 milliards de CNY ont été alloués par le
+gouvernement central). Les deux tiers de cette somme ciblaient les personnes en
+difficulté. En 2012, les subventions versées dans le cadre du NCMS et de l’URBMI
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+ont été augmentées et portées à 240 CNY par personne. A l’évidence, l’Etat prend
+donc davantage de responsabilité et fait face à ses obligations.
+Toutefois, dans le même temps, l’économie de marché se développe et la libre
+concurrence est introduite sur le marché du médicament (Comité central du Parti
+communiste chinois, 2009). Alors qu’il était prévu de centraliser l’achat des médicaments pour assurer un meilleur encadrement des prix, les laboratoires pharmaceutiques sont finalement les «gagnants» de la réforme, et la politique de
+centralisation de l’achat des médicaments, qui s’est heurtée à une forte résistance,
+a été abandonnée (Yang, 2009; Duckett, 2010). Au contraire, la concurrence sur les
+prix est autorisée pour les médicaments essentiels, le rôle de l’Etat se limitant à la
+formulation de recommandations en matière de prix. La réforme du marché des
+médicaments a, pour l’essentiel, été abandonnée, abandon qui s’explique par l’influence de groupes de pression sur le processus de décision politique, notamment
+par les pressions à travers lesquelles l’industrie pharmaceutique intervient dans la
+vie politique chinoise. Cette évolution a eu lieu en dépit de la colère croissante de
+la population face au prix de plus en plus élevé des médicaments, colère qui s’est
+parfois exprimée contre les médecins et le personnel hospitalier (Bloom, 2004;
+Döring, 2008). Un compromis devra, in fine, être trouvé.
+Dans l’ensemble, la réforme en cours s’apparente à un programme d’amélioration à court terme, mais ne constitue pas une refonte totale du système. Pour
+l’heure, aucun consensus ne s’est dégagé sur le mode de financement à retenir, bien
+que diverses idées et modèles aient été proposés, comme en témoignent les expériences menées à Shenmu, Suqian et Anhui. Le projet de réforme ne prévoit pas la
+suppression des comptes d’épargne santé individuels de l’UEBMI (Gao, 2006; Ge
+et Gong, 2007), pourtant préconisée par de nombreux observateurs. En revanche,
+des règles relatives au remboursement des frais médicaux ont été adoptées dans la
+loi sur l’assurance sociale, entrée en vigueur le 1er juillet 2011. Par ailleurs, le bilan
+positif de plusieurs projets pilotes lancés dans différentes provinces a conduit à la
+mise en place d’un système de facturation directe, désormais inscrit dans la loi sur
+l’assurance sociale. Dorénavant, les frais qui doivent être remboursés par les régimes
+d’assurance seront facturés directement par l’établissement de soins ou la pharmacie à la caisse d’assurance. En outre, ce système de facturation directe devrait aussi
+être applicable entre provinces.
+Etant donné l’ampleur du soutien financier apporté par le gouvernement central,
+l’objectif d’amélioration du système de santé devrait être atteint dans un avenir
+relativement proche. Toutefois le soutien financier ne saurait, à lui seul, garantir le
+développement durable de ce système, qui doit aussi pouvoir s’appuyer sur un
+fondement théorique et sur un projet de réforme d’ensemble. Le gouvernement
+central s’emploie actuellement à renforcer son projet de réforme. La manière dont
+le financement doit être partagé entre ce gouvernement et les autorités locales doit
+être clarifiée. De surcroît, il est également indispensable de concevoir un modèle
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+121
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+122
+
+d’assurance santé adapté à la réalité chinoise en général et répondant aux attentes
+de la population – actuellement, les expériences et modèles particuliers sont trop
+nombreux. La situation présente manque de clarté pour les citoyens, ce qui n’est
+pas propice à l’instauration de la confiance. Enfin, il faut introduire des règles au
+sujet de l’encadrement de l’offre de services médicaux et de médicaments. Ces
+différentes dimensions ont une incidence non seulement sur la réforme du système
+de santé, mais aussi sur la poursuite de la réforme du système financier et sur
+l’évolution de «l’économie socialiste de marché». En l’absence de changement dans
+ces domaines, les réformes du système de santé sont vouées à l’échec. Les réformes
+économiques contribuent à l’accroissement des inégalités, que la privatisation du
+système de santé ne fait qu’aggraver davantage. Pendant les quelques années à venir,
+le gouvernement aura encore des difficultés à surmonter pour inverser cette
+tendance.
+La forte décentralisation du système de santé chinois a creusé les écarts entre les
+zones urbaines et rurales dans le domaine de la santé. De surcroît, beaucoup de
+projets pilotes ont été lancés de manière quelque peu arbitraire, et la Chine n’a pas
+défini de concept de système de soins de santé. Cette situation a été source d’injustices sociales, certains citoyens ayant accès gratuitement aux soins tandis que
+d’autres doivent en assumer totalement le coût, ce qui est contraire à l’idée selon
+laquelle les soins de santé constituent un bien public accessible à tous. La suppression de la distinction entre population urbaine et population rurale pourrait constituer une étape décisive. Par ailleurs, l’amélioration de la législation nationale dans
+le domaine des soins de santé permettrait de réduire les inégalités, de garantir une
+certaine transparence et, par là même, d’amener la population à avoir confiance
+dans le système.
+Le débat actuel sur les réformes de la santé dans les pays en développement se
+concentre sur la nécessité de permettre l’accès à des soins financièrement abordables
+et d’alléger le poids de la santé pour le budget de l’Etat. Dans les années 90, beaucoup de pays ont tenté de privatiser leur système de santé mais, ces dernières années,
+ces réformes se sont révélées irréalistes, des pans entiers de la population restant
+dépourvus de toute protection sociale contre le risque de maladie. Diverses possibilités susceptibles de constituer une solution optimale peuvent être envisagées,
+qu’il s’agisse de l’assurance sociale, du financement par l’impôt de soins de santé
+préventifs ou d’une offre de soins par le secteur privé. Certains jugent qu’il faut
+privilégier les modèles financés par l’impôt (Baeza et Packard, 2007). Cependant,
+ce modèle est relativement peu applicable aux pays du Sud, qui sont parfois dotés
+d’un système fiscal national insuffisamment développé et disposent de recettes
+fiscales totales trop faibles. Les approches pluralistes semblent donc plus prometteuses. Ainsi, certains pays ont instauré des systèmes de prestations sociales en
+espèces qui font appel à la fois à un financement par l’impôt et à l’assurance sociale
+(van Ginneken, 2007). Depuis toujours, les pays ont, pour offrir une protection
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+contre le risque de maladie, eu recours soit à l’assurance sociale soit au financement
+par l’impôt, sans envisager d’associer l’approche bismarckienne et l’approche beveridgienne. Si l’on analyse la situation chinoise sous cet angle, le système de santé
+qui voit actuellement le jour pourrait inspirer d’autres pays du Sud dans la mesure
+où une synthèse des deux modèles pourrait permettre d’éliminer les faiblesses de
+chacun d’eux.
+
+Bibliographie
+Baeza, C.; Packard, T. 2007. «Etendre la mutualisation des risques en matière de santé dans
+les pays en développement: les défis d’une évolution vers un financement par le budget
+de l’Etat», dans Revue internationale de sécurité sociale, vol. 60, no 2/3.
+Banque mondiale. 2006. Country partnership strategy for the People’s Republic of China for
+the period 2006-2010. Beijing.
+Bloom, G. 2004. «China in transition: Challenges to urban health services», dans G. Bloom
+et S. Tang (sous la dir. de), Health care transition in urban China. Aldershot, Ashgate.
+Bureau du Conseil d’Etat. 2012. [Notification relative aux principaux travaux à effectuer
+en 2012 en vue de l’approfondissement de la réforme du système de santé] 国务院办
+公厅关于印发深化医药卫生体制改革2012年主要工作安排的通知. Beijing.
+Chen, J.; Wang Y. (sous la dir. de). 2007. [Rapport sur l’évolution du système de sécurité
+sociale chinois, 2007] 中国社会保障发展报告 (2007). Beijing, Social Sciences Academic Press.
+Comité central du Parti communiste chinois. 2002. [Décision du Comité central du
+Parti communiste chinois et du Conseil d’Etat relative à la poursuite du renforcement
+du système de santé en milieu rural] 中共中央, 国务院关于进一步加强农村
+卫生工作的决定. Beijing.
+Comité central du Parti communiste chinois. 2006. [Décision du Comité central du Parti
+communiste chinois relative à certaines questions importantes pour l’édification d’une
+société socialiste harmonieuse] 中共中央关于构建社会主义和谐社会若干重大问题
+的决定. Beijing.
+Comité central du Parti communiste chinois. 2009. [Notification du Comité central du
+Parti communiste chinois et du Conseil d’Etat au sujet de l’approfondissement de la
+réforme de la santé] 中共中央, 国务院关于深化卫生体制改革的意见. Beijing.
+Darimont, B. 2009. «Social security in contemporary China», dans T. Heberer et G. Schubert (sous la dir. de), Regime legitimacy in contemporary China. Oxon, Routledge,
+Chapman & Hall.
+Döring, O. 2008. «Chinesisches Gesundheitswesen: Eine Kultur ohne Vertrauen», dans
+Deutsches Ärzteblatt, no 105.
+Duckett, J. 2010. «Economic crisis and China’s 2009 health reform plan: Rebuilding social
+protections for stability and growth?», dans China Analysis, no 80.
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+123
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+Duckett, J. 2011. «Challenging the economic reform paradigm: Policy and politics in the
+early 1980s’collapse of the rural co-operative medical system», dans The China Quarterly, no 205.
+Gao, S. 2006. [La réforme de la sécurité sociale à la croisée des chemins]
+社会保障改革何去何从. Beijing.
+Ge, Y.; Gong, S. 2007. [La réforme du système de santé chinois] 中国医改: 问题, 根源,
+出路. Beijing.
+Ginneken, W. van. 2007. «L’extension de la sécurité sociale: concepts, grandes tendances et
+problèmes de politique générale», dans Revue internationale de sécurité sociale, vol. 60,
+no 2/3.
+Groupe d’évaluation (pour l’évaluation des projets pilotes du nouveau système de santé
+coopératif en milieu rural). 2006. [Rapport d’évaluation du nouveau système de
+santé coopératif] 发展中的中国新型农村合作医疗 – 新型农村合作医疗试点工作
+评估报告. Beijing.
+Groupe de recherche de l’Université de Beijing. 2006. [Rapport de recherche sur la réforme
+de la santé dans le district de Suqian] 宿迁医改调研报告, dans [Le journal des jeunes]
+中国青年报, 22 juin.
+Gu, X. 2008. [Voie à suivre pour garantir l’accès de tous les citoyens à la santé]
+
+124
+
+通向全民医保的渐进主义之路, dans [Tribune Dong Yue] 东岳论丛, no 1.
+Hu, J. 2007. [Rapport au 17e Congrès du Parti communiste chinois, 15 octobre]
+在中国共产党第十七次全国代表大会上的报告. Beijing.
+Hua, Y. (sous la dir.). 2007. [Sécurité sociale] 社会保障. Beijing.
+Li, L. 2006. [La réforme de la santé: l’Etat doit jouer le rôle principal, le marché intervenant
+en complément] 医改方向: 政府主导下市场补充, dans [Revue chinoise de l’innovation en santé] 中国医疗前沿, no 1.
+Lin, J. 2002. [Théorie, pratique et innovation en droit de la sécurité sociale]
+社会保障法的理念, 实践与创新. Beijing.
+Liu, D. 2011. Reformen des Sozialleistungsrechts in der Volksrepublik China. Baden-Baden,
+Nomos.
+Liu, J. 2005. [Rôle excessif du marché et forte décentralisation: le double handicap du
+système de santé chinois] 过度市场化与高度分权化: 中国医疗卫生改革的双重误区,
+dans [Le journal de la Chine ouverte] 开放导报, no 5.
+Meng, Q. et al. 2004. Health policy and systems research in China. Genève, Organisation
+mondiale de la santé.
+Ministère de la Santé – Centre d’information pour la statistique. 2005. [Résumé du
+Rapport sur la troisième analyse du système de santé national] 第三次国家
+卫生服务调查分析报告, dans [Chinese Hospitals] 中国医院 , no 1.
+Ministère de la Santé – Centre d’information pour la statistique. 2009. [Bulletin statistique sur les soins de santé, 2009] 2009年卫生事业发展情况简报. Beijing.
+Ministère de la Santé; Ministère des Finances. 2008. [Publication du ministère de la Santé
+et du ministère des Finances sur le fonctionnement du nouveau système de santé
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Le système de santé de la République populaire de Chine: entre privatisation et système public de santé
+
+coopératif en milieu rural en 2008] 关于做好2008年新型农村合作医疗工作的通知.
+Beijing.
+Ministère du Travail et de la Sécurité sociale – Institut de recherche en sécurité
+sociale. 2007a. [Propositions en vue de la réforme du système de santé chinois]
+关于中国医疗保障制度改革的框架性建议, dans [Recherche en sécurité sociale]
+社会保障研究, no 5.
+Ministère du Travail et de la Sécurité sociale – Institut de recherche en sécurité
+sociale. 2007b. [Propositions en vue de la réforme du système de santé chinois]
+关于中国医疗保障制度改革的框架性建议, dans [Recherche en sécurité sociale]
+社会保障研究, no 2.
+Ministère du Travail et de la Sécurité sociale – Institut de recherche en sécurité sociale.
+2007c. [Tendances et philosophie générale de la réforme du système de santé chinois]
+中国卫生改革的方向与总体思路, dans [Research in social security] 社会保障研究,
+no 2.
+MOHRSS. 2011. [Communiqué statistique 2010 sur l’évolution des ressources humaines et
+de la sécurité sociale] 2010年度人力资源和社会保障事业发展统计公报. Beijing,
+ministère des Ressources humaines et de la Sécurité sociale.
+Rösner, H. J. 2004. «Le système d’assurance maladie chinois en phase de transformation:
+première évaluation et propositions de politique», dans Revue internationale de sécurité
+sociale, vol. 57, no 3.
+Wang, J. 2009. [La nouvelle réforme de la santé] 新医改负重启程, dans [Liaowang] 瞭望,
+7 avril.
+Wang, S. 2003. [Crise et mutation des services publics de santé en Chine]
+中国公共卫生的危机与转机, dans [Etudes comparatives] 比较, no 7.
+Wang, S. 2005. [Orientation de la politique publique, capacité de l’Etat à prélever des impôts
+et qualité des soins dans la Chine urbaine] 政策导向, 汲取能力与卫生公平, dans
+[Sciences sociales en Chine] 中国社会科学, no 6.
+Wang, S.; Ding, J. 2006. [Rapport relatif aux nouveaux projets de réforme du système
+de santé] 关于医改新方案的报道, dans [Rapports économiques au XXIe siècle]
+21世纪经济报道, 23 septembre.
+Yang, Z. 2009. [La nouvelle réforme de la santé: marchandisation ou planification
+économique?] 新医改最后博弈: 围绕市场化与回归计划激烈交锋, dans [Newsweek
+Chine] 中国新闻周刊, no 13.
+Zhang, W. 2005. Sozialwesen in China. Hambourg, Kovač.
+Zhou, Q. 2007. [Enseignements généraux de l’expérience du Suqian pour la réforme du
+système de santé] 宿迁医改的普遍意义, dans [Recherche sur les stratégies] 决策探索,
+no 10.
+Zhu, H.; Gu, X.; Chu, H. 2011. [Quatrième rapport de recherche sur le modèle de Shenmu]
+神木模式系列研究报告之四, dans [Caijing] 财经, 28 avril.
+
+© 2013 Auteur(s)
+
+Revue internationale de sécurité sociale © 2013 AISS
+
+Revue internationale de sécurité sociale, vol. 66, 1/2013
+
+125
+

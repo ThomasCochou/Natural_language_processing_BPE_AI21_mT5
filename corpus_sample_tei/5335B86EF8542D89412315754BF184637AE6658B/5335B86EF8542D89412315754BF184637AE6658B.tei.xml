@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Hume et les «Lumières radicales»</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Hume et les «Lumières radicales»</title><author xml:id="author-0000"><persName><forename type="first">Alexandre</forename><surname>Simon</surname></persName><affiliation>Université de Franche-Comté</affiliation></author><idno type="istex">5335B86EF8542D89412315754BF184637AE6658B</idno><idno type="ark">ark:/67375/6GQ-9RNCK4VW-S</idno><idno type="DOI">10.1017/S0012217310000582</idno><idno type="PII">S0012217310000582</idno><idno type="article-id">00058</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-09"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="381">381</biblScope><biblScope unit="page" to="394">394</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Dans son livre Radical Enlightenment, J. I. Israel ne fait aucune place à la critique de la religion menée par Hume dans la deuxième moitié du xviiie siècle. Pourtant, en effectuant cette critique sur le terrain méthodologique privilégié des «Lumières modérées», celui de l’expérience, Hume donna à la critique de la religion un fondement philosophique sans précédent au sein des «Lumières radicales». En outre, la conclusion des Dialogues sur la religion naturelle conduit à se demander si les «Lumières radicales» ne restaient pas prisonnières de la dialectique théologique dans leur opposition à la religion chrétienne.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT : In Radical Enlightenment, J. I. Israel gives no attention to the critique of religion expounded by Hume in the second half of the 18th century. Nevertheless, Hume, in elaborating his criticism from the methodological standpoint of the “Moderate Enlightenment”, that of experience, provides an original foundation to the critique of religion in the context of “Radical Enlightenment”. What is more, the conclusion of his Dialogues Concerning Natural Religion leads one in thinking that “Radical Enlightenment” might have been caught in the net of theological dialectic in its opposition to Christianity.</p></abstract></profileDesc><revisionDesc><change when="2010-09">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Hume et les «Lumières radicales»
+
+ALEXANDRE SIMON
+
+Université de Franche-Comté
+
+RÉSUMÉ : Dans son livre Radical Enlightenment, J. I. Israel ne fait aucune place à la
+critique de la religion menée par Hume dans la deuxième moitié du XVIII e siècle. Pourtant,
+en effectuant cette critique sur le terrain méthodologique privilégié des «Lumières modérées», celui de l’expérience, Hume donna à la critique de la religion un fondement
+philosophique sans précédent au sein des «Lumières radicales». En outre, la conclusion des Dialogues sur la religion naturelle conduit à se demander si les «Lumières
+radicales» ne restaient pas prisonnières de la dialectique théologique dans leur opposition à la religion chrétienne.
+ABSTRACT : In Radical Enlightenment, J. I. Israel gives no attention to the critique of
+religion expounded by Hume in the second half of the 18th century. Nevertheless, Hume,
+in elaborating his criticism from the methodological standpoint of the “Moderate Enlightenment”, that of experience, provides an original foundation to the critique of religion in the context of “Radical Enlightenment”. What is more, the conclusion of his
+Dialogues Concerning Natural Religion leads one in thinking that “Radical Enlightenment” might have been caught in the net of theological dialectic in its opposition to
+Christianity.
+
+Depuis le début des années quatre-vingts, les études consacrées aux Lumières
+ont été élargies par les travaux portant sur ce que Margaret C. Jacob, dans son
+ouvrage pionnier, a nommé les «Lumières radicales»1. La signiﬁcation historique de ce concept est loin de faire consensus parmi les historiens qui lui reconnaissent une pertinence2. Deux points d’accord semblent néanmoins se
+dégager de leurs travaux. Premièrement, le mouvement des Lumières radicales
+aurait eu pour objet principal la promotion de l’idéal républicain et l’opposition
+non seulement à l’absolutisme mais à la monarchie elle-même. Ensuite, ce
+Dialogue 49 (2010), 381–394.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000582
+
+382
+
+Dialogue
+
+programme politique aurait généralement impliqué une opposition à la religion
+chrétienne, en raison de sa connexion avec les monarchies d’Europe. C’est
+Jonathan I. Israel qui a le plus insisté sur ce dernier point, puisque la naissance
+de la modernité semble bien avoir eu, selon lui, pour condition nécessaire la
+critique intégrale des fondements de la religion chrétienne, autrement dit la
+sécularisation de la pensée occidentale, qui aurait constitué le travail principal
+des Lumières radicales3. Or en insistant sur l’importance de la diffusion des
+écrits de Spinoza dans la genèse des Lumières radicales, et en arrêtant son
+étude aux environs de 1750, J. Israel fut conduit à laisser dans l’ombre la critique de la religion menée par Hume et son impact éventuel dans la deuxième
+moitié du XVIIIe siècle et au-delà. Pourtant, les commentateurs de l’œuvre de
+Hume ont mis en évidence le rapport, d’inﬂuence ou de simple afﬁnité, de
+Hume aux deux principaux artisans des Lumières radicales selon J. Israel, à
+savoir Spinoza et Bayle, en particulier sur la question de la religion4. Si l’on
+recoupe ces derniers travaux avec ceux de J. Israel, on ne peut éviter de se demander quelle fut la position de Hume dans le débat opposant à cette époque
+penseurs chrétiens et libres penseurs en matière de religion.
+Selon J. Israel, à partir de 1730 environ, la progression des idées radicales et
+l’effondrement simultané du cartésianisme et du malebranchisme auraient suscité par réaction le ralliement d’une grande partie des penseurs chrétiens d’Europe
+aux idées de Newton et de Locke, eux-mêmes chrétiens et théistes, cette stratégie
+répondant au besoin de donner une caution scientiﬁque et philosophique
+nouvelle à la religion. Le newtonisme et la philosophie d’inspiration lockienne
+auraient alors constitué le courant dominant des «Lumières modérées», certes
+concurrencé par les partisans de Leibniz et de Wolff dans la lutte contre les
+Lumières radicales5. Si l’on admet cette analyse, on ne peut qu’être frappé de la
+pertinence de la position adoptée par Hume dans ce débat, au moins dans le
+contexte britannique de l’époque. Car c’est principalement par la place qu’elle
+accordait à l’expérience et à l’observation que la tradition newtonienne et lockienne se distinguait de la tradition cartésienne. Or, comme chacun le sait, Hume
+considérait la méthode expérimentale comme la seule méthode philosophique
+valable6. C’est donc tout naturellement sur le terrain privilégié des Lumières
+modérées anglaises, celui de la philosophie newtonienne et lockienne entendue
+comme une méthode procédant à partir de l’expérience et de l’observation, que
+Hume s’est placé pour s’opposer à son tour à l’alliance de la philosophie et de
+la religion. Ce faisant, il donnait à la critique de la religion un fondement
+expérimental sans précédent au sein du courant des Lumières radicales.
+Mais si la critique de la religion opérée par Hume semble incontournable dans
+l’histoire de ce courant de pensée, c’est pour une deuxième raison, peut-être plus
+profonde que la première. Car ce que montre en dernière analyse la critique
+sceptique des Dialogues sur la religion naturelle, c’est que le panthéisme, le
+matérialisme et même l’athéisme, dans lesquels on a pu voir diverses formes de
+la pensée radicale, étaient encore des positions dogmatiques. En proposant ces
+conceptions du monde comme autant d’alternatives à celles de la religion
+
+Hume et les Lumières 383
+
+chrétienne ou du théisme, les penseurs radicaux restaient ﬁnalement prisonniers
+de la dialectique théologique dans laquelle ils étaient engagés avec leurs adversaires, et cela jusque dans leur défense de l’idéal républicain. La position de
+Hume conduit alors à se demander si la véritable radicalité des Lumières ne fut
+pas dans la critique et le rejet sceptiques de la métaphysique et de la théologie,
+ainsi que de toute politique fondée sur elles, davantage que dans une opposition
+frontale à la religion chrétienne et à la monarchie.
+Avant d’en venir là, voyons comment Hume effectua sa critique des fondements de la religion sur le terrain des Lumières modérées, celui de la philosophie expérimentale. Dans sa critique des témoignages en faveur des miracles,
+comme dans sa critique de la religion naturelle, Hume recourt à une même
+stratégie d’ensemble, au-delà du détail des arguments. Elle consiste à s’appuyer
+sur la règle lockienne du jugement dans les questions relevant d’une évidence
+morale pour la retourner contre les positions de Locke et de Butler. Dans
+l’Essai sur l’entendement humain, Locke distinguait la «connaissance (knowledge)», comme perception certaine de la convenance ou de la disconvenance
+entre deux idées, et le «jugement (judgment)», comme simple présomption
+d’une telle convenance ou disconvenance, dont il faut se contenter lorsque la
+connaissance fait défaut7. Le jugement, qui admet par conséquent un degré
+variable d’incertitude, du doute le plus grand jusqu’à une assurance presque
+équivalente à la certitude (Es IV 16 §§6–9, p. 551–553), porte spéciﬁquement
+sur les choses relevant de la probabilité8. Dans toutes les questions relevant du
+simple jugement, nous devons donc proportionner exactement le degré de
+notre assentiment au degré de probabilité de la chose en question (ibid. §1,
+p. 548–549). Locke distinguait enﬁn deux domaines relevant de la probabilité :
+d’une part les questions de fait, objets d’une observation directe, ou bien du
+témoignage humain; d’autre part les questions spéculatives, qui certes dépassent toute expérience, toute observation et tout témoignage possibles, mais
+peuvent être traitées au moyen de l’analogie à partir de l’expérience et de
+l’observation (ibid. §5, p. 551 et §12, p. 555–556). Or c’est à ces deux domaines
+qu’appartiennent respectivement les miracles, en tant que faits rapportés
+par des témoins, et la religion naturelle, en tant que question spéculative, c’està-dire les deux principales cibles de la critique de la religion chez Hume.
+L’argumentation de Hume dans la section de l’Enquête consacrée aux miracles est bien connue. Ce qu’il importe de voir ici, c’est que Hume inscrit son
+raisonnement dans le cadre d’une théorie lockienne de la probabilité, à peine
+modiﬁée, pour établir à propos des miracles une conclusion diamétralement
+opposée à celle de Locke.
+En reprenant les principes lockiens de la probabilité, Hume introduit cependant une distinction entre la probabilité entendue en un sens strict, à savoir
+lorsqu’elle implique une contrariété minimale entre les événements passés et
+donc aussi une incertitude minimale, et la preuve qui suppose une parfaite
+uniformité dans le cours des événements et donc aussi une entière certitude. Et
+alors que Locke limitait la notion de preuve à proprement parler au domaine
+
+384
+
+Dialogue
+
+de la connaissance démonstrative (ibid. IV 15 §1, p. 545), Hume l’étend au
+domaine des questions de fait9. La modiﬁcation est en ce cas décisive,
+puisqu’elle va permettre à Hume d’établir non pas simplement qu’il est
+improbable ou peu probable que quelque miracle ait jamais eu lieu, mais de
+prétendre fournir la preuve qu’aucun miracle n’a jamais eu lieu.
+Mais auparavant, il faut justiﬁer la démarche consistant à traiter les témoignages humains comme des questions de fait, susceptibles en tant que
+telles d’être résolues sur la base de l’expérience et de l’observation. Locke
+avait ouvert la voie en ce sens, puisqu’il assignait pour fondements à la probabilité, outre «la conformité d’une chose avec ce que nous connaissons, ou avec
+notre expérience», «le témoignage des autres appuyé sur ce qu’ils connaissent,
+ou qu’ils ont expérimenté» (ibid. p. 547). Hume uniﬁe alors cette conception
+en faisant du témoignage humain, ou plus exactement de la véracité des
+témoins, une espèce particulière d’expérience, susceptible à ce titre de
+constituer une preuve ou une simple probabilité :
+notre conﬁance en un argument quelconque de ce genre [scil. tiré du témoignage des
+hommes] ne dérive d’aucun autre principe que de l’observation que nous avons faite
+de la véracité du témoignage humain et de l’habituelle conformité des faits avec
+les rapports de témoins. […] Et comme la garantie qui provient d’attestations et de
+témoignages humains se fonde sur l’expérience passée, de même elle varie avec
+l’expérience, et elle est regardée, soit comme une preuve, soit comme une probabilité, suivant que la conjonction entre telle espèce particulière de récit et telle espèce
+d’objet s’est montrée constante ou variable (En 10, p. 207–208).
+
+Locke afﬁrmait déjà que le degré de la probabilité et le degré de l’assentiment
+réglé sur elle doivent varier en fonction des variations dont les fondements de
+la probabilité sont eux-mêmes susceptibles, notre expérience pouvant être plus
+ou moins uniforme et les témoins plus ou moins ﬁables. Mais à cette occasion,
+il soulevait le problème, crucial pour la question des miracles, non seulement
+d’une possible contradiction interne affectant séparément chacun des deux
+fondements de la probabilité, mais aussi d’une possible contradiction entre ces
+deux fondements, autrement dit entre le témoignage des autres et notre propre
+expérience. En général, disait Locke, nous devons alors peser la force relative
+des raisons qui s’opposent aﬁn de donner notre assentiment aux raisons les
+plus fortes. Mais, arguant de l’intrication extrême des paramètres à prendre en
+compte dans le cas particulier d’une contradiction entre notre expérience et le
+témoignage des autres, il renonçait à énoncer la ou les règle(s) à suivre dans ce
+cas particulier (Es IV 16 §§6–9, p. 551–553). Plus loin, Locke afﬁrmait néanmoins que les témoignages en faveur des événements surnaturels doivent recevoir notre assentiment, pourvu que ces événements soient «conformes aux ﬁns
+que se propose celui qui a le pouvoir de changer le cours de la nature», ce qui
+est précisément le cas des miracles, en tant qu’ils permettent d’attester les
+vérités de la religion (ibid. §13, p. 556–557)10. Mais si l’on met de côté le
+
+Hume et les Lumières 385
+
+dessein de Dieu et la révélation, et que l’on se contente d’appliquer les règles
+de la probabilité au cas des miracles, il faudra mettre en balance le cours ordinaire des choses, c’est-à-dire notre expérience uniforme, avec la crédibilité des
+témoins, supposée maximale. C’est ce que fait Hume :
+Mais, aﬁn d’accroître la probabilité contraire à l’attestation des témoins, supposons
+que le fait qu’ils afﬁrment, au lieu de n’être que merveilleux, soit réellement miraculeux; et supposons aussi que le témoignage, considéré à part et en lui-même, atteigne
+à une preuve complète; en ce cas, il y a preuve contre preuve, desquelles la plus forte
+doit prévaloir, mais toutefois avec une diminution de sa force proportionnée à celle
+de la preuve antagoniste. Un miracle est une violation des lois de la nature; et comme
+une ferme et inaltérable expérience a établi ces lois, la preuve contraire à un miracle
+est, de par la nature même du fait, aussi complète qu’aucun argument d’expérience
+qu’on puisse imaginer. […] La conséquence manifeste (et c’est une maxime générale
+digne de notre attention) est que nul témoignage ne sufﬁt à établir un miracle, à
+moins que le témoignage ne soit de telle sorte que la fausseté en fût plus miraculeuse
+que le fait qu’il s’efforce d’établir; que, même en ce cas, il y a destruction réciproque
+des arguments, et que le plus fort ne nous donne qu’une assurance conforme au degré
+de force qui reste après déduction du plus faible (En 10, p. 211–213).
+
+Alors que Locke faisait de la contrariété d’un événement avec notre expérience
+uniforme un élément décisif de la preuve de son caractère miraculeux, Hume
+fait de cette même contrariété alléguée une preuve déjà sufﬁsante qu’un tel
+événement n’a pu avoir lieu, et cela sur la base des principes de la théorie
+lockienne de la probabilité.
+Et encore était-ce mettre les choses au mieux que de supposer le témoignage en
+faveur des miracles comme affecté d’une crédibilité maximale. Locke prescrivait
+en effet, dans la réception du témoignage des autres, de prendre en compte non
+seulement le nombre des témoins, mais également leur «intégrité» et leur «habileté» (Es IV 15 §4, p. 547). Or, dans l’expérience que nous avons de la nature humaine, nous dit Hume, rien n’autorise à supposer qu’un témoin quelconque puisse
+être au-dessus de tout soupçon. Si l’expérience sur laquelle repose notre croyance
+aux lois de la nature n’est contrebalancée par aucune expérience contraire de violation de ces lois, en revanche, l’expérience sur laquelle repose notre croyance
+à l’autorité des témoins les plus crédibles est toujours contrebalancée par
+l’expérience que nous avons de la supercherie et de la crédulité des hommes : «lors
+donc que de tels récits se répandent, la solution du phénomène tombe sous le sens;
+et nous jugeons en conformité avec l’expérience et l’observation régulières, quand
+nous en rendons compte par les principes connus et naturels de la tromperie»
+(En, §10, p. 231). La garantie de la véracité du témoignage humain sera donc
+toujours plus faible que la garantie offerte par les lois de la nature, et «nous
+pouvons donc établir comme une maxime qu’aucun témoignage humain ne
+peut avoir assez de force pour prouver un miracle et pour en faire le fondement
+légitime d’aucun de ces systèmes de religion» (ibid., p. 232–233).
+
+386
+
+Dialogue
+
+Cependant, cette réfutation de la validité des témoignages en faveur des miracles ne pouvait sufﬁre, à elle seule, à ruiner la prétention de certains penseurs
+chrétiens à faire de l’expérience et de l’observation l’un des fondements de la
+religion. Car les miracles, comme on vient de le voir avec Locke, sont toujours
+à considérer dans l’économie générale de la Providence, autrement dit comme
+remplissant une fonction à l’intérieur de la religion chrétienne considérée
+comme système, ce système incluant la religion naturelle. Certes, Hume estimait que sa réfutation des miracles s’appliquant également aux prophéties, elle
+devait sufﬁre à réfuter la possibilité de toute révélation (ibid., p. 237). Mais si
+la vérité de la religion chrétienne et la réalité des miracles doivent être appréhendées dans leur rapport à la religion naturelle, et si la vérité de cette
+dernière dépend de l’expérience et de l’observation, il incombe à toute critique
+de la religion chrétienne d’intégrer une critique de la religion naturelle sur cette
+même base expérimentale. La place occupée dans les Dialogues sur la religion
+naturelle par la discussion du théisme expérimental, proportionnellement bien
+supérieure à celle réservée aux arguments a priori, ne s’explique pas autrement. Et c’est parce qu’elle devait constituer alors, aux yeux de Hume et en
+Grande-Bretagne du moins, la tentative la plus achevée de conciliation entre la
+religion chrétienne et la religion naturelle sur la base de l’expérience et de
+l’observation que L’analogie de Butler fut la principale cible de la critique
+de la théologie naturelle menée dans l’Enquête sur l’entendement humain,
+et l’une des cibles des Dialogues.
+Dans L’analogie de la religion, l’intention générale de Butler était de répondre aux objections des incrédules, et en particulier des déistes, contre la religion chrétienne, en montrant que celle-ci est analogue à la fois à la religion
+naturelle et au cours de la nature11. Si la religion chrétienne est absurde, comme
+le disent les incrédules, alors non seulement la religion naturelle doit l’être
+aussi — en vertu de l’analogie qu’elle entretient avec la première, ce que les
+déistes ne peuvent admettre (An II 1, p. 259–260; II 8, p. 464–465); mais le
+cours de la nature lui-même doit être absurde — en vertu de l’analogie qu’il
+entretient avec la religion chrétienne, ce que personne ne peut admettre (ibid.,
+«introduction», p.17–19; II 8, p. 464–465). Mais inversement, si l’on doit reconnaître qu’il y a de l’ordre dans la nature, il est alors permis d’inférer par
+analogie l’existence d’un gouvernement de Dieu, tel que l’enseigne la religion
+naturelle, lequel se trouve être analogue au gouvernement de Dieu tel que
+l’enseigne la révélation chrétienne. La clé de voûte du système général de la
+religion, qu’on le prenne dans un sens ou dans l’autre, est donc bien le cours de
+la nature, c’est-à-dire les phénomènes, de sorte que l’on peut «considérer la
+religion comme une simple question de fait» (ibid. II 8, p. 478–479). Après avoir
+rappelé la distinction de Locke entre démonstration et probabilité, Butler afﬁrmait que si le système général de la religion n’est pas susceptible d’une preuve
+démonstrative, il présente néanmoins un degré de probabilité sufﬁsant pour la
+conduite de la vie humaine (ibid., «introduction», p. 3–11). Nous en serons
+convaincus dès lors que, renonçant à la stérile méthode a priori des cartésiens,
+
+Hume et les Lumières 387
+
+consistant à procéder à partir d’hypothèses sur les attributs de Dieu pour en
+déduire ce qu’aurait pu ou dû être le monde, nous «tournons plutôt nos pensées
+vers ce que nous enseigne l’expérience […], en suivant la même méthode expérimentale qui nous découvre une inﬁnité de lois d’après lesquelles la nature régit
+les corps inanimés» (ibid., p. 10–16). La démarche de Butler obéissait donc aux
+principes de l’épistémologie lockienne de la probabilité : détermination de la
+probabilité (du gouvernement de Dieu) à partir de l’expérience et de l’observation
+(du cours de la nature) et résolution d’une question spéculative (le gouvernement
+de Dieu en tant qu’il s’étend à notre existence future) par le recours à l’analogie.
+Or c’est sur la base de ces mêmes principes de raisonnement que Hume,
+dans la première Enquête et dans les Dialogues, s’attache à réfuter les conclusions qu’en avait tirées Butler. Il est déjà signiﬁcatif à cet égard que Hume,
+dans ces deux écrits, ait choisi de présenter sa critique du théisme expérimental
+sous la forme du dialogue. Celle-ci permet, entre autres choses, de mettre en
+place de manière commode le procédé dialectique consistant à donner la parole
+à l’adversaire, à lui concéder ses principes de raisonnement, pour, ﬁnalement,
+mieux réfuter ses conclusions. C’est ainsi que procèdent, dans l’Enquête, le
+personnage d’Épicure à l’égard de ses accusateurs athéniens, et, dans les
+Dialogues, le personnage de Philon à l’égard de Cléanthe12.
+Dans la section XI de l’Enquête, le personnage d’Épicure se défend des accusations portées contre lui, non pas en faisant valoir sa propre philosophie
+matérialiste et atomiste contre le théisme de ses adversaires, mais en se plaçant
+à l’intérieur même du cadre argumentatif du théisme expérimental :
+[Les philosophes religieux] dépeignent sous les plus magniﬁques couleurs l’ordre, la
+beauté et le sage arrangement de l’univers, et demandent alors s’il se pourrait qu’un
+si glorieux déploiement d’intelligence procédât d’un concours fortuit d’atomes, ou
+que le hasard eût su produire ce que le plus grand génie ne saurait jamais sufﬁsamment admirer. Je n’examinerai pas la justesse de cet argument. J’admettrai qu’il est
+aussi solide que mes adversaires et accusateurs le peuvent désirer. Il sufﬁt que je
+puisse prouver, d’après ce raisonnement même, que la question est entièrement
+spéculative, et que, lorsque, dans mes recherches philosophiques, je nie l’existence
+d’une Providence et d’un état futur, loin de saper par là les fondements de la société,
+j’avance des principes qu’ils doivent eux-mêmes, d’après leurs propres arguments,
+s’ils raisonnent de façon conséquente, reconnaître pour solides et satisfaisants» (En
+11, p. 243–244; nous soulignons).
+
+À première vue, il semble qu’Épicure ait l’intention de laisser intacte l’inférence
+de l’existence de Dieu et de ses attributs à partir de l’ordre du monde pour se
+contenter d’en réfuter les conséquences pratiques qu’en tiraient ses adversaires13. Mais il est évidemment impossible de réfuter ces conséquences sans
+corriger l’inférence sur laquelle elles sont censées reposer, et c’est pourquoi
+Épicure, en réalité, «[examinera] la justesse de cet argument», contestant ﬁnalement «qu’il [soit] aussi solide que [ses] adversaires et accusateurs le peuvent
+
+388
+
+Dialogue
+
+désirer». Par conséquent, à défaut de pouvoir porter sur l’argument lui-même,
+les concessions d’Épicure porteront sur la manière de l’établir, autrement dit
+sur la méthode du théisme expérimental :
+Vous donc qui êtes mes accusateurs, vous avez admis que le principal ou le seul argument en faveur de l’existence divine (laquelle je ne mis jamais en question) se tire
+de l’ordre de la nature […]. Vous convenez que c’est là un argument tiré des effets
+aux causes. De l’ordre de l’ouvrage, vous inférez qu’il faut qu’il y ait eu projet et
+prévision chez l’ouvrier. Si vous ne pouvez venir à bout de ce point, vous convenez
+que votre conclusion échoue, et vous ne prétendez point établir la conclusion sur une
+plus grande latitude que les phénomènes de la nature ne l’autoriseront. Telles sont
+vos concessions. Je vous prie de remarquer les conséquences (ibid. 11, p. 244–245;
+nous soulignons).
+
+Mais pour tirer ces conséquences, encore faut-il rappeler la règle lockienne qui
+commande de proportionner l’assentiment à l’évidence, principe qu’Épicure,
+en porte-parole de Hume, traduit en une règle pour juger des causes et des effets, l’assentiment donné à l’existence et aux attributs de la cause devant être
+proportionné à l’évidence contenue dans l’effet : «quand nous inférons d’un
+effet une cause particulière quelconque, nous devons proportionner l’une à
+l’autre, et il ne saurait jamais nous être permis d’attribuer à la cause d’autres
+qualités que celles qui sufﬁsent exactement à produire l’effet» (ibid., p. 245).
+Ces principes étant admis, Épicure, c’est-à-dire Hume, peut mettre en évidence
+le double paralogisme dans lequel tombent les théistes, faute d’appliquer avec
+exactitude et précision leurs propres principes de raisonnement.
+Ce double paralogisme consiste à inférer une cause disproportionnée (une
+divinité parfaitement sage et absolument bonne) par rapport à l’évidence contenue dans l’effet (le monde, avec le mal et le désordre qu’il contient), puis à
+réajuster l’effet aux proportions de la cause, en améliorant le monde pour
+le rendre adéquat à la sagesse supposée de son créateur (ibid., p. 245–260).
+Autrement dit, non seulement les théistes donnent aux attributs de la divinité
+un assentiment disproportionné par rapport à l’évidence empirique; mais ils
+vont ensuite jusqu’à réajuster l’évidence empirique à l’assentiment qu’ils
+avaient donné a priori aux attributs de la divinité, procédant ainsi à rebours de la
+règle lockienne qui commande de proportionner l’assentiment à l’évidence.
+Leur préjugé en faveur de la religion chrétienne empêchait donc les théistes de
+faire une application rigoureuse de la méthode expérimentale de raisonnement
+aux questions de la théologie naturelle14. De même que le christianisme de
+Locke l’empêchait d’étendre son épistémologie de la probabilité au cas des
+miracles, de même Butler ne pouvait-il voir d’analogie entre la religion
+naturelle (le gouvernement moral de Dieu dans une vie future) et le cours de la
+nature que parce qu’il les croyait tous deux analogues à la religion révélée15.
+Ce renversement des principes des théistes contre leurs conclusions se retrouve dans les Dialogues sur la religion naturelle, dans la relation opposant
+
+Hume et les Lumières 389
+
+Philon à Cléanthe. L’opposition entre ces deux personnages n’a de sens que sur
+la base d’un accord portant sur les principes de la discussion, principes qui
+seront ceux du théisme expérimental. Il ne sufﬁt pas, en effet, de rejeter les
+conclusions de la théologie naturelle sur un mode pyrrhonien, en montrant la
+faiblesse générale de la raison et des sens. Le pyrrhonisme est aussi bien une
+position intenable, qui risque de conduire au ﬁdéisme, comme incitent à le
+penser certains propos de Déméa16. Dès lors que le théisme prétend fonder ses
+conclusions sur l’expérience et l’observation, il mérite que l’on s’y arrête pour
+examiner ses arguments dans tout leur détail et toute leur particularité. C’est
+ainsi qu’au début des Dialogues, Cléanthe le théiste lance un déﬁ à Philon le
+sceptique et pose les règles de la discussion à suivre. Contrairement aux sceptiques indolents qui, rejetant toute philosophie spéculative, donnent pourtant
+leur assentiment aux dogmes religieux les plus hardis, les «sceptiques rafﬁnés», dit Cléanthe, proportionnent leur assentiment à l’évidence :
+Ces sceptiques sont donc obligés, en toute question, de considérer séparément
+chaque évidence particulière et de proportionner leur assentiment au degré précis
+d’évidence qui se présente. Telle est leur pratique dans toutes les sciences, naturelle,
+mathématique, morale et politique. Et pourquoi ne serait-elle pas la même, je vous
+prie, dans les sciences théologiques et religieuses? Pourquoi les conclusions de cette
+nature doivent-elles seules être rejetées, sur la présomption générale de l’insufﬁsance
+de la raison humaine, sans discussion particulière de l’évidence qui s’y attache
+(Dia, 1, p. 84–85)?
+
+Cette évidence, Cléanthe et Philon s’accordent à reconnaître contre Déméa
+qu’elle est uniquement celle des phénomènes, et qu’elle est le fondement d’une
+inférence analogique (ibid., 2, p. 94–96). Proportionnons alors notre assentiment
+à l’évidence, pour en inférer les attributs naturels et moraux de la divinité, avec
+le degré de probabilité qui s’y attache. Ce qui en résulte, nous dit le sceptique,
+c’est «une seule proposition, simple, quoiqu’assez ambiguë, ou du moins indéﬁnie, que la cause ou les causes de l’ordre dans l’univers présentent probablement quelque lointaine analogie avec l’intelligence humaine» (ibid., 12, p. 226).
+Admettre dans la cause quelque attribut supplémentaire que ce soit, ce serait
+enfreindre la règle qui veut que l’on proportionne la cause à l’effet, l’assentiment
+à l’évidence. Or cette proposition est si indéterminée qu’«elle ne fournit aucune
+inférence qui affecte la vie humaine ou qui puisse être la source d’une action ou
+d’une absence d’action» (ibid.), contrairement à ce que voulaient les théistes.
+Cependant, il est remarquable que le scepticisme des Dialogues n’atteigne
+pas seulement les positions théistes, autrement dit celles des «Lumières
+modérées». Car la critique du sceptique est à double détente. Elle atteint non
+seulement ses adversaires directs, les théistes, mais aussi les adversaires de
+ses adversaires, les libres penseurs. Entre la sixième et la huitième partie des
+Dialogues, Philon s’était plu à formuler plusieurs hypothèses cosmologiques
+concurrentes de celles du théisme, et que l’on trouvait déjà chez les libres
+
+390
+
+Dialogue
+
+penseurs : hypothèse panthéiste d’une âme du monde, hypothèse du mouvement inhérent à la matière, hypothèse épicurienne de la reconﬁguration inﬁnie
+d’une quantité ﬁnie d’atomes, hypothèse stratonicienne d’une force aveugle
+organisant la matière (ibid., 6, p. 136–138, p. 141–142; 8, p. 155–157; 12,
+p. 157–160). Cependant, la facilité avec laquelle Philon multiplie ces hypothèses
+jette le soupçon sur chacune d’entre elles. Cléanthe l’a bien compris, qui reproche à Philon de n’avancer que des fantaisies, qui «peuvent nous déconcerter,
+mais jamais nous convaincre» (ibid., 7, p. 153). À quoi Philon répond qu’en
+effet, les systèmes cosmologiques qu’il propose ne sont que de faibles conjectures,
+mais que cela tient à la nature même du sujet, la théologie naturelle. Dépassant
+les étroites limites de l’entendement humain, elle laisse place à l’invention la
+plus fertile (ibid., 8, p. 155). C’est pourquoi toutes les hypothèses avancées par
+Philon sont à peu près équivalentes, tous les systèmes théologiques étant faciles
+à attaquer, mais difﬁciles à défendre. Leur opposition mutuelle fait alors le
+triomphe du sceptique, qui peut suspendre son jugement et se cantonner dans une
+position exclusivement offensive, sans avoir à défendre aucun système (ibid.,
+p. 162–163)17. Par conséquent, il serait bien dogmatique de vouloir être panthéiste, déiste, matérialiste ou même athée, pour n’être ni chrétien ni théiste. Car en
+déﬁnitive, la dispute est toute verbale. C’est la conclusion de Philon :
+Où donc, crié-je aux deux adversaires, est le sujet de votre dispute? Le théiste reconnaît que l’intelligence originelle est très différente de la raison humaine; l’athée
+reconnaît que le principe d’ordre originel entretient quelque lointaine analogie avec
+cette même raison. Allez-vous vous quereller, Messieurs, sur les degrés et entrer
+dans une controverse qui ne souffre aucun sens précis, et partant aucune décision
+(Dia, 12, p. 214)?
+
+La distinction entre le théiste et l’athée, et a fortiori entre le théiste et le panthéiste ou le déiste, est donc elle-même dogmatique.
+Autrement dit les libres penseurs, dans leur volonté d’opposer à la religion
+chrétienne des visions du monde alternatives, restaient prisonniers de la démarche
+théologique, dont seul le scepticisme peut libérer. Le dogmatisme n’était donc pas
+seulement du côté des penseurs chrétiens, orthodoxes ou «modérés», mais aussi
+du côté des libres penseurs, ou des «radicaux». Des penseurs chrétiens ou
+«modérés» tels que Newton, Locke, Berkeley, Hutcheson et Butler, en raison de la
+place qu’ils accordaient à l’expérience et à l’observation, devaient même paraître,
+aux yeux de Hume, moins dogmatiques que les «radicaux», puisque Hume interprétait volontiers la pensée de certains «modérés» en un sens sceptique18.
+Mais il y a plus. Car aux yeux des historiens des Lumières radicales,
+l’opposition entre radicaux et modérés en matière de théologie n’avait de
+sens que du point de vue des enjeux politiques qu’elle recouvrait. C’est
+M. Jacob qui orienta les recherches dans cette direction. D’après elle, si les
+défenseurs de la monarchie trouvaient dans le système théiste de la religion chrétienne une représentation du monde à même de symboliser une
+
+Hume et les Lumières 391
+
+organisation fortement hiérarchisée de la société, le républicanisme des
+radicaux s’accommodait mieux d’un panthéisme ou d’un matérialisme, reflétant une organisation sociale plus égalitaire ou démocratique19. Or, en
+montrant que l’unique texte de la théologie naturelle se réduit à une proposition si indéterminée qu’elle ne peut avoir aucune conséquence pratique
+pour la société, les Dialogues renvoient dos à dos les deux adversaires,
+partisans de la monarchie et républicains, dans leur commune volonté de
+donner une assise théologique à la vie politique. L’autorité politique ne
+reposera jamais sur des opinions spéculatives, trop susceptibles de varier
+selon la mode du temps (En, §1, p. 45–46), mais sur l’opinion stable des
+hommes en général, par laquelle ils reconnaissent à la fois l’intérêt qu’ils
+ont à vivre sous l’autorité d’un gouvernement, et en particulier du gouvernement en place, et le droit qu’ont les gouvernants de les administrer20.
+De tout ceci, on conclura peut-être avec J. Israel que Hume fut tout simplement radical en matière de religion, mais modéré en matière de politique, parce que conservateur, et que c’est précisément ce conservatisme
+qui empêcha Hume de faire partie des Lumières radicales21. Mais J. Israel
+interprète la situation des penseurs «qui semblent avoir été radicaux à certains égards et conservateurs ou modérés à d’autres» comme relevant du
+«paradoxe intellectuel» ou du «manque de cohérence interne»22. Car il
+considère que seul un monisme d’inspiration spinoziste était capable
+d’intégrer dans un système cohérent toutes les idées et toutes les valeurs
+qu’il met sous le concept de modernité23. Mais, comme on vient de le voir,
+il y avait une profonde cohérence entre le scepticisme de Hume en matière
+de théologie d’une part et son conservatisme politique d’autre part, ce que
+J. Israel ne manque pas de reconnaître lui-même24. Ensuite, le conservatisme politique n’était pas incompatible chez Hume avec la reconnaissance
+de la république comme régime politique viable25. Enﬁn, s’il est vrai que le
+monisme «spinoziste», avec tous ses avatars (panthéisme, déisme non
+providentialiste, naturalisme, matérialisme, athéisme), n’était pas parvenu
+à rompre de manière déﬁnitive avec la démarche théologique, il faut en
+conclure que ce monisme ne pouvait sufﬁre à opérer la sécularisation complète de la pensée que J. Israel juge avoir été nécessaire à la naissance de la
+modernité. Par conséquent le cas de Hume, qui ne fut certainement pas un
+cas isolé, invite à ouvrir le compte rendu que J. Israel fait de la naissance
+de la modernité aux apports d’un scepticisme modéré comme celui de
+Hume, et à repenser la distinction entre Lumières radicales et Lumières
+modérées, si cette distinction doit être maintenue26. Il invite aussi à
+s’interroger davantage sur la notion de radicalité. Car celle-ci n’est peutêtre pas là où J. Israel a voulu la voir, s’il est vrai qu’il y avait dans la critique de la métaphysique une radicalité supérieure à celle des penseurs
+spinozistes, panthéistes ou matérialistes, qui en s’opposant de manière
+frontale et dogmatique à la religion chrétienne pérennisaient ﬁnalement la
+démarche et la dialectique théologiques27.
+
+392
+
+Dialogue
+
+Notes
+1 Margaret C. Jacob, The Radical Enlightenment : Pantheists, Freemasons and
+Republicans, Cornerstone Book, 1981.
+2 Voir en particulier le débat qui oppose M. Jacob et J. Israel dans C. Secrétan,
+T. Dagron, L. Bove, dir., Qu’est-ce que les Lumières «radicales»? Libertinage,
+athéisme et spinozisme dans le tournant philosophique de l’âge classique, Paris,
+Éditions Amsterdam, 2007, p. 29–59.
+3 J. I. Israel, Radical Enlightenment. Philosophy and the Making of Modernity 1650–
+1750, Oxford, Oxford University Press, 2001; trad. fr. par P. Hugues, C. Nordmann,
+J. Rosanvallon, Les Lumières radicales. La philosophie, Spinoza et la naissance de
+la modernité (1650–1750), Paris, Éditions Amsterdam, 2005 (dans ce qui suit, nous
+renvoyons à l’édition française).
+4 Voir N. Kemp Smith, The Philosophy of David Hume. A critical study of its origins
+and central doctrines, London, MacMillan, 1941, p. 325–338 et 506–516; J.-P. Pittion,
+«Hume’s Reading of Bayle : An Inquiry into the Source and Role of the Memoranda», Journal of the History of Philosophy, vol. 15, no 4, 1977, p. 373–386;
+R. H. Popkin, «Hume and Spinoza», Hume Studies, vol. 5, no 2, 1979, p. 65–93;
+P. Russell, «“Atheism” and the Title-Page of Hume’s Treatise», Hume Studies, vol. 14,
+no 2, 1988, p. 408–423; W. Klever, «More about Hume’s Debt to Spinoza», Hume
+Studies, vol. 19, no 1, 1993, p. 55–74; A. C. Baier, «David Hume, Spinozist», Hume
+Studies, vol. 19, no 2, 1993, p. 237–252; F. Brahami, Le travail du scepticisme.
+Montaigne, Bayle, Hume, Paris, Presses universitaires de France, 2001; G. Paganini, «Hume, Bayle e i “Dialogues concerning Natural Religion”», Giornale critico
+della ﬁlosoﬁa italiana, vol. 22, no 2, 2002, p. 234–263.
+5 J. Israel, lumières radicales, p. 501–625.
+6 Voir l’Introduction du Traité de la nature humaine.
+7 Essai sur l’entendement humain, trad. Coste, Paris, Vrin, 1972, livre IV, ch. 14,
+§§3–4, p. 544–545 (noté désormais Es, suivi de l’indication du livre, du chapitre,
+de l’alinéa et de la page de cette édition).
+8 Locke déﬁnit la probabilité en la distinguant de la démonstration : «Comme la démonstration consiste à montrer la convenance ou la disconvenance de deux idées, par
+l’intervention d’une ou de plusieurs preuves qui ont entre elles une liaison constante,
+immuable et visible, de même la probabilité n’est autre chose que l’apparence d’une
+telle convenance ou disconvenance par l’intervention de preuves dont la connexion
+n’est point constante et immuable, ou du moins n’est pas aperçue comme telle, mais
+est ou paraît être ainsi, le plus souvent, et sufﬁt pour porter l’esprit à juger que la
+proposition est vraie ou fausse plutôt que le contraire» (Es IV 15 §1, p. 545).
+9 Enquête sur l’entendement humain, trad. D. Deleule (révisée), Paris, Le Livre de
+Poche, 1999, section 10, p. 206 (notée désormais En, suivie de l’indication de la section puis de la page de cette édition). Voir aussi Traité de la nature humaine I 3 §11.
+10 Locke développera cette thèse en 1702 dans A Discourse of miracles (publié après sa
+mort, en 1706), en considérant qu’un fait est attesté comme miraculeux à trois conditions : que l’acte soit accompli en vue de témoigner d’une mission en provenance
+
+Hume et les Lumières 393
+
+11
+
+12
+
+13
+
+14
+15
+16
+
+17
+18
+
+19
+
+du Dieu unique; qu’il serve à révéler une vérité inaccessible par la seule lumière
+naturelle et néanmoins compatible avec les vérités de la religion naturelle et avec la
+morale fondée sur la raison; qu’il présente enﬁn un degré d’étrangeté supérieur à
+celui d’un autre fait allégué comme miraculeux en faveur d’une mission prétendument divine concurrente, la gloire de Dieu ne pouvant tolérer que sa puissance soit
+utilisée contre lui par un imposteur (The Works of John Locke, vol. 9 [1832], Scientia
+Verlag Aalen, 1963, p. 256–265).
+«Introduction», p. 19 et partie II, ch. 8, p. 465 de L’Analogie de la religion naturelle
+et révélée avec l’ordre et le cours de la nature [1736], Paris, Brunot-Labbe, 1821
+(noté désormais An, suivie de l’indication de la partie, du chapitre puis de la page
+de cette édition).
+Épicure et Philon, personnages sceptiques, sont les véritables et principaux porteparole de Hume dans ces deux écrits. Sur l’assimilation de Philon à Hume, voir la
+présentation de N. Kemp Smith aux Dialogues Concerning Natural Religion, New
+York, Nelson and Sons, 1947, p. 57–75. Dans l’Enquête, le personnage d’Épicure
+est incarné par un ami de Hume, cet ami étant lui-même le personnage ﬁctif d’un
+dialogue avec Hume, mais la cohérence des propos d’Épicure avec le reste du livre
+permet d’assimiler ce personnage à l’auteur de l’Enquête.
+Dans l’édition de 1748 de l’Enquête, le titre de cette section était «Des conséquences
+pratiques de la religion naturelle», remplacé en 1750 par «D’une providence particulière et d’un état futur».
+Avant d’incarner Épicure, l’ami de Hume dénonçait l’alliance de la superstition
+avec la philosophie, évidemment nuisible à cette dernière (ibid., p. 239–241).
+L’Avertissement de L’Analogie (p. 1–2) présente l’ouvrage comme une entreprise
+essentiellement apologétique.
+Dialogues sur la religion naturelle, trad. M. Malherbe, Paris, Vrin, 1997, p. 76
+et 91–92 (notés désormais Dia, suivis de l’indication de la partie, puis de la page de
+cette édition).
+Dans l’Enquête, Épicure ne défendait pas non plus son matérialisme, sinon de
+manière indirecte, en réfutant le théisme de ses accusateurs.
+C’est ainsi que «la philosophie newtonienne», qui consiste selon Hume à limiter nos
+spéculations à l’apparence sensible des objets, appelle «un scepticisme modeste»
+(Traité de la nature humaine I, trad. P. Baranger et P. Saltel [sous le titre
+L’entendement], Paris, Flammarion, 1995, Appendice, p. 388) et que, en dépit des
+intentions de Berkeley de ruiner les fondements du scepticisme, «la plupart des écrits
+de ce très ingénieux auteur constituent les meilleures leçons de scepticisme qui se
+puissent trouver chez les philosophes anciens et modernes, Bayle non excepté» (En
+§12, p. 272).
+Voir, The Radical Enlightenment, chap 7. J. Israel (Les Lumières radicales, p. 213–
+233 et 301–319) montre sensiblement la même chose en privilégiant le contexte
+hollandais et l’inﬂuence de Spinoza. Voir aussi l’analyse de J. Champion, «“The
+men of matter” : spirits, matter and the politics of priestcraft, 1701–1709» dans G.
+Paganini, M. Benítez et J. Dybikowski, dir., Scepticisme, Clandestinité et Libre
+Pensée, Paris, Honoré Champion, 2002, p. 115–150.
+
+394
+
+Dialogue
+
+20 Voir l’essai «Des premiers principes du gouvernement» dans Essais et Traités sur
+plusieurs sujets vol. 1, trad. M. Malherbe, Paris, Vrin, p. 93–96.
+21 «Unité et diversité des Lumières radicales : typologie de ses intellectuels et de ses
+racines culturelles», trad. C. Jaquet dans C. Secrétan, T. Dagron, L. Bove, dir.,
+Qu’est-ce que les Lumières «radicales»?, p. 52–53.
+22 ibid., p. 45.
+23 ibid., p. 43–56.
+24 ibid., p. 53.
+25 Voir l’essai «Idea of a perfect commonwealth», dans Essays, Moral, Political and
+Literary, Indianapolis, Liberty Fund, 1985, p. 512–529.
+26 Le scepticisme moderne ne semble pas avoir joué de rôle aux yeux de J. Israel dans
+la naissance de la modernité. Il est signiﬁcatif à cet égard qu’il se range à
+l’interprétation de Bayle qui en fait un rationaliste plutôt qu’un penseur sceptique
+(«Unité et diversité…», p. 44) et qu’il présente toujours Diderot sous l’angle de son
+déisme et de son matérialisme et jamais comme une ﬁgure sceptique (Les Lumières
+radicales, p. 784–788). Il ressort par ailleurs de l’article de G. Paganini intitulé
+«L’apport des courants sceptiques aux Lumières radicales» (dans C. Secrétan,
+T. Dagron, L. Bove, dir., Qu’est-ce que les Lumières «radicales»?, p. 87–103) que
+cet apport fut bien mince s’il est vrai que le scepticisme de manuscrits tels que les
+Doutes des pyrrhoniens et L’Art de ne rien croire n’était encore que la façade d’un
+spinozisme dogmatique.
+27 C’est ce que suggère W. Schröder («Critique de la métaphysique et fabrication de
+la modernité», trad. C. Jaquet dans C. Secrétan, T. Dagron, L. Bove, dir., Qu’est-ce
+que les Lumières «radicales»?, p. 277–287) à partir d’une analyse du Symbolum
+sapientiae, dans lequel il voit un rejet de la métaphysique comparable à celui que
+l’on trouvera plus tard chez Hume puis dans la critique kantienne.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">The Radical Enlightenment : Pantheists, Freemasons and Republicans</title><editor><persName><forename type="first">Margaret C.</forename><surname>Jacob</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1981</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Radical Enlightenment. Philosophy and the Making of Modernity 1650–1750</title><editor><persName><forename type="first">J. I.</forename><surname>Israel</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Les Lumières radicales. La philosophie, Spinoza et la naissance de la modernité (1650–1750)</title><editor><persName><forename type="first">P.</forename><surname>Hugues</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Nordmann</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Rosanvallon</surname></persName></editor><imprint><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">The Philosophy of David Hume. A critical study of its origins and central doctrines,</title><editor><persName><forename type="first">Voir N.</forename><surname>Kemp Smith</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">1941</date><biblScope unit="page" from="325">325</biblScope><biblScope unit="page" to="338">338</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Hume’s Reading of Bayle : An Inquiry into the Source and Role of the Memoranda</title><author><persName><forename type="first">J.-P.</forename><surname>Pittion</surname></persName></author></analytic><monogr><title level="j">Journal of the History of Philosophy</title><imprint><date type="published">1977</date><biblScope unit="volume">15</biblScope><biblScope unit="page" from="373">373</biblScope><biblScope unit="page" to="386">386</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Hume and Spinoza</title><author><persName><forename type="first">R. H.</forename><surname>Popkin</surname></persName></author></analytic><monogr><title level="j">Hume Studies</title><imprint><date type="published">1979</date><biblScope unit="volume">5</biblScope><biblScope unit="page" from="65">65</biblScope><biblScope unit="page" to="93">93</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">“Atheism” and the Title-Page of Hume’s Treatise</title><author><persName><forename type="first">P.</forename><surname>Russell</surname></persName></author></analytic><monogr><title level="j">Hume Studies</title><imprint><date type="published">1988</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="408">408</biblScope><biblScope unit="page" to="423">423</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">More about Hume’s Debt to Spinoza</title><author><persName><forename type="first">W.</forename><surname>Klever</surname></persName></author></analytic><monogr><title level="j">Hume Studies</title><imprint><date type="published">1993</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="55">55</biblScope><biblScope unit="page" to="74">74</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">David Hume, Spinozist</title><author><persName><forename type="first">A. C.</forename><surname>Baier</surname></persName></author></analytic><monogr><title level="j">Hume Studies</title><imprint><date type="published">1993</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="237">237</biblScope><biblScope unit="page" to="252">252</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Le travail du scepticisme. Montaigne, Bayle, Hume</title><editor><persName><forename type="first">F.</forename><surname>Brahami</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Hume, Bayle e i “Dialogues concerning Natural Religion”</title><author><persName><forename type="first">G.</forename><surname>Paganini</surname></persName></author></analytic><monogr><title level="j">Giornale critico della filosofia italiana</title><imprint><date type="published">2002</date><biblScope unit="volume">22</biblScope><biblScope unit="page" from="234">234</biblScope><biblScope unit="page" to="263">263</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

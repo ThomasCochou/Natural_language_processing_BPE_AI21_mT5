@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La descente infinie, l’induction transfinie et le tiers exclu</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La descente infinie, l’induction transfinie et le tiers exclu</title><author xml:id="author-0000"><persName><forename type="first">Yvon</forename><surname>Gauthier</surname></persName><affiliation>Université de Montréal</affiliation></author><idno type="istex">76E08CBA1618432CA8026DFAFCC9BCF3EBCA5659</idno><idno type="ark">ark:/67375/6GQ-XVRSK1LH-0</idno><idno type="DOI">10.1017/S0012217309090015</idno><idno type="PII">S0012217309090015</idno><idno type="article-id">09001</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="17">17</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Cet article propose que l’équivalence postulée entre la descente infinie et l’induction transfinie dans les fondements de l’arithmétique fait intervenir le principe du tiers exclu par la double négation sur l’ensemble infini des nombres naturels et ne saurait donc être admissible du point de vue de la logique et des mathématiques intuitionnistes. Si, par ailleurs, on adopte le point de vue de la logique classique, les principes de l’induction complète, de l’induction transfinie, du plus petit nombre et de la descente infinie sont tous équivalents; pourtant, la descente infinie en jeu dans l’arithmétique ensembliste de Dedekind-Peano ne correspond pas à la descente infinie de Fermat en théorie des nombres et en arithmétique classique de Gauss jusqu’à nos jours. C’est là le point d’ancrage d’une critique fondationnelle qui cherche à mieux définir les options philosophiques dans les fondements de la logique et des mathématiques.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: It is argued that the equivalence, which is usually postulated to hold between infinite descent and transfinite induction in the foundations of arithmetic uses the law of excluded middle through the use of a double negation on the infinite set of natural numbers and therefore cannot be admitted in intuitionistic logic and mathematics, and a fortiori in more radical constructivist foundational schemes. Moreover it is shown that the infinite descent used in Dedekind-Peano arithmetic does not correspond to the infinite descent of classical Fermatian arithmetic or number theory. However, from the point of view of classical logic, the principles of complete induction and transfinite induction, the least number principle and infinite descent are all equivalent. We find here a focal point for a foundational critique that aims for a a clarification of philosophical options in the foundations of logic and mathematics.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+La descente inﬁnie, l’induction
+transﬁnie et le tiers exclu
+
+YVON GAUTHIER
+
+Université de Montréal
+
+RÉSUMÉ : Cet article propose que l’équivalence postulée entre la descente inﬁnie et
+l’induction transﬁnie dans les fondements de l’arithmétique fait intervenir le principe
+du tiers exclu par la double négation sur l’ensemble inﬁni des nombres naturels et ne
+saurait donc être admissible du point de vue de la logique et des mathématiques intuitionnistes. Si, par ailleurs, on adopte le point de vue de la logique classique, les
+principes de l’induction complète, de l’induction transﬁnie, du plus petit nombre et de
+la descente inﬁnie sont tous équivalents; pourtant, la descente inﬁnie en jeu dans
+l’arithmétique ensembliste de Dedekind-Peano ne correspond pas à la descente inﬁnie de Fermat en théorie des nombres et en arithmétique classique de Gauss jusqu’à
+nos jours. C’est là le point d’ancrage d’une critique fondationnelle qui cherche à
+mieux déﬁnir les options philosophiques dans les fondements de la logique et des
+mathématiques.
+ABSTRACT: It is argued that the equivalence, which is usually postulated to hold between inﬁnite descent and transﬁnite induction in the foundations of arithmetic uses the
+law of excluded middle through the use of a double negation on the inﬁnite set of natural numbers and therefore cannot be admitted in intuitionistic logic and mathematics,
+Dialogue 48 (2009), 1-17. Printed in the U.S.A.
+© 2009 Canadian Philosophical Association / Association canadienne de philosophie
+doi:10.1017/S0012217309090015
+
+2
+
+Dialogue
+
+and a fortiori in more radical constructivist foundational schemes. Moreover it is shown
+that the inﬁnite descent used in Dedekind-Peano arithmetic does not correspond to the
+inﬁnite descent of classical Fermatian arithmetic or number theory. However, from the
+point of view of classical logic, the principles of complete induction and transﬁnite induction, the least number principle and inﬁnite descent are all equivalent. We ﬁnd here
+a focal point for a foundational critique that aims for a a clariﬁcation of philosophical
+options in the foundations of logic and mathematics.
+
+1. Introduction
+La plupart des mathématiciens et des logiciens qui n’ont pas de penchant constructiviste, de même que les philosophes, lorsqu’ils connaissent un peu de
+logique ou de mathématiques, ont tendance à identiﬁer l’induction complète et
+la descente inﬁnie. Parmi eux, C. S. Peirce est une exception, puisqu’il considérait la méthode de la descente inﬁnie de Fermat comme «le plus grand exploit que l’esprit humain ait jamais accompli». Peirce a lui-même employé la
+descente inﬁnie pour faire la distinction entre une collection dénombrable —
+«numerable» est le terme qu’il utilisait — et une collection non dénombrable
+(«innumerable»). Il a même écrit à Cantor pour lui faire savoir que l’inférence
+fermatienne, dans ses termes, n’était pas équivalente à ce qui était selon lui
+improprement désigné comme «vollständige Induktion» ou induction complète (Eisele, 1979). Peu ont eu la perspicacité de Peirce en ce domaine.
+Parmi les mathématiciens, ce sont surtout les praticiens de la théorie des
+nombres qui font la distinction, mais ils préfèrent en donner des exemples
+plutôt qu’une justiﬁcation fondationnelle; c’est le cas d’Yves Hellegouarch
+dans son ouvrage Invitation aux mathématiques de Fermat-Wiles (1997).
+André Weil, le grand théoricien des nombres, est plus explicite. Weil a eu
+recours à la descente inﬁnie dans ses travaux sur l’arithmétique des courbes
+algébriques où une courbe elliptique dans tout corps ﬁni n’a qu’un nombre ﬁni
+de points rationnels. Ici Weil s’est appuyé sur le résultat de Mordell qui a utilisé la méthode de la descente inﬁnie pour la conjecture de Poincaré sur les
+propriétés arithmétiques des courbes algébriques. Poincaré parlait d’un «nombre ﬁni d’hypothèses» pour caractériser la descente inﬁnie alors que Weil met
+l’accent sur la procédure de décomposition ou réduction dans les corps ﬁnis :
+La descente inﬁnie opère dans tout corps ﬁni de nombres (idéaux ou polynômes) où
+le produit de deux entiers ordinaires (ou algébriques) est égal à une puissance (ou
+degré) et leur plus grand diviseur commun s’obtient par descente ﬁnie; c’est le cas,
+en particulier, pour les corps quadratiques Q( N ) des formes quadratiques binaires
+de discriminant N (Weil, 1984, p. 335-336).
+
+C’est cette version de la descente inﬁnie — qu’on pourrait caractériser
+comme algorithme euclidien généralisé — qui m’apparaît la plus ﬁdèle à
+l’esprit fermatien et c’est à elle que je me référerai dans la suite.
+
+La descente inﬁnie 3
+
+Les logiciens quant à eux ont voulu identiﬁer la descente inﬁnie avec
+l’induction transﬁnie sur les ordinaux jusqu’à ε0, la limite de la deuxième
+classe de nombres de Cantor :
+
+w⎫
+⎪
+lim w
+
+⎬
+⎪
+⎭
+
+n
+
+= e0 pour n → w .
+
+Hilbert a aussi eu recours à une forme de la descente inﬁnie dans sa procédure de
+réduction pour l’élimination de son symbole epsilon comme fonction de choix
+transﬁnie, mais Gentzen n’a vu dans la descente inﬁnie qu’une forme déguisée
+de l’induction complète. Dans ses tentatives répétées pour justiﬁer l’induction
+transﬁnie, qu’il tenait pour équivalente à l’induction complète, Gentzen a thématisé la notion d’accessibilité («Erreichbarkeit») pour les ordinaux (Gentzen,
+1969). Sa preuve de consistance pour l’arithmétique de Peano repose essentiellement sur l’emploi du principe ou du postulat de l’induction transﬁnie ou règle
+ω, comme on dit maintenant, et s’il relègue le principe au rang de théorème dans
+la seconde version de sa preuve de consistance, c’est que le déguisement de la
+descente inﬁnie en induction complète se fait sous le couvert d’un calcul des
+séquents où le tiers exclu et l’élimination de la double négation apparaissent naturels dans le calcul LK. Malgré tous ses efforts pour conserver des principes
+constructifs, ou, comme il dit, des inférences constructivistes, Gentzen n’a pas
+réussi à légitimer l’induction sur les ordinaux transﬁnis. Takeuti (1975) par
+exemple, a tenté de formuler une version récessive ou descendante pour la notion
+d’accessibilité de Gentzen, mais j’ai montré (Gauthier 2002) que cette descente
+n’était pas uniforme ou qu’il n’y a pas de récessibilité uniforme pour les ordinaux transﬁnis, contrairement à la descente inﬁnie dans les corps ﬁnis.
+On ne peut mettre en doute le caractère de méthode constructive de la descente inﬁnie. Fermat disait que la descente est inﬁnie ou indéﬁnie. En réalité,
+la descente doit être ﬁnie, puisque d’un nombre naturel (ou ordinal) arbitraire
+n, il ne peut y avoir régression à l’inﬁni et la descente s’arrête nécessairement
+à 1 ou 0, si l’on prend 0 comme premier ordinal. Gentzen insistait sur
+l’interprétation potentialiste de la notion d’accessibilité et il voulait imaginer
+une traversée («Durchfahren») des ordinaux transﬁnis jusqu’à ε0, qui est toujours dénombrable, d’après la doctrine ensembliste. Mais Aristote, philosophe
+de l’inﬁni potentiel entre autres choses, contredit Gentzen sur ce point dans sa
+Physique en disant que l’inﬁni ne peut être traversé (adiexitêtos) : il n’y a pas
+de chemin hors du ﬁni — il faut le construire!
+Gentzen a tenté de «potentialiser» l’inﬁni actuel à l’aide d’un calcul ﬁnitaire
+dans la continuité du programme de Hilbert. Ce faisant, il oublie que
+l’arithmétique ensembliste de Peano n’est pas la théorie des nombres où il n’y
+a pas de ω comme limite de la suite illimitée (efﬁnie) des nombres naturels ou
+encore de limite de la suite illimitée des nombres premiers. L’arithmétique
+ensembliste de Cantor, Dedekind et Peano abrite trop d’ordinaux et il y a plusieurs échelons manquants dans l’échelle qui permet de descendre de ε0 à 0.
+
+4
+
+Dialogue
+
+L’univers actualiste de cardinalité 2‫ 0א‬pour l’arithmétique de Peano du second
+ordre est certainement mieux rempli que le modèle standard du premier ordre
+de l’arithmétique de Peano, mais il y a encore plus d’entités dans ce ciel
+platonicien que dans le monde constructible où le tiers exclu est exclu, la
+décidabilité est limitée et le choix est ﬁni.
+Dans l’exercice qui suit, je veux montrer que l’induction complète (IC),
+l’induction transﬁnie (IT), la descente inﬁnie (DI) et le principe du plus petit
+nombre (PPN) sont des principes équivalents du point de vue de la logique
+classique si l’on veut payer le plein prix du tiers exclu via la double négation
+pour un ensemble inﬁni dénombrable. Je montrerai aussi que la logique intuitionniste, si elle rejette l’équivalence de l’induction transﬁnie avec le principe
+du plus petit nombre, nonobstant le rejet intuitionniste du tiers exclu, ne parvient pas à justiﬁer l’équivalence qu’elle maintient toujours entre induction
+transﬁnie et descente inﬁnie.
+2. L’intuitionnisme et le tiers exclu
+La logique intuitionniste (BHK pour Brouwer, Heyting et Kolmogorov) rejette
+en principe le tiers exclu. Dès 1923, Brouwer publie son célèbre article sur «La
+signiﬁcation du principe du tiers exclu en mathématiques, spécialement dans la
+théorie des fonctions» (Brouwer, 1975). Ce que Brouwer appelle le principe de
+réciprocité de l’espèce (ensemble) complémentaire
+∀x (¬¬Ax → Ax)
+ou principe de décidabilité globale pour un prédicat P
+"x (Px Ú Ø Px)
+diffère essentiellement du principe de testabilité ou décidabilité «locale»
+ØA Ú ØØA
+pour un élément construit x0 = x ou suite de ces éléments. Ce principe ne peut
+s’appliquer indifféremment aux ensembles (espèces) ﬁnis et inﬁnis — les espèces au sens intuitionniste sont des collections de propriétés. Seule la double
+absurdité peut redonner un sens à la négation
+⊥⊥ a ↔ a
+dans le ﬁni, ce qui veut pas dire que ce qui est doublement absurde a du sens!
+Puisqu’une espèce (collection de propriétés) est ou bien ﬁnie ou bien inﬁnie,
+c’est dans les espèces inﬁnies — pour Brouwer, par exemple, l’espèce inﬁnie
+des points du continu — que le tiers exclu ne peut s’appliquer. C’est ainsi qu’il
+critique le théorème de Bolzano-Weierstrass qui afﬁrme que toute espèce inﬁnie
+bornée de points possède un point limite. Les contre-exemples que Brouwer
+produit alors n’ont pour effet que de montrer l’inapplicabilité du principe du
+tiers exclu en analyse (théorie des fonctions) intuitionniste. On peut trouver
+
+La descente inﬁnie 5
+
+aujourd’hui dans l’analyse inﬁnitésimale lisse un semblable rejet du tiers exclu,
+la logique interne de l’analyse inﬁnitésimale lisse étant intuitionniste du point
+de vue de la théorie des topoi. Il est intéressant de noter que l’analyse inﬁnitésimale lisse est un autre nom pour la géométrie différentielle synthétique dont on
+trouve les linéaments chez Fermat. Les petits inﬁnis (les inﬁnitésimaux) seraient plus réfractaires au tiers exclu que les grands inﬁnis (les alephs), à moins
+que l’on plonge les premiers dans une analyse non standard et les seconds dans
+une théorie des ensembles où l’hypothèse du continu vient se noyer.
+Kolmogorov en 1925 dans son texte «Sur le principe tertium non datur»
+(1925) abonde dans le même sens dans sa théorie des jugements ﬁnitaires. Ce
+qui est obtenu par la double négation est une pseudo-vérité (psevdoistinosti)
+dans la logique des jugements de la pseudo-mathématique et le principe du
+tiers exclu comme la dualité booléenne ¬¬ A ↔ A n’a de validité que dans le
+ﬁni.
+Si Kolmogorov avant Gödel a proposé une traduction — la traduction négative — des mathématiques classiques ou pseudo-mathématiques dans la
+mathématique intuitionniste de la double négation A → ¬¬A, cette traduction
+est à sens unique, à l’aller seulement, puisqu’elle n’est plus ﬁdèle au retour.
+Kolmogorov montre bien que les pseudo-mathématiques font un usage illégitime du principe du tiers exclu. Il montre en plus que l’induction transﬁnie
+repose en réalité sur une application illégitime du principe du tiers exclu ou de
+la double négation à des collections inﬁnies. Si Kolmogorov a anticipé la
+logique de Heyting et la traduction négative de Gödel, c’est en supposant que
+l’on peut traduire la logique classique en logique intuitionniste ou ce qu’il
+appelle les pseudo-mathématiques en mathématiques de la vérité, mais
+pas inversement. Autrement dit, la traduction négative n’est pas un billet
+aller-retour.
+Un autre mathématicien, E. Bishop (1967), l’a compris qui a baptisé de
+principe d’omniscience le tiers exclu sous sa forme
+¬∀xAx → ∃x¬Ax.
+D’autres mathématiciens, les semi-intuitionnistes français, l’ont aussi compris.
+Lebesgue, Borel et Poincaré — et avec eux les prédicativistes de Hermann
+Weyl à Edward Nelson — abhorrent les ensembles inﬁnis (non dénombrables).
+Pourtant, Brouwer a critiqué cette École de Paris en montrant que l’intégrale de
+Lebesgue repose sur la notion de mesurabilité où l’on a un nombre réel r avec
+r = 0, r &gt; 0 ou r &lt; 0, ce qui n’est pas possible si l’on n’emploie pas le principe du
+tiers exclu, c’est-à-dire si l’on ne suppose pas que le continu linéaire forme un
+ensemble ordonné de points.
+Enﬁn, le ﬁnitisme de Hilbert et Skolem jusqu’à Wittgenstein devrait en
+principe n’admettre le tiers exclu que dans les situations logiques et mathématiques où l’inﬁni (actuel) est effectivement exclu. Si Brouwer n’a pas toujours
+été clair sur le rejet de l’inﬁni dénombrable (ω pour les nombres naturels et ω 2
+
+6
+
+Dialogue
+
+pour les paires de nombres naturels) tout en trouvant absurde d’admettre des
+cardinalités non dénombrables &gt; ‫ ,0א‬la postérité logicienne de Brouwer, de
+Heyting à Troelstra et Kreisel, n’a pas toujours été claire elle non plus sur les
+principes. Alors que Brouwer insistait sur les suites inﬁniment processives (ou
+efﬁnies) ou les suites de choix, les successeurs de Brouwer semblent admettre
+sans réserve l’ensemble ‫ 0א‬des nombres naturels, l’induction complète avec le
+postulat d’induction de Peano et l’induction transﬁnie en plus de sa prétendue
+équivalence avec la descente inﬁnie. Voyons ce qu’il en est.
+3. Principes d’induction
+Voyons d’abord les formulations classiques de divers principes d’induction.
+1. Postulat d’induction de Peano au premier ordre
+∀xAx( A0 → (∀xAx → ASx)) → ∀xAx
+(PIP)
+— on remplace A par X (pour sous-ensembles) pour obtenir le postulat
+de Peano au second ordre.
+2. Axiome de l’inﬁni dans Z-F (correspond à PIP au deuxième ordre)
+∃x(∅ ∈ x ∧ ∀y ( y ∈ x → y ∪ { y} ∈ x))
+(AI)
+— c’est la formulation originale de Peano dans Opere scelte (Peano,
+1959).
+3. Induction complète
+∀x(∀y ( y
+(IC)
+
+x) Ay → Ax) → ∀xAx .
+
+4. Induction transﬁnie
+(IT)
+
+∀σ [ (∀τ)(τ
+
+σ) A(τ, x ) → A(σ, x )] → ∀σA(σ, x )
+
+— pour σ et τ des ordinaux.
+5. Principe du plus petit nombre
+(PPN)
+
+∃yAy → ∃y ( Ay ∧ ∀z ( z
+
+y )¬Az ).
+
+6. Descente inﬁnie (ensembliste)
+(DIE)
+∀x( Ax → ∃y ( y x) Ay ) → ∀x¬Ax .
+Par transformations successives (équivalences ou tautologies classiques),
+j’ai
+∀x¬Ax ∨ ∃yAy
+et
+(¬∀x¬Ax ∧ ¬∃yAy ) ∨ ∀x¬Ax
+et par
+(¬∀x¬Ax) ↔ ∃xAx
+
+La descente inﬁnie 7
+
+j’obtiens
+∀x¬Ax ∨ ∃xAx
+i.e. le tiers exclu (ou principe d’omniscience de Bishop).
+Pour cette raison, 3, 4, 5 et 6 sont équivalents au point de vue classique par
+contraposition (ou encore par voie indirecte), 5 et 6 ne le sont pas du point de
+vue intuitionniste, puisqu’il faudrait
+∀xAx ↔ ¬∃x¬Ax,
+mais le passage de
+¬∃x¬Ax → ∀xAx
+est interdit en intuitionnisme, bien que 3 et 6 soient considérés comme équivalents puisque l’on accepte le postulat d’induction de Peano. Si la règle de
+Markov permet le passage
+(RM)
+
+¬¬∃xA( x, y ) → ∃xA( x, y ),
+
+c’est bien parce que Kolmogorov n’avait excepté le tiers exclu que pour les
+jugements ﬁnitaires, alors qu’il avait reconnu dans sa théorie de la psevdoistinosti ou pseudo-vérité que l’induction transﬁnie comportait le tiers exclu
+(Kolmogorov, 1925, p. 666-667). Remarquons ici que psevdo-istinosti signiﬁe
+littéralement vérité fausse, une belle contradiction in terminis. Les pseudomathématiques auraient-elles une logique interne dialectique?
+En toute logique intuitionniste, on devrait donc rejeter l’identiﬁcation du
+principe d’induction transﬁnie avec le principe de la descente inﬁnie parce que
+cette équivalence correspond à une double négation sur l’ensemble inﬁni dénombrable ω des nombres naturels (ou des ordinaux ω &lt; ε0).
+La raison de cette inconséquence dans les principes intuitionnistes tient bien
+sûr à la notion d’ensemble inﬁni et à sa carence en constructivité. Les nombres
+naturels sont bien ordonnés dans leur suite illimitée, mais lorsque l’on veut en
+tirer un principe général, on s’engage dans une sémantique ensembliste.
+Le principe du bon ordre dit
+∀S ⊆ N ( S ≠ 0 ∧ Ax( x ∈ S )) → (∃y &lt; x ∧ y ∈ S ) ,
+c’est-à-dire qu’il existe une suite strictement décroissante pour tous les éléments
+des sous-ensembles de l’ensemble N des nombres naturels, ce qui revient à la
+descente inﬁnie ensembliste ou au principe du plus petit nombre tout aussi ensembliste et imprédicatif. La version prédicative du principe du plus petit nombre exige un quantiﬁcateur borné, comme le montre Nelson dans son ouvrage
+Predicative Arithmetic (Nelson, 1986) et la version sans quantiﬁcateur de
+l’induction transﬁnie (IT) dans la preuve de Gentzen n’évite pas plus le tiers
+exclu, puisqu’elle recourt à un bon ordre sur ω équivalent à la règle ω ou à
+l’induction complète sur N, ou encore à la descente inﬁnie au sens ensembliste.
+
+8
+
+Dialogue
+
+Même une théorie bien intentionnée comme la théorie constructive (ou intuitionniste) des types de Martin-Löf, tout en voulant être prédicative, recouvre le
+tiers exclu par des moyens détournés via l’induction transﬁnie. L’ascension à
+petits pas de l’induction transﬁnie sans quantiﬁcateurs veut qu’une traversée
+virtuelle — Gentzen disait potentielle — des omégas se rende jusqu’à ε0; mais
+une fois arrivé au sommet du premier oméga ω on ne peut redescendre sans
+faire de faux pas...
+Voyons de façon plus précise ce que peut être une induction transﬁnie sans
+quantiﬁcateurs où l’on doit recourir à une règle d’induction inﬁnie ou règle ω
+qui remonte à Hilbert, mais qui a été systématiquement employée par Schütte
+(Schütte, 1978).
+La règle ω stipule que si on a démontré une formule A(x) pour tous les
+nombres naturels, on peut conclure "x A(x), alors que l’induction transﬁnie
+non quantiﬁée va supposer que l’on a obtenu A(x) pour A sans quantiﬁcateur
+en parcourant un à un les ordinaux dans un ordre récursif primitif jusqu’à ε0.
+La procédure suppose bien évidemment que l’on a parcouru tous les ordinaux
+ﬁnis jusqu’à ω avec une règle d’inférence pour chaque instance numérique
+n. Pour transformer l’induction transﬁnie en descente inﬁnie ici, il sufﬁt de
+supposer ¬ A(x) qui donne "x ¬ A(x) dans un bon ordre récursif, c’est-à-dire
+dans une suite strictement décroissante d’ordinaux pour arriver à une contradiction; la preuve est obtenue par reductio ad absurdum dans la descente
+inﬁnie ensembliste
+(DIE)
+
+∀x( Ax → ∃y ( y
+
+x) Ay ) → ∀x¬Ax .
+
+Par la double négation pour A = (0 ≠ 1) et ¬ A = ¬ (0 ≠ 1), on obtient une
+preuve indirecte de la consistance de l’arithmétique de Peano. On voit à
+l’évidence que cette descente n’a rien d’une descente ﬁnie, le bon ordre ou
+l’échelle ordinale de type d’ordre ω servant en quelque sorte de marchepied à
+l’échelle ordinale de type d’ordre ε0.
+Dans sa version constructive, la méthode de la descente inﬁnie a recours à la
+suite illimitée de terme général xn, comme on dit en bourbaki, pour exprimer la
+quantiﬁcation efﬁnie ou illimitée
+Ξ xn Axn
+pour un prédicat A et un «terme général» arbitraire.
+On a alors deux versions, positive et négative, de la descente inﬁnie :
+7a. Descente inﬁnie (positive)
+
+7b. Descente inﬁnie (négative)
+
+La descente inﬁnie 9
+
+Il ne s’agit pas ici de quantiﬁcation bornée ∀xx &lt; y ou ∃xx&lt; y, mais de quantiﬁcation indéﬁnie sur une suite (ou sous-suite) arbitraire de nombres naturels.
+La théorie des nombres classique de Fermat à Kronecker (arithmétique FK
+pour Fermat-Kronecker) en passant par Euler, Gauss, Lagrange, Legendre,
+Dirichlet, Kummer jusqu’à Mordell et Weil en géométrie arithmétique contemporaine, l’algèbre computationnelle (par exemple, la théorie des bases de
+Gröbner) ou la théorie algorithmique (en informatique théorique) ou plus
+généralement encore, la théorie de la divisibilité (l’arithmétique modulaire)
+dans les corps ﬁnis, ne procèdent pas autrement. Dans cette perspective, la
+descente inﬁnie est bien plutôt un algorithme euclidien généralisé qu’une
+méthode de preuve indirecte ou une réduction à l’absurde. Dans tous les cas,
+pour des prédicats numériques A, on a la descente
+Axn
+Axn−1
+Axn − ( n −1)
+Ax0 = Axn − n .
+C’est ainsi que la descente inﬁnie ou indéﬁnie dans les termes de Fermat est
+en réalité une descente ﬁnie et ce n’est qu’après la descente que nous savons
+que ¬(0 = 1) . C.Q.F.D.
+La voie directe nous donne
+(0 ≠ 1)
+et la voie indirecte (reductio ad absurdum)
+¬¬(0 ≠ 1) → (0 ≠ 1)
+ce qui est légitime ici, puisque nous sommes «descendus» dans le ﬁni.
+Ainsi, nous n’avons pas besoin de la notion d’ensemble inﬁni de nombres
+naturels pour effectuer la descente «naturelle» (ou polynomiale) dans
+l’arithmétique de FK, pas plus que dans sa preuve sur l’inﬁnitude des nombres
+premiers Euclide n’avait eu besoin de la notion d’inﬁni (actuel).
+La plupart des logiciens, qui veulent pourtant faire la théorie de la pratique
+mathématique, n’ont pas su apprendre cette leçon ou la retenir s’ils l’ont jamais apprise. Voyons maintenant si la logique intuitionniste peut justiﬁer
+l’équivalence entre induction complète, induction transﬁnie et descente inﬁnie.
+4. La logique intuitionniste et l’induction transﬁnie
+En logique (et mathématiques) classique, le principe du plus petit nombre
+(PPN) est équivalent à l’induction transﬁnie sur l’ensemble des ordinaux ﬁnis
+(PPN)
+
+∃xBx → ∃x( Bx ∧ ∀y &lt; x¬By ).
+
+10
+
+Dialogue
+
+Il sufﬁt de substituer ØBx à Bx pour obtenir par contraposition
+(IT)
+
+∀y[∀x &lt; yAx → Ay ] → ∀xAx.
+
+Du point de vue intuitionniste, PPN implique le tiers exclu pour l’arithmétique
+de Heyting (je suis ici Troelstra et van Dalen, 1988).
+Supposons que j’ai un prédicat A tel que
+⎧ 0∧ P
+⎪
+Ax = ⎨1 ∧ ¬P
+⎪ n
+⎩
+
+J’ai ∃xAx ; si j’avais un plus petit y tel que Ay et y = n, alors ¬A0, ¬A1, d’où
+¬(0 = 0 ∧ P) et ¬(1 = 1 ∧ ¬P), ce qui donne ¬P et ¬¬P (contradiction). Si y =
+0, j’ai P et si y = 1, j’ai ¬P.
+Le logicien intuitionniste a cependant un dernier recours par le principe de
+Markov
+¬¬∃xA( x, y ) → ∃xA( x, y )
+et peut donc afﬁrmer avec la double négation sur le quantiﬁcateur existentiel
+¬¬[∃xAx → ∃x( Ax ∧ ∀y &lt; x¬Ay )].
+Du point de vue de la théorie des démonstrations (dans ce cas le calcul des
+séquents de Gentzen), on dira que le quantiﬁcateur universel est isolé des instances positives du quantiﬁcateur existentiel et de la disjonction (condition de
+Mints-Orevkov). On sait que la logique intuitionniste exige que dans une disjonction ( A ∨ B), l’un des membres de la disjonction soit une instance numérique
+— que l’on puisse isoler — et la même exigence vaut pour le quantiﬁcateur
+existentiel ∃xAx qui doit pouvoir exhiber une instance numériqueAn.
+On peut alors montrer que
+∃xAx → ¬¬∃x( Ax ∧ Ay &lt; x¬Ay )
+est équivalent à
+∀x[ Ax → ¬¬∃z ( Az ∧ ∀y &lt; z¬Ay )],
+mais il faut appliquer ici le principe de l’induction transﬁnie dont on suppose
+qu’il est équivalent à l’induction complète dans l’arithmétique de Heyting.
+Cette même induction complète est admise par les intuitionnistes pour toutes
+les propriétés constructives des nombres naturels. C’est ici que le bât blesse
+puisqu’on peut montrer que l’équivalence entre IC et IT (et DIE) repose sur la
+double négation pour un ensemble inﬁni et entraîne le tiers exclu, comme
+l’avait soutenu Kolmogorov. Il sufﬁt de faire l’exercice précédent avec le
+principe du plus petit nombre
+(PPN)
+
+∃yAy → ∃y ( Ay ∧ ∀z ( z
+
+y )¬Az )
+
+La descente inﬁnie 11
+
+Je substitue ¬Ay à Ay
+¬∃y ( Ay ∧ ∀z ( z
+
+y → ¬Az ))
+
+et j’obtiens par transformations sur les équivalences classiques et MP (modus
+ponens)
+∀y (¬Ay ∧ ∀z ( z
+
+y → ¬Az ))
+
+et
+∀y (∀z ( z
+
+y → ¬Az )) → Ay
+
+et
+∀y¬Ay
+qui est le conséquent de la descente avec
+∀y ( Ay → ∃z ( z
+
+(DIE)
+
+x) Az ) → ∀y¬Ay
+
+obtenue classiquement de la règle d’induction
+( A0 et ∀yAy → ASy )
+et du postulat d’induction de Peano
+(PIP)
+
+∀xAx( A0 → (∀xAx → ASx)) → ∀xAx
+
+par MP.
+On peut donc démontrer classiquement l’équivalence de PPN avec DI, mais
+PPN n’est pas déductible de IT en logique intuitionniste (à cause du principe
+du tiers exclu), alors que IT est équivalent à IC et à DI du point de vue intuitionniste aussi bien que classique. Il y a donc bien dilemme ou plutôt trilemme
+: ou bien IC, IT et DI ne sont pas équivalents en logique intuitionniste, alors
+PPN ne peut être obtenu ni de IT (ou IC), ni de DIE et le principe
+¬¬[∃xAx → ∃x( Ax ∧ ∀y &lt; x¬Ay )] que nous pourrions appeler DIM, la «descente inﬁnie de Markov», n’a qu’une valeur ou un portée limitée puisqu’il
+correspond à la recherche illimitée d’un contre-exemple.
+Le principe fort de la descente inﬁnie positive au sens de Fermat exclut nettement le tiers exclu par l’expression 7a de la descente
+⎧0
+⎪
+Az = ⎨1
+⎪n
+⎩
+
+pour 0 ou 1 ou n = Axn Ú…ÚAx1 Ú Ax0)
+
+selon que la descente «ﬁnie» s’arrête à 0, à 1 ou à n. C’est uniquement dans ce
+contexte «positif» qu’un polynôme quadratique ou une équation diophantienne
+peut avoir un nombre inﬁni (efﬁni) de solutions. Pour les problèmes négatifs,
+comme dit Fermat, la double négation aboutit dans le ﬁni à 0 ou 1 avec 1 ¹ 0.
+
+12
+
+Dialogue
+
+C’est là le sens même de la reduction ad absurdum, qui signiﬁe en dernière
+instance réduction d’une hypothèse fausse par une procédure de preuve qui
+aboutit à une conclusion contradictoire en un nombre ﬁni d’étapes, ce qui est
+la méthode constructive à proprement parler.
+Dans son programme de réforme de l’analyse mathématique classique, Brouwer
+a introduit des principes intuitionnistes pour l’ordination ou le bon ordre sur les
+suites de choix, c’est-à-dire sur les suites de choix successifs de valeurs dans la
+suite ordonnée des nombres naturels; il s’agit du théorème de la barre, du théorème
+de l’éventail et du théorème de continuité uniforme sur l’intervalle (compact)
+[0, 1]. On peut formuler le théorème de la barre de la façon suivante : «si une
+propriété est vraie pour toute suite α habitée (par des valeurs initiales) et est vraie
+pour le segment initial des valeurs de α , et si elle est vraie de la concaténation
+a ∗ n pour tout n, alors elle est vraie pour toute suite dans S (le déploiement
+universel, en néerlandais, spreiding)» (pour toutes ces notions je renvoie à
+Gauthier, 1976, chap. 2, repris partiellement dans Gauthier, 1997, chap. 5). On voit
+donc la proche parenté de ce théorème avec le postulat d’induction (classique) de
+Peano — la preuve elle-même repose essentiellement sur l’induction, i.e. l’induction
+«barrée». Or S.C. Kleene a montré (Kleene and Vesley, 1965) que le principe
+général de l’induction barrée entraînait le tiers exclu et qu’il fallait donc une contrainte nouvelle, celle de la décidabilité «locale» des suites, pour valider le théorème
+de la barre d’un point de vue constructif — ce résultat de Kleene et d’autres sont
+dûment consignés dans Elements of Intuitionism de Dummett (2000).
+Les suites de choix sont engendrées par des choix successifs de valeurs,
+choix étagés par des opérations ou fonctionnelles continues qui peuvent opérer
+sur tout un réseau de choix antérieurs pour donner naissance à une ﬂoraison de
+suites de choix.
+Un premier principe valide pour les suites de choix est celui de la continuité
+intensionnelle qu’on exprime de la façon suivante
+X a → ∃Γ(∃b (a = Γb ) ∧ ∀ b X (Γb ));
+i.e. si une suite de choix possède un prédicat extensionnel ou appartient à une
+espèce donnée, alors il est toujours possible de trouver une fonctionnelle continue opérant sur une autre suite de choix et qui correspond à cette première
+suite de choix, parce qu’elle possède le même prédicat extensionnel ou appartient à la même espèce (en vertu des mêmes segments initiaux).
+On peut déﬁnir aussi une continuité extensionnelle (ou le principe de
+Brouwer pour les nombres)
+∀a∃xX (a , x ) → ∃x∀x∀y∀b (a x = b x → X ( b , y ) )
+ce qui signiﬁe que si l’on a pour une suite de choix arbitraire a une procédure
+qui permette de déterminer un nombre naturel x, alors pour toutes les autres
+suites de choix ayant les mêmes segments initiaux, on peut avoir la même procédure qui permette de déterminer un nombre naturel y, ou, en d’autres termes,
+
+La descente inﬁnie 13
+
+l’existence d’une valeur numérique déterminée pour une suite de choix implique
+qu’il y a une fonctionnelle régulière continue qui détermine une telle valeur.
+Une des conséquences importantes de ces principes est le théorème de
+l’éventail de Brouwer. Pour le discuter utilement, il faut introduire la notion de
+déploiement. La notion de déploiement est déﬁnie par deux lois: une loi de
+déploiement, qui est représentée par une fonction régulière a obéissant aux
+stipulations suivantes:
+1) a0 ≠ 0
+2) ∀n∀m ( a ( n ∗ m ) ≠ 0 → an ≠ 0 )
+3) ∀n∃x ( an ≠ 0 → a ( n∗
+
+x ≠ 0))
+
+Une quatrième stipulation de ﬁnitude
+4) ∀n∃z∀x(a (n*
+
+x ≠ 0 → x ≤ z)
+
+déﬁnit une loi de déploiement ﬁnitaire ou éventail (fan). Ici * désigne encore
+l’opération de concaténation et ≺ x une suite contenant un seul élément. On peut
+se représenter une loi d’éventail comme un arbre dont le faîte est la suite vide
+
+&lt;&gt;
+
+L’autre loi qui déﬁnit un déploiement est une application complémentaire ξ
+d’une loi de déploiement (ou d’un arbre) qui fait correspondre les objets d’une
+espèce donnée S aux nombres naturels positifs. Un déploiement peut être
+«habillé» ou «nu», selon que l’application ξ est dans une espèce ou non et une
+suite est élément d’un déploiement si elle suit immédiatement dans l’arbre
+une suite qui l’est. Le théorème de l’éventail s’énonce comme suit
+∀a∃xX (Ta a , x, a 0 ,
+
+) → ∃y∀a∀b ( Γa a y = Γ b b y → X ( Γa b , x,a 0 , ) ) .
+
+Ce théorème est une sorte de théorème de ﬁnitude pour les suites de choix. En
+mots, «si à chaque élément α d’un éventail est associé un nombre naturel x, un
+
+14
+
+Dialogue
+
+nombre naturel y peut être spéciﬁé tel que x soit déterminé par les y premiers
+choix qui engendrent α par la loi d’éventail a». Or le lemme de König classique
+est la contraposée du théorème de l’éventail pour les barres détachables, i.e.
+∀ x ∈ X (x ∈Y ∨ x ∉Y )
+pour des espèces X et Y. Le lemme de König qui stipule que tout arbre inﬁni à
+branchement ﬁni comporte une branche inﬁnie (le tronc!) fait appel à la logique
+classique (tiers exclu) et à des notions non constructives (par exemple, l’axiome
+du choix). Il faut donc affaiblir le théorème de l’éventail pour lui conserver son
+caractère intuitionniste.
+Le théorème de l’éventail à été utilisé par Brouwer pour démontrer son important théorème en analyse intuitionniste: «Toute fonction à variables réelles
+déﬁnie sur l’intervalle compact [0, 1] est uniformément continue». Intuitivement, on voit que toute fonction f(x) d’une variable réelle partout déﬁnie ne
+peut l’être que de proche en proche — par les n premiers choix de valeurs pour
+f(x) — de sorte que la différence entre deux fonctions φ(p) et φ(q) pour deux
+points p et q soit toujours inférieure à un nombre rationnel arbitrairement petit
+2−n, d’où la continuité uniforme.
+Remarquons que les principes d’induction sur les ordinaux (les bons ordres)
+ont la même signiﬁcation en logique classique et en logique intuitionniste, sauf
+que l’on suppose que les espèces en intuitionnisme sont décidables, i. e. que
+pour une suite (ou sous-suite) arbitraire strictement descendante F, on a x0 Ï F
+∨ x0 ∈ F (voir Troelstra 1969). À la notion ensembliste de bon ordre sur les
+sous-ensembles de N correspond la notion intuitionniste d’arbre bien fondé
+pour lequel il n’y a pas de suite strictement descendante (décroissante) inﬁnie —
+énoncé qui correspond à son tour à l’axiome de foundation dans la théorie des
+ensembles de Zermelo-Fraenkel. Dans les deux cas, pour passer à la descente
+inﬁnie au sens de Fermat, en réalité une descente ﬁnie, comme nous l’avons vu
+— il faut utiliser la double négation sur l’ensemble inﬁni dénombrable N pour
+la descente ﬁnie (DF)
+Ø(Ø DF) « DF
+qui exclut le tiers, ici la descente indéﬁnie sur la suite «efﬁnie» ou illimitée des
+nombres naturels.
+5. Épilogue philosophique. Le va-et-vient entre la théorie et la pratique
+Brouwer a introduit la notion de sujet créateur dans ses travaux tardifs pour
+accentuer le caractère subjectiviste de l’expérience mathématique. Certains ont
+voulu formaliser la théorie du sujet créateur, mais on a dû admettre que la théorie des constructions et des preuves qui leur sont associées était imprédicative.
+Une analyse phénoménologique de l’expérience mathématique peut se permettre
+de faire appel au sujet transcendantal dans l’esprit de Kant ou de Husserl et
+supposer que le destin de l’intuitionnisme a partie liée avec la phénoménologie
+
+La descente inﬁnie 15
+
+husserlienne. Brouwer lui-même semble avoir suggéré qu’une analyse démonstrative complète ou une preuve canonique requérait une structure arborescente
+inﬁnie dans le déploiement universel de toutes les suites de nombres naturels
+— voir là-dessus le commentaire de Dummett (2000). Il est patent que cette
+idée d’une production mentale qui transcende les moyens ﬁnis de la métamathématique au sens de Hilbert va à l’encontre du constructivisme ﬁnitiste inauguré par Kronecker, constructivisme que Hilbert s’est résolu à adopter après un
+détour par le paradis cantorien! La justiﬁcation transcendantale de théorèmes
+mathématiques (théorème de la barre ou théorème de l’éventail) n’est pas si
+éloignée en réalité des arguments philosophiques qu’un Cantor platoniste a
+voulu trouver chez les philosophes et théologiens médiévaux ou encore chez le
+Spinoza de la substance inﬁnie. La notion hilbertienne de système formel suppose en revanche que l’on doive démontrer des propositions inﬁnitaires par des
+moyens ﬁnis, la preuve se terminant avec la dernière ligne d’une dérivation
+formelle. C’est tout le sens de l’algorithme kroneckerien de la démonstration
+en un nombre ﬁni d’étapes. La logique et les mathématiques constructives ne
+peuvent s’accommoder de principes et de théories qui vont au-delà de l’horizon
+constructif : cet horizon est récessif, mais indépassable ou intraversable tout
+autant que l’inﬁni potentiel d’Aristote. La pratique mathématique d’un Leibniz
+pour qui l’inﬁni mathématique est une ﬁction utile ou d’un Gauss pour qui
+l’inﬁni du mathématicien n’est qu’une façon de parler ou encore d’un Poincaré
+qui pensait que l’inﬁni est une approximation du ﬁni et non l’inverse, toute
+cette tradition arithmétique se prolonge par-delà l’inﬁnitisme cantorien aussi
+bien en logique et en mathématiques constructives qu’en informatique
+théorique. La critique fondationnelle est une théorie critique de la pratique et il
+importe de démonter, d’autres diraient déconstruire, le discours logique ou
+mathématique qui prétend rendre compte de la pratique concrète en recourant
+aux objets idéaux produits par un mathématicien idéal dans un univers qu’il
+n’a pas construit effectivement.
+Le constructivisme intuitionniste n’obéit pas toujours aux canons de la pratique mathématique que Brouwer a voulu instaurer. En admettant l’équivalence
+formelle de l’induction transﬁnie (et de l’induction complète) avec la descente
+inﬁnie, l’intuitionnisme brouwerien et post-brouwerien commet une erreur de
+principe, puisque le tiers exclu refusé aux ensembles inﬁnis refait surface dans
+la double négation opérée sur l’ensemble dénombrable inﬁni des nombres naturels pour redescendre l’échelle inﬁnie de l’induction. Brouwer avait pourtant
+insisté sur le procès en devenir («ein Prozess im Werden») pour les suites inﬁniment processives, mais il n’a pas toujours suivi ses propres préceptes et
+ses successeurs n’ont pas toujours suivi l’initiateur de l’intuitionnisme.
+L’équivalence formelle entre induction transﬁnie et descente inﬁnie est évidemment admise en logique et en mathématiques classiques au prix de principes non constructifs. Pour le montrer, il a sufﬁ de contraster la descente
+inﬁnie pratiquée en arithmétique ou théorie des nombres avec la descente
+inﬁnie de la logique classique.
+
+16
+
+Dialogue
+
+Un premier argument pragmatique, c’est-à-dire issu de la pratique, en faveur
+de la spéciﬁcité de la descente inﬁnie au sens de Fermat est qu’elle opère hors de
+l’atteinte de la théorie des ensembles et de la sémantique ensembliste de la
+logique classique, la théorie des nombres classique ayant connu un développement totalement autonome tout au long de son histoire depuis Hammourabi
+jusqu’à nos jours, si l’on en croit André Weil (Weil, 1984). Et en pratique, l’inﬁni
+constructible n’est pas absent des mathématiques constructives. On n’a qu’à rappeler le théorème d’Euclide sur l’inﬁnité des nombres premiers où la preuve est
+constructive et où la notion d’inﬁni actuel n’apparaît pas. En fait, la descente
+inﬁnie que Fermat considère comme sa création peut être interprétée comme un
+algorithme euclidien généralisé pour la décomposition des nombres (et des
+polynômes) en leurs diviseurs communs; la méthode s’applique dans de vastes
+domaines des mathématiques, de l’arithmétique élémentaire à la théorie algébrique des nombres (Kummer) et à l’arithmétique générale ou théorie des formes
+de Kronecker. On trouvera des détails sur la formulation de la méthode chez
+Fermat et des notes sur le programme de Kronecker dans notre petit livre (1991)
+dont l’élaboration se trouve dans un ouvrage paru ultérieurement (2002).
+La théorie logique, la logique arithmétique ou la logique interne de
+l’arithmétique qui est à l’œuvre dans la descente inﬁnie de Fermat est par déﬁnition une logique constructive qui ne peut tolérer le tiers exclu et les principes non
+constructifs comme l’axiome du choix et autres concepts inﬁnitaires propres à
+l’arithmétique transﬁnie de Cantor sur laquelle reposent l’arithmétique ensembliste de Dedekind-Peano et la sémantique ensembliste de la logique classique. La
+théorie logique veut reproduire le plus ﬁdèlement possible la démarche concrète
+de l’arithméticien pour retraduire la logique en termes arithmétiques, d’où le
+nom de logique polynomiale modulaire pour la logique arithmétique à portée
+computationnelle immédiate. Alors que les logiques faisables, prédicatives ou
+constructives de l’arithmétique de Peano (et de ses sous-systèmes) sont partie
+prenante de la sémantique ensembliste, la logique arithmétique est une syntaxe
+pure qui doit générer sa propre interprétation, i.e. sa consistance interne par des
+moyens constructifs à vocation computationnelle. La posture fondationnelle du
+constructivisme ﬁnitiste ou plutôt «efﬁnitiste» cherche à mieux déﬁnir l’horizon
+constructif de la pratique scientiﬁque; c’est là une tâche philosophique à laquelle
+le théoricien de la pratique ne peut se soustraire*.
+Références
+Bishop, E.
+1967 Foundations of Constructive Analysis, New York, McGraw-Hill.
+Brouwer, L. E. J.
+1975 Collected Works, vol. 1, Amsterdam, North-Holland.
+* Je veux remercier deux lecteurs anonymes de Dialogue dont les commentaires critiques
+m’ont incité à mettre un peu de chair philosophique sur ce petit exercice formel.
+
+La descente inﬁnie 17
+Dummett, M.
+2000
+Eisele, C.
+1979
+Gauthier, Y.
+1976
+1991
+1997
+2002
+
+Elements of Intuitionism, Oxford, Oxford University Press.
+Studies in the Scientiﬁc and Mathematical Philosophy of C.S. Peirce,
+The Hague, Mouton.
+Fondements des mathématiques. Introduction à une philosophie constructiviste, Montréal, Presses de l’Université de Montréal.
+De la logique interne, Paris, Vrin.
+Logique et fondements des mathématiques, Paris, Diderot.
+Internal Logic. Foundations of Mathematics from Kronecker to Hilbert,
+Dordrecht, Kluwer.
+
+Gentzen, G.
+1969 Collected Papers, Amsterdam, North-Holland.
+Hellegouarch, Y.
+1997 Invitation aux mathématiques de Fermat-Wiles, Paris, Masson.
+Kleene, S. C. et J. Vesley
+1965 Foundations of Intuitionistic Mathematics, Amsterdam, North-Holland.
+Kolmogorov, A. N.
+1925 «O Принципе tertium non datur», Matematicheskiĭ sbornik, vol. 32,
+p. 646–667.
+Nelson, E.
+1986 Predicative Arithmetic, Mathematical Notes 32, Princeton (NJ), Princeton
+University Press.
+Peano, G.
+1959 Opere scelte, vol. 2, Roma, Edizione Cremonese.
+Schütte, K
+1970 Beweistheorie, Berlin, Springer-Verlag.
+Takeuti, G.
+1975 Proof Theory, Amsterdam, North-Holland.
+Troelstra, A. S.
+1969 Principles of Intuitionism, Lectures Notes in Mathematics 95, Berlin,
+Springer-Verlag.
+1977 Choice Sequences, Oxford, Clarendon Press.
+Troelstra, A. S. et D. van Dalen
+1988 Constructivism in Mathematics, vol. 1, Amsterdam, North-Holland.
+Weil, A.
+1984 Number Theory. An Approach Through History. From Hammourabi to
+Legendre, Boston, Birkhaüser.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Foundations of Constructive Analysis</title><editor><persName><forename type="first">E.</forename><surname>Bishop</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1967</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Collected Works</title><editor><persName><forename type="first">L. E. J.</forename><surname>Brouwer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Amsterdam</pubPlace><date type="published">1975</date><biblScope unit="volume">1</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Elements of Intuitionism</title><editor><persName><forename type="first">M.</forename><surname>Dummett</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Studies in the Scientific and Mathematical Philosophy of C.S. Peirce</title><editor><persName><forename type="first">C.</forename><surname>Eisele</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>The Hague</pubPlace><date type="published">1979</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Fondements des mathématiques. Introduction à une philosophie constructiviste</title><editor><persName><forename type="first">Y.</forename><surname>Gauthier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal</pubPlace><date type="published">1976</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">De la logique interne</title><editor><persName><forename type="first">Y.</forename><surname>Gauthier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Logique et fondements des mathématiques</title><editor><persName><forename type="first">Y.</forename><surname>Gauthier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Internal Logic. Foundations of Mathematics from Kronecker to Hilbert</title><editor><persName><forename type="first">Y.</forename><surname>Gauthier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Dordrecht</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Collected Papers</title><editor><persName><forename type="first">G.</forename><surname>Gentzen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Amsterdam</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Invitation aux mathématiques de Fermat-Wiles</title><editor><persName><forename type="first">Y.</forename><surname>Hellegouarch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Foundations of Intuitionistic Mathematics</title><editor><persName><forename type="first">S. C.</forename><surname>Kleene</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Vesley</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Amsterdam</pubPlace><date type="published">1965</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">«O Принципе tertium non datur», Matematicheskiĭ sbornik</title><editor><persName><forename type="first">A. N.</forename><surname>Kolmogorov</surname></persName></editor><imprint><date type="published">1925</date><biblScope unit="volume">32</biblScope><biblScope unit="page" from="646">646</biblScope><biblScope unit="page" to="667">667</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Predicative Arithmetic</title><editor><persName><forename type="first">E.</forename><surname>Nelson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton (NJ)</pubPlace><date type="published">1986</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Opere scelte</title><editor><persName><forename type="first">G.</forename><surname>Peano</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Roma</pubPlace><date type="published">1959</date><biblScope unit="volume">2</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Beweistheorie</title><editor><persName><forename type="first">K</forename><surname>Schütte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Berlin</pubPlace><date type="published">1970</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Proof Theory</title><editor><persName><forename type="first">G.</forename><surname>Takeuti</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Amsterdam</pubPlace><date type="published">1975</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Principles of Intuitionism</title><editor><persName><forename type="first">A. S.</forename><surname>Troelstra</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Berlin</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Choice Sequences</title><editor><persName><forename type="first">A. S.</forename><surname>Troelstra</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1977</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Constructivism in Mathematics</title><editor><persName><forename type="first">A. S.</forename><surname>Troelstra</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>van Dalen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Amsterdam</pubPlace><date type="published">1988</date><biblScope unit="volume">1</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Number Theory. An Approach Through History. From Hammourabi to Legendre</title><editor><persName><forename type="first">A.</forename><surname>Weil</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Boston</pubPlace><date type="published">1984</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

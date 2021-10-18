@@ -1,0 +1,1174 @@
+Die Makromolekulare Chemie 127 (1969) 94-112 ( N r . 3097)
+Centre National de la Recherche Scientifique, Centre de Recherches sur les Macromolbcules,
+6, rue Boussingault, Strasboutg, France
+
+Copolymdres s6quencbs polystyrdne/polyviny1-2 pyridine :
+Synthdse, caracthisation et 6tude des phases mbsomorphes
+Par PAUL
+GROSIUS,YVESGALLOTet ANTOINE
+SKOULIOS
+(Eingegangen a m 27. Mars 1969)
+
+RESUME:
+On a synthetise 1 l’aide de la technique de polymbrisation par voie anionique, des copolymbres sbquencbs polystyrkne/polyviny1-2 pyridine. On a opbrb sous vide, en milieu
+tktrahydrofuranne ; l’initiateur utilisC B t a i t le cumylpotassium.
+Les bchantillons ont 6th fractionnbs par addition progressive d’heptane B leur solution
+dans le benzbne. Les diffbrentes fractions ont 6tb caractbrisbes par diffusion de la lumibre,
+osmombtrie et analyse blementaire. On a montre que les copolymkres bruts ainsi prbparbs
+renfermaient trks peu d‘homopolymkre e t que les fractions recueillies avaient une polydispersitb trks faible, tant en masse qu’en composition,
+On a examine par diffraction des rayons X aux petits angles de BRAGG,
+la structure des
+gels mbsomorphes obtenus avec ces copolymkres en presence d‘octanol, solvant sblectif des
+sequences pyridiniques, et de tolukne, solvant prefbrentiel des sequences styrbniques. On
+a mis en bvidence deux types de structure, l’une correspondant B l’assemblage de cylindres
+selon un rbseau hexagonal, l’autre h un empilement periodique de feuillets. On a dbtermink
+la valeur des paramktres structuraux e t on les a exprimes en fonction du degrb de gonflement du gel et des dimensions respectives des sbquences.
+L’emploi, comme solvant gbnkrateur de phases mbsornorphes, d’un liquide polymbrisable
+a permis d‘obtenir, par polymerisation de ce dernier, des polymbres organis& ne renfermant
+que des especes macromolbculaires.
+ZUSAMMENFASSUNG:
+Durch anionische Polymerisation unter Vakuum wurden Polystyrol/Poly-2-vinylpyridin-Blockcopolymere hergestellt. Als Losungsmittel diente Tetrahydrofuran, als Initiator
+Cumylkaliuni.
+Die Copolymeren wurden mit dem System Benzol/Heptan fraktioniert. Die einzelnen
+Fraktionen wurden durch Elementaranalyse, durch Bestimmung des Molekulargewichts,
+durch Lichtstreuung und durch Dampfdruckosmometrie charakterisiert. Die so hergestellten Copolymeren enthalten nur kleine Mengen a n Homopolymeren und besitzen eine enge
+Molekulargewichtsverteilung und eine nur geringe Streuung in der Zusammensetzung.
+Die mesomorphe Struktur dieser Copolymeren wurde mit Hilfe der Rontgenkleinwinkelstreuung untersucht. Als Losungsmittel wurden Octylalkohol, der ein selektives Losungsmittel fiir Poly-2-vinylpyridin ist, und Toluol benutzt, welches vorzugsweise Polystyrol
+lost. Es konnten zwei Strukturen identifiziert werden. Die erste entspricht der Anordnung
+von Zylindern in einem hexagonalen Gitter, die zweite einer Packung von Lamellen. Die
+Strukturparameter wurden bestimmt und zu dem Grad der Quelbarkeit des Systems und
+zur Blocklange in Beziehung gesetzt.
+
+94
+
+Copolymeres sequences polystyr&ne/polyvinyl-2pyridine
+Venvendet man als Losun-pmittel zur Bildung der mesomorphen Strukturen ein Monomeres und polymerisiert dieses, dnnn konnen derartige geordnete Polymere erhalten werden, die nur noch makromolekulare Substanzen beinhalten.
+
+Introduction
+
+Ayant remarque la similitude tr&snette de la structure des copolymeres
+sequences avec celle des savons, on a essay6, il y a d6jP quelques annees1--3), de verifier si la notion de caractere amphipathique, qui est &
+l’origine de toutes les proprieths specifiques des savons et notamment de
+leur aptitude P former des phases colloidales mesomorphes, ne pouvait
+pas s’htendre aux macromol6cules et plus specialement aux copdym8res
+sequences.
+Dans le cas des savons en effet, on savait parfaitement que les parties
+hydrophiles et hydrophobes des molhcules, qui ont pourtant des dimensions reduites et sont liees Btroitement au sein d’une mBme molecule,
+Btaient capables de manifester avec une grande libert6 reciproque les
+proprihtes qui leur s o t particulisres : solubilite, fusibilite, cristallisabilite.. .
+Les sequences de dimensions bien plus importantes d’un copolymere
+semblaient dds lors devoir jouir ii ce titre d’une independance relative
+encore plus prononche. I1 etait n6cessaire cependant d’hprouvd le bien
+fond6 d’une telle hypothbse ; il htait notamment n6cessaire de verifier si
+les copolymeres prhsentent en solution dihhe des effets de micellisation,
+conshcutifs P la segregation de leurs shquences, et s’ils revtilent en solution concentrhe des edifices rhguliers et phriodiques, dus P l’organisation
+mutuelle des micelles.
+L’experience, qui a apporte la preuve directe de la legitimite d’une telle
+conception des proprihtes des copolym6res sequenchs, a 6 t h rdalisee avec
+un copolymere polystyr&ne/polyoxy6thyli?ne
+1). En mettant ce polymere
+en presence de deux solvants non miscibles, l’eau et l’ethylbenzdne (l’eau
+dissout selectivement les sequences polyoxyethylhe, 1’6thylbeniGne pr6fhrentiellement les sequences polystyrhe), on a obtenu un gel homogene
+et translucide, spontanhment birefringent, qui presentait en outre une
+organisation periodique bien developphe. La caracteristique principale de
+sa structure, telle qu’elle a Bt6 d6termin6e par diffraction des rayons X
+aux petits angles de BRAGG,
+reside dans la localisation selective des deux
+sequences, chacune d’elles &ant accompagnee par celui des solvants qui
+la dissout prhferentiellement, dans des domaines periodiquement juxtaposes dans l’espace.
+95
+
+P. GROSIUS,Y. GALLOTe t A. SKOULIOS
+
+Pour 6tudier de faqon plus systhmatique ce ph6nombne on a consid6r6
+d’autres copolymbres s6quenc6s4) et notamment le copolymbre polyoxypropylbne/polyoxy6thylbne ; on s’est content6 de plus de l’emploi d‘un
+solvant unique convenablement choisi. On a pu ainsi reconnaitre divers
+types d’organisation dans lesquels les domaines oh se localisent les s6quences incompatibles avec le solvant, adoptent la forme de sphbres, de
+cylindres ou de feuillets. On a Bgalement montr6 que dans chaque dement
+de structure les sequences se comportent, du moins en ce qui concerne leur
+Btat physique, comme si elles 6taient engag6es dans une phase macroscopique : les sequences polyoxy6thylbne par exemple sont dbordonn6es
+(amorphes) ou cristallis6es suivant qu’elles sont gonfl6es de solvant ou P
+1’6tat sec.
+Parallblement P ces travaux sur les copolymbres s6quenc6s en solution
+concentrhe, on a 6tudi6 de facon syst6matique leur comportement en
+solution dilu6e5). On a montr6 qu’en ajoutant B la solution un prhcipitant
+d‘une des deux shquences, la viscosit6 du milieu diminue comme si la
+sequence <<insoluble>>
+se recroquevillait sur elle-mkme pour <<pr6cipiter
+localementx et se mettle B l’abri du prbcipitant.
+Devant l’int6rkt que pr6sentent de tels phhnombnes, tant du point de
+vue th6orique (compatibilit6 et shgrhgation, statistique de configuration
+des chaines macromol6culaires,. . .) que pratique (propriit6s m6caniques
+et technologiques particuli6res. . .), de nombreux chercheurs se sont
+pench6s sur leur 6tude. 11s utilisent pour la caracterisation morphologique
+de leurs produits soit la technique de diffraction des rayons X aux petits
+angles@, soit la microscopie 6lectronique7-9). Pour notre part, nous pensons que, dans l’immhdiat, la technique qui offre les meilleures chances de
+succbs dans l’btude de la configuration des chaines et de la s6gr6gation
+des sbquences, est la technique de diffraction des rayons X ;car elle peut
+en effet nous renseigner sur des Bchantillons se trouvant dans leur v6ritable &at d’6quilibre en pr6sence du solvant qui les gonfle. La microscopie
+6lectronique nous semble de ce point de vue moins commode car elle
+donne des informations sur des Bchantillons dess6ch6s qui risquent de ne
+pas &re en 6quilibre thermodynamique; elle ne peut d‘autre part nous
+renseigner sur la structure d‘un polymbre B l’6tat plus ou moins gonfl6,
+ou se trouvant ti diff6rentes temp6ratures. C’est la raison pour laquelle,
+dans 1’6tude systhmatique que nous avons entreprise, nous avons d6lib6rement opt6 pour la diffraction des rayons X.
+Notre but 2 court terme est de g6n6raliser P un nombre suffisant de
+copolymbres de masse mol6culaire, de composition et de compatibilit6
+mutuelle des sbquences, les plus vari6es possibles, les observations qui
+
+96
+
+Copolymhres sequences polystyrhne/polyviny1-2pyridine
+
+ont 6t6 faites sur la s6gr6gation et la structure des copolymbres en solution
+concentr6e.
+Notre souci dans le present travail a 6th de synthhtiser des copolymbres
+bien dhfinis, de structure chimique aussi simple que possible (sans ramifications, ni points de r6ticulation) faisant partie d‘une s6rie homologue
+dans lesquels la sequence d’un type reste toujours la m6me alors que la
+sdquence du deuxibme type pr6sente des dimensions variables. Ce n’est
+qu’ainsi, avons-nous pens6, que nous pouvions esperer recueillir des informations faciles 2 interpr6ter et permettant d‘aboutir 2 des conclusions
+profitables.
+Dans ce memoire, nous d6crirons le comportement des copolym6res
+bisequenchs styrbnelvinyl-2 pyridine dont la sequence polystyrbne est
+constante et la sbquence polyvinyl-2 pyridine variable.
+
+Synthase des copolym2res
+Schhma riactionnel
+Nous avons utilis6 la technique de polymhrisation par voie anionique,
+sous vide pouss6. Cette technique permet en effet d’obtenir des polymbres
+de faible polydispersith et de structure chimique bien d6finie.
+SIGWALT
+et ses collaborateurs10~11)I’ont dejja employee pour copolymeriser systematiquement le styrbne et la vinyl-2 pyridine. Leurs travaux
+ont port6 2 la fois sur la polym6risation du styrbne par des chaines <wivantes>>de polyvinyl-2 pyridine et sur la polym6risation de la vinyl-2
+pyridine par les carbanions polystyryle. Dans le premier cas, le produit
+obtenu est bien un copolymbre, mais le nombre et la longueur des s6quences qui le composent ne peuvent pas Btre caract6ris6s de faqon pr6cise.
+I1 se produit en effet des reactions de greffage, suivies de reactions de
+coupure de chaines, qui conduisent 2 des copolym6res de structure complexe. Ces r6actions parasites sont essentiellement dues 2 la grande rhactivite des carbanions styryle vis-2-vis du noyau pyridinique. Dam le
+second cas au contraire, il est possible d’obtenir des copolymbres linbaires,
+bien qu’en toute rigueur les r6actions secondaires citbes pr6c6demment
+n’en soient pas totalement absentes.
+Instruits de cette expbrience, nous avons choisi dans notre travail, de
+synthetiser les copolym6res polystyrbne/polyvinyl-2 pyridine (en abr6g6
+PS-PVZP) par cette seconde mbthode, c’est-2-dire en initiant la polymhrisation de la vinyl-2 pyridine par des chaines <<vivantes>>
+de polystyrbne. Afin de supprimer compl6tement toute reaction parasite et
+d’avoir la certitude d’obtenir des copolymbres exempts de toute rami-
+
+97
+
+P. GROSIUS,Y. GALLOTet A. SKOULIOS
+
+fication, nous avons cherch6 B diminuer la r6activit6 des carbanions styryle. Dans cette optipue nous avons fix6 sur ces derniers, avant l’addition
+de la vinylpyridine, une molecule de diphenyl-1.1’ 6thylbne12). I1 venait
+d’gtre montr6 en effet10) que les carbanions du diphgnyl-1.1’ 6thylbne ne
+donnent pas de reactions secondaires et en particulier ne reagissent pas
+avec les chaines de polyvinyl-2 pyridine. Le schema r6actionnel de nos
+pr6parations est le suivant :
+Ra
+I
+
+H
+I
+
+Ra
+I
+
+Rs
+
+I
+
+I1
+
++ CHFCH
+\/
+
++ CH& I -+
+
+-+
+
+...-
+
+...-C H ~ -I C H - C H ~I - ~ P
+
+H
+I
+CH~-CH-CH~-C-[-CHZ-CH-]ZCH~-C~~
+
+A
+
+<
+
+)\
+
+1
+0
+1
+
+/(
+
+/
+
+‘0
+\/
+
+\/
+
+\/
+
+\/
+
+10“
+
+0
+:
+
+Purification du solvant et des rkactifs
+Le t6trahydrofuranne (THF) utilise comme solvaut est conserve pendant plusieurs sem i n e s en presence de potasse en pastilles, puis de sodium en fil. I1 est alors distill6 plusieurs
+fois sur fl de sodium et sur naphthalhesodium. La purification est ensuite poursuivie par
+agitation pendant quelques jours, sous vide pouss6, en pr6sence du complexe sodium/
+potassium/benzophCnone.Le THF est enfin distill6 s u r la paroi froide d’un recipient grad&,
+recouverte d’un miroir de sodium. Ce recipient est ensuite scelle sous vide et conserve B
+basse temperature.
+Le styrcine commercial subit en premier lieu un traitement par la potasse destin6 & le
+debarasser des inhibiteurs de polymerisation qu’il contient, puis il est lavd plusieurs fois
+B l’eau distill& et sBch6 sur chlorure de calcium. I1 est alors distill6 deux fois sur fil de sodium
+sous un vide de 20 mm Hg. La purification du monomere est ensuite poursuivie par une
+sene de distillations apar paroi froide, sur miroir de sodium.
+
+98
+
+Copolymkres s6quencCs poly styr8ne/polyvinyl-%pyridine
+
+La uinyL2pyridine commerciale (Fluka) est distillee plusieurs fois sous vide (20 mm Hg)
+en presence d’hydrure de calcium finement divis6. La purification ult6rieure est analogue
+?
+celle
+i
+d6crite dans le cas du styrene.
+Le diphbnyl-1.1’ 6thyl8ne prepare au laboratoirel3) est purifie par deux distillations SOUS
+vide (20 mm Hg) en presence de sodium, puis par distillation sur la paroi froide d‘une
+ampoule munie d’un joint fragile, qui est enfin scellee. Cette operation necessite en g6n6ral
+plusieurs jours, du fait de la trks faible pression de vapeur de ce produit.
+
+Pre‘paration de la solution d’amorceur
+Le cumylpotassium utilise c o m e promoteur de polym6risation est livr6 par la firme
+Orgmet en suspension dam l’heptane. Apres decantation et 6limination totale de cet
+hydrocarbure, nous dissolvonsle cumylpotassium solide dans du t6trahydrofuranne purifi6.
+La couleur rouge sombre caracteristique de ce promoteur carbanionique apparait instantanement. On determine alors par dosage la concentration de la solution d’amorceur et on en
+introduit, sous atmosphere d’argon, une quantite adequate dans un tube muni d’un joint
+fragile. La solution subit plusieurs dkgazages, et, le tube scelle sous vide pousse (10-6 mm
+Hg),est consew6 tI froid.
+
+Appareil de polyme‘risation
+Pour la preparation de nos copolymeres nous avons utilid l’appareil esquiss6 ci-aprks
+(Fig. 1). I1 s’agit d’un appareillage permettant la synthbse d‘une quantitk importante de
+copolymkreen solution tres diluee (de l’ordre de 2 tI 5 yo).I1 se compose d’un reacteur princi-
+
+vide
+
+t
+
+-11
+
+Fig. 1. Schema de l’appareil de polymerisation
+
+99
+
+P. GROSIUS,Y. GALLOTet A. SKOULIOS
+pal (1) surmonte d‘un tube cylindrique (11) relie Icela ligne de vide,. Tout autour du
+ballon reactionnel sont disposees des tubulures laterales permettant l’introduction des
+differents reactifs : solvant de polymhrisation (2), solution d‘amorceur (3), monombre (4, 8)
+diphhnyl-1.1’ kthykne (5), agent de desactivation (9). L’appareil comporte en outre un
+ballon 76) qui permet de prelever une partie du melange reactionnel aprbs polym6risation
+du premier monombre. (Ce pr61bvement est ensuite utilist pour la caractdrisation de la
+masse moleculaire de la premibre sequence formke.) Tous les ballons et ampoules utilises
+sont munis de joints fragiles que l’on casse facilement B l’aide de barreaux magnetiques
+enrobes de verre Pyrex. Un appareil de polymerisation de ce type permet de prkparer en
+une seule experience toute une serie de copolymbres dont la sequence styrene est constante
+e t la sequence vinyl-2 pyridine de longueur variable. Pour cela il suffit de disposer tout
+autour du reacteur principal une serie de trois B quatre reacteurs secondaires.
+
+Mode opbratoire
+Aprbs avoir fait le vide dans l’appareillage pendant plusieurs heures, on isole celui-ci
+de la ccligne de vide,, par scellement. On introduit alors successivement le solvant et la
+solution d’amorceur, puis on refroidit le reacteur Il’aide d’un bain refrigerant (melange
+carboglace + isopropanol) jusqu’ I
+une temperature voisine de -78OC. Aprbs polymerisation du premier monombre (styrbne), on laisse le milieu reactionnel revenir I
+une temperature de l’ordre de O°C et on effectue un prelhvement dans un ballon secondaire qui est
+ensuite isole du rhacteur principal.
+On ajoute alors la quantite stoechiometrique de diphbnyl-1.1’ 6thylbne. L’addition de
+ce dernier s’accompagne d’un changement de couleur assez net, puisque la solution carbanionique passe du rouge orang6 au rouge vif. AprBs nouveau refroidissement du ballon de
+polymerisation, on introduit, par distillation, le second monombre (vinyl-2 pyridine). Le
+copolymbre obtenu est precipite dans l’heptane, filtre et &he sous vide.
+
+Caractbrisation des bchantillons
+Pour ehaque Bchantillon de copolymbre, la masse moldculaire de la
+sequence polystyrgne ainsi que la masse du copolymbre, sont d6termin6es
+par diffusion de la lumibre (solutions dans le thtrahydrofuranne). Les
+masses apparentes mesur6es sont sensiblement 6gales aux masses mol6culaires moyennes en poids, 6tant donne la trbs faible diff6rence qui existe
+entre les increments d’indice de refraction du polystyrbne et de la polyvinyl-2 pyridine dans le thtrahydrofuranne (respectivement 0,190 et
+0,182 14)). Avant de ddterminer les masses mol6culaires de nos 6chantillons, nous avons 6liminB par precipitation fractionn6e les homopolymbres
+pr6sents en trbs faibles quantit6s. Nous avons employ6 comme couple
+solvant-pr6cipitant le syst6me benzhne-heptane15). Dans le tableau 1 sont
+groupees les caract6ristiques physico-chimiques des divers copolymbres
+btudies, et dans le Tableau 2, sont dkcrits quelques exemples de fractionnement .
+
+100
+
+Copolymbres sequences polystyrbne/polyvinyl-2 p yridine
+Tableau 1. Caracteristiques physico-chimiques des divers copolymbres 6tudiBs
+
+No. de code
+
+% ps
+
+GP 7 F2
+GP 10 B 3
+GP 10 B2
+GP 10 C3
+GP10A3
+
+43,5
+81,2
+73,O
+63,3
+41,4
+
+1
+
+I
+
+%PVPP
+
+MPS
+
+MPVZP
+
+1
+
+56,5
+18,8
+27,O
+36,7
+58,6
+
+18500
+14 500
+14 500
+14 500
+14500
+
+21 500
+3 000
+5 500
+7 500
+17500
+
+1
+
+I
+
+MPS et MpvZp representent les masses mol6culaires moyennes en poids
+des sequences polystyrbne et polyvinyl-2 pyridine. Dans la suite de ce
+memoire nous serons amen& ii identifier la masse moleculaire en poids
+avec la masse moleculaire en nombre : ceci est tout B fait justifie, puisque
+les copolymbres Btudies sont monodisperses ii la fois en ce qui concerne
+leur masse moleculaire et leur composition chimique. Nous avons pu en
+effet verifier que la polydispersite des sequences polystyrbne est trbs
+faible puisque, pour le copolymbre GP7F2 par exemple, la masse mole= 18500) est pratiquement identique ii la masse
+culaire en poids
+moleculaire moyenne en nombre ( M U = 19000). I1 en est de mQmedu copolymbre global
+= 40000 et Mn = 40300).
+
+(mw
+(mw
+
+Tableau 2. Fractionnement de GPlO ; copolymAre PS/PV2P
+Systbme benzbne-heptane; solution 21 2 % dans le benzbne
+
+w, sequence PS = 14500
+
+1
+2
+3
+4
+
+0,200
+6,100
+12,600
+0,350
+
+190
+30,s
+63,O
+128
+
+0,574
+0,643
+0,654
+0,736
+
+40,5
+41,4
+-
+
+59,5
+58,6
+
+1
+
+1,203
+4,520
+2,000
+1,400
+
+12,o
+45,2
+20,o
+14,O
+
+0,642
+0,673
+0,745
+0,810
+
+68,O
+73,O
+81,2
+-
+
+32,O
+27,O
+18,8
+-
+
+0,150
+2,860
+9,450
+0,100
+
+1,25
+22,o
+72,6
+0,87
+
+0,540
+0,630
+0,660
+0,725
+
+26,l
+63,3
+
+73,3
+36,7
+-
+
+2
+3
+4
+
+1
+2
+3
+4
+
+-
+
+35 000
+32000
+
+-
+
+20000
+17500
+
+-
+
+20500
+17 500
+-
+
+5 500
+3 000
+-
+
+-
+
+-
+
+52000
+22000
+-
+
+37500
+7 500
+-
+
+101
+
+P. GROSIUS,Y. GALLOTe t A. SKOULIOS
+
+De plus, nous avons constat6 qu’au sein d’un m6me dchantillon brut,
+la variation de la composition chimique au cours du fractionnement est
+negligeable 15) (A l’exception toutefois du copolymbre GPlOC pour lequel
+la polymerisation a 6th effectuee dans de mauvaises conditions d’homogeneit6 du milieu r6actionnel).
+Etude des phases me’somorphes
+Rappel des structures
+Parmi les structures qui ont 6 t h identifi6es jusqu’ici pour 2es solutions
+concentr6es de copolymbres sGquences, nous decrirons seulement la structure en feuillets et la structure en cylindres que nous avons observ6es
+dam le present travail.
+Nous insisterons en particulier sur les arguments cristallographiques
+qui permettent de les reconnaitre et sur l’analyse geom6trique des donnees
+experimentales de diffraction des rayons X qui conduisent B la d6termination des paramstres structuraux.
+a) Structure B feuillets
+Les diagrammes relatifs 5 cette structure contiennent, dans la region
+des petits angles de BRAGG,une s6rie de raies fines (2 B 4 raies) dont les
+espacements r6ciproques se situent dans le rapport simple 1:2 :3 :4. Ce
+type de diagramme correspond B une organisation lamellaire qui resulte
+de l’empilement p6riodique de feuillets plans et ind6finis2,3). Dans le cas
+de copolymbres s6quenc6s form6s de chaines st6rGo-irr6gulibres, chaque
+feuillet est constitu6 par la superposition de deux couches distinctes, l’une
+renfermant les sequences incompatibles avec le solvant, l’autre le melange
+intime des s6quences solubles et du solvant, les deux sequences &ant dans
+une conformation dbordonnee. Pour caracthriser un tel Bdifice, il est
+necessaire de connaitre, outre le param6tre fondamental d qui repr6sente
+1’6paisseur totale du feuillet BGmentaire, les 6paisseurs respectives dA et
+dg des couches form6es par les deux types de sGquences, ainsi que la surface sp6cifique S d6finie comme &ant l’encombrement lateral moyen des
+macromol6cules a u niveau des interfaces.
+A partir de considbations g6ometriques simples sur le modble de structure, il est possible de calculer:
+& = d
+dB
+
+=
+
+102
+
+d - dA
+
+1
+
+1+
+
+I-’
+
+- XA)BB-+ (1 - c ) p ~ T s
+cXAVA+ (1 - C)PAVS
+
+c(1
+
+1-xA
+
+VB
+
+XA
+
+VA
+
+1 - C
+
+C
+
+VS
+VA
+
+XA
+
+Copolym6res sequences polystyr6ne/polyvinyl-2 pyridine
+Dans ces formules:
+est la teneur pondCrale du systhrne en copolymhre
+
+C
+
+XAet XB sont les teneurs du copolymhre en sequence A et B respectivement.
+VA, VB,Vs sont les volumes speci6ques des s6quences A et B d’une part et du solvant
+dA et dB
+
+MA
+PA
+
+et PB
+
+‘JZ
+
+d’autre part.
+sont les dpaisseurs respectives des couches contenant les sequences A, <tincompatibles, avec le solvant, et des couches formees du melange intime du
+solvant avec les s6quences B, asolubles,.
+est la masse mol6culaire moyenne en nombre de la sequence A.
+sont les proportions de solvant localis6 respectivement dans les couches
+d‘Cpaisseur dA et dB (PA+ PB = 1).
+est le nombre d’AVoGmRo (6,02
+
+b) Structure en cylindres
+
+Les diagrammes de diffraction aux petits angles de BRAGGrelatifs B
+cette structure se composent de deux ti quatre raies fines dont lea espacements reciproques sont dans le rapport simple 1:
+:
+:fl.L’organisation mdsomorphe correspon dante resulte de l’assemblage, selon un
+reseau hexagonal bidimensionnel, de cylindres indefinis et parallcles,
+form& par les sequences incompatibles avec le solvant. L’espace separant
+les cylindres est constitue par le melange intime des sequences solubles
+e t du solvant. Dans ce cas egalement, les deux sequences ont une conformation de chaine d6sordonnee. Le parambtre fondamental qui caract6rise cette structure hexagonale est la distance D qui separe les axes de
+deux cylindres voisins; sa valeur se deduit directement 2 partir de la
+position des raies centrales du cliche de diffraction des rayons X; d’autres
+paramstres sont interessants B connaitre: le rayon R des cylindIes contenant les sequences incompatibles avec le solvant, ainsi que la surface S
+dont dispose en moyenne une macromolecule sur la surface des cylindres.
+Des considerations geometriques simples sur le modGle de structure
+montrent que :
+R2 = ___
+
+~ ( -1 xi)Ve
+
++ (1 - c)peVs
+
+c xivi + (1 - C)piTs
+
+2x.
+
+et
+
+1 -xi
+
+v,
+
+l+,.x+,.v,.x]
+Dans ces formules:
+
+1- c
+
+v,
+
+1
+
+42
+
+-’
+
+1
+
+1-c
+
+v,
+
+[ l + - .c- . - vi
+
+I
+
+pi 112
+
+xi
+
+Xi, Xe
+
+sont les teneurs du copolymGre en sequences 1ocalisCes 8 I’intCrieur et 8 l’extCrieur des cylindres respectivement.
+Vi, Ve, Ve sont les volumes sp6cXques des sequences localis6es B l’int6rieur et B l’ext6rieur
+des cylindres d‘une part, et du solvant d’autre part.
+
+_ - _
+
+103
+
+P. GROSIUS,Y. GALLOTet A. SKOULIOS
+Mi
+pi, pe
+
+est la m s s e molbculaire moyenne en nombre de la sequence localiske B l’intkrieur des cylindres.
+sont les proportions de solvant pknktrant B l’intbrieur et i l’extbrieur des cylindres (pe = 1 - pi).
+
+Choix des solvants et pr6paration des gels
+Pour selectionner les solvants qui permettent d’obtenir des phases
+mesomorphes avec les copolymbres s6quences PS/PV2P, nous avons fait
+usage de la microscopie en lumibre polarisee. I1 est en effet connu que I’une
+des proprietes les plus facilement decelables de 1’6tat mesomorphe est
+l’anisotropie optique et la birefringence spontanee.
+En examinant les solvants presentant un coefficieat d’absorption des
+rayons X relativement faible, et aptes, de ce fait, ii conduire ii des diagrammes de diffraction suffisamment intenses, nous avons retenu l’octano1 et le tolubne. Nous avons 6tudi6 systematiquement en fonction de la
+concentration les melanges binaires de toutes les fractions de copolymbre
+polystyr~ne/polyvinyl-Z pyridine dont nous disposions, avec ccs deux
+solvant s.
+La preparation des gels a 6th effectuee par melange diiect de quantites
+connues de copolymbre et de solvant. L’homogeneisation se fait par
+chauffage ii 40 “C pendant 24 heures. Aprbs refroidissement, les gels sont
+maintenus plusieurs jours ii temperature ambiante jusqu’ii l’equilibre
+thermodynamique. Nous avons ainsi pu mettre en evidence deux types de
+structure que nous dhcrirons successivement : la structure en feuillets et
+la structure en cylindres. Comme il ressort des formules presentees pr6cedemment, la connaissance du coefficient de partage du solvant entre
+les microdomaines form& par les deux sequences du copolymbre est. indispensable pour le calcul precis des parambtres de structure. Notons en
+effet que seule la surface specifique S, dans le cas de la structure lamellaire,
+est un parambtre independant de la distribution d u solvant dans le gel.
+Si, dans le cas oh le solvant utilis6 est l’octanol, - dont on sait qu’il dissout selectivement les sequences polyvinyl-2 pyridine et qu’il est un trbs
+mauvais solvant, sinon un precipitant, des sequences polystyrbne -, on
+peut admettke sans aucun risque d‘erreur, que le coefficient de partage
+est nul, il peut en aller differemment dans le cas du tolubne. En effet, tout
+en &ant u n solvant prefbrentiel des sequences polystyrbne, le tolubne est
+connu pour &re capable de dissoudre bgalement de faibles quantites de
+polyvinyl-2 pyridine16). I1 serait donc logique de penser ii priori que ce
+solvant peut se localiser simultanement dans les deux types de sbquences.
+La determination directe du coefficient de partage du tolubne au sein de
+
+104
+
+Copoly meres sequences polystyr8ne/polyviny1-2pyridine
+
+la phase mesomorphe est une operation delicate ; aussi avons-nous pr6fere, P ce stade de notre travail, 1’6valuer d’une manibre approchee certes,
+mais plus facile P realiser d u point de vue experimental.
+Nous avons donc prepare un systbme contenant 7 0 % de tolubne et
+30 yod’un melange de deux homopolymbres en quantites @ales de styrbne
+et vinyl-2 pyridine, de masse moleculaire comparable P celles des sequences correspondantes des copolymbres (M, = 14500 et Vw = 24000). Aprbs
+l’avoir laiss6 atteindre son Bquilibre thermodynamique P 25 “C, nous avons
+analyse les deux phases qui le constituent: l’une trbs dense, et ayant
+l’aspect d‘un gel, contenant la totalit6 de la polyvinyl-2 pyridine, l’autre
+plus ldgbre et diluge, comprenant la totalit6 du polystyrbne. Nous avons
+ainsi constate que le coefficient de partage du toluene est tres largement
+en faveur (92 yo)de la phase polystyrbnique. Ceci nous autorise dans la
+suite de notre expos6 P considkrer en premibre approximation que le
+coefficient de partage du tolubne est nul, comme dans le cas de l’octanol.
+Etude de la structure lamellaire
+
+Nous avons observe cette structure uniquement en presence de tolubne
+et pour les deux copolymbres, GP7F2 et GPlO A3, qui contiennent les
+sequences de polyvinyl-2 pyridine les plus grandes et de masse comparable
+2 celle des sequences polystyrbniques. Son domaine d‘existence couvre les
+concentrations de polymbre superieures P 70% environ. En dessous de
+cette concentration, la structure du systbme, comme nous le verrons dans
+la suite, correspond 2 un assemblage de cylindres. Pour illustrer ce change-
+
+,I
+
+m
+
+15 -
+
+Cylindrique
+
+Lamellaire
+
+2,
+
+I /+
+I
+
+-
+
+,
+
+i’ :,
+
+0
+
+I
+
+.
+
+1 -;
+
+:
+
+\j
+
+-
+
+, :.
+
+t
+
+i;
+I
+
+.
+
+-:
+
+,
+
+$
+
+, .
+I
+
+5-
+
+-
+
+,
+
+I
+
+,
+
+I
+
+.
+
+-/?-i ;
+
+0
+
+I
+
+I
+
+Fig. 2. Evolution de l’espacement r6ciproque des raies de diffraction en fonction de la concentration pour le systkme GP7F2-toluene
+
+P. GROSIUS,Y. GALLOTe t A. SKOULIOS
+
+ment de structure, nous avons reprBsent6 sur la Fig. 2 1’Bvolution des
+espacements rBciproques des raies de diffraction en fonction de la concentration du systdme. Comme on peut le constater, ces espacements se
+groupent en deux familles bien distinctes, I’une comportant des raies dont
+l’espacement varie dans le rapport 1$3’ :
+caracthristique d’un Bdifice
+hexagonal, l’autre formhe de raies dont le rapport des espacements
+1 :2 :3 :4, est celui d‘un Bdifice lamellaire. Le passage d‘une structure 2
+I’autre est trds net et s’effectue dans un intervalle de concentration rBduit.
+La formation de l’organisation lamellaire n’est pas obtenue avec la m6me
+facilit6, pour tous les degrBs de gonflement du polymbre. En effet, les
+Bchantillons contenant moins de 20% de solvant, prgsentent un aspect
+inhomogdne, sont durs et friables, e t ne fournissent aucun diagramme de
+diffraction. I1 semblerait donc que leur organisation lamellaire est, sinon
+inexistante, du moins trbs ma1 d6veloppBe. Toutefois, il est possible de
+la rBvBler en prbparant les Bchantillons d’une manibre diffkrente. Si, par
+exemple, on part d’un gel lamellaire plus ricbe en solvant, on peut, par
+Bvaporation progressive de ce dernier, aboutir B des systdmes trds concentrBs, voire m6me au copolymdre sec, qui prhsentent une structure
+lamellaire bien rBgulidre. I1 va sans dire que dans ce cas, nous ne disposans d’aucun moyen rapide pour verifier la stabilitb thermodynamique
+des melanges. Vraisemblablement, dans le cas de ces hautes concentrations, les chaines macromolBculaires se trouvent Q 1’Btat vitreux, ce qui
+limite leur mobilith et constitue, par consBquent, un obstacle & leur rBorganisation et leur insertion spontanke dans un Bdifice phriodique.
+Si l’on examine ii present 1’6volution des diagrammes de diffraction
+dans l’ensemble du domaine d’existence de la phase lamellaire, on constate tout d‘abord, que la structure Bvolue de fapon monotone avec la
+teneur en solvant, I’hpaisseur totale d’un feuillet BMmentaire augmentant
+lhgdrement avec la dilution (Fig. 3). Quant Q 1’Bpaisseur d B de la couche
+formde des s6quences polystyrbne gonfl6es de solvant, elle croit d’une
+manidre importante en passant, pour le copolymbre GP7F2 par exemple,
+de 103 A pour le polymbre sec, 2 160 d pour le gel contenant 30 yo de
+toludne. CorrBlativement, I’hpaisseur dA, des couches form6es des sBquences polyvinyl-2 pyridine incompatibles avec le solvant, dhcroit dans des
+proportions apprhciables puisqu’elle passe de 140 d pour le copolymbre
+GP7F2 B 95d environ. On constate enfin, que la surface sphcifique S
+augmente trds sensiblement au cours du gonflement (Fig. 3).
+Cette Bvolution est facile Q comprendre, car I’augmentation de S, et
+Bgalement de dg, ne fait que traduire l’expansion des chaines solubles,
+dans un espace dont les dimensions augmentent avec la dilution. Dans
+
+p,
+
+106
+
+Copolymhes skquencks polystyr8ne/polyviny1-2 pyridine
+
+cette perspective, la decroissance de dA doit 6tre comprise comme la
+consequence directe de l’augmentation de S et de la constance du volume
+du domaine, ou se trouvent localisees les chaines incompatibles avec le
+solvant
+
+.
+
+Ztude de la structure en cylindres
+
+Nous avons observe cette structure pour tous les copolymbres et tous
+les solvants utilises. Le domaine de son existence couvre les concentrations comprises entre 30% et 80% environ. Pour des concentrations
+plus faibles, les melanges sont trbs fluides e t leur examen par diffraction
+des rayons X devient precaire du point de me experimental. Aussi
+n’avons-nous pas cherch6 ii d6terminer leur structure. Nous nous sommes
+
+107
+
+P. GROSIUS,Y. GALLOTe t A. SKOULIOS
+
+content& de verifier qu’ils n’entraient pas en demixtion avec la phase isotrope, micellaire qui existe en solution dilube. Pour cela, nous avons laisse
+shjourner les melanges les moins concentres que nous avons examines par
+diffraction des rayons X, pendant un intervalle de temps trbs long B
+temperature constante, et nous avons cherche 2 verifier qu’ils demeurent
+homogbnes. Pour Bviter qu’une cinetique de decantation trop longue nous
+conduise B des observations erronees, nous avons de plus pris soin de les
+soumettre B une centrifugation effectuee B la vitesse de 14000 tours/min,
+propre B acc616rer le processus de separation des phases.
+Dans le cas des systbmes tres riches en polymbre, nous avons obseiv6,
+comme nous l’avons vu precedemment, une structure lamellaire pour les
+fractions GP7F2 et GPlOA3, en presence de tolubne. Pour les autres copolymbres, au delB d’une concentration de 80 yo B 90 yo,les echantillons
+durs et friables, ont un aspect inhomogbne. Leurs diagrammes de diffraction ne comportent aucun signal qui permette de conclure B une organisation periodique et rhgulibre. Seules les trois fractions contenant les
+sequences de polyvinyl-2 pyridine les plus courtes manifestent, en presence d’octanol, une diffusion centrale intense des rayons X, indice de
+fluctuations prononcees de la densit6 electronique et, partant, d’une
+segregation des sequences. Nous n’avons pas cherche dans ce domaine de
+concentration 1 preparer des gels, par evaporation progressive du solvant,
+car de m&meque nous l’avons precise dans le cas de la structure lamellaire,
+il n’est pas certain faute d’autres preuves ii l’appui, que le maintien d’une
+organisation mesomorphe corresponde bien, B un &at d’hquilibre stable.
+Examinons ?
+present
+i
+l’evolution des parambtres structuraux en fonction de la teneur en solvant et de la masse moleculaire des copolymbres,
+et portons en premier lieu notre attention sur les melanges avec le tolubne. En representant la variation du rayon des cylindres R (Fig. 4) et de
+la surface specifique S en fonction de la concentration (Fig. S ) , nous avons
+obtenu des faisceaux de courbes coherents, qui montrent clairement
+l’evolution monotone de la structure des systemes avec la dilution et la
+masse moleculaire. Comme dans le cas de la structure lamellaire, les
+dimensions des domaines contenant les sdquences incompatibles avec le
+solvant, ii savoir les rayons des cylindres, diminuent de manibre importante B mesure que la teneur en solvant croit. Ce parambtre diminue Bgalement trbs sensiblement lorsque la masse moleculaire des sequences pyridiniques devient plus faible. Quant B la surface specifique, elle augmente
+notablement aussi bien avec la longueur des sequences pyridiniques
+qu’avec le degr6 de gonflement du systbme. Comme nous l’avons fait
+remarquer pour la structure lamellaire, cette evolution n’est que le reflet
+
+108
+
+Copolymkres s6quenc6s polystyrkne/polyviny1-2 pyridine
+
+IOOC
+
+-
+
+-
+
+cu
+
+“Q,
+m 5c
+
+“4,
+
+cn
+
+7500k
+
+x..
+
+500
+
+0
+
+50
+Copolym$re
+Fig. 4
+
+100
+
+(%I
+
+50
+CopolymGre (%)
+
+100
+
+Fig. 5
+
+Fig. 4. Evolution du rayon des cylindres pour le systkme PS/PV2P-tolukne
+
+,
+
+Fig. 5. Evohtion de la surface sp6cifique des cylindres pour le systkme PS/PV2P-tolukne
+
+de l’expansion des chaines macromol6culaires dans un volume de plus en
+plus grand. Notons que les parambtres que nous venom de discuter ont
+6tB calcul6s dans l’hypothbse o h les s6quences insolubles se localisent ii
+l’intbrieur des cylindres. Cette interprbtation semble ii priori la plus satisfaisante, car il est facile de concevoir que les chaines les plus courtes soient
+rejet6es dans le demi-espace delimit6 par la face concave des interfaces.
+Nous avons cependant cherch6 ii v6rifier la validit6 de ce raisonnement
+en calculant tous les parambtres structuraux dans l’hypothbse d‘une
+structure inversbe, o h le volume interieur des cylindres serait occup6 par
+le m6lange des sequences solubles avec le solvant. Nous avons dans ce
+cas abouti ii des r6sultats aberrants et difficiles ii admettre. Ainsi, par
+exemple, la valeur de la surface sp6cifique relative ii 1’6chantillon contenant 45 yo de la fraction GPlOB2, &ale ii 1770 8 2 , est Bvidemment par
+trop 6lev6e : l’interface serait ii peine recouverte par les sequences vinyl-2
+pyridine, m6me si ces dernibres 6taient localis6es entibrement ii la surface
+des cylindres. I1 en est de m6me du diambtre des cylindres dont la valeur,
+trop importante, conduirait ii une interphnetration des cylindres.
+L’analyse des r6sultats obtenus avec les copolymbres en presence d‘octanol, r6vble pour ces systbmes un comportement structural en tout point
+similaire 2 ceux que nous venom de d6crire pour les gels gonfl6s de tolu&ne
+
+109
+
+P. GROSIUS, Y. GALLOTet A. SKOULIOS
+
+100
+
+I
+
+I
+
+I
+
+,30001
+
+, ~500
+
+50
+
+Fig. 6
+
+100
+
+Fig. 7
+
+Fig. 6. Evolution du rayon des cylindres pour le systbme PS/PVZP-octanol
+Fig. 7. Evolution de la surface sp6cSque des cylindres pour le systbme PS/PV%P-octanol
+
+(Figs. 6 et 7). Dans ce cas, ce sont les sequences polystyrhiques qui se
+trouvent localisees 5 l’interieur des cylindres; nous avons en effet, pu
+verifier de la m6me manibre qye prhedemment, que la structure inversee
+n’etait pas concevable, et que le solvant et les sequences solubles ne
+peuvent se situer que dans les espaces compris entre les cylindres.
+Obtention de polymbres organids
+Nous venom de montrer que les copolymbaes sequences polystyrSne/
+polyvinyl-2 pyridine donnent des phases mesomorphes lorsqu’ils sont mis
+en presence de solvants preferentiels oa selectifs de l’une ou l’autre des
+sequences. 11s conduisent alors ii des edifices macromol6culaires bien organises, qui sont en cylindres ou en feuillets, suivant la teneur du gel en
+solvant les longueurs respectives des sequences du copolymbre e t la nature
+du solvant. La presence d‘une telle organisation periodique, dans un Bchantillon de polymbre, peut conferer B ce dernier des proprietks technologiques
+et physiques particuli6res. On pourrait donc songer B tirer profit de la
+latitude, dont nous disposons, de faire modifier les param6tres structuraux
+et geometriques de tels edifices, pour faire apparaitre dans ceux-ci les
+proprietes que nous dbsirons. Or toutes les structures mesomorphes, que
+nous avons decrites dam ce memoire, ont 6t6 obtenues avec des polymsres
+gonfles de solvant. Ceci est dvidemment un obstacle ii l’utilisation pratique de tels systsmes. Une solution possible ii cette difficult6 pourrait
+6tre de faire usage de polym6res organises obtenus en pr6sence de solvant,
+mais debarasses de ce dernier par 6vaporation complbte. Une telle proc6-
+
+110
+
+Copolymbres s6quencds polystyr&ne/polyviny1-2pyridine
+
+dure ouvre cependant des perspectives limit6es car elle ne permet>d‘obtenir qu’une seule structure pour un copolym2re donn6.
+Une autre solution, beaucoup plus shduisante, consiste 2 maintenir le
+solvant au sein du gel m6somorphe, mais 2 lui supprimer ses caract6ristiques micromol6culaires. I1 suffit par exemple de provoquer sa polym6risation dans des conditions qui ne perturbent pas la qualit6 de 1’6difice
+m6somorphe. Cette technique a d6jjn 6t6 employ6e, avec succhs, avec les
+copolymhres polystyrbne/polyoxy6thylbne17). En ce qui nous concerne,
+nous avons adopt6 cette optique avec nos copolymdres polystyrdnelpolyvinyl-2 pyridine. Nous avons s6lectionn6 comme solvant, l’ac6tate de
+vinyle et l’acide acrylique qui sont solvants pr6f6rentiels des sequences
+polystyrdne et polyvinyl-2 pyridine respectivement. La polymerisation
+du monombre a u sein des phases m6somorphes a 6th provoqude par le
+rayonnement ultraviolet d’une lampe 2 vapeur de mercure. Aprbs 24
+heures d’irradiation, la polym6risation pouvait 6tre consid6r6e comme
+totale. Pendant toute cette duree, l’6chantillon 6tait maintenu ii temp&
+rature constante (25 “C). Contrairement 2 ce que l’on aurait pu attendre,
+
+1000 -
+
+-
+
+h
+
+cv
+
+5
+cn
+
+Y
+
+Q
+
+9
+
+I
+Y
+
+500t 100
+
+50
+
+Cy lindrique
+
+tl
+
+%..
+&-’
+
+I
+
+50
+CopoLyrnSre (%I
+Fig. 8
+
+50
+Copolym6re
+
+100
+
+Fig. 9
+
+Fig. 8 . Evolution des parambtres de la structure cylindrique du systbme PS/PVfP-aeide
+acrylique. o avant polym6risation ; apr& polymhrisation
+Fig. 9. Evolution des parambtres structuraux pour le s y s t h e PS/F’V%P-acCtatede vinyle
+structure cylindrique: 0 avant polym6risation, 0 aprbs polym6nsation
+Structure lamellaire: JI avant polymCrisation, B aprbs polymhrisation
+
+111
+
+P. GROSIUS,Y. GALLOTet A. SKOULIOS
+
+htant donne l’incompatibilit6 des s6quences du copolymhre e t des chaines
+macromolhculaires issues du solvant, les produits obtenus n’htaient pas
+hhthroghnes, mais avaient bien l’espect d‘un solide transparent et conservaient les proprihths optiques et la structure des gels primitifs. Cela tient
+vraisemblablement 2 la viscosit6 trhs 6levhe des milieux consid6r6s et
+aussi B la rhticulation possible des chaines macromolhculaires provoquhe
+par le rayonnement. Nous avons reprhsent6 sur les Figs. 8 et 9 les variations des paramhtres structuraux mesurhes avant et aprhs polym6risation
+du solvant. Nous constatons qu’elles sont analogues B celles obtenues
+lorsqu’on utilise comme solvant le toluhne ou l’octanol. Toutefois, il convient de remarquer que la polymhrisation du solvant entraine un changement sensible de la valeur des paramhtres structuraux, conshcutif & la
+contraction du systhme par polymhrisation : le rayon des cylindres croit,
+et, conjointement, la surface sphcifique diminue.
+Nous tenons 2 remercier Monsieur JEANPAULLINGELSER
+pour son
+assistance technique lors de la synthBse des copolymhres, Monsieur JEAN
+GUEGUENqui a effectu6 les fractionnements des diff6rents hchantdlons et
+Monsieur PIERREHELFFER
+pour sa participation dans l’enregistrement
+des diagrammes de diffraction.
+Ce travail a bBnBfici6 d‘une subvention des HOUILL~RES
+DU BASSIN
+DE
+LORRAINE
+et de la DPLPGATION
+GPNPRALEb LA RECHERCHE
+SCIENTIFIQUE
+ET
+
+TECHNIQUE.
+
+A. SKOULIOS,
+G. FINAZ
+e t J. PARROD,
+C. R. hebd. S6ances Acad. Sci. 251 (1960) 739.
+A. SKOULIOS
+et G. FINAZ,
+C. R. hebd. Stances Acad. Sci. 252 (1961) 3467.
+3, A. SKOULIOS
+e t G. FINAZ,
+J. Chim. physique 59 (1962) 473.
+4) G. TSOULADZE
+e t A. SKOULIOS,
+J. Chim. physique 60 (1963) 626.
+5) Y. GALLOT,
+M. LENG,H. BENOITet P. REBWP,J. Chim. physique 59 (1962) 1093.
+6) B. GALLOT,
+R. MAYER et CH. SADRON,
+C. R. hebd. SBances Acad. Sci. 263 C (1966) 42
+7) T. INOUE.
+T. SOEN,H. KAWAI,M. FUKATSU
+et M. KURATA,
+Polymer Letters 6 (1968) 75.
+8) H. HENDUS,
+K.-H. ILLERS
+et E. ROPTE,Kol1oid.Z. 216 (1967) 110.
+9) E. WANZO,J. Polymer Sci. 4, Part A-1 (1966) 1727.
+lo) M. FONTANILLE,
+These UniversitB de Paris, France 1967.
+11) M. FONTANILLE
+et P. SIGWALT,
+Bull. SOC.chim. France, 1967 4095.
+12) D.DECKER-FREYSS,
+These de 3bme cycle, Universitt de Strasbourg, France 1963.
+13) S. W. LEBEDEV,
+J. ANDREWSKY
+et A. MATYNSCHKIVA,
+Ber. dtsch. chem. G e s . 56 (1923)
+2349.
+14) G. MULLER,These de 3bme cycle, Universitt de Paris, France 1964.
+15) P. GROSIUS,
+Y.GALLOTe t A SKOULIOS,
+European Polymer J., sous presse.
+16) G. NATTA,G. MAZZANTI,P. LONGI,G. DALL’ASTAet F. BERNADINI,
+J. Polymer sci.
+51 (1961) 487.
+17) G. FINAZ,
+A. SKOULIOS
+et CH. SADRON,C. R. hebd. Stances Acad. Sci. 253 (1961) 265.
+1)
+2)
+
+112
+

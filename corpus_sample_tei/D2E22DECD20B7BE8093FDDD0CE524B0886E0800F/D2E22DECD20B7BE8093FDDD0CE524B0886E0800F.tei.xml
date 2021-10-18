@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La genèse de la méthode cartésienne : la mathesis universalis et la rédaction de la quatrième des Règles pour la direction de l’esprit</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La genèse de la méthode cartésienne : la mathesis universalis et la rédaction de la quatrième des Règles pour la direction de l’esprit</title><author xml:id="author-0000"><persName><forename type="first">Érico Andrade M.</forename><surname>de Oliveira</surname></persName><affiliation>Université Fédéral Pernambuco (Brésil)</affiliation></author><idno type="istex">D2E22DECD20B7BE8093FDDD0CE524B0886E0800F</idno><idno type="ark">ark:/67375/6GQ-6TM7LXP8-L</idno><idno type="DOI">10.1017/S0012217310000235</idno><idno type="PII">S0012217310000235</idno><idno type="article-id">00023</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-06"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="173">173</biblScope><biblScope unit="page" to="198">198</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : À bien des égards, la Règle IV paraît être formée de deux textes distincts, ce que devrait justifier la différence entre la mathesis universalis et la méthode cartésienne. Cette interprétation conventionnelle est remise en cause en montrant que la révision qui s’opère au sein de la mathématique fait de celle-ci une méthode qui contraint les sciences à instituer l’ordre et la mesure dans leurs recherches. Ainsi, la discussion sur la mathesis universalis ne vise pas une science mathématique d’un niveau supérieur, mais a eu pour but la mise en œuvre d’une universalisation des méthodes menant à la découverte de la vérité.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT : On many accounts, Rule IV appears to be composed of two distinct texts, and this should be justified by the difference between the mathesis universalis and the Cartesian method. This article runs counter to the usual interpretation by showing that the discussion on mathematics in Rule IV has enabled the introduction of method constraining scientific research to operate on grounds of order and measurement. The mathesis universalis is not so much a science of higher mathematics as a universal method by the means of which one can find truth.</p></abstract></profileDesc><revisionDesc><change when="2010-06">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+La genèse de la méthode cartésienne : la
+mathesis universalis et la rédaction de la
+quatrième des Règles pour la direction de
+l’esprit
+
+ÉRICO ANDRADE M. DE OLIVEIRA
+
+Université Fédéral Pernambuco (Brésil)
+
+RÉSUMÉ : À bien des égards, la Règle IV paraît être formée de deux textes distincts, ce que
+devrait justiﬁer la différence entre la mathesis universalis et la méthode cartésienne. Cette
+interprétation conventionnelle est remise en cause en montrant que la révision qui s’opère
+au sein de la mathématique fait de celle-ci une méthode qui contraint les sciences à instituer
+l’ordre et la mesure dans leurs recherches. Ainsi, la discussion sur la mathesis universalis
+ne vise pas une science mathématique d’un niveau supérieur, mais a eu pour but la mise en
+œuvre d’une universalisation des méthodes menant à la découverte de la vérité.
+ABSTRACT : On many accounts, Rule IV appears to be composed of two distinct texts,
+and this should be justiﬁed by the difference between the mathesis universalis and the
+Cartesian method. This article runs counter to the usual interpretation by showing
+that the discussion on mathematics in Rule IV has enabled the introduction of method
+Dialogue 49 (2010), 173–198.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000235
+
+174
+
+Dialogue
+
+constraining scientiﬁc research to operate on grounds of order and measurement. The
+mathesis universalis is not so much a science of higher mathematics as a universal
+method by the means of which one can ﬁnd truth.
+
+1. Introduction
+Descartes évoque la question de la méthode dans la quatrième des Regulae, en
+lui conférant une place privilégiée dans l’ensemble des règles qui composent
+les Regulae ad Directionem Ingenii1. En effet, c’est justement dans l’épigraphe
+de cette Règle que le terme methodus apparaît pour la première fois dans les
+Règles. Il désigne alors la subordination de toute l’investigation scientiﬁque à
+sa détermination préalable : «la méthode est &lt;absolument&gt; nécessaire pour
+rechercher la vérité des choses» (AT, X, p. 371, Marion, p. 10). Bien que la
+Règle IV soit incontournable pour comprendre la méthode cartésienne — sur
+ce point la majorité des commentateurs de l’œuvre de Descartes sont d’accord
+— elle présente cependant un grave problème conjoncturel concernant sa composition, puisqu’il existe deux versions différentes de ce texte sans qu’on
+dispose pour autant de l’original. Ces versions comportent une première différence remarquable : dans la copie prise par Leibniz lors de son séjour à Paris
+(copie dite de Hanovre), une partie de la Règle IV est placée à la ﬁn des Règles,
+tandis que dans l’autre version latine, il n’y a pas de rupture dans le texte de la
+Règle IV2.
+Ce problème pourrait être résolu si les textes avaient été datés, mais ce n’est
+pas le cas3, d’où la pertinence de s’interroger sur la continuité ou la rupture du
+texte lorsque l’on cherche à comprendre la méthode cartésienne dans son rapport avec la mathesis universalis aussi introduite dans la Règle IV. Car celle-ci,
+contrairement au terme méthode, n’apparaît que dans la deuxième partie de la
+Règle IV, qui dans la version de Hanovre est placée en appendice à la ﬁn des
+Règles. Ce procédé suggère, par conséquent, qu’il y a une opposition diachronique entre l’intérêt que présente la mathesis universalis et celui de la méthode.
+La question est donc de savoir si nous sommes en présence de deux textes se
+rapportant à deux problématiques distinctes.
+La majorité des commentateurs des Règles s’accordent sur le fait qu’il s’agit
+en effet de deux textes différents. Ils divergent cependant sur la nature de cette
+distinction, ce qui donne lieu à une discussion sur la méthode et la science
+cartésienne. Deux hypothèses ont été formulées pour articuler la Règle IV et
+examiner le rapport entre la mathesis universalis et la méthode, principes dont
+l’afﬁnité ne paraît pas toujours constante. En prolongeant les résultats de la
+critique textuelle de Weber, Shuster a proposé de voir dans la Règle IV-B un
+modèle de la IV-A, et il en situe la rédaction en 1619, dans le droit ﬁl, d’une
+part, des travaux de réforme de l’algèbre et des notes mathématiques des Cogitationes Privates relatives notamment à des compas spéciaux; et, de l’autre,
+de la construction d’une théorie générale de la proportion. Selon cette interprétation, le projet de mathesis universalis est abandonné par Descartes à partir de
+1630. Ce qui justiﬁerait le fait que Descartes n’ait plus employé l’expression
+
+Genèse de la méthode cartésienne 175
+
+mathesis universalis. La seconde interprétation, proposée par Marion n’offre
+pas de conjecture chronologique aussi précise et suggère de ne pas voir dans
+les Règle IV-A et B un rapport d’opposition, puisque chacun de leurs thèmes
+respectifs correspond aux thèmes de l’autre série.
+Le pivot de la dispute sur les dates d’élaboration des Règles repose avant
+tout sur la compréhension du projet des Règles. C’est pourquoi nous pensons
+que la question la plus importante à traiter à propos de ce texte n’est pas celle
+de savoir si sont ﬁables les justiﬁcations historiques qui soutiennent la thèse de
+la bipartition du texte (comme il n’y a pas d’original, elles seront toujours des
+spéculations). Au contraire, on doit poser les questions suivantes : faut-il envisager la mathesis universalis comme une mathématique universelle? Les
+deux textes présentent-ils deux projets distincts et donc deux rédactions distinctes? Absolument pas, mais pour une raison inverse de celle habituellement
+invoquée. Ce qui nous importe ici n’est d’ailleurs pas de faire le bilan précis
+de ce qui concerne en propre les dates de la rédaction des Règles, mais bien
+de comprendre l’objectif poursuivi par Descartes dans la Règle IV. La
+pensée cartésienne reste gouvernée, selon nous, dans la Règle dite IV-A par
+une unique question : la recherche d’une méthode universelle qui n’est présentée
+qu’à la Règle IV-B. De la mathématique (Règle IV-A) à la mathesis grecque
+(Règle IV-B), Descartes cherche la construction d’une mathesis universalis
+qui garde la certitude des démonstrations de la mathématique tout en dégageant sa méthode.
+Le sens de cette thèse est double par conséquent : distinguer la mathesis
+universalis de la mathématique universelle et promouvoir la mathesis universalis au rang de méthode universelle. À cet égard, on veut bien désavouer une
+lecture qui prescrit une autonomie d’argumentation des deux textes. Autrement
+dit, la Règle IV est conduite, selon nous, par la même question : la mise en
+œuvre d’une méthode apte à résoudre les problèmes de toutes les sciences.
+Ainsi, il est possible et même nécessaire pour la compréhension de la pensée
+cartésienne de procéder à une lecture de la mathesis universalis qui y voit une
+méthode dont le centre est occupé par les opérations d’ordre et de mesure,
+parce qu’elles révèlent l’unique chemin menant vers l’application de la
+déduction et de l’intuition dans la recherche scientiﬁque. Il s’agira alors
+d’examiner, point par point, ce qui se trouve de nouveau dans la mathesis
+universalis cartésienne.
+Nous allons revenir en premier lieu sur le passage de la conception vulgaire
+de la mathématique à une conception méthodologique qui aboutira à la mathesis universalis, tout en dégageant le sens méthodologique de celle-ci. En retrouvant la méthode dans la mathesis universalis, on doit éclairer et déchiffrer
+le rôle de l’ordre et de la mesure dans la constitution d’une science essentiellement déductive, ce qui a été oublié par les interprètes des Règles. En conséquence, nous serons plutôt contraint de conclure que la Règle IV doit être
+prise comme un texte unique, subordonné à la recherche d’une unique méthode
+applicable à la science, donc d’une méthode universelle.
+
+176
+
+Dialogue
+
+2. La distinction entre les Règles IV-A et IV-B : la duplicité des projets
+À l’égard de la bipartition de la Règle IV, l’interprétation de Weber est précisément au cœur du débat. Son argumentation est centrée sur quatre points :
+(1) il existe une frontière terminologique, étant donné que IV-A traite de la
+méthode sans utiliser le terme mathesis universalis. En revanche, la
+Règle IV-B, qui s’occupe de la mathesis universalis, n’emploie jamais
+le mot méthode;
+(2) il y a une frontière sémantique entre les deux textes, laquelle nous
+permet de les lire de façon distincte, ce qui signiﬁe que nous pouvons
+lire l’un sans lire l’autre, sans que cela pose problème;
+(3) il existe une frontière structurelle en vertu de laquelle les deux textes
+ne forment pas un tout organique;
+(4) après la Règle IV-B, il n’y a aucune référence à la mathesis universalis,
+au contraire de la Règle IV-A où la méthode est solidement reprise
+(Weber, 1964, p. 4–5).
+Ces quatre points argumentatifs esquissent alors une distinction radicale
+entre les deux textes : d’un côté ﬁgurent des questions qui concernent la méthode
+universelle dans son rapport avec toutes les sciences — méthode désormais
+travaillée dans le Discours de la méthode (Règle IV-A). De l’autre apparaissent
+les questions qui touchent à l’uniﬁcation de la mathématique établie à partir de
+la construction de la mathesis universalis (Règle IV-B).
+Dans un article consacré à l’analyse de la mathesis universalis, Schuster
+soutient l’idée principale de Weber qui afﬁrme que l’omission du terme mathesis universalis dans la Règle IV-A et l’absence du terme methodus dans la
+Règle IV-B est un argument essentiel qui aide à concevoir la bipartition de la
+Règle IV (Schuster, 1980, p. 45). Toutefois, à l’inverse de Weber — rappelons
+ici que la Règle IV-A et la Règle IV-B sont différentes, selon Weber, parce
+qu’elles ont été réalisées avec des propos différents : «la mathesis universalis
+n’aurait aucune liaison avec la méthode universelle» (Weber, 1964, p. 8) —
+Schuster défend que les deux parties sont différentes parce que la Règle IV-A
+est une nouvelle formulation de la Règle IV-B. Néanmoins, cela ne signiﬁe pas,
+avance-t-il, que l’idée d’une méthode générale découle de la mathesis universalis, mais tout simplement que la Règle IV-A étend l’idée de science universelle au-delà de la mathesis universalis (Règle IV-B) qui serait, elle, encore
+restreinte à la mathématique (cf. Schuster, 1980, p. 46 et Weber, 1964, p. 6).
+Les contenus des Règles IV-A et IV-B seraient donc différents parce que
+ces règles appartiennent à des moments différents de la construction de la
+pensée cartésienne. Ainsi, le texte IV-B serait le résultat des spéculations
+mathématiques auxquelles Descartes s’était consacré au cours de ses premières années d’études, tandis que le texte IV-A serait une conséquence de la
+nécessité cartésienne de formuler une méthode universelle pour toutes les
+sciences. Enﬁn, les textes ont une argumentation semblable parce qu’ils parlent
+
+Genèse de la méthode cartésienne 177
+
+de l’universalisation du savoir — la Règle IV-A traite d’une méthode universelle et la Règle IV-B d’une mathématique universelle — mais leurs contenus,
+et plus précisément, les buts poursuivis sont différents (Schuster, 1980,
+p. 83). D’où le fait qu’à l’inverse de la mathesis universalis, qui ne s’appliquait
+qu’à la science mathématique, la méthode universelle s’applique à toutes les
+sciences.
+À ce type de compréhension de la mathesis universalis se rattache étroitement l’interprétation de Garber, fondée notamment sur la mise en évidence
+d’une inconsistance propre au texte des Règles (Garber, 1990a, p. 6). Selon lui,
+les Règles VIII et V ne sont pas conciliables avec les Règles IV et XIV. Car les
+Règles VIII et V s’occupent de l’ordre pris en tant qu’essence de la méthode —
+celle-ci est applicable à tous les domaines de la connaissance — alors que les
+Règles IV et XIV sont rattachées aux questions mathématiques qui ont été
+développées au début de l’année 1620 (Garber, 1990a, p. 7). C’est ainsi que
+Garber estime que le problème du calcul de proportions est une question qui
+concerne la mathesis universalis, dont les interprètes de la science cartésienne
+ne doivent plus trop se soucier, étant donné que Descartes a pris conscience de
+la faiblesse de ce projet en l’abandonnant et qu’il s’est plutôt occupé d’établir
+la méthode dans les Règles. Il ne s’agit donc plus de chercher le principe de la
+méthode dans la mathesis universalis, mais plutôt dans le concept d’ordre.
+L’appréciation formulée par Sasaki s’inscrit nettement dans un horizon
+proche de celui de Garber. Aux XVIe et XVIIe siècles, de nombreux textes attestent que l’application d’une mathématique générale aux questions de proportions s’est déplacée vers une nouvelle science : la mathesis universalis4.
+À cet égard la mathesis universalis cartésienne doit être comprise dans la
+conception d’une mathématique générale propre au XVIe siècle. Selon lui,
+mathesis universalis : «works fully only within the mathematical sciences»
+(Van de Pitte, 1991a, p. 73). Ainsi, la mathesis universalis semble faire écho
+aux travaux de Viète, Harriot, Oughtred, Van Schooten et Wallis et traite de
+l’arithmétique spécieuse ou algèbre et du calcul géométrique, en considérant les notions équivalentes entres elles, donnant lieu ainsi à une mathesis
+universalis.
+À certains égards, la mathesis universalis cartésienne n’est pas une mathématique universelle, mais plutôt une méthode. Les Règles IV-A et IV-B sont
+quasiment identiques, afﬁrme Van de Pitte, parce que chez Descartes la mathesis universalis ne se retrouve pas dans le domaine exclusif de la mathématique
+au sens étroit. Il faut ici se rendre attentif à la signiﬁcation spéciﬁque du mot
+mathesis, puisque Descartes voit dans celle-ci un chemin qui peut apprendre à
+la science à bien se conduire dans la recherche de la vérité (Van de Pitte, 1991a,
+p. 65). Ainsi, la mathesis universalis peut s’appliquer à toute les sciences —
+elle est donc universelle — parce que le principe de validité de la science est
+aussi celui de la découverte, qui ne peut être dégagé qu’à travers la méthode.
+La mathesis universalis porte donc les principes de la science (Van de Pitte,
+1991b, p. 375–379). L’étude de Beyssade est inspirée par la même certitude
+
+178
+
+Dialogue
+
+lorsqu’elle montre que la méthode universelle, la science universelle et la
+mathesis universalis se rapportent à l’autonomie de la raison qui se discipline
+elle-même — à travers l’ordre et la mesure — par une unique méthode dont la
+désignation est malléable et dépend du contexte. Pourtant il s’agit toujours de
+repenser l’unité de la science par rapport à l’unité de la raison (Beyssade, 2001,
+p. 312–314).
+Loin de retenir la division de la Règle IV comme la marque d’une duplicité
+de projet, Marion voit dans les sections de la Règle IV un format commun
+(Marion, 2000, p. 13). Sans nier la méthode universelle, la mathesis universalis
+réalise l’exigence d’une connaissance certaine et évidente dans la mesure où la
+mathématique peut être considérée elle-même comme productrice de certitude
+dans la pensée et la science cartésiennes (Marion, 2000, p. 59). La mathesis
+universalis est établie comme une exigence, à savoir celle de renvoyer à la
+sphère méthodologique toute interrogation sur l’origine et la détermination de
+la certitude dans la connaissance. Ainsi, toute l’analyse de la Règle IV ne peut
+pas négliger le fait que, dans les deux textes, la question centrale est de déterminer la méthode, fondement de toute certitude. Le divorce entre les deux
+textes se dissoudrait dans une harmonie silencieuse qui transcrirait une bijection, bien articulée entre eux au plan de leurs arguments.
+À partir de ce débat, on revient à la question suivante : si la Règle IV-A doit
+être lue séparément de la Règle IV-B, pourquoi apparaissent-elles ensemble
+dans la version d’Amsterdam? Cette question peut s’appliquer aussi à la version de Hanovre : si la Règle IV-A peut être lue indépendamment de la Règle
+IV-B, pourquoi renvoie-t-on le lecteur, au une note, à la lecture de la Règle
+IV-B? Car, tout d’abord, même si on considère qu’il s’agit de deux textes différents, on doit admettre qu’il y a quelque rapport entre eux, puisque toutes les
+deux sont appelées Règle IV. Ainsi, soit la Règle IV-A a été refaite à partir de
+la Règle IV-B, soit elle en est une continuation, et on est obligé d’admettre
+qu’il y a un rapport entre elles. Mais, il faut savoir lequel.
+3. À propos de la continuité des deux textes
+3.1. La méthode, «via» d’accès à la connaissance certaine et évidente
+Que le terme latin via soit décisif, nous n’en voulons pour preuve que sa signiﬁcation propre. Rigoureux et philologiquement irréprochable, il semble bien
+atténuer l’absence du terme methodus dans la Règle IV-B. Ce mot, synonyme
+du terme iter, signiﬁe : chemin et moyen. Si l’on considère le Discours de la
+méthode (dorénavant Discours), il semble incontournable en ce qui concerne
+l’équivalence sémantique (soulignée par nous) entre le terme latin via (inter) et
+le terme français chemin (méthode). Voici le texte cité avec l’édition latine.
+Et enﬁn je n’eusse su borner mes désirs, ni être content, si je n’eusse suivi un chemin
+par lequel, pensant être assuré de l’acquisition de toutes les connaissances dont je
+serais capable … (AT, VI, p. 28).
+
+Genèse de la méthode cartésienne 179
+Nec denique cupiditatibus imperare, ac rebus quae in potestate mea sunt contentus
+esse potuissem, nisi viam illam fuissem secuutus, per quam considebam me ad omnem rerum cognitionem perventurum cujus essem capax … (AT, VI, p. 555)
+
+L’objectif du Discours se révèle dans sa structure même : la comparaison entre
+le chemin et la méthode. C’est pourquoi la recherche scientiﬁque a besoin d’un
+chemin que la méthode institue — dans les Règles et dans le Discours — comme
+condition de la certitude. Convaincu que la connaissance commence par la méthode, Descartes écrit le Discours en tant que préparation à la science qui va
+suivre. En rapportant le chemin à la direction certaine que doivent suivre toutes
+les sciences lorsqu’on veut retrouver la vérité, il est possible, en effet, de constater de façon encore plus claire l’association de la méthode avec cette nouvelle
+conception du chemin dans le célèbre exemple du Discours. «L’unique façon de
+sortir d’une forêt est de suivre un droit chemin» (AT, VI, p. 24–25). L’image est
+claire : la méthode dégage l’unique chemin garantissant que la science ne
+s’adonnera pas à des recherches infructueuses. Par conséquent, le chemin tisse le
+lien entre l’incertitude d’une question et la certitude du moyen de la résoudre.
+À l’instar du Discours, les termes via et iter, lorsqu’ils sont associés à la
+mathématique, sont également employés dans les Règles pour désigner la méthode. Voici ce que l’on trouve dans les Règles.
+Quand je commençai à appliquer mon esprit aux disciplines mathématiques, je lus
+d’abord la plupart de ce qu’en rapportent les Autorités qu’on lit d’habitude, et je me
+plaisais surtout à l’Arithmétique et à la Géométrie, parce qu’on les disait être très
+simples et comme des chemins vers les autres (Marion, p. 13, AT, X, p. 374–375).
+
+Et dans le Discours :
+Et considérant qu’entre tous ceux qui ont ci-devant recherché la vérité dans les sciences, il n’y a eu que les seuls mathématiciens qui ont pu trouver quelques démonstrations, c’est-à-dire quelques raisons certaines et évidentes, je ne doutais point que
+ce ne fût par les mêmes qu’ils ont examinées; bien que j’en espérasse aucune autre
+utilité, sinon qu’elles accoutumeraient mon esprit à se repaître de vérités, et ne se
+contenter point de fausses raisons. (AT, VI, p. 19).
+
+En acceptant la connotation du terme via (chemin), nous pouvons percevoir ce
+qui met au jour l’intention profonde qui commande le déplacement conceptuel
+de la mathématique à la méthode : établir un chemin sûr pour toutes les sciences. C’est dans le paragraphe 5, paragraphe initial de la Règle IV-B, que le
+terme via va être employé dans l’intention de donner un sens méthodologique
+à la mathématique. Dans le Discours, c’est aussi dans mathématique qui peut
+procurer des caractères méthodologiques à la recherche de la vérité dans tous
+les domaines de la science. Ainsi, les débats autour de la mathématique dans
+les deux œuvres ne conduisent qu’à la mise en évidence d’un mode d’accès
+
+180
+
+Dialogue
+
+ﬁable aux autres sciences. La méthode devient le droit chemin ou le chemin
+plus assuré qui préside à la recherche de la vérité (AT, X, p. 360 et 364). En
+fait, les termes via et iter ne sont pas employés au sens étroit dans les Règles
+tout comme le chemin dans le Discours. Au contraire, ils désignent, dans un
+sens plus général, le moyen ou la manière de conduire la raison à la recherche
+de la certitude.
+Il convient maintenant de conﬁrmer ce que le terme via signiﬁe dans les
+Règles : la méthode. Si Descartes n’emploie pas le mot methodus dans la Règle
+IV-B — argument central pour la distinction entre les textes — c’est parce
+qu’il fait usage d’un terme similaire, via. La mathématique n’est pas elle-même
+une méthode universelle. Pourtant, elle peut bien indiquer le chemin par lequel
+on aboutira à une méthode pour toutes les sciences. Il est utile, pour se rendre
+attentif au caractère central de la démonstration des mathématiques dans la
+recherche d’une méthode, de rappeler la Règle II aussi bien que le Discours et
+les Principes de la philosophie :
+Et maintenant il faut conclure de tout ceci, non certes qu’il ne faille rien étudier que
+l’Arithmétique et la Géométrie, mais seulement que ceux qui recherchent le droit
+chemin de la vérité ne doivent s’occuper d’aucun objet, duquel ils ne puissent avoir
+une certitude égale à &lt;celles des démonstrations de&gt; l’Arithmétique et de la Géométrie (Marion, p. 6, AT, X, p. 366).
+Ces longues chaînes de raisons, toutes simples et faciles, dont les géomètres ont
+coutume de se servir pour parvenir à leurs plus difﬁciles démonstrations, m’avaient
+donné occasion de m’imaginer que toutes les choses qui peuvent tomber sous la connaissance des hommes s’entre-suivent en même façon (AT, VI, p. 19).
+je ne veux rien recevoir pour vrai, sinon ce qui en sera déduit avec tant d’évidence,
+qu’il pourra tenir lieu d’une démonstration Mathématique (Pr. II, 64, AT, IX, p. 102).
+
+On note simplement, pour commencer, que Descartes a bien conscience de la rigueur des mathématiques quand il est question de faire des démonstrations. On
+conçoit aisément que ces œuvres se rapprochent au niveau d’une exigence —
+toujours normative — de reporter dans le champ de la science des certitudes
+similaires aux certitudes de la mathématique. Il sera donc essentiel, selon nous, de
+savoir comment les mathématiques peuvent réorganiser les sciences, en dégageant
+une méthode universelle, donc productrice de certitude dans tous les domaines de
+la science. C’est pourquoi la continuation du paragraphe 4 de la Règle IV s’achève
+sur la discussion importante qui concerne la méthode et les mathématiques. Car,
+malgré les certitudes de ses démonstrations, reste à savoir si les mathématiques
+peuvent contribuer en quelque sorte à la constitution d’une discipline universelle :
+Et bien que j’aie dessein de dire maintes choses des ﬁgures et des nombres, puisqu’on
+ne peut demander à aucunes autres sciences des exemples aussi évidents et aussi certains, pourtant tous ceux qui considéreront attentivement mon sentiment, apercevront
+
+Genèse de la méthode cartésienne 181
+aisément que je pense ici rien moins qu’à la Mathématique commune, mais que
+j’explique certaine autre discipline, dont ils sont plutôt l’habit que les parties (Marion,
+p. 12, AT, X, p. 374).
+
+L’entreprise de Descartes ne consiste pas tant à promouvoir la mathématique
+commune en science universelle. Cette voie, Descartes l’a refusée absolument,
+en renonçant à comprendre la science des nombres et des ﬁgures comme un
+savoir réfractaire aux causes des faiblesses de la science. Les mathématiques
+ne sont pas immunisées contre l’erreur. Elles ne peuvent pas servir de méthode
+universelle. La tension s’installe, donc, dans les Règles — aussi bien que dans
+le Discours — dans la mesure où les mathématiques sont la science la plus
+certaine, mais pas universelle. C’est pourquoi la mise en évidence du terme
+integumentum à la ﬁn du paragraphe 4 de la Règle IV ne peut pas être négligée,
+puisqu’il montre cette tension :
+Si j’ai dit «habit», ce n’est pas que je veuille cacher cette doctrine et envelopper pour
+en écarter le commun &lt;des hommes&gt;, mais plutôt pour l’habiller et l’orner, en sorte
+qu’elle soit plus accommodée à l’esprit humain (Marion, p. 12, AT, X, p. 374)5.
+
+Afin de dirimer le paradoxe que représente l’idée de prendre les mathématiques comme unique exemple de science certaine, sans la concevoir en
+tant que discipline contenant l’essence de la pensée humaine, Descartes
+amorce une critique de la mathématique vulgaire. Remarquons aussitôt
+que la critique cartésienne ne refuse les mathématiques que pour la replacer au niveau méthodologique. Descartes est très méfiant à l’égard des
+mathématiques lorsqu’on les considère du point de vue des problèmes
+qu’elle pose :
+Car en réalité il n’est rien de plus vain, que de s’occuper de nombres nus et de ﬁgures
+imaginaires, en sorte de paraître vouloir s’arrêter à la connaissance de telles niaiseries, et de s’appliquer tant à ces démonstrations superﬁcielles…. (Marion, p. 13,
+AT, X, p. 375)
+
+Et voici ce que l’on trouve dans le Discours :
+Mais je n’eus pas dessein, pour cela, de tâcher d’apprendre toutes ces sciences particulières qu’on nomme communément mathématiques… (AT, VI, p. 19).
+
+La mise en évidence de la mathématique qui, dans les Règles et dans le Discours, porte sur la méthode qu’on peut repérer dans la mathématique, concerne moins son contenu — les questions proprement mathématiques — que
+l’explication des conditions de production de la certitude dans la science. Les
+mathématiques ne sont pas partie de la discipline universelle — d’ailleurs
+
+182
+
+Dialogue
+
+aucune science n’est partie de cette discipline, car il s’agit plutôt d’une discipline sans partie, d’une méthode universelle. Et pourtant, au détriment des
+autres sciences, elles lui sont très attachées parce qu’elles l’habillent. Elles
+peuvent servir de discipline pour la science. Néanmoins, on doit écarter la
+dérive scientiﬁque des mathématiques, qui ne touche que le métier du mathématicien (Calculateurs et Géomètres), en la retenant d’abord en tant que
+chemin pour la science6.
+Pour s’adapter à cette discipline séminale de l’esprit humain (Marion, p. 12,
+AT, X, p. 374) les mathématiques doivent indiquer un modus operandi pour les
+sciences. C’est pourquoi les mathématiques doivent étendre sa signiﬁcation
+initiale, établie au début de la Règle IV-A, et dépasser son plus grand avantage,
+qui est d’être la science la plus simple, pour devenir une forme générale de
+raisonnement qui confère la certitude à la science. À cet égard, les mathématiques doivent être plutôt un ars (Marion, p. 13, AT, X, p. 375), dont la signiﬁcation se rapporte à la manière d’agir ou de procéder, et peut désigner
+ﬁnalement le savoir-faire. Dès lors, si l’on pense pouvoir concevoir l’association
+des mathématiques avec le terme ars pour déﬁnir les mathématiques comme
+un savoir-faire applicable à toutes les sciences (y compris la mathématique
+elle-même), on doit forcement créditer les mathématiques d’un statut de
+technique — de méthode — qui va au-delà de celui qui est attaché à son sens
+de science des grandeurs (Règle IV-A).
+La formulation correcte d’une éventuelle contribution des mathématiques
+à la discipline recherchée par Descartes dans la Règle IV doit rendre compte
+du fait que le paragraphe 5 de la Règle IV présente alors une valorisation de
+la technique fournie par les mathématiques — la façon choisie par les mathématiques pour présenter ses certitudes (AT, X, p. 357) — au détriment des
+résultats de la pratique du mathématicien qui parfois ne présentent pas la
+méthode de résolution. Cette voie argumentative est reprise dans le Discours
+(AT, VI, p. 19) étant donné que peu importent les démonstrations dans le
+domaine des mathématiques en face de la méthode qu’on peut dégager de ces
+démonstrations. C’est le savoir-faire détenu par les mathématiques qu’il faut
+reprendre, pas les calculs et bagatelles. À cet égard, la présence de la mathématique dans la Règle IV-B, dont les problèmes ont été formulés dans la
+Règle IV-A, pourrait se voir comme un démembrement de son acception
+méthodologique.
+La critique de la mathématique vulgaire a pour fonction de redresser les
+mathématiques et de retourner vers un sens plus originel, celui d’art, de
+méthode. Il faut considérer la mathématique à partir de son concept originel
+de mathesis — au sens de discipline — d’où il est possible de dégager un
+sens méthodologique. Néanmoins, la pensée cartésienne ne pratiquera pas
+une assimilation aveugle du concept ancien de mathesis, mais va promouvoir sa modernisation, en dégageant son sens universel qui va bien au-delà
+d’une mathématique universelle parce qu’elle s’inscrit dans une méthode
+universelle.
+
+Genèse de la méthode cartésienne 183
+
+3.2. La critique de la mathesis ancienne
+Descartes rappelle tout d’abord que, selon l’étymologie, μαθήσις signiﬁe
+«discipline». Les connotations du terme «discipline» renvoient à un unique
+sens, celui d’enseigner. La science demande une discipline capable d’instruire
+l’esprit pour l’acquisition d’une connaissance certaine. Descartes désavoue
+clairement un glissement dans la traduction du terme μαθήσις, qui risque de
+commencer avec sa traduction par mathématique qui éclipse le sens de discipline. À l’exception de la traduction de Marion, remarque Van de Pitte la distinction entre le terme originel grec μαθήσις, dont le correspondant latin est
+mathesis ou matheseos et le terme latin mathematica n’est pas tracée. Pour
+autant, en observant la critique de la mathématique qui porte, surtout, sur le
+sens étroit donné à cette science que l’on retrouve dans le terme mathematica,
+on voit qu’au fur et à mesure de l’écriture des Règles cette critique ne touche la
+mathesis qu’à la Règle IV où elle s’adresse aux vestiges (vestigium) qui ont été
+développés par Pappus et Diophantus. La critique cartésienne de la mathesis
+grecque n’a pas pour objectif d’imputer celle-ci à l’ostracisme historique,
+mais, bien au contraire, de la réformer, puisque la mathematica vulgaris ne sert
+pas à la constitution d’une discipline (AT, X, p. 376–377). Descartes commence donc à parler d’un autre savoir, lié à la mathématique et pourtant autonome.
+La critique primordiale, qui vise l’absence d’une méthode dans les démonstrations de la mathématique dite vulgaire, gouverne également la critique de
+la mathesis grecque dans le paragraphe 3 (AT, X, p. 373). On ne trouve, à ce
+moment, aucune mention de quelque mathématicien grec que ce soit; y apparaît en contrepartie le terme analyticus. Cette critique vise à la méthode
+employée par les Grecs dans la résolution des problèmes. Au lieu d’exhiber la
+forme et de montrer la manière dont ils avaient résolu les problèmes, ces
+mathématiciens se contentaient de présenter les résultats obtenus sur certaines
+questions. De cette critique de la mathesis ancienne (AT, X, p. 376, §5) on revient
+à une tension dans la conception même des mathématiques qui apparaît dans la
+Règle IV (AT, X, p. 373–374, §2, 3, et 4). Cette tension porte sur l’ambiguïté
+cartésienne au sujet de la mathesis grecque, puisque, d’un côté, Descartes la
+considérait comme un modèle pour les autres sciences et, que, de l’autre, il la
+critiquait fortement, elle aussi, pour son manque de méthode.
+Si une tension teinte la Règle IV, elle ne commence en fait à trouver sa
+résolution qu’au cinquième paragraphe. Quoique subsiste encore dans ce
+paragraphe une certaine incertitude sur le rôle de la mathématique dans la
+construction du savoir scientiﬁque, incertitude représentée alors par les difﬁcultés méthodologiques de la mathematica vulgaris, on voit Descartes abandonner les discussions autour de la mathématique vulgaire et s’adresser à la
+mathesis ancienne. Ainsi, après avoir indiqué que la mathematica représentait
+une ouverture vers les autres sciences (AT, X, p. 374), il entend chercher ce qu’il
+y a de primordial dans la mathematica, à savoir la mathesis. De la mathématique
+
+184
+
+Dialogue
+
+vulgaire à la mathesis ancienne, il n’existe qu’un seul chemin : la critique d’un
+savoir sans discipline, sans méthode. À l’intérieur de la mathematica, la mathesis, mais Descartes révoque un autre savoir :
+Et même certaines traces de cette vraie Mathesis me semblent paraître déjà dans
+Pappus et Diophante […]. Et je croirais presque que, par une ruse détestable, ces
+Écrivains eux-mêmes l’ont supprimée ensuite de leurs écrits; car comme il est
+constant que font maints artisans pour leurs inventions, ils ont craint peut-être, parce
+qu’elle était très facile et simple, qu’elle ne se perdît en se divulguant, et ils ont préféré nous faire voir en sa place quelques vérités stériles démontrées par des conséquences tirées très finement, comme un effet de leur art, pour que nous les
+admirions, plutôt que de nous enseigner leur art lui-même, ce qui eût ôté toute occasion d’admiration (Marion, p. 14, AT, X, p. 376–377).
+
+Ce passage souligne en particulier le fait qu’une science sans la méthode qui la
+sous-tend est peu importante à l’égard d’une recherche des conditions de production de la certitude. La réduction de la science à ses résultats est stérile
+surtout pour ce qui touche à la déﬁnition d’une méthode universelle. Les solutions remarquables de la mathesis ancienne sont méprisées parce qu’elles ne
+dévoilent pas la méthode. Autrement dit, le raisonnement qui avait permis aux
+mathématiciens grecs de parvenir à leurs grandes découvertes restait, selon
+Descartes, dissimulé.
+La mathesis ancienne employait la déduction — opération séminale pour la
+construction de la connaissance certaine (Règles II, III, VII et IX, Principes de
+la Philosophie AT, IX, p. 2) — sans faire usage d’une méthode. On peut dire
+alors, d’une façon plus précise, que la mathesis grecque, employait d’un côté
+le raisonnement déductif et ne montrait de l’autre ni le chemin parcouru par la
+déduction ni comment justiﬁer le choix de ce chemin. À cet égard, l’exigence
+méthodologique selon laquelle les mathématiques doivent présenter le chemin
+de la démonstration s’unit à l’exigence, réalisée dans le deuxième paragraphe
+de la Règle IV, de se construire une méthode capable d’exposer le modus
+operandi en vertu duquel la déduction a été réalisée (AT, X, p. 372). Par conséquent, l’admiration pour la mathesis ancienne, que suscitent l’usage de la
+déduction et ses résultats, est remplacée par une forte critique concernant
+l’absence d’exposé de la méthode — exigée dans la Règle IV-A — à travers
+laquelle on peut présenter et justiﬁer le processus déductif.
+En refusant la recherche d’une discipline fondamentale de la connaissance
+humaine pour les résultats de la science, en particulier de la mathématique,
+Descartes désavoue la mathématique vulgaire et ancienne — riches en résultats
+— et dégage une autre voie qui, cette fois-ci, passe par la forme qui permet de
+parvenir à des résultats certains. Penser la certitude de la science consiste à
+chercher le chemin au moyen duquel elle parvient à ses découvertes. La
+discipline — mathesis — doit s’occuper du point de départ de toute certitude
+qui réside dans la connexion entre les sciences (Règle I). Au lieu de rompre la
+
+Genèse de la méthode cartésienne 185
+
+thématique de la Règle IV-A, la Règle IV-B circonscrit la critique de la mathématique vulgaire, qui a déjà été faite d’une façon peu précise dans la Règle
+IV-A, de même que celle de la mathesis grecque au problème de la méthode.
+L’entreprise de Descartes ne consiste donc pas tant à promouvoir les mathématiques ou la mathesis grecque, qu’à interpréter la mathesis selon la discipline
+qu’elle peut dégager.
+3.3. La mathesis universalis cartésienne
+L’unité de l’humana sapientia demande une mise en évidence de la connexion
+des savoirs (Première règle, AT, X, p. 360–361) qui ne se retrouve pas dans la
+mathématique ou dans la mathesis ancienne, toujours considérées comme parties
+de la science universelle. Au lieu de concevoir la mathématique comme une science qui se détermine selon la spéciﬁcité de son objet (astronomie avec les astres,
+géométrie avec les grandeurs continues, arithmétique avec les grandeurs discontinues), la pensée cartésienne va récupérer la méthode employée par la mathématique dans toutes ses applications (AT, X, p. 377–378). Descartes ne mobilise la
+déﬁnition de mathesis que pour qualiﬁer l’existence d’une mathesis universalis
+qui désigne la manière d’organiser et de régler la déduction — applicable à toutes
+les sciences — et ne se restreint pas à offrir des solutions pour certains problèmes
+circonscrits à l’analyse de quelques sciences particulières. La mathesis n’est
+donc ni la mathematica ni la mathesis grecque parce qu’elle est universelle :
+Pourtant il parut à &lt;celui&gt; qui s’applique plus attentivement, que seules toutes &lt;les
+choses,&gt; où se peut examiner un certain ordre ou mesure, se rapportent à la Mathesis,
+et il n’y a aucune différence qu’on doive chercher telle mesure dans des nombres, ou
+des ﬁgures, ou des astres, ou des sons, ou dans n’importe quel autre objet qu’on
+voudra; et en suite il doit y avoir une certaine science générale, qui explique tout ce
+qu’on peut chercher touchant l’ordre et la mesure qui n’est liée à aucune matière
+spéciale, et qu’elle se nomme, nom pas d’un nomme emprunté, mais déjà ancien et
+d’usage reçu, la Mathesis Universalis … (Marion, p. 15, AT, X, p. 377–378).
+
+Le verbe debere (doit) circonscrit le projet de science universelle dans les
+limites de la mathesis universalis, étant donné qu’il conditionne l’existence
+d’une science universelle à celle de la mathesis universalis. Ainsi le verbe debere, loin d’indiquer, comme l’ont afﬁrmé plusieurs commentateurs qui ne considèrent pas la forme conditionnelle de cette proposition, une identité entre
+mathesis universalis et science universelle, indique surtout une exigence normative.
+Cette exigence renvoie à la Première règle (AT, X, p. 361) qui détermine qu’il est
+plus facile d’apprendre les sciences dans un ensemble que séparément, ce qui
+subordonne la production de la certitude scientiﬁque à la connaissance du rapport entre les sciences. Le même verbe debere apparaît pour montrer la subordination de la science au modus operandi qui les réunit comme un savoir humain.
+Par conséquent, la mathesis universalis est déﬁnie comme l’unique chemin
+
+186
+
+Dialogue
+
+possible — l’unique méthode possible, donc universelle — par lequel on peut
+comprendre la connexion des savoirs à l’égard de la certitude. L’universalité de
+la méthode est subordonnée à sa singularité, c’est-à-dire que la méthode est universelle parce qu’unique, aussi bien que l’humana sapientia (AT, X, p. 360).
+La mathesis universalis cartésienne ne rejoint pas les mathématiques universelles proposées par différents mathématiciens des XVIe et XVIIe siècles, car elle
+ne désigne pas une science capable d’amalgamer en une mosaïque les diverses
+sciences mathématiques, puisqu’elle s’étend, selon Descartes, «aussi à tout ce
+à quoi s’étendent celles-là, et là-dessus à bien plus encore» (Marion, p. 15, AT,
+X, p. 378). Retenons pour l’instant que, dans cette perspective, Descartes peut
+comprendre la mathesis universalis — dite purus mathesis — dans les Meditationes de prima philosophia (Méditations dorénavant), comme l’unique science de la nature corporelle : «Or j’imagine d’ordinaire beaucoup d’autres
+choses en plus de cette nature corporelle qui est l’objet de la mathématique
+pure» (AT, VII, p. 74, cf. Beyssade, 2001, p. 209). Il est aisé d’identiﬁer, dans
+cette tentative de la Règle IV qui vise à traduire toutes les sciences de la nature
+par l’ordre et mesure, la mathesis universalis à la purus mathesis au sens où
+celle-ci dégage l’unique chemin de dicibilité du réel.
+Les échos de la mathesis universalis sont entendus dans la lettre préface du
+Discours de la méthode : la science universelle est présentée comme un projet
+au moyen duquel il sera possible de penser plusieurs domaines de la science :
+Le projet d’une Science universelle qui puisse élever notre nature à son plus haut
+degré de perfection. Plus, la Dioptrique, Les Météores, &amp; la Géométrie; où les plus
+curieuses Matières que L’auteur ait pu choisir, pour rendre preuve de la Science
+universelle qu’il propose, sont expliquées en telle sorte, que ceux mêmes qui n’ont
+point étudié les peuvent entendre (Mersenne, 1636, AT, I, p. 339).
+
+Dans cette lettre, le terme science universelle, loin d’être présenté comme
+l’antithèse de la diversité de la science, révèle que l’universalité de la science
+n’est pas la compartimentation des divers domaines de la connaissance humaine dans une unique science, qui serait inscrite dans une mathématique universelle, par exemple. Le projet d’une science universelle s’inscrit dans un
+cadre méthodologique qui gouverne l’édiﬁcation des sciences sur l’unique fondation méthodologique. Les Essais, qui viennent après le Discours, rendent
+possible la science universelle parce qu’ils montrent comment on peut appliquer la même méthode aux différents domaines du savoir — les Règles ne
+montrent que l’application de la méthode aux mathématiques, selon la division
+du texte proposée par Descartes —, en dégageant leur connexion à ce niveau.
+À l’encontre des afﬁrmations des mathématiciens des XVIe et XVIIe siècles, la
+déﬁnition de la mathesis universalis suggérée dans la Règle IV révèle, en conséquence, qu’il ne s’agit pas de subordonner les diverses sciences mathématiques à une «mathématique générale». S’il y a subordination de la science,
+c’est à la méthode que la mathesis universalis fait voir dans la connexion entre
+
+Genèse de la méthode cartésienne 187
+
+les savoirs. Peu importe l’objet de chaque science au regard de la méthode inscrite dans la mathesis universalis : «j’ai cultivé cette Mathesis Universalis,
+autant qu’il fut en moi, en sorte que dès lors j’estime pouvoir me consacrer à
+des sciences un peu plus relevées sans soin précipité» (Marion, p. 16, AT, X,
+p. 379). Il ne s’agit pas de réduire les sciences à la mathématique, c’est-à-dire
+qu’il ne s’agit pas de penser que tout est mathématisable au sens étroit du
+terme. Au contraire, on doit penser que toute connaissance certaine relève de la
+méthode. La mathesis universalis est donc une méthode qui prescrit à toutes les
+sciences l’ordre et la mesure en tant qu’unique chemin vers la certitude.
+Les principes d’ordre et de mesure susceptibles de fonder la méthode comportent un aspect irréductiblement révolutionnaire dans les Règles. De fait,
+dans le Discours Descartes ne révèle pas sa méthode : «je ne mets pas Traité de
+la Méthode, mais Discours de la Méthode […] pour montrer que je n’ai pas
+dessein de l’enseigner, mais seulement d’en parler…» (À Mersenne, 20 avril
+1637, AT, I, p. 349). Alors que dans les Règles il a bien conscience qu’il faut
+rendre visible la via par laquelle on doit procéder à la recherche scientiﬁque :
+«Et de fait dans tout le Traité nous nous efforcerons de poursuivre si exactement tous les chemins qui s’ouvrent aux hommes pour connaître la vérité et de
+les fait voir si aisément, que quiconque aura parfaitement appris toute cette
+méthode» (Marion, p. 31, AT, X, p. 399). Il devient donc très difﬁcile de penser
+la méthode dans le Discours sans pour autant la rapporter aux Règles, car
+celles-ci rendent visible ce qui a été caché — comme un secret — par Descartes dans le Discours, à savoir la méthode elle-même.
+À cet égard, la mathesis universalis — celle qui est mise en œuvre dans la
+Règle IV — est bien au cœur de ce déplacement d’une conception générale de
+la méthode (il est question de «règles certaines et faciles», Marion, p. 35, AT,
+X, p. 371/26, voir aussi «considérations et maximes», Discours, AT, VI, p. 3)
+à une méthode universelle. Si la méthode cartésienne en vertu de laquelle on
+projette une science universelle est la mathesis universalis, reste donc à savoir
+en quoi consistent les opérations d’ordre et de mesure. En quel sens ces opérations proﬁtent-elles à une nouvelle science? Quel impact méthodologique et
+épistémologique vont-elles avoir dans la constitution du savoir scientiﬁque?
+4. La mathesis universalis : ordre et mesure
+4.1. La mesure
+L’hypothèse que nous souhaitons mettre à l’épreuve dans ce qui suit est que le caractère heuristique de la méthode cartésienne permet en fait de lever certaines
+difﬁcultés des sciences (qui certes ne sont pas les plus fondamentales au regard des
+exigences proprement métaphysiques), de sorte que, sans doute, l’acquis le plus
+positif de la méthode est l’insubordination de la science à la chose. Puisque
+la métaphysique est provisoirement privée de dire quoi que ce soit sur l’ordre de
+la connaissance — les Règles ne portent pas le mot latin metaphysica ni l’expression
+prima philosophia — la seule façon dont il est alors possible d’éprouver les
+
+188
+
+Dialogue
+
+prétentions de la science consiste dans la constitution d’une méthode qui prend en
+considération la chose par rapport à ce qui peut être aisément connu. L’ordre des
+difﬁcultés prend la place de la métaphysique. C’est à la méthode qu’il faut se rapporter lorsque l’on souhaite faire de la science dans les Règles plutôt que simplement penser les différences et l’identité entre les objets. Ce qui gouverne les Règles
+se fonde sur un aspect méthodologique plutôt qu’heuristique.
+C’est pourquoi Descartes revient sur la distinction réelle qui livre les objets
+au genus entis, et cherche de l’homogène dans les objets fabriqués par l’esprit,
+en suivant l’exigence du calcul et de la déduction. À cet égard, la mesure —
+opération séminale de la méthode — deviendra une certaine mise en rapport des quantités (continues ou discontinues) qui permettent l’usage de la
+déduction.
+Reste à savoir en quel sens les objets peuvent être semblables et différents?
+Comment mesurer deux choses qui sont absolument différentes? Comment
+mesurer, par exemple, la différence et les ressemblances entre les Jeunes ﬁlles
+au piano de Renoir et la Bachiana numéro 5 de Villa-Lobos? Ces œuvres sont
+tout simplement différentes, on pourrait même dire qu’elles sont hétérogènes.
+En revanche, il est tout à fait possible de mesurer les semblables, car mesurer
+c’est admettre le paradoxe de l’égalité : dire des ressemblances combien elles
+sont différentes. Cependant, qu’en est-il du semblable dans les choses?
+Le choix de l’objet de la mesure est donc subordonné à la simplicité, non pas
+déﬁnie, mais pourtant prise en tant que critère utile au calcul. Par là, Descartes
+franchit un pas décisif : l’établissement de l’étendue comme l’identité qui permet de connaître la différence entre les objets. Il écrit :
+Par étendue nous entendons, tout ce qui possède longueur, largeur et profondeur,
+sans rechercher, soit s’il s’agit d’un corps vrai, soit seulement d’un espace; et il ne
+semble pas non plus qu’il y faille plus d’explication, puisque nous n’apercevons par
+imagination absolument rien plus aisément (Marion, p. 63, AT, X, p. 442).
+
+Loin d’entamer une disputatio métaphysique, Descartes prend en considération l’étendue en la rapportant à un cadre heuristique. Le choix de Descartes
+est parfaitement remarquable, par sa précision et surtout par son économie
+puisqu’il discipline la compréhension de la différence qui marque l’individualité
+de chaque objet, en la rapportant à ce qui peut être traduit par des valeurs
+mesurables, donc déductible. Dès lors, il faut savoir comment trancher la différence des objets en fonction de l’étendue. Les Règles fournissent trois éléments : dimension, ﬁgure et unité (AT, X, p. 447).
+Premièrement, le concept de dimension est présenté selon la polysémie de
+ses usages. Elle est instituée en tant que concept abstrait qui réunit la diversité
+du réel sous la forme du mesurable :
+Par dimension, nous n’entendons rien d’autre, que le mode et la raison, selon laquelle
+on considère que quelque sujet est mesurable : en sorte que non seulement la
+
+Genèse de la méthode cartésienne 189
+longueur, la largeur et la profondeur sont des dimensions du corps, mais encore
+la gravité est la dimension selon laquelle les sujets sont pesés, que la vitesse est la
+dimension du mouvement, et une inﬁnité d’autres de cette sorte (Marion, p. 67, AT,
+X, p. 447).
+
+La supposition que tous les objets sont mesurables rend la dimension universelle parce qu’applicable à tous ceux qu’on peut quantiﬁer et traduire par des
+grandeurs continues et discontinues. À cet égard, la dimension rend le réel lisible par des signes qui sont capables de transcrire le semblable et la différence
+en raison seulement d’une quantité commune. Ainsi, le poids, le mouvement,
+le temps peuvent-ils être vus comme une dimension, dans la mesure où ces
+notions sont différentes manières de mesurer les objets, de les considérer selon
+une quantité du même, en les posant dans un rapport de quantité.
+D’où la recherche d’une unité, requise pour mesurer l’objet, qui procède en
+établissant des grandeurs selon le besoin de chaque domaine du savoir. En considérant que les types de grandeurs comparées doivent être homogènes, Descartes récapitule la différence — posée sur les distinctions ontologiques du
+genus entis — dans l’identité conceptuelle de la quantité.
+Par ailleurs, Descartes remarque que le continu peut être traduit par ce qui
+n’est pas continu, à savoir la multiplicité des unités : «On doit aussi savoir, que
+les grandeurs continues au moyen d’une unité d’empruntée peuvent être parfois toutes ramenées à la multiplicité, et toujours du moins en partie» (Marion,
+p. 70, AT, X, p. 452). Cette unité d’emprunt occasionnera des changements
+importants dans la mathématique, car ce qui était «naturellement» continu,
+comme l’aire d’un cercle, ne pouvait pas être quantiﬁé sinon au moyen d’une
+comparaison de cette ﬁgure avec une autre du même genre. C’est ce qui se
+produisait dans la Géométrie ancienne, qui ne disposait pas d’un concept de
+mesure énoncé selon l’idée d’égalité tel que nous le connaissons aujourd’hui,
+de sorte que nous lisons la comparaison de la manière suivante dans les Éléments : «Les aires de deux cercles sont entre soi comme les carrés de leurs respectifs rayons». Cette déﬁnition est donnée en termes actuels de la manière
+suivante : L’aire de la circonférence de rayon R est égale à : π(R x R). La déﬁnition actuelle n’est possible que parce que l’on peut établir pour l’aire de la
+circonférence une unité nominale qui nous permet de calculer cette aire en
+fonction de cette unité. Cette nouvelle acception du terme unité permet
+l’édiﬁcation de plusieurs possibilités distinctes de calculer ou d’établir la différence et la ressemblance entre les objets, toujours en fonction d’une quantité
+commune qu’ils partagent (AT, X, p. 448).
+En ce qui concerne la représentation de la différence entre les objets, la ﬁgure est prise comme l’expression de cette différence. Par exemple, la différence
+ou plutôt l’intensité que constituent le blanc, le bleu et le rouge peuvent être
+représentés par des ﬁgures selon la Règle XII (AT, X, p. 413).
+La dimension dépasse l’étendue dans la mesure où elle peut qualiﬁer le rapport d’intensité d’un certain aspect des objets dans les contours de la ﬁgure qui
+
+190
+
+Dialogue
+
+sont déterminés a priori. Dans ce cas, il n’est pas fait abstraction de la ﬁgure
+immanente à l’objet sensible, son phantasma. La ﬁgure n’est pas l’image de
+l’individuation (enracinée dans la matière signata thomiste) de la différence
+intransigeante, clouée dans l’individualité de l’objet naturel. Elle est moins
+image, copie, que création, réinvention, recodiﬁcation. La ﬁgure est, elle aussi,
+abstraite parce qu’elle peut s’appliquer à n’importe quel objet. Grâce au caractère abstrait de la ﬁgure on peut, selon Sepper, traduire les différences entre les
+choses : «the differences in the ﬁgures can easily stand in for the differences
+between things» (Sepper, 1996, p. 111). Par conséquent, Descartes n’a plus
+besoin de l’image du corps sensible — d’où advient, à travers l’abstraction, la
+ﬁgure mathématique selon Aristote — pour représenter un certain objet par des
+symboles mathématiques. C’est plutôt à l’esprit qu’il convient d’établir le
+symbole qui désigne un certain objet ou un certain rapport (dans le cas des
+couleurs et des saveurs).
+4.2. Mathématiques x mathesis universalis : l’universalité de la mesure
+A cet égard, il nous semble difﬁcile de restreindre la mesure à l’étude des problèmes qui concernent les grandeurs mathématiques, dimensions abstraites des
+mathématiques. Cette limitation amène plusieurs difﬁcultés dans l’interprétation
+des Règles. Premièrement, étant donné que l’expression mathesis universalis
+ne désigne pas le terme mathematica, comme nous l’avons montré, on peut
+constater que, bien que le terme mathematica apparaisse deux fois dans la Règle XIV (AT, X, p.442/9 et AT, X, p.448/20) l’expression mathesis universalis
+n’apparaît aucune fois. Et ce, parce que la fonction de la Règle XIV, conformément à ce qui était prévu dans le plan des Règles (AT, X, p. 429), n’est ni de
+fonder la méthode, ni de l’expliquer, mais de montrer comment elle peut être
+appliquée aux mathématiques.
+Abordant la lecture de la Règle VI, on doit prendre conscience du regard
+méthodologique de la mathesis universalis dans la mesure où elle montre que
+le projet d’un calcul général des proportions s’inscrit plutôt dans le cadre d’une
+pura mathematica. C’est ce qu’attestent, à la Règle VI, des passages où Descartes a souligné l’intérêt de faire ce calcul général :
+Aussi bien, quoique tout cela soit si clair qu’on le croirait presque puéril, une réﬂexion
+soutenue me fait comprendre la manière dont se compliquent toutes les questions
+relatives aux propositions ou rapports entre les choses qu’on le peut proposer, et
+l’ordre qu’exige leur recherche : et cela seul embrasse l’ensemble de toute la science
+des mathématiques pures (Sirven, p. 36, AT, X, p. 384-385).
+
+On ne peut qu’être frappé du fait que souvent les interprétations des Règles ne
+font pas attention à la distinction entre mathesis universalis et pura mathematica. On ne voit vraiment pas comment la pura mathematica peut être mise en
+œuvre sans qu’elle soit aussi subordonnée aux règles de la mathesis universalis. D’abord parce que la mathesis universalis n’a pas d’objets déﬁnis, elle est
+
+Genèse de la méthode cartésienne 191
+
+présentée en tant que chemin à emprunter pour la recherche de la vérité dans
+toute la connaissance. Il est encore important de noter que cette présentation,
+chez Descartes, s’inscrit dans le cadre méthodologique qui contraint la science
+à utiliser l’ordre et la mesure. Le souci de subordonner les spéculations abstraites de la mathématique aux questions de proportion requiert une méthode
+qui réorganise les mathématiques selon les notions d’ordre et de mesure,
+en dégageant une pura mathematica. Néanmoins, la méthode cartésienne —
+inscrite dans la mathesis univeralis — ne veut pas seulement reformer les
+mathématiques, mais, toute la science. Ainsi, la Règle XIV — où Descartes
+commence à développer la théorie générale des proportions — n’applique
+les acquis de la méthode qu’aux «questions parfaitement comprises, qui, écrit
+Descartes, sont pour la plupart abstraites, et ne se présentent quasi seulement
+que &lt;les matières&gt; d’Arithmétique et de Géométrie» (Marion, p. 54, AT, X,
+p. 429–430). Selon le plan des Règles, la Règle XIV serait circonscrite à
+l’analyse presque exclusive des problèmes d’Arithmétique et de Géométrie
+lesquels peuvent être parfaitement compris.
+De sorte qu’on ne peut négliger la distinction essentielle entre les questions
+parfaitement comprises et les questions imparfaitement comprises. La Règle
+XIII est bien claire à cet égard :
+…premièrement en toute question il doit nécessairement se trouver quelque &lt;point&gt;
+qu’on ignore, car autrement on chercherait pour rien ; secondement, ce même point
+doit être en quelque façon désigné, car autrement nous ne serions pas déterminés à
+trouver celui-là plutôt que n’importe quel autre qu’on voudra; troisièmement, il ne
+peut être désigné de la sorte, sinon par quelque autre qui soit connu. Toutes ce choses
+se trouvent aussi dans les questions imparfaites, comme si on cherche, quelle est la
+nature de l’aimant (…) Mais en plus pour que la question soit parfaite, nous voulons
+qu’elle soit en toute manière déterminée, en sorte qu’en cherche rien de plus, que ce
+qui se peut déduire des données… (Marion, p. 54-55, AT, p. 430–431).
+
+Ce qui fait la distinction entre les questions se trouve au niveau de la distinction entre l’empirique et l’intelligible. Le terme latin intelligo (traduit par
+Marion par le verbe comprendre) semble avoir une importance capitale dans
+la mesure où il révèle que les questions sont discernées par rapport à l’emploi
+de l’expérience, car ce qui est parfaitement intelligible n’a pas besoin de
+l’expérience, alors que les questions de la physique ne peuvent être intelligibles qu’à partir de l’expérience. L’essentiel est de noter que, dans les Règles,
+deux voies permettent de déﬁnir les questions : une voie empirique et une voie,
+disons, a priori. De ce point de vue, la Règle XIV ne s’occupe que des questions abstraites dont l’objet est simple parce qu’elles ne font, selon le mot de
+Descartes : «absolument rien que l’expérience ait rendu incertain [Descartes
+fait ici référence à l’Arithmétique et à la Géométrie] mais consiste toutes entières en des conséquences déduites par raison» (Marion, p. 6, AT, X, p. 365).
+Par ailleurs, les questions de la physique — concernant la troisième partie des
+
+192
+
+Dialogue
+
+Règles que Descartes n’a pas écrite — sont subordonnées, en ce qui concerne
+leurs résultats, aux données empiriques. C’est pourquoi, on ne peut pas déterminer les rapports que conservent les angles de réfraction avec les angles
+d’incidence, par la mathématique. Il va falloir, insiste Descartes, les données
+de l’expérience pour que la question soit déterminée (AT, X, p. 393–394). Dans
+le cas de l’aimant — Descartes révoque l’aimant comme exemple des questions indéterminées — il s’agit de la même chose, car on ne peut connaître les
+natures simples qui composent l’aimant que par l’expérience (AT, X, p. 427).
+C’est la raison pour laquelle les sciences, qui devaient être traitées en troisième
+partie dans les Règles, s’occupent de questions «imparfaites» puisque, à la différence des mathématiques, elles ne peuvent pas être parfaitement déterminées
+par l’intelligence pure, donc a priori.
+La distinction entre les questions parfaites et imparfaites met ﬁn à la prétention d’identiﬁer la mathesis universalis à la théorie générale des proportions,
+qui a été esquissée dans la Règle XIV — où Descartes parle en fait d’un calcul
+général des proportions — et était à la mode à l’époque de Descartes. On risque, à en rester là, de ne pas saisir la pensée et le programme cartésien. La
+possibilité d’un calcul général des proportions, se restreint aux «questions parfaitement déterminées», comme l’écrit Descartes : «…les questions parfaitement déterminées ne contiennent presque aucune difﬁculté hormis celle qui
+consiste à développer les proportions en des égalités…» (Marion, p. 62, AT, X,
+p.441). Ce calcul général des proportions présuppose que tous les termes soient
+des grandeurs arithmétiques (discontinues) ou géométriques (continues), tandis que la mathesis universalis s’applique à tout ce qui peut être traduit par
+l’ordre et la mesure.
+4.3. L’ordre : expression heuristique de la science
+La Règle VIII présente les règles V-VII, comme une explication de ce que désigne le terme ordo (AT, X, p. 392). Néanmoins, ce terme apparaît pour la
+première fois, au sens méthodologique, dans la Règle IV — plus précisément
+dans la Règle IV-B — où il indique le chemin qu’empruntera toute la recherche.
+Bien loin de refuser la Règle IV, la détermination fondamentale de la méthode
+reste la même dans le Discours :
+Pour moi, comme j’ai conscience de ma faiblesse, j’ai décidé d’observer résolument
+un ordre tel dans la recherche de la connaissance des choses que commençant toujours par les plus simples et les aisées &lt;à connaître&gt;, je ne poursuive jamais jusqu’à
+d’autres, avant qu’il ne m’apparaisse qu’il ne reste rien à espérer de ces mêmes…
+(Marion, p. 16, AT, X, p. 378-379).
+La troisième, de conduire par ordre mes pensées, en commençant par les objets
+les plus simples et les plus aisés à connaître, pour monter peu à peu, comme par
+degrés, jusques à la connaissance des plus composés; et supposant même de
+l’ordre entre ceux qui ne se précèdent point naturellement les uns les autres (AT,
+VI, p. 18-19).
+
+Genèse de la méthode cartésienne 193
+
+Ce qui est dit dans les deux textes — opposés selon les interprètes parce que
+concernant différents projets cartésiens — est quasiment la même chose pour
+ce qui se rapporte à la certitude que la méthode fabrique l’ordre de la recherche en fonction des difﬁcultés. Ces passages suggèrent assez clairement que
+la notion d’ordre ne sera prise compte qu’en ce qu’elle permet de désigner la
+différence entre les objets selon les difﬁcultés issues des problèmes de la
+science; peu importe le soi-disant ordre naturel des objets. Mais une telle
+exigence simplement pragmatique doit aussi bien être opposée à la science
+classique qui subordonnait l’ordre de la recherche à l’ordre et à la disposition
+de l’être. C’est pourquoi, dans les Règles, Descartes ne retient pas la doctrine
+scolaire des divisions entre les sciences (Première règle, AT, X, p. 360–361).
+Chez Descartes, les éléments de la science sont subordonnés au regard de
+l’esprit, où les divers problèmes sont classés heuristiquement selon les difﬁcultés de la recherche.
+Il nous importe surtout ici de reconnaître les positions pragmatiques qui incarnent le passage de la science aristotélicienne à la science de Descartes : les
+choses (au sens de proposition) qui composent une théorie scientiﬁque doivent
+être considérées, en conséquence, par rapport au degré de difﬁculté qu’elles
+comportent. C’est pourquoi, on peut fabriquer une série en disposant les difﬁcultés selon une gradation. Autrement dit, de la compréhension de ce qui est le plus
+simple on peut dégager un ordre pour la science qui n’est pas forcément l’ordre
+des choses dans le monde. Soulignons enﬁn que la thèse centrale de Descartes,
+à savoir l’application de la méthode à la science au moyen d’une subordination
+de l’ordre de la recherche à l’ordre de la difﬁculté n’est pas une conquête tardive
+du Discours; elle se révèle solidaire de l’établissement d’une méthode heuristique et se trouve dans les Règles sous la forme de la mathesis universalis :
+Nous l’observons exactement, si nous réduisons &lt;comme&gt; par degrés les propositions embarrassées et obscures à d’autres plus simples, et ensuite si à partir du regard
+posé sur les plus simples de toutes nous entreprenons de nous élever par les mêmes
+degrés à la connaissance de toutes les autres (Marion, p. 16, AT, X, p. 379).
+
+Et voici ce que l’on trouve dans le Discours :
+…conduire par ordre mes pensées, en commençant par les objets les plus simples et
+les plus aisés à connaître, pour monter peu à peu, comme par degrés, jusques à la
+connaissance des plus composés; et supposant même de l’ordre entre ceux qui ne se
+précèdent point naturellement les uns les autres (AT, VI, p. 18–19).
+
+Il est frappant de constater que chez Descartes l’enquête conduite par la
+méthode se maintiendra d’abord au niveau d’une recherche sur les termes simples. Des Règles au Discours, il n’existe qu’un seul chemin vers la certitude :
+la mise en ordre des propositions selon leurs degrés de difﬁculté, ce qui permet
+la déduction.
+
+194
+
+Dialogue
+
+La Règle V ne donne pas la déﬁnition de la manière dont la division des
+propositions disposées dans une série de termes devra être réalisée. Pour
+répondre à la question concernant la nature de l’ordre qui compose la série des
+propositions de la science, il faut consulter la Règle VI :
+Pour distinguer les choses les plus simples des &lt;autres&gt; embarrassées et pour les
+poursuivre avec ordre, il faut dans chaque suite de choses, où nous avons directement
+déduit les unes des autres quelques vérités, observer quel est le &lt;terme le&gt; plus
+simple et comment tout les autres s’en éloignent plus ou moins, ou également
+(Marion, p. 17, AT, X, p. 381).
+
+L’emploi des termes simplex, involvo et obscurus se rapporte à l’ordre que suit
+l’esprit lorsqu’il s’applique à l’étude de manière générale. La divisibilité et la
+disposition des propositions dans une certaine série commence par la connaissance du terme le plus simple (voir aussi le Discours, AT, X, p. 19). Reste
+cependant à comprendre comment faire la division. La réponse est au fond assez simple : en soulignant le terme simple, on peut lui subordonner les autres
+termes, en fonction de leurs difﬁcultés respectives. Il s’agit de repérer la gradation qui compose la série à partir de la proposition la plus simple qui est connue
+immédiatement. Dans le cadre de notre étude, l’essentiel est de considérer que
+la détermination de la proposition la plus simple limite les difﬁcultés qui doivent être travaillées dans la recherche selon deux facteurs : premièrement, toutes
+les propositions doivent être comparées et disposées en fonction de la proposition la plus simple; deuxièmement, la détermination de la proposition la plus
+simple indique le point de départ de ce qui amènera la résolution d’un problème,
+puisque la connaissance doit commencer par la proposition la plus évidente.
+C’est pour cela que le secret de la méthode consiste à découvrir le terme le plus
+simple ou le plus absolu qui est déterminé selon la difﬁculté du problème :
+Je nomme absolu, tout ce qui contient en soi la nature pure et simple, dont il est
+question : comme tout ce que l’on considère comme s’il était indépendant, cause,
+simple, universel, un, égal, semblable, droit, et autres choses de cette sorte; et je
+nomme aussi ce premier &lt;terme&gt; le plus simple, à dessein d’en user pour résoudre
+les questions (Marion, p. 18, AT, X, p. 381–382).
+
+À l’égard du problème, il s’agit avant tout de retenir d’abord la connaissance
+de la proposition la plus simple (ou la plus absolue) étant donné que l’analyse
+d’un problème consiste à déterminer la variable qui exprime, en fonction de
+cette même proposition simple, les différents degrés de difﬁculté ou d’obscurité
+des termes. Autrement dit, cette variable contient la gradation des difﬁcultés de
+chaque terme par référence à laquelle ils seront disposés dans une série. Partant
+de la connaissance de cette variable, l’esprit peut disposer dans un ordre progressif toute la série des termes, en permettant qu’un terme occulté soit dévoilé
+ou plutôt déduit par rapport à la place qu’il occupe entre les autres déjà connus.
+
+Genèse de la méthode cartésienne 195
+
+Les pages des Règles ne fournissent guère d’exemples scientiﬁques de
+l’application de la méthode. Descartes montre cependant comment il est
+possible de connaître une couleur sans qu’on ne l’ait pourtant jamais vue. Bien
+évidemment, il s’agira de connaître les couleurs fondamentales et de les
+soumettre à l’ordre. Autrement dit, l’élucidation exacte d’une couleur absente
+dans une série de couleurs, commence par la mise en ordre des couleurs en
+fonction de celle qui est la plus simple. En posant les couleurs selon leurs
+variations — de la plus pure, la plus simple, à la plus mélangée, la moins
+simple — on peut repérer (déduire) la couleur absente dans la série en la rapportant à la tonalité des autres déjà connues (AT, X, p. 438–439). D’ailleurs, on
+peut prouver aisément que Descartes valide l’intervention de la méthode dans
+la physique, en utilisant l’opération de l’ordre dans l’analyse (rare dans les
+Règles) d’un phénomène comme celui de la lumière, où il faut connaître le
+terme le plus absolu, à savoir la puissance naturelle de la lumière, aﬁn de faire
+le calcul de la réfraction (AT, X, p. 395).
+La Règle XVIII nous offre un exemple mathématique important. Le problème consiste à déterminer un calcul général valable pour toutes les proportions. La détermination de l’unité, qu’elle soit ou non une unité d’emprunt,
+prise comme terme simple (Règles XIV et XVI) permet de comparer toutes les
+grandeurs en fonction de cette unité. En déterminant la variable au moyen de
+laquelle toutes les grandeurs doivent être comparées, c’est-à-dire la variable
+qui ﬁxe la manière dont elles s’éloignent du terme simple, on peut construire
+une équation générale qui sera capable d’exprimer toute variation possible des
+grandeurs. Ainsi, si toutes les grandeurs varient continuellement et proportionnellement en fonction d’une unité «x», terme simple et connu immédiatement,
+on peut déterminer toutes les grandeurs en fonction de ce terme. Si la grandeur
+se rapporte à l’unité au moyen de la première relation, elle sera exprimée par la
+proportion suivante : 1/a = b/x. Si c’est au moyen d’une seconde relation, elle
+est décrite par la proportion suivante : 1/x = x/a. D’où la conclusion de Descartes : «la racine, le carré, le cube, etc. ne sont pas autre chose que des grandeurs en proportion continue que l’on suppose toujours précédées de cette
+unité» (Marion, p. 74, AT, X, p. 456–457). Toutes les expressions arithmétiques peuvent être posées dans une série commune, en fonction d’une unité
+commune, terme simple de la série. Les diverses expressions arithmétiques
+peuvent donc être posées dans une même série à partir du terme simple qui est
+l’unité absolue de toute comparaison.
+On peut ensuite revenir sur un passage très important de la Règle IV où
+Descartes montre pourquoi la méthode est nécessaire dans la recherche de la
+vérité :
+Mais, si la méthode explique correctement comment on doit user du regard de l’esprit
+pour ne point tomber dans une erreur contraire au vrai, et comment on doit trouver
+les déductions, pour parvenir à la connaissance de toute &lt;chose&gt;, il me semble que
+rien d’autre n’est requis pour qu’elle soit complète…(Marion, p. 11, AT, X, p. 372).
+
+196
+
+Dialogue
+
+La méthode, précise l’auteur, est une condition nécessaire de la recherche de
+la vérité dans la mesure où elle permet l’emploi de la déduction et de l’intuition
+dans la science. Pour répondre à cette demande, la mathesis universalis est
+instituée comme méthode puisqu’elle permet de récupérer la façon la plus
+correcte d’utiliser la déduction et l’intuition. D’une part, la disposition des
+termes dans une série permet d’identiﬁer, à travers le regard, le terme le plus
+simple comme le premier de la série en dégageant une voie sûre pour
+l’intuition. Autrement dit, la mise en ordre des difﬁcultés d’un problème
+révèle le terme le plus simple qui est objet de l’intuition. C’est en effet parce
+que le terme simple est connu en lui-même, sans avoir à être comparé avec les
+autres, qu’on peut le rendre visible par intuition. D’autre part, l’ordre détermine la direction de toute déduction : elle se doit de toujours aller du plus
+simple au plus obscur, d’autant plus qu’elle dégage la voie par laquelle sont
+réalisées les démonstrations (AT, X, p. 378–379). Conformément au projet de
+la méthode, la mathesis universalis — proposée dans la Règle IV — fabrique
+une manière propre à l’esprit de rechercher la vérité. De sorte que la mathesis
+universalis ne reconnaît aucune limite dans la mesure où tous les objets peuvent être pensés — même si c’est par hypothèse — en fonction de l’ordre et
+de la mesure.
+5. Conclusion : la révolution dans l’ordre de la connaissance
+Au contraire des mathématiques proposées aux XVIe et XVIIe siècles, la mathesis
+universalis s’applique à n’importe quel objet (AT, X, p. 378). Elle n’opère pas
+dans le domaine spéciﬁque de la mathématique, en s’éloignant des diverses
+mathématiques proposées à l’époque de Descartes — il a lui-même proposé
+une pura mathematica. Ainsi, bien que l’expression mathesis universalis ne soit
+plus citée dans son œuvre, on est censé admettre que l’ordre et la mesure —
+énoncés pour la première fois dans les derniers paragraphes de la Règle IV —
+sont bien au cœur des Règles et de la méthode cartésienne. On constate en effet
+que l’ordre et la mesure se rapportent, presque dans toutes les Règles, aux difﬁcultés issues de la pratique scientiﬁque, en dégageant un chemin sûr pour l’usage
+de la déduction et de l’intuition. C’est pourquoi Descartes institue une discipline
+universelle capable de mettre en place un projet d’uniﬁcation du savoir.
+On vient donc de repérer la raison pour laquelle la Règle IV ne peut être —
+en ce qui concerne sa structure — divisée en deux parties incommunicables
+parce qu’essentiellement distinctes : exposer et réﬂéchir sur la mathématique
+c’est tout simplement, dans cette règle, discuter à propos de la méthode et non
+chercher dans la mathématique une théorie des proportions. Ainsi s’expliquent
+les dérives des interprétations en faveur d’une mutilation du texte, qui éclipsent
+une remise en cause de la mathématique et de la mathesis grecque — opérée au
+fur et à mesure de sa constitution — qui a permis que celles-ci fussent tenues
+moins comme relevant d’une science abstraite que comme une ouverture (ou
+d’un chemin menant) à l’encadrement de la science dans les limites de l’ordre
+
+Genèse de la méthode cartésienne 197
+
+et de la mesure. La mathesis universalis dégage l’unique chemin sûr pour la
+science. C’est pour cela qu’elle est universelle8.
+Notes
+1 Les citations de l’œuvre de Descartes sont faites de la façon suivante : Œuvres de
+Descartes (en 11 volumes), édition Adam et Tannery, Paris, Vrin, 1986 (dorénavant
+AT, suivi du volume et de la pagination); Règles Utiles et Claires pour la Direction
+de l’Esprit en la Recherche de la Vérité, traduction de Marion et Costable, Martinus
+Nijhoff, Amsterdam, 1977 (dorénavant Marion).
+2 Sur ce point, cf. AT, X, p. 374 (note a); AT, X, p. 253–256 et p. 356–357.
+3 Voir le commentaire d’Adam et Tannery : aucun des textes que nous avons des
+Regulae ne se trouve daté. Descartes n’a pas fait référence au texte des Règles dans
+ses œuvres ultérieures, ce qui rend plus difﬁcile l’établissement de la datation de ce
+texte. Cf. AT, X, p. 352–357.
+4 En tous cas, la méthode cartésienne ne demeure pas la même, selon Garber qui défend
+une triple phase de la science cartésienne; 1a les Règles 2a Les Essais 3a Les Principes. Les deux dernières phases s’opposent complètement aux Règles par l’utilisation
+d’hypothèses. Les Principes s’opposent aux Essais par l’utilisation d’analogies et
+admettent la certitude morale en dépit de la démonstration mathématique. Voir
+D. Garber, 2004, p. 116, 120 et 164–168 ainsi que Sasaki, 2003, p. 198. Sur l’histoire de
+la mathesis universalis en tant que mathématique universelle, voir Crapulli, 1969,
+p. 127 (cf. p. 7–8 sur Descartes). Voir aussi, sur le même sujet, Mehl, 2001, p. 254–256.
+5 Integumentum vero dixi, non quo hanc doctrinam tegere velim &amp; involvere ad arcendum vulgus, sed potius ita vestire &amp; ornare, ut humano ingenio accommodatior
+esse possit (AT, X, p. 374).
+6 La critique cartésienne de la géométrie est à plusieurs reprises présentée comme un
+rejet de son caractère formel, abstrait. Voir À Mersenne, 31 juillet 1638 (AT, II,
+p. 268); 31 mars 1638 (AT, II, p. 95); 12 septembre 1638 (AT, II, p. 361–362); voir
+aussi Boutroux, 1955, p. 102.
+7 La traduction de Sirven est plus claire (Règles pour la direction de l’esprit, Paris,
+Vrin, 1996).
+8 Je voudrais remercier Daniel Garber pour ses remarques sur ce texte, Frédéric De
+Buzon pour ses éclaircissements sur la question de la mathesis universalis chez
+Descartes et le CNPq pour son soutien ﬁnancier.
+
+Références bibliographiques
+Beyssade, Jean
+2001 Descartes au ﬁl de l’ordre, Paris, Presses Universitaires de France.
+Boutroux, Pierre
+1995 L’idéal scientiﬁque des mathématiques, Paris, Presses Universitaires
+de France.
+Crapulli, Giovanni.
+1969 Mathesis Universalis, genisi di una idea nel XVI secolo, Roma,
+Edizioni dell’Ateneo.
+
+198
+
+Dialogue
+
+Garber, Daniel
+2004 Corps Cartésiens, Paris, Presses Universitaires de France.
+Kobayashi, Michael
+1993 La philosophie naturelle de Descartes, Paris, Vrin.
+Marion, Jean-Luc
+2000 Sur l’ontologie grise de Descartes, Paris, Vrin.
+Mehl, Édouard
+2001 Descartes en Allemagne, Strasbourg, Presses Universitaires de Strasbourg.
+Sasaki, Chikara
+2003 Descartes’s Mathematical Thought, Dordrecht, Kluwer Academic
+Publishers.
+Schuster, John
+1980 «A Descartes’ Mathesis universalis: 1619–1628», dans Stephen Graukroger,
+dir., Descartes Philosophy, Mathematics and Physics, Totowa (NJ),
+The Harvester Press et Barnes and Noble.
+Sepper, Dennis
+1996 Descartes’s Imagination: Proportion, Images, and the activity of
+Thinking, Berkeley, University of California Press.
+Van de Pitte, Fred
+1991a «Descartes’s mathesis universalis», dans Georges Moyal, dir., Descartes Critical Assessments, vol. 1, Londres, Routledge and Kegan
+Paul, p. 61-80.
+1991b «The dating of Rule IV-B in Descartes’ Regulae ad directionem Ingenii», Journal of the History of Philosophy, vol. 29, p. 375-379.
+Weber, Jean
+1964 La constitution du texte des Regulae, Paris, Société d’édition
+d’enseignement supérieur.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Descartes au fil de l’ordre</title><editor><persName><forename type="first">Jean</forename><surname>Beyssade</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">L’idéal scientifique des mathématiques</title><editor><persName><forename type="first">Pierre</forename><surname>Boutroux</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Mathesis Universalis, genisi di una idea nel XVI secolo</title><editor><persName><forename type="first">Giovanni</forename><surname>Crapulli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Roma</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Corps Cartésiens</title><editor><persName><forename type="first">Daniel</forename><surname>Garber</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">La philosophie naturelle de Descartes</title><editor><persName><forename type="first">Michael</forename><surname>Kobayashi</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Sur l’ontologie grise de Descartes</title><editor><persName><forename type="first">Jean-Luc</forename><surname>Marion</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Descartes en Allemagne</title><editor><persName><forename type="first">Édouard</forename><surname>Mehl</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Strasbourg</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Descartes’s Mathematical Thought</title><editor><persName><forename type="first">Chikara</forename><surname>Sasaki</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Dordrecht</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Descartes Philosophy, Mathematics and Physics</title><editor><persName><forename type="first">John</forename><surname>Schuster</surname></persName></editor><editor><persName><forename type="first">Stephen</forename><surname>Graukroger</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Totowa (NJ)</pubPlace><date type="published">1980</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Descartes’s Imagination: Proportion, Images, and the activity of Thinking</title><editor><persName><forename type="first">Dennis</forename><surname>Sepper</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Berkeley</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Descartes Critical Assessments</title><editor><persName><forename type="first">Fred</forename><surname>Van de Pitte</surname></persName></editor><editor><persName><forename type="first">Georges</forename><surname>Moyal</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Londres</pubPlace><date type="published">1991</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="61">61</biblScope><biblScope unit="page" to="80">80</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">The dating of Rule IV-B in Descartes’ Regulae ad directionem Ingenii</title><author><persName><forename type="first">Fred</forename><surname>Van de Pitte</surname></persName></author></analytic><monogr><title level="j">Journal of the History of Philosophy</title><imprint><date type="published">1991</date><biblScope unit="volume">29</biblScope><biblScope unit="page" from="375">375</biblScope><biblScope unit="page" to="379">379</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">La constitution du texte des Regulae</title><editor><persName><forename type="first">Jean</forename><surname>Weber</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1964</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

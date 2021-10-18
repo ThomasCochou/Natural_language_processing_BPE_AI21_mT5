@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Masochisme, hétérologie et passion dans <hi rend="italic">Le Mort</hi> de Georges Bataille</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2010. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2010">2010</date>
+            <date type="published">2010</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Masochisme, hétérologie et passion dans <hi rend="italic">Le Mort</hi> de Georges Bataille</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Berney</surname>
+                        <forename type="first">Patricia</forename>
+                     </persName>
+                     <affiliation>
+                        <address>
+                           <addrLine>Toronto</addrLine>
+                        </address>
+                     </affiliation>
+                     <affiliation role="corresp">
+                        <email>p.berney@qub.ac.uk</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">3531B89A0692843968E752221284CB1427C6AFC6</idno>
+                  <idno type="ark">ark:/67375/HXZ-5S1D1127-9</idno>
+                  <idno type="DOI">10.1093/fs/knp200</idno>
+                  <idno type="publisher-id">knp200</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2010</date>
+                     <biblScope unit="vol">64</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="page" from="51">51</biblScope>
+                     <biblScope unit="page" to="63">63</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>En 1931, Georges Bataille emploie pour la première fois le terme ‘hétérologie’. Ce néologisme décrit l'expression <hi rend="italic">impossible</hi> d'un phénomène qui nie l'ordre du langage: l'hétérogène. Cet article a pour but d'aborder l'expression de l'hétérologie bataillienne en tant que réponse à l'appropriation de l'œuvre de Sade par les surréalistes, et par André Breton en premier lieu, telle qu'elle est pratiquée dans un court récit, <hi rend="italic">Le Mort</hi>. Prenant comme point d'entrée les personnages de Marie et du comte, l'article explore la relation entre le masochisme et la pratique scripturale de l'hétérologie. Il aborde aussi la signification des allusions faites par Bataille dans ce récit à la passion du Christ et au rituel catholique du chemin de croix.</p>
+            <p>Lire <hi rend="italic">Le Mort</hi> comme exemple de l'hétérologie bataillienne nous permet de répondre à plusieurs questions importantes. Est-il possible d'exprimer l'hétérogène dans le contexte littéraire? Pourquoi l'hétérologie se manifeste-t-elle de manière violente, blasphématoire et masochiste dans <hi rend="italic">Le Mort</hi>? Y a-t-il un lien entre l'hétérologie du <hi rend="italic">Mort</hi> et la tradition sadienne à laquelle ce texte fait allusion? Enfin, <hi rend="italic">Le Mort</hi> constitue-t-il une réponse à la lecture du ‘divin marquis’ faite par les surréalistes?</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="s1">
+            <head/>
+            <p>En 1931, Georges Bataille trouve le néologisme d'‘hétérologie’, qu'il appose à ses écrits sur l'‘hétérogène’. Nous nous proposons d'aborder l'hétérologie en tant qu'expression (quasi) parodique permettant une réponse critique à l'appropriation de l'œuvre de Sade par les surréalistes, telle qu'elle est pratiquée par Bataille dans un court récit, <hi rend="italic">Le Mort</hi>. Prenant comme point d'entrée les personnages de Marie et du comte, nous cherchons à répondre aux questions suivantes. Comment Bataille aborde-t-il l'hétérogène dans le contexte littéraire? Pourquoi l'hétérologie se manifeste-t-elle de manière violente, blasphématoire, et masochiste dans <hi rend="italic">Le Mort</hi>? Y a-t-il un lien entre l'hétérologie du <hi rend="italic">Mort</hi> et la tradition sadienne à laquelle ce texte semble faire allusion? Enfin, <hi rend="italic">Le Mort</hi> est-il une réponse à la lecture du ‘divin marquis’ faite par les surréalistes?</p>
+            <p>Afin de comprendre le sens de l'hétérologie, il importe d'abord d'examiner attentivement la notion bataillienne de l'hétérogène. Pour Bataille, l'hétérogène est une entité incontrôlable et floue, qui se manifeste à tous les niveaux: le corps humain, la société, la politique, l'économie, l'art, le langage, et ainsi de suite. L'hétérogène est, en gros, le résidu qu'exclut tout système <hi rend="italic">homogène</hi>. Le corps humain nous fournit un exemple du va-et-vient constant entre les forces de l'hétérogène et le fonctionnement du système homogène, dans la mesure où l'organisme vivant expulse les éléments hétérogènes qui en sont issus: l'excrément, les larmes, la semence, la sueur, le sang menstruel, et ainsi de suite.<hi rend="superscript">
+                  <ref type="fn" target="#FN1">1</ref>
+               </hi>
+            </p>
+            <p>Dans le contexte de l'architecture d'une ville, l'hétérogène désigne le délabrement qui suit inévitablement la productivité. Autrement dit, l'hétérogène d'une ville est ses détritus, ses déchets, et ses ruines. Sur le plan sociopolitique, l'hétérogène se manifeste sous la ‘forme’ d'une violence irrépressible, laquelle peut avoir lieu en temps de guerre.<hi rend="superscript">
+                  <ref type="fn" target="#FN2">2</ref>
+               </hi> Quant à la société humaine, Bataille met sous l'enseigne de l'hétérogène la fête, le potlatch, le sacrifice humain, le don, et la dépense improductive. Dans l'art, on peut dire que l'informe exprime l'hétérogénéité qui nie la continuité de l'œuvre, et, au niveau du langage, Bataille désigne les cris, les pleurs et parfois le silence comme exemplaires de l'hétérogénéité. L'hétérogène ne peut pas être <hi rend="italic">saisi</hi>, mais on peut être sensible à ses effets pendant des moments de <hi rend="italic">glissement</hi>: l'ivresse, la fièvre, la somnolence et la jouissance.</p>
+            <p>Il est évident que l'hétérogène bataillien se définit par rapport à la notion de l'homogène. Selon Bataille, l'homogène est <hi rend="italic">utile</hi>, et on peut le classifier ou l'approprier:
+<cit>
+                  <quote>
+                     <p>
+                        <hi rend="italic">Homogénéité</hi> signifie ici commensurabilité des éléments et conscience de cette commensurabilité (les rapports humains peuvent être maintenus par une réduction à des règles fixes basées sur la conscience de l'identité possible de personnes et de situations définies; en principe, toute violence est exclue du cours d'existence ainsi empirique).<hi rend="superscript">
+                           <ref type="fn" target="#FN3">3</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>En revanche, l'hétérogène est entièrement inutile, et n'a aucun mérite. Il
+<cit>
+                  <quote>
+                     <p>se trouve chaque fois traité comme un corps étranger […] c'est-à-dire qu'il peut aussi bien être expulsé à la suite d'une rupture brutale que réabsorbé dans le désir de se mettre entièrement le corps et l'esprit dans un état d'expulsion (de projection) plus ou moins violent.<hi rend="superscript">
+                           <ref type="fn" target="#FN4">4</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>On ne peut pas récupérer l'hétérogène;<hi rend="superscript">
+                  <ref type="fn" target="#FN5">5</ref>
+               </hi> il est sans valeur (économique, politique, et ainsi de suite), et il résiste à tout effort de l'appropriation au nom d'une fin politique, religieuse, ou autre.</p>
+            <p>Puisque l'hétérogène s'oppose totalement à l'organisation homogène, et que, par définition, le langage suit une série <hi rend="italic">organisée</hi> de règles grammaticales, introduire l'hétérogène dans la langue écrite va à l'encontre même de l'acte d'écrire. Étant donné ce paradoxe, il n'est pas surprenant que Bataille ait dû inventer le mot ‘hétérologie’ pour pouvoir décrire sa pratique scripturale. Il emploie ce terme pour la première fois dans une note de l'essai ‘La Valeur d'usage de D. A. F. de Sade’. Le néologisme décrit
+<cit>
+                  <quote>
+                     <p>la science de ce qui est tout autre. Le terme d'<hi rend="italic">agiologie</hi> serait peut-être plus précis mais il faudrait sous-entendre le double sens d'<hi rend="italic">agios</hi> (analogue au double sens de <hi rend="italic">sacer</hi>) aussi bien <hi rend="italic">souillé</hi> que <hi rend="italic">saint</hi>. Mais c'est surtout le terme de <hi rend="italic">scatologie</hi> (science de l'ordure) qui garde dans les circonstances actuelles (spécialisation du sacré) une valeur expressive incontestable, comme doublet d'un terme abstrait tel qu'<hi rend="italic">hétérologie</hi>. (<hi rend="italic">VU</hi>, pp. 61–62n.)</p>
+                  </quote>
+               </cit>Il est de première importance que ce néologisme paraisse dans un document où Bataille s'adresse aux surréalistes, et, en premier lieu, à André Breton. Cette première ‘définition’ de l'hétérologie est également éclairante dans le contexte du <hi rend="italic">Mort</hi>, car ce texte peut se lire comme une réponse à l'appropriation de Sade par Breton.<hi rend="superscript">
+                  <ref type="fn" target="#FN6">6</ref>
+               </hi> Dans ‘La Valeur d'usage de D. A. F. de Sade’, Bataille ne se cache pas de vouloir apostropher les surréalistes: ‘je ne fais pas allusion ici aux diverses personnes que les écrits de Sade scandalisent, mais seulement aux apologistes les plus ouverts’ (<hi rend="italic">VU</hi>, p. 55). Selon Bataille, ceux qui idolâtrent <hi rend="italic">—</hi> et idéalisent — le marquis de Sade limitent la puissance transgressive de son œuvre. En outre, cette puissance transgressive est précisément la qualité de l'œuvre sadienne que Bataille admire le plus. Il poursuit: ‘le comportement des admirateurs à l’égard de Sade ressemble à celui des sujets primitifs à l'égard du roi qu'ils adorent en l'exécrant et qu'ils couvrent d'honneurs en le paralysant étroitement' (<hi rend="italic">VU</hi>, p. 56). Bataille suggère que les surréalistes manquent de respect envers Sade tout en l'admirant <hi rend="italic">trop</hi>, et nous voyons son hétérologie comme une façon possible d'aborder les œuvres — comme celle de Sade — qui se classifient sous l'article<hi rend="superscript">
+                  <ref type="fn" target="#FN7">7</ref>
+               </hi> de l'hétérogène.</p>
+            <p>L'‘hétérologie’ n'est pas seulement un ‘mot clé’ bataillien; elle nous fournit un moyen de classifier — sans limiter —, la pratique scripturale de Bataille dans son ensemble. Étant donné le rôle primordial joué par l'hétérogène dans l'œuvre bataillienne, nous avançons que cette œuvre constitue, en soi, <hi rend="italic">une</hi> hétérologie; il s'agit d'une véritable tentative d'exprimer par le langage ce qui nie les règles du système langagier. Dans ‘La Valeur d'usage de D. A. F. de Sade’, Bataille précise que: ‘L'hétérologie se borne à reprendre consciemment et résolument ce processus terminal qui, jusqu'ici, était regardé comme l'avortement et la honte de la pensée humaine’ (<hi rend="italic">VU</hi>, p. 63). Il y a un lien évident entre le désir de ‘reprendre’ ce que la raison humaine a tendance à rejeter et l'aventure surréaliste qui visait à récupérer le subconscient. Malgré cette concordance, nous constatons que l'hétérologie est le plus puissant — et le plus paradoxal — des deux ‘projets’, et cela parce qu'elle incorpore la nature fondamentalement impossible du but qu'elle tente de réaliser. D'ailleurs, la puissance de l'hétérologie provient de son impuissance; c'est en exprimant son propre échec que la pratique scripturale bataillienne réussit à exposer la limite du possible.</p>
+            <p>Au lieu d'aborder l'hétérogène en tant qu'objet d'étude traditionnel, Bataille propose une ‘science’ qui vise à déstabiliser la subjectivité de celui qui la pratique: ‘L'hétérogène est même résolument placé hors de la portée de la connaissance scientifique qui par définition n'est applicable qu'aux éléments homogènes. Avant tout, l'hétérologie s'oppose à n'importe quelle représentation homogène du monde, c'est-à-dire à n'importe quel système philosophique’ (<hi rend="italic">VU</hi>, p. 62). Il est évident que l'hétérogène nie l'objectivisme scientifique ainsi que philosophique; c'est pourquoi Bataille se limite à décrire ses <hi rend="italic">répercussions</hi> et à tracer l'échec de sa propre tentative de récupérer cette entité éphémère. Puisque celui qui ‘pratique’ l'hétérologie ne réussit jamais à contrôler son objet, nous constatons que la pratique scripturale bataillienne se rapproche de la <hi rend="italic">représentation</hi> de son propre échec.</p>
+            <p>En outre, nous affirmons que, pour Bataille, l'acte d'écrire <hi rend="italic">devient</hi> l'expérience de la faillite: ‘Writing, for Georges Bataille, doubles as experience. No longer, or not merely, the representation of “some occasion”, some ecstatic embrace in the woods, writing itself performs the experience of loss, performs ecstasy.’<hi rend="superscript">
+                  <ref type="fn" target="#FN8">8</ref>
+               </hi> Dans cette optique, Bataille souligne la corrélation entre l'hétérologie et la pratique; il note que, ‘la pratique de la scatologie intellectuelle commande la déjection des éléments inassimilables’ (<hi rend="italic">VU</hi>, p. 64). L'hétérologie est <hi rend="italic">une</hi> pratique, mais c'est également quelque chose qui <hi rend="italic">est</hi> pratique — on peut la pratiquer:
+<cit>
+                  <quote>
+                     <p>La religion diffère donc d'une <hi rend="italic">hétérologie</hi> théorique et pratique […] non seulement en ce que la première exclut la rigueur scientifique propre à la seconde […] mais aussi en ce qu'elle trahit dans les conditions normales les besoins qu'elle avait eu pour but non seulement de régler mais de satisfaire. (<hi rend="italic">VU</hi>, pp. 61–62)</p>
+                  </quote>
+               </cit>Dans les œuvres écrites de Bataille, la ‘rigueur scientifique’ de l'hétérologie se manifeste à travers une mise en question fondamentale de l'objectivisme. Paradoxalement, c'est en déstabilisant sa propre agentivité de cette manière que Bataille réussit à démontrer l'existence — ainsi que la force —, de l'hétérogène. Après tout, étudier l'hétérogène de manière <hi rend="italic">efficace</hi> serait le trahir.</p>
+            <p>Afin de pouvoir exprimer l'hétérogène sans le ‘capturer’, Bataille y impose des limites, de sorte que ces limites soient simultanément accentuées et déstabilisées. C'est pourquoi l'œuvre bataillienne se divise en divers genres théoriques et littéraires, qui incluent la religion, la philosophie, les sciences économique et politique, l'anthropologie, et la littérature (romans, poésie, récits, théâtre).<hi rend="superscript">
+                  <ref type="fn" target="#FN9">9</ref>
+               </hi> Nous pensons que Bataille fait appel à autant de disciplines afin de souligner et de manifester la tension entre l'hétérogène et tout système homogène; de même que l'œuvre bataillienne conteste la spécialisation tout en renforçant les démarcations entre les disciplines, l'hétérologie oblige des forces contradictoires à coexister: ‘Bataille does not limit himself simply to exalting passion but goes further by wanting to make it live with its opposite, with that which, in the usual economy of speech, is supposed to exclude passion — or at least to extinguish it.’<hi rend="superscript">
+                  <ref type="fn" target="#FN10">10</ref>
+               </hi> En forçant des textes théoriques ainsi que littéraires à ‘réaliser’ le but impossible d'exprimer l'hétérogène, Bataille met en question de manière <hi rend="italic">active</hi> la frontière entre littérature et philosophie. Comme le note Leslie Hill, mêler littérature et philosophie revient à mettre en question l'idée traditionnelle du projet philosophique: ‘it is to pursue a philosophical project, albeit one that is incompatible with philosophy's own image of itself as an authoritative telling of universal truths; and by pursuing the question of literature — the question asked by literature — to the limit, it is to begin to question philosophy from a place that is at one and the same time within its boundaries and yet beyond them’.<hi rend="superscript">
+                  <ref type="fn" target="#FN11">11</ref>
+               </hi> A cela nous ajoutons que l'hétérologie révèle les limites du langage ainsi que de celles de la discipline et du genre.</p>
+            <p>Même parmi les œuvres littéraires de Bataille, il existe des manifestations nuancées de l'hétérogène; tandis que <hi rend="italic">Le Bleu du ciel</hi> est un roman quasi traditionnel, <hi rend="italic">Le Mort</hi> est la plus crue, la plus violente, et la plus obscure de toutes les œuvres fictionnelles batailliennes: ‘On a coutume de considérer les récits de Georges Bataille comme la “part maudite” de son œuvre. S'il fallait circonscrire une telle “part maudite” au sein des récits, nul doute que c'est au <hi rend="italic">Mort</hi> qu'il reviendrait de l'incarner.’<hi rend="superscript">
+                  <ref type="fn" target="#FN12">12</ref>
+               </hi> Pour des raisons que nous allons explorer dans cet article, <hi rend="italic">Le Mort</hi> fait appel à une avant-garde habituée à épater la bourgeoisie. Plus spécifiquement, et pour des raisons que nous allons également étudier, ce récit constitue une <hi rend="italic">réponse</hi> de la part de Bataille envers ses ‘camarades’ surréalistes.</p>
+            <p>Il est d'une importance primordiale que Bataille propose une partie intégrante de son hétérologie dans un court récit énigmatique et quasi pornographique; comme le constate Leslie Hill, la littérature est moins méthodique que la philosophie: ‘Compared to philosophy, literature plainly does not know what is good for it, it is irresponsible, lacks seriousness, purpose, or proper methodology.’<hi rend="superscript">
+                  <ref type="fn" target="#FN13">13</ref>
+               </hi> Si la littérature est déjà moins ‘sérieuse’ que la philosophie, il va sans dire que la littérature obscène va à l'encontre de la théorie <hi rend="italic">véritable</hi> de manière catégorique. Pourtant, <hi rend="italic">Le Mort</hi> nous fournit un exemple particulièrement pertinent de l'hétérologie bataillienne car dans ce texte Bataille interpelle diverses réactions — y compris celle de l'auteur — envers l'hétérogène. Qui plus est, le texte contient de nombreuses références à l'abject et à la scatologie, lesquelles démontrent clairement la différence possible entre ces phénomènes et l'hétérogène ‘véritable’. <hi rend="italic">Le Mort</hi> est un texte extrêmement trompeur. Paradoxalement, l'œuvre tire sa force du fait qu'elle prend les couleurs d'une histoire pornographique assez simple. Il faut avouer que son intrigue, ainsi que les descriptions crues des actes sexuels font penser au stéréotype ‘porno’ le plus banal. Pourtant, cet ouvrage est tout sauf simpliste. Au contraire, nous avançons que Bataille fait allusion à ce stéréotype afin d'<hi rend="italic">encourager</hi> le lecteur à écarter le texte. Après tout, il vaut mieux rejeter le texte hétérogène qu'essayer aveuglement de l'approprier. Or, le niveau ‘dégoûtant’ de l'œuvre bataillienne joue un rôle important dans la polémique entre Bataille et Breton car ce dernier accuse Bataille de faire: ‘un abus délirant des adjectifs: souillé, sénile, rance, sordide, égrillard, gâteux, et que ces mots, loin de lui servir à décrier un état de choses insupportable, sont ceux par lesquels s'exprime le plus lyriquement sa délectation’.<hi rend="superscript">
+                  <ref type="fn" target="#FN14">14</ref>
+               </hi> En effet, la polémique connaît son apogée lorsque Breton accuse Bataille d'être un ‘philosophe-excrément’.<hi rend="superscript">
+                  <ref type="fn" target="#FN15">15</ref>
+               </hi> En ce sens, <hi rend="italic">Le Mort</hi> est obscène au dernier degré, et cela parce qu'il est primordialement et véritablement <hi rend="italic">hétérogène.</hi>
+            </p>
+            <p>C'est pourquoi <hi rend="italic">Le Mort</hi> contient de nombreuses descriptions scatologiques. Rien d'étonnant à ce qu'une œuvre de Bataille fasse référence à la scatologie, bien sûr, mais il demeure que <hi rend="italic">Le Mort</hi> est le texte le plus scatologique de toutes les œuvres fictionnelles batailliennes. Par là, Bataille suggère encore une fois que l'ouvrage n'a pas de valeur d'usage. Selon Bataille, l'attitude de l'être humain envers ses propres excréments est définitive:
+<cit>
+                  <quote>
+                     <p>Les prescriptions qui touchent nos émissions ordurières ne sont, de la part des adultes, l'objet d'aucune attention réfléchie et ne sont même pas citées au nombre des tabous. […] Sur ce point, la négation est si parfaite que nous tenons pour inopportun d'apercevoir et d'affirmer qu'il y a quelque chose de remarquable.<hi rend="superscript">
+                           <ref type="fn" target="#FN16">16</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>L'érotisme scatologique dans <hi rend="italic">Le Mort</hi> a un impact majeur sur la réception du texte. De la même façon que l'on jette l'ordure elle-même, l'on risque de rejeter l'œuvre littéraire prenant l'ordure comme sujet. Grâce à ces références, <hi rend="italic">Le Mort</hi> se distingue simultanément de l'érotisme et de la littérature traditionnels. De plus, les références scatologiques ainsi que l'érotisme violent du <hi rend="italic">Mort</hi> font écho à l'écrivain scandaleux par excellence: D. A. F. de Sade. Pour cette raison, les références scatologiques resteront aux premières loges dans notre discussion du récit.</p>
+            <p>
+               <hi rend="italic">Le Mort</hi> n'est pas un texte compliqué au niveau de l'intrigue; en fait, il serait possible de le résumer en quelques phrases: Édouard, l'amant de Marie, meurt, ce qui la pousse à sortir de chez elle pour passer une soirée de débauche et d'ivresse dans une auberge du quartier. A l'auberge, elle se soûle, on la déshabille, et elle fait la rencontre de deux personnages importants: le comte et son valet Pierrot. Marie boit avec les garçons de ferme, avec la patronne de l'auberge, avec Pierrot et aussi avec le comte. Elle urine sur le comte, et elle a des relations sexuelles avec Pierrot devant une foule silencieuse. La description de cette scène ressemble à celle d'un sacrifice rituel. Le lendemain, Marie rentre chez elle avec le comte, qui voit la promesse d'une union sexuelle. Le comte rencontre plutôt le cadavre d'Édouard, et dans le dernier chapitre de l'ouvrage Bataille décrit l'enterrement d'Édouard et de Marie. La mort du comte est également suggérée à la fin de l'histoire, mais le texte refuse de trancher.</p>
+            <p>La structure du <hi rend="italic">Mort</hi> est même plus étrange que l'intrigue, et elle reflète la tension qui existe entre l'hétérogène et l'homogène partout dans l'œuvre. <hi rend="italic">Le Mort</hi> s'organise en vingt-huit ‘tableaux, à raison d'un chapitre par page, le titre du chapitre inséré dans un cartouche en bas de page’.<hi rend="superscript">
+                  <ref type="fn" target="#FN17">17</ref>
+               </hi> Les titres des tableaux sont extrêmement détaillés, crus, et ils décrivent ce qui aura lieu dans chaque chapitre. A première vue, il semble que ces titres organisent la diégèse, la rendant plus <hi rend="italic">homogène</hi>. Il serait possible, par exemple, de résumer l'intrigue entière du <hi rend="italic">Mort</hi> en lisant ces titres. De plus, le ton de ce ‘résumé’ diffère de celui de l'ouvrage entier en se rattachant plus fermement à une certaine tradition ‘pornographique’ que le reste du texte. En fait, on peut le lire en tant que parodie du texte pornographique. Puisque <hi rend="italic">Le Mort</hi> contient une espèce de résumé de sa propre diégèse, une tension subtile existe entre les titres et la version ‘intégrale’ de l'ouvrage. Les titres suggèrent — au lecteur et, comme nous allons le démontrer, aux personnages — que le contenu des chapitres est, d'une certaine manière, superflu. De cette façon, le contenu des chapitres s'apparente au déchet, ce qui est de grande portée dans le contexte bataillien. De plus, Bataille fait communiquer la présence de l'hétérogène là où on ne l'attend pas: dans les titres qui ‘organisent’ le texte.</p>
+            <p>La structure du <hi rend="italic">Mort</hi> exerce une influence profonde sur les personnages du récit, lesquels démontrent à leur tour une espèce d'agentivité impuissante. Ils se comportent, dans une certaine mesure, comme des animaux pris au piège qui, sachant l'impossibilité de leur fuite, luttent néanmoins pour s'échapper de leur prison. Cette impuissance partielle est particulièrement évidente chez Marie, dont le comportement déclenche la violence qui l'entoure. Marie demeure incapable de prévoir cette violence ou de la changer. On a l'impression paradoxale qu'elle prend la décision <hi rend="italic">raisonnable</hi> d'abandonner la raison. Ce genre de contrôle ‘non-contrôlé’ se manifeste dans la ‘java obscène’ que Marie danse avec le valet Pierrot. Or, la danse peut se définir comme un acte d'improvisation fondé sur des structures rythmiques et musicales. Ceci est littéralement le cas lorsque Marie danse avec Pierrot, car même le piano est mécanique, et le couple tourne comme les figures d'une boîte à musique. Malgré cette rigidité, Marie ‘s'y donnait tout entière, écœurée, la tête en arrière’ (p. 42). Le fait que Marie se laisse aller intensément dans cette danse qui est simultanément chaotique <hi rend="italic">et</hi> calculée suggère que sa participation <hi rend="italic">active</hi> constitue en soi une perte de stabilité. Paradoxalement, la seule façon dont Marie réussit à se contrôler est de perdre contrôle d'elle-même. Tout comme un comédien qui est chargé de l'interprétation d'un rôle difficile, les personnages du <hi rend="italic">Mort</hi> doivent accepter — de manière <hi rend="italic">active</hi> — ce qu'ils n'ont pas la capacité de changer. Cette impuissance antinomique est un microcosme de la relation entre l'hétérogène et ce qui aimerait le maîtriser. De plus, chaque fois qu'on essaie de manipuler l'hétérogène, sa présence et sa puissance deviennent de plus en plus apparentes. Il est possible d'être englouti par les forces de l'hétérogène, mais jamais de les contrôler.</p>
+            <p>La ‘réponse’ de Marie à cette violence crée une situation qui est comparable à la théâtralité du masochisme. De la même façon que le masochiste souffre tout en se soumettant volontiers au maître, Marie provoque sa propre souffrance à travers son agression passive. De plus, Bataille suggère que Marie est — au moins d'une certaine façon — responsable de sa propre souffrance. Ainsi, la souffrance en question est en fait la <hi rend="italic">représentation</hi> de la souffrance. Si Marie n'invente ni n'aime sa propre angoisse, elle réussit tout de même à en jouir: ‘Elle se reprit soudain, se jouant de son désespoir’ (p. 39), et encore: ‘Elle était là tremblante, mais elle jouissait de trembler’ (p. 40). Comme le remarque Gilles Deleuze, jouer avec la douleur a des connotations théâtrales ainsi que masochistes: ‘il y a […] un masochisme dramatique […]. D'où l'impression d'un théâtre, au moment même où les sentiments sont les plus profondément vécus, les sensations et les douleurs le plus vivement éprouvées.’<hi rend="superscript">
+                  <ref type="fn" target="#FN18">18</ref>
+               </hi> Pourtant, si le masochisme deleuzien est contractuel et théâtral, celui de Marie renvoie plutôt au chaos. Marie s'ouvre aux forces hétérogènes sans pouvoir les contrôler et sans pouvoir se protéger de sa propre destruction.</p>
+            <p>La relation entre Marie et l'hétérogène résulte d'une puissance équivoque de la part du personnage. Sa capacité à transcender l'inévitable en le <hi rend="italic">provoquant</hi> fait de la violence le résultat paradoxal de sa propre volonté. Ce qui lui arrive la terrifie, mais Marie choisit de dépasser sa peur en <hi rend="italic">désirant</hi> ce qu'elle craint le plus. De cette façon, la vraie puissance de Marie réside dans son masochisme, qui est à la fois passif et agressif. La façon dont elle s'ouvre à l'horreur se manifeste littéralement dans la relation entre Marie et son propre corps: ‘elle ouvrit son manteau. Elle mit ses longs doigts dans la fente’ (p. 40), et encore: ‘Accroupie, le con au niveau de la tête du monstre, elle en ouvrit ignoblement la fente’ (p. 47). Cet acte témoigne de vulnérabilité aussi bien que de violence; en faisant d'elle-même un support de l'hétérogène, Marie renverse le principe du pouvoir, et elle mine le rôle traditionnel de victime.</p>
+            <p>Le masochiste ne peut pas lutter contre ni accepter entièrement la violence hétérogène; c'est pourquoi le masochisme fait partie intégrante de l'hétérologie bataillienne. Autrement dit, le masochiste — et Marie en particulier — ne cesse de craindre la douleur ou l'angoisse (voire l'hétérogène), même après les avoir provoquées. Ainsi, le personnage de Marie nous donne un exemple de la difficulté et de la vraie souffrance qui accompagnent tout contact avec l'hétérogène. La conduite de Marie s'inscrit dans un registre de théâtralité et de jeu, mais son masochisme ne se limite jamais entièrement au jeu. De même, il est impossible de transcender de manière complète l'hétérogène bataillien, et il n'existe pas non plus de satisfaction lorsque l'on aborde l'œuvre littéraire hétérogène.</p>
+            <p>Puisque Marie s'associe de si près à l'hétérogène, les autres personnages la traitent comme un phénomène surnaturel. Les personnages qui entrent en contact avec elle la regardent, stupéfaits, comme si elle était un dieu crucifié. Quand Marie embrasse la patronne de l'auberge, celle-ci vit, selon toute vraisemblance, une expérience religieuse très profonde: ‘Marie repoussa la patronne et vit, ouvrant les yeux, sa tête exorbitée de joie. Le visage de la virago rayonnait de tendresse égarée. Elle était saoule aussi, saoule à fendre l’âme, et ses yeux roulaient des larmes dévotes' (p. 44). Pour la patronne, ainsi que pour tous les partenaires de Marie (à l'exception importante du comte … ) Marie incarne l'hétérogène sous la forme de l'extase religieuse. De plus, quand Marie entre dans l'auberge habillée en manteau et en bas, elle s'approche d'un jeune garçon de ferme et met sa main entre ses cuisses: ‘Quand le valet toucha la fente il gémit: — Nom de Dieu!’ (p. 41). L'expression ‘Nom de Dieu’ se comprend aisément quand on sait l'importance du lien entre érotisme et religion pour Bataille. Ces mots rappellent une scène semblable dans une autre œuvre de Bataille, <hi rend="italic">Madame Edwarda</hi>: ‘Assise, elle maintenait haute une jambe écartée: pour mieux ouvrir la fente, elle achevait de tirer la peau des deux mains. […]. Tu vois, dit-elle, je suis DIEU … ’.<hi rend="superscript">
+                  <ref type="fn" target="#FN19">19</ref>
+               </hi> Cette référence intertextuelle implique une association littérale entre Marie et la divinité. Dans cette optique, il n'est pas étonnant que l'entourage de Marie, comme celui de Madame Edwarda, devienne silencieux devant le spectacle de la femme/dieu: ‘Congestionnés, les autres se taisaient’ (p. 41), et encore: ‘Les autres regardaient, respirant mal, <hi rend="italic">dépassés</hi> par ce tumulte’ (p. 48).<hi rend="superscript">
+                  <ref type="fn" target="#FN20">20</ref>
+               </hi> Parfois, Marie se trouve elle aussi piégée par le pouvoir du rituel: ‘Ils s'occupèrent autour de la victime. Marie se souleva, paralysée par ces préparatifs’ (p. 48). Marie semble ‘exister’ dans un état de glissement permanent qui fait que les autres personnages la regardent comme un être surnaturel. Bataille emploie le champ lexical de la religion pour décrire sa protagoniste: ‘Un vide se fit en elle, qui l’éleva comme un ange' (p. 39), et encore: ‘un lugubre frisson la porta dans l’église de rêve où l'épuisement, le silence et le sentiment de l'irrémédiable l'achevèrent' (p. 39). Un segment tel ‘l’église de rêve' privilégie le mystère au détriment de la clarté.</p>
+            <p>Le lien entre Marie et la religion est le plus évident pendant sa ‘scène d'amour’ avec Pierrot. Cette scène rappelle avant tout une crucifixion: ‘Pierrot terrassa Marie, l’étala par terre, ouvrant ses bras en croix. Les autres lui maintenaient les jambes' (p. 48). Les autres personnages prennent les bras de Marie et la voix narrative la désigne en tant que ‘victime’ (p. 48). De plus, ‘la scène, dans sa lenteur, rappelait l’égorgement d'un porc, ou la mise au tombeau d'un dieu' (p. 48). Dans le contexte bataillien, toute référence à la mise à mort d'un dieu est particulièrement pertinente: l'auteur a beaucoup écrit sur le sacrifice humain pratiqué par les Aztèques sur une esclave qui jouait le rôle d'un dieu.<hi rend="superscript">
+                  <ref type="fn" target="#FN21">21</ref>
+               </hi> Marie est liée au sacré dans la mesure où on la sacrifie, mais aussi parce que les autres personnages la perçoivent comme telle. Pour cette raison, on l'appelle ‘interdite’ (p. 40).</p>
+            <p>Le ‘sacrifice’ de Marie n'est pas la seule référence à la crucifixion dans <hi rend="italic">Le Mort.</hi> D'emblée, la structure du texte ressemble fortement à celle du rituel catholique du chemin de croix.<hi rend="superscript">
+                  <ref type="fn" target="#FN22">22</ref>
+               </hi> Chaque église catholique contient une série de quatorze représentations des moments les plus importants du calvaire du Christ. Lorsque les croyants font le chemin de croix, ils passent quelques minutes devant chaque représentation afin d'y prier et d'y méditer.<hi rend="superscript">
+                  <ref type="fn" target="#FN23">23</ref>
+               </hi> De la même façon, les titres de chapitre invitent le lecteur à méditer sur le sort de Marie. De plus, plusieurs scènes de l'œuvre de Bataille évoquent le rituel catholique. A l'image de Jésus, Marie tombe deux fois. Comme Véronique le fait pour Jésus, la patronne de l'auberge essuie le visage de Marie, et, chose plus importante, Marie, telle Jésus, est crucifiée à son tour. Marie et Jésus sont dévêtus avant le ‘sacrifice’, et <hi rend="italic">Le Mort</hi>, comme le chemin de croix, s'ouvre sur une condamnation à mort et se clôt par l'enterrement du crucifié.</p>
+            <p>En créant un lien étroit entre la passion du Christ et la débauche de Marie, Bataille insiste sur le fait que son œuvre est, en vérité, une méditation sur la mort. Dans le contexte bataillien, un tel mélange d'érotisme violent et d'allusions chrétiennes introduit le chaos de l'hétérogène dans l'expérience religieuse. Selon Bataille, l'Église catholique — et le christianisme en général — a réprimé le côté effrayant du sacré afin d'établir et de soutenir une théologie raisonnable et contrôlable: ‘Le christianisme a <hi rend="italic">substantialisé</hi> le sacré.’<hi rend="superscript">
+                  <ref type="fn" target="#FN24">24</ref>
+               </hi> De plus: ‘les prêtres chrétiens, qui nous privèrent de Dionysos,<hi rend="superscript">
+                  <ref type="fn" target="#FN25">25</ref>
+               </hi> ont agi sur nous comme l’éducateur écartant la mère indigne, veillant à ce que l'enfant n'en garde même pas de souvenir'.<hi rend="superscript">
+                  <ref type="fn" target="#FN26">26</ref>
+               </hi> Les chrétiens — y compris Bataille lui-même — ne se rendent compte de cette perte que lorsqu'il est trop tard. Il poursuit: ‘nous mesurons si nous voulons l’étendue de notre perte, mais elle fut assurée avec tant de rigueur que nous ne pouvons la ressentir en vérité: nous ne savons que les yeux secs que nous devrions pleurer' (p. 68). La passion blasphématoire décrite par Bataille reflète sa nostalgie pour la religion violente du passé;<hi rend="superscript">
+                  <ref type="fn" target="#FN27">27</ref>
+               </hi> pour lui, les religions païennes procurent une relation plus étroite avec l'hétérogène. Plus précisément, le sacré chrétien traditionnel reste incomplet lorsqu'il n'est pas <hi rend="italic">souillé</hi> par la force incontrôlable de la violence. L'expérience religieuse bataillienne diffère grandement de celle du christianisme, surtout parce que Bataille rejette la raison en faveur de l'horreur. Il écrit dans ‘La Valeur d'usage de D. A. F. de Sade’, que le dieu chrétien ‘perd rapidement et presque entièrement les éléments terrifiants et les emprunts au cadavre en décomposition pour devenir, au dernier terme de la dégradation, le simple signe (paternel) de l'homogénéité universelle’ (p. 61). La passion blasphématoire de Marie ne constitue pas de la part de l'auteur une simple tentative de choquer ses lecteurs; c'est un acte plus profond, un véritable effort pour rétablir (sans la contrôler) l'hétérogénéité au cœur du mystère religieux.</p>
+            <p>Étant donné le rapport intime entre <hi rend="italic">Le Mort</hi> et la passion du Christ, le choix du prénom ‘Marie’ est d'une importance fondamentale. Selon la tradition catholique, la mère de Jésus est la personnification de la pureté et de l'innocence sexuelle; elle n'est même pas entachée par le péché originel. Lorsque Bataille décrit Marie avec ses ‘bras en croix’ (p. 48), il attaque l'idéal catholique de la pureté et du sacré. L'acte de souiller délibérément le sacré est sans doute blasphématoire, mais, selon Bataille, il est préférable à la vision catholique traditionnelle du sacré. La ‘crucifixion’ de Marie permet à Bataille de fustiger ses contemporains, les accusant de ne pas avoir le courage de voir le sacré dans sa totalité. Il écrit: ‘Ce qui meut le sentiment du sacré est l'horreur. Ce sentiment meurt de la faiblesse des hommes actuels: qui ne savent plus, et ne veulent plus savoir que rien n'est plus fascinant que l'horreur.’<hi rend="superscript">
+                  <ref type="fn" target="#FN28">28</ref>
+               </hi> En introduisant l'érotisme violent dans la passion du Christ, et, bien sûr, en établissant un rapport entre cet érotisme et la mère de Jésus, Bataille affirme que le mélange d'horreur et de pureté est nécessaire au sacré. Le plaisir est intimement lié à l'angoisse, ainsi que le note Bataille dans sa préface au <hi rend="italic">Mort</hi>: ‘Nous le savions, pourtant, le secret de la mort est l'excessive jouissance de la chair, jouir d'une femme est jouir, dans la transparence, de sa mort, de son déshonneur, de ses crimes’ (p. 366). Chez Bataille, le sacré réside dans la culmination chaotique de la transgression et de la jouissance, ce qui est évident dans son interprétation de la passion du crucifié.</p>
+            <p>Marie nous fournit un excellent exemple de l'hétérogène,<hi rend="superscript">
+                  <ref type="fn" target="#FN29">29</ref>
+               </hi> mais plusieurs personnages du <hi rend="italic">Mort</hi> semblent exister pour menacer cette hétérogénéité. De la même façon que Marie, le comte est lui aussi associé à la violence, à la débauche et à l'ivresse et, au premier abord, il ne se distingue que très peu de Marie. Cependant, à sa différence, le comte prend la décision, toujours raisonnable, de <hi rend="italic">contrôler</hi> (la violence, l'érotisme, et ainsi de suite). Cet aspect intellectuel du personnage est extrêmement équivoque dans le contexte bataillien, puisque l'hétérogène ne peut pas être l'objet d'une décision conforme à la raison. S'il peut utiliser ou même apprécier l'hétérogène, cela veut dire qu'il peut l'approprier, l'assimiler et, en dernière instance, le neutraliser. Cette décision de la part du comte témoigne d'une arrogance qui réduit et qui impose des limites sur la force de l'hétérogène. Le comte diffère de Marie parce qu'il menace de neutraliser l'aspect <hi rend="italic">troublant</hi> de l'hétérogène. Marie, elle, est détruite par les forces fluides d'une hétérogénéité qu'elle ne réussit jamais à contrôler. Le comte ne croit jamais pouvoir devenir la victime de son propre libertinage.</p>
+            <p>Le comte est un libertin stéréotypé; ses goûts, son apathie, et même son titre le lient à la tradition du héros sadien. Il remarque, par exemple, qu'il s'est habitué aux plus grands excès: ‘L'alcool a peu d'effet sur moi’ (p. 46). De plus, il traite Marie comme une ‘conquête’ sexuelle, observant: ‘Elle me vaut’ (p. 50). En outre, en s'adressant directement à Marie, le comte remarque: ‘Je vous suis … Vous allez vous donner à moi’ (p. 50). L'attitude du comte envers l'ivresse et l'érotisme suggère qu'il croit pouvoir les contrôler, voire <hi rend="italic">se</hi> contrôler face à l'hétérogène. Lorsque le comte rencontre Marie, il apprend qu'il existe des choses réellement incontrôlables. Mais ce n'est que la vision du cadavre d'Édouard qui lui apprendra cette leçon. Pendant sa soirée avec Marie, le comte croit que l'hétérogénéité de cette dernière n'est que jeu érotique. Quand Marie lui dit, ‘– Va-t'en, […] ou je pisse sur toi’, il répond, ‘Vous m'en verrez ravi’ (p. 47). Si le personnage du comte illustre bien que même la scatologie ne saurait être toujours choquante, le personnage de Marie démontre que la scatologie (en soi) et l'abject <hi rend="italic">assimilable</hi> ne sont pas réellement hétérogènes.</p>
+            <p>La relation entre Marie et le comte connaît son apogée lorsque les deux reviennent ensemble chez Marie. Le comte est convaincu qu'elle se donnera à lui, et elle semble être d'accord; elle lui demande de se déshabiller et elle l'attend dans sa chambre près du cadavre d'Édouard. Le comte s'efforce de jouer son rôle de libertin et de ‘monstre’, mais une surprise l'attend dans la chambre de Marie: ‘Elle l'attendait, nue devant un lit, provocante et laide. L'ivresse et l’épuisement la terrassaient. – Qu'avez-vous? dit Marie. Le mort emplissait la chambre' (p. 51). Lorsque le comte voit le cadavre d'Édouard, il comprend qu'il participe à une méditation sur la mort plutôt qu'à une scène d'amour. Par conséquent, il devient impuissant, tant littéralement que métaphoriquement. Cette scène est un microcosme de l'œuvre entière; la mort se trouve au cœur de l'érotisme, précisément là où la majorité des gens ne l'attendraient pas. De plus, si l'on croit pouvoir la contrôler, on finira par se perdre.</p>
+            <p>Dans la mesure où il fait du comte un libertin sadien par excellence, Bataille réussit à faire appel à la tradition sadienne et en même temps à la transcender. Plus précisément, la façon dont Bataille décrit l'hétérogène rend hommage à Sade et, simultanément, dépasse le libertinage <hi rend="italic">raisonnable</hi> du marquis. Ainsi, <hi rend="italic">Le Mort</hi> joue un rôle important dans la polémique entre Bataille et Breton. Comme le remarque Jeremy Biles, Bataille ‘is […] both working from within surrealism and against it, taking up its terms only to exceed them, pressing them to the point of explosive reversal or contradictory tension, shot through with lacerating desire — the keynote of his extremist surrealism’.<hi rend="superscript">
+                  <ref type="fn" target="#FN30">30</ref>
+               </hi> La relation entre Marie et le comte prouve que l'appropriation de l'œuvre sadienne — comme tout effort d'approprier l'hétérogène — finit par limiter son objet. Aux yeux de Bataille, il est nécessaire d'éviter à tout prix ce type d'appropriation. Il est à souligner que l'auteur de ‘La Valeur d'usage de D. A. F. de Sade’ s'adresse non seulement aux surréalistes, mais également à ses futurs lecteurs qui risqueraient de rejeter son œuvre ou — pire — de la neutraliser en l'honorant:
+<cit>
+                  <quote>
+                     <p>Le temps ne me semble pas moins venu de jouer – sous les yeux indifférents de mes camarades – sur un avenir qui n'a il est vrai pour lui qu'une malheureuse existence d'ordre hallucinatoire. Tout au moins la disposition que je crois possible de faire <hi rend="italic">intellectuellement</hi> pour aujourd'hui de ce qui existera réellement plus tard est le seul lien qui unisse les quelques propositions préliminaires qui suivent à une volonté demeurée malade d'<hi rend="italic">agitation</hi>. (<hi rend="italic">VU</hi>, p. 57)</p>
+                  </quote>
+               </cit>Si <hi rend="italic">Le Mort</hi> constitue un avertissement contre l'appropriation (irrémédiablement impossible) de l'hétérogène, cet avertissement s'adresse tant aux lecteurs potentiels de Bataille qu'à ceux de Sade. Bataille semble suggérer que ses propres lecteurs devraient ‘tenir une page au livre de Marie’, et résister à la tentation de l'homogène:
+<cit>
+                  <quote>
+                     <p>il est temps de choisir entre la conduite des lâches qui ont peur de leurs propres excès de joie, et la conduite de ceux qui estiment que le premier homme venu n'a pas à se terrer comme une bête traquée mais à regarder au contraire tous les histrions de la morale comme des chiens. (<hi rend="italic">VU</hi>, p. 68)</p>
+                  </quote>
+               </cit>
+               <hi rend="italic">Le Mort</hi> constitue un rappel violent des limites de la raison, et en même temps ce récit est l'une des exécutions les plus <hi rend="italic">stratégiquement</hi> hétérogènes de l'œuvre bataillienne.</p>
+         </div>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Bataille explore les tabous sociaux qui entourent de tels phénomènes un peu partout dans son œuvre, mais notamment dans L'Érotisme et La Part maudite.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>Bataille ne conçoit pas toutes les guerres comme ‘hétérogènes’. Ce n'est que la guerre irrépréssible et non-planifiée qui entre dans cette rubrique. Ainsi, l'organisation de l'armée risque d'être plutôt homogène qu'hétérogène.</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Georges Bataille, ‘La Structure psychologique du fascisme’, Œuvres complètes (dorénavant OC), éd. Denis Hollier, 12 vols (Paris: Gallimard, 1970–1988), i, 340.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>Georges Bataille, ‘La Valeur d'usage de D. A. F. de Sade’, OC, ii, 54-72 (p. 58). Les citations tirées de cet essai seront désignées dans cet article par le signe VU.</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Ceci ne veut pas dire qu'on n'a jamais essayé de le faire. Comme le note Bataille lui-même, les fascistes, et les Nazis en particulier, ont profité des impulsions hétérogènes afin d'attirer le public vers un chef politique: ‘En tant que pouvoir organisé, le fascisme est le régime dans lequel la souveraineté appartient (en fait sinon en droit) à un parti militarisé qui la délègue à vie à son chef: il s'est réalisé dans les sociétés italienne et allemande’ (‘Essai de définition du fascisme’, OC, ii, 214).</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>Parmi les éloges nombreuses du marquis de Sade faites par Breton, nous soulignons la suivante: ‘Il convient, du reste, de réserver l'appréciation d'un tel fait qui, même s'il n'est pas purement légendaire, ne saurait en rien infirmer la parfaite intégrité de la pensée et de la vie de Sade et le besoin héroïque qu'il eut de créer un ordre de choses qui ne dépendît pour ainsi dire pas de tout ce qui avait eu lieu avant lui.’ André Breton, Manifestes du surréalisme (Paris: Gallimard, 1995), p. 136.</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>Cette rubrique est sans aucun doute antinomique, car l'hétérogène ne saurait se rassembler que sous l'appellation ‘impossible à classifier’.</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Fred Botting and Scott Wilson, ‘Literature as Heterological Practice: Georges Bataille, Writing and Inner Experience’, Textual Practice, 7.2 (1993), 195–207 (p. 195).</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>Cette liste n'est pas complète.</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>Jean-Michel Heimonet, ‘Bataille and Sartre: The Modernity of Mysticism’, Diacritics, 26.2 (1996), 59–73 (p. 61).</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Leslie Hill, Bataille, Klossowski, Blanchot: Writing at the Limit (Oxford: Oxford University Press, 2001), pp. 20–21.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>Emmanuel Tibloux, ‘Notice’, dans Georges Bataille, Œuvres complètes, i, Romans et récits, éd. Jean-François Louette (Paris: Gallimard, 2004), p. 1138.</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>Hill, Bataille, Klossowski, Blanchot, p. 20.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Breton, Manifestes du surréalisme, p. 134. Allan Stoekl analyse la signification de l'ordure chez les deux auteurs dans son introduction à Visions of Excess: Selected Writings, 1927–1939 (Minneapolis: University of Minnesota Press, 1985), pp. x–xiii.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>Breton, Manifestes du surréalisme, p. 135n.</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>L'Érotisme, OC, x, 213.</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>Georges Bataille, Le Mort, OC, ii, 366n. Toute référence à ce texte sera indiquée entre parenthèses.</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Gilles Deleuze, Présentation de Sacher-Masoch: le froid et le cruel (Paris: Minuit, 1967), p. 88.</p>
+            </note>
+            <note place="inline" n="FN19">
+               <ref>19</ref>
+               <p>Madame Edwarda, OC, iii, 21–22.</p>
+            </note>
+            <note place="inline" n="FN20">
+               <ref>20</ref>
+               <p>Je souligne.</p>
+            </note>
+            <note place="inline" n="FN21">
+               <ref>21</ref>
+               <p>Dans La Part maudite, par exemple, Bataille décrit de nombreuses victimes du sacrifice, dont une se déguise en ‘mère des dieux’, et une autre en ‘déesse Ilamatecultli’ (OC, vii, 40).</p>
+            </note>
+            <note place="inline" n="FN22">
+               <ref>22</ref>
+               <p>Thadée Klossowski explore ce phénomène en détail dans son article ‘Le Ciel’, L'Arc, 32 (1967), 46–48.</p>
+            </note>
+            <note place="inline" n="FN23">
+               <ref>23</ref>
+               <p>Le chemin de croix fait partie des cérémonies religieuses du Vendredi saint.</p>
+            </note>
+            <note place="inline" n="FN24">
+               <ref>24</ref>
+               <p>‘Le Sacré’, OC, i, 562.</p>
+            </note>
+            <note place="inline" n="FN25">
+               <ref>25</ref>
+               <p>Bataille voit Dionysos comme représentant de la destruction de soi et de la transcendance au cœur de l'expérience religieuse: ‘Il n'est pas le vin mais l'ivresse. Dionysos, aveugle aux conséquences, est l'absence de raison et le cri sans espoir — qui n'a que l'instantanéité de la foudre — de la tragédie’ (‘Dionysos Redivivus’, OC, xi, 68). Il poursuit: ‘Ce qui s'incarne en lui n'est pas seulement le sacré érotique, mais le sentiment tragique du sacrifice’ (p. 69).</p>
+            </note>
+            <note place="inline" n="FN26">
+               <ref>26</ref>
+               <p>‘Dionysos Redivivus’, p. 68.</p>
+            </note>
+            <note place="inline" n="FN27">
+               <ref>27</ref>
+               <p>Selon Bataille, l'histoire de la crucifixion de Jésus est une continuation des mythes grecs qui traitent de l'idée de la résurrection: ‘Il est difficile de douter que la passion et la résurrection de Jésus ne prolongent des sentiments liés aux légendes des divinités mises à mort de l'antiquité’ (‘Dionysos Redivivus’, p. 69).</p>
+            </note>
+            <note place="inline" n="FN28">
+               <ref>28</ref>
+               <p>‘Le Sacré au xxe siècle’, OC, viii, 188.</p>
+            </note>
+            <note place="inline" n="FN29">
+               <ref>29</ref>
+               <p>Plus précisément, la façon dont Bataille construit le ‘personnage’ de Marie lui permet d'exprimer les répercussions textuelles de l'hétérogène.</p>
+            </note>
+            <note place="inline" n="FN30">
+               <ref>30</ref>
+               <p>Jeremy Biles, Ecce Monstrum: Georges Bataille and the Sacrifice of Form (New York: Fordham University Press, 2007), p. 76.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

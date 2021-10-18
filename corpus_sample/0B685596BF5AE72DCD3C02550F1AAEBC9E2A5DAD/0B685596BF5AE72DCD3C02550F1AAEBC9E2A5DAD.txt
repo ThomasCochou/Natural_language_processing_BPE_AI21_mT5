@@ -1,0 +1,1698 @@
+2110
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+[5] G.O.DUDEK& R.H.HoLM,J. Amer. chem. Soc. 83, 2099 (1961), and subsequent papers.
+[6] D POCAR,
+G.BIANCHETTI
+& P.D.CROCE,
+Gazz. chiin. ital. 95, 1220 (1965).
+[7] J.A. POPLE,W.G. SCHNEIDER& H. J . BERNSTEIN,((High Resolution Nuclear Magnetic
+Resonances, p. 239, McGraw-Hill, New York 1959.
+[8] G. STORK,A. HRIZZOLARA,
+H. LANDESMAN,
+J. SZMUSZKOVICZ
+& R. TERRELL,J. Amer. chem.
+SOC.85, 207 (1963).
+[9] G. BADDELEY,
+J.CHADWICK
+& H.T.TAYLoR,J . chem. SOC.7956, 451.
+[lo] H.C.BROWN,
+J. chem. Soc. 1956, 1248.
+[11] E. L. ELIEL,(1 Stereochemistry of carbon compounds)), p. 267, McGraw-Hill, New York 1962.
+1121 A.ADAMS& R. SLACK,J. chem. SOC.7959,3061.
+
+241. Essais de reactions dissymetriques sur quartz optiquement actif
+p a r Annie Amariglio, Henri Amariglio et Xavier Duval
+Laboratoire du Professeur X. DUVAL,Centre de ler Cycle,
+Boulevard des Aiguillettes, 54 Nancy
+
+(22 168)
+Summary. - I. Three catalytical reactions are investigated (hydrogenation of methylethylketone, dehydrogenation anti dehydration of 2-butanol) the catalyst being optically active quartz,
+either pure or metal covered. Emphasis is laid upon the most appropriate experimental conditions,
+generally neglected heretofore, when stcreospecificity may be expected in a catalytic heterogeneous reaction. Numerous attempts under carefully controlled conditions have always led to
+negative results. Apparent optical rotations sometimes observed are shown to result from an
+extraneous effect due to minute quartz particles carried away with the reaction products.
+11. httelnpts to separate a t room temperature various racemic modifications (2-butanol,
+cobalt or chromium complexes, ammonium tartrate) by liquid-solid chromatography on optically
+active quartz have always led to negative results. The resolution of (*)-Z-butanol a t dry ice
+temperature was also unsuccessful.
+111. The failure to observe any asyinmetric effect in catalysis as well as in adsorption on
+optically active quartz prompts to a critical analysis of previous work where small but positivc
+effects have been claimed. It is shown that most of the small rotatory powers observed are within
+the limit of error of the measurements and that a number of results are inconsistent or unlike.
+These may hav: been vitiated by an extraneous effect which has been recognised and had been
+overlooked previously (dichroism or double refraction due t o minute quartz particles suspended
+in the observed liquid).
+
+I. R€?ACTIONS CATALYSEES
+
+SCHWAB
+& RUDOLPH
+d’abord [l],TERENTJEW
+& KLABUNOWSKI
+plus tard [2 B 51
+ont rapport6 des rksultats selon lesquels le quartz optiquement actif, utilis6 comme
+catalyseur, seul ou recouvert de m6tal (catalyseur mixte), serait de nature k induire
+la dissyinktrie dans une rkaction chimique. Si la littbrature [6 141 relate encore
+d’autres exemples illustrant le pouvoir st6r6ospkcifique de ce catalyseur, elle mentionne kgalement les 6checs de plusieurs auteurs lors d’expkriences nouvelles [9] [15]
+ou de tentatives en vue de reproduire certains des essais prCc6dents [16].
+Dans un article antkrieur [17] nous avons analyst! les travaux de synthbse asymbtrique utilisant le quartz comme agent inducteur et avons constat6 que I’action
+asymbtrisante de ce min6ral ne s’est jamais traduite que par une activitb trbs faible
+du produit de la rCaction.
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+2111
+
+I1 nous a semblC que les conditions exphimentales peu soignCes utiliskes par les
+auteurs prCcCdents pouvaient &re, pour une bonne part, responsables de la petitesse
+des effets obtenus et qu’une amklioration de ces conditions - en particulier par l’emploi de catalyseurs mixtes rendus plus efficaces par une dispersion plus grande et plus
+homogbne du mCtal sur le quartz optiquement actif - Ctait de nature B conduire B des
+rksultats plus nets et par 18 & permettre 1’Ctude du mkcanisme de ce type de rCaction.
+Tel Ctait le but du travail rapport6 dans la premikre partie du prCsent MCmoire.
+La plupart des travaux exphrimentaux antkrieurs portent sur la dCshydrogCnation et la dbhydratation du butanol-2, rCactions que les auteurs n’ont le plus souvent
+pu dissocier. I1 nous a semblC nCcessaire d’ktudier s6parCment chacune de ces deux
+rkactions dont les m6canismes sont siirement diffkrents. Comme nous l’avons signal6
+ailleurs [l‘i],les seules tentatives d’hydroghation asymCtrique effectuCes jusqu’ici
+ont abouti 8 des rksultats nuls (hydroghation de l’acide tiglique [l])ou douteux
+(hydroghation de l’cr-pinkne ou de l’cr-phknylcinnamated’Cthyle [2] [4]). Nous avons
+alors trow6 logique d’inclure dans notre 6tude l’hydroghation de la mCthyl-CthylcCtone. Les trois rCactions CtudiCes ici concernent donc le butanol-2 et ont trait soit
+a sa synthkse stCrCospCcifique, soit 2 la d6composition (dCshydrogCnation ou d6shydratation) stQCospCcifique de son mClange racCmique. Le choix de cet alcool se
+rCvkle judicieux, car il posskde un pouvoir rota.toire spCcifique [a]$ Cgal a 13,9”,
+anormalement ClevC dans les deux familles d’alcool dont il fait partie (CH,CHOH-R
+et C,H,-CHOH-R’) [18].
+I. 1. Facteurs importants pour l’obtentionde la stkrkospkcificitkmaximale.
+
+-
+
+Un certain nombre de facteurs (taux de conversion, degr6 de recouvrement du quartz,
+tempkrature de la &action) pourraient avoir une importance dkterminante dans
+1’Ctude entreprise, et la petitesse des effets obtenus par les auteurs pr6ddents (le
+pouvoir rotatoire indiqu6 n’atteint gCnCralement que quelques centikmes et rarement le dixikme de degr6) pourrait rCsulter des valeurs dkfavorables choisies pour ces
+facteurs.
+I. 1a. L e taux de conversion. Lors d’une rCaction de synthkse dissymktrique & partir
+d’un substrat symbtrique (hydroghation de la mCthyl-Cthyl-dtone, par exemple) le
+pouvoir rotatoire du condensat varie proportionnellement au rendement de la rCaction si le pouvoir spkcifique du catalyseur reste constant; mais il n’en est pas ainsi lors
+d’une rCaction de dkomposition stCrCospCcifique d’un composC rackmique (dkshydrogknation du butanol-2, par exemple), et il existe en ce cas un rendemed optimal
+donnant lieu 8. un pouvoir rotatoire maximal, pour le mtflange de com$ostfs organigues
+issu du rtfactew (alcool et &tone).
+Appelons x la fraction de butanol-2 dCshydrogCn6 et supposons que le catalyseur clissym6trique (quartz gauche) dkshydrogbne s molCcules d’alcool droit pour une d’alcool gauche (s > 1).
+Un calcul simple montre que la valeur optimale de x est Cgale k (s 1)/2set correspond au maximum
+d’effet optique observable pour le melange d’alcool et de &one obtenu: [11,2 (s- 1)/2s]” dans
+un tube de 1 dm. Cette valeur optimale de x varie entre 0,50 et 1 suivant la st6r6ospCcificitk du
+catalyseur (que caracterise le facteur s). Pour des valeurs de x diffkrentes de x optimal, le pouvoir
+rotatoire dkcroit rapidement. Indiquons, A titre d’exemple, que si s = 1,l le pouvoir rotatoire
+optimal vaut 0.51” (x optimal = 0,95), mais le pouvoir rotatoire obtenu pour x = 0,40 (cas
+courant dans nos mesures) ne vaut que 0,21”.
+
++
+
+On voit donc tout l’intCr&tqu’il faut porter 2rCaliser le taux de conversion optimal,
+Ctant donnC la dkroissance rapide du pouvoir rotatoire observC quand on s’en Ccarte.
+
+2112
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+Pour les catalyseurs douCs d’une stCrkospCcificitk faible, il devient trits important de
+pouvoir atteindre des taux de conversion klevks, donc d’exalter au maximum leur
+activit6 dkshydrogknante.
+D’autres facteurs influent sur la stCrkospkcificit6 et conduisent aussi a la nCcessit6
+de catalyseurs trits actifs. Ce sont :
+
+I. l b . L e degrd de recouvrement du quartz optiquernent act$ I1 est logique de supposer que la cause de l’activitk dissymktrique de ces catalyseurs rCside dans une adsorption diffkrencibe des deux antipodes [17]. Dans le cas d’un catalyseur constituk d’un
+mktal dispersC sur du quartz, le degr6 de recouvrement du support ne doit donc pas
+iltre trop ClevC, de faqon que les molCcules d’alcool aient libre accits B la surface dissymktrique. Par ailleurs, l’adsorption asymktrique peut avoir des effets d’autant
+plus accentu6s que les molkcules adsorbCes participent plus rapidement aux Ctapes
+suivantes de la rkaction. Le in6tal dont la quantitC est IimitCe par le facteur prkckdent
+doit cependant assurer la dkshydrog6nation B une vitesse et a un taux suffisants.
+I1 s’ensuit que l’efficacitk des catalyseurs utilisks doit iltre trks grande, et que l’existence d’un degrk de recouvrement optimal parait vraisemblable.
+I. l c . L a ternpdrature de l a rdaction. La tempkrature exerce un r61e direct et considCrable sur le taux de stkrkospkcificitk de la &action [19] et on peut citer diverses
+raisons amenant toutes a concevoir une stCrkospt5cificitC d’autant plus grande que la
+tempCrature sera plus basse. Tout d’abord, I’ClCvation de la tempkrature peut exercer
+un effet perturbateur dans la mesure oh elle favorise la rackmisation du produit
+actif Cventuellement form& et oix elle ouvre la voie A la superposition de plusieurs
+mCcanismes rkactionnels dont en gCnkral un seul (ici un mkcanisme catalytique) conduit k la stCrkosp6cificitC recherchke. Par ailleurs, cette stCrkospkcificit6, s, que l’on
+peut caract6riser par le rapport k,/k, des constantes de vitesse de formation des isomikes droit et gauche si k, > k , (ou par kG/k, si k D < kG), se met sous la forme:
+
+si A , et ED,A , et E , reprksentent les facteurs prC-exponentiels et les Cnergies d’activation relatifs aux constantes k, et kG respectivement. I1 est alors Cvident que la
+diffkrence d E = E , - E , des Cnergies d’activation de formation des deux isoniitres
+sera utilide au mieux pour les tempkratures de rkaction les plus basses. I1 apparait
+donc ici aussi que les catalyseurs k utiliser doivent &re des plus actifs, de faqon A.
+permettre l’obtention, B la tempCrature la plus basse possible, d’un taux de transformation optimal.
+I. 2 . Catalyseurs utilisks. - Le CENTRE NATIONAL
+D’€?TUDE
+
+DES T ~ L ~ C O N M L T N I nous a aimablement fourni des chutes identifibes de quartz droit et de quartz
+gauche synthetiques.
+
+CATIONS
+
+Les echantillons utilisCs pour cette Ctude ont Ct6 broyCs, sdpardment, dans un broyeur 2,
+disque vibrant en carbure de t u n g s t h e (AUXILIAIREDE RECONSTRUCTION),
+jusqu’A obtention
+de particules de l’ordre du micron. L’aire sp6cifique de chaque Cchantillon de quartz gauche
+utilisC, mesur6e par la m6thode de BRUNAUER,
+EMMETT
+& TELLER
+[ZO], en traGant les isothermes
+d’adsorption du krypton A la teinpkrature cle l’azotc liquide, est voisine de 2 mz/g; lorsque, pour
+certains essais, les Cchantillons sont attaquCs A l’acide fluorhydrique dilu6 (cas de Gk, dCcrit dans
+le tableau 3), cette valeur tombe 2, 0,2 m2/g, mais cette derniere surface spCcifique est cependant
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+2113
+
+environ trentc fois superieure A celle des Cchantillons utilisds par SCHWAB
+[l]. L’Cchantillon D;
+de quartz droit a une surface specifique de 0,6 m2/g.
+Pour les expCriences de dkshydratation d u butanol-2, le quartz broyC est utilisd tel quel, ou
+Cventuellement aprks decapagc A l’acide fluorhydrique.
+Pour les experiences d’hydrogknation de la methylCthylc6tone ou de dCshydrog6nation du
+butanol-2, le quartz broy6 - et Cventuellement dCcap6 par de l’acide fluorhydrique - sert de support B un metal disperse (Ni ou P t ) . Nous avons vu dans le paragraphe precedent la nCcessitC
+d’utiliser des catalyseurs divises, trks efficaces, conduisant B. basse temperature, A des taux de
+conversion ClevCs, malgrC la faible quantite de mCtal. La dispersion du metal doit, de ce fait, 6tre
+grande, et sa ripartition, homogene. La technique de preparation des catalyseurs, dejB utilisCe
+dans notre laboratoire depuis plusieurs annees [21], nous a sembl6 tout-B-fait opportune. E l k
+consiste essentiellement B. imprigner le support - ici le quartz - par une solution d’un sel du metal
+choisi, A la geler et A eliminer la glace par sublimation. Les m6taux utilisCs sont le nickel e t le
+platine, introduits, le premier, sous forme de nitrate (HOPKIN& WILLIAMS,qualit6 ANALAR,
+no 6056), le dernier, sous forme d’acide chloroplatinique (JOHNSON,
+MATTHEY& Co.).
+La d6composition thermique du nitrate de nickel et la rkduction, sous courant d’hydroghe,
+de l’oxydc obtenu se font aux tempkratures les plus basses possible (300” et 250” respectivement).
+L‘acide chloroplatinique est rkduit i 300”, sous courant d’hydrogkne pcndant une douzaine d’heures. Le metal ainsi d@pos6est trks divisC e t posskde une activitC catalytique trks ClevBe, prCc6demment mise en relief lors de 1’Ctude de l‘oxydation catalytique d u graphite [21] [22] et de celle
+de 1’6quilibre de d6shydrogCnation du butanol-2, atteint k des temperatures notablement plus
+basses que celles utilistes jusqu’ici [22] [ 2 3 ] .
+Les degres de recouvrement des catalyseurs utilisCs (dCcrits dans les tableaux 1 et 3 ) sont
+calculCs en rapportant la surface occupke par le m6tal la surface totale de 1’Cchantillon (la surface
+d’un atome de nickel ou de platine est prise Bgale B 10 Az).
+
+I. 3. MBthodes d’6tude des reactions et appareillage. - I. 3a. Hydroge‘nation de la me‘thyle’thyl-ce‘tone.Les essais ont d’abord 6tB effectues par la m6thode statique dans un appareil d’hydrogCnation classique (A secousses), puis par la mCthode dynaniique dans un appareil simplifie par
+rapport B celui utilise pour effectuer la deshydrogenation du butanol-2, et que nous decrivons
+plus bas. Dans ces deux cas, l’analyse rkfractometrique du melange issu d u reacteur renseigne sur
+le rendement global.
+I. 3b. De‘shydroge‘nationd u butanol-2. La methode d’ktude est la methode dynamique: un gaz
+porteur inerte (azote) a m h e les vapcurs de butanol-2 au contact d u catalyseur. Cette methode
+presente divers avantages: rCglage plus aist d u debit de rCactant, possibilite de variation de sa
+pression partielle. Aprbs condensation des vapeurs organiques (alcool et cktone), l’hydroghe
+produit peut &tredose de faGon continue dans le gaz sortant (m6lange d’azote et d’hydroghe) par
+mesure differentielle de conductivitd thermique. L‘analyse rdfractonietrique du condensat (r6fractometre d’ABBE - mod& B de ZEISS) permet en outre, grkce 2 l’utilisation d’une courbe dtalon
+preetablie, de connaitre le taux de conversion de l’alcool, et l’accord entre ces deux mCthodes
+exclut toute reaction parasite.
+L’appareillage utilisC est analogue A celui dCcrit dans une publication antCrieure [23].
+Pour les experiences les plus precises, nous avous amChorC progressivement le systhme de
+comportc, sclon les indicapurification des gaz. L’azote utilise (qualit8 aUo de $L’AIR I.IQUIIIF:H)
+tions des fournisseurs, moins de 5 millionikmes d’oxygiinc et moins clc 5 tnillioni&mesd’cau; en
+supposant un debit de 3 l/h, la quantite d’oxygkne mise au contact de la partie mCtallique d u catalyseur est de 1,34 *
+at-g/h. Si nous admettons que le mCtal est uniforrndment dispers6 et que
+tous les atomes sont responsables au m6me titre de l’activite du catalyseur, en 26 h, un catalyseur
+comportant 3,45 . 10-5 at-g de nickel, par exemple, (ce qui correspond 8. l’un dcs catalyseurs
+utilis6s) est entikrement oxyd6. Nous avons constate effectivement que l’activitk dc nos catalyseurs, considerable en debut de reaction, decroit trks vite avec le temps, et qu’une brkve reduction
+vers 200-250°C la rCgCnBre. Or, si l’on veut recueillir un condensat de volume suffisant en vue
+d’un examen polarimdtrique (echantillons de 2 k 7 ml), il est ntcessaire de faire fonctionner
+l’appareil plusieurs heures durant lesquelles le rendenient de la reaction n’est pas constant. Pour
+pallier cet inconv6nient, dont nous avons vu plus haut l’importance, il importe de purifier au
+133
+
+2114
+
+HELVETIC.%
+CHIMICA ACTA - T~olumcn51, Fasciculus 8 (1958)
+
+mieux, en oxygi-ne, le gaz porteur. Par approchcs succcssivcs, nous avons d t e amends B montcr
+un ensemble de purification poussCe, comportant cn sdrie :
+
+1) un four k 450”C, contenant 4 kg de f i l tle cuivre;
+2) deux Sours B 350 c t 300°C, coinportant du niclicl rCduit dispersd sur gel dc silice (dcgrC dc
+recouvrement: 44%). Le gel a dtC grossibrcment imprCgn6 d’une solution saturee dc nitrate,
+essord, sCchC 8. 1’Ctuve. Le nitrate a C t C dCcornposC vcrs 350”C, puis l’oxyde a dt6 rCduit in sitza
+B la tempkrature d’utilisation;
+3) un four B 250”C, contenant du nickel rtduit dispcrsd sur gel de silice. La premikre partic
+de la colonnc a C t C trait& par une solution saturte de nitrate (ce qui conduit k un degrC de recouvrement de 44%), la seconde partie a Btd traitCe par une solution dix fois plus diluCe (degr6 dc rccouvrement de 4%). La technique dc preparation dc ce nickel disperse stir gel cst la m&meque celle
+utilisde pour nos catalyseurs. Ain i le dernier Ctage de purification se trouve-t-il constitud par un
+catalyscur analogue B cclui dtudi , mais cle niasse bcaucoup plus considtrable.
+Cet ensemble de purification n’Ctait pas encore totalement sufiisant, e t l’cmpoisonnement de
+nos catalyseurs subsistait, quoiquc considCrablcmcnt plus lent. 1,’activitd initiale dtait dgalement
+reg6nerCe par rdduction. Dks lors, il apparaissait logique dc suspccter les traces d’eau contenues
+dans le gaz porteur. Nous avons done installd:
+1) une prcmiilrc colonne de gel de silice a c t i d , situCe avant l’ensemble des fours de purification e t destinCe B Cviter l’oxydation par l’eau du nickel disperse contenu dans ces fours;
+2) une deuxii-me colonne de gel de silice activ6 B la sortie des fours prdc6dents;
+3) pour la purification ultimc, un pikge PI constituC d’untube de verre Pyrex de 1 2 mm de
+dianihtre intdrieur, rempli de billes de verre, ct inimcrgd dans de l’air liquide. Ce pikge est constituk
+par l’imbrication de deux hklices: l’hdlice c1’cntri.e (descendante) sc raccorde au fond du vase de
+DEWARi I’hClice de sortie qui est ascendantc. Cettc disposition particnlii-re correspond B une
+grande longueur de tube (4 m) e t permet d’obtenir une efficacitk pcu sensible aux variations du
+niveau d’air liquide 8. I’intCrieur du vase de DEWAR.De tels pikges sont utilis6s dans notre laboratoire depuis plusieurs annCes pour la puriiication ultime, en cau, cle l’air servant B l’dtudc dc la
+combustion d u graphite [24].
+
+Nous ne pouvons pas chiffrcr la puretd du gaz sortant de cet ensemble de purification, mais
+un Cchantillon analys6 8. l’aide d’un spectromiltre de massc MS 10 (ASSOCIATEDELECTRICAL
+ne prCscnte aucun pic correspondant B l’oxygkne e t ila vapeur d’cau, cc
+INDUSTRIES
+LIMITED)
+qui indique une teneur en ces dcux gaz infdrieure :d 3 millioni6mes. Malgrd le perfectionncment
+apportC B notre installation, lcs catalyseurs dispersCs de nickel continuent B s’cmpoisonncr, mais
+de fason considdrablement plus lentc. Ccux de platiue prCsentent, aprbs unc pCriode de dCcroissance, un palier d’activitd. Une hypothi-se simple permct d’expliquer ces deux comportements.
+Le butanol-2 utilisC contient entre 0,l et 0,5% d’eau. La pression particlle en alcool est habituelleinent de 60 Torr, ce qui entraine une concentration en eau de 100 5 500 millioniilmcs au niveau
+du catalyseur. Cettc eau, ainsi que celle qui peut apparaitrc comnie prodnit secondaire au cours
+de la rdaction, peut oxyder le nickel e t s’adsorber dc SaGon Cquilibree 8. la surface du platine. La
+nCcessit6 d’une dessication suffisante d u butanol-2 pose un problbme qui n’a pu &re rCsolu.
+Cependant, il est clair que les conditions opdratoires qui sont les n6tres sont plus soignCes
+q u c cclles des auteurs pr6ce‘dents ct ticnncut comptc, pour Ic inieux, dc facteurs importants pour
+l’obtention d’unc bonne stCrCospCcificit6.
+I. 3c. Ddslzyydvatatioiz dz4 butanol-2. On utilise l’appareil d6crit en I. 3b. Lcs pikges P, e t P’,
+sont refroidis 8. - 50”
+5”,tempdrature qui permet de condenser l’eau produite au cours dc la
+rkaction, sans condenser simultandmcnt les buti-ncs qui I’accompagnent. Bien que 1’Ctalonnage
+p r i c k du catharomhtre ne soit pas rCalisable, la variation relative du signal en fonction dc la
+tempkrature fournit de bonncs indications sur le rendement de cette rdaction e t permet, en particulier, d’cn suivre grossikremcnt la variation.
+I. 4. Polarimktres utilisks. - Lc premier polarimbtre utilisd cst un polarimktre visuel 8.
+double pCnombre, HILGER
+M-412, eclair6 par une lampc B vapeur de sodium. La pre‘cision et la
+sensibilite annoncecs cle ce polarimktre sont de 0,Ol”. Lcur atteinte est dcs plus laborieuses ct nous
+pensons, pour notrc comptc, qu’unc lecture sur cet instrument, inftrieurc au dixikme de degrC,
+
+IIICLVETICA
+01m11c.k ACTA - Volunien 51, Fasciculus 3 (19G8)
+
+2115
+
+n’a aucunc signification. La diminution cle l’angle de pknombre permettrait en principe d’accroitre
+la sensibilitd, inais un compromis doit &re tronvd d u fait qu’inversement la luminositd ddcroit.
+Pour toutes nos expdriences, nous l’avons choisi dgal B 5’. L‘utilisation de cuves 8. fenstres amovibles (le remplissage se faisant alors par une extremitd) est snjettc i caution car il cst tres doutenx que les tensions des fenetres soient les m&mespour le zero et pour la mesure du pouvoir rotatoire de la solution 6tudi6e. Nous avons donc le plus souvent utilisk un tube polarimktrique dc
+1 dm de long. dont les deux fengtres sont scelldes e t qui posskde une ouverture centrale pour le
+remplissage. Avant chaque passage d’dchantillon, une mesure effectnee sur la cuve remplie d’dthano1 permet d’en obtenir le zero e t d’dliminer ainsi toute perturbation de la mesure ult6rieure par
+d’kventuelles tensions parasites.
+Les valeurs du pouvoir rotatoire obtenues par les auteurs prBcCdents, ainsi que celles de nos
+cssais prkliminaires, se situent i la limite de sensibilit6 des polarimktres classiques 8. pknombre
+(dont le polarimktre HILGER
+M-412 rcpr6sente un modCle relativement perfectionn6). Pour continuer e t approfondir l’dtudc des phdnomenes Btudiks, il a Ct6 necessaire d’utiliser un p o l a r i m k e
+6lectronique ROUSSELJ O U A N , no 1885. Cet appareil, automatique, utilise une cellule photomultiplicatrice (et non l’ccil humain) comme ddtcctcur d’iquilibrc lumincux, ct la grandeur mesurke,
+qui peut ici Btre enregistrde, est l’intensit6 d’un courant electrique. Sur son 6chelle la plus sensible,
+deux divisions corrcspondcnt 5 un millieme de degr6, e t la prBcision e t la sensibilitd rdpondent 8.
+la valenr annonckc de
+0,0005”. La cellule de polarimdtrie classique est remplacke par des cuves
+paralldldpipddiques en acier inoxydable, dont les surfaces transparentes sont des lamelles de microscope. Les ciives utiliskes, de 0,5, 2 e t 7 cm de long, prisentent deux ajutages de remplissage qui
+permettent leur utilisation Cventuclle comme cuves i circulation.
+
++
+
+I. 5. RCsultats. - I. 5a. Essais p r d h i n a i r e s . Pour les premiers essais effectuks,
+nous ne disposions que du polarimktre HILGER.
+Ces essais ont port6 aussi bien sur
+l’hydroghation de la m6thyl-kthyl-cktone (m6thyl-Cthyl-cCtone pour chromatographie, RIEDELDE HAEN,no33047) que sur la dkshydrogknation du butanol-2 (butanol-2 pour chromatographie, RIEDELDE HAEN,n o 33066). Le tableau 1 indique les
+caractkristiques des divers catalyseurs et leur utilisation.
+Tableau 1. Caracte’ristiques des catalyseurs utilise‘s pour les essais pre‘liminaires
+Catalyscur
+
+Support
+
+M6tal
+
+Masse de
+support
+
+Quantitd
+de mdtal
+
+(si
+
+(10-5
+
+at-g)
+
+Degr6 dc
+recouvrement
+
+Utilisation
+
+(%I
+
+GI 8. G,
+
+quartz C
+
+Ni
+(6tuve)
+
+3
+
+8S
+
+85
+
+GI, 5 GI,
+
+quartz G
+
+Ni
+(Btuve)
+
+3
+
+5,5
+
+85
+
+G,, i G,,
+
+quartz G
+
+Ni (lyophilisation)
+
+3
+
+8,i
+
+8i
+
+GI,, GI,
+e t Gl,
+
+quartz G
+
+Ni (lyophilisation)
+
+3
+
+8,j
+
+85
+
+hydroggnation en
+mdthode statique
+hydrogknation en
+mdthode dynamique
+hydrogknation en
+mdthode dynamique
+dkshydrogknation en
+mdthode dynamiquc
+
+La r6action est menke soit B 50” (mkthode statique), ioit entre 140 et 150” (mkthode dynamique), le choix de cette tempttrature rttsultant d’un compromis relatif
+aux effets contradictoires d’une kl6vation de tempkrature (la vitesse de la rkaction
+croft, mais la constante de l’kquilibre dkcroft, et, de ce fait, le rendement maximal
+en butanol devient plus faible). Les rendements obtenus varient de 30 B 60%. L’examen polarimhtrique des produits de la &action conduit toujours k des pouvoirs rotatoires faibles, B la limite de sensibilit6 de l’appareil, se situant pour la plupart &
+
+2116
+
+HELVETIC.4
+
+CHIMICA
+
+ACTA- Vohiilcn 51, Fasciculus 8 (1968)
+
+0,03-0,04” et n’atteignant que rarement le dixikme de degrC. On trouvera dans la
+thkse de l’un de nous (A.A.) ([25], p. 27 et 28) le dktail des rksultats obtenus. Le
+tableau 2‘ reproduit, B titre d’exemple, les pouvoirs rotatoires obtenus dans le cas
+particulier de la dkshydrog4nation du butanol-2.
+Tableau 2. Pouvoirs rotatoires obtenus lors de la de’shydvoge‘natiovz d u butaizol-2, catalyse’e par les
+catalyseurs GI,, GI, et G,,
+Catalyseur
+
+GI,
+
+Rendement (%)
+Rotation*) (en degr6)
+
+40
+
+60
+
+- 0,02
+
+- 0,03
+
+50
+- 0,04
+
+*) Moyenne de 10 A 15 lectures rCalis6es en faisant passer alternativement chacune des deux plages,
+de la lumihre & la p6nombre.
+
+Au terme de ces essais, les rksultats obtenus ktaient faibles et douteux. I1 nous a
+cependant semblk que leur existence ktait rkelle, mais demandait & &treconfirmke par
+l’emploi d’un polarim&tre plus sensible. De plus, l’ktude quantitative des effets stkrkospkcifiques ne pouvait &re abordCe qu’en tenant compte des facteurs dont nous
+avons discutk en I. 1. et impliquait la mise au point de catalyseurs divisks trks actifs.
+
+I. 5b. Essais soignLs. - L’appareil de mesure est ici le polarim6tre photo-klectrique
+utilisant la raie D du sodium; l’appareil oh s’effectue la rkaction, celui dkcrit en I. 3b.
+Les catalyseurs utilisks sont dkcrits dans le tableau 3 . Les rkactions 6tudikes sont la
+dbshydrogknation e t la dkshydratation du butanol-2. Le butanol-2 utilisk est le m&me
+que pour les essais prkliminaires. Ses caract6ristiques (Eb. 99,5”/760 Torr; ng =
+1,3949; n$’ = 1,3970) sont conformes aux donnCes de la littkrature [ZG].
+Tableau 3 . Caractdristiques des catalyseurs utrlise’s pour les essais soigne’s
+Catalyseur
+
+Support
+
+G;
+
+quartz G
+
+Gk
+
+quartz G
+
+G;
+
+quartz G
+
+Gk
+
+quartz G
+quartz G
+lave & FH
+quartz D
+fraichement
+broy6
+
+Gb
+
+D;
+
+MCtal
+
+Ni (lyophilisation)
+Ni (lyophilisation)
+Pt (lyophilisation)
+n6ant
+Pt (lyophilisation)
+n6ant
+
+Masse de
+support
+
+Quantit6
+de mCtal
+
+Degr6 de
+recouvrement
+
+(9)
+
+(10-5 at-g)
+
+(%I
+
+1,5
+
+0,75
+
+15
+
+d6shydrogCnation
+
+2
+
+1,5
+
+23
+
+dCshydrog6nation
+
+2
+
+3,45
+
+52
+
+dCshydrog6nation
+
+1
+2
+
+0
+1,72
+
+0
+260
+
+dbshydratation
+dishydroghition
+
+4,8
+
+0
+
+0
+
+Utilisation
+
+deshydratation
+
+i) PrerniZre sirie d’essais. - DbhydrogLnation du butanol-2. Les catalyseurs Gr et
+G,& B faible degrk de recouvrement en nickel, connaissent un empoisonnement dont la
+rapidit6 ne permet pas toujours l’examen polarimktrique du condensat r6sultant de
+leur activitk maximale.
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+2117
+
+GI conduit pour un essai 8. 200 "C, effectu6 immkdiatement aprbs sa rCgCnkration,
+i un taux de conversion moyen de 41%, puis, pour un second essai d la meme temp&
+rature, 8.un taux qui n'est plus que de 15%. L'examen polarimktrique (cuve de 7 cm)
+
+des deux condensats correspondants conduit aux pouvoirs rotatoires respectifs de :
+- 0,001" et 0,000'
+
+Gi pr6sente une activit6 initiale Clevke qui permet d'assurer 8. 200°C la transformation de 63% du butanol-2, mais qui d6croit de fagon trop rapide pour permettre
+une mesure relative A un tel taux. En dkfinitive, les condensats obtenus 8. 200 puis
+A 130°C d6notent des rendements moyens respectifs de 6 et 2% et des activitCs optiques correspondantes (dans la cuve de 7 cm) Cgales A :
+- 0,001" et - 0,001".
+
+G;, 8. faible degr6 de recouvrement en platine, connait un comportement plus
+stable permettant d'obtenir A 180"C, et pour deux essais successifs, des rendements
+de 45%. L'examen polarimktrique (cuve de 7 cm) conduit pour ces deux essais aux
+rotations de:
+0,000" et - O , O 0 l o .
+Dbhydratation du butanol-2. Le quartz nu, finement pulv6ris6, catalyse d&s 150"
+cette rkactionl). Le condensat est constituk d'un mClange d'eau et de butanol-2, qui,
+A partir d'une certaine teneur en eau, se &pare en deux phases. La phase 16g&re,
+constituhe de l'alcool ayant dissous un peu d'eau (environ lo%), est examinCe au
+polarimhtre. Les pouvoirs rotatoires des produits obtenus 8. diverses tempCratures,
+comprises entre 250 et .500", ne sont pas supkrieurs aux prkckdents (- 0,001; - 0,002O).
+Les essais prdliminaires avaient conduit 2 la conclusion que, s'il y avait pouvoir
+rotatoire, celui-ci Ctait de l'ordre de grandeur de la sensibilitk de l'appareil (0,Ol A
+0,l"). Ici, A nouveau, quelles que soient les conditions op6ratoires (r6actions diffkrentes, m6tal nouveau, degr6s de recouvrement divers, cellules polarimktriques de
+diffkrentes longueurs, temp6ratures varikes, appareil plus sensible), nous sommes
+ramen& 8. 6tudier un ph6nomhne 8. la limite de sensibilitC d'un appareil (f O,OOOSO).
+Pour les mesures effectukes 8. l'aide du polarimgtre A pCnombre HILGER,
+la fatigue
+visuelle et la subjectivitk pouvaient &re causes d'erreurs. Ici, les r6sultats ne peuvent
+6tre suspectks, puisqu'obtenus 8. l'aide d'un appareil automatique 8. lecture directe,
+et l'on en vient dbs lors 8. douter de la possibilitC pour le quartz optiquement actif
+d'induire une dissymktrie au cours d'une rkaction.
+ii) SecoTtde sdrie d'essais; observation d'un effet perturbateur. Nous avons cependant
+tent6 une nouvelle sQie d'expkriences. Certains auteurs considhrent que le quartz
+nature1 posshde une couche amorphe et que, aprbs broyage, les particules se recouvrent
+rapidement d'une telle couche dont 1'Cpaisseur est diversement estimCe de 0,9 [27] A
+5000 k [28]. Selon ALEXANIAN
+[29], cette couche amorphe, de 100 k d'kpaisseur, peut
+&re Plimin6e si on r6pbte trois fois un lavage de 10 minutes 8. l'acide fluorhydrique
+Notons qu'en raison du craquage facile des but&nes,il convient d'6viter les tempdratures Blev6es; entre 400 et 500°C (tempdratures utilisdes par SCHWAB
+[l] pour 1'6tude de cette r6action).
+le quartz se recouvre progressivement d'un dBp6t de carbone et perd son activit6 qu'un passage
+d'air h 500", durant une dizaine d'heures, rBg6nkre totalement.
+
+211s
+
+HELVBTICA
+CHIMICAk T . 4
+
+-
+
+Volumen 51, Fasciculus 8 (1968)
+
+diluk, suivi d’un rinyage B l’eau, et si on termine par un sCchage. Cette couche dCsorganisCe se rCgCnCrerait peu B peu B l’air (sa rCgenkration est totale en 24 B 72 heures,
+selon l’humiditk de l’atmosph6re). Pour cette nouvelle sCrie d’essais (catalyseurs G’,
+et Dfl), nous avons donc utilisC de la poudre de quartz constitde de particules de
+l’ordre du micron, et provenant d’un Cchantillon anciennement broye mais rCgCnCrC
+B HF (G’J ou d’un Cchantillon fraichement broyC (D’l). Ce quartz a servi tel quel
+comme catalyseur de dkshydratation, et recouvert de platine, comme catalyseur de
+dCshydrogCnation. Cette sCrie d’essais, dCcrite en dktail dans la thkse de l’un de nous
+(A.A.) ([25], p. 30 B 35), a abouti B un rCsultat inattendu.
+Le condensat obtenu, trouble, est une suspension stable de fines particules ou
+gouttelettes. Le passage au polarimktre de ce liquide conduit B un ccpouvoir rotatoire))
+variant, selon l’khantillon liquide, entre quelques milli6mes et plusieurs centikmes
+de degrk; mais il convient de noter que ce ccpouvoir rotatoire)) est liC B la prksence du
+corps en suspension parce qu’il dCcroit avec le temps, alors que ce corps sCdimente,
+pour s’annuler au bout de quelques heures B quelques jours, selon l’essai. Cette observation pourrait conduire B penser que les particules en suspension sont constitukes
+d’une matihe optiquement active qui rksulterait de transformations secondaires et
+complexes du butanol-2 et de ses produits de degradation. Cependant, une telle hypothsse se concilie ma1 avec l’inactivitk absolue du butanol hi-m&me dont la dkgradation, aussi complexe soit-elle, devrait etre globalement asym6trique. Ces particules,
+une fois isolkes, se rbvklent en fait incombustibles et insolubles, aussi bien dans l’eau
+que dans divers solvants organiques. Leur nature organique devient dks lors douteuse, et l’on en arrive B penser qu’il s’agit en rCalitC de fines particules de quartz,
+entrainkes sur plus d’un mktre de canalisation par le gaz porteur (circulant au debit
+de 2 8. 3 l/h). Des clichCs pris au microscope Clectronique permettent effectivement
+d’attribuer B ces particules des dimensions allant du dixikme de micron au micron.
+Le fait pour le quartz utilis6 dans ces essais d’&trefraichement broyC ou rPgCnCrk B
+HF, doit vraisemblablement modifier l’adhCsivit6 des particules qui le constituent et
+diminuer la cohesion des gros agrkgats et des fines que le gaz peut alors entrainer.
+Ainsi s’explique aiskment l’observation selon laquelle, a p r h un certain nombre de
+jours de fonctionnement du catalyseur, le condensat obtenu devient limpide, par
+suite simplement de l’kpuisement du catalyseur en ses grains les plus fins et fluidisables par le gaz porteur.
+I1 convient toutefois de souligner que les particules de quartz droit, aussi bien que
+celles de quartz gauche, conduisent B l’observation de ccpouvoirs rotatoires)) gauches
+et donc sans relation directe avec I’activitC optique du quartz. Nous avons alors examink ce phenomhne parasite de fayon dktaillke et effectuk un certain nombre d’observations dont nous ne rapportons ici que les conclusions.
+L’ktat en suspension des particules est, seul, responsable de la rotation apparente
+du plan de polarisation de la lumi?xe, et une suspension homoghe d’un corps optiquement inactif finement broy6 (verre Pyrex ou silice amorphe, par exemple) conduit
+au m h e resultat. On acquiert l’inipression que le phCnomhe parasite provient de
+l’ktablissement dans le liquide CtudiC d’une birLfrirzgence ou d‘un dichoi’sme, dus B
+l’orientation plus ou moins complhte que les particules anisomktriques prCsentent du
+fait de leur chute dans le champ de la pesanteur. Ce phknomhe, qui est B rapprocher
+de la birkfringence d’ecoulement observile pour certaines solutions colloidales ou de
+
+HELVETICA
+C ~ i r n i r c.\CTA
+~
+
+-
+
+Volumcn 51, Fasciculus 8 (1968)
+
+2119
+
+la birkfringence des suspensions de particules colloidales soumises ?
+uni champ magnktique (effet MAJORANA)
+[30],se traduirait alors partiellement par une altkration du
+vecteur lumineux aussi bien en grandeur qu’en direction, sans qu’on puisse le confondre avec un quelconque pouvoir rotatoire. Du reste, la rotation apparente du plan
+de polarisation de la lumikre, provoquke par les suspensions de particules non-colloidales s’orientant sous l’influence d’un champ (magnktique, klectrique ou de gravitation), a fait l’objet de nombreuses ktudes au dkbut du sikcle [31] pour ensuite tomber
+dam l’oubli, si l’on excepte les travaux de PXOCOPIU
+[32] datant de 1924 et un article
+rdcent de HELLER
+[ 3 3 ] . Ce miime auteur attire ajlleurs [34a] l’attention des expkrimentateurs sur diffkrents phhoniknes conduisant B l’observation d’unchangement
+d’orientation du plan de polarisation de la lumihre, et qui ne consistent pas en une
+activitk optique (dichroisme linkaire, birkfringences diverses). De simples mouvements de convection peuvent quelquefois suffire A provoquer une telle rotation. Ces
+diffkrentes observations ne font que rendre plus impkrative encore la nCcessit6,
+habituellement prkconiske d’ailleurs, pour les liquides observks, d’&treoptiquement
+vides.
+La non-observation de cette condition a, du reste, dkjB conduit certains auteurs
+[35] [36] 5 consiclkrer comme pouvoir rotatoire un dichroisme crkk par l’application
+d’un champ klectrique B une solution tenue pour limpide, mais dont un examen plus
+poussk a montrk ulthrieurement qu’elle ktait en rkalitd une suspension de trks fines
+particules. Cette solution soigneusement filtrCe n’a ensuite conduit I? aucun effet
+dkcelable [36] [37].
+I. 6. Conclusion. - Au cours des expkriences effectukes, les rksultats ont donc k t k
+de deux sortes: nkgatifs pour la plupart, apparemment positifs par suite d’un phknomkne perturbateur, pour des kchantillons fraichement broyirs ou rdgknkrks par attaque
+A l’acide fluorhydrique dilu6.
+L’adsorption prbfkrentielle par le quartz d’un des antipodes d’un rackmique devant
+jouer un rdle essentiel dans le dkroulement des rkactions dissymktriques utilisant ce
+minkral sous forme active comme agent inducteur [17], nous avons alors tent6 la
+skparation chromatographique de divers rackniiques sur colonne de quartz optiquement actif, ainsi que l’avaient fait antkrieurenient d’autres auteurs2).Dans le chapitre
+suivant nous rapportons les diffhents essais effectuds en ce sens.
+11. RESOLUTIONS CHROMATOGRAPHIQUES
+
+11. 1 . Composes chimiques Ctudies. - I,e premier rackmique organique qu’il
+ktait logique d’essayer ainsi de rCsoudre - au inoins partiellement - h i t dvidemmcnt
+le butanol-2.
+Divers auteurs ont pens6 avoir rkussi le dkdoublement chromatograpliique de
+nombreux complexes sur colonne de quartz. Les rksultats de ces essais sont peu nets
+et parfois contradictoires. Nous avons choisi comme rackmiques deux complexes
+parmi ceux antkrieurement considkrks comme r6solus : [Cr (CrO,),]K, et [Co (en),]Cl,.
+Pour le premier de ces corps, les rdsultats de K A R A G O U N
+I ~ s’accordent avec
+[lo]
+& TALBOTT
+1-11] quant au stkrkoisorni.re le plus fortement
+ceux de SCHWEITZER
+2,
+
+Pour u n r revue sur les essais antdricurs dc r6solution chromatographique sur quartz optiqueiiient actif, voir [17].
+
+HELVETICA
+CHIMICAACTA - Volumen 51, Fasciculus 8 (1968)
+
+2120
+
+adsorb& Par contre, en ce qui concerne le complexe cobaltique, les rCsultats de
+
+TSUCHIDA
+[9] et ceux de SCHWEITZER
+& TALBOTT
+sont en d6saccord sur ce meme point.
+L’acide tartrique prCsente quatre groupements fonctionnels, et ce fait, ainsi que
+nous le verrons dans une prochaine publication [38],pourrait favoriser l’adsorption
+pr6fCrentielle d’un de ses antipodes A la surface du quartz. A l’acide tartrique nous
+avons toutefois pr6fCrC pour nos essais chromatographiques le tartrate d’ammoniurn
+en raison de son pouvoir rotatoire trois fois plus ClevC (1.1,
+= 35,s” pour le sel, contre
+12” pour l’acide libre).
+11.2. Preparation des composbs Btudibs et leurs caractbristiques. - Le butanol-2 utilis6
+est le butanol-2 pour chromatographie RIEDELDE HAEN,no 33066. Ses caracteristiques, ainsi
+que celles des autres composCs 6tudids ici, sont donndes dans le tableau 4.
+Le trioxalatochromate de potassium, K,[CT(C~O~)~],
+3 H,O, est prdpar6, selon un procCd6
+connu [39].
+Le chlorure de tri-(Cthylbne-diamine)-cobalt,[Co (en),]Cl,, est prCpar6 selon le proc6dC indiqu6 par FERNELIUS
+[40].
+On obtient la solution de (&)-tartrate d’ammonium voulue, en amenant h p H 7, par addition
+d’ammoniaque, une solution d’acide (*)-tartrique de dilution convenable et dont on a vCrifiC
+prCalablement, par observation polarimdtrique, qu’elle ne contenait pas d’acide tartrique naturel.
+Tableau 4. Caracte‘ristiques des corps e‘tudie‘s
+
+Masse
+mol6culaire
+
+Corps
+
+densite
+
+[or]D
+
+[MID
+
+(do)
+
+(do)
+
+Temps de demiR6f.
+rac6misation en solution aqueuse, h p H 7
+
+H
+
+I
+CH,-C*-C,H,
+
+I
+
+74,12
+
+0,8534
+
+13,87
+
+~411
+
+10,30
+
+OH
+[Cr(C201),lKK,,
+3H,O
+
+4854
+
+[CO(en)31c1,
+
+530,04
+
+(COONH4-C*HOH),
+
+184,15
+
+1,601
+
+1300
+
+6310
+
+67 minutes B 182”
+
+[42]
+
+115
+
+592
+
+racCmisation nulle
+en un jour, h 90”
+
+[43]
+
+35,s
+
+65,93
+
+11.3. Technique experimentale. - L‘Cluat sortant de la colonne garnie de quartz optiquement actif passe, en continu, dans une cellule de 2 cm d’un polariniktre photo-6lectrique ROUSSELJOUAN (no 1885) dont le signal est enregistre par nn galvanombtre SEFRAM(type G.R.V.A.T.)
+utilise en suiveur de spot.
+La colonne ntilisCe est un cylindre en verre Pyrex, de 1 cm de diambtre extgrieur, muni B sa
+base d’une pastille en verre frittC de porositd 4 e t & sa partie supdrieure d’un rodage qui permet,
+lors de l’dlution, de la raccorder & une bouteille d’azote sous pression. (Pour ohtenir un dCbit de
+l’ordre d’une goutte en une h deux minutes & travers cette colonne garnie de quartz, il faut appliquer une surpression pouvant aller jusqu’& 700 g/cm2.)
+Cette colonne est garnie de 15 g de quartz gauche (aire spdcifique 2 mz/g), ce qui correspond
+B une hauteur utile de 10 mi. Pour limiter au maximum l’entrainement jusqu’B la cellule polarimdtrique des fines particules, on dispose au-dessus de la pastille en verre fritt6 un tampon de
+coton hydrophile servant hi-meme de support & 0,5 g de poudre de cellulose que l’on introduit,
+2 1’6tat de suspension dans l’eau. On attend que la cellulose se soit dCpos6e pour procCder, de f q o n
+analogue, au garnissage en quartz de la colonne. On procbde ensuite au lavage de la colonne
+jusqu’h obtention d’un filtrat exempt de fines: ce lavage a d a 6tre poursuivi durant quinze jours
+
+HELVETICA
+CHIMICAk T . 4
+
+-
+
+Volumen 51, Fasciculus 8 (1968)
+
+2121
+
+pour que le liquide recueilli soit optiquement vide, ce que le polarimiitre permet de dCtecter de
+faGon particuliiirement sensible (cf. chap. I)3 ) .
+Le bas de la colonne est relie par un tube en chlorure de polyvinyle souple 8.l’ajutage d’entrie
+de la cuve polarimetrique, s i t d au meme niveau que celui de sortie, i la partie superieure des
+cuves. L’expCrience montre que l’homog6ndisation du contenu de la cuve et de 1’6luat n’est bonne
+que si ce dernier est le plus dense. Si, inversement, le corps 8. chromatographier est moins dense
+que ]’eluant, il a tendance 8.constituer une nappc en haut de la cuve dont il sort sans se melanger
+ii son contenu. On adapte alors, 8. frottement doux, au corps de la cellule un cylindre en acier
+inoxydable, usin6 de telle faGon que le liquide arrive par un orifice Btroit 8. la base de la cellule
+ainsi modifi6e qu’il traverse de bas en haut avant d’en sortir 2 la partie superieure. Ce dispositif
+pr6sente l’avantage supplementaire de diminuer le volume intCrieur de la cuve de 2 8.0,5 ml.
+La colonne peut 6trc placCe i l’intkrieur d’un manchon que l’on garnit de neige carbonique
+pour les experiences 8.basse temperature. On intercale alors, entre cette colonne et le polarimktre,
+un serpentin de faible capacit6 (2 8. 3 ml) et plong6 dans un becher d’eau 8. la tempCrature ordinaire, de faGon & permettre l’equilibre en temperature de l’iluat avec le milieu extkrieur, ce qui
+6vite toute condensation de vapeur d’eau sur les fenetres de la cellule polarimetrique. L‘Bluant
+utilise dissout, en plus ou moins grande quantite‘, le gaz se trouvant au sommet de la colonne et
+a tendance i le laisser partiellement se digager sous forme de bulles dans la cellule polarimetrique.
+Pour les manipulations oh le methanol sert d’kluant, et tout spicialement pour celles i basse
+temperature, on est alors amen6 8. faire suivre le serpentin precedent d’un appendice en verre
+Pyrex, maintenu vertical et destine 8.pieger les bulles.
+Le polarimktre utilis6 permet la mesure des pouvoirs rotatoires correspondant aux longueurs
+d’onde de 436, 546, 578 e t 589 nm. Sa precision et sa sensibilite sont de 0,0005”.
+
+11.4. R6sultats. - Les expkriences chromatographiques effectuCes sont dCcrites
+dans le tableau 5. La cellule n’est CquipCe du cylindre intkrieur que pour les expbriences portant sur le butanol-2. Chaque fois que cela a 6th possible (chromatographies
+du butanol-2 et du tartrate d’ammonium), nous avons choisi la longueur d’onde la
+plus petite (436 nm), car cela permet d’obtenir pour la solution Ctudihe un pouvoir
+rotatoire plus &lev6et d’augmenter ainsi la sensibilitc! des mesures. L’absorption partielle du faisceau lumineux par le liquide CtudiC est compensCe par le rCglage du gain
+de 1’Clectroniquedu polarimktre. L’obtention d’un gain de sensibilitc! suffisant pour
+un fonctionnement correct de l’appareil a nCcessitC l’utilisation respective des raies
+546 et 589 nm pour les solutions fortement colorCes en vert et jaune des complexes
+de chrome et de cobalt. La premikre expkrience effectude sur le complexe de chrome
+est sans signification car la solution introduite, trop concentrbe, ne permet pas un
+gain suffisant. Les deux expkriences suivantes, faites A dilution cinq ou dix fois plus
+grande (correspondant exactement 8. celle des Cchantillons de SCHWEITZER
+& TALBOTT
+[ll]),permettent une mesure correcte, mais il importe de noter que la trks forte
+absorption des rayons lumineux par 1’6luat nCcessite l’utilisation du gain maximal de
+3,
+
+I1 convient de noter quc l’adh6sivitC des particules de quartz d6pend du liquide ambiant. Certaines des fines demeurant dans la colonne, et qui ne se de‘tachent plus en milieu purenient
+aqueux, peuvent fort bien sc laisser entrainer si cette eau contient une substance Ctrangiire
+(corps chromatographier par exemple) ou est rcmplacCe par un autre Chant (m6thanol par
+exemple). Les expkriences dont la description suit sont donc fort dclicates, et on a dii longuement laver la colonne par de l’eau contenant [Cr(C,O,),]K, ou par du methanol avant de pouvoir proceder aux essais de resolution respectifs de ce complexe et du butanol-2 & froid. Ces
+experiences sont d’autant plus delicates que le phinomkne perturbateur d’entrafnement de
+fines de quartz peut coincider avec l’arrivee du corps i chromatographier. 11 est donc ndcessaire
+de proceder avec un soin extreme et de reprendre les experiences ayant donne un resultat apparemment positif.
+
+butanol-2
+butanol-2
+butanol-2
+
+hutanol-2
+
+t
+
+2,
+
+72
+
+102
+
+71
+
+28
+28
+
+150
+
+146
+137
+297
+
++
+
+gouttes
+NH,OH aq.
+
+quelques
+
+cau
+
+cau
+cau
+
+mithanol
+
+eaii
+cau
+eau
+
+Solvant
+
++1
+
++ 0,5 (cau pure)
+3
++ 1 (cau pure)
+2
++ 1 (eau pure)
+
+1
+
+1 +1
+0,7S + 1
+
+0,75
+
+0,5+0,5
+0,5+ 0,s
+0,75+ 1
+
+(1111)
+
+Volume de solvant l)
+
+0,33
+
+0,35
+
+0,36
+
+0,61
+0,6
+
+0,342)
+
+0,65
+0,46
+0S
+
+Vitesse
+d’ilution
+(gtte/min)
+
+eau
+
+eau
+
+23
+
+12
+
+13
+
+14
+16
+
+cau
+eau
+eau
+
+12
+
+4s
+34
+30
+
+Volume
+d’duant
+(In11
+
+mCthanol
+
+eau
+eau
+eau
+
+Eluant
+
+436
+
+436
+
+436
+
+589
+589
+
+436
+
+436
+436
+436
+
+(nm)
+
+A
+
+i
+les dcrniiires
+Lc premier chiffrc inclique le volume du liquide nicessaire la dissolution du corps itudiC; le second, cclui ayant servi ?entrafner
+traces dc solution subsistant sur les parois dc la verrerie utilisCe ou demeurant a u sommet dc la colonne avant 1’8lntion.
+Une goutte de mCthanol a un volume qui est environ le tiers de cclni d’unc goutte d’eau.
+
+ord
+
+(COOXH-CHOH),
+
+12
+
+1)
+
+ord.
+
+(COOp\’II, CHOHI,
+
+11
+
+ord.
+
+(COONH4-CHOH),
+
+ord.
+ord.
+
+ncigc carbonique
+
+ord.
+ord.
+ord.
+
+Tempkraturc QuantitC
+introduite
+mole)
+
+10
+
+8
+9
+
+3
+
+-3
+
+1
+
+pCi-icnce
+
+h-’dc l’ex- Corps
+
+Tableau 5. Bxpe’riences cliromatogruph iques
+
+cc
+
+I-UI
+
+HBLvETIc.4
+
+l’appareil et conduirait
+niktre a pknombre.
+
+CHIMICAACT.\
+
+-
+
+Voluinen 51, Fasciculus 8 (1968)
+
+2123
+
+B une diminution de la sensibilitk des lectures sur un polari-
+
+I1 convient de souligner que ces expkriences sont dklicates, car, pour les premiers
+essais relatifs B un composk donnk, 1’arrivCe de l’kluant ou de l’kluat a souvent altCrk
+la limpiditk du liquide contenu dans la cuve par entrainement de fines de quartz. Avec
+le type de polarimktre utilisC, un observateur averti ne peut cependant confondre les
+dilviations obtenues dans ces conditions avec la manifestation d’un quelconque pouvoir rotatoire, ne serait-ce qu’B cause de leur caractkre fluctuant. D’ailleurs l’arret
+de l’kcoulement permet d’observer la dkcroissance du signal observk et son annulation
+complkte au bout de quelques heures, alors que la forme active du composk ktudik ne
+subirait aucune rackmisation sensible durant ce menie laps de temps. L’agitation du
+liquide contenu d a m la cuve, par remise en suspension des particules, provoque k
+nouveau l’apparition d’un pouvoir rotatoire.
+En d@finitive,pour toutes ces expkriences, les rksultats ont Ctk nettement nkgatifs.
+
+Nous avons discutil ailleurs ([25] (chap. 111); [38])de l’importance des interactions adsorbant-adsorbat pour l’obtention d’une stkrkospkcificitk. E n particulier
+1’6chec B la tempkrature ordinaire des essais de rksolution chromatographique, sur
+quartz, du butanol-2 (tableau 5 , essais 1,2 et 3 ) et du tartrate d’ammonium (essais 10,
+11, 12) prouve que, dans les conditions expkrimentales donnkes, des interactions suffisantes en intensitk et en nombre, ne peuvent s’ktablir entre le quartz et les corps
+ktudiks. Un abaissement de la tempkrature d’expkrience pourrait favoriser l’ktablissement d’interactions plus intenses ou nouvelles. L’kchec d’une tentative de rksolution
+du butanol-2 effectuke i la teinpkrature de la neige carbonique (essai no 4) est, de ce
+point de vue, particulibement significatif.
+Nous avons dkjB rapport6 [17] les rCsultats contradictoires de divers auteurs citks
+au dkbut de ce chapitre, quant au signe de l’antipode le plus adsorb6 par du quartz
+optiquement actif, pour toute une skrie de complexes minkraux parmi lesquels figure
+le chlorure de tri-(ktliylkne-diamine)-cobalt. Sa non-rksolution dans nos expkriences
+(essais 8 et 9) permet peut-etre d’expliquer ces contradictions, en suggkrant l’hypothkse que les essais antkrieurs aient ktk perturbks par un ou plusieurs des phknomknes
+parasites intervenant dans la mesure polariniktrique des petits angles, et dont il sera
+question au paragraphe suivant.
+11. Conchsins. - Aussi bieii lors des essais actuels de rksolution chromatographique
+sur colonne de quartz optiquement actif que des tentatives, dkcrites dans le chapitre I,
+de rkactions dissymiltriques catalyskes par ce m6me minCral, nos rCsultats ont k t k
+nCgatifs: il ne nous a pas k t k possible de faire se rkvkler la dissymktrie de ce minCral
+lors d’une adsorption ou d’une rkaction. Nous avons indiquk ailleurs [17] que certains
+travaux d’adsorption ou de catalyse sur quartz optiquement actif, ont ktk nilgatifs
+[9,15 et 161. 11s pouvaient cependant apparaitre tels pour des causes purement for[l]et, surtout, par KIABUNOWtuites, face aux rksultats positifs relatks par SCHWAB
+SKI [2 B 51.Nos essais, entikrernent nkgatifs bien qu’effectuks dans des conditions qui
+auraient dii amkliorer nettement la manifestation des effets stkrkospkcifiques, amknent
+alors B rkexaminer de faqon attentive et critique les r6sultats positifs ou prksentks
+comnie tels.
+
+2124
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+111. EXAMEN CRITIQUE DES RESULTATS ANTERIEURS
+
+Nous avons mis ailleurs [17] l’accent sur le fait que tous les rksultats pr6sentks
+coninie ((positifssrksultent en fait de la mesure de pouvoirs rotatoires trks faibles, se
+situant B la limite de sensibilitk des appareils. La difficult6 d’obtenir des valeurs
+sfires pour des rotations aussi faibles tient B plusieurs raisons que nous exposerons
+dans le paragraphe suivant.
+111.1. DifficultCs inherentes aux mesures polarimetriques des petits angles. -
+
+HELLER
+[34b] insiste sur la nkcessitk d’une longue adaptation de l’ceil i la pknombre.
+D’autre part la luminositk gknkralement faible des plages polarimktriques rend illusoire l’augmentation de sensibilitk qu’entrainerait une trop grande diminution de
+I’angle de pknombre. La faiblesse de la luminositk est encore accrue pour l’utilisation
+de micro-tubes polarimktriques ou l’observation de liquides fortement color& (comme
+le sont souvent les solutions de complexes minkraux).
+Les tensions des fenetres des cuves polarim4triques peuvent perturber les inesures,
+inais les auteurs ayant prkckdernnient travail16 dans le domaine de la synthkse asymktrique se sont rarernent souciks de cette influence perturbatrice [44]. Elle peut
+cependant &re supprimke par l’utilisation de cuves i ajutages d’alimentation lat6raux, qui permettent d’effectuer la mesure dans les m&mesconditions de tension des
+fen$tres que pour la lecture du zCro, i la condition cependant que le tube soit chaque
+fois disposk pareillement sur son support. Cette dernikre opkration, facile 8. effectuer
+JOUAN,
+avec les cuves parallklipipkdiques dont est kquipk le polarimktre KOUSSELest beaucoup plus malaiske et imprkcise pour les tubes cylindriques habituels que
+l’on dispose sur un support en V. Malheureusement les auteurs omettent le plus souvent de d6crire leur mode opkratoire de faGon dktaillke et d’insister sur les prkcautions
+qu’ils prennent 2 cet kgard.
+Enfin, nous avons dCcrit ailleurs (chap. 11 du prksent mkmoire et [25], chap. 11)
+les effets perturbateurs dus B l’altkration d u vide optique des liquides observks. Nous
+avons en particulier montrC que l’observation, i l’aide d’un polarimktre classique, de
+solutions contenant des particules trks fines en suspension pouvait conduire i la
+((mesure))d’un pouvoir rotatoire de quelques centikmes de degrk dans un sens ou dans
+l’autre, l’observateur constatant 2 un instant donne l’kgalitk d’kclairement entre les
+deux plages. Ce point est de grande importance pour toutes les expkriences effectukes
+avec de la poudre de quartz, qu’elles consistent en une 6tude de catalyse, d’kquilibre
+d’adsorption ou de chromatographie. BAILAR
+[14] est le seul auteur prkcisant qu’il a
+effectuk une filtration, d’ailleurs inkvitable dans son cas (mise en suspension de la
+poudre de quartz dans une solution de cornplexe minkral), et encore ne connait-on
+pas la finesse du filtre utilisk.
+Les auteurs prCckdents ont gknkralement utilisk des polarimktres A. lecture directe.
+I1 nous semble cependant utile de signaler ici un artefact spkcifique de l’utilisation
+des polarimktres photoklectriques : l’observation de solutions de densitk optique trop
+Clevke conduit en fait i des mesures totalement erronkes [45]. Indiquons aussi que les
+premiers exemplaires d’un certain modkle de polariniktre (RENDIX460-C) conduisaient
+B des dkterminations fausskes par l’absorption lumineuse de la solution observke, de
+faible densitk optique cependant [46]. Ces exemples montrent bien toute la difficult6
+des rnesures portant sur des faibles pouvoirs rotatoires.
+
+HELVETICA
+CHIMICAACTA- Voluiiicn 51, Fasciculus 8 (1968)
+
+2125
+
+Aprks ces observations d’ordre gknkral, les travaux de chacun des auteurs mkritent
+d’Ctre examinks successivement.
+111.2. Critique detaillee des rbultats antkrieurs. - a) Travaux de BAILARet
+collaborateurs. Dans leurs travaux sur la dCtermination des structures d’un certain
+nombre de complexes minkraux, BAILARet coll. [14] utilisent l’adsorption asymktrique de ces complexes en solution, par de la poudre de quartz (masse voisine de 1g ;
+dimensions des particules de
+de mm environ). Les pouvoirs rotatoires mesurks
+varient entre 0,Ol et 0,06” et s’annulent tous au bout d’un temps allant de quelques
+heures B quelques jours. Les auteurs dkduisent de leurs observations que les composks
+envisagCs sont des rackmiques dont le quartz permet la rksolution partielle en leurs
+antipodes rackmisables dans les temps indiquCs.
+On peut calculer, A partir des pouvoirs rotatoires mesurCs et de la surface des
+Cchantillons de quartz dCduite de la taille des particules (150 A 350 cm2/g), la valeur
+ininimale que devrait avoir le pouvoir rotatoire spkcifique des complexes ktudiks, en
+se plaGant dans l’hypothkse la plus favorable - mais tout-A-fait invraisemblable d’un recouvrement total et asymktrique B
+de la surface de quartz. Les valeurs
+ainsi obtenues sont d’un ordre de grandeur inhabituellement Clevk (100000” par
+exemple). Les taux de stkrCosp6cificitC admis par KLABUNOWSKI
+pour le quartz [47]
+(de l’ordre de l”/o)
+conduiraient B des valeurs cent fois plus grandes. On voit done que
+si les expCriences de BAILARd6montraient l’existence d’une adsorption asymktrique
+des complexes Ctudiks sur le quartz, leur succks serait dQ, d’une part A une stkrkosp6cificitC totale, d’autre part, pour chacun des cinq complexes CtudiCs, B un pouvoir
+rotatoire spdcifique anormalement Clevd.
+b) Travaux de TSUCHIDA
+et collaborateurs. Des calculs de ce type ne peuvent irtre
+effectuks dans le cas des expkriences analogues de TSUCHIDA
+[7] [S] [9], faute de renseignements expkrimentaux suffisants. Les pouvoirs rotatoires mesurCs sont extrsmement faibles [7] et quelquefois inexprim& numkriquement [S]. Dans une troisikme
+sCrie de travaux expkrimentaux [9], le m&me auteur examine l’adsorption asymCtrique de divers complexes min6raux dont cinq ont Cgalement C t C Ctudiks par SCHWEITZER & TALBOTT
+ill]. Nous avons dCjA mentionnk que pour quatre de ces corps il y a
+dCsaccord entre ces deux Cquipes de chercheurs, quant au signe de l’antipode prkfkrentiellement adsorbk.
+c) Tfavaux de SCHWEITZER
+& TALBOTT
+[ll].Ces auteurs Ctudient la rksolution
+chromatographique sur colonne de quartz gauche de douze complexes minkraux du
+chrome ou du cobalt. D’aprks leurs donndes expkrimentales, on peut calculer que la
+surface totale du quartz est au maximum de 4 m2 (elle Ctait de 30 m2 pour les expCriences du meme type que nous avons effectukes). La quantitC de substance mise en
+(zuvre (25 ml d’une solution 0 , 0 1 ~ est
+) 36 fois supkrieure A celle nkcessaire pour un
+recouvrenient total de l’adsorbant, si l’on suppose un encombrement mol6culaire
+moyen de 100 Az. Leurs conditions de travail sont tlonc celles de la chromatographie
+frontale.
+Leurs rirsultats prksentent un premier aspect curieux dans la mesure oh, pour tous
+ces corps, l’antipode droit est le plus adsorbk.
+Ici aussi les rotations observCes sont faibles, mBme si les valeurs indiqudes peuvent
+apparaitre plus importantes qu’elles ne le sont habituellement dans les travaux de ce
+
+21 YO
+
+HELVE TIC.^ C~1n1rc.i :\(:-I’.I
+
+~
+
+Voluiuen 51, Fusciculus S (1968)
+
+type, car la coloration des complexes a nkce.;sitk la dilution des fractions klukes et la
+rnultiplication des rotations lues par le facteur de dilution 5 ou 10. La nature des
+complexes, suffisamnient varike pour que leur pouvoir rotatoire spkcifique aille de
+50 B 2620” et leur temps de demi-rackmisation de 8 a 430 minutes environ pour certains tandis que d’autres ne se rackmisent pas du tout dam les conditions expkrimen-
+
+.
+
+Rotation totale
+t 0,60
+
+I
+
+(en degri)
+
++ 0,50 *
+
+..
+Volume de I’iluat
+(en cm3)
+
+*...
+
++ OJO.
+-0JO. 2
+
+-0,50*
+-0,70.
+
+10
+
+20
+
+I
+
+30
+
+.
+
+Excmple de chromatogramme obtenu par SCHWEITZER
+& TALBOTT
+(corps 1j
+
+tales l i a b i t ~ e l l e s ~rend
+) , d’autant plus surprenante la constance de l’ordre de grandeur
+des rotations observkes.
+Par ailleurs, le tableau des valeurs prksentk par ces deux auteurs perrnet de tracer
+le chromatogramme relatif B chaque corps ktudiit, ce qui met en evidence la grande
+irrkgularjtk des niesures. E n particulier, les valeurs niaxirnales apparaissent alors
+gknkralement cornme des points aberrants (voir B titre d’exemple la figure I, relative
+au trioxalatochromate de potassium). La dispersion des points ne peut s’expliquer
+que par une grande imprkcision des lectures polarim6triques ou plus vraisemblablement par un important effet perturbateur. Or les auteurs ne font allusion B aucune
+prkcaution visant 2i empeclier l’entrainement inkvitable des fines A la sortie de la
+colonne 5 ) .
+Cette hypothkse se trouve renforcke si l’on tient compte des rksultats relatifs B
+la chromatograpliie sur une seconde colonne, analogue B la prkckdente, de la fraction
+gauche de l’kluat. On devrait dans ces conditions, par adsorption d’une nouvelle
+quantitk d’antipode droit kgale B celle retenue par la premihe colonne, doubler la
+rotation observke. Or sur les trois exemples rapport&, on ne note une amklioration
+apprkciable de l’activitk optique obtenue qu’en ce qui concerne le premier. Un essai
+analogue d’enrichissement effectuk sur la fraction droite de l’kluat, en utilisant une
+4)
+
+5)
+
+Lcs caract6ristiques de ces complexes ont BtB rapport& en [ Z j ] ; p. 40.
+Rappelons que, dans nos essais, le dCbut de 1’Clution du trioxslatochromate de potassium a
+provoqui: u n tel entrainement, k la sortie d’unc colonnc prbalablement cistabilisCe )).
+
+IImdvmIc.%Cz11~11ca~ Z C T A- Voluiiicn 51, l'asciculus 8 (l!)hS)
+
+2127
+
+troisihme colonne, ne donne aucune arnklioration. Pour tenter d'klever le degrk de
+rksolution, les auteurs utilisent une troisihme chromatographie des fractions gauches
+prkckdentes, laquelle prCsente la singularit6 d'abaisser la valeur moyenne des rotations.
+perinet
+Enfin, un calcul analogue B celui effectud pour les expkriences de BAILAR
+cl'kvaluer l'activitk optique maximale que l'on peut espkrer, en faisant la ni&mehypothhse d'un recouvrement total et stkrkospkcifique B 100yo de la surface de quartz.
+Pour plusieurs des complexes envisagks, on a alors la surprise de constater que la
+moyenne des rotations observkes pour le premier antipode kluk est suphieure d'un
+ordre de grandeur B celle que permettent de calculer les hypothhses prkckdentes, d&jB
+trop favorables.
+
+et coZl. [l].Les rksultats ((positifst)de ces auteurs6) dans le
+d) Travaux de SCHWAB
+domaine de la catalyse asymktrique concernent les rkactions de dkshydrogknation et
+dkshydratation simultankes, ainsi que celle d'oxydation, du butanol-2.
+D'aprhs le tableau citk B titre d'exemple des valeurs lues pour le zkro de l'appareil
+puis pour la cuve emplie du produit de la rkaction, la marge d'incertitude rkelle de
+leurs determinations est de & 0,05", bien que les auteurs indiquent f O,02" en prenant la moyenne des erreurs de lectures, ce que ne justifie pas le petit nombre de
+lectures effectuees (10 2 15). Compte tenu de cette remarque, le noinbre de mesures
+qui indiquent une valeur extkrieure A, cet intervalle, devient trks faible et l'on comprend que lors d'un essai il y ait eu inversion du signe du pouvoir rotatoire en fonction
+du temps. Pour la deshydratation du butanol-2 effectuke B 550-560°C sur 7 g de
+quartz droit recouvert de nickel, une seule valeur, 0,07", est significative (les deux
+autres &ant 0,016" et - 0,Ol"). I1 en va de m&mepour la rkpktition de cette exPCrience sur 15 g de catalyseur niixte. L'oxydation de l'alcool, conduite sur quartz
+droit recouvert de platine en quantitk variable, ne donne qu'une seule rotation
+s'dcartant nettement du domaine d'incertitude, -1- 0,13", tandis que la contre-expkrience effectuke sur quartz gauche conduit B 6 valeurs, toutes comprises dans le domaine d'incertitude de l'appareil et allant de - 0,Ol" 8. - 0,032'; l'auteur indique,
+B cinq reprises, des rksultats numkriques du type: - 0,Ol' & 0,02'. Pour cette m h e
+rkaction, mais avec du nickel sur quartz droit, la valeur maximale observke est de
+-1- 0,098", tandis qu'avec du nickel sur quartz gauche, les valeurs sont toutes comprises dans le domaine d'incertitude de l'appareil. Cependant les valeurs du rendement
+optique, calculkes par les auteurs dans deux cas particuliers, apparaissent assez klevkes (10%) parce que les pouvoirs rotatoires faibles sont rapportks B une quantitk
+de matihre transformke qui est elle-m&mefaible (5,4%).
+Le fait que trop peu de rksultats ont une valeur significative permet de comprendre
+que pour l'un des cas ktudiks (dkshydratation sur Pt/quartz D) les auteurs ne puissent
+se prononcer sur le signe de l'antipode le plus rkactif, tandis que dans un autre (oxydation) le signe du produit varie avec la nature du mktal catalyseur, le signe du support restant le m&me.
+Notons de plus que malgre la trks faible surface specifique du quartz utilisk
+(44 cm2/g) les rotations observkes sont de l'ordre de grandeur de celles des autres
+auteurs, ce qui est d'autant plus surprenant qu'aux tenipkratures inises en jeu, les
+
++
+
+6,
+
++
+
+Cj. rCsum6 de ces travaux, ainsi que de ceux de TERENTJEW
+6: KLABUNOWSKI
+en [17].
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+2128
+
+mktaux dkposks sur le quartz constituent des catalyseurs de rackmisation du butanol-2 [48].
+I1 est vraisembhble que, pour une poudre aussi grossikre, la proportion de fines
+susceptibles d’etre entrahiies soit faible, d’ou peut-&re la disparition rapide avec le
+temps des rotations les plus klevkes, par kpuisement de la poudre en ses particules
+les plus lkgkres, et leur rkapparition lors de l’introduction d’une nouvelle dose de
+catalyseur frais.
+& SELENKOWA
+[13]. Dans le cas de l’hydrogknation de
+e) Travaux de PONOMARJEW
+composks de la skrie furannique, effectuke dans des conditions diffkrentes (135 A 150
+atmosphkres ; 120 “C), ces auteurs observent des pouvoirs rotatoires atteignant au
+maximum - 0,034’. Pour justifier la prise en considkration de valeurs qui appartiennent en rkalitk au domaine d’incertitude de l’appareil, les auteurs en viennent
+B minimiser leurs erreurs de mesure par l’application d’une formule statistique que ne
+justifie pas le petit nombre d’observations (10 B 15),et B partir de laquelle ils estiment
+pouvoir prkciser les pouvoirs rotatoires au millikme de degrk.
+
+f ) Travaux de TERENTJEW
+Sr KLABUNOWSKI.
+La description que font ces auteurs
+de leurs travaux [2 B 5, 1216 , se caractkrise d’abord par l’insuffisance de dktails expkrimentaux (appareillage, mode opkratoire, surface des bchantillons de quartz. taux de
+transformation assurk par le catalyseur, purification des rkactants). Dans ’ 3 cas oh
+la rkaction se dkroule en phase liquide, aucune indication n’est donnke su’ Li filtration kventuelle du produit avant son observation polarimktrique.
+En dkpit de la diversitk des reactions CtudiCes, des conditions d’iitude de ces
+rkactions, des m6taux catalyseurs, des tempkratures utiliskes (allant de l’ambiante
+B 550°), les pouvoirs rotatoires observks pour les riaactions catalysties [2 B 51 sont tous
+faibles, gknkralement de quelques centi&mesde degrk. Les valeurs les plus klevkes ont
+6t6 observkes dans le cas de la dkcomposition du butanol-2 [2] [3] [5] sous l’influence
+de quartz droit ou gauche et ont pour moyenne aritlimktique 0,10” environ, le maximum atteignant
+0,18” sur quartz droit. On peut toutefois noter que, pour cette
+meme rkaction sur quartz gauche, le signe du pouvoir rotatoire du produit s’inverse
+par rapport au signe habitue1 pour l’un des mktaux utilisks (Pd), la rotation valant
+0,08” ce qui est en dksaccord avec les conceptions des auteurs sur le mkcaalors
+nisme des riiactions dissymktriques (cf. 1171 p. 16 a 19). I1 semble lkgitime d’estirner
+que l’incertitude de leurs mesures est alors bien supkrieure B celle indiquke par les
+auteurs (& 0,005O). Pour les autres rkactions [2] [4], les valeurs obtenues sont encore
+plus faibles, la valeur moyenne se situant B 0,04”.
+Dans le but d’ktudier l’adsorptiovz asymdtriqzhe SZW quartz plus directement que par
+des rkactions catalyskes, les mkmes auteurs j121 effectuent deux essais de principes
+diffkrents,relatifs respectivement au butanol-2 rackmique et B l’alcool amylique actif.
+Pour le premier de ces deux essais, les auteurs utilisent un dispositif oh la vapeur
+d’alcool et la poudre de quartz gauche vont B contre-courant et peuvent &re recyclks.
+Aprks trente cycles environ, ils recuillent un produit dont l’activitk optique est de
+4-0,05”. On peut adresser B ces travaux des critiques analogues 8.celles dkja forrnulkes
+dans le paragraphe a) et dont le d6tail est donnk ailleurs (L2.51, p. 43). On aboutit ici
+encore B la conclusion que les rirsultats indiquks par ces auteurs ne peuvent etre
+compatibles avec les quelques prkcisions expkrimentales donnkes que si l’on admet
+
++
+
++
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+2129
+
+un recouvrement total de la surface de quartz mise en jeu et un taux de stCrCospCcificitC de loo%, alors que ces m&mesauteurs ont estimC par ailleurs [47] ce taux B
+1,02%.
+Dans le second de ces essais, KLABUNOWSKI
+& PATRIKEJEW
+laissent, au contact
+d’une poudre de quartz trhs fine, une solution dans la dCcaline d’alcool amylique actif
+et comparent les diminutions respectives du pouvoir rotatoire de cette solution, selon
+que le quartz utilisC est droit (0,038’) ou gauche (0,025’). La diffkrence ainsi obtenue
+(0,013”)entre B l’kvidence dans le domaine d’incertitude des mesures. D’autre part,
+les Cchantillons de quartz droit et gauche mis en ceuvre, et qui proviennent de poudres
+ayant respectivement pour surface spkcifique 10,s et 3,7 m2/g, doivent Cvidemment
+prCsenter des surfaces Cgales d mieux de l%,prkcision que ne saurait assurer la
+mCthode de d6termination utilisCe (adsorption de vapeur de methanol) .
+Conclusion. - Au terme de cette revue critique, nous constatons qu’aucun travail
+antCrieur n’entraine la conviction quant B l’existence rCelle d’un effet stCrCospCcifique
+provoquC par le quartz optiquement actif. Les Ctudes entreprises ont pourtant C t C
+d’une grande diversit6, aussi bien par la nature des corps chimiques utilisCs que par
+les conditions expCrimentales. Les recherches sur l’adsorption ont CtC effectuCes en
+appliquant une mCthode statique ou chromatographique (liquide-solide; gaz-solide)
+aux cas &.I butanol secondaire et de divers complexes minkraux, en particulier. Celles
+sur la catqJyse se sont d6roulCes de faCon statique ou dynamique, B des tempkratures
+allant de l’ambiante B 560°, et Cventuellement sous pression, sur du quartz recouvert
+B des taux diffCrents de mCtaux trks variCs (Cu, Ag, Ni, Pt, etc.) ou d’autres corps
+(alumine, alcoolates alcalins) et ont port6 sur plusieurs types de rCactions (hydroghation, dCshydrogCnation, dkshydratation, isomCrisation, dismutation, etc.) appliquCs B de nombreux composCs chimiques. En dCpit de la diversit6 de tous ces facteurs
+et aussi de 1’Ctalement des pouvoirs rotatoires spCcifiques des composCs mis en ceuvre,
+depuis quelques degrCs jusqu’8 plusieurs milliers, de la rackmisation facile de certains
+d’entre eux et de la stabilitC optique parfaite de certains autres dans les conditions
+utilisCes, les rotations mesurCes ont toujours 6tC du m&meordre de grandeur et, sauf
+exception, B la limite de sensibilitk des appareils, souvent mkme entihement comprises dans leur domaine d’incertitude.
+Le caracthre positif de ces travaux, d’autant plus douteux devant les Cchecs
+annoncCs par d’autres auteurs lors de tentatives analogues, mCritait pour le moins
+confirmation avant d’&tretenu pour acquis.
+D’une part, la plus grande surface des catalyseurs (ou de l’adsorbant dans les
+expCriences chromatographiques), leur activitC catalytique ClevCe, le soin apportC B
+la purification des rkactants en vue de prCserver au mieux cette activitk, la diminution de tempCrature ainsi permise, d’autre part l’utilisation d’un polarimhtre plus
+sensible et de lecture siire, rendaient nos conditions de travail de nature d pouvoir
+apporter cette confirmation et Cventuellement B permettre une Ctude quantitative
+de la stCrCospCcificitC.
+L‘kchec que nous avons rencontrC nous a m h e B la conviction que les mesures des
+auteurs prCcCdents n’Ctaient ni suffisamment prCcises ni analysCes avec un esprit
+suffisamment critique. Nous n’Ccartons pas, d’autre part, la possibilitC que l’effet
+perturbateur que nous avons dCcrit, et qui a effectivement CtC dans le pass6 la source
+134
+
+2130
+
+HELVETICA
+CHIMICAACTA- Volumen 51, Fasciculus 8 (1968)
+
+de conclusions erronCes, ait pu quelquefois se manifester. Cette hypothese est d’autant
+plus vraisemblable que beaucoup d’expCriences Ctaient de nature B favoriser la mise
+en suspension de petites particules ; le rktablissement du vide optique des solutions
+observCes ndcessite d’Ctre pousds B un tel degr6 pour Climiner toute perturbation, que
+les expdrimentateurs qui s’ y livrent ne peuvent manquer d’y faire allusion.
+Ainsi expliquons-nous l‘opposition de notre conclusion B celle de l’ensemble des
+travaux que nous venons d’analyser.
+La non-stCrCospCcificitC des rkactions utilisant le quartz optiquement actif comme
+catalyseur ou adsorbant n’est pas en soi un phknornhne surprenant. On sait en effet
+que la seule dissymCtrie d u n agent n’est pas toujours une cause suffisante pour provoquer le cours dissymCtrique d’une rCaction. Elle peut d’ailleurs l’assurer k des
+degrCs diffCrents, et, si les enzymes entrainent gCnCralement une stCrCosp6cificitC
+quasi-totale, la plupart des composds chimiques actifs mis habituellement en jeu
+n’assurent par contre qu’une synthgse asymCtrique mCdiocre. Ainsi apparait le besoin
+de dCfinir un modhle capable de reprCsenter la faGon dont la dissymCtrie d u n corps
+peut chimiquement se transmettre, et i des degrCs diffCrents. On peut lkgitimement
+espCrer qu’B la lumihre de ce modhle puisse s’interpreter le cas particulier de l’inaptitude de certains corps actifs, face k certains autres, A faire jouer leur dissymCtrie.
+Les conditions nkcessaires pour qu’une &action soit stCrCospCcifique - et les cons&
+quences que de telles conditions impliquent - sont analyskes dans le troisihme chapitre de la t h k e de l’un de nous (A. A. [25]) et leur expos6 fera l’objet d u n e publication ultCrieure [38]. Le peu d‘aptitude du quartz optiquement actif B traduire chimiquement sa dissymCtrie apparait alors comme une conskquence logique des considdrations dCveloppCes. On en vient ainsi k douter fortement de la possibilitk d’une
+adsorption asymktrique sur ce support, sauf peut-&re dans le cas de molCcules suffisamment complexes, telle la vitamine B,, [voir B ce sujet [17] (p. 20-21) et [25]
+(I. 3-2iii et 111. 2-l)]. Pour tous les cas autres que ceux que nous avons CtudiCs,
+la possibilitC de telles reactions reste en fait B dCmontrer par voie exphimentale.
+BIBLIOGRAPHIE
+
+[l] G. M. SCHWAB
+& L. RUDOLPH,
+Naturwiss. 20, 363 (1932); G. M. SCHWAB,
+F. ROST& L. RuDOLPH,Kolloi’d-Z. 68, 157 (1934).
+[2] A. P. TERENTJEW,
+JE. I. KLABUNOWSKI
+& W. W. PATRIKEJEW,
+Dok. Akad. Nauk SSSR
+74, 947 (1950); Chem. Abstr. 45, 3798 (1951).
+& JE. I. KLABUNOWSKI,
+Sbornik Statei po ob5E. Khim. 2, 1521 (1953)
+[3] A. P. TERENTJEW
+[Chem. Abstr. 49, 5262f (1955)l; 2, 1598 (1953) [Chem. Abstr. 49, 5262g (1955)l.
+[4] A. P. TERENTJEW
+& JE. I. KLABUNOWSKI,
+Sbornik Statei PO o b 3 . Khimii 2, 1605, 1612
+(1953) [Chem. Abstr. 49, 5262h, 5263a (1955)l.
+[5] A. P. TERENTJEW
+& JE. I. KLABUNOWSKI,
+Sci. Rep. Moskow State Univ., no 151, Organic
+Chemistry 8, 145 (1951).
+[6] A. STANKIEWICZ,
+ThBse, Konisgberg (1938); risultats rapport& par JE. I. KLABUNOWSKI
+dans ((Asymmetrische Synthesea, p. 121, VEB. deutscher Verlag der Wissenschaften, Berlin
+1963.
+171 R. TSUCHIDA,
+M. KOBAYASHI
+& A. NAKAMURA,
+Bull. chem. SOC.Japan 11, 38 (1936).
+181 R. TSUCHIDA,
+M. KOBAYASHI
+& A. NAKAMURA,
+J . chem. SOC.Japan 56, 1339 (1935) [Chem.
+Abstr. 30, 926* (1936)l.
+[9] R. TSUCHIDA,
+A. NAKAMURA
+& M. KOBAYASHI,
+J. chem. SOC.Japan 56,1335 (1935) [Chem.
+Abstr. 30, 9635 (1936)l; A. NAKAHARA
+& R. TSUCHIDA,
+J. Amer. chem. SOC.76, 3103 (1954).
+
+HELVETICA
+CHIMICAACTA - Volumen 51, Fasciculus 8 (1968)
+
+2131
+
+& G. COUMOULOS,
+Praktika Akad. Athenon 73, 414 (1938): Nature 742, 162
+[lo] G. KARAGOUNIS
+(1938); Atti. Congr. Int. Chim. Roma 2, 278 (1938).
+[ll] G. K. SCHWEITZER
+& C. K. TALBOTT,
+J. Tenn. Acad. Sci. 25, 143 (1950).
+[I21 JE. I. KLABUNOWSKI
+& V. V. PATRIKEJEW,
+Dokl. Akad. Nauk SSSR 78, 485 (1951).
+& W. W. SELENKOWA,
+J. gen. Chemistry USSR (traduction anglaise de
+[13] A. A. PONOMARJEW
+2. obSE. Khim.) 23, 1544 (1953); Dokl. Akad. Nauk SSSR 87, 423 (1952) [Chem. Abstr. 48,
+663 (1954)l.
+[14] J. C. BAILAR& D. F. PEPPARD,J. Amer. chem. SOC.62, 105 (1940); D. H. BUSCH& J. C.
+BAILAR,ibid. 75, 4574 (1953); 76, 5352 (1954); B. DAS SARMA
+& J. C. BAILAR,ibid. 77, 5476
+(1955); J. R. KUEBLER& J. C. BAILAR,ibid. 74, 3535 (1952).
+Helv. 32, 1840 (1949); G. M. HENDERSON
+& H. GORDON
+RULE, J. chem.
+[I51 G. KARAGOUNIS,
+SOC.2, 1568 (1939); H. SEIFERT,Naturwiss. 42, 13 (1955); Z. Elektrochem. 59, 409 (1955);
+Actes du 2e Congrhs International de Catalyse, Paris (1960), vol. 2, p. 1897, Editions
+Technip, Paris 1961.
+[16] M. OHARA,
+I. FUJITA
+& T. KWAN,Bull. chem. SOC.Japan 35, 2049 (1962); G. M. SCHWAB
+&
+B. WAHL,Naturwiss. 43, 513 (1956).
+[17] A. AMARIGLIO,
+H. AMARIGLIO
+& X. DUVAL,
+Ann. Chim. [14] 3, 5 (1968).
+& J. KENYON,
+J. chem. SOC.99, 45 (1911); 103, 1925 (1913).
+El81 R.H. PICKARD
+Ann. Chem. 634, 9 (1960); 634, 23 (1960); V. PRELOG,
+Bull. SOC.chim. France
+[I91 H. PRACEJUS,
+7956, 987; J. SAUER& J. KREDEL,Tetrahedron Letters 57, 6359 (1966); H. M. WALBORSKY,
+& T. C. DAVIS,J. org. Chemistry 26, 4778 (1961).
+L. BARASH
+EMMETT
+& TELLER,J. Amer. chem. SOC.60, 309 (1938).
+[ZO] BRUNAUER,
+[21] H. AMARIGLIO,
+ThBse, Nancy 1962.
+[22] A. AMARIGLIO,
+H. AMARIGLIO
+& X. DUVAL,
+C.r. hebd. SBances Acad. Sci. 262, 1227 (1966).
+& X. DUVAL,
+Bull. SOC.chim. France 7966, 2100.
+[23] A. AMARIGLIO
+ThBse, Nancy 1959.
+[24] G. HOYNANT,
+ThBse, Nancy 1967.
+[251 A. AMARIGLIO,
+[26] N. S. BERMAN& J. J. MAC KETTA,J . physic. Chemistry 66, 144 (1962); R.F. BRUNEL,
+& D. W. LIGHT,J. chem.
+J . Amer. chem. SOC.45, 1334 (1923); G. S. PARKS,S. B. THOMAS
+Physics 4, 64 (1936); R. F. BRUNEL,
+J. Amer. chem. SOC.45, 1337 (1923); J. WEBB& C. H.
+LINDSLEY,
+ibid. 56, 874 (1934).
+Acta crystallogr. 7953, 571.
+1271 0. S. HEAVENS,
+Bell Syst. Techn. J . 25, 136 (1946).
+[28] E. ARMSTONG,
+C.r. hebd. SBances Acad. Sci. 262, 1227 (1966).
+1291 C. ALEXANIAN,
+Atti. Accad. nazion. Lincei 17, 139 (1902); W. HELLER,
+sPropriCtBs magndto[30] Qu. MAJORANA,
+optiques des solutions colloidalesr, Hermann et Cie, Paris 1939.
+[31] J. CHAUDIER,
+C.r. hebd. SBances Acad. Sci. 137, 248 (1903); 742, 201 (1906); 136, 930, 1056,
+1305, 1641 (1903).
+Ann. Phys. 7, 213 (1924).
+[32] ST. PROCOPIU,
+[33] W. HELLER,Reviews modern Physics 14, 401 (1942).
+[34j W. HELLER,dans ((Techniqueof Organic Chemistry)),Editeur A. WEISSBERGER,
+Interscience
+Publishers, New-York 1946; ((Physical methods)), vol. 11, chap. X I X : nPolarimetry)),
+a) p. 883; b) p. 909 i913.
+Phil. Mag.
+[35] J. KUNZ& A. MAC LEAN,Nature 736, 795 (1935); J. KUNZ& S. H. BABCOCK,
+22, 616 (1936).
+1361 E. E. LUDLaM, A. W. PRYDE& H. GORDON
+RULE,Nature 740, 194 (1937).
+[37] J. KUNZ& R. G. LA BAW,Nature 740, 194 (1937).
+H. AMARIGLIO& X. DUVAL,Bull. SOC.chim. France, iparaitre. (sSur les
+[38] A. AMARIGLIO,
+r6actions dissymCtriques; I. Analyse des conditions nicessaires I? 1’6tablissement d’une stCrBospBcificitt5 dans les interactions molBculaires.P
+[39] G. BRAUER,
+((Handbuch den praparativen anorganischen Chemier, 24, chap. 11, p. 1027,
+Ferdinand Enke Verlag, Stuttgart 1953.
+[40] W. C. FERNELIUS,
+((Inorganic Syntheses)), vol. 2, p. 221, Mac. Graw Hill, New York 1946.
+H. PHILLIPS
+& V. P. PITTMAN,
+J. chem. SOC.7935, 1075.
+[41] J. KENYON,
+[42] E. BUSHRA& C. H. JOHNSON,
+J. chem. SOC.1939, 1937; F. M. JAEGER,Rec. Trav. chim.
+Pays-Bas 38, 250 (1919); A. WERNER,Ber. deutsch. chem. Ges. 45, 3061 (1912).
+
+2132
+
+HELVETICA
+CHIMICAACTA - Volumen 51, Fasciculus 8 (1968)
+
+[43] B. E. DOUGLAS,
+J . Amer. chem. SOC.76, 1020 (1954); A. WERNER,
+Ber. deutsch. chcm. Ges.
+45, 121 (1912).
+[44] T. L. DAVIS& J. ACKERMAN,
+J . Amer. chem. SOC.67, 486 (1945).
+[45] R. HAYATSU,
+Science 149, 443 (1965); A. L. ROUY& B. CARROLL,
+Nature (Engl.) 272, 1458
+(1966); Analyt. Chemistry 38, 1367 (1966).
+[46] R. A. RESNIK& K. YAMAOKA, Biopolymers 4, 242 (1966).
+t Asymmetrischc Synthesea, p. 128, VEB. deutscher Verlag der Wis[47] JE. I. KLABUNOWSKI,
+senschaften, Berlin 1963.
+[48] R. L. BURWELL,
+J . Amer. chem. SOC.59, 1609 (1937); 70, 2865 (1948).
+
+242. Zerfall von Diazoniumsalzen in homogener Losung I:
+Arylierung von Aromaten mit Benzoldiazoniumund p-Nitrobenzoldiazonium-fluoroborat in Dimethylsulfoxid l)
+Vorlaufige Mittcilung 2,
+von B.L. Kaul u n d H. Zollinger
+Technisch-Chemisches Laboratorium, Eidgenossische Technische Hochschule, Zurich
+(2. XI. 68)
+Summary. The decomposition of two aryldiazonium tetrafluoroborates in homogeneous solution in a mixture of dimethylsulphoxide and benzene or nitrobenzene has been studied quantitatively. The isomer ratios for the arylation of benzene and of nitrobenzene respectively are consistent with a heterolytic substitution mechanism for benzenediazonium tetrafluoroborate, and a
+homolytic mechanism for p-nitrobenzenediazonium tetrafluoroborate. The latter compound gives
+astonishingly high arylation yields under the conditions mentioned.
+
+Der Mechanismus des Zerfalls von Aryldiazoniumfluoroboraten ist schon mehrmals untersucht worden. Dabei wurde allgemein angenommen, dass es sich um heterolytische, iiber Aryl-Kationen fuhrende Reaktionen handelt [l].Die meisten dieser
+Zersetzungen wurden jedoch in heterogener Phase durchgefiihrt. Als die vorliegende
+Untersuchung bereits im Gang war, haben ABRAMOVITCH
+& GADALLAH[2] die Reaktionsprodukte von Benzoldiazoniumfluoroborat in Gemischen von aromatischen Losungsmitteln mit Sulfolan (Tetramethylensulfon) und Acetonitril analysiert. Sie sind
+zum Schluss gekommen, dass die Reaktion iiber ein Biradikal-Kation verlauft.
+Wir berichten im folgenden uber die thermische Zersetzung von zwei Aryldiazoniumfluoroboraten in aromatischen Losungsmitteln unter Zusatz von Dimethylsulfoxid, wobei die identifizierten Reaktionsprodukte im Falle des Benzoldiazoniumsalzes auf einen heterolytischen, beim p-Nitrobenzoldiazoniumsalz hingegen auf einen
+homolytischen Mechanismus deuten. Es ist unseres Wissens neu und uberraschend,
+dass der Reaktionsablauf bei zwei so nahe verwandten Verbindungen verschieden ist.
+Die Versuche wurden mit Losungen von 0 , O l Mol des betreffenden Aryldiazoniumfluoroborates in der minimal notigen Menge Dimethylsulfoxid (8-10 ml fur das Benzol-, 8-10 ml fur das p Nitrobenzol-diazoniumfluoroborat)unter Zusatz von 25 ml Benzol bzw. 38 ml Nitrobenzol durch
+1)
+
+2)
+
+Vorgetragen am Diazo-Symposium der Society of Chemical Industry, Universitat Leeds,
+15. November 1968.
+Eine ausfuhrliche Mitteilung sol1 in dieser Zeitschrift erscheinen.
+

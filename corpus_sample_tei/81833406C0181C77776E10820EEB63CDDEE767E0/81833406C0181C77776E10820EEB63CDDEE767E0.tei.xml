@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Esquisse d'une sociologie de la Bible chez Max Weber</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>SAGE Publications</publisher>
+            <pubPlace>         </pubPlace>
+            <date type="published">1999</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Esquisse d'une sociologie de la Bible chez Max Weber</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>OUÉDRAOGO</surname>
+                        <forename type="first">Jean Martin</forename>
+                     </persName>
+                  </author>
+                  <idno type="istex">81833406C0181C77776E10820EEB63CDDEE767E0</idno>
+                  <idno type="ark">ark:/67375/M70-9KDKTS5C-4</idno>
+                  <idno type="DOI">10.1177/003776899046004002</idno>
+                  <idno type="publisher-id">10.1177_003776899046004002</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Social Compass</title>
+                  <idno type="hwp">spscp</idno>
+                  <idno type="pISSN">0037-7686</idno>
+                  <imprint>
+                     <publisher>SAGE Publications</publisher>
+                     <pubPlace>         </pubPlace>
+                     <date type="published">1999</date>
+                     <biblScope unit="vol">46</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="page" from="409">409</biblScope>
+                     <biblScope unit="page" to="439">439</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>         
+               <hi rend="italic">Max Weber's sociology of religion includes reflections on the New Testament, which can be seen as the beginnings of the project he heralded in 1919 which was to have dealt with primitive eastern and western Christianity. These reflections emerged at the time he began this sociology. They arose in connection with his thesis on the novelty of the idea of religious calling in Luther. When Max Weber studied the New Testament more closely, two main issues preoccupied him: the relationship of the first Christians to the world, and whether and how their religious culture might induce action. Weber discovered that the first Christians had a complex relationship with the world, typified by tension, indifference and adaptation. Furthermore, he observed that their conception of faith did not lead to action.</hi>       
+            </p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Social Compass 46(4), 1999, 409–439
+
+Jean Martin OUÉDRAOGO
+
+Esquisse d’une sociologie de la Bible chez
+Max Weber
+La sociologie des religions de Max Weber contient des réflexions relatives au
+Nouveau Testament susceptibles d’être considérées comme une amorce de
+son projet annoncé en 1919, qui devait porter sur le christianisme primitif
+oriental et occidental. Ses réflexions voient en fait le jour au moment où il
+commence cette sociologie. Elles émergent en s’articulant à sa thèse relative à
+la nouveauté de l’idée de profession chez Luther. Lorsque Max Weber
+s’intéresse de plus près au Nouveau Testament, deux questions centrales sont
+l’objet de ses préoccupations: le rapport des premiers chrétiens au monde et la
+manière dont leur culture est susceptible d’impulser l’action. Weber découvre
+chez les premiers chrétiens un rapport complexe au monde, fait de tension,
+d’indifférence et d’accommodation. Par ailleurs, il note que leur conception
+de la foi ne conduit pas à l’action.
+Max Weber’s sociology of religion includes reflections on the New Testament,
+which can be seen as the beginnings of the project he heralded in 1919 which
+was to have dealt with primitive eastern and western Christianity. These
+reflections emerged at the time he began this sociology. They arose in
+connection with his thesis on the novelty of the idea of religious calling in
+Luther. When Max Weber studied the New Testament more closely, two main
+issues preoccupied him: the relationship of the first Christians to the world,
+and whether and how their religious culture might induce action. Weber
+discovered that the first Christians had a complex relationship with the world,
+typified by tension, indifference and adaptation. Furthermore, he observed
+that their conception of faith did not lead to action.
+
+‘‘The application of a sociological perspective to the New Testament is not a new idea
+but it is currently undergoing something of a revival. It seems destined to be more than
+a passing fashion and to hold promise as a means by which we can understand parts of
+the New Testament with greater clarity.’’1
+
+A l’automne 1919, au moment de l’achèvement de ses trois volumes sur
+l’Ethique économique des religions mondiales, Max Weber se proposait,
+entre autres choses, de traiter du ‘‘christianisme primitif oriental et occidental’’.2 Ce projet, comme nous le savons, n’a pas vu le jour. Cependant, ses
+publications ne manquent pas de références à cette question. Et plus
+généralement, sa sociologie des religions contient des réﬂexions relatives au
+christianisme primitif susceptibles d’être considérées comme des amorces
+de ce projet.
+0037–7686[199912]46:4;409–439;010485
+
+410
+
+Social Compass 46(4)
+
+Revenir sur ces analyses du Nouveau Testament que l’on peut, à juste
+titre, qualiﬁer d’esquisse d’une sociologie de la Bible, tel est l’objet de ce
+texte. N’étant pas un spécialiste des origines du christianisme, nous nous
+contenterons ici d’une analyse immanente de cette sociologie, en laissant
+aux spécialistes de ce champ de recherche le soin d’une évaluation de la
+pertinence historique des thèses de Weber.3
+1. La perspective sociologique dans l’étude du Nouveau
+Testament
+En épigraphe à un article au titre emblématique ‘‘épouserons-nous nos
+ennemis?’’, John G. Gager constate qu’il est désormais possible de parler de
+quelque chose de fondamentalement nouveau dans les études bibliques.
+Non pas que cette nouveauté aurait rendu obsolètes les approches traditionnelles, mais simplement parce que de nouvelles considérations ont
+rendu possible la compréhension des débuts du christianisme selon de
+nouvelles manières signiﬁcatives.4 D’après O.C. Edwards, Jr, l’approche
+sociologique serait l’orientation la plus prometteuse dans les recherches
+actuelles sur le Nouveau Testament (N.T.).5
+Depuis quelques années en effet, de nombreuses études ont été consacrées à l’état des lieux de cette nouvelle orientation de recherche.
+L’approche sociologique semble donner une vitalité, sans équivalent ailleurs, à ce domaine de recherche. Toutefois, cette vitalité est inégalement
+répartie entre les différents pays possédant de longues traditions de
+recherche sur le N.T.; une vue, même rapide, de ces études laisse apparaître
+une prédominance sans conteste de la contribution des chercheurs anglosaxons et germaniques.6 L’importance prise par l’approche sociologique
+correspond à un processus de différenciation interne aux études concernant
+les débuts du christianisme. Les recherches de type théologique ne sont pas
+pour autant disqualiﬁées. Ce à quoi nous assistons traduit la reconnaissance
+de la valeur heuristique de la sociologie comme discipline et, d’une manière
+générale, des sciences sociales sur un sujet qui semblait a priori disqualiﬁer,
+de par sa nature même, toute approche autre que théologique comme étant
+non pertinente. Le champ théologique avait cependant ﬁni, depuis la ﬁn du
+19ème siècle, par s’accommoder de la critique historique.7 Qu’est-ce qui est
+à l’origine de ce tournant intellectuel?
+Derrière l’approche sociologique, note Th.F. Best, dans son article cité cidessus, se trouve une conviction selon laquelle l’insistance sur la théologie
+serait symptomatique d’une vue qui rendrait impossible une véritable
+compréhension du N.T.8 Une conviction partagée probablement par certains chercheurs, mais qui, en tant que telle, ne sufﬁt pas à fonder la
+pertinence heuristique de la sociologie. L’abandon de la perspective théologique susceptible de découler d’une telle conviction ne peut être que le
+résultat d’un choix individuel. De l’avis de quelques représentants de la
+tendance sociologique, l’abandon du point de vue théologique s’est fait au
+proﬁt d’une sensibilité pour le développement de ‘‘nouvelles questions et de
+nouvelles perspectives de recherche’’.9 ‘‘Du point de vue sociologique, ce
+
+Ouédraogo: La Bible chez Max Weber
+
+411
+
+qui intéresse les chercheurs du N.T,’’ écrit John G. Gager, ‘‘ce ne sont pas
+les théories en tant que telles, ou le développement d’un nouveau dogmatisme d’une approche particulière, mais plutôt le renouvellement créatif
+d’un champ de recherche ancien et profondément traditionnel.’’10 L’objectif
+n’est donc pas la production d’un nouveau canon intellectuel, mais de
+nourrir l’imagination historique à l’aide de nouveaux outils et de nouvelles
+questions.
+Par rapport à l’histoire des études bibliques, la nouveauté de l’approche
+sociologique n’est pas en fait aussi radicale qu’elle ne semble. En effet, la
+sociologie se situe ici dans le prolongement de la critique historique de la ﬁn
+du 19ème siècle. Certains résultats obtenus à partir de l’application des
+sciences sociales peuvent être et ont été obtenus par les méthodes de la
+critique historique.11 La continuité n’est cependant pas synonyme d’équivalence. Par ailleurs, si la critique historique s’est imposée, la sociologie
+semble encore rencontrer des réticences en dépit du tournant pris en sa
+faveur dans les études bibliques. C’est en ce sens qu’il faudrait, nous semblet-il, comprendre la remarque de G. Theissen: ‘‘Celui qui acquiesce à la
+méthode historique doit aussi acquiescer à la problématique de la sociologie; quoiqu’il puisse rejeter catégoriquement aussi certains de ses
+résultats. Celui qui rejette [cette problématique] en fait, rejette aussi la
+méthode historique.’’12 La question centrale des recherches dans le domaine
+de l’histoire religieuse est d’abord, selon Theissen, une problématique de
+type méthodologique.13 En effet, l’analyse sociologique permettrait d’aller
+plus loin que la critique historique n’est en mesure de le faire. Citons ici
+quelques exemples de problèmes qui, de l’avis de certains spécialistes, ne
+recevront de réponses satisfaisantes que grâce au recours à la sociologie: le
+rapport entre la tradition orale et le rôle des disciples charismatiques errants
+des premières décennies du mouvement chrétien,14 ou encore, le rapport
+entre la base sociale des premières communautés chrétiennes et leur production religieuse d’une part et la fonction intra-organisationnelle de cette
+production d’autre part.15
+Quelques chercheurs contestent cependant la possibilité même de l’approche sociologique du N.T. Certains, comme B.J. Malina, tout en afﬁrmant
+l’ intérêt de l’usage des sciences sociales, notamment de l’anthropologie, ont
+des doutes quant à la viabilité de la sociologie des religions dans les
+recherches portant sur le N.T. Retenons ici quelques-unes des critiques
+émises à l’encontre de la sociologie: selon Malina par exemple, l’usage de
+cette discipline serait infructueux parce que cet usage traduirait un manque
+de ‘‘cross-cultural adjustment’’.16 A son avis, l’anthropologie des sociétés
+méditerranéennes serait plus appropriée dans ce domaine. En plus de la
+question épistémologique de la distance culturelle qu’invoque Malina, il
+faut ajouter les critiques suivantes adressées à l’encontre de la sociologie:
+elle serait ‘‘simpliﬁcatrice’’ car elle fait usage de théories, de modèles, de
+concepts d’un niveau d’abstraction qui la rend du même coup incapable de
+saisir la complexité de la réalité historique des débuts du christianisme; par
+ailleurs, elle ignorerait, par principe, le statut religieux des textes en les
+traitant comme des textes profanes; enﬁn, une sociologie du N.T. serait
+impossible à mettre en œuvre parce qu’une telle approche présupposerait la
+
+412
+
+Social Compass 46(4)
+
+possibilité de la sociologie historique comme discipline, ce qui serait contestable.17
+Il ne s’agira pas pour nous de vouloir répondre à ces critiques. Cependant,
+dans la mesure où l’objet de ce texte est de présenter ce que l’on pourrait
+considérer comme un apport de Max Weber à la sociologie de la Bible, nous
+sommes indirectement invité à situer cette contribution par rapport à ces
+critiques. Nous privilégierons ici trois questions qui sont en fait préjudicielles à tout projet sociologique ayant pour objet en particulier le N.T.: le
+rapport histoire/sociologie, la question de la singularité du N.T. ou des faits
+sociaux historiques auxquels il renvoie, et enﬁn la question de la ‘‘dimension
+de la foi’’ propre aux textes religieux (Th.F. Best). Si la première question
+est une question générale de la sociologie, les deux dernières, en revanche,
+sont plus spéciﬁques à la sociologie des religions.
+2. Sociologie historique des faits religieux selon Max Weber
+Chez Max Weber, la question du rapport de l’histoire et de la sociologie, de
+même que celle de la singularité des faits historiques, constituent en fait une
+seule et même question. En effet, il faut rappeler que la sociologie que Max
+Weber cherchait à mettre en œuvre est une sociologie qui se veut en même
+temps historique. Si l’on peut distinguer chez lui histoire et sociologie, c’est
+uniquement d’un point de vue analytique. En ce sens, l’histoire s’intéresserait au singulier, tandis que la sociologie s’intéresserait au général. Dans une
+lettre célèbre adressée à l’historien G. von Below, Weber écrit ce qui suit:
+Nous sommes absolument d’accord que l’histoire devrait établir ce qui est spéciﬁque à,
+disons, la ville médiévale; mais ceci n’est possible que si nous trouvons ce qui manque
+aux autres villes (ancienne, chinoise, islamique). Et il en est ainsi pour toute autre chose.
+C’est la tâche subséquente de l’histoire de trouver une explication causale à ces traits
+spéciﬁques. . . La sociologie, telle que je la comprends, peut accomplir ce modeste
+travail préliminaire.18
+
+La sociologie et l’histoire, qui sont devenues de nos jours deux disciplines
+autonomes, légitimées institutionnellement, sont articulées dans son
+approche.
+Dans cette approche, ni le singulier, ni le général ne sont constitutifs des
+objets de recherche. Il s’agit d’attributs qui sont, en dernière analyse, le
+résultat d’une construction de la part du chercheur. C’est le sens de la notion
+de point de vue (Standpunkt) qu’invoque Max Weber, synonyme de la
+perspective qu’adopte le chercheur.19 La réponse de Max Weber est pour
+ainsi dire double: elle est d’abord d’ordre épistémologique; elle est ensuite
+d’ordre méthodologique.
+Elle est épistémologique parce qu’il fait appel à la notion de rapport aux
+valeurs (Beziehung auf Wertideen) comme étant constitutif de la manière
+dont le chercheur construit son objet de recherche et ses concepts. Le
+rapport aux valeurs intervient aussi bien dans la délimitation de ce qui fait
+problème et de ce qui est à expliquer, que dans le choix des éléments
+signiﬁcatifs de la réalité historique servant à la construction conceptuelle.
+
+Ouédraogo: La Bible chez Max Weber
+
+413
+
+La singularité comme attribut de faits historiques est donc en réalité une des
+formes d’expression de ce qu’il y a de profondément subjectif dans la
+production scientiﬁque. La singularité du N.T., ou de son devenir, celle du
+capitalisme, de l’Etat de type occcidental, renvoient tout d’abord à des
+modes d’indexation de la réalité historique qui s’effectuent selon des
+rapports aux valeurs qui sont propres au chercheur.
+La réponse de Weber est ensuite d’ordre méthodologique, dans la mesure
+où l’établissement de la singularité conduit au comparatisme. C’est grâce à
+ce procédé qu’est la comparaison que l’on peut fonder, justiﬁer les spéciﬁcités, les singularités et donc, dans le même mouvement, les différences.
+C’est le moment de neutralisation de l’arbitraire initial qu’introduit le
+rapport aux valeurs. Dès lors, déﬁnir ce qui est spéciﬁque présuppose le
+résultat d’un travail comparatif disponible ou alors signiﬁe une hypothèse
+qui appelle la comparaison pour sa validation, orientant ainsi la recherche
+vers les sources qui sont à l’origine des différences et/ou des similitudes.
+Dans une telle perspective, afﬁrmer la singularité d’une doctrine religieuse
+sur un point ou des points donnés présuppose ou conduit nécessairement à
+un travail comparatif avec une ou plusieurs doctrines religieuses.20
+La dimension de la foi propre aux textes: la meilleure formulation de ce
+problème se trouve chez Th.F. Best:
+Le sociologue du N.T., précisément pour le besoin de l’analyse sociologique, doit
+insister sur l’importance de la dimension de la foi dans ses textes. La sociologie comme
+telle, considère seulement la dimension humaine dans le comportement humain et
+élimine systématiquement les facteurs extra-humains [trans-human]. Cependant, ceuxci sont essentiels au fait lui-même; du point de vue des acteurs du drame, il n’y aurait pas
+eu à l’origine de mouvement chrétien sans la révélation de Dieu à Jésus; et l’on doit
+donner pleine considération à ce facteur en analysant aussi bien l’auto-compréhension
+de l’Eglise primitive que les structures sociales produites par elle.21
+
+Best dégage ici en fait deux directions de recherches que nous trouvons dans
+la sociologie de Weber:
+— la question de la dimension de la foi qui est intrinsèquement liée à
+l’orientation théorique de cette sociologie; à savoir qu’il s’agit d’une
+sociologie compréhensive;
+— ‘‘L’aspect structures sociales’’ qui correspond à la dimension organisationnelle du mouvement de Jésus que traite Weber dans sa sociologie de
+la domination sous la rubrique ‘‘type de légitimité charismatique’’.
+Pour avoir opté pour une sociologie compréhensive, Weber ne pouvait pas
+éviter le problème de ‘‘l’auto-compréhension’’ ou de la ‘‘foi’’ dans l’étude
+des religions. Il aborde ce problème parce que, par sa médiation, il espère
+pouvoir comprendre le ‘‘comportement humain’’. Autrement dit, si l’on
+cherche à saisir l’orientation de l’action des premiers chrétiens ou, d’une
+manière générale, ce qui, dans une religion, donne une empreinte sociale à
+ceux qui s’en réclament, une analyse de leur manière de croire ou leur
+‘‘auto-compréhension’’ est nécessaire. La sociologie que Weber tenta de
+mettre en œuvre est une discipline qui cherche à ‘‘comprendre par interprétation l’activité sociale’’ et dans le même mouvement, à ‘‘expliquer
+
+414
+
+Social Compass 46(4)
+
+causalement son déroulement et ses effets’’.22 Mais cette compréhension
+explicative, dans la mesure où il s’agit d’une démarche qui se veut neutre du
+point de vue axiologique, ‘‘élimine’’ nécessairement comme n’étant pas de
+son ressort les ‘‘prémisses religieuses’’. La sociologie de Weber se veut en
+effet neutre par rapport aux valeurs en général et par rapport aux valeurs
+religieuses en particulier. Le rapport initial aux valeurs (délimitation de
+l’objet de recherche, construction conceptuelle) n’exclut ni le respect de la
+neutralité axiologique, ni la quête de l’objectivité. L’on nuit ‘‘à la recherche
+purement historique en introduisant dans l’analyse strictement objective
+des jugements de valeur’’.23 L’usage de ce principe ne signiﬁe pas seulement
+que toutes les religions quelles qu’elles soient doivent être étudiées avec la
+même impartialité. En ce sens, il n’existe pas de privilège particulier qui
+puisse être accordé à une religion sur la base d’un critère ou d’un principe
+interne à la sociologie. L’on doit pouvoir étudier le christianisme par
+exemple de la même manière que l’on étudie le judaïsme, l’islam, l’hindouisme ou toute autre religion. Ce qui exclut bien évidemment toute
+hiérarchisation des religions. Mais plus encore, ‘‘toute analyse purement
+empirique se doit d’étudier les documents et les sources concernant l’évolution’’ d’une religion en se fondant sur les mêmes principes que ceux qui
+présideraient à l’analyse de toute autre religion. Toutefois, ‘‘il ne saurait
+être question dans cette analyse’’ ‘‘de miracles ou de révélations’’.24 Cette
+exclusion des miracles et des révélations dans l’analyse signiﬁe l’exclusion
+de prémisses religieuses comme valeurs qui seraient celles du chercheur.
+Cependant, en tant que données, l’analyste doit en tenir compte tant qu’il
+cherche à comprendre et à expliquer l’orientation des acteurs religieux qui
+s’y réfèrent. Pour cette raison, Weber a intégré dans ses analyses les notions
+de ‘‘miracle’’ et de ‘‘révélation’’. De quelle manière?
+Il tenait compte en effet du fait que, si l’on veut comprendre une
+organisation religieuse in statu nascendi, il est impossible de faire l’économie d’une prise en considération de l’importance des faits et prouesses
+extra-ordinaires, c’est-à-dire des miracles qui y sont effectués, dès lors que
+ces faits et prouesses possèdent une signiﬁcation pour les acteurs impliqués
+dans cette organisation. Cette dimension de la vie religieuse est essentielle,
+car elle est le lieu même où se cristallise le déﬁcit d’une quête de légitimité
+qui n’a pas de référence explicite: que ce soit sous la forme d’une règle
+consacrée par la tradition ou consacrée par la légalité. Du côté du leader
+charismatique comme de celui de ses disciples et suiveurs, l’accomplissement des miracles permet de légitimer les relations de domination qui se
+nouent entre eux. Celui qui les accomplit entend légitimer sa domination.
+Tandis que ceux qui y croient, c’est-à-dire ceux qui considèrent ces faits et
+ces actes comme étant en dehors du quotidien, ont du même coup la
+justiﬁcation de leur statut de ‘‘dominés’’ dans cette relation, dans la mesure
+où ils acceptent, par la même occasion, d’être ‘‘conduits’’ par le leader
+charismatique (être conduits signiﬁant en l’occurrence accepter la voie de
+salut que propose le leader).25 Si la question des miracles mène Weber à
+l’analyse des rapports de domination internes à la structure religieuse
+naissante, la question de la révélation le conduit vers un autre aspect de la
+vie religieuse.
+
+Ouédraogo: La Bible chez Max Weber
+
+415
+
+Intéressé par la manière dont les éthiques religieuses se situent par
+rapport au monde, il en vient à explorer leur motif. Toute éthique religieuse
+repose, pour ainsi dire, sur un motif religieux, puisque selon la perspective
+théorique de cette sociologie, l’action sociale est un comportement doté de
+sens. Mais ce sens n’est pas simplement un sens ad hoc attribué à une
+attitude ou un agir de manière ponctuelle. Ce sens a une incidence sur le
+comportement quotidien de ceux qui s’y réfèrent. Et il n’a cette portée que
+parce qu’il est l’expression d’un motif, qui est en même temps son ‘‘contexte
+signiﬁcatif’’ (Sinnzusammenhang).26 Un déploiement de ce contexte signiﬁcatif laisse apparaître l’idée que se fait une religion par exemple du
+rapport entre Dieu et monde, en véhiculant une conception particulière de
+ce Dieu. Ce Dieu peut se révéler comme c’est le cas par exemple du
+christianisme. S’intéresser au motif religieux pour être à même de comprendre comment il inﬂuence la vie quotidienne, peut donc déboucher sur
+l’exploration de cette conception particulière d’un Dieu qui se révèle. De ce
+point de vue, cette conception est un fait religieux au même titre que
+n’importe quel fait religieux.
+L’étude des documents et des sources concernant l’évolution religieuse
+exige ainsi chez Weber un modèle d’interprétation qui est tout autre chose
+qu’une herméneutique de type littéraire, philosophique ou théologique. Ce
+modèle d’interprétation repose sur une idée de la causalité sociale. Ainsi, il
+permet à la fois de comprendre, en rapport avec l’idée de Dieu par exemple,
+la conformation et l’orientation pratico-sociale d’une éthique, et de saisir la
+structuration interne d’une organisation religieuse naissante.27
+Qu’en est-il à présent de la réception des réﬂexions, certes éparses et non
+achevées mais cohérentes, de Weber concernant le N.T.? L’intérêt manifesté à l’égard de l’apport de la sociologie de Weber s’inscrit dans un
+contexte général marqué par le développement des approches sociologiques dans l’étude du N.T. et d’une manière générale du christianisme
+primitif. A cet intérêt se conjugue un autre non moins spéciﬁque à ce
+contexte, relatif à la portée théorique des études portant sur les mouvements de type millénariste. Plus d’un auteur s’y est nourri. Les travaux de P.
+Worsley et de B. Wilson notamment constituent ici des références contestées, certes, mais incontournables.28 Chez ces deux auteurs, il faut le
+rappeler, la sociologie des religions de Weber occupe une place importante.
+Comme nous le verrons, cette réception n’est pas totale. Elle a bien tiré des
+éléments signiﬁcatifs de l’approche de Weber, mais elle ne s’est pas faite de
+manière systématique. Les chercheurs retiennent généralement un ou deux
+aspects de son analyse, mais en aucun cas la perspective globale de sa
+démarche. Ce fait semble avoir sa source dans la manière dont les chercheurs d’aujourd’hui délimitent leur champ de recherche. En effet, une
+remarque faite par John G. Gager en introduction à son ouvrage Kingdom
+and Community, nous suggère une réponse. Il donne en effet une idée assez
+précise de la différence importante entre les auteurs classiques et ceux qui
+mènent de nos jours des recherches sur les origines du christianisme:
+En contraste avec les théoriciens des sciences sociales [social theoreticians] du 19ème
+siècle, de nos jours, les sociologues et anthropologues sont généralement satisfaits de
+
+416
+
+Social Compass 46(4)
+modèles qui sont moins globaux [cosmic] quant à leur portée. Plutôt que de chercher à
+embrasser tous les aspects du comportement humain sous une unique théorie, ils se
+focalisent à présent sur des domaines limités de recherche: par exemple sur la stratiﬁcation sociale, les structures politiques, les communautés abandonnées, et les systèmes
+symboliques.29
+
+Cette remarque sur la tendance actuelle dans la délimitation des champs de
+recherches donne aussi une indication sur les directions de recherches qui
+ont pu être empruntées à l’œuvre de Weber. Son modèle d’analyse n’est pas
+pris comme un modèle constituant un tout. Dans la mesure où ce modèle le
+permet, nous assistons à une prise en compte analytique et isolée de certains
+concepts. La discussion sur la viabilité de l’approche de Weber s’est faite
+évidemment dans ces conditions. A ce jour, à l’exception de l’ouvrage
+collectif publié sous la direction de Wolfgang Schluchter sur Max Webers
+Sicht des antiken Christentums,30 aucune tentative n’a encore été faite pour
+évaluer de manière globale l’apport de Weber en ce domaine. Cette
+évaluation globale sera nécessairement une entreprise de spécialistes travaillant sur ce domaine.
+Nous nous contenterons d’enregistrer ici le plus brièvement possible les
+directions qui ont été prises à partir de l’analyse de Weber avant d’en venir
+aux questions que nous estimons avoir été délaissées par la recherche
+actuelle. Là encore, notre souci est moins commandé par un jugement de
+valeur quelconque sur la perspective de Weber, que par la nécessité d’un
+rappel de quelques aspects de son analyse dont on ne peut faire l’économie
+dès lors qu’il s’agit de comprendre la manière dont il traite du N.T. Notre
+propos n’est pas de procéder à un état des lieux proprement dit de la
+réception, mais de dégager quelques orientations fortes qui ont pris racine
+dans l’œuvre de Weber, sans rentrer dans les discussions, car, là aussi, la
+compétence requise nous fait défaut.
+Dans cette réception, la sociologie de la domination, en particulier le
+concept de légitimité charismatique, occupe une place centrale. Cependant,
+ce concept n’est pas nécessairement toujours perçu comme un concept
+opératoire dans les recherches sur les origines du christianisme. Il est en
+effet réfuté par exemple par H. von Campenhausen et partiellement par
+J. G. Gager. Pour le premier, au-delà même de ce concept, c’est toute la
+sociologie de la domination qui est récusée, parce que ‘‘trop schématique’’
+pour être utilisable.31 Pour le second en revanche, la ﬁgure de Jésus pourrait
+s’analyser à l’aide du type-idéal du charisme. Quant à l’analyse du développement ultérieur du mouvement de Jésus, la conceptualisation de Weber
+poserait quelques difﬁcultés: d’une part, Weber aurait considéré la
+routinisation comme un processus inévitable, et d’autre part, le charisme
+pur serait dans la perspective de Weber une bonne chose, tandis que la
+routinisation serait une mauvaise chose.32 D’autres chercheurs ont néanmoins accueilli de manière plus positive la conceptualisation de Weber sur
+ce point. Ainsi, elle a permis d’analyser soit la ﬁgure de Jésus (D. Tidball)
+comme prophète éthique (H.C. Kee), soit la communauté qu’il forma avec
+ses disciples (G. Theissen, M.N. Ebertz), soit encore—parmi les apôtres—la
+ﬁgure de Paul (J.A. Schütz, B. Holmberg, R. Bendix).33 D’autres aspects
+non moins importants du schéma d’analyse de Weber ont aussi été pris en
+
+Ouédraogo: La Bible chez Max Weber
+
+417
+
+considération: le rapport à la tradition et en particulier au judaïsme (H.C.
+Kee, W. Schluchter), la rupture avec le monde de Jésus et de ses disciples
+(G. Theissen), la base sociale des premières communautés chrétiennes et la
+notion d’afﬁnité élective dont se sert Weber pour qualiﬁer la nature de la
+relation entre cette base sociale et le N.T. (W.A. Meeks).34
+Ce dont on n’a pas assez tenu compte dans l’analyse que donne Weber du
+N.T., nous semble-t-il, c’est la question du rapport au monde
+(Weltverhältnis). Cette question apparaît aussi bien au moment où il jette
+son premier regard sur le N.T., que lorsqu’il est plus prolixe à son sujet. La
+notion de tension avec le monde, de rupture avec le monde manifesté par
+Jésus et par ses disciples n’est qu’un aspect de la question. Par ailleurs, le
+monde n’est pas nécessairement synonyme de monde historique. Le monde,
+c’est d’abord l’idée du monde. Et c’est cette idée qu’il faut explorer, selon
+Weber, pour pouvoir comprendre le rapport au monde historique, c’est-àdire, la profession, la famille et l’Etat notamment. Cette idée n’est pas celle
+que la société de l’époque se faisait du monde, en l’occurrence le monde
+gréco-romain. L’idée de monde, c’est l’idée que l’on peut mettre au jour en
+explorant d’abord le N.T., et le cas échéant en établissant les liens entre le
+contenu de cette idée et des éléments de la culture environnante qui ont pu
+le déterminer d’une manière ou d’une autre. Le rapport au monde historique se lit à travers l’éthique religieuse. Cette éthique religieuse
+entretient des relations d’afﬁnité avec une classe et/ou une couche sociale
+qui, de manière signiﬁcative lui fournit sa base sociale. Cette éthique est
+l’œuvre d’une prophétie de type éthique. Pour comprendre son apparition
+et la manière dont ce prophète s’est afﬁrmé, Weber se sert du concept de
+légitimité de type charismatique. L’approche sociologique de Weber inclut
+ainsi le rapport à la tradition, l’idée de monde, l’éthique religieuse qui
+déﬁnit le rapport au monde historique, les porteurs sociaux de cette éthique
+religieuse, et la structure organisationnelle du groupe formé autour de Jésus
+sur laquelle va reposer cette éthique religieuse. C’est de tout cela qu’il s’agit
+dans la sociologie du N.T. que propose Weber. Ayant choisi de mettre
+l’accent dans ce texte sur la question du rapport au monde, nous n’évoquerons les autres questions que circonstanciellement, c’est-à-dire le cas
+échéant, en les signalant de manière à préserver la globalité du modèle
+d’analyse.
+3. Le point de départ de l’analyse de Max Weber
+L’intérêt sociologique de Weber pour le N.T. n’est pas un intérêt tardif
+comme les textes de référence dans la littérature secondaire pourraient le
+laisser penser. Cet intérêt s’est manifesté très tôt dans sa sociologie des
+religions. En effet, c’est au moment où il cherchait à rendre compte du
+rapport de Luther à la profession et de la signiﬁcation de ce rapport du point
+de vue de l’histoire du christianisme qu’il s’est retrouvé confronté au N.T.
+Selon Weber, du point de vue de l’histoire religieuse en général et du
+christianisme en particulier, Luther introduit quelque chose de nouveau.
+Cette nouveauté est à mesurer par rapport au N.T. qui représentait son
+
+418
+
+Social Compass 46(4)
+
+texte de référence. Cette nouveauté réside dans l’idée de profession qu’il
+promeut.
+. . .le mot allemand Beruf, et peut-être plus clairement encore, le mot anglais calling,
+suggère déjà, à tout le moins, une connotation religieuse—celle d’une tâche imposée par
+Dieu. Connotation qui nous sera d’autant plus sensible que nous aurons mis l’accent sur
+Beruf dans un contexte concret.35
+
+Le sens de ce mot provient des ‘‘traductions de la Bible’’, ou plus concrètement de la traduction de la Bible par Luther, de son esprit et non de celui de
+‘‘l’original’’.36 Mais plus encore, la nouveauté ne concerne pas seulement le
+signiﬁé; ou plus exactement le signiﬁé est symptomatique de l’avènement
+d’une idée religieuse particulière: ‘‘Et, de même que la signiﬁcation du
+mot—ceci devrait être globalement bien connu—l’idée est nouvelle, et elle
+est un produit de la Réforme.’’37 En quoi réside cette nouveauté?
+L’appreciation de l’accomplissement du devoir au sein des professions séculières
+comme herêtant le sens le plus élevé que l’activité morale individuelle pouvait principalement prendre. Ceci était la conséquence incontournable qu’avait la
+représentation de la signiﬁcation religieuse du travail quotidien séculier; [ainsi, elle]
+créa, pour la première fois, dans ce sens, la notion de profession.38
+
+Le travail séculier comme profession devient chez Luther l’expression de
+‘‘l’amour du prochain’’. Cette qualiﬁcation morale de la vie professionnelle
+séculière apparaît ainsi à Weber comme une contribution importante de la
+Réforme et en particulier de Luther. Le nouveau sens que Luther donne au
+mot Beruf ne provient pas de la Bible. ‘‘L’autorité de la Bible, d’où Luther
+avait cru tirer cette idée de profession favorisait dans l’ensemble une
+interprétation traditionaliste.’’39 Le ‘‘Donnez-nous aujourd’hui notre pain
+quotidien’’ de Jésus serait l’expression même de son rejet du monde.40 Si la
+position de Jésus est, selon Weber, synonyme de ‘‘rejet du monde’’, celle de
+la période apostolique, et en particulier de Paul, relève, de ‘‘l’indifférence
+au monde’’. En effet,
+. . . la période apostolique du christianisme spécialement s’exprimant dans le N.T. de
+Paul, en raison des attentes eschatologiques qui remplirent les premières générations de
+chrétiens, se positionne par rapport à la vie professionnelle séculière de maniere soit
+indifférente soit de manière essentiellement traditionaliste: puisque tous attendent la
+venue du Seigneur, que chacun reste donc dans l’état et l’occupation séculière où l’appel
+[‘‘Ruf’’] du Seigneur l’a trouvé et qu’il travaille comme auparavant: ainsi il ne tombera
+pas à la charge de ses frères comme pauvre—du reste il n’y en a plus pour très
+longtemps.41
+
+Dans ce texte de 1904, Weber livrait ainsi en condensé sa lecture sociologique du N.T. C’est en cherchant à mesurer la radicalité de la nouveauté
+qu’introduit Luther à propos de la profession dans l’histoire religieuse, qu’il
+est conduit en amont à retrouver ce qui, dans la Bible contraste avec cette
+nouveauté.42
+Avant d’aller plus loin pour retrouver ce qui, quelques années plus tard,
+tiendra lieu d’esquisse d’une sociologie du N.T. chez Weber, deux remarques s’avèrent ici nécessaires:
+— premièrement, nous avons vu qu’il opère un glissement de la profession
+d’abord vers l’économie et ensuite vers le monde (vis-à-vis duquel il note
+
+Ouédraogo: La Bible chez Max Weber
+
+419
+
+un rejet ou une indifférence de la part des premiers chrétiens). Au-delà
+donc de la signiﬁcation religieuse du travail quotidien séculier, ce qui
+intéresse Weber, c’est d’abord la signiﬁcation religieuse de l’économie.
+En fait, cet aspect de la culture religieuse ne représente qu’une dimension du champ de ses recherches. Ce qui initialement, de manière
+allusive, apparaît dans ce texte de 1904, comme un intérêt de recherche
+concernant le rapport religion / profession (économie), se manifestera
+progressivement plutôt comme un intérêt plus général pour les rapports
+entre religion et monde. Le monde signiﬁe donc la profession (l’économie), mais aussi l’Etat (le politique) et la famille. Plus tard, il parlera des
+ordres (Ordnungen) du monde et de ses valeurs, incluant ainsi l’art, la
+musique, la sexualité, et la science;43
+— deuxièmement, du point de vue de l’économie générale de sa sociologie
+des religions, l’exploration du N.T. par Weber, relativement à sa fonction
+heuristique, a le même statut que les recherches concernant le bouddhisme, l’hindouisme ou le judaïsme.44 Autrement dit, si l’étude des
+religions non-occidentales permet, par comparaison, de saisir la singularité et aussi la nouveauté du protestantisme (et de ses variantes) dans ce
+que cette culture religieuse entretient comme rapport à la profession, à
+l’Etat et à la famille, l’étude du christianisme primitif et du judaïsme
+permet de saisir cette singularité et cette nouveauté en amont, par
+contraste avec le protestantisme.
+4. Vers une sociologie du N.T.: le problème de la théodicée
+Dans les moments où Weber s’intéresse de plus près au N.T., deux principales questions sont l’objet de ses préoccupations: (1) le rapport des
+premiers chrétiens au monde et (2) la manière dont leur culture religieuse
+est susceptible d’impulser l’action. Nous retrouvons donc la perspective
+mais aussi les questions efﬂeurées dans ses premières réﬂexions, notamment
+dans les textes se rapportant à l’idée de la profession chez Luther.45
+Pour comprendre la manière dont il aborde ces deux questions, il faut,
+nous semble-t-il, commencer par le problème théologique de la théodicée.
+En effet, c’est par ce problème, posé néanmoins en termes sociologiques
+qu’il commence son analyse. Chercher à saisir le rapport des premiers
+chrétiens à l’action d’une part et leur rapport au monde d’autre part,
+conduit, dans la perspective de Weber, à explorer la solution qu’ils ont
+donnée à ce problème théologique.
+Ce problème théologique est, selon la formulation adoptée dans ses
+considérations intermédiaires, celui de l’expérience existentielle et universelle ‘‘de la souffrance imméritée’’46 ou encore, selon la version
+d’Economie et Société, celui de ‘‘l’imperfection du monde’’47 C’est le problème du ‘‘sens du monde’’. Ce problème concerne toute existence humaine
+et pour cette raison même acquiert un statut universel. La mort, la maladie
+et autres malheurs, l’inégalité entre les hommes en matière de bonheur,
+telles sont les multiples facettes de ce problème. Partout, note Weber, la
+solution à ce problème a déterminé l’évolution religieuse ainsi que les
+motifs du besoin de salut. ‘‘Le problème de la théodicée a été résolu de
+
+420
+
+Social Compass 46(4)
+
+diverses manières, et ces solutions sont en relation étroite avec les formes de
+la conception de Dieu ainsi qu’avec le caractère que revêtaient les idées de
+péché et de rédemption.’’48
+L’idée de rédemption dont le contenu apparaît extrêmement varié résulte
+de la double question: ‘‘de quoi’’ et ‘‘en vue de quoi’’ ‘‘l’on veut être
+délivré’’.49 La thématisation théologique de ce problème relatif au sens du
+monde et les quêtes de salut qui en résultent sont en général l’œuvre
+d’intellectuels. En s’emparant de ce problème, ils lui confèrent d’abord
+l’expression d’une ‘‘détresse intérieure’’ pour lui trouver ensuite une solution en termes de voie de salut.
+Le salut que cherche l’intellectuel est toujours fondé sur une ‘‘nécessité [ou détresse]
+intérieure’’; c’est pourquoi il est, d’une part, plus étranger à la vie et, d’autre part, plus
+enclin à s’appuyer sur des principes, plus systématiques que dans le cas du salut propre
+aux couches non privilégiées reposant sur une ‘‘nécessité [ou détresse] extérieure’’.
+L’intellectuel cherche par des voies diverses, dont la casuistique s’étend à l’inﬁni, à
+conférer de bout en bout un ‘‘sens’’ à sa façon de vivre, il cherche ‘‘l’unité’’ avec luimême, avec les autres hommes et avec le cosmos. C’est lui, l’intellectuel, qui conçoit le
+‘‘monde’’ comme un problème de sens.50
+
+La fonction de ces intellectuels qui font espérer une libération de la
+souffrance, possède quelque chose de spéciﬁque par rapport à celle des
+magiciens et de leurs semblables. Cette fonction, en effet, ne consiste pas à
+soulager un mal ou des maux de manière ponctuelle nécessitant ainsi un
+recours récurrent à leur service par ceux qui se sentent accablés par le
+destin. Le salut qu’ils proposent, selon Weber, est un salut sublimé. C’est-àdire que le salut offert est sensé ne pas être un salut ponctuel, ad hoc à un
+mal ou à une souffrance particulière, mais un salut pour toujours. ‘‘Leur
+œuvre consistait principalement à sublimer la possession du salut religieux
+en croyance à la rédemption.’’51 Ce besoin inextinguible de la théodicée va
+ainsi donner naissance éventuellement à une conception métaphysique de
+Dieu et du monde. La construction intellectuelle de la rédemption qui en
+sera la formulation dépend de l’idée du monde et de la position à son égard.
+‘‘C’est en fonction de l’image du monde, en effet, qu’était déterminé de quoi
+et en vue de quoi l’on voulait et—ne l’oublions pas:—l’on pouvait être
+délivré.’’52
+Remarque d’ordre méthodologique: la formulation de la solution que
+pose le problème de la théodicée en termes de rédemption est en fait une
+construction idéaltypique. Weber se sert ici en effet, comme éléments de
+cette solution, de la référence à Dieu notamment, s’appuyant ainsi dans
+cette construction beaucoup plus sur les religions abrahamiques qu’asiatiques.
+Toutes les éthiques religieuses rationnelles ne sont pas nécessairement des éthiques de
+rédemption. Le confucianisme est une ‘‘éthique religieuse’’, mais il n’a pas la moindre
+idée d’un besoin de rédemption. A l’inverse, le bouddhisme est exclusivement une
+doctrine de rédemption, mais il n’a pas de Dieu.53
+
+La rédemption dans ce sens idéaltypique, fait appel à l’idée de Dieu et du
+péché. Et même là encore, ‘‘les diverses nuances éthiques de l’idée de Dieu
+et du péché sont étroitement en corrélation avec l’aspiration à la ‘rédemp-
+
+Ouédraogo: La Bible chez Max Weber
+
+421
+
+tion’, dont le contenu peut revêtir des colorations extrêmement variées en
+fonction des questions ‘de quoi’ et ‘en vue de quoi’ l’on veut être
+délivré’’.54
+La doctrine de salut qui promet la rédemption fait aussi appel à une
+notion centrale que Weber désigne par ‘‘renaissance’’. Car, dans cette
+optique il n’y a de salut pour l’individu que s’il renaît. Renaître c’est
+acquérir ‘‘une nouvelle âme’’. Cette métanoia se présente ainsi comme la
+condition et la manifestation préﬁgurée à la fois de cette rédemption. La
+question centrale liée à cette idée de renaissance est la suivante: ‘‘A quelle
+ﬁn’’ (zu was) devrait-on renaître?55 C’est sur ce point, mais plus globalement
+par rapport à la solution fournie au problème de la théodicée que Weber va
+différencier les religions.
+Selon Weber, il existe trois solutions typiques au problème de la théodicée: la théorie de la prédestination du calvinisme, le dualisme du
+zoroastrisme et la doctrine indienne du karma.56 On notera ici l’absence du
+N.T. Ce qui ne veut évidemment pas dire que le N.T. aurait fait l’économie
+de ce problème. Le christianisme des origines, et en particulier le christianisme paulinien et postpaulinien, se sont confrontés au problème de la
+souffrance et de la mort.57 Weber considère simplement la solution qui en a
+été donnée comme manquant d’une grande cohérence.
+En quels termes le problème de la théodicée a-t-il été posé et résolu dans
+le N.T.? Avant d’en venir à la solution que représente la renaissance et à ses
+implications sociologiques, nous nous intéresserons d’abord à ses présupposés, c’est-à-dire, aux idées de Dieu, du péché et du mal.
+Le Dieu du N.T. est un héritage du judaïsme. Comme le Dieu du
+judaïsme, il s’agit d’un Dieu éthique. D’après Weber, un Dieu éthique n’est
+pas toujours synonyme de supramondanité, d’omnipotence et d’omniscience. Celui du judaïsme et du N.T. possède ces attributs. Ce Dieu
+ordonne des règles sous la forme de commandements: en ce sens, il s’agit
+d’un Dieu éthique. Il se révèle et fait connaître ses exigences par l’intermédiaire d’un prophète éthique. Ce dernier est ‘‘sur l’injonction de ce Dieu,
+l’instrument et l’annonciateur de ce Dieu et de sa volonté . . . exigeant, du
+fait de sa mission, l’obéissance en tant que devoir éthique.’’58 Weber
+distingue ce type de prophète de celui qu’il appelle exemplaire (Buddha):
+‘‘La prédication de ce dernier, écrit-il, ne dit rien d’une mission divine ni
+d’un devoir éthique d’obéissance, mais il s’adresse à l’intérêt personnel de
+ceux qui éprouvent l’ardent besoin d’être sauvés et les engage à suivre la
+même voie que lui.’’59 Pour Weber, il existe ainsi un rapport d’afﬁnité entre
+ce qu’il appelle par ailleurs aussi ‘‘prophète de mission’’ et la conception
+d’un Dieu éthique.60 Du point de vue de sa sociologie de la domination, ces
+prophètes et, d’une manière générale, les fondateurs de nouvelles religions
+sont analysés à l’aide du concept de la domination charismatique; dans la
+mesure où il s’agit de chefs charismatiques qui ont cherché à imposer de
+nouvelles références religieuses. Et c’est sous ce prisme qu’il perçoit Jésus et
+qu’il analyse aussi le N.T.
+Cette conception d’un Dieu omnipotent, omniscient, etc. n’est pas sans
+poser quelques difﬁcultés au regard de la condition humaine. En effet,
+‘‘comment l’énorme puissance d’un tel Dieu peut-elle se concilier avec le
+
+422
+
+Social Compass 46(4)
+
+fait de l’imperfection d’un monde qu’il a créé et qu’il gouverne?’’61 Ce
+problème est à la source du besoin de rédemption que le N.T. exprimera et
+auquel il tentera de répondre.
+L’image du monde (Weltbild) que véhicule le N.T. est intimement liée à la
+notion de péché. Derrière cette image se trouve, comme à l’arrière-plan de
+toute idée religieuse du monde, une prise de position vis-à-vis de quelque
+chose du monde réel de l’homme (la réalité de la souffrance humaine)
+ressenti comme ‘‘dépourvu de sens’’.62 L’invocation de la notion de péché
+est donc une sorte de rationalisation pour doter ce monde de sens. La
+promesse de rédemption se présente par conséquent comme la solution
+adéquate à cette problématisation théologique du monde. Rédemption et
+péché entretiennent un rapport dialectique. On ne peut envisager l’un, sans
+en même temps envisager l’autre. Le monde de l’existence humaine est vu
+dans cette perspective comme un monde ‘‘asservi au péché’’. Et qu’est-ce
+que le péché? ‘‘Le ‘péché’ est une rupture de la ﬁdélité envers Dieu, un
+renoncement impie aux promesses divines.’’63 Selon Weber, cette conception du péché n’est toutefois pas la seule qui prévaut dans le N.T.
+Parallèlement à cette conception, Jésus stigmatise deux autres ‘‘péchés
+capitaux’’: le premier, ‘‘le péché contre l’esprit’’ est celui que commet le
+connaisseur de la Loi en ignorant le charisme dont lui, Jésus, est porteur. Le
+second est celui que commet la sagesse aussi bien grecque que juive qui
+considère comme de la ‘‘folie’’ cette foi en ‘‘l’absurde’’ donnée aux
+‘‘enfants’’ et aux ‘‘mineurs’’.64
+La rédemption proposée dans le N.T. est donc d’abord une libération du
+monde du péché avant d’être une promesse. Mais plus encore, elle se
+présente comme une libération de la peur des mauvais démons et de la
+mauvaise magie particulièrement tenue pour responsable de la majorité des
+maux de la vie.
+L’une des promesses capitales et l’une des plus efﬁcaces du Christ à l’époque du
+christianisme primitif était qu’il avait brisé le pouvoir des démons par la force de son
+esprit [pneuma] et délivre ses adeptes du pouvoir de ceux-ci. En outre, le royaume de
+Dieu de Jésus de Nazareth, qui était déjà arrivé ou n’allait pas tarder à arriver, était un
+royaume de félicité sur terre, libéré du manque l’amour, de l’angoisse et de la misère.
+C’est plus tard seulement que le ciel et l’enfer ont apparu. Car dès que la parousie se fait
+attendre, les eschatologies orientées vers l’ici-bas, tendent toutes, par nature, à reporter
+leurs espérances dans l’au-delà. Désormais, l’insistance porte sur le fait que ceux qui
+vivent présentement, qui ne voient cette parousie ici-bas, veulent la vivre après leur
+mort, dans la résurrection.65
+
+‘‘La séparation entre le paradis et l’enfer’’ de même que la ‘‘formule: ‘Les
+premiers seront les derniers’’’ appartiennent à la même constellation
+d’idées que l’espérance eschatologique tournée vers l’au-delà.66 On notera
+ici que, du point de vue de Weber, une scansion s’opère dans la conception
+des premiers chrétiens au sujet de la rédemption, la mort de Jésus constituant le tournant à partir duquel une nouvelle acception de la rédemption
+s’élabore. Autrement dit, la phase de routinisation du mouvement de Jésus
+va correspondre aussi à une modiﬁcation de la référence initiale quant à la
+conception de la rédemption. Cette modiﬁcation consiste, en l’occurrence,
+en l’adjonction de nouvelles idées religieuses d’origine eschatologique.
+
+Ouédraogo: La Bible chez Max Weber
+
+423
+
+En quoi la solution de la renaissance en général et en particulier telle
+qu’elle est proposée dans le N.T. intéresse-t-il le sociologue Max Weber?
+C’est à partir de ce point que Weber va déployer la signiﬁcation sociologique du N.T. Cette signiﬁcation sociologique possède deux pendants:
+d’une part, elle manifeste le rapport des premiers chrétiens au monde, et
+elle fournit, d’autre part, une indication sur la capacité en général des idées
+religieuses à inﬂuencer l’action sociale.
+Avant d’aller plus loin dans notre analyse, une clariﬁcation de la perspective théorique qui sous-tend la démarche de Weber nous semble
+nécessaire. Tout d’abord, sa position par rapport à la théologie: en effet,
+pour Weber la dimension théologique des textes religieux en général n’est
+qu’une médiation vers quelque chose d’autre. Elle n’est qu’un moyen de
+connaissance pour ainsi dire.67 ‘‘Ce que nous avons en vue,’’ écrit-il, ‘‘ce
+n’est pas la théorie éthique contenue dans les traités de théologie, qui peut
+servir seulement d’instrument de connaissance (sans doute important parfois), mais les incitations pratiques à l’action enracinées dans les contextes
+psychologiques et pragmatiques des religions.’’68 S’il en est ainsi, de quelle
+manière aborde-t-il cette question éminemment théologique qu’est l’aspiration au salut?
+Quelle que soit la forme qu’elle revêt, l’aspiration à la rédemption ne nous intéresse ici
+que dans la mesure où elle a des conséquences sur le comportement pratique dans la vie.
+Elle obtient le plus fortement une telle orientation positive tournée vers l’ici-bas par la
+création d’une conduite de la vie articulée et spéciﬁquement déterminée de manière
+religieuse par la médiation d’un sens central ou d’un but positif. De sorte que, à partir de
+motifs religieux, se développe une systématisation de l’activité pratique sous la forme
+d’une orientation vers des valeurs unitaires.69
+
+Weber expose ici en d’autres termes sa conception de la causalité sociale.
+Cette conception est intimement liée aux notions de compréhension et
+d’explication en matière sociologique. Nous ne reviendrons pas ici sur ces
+notions. Pour rester au plus près de notre sujet, rappelons simplement la
+formulation célèbre de l’Introduction à l’Ethique des religions mondiales:
+Ce sont les intérêts (matériels et idéels) et non les idées qui gouvernent directement
+l’action des hommes. Toutefois, les ‘‘images du monde’’, qui ont été créées par le moyen
+‘‘d’idées’’, ont très souvent joué le rôle d’aiguilleurs, en déterminant les voies à l’intérieur
+desquelles la dynamique des intérêts a été le moteur de l’action. C’est en fonction de
+l’image du monde, en effet, qu’était déterminé ‘‘de quoi’’ et ‘‘en vue de quoi’’ l’on
+voulait et—ne l’oublions pas—l’on pouvait être ‘‘délivré’’.70
+
+C’est cette perspective théorique qu’il faut garder présente à l’esprit si l’on
+veut comprendre la manière dont Weber envisage le rapport à l’action ou au
+monde du N.T.
+5. Foi et action: recherche de salut et conduite quotidienne
+La recherche du salut a donc dans cette perspective des incidences sur la
+conduite quotidienne. L’hypothèse centrale et générale de Weber se formulerait de la façon suivante: la manière dont une religion inﬂuence la
+
+424
+
+Social Compass 46(4)
+
+conduite de ses adeptes est fonction des conditions de la renaissance
+(Wiedergeburt) que dicte cette religion. Cette renaissance à son tour dépend
+de la méthode de délivrance (Erlösungsweg) et de la qualité psychique de la
+possession de salut (Heilsbesitz) recherchée dans cette religion.71 Pour cette
+raison, Weber va suivre deux voies: la première conduit vers l’exploration
+des incidences de l’éthique de la fraternité sur le rapport au monde; la
+seconde en revanche, vers la mesure des conséquences pratiques de la
+conception de la foi qui transparaît dans le N.T.
+Commençons par la seconde dont les prémisses ont été déjà évoquées
+plus haut à propos de la conception de Dieu héritée du judaïsme et de celle
+du péché. La lecture qu’a Weber du N.T laisse apparaître une vision non
+univoque du bien de salut ou de la certitude du salut. Il existerait différentes
+conceptions de ce bien quoique toutes possédassent la même qualité psychique: la foi aux promesses de Dieu, la foi en Jésus, et accessoirement
+l’illumination mystique. C’est seulement ainsi que l’on peut comprendre
+pourquoi elles convergent toutes vers le même point d’articulation avec
+l’action.
+Indépendamment des différences observables au niveau de la conception
+que les premiers chrétiens avaient de la grâce ou du bien de salut, la
+véritable certitude qu’ils pouvaient en avoir n’était possible que si l’individu
+arrivait à préserver cette conviction d’être en sa possession de façon
+permanente en la conﬁrmant continuellement en dépit du renouvellement
+des tentations auxquelles la condition humaine est toujours exposée. Cette
+attitude permanente d’être en possession de la grâce inclut ‘‘le refus de
+tomber dans les péchés les plus graves’’.72 On aura remarqué que chez
+Weber le baptême ne joue aucun rôle décisif.
+Chez les premiers chrétiens, la délivrance aurait eu d’abord pour condition la foi (Glaube). La foi chez Jésus comme chez Paul signiﬁe d’abord la
+‘‘conﬁance dans les promesses de Dieu’’.73 Cette conception néotestamentaire de la foi est celle ‘‘d’un charisme spéciﬁque d’une conﬁance
+extraordinaire et purement personnelle dans la providence de Dieu . . . La
+foi procure ici une sorte de succédané de facultés magiques’’.74 Ce charisme
+spéciﬁque d’une conﬁance extraordinaire à Dieu n’est pas accessible à tout
+individu. La renaissance que la possession de ce charisme signiﬁe, est une
+des formes d’expression de la diversité de la qualiﬁcation religieuse entre les
+hommes. Plus fondamentalement, elle est une des formes d’expression de
+l’inégalité religieuse entre les hommes; dans la mesure où elle donne lieu à
+l’émergence d’un groupe social particulier au sein de la communauté des
+croyants.
+Cependant, cette foi ne se réduit pas uniquement à cette conﬁance dans
+les promesses de Dieu. Elle signiﬁe aussi celle que l’on a de son pouvoir, en
+particulier de son pouvoir magique. ‘‘Jésus enseigne à ses disciples qu’ils
+n’ont pas pu guérir le possédé parce qu’ils doutaient de leur pouvoir. En
+revanche, celui qui est parfaitement convaincu de sa capacité de faire un
+miracle possède une foi capable de déplacer des montagnes.’’75
+La foi en Jésus: cette seconde acception de la foi prend corps dans le
+contexte de l’élaboration du mythe sotériologique et aurait donc vu le jour
+dans le cadre de la routinisation du mouvement de Jésus. Le développement
+
+Ouédraogo: La Bible chez Max Weber
+
+425
+
+de ce mythe correspond à la mise en place d’une autre approche de la
+rédemption. Dans ce cadre, la rédemption peut être obtenue au travers des
+performances accomplies par un héros possédant la grâce ou un dieu
+incarné. ‘‘Ces exploits sont portés au crédit des adeptes sous la forme ex
+opere operato.’’76 Dans l’esprit de Weber, ce phénomène n’est pas spéciﬁque
+au christianisme. Le mythe construit autour de Jésus, ‘‘un homme de chair
+et d’os que les apôtres avaient vu de leurs yeux ressuscité d’entre les morts’’,
+est celui d’un sauveur qui échappe à l’emprise des démons, qui soustrait
+l’homme de l’endurcissement du cœur et de la justiﬁcation du monde par les
+œuvres, du péché et de l’impossibilité de répondre aux exigences de la Loi,
+et le conduirait ainsi vers la grâce et l’amour d’un dieu bon. ‘‘C’est à partir
+de là qu’a pu se développer l’idée que sa mort est le rachat des droits que,
+par le péché des hommes, le diable s’est acquis sur l’âme humaine (christianisme primitif).’’77 Ce mythe ne s’est pas développé de manière arbitraire. Il
+avait besoin d’un fondement nécessaire à son déploiement. Ce fondement
+se trouve dans la prédication de Jésus. C’est Jésus lui-même qui offre pour
+ainsi dire le point de départ ou les prémisses de ce mythe. Nous nous
+trouvons ici en fait, dans l’approche qu’a Weber du N.T., à un point de
+jonction. Cette jonction se situe dans ce qu’il perçoit dans le processus de
+routinisation entre ce qui se produit au niveau idéel d’une part, et d’autre
+part, ce qui, du point de vue de sa typologie des organisations religieuses, se
+produit au niveau organisationnel. En effet, selon Weber, toute la prédication de Jésus cherchait à montrer que le salut n’est pas universel: ‘‘peu
+seront élus pour franchir la porte étroite, ce sont ceux qui se repentent et
+croient en lui.’’78 Ce renoncement à l’universalisme représente chez Weber
+un critère décisif de distinction entre secte et Eglise. Dans l’optique de
+Weber, le mouvement de Jésus n’est devenu une Eglise que grâce à l’action
+de Paul et à la mission qu’il impulsa.
+[L]’un des apports spirituels les plus importants de la mission paulinienne, a été d’avoir
+préservé [l]e livre sacré des Juifs et de l’avoir transmis au christianisme en tant que livre
+sacré. Et pourtant elle éliminait les traits particuliers de l’éthique de l’Ancien Testament, notamment ceux qui, en insistant sur les rites, déterminaient la position spéciﬁque
+des Juifs comme peuple paria. Ces obligations ne concernaient plus le christianisme,
+puisque le Christ rédempteur en avait suspendu l’application. Pour mesurer la portée
+d’un tel acte, il sufﬁt d’imaginer ce qui se serait passé s’il n’en avait pas été ainsi. Sans
+l’adoption de l’Ancien Testament comme livre sacré par la chrétienté, il y aurait eu, sur
+le sol de l’hellénisme des sectes ‘‘pneumatiques’’ et des communautés célébrant les
+mystères de Kyrios Christos, mais en aucun cas une Eglise chrétienne ni une éthique
+chrétienne de la vie quotidienne, car celles-ci n’auraient eu alors aucun fondement. En
+revanche, si elle ne s’était pas émancipée des prescriptions rituelles de la Thora qui
+établissaient pour les Juifs une ségrégation pareille à celle des castes, la communauté
+chrétienne serait demeurée une petite secte du peuple paria des Juifs, comparable aux
+esséniens et aux thérapeutes.79
+
+Qu’en est-il du rapport entre cette religiosité de la foi et l’action? Normalement, la foi comme moyen de rédemption n’a pas, dans la vie quotidienne
+d’une religion, l’effet d’une rationalisation éthique de la conduite de la vie.
+Notamment lorsque, comme c’est le cas du N.T., à la conscience d’être un
+enfant de Dieu, comme l’annonce Jésus, vient s’ajouter la tournure
+
+426
+
+Social Compass 46(4)
+
+émotionnelle de la religiosité de la foi. On assisterait, selon Weber, à une
+réduction de son caractère rationnel pratique.80
+Le christianisme a été aussi marqué à l’origine par une conception du bien
+du salut qui n’a pas été sans conséquence quant à son rapport à l’action; à
+savoir le bien de salut comme ‘‘illumination mystique’’ exigeant comme
+moyen d’obtention ‘‘la contemplation’’.81 Le sentiment, non lié à l’action,
+qui se manifeste par son état et sa qualité, uniquement centré sur la
+possession du bien de salut, a constitué une orientation contre laquelle Paul
+se serait opposé. On la trouve chez Jean, sous la forme de l’idée selon
+laquelle ‘‘les hommes qui s’aiment sufﬁsamment les uns les autres d’une
+façon mystique . . . pensent également de la même façon et, à cause précisément de l’irrationalité de cette façon de sentir, agissent solidairement selon
+la volonté divine.’’82 Cette orientation vers la contemplation mystique,
+comme toutes les autres formes de contemplation religieuse, conduit à la
+fuite hors du monde (Weltflucht). Car la contemplation a toujours besoin de
+mettre entre parenthèses les intérêts du quotidien pour être à même de
+toucher son but.
+6. Anti-intellectualisme et rapport au monde
+Avant de passer au second point relatif au rapport au monde, examinons ce
+qui, aux yeux de Weber, se révèle comme une relation ambiguë du N.T. à
+l’intellectualisme: à son avis, le N.T. aurait été d’abord marqué par un antiintellectualisme. Cette tendance a deux sources: premièrement, elle est liée
+à la manière dont Jésus s’est approprié la Loi. Deuxièmement, elle est
+également liée au fait que Jésus ait aussi conditionné le salut à la foi, et
+notamment la foi en lui comme sauveur. Sur ces deux points, Jésus se serait
+opposé au judaïsme tardif.
+Le sauveur du christianisme primitif est tout d’abord un porteur de
+charisme magique. Ce charisme est au fondement ‘‘de sa conscience spéciﬁque de soi’’. Cette conscience a pour expression le savoir selon lequel ‘‘il ne
+fait qu’un avec le patriarche divin et que la voie qui mène à ce dernier passe
+par lui, et seulement par lui’’.83 Etre capable ‘‘d’exorciser les démons’’, ‘‘de
+prédications extraordinaires’’, ‘‘de faire des miracles’’, lorsqu’on croit en
+lui, tel est ce qui le distingue des docteurs de la Loi et des pharisiens.
+Ensuite, il se distingue par le niveau social qu’il prend en considération dans
+la manière d’envisager l’obéissance à la Loi. ‘‘Sa manière d’obéir à la Loi, et
+de la connaître, correspond à la moyenne accomplie dans la réalité par
+l’homme qui fait un travail pratique et ne peut se résoudre à abandonner
+son agneau tombé au fond du puits, même le jour du sabbat.’’84
+L’anti-intellectualisme de Jésus transparaîtrait par ailleurs dans sa conception des deux péchés capitaux que nous avons eu l’occasion d’évoquer
+plus haut. Il sufﬁra d’ajouter ici que cet anti-intellectualisme selon Weber
+culmine dans ‘‘le sacriﬁce de l’intellect’’. Face au Dieu supramondain, les
+capacités intellectuelles de l’homme sont insufﬁsantes.85 Les épîtres de Paul
+manifesteraient les difﬁcultés qu’il rencontra à conjuguer les différentes
+acceptions des conditions requises de la rédemption fondées sur la foi
+
+Ouédraogo: La Bible chez Max Weber
+
+427
+
+provenant de Jésus et sur cette autre, fondée sur l’éthique de la fraternité
+que nous verrons plus loin.86
+L’anti-intellectualisme n’est qu’une face de la médaille. Cette tendance
+n’est pas absolue dans le N.T. Les apôtres ont dû s’en servir pour pouvoir
+s’imposer dans l’univers culturel qui était le leur. Tout d’abord, parce que
+‘‘la foi ﬁnit par considérer comme vrais des dogmes compris intellectuellement, qui, à leur tour, sont le produit de la réﬂexion intellectuelle’’.87
+L’épître aux Romains, qui apparaît au ‘‘lecteur d’aujourd’hui’’ difﬁcile
+d’accès, semble pourtant avoir été adaptée aux citadins de l’époque de Paul.
+Visiblement il s’est agi de ‘‘citoyens familiers avec la casuistique juive ou
+grecque’’.88 Il faut bien aussi se rendre compte que, sur le plan réthorique,
+dans les Evangiles eux-mêmes, la parabole est la forme de la prédication de
+Jésus, forme à dessein ésotérique. Une telle forme d’argumentation suppose, soit que son émetteur appartenait à une aristocratie d’intellectuels,
+soit que son message était destiné à être déchiffré, ce qui évidemment
+présuppose du côté des destinataires une certaine capacité intellectuelle.
+Ensuite, dans les controverses ultérieures, le christianisme, paulinien
+notamment, dut utiliser l’intellectualisme comme arme contre la philosophie grecque et la gnose autour, entre autres, du problème des conditions
+d’accès au salut.89
+Nous avons vu plus haut que la renaissance dépendait de deux choses: de
+la méthode de délivrance et de la qualité psychique de la possession du salut
+recherché; étant entendu que la manière dont une religion imprègne la
+conduite quotidienne de ses adeptes est justement fonction des conditions
+de la renaissance qui prévalent dans cette religion. Il s’agit à présent
+d’examiner et de mesurer la portée de cette méthode qui, selon Weber, est
+spéciﬁque au N.T. Au-delà du rapport du N.T. à l’action en général, Weber
+va chercher à situer ici de manière plus circonscrite, ce qu’il considère
+comme étant son rapport au monde.
+La méthode de délivrance ou de rédemption, c’est ce qui se traduit
+concrètement sous la forme de l’habitus religieux. Car la renaissance signiﬁe
+transformation de la conviction (Gesinnung), appropriation d’une nouvelle
+conviction que l’adepte doit traduire dans la vie quotidienne. C’est en ce
+sens qu’il s’agit d’une éthique de la conviction (Gesinnungsethik). Cette
+éthique a une visée normative dans la mesure où elle s’exprime sous le mode
+du devoir. On peut subodorer ici que Weber songeait entre autres à
+l’entretien entre Jésus et Nicodème et au Sermon sur la montagne.90 La
+particularité de cette éthique de la conviction réside à la fois dans la
+systématisation et dans l’orientation de la conduite de vie (Lebensführung)
+vers le salut religieux. L’éthique de la conviction que commande Jésus a
+pour nom ‘‘éthique de la fraternité’’ (Brüderlichkeitsethik) ou commandement de l’amour du prochain. Ce commandement aurait, selon Weber,
+plusieurs sources:
+— elle serait d’abord une réception (et une transﬁguration religieuse
+ensuite) de l’éthique sociale de la communauté de voisinage. A la
+différence de l’éthique de la communauté de voisinage qui connaît le
+dualisme moral entre ce qui est valable à l’intérieur et ce qui est valable
+
+428
+
+Social Compass 46(4)
+
+à l’extérieur de la communauté, l’éthique de de la fraternité repose sur
+l’abolition de cette dualité. Le principe de la réciprocité interne à la
+communauté de voisinage ‘‘à toi comme à moi’’, devient valable entre
+frères dans la foi.91 La réception de ce principe dans le contexte de l’idée
+de rédemption va produire en fait, selon Weber, un double effet: il va
+d’abord se traduire au sein de la communauté charismatique (Jésus et les
+apôtres) par la constitution d’un ‘‘communisme de l’amour fraternel’’ et
+au-delà par le principe de ‘‘la charité’’, de ‘‘l’amour du souffrant comme
+tel’’, de ‘‘l’amour du prochain’’, de ‘‘tout homme et ﬁnalement de
+l’ennemi’’,92 marquant ainsi une tendance à la fraternité universelle audelà de la communauté de foi.
+— le commandement de l’amour du prochain, c’est-à-dire aussi de l’ennemi
+serait probablement ‘‘le produit d’un acosmisme de l’amour déterminé
+par la mystique’’; mais de l’avis de Weber, cette éthique de la conviction
+est à mettre également en rapport avec la solution de Jésus au problème
+de la théodicée. De ce point de vue, il s’agirait, cette fois-ci aussi, d’une
+réception. Mais cette réception se ferait en provenance du judaïsme. Ce
+commandement, selon Weber, reprend ‘‘l’idée judaïque de la rétribution’’: ‘‘Un jour, Dieu rétribuera, vengera, récompensera; c’est pourquoi
+l’homme ne doit pas le faire, et il ne doit pas non plus se gloriﬁer de ses
+bonnes actions, sinon il anticipe sur sa récompense.’’93
+— une dernière source est à mentionner. Cette dernière est également le
+résultat d’une réception de la contribution du judaïsme. Mais cette
+réception à la différence des deux premières s’effectue dans le contexte de
+la routinisation du mouvement de Jésus; elle est à associer à l’action du
+grand architecte de l’Eglise primitive qu’a été Paul. Cette réception serait
+à mettre sur le compte des réalisations sprituelles les plus importantes de
+la mission de Paul. A l’origine de l’intégration de l’Ancien Testament
+comme livre saint dans la culture religieuse des premiers chrétiens, il fait
+ainsi de ce livre, leur seul livre sacré de référence à l’époque. Cette
+intégration aurait eu des conséquences considérables au niveau éthique
+puisque, selon Weber, il n’a pu y avoir d’éthique chrétienne du quotidien
+que dans la mesure où il y eût cette réception. En assimilant l’Ancien
+Testament dans cette culture chrétienne naissante, Paul réinterprète les
+promesses messianiques associées au peuple juif. Paul les considère
+désormais soit comme abolies, soit comme partiellement abrogées par la
+‘‘naissance du Christ’’. Il émancipe du même coup les premiers chrétiens
+des prescriptions de la Thora qui enchaînaient rituellement les Juifs à une
+position privilégiée tout en faisant d’eux un peuple paria. Par la même
+occasion, il rompt avec la double morale. ‘‘En tant que peuple paria, les
+Juifs conservaient la double morale qui est naturelle au trafic économique
+de toute communauté.’’94 Cette entreprise de Paul a dû s’imposer face à
+d’autres tentatives initiées par les ‘‘apôtres-colonnes’’ en vue de la création d’une éthique qui puisse avoir une valeur universelle.95
+Le commandement de l’amour du prochain se révèle être une éthique de
+virtuoses. Cette doctrine religieuse du salut n’est pas praticable par tout
+individu. On comprend pourquoi Weber a hésité au niveau terminologique
+
+Ouédraogo: La Bible chez Max Weber
+
+429
+
+entre cette qualiﬁcation et celle de ‘‘religiosité héroïque’’.96 Ce caractère
+vient donc renforcer l’inégalité entre les hommes en matière religieuse
+qu’introduit cette nouvelle culture et que nous avons déjà eu l’occasion de
+mentionner au sujet de la foi qu’exige cette culture. La renaissance, pour
+cette raison, ne pouvait apparaître qu’ ‘‘accessible à une aristocratie de gens
+ayant une qualiﬁcation religieuse’’.97 Du point de vue sociologique, et en
+particulier du point de vue des rapports au monde, ce fait n’est pas sans
+conséquence. Ce fait serait, selon Weber, à l’origine du rapport différencié
+des premiers chrétiens au monde.
+Voyons d’abord la signiﬁcation sociologique du fait: il n’est pas spéciﬁque
+au christianisme des origines. On l’observerait aussi ailleurs: dans le
+judaïsme, en Inde, dans l’islam, etc. Il signiﬁe partout l’apparition, dès la
+phase charismatique des mouvements religieux, ‘‘d’un état (Stand) religieux
+particulier à l’intérieur de la communauté des croyants, auquel revenait
+souvent—ce qui est un trait spéciﬁque de tout ‘état’—un honneur social
+particulier à l’intérieur de leur cercle.’’98 Dans le christianisme primitif,
+‘‘d’après les sources’’, ils seraient traités comme ‘‘une catégorie à part’’.
+Cela signiﬁerait donc, qu’à l’intérieur des premières communautés chrétiennes, on pourrait distinguer deux groupes de croyants: ceux qui
+possèdent le charisme (Jésus et les apôtres), et ceux qui ne le possèdent pas,
+mais qui néanmoins demeurent intéressés par la rédemption. L’on en arrive
+ainsi à avoir au sein de la même communauté deux formes de religiosité: une
+religiosité de virtuoses et une ‘‘religiosité de masses’’.99 Conséquence sociologique: le rapport au monde des deux groupes n’est pas le même.
+Pour saisir la manière dont Weber perçoit ce rapport, il est nécessaire
+d’invoquer une des principales thèses de sa sociologie des mouvements de
+type charismatique. Selon cette thèse, les mouvements de ce type obéissent
+dans leur évolution à deux phases. Cette évolution n’est pas nécessairement
+soumise à un déterminisme: la phase charismatique du mouvement et la
+phase de routinisation. Weber envisage en général la question du rapport au
+monde relativement à cette évolution.100 Voyons ce qu’il en est du christianisme primitif.
+Au cours de la phase charismatique, Jésus et les apôtres se trouveraient
+dans des rapports de tension avec le monde et ses ordres (Ordnungen);
+tandis que la masse des suiveurs serait indifférente à son égard. Dans le
+processus de routinisation, après la cruciﬁxion notamment, on assisterait à
+une adaptation des apôtres au monde, tandis que la masse resterait indifférente au monde. C’est cela qu’il nous faudrait voir en détail.
+En général, plus une religiosité de rédemption est systématique et orienté
+selon une éthique de la conviction, plus elle entretient des rapports de
+tension avec le monde. Ceci est d’autant plus vrai de ‘‘la religiosité de
+communauté la plus radicale’’, c’est-à-dire de la religion de Jésus. Mais,
+cette tension existe seulement pour les virtuoses que sont Jésus et les
+apôtres. Vis-à-vis de la famille: celui qui ne peut haïr son père et sa mère ne
+peut pas devenir un disciple de Jésus. ‘‘Je ne suis pas venu apporter la paix,
+mais le glaive’’ (Matthieu, X, 34).101 La prophétie de Jésus, comme toutes les
+prophéties, disqualiﬁe la sexualité tout en attribuant une valeur sacrée au
+mariage. C’est ainsi que l’on constaterait, chez Jésus en particulier, une
+
+430
+
+Social Compass 46(4)
+
+afﬁrmation du caractère ‘‘absolu’’ et ‘‘indissoluble’’ de la ‘‘monogamie’’.
+‘‘Dans le christianisme primitif, l’adultère et la fornication étaient presque
+considérés comme l’unique péché mortel absolu.’’102 Au sujet de l’antiintellectualisme, nous avons déjà eu l’occasion plus haut d’en dire quelques
+mots. Dans la mesure où il considère l’intellectualisme comme une valeur
+du monde, au même titre que l’art par exemple, l’on ajoutera ici simplement
+que pour Weber, le christianisme, comme toutes les religions, exige à un
+moment ou à un autre ce qu’il appelle ‘‘le sacriﬁce de l’intellect’’.103 Vis-à-vis
+du travail: Jésus et ses disciples (en particulier la communauté de Jérusalem) vivaient d’aumônes et non de leurs mains. Une ‘‘dignité’’ particulière
+attribuée au travail leur faisait défaut. ‘‘L’idée selon laquelle le Nouveau
+Testament . . . lui aurait conféré une nouvelle dignité est une pure affabulation.’’104 Au demeurant, l’aumône a, dans le christianisme, la même
+signiﬁcation que celle qu’elle possèderait en islam, notamment: à savoir que
+c’est un acte ‘‘agréable à Dieu’’.105 Par rapport au politique et à l’Etat en
+particulier, l’attitude des virtuoses de l’éthique de la fraternité aurait été
+marquée par une orientation anti-politique du monde et par un rejet total de
+l’Empire romain vu comme le symbole de la domination des forces de la
+violence. Leur éthique serait celle d’une religion d’amour apolitique
+excluant la violence dans sa mise en œuvre. Le commandement du Sermon
+sur la montagne suivant lequel ‘‘Ne résistez pas au malin par la force’’ se
+trouve ainsi en tension avec le principe immanent à l’ordre politique: ‘‘Tu
+dois contribuer à la victoire du droit même par la violence (Gewalt),—ayant
+toi-même à répondre de l’injustice.’’106 Pour deux raisons différentes, la
+même tension serait entretenue avec la sphère de l’esthétique: d’abord
+comme conséquence de l’œuvre de désenchantement dont d’ailleurs toute
+prophétie se fait le chantre. En ce sens, l’éthique religieuse de la fraternité
+non seulement ‘‘déprécie’’ l’art, mais en outre, elle le suspecte, dans la
+mesure où il est considéré comme ‘‘porteur d’effets magiques’’. Ensuite, la
+tension comme conséquence de l’importance de la question du sens qui se
+trouve à l’origine de toute éthique religieuse. Celle-ci s’exprimerait dans
+l’opposition entre sens et forme. ‘‘Toute religiosité de rédemption sublimée’’, écrit Weber, ‘‘ne considère que le sens et non la forme des choses et
+des actes qui importe pour le salut. La forme se dévalue par rapport à elle
+pour prendre un caractère accidentel, propre à la créature, et détournant du
+sens.’’107
+Si durant la phase charismatique, l’attitude de Jésus et de ses disciples est
+dominée par le refus du monde, celle de la masse des suiveurs est en
+revanche marquée par ‘‘l’indifférence’’ au monde. Elle serait motivée par
+des attentes eschatologiques.
+Cette indifférence s’exprime sous la forme atténuée du communisme d’amour charismatique, tel qu’il a visiblement existé dans la communauté chrétienne ancienne de
+Jérusalem: les membres possèdent ce qu’ils ont ‘‘comme s’ils ne l’avaient pas’’; en effet,
+le sens de cette tradition, dont il a été fait si souvent état, ce n’est pas une quelconque
+organisation ‘‘socialiste’’ ou une ‘‘communauté de biens’’ communiste, comme on l’a
+supposé à tort, mais bien un partage illimité, non rationalisé, avec les frères de la
+communauté qui sont dans le besoin; ce qui a conduit les missionnaires, en particulier
+Paul, à devoir recueillir des dons à travers le monde entier pour cette communauté
+centrale qui vivait sur un mode anti-économique.108
+
+Ouédraogo: La Bible chez Max Weber
+
+431
+
+Cette indifférence est aussi bien économique que politique. ‘‘Rendez à
+César ce qui est à César’’ ne signiﬁe pas selon Weber ‘‘comme on aimerait
+bien l’interpréter aujourd’hui—une inculcation des devoirs envers l’Etat,
+mais, à l’inverse, l’expression d’une indifférence absolue à l’égard de ce qui
+advient dans cette sphère (c’est sur ce point que porte l’opposition entre le
+christianisme et la position des partis juifs)’’.109 Au niveau économique, la
+position est identique: ‘‘Demeure dans ta vocation.’’110 Cette attitude des
+suiveurs, typique de la période charismatique, reste inchangée dans l’attente
+de la résurrection du Christ, c’est-à-dire, dans la phase de routinisation. ‘‘Le
+monde restera tel qu’il est jusqu’à la venue du Seigneur’’; et pas seulement
+le monde, le chrétien également s’en tiendra à sa position, que ce soit dans
+son métier ou comme sujet dans la hiérarchie sociale et politique.111
+Celle des disciples, en revanche, connaîtrait une importante mutation
+dans le processus de routinisation du mouvement. En effet, leur rapport au
+monde passerait progressivement du rejet à la réconciliation progressive
+avec celui-ci; c’est-à-dire, à ‘‘l’adaptation’’ et aux ‘‘concessions’’. C’est ainsi
+qu’il faudrait comprendre, selon Weber, la position de Paul vis-à-vis du
+travail: ‘‘Celui qui ne travaille pas, ne doit pas manger.’’112 ‘‘La prise en
+charge des frères démunis et sans travail’’, écrit Weber, ‘‘devient l’objet
+d’une fonction régulière, celle des diacres.’’113 Vis-à-vis de l’Etat, leur
+position, résultat d’adaptations et de concessions, a oscillé entre deux
+directions: la première serait à la fois une distance par rapport à la ‘‘communauté politique concrète’’, car une participation à son fonctionnement
+conduirait nécessairement au péché (‘‘culte de l’empereur’’) et une reconnaissance (Anerkennung) positive des autorités politiques (Obrigkeit),
+mêmes des incroyants, parce qu’il s’agit d’une punition de Dieu à assumer
+par le chrétien. La deuxième serait une évaluation (Wertung) positive des
+autorités politiques, mêmes des incroyants. Cette position serait dictée par
+deux motifs: cette situation traduirait dans leur perspective la condition
+générale de l’existence terrestre voulue par Dieu; ensuite, de telles autorités
+constitueraient ‘‘un moyen indispensable dans l’état de péché pour réprimer
+les péchés déjà réprouvés par les païens non illuminés sur le plan religieux
+mais à qui Dieu a donné une connaissance naturelle.’’114
+
+7. Compromis et base sociale du christianisme
+A ce stade de notre exposé, un aspect important dans l’analyse de Weber
+mériterait d’être évoqué: la base sociale du christianisme du 1er et 2ème
+siècle de la période impériale qui constitua son champ d’analyse. Dans la
+mesure où cet aspect de sa contribution a déjà été l’objet d’une évaluation
+critique de la part de Wayne A. Meeks, nous nous contenterons de rappeler
+simplement dans ce texte les grandes lignes de cette analyse.115 Ce rappel est
+d’autant plus nécessaire qu’il nous permettra de clore ce texte sur un
+problème sociologique auquel Weber n’a pas été insensible: le compromis.
+Dans son Introduction à l’Ethique économique des religions mondiales,
+
+432
+
+Social Compass 46(4)
+
+Weber insiste sur l’importance des classes et couches sociales porteuses des
+cultures religieuses. Son hypothèse à ce sujet est la suivante: le développement d’une culture religieuse est en général fonction des classes et couches
+sociales qui la portent. De ce point de vue, il existe habituellement un
+rapport d’afﬁnité ou de non-afﬁnité entre une culture religieuse et certaines
+classes et couches sociales. Ce qui lui importera donc, ce sera, dans l’étude
+des religions mondiales, de faire apparaître les éléments d’orientation de la
+conduite de vie des strates sociales qui ont pu marquer ces cultures religieuses. Cependant, cette prédominance ou plus exactement ce ‘‘rapport
+d’afﬁnité’’ n’est pas synonyme d’exclusivité. Le cours de développement
+d’une religion peut manifester une modiﬁcation de la base sociale qui lui
+donne son empreinte. Par ailleurs, aussitôt sa physionomie acquise, une
+culture religieuse est en mesure d’inﬂuencer des couches sociales relativement hétérogènes.116 Cette ouverture sur la constellation historique dans
+laquelle se déploient les cultures religieuses est en même temps une limite
+revendiquée de ce qu’exigerait une prise en compte véritable du contexte
+historique. En effet, les déterminations de type géographique, politique,
+économique, etc., sont laissées de côté. Non pas qu’elles n’auraient pas
+d’impact sur la conﬁguration de ces cultures, simplement, l’analyse courrait
+alors le risque d’échapper à toute borne.117
+‘‘Le christianisme . . . a commencé sa carrière comme doctrine de compagnons artisans itinérants . . . La ville de l’Occident, unique parmi toutes
+les autres villes, et la bourgeoisie, au sens où elle n’a vraiment existé que là,
+ont constitué le cadre principal du christianisme, qu’il s’agisse de la piété
+pneumatique propre aux communautés antiques’’ ou plus tard de ses autres
+formes d’expression.118 Il ne faudrait toutefois pas voir dans l’afﬁrmation de
+ce lien privilégié entre artisans itinérants et christianisme, l’idée selon
+laquelle cette religion serait ‘‘l’idéologie’’ ou ‘‘le reﬂet’’ des intérêts matériels ou idéels de cette couche sociale. Car la conﬁguration d’une éthique
+religieuse, c’est-à-dire, ce qui confère à une religion une dimension praticosociale, dérive d’abord d’idées religieuses, et en particulier du ‘‘contenu de
+leur révélation et de leur promesse’’119. C’est ce que nous avons vu plus haut
+comme étant la perspective sociologique sous-jacente à l’analyse de Weber
+du N.T.
+Si l’on prend au sérieux à la fois cette perspective, et la question sociologique centrale des études sur la légitimité charismatique, on pourrait dire
+à propos de la manière dont Weber conçoit l’élaboration de ce qui deviendra le christianisme—indépendamment de son point de départ—qu’il s’agit
+de la construction d’une sociologie de l’émergence et de la reproduction
+d’une culture religieuse particulière.120 Cependant, cette reproduction ne
+devrait pas être vue dans ce cas précis, comme en général à propos des
+cultures religieuses comme une reproduction de l’identique, semblable à un
+processus d’auto-clonage. Comme nous l’avons vu plus haut, des modiﬁcations seraient intervenues concernant notamment le rapport au monde. En
+fait ces modiﬁcations concerneraient aussi bien ce rapport que la méthode
+de rédemption. De quelle manière ces modiﬁcations voient-elles le jour?
+C’est ce problème qui est à l’origine des réﬂexions de Weber sur le
+compromis.121 Les compromis sont l’expression de la part prise par la masse
+
+Ouédraogo: La Bible chez Max Weber
+
+433
+
+des suiveurs dans la production religieuse, dès qu’une religiosité de communauté (Gemeindereligiosität) est formée. La production des références
+religieuses n’est pas uniquement le fait des leaders charismatiques (Jésus et
+Paul notamment). ‘‘Une religiosité de communauté est un phénomène
+instable aux manifestations diversement univoques. Nous parlerons uniquement de son existence là où des laïcs: 1) sont sociétisés (vergesellschaftet)
+dans une action communautaire durable, au déroulement de laquelle ils
+prennent activement part.’’122 Sur ce problème de l’inﬂuence de la masse des
+suiveurs, tel qu’il apparaît dans le N.T., Weber est encore moins prolixe.
+Citons néanmoins deux exemples qui sont loin d’être sans signiﬁcation:
+d’abord, concernant les éléments de nature ascétique que l’on trouverait
+dans le christianisme primitif; à ce sujet, écrit-il ‘‘les éléments ‘ascétique’ de
+la religiosité chrétienne primitive ne proviennent pas du judaïsme, mais ils
+se trouvent, précisément dans les communautés pagano-chrétiennes de la
+mission de Paul’’.123 Ensuite, à propos de la construction du mythe sotériologique de Jésus en général, l’apparition de ce type de mythe est
+l’expression religieuse de couches sociales non-intellectuelles. Ce ne serait
+pas un phénomène spéciﬁque au christianisme. Il cite ici l’exemple de la
+substitution de l’idéal de bouddha par celui de bodhisattva; ou encore en
+Inde, l’apparition du vishnouisme dans les cultes populaires.124 L’action de
+Paul qui représente, aux yeux de Weber, le second moment important de
+l’histoire du christianisme, aurait été marquée par l’attente de la ‘‘résurrection de Jésus’’ et aussi par la réception ‘‘des mythes sotériologiques’’
+répandus dans l’univers culturel environnant au sein des communautés
+chrétiennes.125
+Néanmoins, en dépit de ces compromis, émerge, sous l’impulsion de chefs
+charismatiques (Jésus, Paul), ce que l’on pourrait appeler—en extrapolant
+ici l’expression de Thomas Kuhn—un paradigme culturel différent des
+paradigmes impulsés ailleurs ou à d’autres moments que l’on appelle
+judaïsme, islam, hindouisme, etc. C’est en ce sens, nous semble-t-il, que la
+comparaison entre ces différents paradigmes, par rapport notamment aux
+présupposés culturels de la modernité occidentale, mérite l’attention de la
+recherche sociologique.
+Conclusion
+Nous ne prétendons pas avoir passé en revue toutes les questions abordées
+par Weber dans ses réﬂexions touchant le N.T. De nombreuses allusions et
+considérations ont été laissées de côté. Nous avons pris, comme ligne
+directrice, la problématique et le modèle d’analyse de Weber. Ce qui nous a
+conduit:
+— à situer dans un premier temps, son apport dans le contexte actuel des
+discussions relatives aux conditions théoriques d’une sociologie du
+N.T.;
+— ensuite, à repérer le problème à partir duquel une analyse du N.T. lui a
+paru nécessaire. Ce problème prend sa source dans l’évaluation de la
+
+434
+
+Social Compass 46(4)
+
+signiﬁcation—dans l’histoire du christianisme—de l’apport de Luther à
+propos de la profession;
+— enﬁn, à revoir les deux questions sociologiques centrales qu’il s’est
+posées au sujet du N.T.: le rapport de cette culture religieuse naissante à
+l’action et au monde; le monde signiﬁant aussi bien la profession, que la
+famille, l’Etat, l’art, la sexualité, et l’intellectualisme.
+NOTES
+Le présent texte a été rédigé à l’Institut d’Histoire Max-Planck de Göttingen à
+l’occasion d’un séjour de recherche sur Max Weber et G. Jellinek. Je remercie ici
+vivement monsieur le professeur Hartmut Lehmann, directeur de l’Institut, qui a
+rendu ce séjour possible.
+1.
+Derek Tidball, Sociology of the New Testament, Exeter, The Paternoster Press,
+1983, p. 9.
+2.
+Cf. M.W.G. (Max Weber Gesamtausgabe) 1/19, Helwig Schmidt-Glinzer in
+Zusammenarbeit mit Petra Kolonko (eds), Die Wirtschaftsethik der Weltreligionen.
+Konfuzianismus und Taoismus, Tübingen, J.C.B. Mohr, 1989, p. 28. Max Weber,
+Gesammelte Aufsätze zur Religionssoziologie, 3 vols, Tübingen, J.C.B. Mohr,
+1986.
+3.
+Sur les sources de Max Weber, on consultera: Max Weber, L’Ethique
+protestante et l’esprit du capitalisme, Paris, Plon, 1967, pp. 83–107; Wolfgang
+Schluchter, ‘‘Einleitung. Max Webers Analyse des antiken Christentums. Grundzüge eines unvollendeten Projekts’’, in Max Webers Sicht des antiken Christentums,
+Wolfgang Schluchter (ed.), Frankfurt a.M., Suhrkamp, 1985, pp. 11–71.
+4.
+John G. Gager, ‘‘Shall We Marry Our Enemies?’’ Interpretation, 36, 1982, p.
+256.
+5.
+O.C. Edwards, Jr, ‘‘Sociology as a Tool for Interpreting The New Testament’’,
+Anglican Theological Review, 65, 1983, p. 432.
+6.
+Pour une vue générale du domaine de recherche, voir D.J. Harrington, ‘‘Second
+Testament and the Social Sciences’’, Biblical Theology Bulletin, 18, 1988, pp. 77–85;
+Th. F. Best, ‘‘The Sociological Study of the New Testament: Promise and Peril of a
+New Discipline’’, Scottish Journal of Theology, 36, 1983, pp. 181–194; O.C. Edwards,
+Jr, ‘‘Sociology as a Tool for Interpreting the New Testament’’, Anglican Theological
+Review, 65, 1983, pp.431–448; D.J. Harrington, S.J., ‘‘Sociological Concepts and the
+Early Church: A Decade of Research’’, Theological Studies, 41, 1980, pp. 181–190;
+B.J. Malina, ‘‘Why Interpret the Bible with the Social Sciences’’, American Baptist
+Quarterly, 2, 1983, pp. 119–133; C. Osiek, R.S.C.J., ‘‘The New Handmaid: The Bible
+and the Social Sciences’’, Theological Studies, 50, 1989, pp. 260–278; P.J. Richter,
+‘‘Recent Sociological Approaches to the Study of the New Testament’’, Religion, 14,
+1984, pp. 77–90; R. Riesner, ‘‘Soziologie des Urchristentums. Ein Literaturüberblick’’, Theologische Beiträge, 17, 1986, pp. 213–222; C. Rowland, ‘‘Reading the New
+Testament Sociologically: an Introduction’’, Theology, 88, 1985, pp. 358–364; T.
+Schmeller, ‘‘Soziologisch orientierte Exegese des Neuen Testaments’’, Bibel und
+Kirche, 44, 1989, 3, pp. 103–110; R. Scroggs, ‘‘The Sociological Interpretation of the
+New Testament: the Present State of Research’’, New Testament Studies, 26, 1980,
+pp. 164–179; Scroggs, ‘‘Sociology and the New Testament’’, Listening, 21, 1986, pp.
+138–147; G. Theissen, ‘‘Die soziologische Auswertung religiöser überlieferungen.
+Ihre methodologischen Probleme am Beispiel des Urchristentums’’, Kairos, 17,
+1975, pp. 284–299; D.J. Tidball, ‘‘On Wooing a Crocodile: An Historical Survey of
+
+Ouédraogo: La Bible chez Max Weber
+
+435
+
+the Relationship between Sociology and New Testament Studies’’, Vox Evangelica,
+15, 1985, pp. 95–109; idem, ‘‘Sociology of the New Testament’’, op. cit.
+7.
+Cf. G. Theissen, ‘‘Die soziologische Auswertung religiöser überlieferungen’’,
+op. cit.
+8.
+Th. F. Best, op. cit., p. 182.
+9.
+Cf. John G. Gager, Kingdom and Community. The Social World of Early
+Christianity, Englewood Cliffs, NJ, Prentice Hall, 1975; voir l’introduction en particulier.
+10.
+John G. Gager, ‘‘Shall We Marry Our Enemies?’’, op. cit., p. 265. Voir
+également W.A. Meeks, ‘‘The Social Context of Pauline Theology’’, Interpretation,
+36, 1982, pp. 266–277.
+11.
+B.J. Malina, ‘‘The Social Sciences and Biblical Interpretation’’, Interpretation,
+xxxvi, 1982, 3, p. 239.
+12.
+G. Theissen, Studien zur Soziologie des Urchristentums, Tübingen, J.C.B. Mohr
+(P. Siebeck), 1983, p. 15.
+13.
+G. Theissen, ‘‘Die Soziologische Auswertung religiöser überlieferungen’’, op.
+cit., p. 284.
+14.
+John G. Gager, ‘‘Shall We Marry Our Enemies?’’, op. cit., pp. 260–261.
+15.
+W.A. Meeks, op. cit.
+16.
+B.J. Malina, ‘‘The Social Sciences and Biblical Interpretation’’, op. cit., p. 240;
+Malina, ‘‘Why Interpret the Bible...’’, op. cit., en particulier, voir pp. 129 et seq.
+17.
+Voir ici C.S. Rodd, ‘‘On Applying a Sociological Theory to Biblical Studies’’,
+Journal of The Study of the Old Testament, 19, 1981, pp. 95–106; G.S. Jones, ‘‘From
+Historical Sociology to Theoretical History’’, British Journal of Sociology, 27, 3,
+1976, pp. 295–305. Th. F. Best, ‘‘The Sociological Study of the New Testament’’, op.
+cit., p. 193. C. Osiek, ‘‘The New Handmaid’’, op. cit., p. 277; D. Tidball, ‘‘On Wooing
+a Crocodile’’, op. cit., p. 106.
+18.
+Cité dans Max Weber, Economy and Society, New York, Bedminster, 1968, eds
+G. Roth and C. Wittich, p. lviii. On lira ici avec intérêt G. Roth, ‘‘History and
+Sociology in the Work of Max Weber’’, British Journal of Sociology, 27, 3, 1976, pp.
+306–318.
+19.
+Voir ici en particulier Max Weber, Essais sur la théorie de science, Paris, Plon,
+1965, pp. 167 et seq. Sur ce point on lira aussi N. Elias, ‘‘Soziologie und Geschichtswissenschaft’’, in Hans-Ulrich Wehler (ed.), Soziologie und Geschichte, Köln,
+Kiepenheuer &amp;amp; Witsch, 1972, pp. 57 et seq.; Werner J. Cahnman and Alvin Boskoff,
+‘‘Soziologie und Geschichte’’, in idem, pp. 157–183.
+20.
+Sur l’importance du comparatisme dans les recherches concernant le Nouveau
+Testament, cf. R.K. Fenn, ‘‘Sociology and Social History: A Preface to a Sociology
+of New Testament’’, Journal for the Study of Pseudepigrapha, 1, 1987, 95–114.
+L’option que représente la sociologie historique rencontre encore chez quelques
+historiens une position qui frise l’ostracisme; citons ici: G.S. Jones, ‘‘From Historical
+Sociology to Theoretical History’’, British Journal of Sociology, 27, 3, 1976, pp.
+295–305; P. Veyne, Comment on écrit l’histoire, Paris, Ed. du Seuil, 1971, pp.
+145–342. Les considérations de Veyne concernant l’approche de Weber reposent,
+nous semble-t-il, sur une vue unilatérale de l’œuvre de l’auteur; cf. pp. 173 et seq. et
+340 et seq. Veyne a cherché à rendre compte de la position de Weber en ne
+s’appuyant que sur les textes épistémologiques que fournit Weber à propos de
+l’histoire. D’un point de vue analytique, les idées de Weber à ce sujet ne recouvrent
+pas totalement celles qui sont sous-jacentes à sa perspective sociologique. Sa
+sociologie repose par ailleurs sur une idée de la causalité différente de celle de
+l’histoire telle qu’il en discute par exemple dans ses Etudes critiques. Cf. Max Weber,
+Essais sur la théorie de la science, op. cit., pp. 325–398 et 215–323; voir également,
+
+436
+
+Social Compass 46(4)
+
+ibid., Economie et société, tome I, Paris, Plon, 1971, pp. 4 et seq.; en abrégé E.S.
+D’autres historiens ont une position plus irénique; voir ici P. Burke, Sociology and
+History, Cambridge, Polity Press, 1992, en particulier pp. 13–35. R. Vierhaus,
+‘‘Geschichtswissenschaft und Soziologie’’, in G. Schulz (ed.), Geschichte heute.
+Positionen, Tendenzen und Probleme, Göttingen, Vandenhoeck &amp;amp; Ruprecht, 1973,
+pp. 69–83. On consultera avec intérêt sur ce point le volume édité par Hans-Ulrich
+Wehler, op. cit., les actes des journées d’études de la Société Française de Sociologie
+consacrés à cette question in Historiens et sociologues aujourd’hui (ouvrage collectif), Paris, Ed. du CNRS, 1986. Aussi le collectif franco-canadien Histoire et
+sociologie, Montréal, Ed. Logiques, 1996; Paul-André Turcotte, ‘‘Sociologie et
+histoire’’, Eglise et Theologie 24, 1, 1993, pp. 43–73, et idem, Intransigeance et
+compromis, Montréal, Fides, 1994, pp. 359 et seq.
+21.
+Thomas F. Best, op. cit., p. 192.
+22.
+Weber, E.S., p. 4.
+23.
+Weber, Le Judaïsme antique, Paris, Plon, 1970, pp. 15 et seq., note 1. Sur le sens
+de ce principe, on se reportera aux essais consacrés à cette question; voir Weber,
+Essais sur la théorie de la science, Paris, Plon, 1965, pp. 119–213 et 399–477.
+24.
+Le judaïsme antique, op. cit., p. 16.
+25.
+Sur le schéma général de l’analyse de Weber, nous nous permettrons de
+renvoyer ici à notre article: J.M. Ouédraogo, ‘‘Le charisme selon Max Weber: la
+question sociologique’’, Archives Européennes de Sociologie, 38, 1997, 2, pp.
+324–349.
+26.
+Voir ici Weber, E.S., pp. 10 et seq.
+27.
+J.M. Ouédraogo, op. cit. Cette approche de Weber nous semble répondre au
+souhait exprimé par D.J. Harrington quant à la nécessité de développer ‘‘une
+méthode d’interprétation orientée socialement’’: Harrington, ‘‘Sociological Concepts and the Early Church’’, op. cit.
+28.
+Il s’agit en particulier de P. Worsley, The Trumpet Shall Sound, London,
+MacGibbon &amp;amp; Kee, 1957 et B. Wilson, Magic and the Millennium, London, Heinemann, 1973. Sur le millénarisme, ils ne sont toutefois pas les seuls auteurs dont les
+travaux ont inﬂuencé les études sur les origines du christianisme. Voir John G.
+Gager, Kingdom and Community, op. cit., p. 14, et D.J. Tidball, ‘‘On Wooing a
+Crocodile’’, op. cit., pp. 101 et seq. Sur la discussion de ce problème, voir J. Z. Smith,
+‘‘Too Much Kingdom, Too Little Community’’, Zygon: Journal of Religion and
+Science, 13, 2, 1978, pp. 123–129. Pour un point de vue critique, on lira B.J. Malina,
+‘‘Why Interpret the Bible with the Social Sciences?’’, op. cit.
+29.
+Gager, op. cit., pp. 13–14.
+30.
+Schluchter (ed.), Max Webers Sicht des antiken Christentums, op.cit.
+31.
+Cf. H. von Campenhausen, Kirchliches Amt und geistliche Vollmacht in den
+ersten drei Jahrhunderten, Tübingen, J.C.B. Mohr, 1963, p. 1. Pour une critique de ce
+point de vue, on lira R. Bendix, ‘‘Umbildung des persönlichen Charismas. Eine
+Anwendung von Max Webers Charismabegriff auf das Frühchristentum’’, in
+Schluchter (ed.), op. cit., pp. 404–443.
+32.
+Gager, op. cit., pp. 66–92. L’auteur ne tient pas compte à notre avis du principe
+de la neutralité axiologique qu’invoque Weber également sur ces questions. Sur le
+problème de la routinisation et son lien au charisme pur chez Weber, nous nous
+permettrons de renvoyer ici à notre texte: Ouédraogo, op. cit.
+33.
+Voir ici en particulier: Tidball, Sociology of the New Testament, op. cit.; H.C.
+Kee, Das frühe Christentum in soziologischer Sicht, Göttingen, Vandenhoek &amp;amp;
+Ruprecht, 1982, pp. 58 et seq.; Theissen, Studien zur Soziologie des Urchristentums,
+op. cit.; M.N. Ebertz, ‘‘Le stigmate du mouvement charismatique autour de Jésus de
+Nazareth’’, Social Compass 39(2), 1992, pp. 255–273; J.A. Schütz, ‘‘Charisma and
+
+Ouédraogo: La Bible chez Max Weber
+
+437
+
+Social Reality in Primitive Christianity’’, Journal of Religion, 54, 1974, 51–70; B.
+Holmberg, Paul and Power: The Structure of Authority in the Primitive Church as
+Reflected in the Pauline Epistles, Lund, Liberläromedel, 1978; Bendix, ‘‘Umbildung
+des persönlichen Charismas’’, op. cit.
+34.
+Cf. Kee, op. cit.; W. Schluchter, ‘‘Max Webers Analyse des antiken Christentums. Grundzüge eines unvollendeten Projekts’’, in W. Schluchter (ed.), op. cit.,
+pp. 11–71; Theissen, op. cit., pp. 106–141; W.A. Meeks, ‘‘Die Rolle des paulinischen
+Christentums bei der Entstehung einer rationalen ethischen Religion’’, in W.
+Schluchter (ed.), op. cit., pp. 363–385.
+35.
+Weber, L’Ethique protestante, op. cit., p. 83.
+36.
+Ibid., p. 86.
+37.
+Ibid., p. 90 (traduction modiﬁée).
+38.
+Ibid., pp. 90–91 (traduction modiﬁée).
+39.
+Ibid., p. 96.
+40.
+Ibid., p. 97.
+41.
+Ibid., p. 97 (traduction modiﬁée).
+42.
+Nous ne nous préoccupons pas ici de la validité historique des analyses de
+Weber, et en particulier des matériaux dont il s’est servi pour fonder sa thèse. Sur le
+problème des traductions de la Bible notamment, dont Weber s’est servi, on lira T.
+Hanyu, ‘‘Max Webers Quellenbehandlung in der Protestantischen Ethik. Der
+Begriff (‘Calling’)’’, Zeitschrift für Soziologie, 22, 1993, pp. 65–75. Pour une critique
+de cette thèse, voir H. Lehmann, M. Webers ‘‘Protestantische Ethik’’, Göttingen,
+Vandenhoeck &amp;amp; Ruprecht, 1996, p. 135, note 39.
+43.
+Voir en particulier la Considération intermédiaire, Max Weber, Sociologie des
+religions, Paris, Gallimard, 1996, pp. 410–460. En abrégé S.R.
+44.
+Ce comparatisme se trouvait déjà en germe dans son premier texte de 1904. Cf.
+Weber, L’Ethique protestante, op. cit., pp. 51–52, 83 et 96.
+45.
+Il revient d’ailleurs ultérieurement sur la question de la traduction de Luther;
+Weber, E.S., op. cit., p. 578.
+46.
+Ou ‘‘injuste’’ selon la traduction de J.P. Grossein; S.R., p. 452.
+47.
+E.S., p. 535.
+48.
+E.S., p. 536.
+49.
+E.S., p. 542 (traduction modiﬁée).
+50.
+E.S., p. 524.
+51.
+S.R., p. 349 (traduction modiﬁée).
+52.
+S.R., p. 350 (traduction modiﬁée); E.S., p. 542.
+53.
+Ibid. (traduction modiﬁée).
+54.
+Ibid. (traduction modiﬁée).
+55.
+S.R., p. 348 (traduction modiﬁée).
+56.
+Pour plus de détails, voir E.S., pp. 539 et seq.; également S.R., p. 343.
+57.
+Ibid.
+58.
+E.S., p. 471.
+59.
+Ibid.
+60.
+S.R., p. 355.
+61.
+E.S., p. 535.
+62.
+S.R., p. 350.
+63.
+E.S., p. 536.
+64.
+Ibid., p. 630.
+65.
+Ibid., p. 543 (traduction modiﬁée).
+66.
+Ibid., p. 537.
+67.
+Sur ce point, il perçoit une différence entre sa perspective et celle de Troeltsch;
+cf. Max Weber, L’Ethique protestante, op. cit., p. 30.
+
+438
+68.
+
+Social Compass 46(4)
+
+S.R., p. 332 (traduction modiﬁée).
+E.S., pp. 543–544.
+70.
+S.R., pp. 349–350 (traduction modiﬁée).
+71.
+E.S., p. 545; voir également p. 554.
+72.
+Ibid.
+73.
+Ibid., p. 576.
+74.
+Ibid.
+75.
+Ibid., p. 573; voir Matthieu 17: 14–21; Marc 9: 14–29; Luc 9: 37–43.
+76.
+Ibid., p. 568.
+77.
+Ibid.
+78.
+Ibid., p. 630.
+79.
+Weber, Le Judaïsme antique, op. cit., p. 21. Sur les incidences de la mission
+paulinienne internes à la communauté chrétienne primitive, l’attitude notamment
+de quelques apôtres (de Pierre et de Jacques), et externes par rapport au judaïsme,
+Weber en rapporte succinctement à la ﬁn de son volume; voir pp. 548–552. Quant à
+son importance par rapport au développement de la ville en Occident, voir Max
+Weber, Wirtschaftsgeschichte, München und Leipzig, Duncker &amp;amp; Humblot, 1923, p.
+277. Sur la distinction entre secte et Eglise, voir E.S., p. 59. Sur le problème de
+l’applicabilité du concept d’Eglise à la réalité institutionnelle créée par Paul, voir
+Wayne A. Meeks, ‘‘Die Rolle des paulinischen Christentums bei der Entstehung
+einer rationalen ethischen Religion’’, in W. Schluchter (ed.), M. Webers Sicht des
+antiken Christentums, op. cit., pp. 363–385. Sur la critique de la notion de ‘‘peuple
+paria’’ que l’on trouve chez Weber à propos des Juifs, cf. J.G. Gager, ‘‘Paulus und
+das antike Judentum. Eine Kritik an Max Webers Interpretation’’, in Schluchter
+(ed.), op. cit., pp. 386–403. En rapport avec la question de l’universalisme et à ses
+implications politiques, on lira J.M. Ouédraogo, ‘‘Sociologie religieuse et modernité
+politique chez Max Weber’’, Revue Européenne des Sciences Sociales, 34, 1996, pp.
+25–49. Sur ce point, en ce qui concerne notamment la question de la modernité, nous
+ne partageons pas l’analyse qu’en a donnée S.N. Eisenstadt (‘‘Max Webers Sicht des
+frühen Christentums und die Entstehung der westlichen Zivilisation. Einige vergleichende Überlegungen’’, in Schluchter (ed.), op. cit., pp.509–524. Parce que chez
+Max Weber l’universalisme religieux ne conduit ni à la modernité économique, ni
+non plus à la modernité politique.
+80.
+E.S., p. 579.
+81.
+Ibid., p. 557.
+82.
+Ibid., p. 563 (traduction modiﬁée).
+83.
+Ibid., p. 630.
+84.
+Ibid., p. 618.
+85.
+Ibid., pp. 577 et 630.
+86.
+Ibid. p. 578.
+87.
+Ibid., p. 573 (traduction modiﬁée).
+88.
+Ibid., p. 574.
+89.
+Ibid., pp. 574 et seq.; sur les paraboles, références probables de Weber, voir
+entre autres Matthieu 13.
+90.
+Cf. Jean 2, 3. Sur cet entretien, Weber ne fournit pas la référence biblique. Voir
+entre autres, Matthieu 5: 43.
+91.
+S.R., p. 419.
+92.
+Ibid., pp. 419–420.
+93.
+E.S., p. 631.
+94.
+Ibid., pp. 616, 622–623. Voir note 79.
+95.
+Ibid., p. 623.
+96.
+S.R., note 1, p. 359.
+69.
+
+Ouédraogo: La Bible chez Max Weber
+
+439
+
+97.
+
+E.S., p. 553.
+Ibid.; voir aussi S.R., p. 358.
+99.
+Ibid. et seq.
+100.
+Voir Schluchter (ed.), op. cit., p. 63, note 34.
+101.
+S.R., p. 418; E.S., p. 587.
+102.
+E.S., p. 607; S.R., pp. 438–439; voir Marc 10.
+103.
+Ibid., p. 450.
+104.
+Ibid., p. 290; E.S., p. 589.
+105.
+S.R., p. 291.
+106.
+S.R., p. 425 (traduction modiﬁée).
+107.
+Ibid., p. 435 (traduction modiﬁée).
+108.
+S.R., p. 290 (traduction modiﬁée).
+109.
+Ibid.; E.S., p. 601; Matthieu 21, 22.
+110.
+S.R., p. 290. Paul, 1 Cor. 20.
+111.
+E.S., p. 632.
+112.
+Ibid., p. 291. Paul, 2 Tim. 3: 10.
+113.
+S.R., p. 291.
+114.
+E.S., p. 601.
+115.
+Cf. Meeks, op. cit.
+116.
+S.R., pp. 333 et 336.
+117.
+Ibid., pp. 332–333.
+118.
+Ibid., p. 335 (traduction modiﬁée).
+119.
+Ibid., p. 335.
+120.
+Cf. Ouédraogo, op. cit. On ne comprendrait pas sinon pourquoi il a fallu
+attendre la traduction de la Bible par Luther pour assister à un changement dans
+cette culture religieuse que Weber considère comme étant d’une grande portée,
+aussi bien intra qu’extra-religieuse.
+121.
+Pour une introduction à cette question, voir J.M. Ouédraogo, ‘‘Des religiosités
+de virtuoses aux religiosités de masses’’, Social Compass 44(4), 1997, pp. 611–625.
+122.
+E.S., p. 478 (traduction modiﬁée).
+123.
+Ibid., p. 613.
+124.
+Ibid., pp. 507–508.
+125.
+Ibid., p. 632.
+98.
+
+Jean Martin OUÉDRAOGO est chargé de conférences à l’Ecole
+Pratique des Hautes Etudes 5ème section et membre du Groupe de
+Sociologie et de la Laïcité (Centre National de la Recherche Scientiﬁque), Paris. Ses recherches actuelles portent sur religion et politique
+dans les œuvres de Max Weber et de G. Jellinek. Publications récentes:
+‘‘Des religiosités de virtuoses aux religiosités de masses: aux origines
+des compromis selon Max Weber’’, Social Compass, 1997; ‘‘Sociologia
+della religione e modernità politica in Max Weber’’, Religione e Società,
+1998. ADRESSE: 27 rue Franklin, F-75116 Paris, France.
+
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

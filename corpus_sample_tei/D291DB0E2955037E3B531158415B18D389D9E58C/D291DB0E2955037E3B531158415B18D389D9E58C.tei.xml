@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://standoff.proposal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a" type="main">A discussion on the geology of the English Channel - Étude géologique du socle ante-mésozoique au nord du Massif Armoricain: limites et structures de la Domnonée</title>
+        <respStmt>
+          <resp>Références bibliographiques récupérées via GROBID</resp>
+          <name resp="ISTEX-API">ISTEX-API (INIST-CNRS)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>ISTEX</authority>
+        <publisher>The Royal Society</publisher>
+        <pubPlace>London</pubPlace>
+        <availability>
+          <licence>Scanned images copyright © 2017, Royal Society</licence>
+          <p>Royal Society</p>
+        </availability>
+        <date type="published">1975</date>
+        <date type="Copyright" when="2017">2017</date>
+      </publicationStmt>
+      <notesStmt>
+        <note type="content-type" source="article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-6N5SZHKN-D">article</note>
+        <note type="publication-type" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <analytic>
+            <title level="a" type="main">A discussion on the geology of the English Channel - Étude géologique du socle ante-mésozoique au nord du Massif Armoricain: limites et structures de la Domnonée</title>
+            <author xml:id="author-0000">
+              <persName>
+                <surname>Lefort</surname>
+                <forename type="first">J. P.</forename>
+              </persName>
+              <name type="person">J. P. Lefort</name>
+              <affiliation>
+                <orgName type="laboratory">Groupe d'étude de la Marge Continentale et Groupe Armoricain d'étude des Socles Laboratoire associé au C. N. R. S. no 174</orgName>
+                <orgName type="institution">Institut de Géologie</orgName>
+                <orgName type="institution">Université de Rennes</orgName>
+                <address>
+                  <country key="FR" xml:lang="en">FRANCE</country>
+                </address>
+              </affiliation>
+            </author>
+            <author xml:id="author-0001">
+              <idno type="royalsocietyfellow">NA6016</idno>
+              <persName>
+                <surname>Dunham</surname>
+                <forename type="first">Kingsley Charles</forename>
+              </persName>
+              <name type="person">Sir Kingsley Dunham, For.Sec.R.S.</name>
+              <roleName>organiser</roleName>
+            </author>
+            <author xml:id="author-0002">
+              <persName>
+                <surname>Smith</surname>
+                <forename type="first">A. J.</forename>
+              </persName>
+              <name type="person">A. J. Smith</name>
+              <roleName>organiser</roleName>
+            </author>
+            <idno type="istex">D291DB0E2955037E3B531158415B18D389D9E58C</idno>
+            <idno type="ark">ark:/67375/V84-W57MT3C4-N</idno>
+            <idno type="DOI">10.1098/rsta.1975.0045</idno>
+          </analytic>
+          <monogr>
+            <title level="j" type="main">Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences</title>
+            <title level="j" type="abbrev">Phil. Trans. R. Soc. Lond. A</title>
+            <idno type="publisher-id">rsta</idno>
+            <idno type="hwp">roypta</idno>
+            <idno type="pISSN">0080-4614</idno>
+            <idno type="eISSN">2054-0272</idno>
+            <imprint>
+              <publisher>The Royal Society</publisher>
+              <pubPlace>London</pubPlace>
+              <date type="published">1975</date>
+              <biblScope unit="vol">279</biblScope>
+              <biblScope unit="issue">1288</biblScope>
+              <biblScope unit="page" from="123">123</biblScope>
+              <biblScope unit="page" to="135">135</biblScope>
+              <biblScope unit="word-count">6507</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+      <appInfo>
+        <application ident="pub2tei" version="1.0.41" when="2020-04-06">
+          <label>pub2TEI-ISTEX</label>
+          <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref></desc>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <abstract xml:lang="en">
+        <p>      The study of samples taken on the bottom of the sea north of the Massif Armoricain,  and the geological, magnetic, gravimetric and seismic data collected on land and  at sea, confirms that this region is characterized by:  (1) a series of horsts where fragments of Pentevrian and Cadomian orogenies  outcrops;  (2) gullies, or synclines, of Palaeozoic terrain.  The separation of the horsts is the result of tectonic shearing which developed  during the Ordovician, Carboniferous and Triassic ages.  The Cadomian chain, which constituted the fundamental structure of the region,  was broken up very early and is no longer recognizable. In the west, traces of this  chain seem to have lasted until the Llanvirnian. In the east, the uplands, which were  probably less harsh, were levelled before the start of the lower Cambrian age.  A general upwarp of the eastern part between the middle Cambrian and the  middle Ordovician could correspond to a reaction to the Caledonian orogeny. The  northern part of the Alassif Armoricain had little part in the Hercynian paroxysm,  however, this period witnessed an important tangential tectonism, the horsts riding  over the edges of the synclines. The western formations show more marked structures  than the eastern formations.  The area which has been studied largely corresponds to the Domnonean domain,  a puzzle of horsts and grabens. The Domnonea is itself a large horst, limited to the  north by thick Palaeozoic sequences and to the south by the central Armorican zone  and the Mancellian domain. </p>
+      </abstract>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2020-04-06" who="#istex" xml:id="pub2tei">formatting</change>
+      <change xml:id="refBibs-istex" who="#ISTEX-API" when="2020-04-30">References added</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Phil. Trans. R. Soc. Lond. A. 279, 123-135 (1975) [ 123 ] Printed in Great Britain
+Etude geologique du socle ante-mesozoique au nord du Massif Armorica in
+limites et structures de la Domnonee
+Par J. P. Lefort
+Groape (VEtude de la Marge Continentale et Groupe Armoricain dEtude des Socles Laboraloire associe au C.N.R.S. n° 174, Institutde Universite de Rennes, France
+The study of samples taken on the bottom of the sea north of the Massif Armoricain, and the geological, magnetic, gravimetric and seismic data collected on land and at sea, confirms that this region is characterized by:
+(1)	a series of horsts where fragments of Pentevrian and Cadomian orogenies outcrops;
+(2)	gullies, or synclines, of Palaeozoic terrain.
+The separation of the horsts is the result of tectonic shearing which developed during the Ordovician, Carboniferous and Triassic ages.
+The Cadomian chain, which constituted the fundamental structure of the region, was broken up very early and is no longer recognizable. In the west, traces of this chain seem to have lasted until the Llanvirnian. In the east, the uplands, which were probably less harsh, were levelled before the start of the lower Cambrian age.
+A general upwarp of the eastern part between the middle Cambrian and the middle Ordovician could correspond to a reaction to the Caledonian orogeny. The northern part of the Massif Armoricain had little part in the Hercynian paroxysm; however, this period witnessed an important tangential tectonism, the horsts riding over the edges of the synclines. The western formations show more marked structures than the eastern formations.
+The area which has been studied largely corresponds to the Domnonean domain, a puzzle of horsts and grabens. The Domnonea is itself a large horst, limited to the north by thick Palaeozoic sequences and to the south by the central Armorican zone and the Mancellian domain.
+Letude des prelevements realises en mer au nord du Massif Armoricain, jointe aux informations magnetiques, gravimetriques et sismiques reunies a terre et en mer, permet de montrer que cette region est caracterisee par:
+(1)	une serie de horsts oil affleurent des fragments des orogenes pen tevrien et cadomien;
+(2)	des couloirs ou affleurent des synclinaux de terrains paleozoiques.
+If individualisation des horsts est le resultat dune tectonique cisaillante qui sest developpee a FOrdovicien, au Carbonifere et au Trias.
+La chaine cadomienne, qui constituent la structure fondamentale de la region, a etc desorganisee tres tot et ny est plus reconnaissable. A louest les temoins de cette chaine semblent avoir persiste jusquau Llandvirn. A Vest, les reliefs probablcment moins puissants etaient aplanis des le Cambrien inferieur.
+Un soulevement general de la partie orientale entre le Cambrien moyen et FOrdovicien moyen pourrait corresponds a un echo lointain de Foregone caledonien. Le nord du Massif Armoricain a pen participe au paroxysme hercynien; on note toutefois, a cette epoque, une tectonique tangentielle importance qui fait chevaucher des horsts sur les synclinaux. Les formations occidentales montrent une structuration plus poussee que les formations orientales.
+La region etudiee correspond grossierement au domaine domnoneen, puzzle de horsts et de grabbens. La Domnonee est elle-meme un vaste horst horde au Nord de terrains paleozoiques epais, et au Sue! par la 6fosse centrale armoricaine et le domaine mancellien.
+124
+J. P. LEFORT
+1. Introduction
+Des 1921, les dragages du Pourquoi-pas? permettaient de prevoir 1 existence de terrains paleo-zoiques et antecambriens au tour du Massif Armoricain (Kerforne &amp; Dangeard 1921), mais les difficultes de prelevement et de datation des echantillons ont longtemps freine les recherches qui ne se sont developpees que lentement au cours des decennies suivantes (Whittard 1962; Hommeril 1967; Larsonneur 1968; Hinschberger 1969; Curry, Hamilton &amp; Smith 197°)-Ce nest quen 1970 quune etude de socle armoricain submerge dans la Manche a etc entreprise (Lefort 1970; Lefort &amp; Deunff 1970; Lefort &amp; Deunff 19715 Deunff, Leiort &amp; Paris 1971; Auvray &amp; Lefort 1971; Chauris et al. 1972; Andreieff, Lefort, Marec &amp; Monciardini 1973; Lefort &amp; Deunff 1973). La densite des informations est maintenant suffisante pour que Pon puisse tenter une synthese cartographique, et entamer une reflexion sur leur signification par rapport aux terrains emerges.
+
+Figure 1. Localisation des prelevements de socle antemesozoique au Nord du Massif Armoricain. Le contact
+socle - couverture est figure par des tirets.
+Du Cotentin a la Pointe du Raz, le socle armoricain submerge dessine, au-dela du trait de cote, une aureole large de 10 a 60 km avant de disparaitre sous sa couverture mesozoique et cenozo'ique. Pres de 950 prelevements de roche en place y ont etc effectues a ce jour (figure 1), dont plus de 700 par Fauteur, qui en a egalement etudie la petrographic; toutes les determinations micropaleontologiques sont dues a J. Deunff. f
+Les methodes particulieres de la cartographic du socle en mer ont etc decrites ailleurs (Lefort &amp; Deunff 1973) et ne seront pas abordees ici. II importe toutefois de preciser que les informations morphologiques, gravimetriques, magnetiques et sismiques connues en Manche occidentale ont etc utilisees conjointement aux etudes petrographiques.
+Ainsi, la connaissance du socle submerge eclaire-t-elle dun jour nouveau la geologic nord-armoricaine; eest pourquoi, plutot que de nous limiter a la description des formations
+t Laboratoire de Paleontologie et de Stratigraphic de PInstitut de Geologic de Rennes, et Groupe Armoricain dEtude des Socles.
+ETUDE GEOLOGIQUE DU SOCLE ANTE-MESOZOIQUE 125
+immergees, nous aborderons certains problemes a Pechelle regionale, utilisant par la memo occasion nombre dinformations geologiques et geophysiques collectees a terre.
+2. GeOLOGIE DU SOCLE SUBMERGE ET DES TERRAINS EMERGES GIRCUMVOISINS
+Les cartes geologiques du socle submerge (figures 2, 3) montrent a Pevidence la prolongation en mer des grandes unites structurales connues a terre; cest ainsi que lon retrouve:
+-	le synclinorium median plisse et pince en Iroise, entre le Mole du Leon et les granites syntectoniques du grand lineament sud-armoricain;
+-	le dome Leonard qui setend vers le nord jusqua la latitude de 49° 10';
+-	les formations eruptives et volcaniques tregorroises qui affleurent dans tout Pest de la bale de Saint-Brieuc;
+-	les series rouges devoniennes en contact anormal avec le Brioverien entre la Bretagne et le Cotentin;
+-	le synclinal de Siouville a cur devonien entre Aurigny et Guernesey.
+Par contre, la decouverte au large du Tregor dun vaste affleurement de terrains devoniens et la reconnaissance dun brachysynclinal a cur ordovicien entre Jersey et les Minquiers etaient inattendues.
+Au nord du Massif Armoricain, le socle antemesozoique montre a grande echelle une organisation simple: des noyaux de terrains antecambriens, de tallies inegales, indures, sont separes par des affleurements de terrains paleozo'iques plisses et pen metamorphises. Cette disposition avait deja ete remarquee par J. Cogne (1973) dans la partie emergee de la region qui nous interesse.
+Letude petrographique des echantillons preleves en mer, objet de notes preliminaires, ne sera pas reprise dans le chapitre qui suit. II en est de meme de la description de la partie emergee des noyaux anciens, qui fait Pobjet de nombreuses etudes locales dont les plus recentes sont citees dans le tableau 1; ces etudes out souvent guide nos recherches en mer. Nous nous limiterons a la presentation rapide des principaux horizons constituant ces noyaux, nous reservant toutefois la possibility dinsister plus longuement sur les formations submergces.
+(a)Les noyaux antecambriens et leur evolution au corns du Paleozoique
+(i)	Stratigraphie sommaire
+Les noyaux antecambriens montrent tons une partie submergee importance (figure 4). Us affleurent selon des directions N 60° ou N 90°; le tableau 1 donne les equivalences stratigra-phiques quil est possible de proposer pour chacun dentre eux. Le volcanisme effusif prim air e et les granitisations ordoviciennes et hercyniennes sont presentes dans le meme tableau car ils sont toujours associes aux noyaux anciens, et participent a leur induration.
+Neuf unites ont ete definies: le Leon, le Tregor, le Goello, le Penthievre, la region des Minquiers, la region de Jersey, la region de Roches-Douvres, la region de Guernesey et la region cPAurigny. Elies presentment une suite de caracteres lithologiques identiques qui permet de les decrire simultanement.
+-	Le Pentevrien (Cogne 1959): presque toutes les unites precedemment definies presentent des vestiges dun socle ante-brioverien. II sagit de roches tres metamorphisees et plissees, cata-mesozonales, qui vont des gneiss leptynitiques aux diorites et granodiorites. Le tableau 1 montre quelques contradictions concernant leur datation; nous les avoirs volontairement
+Tableau 1. Les noyaux antecambriens, leurs volcanites et intrusions paleozoiques:
+STRATIGRAPHIE SOMMAIRE DES TERRAINS SUBMERGES ET DE LEUR BORDURE EMERGEE
+	pentevrien	brioverien plisse au Cadomien I	brioverien plisse au Cadomien II	granitisations et intrusions cadomiennes	voicanisme paleozoique
+Le Leon	Gneiss de Treglonou et de Lanhouar-neau? Region des Abers ?	Gneiss de Brest (proparte) - Micaschistes du Conquet ? - Gneiss et micaschistes de Lesneven -Gneiss des Triagoz -Gneiss du Nord de Tile de Batz  Region des Abers	Schistes sericitiques dOuessant - Quartzo-phyllade de lElorn -Schistes submerges dOuessant	Granite des Renards - Epi-diorite de St-Jean-du-Doigt - Granite de la Chaussee des Pierres noires - Gneiss de Brest (facies Minou et Landivisiau)	
+Le Tregor	Gneiss de Port-Beni -Gneiss de Morguig-nen et de Pors-Mabo	Serie verte de TArmori-que et de Tredrez	Tuffs de Locquirec -Schistes tuffaces de la bale de Lannion  Volcanites de Treguier  Paimpol - Volcanites submergees du Tregor	Granite de Perros -Granite du sillon de Talbert	Ignimbrites cam-briennes du Tregor
+Le Goello	Gneiss de Guingamp ?	Amphibolites de Lan-vollon, Gneiss de Guingamp ?	Serie de Binic	Diorite de Saint-Quay	
+Le Penthievre	Amphibolites et gneiss Serie de St Cast - Gneiss de la region de St	de St Malo - Gneiss de Brieuc	Dinan - Phtanite de Lamballe		Pouddingue et tillite de Granville	Diorites de Frehel - Granodiorite de la region de St Brieuc ? Granites de Chausey	Spilites ordo-viciennes dErquy
+region des Minquiersf	Granodiorite de Coutances	Gneiss des Minquiers	Chloritoschistes et tuffs du Nord de Coutances	Granodiorite et diorite de Coutances ? Granodio-rites et diorites des Minquiers	
+region de Jersey		Gneiss de Roches-Douvres	Schistes de Jersey -Greywackes submergees du Sud et de TOuest de Jersey	Granodiorites des Ecre-hous, Pater-Noster - Granites du Sud de Jersey	Rhyolites de Jersey
+region de Guernesey	Gneiss dlcart	Gneiss de Sark - Metasediments de Pleinmont	?	Adamellite, gabbro, granodiorite, diorite du Nord de Guernesey et de Sark	
+region dAurigny	Granodiorite dAurigny - Microdiorite du Nez de Jobourg -Diorite quartzique de Greville		Schistes de Goueslin -Schistes de Cherbourg -Phyllade chloriteuse et sericiteuse de Tanse de Cherbourg	Porphyrite dAlderney -Granites de la Hague	
+travaux	Cogne, 1959; Grain-	Graindor et al. 1957;	Graindor 1957, i960;	Graindor et al. 1957;	Mourant 1933;
+recents	dor i960; Cogne et	Cogne et al. 1966;	Chauris 1966; Jeannette	Adams 1967; Leutwein	Lefort et al. 1970,
+consultes	al. 1966; Adams 1967; Leutwein et al. 1968; Verdier 1968; Chauris, 1969; Auvray et al. 1973	Roach, 1966; Adams, 1967; Jeannette et al. 1968; Roblot 1968; Verdier 1968; Chauris 1969; Auvray et al. 1971; Hameurt et al. 1971; Jeannette 1971; An-dreieff et al. 1973	et al. 1968; Larsonneur 1968; Verdier 1968; Auvray et al. 1971; Lefort et al. 1971; Vidal et al. 1972; Auvray et al. 1973; Chauris et al. 1973; Lefort et al. 1973	et al. 1968; Auvray et al. 1971, 1973; Vidal et al. 1972; Chauris et al. 1972; Lefort et al. 1973	1971; Vidal et al. 1971; Auvray et al. 1973
+dreieff et al. 1973
+rlnl Tn'~7'y
+dreieff et al. IQ72
+intrusions et graniti-sations hercyniennes et caledoniennesf
+Granite de Vlroise  Granite de St Renan -Granite dOuessant -Granite de Taber d'lldut de Ploudalmezeau,
+Ste Catherine,
+Carantec
+Granite de Plouma-naclT, de Tile Grande, de Tredrez
+Granite de Guingamp, Granite de Plouha
+Granite de Din an
+Granite du Nord de Jersey!
+Granite de Barfleur -Granite de Flamanville
+Deutsch et al. 1965; Adams 1967; Leut-wein et al. 1968; Leutwein et al. 1969; Chauris et al. 1972; Lefort et al. 1973
+J. P. LEFORT
+JLefdrt
+Phil. Trans. R. Soc. Lond. A, volume 279
+Corse geologique du socle submerge
+Figure 2
+RENNES  CHERBOURG
+etoblie par JR Le fort (1973)
+Terrains sedimentaires
+et alluvions .
+Carbonifere
+Devonien et f acids " Vieux gres rouges"
+Silurien et Ordpyicien supdrieur et moyen et volconites ordoviciennes
+Ordovicien inferieur (gris .
+Briovdrien supdrieur et moyen volcanjtes brroveriennes
+Schistes cristallins
+cycle cadomien
+schistes satines
+'Lfl; I tv*'I
+amphibolites
+Gneiss des Roches Douvres et de Sf Malo
+gneiss dioritiques
+cycle pentevrien
+gneiss et amphibolites
+I tv-L
+gneiss dioritiques et diorites
+Roches intrusives
+I I
+microgranites
+granites a muscovite et biotite
+granites colco-alcolins a biotite
+granites anciens (codomtens)
+I ^
+differentiations granodioritiques et diorites cadomiennes
+jjjj
+gabbros
+rhyolites
+anddsltes et trachytes
+mm
+porphyrites
+Universife' de RENNES 1 973
+Lefort
+Terrains sddimentaires
+r^n
+alluvions modernes et
+h131
+Devonien
+r s i
+Silurian « e» Qrdovicieto - super ieur - et moyen
+jM
+itrdmodocie
+Brio verier; supSrleur et moyen
+n
+volcanites brioveriennes
+Schistes cristaWins
+m
+sehistes satines
+n^n
+§j Gneiss de Lesneven
+Gneiss de Brest
+r^n
+tvOetfoegnetssit et t &gt;Diorites de &gt; ta&lt; »aie i de- jLannion
+Migmatites
+EuiMigmatites : et Granites ass
+Roches intrusives
+\ gravri|fesi||||i muscovite; et^ tourmaline
+it gronitesxi'vdlcalins &gt;'&lt;"$&lt;
+1 a. granites a muscovite = granites - roses ; scfi; biotite Granite de Saint - Renan
+r~r~L
+granites calco-alcolms. a I
+FIGURE 3
+Carte geologique du socle submerge
+BREST - LORIENT
+Phil. Trans. R. Soc. Lond. A, volume 279
+etablie par J P Lefort (1973)
+la -:i Chaussee i des Pierres &gt; ¦
+gabbros et epidiorites
+Universite de RENNES 1 973
+Quaternaire	j, Paleozoique jJJjjljU Briovenen + * + ~ j gramtisations , intrusions et volcanites d'age pgleozoique	j* * x *lnTruslons et volcanites d'age cadomien	Pentevrien
+ETUDE GEOLOGIQUE DU SOCLE ANTE-MESOZOIQUE 127
+conservees dans lattente de nouvelles mesures radiometriques. En mer, les roclies pentevriennes nont ete retrouvees quau sud-ouest de Guernesey.
+ Le Brioverien plisse au Cadomien I: le Brioverien inferieur est represente par des lacies meta-arkosiques conglomeratiques issus de la destruction de la chaine pentevrienne (Hameurt &amp; Jeannette 1971) et par des series spilitiques et kcratophyriques. Les terrains de cet age, forte-ment structures, sont actuellement representes par des para-gneiss, des amphibolites et des micaschistes. Letude petrographique de ces formations montre quelles sont pratiquement toujours metamorphisees dans un dim at eh aud de V amphibolite facies.
+Figure 4. Repartition des noyaux antecambricns et des affleurements paleozoiques de la Domnonee (les numeros correspondent aux endroits oil des failles out ete mis es en evidence). A, Horsts individualises; B, terrains cristallins et cristallophylliens; C5 terrains sedimentaires dage Paleozoique; D, terrains brioveriens non metamorphises (a Vinterieur des limites de la Domnonee); I, branche rheno-hercynienne du geosynclinal hercynien; II, domaine manccllicn; III, zone centre armoricaine.
+-	Le Brioverien plisse au Cadomien II est constitue de formations terrigenes, pyroclastiques, volcaniques et greywacheuses generalement metamorphisees au. niveau du Greenschist-facies. II debute par des tillites a Pest du Massif Armoricain. Tons les termes du Brioverien out ete retrouves en mer; ils sont particulierernent bien representes dans le golfe normanno-breton, en I raise et au nord du Cotentin.
+-	Les intrusions cadomiennes: les formations brioveriennes, plissees et metamorphisees lors de Porogene cadomien, out enfin ete affectees par des intrusions granitiques, dioritiques et
+128
+J. P. LEFORT
+gabbroiques localisees. Ces intrusions constituent aujourdhui lessentiel des lies et des dots de la Manche occidental, et ne sont que tres rarement submerges.
+-Le volcanisme paleozoique: par trois Ibis au cours de leur histoire, certains noyaux antecambriens out ete sounds a un volcanisme effusif important, de nature rhyolitique au Cambrien, dans le Tregor, a Jersey, au sud de Sark et dans le Cotentin; spilitique a lOrdovicien, dans le Penthievre et au sud dAurigny; spilitique et keratophyrique au Devono-Dinantien, au sud-est du Leon. Les affleurcments de roches volcaniques se trouvent toujours en bordure des noyaux antecambriens, et sont constamment associes a des failles majcures.
+-Les granitisations paleozo'iques: a Fexception du Leon, les granitisations paleozo'iques nont pas affecte les noyaux antecambriens du nord de la Bretagne. Dans le Leon, la phase de migmatisation intense qui sest developpee de File dOuessant a File de Batz est anterieure a la masse principale des intrusions cicatricielles.
+- Les intrusions paleozo'iques de granite sont abondantes. II sagit parfois de massifs circon-scrits, intrusifs dans le socle, atectoniques, provoquant Fapparition dune aureole de meta-morphisme dans les sediments encaissants. Dautres granites, tels ceux qui jalonnent les accidents majeurs de Guisseny-Porspoder et de Molene-Montcontour, se sont mis en place guides par les structures anterieures (Cogne 1966). Le granite preleve au nord de File de Batz appartient a cette derniere categoric.
+(ii) Tectonique
+Les etudes structurales menees a terre sur les noyaux antecambriens du nord du Massif Armoricain nous permettent maintenant cFavoir une vue densemble sur la repartition et Findividualisation de ces noyaux (Cogne 1973). Malheureuscmcnt, ces etudes ne permettent pas souvent de cerner les contours exacts des noyaux, soit parce que les accidents qui les limitent nont pas encore ete observes, soit surtout parce que la plupart dentre eux ont une part importante de leur surface submergce sous les eaux de la Manche. La reconnaissance des contours des noyaux anciens a ete avancee grace a Futilisation systematique des methodes de geophysique en complement des informations geologiques. Ceci nous a permis par exemple de reconnaitre les contours de noyaux submerges reconverts de terrains mesozoiques ou cenozo-iques. Quils soient uniquement constitutes de terrains antecambriens, reconverts en partie de vulcanites ou hordes de granites dage paleozoique, les neuf noyaux antecambriens se presenters comme des horsts en forme de fuse au, limites de toutes parts par des failles.
+(a) Une etude qualitative de la carte gravimetrique du Massif Armoricain montre que presque tons les noyaux anciens sont en relation avec des anomalies gravimetriques positives importantes; ce fait est sans aucun doute a mettre en rapport avec la constitution plus ou moins basique de la plupart dentre eux. Le dessin des isogames, presentant un fort gradiant gravifique, perniet alors souvent den cerner les contours (Goello, ouest de Penthievre, Est du horst des Minquiers). Toutefois, la valeur de lanomalie decroit rapidement aux endroits oil des intrusions granitiques apparaissent dans le socle ancien (Mole du Leon, Est du horst de Penthievre, nord du horst de Jersey, est du horst dAurigny); ces granites sont alors probable-ment enracines.
+La carte gravimetrique souligne aussi la presence de failles deja connues des geologues: faille de lElorn, faille de Plouha, faille de Lamballe. Ce fait avait deja ete remarque pour les failles du Tregor, de Molene-Montcontour et de la Fresnaye (Chauris 1961; Goguel 1967; Delattre &amp; Pruvost 1967; Auvray 1972). La faible perturbation du champ de pesanteur
+ETUDE GEOLOGIQUE DU SOCLE ANTE-MESOZOIQUE
+129
+apportee par les granites bordant les fractures nous les fait consider'd' cornme des granites non enracines (granites jalonnant 1accident Molene-Montcontour, par exemple).
+Enfin, le rejct vertical considerable de la faille Dinan-Gaen, tel quil apparait en gravimetric, doit plutot sinterpreter coniine le resultat d un cisaillement senestre majeur (Cogne 1964), qui a mis en contact deux regions oil le socle est a des profondeurs dissemblables.
+(b)	Bien que moins precis et figurant des anomalies a fair fibre, la carte gravimetrique periarmoricaine (Sibuet 1972) et le leve gravimetrique du golfe normanno-breton revelent fextension sous-marine des noyaux lourds reconnus a terre (Day 1959). Au nord du Leon, les faibles valeurs relevees en mer (Day &amp; Williams 1970) montrent que la granitisation du vieux socle affecte lensemble du noyau, et se poursuit sous la mer jusqua la latitude de 49° N.
+(c)	Le leve aeromagnetique de F ensemble du Massif Armorician et de la Manche occidentale permet de localiser les intrusions basiques j alonnant les noyaux anciens (gabbro de Guernesey, gabbro des Minquiers, diorite du nord de Saint-Malo, diorite du nord dErquy, diorite de Saint-Quay-Portrieux, gabbro du sud de Jersey). Le traitement du gradiant vertical des memes donnees (Gerard &amp; Griveau 1972; Gerard 1973) offre la possibility de detecter les accidents majeurs presentant un rejet vertical important ou decrochant des structures magnetiques individualisees.
+Les informations recueillies par magnetisme tracte en mer (Segoufin 1973) a louest du Massif Armoricain et en Manclie occidentale, ne necessitent pas un traitement du gradient vertical, les sources magnetiques netant pas profondes, et permettent une tres bonne localisation des accidents.
+Cest grace a ces methodes parfois conjuguees quont etc reconnues de nombreuses failles majeur es: accident septentrional du Gotentin, faille occidentale du Leon, fractures de direction 130° N a louest du Finistere, accidents est-ouest au sud dAurigny et de Jersey, fractures submeridiennes de Roches-Douvres et du Petit Tregor (Lefort, travaux en cours).
+(d)	Les prospections de sismique reflexion menees en Manche occidentale ont mis en evidence deux families de cassures de direction N 90° et N 60° (Andreieff, Bouysse, Horn &amp; Monciardini 1971; Boillot, Horn &amp; Lefort 1971; Curry, Hamilton &amp; Smith 1970; Bouysse, Horn, Lefort &amp; Le Lann 1973). Ces fractures traduisent dans la couverture mesozoique et cenozoique les rejeux tardifs du socle. La cartographic des accidents de la couverture a ainsi contribue a mieux situer certaines fractures du socle, Fetude des champs gravifiques et magnetiques ne permettant pas toujours une localisation precise des accidents profonds. Cest ainsi que lon a montre le rejeu recent de la faille septentrionale du Gotentin, de la faille orientale du Gotentin, de la faille occidentale du Gotentin, de la faille occidentale du Leon. Les fractures de direction N 130° et submeridiennes reconnues par ailleurs ne semblent pas montrer de rejeu.
+(e)Les profils de sismique refraction executes au Nord et a FQuest du Massif Armoricain (Day, Hill, Laughton &amp; Swallow 1956; Frappa &amp; Horn 1971) permettent de verifier que les vitesses sismiques comprises entre 3,65 et 4,85 km/s, caracteristiques des terrains paleozoiques de cette region, ne sont pas observees la ou des horsts ont etc localises. Ces vitesses ont par centre etc raises en evidence au nord de Faccident Aurigny-Ouessant ou subsistent de fortes epaisseurs de terrain paleozo'ique.
+Au nord de Roscoff et a louest dOuessant, les vitesses de 5,6 et 5,8 km/s peuvent etre attributes a des granites; au Nord de la region des Abers, la vitesse 5,1 km/s pent corresponds aux migmatites de Plouguerneau.
+(/) Enfin, la cartographic du socle submerge a montre la prolongation sous la mer
+10
+Vol. 279. A.
+130
+J. P. LEFORT
+daccidents connus a terre: cisaillement Sud-armoricain, faille de lElorn, faille Guisseny-Porspoder, faille Kerforn, faille Quessoy-Vallet, faille de la Fresnaye, faille de Sortosvillc, faille Dinan-Caen, accident de Beaumont.
+La repartition des noyaux anciens ainsi circonscrits nest pas ho mogene; leur surface est inegale, et le noyau Leonard semble a lui seul avoir une importance equivalente a Pensemble des autres. De plus, a mesure que Ton se dirige vers Pest, les lambeaux de Paleozo'ique qui persistent sur les horsts semblent de plus en plus nombreux: le dome Leonard semble avoir subi une erosion post-paleozoique plus active que les noyaux orientaux.
+Cette erosion differente pent etre rapportee au Trias, periode dintumescence de la marge europeenne (Schneider &amp; Johnson 1970). A cette epoque, Pouest du Massif Armoricain, plus souleve, a etc plus erode. Plus poussee, Perosion aurait probablement reuni les horsts du Tregor, des Roches-Douvres et des Minquiers, ainsi que ceux du Goello et du Penthievre, separes par de faibles epaisseurs de sediments paleozoiques. Le Leon, aujourdhui unique, a pu etre morcele en plusieurs petits horsts par les fractures intranucleiques qui y subsistent (faille dOuessant, faille Guisseny-Porspoder, faille Kerforn).
+Lindividualisation des horsts anciens semble avoir etc progressive; elle resulte de linter-section de quatre systemes de cassures. Le tableau 2 propose une chronologic de ces quatre systemes, et precise la periode pendant laquelle sest developpee leur activite majeure.
+II est possible, a Paide de donnees precedentes, de proposer un modele de horst satisfaisant pour Pensemble nord-armoricain (figure	5 a).
+Tableau 2. Essai de chronologie des systemes de fractures reconnues au nord du
+Massif Armoricain
+systdme de age probable de la derniere	sens de 1activite activite
+fracture	activite majeure	majeure	tardive
+60°	post-Arenig	horizontale	verticale
+ante-Devonien
+(Lefort 1972; Lefort, en preparation)
+90°	post-Devonien superieur	horizontale	verticale
+ante-fractures 180°
+(Lefort 1973)
+180°	post 90°	verticale
+ante-fractures 130°
+130°	post-Stephanien	horizontale	verticale
+ante-Trias (Lefort 1972, 1973)
+Figure 5. (a)Modele de horst antecambrien. Pe, Pentevrien; V, Brioverien; i, intrusion cadomienne; r, volcanites paleozoiques; g, granite paleozo'ique; dgl, Paleozo'ique sedimentaire (exemple pris dans le Tregor).
+ETUDE GEOLOGIQUE DU SOCLE ANTE-MESOZOIQUE
+131
+Lensemble des liorsts montre unc forme fuselee dont Porigine doit etre recherchee dans les mouvements de cisaillement qui ont fait glisser les noyaux les lines contre les autres au cours de leur individualisation. La raise en place des granites de suture hercyniens est probablement une consequence de cette tectonique cisaillante.
+(b) Les	affleurements de terrains sedimentaires
+Au nord du Massif Armoricain le Paleozoique, en majeure partie submerge, se presente selon des affleurements allonges, orientes approximativement N 60° on N 90°. Les affleurements correspondent soit a des synclinaux (synclinal de Siouville, brachysynclinal de Jersey, synclinal de Montmartin), soit a des zones de cisaillements complexes qui decoupent les terrains pri-maires en lanieres allongees (bande de lElorn, affleurement Erquy-Montmartin, zone cisaillante Molene-Montcontour, region de Morlaix). On trouve encore du Paleozoique en lambeaux residuels sur certains noyaux (Leon, Aurigny).
+Tableau 3. Repartition des terrains paleozoiques au nord du Massif Armoricain (regions submergees et bordures emergees)
+Ordovicien
+	Cambrien	et silurien	Devonien Carbonifere Travaux recents consultes		
+terminaison occidentalc du synclinorium median	x ?	X	X		Babin et al. 1968; Chauvel et al. 1971; Chauris et al. 1972; Chauris et al. 1973
+horst du Leon		X	X		Andreieff et al. 1973
+Baie de Morlaix		X ?	X	X ?	Auvray et al. 1971; Cabanis et al. 1972
+grabben septentrional du		X ?	X		Lefort et al. 1970
+Tregor					
+grabben de Plourivo			X	.	Pinel 1964; Chauris 1971
+zone daffleurement Erquy-Montmartin		X	X	X	Doubinger et al. 1964; Pinel 1964; Lefoit et al. 1971
+bordure meridionale du horst		X	X	X	Babin et al. 1968; Paris 1971
+du Penthievre					
+brachysynclinal de Jersey	X	X			Lefort et al. 1973
+bordure meridionale du horst		X	X		Lefort et al. 1973
+de Guernesey					
+Terminaison occidentalc du synclinal de Siouville	X	X	X		Dore 1969; Hommei il al. 1972; Lefort et al. 1973; Robardet 1973
+bordure septentrionale du horst dAurigny	X	X			Dore 1969; Fily 1971; Larson-neur 1971
+Le tableau 3 cite les principaux affleurements de terrains paleozoiques reconnus au nord du Massif Armoricain et precise Page des depots qui les constituent. La breve enumeration qui suit ne constitue pas une stratigraphic complete du Paleozoique; seuls les facies reconnus en mer sont cites.
+(i) Stratigraphie sommaire
+Le Cambrien neritique est absent du Nord du Leon et du Tregor; il est par contre bien represente au nord-ouest du Cotentin et au nord du golfe normanno-breton. 11 debute par des arkoses a fragments de roches volcaniques et de phtanite, suivies par des schistes verts ou rouges et des gres feldspathiques entre lesquels sintercalent parfois des facies calcareux. Ces terrains
+IO-2
+J. P. LEFORT
+132
+sont legerement metamorphises au nord des Minquiers. A Fouest du Cotentin, la transgression cambrienne sacheve a la fin du Cambrien inferieur.
+-	LOrdovicien debute par le facies gres armoricain largement repandu a louest du massif. Ces gres sont par contre absents du golfe normanno-breton, du nord du Tregor et du nord du Leon. Suit une alternance de schistcs (schistes a Calymenes, schistes a Trinucleus) et de gres (gres de May, gres culminants ) qui sacheve par les ampelites et les schistes charbonneux du Silurien. Ces formations sont bien developpees dans le golfe normanno-breton et a louest du synclinorium median; dies sont absentes au nord du Tregor. Au Nord du Leon, persiste un petit affleurement submerge dage Llandelien.
+-	Le Devonien est constitue a sa base de schistes et de quartzites gcneralement noirs, surmontes de gres clairs, puis de calcaires et de schistes calcareux; il recouvre une grande partie du nord du Massif Armoricain. Les facies vieux gres rouges sont abondants a Test du Tregor, et passent lateralement tantot au Gedinien, tan tot au Siegenien date (Lefort &amp; Deunff 1973). II semble quils constituent plutot en facies de transgression quun horizon dage determine. Us reposent souvent directement sur le socle antecambrien (nordest et sud du Tregor, nord du Penthievre, sud de Guernesey).
+-	Enfin, fort reduit, le Carbonifere affleure a louest du synclinal de Montmartin.
+Letude stratigraphique des formations paleozoiques connues au Nord du Massif Armoricain
+permet de mettre en evidence une longue dualite entre une partie orientale et une partie occidentale.
+-	A louest, un vaste bombement, dont le horst du Leon constitue le vestige le plus important, est reste emerge pendant tout le Cambrien. La transgression ordovicienne na avarice que lentement; le Leon ne semble avoir etc submerge quau Llandelien. Les depots devoniens se sont deposes en continuite avec les depots anterieurs.
+-	A Test, la transgression cambrienne sest largement etalee, mais a etc interrompue par une emersion du golfe normanno-breton des la fin du Cambrien inferieur. Cette emersion sest prolongee jusqua la base du Llanvirn. A partir de cette epoque et jusqua lEifelien, la sedimentation marine sest prolongee sans lacune; des sediments plus grossiers se deposaient sur les noyaux anciens deja individualises dans le golfe normanno-breton.
+(ii) Tectonique
+Levolution tectonique des terrains paleozoiques est directement lice a lexistence des noyaux antecambriens. Comme eux, ils out subi une tectonique cisaillante de direction N 60°, puis N 90°, qui ne permet pas den reconstituer aisement la disposition originelle; seul le synclinal de Siouville semble relativement pen tectonise. Au Trias, ces structures out a nouveau ete
+Figure 5. (b) Module daffleurement paleozoique. v, Brioverien, b, Cambrien, s1, gres armoricain; s2"3, Siluro-
+Ordovicien; d1-3, Devonien (exemple synthetique).
+ETUDE GEQLOGIQUE DU SOCLE ANTE-MESOZOIQUE 133
+fracturees par des cisaillements dextres N 130° (Lefort 1973) dautant plus marques quon se deplace vers louest.
+La plupart des noyaux antccambriens chevauchent les synclinaux palcozoiques qui les bordent au sud (synclinal de Siouville, brachysynclinal de Jersey, synclinorium median), et montrent des fronts de chevauchcmcnt souvent orientes obliquement par rapport a laxe des synclinaux. Cette obliquite (sud de Leon, sud des Minquiers) montre que la tectonique tangen-tielle hercynienne misc en evidence dans le Cotentin (Robardet 1973) affecte en realite tout le nord du Massif Armoricain, et suggere que le plissement a precede la phase decaillage.
+Lensemble des informations precedentes permet de proposer un modele daffleurement paleozoique pour le nord du Massif Armoricain (figure 5	.
+3. La Domnonee
+Les liorsts de terrains antccambriens decrits ci-dessus, hordes de leurs affleurements dage paleozoique, sinscrivent dans un bloc dallure sigmoide limite par les fractures majcures de Molene-Montcontour (Chauris 1969), de 1'Elorn et de Dinan-Caen du cote des terres emergees, dAurigny-Ouessant (Andreieff et al. 1971; Curry et al. 1971; Lefort 1972), Nord-Cotentine (Dingwall 1971; Larsonneur 1971) et sud-armoricaine du cote des terres immergees (figure 4).
+Le bloc ainsi defini correspond au domaine domnoneen (Cogne 1971), et en donne les limites exactes. Bordee au nord (bassin paleozoique de la Manche) et au sud (zone centre-armoricaine) par de fortes epaisseurs de terrains sedimentaires bioveriens et palcozoiques, la Domnonee se presente aujourdhui comme un domaine sureleve sur lequel les sediments primaires sont pen epais (Pruvost 1949; Lefort 1972).
+Le concept de la Domnonee a etc cree par P. Pruvost, qui voyait dans cette region du nord de la Betagne une unite paleogeographique caracterisee par la persistance des reliefs cadomiens pendant tout le Paleozoique inferieur; elle naurait etc submergee quau Gedinien. Lorogene hercynien ne sy serait manifests que par une intense activite volcanique.
+Pour J. Cogne, il sagit sur tout dun domaine ancre sur un soubassement pentevrien reconvert de series brioveriennes detritiques et sur tout volcaniques, plissees deux fois lors de lorogenese cadomienne, les reliefs cadomiens servant de guide aux depots primaires. La tectonique hercynienne est superficielle a Vest, plus profonde a louest, oil elle est limitee a des couloirs tectoniques entre blocs.
+Les etudes de geologic marine, out montre que le concept initial devait subir quelques modifications pour sidentifier a la realite:
+(1) Levolution comparee des parties orientales et occidentals de la Domnonee, apres lorogene cadomien, montre:
+	quil y a eu exondation du golfe normanno-breton du Gambrien moyen a lOrdovicien inferieur;
+	a louest, des depots dage Llandelien reposent directement sur le socle antecambrien.
+Cette apparente symetrie peut sexpliquer de deux salons:
+-1exondation qui a affecte le golfe normanno-breton a egalement rajeuni les vestiges occidentaux de lorogene cadomien;
+	les reliefs datant de lorogene cadomien a louest etaient encore assez eleves a lOrdovicien pour sopposer au depot des gres armoricains.
+134
+J. P. LEFORT
+(2)	La raise en evidence de puissants cisaillements probablements senestres, orientes N 60° apres lArenig (Lefort 1974), montre quil 7 a en, a cette cpoque, contact entre des structures et des regions initialement separees. La dualite eventuelle de comportement entre une region orientale et une region occidental au Cambrien superieur et a lOrdovicien inferieur pourrait sexpliquer par Porigine exotique de lune dentre elles.
+(3)	A partir du Llandelien, 1ensemble de la Domnonee semble avoir ete paleogeographique-ment stable. La sedimentation de POrdovicien moyen et superieur est identique a cell du sud de llrlande, du Pays de Galles et de PEspagne (Spjeldnaes 1961; Lefort al. 1970, 1971, 1972; Robardet 1973).
+(4)	Au Devonien, les facies vieux gres rouges du golfe normanno breton ne sont pas une consequence directe de Porogenese caledonienne (Graindor 1966). La transgression qui commence au Gedinien recouvrira toute la Domnonee; les depots seront grossiers sur les noyaux anciens, fins entre ceux-ci.
+(5)	Lorogene hercynien, pen sensible au nord du Massif Armoricain, se manifeste surtout par des ecaillages en bordure des noyaux anciens et des intrusions au contact de ceux-ci. La region occidental semble avoir subi une tectogenese plus profonde que la region orientale. Ces observations saccordent bien avec celles des geologues continentaux (Cogne &amp; Shelley 1966; Graindor &amp; Robardet 1969; Robardet 1973).
+(6)	De nos jours, la Domnonee ne montre que des fragements de la  cordilliere domnoneenne  (Cogne 1971). En par tie a Pecart des grandes manifestations orogeniques caledoniennes et hercyniennes, elle nen presente pas moins une grande complexity liee aux phenomenes de cisaillement qui Pont affectee de POrdovicien au Trias.
+Loriginalite de la region tient au mode dindividualisation progressif des noyaux, qui montrent a Paffleurement des fragments des orogenes pentevrien et cadomien. La Domnonee, puzzle cratonise de structures anciennes, nest-elle pas elle-meme un vaste noyau de socle?
+Je remercie MM. Auvray, Boillot et Cogne cPavoir bien voulu relire et critiquer mon manuscrit.
+References (Lefort)
+(a)Geologie et geophysique marine
+Les references concernant les travaux de AndreiefF, P., Bouysse, Ph., Horn, R. &amp; Monciardini, C. (1971); Boillot G., Horn, R. &amp; Lefort, J. P. (1971); Curry, I)., Hamilton, D. &amp; Smith, A. J. (1970); Day, A. A. (1959); Day, A. A., Hill, M. N., Laughton, A. 8. &amp; Swallow, J. C. (1956); Dingwall, R. G. (1971); Fily, G. (1971); Hinschberger, J. (1969); Hommeril, P. (1967); Larsonneur, C. (1968); Lefort, J. P. (1970), (1971): Whittard, W. F. (1962) sont donnees in:
+Smith, A. J., Hamilton, D., Williams, D. N. &amp; Hommeril, P. 1971 Bibliographic geologique de la Manche. Mem.B.R.G.M. 79, 301-323.
+Cette bibliographic doit etre completee par les publications suivantes:
+And) eieff, P., Lefort, J. P., Marrec, A. &amp; Monciardini, C. 1973 Les terrains antecambriens et paleozoiques au large du Leon, et leur relation avec la couverture secondaire et tertiaire de la Manche. Bull. Soc. miner. Bretagne C, V, 1, 13-20.
+Auvray, B. &amp; Lefort, J. P. 1971 Etude des terrains antecambriens et paleozoiques immerges au large du Petit Tregor. Bull. Soc. geol. miner. Bretagne C, III, 2, 77-82.
+Bouysse, Ph., Horn, R., Lefort, J. P. &amp; Le Lann, F. 1973 Tectonique et structures post-paleozciques en Manche occidental. (Sous presse.)
+Chauris, L., Deunfif, J., Lapierre, F., Lefort, J. P. &amp; Plusquellec, Y. 1972 Les formations precambriennes et paleozoiques au large des cotes occidentals du Finistere. C. r. hebd. Seanc. Acad. Sci., Paris 274, 2621-2626. Day, G. A. &amp; Williams, C. A. 1970 Gravity compilation in the N.E. Atlantic and interpretation of gravity in Celtic Sea. Earth Planet. Sci. Lett. 8, 205-213.
+ETUDE GEOLOGIQUE DU SOCLE ANTE-MESOZOIQUE
+135
+Frappa, M. &amp; Horn, R. 1971 Etude par sismique refraction du plateau continental au large dOuessant. Bull. Inst. Geol. Bassin Aquitaine, II, 2, 401-410.
+Gerard, A. &amp; Griveau, P. 1972 Interpretation quantitative en gravimetric et en magnetisme a partir de cartes transformees du gradient vertical. Geophys. Prospect. (20), 2, 459-481.
+Gerard, A. 1973 ^interpretation par cartes transformees des champs magnetiques et de pesanteur. Th&amp;se,
+B.	R.G.M. 1-84.
+Hommeril, P. &amp; Poncet, J. 1971 Prolongement en mer des affleurements devoniens de Surtainville et Siouville-Dielette (Manche). C. r. somm. Seanc. Soc. geol. Fr. 4, 216-217.
+Kerforne, F. &amp; Dangeard, L. 1922 Sur les roches paleozoiques draguees par le  Pourquoi-Pas ?5 en 1921 dans la Manche occidentale. C. r. hebd. Seanc. Acad. Sci., Paris 174, 1714-1715.
+Lapierre, F. 1972 Etude structurale du plateau continental a lOuest de la Bretagne. Rev. Inst. Franc. Pet. 27 (1), 73-89.
+Lefort, J. P. 1972 Le socle ante-mesozoique de la Manche occidentale et son evolution a la fin du Paleozoique.
+C. r. somm. Seanc. Soc. geol. Fr. 3, 129-132.
+Lefort, J. P. 1974 Cinematique de Paccident Aurigny-Oucssant. (Sous presse.)
+Lefort, J. P. &amp; Deunff, J. 1973 Etude geologique de la partie septentrionale du golfe normanno-breton. (Sous presse.)
+Schneider, E. &amp; Johnson, G. 1970 Deep ocean diapir occurrence. Bull Am. Ass. Petrol. Geol. 54, (11), 2151-2159. Segoufin, J. 1973 Principaux traits structuraux du plateau continental armoricain. In C. r. Inst. Phys. Globe 48, 1-18.
+Sibuet, J. C. 1972 Histoire structurale du golfe de Gascogne. Thfcse, Strasbourg.
+(b) Geologie et geophysique continentale
+Les references concernant les travaux de MM. Chauris, L. 1967; Cogne, J. 1967; Delattre, C. &amp; Pruvost, P. 1967; Goguel, J. 1967; Graindor, M. J. 1967 sont donnees in:
+Contribution de la carte gravimetrique a la geologic du Massif Armoricain. 1967 Mem. B.R.G.M. 52, 1-129. Les references completes des publications de:
+Babin, C., Chauvel, J., Chauvel, J. J., Henry, J. L., Le Corre, CL, Morzadec, P., Nion, J., Philippot, A., Plusquellec, Y. &amp; Renaud, A. (1968); Chauris, L. (1971;) Chauris, L. &amp; Michot, J. (1965); Chauvel, J. J. &amp; Le Corre, Cl. (1971); Cogne, J. (1959, 1966); Dore, F. (1969); Doubinger, J. &amp; Poncet, J. (1964); Graindor, M. J. (1957, i960); Graindor, M.J. &amp; Roblot, M. M. (1957); Graindor, M.J. &amp; Robardet, M. (1969); Hameurt, J. &amp; Jeanette, D. (1971); Jeannette, D. &amp; Cogne, J. (1968); Leutwein, F., Sonet, J. &amp; Zimmerman, J. L. (1968), Mourant, A. E. (1933); Pincl, A. (1964); Pruvost, P. (1949), Roblot, M. M. (1968); Verdier, P. (1968); Vidal, Ph., Auvray, B., Cogne, J., Hameurt, J. &amp; Jeannette, D. (1971) peuvent etre recherchees in:
+Jeannette, D. 1971 Analyse tectonique de formations precambriennes. Etude du Nord-Est de la Bretagne. These, Strasbourg.
+Robardet, M. 1973 Evolution geodynamique du Nord-Est du Massif Armoricain au Paleozoique. These, Caen. Elies doivent etre completecs par les travaux recents suivants:
+Adams, C. J. D. 1967 A geochronological and related isotopic study of rocks from north-western France and Channel Islands. Thesis, University of Oxford.
+Auvray, B. 1972 Les accidents tectoniques majeurs du Tregor C. r. hebd. Seanc. Acad Sci., Paris 274, 2940-2943. Auvray, B &amp; Vidal, Ph. 1973 Chronologic des evenements geologiques dans le Tregor. C. r. Reun. Sci. de la Terre, Paris.
+Cogne, J. 1971 Le Massif Armoricain et sa place dans la structure des socles ouest-europeens: laxe hercynien ibero-armoricain. Hist. Struct, golfe de Gascogne, Technip 1, 1-23.
+Cogne, J. 1973 Le Massif Armoricain. Douin edit., Paris (sous presse).
+Cogne, J. 1964 Compte rendu de la session extraordinaire de la Societe Beige de Geologic, de Paleontologie et dTIydrologie. Bull. Soc. bel. Geol. Paleont. Hydrol. 73 (3), 221-266.
+Dcutsch, S. &amp; Chauris, L. 196 s Age de quelques formations cristallophy 11 iennes du Pays de Leon. C. r. Acad. Sci., Fr. 290, 615-617.
+Graindor, M.J. &amp; Roblot, M. M. 1957 Geologic des Minquiers. Bull. Soc. geol. Fr. 6, 7, 221-228.
+Paris, FI. 1971 Etude geologique de la terminaison orientale du Menez-Belair. Th&amp;sc, Rennes.
+Roach, R. A. 1966 Outline and guide of the geology of Guernsey. Rep. Trans. Soc. Guern. 18, 751-776.
+Shelley, D. 1964 The geology of the Abers region (Finistere Nord). Ph.D. Thesis, Cambridge.
+Spjeldnaes, N. 1961 Ordovicien climatic zones. Norsk geol. Tidsskr. 41, 45-77.
+Vidal, Ph., Auvray, B., Chauvet, J. F. &amp; Cogne, J. 1972 Lage radiometrique de la diorite de Saint-Quay-Portrieux. C. r. hebd. Seanc. Acad. Sci., Paris 275, 1323-1326.</p>
+    </body>
+    <back>
+      <div>
+        <listBibl xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+          <biblStruct xml:id="b0" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">La plupart des noyaux antccambriens chevauchent les synclinaux palcozoiques qui les bordent au sud (synclinal de Siouville, brachysynclinal de Jersey, synclinorium median), et montrent des fronts de chevauchcmcnt souvent orientes obliquement par rapport a l'axe des synclinaux Cette obliquite (sud de Leon, sud des Minquiers) montre que la tectonique tangentielle hercynienne misc en evidence dans le Cotentin (Robardet 1973) affecte en realite tout le nord du Massif Armoricain</title>
+              <imprint/>
+            </monogr>
+            <note>et. suggere que le plissement a precede la phase d'ecaillage. L'ensemble des informations precedentes permet de proposer un modele d'affleurement paleozoique pour le nord du Massif Armoricain (figure 5</note>
+          </biblStruct>
+          <biblStruct xml:id="b1" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Larsonneur 1971) et sud-armoricaine du cote des terres immergees (figure 4) Le bloc ainsi defini correspond au domaine domnoneen (Cogne 1971), et en donne les limites exactes Bordee au nord (bassin paleozoique de la Manche) et au sud (zone centrearmoricaine ) par de fortes epaisseurs de terrains sedimentaires bioveriens et palcozoiques, la Domnonee se presente aujourd'hui comme un domaine sureleve sur lequel les sediments primaires sont pen epais Le concept de la Domnonee a etc cree par P. Pruvost, qui voyait dans cette region du nord de la Betagne une unite paleogeographique caracterisee par la persistance des reliefs cadomiens pendant tout le Paleozoique inferieur; elle n'aurait etc submergee qu'au Gedinien. L'orogene hercynien ne s'y serait manifests que par une intense activite volcanique. Pour J. Cogne, il s'agit sur tout d'un domaine ancre sur un soubassement pentevrien reconvert de series brioveriennes detritiques et sur tout volcaniques, plissees deux fois lors de l'orogenese cadomienne, les reliefs cadomiens servant de guide aux depots primaires</title>
+              <author>
+                <persName>
+                  <forename type="first">Aurigny-Ouessant (</forename>
+                  <surname>Andreieff</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Nord- Cotentine</title>
+              <imprint>
+                <date type="published" when="1949"/>
+              </imprint>
+            </monogr>
+            <note>de. 1'Elorn et de Dinan-Caen du cote des terres emergees. Lefort. 1972</note>
+          </biblStruct>
+          <biblStruct xml:id="b2" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">Ordovicien inferieur; — a l'ouest, des depots d'age Llandelien reposent directement sur le socle antecambrien. Cette apparente symetrie peut s'expliquer de deux salons: -1 'exondation qui a affecte le golfe normanno-breton a egalement rajeuni les vestiges occidentaux de l'orogene cadomien; — les reliefs datant de l'orogene cadomien a l'ouest etaient encore assez eleves a l'Ordovicien pour s'opposer au depot des gres armoricains</title>
+              <imprint>
+                <biblScope unit="page" from="301" to="323"/>
+              </imprint>
+            </monogr>
+            <note>M. e m . B .R .G .M . 79</note>
+          </biblStruct>
+          <biblStruct xml:id="b3" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <surname>And ) Eieff</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Onciardini</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Les terrains antecam briens et paleozoiques au large du Leon</title>
+              <imprint>
+                <date type="published" when="1973"/>
+                <biblScope unit="page" from="13" to="20"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b4" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">E tu d e des terrains antecam b rien s et paleozoiques im m erges a u large d u P etit T regor</title>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Uvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull. Soc. geol. miner</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="77" to="82"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b5" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Ph</forename>
+                  <surname>Bouysse</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <surname>H Orn</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Le L An N</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>Sous. presse.</note>
+          </biblStruct>
+          <biblStruct xml:id="b6" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <surname>Hauris</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Deunfif</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Plusquellec</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">Y</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">274</biblScope>
+                <biblScope unit="page" from="2621" to="2626"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b7" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">A tlantic an d in te rp re tatio n of gravity in Celtic Sea</title>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Ay</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <forename type="middle">A</forename>
+                  <surname>W Illiams</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <forename type="middle">A</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Earth Planet. Sci. Lett</title>
+              <imprint>
+                <biblScope unit="volume">8</biblScope>
+                <biblScope unit="page" from="205" to="213"/>
+                <date type="published" when="1970"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b8" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Rappa</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <surname>H Orn</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">O uessant. Bull. Inst. Geol. Bassin Aquitaine, II</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="401" to="410"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b9" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Erard</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Riveau</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Geophys. Prospect</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="459" to="481"/>
+                <date type="published" when="1920"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b10" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Erard</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>ar. cartes transformees des cham ps m agnetiques et de pesanteur. Th&amp;se, B. R .G .M . 1-84</note>
+          </biblStruct>
+          <biblStruct xml:id="b11" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Prolongem ent en m er des affleurem ents devoniens de Surtainville et Siouville- D ielette (M anche)</title>
+              <author>
+                <persName>
+                  <forename type="first">H</forename>
+                  <surname>Om M Eril</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <surname>Poncet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. somm. Seanc. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">4</biblScope>
+                <biblScope unit="page" from="216" to="217"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b12" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Sur les roches paleozoiques draguees p a r le ' Pourquoi-Pas ? 5 en 1921 dans la M anche occidentale</title>
+              <author>
+                <persName>
+                  <forename type="first">K</forename>
+                  <surname>Erforne</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">174</biblScope>
+                <biblScope unit="page" from="1714" to="1715"/>
+                <date type="published" when="1922"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b13" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Apierre</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bretagne. Rev. Inst. Franc. Pet</title>
+              <imprint>
+                <biblScope unit="volume">27</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page" from="73" to="89"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b14" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. somm. Seanc. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">3</biblScope>
+                <biblScope unit="page" from="129" to="132"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b15" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1974"/>
+              </imprint>
+            </monogr>
+            <note>C. inem atique de Paccident A urig n y -O ucssant. (Sous presse.</note>
+          </biblStruct>
+          <biblStruct xml:id="b16" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Deunff</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b17" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Deep ocean diapir occurrence</title>
+              <author>
+                <persName>
+                  <forename type="first">E</forename>
+                  <surname>Schneider</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Johnson</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull Am. Ass. Petrol. Geol</title>
+              <imprint>
+                <biblScope unit="volume">54</biblScope>
+                <biblScope unit="issue">11</biblScope>
+                <biblScope unit="page" from="2151" to="2159"/>
+                <date type="published" when="1970"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b18" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1973 P rincipaux traits structuraux du p lateau continental arm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Segoufin</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. Inst. Phys. Globe</title>
+              <imprint>
+                <biblScope unit="volume">48</biblScope>
+                <biblScope unit="page" from="1" to="18"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b19" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">C</forename>
+                  <surname>Sibuet</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1972"/>
+                <pubPlace>Strasbourg</pubPlace>
+              </imprint>
+            </monogr>
+            <note>H. istoire structurale du golfe de Gascogne. Thfcse</note>
+          </biblStruct>
+          <biblStruct xml:id="b20" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">sont donnees in: C ontribution de la carte gravim etrique a la geologic du M assif A rm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">M</forename>
+                  <surname>Geologie Et Geophysique Continentale Les References Concernant Les Travaux De</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Chauris</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <surname>D Elattre</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <forename type="middle">G</forename>
+                  <surname>Pruvost</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">J</forename>
+                  <surname>Raindor</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Les references completes des publications de</title>
+              <editor>Babin, C., Chauvel, J ., Chauvel, J . J ., H enry, J . L., Le Corre</editor>
+              <imprint>
+                <publisher>Cogne Goguel</publisher>
+                <date type="published" when="1967"/>
+                <biblScope unit="page" from="1" to="129"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b21" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Ph</forename>
+                  <surname>Vidal</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Eu Rt</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Je An N E Tte</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1971"/>
+                <pubPlace>Strasbourg</pubPlace>
+              </imprint>
+            </monogr>
+            <note>peuvent. etre recherchees in: Je an n e tte, D. 1971 Analyse tectonique de formations precam briennes. E tude d u N ord-E st de la Bretagne. These</note>
+          </biblStruct>
+          <biblStruct xml:id="b22" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Evolution geodynam ique du N ord-Est du Massif A rm oricain au Paleozoique. These, Caen. Elies doivent etre completecs p ar les travaux recents suivants: Adams, C. J . D. 1967 A geochronological and related isotopic study of rocks from north-w estern F rance and C hannel Islands</title>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <surname>Obardet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Thesis</title>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b23" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1972 Les accidents tectoniques majeurs du T regor C. r. hebd</title>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Seanc. Acad Sci</title>
+              <meeting>
+                <address>
+                  <addrLine>Paris</addrLine>
+                </address>
+              </meeting>
+              <imprint>
+                <biblScope unit="page" from="2940" to="2943"/>
+              </imprint>
+            </monogr>
+            <note>A. uvray, B &amp; V idal, Ph. 1973 Chronologic des evenements geologiques dans le Tregor. C. r. Reun. Sci. de la Terre</note>
+          </biblStruct>
+          <biblStruct xml:id="b24" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1971 Le M assif A rm oricain et sa place dans la structure des socles ouest-europeens: l'axe hercynien ibero-arm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Hist. Struct</title>
+              <imprint>
+                <biblScope unit="volume">1</biblScope>
+                <biblScope unit="page" from="1" to="23"/>
+              </imprint>
+            </monogr>
+            <note>golfe. de Gascogne, T echnip</note>
+          </biblStruct>
+          <biblStruct xml:id="b25" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Le M assif Armoricain. D ouin edit</title>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>sous. presse</note>
+          </biblStruct>
+          <biblStruct xml:id="b26" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Com pte rendu de la session extraordinaire de la Societe Beige de Geologic, de Paleontologie et dTIydrologie</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull. Soc. bel. Geol. Paleont. Hydrol</title>
+              <imprint>
+                <biblScope unit="volume">73</biblScope>
+                <biblScope unit="issue">3</biblScope>
+                <biblScope unit="page" from="221" to="266"/>
+                <date type="published" when="1964"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b27" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Age de quelques formations cristallophy 11 iennes d u Pays de Leon</title>
+              <author>
+                <persName>
+                  <forename type="first">S</forename>
+                  <surname>Dcutsch</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Chauris</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. Acad. Sci., Fr</title>
+              <imprint>
+                <biblScope unit="volume">290</biblScope>
+                <biblScope unit="page" from="615" to="617"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b28" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Raindor</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">J</forename>
+                  <surname>Oblot</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">M</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Geologic des M inquiers. Bull. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">6</biblScope>
+                <biblScope unit="issue">7</biblScope>
+                <biblScope unit="page" from="221" to="228"/>
+                <date type="published" when="1957"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b29" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Fi</forename>
+                  <surname>Paris</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1971"/>
+                <pubPlace>Th&amp;sc, Rennes</pubPlace>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b30" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1966 O utline and guide of the geology of Guernsey</title>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <forename type="middle">A</forename>
+                  <surname>Roach</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Rep. Trans. Soc. Guern</title>
+              <imprint>
+                <biblScope unit="volume">18</biblScope>
+                <biblScope unit="page" from="751" to="776"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b31" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">T he geology of the Abers region (Finistere N ord)</title>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Shelley</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1964"/>
+                <biblScope unit="page" from="45" to="77"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b32" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">V</forename>
+                  <surname>Idal</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <surname>Ph</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">F</forename>
+                  <surname>Chauvet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Saint-Q uay- Portrieux. C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">275</biblScope>
+                <biblScope unit="page" from="1323" to="1326"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
+      </div>
+      <div>
+        <listBibl xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+          <biblStruct xml:id="b0" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">La plupart des noyaux antccambriens chevauchent les synclinaux palcozoiques qui les bordent au sud (synclinal de Siouville, brachysynclinal de Jersey, synclinorium median), et montrent des fronts de chevauchcmcnt souvent orientes obliquement par rapport a l'axe des synclinaux Cette obliquite (sud de Leon, sud des Minquiers) montre que la tectonique tangentielle hercynienne misc en evidence dans le Cotentin (Robardet 1973) affecte en realite tout le nord du Massif Armoricain</title>
+              <imprint/>
+            </monogr>
+            <note>et. suggere que le plissement a precede la phase d'ecaillage. L'ensemble des informations precedentes permet de proposer un modele d'affleurement paleozoique pour le nord du Massif Armoricain (figure 5</note>
+          </biblStruct>
+          <biblStruct xml:id="b1" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Larsonneur 1971) et sud-armoricaine du cote des terres immergees (figure 4) Le bloc ainsi defini correspond au domaine domnoneen (Cogne 1971), et en donne les limites exactes Bordee au nord (bassin paleozoique de la Manche) et au sud (zone centrearmoricaine ) par de fortes epaisseurs de terrains sedimentaires bioveriens et palcozoiques, la Domnonee se presente aujourd'hui comme un domaine sureleve sur lequel les sediments primaires sont pen epais Le concept de la Domnonee a etc cree par P. Pruvost, qui voyait dans cette region du nord de la Betagne une unite paleogeographique caracterisee par la persistance des reliefs cadomiens pendant tout le Paleozoique inferieur; elle n'aurait etc submergee qu'au Gedinien. L'orogene hercynien ne s'y serait manifests que par une intense activite volcanique. Pour J. Cogne, il s'agit sur tout d'un domaine ancre sur un soubassement pentevrien reconvert de series brioveriennes detritiques et sur tout volcaniques, plissees deux fois lors de l'orogenese cadomienne, les reliefs cadomiens servant de guide aux depots primaires</title>
+              <author>
+                <persName>
+                  <forename type="first">Aurigny-Ouessant (</forename>
+                  <surname>Andreieff</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Nord- Cotentine</title>
+              <imprint>
+                <date type="published" when="1949"/>
+              </imprint>
+            </monogr>
+            <note>de. 1'Elorn et de Dinan-Caen du cote des terres emergees. Lefort. 1972</note>
+          </biblStruct>
+          <biblStruct xml:id="b2" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">Ordovicien inferieur; — a l'ouest, des depots d'age Llandelien reposent directement sur le socle antecambrien. Cette apparente symetrie peut s'expliquer de deux salons: -1 'exondation qui a affecte le golfe normanno-breton a egalement rajeuni les vestiges occidentaux de l'orogene cadomien; — les reliefs datant de l'orogene cadomien a l'ouest etaient encore assez eleves a l'Ordovicien pour s'opposer au depot des gres armoricains</title>
+              <imprint>
+                <biblScope unit="page" from="301" to="323"/>
+              </imprint>
+            </monogr>
+            <note>M. e m . B .R .G .M . 79</note>
+          </biblStruct>
+          <biblStruct xml:id="b3" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <surname>And ) Eieff</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Onciardini</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Les terrains antecam briens et paleozoiques au large du Leon</title>
+              <imprint>
+                <date type="published" when="1973"/>
+                <biblScope unit="page" from="13" to="20"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b4" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">E tu d e des terrains antecam b rien s et paleozoiques im m erges a u large d u P etit T regor</title>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Uvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull. Soc. geol. miner</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="77" to="82"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b5" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Ph</forename>
+                  <surname>Bouysse</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <surname>H Orn</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Le L An N</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>Sous. presse.</note>
+          </biblStruct>
+          <biblStruct xml:id="b6" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <surname>Hauris</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Deunfif</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Plusquellec</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">Y</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">274</biblScope>
+                <biblScope unit="page" from="2621" to="2626"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b7" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">A tlantic an d in te rp re tatio n of gravity in Celtic Sea</title>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Ay</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <forename type="middle">A</forename>
+                  <surname>W Illiams</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <forename type="middle">A</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Earth Planet. Sci. Lett</title>
+              <imprint>
+                <biblScope unit="volume">8</biblScope>
+                <biblScope unit="page" from="205" to="213"/>
+                <date type="published" when="1970"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b8" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                  <surname>Rappa</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <surname>H Orn</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">O uessant. Bull. Inst. Geol. Bassin Aquitaine, II</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="401" to="410"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b9" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Erard</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                  <surname>Riveau</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Geophys. Prospect</title>
+              <imprint>
+                <biblScope unit="volume">2</biblScope>
+                <biblScope unit="page" from="459" to="481"/>
+                <date type="published" when="1920"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b10" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Erard</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">A</forename>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>ar. cartes transformees des cham ps m agnetiques et de pesanteur. Th&amp;se, B. R .G .M . 1-84</note>
+          </biblStruct>
+          <biblStruct xml:id="b11" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Prolongem ent en m er des affleurem ents devoniens de Surtainville et Siouville- D ielette (M anche)</title>
+              <author>
+                <persName>
+                  <forename type="first">H</forename>
+                  <surname>Om M Eril</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <surname>Poncet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. somm. Seanc. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">4</biblScope>
+                <biblScope unit="page" from="216" to="217"/>
+                <date type="published" when="1971"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b12" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Sur les roches paleozoiques draguees p a r le ' Pourquoi-Pas ? 5 en 1921 dans la M anche occidentale</title>
+              <author>
+                <persName>
+                  <forename type="first">K</forename>
+                  <surname>Erforne</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">174</biblScope>
+                <biblScope unit="page" from="1714" to="1715"/>
+                <date type="published" when="1922"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b13" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Apierre</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">F</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bretagne. Rev. Inst. Franc. Pet</title>
+              <imprint>
+                <biblScope unit="volume">27</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page" from="73" to="89"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b14" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. somm. Seanc. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">3</biblScope>
+                <biblScope unit="page" from="129" to="132"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b15" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1974"/>
+              </imprint>
+            </monogr>
+            <note>C. inem atique de Paccident A urig n y -O ucssant. (Sous presse.</note>
+          </biblStruct>
+          <biblStruct xml:id="b16" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">P</forename>
+                  <surname>Lefort</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Deunff</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b17" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Deep ocean diapir occurrence</title>
+              <author>
+                <persName>
+                  <forename type="first">E</forename>
+                  <surname>Schneider</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Johnson</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull Am. Ass. Petrol. Geol</title>
+              <imprint>
+                <biblScope unit="volume">54</biblScope>
+                <biblScope unit="issue">11</biblScope>
+                <biblScope unit="page" from="2151" to="2159"/>
+                <date type="published" when="1970"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b18" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1973 P rincipaux traits structuraux du p lateau continental arm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Segoufin</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. Inst. Phys. Globe</title>
+              <imprint>
+                <biblScope unit="volume">48</biblScope>
+                <biblScope unit="page" from="1" to="18"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b19" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">C</forename>
+                  <surname>Sibuet</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1972"/>
+                <pubPlace>Strasbourg</pubPlace>
+              </imprint>
+            </monogr>
+            <note>H. istoire structurale du golfe de Gascogne. Thfcse</note>
+          </biblStruct>
+          <biblStruct xml:id="b20" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">sont donnees in: C ontribution de la carte gravim etrique a la geologic du M assif A rm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">M</forename>
+                  <surname>Geologie Et Geophysique Continentale Les References Concernant Les Travaux De</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Chauris</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">C</forename>
+                  <surname>D Elattre</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">P</forename>
+                  <forename type="middle">G</forename>
+                  <surname>Pruvost</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">J</forename>
+                  <surname>Raindor</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Les references completes des publications de</title>
+              <editor>Babin, C., Chauvel, J ., Chauvel, J . J ., H enry, J . L., Le Corre</editor>
+              <imprint>
+                <publisher>Cogne Goguel</publisher>
+                <date type="published" when="1967"/>
+                <biblScope unit="page" from="1" to="129"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b21" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Ph</forename>
+                  <surname>Vidal</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Eu Rt</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Je An N E Tte</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1971"/>
+                <pubPlace>Strasbourg</pubPlace>
+              </imprint>
+            </monogr>
+            <note>peuvent. etre recherchees in: Je an n e tte, D. 1971 Analyse tectonique de formations precam briennes. E tude d u N ord-E st de la Bretagne. These</note>
+          </biblStruct>
+          <biblStruct xml:id="b22" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Evolution geodynam ique du N ord-Est du Massif A rm oricain au Paleozoique. These, Caen. Elies doivent etre completecs p ar les travaux recents suivants: Adams, C. J . D. 1967 A geochronological and related isotopic study of rocks from north-w estern F rance and C hannel Islands</title>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <surname>Obardet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Thesis</title>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b23" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1972 Les accidents tectoniques majeurs du T regor C. r. hebd</title>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Seanc. Acad Sci</title>
+              <meeting>
+                <address>
+                  <addrLine>Paris</addrLine>
+                </address>
+              </meeting>
+              <imprint>
+                <biblScope unit="page" from="2940" to="2943"/>
+              </imprint>
+            </monogr>
+            <note>A. uvray, B &amp; V idal, Ph. 1973 Chronologic des evenements geologiques dans le Tregor. C. r. Reun. Sci. de la Terre</note>
+          </biblStruct>
+          <biblStruct xml:id="b24" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1971 Le M assif A rm oricain et sa place dans la structure des socles ouest-europeens: l'axe hercynien ibero-arm oricain</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Hist. Struct</title>
+              <imprint>
+                <biblScope unit="volume">1</biblScope>
+                <biblScope unit="page" from="1" to="23"/>
+              </imprint>
+            </monogr>
+            <note>golfe. de Gascogne, T echnip</note>
+          </biblStruct>
+          <biblStruct xml:id="b25" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Le M assif Armoricain. D ouin edit</title>
+              <imprint>
+                <date type="published" when="1973"/>
+              </imprint>
+            </monogr>
+            <note>sous. presse</note>
+          </biblStruct>
+          <biblStruct xml:id="b26" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Com pte rendu de la session extraordinaire de la Societe Beige de Geologic, de Paleontologie et dTIydrologie</title>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Bull. Soc. bel. Geol. Paleont. Hydrol</title>
+              <imprint>
+                <biblScope unit="volume">73</biblScope>
+                <biblScope unit="issue">3</biblScope>
+                <biblScope unit="page" from="221" to="266"/>
+                <date type="published" when="1964"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b27" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">Age de quelques formations cristallophy 11 iennes d u Pays de Leon</title>
+              <author>
+                <persName>
+                  <forename type="first">S</forename>
+                  <surname>Dcutsch</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">L</forename>
+                  <surname>Chauris</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">C. r. Acad. Sci., Fr</title>
+              <imprint>
+                <biblScope unit="volume">290</biblScope>
+                <biblScope unit="page" from="615" to="617"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b28" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">G</forename>
+                  <surname>Raindor</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">J</forename>
+                  <surname>Oblot</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">M</forename>
+                  <forename type="middle">M</forename>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Geologic des M inquiers. Bull. Soc. geol. Fr</title>
+              <imprint>
+                <biblScope unit="volume">6</biblScope>
+                <biblScope unit="issue">7</biblScope>
+                <biblScope unit="page" from="221" to="228"/>
+                <date type="published" when="1957"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b29" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">Fi</forename>
+                  <surname>Paris</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1971"/>
+                <pubPlace>Th&amp;sc, Rennes</pubPlace>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b30" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title level="a" type="main">1966 O utline and guide of the geology of Guernsey</title>
+              <author>
+                <persName>
+                  <forename type="first">R</forename>
+                  <forename type="middle">A</forename>
+                  <surname>Roach</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Rep. Trans. Soc. Guern</title>
+              <imprint>
+                <biblScope unit="volume">18</biblScope>
+                <biblScope unit="page" from="751" to="776"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b31" resp="#ISTEX-API" change="#refBibs-istex">
+            <monogr>
+              <title level="m" type="main">T he geology of the Abers region (Finistere N ord)</title>
+              <author>
+                <persName>
+                  <forename type="first">D</forename>
+                  <surname>Shelley</surname>
+                </persName>
+              </author>
+              <imprint>
+                <date type="published" when="1964"/>
+                <biblScope unit="page" from="45" to="77"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="b32" resp="#ISTEX-API" change="#refBibs-istex">
+            <analytic>
+              <title/>
+              <author>
+                <persName>
+                  <forename type="first">V</forename>
+                  <surname>Idal</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <surname>Ph</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">B</forename>
+                  <surname>Auvray</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <forename type="middle">F</forename>
+                  <surname>Chauvet</surname>
+                </persName>
+              </author>
+              <author>
+                <persName>
+                  <forename type="first">J</forename>
+                  <surname>Cogne</surname>
+                </persName>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Saint-Q uay- Portrieux. C. r. hebd. Seanc. Acad. Sci</title>
+              <imprint>
+                <biblScope unit="volume">275</biblScope>
+                <biblScope unit="page" from="1323" to="1326"/>
+                <date type="published" when="1972"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
+      </div>
+    </back>
+  </text>
+</TEI>

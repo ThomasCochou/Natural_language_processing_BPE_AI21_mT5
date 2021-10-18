@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Normalisation du Mini-Mental State Examination (MMSE) chez les Québécois francophones âgés de 65 ans et plus et résidant dans la communauté</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Normalisation du Mini-Mental State Examination (MMSE) chez les Québécois francophones âgés de 65 ans et plus et résidant dans la communauté</title><author xml:id="author-0000"><persName><forename type="first">Carol</forename><surname>Hudon</surname></persName><email>carol.hudon@psy.ulaval.ca</email><affiliation>École de psychologie, Université Laval</affiliation><affiliation>Centre de recherche Université Laval Robert-Giffard</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Olivier</forename><surname>Potvin</surname></persName><affiliation>Centre de recherche Université Laval Robert-Giffard</affiliation><affiliation>Département des sciences de la santé, Université de Sherbrooke</affiliation><affiliation>Centre de recherche Hôpital Charles LeMoyne</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Marie-Christine</forename><surname>Turcotte</surname></persName><affiliation>Centre de recherche Université Laval Robert-Giffard</affiliation></author><author xml:id="author-0003"><persName><forename type="first">Catherine</forename><surname>D’Anjou</surname></persName><affiliation>Centre de recherche Université Laval Robert-Giffard</affiliation></author><author xml:id="author-0004"><persName><forename type="first">Micheline</forename><surname>Dubé</surname></persName><affiliation>Département de psychologie, Université du Québec à Trois-Rivières</affiliation></author><author xml:id="author-0005"><persName><forename type="first">Michel</forename><surname>Préville</surname></persName><affiliation>Département des sciences de la santé, Université de Sherbrooke</affiliation><affiliation>Centre de recherche Hôpital Charles LeMoyne</affiliation></author><author xml:id="author-0006"><persName><forename type="first">Joëlle</forename><surname>Brassard</surname></persName><affiliation>Centre de recherche Hôpital Charles LeMoyne</affiliation></author><idno type="istex">1BC04885D8DAF2AF158DF667288F11C3ADF9CD39</idno><idno type="ark">ark:/67375/6GQ-1W68699W-G</idno><idno type="DOI">10.1017/S0714980809990171</idno><idno type="PII">S0714980809990171</idno><idno type="article-id">99017</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="347">347</biblScope><biblScope unit="page" to="357">357</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>This study was aimed at providing normative data for the Mini-Mental State Examination (MMSE). The norms were built from a sample (n = 2409) of community-dwelling French speaking residents from Québec aged 65 and older. The analyses indicated that socio-demographic variables such as education level, age, and gender of individuals influenced significantly the scores of older adults on the MMSE. More precisely, MMSE scores increased with education level and decreased with age. Moreover, women had significantly higher scores than men. On this basis, distinct tables of normative data were produced for women and men. In each table, the MMSE scores corresponding to percentiles 5, 10, 15 and 50 were identified according to four age categories and three education levels. Overall, the use of the present normative data by clinicians will improve their accuracy in detecting cognitive impairment in older adults from Québec.</p></abstract><abstract xml:lang="fr" style="translated"><p>Cette étude vise à produire un standard normatif pour le Mini-Mental State Examination (MMSE). Les normes ont été constituées à partir d’un échantillon (n = 2409) de Québécois francophones de 65 ans et plus résidant dans la communauté. Les analyses ont indiqué que les variables sociodémographiques, tel que la scolarité, l’âge et le genre, influencent significativement les cotes des personnes âgées au MMSE. Les cotes au MMSE augmentent avec le niveau de scolarité et diminuent avec l’âge. De plus, les femmes obtiennent des cotes significativement supérieures à celles des hommes. Ainsi, des tableaux de normes séparés ont été développés pour les femmes et les hommes. Dans chaque tableau, les cotes au MMSE correspondant aux percentiles 5, 10, 15 et 50 ont été identifiées selon quatre tranches d’âge et trois niveaux de scolarité. L’utilisation des données normatives de cette étude optimisera la détection des troubles cognitifs dans la population âgée du Québec.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>vieillissement</term></item><item><term>trouble cognitif</term></item><item><term>MMSE</term></item><item><term>normalisation</term></item><item><term>Québécois</term></item><item><term>francophones</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>aging</term></item><item><term>cognitive impairment</term></item><item><term>MMSE</term></item><item><term>normative data</term></item><item><term>Quebec</term></item><item><term>French speakers</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Normalisation du Mini-Mental State
+Examination (MMSE) chez les Québécois
+francophones âgés de 65 ans et plus et
+résidant dans la communauté*
+Carol Hudon,1,2 Olivier Potvin,2,3,4 Marie-Christine Turcotte,2 Catherine D’Anjou,2
+Micheline Dubé,5 Michel Préville,3,4 et Joëlle Brassard4
+ABSTRACT
+This study was aimed at providing normative data for the Mini-Mental State Examination (MMSE). The norms were built
+from a sample (n = 2409) of community-dwelling French speaking residents from Québec aged 65 and older. The analyses
+indicated that socio-demographic variables such as education level, age, and gender of individuals inﬂuenced signiﬁcantly
+the scores of older adults on the MMSE. More precisely, MMSE scores increased with education level and decreased with
+age. Moreover, women had signiﬁcantly higher scores than men. On this basis, distinct tables of normative data were
+produced for women and men. In each table, the MMSE scores corresponding to percentiles 5, 10, 15 and 50 were
+identiﬁed according to four age categories and three education levels. Overall, the use of the present normative data by
+clinicians will improve their accuracy in detecting cognitive impairment in older adults from Québec.
+
+RÉSUMÉ
+Cette étude vise à produire un standard normatif pour le Mini-Mental State Examination (MMSE). Les normes ont été
+constituées à partir d’un échantillon (n = 2409) de Québécois francophones de 65 ans et plus résidant dans la communauté.
+Les analyses ont indiqué que les variables sociodémographiques, tel que la scolarité, l’âge et le genre, inﬂuencent
+signiﬁcativement les cotes des personnes âgées au MMSE. Les cotes au MMSE augmentent avec le niveau de scolarité et
+diminuent avec l’âge. De plus, les femmes obtiennent des cotes signiﬁcativement supérieures à celles des hommes. Ainsi,
+des tableaux de normes séparés ont été développés pour les femmes et les hommes. Dans chaque tableau, les cotes au
+MMSE correspondant aux percentiles 5, 10, 15 et 50 ont été identiﬁées selon quatre tranches d’âge et trois niveaux de
+scolarité. L’utilisation des données normatives de cette étude optimisera la détection des troubles cognitifs dans la
+population âgée du Québec.
+1
+
+École de psychologie, Université Laval
+
+2
+
+Centre de recherche Université Laval Robert-Giffard
+
+3
+
+Département des sciences de la santé, Université de Sherbrooke
+
+4
+
+Centre de recherche Hôpital Charles LeMoyne
+
+5
+
+Département de psychologie, Université du Québec à Trois-Rivières
+
+* Cette étude a été subventionnée par les Instituts de recherche en santé du Canada (IRSC) et par le Fond de recherche en santé
+du Québec (FRSQ). Les auteurs remercient Djamal Berbiche pour ses conseils concernant les analyses statistiques.
+Manuscript received: / manuscrit reçu : 06/01/09
+Manuscript accepted: / manuscrit accepté : 14/07/09
+Mots clés : vieillissement, trouble cognitif, MMSE, normalisation, Québécois, francophones
+Keywords: aging, cognitive impairment, MMSE, normative data, Quebec, French speakers
+La correspondance concernant cet article doit être adressée à : / Correspondence concerning this article should be addressed to:
+Carol Hudon, PhD
+Centre de recherche Université Laval Robert-Giffard
+2601, ch. de la Canardière
+F-4500, Québec, Québec, G1J 2G3
+Téléphone: +1 418-663-5741
+Fax: +1 418-663-5971
+(carol.hudon@psy.ulaval.ca)
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (4) : 347–357 (2009)
+doi:10.1017/S0714980809990171
+
+347
+
+348
+
+Canadian Journal on Aging 28 (4)
+
+Au cours des dernières années, le poids démographique
+des personnes âgées a augmenté signiﬁcativement
+dans la plupart des pays industrialisés. Au Canada,
+plus spéciﬁquement, la proportion de personnes âgées
+de 65 ans ou plus s’est accrue de 11,5 pour cent entre
+2001 et 2006. Cette augmentation s’accélèrera à partir
+de 2011 et pourrait doubler au cours des 25 prochaines
+années (Bélanger, Martel, et Caron Malenfant, 2006).
+Ces changements démographiques s’accompagneront
+de répercussions importantes sur la santé des Canadiens.
+Ainsi, au cours des prochaines années, un nombre
+grandissant de personnes âgées présenteront un trouble
+cognitif ou une démence (Canadian Study of Health
+and Aging Working Group, 1994). Dans ce contexte, la
+détection des troubles cognitifs chez les personnes
+âgées est devenue un enjeu crucial. En effet, le dépistage
+de ces troubles constitue un préalable important
+pour le développement et l’implantation de mesures
+thérapeutiques ou préventives susceptibles de retarder
+le déclin fonctionnel des personnes âgées. Par extension, il s’agit d’une mesure qui pourrait contribuer
+à minimiser les répercussions du vieillissement démographique sur les régimes de santé et l’économie de
+la société canadienne.
+L’instrument le plus souvent utilisé pour identiﬁer un
+trouble cognitif chez une personne âgée est le MiniMental State Examination (MMSE) (M.F. Folstein, Folstein,
+et McHugh, 1975). Ce test peut aussi servir à documenter l’évolution temporelle du fonctionnement
+cognitif d’une personne ainsi que les effets d’agents
+thérapeutiques sur la cognition (Strauss, Sherman, et
+Spreen, 2006). Le MMSE jouit d’une très grande popularité auprès de différents professionnels de la santé, ce
+qui s’explique de différentes façons. D’abord, il s’agit
+de l’instrument utilisé actuellement par les médecins
+pour documenter la nécessité d’instaurer et de maintenir une médication relative aux troubles cognitifs. De
+plus, l’administration et la correction du MMSE sont
+faciles et rapides (5-10 min) et ses qualités psychométriques sont excellentes (Strauss et al., 2006). Enﬁn, cet
+instrument permet d’établir un portrait sommaire du
+fonctionnement de plusieurs domaines cognitifs (orientation, mémoire épisodique, attention, langage et
+praxies constructives). Le rapport coûts/bénéﬁces lié à
+l’utilisation du MMSE dans un contexte clinique est
+donc très intéressant.
+Le résultat maximal au MMSE est de 30 points. Plusieurs études ont cherché à établir une cote à partir de
+laquelle un trouble cognitif ou une démence peut être
+suspecté chez une personne âgée. Ces travaux ont
+donné lieu à des résultats variables et les cotes limites
+(cut-offs) identiﬁées vont de 23 (M. Folstein, Anthony,
+Parhad, Duffy, et Gruenberg, 1985) à 27 (Hébert et al.,
+2007). Or, si l’utilisation de cotes limites est une méthode très répandue, il demeure qu’elle présente des
+
+Carol Hudon et al.
+
+restrictions importantes. Principalement, il s’agit d’une
+méthode qui, en soi, manque de sensibilité et de spéciﬁcité (Grigoletto, Zappala, Anderson, et Lebowitz,
+1999; Malloy et al., 1997). De plus, la sensibilité et la
+spéciﬁcité des cotes limites varient selon la prévalence
+des démences dans un milieu donné (Meiran, Stuss,
+Guzman, Laﬂeche, et Willmer, 1996). Enﬁn, la méthode
+des cotes limites ne tient pas compte des caractéristiques sociodémographiques des individus. La considération de ces variables est importante car, dans
+certaines situations, le risque de faux positifs et de faux
+négatifs dans la détection d’un trouble cognitif peut
+être accru si seulement la méthode des cotes limites est
+appliquée. Par exemple, il est plus probable de conclure erronément à l’existence d’un trouble chez les individus plus âgés et ceux qui détiennent peu d’années
+de scolarité (Cullen et al., 2005). Pour pallier ce problème,
+l’utilisation de la méthode normative est recommandée (Knight, McMahon, Green, et Murray Skeaff, 2006;
+Malloy et al., 1997).
+Selon la méthode normative, la cote d’un individu
+donné est comparée à la distribution des résultats d’un
+échantillon de référence ayant des caractéristiques
+similaires. Le critère pour identiﬁer un trouble cognitif
+est statistique. Selon que la distribution des performances dans la population de référence soit normale
+ou asymétrique, deux techniques peuvent être appliquées. Dans le cas d’une distribution asymétrique, la
+méthode des percentiles est recommandée. Ainsi, toute
+cote se situant au 5e percentile ou moins est considérée
+anormale et est généralement cliniquement signiﬁcative dans le contexte de l’évaluation cognitive (Lezak,
+Howieson, Loring, Hannay, et Fischer, 2004). Une cote
+se situant au 10e percentile suggère plutôt un déﬁcit
+cognitif léger. Dans le cas d’une distribution normale
+des performances de l’échantillon de référence, la méthode des scores Z doit être privilégiée. Ainsi, une cote
+se situant à moins de -1,65 écarts-types (ÉT) sous la
+moyenne de l’échantillon de référence est considérée
+anormale et est généralement cliniquement signiﬁcative (Lezak et al., 2004). Une cote se situant entre -1,0 et
+-1,5 ÉT suggère plutôt un déﬁcit cognitif léger. Pour le
+MMSE, l’utilisation des percentiles est une pratique
+courante étant donné que la distribution des scores est
+asymétrique et qu’elle donne généralement lieu à un
+effet plafond (Crum, Anthony, Bassett, et Folstein, 1993;
+Kalafat, Hugonot-Dierner, et Poitrenaud, 2003).
+De très nombreuses études ont examiné les caractéristiques des individus qui inﬂuencent signiﬁcativement
+leur cote au MMSE. Il a été démontré que la performance sur cet instrument diminue avec l’âge et augmente avec le niveau de scolarité (Anstey, Matters,
+Brown, et Lord, 2000; Bravo &amp; Hebert, 1997; Grigoletto
+et al., 1999; Measso et al., 1993; Strickland, Longobardi,
+Alperson, et Andre, 2005). Quant à la relation entre le
+
+Normalisation québécoise du MMSE
+
+genre et la performance, celle-ci est plus mitigée et elle
+varie selon les études. Certaines ne rapportent aucun
+effet signiﬁcatif du genre (Kalafat et al., 2003; Knight
+et al., 2006; Kohn, Vicente, Rioseco, Saldivia, et Torres,
+2008), alors que d’autres rapportent un effet en faveur
+soit des hommes (Grigoletto et al., 1999; Hébert et al.,
+2007), soit des femmes (Bravo &amp; Hebert, 1997). D’autres
+travaux ont également indiqué que le fait de vivre en
+couple, de résider en milieu urbain (par rapport à rural) ou d’avoir un revenu élevé sont tous des facteurs
+susceptibles de favoriser l’obtention de meilleures
+cotes au MMSE (Anderson, Sachdev, Brodaty, Trollor,
+et Andrews, 2007; Kohn et al., 2008; Nguyen, Black,
+Ray, Espino, et Markides, 2002). Enﬁn, la langue maternelle des individus au sein d’une population peut inﬂuencer la performance au MMSE (Anderson et al.,
+2007; Bravo &amp; Hebert, 1997; Malloy et al., 1997). Au
+Canada, plus spéciﬁquement, il a été montré que les
+francophones obtiennent des cotes moins élevés que
+les anglophones (Bravo &amp; Hebert, 1997). Ces données
+suggèrent l’existence d’un effet culturel qui n’est pas
+totalement corrigé par le degré de scolarité des individus et elles appellent au développement de normes
+qui tiennent compte de cet effet.
+À ce jour, des études de normalisation du MMSE ont
+été effectuées auprès de multiples groupes culturels. Il
+existe par exemple des données normatives pour les
+Canadiens (Bravo &amp; Hebert, 1997), les Français (Kalafat
+et al., 2003), les Australiens (Anderson et al., 2007;
+Anstey et al., 2000), les Chiliens (Kohn et al., 2008), les
+Italiens (Grigoletto et al., 1999; Measso et al., 1993), les
+Américains (Crum et al., 1993), les Irlandais (Cullen
+et al., 2005) et les Néo-Zélandais (Knight et al., 2006).
+Des études normatives ciblant des sous-groupes culturels ont été publiées également. Ainsi, il existe des
+normes pour les Afro-Américains (Strickland et al., 2005),
+les Afro-Caribéens du Royaume-Uni (Stewart, Johnson,
+Richards, Brayne, et Mann, 2002) et les HispanoAméricains (Nguyen et al., 2002). Au Canada, malgré
+la différence signiﬁcative observée entre les cotes des
+francophones et des anglophones, les normes développées dans l’étude de Bravo et Hébert (1997) ne tiennent
+pas compte de l’effet de la langue maternelle. Or, aﬁn
+d’optimiser la détection d’un trouble cognitif chez les
+francophones, il importe de mieux caractériser la performance de ces personnes au MMSE. L’Enquête sur la
+santé des aînés (ESA) au Québec constitue une bonne
+opportunité en ce sens. L’objectif de la présente étude
+est de produire un standard normatif pour les Québécois francophones de 65 ans et plus résidant dans la
+communauté et ce, à partir des données de l’ESA. Le
+meilleur ensemble de variables sociodémographiques
+prédisant les scores au MMSE des personnes âgées a
+été identiﬁé pour produire des tableaux de normes
+permettant l’identiﬁcation d’un trouble cognitif chez
+
+La Revue canadienne du vieillissement 28 (4)
+
+349
+
+une personne âgée. Dans l’ESA, étant donné que les
+cotes au MMSE des participants se distribuent de façon asymétrique, la méthode normative retenue est
+celle des percentiles.
+
+Méthode
+Participants
+Les données de cette étude sont issues du Temps 1 (T1)
+de l’étude ESA, effectuée en 2005 pour documenter la
+prévalence des problèmes de détresse psychologique
+modérés et sévères ainsi que l’utilisation des services
+de santé pour ces symptômes. La méthodologie détaillée de l’étude ESA est décrite dans l’article de
+Préville et al. (2008). En résumé, l’enquête est basée sur
+un échantillon aléatoire (N = 2811) de personnes âgées
+du Québec vivant dans la communauté. Pour faire
+partie de la cohorte, les participants devaient être âgés
+de 65 ans et plus lors de l’entrevue au T1, en plus de
+parler et comprendre le français. En raison des coûts
+élevés associés à la réalisation des entrevues, certaines
+régions périphériques du Québec (Côte-Nord, Gaspésie et Îles-de-la-Madeleine, Saguenay-Lac-Saint-Jean,
+Abitibi/Témiscamingue) ont été exclues (ces régions
+représentent 10% de la population). Par ailleurs, une
+stratégie d’échantillonnage avec stratiﬁcation en fonction de trois zones géographiques: (1) métropolitaine,
+(2) urbaine et (3) rurale a été retenue pour tenir
+compte des variations régionales importantes dans
+l’organisation des services de santé. Dans chaque zone
+géographique, un échantillon probabiliste composé
+d’un seul individu âgé par ménage vivant à domicile a
+été constitué à partir d’une méthode de génération
+aléatoire de numéros de téléphone. Sur la base d’une
+étude pilote, il a été estimé que près de 8 pour cent des
+sujets contactés n’étaient pas éligibles pour diverses
+raisons (allophone, confusion, surdité, décès, etc.).
+Enﬁn, le taux de réponses obtenu dans cette étude est
+de 66.5 pour cent.
+Le MMSE a été complété par tous les participants au
+début de l’entrevue puisqu’il servait à exclure les individus susceptibles de donner des réponses inexactes au
+questionnaire de l’ESA. Ainsi, toute personne obtenant
+une cote inférieure à 22 au MMSE (n = 26) a été exclue
+de l’ESA (Préville et al., 2008). Dans le cadre de la
+présente étude de normalisation, les personnes ayant
+un trouble probable de santé mentale (n = 376) selon les
+critères du DSM-IV (American Psychiatric Association,
+1994) ont également été exclues. Cette procédure avait
+pour but d’écarter les participants présentant un trouble
+de santé mentale susceptible d’affecter leur fonctionnement cognitif. Par ailleurs, il aurait pu être possible
+que quelques personnes aient été dans une phrase
+préclinique de la démence au moment de l’évaluation.
+Le cas échéant, ces participants auraient été exclus de
+
+350
+
+Canadian Journal on Aging 28 (4)
+
+la présente étude. Or, les résultats longitudinaux de
+l’ESA nous indiquent qu’aucun des participants dans
+l’échantillon n’a reçu un diagnostic de démence dans
+les 12 mois suivant l’entrevue. En somme, la présente
+étude a été réalisée auprès de 2409 participants âgés
+entre 65 et 96 ans (M = 74,4; ÉT = 5,7).
+Matériel
+La version du questionnaire MMSE utilisée dans cette
+étude se trouve en Annexe. Le MMSE a été développé
+par M.F. Folstein et al. (1975). L’outil comporte 24 questions pour évaluer cinq facultés cognitives: (a) l’orientation
+(questions 1 à 10), (b) l’attention (question 14), (c) le
+rappel immédiat et différé en mémoire épisodique
+verbale (questions 11 à 13 et 15 à 17), (d) le langage
+(questions 18 à 23) et (e) les praxies de construction
+(question 24). La cote obtenue par un participant équivaut au nombre de bonnes réponses données par
+celui-ci. Certaines questions peuvent se voir attribuer
+plus d’un point et donc, le score maximal pour
+l’instrument est de 30. Pour la majorité des questions,
+le participant doit répondre verbalement. Toutefois,
+certains items requièrent du participant qu’il produise
+des réponses non verbales (p.ex., écriture, reproduction d’un dessin, etc.). Il n’y a pas de limite de temps
+imposée au participant et celui-ci n’est pas chronométré. L’administration de cette épreuve est brève et
+requiert peu de formation.
+Déroulement
+Les participants ont été rejoints par téléphone. Dans les
+deux semaines suivantes, ils ont été rencontrés à leur
+domicile par un interviewer, professionnel de la santé
+préalablement formé à l’administration de différents
+questionnaires. L’entrevue durait approximativement
+90 min et un montant de 15$ a été offert à titre de
+dédommagement aux participants ayant accepté
+l’entrevue. Tel que mentionné précédemment, le MMSE
+a été complété dans les premières minutes de l’entrevue.
+Les procédures de l’étude ESA ont été approuvées par
+le comité d’éthique de l’Institut de Gériatrie de
+l’Université de Sherbrooke.
+Analyses statistiques
+Aﬁn d’identiﬁer le meilleur ensemble de variables sociodémographiques liées aux cotes des participants au
+MMSE, une analyse de régression multiple a été effectuée avec les variables sociodémographiques susceptibles d’être associées à la performance au MMSE, telles
+que révélées par les études antérieures. Ainsi, les variables âge, niveau de scolarité atteint, genre, revenu annuel total, lieu de résidence et statut marital ont été
+incluses dans l’analyse. L’âge des participants a été inséré en mode continu, alors que les autres variables ont
+
+Carol Hudon et al.
+
+été catégorisées en utilisant les classes apparaissant
+dans le Tableau 1. La scolarité et le revenu annuel ont
+été catégorisés en trois niveaux (Revenu: faible = moins
+de 15 000$, moyen = entre 15 000$ et 34 999$, élevé = 35
+000$ et plus; Scolarité: faible = aucune ou primaire,
+moyenne = secondaire, élevée = postsecondaire) et un
+codage dichotomique (dummy coding) a été utilisé pour
+l’analyse de régression, les catégories de référence étant
+Revenu élevé et Scolarité élevée. La variable Lieu de
+résidence a été catégorisée en deux niveaux (milieu urbain, milieu rural). La catégorie milieu urbain inclut les
+personnes habitant dans une zone métropolitaine.
+Enﬁn, la variable Statut marital a été catégorisée en
+deux niveaux (avec conjoint-e, sans conjoint-e). Le modèle
+de régression complet a été réduit par une procédure
+hiérarchique (stepwise). L’analyse graphique et statistique des résiduels du modèle ﬁnal a été effectuée pour
+s’assurer que les postulats de base de la régression
+multiple soient rencontrés.
+
+Résultats
+La distribution (n et %) des participants selon leurs caractéristiques sociodémographiques est résumée dans
+le Tableau 1. Environ un participant sur trois est un
+homme. Quant à l’âge, un nombre à peu près comparable d’individus se retrouvent dans les tranches 65-69,
+70-74, 75-79 et 80 ans et plus. Pour la scolarité, la majorité des individus ont terminé un cours secondaire
+Tableau 1 : Caractéristiques sociodémographiques des
+participants
+Caractéristiques
+Genre
+Hommes
+Femmes
+Âge (années)
+65–69
+70–74
+75–79
+80 +
+Scolaritéa
+Faible (aucune/primaire)
+Moyenne (secondaire)
+Élevée (postsecondaire)
+Revenu annuelb
+Faible (moins de 15 000$)
+Moyen (entre 15 000$ et 34 999$)
+Élevé (35 000$ et plus)
+Lieu de résidence
+Milieu urbain
+Milieu rural
+Statut maritalc
+Avec conjoint(e)
+Sans conjoint(e)
+
+n
+
+%
+
+755
+1654
+
+31.3
+68.7
+
+628
+739
+610
+432
+
+26.1
+30.7
+25.3
+17.9
+
+589
+986
+824
+
+24.6
+41.1
+34.3
+
+395
+1035
+726
+
+18.3
+48.0
+33.7
+
+1616
+793
+
+67.1
+32.9
+
+1109
+1292
+
+46.2
+53.8
+
+Note. a 10 données manquantes; b 253 données manquantes ;
+c 8 données manquantes.
+
+Normalisation québécoise du MMSE
+
+ou postsecondaire. En ce qui concerne le revenu annuel, la plupart des participants ont un revenu moyen
+ou élevé. De plus, les deux-tiers des personnes résident
+en milieu urbain. Enﬁn, environ la moitié des participants ont un-e conjoint-e.
+La cote moyenne au MMSE pour tous les participants
+est de 28,49 (médiane = 29) et l’écart-type est de 1,57.
+Comme c’est souvent le cas dans les études normatives
+du MMSE (Bravo &amp; Hebert, 1997; Crum et al., 1993;
+Grigoletto et al., 1999; Kalafat et al., 2003), la distribution
+des cotes à ce test dans le présent échantillon est asymétrique (Figure 1). Cette situation a donc justiﬁé
+l’utilisation de la méthode des percentiles dans la
+présente étude.
+Pour identiﬁer le meilleur ensemble de variables sociodémographiques liées aux cotes des participants au
+MMSE, une analyse de régression multiple a été effectuée en utilisant les variables identiﬁées dans le Tableau 1.
+Le modèle sélectionné par la procédure hiérarchique
+montre un lien (R2 = .103) signiﬁcatif entre la performance au MMSE et les variables Scolarité faible, Scolarité
+moyenne, Âge, Genre, Revenu faible et Revenu moyen,
+F(6, 2131) = 40.70, p &lt; .000. Les variables Lieu de résidence
+et Statut marital n’apportent aucune contribution significative au modèle. Par conséquent, ces variables ont été
+ignorées pour la normalisation. Le Tableau 2 indique
+que, par ordre d’importance, les variables Scolarité faible, Genre, Âge, Revenu faible, Revenu moyen et Scolarité moyenne sont associées signiﬁcativement aux
+cotes du MMSE. Un niveau faible de scolarité explique à
+lui seul 5.7 pour cent de la variance et l’ajout au modèle
+des variables Âge, Genre et Scolarité moyenne augmente
+la variance expliquée de 1.8 pour cent, 1.4 pour cent et
+0.7 pour cent respectivement. Les variables revenu faible
+et revenu moyen n’ajoutent que 0.2 pour cent et 0.5 pour
+cent à la variance expliquée. La variance totale expliquée
+par ces facteurs est de 9.3 pour cent. Les coefﬁcients de
+régression du Tableau 2 indiquent que l’âge est associé
+négativement à la performance au MMSE. Un niveau de
+
+Figure 1 : Distribution des cotes totales des participants au
+MMSE
+
+La Revue canadienne du vieillissement 28 (4)
+
+351
+
+Tableau 2 : Variables sociodémographiques associées aux
+cotes du MMSE des participants
+Prédicteurs
+
+B
+
+SE B
+
+β
+
+Constante
+Scolarité faiblea
+Âgeb
+Genrec
+Scolarité moyenned
+Revenu faiblee
+Revenu moyenf
+
+30.809
+−0.871
+−0.036
+0.498
+−0.213
+−0.404
+−0.256
+
+0.428
+0.095
+0.006
+0.071
+0.079
+0.105
+0.079
+
+−0.242*
+−0.130*
+0.150*
+−0.067*
+−0.100*
+−0.082*
+
+Note. R 2 = .103; Carré moyen des résiduels = 2.183; a Scolarité faible = 1, Autre = 0; b Âge réel; c Homme = 1, Femme = 2;
+d Scolarité moyenne = 1, autre = 0; e Revenu faible = 1, Autre = 0;
+f Revenu moyen = 1, Autre = 0.
+* p &lt; .05.
+
+scolarité faible ou moyen et un revenu faible ou moyen
+sont également associés négativement aux cotes au
+MMSE alors que le fait d’être une femme révèle un lien
+positif avec la performance au test.
+Malgré que le revenu annuel montre une contribution
+statistiquement signiﬁcative dans le modèle de régression, cette variable n’a pas été incluse dans les tableaux
+de normes présentés plus bas pour différentes raisons.
+D’abord, la collecte d’informations sur le revenu des
+individus peut parfois être difﬁcile en milieu clinique.
+Ensuite, les montants correspondant à un revenu faible, moyen ou élevé dans cette étude sont susceptibles
+d’être rapidement désuets, ce qui compromettra
+l’utilisation des normes de cette étude à moyen terme.
+Enﬁn, la variable revenu annuel explique une faible
+portion de la variance des cotes au MMSE dans le
+modèle. Son exclusion dans les tableaux de normes a
+donc peu d’incidence sur les percentiles des cotes au
+MMSE. En somme, trois variables ont été retenues
+pour cette étude normative: la scolarité, l’âge et le
+genre. Les Tableaux 3 et 4 présentent les normes au
+MMSE pour les femmes et les hommes séparément en
+fonction de l’âge et de la scolarité des individus. La
+stratiﬁcation a été effectuée en croisant quatre catégories d’âge (65-69; 70-74; 75-79; 80 et plus) et trois
+niveaux de scolarité (aucune/primaire; secondaire;
+postsecondaire). Dans chaque cellule, la taille du souséchantillon, ainsi les cotes au MMSE correspondant
+aux valeurs des percentiles 5, 10, 15 et 50, sont indiquées. Les scores égaux ou inférieurs au 5e percentile
+sont considérés comme reﬂétant une performance
+pathologique étant donné que la probabilité d’observer
+un tel score est égale ou inférieure à 5 pour cent. Les
+scores se situant au 10e percentile suggèrent plutôt un
+déﬁcit léger au MMSE. Les scores au 15e percentile correspondent à une performance comparable à la moyenne inférieure de l’échantillon de référence. Enﬁn, les
+scores au 50e percentile correspondent à la médiane de
+
+352
+
+Canadian Journal on Aging 28 (4)
+
+Carol Hudon et al.
+
+Tableau 3 : Percentiles des cotes au MMSE des femmes selon l’âge et le niveau de scolarité
+Niveau de scolarité
+Aucune/primaire
+N
+(5; 10; 15; 50)
+Secondaire
+N
+(5; 10; 15; 50)
+Postsecondaire
+N
+(5; 10; 15; 50)
+Total1
+N
+(5; 10; 15; 50)
+
+65–69 ans
+
+70–74 ans
+
+75–79 ans
+
+80 ans et plus
+
+94
+(24; 25; 27; 29)
+
+135
+(24; 26; 27; 29)
+
+103
+(24; 25; 26; 29)
+
+104
+(23; 24; 25; 28)
+
+170
+(26; 27; 28; 29)
+
+212
+(26; 27; 27; 29)
+
+200
+(26; 27; 27; 29)
+
+148
+(25; 26; 27; 28)
+
+138
+(27; 28; 28; 29)
+
+156
+(27; 27; 28; 30)
+
+109
+(27; 27; 28; 29)
+
+77
+(25; 26; 27; 29)
+
+403
+(26; 27; 28; 29)
+
+506
+(26; 27; 27; 29)
+
+415
+(26; 27; 27; 29)
+
+330
+(24; 25; 26; 28)
+
+Note. Les valeurs entre parenthèses correspondent aux cotes du MMSE se situant aux 5e, 10e, 15e et 50e percentiles, respectivement.
+1 Inclut les 8 participantes dont le niveau de scolarité est manquant.
+
+la distribution des performances dans l’échantillon de
+référence. Dans une distribution normale, les 5e, 10e et
+15e percentiles correspondent respectivement à des
+scores Z de -1.65, -1.28 et -1.04 (Lezak et al., 2004).
+
+Discussion
+L’objectif de cette étude était de produire un standard
+normatif pour le MMSE chez les Québécois francophones de 65 ans et plus résidant dans la communauté
+aﬁn d’améliorer le dépistage des troubles cognitifs chez
+les personnes âgées appartenant à cette population. Les
+participants ont été sélectionnés aléatoirement. De façon
+similaire à Bravo et Hébert (1997), les individus souffrant de troubles mentaux ont été exclus de l’échantillon
+aﬁn de maximiser la sensibilité des normes pour la détection de scores anormaux. Le meilleur ensemble de
+variables sociodémographiques prédisant les cotes des
+individus au MMSE a d’abord été déterminé et les résultats ont indiqué que le niveau de scolarité, le genre, l’âge
+
+et le revenu annuel total des aînés sont associés signiﬁcativement à la performance au MMSE. En revanche, le
+lieu de résidence et le statut marital des participants ne
+contribuaient pas à expliquer une portion signiﬁcative
+de la variance des cotes au MMSE. Le revenu n’a pas été
+retenu pour les tableaux normatifs entre autres parce
+que cette donnée peut être difﬁcilement obtenue en milieu clinique et parce qu’elle expliquait somme toute un
+faible pourcentage de la variance des scores au MMSE.
+Sur la base d’une distribution asymétrique des scores au
+MMSE en raison d’un effet plafond, la méthode de normalisation en rangs centiles a été retenue, comme dans
+de nombreuses autres études (Anderson et al., 2007;
+Cullen et al., 2005; Grigoletto et al., 1999; Kalafat et al.,
+2003; Strickland et al., 2005). Les données normatives
+ont été stratiﬁées en tenant compte du genre, de l’âge et
+du niveau de scolarité des individus.
+Les tableaux de normes ont indiqué que les percentiles
+associés aux cotes du MMSE tendent à diminuer avec
+
+Tableau 4 : Percentiles des cotes au MMSE des hommes selon l’âge et le niveau de scolarité
+Niveau de scolarité
+Aucune/primaire
+N
+(5; 10; 15; 50)
+Secondaire
+N
+(5; 10; 15; 50)
+Postsecondaire
+N
+(5; 10; 15; 50)
+Total1
+N
+(5; 10; 15; 50)
+
+65–69 ans
+
+70–74 ans
+
+75–79 ans
+
+80 ans et plus
+
+34
+(25; 25; 25; 28)
+
+48
+(23; 24; 25; 28)
+
+48
+(22; 26; 26; 28)
+
+23
+(24; 25; 26; 28)
+
+73
+(26; 26; 27; 29)
+
+77
+(25; 26; 27; 28)
+
+70
+(25; 26; 26; 28)
+
+36
+(25; 26; 27; 29)
+
+118
+(27; 27; 27; 29)
+
+108
+(25; 27; 27; 29)
+
+76
+(26; 27; 27; 29)
+
+42
+(26; 26; 27; 28)
+
+225
+(26; 27; 27; 29)
+
+233
+(25; 26; 27; 29)
+
+195
+(25; 26; 26; 28)
+
+102
+(25; 26; 27; 28)
+
+Note. Les valeurs entre parenthèses correspondent aux cotes du MMSE se situant aux 5e, 10e, 15e et 50e percentiles, respectivement.
+1 Inclut les 2 participants dont le niveau de scolarité est manquant.
+
+Normalisation québécoise du MMSE
+
+l’âge et à augmenter avec le niveau de scolarité. Ainsi,
+chez les femmes, le score correspondant au seuil
+d’anormalité (5e percentile) est moins élevé chez les 80
+ans et plus, et ce, pour tous les niveaux de scolarité.
+Des effets similaires ont aussi été observés chez les
+hommes. Toutefois, le score correspondant au seuil
+d’anormalité chez les hommes semble diminuer plus
+tôt au cours du vieillissement. En effet, contrairement
+aux femmes, ce seuil diminue entre les catégories d’âge
+65-69 et 70-74 ans pour tous les niveaux de scolarité. Il
+est à noter que chez les hommes de 80 ans et plus ayant
+une faible scolarité (aucune ou primaire), la cote au
+MMSE du 5e percentile est plus élevée que celle des
+catégories d’âge 70-74 et 75-79 ans. De même, chez les
+hommes avec une scolarité de niveau postsecondaire, la
+cote du 5e percentile est moins élevée chez les 70-74 ans
+comparativement aux catégories 75-79 et 80 ans et plus.
+Ces résultats peuvent sembler aberrants en apparence
+et ils pourraient inciter à produire un standard normatif
+qui combine les résultats obtenus auprès des femmes et
+des hommes. Cette combinaison de données aurait
+l’avantage de compenser le nombre relativement petit
+d’hommes dans certaines catégories d’âge et de niveau
+de scolarité. Par contre, les auteurs de la présente étude
+sont d’avis qu’un tel choix méthodologique pourrait
+camouﬂer des différences réelles quant à l’évolution du
+fonctionnement cognitif entre les femmes et les hommes âgés non institutionnalisés. Ainsi, l’augmentation
+de la cote du 5e percentile chez les hommes peu scolarisés de 80 ans et plus pourrait être liée à une meilleure
+santé générale de ce sous-groupe d’individus par rapport aux autres. En effet, étant donnée l’espérance de
+vie moins élevée des hommes par rapport aux femmes,
+leur état de santé décline nécessairement plus tôt. Les
+hommes survivants, demeurant dans la communauté à
+80 ans et plus, pourraient donc être moins fragiles
+que leurs compatriotes plus jeunes. Par le fait même,
+leur fonctionnement cognitif serait supérieur. Cette hypothèse pourrait aussi expliquer pourquoi les hommes
+de 80 ans et plus obtiennent généralement des cotes
+similaires ou meilleures que celles des femmes de même
+âge alors que dans l’échantillon total, l’effet est plutôt en
+faveur des femmes (pour des résultats similaires voir
+Grigoletto et al., 1999). Ces résultats vont également
+dans le sens des études indiquant que la prévalence et
+l’incidence de démence diminuent chez les personnes
+très âgées non institutionnalisées et ce, particulièrement
+chez les hommes (Canadian Study of Health and Aging
+Working Group, 1994, 2000; Corrada, Brookmeyer, Berlau, Paganini-Hill, et Kawas, 2008).
+L’association positive entre la performance au MMSE
+et le niveau de scolarité des individus, de même que
+l’association négative avec l’âge des participants,
+correspondent aux résultats de la majorité des études
+normatives antérieures (Anstey et al., 2000; Bravo &amp;
+
+La Revue canadienne du vieillissement 28 (4)
+
+353
+
+Hebert, 1997; Grigoletto et al., 1999; Strickland et al.,
+2005). De plus, l’effet du genre en faveur des femmes
+corrobore les résultats de Bravo et Hébert (1997) à
+partir d’un échantillon de Canadiens. Un avantage important de cette étude est l’établissement de normes
+séparées pour les hommes et les femmes. Un autre
+avantage est le fait que ces normes aient été développées spéciﬁquement auprès de Québécois âgés. Ces
+éléments pourraient donc favoriser une meilleure détection des troubles cognitifs chez les personnes âgées
+francophones du Québec en minimisant l’identiﬁcation
+de faux positifs ou de faux négatifs.
+Quant au statut économique, les résultats de la présente
+étude indiquent que la performance des individus est
+associée positivement à leur revenu annuel, un résultat
+qui avait également été obtenu par Anderson et al.
+(2007). Mais contrairement aux travaux de Nguyen
+et al. (2002) et de Kohn et al. (2008), le statut marital
+et le lieu de résidence n’ont pas montré d’association
+avec la performance au MMSE. Cela peut s’expliquer
+par des différences entre les études quant à la façon
+d’analyser les données. Ainsi, contrairement à Nguyen
+et al. (2002) et Kohn et al. (2008), la présente étude visait à identiﬁer le meilleur ensemble de variables sociodémographiques expliquant la variance des scores
+au MMSE. Selon cette méthode, il a été observé que le
+statut marital et le lieu de résidence n’expliquent pas
+une plus grande portion de variance des scores une
+fois incorporée dans un modèle incluant l’âge, la scolarité, le genre et le revenu annuel.
+Cette étude est la deuxième à produire des données
+normatives pour le MMSE chez des Canadiens âgés. Il
+existe toutefois plusieurs différences entre les données
+rapportées ici, issues des données de l’ESA, et celles
+présentées par Bravo et Hébert (1997), issues de l’Étude
+canadienne sur la santé et le vieillissement (ECSV).
+Premièrement, en plus de tenir compte du sexe des individus et d’isoler l’effet de la langue maternelle, les
+données de l’ESA permettent la mise à jour du standard normatif pour le MMSE. L’étude de Bravo et
+Hébert (1997), faut-il le rappeler, date déjà de plus
+d’une décennie. Deuxièmement, les percentiles rapportés avec l’échantillon ESA (5, 10, 15 et 50) permettent
+une estimation plus nuancée des performances d’une
+personne âgée comparativement aux percentiles rapportés avec l’échantillon ECSV (5, 25 et 50). En effet, les
+normes ESA permettent non seulement l’identiﬁcation
+d’un trouble cognitif important (5e percentile), mais
+aussi l’identiﬁcation d’une cote dénotant soit un trouble
+cognitif léger (10e percentile), soit un fonctionnement
+cognitif qui se situe près du seuil pour le trouble cognitif léger (15e percentile). Troisièmement, il importe
+de noter que dans chaque cellule du tableau de normes
+de l’étude de Bravo et Hébert, les résultats rapportent
+non seulement les percentiles, mais aussi les moyennes
+
+354
+
+Canadian Journal on Aging 28 (4)
+
+et écarts-types. Pour les raisons décrites en introduction, ceci pose certains problèmes d’ordre statistique:
+l’utilisation de moyennes et écarts-types est à éviter
+lorsque la distribution des scores est asymétrique
+(comme c’est généralement le cas avec le MMSE).
+Ainsi, les données présentées par Bravo et Hébert peuvent parfois donner lieu à une non-concordance des
+cotes suggérant un trouble cognitif selon qu’un score Z
+soit calculé ou que le 5e percentile soit utilisé. Par exemple, chez les personnes de 75-79 ans avec 0-4 ans
+de scolarité, une cote de 22 au MMSE sera considérée
+problématique si un score Z est calculé à partir des résultats de Bravo et Hébert. Par contre aucun déﬁcit ne
+sera identiﬁé si la cote correspondant au 5e percentile
+(MMSE = 20) est utilisée. En somme, les données issues
+de l’échantillon ESA et rapportées dans cet article permettent d’éviter ce type d’inconsistance.
+Malgré ses nombreuses forces, cette étude réalisée
+avec les données de l’ESA comporte quelques limites.
+La première réfère au fait que l’échantillon ESA n’est
+pas tout à fait représentatif des caractéristiques de la
+population âgée du Québec. Par exemple, en comparaison aux données de Statistique Canada ou de
+l’Institut de la statistique du Québec, l’échantillon
+ESA comprend une proportion plus importante de
+personnes âgées vivant en milieu urbain par rapport
+au milieu rural. De plus, en proportion, davantage de
+personnes âgées dans l’ESA ont complété une scolarité secondaire ou postsecondaire comparativement à
+ce qui est retrouvé dans la population générale.
+Quoique la « non représentativité » de l’échantillon
+ESA soit compensée par un contrôle statistique dans
+cette étude, il est recommandé de faire usage d’une
+certaine prudence dans l’utilisation du standard
+normatif pour les personnes peu scolarisées (c’est-àdire de niveau primaire). Par ailleurs, malgré une
+distribution adéquate des participants dans la majorité des groupes d’âge, l’échantillon des hommes est
+composé de peu d’individus de 80 ans et plus. Conséquemment, il est également recommandé d’utiliser
+avec précaution les normes pour les hommes de 80
+ans et plus.
+La deuxième limite de cette étude a trait à l’exclusion
+des participants ayant une cote inférieure à 22 au
+MMSE. Bien que ces participants représentent moins
+de 1 pour cent de l’échantillon ESA total, les résultats
+présentés ne sont pas le reﬂet tout à fait exact des capacités cognitives des personnes âgées québécoises
+vivant dans la communauté. Encore ici, cette limite
+peut être considérée mineure. En effet, l’objectif généralement poursuivi dans les études normatives est
+de fournir une référence quant au fonctionnement
+cognitif d’individus ayant une bonne santé pour ensuite faciliter la détection d’un trouble cognitif chez
+d’autres personnes. L’inclusion de personnes ayant
+
+Carol Hudon et al.
+
+des problèmes de santé susceptibles d’affecter le fonctionnement cognitif peut contribuer à réduire la sensibilité du standard normatif. Or, les personnes ayant
+une cote inférieure à 22 au MMSE présentent un risque élevé de démence (Fratiglioni et al., 1993), un
+groupe de maladies qui, par déﬁnition, affecte le fonctionnement cognitif. En somme, quoique l’exclusion
+des participants avec une cote inférieure à 22 au
+MMSE ait pu affecter la représentativité eu égard au
+fonctionnement cognitif, il est postulé que cette procédure a favorisé la sensibilité des données normatives rapportées.
+Enﬁn, la dernière limite de cette étude est liée aux caractéristiques du MMSE. Malgré sa grande popularité
+le MMSE demeure un outil sommaire qui ne couvre
+pas toutes les fonctions cognitives. Ainsi, cet instrument ne saurait remplacer une évaluation neuropsychologique exhaustive et le jugement du clinicien
+est nécessaire pour une interprétation adéquate des
+résultats.
+Pour compenser la limite associée aux caractéristiques
+de l’instrument, les futures études pourraient produire
+un standard normatif distinct pour chacune des cinq
+dimensions (orientation, attention, rappels immédiat
+et différé, langage et praxie de construction) du MMSE.
+De telles normes n’ont pas été présentées dans la
+présente étude car l’objectif principal était de produire
+un standard normatif pour la cote totale du MMSE. Ce
+choix visait à faciliter l’utilisation des normes chez différents types de cliniciens, quel que soit leur niveau de
+connaissance de la cognition humaine ou quelle que
+soit leur discipline. Des études ciblant un lectorat plus
+familier avec les notions de psychométrie pourraient
+également s’intéresser aux propriétés des items du
+MMSE. Autrement dit, un regard plus métrique sur les
+données pourrait être effectué en utilisant des analyses
+de Rasch, ce qui permettrait de situer les différents
+items sur une seule échelle de mesure. Enﬁn, les futures études de normalisation du MMSE devraient tenter d’identiﬁer des indicateurs sensibles du niveau
+socio-économique des individus aﬁn de contourner les
+problèmes liés à la collecte d’informations sur le revenu des patients en milieu clinique.
+En somme, les résultats de la présente étude procurent
+un standard normatif pour le MMSE qui est représentatif des performances à ce test chez les Québécois
+francophones résidants dans la communauté et ayant
+65 ans ou plus. Les tableaux de percentiles présentés
+tiennent compte de plusieurs variables sociodémographiques ayant une inﬂuence sur les scores au
+MMSE. Ainsi, cette étude permettra une meilleure
+utilisation du MMSE auprès de la population de référence. Elle contribuera par le fait même à améliorer
+la capacité de détecter un trouble cognitif chez les
+
+Normalisation québécoise du MMSE
+
+personnes âgées francophones du Québec et, par le
+fait même, elle favorisera la prise en charge plus
+rapide de ces individus.
+
+Références
+American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington,
+DC: APA.
+Anderson, T.M., Sachdev, P.S., Brodaty, H., Trollor, J.N., et
+Andrews, G. (2007). Effects of sociodemographic and
+health variables on Mini-Mental State Exam scores in
+older Australians. American Journal of Geriatric Psychiatry, 15, 467–476.
+Anstey, K.J., Matters, B., Brown, A.K., et Lord, S.R. (2000).
+Normative data on neuropsychological tests for very old
+adults living in retirement villages and hostels. Clinical
+Neuropsychologist, 14, 309–317.
+Bélanger, A., Martel, L., et Caron Malenfant, E. (2006). Recensement de la population, 1956-2006; Projections démographiques pour le Canada, les provinces et les
+territoires, 2005-2031. Retrieved December 15, 2008, from
+http:/ www12.statcan.ca/francais/census06/analysis/
+/
+agesex/NatlPortrait1.cfm
+Bravo, G. et Hebert, R. (1997). Age- and education-speciﬁc
+reference values for the Mini-Mental and modiﬁed MiniMental State Examinations derived from a non-demented
+elderly population. International Journal of Geriatric
+Psychiatry, 12, 1008–1018.
+Canadian Study of Health and Aging Working Group. (1994).
+Canadian study of health and aging: Study methods and
+prevalence of dementia. Canadian Medical Association
+Journal, 150, 899–913.
+Canadian Study of Health and Aging Working Group.
+(2000). The incidence of dementia in Canada. Neurology,
+55, 66–73.
+Corrada, M.M., Brookmeyer, R., Berlau, D., Paganini-Hill,
+A., et Kawas, C.H. (2008). Prevalence of dementia after age 90: Results from the 90+ study. Neurology, 71,
+337–343.
+Crum, R.M., Anthony, J.C., Bassett, S.S., et Folstein,
+M.F. (1993). Population-based norms for the MiniMental State Examination by age and educational
+level. Journal of the American Medical Association, 269,
+2386–2391.
+Cullen, B., Fahy, S., Cunningham, C.J., Coen, R.F., Bruce, I.,
+Greene, E., et al. (2005). Screening for dementia in an
+Irish community sample using MMSE: A comparison of
+norm-adjusted versus ﬁxed cut-points. International
+Journal of Geriatric Psychiatry, 20, 371–376.
+Folstein, M., Anthony, J.C., Parhad, I., Duffy, B., et Gruenberg, E.M. (1985). The meaning of cognitive impairment
+in the elderly. Journal of the American Geriatric Society, 33,
+228–235.
+
+La Revue canadienne du vieillissement 28 (4)
+
+355
+
+Folstein, M.F., Folstein, S.E., et McHugh, P.R. (1975). “Minimental state”. A practical method for grading the cognitive state of patients for the clinician. Journal of Psychiatric
+Research, 12, 189–198.
+Fratiglioni, L., Jorm, A.F., Grut, M., Viitanen, M., Holmen, K.,
+Ahlbom, A., et al. (1993). Predicting dementia from the
+Mini-Mental State Examination in an elderly population:
+The role of education. Journal of Clinical Epidemiology, 46,
+281–287.
+Grigoletto, F., Zappala, G., Anderson, D.W., et Lebowitz,
+B.D. (1999). Norms for the Mini-Mental State Examination in a healthy population. Neurology, 53, 315–320.
+Hébert, M., Thibeault, R., Sacolax, N., Tandon, K., Germain,
+M., Bruneau, P., et al. (2007). Utilité clinique de trois
+outils d’évaluation pour les personnes atteintes de
+démence. Revue canadienne d’ergothérapie, 74, 102–114.
+Kalafat, M., Hugonot-Dierner, L., et Poitrenaud, J. (2003).
+Standardisation et étalonnage français du “Mini Mental
+State” (MMS) version GRÉCO. Revue de Neuropsychologie,
+13, 209–236.
+Knight, R.G., McMahon, J., Green, T.J., et Murray Skeaff, C.
+(2006). Regression equations for predicting scores of persons over 65 on the Rey Auditory Verbal Learning Test,
+the Mini-Mental State Examination, the Trail Making
+Test and semantic ﬂuency measures. British Journal of
+Clinical Psychology, 45, 393–402.
+Kohn, R., Vicente, B., Rioseco, P., Saldivia, S., et Torres, S.
+(2008). The Mini-Mental State Examination: Age and education distribution for a Latin American population.
+Aging &amp; Mental Health, 12, 66–71.
+Lezak, M.D., Howieson, D.B., Loring, D.W., Hannay, H.J.,
+et Fischer, J.S. (2004). Neuropsychological assessment
+(4th ed.). New York: Oxford University Press.
+Malloy, P.F., Cummings, J.L., Coffey, C.E., Duffy, J., Fink, M., Lauterbach, E.C., et al. (1997). Cognitive screening instruments
+in neuropsychiatry: A report of the Committee on Research
+of the American Neuropsychiatric Association. Journal
+of Neuropsychiatry and Clinical Neurosciences, 9, 189–197.
+Measso, G., Cavarzevan, F., Zappalà, G., Lebowitz, B.D.,
+Crook, T.H., Pirozzolo, F.L., et al. (1993). The Mini-Mental
+State Examination: Normative study of an Italian random
+sample. Developmental Neuropsychology, 9, 77–85.
+Meiran, N., Stuss, D.T., Guzman, D.A., Laﬂeche, G., et
+Willmer, J. (1996). Diagnosis of dementia. Methods for
+interpretation of scores of 5 neuropsychological tests.
+Archives of Neurology, 53, 1043–1054.
+Nguyen, H.T., Black, S.A., Ray, L.A., Espino, D.V., et
+Markides, K.S. (2002). Predictors of decline in MMSE
+scores among older Mexican Americans. Journal of Gerontology. Series A, Biological Sciences and Medical Sciences,
+57, M181–M185.
+Préville, M., Boyer, R., Grenier, S., Dubé, M., Voyer, P., Punti,
+R., et al. (2008). The epidemiology of psychiatric disorders
+
+356
+
+Canadian Journal on Aging 28 (4)
+in the Quebec older adult population. Canadian Journal of
+Psychiatry, 53, 822–832.
+
+Stewart, R., Johnson, J., Richards, M., Brayne, C., et Mann, A.
+(2002). The distribution of Mini-Mental State Examination scores in an older UK African-Caribbean population
+compared to MRC CFA study norms. International Journal of Geriatric Psychiatry, 17, 745–751.
+
+Carol Hudon et al.
+Strauss, E., Sherman, E.M.S., et Spreen, O. (2006). A Compendium of Neuropsychological Tests: Administration, norms, and
+commentary (3rd ed.). New York: Oxford University Press.
+Strickland, T.L., Longobardi, P.G., Alperson, B.L., et Andre,
+K. (2005). Mini-Mental State and Cognistat performance
+in an older African American sample. Clinical Neuropsychologist, 19, 87–98.
+
+Annexe: Version du questionnaire MMSE utilisé dans cette étude.
+TEST
+
+0
+
+1
+
+1. En quelle année sommes-nous ?
+2. Quelle est la saison ?
+3. Quelle est la date ?
+4. Quel jour de la semaine sommes-nous ?
+5. Quel est le mois ?
+6. Pouvez-vous me dire dans quel pays nous sommes ?
+7. Dans quelle province sommes-nous ?
+8. Dans quelle ville (ou village) sommes-nous ?
+9. Quel est le nom de la rue ou l’adresse de l’endroit où nous sommes ?
+10. A quel étage sommes-nous ?
+Enregistrement :
+Je vais vous dire trois mots dont vous devez vous rappeler. Répétez-les quand j’aurai ﬁni de les dire tous les trois.
+11. Chemise
+12. Bleu
+13. Honnêteté
+Quels sont les trois mots que je viens de dire ?
+
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+(Donner 1 point pour chaque réponse correcte au premier essai. Nommer les mots jusqu’à quatre fois pour que le sujet les sache.)
+
+Normalisation québécoise du MMSE
+TEST
+
+La Revue canadienne du vieillissement 28 (4)
+
+357
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+○
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+14. Veuillez maintenant épeler le mot « MONDE » à l’endroit.
+Maintenant épelez-le à l’envers, en commençant par la dernière lettre.
+(Si le répondant est incapable d’épeler le mot « MONDE » à l’endroit épelez-le
+une fois avec un intervalle de temps de 1, 5 seconde entre chaque lettre.)
+
+(Nombre de lettres données dans le bon ordre.)
+Quels sont les trois mots que je vous ai demandé de mémoriser un peu plus tôt ?
+15. Chemise
+16. Bleu
+17. Honnêteté
+(Donner 1 point pour chaque réponse.)
+18. (Présenter une montre.) Comment cet objet s’appelle-t-il ?
+19. (Présenter un crayon.) Comment cet objet s’appelle-t-il ?
+20. J’aimerais que vous répétiez une phrase après moi « Pas de si ni de mais »
+(Ne permettre qu’un seul essai.)
+21. Montrer « Fermez les yeux » et dites « S’il-vous-plait, faites ceci »
+(Donner 1 point si la personne ferme les yeux.)
+22. Je vais vous donner une feuille de papier. Prenez-la de la main gauche
+(ou main non dominante), pliez-la en deux et mettez-la sur vos genoux.
+(Lire toutes les instructions, puis tendre la feuille de papier. Ne pas répéter
+les instructions ou guider la personne. Donner 1 point par étape correcte.)
+a) main non dominante b) plier la feuille c) sur les genoux
+23. J’aimerais que vous écriviez une phrase complète sur cette feuille de papier.
+(Ne pas dicter la phrase. La personne doit écrire la phrase spontanément.
+Elle doit contenir un sujet, un verbe et doit avoir un sens. La grammaire,
+la ponctuation ou l’orthographe ne comptent pas.)
+24. Voici un dessin. Je veux que vous copiez ce dessin sur la même feuille.
+(Donner 1 point si les ﬁgures à cinq côtés s’intersectent pour former une ﬁgure à
+quatre côtés et si tous les angles sont conservés. Les tremblements ou rotations
+ne comptent pas.)
+
+ADDITIONNER LES POINTS
+
+/30
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Diagnostic and statistical manual of mental disorders</title><editor><orgName>American Psychiatric Association</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">1994</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Effects of sociodemographic and health variables on Mini-Mental State Exam scores in older Australians</title><author><persName><forename type="first">T.M.</forename><surname>Anderson</surname></persName></author><author><persName><forename type="first">P.S.</forename><surname>Sachdev</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Brodaty</surname></persName></author><author><persName><forename type="first">J.N.</forename><surname>Trollor</surname></persName></author><author><persName><forename type="first">G</forename><surname>Andrews</surname></persName></author></analytic><monogr><title level="j">American Journal of Geriatric Psychiatry</title><imprint><date type="published">2007</date><biblScope unit="volume">15</biblScope><biblScope unit="page" from="467">467</biblScope><biblScope unit="page" to="476">476</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Normative data on neuropsychological tests for very old adults living in retirement villages and hostels</title><author><persName><forename type="first">K.J.</forename><surname>Anstey</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Matters</surname></persName></author><author><persName><forename type="first">A.K.</forename><surname>Brown</surname></persName></author><author><persName><forename type="first">S.R</forename><surname>Lord</surname></persName></author></analytic><monogr><title level="j">Clinical Neuropsychologist</title><imprint><date type="published">2000</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="309">309</biblScope><biblScope unit="page" to="317">317</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">BélangerA., MartelL., et Caron MalenfantE. (2006). Recensement de la population, 1956-2006; Projections démographiques pour le Canada, les provinces et les territoires, 2005-2031. Retrieved December 15, 2008, from http://www12.statcan.ca/francais/census06/analysis/agesex/NatlPortrait1.cfm</title><editor><persName><forename type="first">A.</forename><surname>Bélanger</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Martel</surname></persName></editor><editor><persName><forename type="first">E</forename><surname>Caron Malenfant</surname></persName></editor><idno type="uri">http://www12.statcan.ca/francais/census06/analysis/agesex/NatlPortrait1.cfm</idno><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Age- and education-specific reference values for the Mini-Mental and modified Mini-Mental State Examinations derived from a non-demented elderly population</title><author><persName><forename type="first">G.</forename><surname>Bravo</surname></persName></author><author><persName><forename type="first">R</forename><surname>Hebert</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">1997</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="1008">1008</biblScope><biblScope unit="page" to="1018">1018</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Canadian study of health and aging: Study methods and prevalence of dementia</title><author><orgName>Canadian Study of Health and Aging Working Group</orgName></author><ref>Canadian Study of Health and Aging Working Group. (1994). Canadian study of health and aging: Study methods and prevalence of dementia. Canadian Medical Association Journal, 150, 899–913.</ref></analytic><monogr><title level="j">Canadian Medical Association Journal</title><imprint><date type="published">1994</date><biblScope unit="volume">150</biblScope><biblScope unit="page" from="899">899</biblScope><biblScope unit="page" to="913">913</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">The incidence of dementia in Canada</title><author><orgName>Canadian Study of Health and Aging Working Group</orgName></author><ref>Canadian Study of Health and Aging Working Group. (2000). The incidence of dementia in Canada. Neurology, 55, 66–73.</ref></analytic><monogr><title level="j">Neurology</title><imprint><date type="published">2000</date><biblScope unit="volume">55</biblScope><biblScope unit="page" from="66">66</biblScope><biblScope unit="page" to="73">73</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Prevalence of dementia after age 90: Results from the 90+ study</title><author><persName><forename type="first">M.M.</forename><surname>Corrada</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Brookmeyer</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Berlau</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Paganini-Hill</surname></persName></author><author><persName><forename type="first">C.H</forename><surname>Kawas</surname></persName></author></analytic><monogr><title level="j">Neurology</title><imprint><date type="published">2008</date><biblScope unit="volume">71</biblScope><biblScope unit="page" from="337">337</biblScope><biblScope unit="page" to="343">343</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Population-based norms for the Mini-Mental State Examination by age and educational level</title><author><persName><forename type="first">R.M.</forename><surname>Crum</surname></persName></author><author><persName><forename type="first">J.C.</forename><surname>Anthony</surname></persName></author><author><persName><forename type="first">S.S.</forename><surname>Bassett</surname></persName></author><author><persName><forename type="first">M.F</forename><surname>Folstein</surname></persName></author></analytic><monogr><title level="j">Journal of the American Medical Association</title><imprint><date type="published">1993</date><biblScope unit="volume">269</biblScope><biblScope unit="page" from="2386">2386</biblScope><biblScope unit="page" to="2391">2391</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Screening for dementia in an Irish community sample using MMSE: A comparison of norm-adjusted versus fixed cut-points</title><author><persName><forename type="first">B.</forename><surname>Cullen</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Fahy</surname></persName></author><author><persName><forename type="first">C.J.</forename><surname>Cunningham</surname></persName></author><author><persName><forename type="first">R.F.</forename><surname>Coen</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Bruce</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Greene</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2005</date><biblScope unit="volume">20</biblScope><biblScope unit="page" from="371">371</biblScope><biblScope unit="page" to="376">376</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">The meaning of cognitive impairment in the elderly</title><author><persName><forename type="first">M.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">J.C.</forename><surname>Anthony</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Parhad</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Duffy</surname></persName></author><author><persName><forename type="first">E.M</forename><surname>Gruenberg</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatric Society</title><imprint><date type="published">1985</date><biblScope unit="volume">33</biblScope><biblScope unit="page" from="228">228</biblScope><biblScope unit="page" to="235">235</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">“Mini-mental state”. A practical method for grading the cognitive state of patients for the clinician</title><author><persName><forename type="first">M.F.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">S.E.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">P.R</forename><surname>McHugh</surname></persName></author></analytic><monogr><title level="j">Journal of Psychiatric Research</title><imprint><date type="published">1975</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="198">198</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Predicting dementia from the Mini-Mental State Examination in an elderly population: The role of education</title><author><persName><forename type="first">L.</forename><surname>Fratiglioni</surname></persName></author><author><persName><forename type="first">A.F.</forename><surname>Jorm</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Grut</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Viitanen</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Holmen</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Ahlbom</surname></persName></author></analytic><monogr><title level="j">Journal of Clinical Epidemiology</title><imprint><date type="published">1993</date><biblScope unit="volume">46</biblScope><biblScope unit="page" from="281">281</biblScope><biblScope unit="page" to="287">287</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Norms for the Mini-Mental State Examination in a healthy population</title><author><persName><forename type="first">F.</forename><surname>Grigoletto</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Zappala</surname></persName></author><author><persName><forename type="first">D.W.</forename><surname>Anderson</surname></persName></author><author><persName><forename type="first">B.D</forename><surname>Lebowitz</surname></persName></author></analytic><monogr><title level="j">Neurology</title><imprint><date type="published">1999</date><biblScope unit="volume">53</biblScope><biblScope unit="page" from="315">315</biblScope><biblScope unit="page" to="320">320</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Utilité clinique de trois outils d’évaluation pour les personnes atteintes de démence</title><author><persName><forename type="first">M.</forename><surname>Hébert</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Thibeault</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Sacolax</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Tandon</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Germain</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Bruneau</surname></persName></author></analytic><monogr><title level="j">Revue canadienne d’ergothérapie</title><imprint><date type="published">2007</date><biblScope unit="volume">74</biblScope><biblScope unit="page" from="102">102</biblScope><biblScope unit="page" to="114">114</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Standardisation et étalonnage français du “Mini Mental State” (MMS) version GRÉCO</title><author><persName><forename type="first">M.</forename><surname>Kalafat</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Hugonot-Dierner</surname></persName></author><author><persName><forename type="first">J</forename><surname>Poitrenaud</surname></persName></author></analytic><monogr><title level="j">Revue de Neuropsychologie</title><imprint><date type="published">2003</date><biblScope unit="volume">13</biblScope><biblScope unit="page" from="209">209</biblScope><biblScope unit="page" to="236">236</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Regression equations for predicting scores of persons over 65 on the Rey Auditory Verbal Learning Test, the Mini-Mental State Examination, the Trail Making Test and semantic fluency measures</title><author><persName><forename type="first">R.G.</forename><surname>Knight</surname></persName></author><author><persName><forename type="first">J.</forename><surname>McMahon</surname></persName></author><author><persName><forename type="first">T.J.</forename><surname>Green</surname></persName></author><author><persName><forename type="first">C</forename><surname>Murray Skeaff</surname></persName></author></analytic><monogr><title level="j">British Journal of Clinical Psychology</title><imprint><date type="published">2006</date><biblScope unit="volume">45</biblScope><biblScope unit="page" from="393">393</biblScope><biblScope unit="page" to="402">402</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">The Mini-Mental State Examination: Age and education distribution for a Latin American population</title><author><persName><forename type="first">R.</forename><surname>Kohn</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Vicente</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Rioseco</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Saldivia</surname></persName></author><author><persName><forename type="first">S</forename><surname>Torres</surname></persName></author></analytic><monogr><title level="j">Aging &amp; Mental Health</title><imprint><date type="published">2008</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="66">66</biblScope><biblScope unit="page" to="71">71</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Neuropsychological assessment</title><editor><persName><forename type="first">M.D.</forename><surname>Lezak</surname></persName></editor><editor><persName><forename type="first">D.B.</forename><surname>Howieson</surname></persName></editor><editor><persName><forename type="first">D.W.</forename><surname>Loring</surname></persName></editor><editor><persName><forename type="first">H.J.</forename><surname>Hannay</surname></persName></editor><editor><persName><forename type="first">J.S</forename><surname>Fischer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Cognitive screening instruments in neuropsychiatry: A report of the Committee on Research of the American Neuropsychiatric Association</title><author><persName><forename type="first">P.F.</forename><surname>Malloy</surname></persName></author><author><persName><forename type="first">J.L.</forename><surname>Cummings</surname></persName></author><author><persName><forename type="first">C.E.</forename><surname>Coffey</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Duffy</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Fink</surname></persName></author><author><persName><forename type="first">E.C.</forename><surname>Lauterbach</surname></persName></author></analytic><monogr><title level="j">Journal of Neuropsychiatry and Clinical Neurosciences</title><imprint><date type="published">1997</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="197">197</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">The Mini-Mental State Examination: Normative study of an Italian random sample</title><author><persName><forename type="first">G.</forename><surname>Measso</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Cavarzevan</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Zappalà</surname></persName></author><author><persName><forename type="first">B.D.</forename><surname>Lebowitz</surname></persName></author><author><persName><forename type="first">T.H.</forename><surname>Crook</surname></persName></author><author><persName><forename type="first">F.L.</forename><surname>Pirozzolo</surname></persName></author></analytic><monogr><title level="j">Developmental Neuropsychology</title><imprint><date type="published">1993</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="77">77</biblScope><biblScope unit="page" to="85">85</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">Diagnosis of dementia. Methods for interpretation of scores of 5 neuropsychological tests</title><author><persName><forename type="first">N.</forename><surname>Meiran</surname></persName></author><author><persName><forename type="first">D.T.</forename><surname>Stuss</surname></persName></author><author><persName><forename type="first">D.A.</forename><surname>Guzman</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Lafleche</surname></persName></author><author><persName><forename type="first">J</forename><surname>Willmer</surname></persName></author></analytic><monogr><title level="j">Archives of Neurology</title><imprint><date type="published">1996</date><biblScope unit="volume">53</biblScope><biblScope unit="page" from="1043">1043</biblScope><biblScope unit="page" to="1054">1054</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">Predictors of decline in MMSE scores among older Mexican Americans</title><author><persName><forename type="first">H.T.</forename><surname>Nguyen</surname></persName></author><author><persName><forename type="first">S.A.</forename><surname>Black</surname></persName></author><author><persName><forename type="first">L.A.</forename><surname>Ray</surname></persName></author><author><persName><forename type="first">D.V.</forename><surname>Espino</surname></persName></author><author><persName><forename type="first">K.S</forename><surname>Markides</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology. Series A, Biological Sciences and Medical Sciences</title><imprint><date type="published">2002</date><biblScope unit="volume">57</biblScope><biblScope unit="page" from="181">M181</biblScope><biblScope unit="page" to="185">M185</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="article"><analytic><title level="a">The epidemiology of psychiatric disorders in the Quebec older adult population</title><author><persName><forename type="first">M.</forename><surname>Préville</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Boyer</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Grenier</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Dubé</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Voyer</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Punti</surname></persName></author></analytic><monogr><title level="j">Canadian Journal of Psychiatry</title><imprint><date type="published">2008</date><biblScope unit="volume">53</biblScope><biblScope unit="page" from="822">822</biblScope><biblScope unit="page" to="832">832</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">The distribution of Mini-Mental State Examination scores in an older UK African-Caribbean population compared to MRC CFA study norms</title><author><persName><forename type="first">R.</forename><surname>Stewart</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Johnson</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Richards</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Brayne</surname></persName></author><author><persName><forename type="first">A</forename><surname>Mann</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2002</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="745">745</biblScope><biblScope unit="page" to="751">751</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="inbook"><monogr><title level="m">A Compendium of Neuropsychological Tests: Administration, norms, and commentary</title><editor><persName><forename type="first">E.</forename><surname>Strauss</surname></persName></editor><editor><persName><forename type="first">E.M.S.</forename><surname>Sherman</surname></persName></editor><editor><persName><forename type="first">O</forename><surname>Spreen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Mini-Mental State and Cognistat performance in an older African American sample</title><author><persName><forename type="first">T.L.</forename><surname>Strickland</surname></persName></author><author><persName><forename type="first">P.G.</forename><surname>Longobardi</surname></persName></author><author><persName><forename type="first">B.L.</forename><surname>Alperson</surname></persName></author><author><persName><forename type="first">K</forename><surname>Andre</surname></persName></author></analytic><monogr><title level="j">Clinical Neuropsychologist</title><imprint><date type="published">2005</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="87">87</biblScope><biblScope unit="page" to="98">98</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

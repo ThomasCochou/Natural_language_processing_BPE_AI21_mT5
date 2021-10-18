@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Savoir que l’on sait. La question de la transparence dans les attitudes épistémiques</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Savoir que l’on sait. La question de la transparence dans les attitudes épistémiques</title><author xml:id="author-0000"><persName><forename type="first">Neil</forename><surname>Kennedy</surname></persName><affiliation>UQAM/Université de Paris 1-IHPST</affiliation></author><idno type="istex">056155BFD969332CF775A256FB8BBD32C9AE296E</idno><idno type="ark">ark:/67375/6GQ-Z2TTG09G-M</idno><idno type="DOI">10.1017/S0012217309990084</idno><idno type="PII">S0012217309990084</idno><idno type="article-id">99008</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="451">451</biblScope><biblScope unit="page" to="478">478</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Dans cet article, je réévalue les arguments pour et contre certaines thèses concernant la connaissance d’ordre supérieur afin d’évaluer leur portée réelle sur les principes d’introspection positive et négative. Je défends l’idée que la locution «savoir que l’on sait» possède au moins deux interprétations notoires : l’une, plus courante, dite «transparentiste», valide le principe d’introspection positive et l’autre, moins courante, dite «agrippéenne», endosse certaines critiques de ce principe.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: In this paper, I revisit arguments for and against various theses concerning higher-order knowledge in order to fully gauge their impact on the principles of positive and negative introspection. I argue that the expression “knowing that one knows” has at least two salient understandings: the more common one, labelled “transparentist”, validates the principle of positive introspection, while the other which is less common, labelled “agrippean”, supports some of the arguments against this principle.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+Savoir que l’on sait. La question de la
+transparence dans les attitudes
+épistémiques
+
+NEIL KENNEDY
+
+UQAM/Université de Paris 1-IHPST
+
+RÉSUMÉ : Dans cet article, je réévalue les arguments pour et contre certaines
+thèses concernant la connaissance d’ordre supérieur afin d’évaluer leur portée
+réelle sur les principes d’introspection positive et négative. Je défends l’idée que
+la locution «savoir que l’on sait» possède au moins deux interprétations notoires :
+l’une, plus courante, dite «transparentiste», valide le principe d’introspection
+positive et l’autre, moins courante, dite «agrippéenne», endosse certaines critiques
+de ce principe.
+ABSTRACT: In this paper, I revisit arguments for and against various theses concerning higher-order knowledge in order to fully gauge their impact on the principles
+of positive and negative introspection. I argue that the expression “knowing that one
+knows” has at least two salient understandings: the more common one, labelled
+“transparentist”, validates the principle of positive introspection, while the other
+which is less common, labelled “agrippean”, supports some of the arguments against
+this principle.
+Dialogue 48 (2009), 451-478.
+© Canadian Philosophical Association /Association canadienne de philosophie, 2009
+doi:10.1017/S0012217309990084
+
+452
+
+Dialogue
+
+1. La connaissance d’ordre supérieur
+Savoir n’implique-t-il pas savoir que l’on sait? Quand Archimède découvrit le
+procédé pour déterminer le volume de la couronne de Hiéron sans la faire
+fondre, il savait désormais déterminer ce volume, mais ne savait-il pas aussi
+qu’il le savait? Sinon, à quoi attribuer qu’il ait crié «eurêka!»? La tradition
+philosophique, à commencer par Socrate, a longtemps pris pour acquis que la
+réponse à ces deux premières questions était afﬁrmative. Un examen rapide de
+nos intuitions conﬁrme cette impression : si Ératosthène sait par ses propres
+sources que le roi Hiéron a été ﬂoué, alors intuitivement il sait qu’il sait que le
+roi a été ﬂoué. Cette thèse sur la connaissance d’ordre supérieur est mieux connu
+par le sobriquet «thèse KK», en référence à la manière dont elle est transcrite
+en logique épistémique par la formule Kp → KKp.
+Malgré son évidence, la thèse KK cache toutefois anguille philosophique
+sous roche. Si les intuitions de surface lui donnent raison, l’analyse plus
+approfondie révèle des conséquences parfois indésirables, la plus désastreuse
+d’entre elles étant le scepticisme. En effet, on prétend que la thèse KK mène
+invariablement à une régression à l’inﬁni, laquelle à son tour mène invariablement
+au scepticisme. Dans ce qui suit, je tenterai de faire la part des choses dans les
+arguments pour et contre la thèse KK et les thèses apparentées sur la connaissance d’ordre supérieur. Je chercherai par ailleurs à défendre l’idée que la locution
+«savoir que l’on sait» possède au moins deux interprétations saillantes : l’une,
+plus courante, qui valide la thèse et l’autre, moins courante, qui valide certaines
+des critiques des détracteurs de la thèse.
+2. La régression à l’inﬁni
+Pour mieux illustrer le lien entre la thèse KK et la régression épistémique à
+l’inﬁni, supposons que la connaissance d’une proposition p implique la possession (de la part de l’agent) de raisons de croire que p ou d’une justiﬁcation à
+l’effet que p. L’idée que la justiﬁcation constitue une condition nécessaire à la
+connaissance n’est pas particulièrement controversée, mais l’argument pourrait
+se passer de cette hypothèse1. Ainsi, supposons que si S sait que p alors S a une
+justiﬁcation J à l’effet que p, ou formellement :
+KJ Kp
+
+Jp
+
+où J signiﬁe «S a une justiﬁcation à l’effet que» ou encore «S a des (bonnes)
+raisons de croire que». Dans un premier temps, la thèse KK afﬁrme que si S sait
+que p alors que S sait qu’il sait que p. Du savoir par S que p s’ensuit le savoir
+qu’il sait que p et, par KJ, s’ensuit alors le savoir par S qu’il a des raisons de
+croire que p. Formellement,
+1) Kp
+2) KKp
+3) KJp
+
+Hypothèse
+1, (KK)
+2, (KJ)
+
+Savoir que l’on sait 453
+
+Mais l’argument peut être continué avec Jp au lieu de p
+4) KKJp
+5) KJJp
+
+3, (KK)
+4, (KJ)
+
+Et ensuite avec «JJp» et «JJJp» et «JJJJp» etc. Au ﬁnal, l’hypothèse que
+l’agent sait que p et les thèses (KK) et (KJ) entraînent que KJ np, pour tout n.
+En particulier, par le principe de factivité, nous obtenons que
+
+S a des raisons de croire qu’il a des raisons de croire que . . . p
+où «. . .» représente ici n’importe quelle concaténation (ﬁnie) de la locution
+«S a des raisons de croire que». En déchargeant l’hypothèse en 1, l’argument
+établit ﬁnalement que
+(Reg)
+
+Kp
+
+J n p, pour tout n.
+
+La conclusion à tirer de (Reg) est que la connaissance, de façon générale, est
+impossible. Pourquoi? Le fait que «Kp» entraîne une quantité inﬁnie de conditions
+nécessaires n’est pas tant le problème que la nature de ces conditions : chaque
+J np constitue une condition distincte et la vérité de J np n’entraîne jamais celle
+des J n+kp successifs. Par conséquent, la simple connaissance de la proposition
+p exigerait la possession d’une quantité de raisons telle qu’aucun agent épistémique normalement constitué ne pourrait atteindre. Autrement dit, pour
+chaque proposition (contingente?) p, du fait qu’il existe un rang n tel que J np
+est faux, on aurait que Kp est faux aussi par contraposition de (Reg). La thèse
+(KK) mène donc tout simplement au scepticisme.
+J’ai choisi d’illustrer la réduction à l’absurde de KK en utilisant KJ, mais, en
+un certain sens, ce n’est pas nécessaire. Passer par KJ a l’intérêt de souligner le
+fait que les conditions J np n’étaient pas réalisables chez un agent ﬁni parce
+qu’elles sont en nombre inﬁni (pas seulement syntaxiquement, mais sémantiquement). Si vos intuitions sur l’opération de connaissance K sont déjà telles
+que les conditions K np sont distinctes et qu’aucune n’entraîne ses successeurs,
+alors un argument plus simple encore saura vous convaincre : laissez tomber
+l’application de KJ dans l’argument plus haut.
+La régression épistémique n’est pas l’apanage de la thèse KK seule. L’idée
+remonte au moins au temps de l’Académie. Dans sa croisade philosophique
+contre les afﬁrmations téméraires des Stoïciens, Agrippa avait développé des
+modes argumentatifs pour montrer à celui qui prétendait connaître quelque chose
+qu’il ne connaissait rien. Ces tropes d’Agrippa exploitent le caractère toujours
+inachevé d’une justiﬁcation : toute justiﬁcation repose sur des prémisses et,
+puisque toute prémisse peut être contestée, on peut exiger une justiﬁcation pour
+ces prémisses qui reposera sur d’autres prémisses, et ainsi de suite. À chaque
+étape de ce processus, l’adversaire du sceptique peut arrêter ou continuer. S’il
+
+454
+
+Dialogue
+
+arrête, sa justiﬁcation repose ultimement sur des prémisses sans justiﬁcation, donc
+il est dogmatique. S’il continue, deux choses peuvent se produire : il peut réutiliser
+une prémisse ou il peut produire de nouvelles prémisses. S’il réutilise des
+prémisses, son argument sera circulaire. La seule façon de «gagner» contre le
+sceptique est de produire de nouvelles prémisses à chaque étape du processus de
+justiﬁcation. Mais ce faisant, le sceptique gagne, car son adversaire se voit condamné
+à accomplir une tâche sans ﬁn, à entrer dans une régression inﬁnie de justiﬁcations.
+Mentionnons toutefois que la régression inﬁnie chez Agrippa n’est pas utilisée
+pour défaire la thèse KK ou une thèse sur la connaissance d’ordre supérieur, elle
+est plutôt utilisée pour montrer que la connaissance tout court est impossible.
+Le sceptique qui fait régresser son adversaire d’un niveau questionne ce qui
+n’était pas questionné au niveau précédent : il ne procède pas en exploitant
+la connaissance d’ordre supérieur de son adversaire «crédule», il questionne
+simplement ce sur quoi repose sa connaissance. Les «niveaux» ou les «ordres»
+sont des niveaux de rigueur. En particulier, le sceptique pourrait forcer le crédule
+dans une régression à l’inﬁni sans même le questionner sur ses connaissances
+d’ordre supérieur. L’analogie entre son utilisation chez Agrippa et son utilisation
+dans le contexte de la connaissance d’ordre supérieur n’est pas parfaite.
+Un premier élément d’analogie pourrait venir du fait que les deux régressions, celle due à la thèse KK et celle d’Agrippa, forcerait l’adversaire à produire une suite inﬁnie de raisons qui justiﬁeraient sa connaissance initiale. Mais
+si elle ne tient qu’à ça, l’analogie est superﬁcielle. À prime abord, si la thèse
+KK force l’agent à fournir une suite inﬁnie de raisons, c’est parce qu’elle stipule
+que «savoir que p» implique la conjonction inﬁnie «savoir que p et savoir que
+l’on sait que p et savoir que l’on sait que l’on sait que p et . . .». Avoir une raison
+de croire que cette conjonction inﬁnie est vraie c’est avoir une raison de croire
+que chaque conjoint est vrai. Puisqu’il y a un nombre inﬁni de conjoints, il y
+aurait donc un nombre inﬁni de raisons à fournir pour justiﬁer le tout. Ce n’est
+déﬁnitivement pas ce qui produit l’exigence d’un nombre inﬁni de raisons chez
+la victime d’Agrippa. À quoi serviraient les tropes, qui s’appliquent de façon
+locale et contextuelle, si l’on pouvait confondre l’adversaire seulement en
+questionnant ses états épistémiques d’ordre supérieur, indépendamment de la
+nature particulière de la proposition p que l’agent prétend connaître?
+Une autre façon de joindre les deux régressions, peut-être plus fructueuse cette
+fois, est de considérer un effet que pourrait avoir la connaissance d’ordre supérieur
+sur les raisons que l’on doit produire pour connaître. Plus concrètement, on
+pourrait comparer la fonction des «savoir que» d’ordre supérieur à celle d’un
+adverbe comme «vraiment» ou «sûrement» : S sait qu’il sait que p signiﬁerait ou
+impliquerait (à tout le moins) que S sait vraiment ou sûrement que p, en ce sens
+que savoir vraiment ou sûrement est plus fort, plus rigoureux que savoir tout
+court. Le lien entre les deux types de régression, c’est-à-dire entre la suite de
+connaissances d’ordres de plus en plus élevés et la régression agrippéenne,
+s’effectuerait grâce à la thèse KK et la thèse selon laquelle savoir que l’on sait que
+p entraîne que l’on sait vraiment que p.
+
+Savoir que l’on sait 455
+
+Formellement,
+VK
+
+KKp
+
+VKp
+
+où V est un opérateur qui «augmente» le niveau de rigueur associé au savoir
+que p. À proprement parler, il serait plus approprié de dire que V affecte la
+modalité K et non la proposition Kp, et donc la notation (VK)p serait peut-être
+plus juste que VKp. Le sceptique agrippéen veut nous montrer que l’on ne peut
+connaître que si l’on connaît vraiment, en éliminant toute possibilité d’erreur.
+La régression sceptique aurait donc la forme
+
+Kp,VKp,VVKp,VVVKp, . . .
+Le lien avec la suite générée par la thèse KK est désormais évident : une simple
+application du principe «KKp → VKp» à chaque élément de la suite
+
+Kp , KKp, KKKp , . . .
+sufﬁt à engendrer la suite agrippéenne.
+Nous pouvons comprendre V comme un modiﬁcateur de contexte épistémique. Supposons que le premier énoncé épistémique de la suite, c’est-à-dire
+Kp, se fait dans le contexte C1. Dans ce contexte, certains états de l’agent peuvent
+être des états où il sait quelque chose, où la connaissance de quelque chose lui
+est attribuée. L’opération «vraiment» ou «sûrement» a pour effet de changer ce
+contexte : d’un contexte C1 où l’agent sait que p, il pourrait passer à un contexte
+C2 où il ne sait plus que p. Le but du sceptique est de migrer progressivement
+vers des contextes épistémiques où les attributions de connaissance se font de
+plus en plus rares en raison des exigences de plus en plus élevées pour connaître.
+Savoir que p dans le contexte C1 est plus facile que vraiment savoir que p dans
+ce même contexte, car vraiment savoir que p dans C1 c’est savoir que p (au moins)
+dans le contexte épistémiquement plus rigoureux C2. L’application de V nous
+transporte toujours vers un contexte épistémique où il est plus difﬁcile connaître2.
+Cette interprétation de l’opérateur V se reﬂète dans l’usage courant de la
+locution «vraiment savoir que». Lorsqu’une personne afﬁrme (ou lorsqu’on
+afﬁrme d’une personne) qu’elle sait que p, le fardeau est moins élevé que si
+elle afﬁrme (ou que si l’on afﬁrme d’elle) qu’elle sait vraiment que p. Si la
+locution «vraiment savoir que» ne vous semble pas sufﬁsamment naturelle,
+interprétez plutôt «savoir que l’on sait» par les locutions «savoir pourquoi
+l’on sait» ou «savoir comment l’on sait». Il faut se garder de confondre ces
+dernières avec le «savoir-faire» au sens où Ryle l’entendait, c’est-à-dire au
+sens d’une connaissance pratique opposée à une connaissance théorique (know
+how/knowing that). La locution «savoir pourquoi/comment l’on sait que»
+s’applique à des propositions, et le «pourquoi/comment» signiﬁe que S a une
+connaissance plus approfondie de la manière dont il connaît.
+
+456
+
+Dialogue
+
+Ces remarques devraient nous montrer également qu’un argument contre la
+thèse (KK) n’a pas à prendre la forme d’une suite régressive. Une telle chose
+est peut-être nécessaire pour le sceptique aﬁn d’obtenir la réduction à l’absurde
+recherchée, mais le détracteur anti-KK n’a pas à s’engager aussi loin : son seul but
+est de montrer que certaines conditions de vérité de Kp ne sont pas des conditions
+de vérité de KKp, que certaines situations où Kp est vrai ne sont pas des situations
+où KKp est vrai. Si le principe (VK) est valide et si l’opérateur V fait effectivement
+monter les enchères épistémiques, alors le travail qu’aurait à accomplir ce détracteur
+est simple : trouver une proposition p et un contexte C dans lequel Kp est vrai et
+VKp est faux, il s’ensuivra alors que KKp est faux dans C par (VK). Étant donnée
+la facilité (en apparence) que nous avons à trouver des contextes où un agent sait
+sans vraiment savoir, il semble que sa tâche est simple. Seulement faut-il souligner
+que toute cette stratégie repose sur la validité de (VK), et j’ai des raisons de douter
+de cette validité, c’est-à-dire de douter du fait que la connaissance d’ordre
+supérieur mène à un «enrichissement» de la connaissance d’ordre inférieur.
+J’élaborerai davantage sur ce point plus loin. Pour le moment contentons-nous de
+nommer cette interprétation de la connaissance (d’ordre supérieur), c’est-à-dire
+l’interprétation qui rend (VK) vrai, l’interprétation agrippéenne de KK.
+Nous voyons donc que les critiques basées sur les régressions à l’inﬁni ne
+sont pas nécessairement au cœur de l’échec — si échec il y a — de la thèse KK,
+car si le détracteur peut montrer la validité de (VK) il n’a pas besoin de brandir
+une quelconque régression à l’inﬁni pour arriver à ses ﬁns; il sufﬁra du simple
+fait que les locutions «savoir que» et «vraiment savoir que» soient différentes
+(qu’elles aient des conditions de vérité sufﬁsamment différentes).
+Mais qu’en est-il de l’argument «inﬁnitaire» tracé en premier lieu et qui
+ne dépendait pas de (VK). Son sort est-il aussi facilement réglé? En vérité, je
+dirais que oui. Une partie essentielle de la réduction à l’absurde dépendait
+de l’hypothèse suivant laquelle il est impossible de fournir un nombre inﬁni de
+raisons ou qu’il était impossible, dans le contexte de l’argument, de satisfaire
+l’ensemble des conditions J np chez un agent ﬁni. Mais cette présupposition est
+injustiﬁée. Justiﬁer les énoncés «1 = 1», «2 = 2», . . . ou la conjonction inﬁni «1
+= 1 et 2 = 2 et 3 = 3 et . . .» ou encore la conjonction inﬁnie «il y a au moins un
+nombre pair et il y a au moins deux nombres pairs et il y a au moins trois nombres
+pairs . . .» ne nous met pas dans un embarras inﬁnitaire; la possession par l’agent
+d’une preuve qu’il existe un nombre inﬁnie de nombres pairs, et donc sa
+connaissance du fait qu’il existe un nombre inﬁni de nombres pairs, sufﬁt aﬁn de
+connaître les autres propositions de la conjonction inﬁnie. La raison qui justiﬁe
+la conjonction peut être la même qui justiﬁe chaque conjoint. L’inﬁni ne devient
+«régressif» que si nous devons fournir une justiﬁcation différente à chaque étape;
+en soi, l’inﬁni n’est pas sufﬁsant pour être problématique.
+Celui qui prétend que la thèse KK comporte un fardeau inﬁnitaire ne peut
+donc pas présupposer, sans argument à l’appui, que l’inﬁni est forcément un
+fardeau. Le fardeau de la preuve lui échoit. Par ailleurs, il n’est pas impossible
+d’imaginer que KK pourrait être défendue à l’aide d’un principe d’identité
+
+Savoir que l’on sait 457
+(KK≡) Les conditions de vérité de «S sait que p» sont identiques aux conditions de
+vérité de «S sait qu’il sait que p»
+
+Corollairement, (KK≡) affirme que les conditions de vérités de K np, pour
+tout n, sont identiques. Toute modalité épistémique qui satisfait KK et la
+factivité (le fait que seulement le vrai est connu) va satisfaire (KK≡). Appelons
+une interprétation de la connaissance transparentiste si elle satisfait (KK≡). Si
+cette interprétation est correcte, il n’y a rien de régressif dans la connaissance
+d’ordre supérieur, car il n’y a rien de pathologique dans la suite inﬁnie qu’elle
+produit. Si cette interprétation est fausse, nous le constaterons bien avant
+l’inﬁni.
+3. La transparence
+Les détracteurs de la thèse KK font souvent valoir la parenté entre celle-ci
+et la thèse de la transparence. Thèse communément rattachée à Descartes, elle
+stipule que si un agent S est dans un état mental E (pas forcément un état mental
+épistémique), alors S sait qu’il est dans l’état E. Il va sans dire que Descartes
+n’a jamais énoncé cette thèse ou cherché à la défendre, et pour être juste envers
+lui, la thèse de la transparence semble n’avoir rien de particulièrement cartésien,
+car elle était admise par tous ses contemporains. Pour tout dire, cette thèse est
+tombée en disgrâce seulement au vingtième siècle, avec des théories externalistes
+de connaissance. Certes, le dualisme cartésien présuppose la transparence mais
+d’autres conceptions de l’esprit la présupposaient aussi.
+Chez Descartes, il n’y a aucun doute sur notre capacité à «percevoir» nos
+états internes. Toute l’entreprise de reconstruction décrite dans les Méditations
+requiert non seulement une conscience de nos opinions et idées reçues mais
+aussi une capacité à percevoir les propriétés «internes» de ces opinions et idées,
+et une capacité à les rejeter. L’œil de l’esprit peut scruter et sonder son inventaire
+d’idées et déterminer, en particulier, ce qu’il sait et ce qu’il ne sait pas. Il n’y a
+par ailleurs aucune difﬁculté inhérente, toujours selon Descartes, à savoir
+qu’une idée est entretenue ou non, d’où le fait que cette transparence entraîne
+naturellement les formes positive et négative de l’introspection épistémique :
+Kp → KKp et ¬Kp → K¬Kp (c’est-à-dire que S sait qu’il ne sait pas que p
+lorsqu’il ne sait pas que p).
+Chez Hume, l’esprit est conçu avec cette même capacité à comprendre ses
+états internes, ses idées, et les relations structurant les états internes. On le voit
+tantôt avec la comparaison entre l’idée issue d’une perception «directe» et
+l’idée remémorée, et tantôt avec son analyse des relations entre idées. Tout cela
+suggère clairement que l’esprit perçoit clairement les idées qu’il entretient et
+les propriétés «internes» qu’elles ont. L’absence de connexion causale entre
+deux idées est d’ailleurs démontrée par la capacité qu’a l’esprit de se représenter
+l’idée correspondant à la cause sans l’idée correspondant à l’effet. La transparence
+mentale n’est donc pas seulement l’apanage du cartésianisme qu’il est facile de
+critiquer aujourd’hui. Il est aussi celui d’un empirisme radical.
+
+458
+
+Dialogue
+
+Qu’elle soit de Descartes ou non, la thèse de la transparence est déﬁnitivement
+tombée en défaveur. La thèse KK semble donc coupable par association, et le
+fait qu’elle porte le nom suspicieux «introspection épistémique» n’aide pas à
+l’affaire. Toutefois, notre connaissance du sophisme de l’afﬁrmation du conséquent devrait freiner notre empressement à conclure la fausseté de KK de la
+fausseté de la transparence. En effet, le sens de l’implication est bel et bien de
+la transparence à l’introspection : si la thèse de la transparence est vraie alors
+la thèse KK (de même que la thèse K¬K) est vraie, et par contraposition, la
+fausseté de KK implique la fausseté de la transparence. Ainsi, rien ne peut être
+tiré de la fausseté de la transparence seule. Cela dit, ça ne prouve pas la validité
+de KK non plus; il se pourrait en effet que, parmi les états mentaux qui rendent
+la thèse de la transparence fausse, il y en ait qui soient des états épistémiques.
+Mais quelle importance ont les états mentaux pour la validité de la thèse KK
+(et K¬K)? Doit-on forcément comprendre cette thèse en termes d’états mentaux?
+Et si oui, doit-on forcément comprendre les états mentaux de manière «transparentiste», à travers le spectre d’une philosophie de l’esprit qui présuppose la transparence des états mentaux? Il est clair que la déﬁnition de la connaissance (et par
+conséquent l’interprétation de KK) peut dépendre d’une conception de l’esprit.
+Si notre conception de l’esprit est cartésienne ou «transparentiste», il est normal
+de défendre une interprétation introspective de la connaissance et en particulier
+une interprétation introspective des thèses KK et K¬K; mais si notre conception
+de l’esprit est différente, rien ne nous force à interpréter ces thèses de manière
+introspective. En ce sens, il y a donc quelque chose de retors dans l’argument
+contre KK (et K¬K) s’il ne se limite qu’à ça : on interprète la connaissance
+selon une conception de l’esprit erronée et, par la suite, on souligne que la connaissance ne peut pas avoir la propriété que KK (ou K¬K) lui attribue parce
+que la conception de l’esprit en question est fausse. Si la transparence est
+fausse, on est en droit d’exiger une conception de l’esprit plus appropriée aﬁn
+de voir si la thèse KK est vraie quand elle est interprétée dans ce contexte précis. L’échec de KK doit donc être jugé relativement à la conception de l’esprit
+que l’on adopte. S’il s’oppose à KK, le béhavioriste, par exemple, devra
+montrer pourquoi cette thèse est fausse pour une conception béhavioriste de la
+connaissance et non pas pourquoi elle est fausse sous sa forme introspective.
+Ces considérations ne sont pas étrangères à certaines propriétés qui sont
+souvent attribuées à l’externalisme épistémologique. Si Goldman en est venu à
+développer sa conception ﬁabiliste de la connaissance (une mouture particulière
+de l’externalisme épistémique), c’est qu’il a compris qu’une caractérisation
+externe de la connaissance permettait d’éviter la régression à l’inﬁni des justifications à laquelle menaient invariablement les conceptions internalistes.
+On pourrait donc légitimement penser que le ﬁabilisme ne valide pas la thèse
+KK, puisqu’il est possible de connaître quand la croyance que p d’un agent S a
+été formée par un processus ﬁable, sans pourtant savoir que l’on sait, si S ne
+sait pas que ce processus est ﬁable, comme ce serait le cas pour la plupart des
+processus de formation de croyances selon Goldman. Mais remarquez qu’on
+
+Savoir que l’on sait 459
+
+commettrait encore une fois la même erreur que plus haut : s’il est vrai que S
+ne sait pas que le processus de formation de croyance est ﬁable au sens cartésien,
+il se pourrait que la croyance qu’il sait que p ait été formée par un processus
+ﬁable, donc qu’il sache qu’il sait que p, au sens ﬁabiliste. Rien au sein du ﬁabilisme
+ne semble proscrire la possibilité que nous ayons un processus ﬁable de formation
+de croyances à propos de nos connaissances.
+L’association entre la thèse KK et l’introspection ou l’internalisme n’est
+donc pas justiﬁée. Arthur C. Danto observe la chose en ces termes :
+[. . .] there are philosophical views that knowledge is a cognitive condition — a state
+in which the knower is in — and that when he is in this state, his being so is transparent
+to himself. So, when he knows, he knows that he knows in virtue of the reflexive
+transparency of the cognitive condition. We could not know without knowing that we
+knew. This could be so; but the original conjunction [“I know that s but I do not know
+that I know that s”] would sound weird to anyone with an ear tuned to correct English,
+and, since few native speakers are aware of the transparency theory and since fewer
+still believe it to be true, the weirdness cannot be explained with reference to that theory
+(Danto, 1967, p. 33).
+
+Pour juger de la thèse KK, selon Danto, nul besoin d’une conception de l’esprit : il
+sufﬁt d’observer l’usage du verbe savoir et la pratique des attributions d’attitudes
+épistémiques. Selon cette approche, la thèse KK veut que les conditions sous
+lesquelles un locuteur typique attribue l’attitude épistémique «il sait que p» à
+un agent S sont des conditions sous lesquelles un locuteur typique attribue
+l’attitude épistémique «il sait qu’il sait que p» à S. Rien n’est présupposé ici
+quant à la nature et la capacité introspective de l’esprit.
+Il y a d’autres arguments contre la thèse KK qui exploitent la transparence
+d’une manière plus subtile encore, les plus connus étant ceux de Radford (1966)
+et de Lemmon (1967). Radford donne l’exemple d’une personne à qui l’on
+demande «En quelle année Élizabeth (I) est-elle décédée?» et qui répond, sans
+trop de conviction, «Je ne sais pas, 1603?». Radford afﬁrme que nous serons
+enclins à dire de cette personne qu’elle connaît la réponse à la question mais
+qu’elle ne sait pas qu’elle connaît la réponse, comme en témoigne son manque
+de conviction. L’exemple de Lemmon, similaire à certains égards, est celui d’une
+personne à qui l’on demande «Connaissez-vous la valeur de pi à dix décimales
+près?», et qui répond «Non» mais quelques instants plus tard dit «Oui! Il s’agit
+de 3,1415926536». Lemmon prétend qu’au moment de la première réponse la
+personne connaît la valeur de pi sans savoir qu’elle la connaît.
+Lehrer considère que ce ne sont pas des contre-exemples à KK pour des
+raisons similaires à ce qui a été exposé plus haut (Lehrer, 1970). La raison pour
+laquelle l’agent semble savoir que p sans savoir qu’il sait que p tient au fait
+que, pour la connaissance du premier ordre, c’est-à-dire son savoir que p,
+l’agent ne doit pas forcément entretenir une conviction consciente dans le fait
+que p ou une inclination à afﬁrmer que p, alors que pour la connaissance du
+
+460
+
+Dialogue
+
+deuxième ordre (ou d’ordre supérieur), c’est-à-dire son savoir qu’il sait que p,
+cette conviction consciente ou inclination à afﬁrmer est nécessaire : dans le
+premier exemple, l’agent n’a ni la conviction consciente du fait qu’Élizabeth
+est décédée en 1603 ni n’est enclin à afﬁrmer qu’elle est décédée en 1603, mais
+il sait néanmoins qu’elle est décédée en 1603; de même pour le deuxième
+exemple, l’agent n’a ni conviction consciente du fait que pi = 3,1415926536 ni
+inclination à affirmer que pi = 3,1415926536, mais il sait néanmoins que
+pi = 3,1415926536. Lehrer soulève la disparité entre la connaissance du premier
+et du deuxième ordre dans ces exemples. Soit on peut connaître, au premier
+et au deuxième ordre, sans entretenir de conviction consciente ou d’inclination
+à afﬁrmer, soit on doit entretenir pour connaître, au premier et au deuxième
+ordre, une conviction consciente et une inclination à afﬁrmer, mais il semble
+erroné d’exiger une chose au premier ordre et une autre au deuxième ordre. Par
+conséquent, si les exigences pour connaître s’appliquent uniformément pour
+tous les ordres, suivant la première option, rien n’empêcherait l’agent de savoir
+qu’il sait car la connaissance dans ce cas n’exige aucune conviction consciente;
+et suivant la deuxième option, l’agent ne saurait pas tout court (au premier ordre)
+parce qu’il n’est pas conscient de savoir.
+Ces considérations rappellent une distinction entre la connaissance dispositionnelle et la connaissance épisodique que l’on pourrait faire remonter à
+Aristote3. Aristote parle d’un sens du terme «savoir» selon lequel la connaissance
+pourrait être attribuée à une personne qui dort : Einstein savait que E = mc2 même
+quand il n’y pensait pas, quand il était inconscient ou qu’il l’avait oublié. C’est un
+sens qu’on pourrait qualiﬁer de dispositionnel ou de potentiel. Par opposition, on
+pourrait qualiﬁer d’épisodique ou d’actuel le savoir que l’on entretient consciemment et actuellement. Quand on sait, dans le sens dispositionnel, c’est que
+l’on peut savoir épisodiquement. L’innéisme du Ménon est une forme extrême de
+connaissance dispositionnelle. L’esclave de Ménon ne sait pas comment dupliquer
+la surface du carré selon le sens épisodique, actuellement, mais il sait le faire
+dispositionnellement, potentiellement (si l’on en croit Socrate).
+En exploitant la distinction entre connaissance actuelle et potentielle, on
+peut élaborer une panoplie de contre-exemples comme ceux de Radford et de
+Lemmon. Il sufﬁt d’exiger plus d’actualité de la connaissance d’ordre supérieur
+que de la connaissance d’ordre inférieur. Pour simpliﬁer, supposons que notre
+connaissance est de type question-réponse, et adoptons le standard d’attribution
+de connaissance des jeux de connaissance générale à la télévision : si la réponse
+est donnée dans un certain délai, la personne connaît la réponse. L’attribution
+épistémique dépendra donc du délai : selon la durée du délai, le sujet pourrait
+connaître ou ne pas connaître la réponse à une même question. Le délai permet
+de représenter grossièrement les «stades» épistémiques entre la connaissance
+actuelle et potentielle. En exigeant d’un agent qu’il réponde en moins d’une
+minute pour la connaissance d’ordre inférieur, et en moins de dix secondes
+pour la conséquence d’ordre supérieur, on pourrait dire de l’agent qui prend vingt
+secondes à répondre à la question «Quelle est la valeur de pi à dix décimales
+
+Savoir que l’on sait 461
+
+près?» qu’il sait que pi = 3,1415926536 mais qu’il ne sait pas qu’il le sait et ce,
+même si la connaissance d’ordre supérieur était identique à la connaissance
+d’ordre inférieur (en ce sens que Kp serait identique à KKp). Il est clair que nous
+avons affaire ici au même genre de critiques auxquelles Lehrer a répondu.
+En étant charitable avec ces arguments, nous pourrions peut-être leur donner
+une interprétation différente qui suit plus ou moins l’idée exprimée par le
+principe (VK) : la première occurrence de «sait» (à partir de la gauche) agirait
+comme un modiﬁcateur de la deuxième occurrence de «sait». Il y aurait donc
+deux sortes de connaissances impliquées dans l’argument, mais ce n’est pas
+parce qu’on applique une déﬁnition de «savoir» à la connaissance du premier
+ordre et une autre déﬁnition de «savoir» à la connaissance du deuxième ordre,
+c’est plutôt que la connaissance d’ordre supérieur tend à modiﬁer la connaissance d’ordre inférieur, que la connaissance (savoir que p) n’est pas la même
+lorsqu’elle est seule et lorsqu’elle ﬁgure dans une attribution épistémique d’ordre
+supérieur. Par exemple, les deux occurrences du mot «sait» n’auraient pas la même
+signiﬁcation dans l’attribution épistémique «S sait que pi = 3,1415926536» et
+dans l’attribution «S sait qu’il sait que pi = 3,1415926536». Notez bien que
+l’accent est mis sur le terme en caractères gras, celui qui est le plus près de la
+proposition connue (la proposition «pi = 3,1415926536»). Il s’agit bien sûr
+d’une autre façon de présenter l’interprétation agrippéenne de la connaissance
+d’ordre supérieur où «savoir que l’on sait que p» signiﬁerait «vraiment savoir
+que p», «savoir que p sûrement» ou encore «définitivement savoir que p».
+En comprenant KK de cette façon, nous aurions peut-être de quoi faire fonctionner
+les contre-exemples de Radford et de Lemmon, ce qui nous ramène au problème
+de validité du principe (VK).
+4. L’argument contre KK de Williamson
+Une analyse de la thèse KK ne serait pas complète sans considérer les arguments
+que Williamson a déployés pour critiquer celle-ci. Dans Knowledge and Its Limits,
+il donne deux versions d’un argument contre KK que je présente ici dans une forme
+modiﬁée et un peu plus générale mais qui conserve néanmoins ses points saillants.
+Je défendrai l’idée que ces arguments reposent eux aussi sur le principe (VK).
+Commençons par supposer qu’il existe une certaine famille A de situations
+ou d’états. L’argument exploite le caractère vague ou ﬂou des conditions de
+vérité de certains énoncés épistémiques, nous supposerons donc qu’il existe
+une certaine relation N de proximité ou de voisinage entre les situations (donc
+N est une relation binaire sur A). La manière dont le vague contribue à l’argument
+est par le principe suivant
+(SK) Pour toute situation α et pour toute4 proposition p, si S sait qu’il sait que p dans
+α alors S sait que p dans toute situation β telle que αNβ.
+
+Nous pourrions nommer ce principe celui de sécurité épistémique : vu le
+caractère vague des conditions de vérité de «savoir que p», lorsque S sait qu’il
+
+462
+
+Dialogue
+
+sait que p dans une certaine situation α il doit continuer à savoir que p dans des
+situations avoisinantes β. Autrement dit, savoir que l’on sait que p entraîne que
+l’on sait que p sûrement ou en toute sécurité. (SK) entretient donc une parenté
+certaine avec le principe (VK). Si nous employons la notation α φ pour signiﬁer
+que φ est vrai dans la situation α, cette condition s’écrit formellement ainsi :
+SK Si
+
+KKp alors
+
+Kp pour toute situation β telle que N
+
+Nous pourrions souligner la proximité entre ce principe et le principe (VK)
+davantage en considérant une modalité V dont la signiﬁcation serait donnée par
+la clause
+V
+
+Vp ssi
+
+p pour toute situation β telle que N
+
+L’opération V correspondrait à la modalité déﬁnie par la relation N, faisant de
+(SK) une simple réécriture de (VK). Mais passons sur cette observation pour le
+moment.
+Williamson prend pour acquis que le principe (SK) est valide et s’en sert
+pour démontrer la fausseté de (KK). L’argument est par l’absurde : en supposant
+que la thèse KK est vraie, nous arrivons à la conclusion qu’une certaine proposition qui n’est pas vraie partout est connue partout. Par exemple, prenons la
+proposition «il fait froid» et une famille de situations A telle que : certaines
+situations de A sont des situations où il fait chaud et l’on sait qu’il fait chaud,
+c’est-à-dire que l’on sait qu’il ne fait pas froid; certaines des situations de A
+sont des situations où il fait froid et l’on sait qu’il fait froid; d’autres encore,
+peut-être la majorité, sont des situations où il fait chaud ou des situations où il
+fait froid, mais l’on ne sait ni qu’il fait chaud ni qu’il fait froid; ce sont pour
+ainsi dire des cas limites. Dans ce contexte, le principe (SK) nous dit que pour
+savoir que l’on ressent le froid ou pour savoir que l’on sait qu’il fait froid, on doit
+ressentir le froid ou savoir qu’il fait froid dans toutes les situations avoisinantes.
+L’argument requiert une autre hypothèse sur la relation de voisinage «N» qui
+est plutôt vraisemblable :
+(N) Pour toute situation α et β, il existe une suite de situations α0, α1, . . ., αn telles que
+α0 = α, αn = β et αiNαi+1.
+
+La condition (N) énonce qu’on peut passer d’une situation à n’importe
+quelle autre via une suite de changements progressifs «imperceptibles». Dans
+l’exemple précédent, l’idée est que je puis passer d’une situation où il fait 15°C
+à une situation où il fait 35°C en passant par une suite de situations avec des
+températures progressivement plus élevées, chacune étant dans le voisinage de
+la précédente (chacune étant indiscernable de sa voisine).
+Munis du principe (SK) et de l’hypothèse (N), la déduction de la contradiction
+est plutôt directe. Considérons une certaine proposition φ qui est connue dans une
+
+Savoir que l’on sait 463
+
+situation α. Nous supposerons qu’il existe une situation β dans laquelle φ n’est
+plus vraie. D’après l’hypothèse (N), il existe des situations α0, α1, . . ., αn telles
+que α0 = α, αn = β et αiNαi+1. L’argument se poursuit alors de la manière suivante :
+1)
+2)
+3)
+4)
+5)
+
+α Kφ
+α KKφ
+α 1 Kφ
+α2 KKφ
+α 3 Kφ
+
+Hypothèses sur α
+Thèse KK
+Par (SK)
+Thèse KK
+Par (SK)
+
+...
+6) β
+7) β
+8) ⊥
+
+Kφ
+φ
+
+Factivité
+Hypothèse sur β
+
+Dans l’autre version de argument, au lieu de formuler le principe (SK) en termes
+de situations voisines, on considère une famille de propositions pα indexées par un
+paramètre α, et où les valeurs de paramètre sont susceptibles de varier continûment dans un certain ensemble A. Par exemple, le paramètre en question pourrait
+représenter la température, le poids, la hauteur ou la couleur, auxquels cas la
+proposition pα signiﬁerait respectivement «il fait (environ) α degrés», «il pèse
+(environ) α kilos», «il mesure (environ) α mètres» ou «il est (environ) de la
+couleur α»5, 6. Puisque α varie de façon continue, si la proposition pα est vraie,
+il est très probable (quoique non-nécessaire) que pβ soit vraie lorsque β est dans
+le voisinage de α. Si la bille de fer pèse environ 1g, il est très probable qu’elle
+pèse environ 1.1 g. Si l’arbre mesure environ 15 mètres, il est très probable qu’il
+mesure environ 16 mètres.
+La locution «très probable» est nécessaire ici parce la vérité d’une proposition
+n’entraîne pas la vérité d’une proposition avoisinante. Supposons que la proposition météorologique «Il fait environ T °C» est vraie à condition qu’il fasse
+T±1 °C, et supposons, par ailleurs, qu’il fait 15°C dans la situation présente.
+Les propositions p14°C, p15°C, p16°C, pour n’en mentionner que quelques-unes,
+sont donc vraies. Mais la proposition p16.1°C n’est pas vraie et ce, en dépit du
+fait que la proposition avoisinante p16°C le soit.
+Le principe sur lequel se base cette nouvelle réduction à l’absurde de la thèse KK
+stipule qu’un agent S sait que si pα alors il ne sait pas que non- pβ, où β représente
+une valeur voisine de α. Plus formellement, si nous utilisons la relation «N» pour
+exprimer le fait que deux valeurs sont voisines, la condition s’énonce comme suit :
+NK
+
+K p
+
+K p , lorsque N
+
+Ce principe est en quelque sorte constitutif de notre connaissance des propriétés des
+propositions qui ont des conditions de vérité vagues ou des propositions desquelles
+
+464
+
+Dialogue
+
+nous avons une connaissance vague des conditions de vérité. Vue la nature de
+la dérivation, il aurait peut-être été plus simple de formuler la thèse autrement :
+(NK*)
+
+K ( Kp
+
+q ), lorsque q a des conditions de vérité voisines de celles de p.
+
+Une fois (NK) posé, l’argument procède en supposant plus ou moins ce que
+l’argument précédent supposait : d’abord, une condition analogue à (N) stipulant
+qu’il existe un chemin progressif (via la relation «N») entre n’importe quelle
+paire de valeurs de A; ensuite, une condition de non-trivialité sur les propositions impliquant qu’il existe un α et un β tels que la proposition pα est fausse et
+la proposition pβ est vraie; et enﬁn, une condition énonçant que la proposition ¬pα
+est connue (par un certain agent). Sous ces hypothèses, nous avons
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+
+K¬pα
+KK¬pα
+K(K¬pδ → ¬pγ), lorsque γNδ
+KK¬pδ → K¬pγ, lorsque γNδ
+KK¬pα → K¬pα1
+K¬pα1
+KK¬pα1
+KK¬pα1 → K¬pα2
+K¬pα2
+
+Hypothèse
+Thèse KK et MP, 1
+Formulation éq. de (NK)
+Normalité
+Instance de 4
+MP, 1 et 5
+Thèse KK et MP, 6
+Instance de 4
+MP, 7 et 8
+
+...
+10)
+11)
+12)
+13)
+
+K¬pβ
+¬pβ
+pβ
+⊥
+
+Factivité
+Hypothèse
+
+On pourrait se demander pourquoi Williamson a choisi d’exprimer cette idée
+par (NK) plutôt que
+NK
+
+Kp
+
+K q, si q a des conditions de vérité voisines de celles de p.
+
+Cette formule est impliquée par (NK) et la factivité mais elle n’implique pas
+elle-même (NK). Il se pourrait que (NK–) sufﬁse pour obtenir la contradiction
+avec KK mais j’en doute, le fait que la formule (NK) implique différents ordres
+de connaissance dans l’antécédent et dans le conséquent me semble important
+pour que l’argument fonctionne.
+L’élément clef de la dérivation est la formule KK¬pδ → K¬pγ. Remarquez la
+ressemblance entre cette formule et le principe (SK), et par conséquent le
+principe (VK). L’action de la modalité «V» susmentionnée pourrait être décrite
+par la validité de
+
+Savoir que l’on sait 465
+
+V*
+
+Vp
+
+q,si q a des conditions de vérité voisines de celles de p.
+
+Ainsi, de (VK) nous obtenons KK¬pδ → VK¬pδ et, en supposant que K¬pγ a
+des conditions de vérité voisines de celles de K¬pδ, (V*) nous donne la formule
+recherchée KK¬pδ → K¬pγ. C’est seulement dans la mesure où la thèse KK
+implique (VK) qu’on peut considérer que ces arguments sont des contre-exemples
+de l’introspection positive.
+La ressemblance entre les deux contre-exemples devrait maintenant ressortir :
+dans le premier, on garde les conditions de vérité de la proposition ﬁxes et on
+considère une famille de situations progressivement différentes dans lesquelles
+peut se trouver l’agent épistémique; dans le second, on ﬁxe la situation de
+l’agent et on considère une famille de propositions avec des conditions de vérité progressivement différentes. Au ﬁnal, cela revient au même : ce qui fait
+tourner l’argument est une certaine incarnation du principe (VK) dans un contexte vague. Je considère que l’argument de Williamson est parfaitement correct si la thèse KK est interprétée comme impliquant (VK). Mais cette façon
+d’interpréter KK est partielle : certes, il existe un sens de KK qui endosse cette
+interprétation, mais j’insiste pour défendre la viabilité de l’interprétation transparentiste également.
+5. Argument contre l’introspection négative
+Dans Knowledge and Belief, Hintikka entreprit l’une des premières études systématiques, autant syntaxique que sémantique, des propriétés logiques des modalités de connaissance et de croyance. L’étude donna lieu à des arguments pour
+et contre certaines propriétés remarquables de la connaissance d’ordre
+supérieur : notamment, des arguments pour la thèse de l’introspection positive
+(la thèse KK), et des arguments contre la thèse de l’introspection négative,
+la thèse donnée par la formule ¬Kp → K¬Kp (et désignée dans ce qui suit
+par (K¬K)).
+L’approche d’Hintikka consiste à déterminer sous quelles conditions un ensemble d’énoncés est cohérent («consistant»)7 ou, dans ses termes, «défendable». Le qualiﬁcatif «défendable» est expliqué au moyen d’une notion de
+«système modèle» qui anticipe de peu la notion de modèle de Kripke. Il consiste
+en deux choses : un ensemble Ω d’ensembles de formules maximalement cohérents
+et une relation binaire ρ sur Ω. Un ensemble de formules maximalement cohérent
+représente en quelque sorte une possibilité, et la relation binaire indique, pour
+chaque possibilité, quelles sont ses possibilités alternatives. Ces deux aspects
+sont nécessaires aﬁn d’évaluer une formule épistémique ou doxastique. Les
+conditions que l’on pose sur les systèmes modèles auront une incidence directe
+sur la notion de validité logique qui émergera de cette notion d’évaluation; en
+particulier, certaines contraintes sur ρ correspondront directement à la validité
+de certaines formules.
+Parmi les plus importantes conditions que doivent satisfaire ces modèles,
+selon Hintikka, on retrouve (en supposant que μ et μ* appartiennent à Ω) :
+
+466
+
+Dialogue
+
+(C.P*)
+(C.KK*)
+(C.K)
+
+Si Pq ∈ μ, alors il existe une alternative μ* à μ (i. e. μρμ*)
+telle que q appartient à μ*.
+Si Kp ∈ μ, alors, pour toute alternative μ* à μ, Kp ∈ μ*.
+Si Kp ∈ μ, alors p ∈ μ.
+
+(L’expression Pq est synonyme de ¬K¬q et signiﬁe «il est épistémiquement
+possible que q».) La première condition déﬁnie ce qu’est la modalité de possibilité
+(épistémique ou non). La deuxième condition est plus ou moins synonyme de
+la thèse KK : à l’aide de certaines règles pour les constantes logiques (qui sont
+incontestables d’un point de vue classique), on peut aisément démontrer que la
+formule Kp → KKp est valide (appartient à tous les ensembles de formules). La
+troisième condition est la factivité, le fait que toute connaissance est connaissance
+de quelque chose de vrai.
+Pour la justiﬁcation de (C.KK*), on est renvoyé à une partie antérieure de
+l’essai où Hintikka trace la notion de cohérence ou de «défendabilité» pour les
+formules de ce langage :
+(A.PKK*)
+
+Si Kp1, Kp2, . . ., Kpn et Pq appartiennt à un ensemble
+cohérent λ alors l’ensemble {Kp1, Kp2, . . ., Kpn, q} est un
+ensemble cohérent.
+
+Autrement dit : si la possibilité épistémique d’une certaine chose est compatible
+avec ma connaissance alors cette chose est compatible avec ma connaissance.
+L’explication qu’il offre pour ce principe est la suivante :
+One answer to this question seems to be as follows. That q is the case can be compatible with everything a certain person — let us assume that he is referred to by a —
+knows only if it cannot be used as an argument to overthrow any true statement of the
+form “a knows that p”. Now this statement can be criticized in two ways. One may
+either try to show that p is not in fact true or else try to show that the person referred
+to by a is not in a position or a condition to know that it is true. In order to be compatible with everything he knows, q therefore has to be compatible not only with every
+p which is known to him but also with the truth of all the true statements of the
+form “a knows that p.” And this is exactly what is required by (A.PKK*) (Hintikka,
+1962, p. 16).
+
+Il n’est pas clair pour moi que cette condition soit sufﬁsante pour assurer la
+validité de (KK). Si, comme la formulation de (A.PKK*) le suggère, «compatible»
+signiﬁe «cohérent», alors on peut très bien exiger que l’ensemble {Kp1, Kp2, . . .,
+Kpn, q} soit cohérent sans pour autant exiger que toute alternative μ* à μ soit
+une extension maximalement cohérente de {Kp1, Kp2, . . ., Kpn, q}. Seulement
+cette dernière condition assurera la validité de (KK). Être cohérent signiﬁe
+seulement qu’il existe un ensemble maximalement cohérent qui inclue {Kp1,
+Kp2, . . ., Kpn, q}. Hintikka n’envisage pas cette difﬁculté.
+
+Savoir que l’on sait 467
+
+L’argument de Hintikka contre l’introspection négative soutient que la combinaison de la factivité et de l’introspection négative produit une conséquence
+contre-intuitive; l’une de ces thèses est donc fausse; et puisqu’il ne peut s’agir
+de la factivité, il s’ensuit que l’introspection négative doit être rejetée. Voici la
+conséquence contre-intuitive et comment elle est produite :
+1)
+2)
+3)
+4)
+
+Kp → p
+¬p → ¬Kp
+¬Kp → K¬Kp
+¬p → K¬Kp
+
+Factivité
+Contraposée de 1
+Introspection négative
+2, 3 et logique propositionnelle
+
+Pourquoi la simple fausseté d’une proposition p entraînerait que l’on sache que
+l’on ne sait pas que p? Voilà le dilemme. Prenez un agent S et prenez n’importe
+quelle proposition p fausse, la plus inusitée ou la plus banale, il s’ensuivrait
+d’après la ligne 4 que S sait qu’il ne sait pas p.
+Williamson concocte, dans Knowledge and Its Limits, un contre-exemple à
+l’introspection négative qui semble exploiter la même idée8. Supposons que
+Pline sait que la ville de Pompéi a une population d’environ vingt mille habitants,
+y ayant résidé une partie de l’année précédente. À son insu, le Mont Vésuve est
+en éruption depuis quelques jours et la ville de Pompéi est complètement ensevelie sous la cendre et la lave, deux mille de ses habitants sont morts et les autres
+ont fui. La ville de Pompéi n’ayant plus vingt mille habitants, il s’ensuivrait
+que Pline ne sait pas que Pompéi a une population de vingt mille habitants (car
+la connaissance est factive : ¬p → ¬Kp). Cependant, malgré l’ignorance de
+Pline (malgré le fait qu’il ne sait pas que Pompéi a une population de vingt
+mille), il ne sait pas qu’il ignore ce fait.
+Comment sauver l’introspection négative devant cette conclusion embarrassante? Une façon serait de s’en prendre à la factivité. Cette stratégie n’est pas
+des plus faciles considérant comment il semble naturel, voire incontournable,
+qu’une déﬁnition de la connaissance satisfasse cette condition. Cela dit,
+l’abandon de ce principe n’est pas impensable. Par exemple, le ﬁabiliste dit
+qu’une croyance est une connaissance si elle est produite par un processus de
+formation de croyance ﬁable. Qui dit «ﬁable» ne dit pas forcément «infaillible».
+La ﬁabilité est un concept probabiliste : un processus ﬁable doit produire une
+croyance vraie la plupart du temps, mais pas tout le temps9. Le ﬁabiliste devra
+admettre que certaines croyances qualiﬁées de connaissances par sa déﬁnition
+ne seront pas vraies. De même, n’importe quelle conception qui déﬁnira la
+connaissance comme une croyance ayant un degré de conviction ou de probabilité (subjective) plus élevé qu’un certain rang aurait elle aussi ce problème :
+quel que soit le rang r, si 0 &lt; r &lt; 1, on pourra toujours trouver une loterie d’une
+amplitude telle que la croyance «Billet x est perdant» aura un degré supérieur
+à r pout tout x (même si x est le billet gagnant). Ce n’est donc pas impossible d’être contre la factivité, mais cela peut comporter des conséquences
+importantes.
+
+468
+
+Dialogue
+
+Si la factivité comme telle peut sembler raisonnable, pouvons-nous en
+dire autant de sa forme contraposée? La proposition ¬p → ¬Kp ou, de manière
+équivalente, la proposition p → ¬K¬p sont elles aussi plausibles? Tout dépend
+ici de notre façon de lire ¬K ou ¬K¬. Si ¬K ne signiﬁe rien de plus que «S ne
+sait pas que», c’est du pareil au même. Mais n’oublions pas qu’en logique
+épistémique l’expression ¬K¬p est équivalente à Pp, où l’expression P peut
+signiﬁer
+(P1) S estime, du mieux de sa connaissance, qu’il est possible10 que ___
+(P2) S ignore qu’il est faux que ___
+(P3) La connaissance de S n’élimine pas la possibilité que ___
+Dans le contexte de l’exemple, si Pompéi n’a plus vingt mille habitants alors,
+selon la contraposée de la factivité, on aurait que
+i)
+
+Pline estime, au mieux de sa connaissance, qu’il est possible que Pompéi n’ait pas vingt mille habitants.
+ii) Pline ignore que Pompéi a vingt mille habitants.
+iii) La connaissance de Pline n’élimine pas la possibilité que Pompéi n’ait
+pas vingt mille habitants.
+Mais les sens usuels des expressions «estime», «ignore» ou «élimine»
+endossent-t-ils (i)-(iii)? Si, dans le contre-exemple, Pline ne sait pas qu’il ne
+sait pas, c’est, d’après ce que je comprends, parce qu’il s’attend à connaître la
+population de Pompéi ou parce qu’il croit la connaître (erronément bien sûr).
+Pline croit connaître la population de Pompéi, mais il a tort. Si Pline croit savoir
+que la population de Pompéi est de vingt mille habitants, il est a priori difﬁcile
+de comprendre pourquoi, suivant (i), il estimerait, au mieux de sa connaissance,
+qu’il est possible que Pompéi n’ait pas vingt mille habitants, ou pourquoi, suivant
+(iii), sa connaissance n’éliminerait pas la possibilité que Pompéi n’ait pas vingt
+mille habitants.
+On pourrait peut-être expliquer ces conﬂits par un ﬂottement entre une conception internaliste et externaliste des termes dans (i) à (iii). La locution «estime,
+au mieux de sa connaissance, que» évoque quelque chose de purement interne
+à l’agent, alors que l’ignorance que Pline manifeste quant à la population de
+Pompéi est un fait «externe» à lui en quelque sorte; elle se produit extérieurement à lui, malgré lui. Elle se produit malgré le fait qu’il n’entretient activement
+aucune ignorance, c’est-à-dire en l’absence d’une attitude consciente d’ignorance.
+La même analyse tient-elle pour le principe d’introspection négative?
+Ce qui semble faire échec à l’introspection négative dans le contre-exemple
+de Williamson est le caractère inconscient de son ignorance : s’il n’est pas
+conscient d’ignorer, il ne peut savoir qu’il ignore. Autrement dit, Williamson
+semble présupposer qu’un agent ne peut savoir qu’il ignore que s’il est conscient
+d’ignorer. L’externaliste pur et dur, voire le tiède et mou, contestera bien sûr la
+
+Savoir que l’on sait 469
+
+validité générale de l’implication «savoir que p entraîne avoir conscience du
+fait que p». La question est de savoir s’il la contestera toujours lorsque p se
+rapporte seulement aux propositions «épistémiques» (des propositions faisant
+état de la connaissance, de l’ignorance, de la connaissance de l’ignorance, etc.
+d’un certain agent ou d’un groupe d’agents). On pourrait être externaliste pour la
+connaissance en général mais internaliste pour la connaissance d’ordre supérieur
+(la connaissance se rapportant à des états épistémiques). Si tel est le cas, le contreexemple tient la route. Mais n’y a-t-il pas matière à soupçonner une ressemblance
+entre cette situation et celle que Lehrer dénonçait dans les contre-exemples de
+Radford et de Lemmon, c’est-à-dire une politique de la connaissance faisant
+deux poids deux mesures? Imaginons une théorie externaliste de la connaissance
+selon laquelle S pourrait savoir qu’il ignore que p sans pour autant être conscient
+du fait qu’il ignore que p (en vertu d’une certaine connexion nomologique par
+exemple). Dans ce cas, la conscience ou l’inconscience de Pline ne nous importerait peu, il pourrait savoir qu’il ignore que Pompéi n’a pas vingt mille
+habitants sans être conscient qu’il l’ignore. Il s’agit seulement d’une possibilité
+théorique, et je ne suis pas certain de défendre cette approche, mais de deux
+choses l’une : ou bien la connaissance d’ordre supérieur ne requiert pas la conscience de connaître ou d’ignorer, auquel cas on devra montrer comment Pline
+est un contre-exemple à l’introspection négative; ou bien l’externaliste est
+internaliste pour la connaissance d’ordre supérieur et il devra expliquer l’utilité
+de ses attaques contre la transparence.
+6. Une caractérisation de quoi?
+La discussion du paragraphe précédent fait ressortir une chose cependant :
+l’introspection négative est incompatible avec une conception internaliste de la
+connaissance d’ordre supérieur11. J’aimerais montrer dans cette section comment il est possible d’éviter cette conclusion, mais pour ce faire il faudra
+s’attarder à la structure du contre-exemple en question et à la façon dont il
+falsiﬁe l’introspection négative.
+Je prétends que ce contre-exemple suit une recette plus ou moins simple : il faut
+(CE1)
+(CE2)
+
+Choisir un certain type de proposition φ pour lequel il est raisonnable de dire qu’un agent S sait que φ dans la plupart des situations.
+Choisir une situation Σ où la proposition φ est fausse mais dans
+laquelle S croit que φ est vraie.
+
+Par ailleurs, la falsification ne pourrait être complète sans l’appui des hypothèses auxiliaires suivantes :
+(*)
+(**)
+(***)
+
+Bp → ¬B¬p
+Kp → Bp
+Bp → BKp
+
+470
+
+Dialogue
+
+Ces hypothèses concernent l’interface entre la connaissance et la croyance en
+général. (Petite remarque sur la notion représentée par «B» ici : on peut la
+comprendre comme une forme forte de croyance (consciente) s’apparentant à la
+croyance justiﬁée ou l’attente épistémique fondée.) Les deux premières hypothèses
+générales précisent que cette attitude est exclusive et qu’elle constitue une
+condition nécessaire à la connaissance. La troisième hypothèse précise que si
+S s’attend épistémiquement à ce que p alors il s’attend (épistémiquement) à ce
+qu’il sache que p. Cela me semble plutôt constitutif d’une attente épistémique.
+Supposons maintenant que notre agent S est dans une situation Σ telle que
+décrite par (1) et (2). Nous savons déjà que ¬φ et que Bφ. Voici maintenant une
+dérivation de ¬K¬Kφ :
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+
+¬φ
+¬Kφ
+Bφ
+BKφ
+¬B¬Kφ
+¬B¬Kφ → ¬K¬Kφ
+¬K¬Kφ
+¬(¬Kφ → K¬Kφ)
+
+Situation Σ
+Factivité
+Situation Σ
+(***) et 3
+(*) et 4
+Contraposée de (**)
+5 et 6
+2 et 7
+
+En quelques mots : le fait que l’agent s’attend à savoir que φ entraîne qu’il ne
+s’attend pas à ne pas savoir que φ, mais s’il ne s’attend pas à ne pas savoir que
+φ il ne peut pas savoir qu’il ne sait pas que φ.
+Si j’étais excessivement pointilleux, je ferais remarquer que l’argument repose
+sur une sorte de principe introspectif, en l’occurrence l’hypothèse (***), et qu’il
+serait peut-être malhonnête qu’un argument contre l’introspection repose sur
+principe introspectif. Cela dit, il est vrai qu’il s’agit d’un principe d’introspection
+positive et non pas négative12.
+Mais mon principal litige concerne la situation Σ. L’argument ne fonctionne
+que dans une situation où les attentes épistémiques de l’agent sont erronées
+(du moins, une attente est contrecarrée). Il est cependant possible d’entretenir l’idée
+selon laquelle l’attente épistémique est précisément la connaissance dans les situations paradigmatiques, qu’elle satisfait les principes de factivité et d’introspection
+positive et négative dans ces situations. Il est évident qu’il ne pourrait y avoir,
+dans une situation paradigmatique, de proposition φ telle que l’agent s’attend à
+ce que φ et il n’est pas le cas que φ. Si notre objectif est de caractériser la connaissance dans des circonstances qui sont paradigmatiques, il ne semble pas
+approprié de rejeter l’introspection négative sur les bases de cet argument. Je me
+questionne donc sur la pertinence de cette situation pour une théorie de la connaissance et en particulier pour l’analyse de la connaissance d’ordre supérieur.
+Cette remarque en apparence banale est en fait une sérieuse accusation contre
+une certaine tradition «gettierologique» qui a produit une quantité importante
+de la littérature en épistémologie contemporaine. Je reconnais ainsi que de
+
+Savoir que l’on sait 471
+
+plus amples explications sont requises. Ces contre-exemples me font poser la
+question suivante : que cherchons-nous à faire avec des principes comme
+l’introspection positive ou négative? Cherchons-nous des caractérisations de la
+connaissance qui sont absolument valides et infaillibles? Si nous répondons
+par l’afﬁrmative, notre quête est vaine et vouée à l’échec. Non pas parce que
+l’analyse philosophique de la connaissance souffre d’un défaut d’envergure ni
+non plus parce que la connaissance est inanalysable, mais parce qu’un nombre
+inﬁme de disciplines sont en mesure d’établir des caractérisations aussi robustes des phénomènes qu’elles tentent d’expliquer que ce que nous semblons
+exiger en épistémologie des caractérisations de la connaissance. Et ce n’est pas
+parce que l’épistémologie est une discipline plus rigoureuse que les autres.
+Peut-être que les adhérents et défenseurs du projet logiciste sont convaincus du
+contraire. Peut-être estiment-ils que le produit d’une analyse philosophique
+doit toujours être une vérité «analytique» ou nécessaire, mais je ne crois pas
+que leurs attentes quant aux pouvoirs explicatifs de la philosophie (analytique)
+soient réalistes. Mieux vaut se contenter de caractérisations qui sont parfois
+réfutées ou fausses mais qui sont, dans l’ensemble, c’est-à-dire dans des conditions typiques ou usuelles, vraies. Qui a déclaré que l’explanans devait être une
+caractérisation nécessaire et sufﬁsante, une caractérisation infaillible ﬁnalement,
+de l’explanandum?
+Williamson constate également les échecs répétés du programme analytique
+de caractérisation de la connaissance, cependant il en tire une conclusion
+différente : que la notion de connaissance est inanalysable, que sa décomposition
+en une conjonction de conditions nécessaires et sufﬁsantes est impossible et
+que ce projet de recherche est en fait basé sur une nouvelle forme de sophisme13.
+Le fait que la connaissance ne soit pas décomposable en conditions plus simples
+n’empêche pas qu’elle puisse être caractérisée d’une autre façon, comme un
+certain type d’état mental, mais le constat de base est que la connaissance ellemême est une notion primitive, indécomposable et irréductible. Cette position
+me semble un peu extrême : s’il fallait conclure qu’un concept était primitif et
+inanalysable à chaque fois qu’un explanans de ce concept présentait des failles
+(des contre-exemples), nous n’aurions aucune explication ou explanans à part
+certains explanans tautologiques. Imaginez la crédibilité qu’on accorderait à
+celui qui prétendrait avoir un contre-exemple à la théorie newtonienne de la
+gravité parce qu’il a observé que certains corps terrestres ne tombent pas avec une
+accélération constante de 9.8 m/s2 (plumes, oiseaux, dirigeables, etc.). De façon
+générale, les circonstances idéalisées que nos modèles scientiﬁques présupposent ne se rencontrent que trop rarement dans l’univers «réel», mais ceci ne
+les empêche pas d’être utiles et vraies. Je ne vois pas pourquoi il n’en irait pas
+de même pour les explications philosophiques.
+La question délicate de l’idéalisation est de savoir ce qu’on peut légitimement
+négliger ou ignorer dans le phénomène que l’on cherche à expliquer. Tantôt,
+pour la chute d’un corps dense et aérodynamique, la résistance de l’air peut être
+omise dans l’équation du mouvement; tantôt, pour le vol d’un oiseau, la résistance
+
+472
+
+Dialogue
+
+de l’air et l’écoulement de l’air sur ses ailes sont des aspects cruciaux qu’on ne
+saurait négliger. L’idéalisation est une affaire contextuelle, il ne faut pas
+s’attendre à ce qu’elle s’applique uniformément à tous les cas. Par conséquent,
+quelque soit l’idéalisation, il existera toujours des situations ou des circonstances
+où cette idéalisation ne sera plus légitime, des situations qui invalideront
+l’explication basée sur cette idéalisation. Je ne crois pas faire d’afﬁrmations
+particulièrement novatrices en rappelant ce qui me semble être une des propriétés
+caractéristiques de l’explication (scientiﬁque ou autre). Seulement, lorsque l’on
+juxtapose cette propriété générale des explanans, en apparence banale et connue,
+aux contre-exemples rencontrés et décrits en épistémologie, il est parfois difﬁcile
+de comprendre pourquoi ces derniers sont précisément des contre-exemples.
+En général, c’est-à-dire dans les situations les plus typiques, percevoir
+devant soi une structure qui ressemble à une grange est une justiﬁcation
+sufﬁsante pour savoir qu’il y a une grange devant soi. Percevoir les aiguilles
+d’une montre ou d’une horloge et correctement interpréter les aiguilles est,
+dans la plupart des situations, une justiﬁcation sufﬁsante pour connaître l’heure.
+Et je dis «condition sufﬁsante», car je considère qu’avoir une justiﬁcation pour
+le fait que p entraîne, dans des circonstances typiques et ordinaires, que nous
+savons que p. En particulier, dans des circonstances typiques et ordinaires,
+posséder une justiﬁcation pour le fait que p entraîne qu’il est vrai que p et que
+nous croyons que p. Est-ce toujours le cas? Bien sûr que non. Les circonstances
+typiques et ordinaires n’épuisent pas le réel. Il se pourrait même qu’elles soient
+minoritaires dans le réel, comme les gaz idéaux, les systèmes sans friction, et
+les agents rationnels, mais citer le caractère non-exhaustif de ces circonstances
+idéalisées n’est pas forcément un argument contre les explications basées sur
+elles. En ce sens, il est curieux que les arguments gettieriens ne se trouvent
+qu’en épistémologie et que l’on n’ait pas jugé intéressant d’appliquer cette
+forme de mise en échec théorique ailleurs.
+La situation Σ décrite plus haut est-elle typique? Non. Et elle a été choisie
+expressément pour cette raison. Plus précisément, je dirais qu’une situation
+épistémique concernant un agent S et la connaissance d’une certaine proposition
+p est typique si et seulement si la possession par S d’une justiﬁcation pour le
+fait que p entraîne que p. Autrement dit, une situation est typique si et seulement
+si la justiﬁcation est factive dans cette situation :
+FJ Jp
+
+p
+
+Dans des termes de la logique mathématiques, une situation est typique ssi
+la justiﬁcation est adéquate ou ﬁable (sound). Or, Pline n’est pas dans une
+situation typique, car qu’il possède une justiﬁcation pour le fait allégué
+n’entraîne pas la vérité de ce fait allégué. Dans toute situation où la justiﬁcation de Pline est adéquate, c’est-à-dire dans toute situation où ses attentes
+épistémiques ne sont pas trompées, Pline sait quand il sait et il sait quand il
+ne sait pas.
+
+Savoir que l’on sait 473
+
+7. L’argument de l’action
+Je prétends donc que les caractérisations de la connaissance, même les plus
+formelles, doivent être des caractérisations de la connaissance dans des situations
+épistémiques typiques. Mais qu’est-ce qu’une situation typique et quels principes
+sont vrais de la connaissance dans ces situations? L’objectif de cette section est
+de montrer, par une famille d’exemples que j’oserais qualiﬁer de typiques, que la
+connaissance satisfait les principes d’introspection positive et négative. Pour démontrer ce point, je tenterai d’illustrer l’idée générale selon laquelle si la connaissance/ignorance n’est pas transparente, elle ne nous est d’aucun intérêt pratique.
+Les exemples qui seront présentés satisfont les deux prémisses suivantes :
+(†) Kφ
+(‡) K(Kφ → ía)
+et sont tels que les deux prémisses entraînent la conclusion :
+(††) K(ía).
+Je souhaite montrer que la conclusion (††) ne peut être dérivée que si nous
+admettons la transparence épistémique. L’expression ía signiﬁe ici «l’agent S
+doit accomplir une certaine action a», la modalité í est donc une modalité
+d’obligation (et non pas de nécessité métaphysique). La conclusion indique
+que l’agent sait qu’il doit accomplir une certaine action. Je prétends par ailleurs
+que de telles situations sont abondantes.
+Incarnons ces prémisses dans un exemple concret. Vous regardez les nouvelles
+à la télévision et vous attrapez un message du service de police : «Si vous voyez
+cet individu [une photo est montrée ou description est donnée], communiquez
+avec le service de police au . . .». Disons que φ est l’énoncé «un tel a tous les
+attributs de l’individu recherché par la police». Supposons que vous avez aperçu
+un individu ressemblant à l’individu recherché. Vous savez donc que p, c’est-à-dire
+Kφ. Par ailleurs, étant donné que vous avez entendu l’avis du service de police,
+vous savez que si vous connaissez quelque chose sur l’individu, vous devez communiquer avec la police; en particulier, vous savez que si vous savez qu’un tel
+a tous les attributs de l’individu recherché par la police, vous devez communiquer
+avec la police. Donc K(Kφ → ía). Enﬁn, dans cette situation, il est clair que la
+conséquence est que vous savez que vous devez communiquer avec la police,
+que cette connaissance découle des deux autres prémisses. Donc K(ía).
+Si vous n’aimez pas les avis du service de police, reportez vous plutôt à
+Archimède. Archimède était dans la même situation au moment où il a crié
+«eurêka!» dans son bain. Il savait désormais que le volume de la couronne pouvait
+être déterminé sans qu’elle soit fondue, donc Kφ. Il savait également que s’il savait
+comment déterminer le volume de la couronne il devait en informer le roi Hiéron,
+donc K(Kφ → ía). Par ailleurs, dans cette situation, il semble clair qu’Archimède
+
+474
+
+Dialogue
+
+savait qu’il devait informer le roi Hiéron et que cette connaissance découle de
+la vérité des deux autres prémisses.
+En supposant que l’introspection positive est vraie, la conclusion peut être
+déduite des prémisses de manière directe et naturelle :
+1)
+2)
+3)
+4)
+5)
+6)
+
+Kφ
+K(Kφ → ía)
+KKφ → K(ía)
+Kφ → KKφ
+KKφ
+K(ía)
+
+(†)
+(‡)
+Normalité et MP, 2
+Thèse KK
+MP, 1 et 2
+MP, 3 et 5
+
+Si nous n’avons pas une connaissance d’ordre supérieur de notre connaissance
+du fait que φ, le mieux qu’on puisse obtenir comme dérivation est :
+1)
+2)
+3)
+4)
+
+Kφ
+K(Kφ → ía)
+Kφ → ía
+ía
+
+(†)
+(‡)
+Factivité, 2
+MP, 1 et 3
+
+Et cette conclusion est parfaitement compatible avec le fait que ¬K(ía), c’est-àdire avec le fait que l’action serait obligatoire mais l’agent ne le saurait pas et ce,
+en dépit de la vérité des prémisses (†) et (‡).
+Doit-on alors présupposer qu’une action doit (peut) être prise sans que l’agent
+en soit conscient, sans que l’agent sache qu’il doit agir? Pour se rapporter à
+l’exemple, l’invalidité de l’introspection positive signiﬁerait qu’en général on ne
+peut s’attendre à ce qu’une personne ayant vu le message de la police et ayant
+vu un individu remplissant la description donnée sache qu’il doit communiquer
+avec la police. Si une action obligatoire de cette sorte peut se faire aveuglement,
+quelle est donc l’utilité du principe selon lequel nul n’est censé ignorer la loi
+(nemo censetur ignorare legem)? Dans notre contexte, ce principe se manifeste
+à la prémisse 2. La loi est Kφ → ía, mais le fait de ne pas ignorer (de connaître)
+la loi se traduit par K(Kφ → ía). Plusieurs lois sont de la forme générale suivante :
+᭿a
+
+Lorsqu’une telle circonstance, précisée par «ψ», se réalise, il est obligatoire
+d’agir de la façon précisée par a. Si une personne est en détresse, vous devez
+lui prêtez secours; si vous conduisez un véhicule, vous devez respecter le
+code de la route; si l’alarme d’incendie est déclenchée, vous devez évacuer
+l’immeuble, etc. Les exemples considérés plus haut sont des cas particuliers de
+lois : celles dont la prémisse ψ est de la forme Kφ. La règle du modus ponens
+est bien sûr valide dans la logique des énoncés déontiques, faisant en sorte que,
+si la prémisse d’une loi est réalisée, l’action prescrite dans le conséquent est
+
+Savoir que l’on sait 475
+
+obligatoire : si je me trouve dans une situation où une personne est en détresse,
+je suis, par le fait même de la loi, dans une situation où je dois porter secours;
+si je me trouve dans une situation où je conduis, je suis, par le fait même de la
+loi, dans une situation où je dois respecter le code de la route (par exemple,
+arrêter aux feux rouges), etc. Le principe selon lequel nul n’est censé ignorer la
+loi n’a pas été utilisé pour cette dérivation, une simple application du modus
+ponens a sufﬁ pour dériver l’obligation dans une situation où la prémisse est vraie.
+Mais une action est toujours située en aval d’une décision; elle est par déﬁnition consciente et volontaire. L’accomplissement d’une action obligatoire est
+précédé par la connaissance qu’il faut agir; la connaissance qu’il faut agir est
+en fait une des «causes» de l’action. Un agent qui ne sait pas qu’il doit agir ne
+saurait être blâmé pour son inaction. Telle est, d’après ce que je comprends, la
+nécessité de nemo censetur ignorare legem : faire en sorte que l’agent soit
+censé connaître les obligations qu’il doit accomplir lorsqu’il a connaissance
+que telle ou telle circonstance a lieu. Il est donc impératif de pouvoir dériver
+K(ía) et non seulement ía à partir des prémisses de notre situation. Dans la
+famille d’exemples décrite plus haut où l’antécédent de la loi est de la forme
+Kφ, K(ía) est dérivable seulement14 si l’introspection positive est valide, si
+l’agent sait qu’il sait que φ, qu’il sait que l’antécédent de la loi, à savoir Kφ,
+est vrai.
+Le même argument, à quelques détails près, peut être donné pour l’introspection
+négative. Il sufﬁt de considérer les lois dont l’antécédent est de la forme ¬Kφ,
+c’est-à-dire des lois telles que
+
+K
+
+᭿a
+
+Nous considérons ensuite une situation qui rend vraies les prémisses
+(†’)
+(‡’)
+
+¬Kφ
+K(¬Kφ → ía)
+
+et qui est telle que la conclusion suivante découle des prémisses
+(††’)
+
+K(ía)
+
+De telles situations ne sont pas difﬁciles à trouver. Prenez le cas d’un employé d’un
+centre d’appel pour le service à la clientèle d’une certaine compagnie (votre
+fournisseur internet, le fabricant de votre aspirateur, une marque de dentifrice,
+etc.). La première personne à qui vous parlez sait répondre à la plupart des
+questions. Si elle n’arrive pas à vous répondre, si elle ne connaît pas la réponse
+à votre question, elle doit vous référer à un supérieur hiérarchique. La loi ou la
+prescription qui est derrière l’action prescrite à l’employé est belle et bien de la
+forme ¬Kφ → ía où, par exemple, φ pourrait être «il y a du fluorure dans
+le dentifrice X» et a, «transférer l’appel à un supérieur hiérarchique immédiat».
+
+476
+
+Dialogue
+
+Le bon employé ne peut ignorer cette loi, donc K(¬Kφ → ía) est vrai dans cette
+situation, et il ne peut l’ignorer, car il doit être en mesure de dériver K(ía)
+lorsque ¬Kφ. Or, à l’instar de l’analyse de l’introspection positive, en supposant
+que le principe d’introspection négative est vrai, cette conclusion est dérivable
+de manière directe et naturelle :
+1)
+2)
+3)
+4)
+5)
+6)
+
+¬Kφ
+K(¬Kφ → ía)
+K(¬Kφ) → K(ía)
+¬Kφ → K(¬Kφ)
+K(¬Kφ)
+K(ía)
+
+(†’)
+(‡’)
+Normalité et MP, 2
+Introspection négative
+MP, 1 et 4
+MP, 3 et 5
+
+Encore une fois, sans la connaissance de son ignorance, la dérivation de la connaissance de l’action obligatoire n’est pas possible.
+Dans ces exemples, pourrait-on penser que l’agent sait (ignore) sans savoir
+qu’il sait (ignore)? Une telle chose ne tiendrait jamais la route devant le tribunal,
+me semble-t-il. La seule chose qui pourrait excuser l’inaction de l’agent est
+son ignorance de la loi, mais c’est précisément ce qu’empêche nemo censetur
+ignorare legem. Je ne vois pas dans quel scénario un agent pourrait savoir que
+φ, savoir que Kφ → ía (ou que ¬Kφ → ía) mais se défendre de ne pas savoir
+qu’il fallait agir. Imaginez une telle conception de la connaissance : vous
+connaissez sans pouvoir agir à partir de ce que vous savez ou de ce que vous
+ignorez.
+8. Vers deux interprétations de la connaissance d’ordre supérieur
+Dans les sections précédentes, j’ai tenté de défendre la validité de l’interprétation
+transparentiste de la connaissance d’ordre supérieur, et ce faisant j’ai défendu
+la validité des principes d’introspection positive et négative. Il est temps de
+revenir à présent sur l’interprétation agrippéenne qui, à première vue, était non
+seulement en conﬂit avec le «transparentisme» mais aussi avec les deux principes d’introspection. Ma thèse sur ce point est simple : on n’a pas à choisir, les
+deux interprétations sont légitimes. Tantôt, savoir que l’on sait peut signiﬁer
+vraiment savoir; tantôt, savoir que l’on sait n’est rien de plus que savoir tout
+court. Je serais de l’avis que la plupart du temps la locution «savoir que l’on
+sait» est à interpréter de manière transparente, et que le sens agrippéen est
+plus justement capturé par la locution «vraiment savoir que», mais ceci
+n’empêche pas l’expression «savoir que l’on sait» de revêtir parfois la deuxième
+interprétation.
+La grande question maintenant est de faire coexister ces interprétations sous
+un même toit. Dans un langage formel, il va s’agir de trouver une façon de marquer
+la différence entre ces deux locutions homonymiques, mais je crains que la
+simple esquisse d’un tel langage dépasse largement les bornes de cet article et
+devra faire l’objet d’un prochain développement.
+
+Savoir que l’on sait 477
+
+Notes
+1 Petite remarque : les contre-exemples de Gettier ne contredisent pas le fait que la
+justiﬁcation est une condition nécessaire de la connaissance.
+2 Dans les termes de l’épistémologie modale de Lewis (Lewis, 1996), on peut voir V
+comme agissant sur la clause sotto voce; en particulier, elle rappelle la règle d’attention.
+3 Cf. Éthique à Nicomaque 1146b.
+4 Au besoin, on pourra restreindre la portée de ce quantiﬁcateur pour qu’il porte
+uniquement sur une classe appropriée de propositions.
+5 Le terme «environ» est entre parenthèses ici, car sa présence est souvent sousentendue : lorsque l’on dit d’une personne qu’elle fait un mètre quatre-vingt on ne
+veut pas dire en général qu’elle mesure exactement un mètre quatre-vingt mais un
+mètre quatre-vingt plus ou moins epsilon. Les propositions de cette famille ont
+donc des conditions de vérité vagues.
+6 On supposera que le «il» a une valeur déﬁnie dans le contexte d’évaluation.
+7 J’hésite parfois à utiliser le terme «consistant» même si, en matière de logique mathématique, son usage est bien avéré en français. J’utilise en priorité le terme «cohérent».
+8 Je modiﬁe seulement les personnages et la situation de l’exemple.
+9 La signification de «la plupart du temps» variera évidemment d’un contexte
+épistémique à l’autre.
+10 On remarquera qu’il ne s’agit pas d’une possibilité métaphysique ou conceptuelle
+au sens où je pourrais considérer possible qu’il pleuve à Montréal même s’il n’y
+pleut pas et que je sache qu’il n’y pleut pas.
+11 Si bien sûr la factivité est vraie.
+12 Ceci ne vaudrait pas pour Williamson puisqu’il cherche à proscrire toute forme
+d’introspection, positive ou négative.
+13 Le sophisme est le suivant : du fait qu’une condition C implique une condition C1,
+conclure qu’il existe forcément une condition C2 (qui n’implique pas C1 et qui est
+sufﬁsamment différente de C) telle que C si et seulement si C1 et C2. Par exemple,
+«être rouge» implique «être coloré» mais «être rouge» n’est pas conjonction de
+«être coloré» avec une autre condition.
+14 Il faut interpréter «seulement» avec un sens philosophique. Il est bien sûr logiquement
+possible de dériver K(ía) en utilisant une panoplie d’autres hypothèses auxiliaires,
+dont la plupart serait probablement ad hoc.
+
+Références bibliographiques
+Aristote
+1992 Éthique à Nicomaque, traduction par J. Defradas, Paris, Agoras.
+Danto, Arthur, C.
+1967 «On Knowing that We Know», dans A. Stroll, dir., Epistemology: New
+Essays in the Theory of Knowledge, Westport, Greenwood Press, p. 32-53.
+Ginet, Carl
+1970 «What Must Be Added to Knowing to Obtain Knowing that One
+Knows?», Synthese, vol. 21, no 2, p. 163-186.
+
+478
+
+Dialogue
+
+Goldman, Alvin
+1979 «What is a Justiﬁed Belief?», dans G.S. Pappas, dir., Justiﬁcation and
+Knowledge, Dordrecht, D. Reidel, p. 1-23.
+Hilpinen, Risto
+1970 «Knowing that One Knows and the Classical Deﬁnition of Knowledge»,
+Synthese, vol. 21, no 2, p. 109-132.
+Hintikka, Jaakko
+1962 Knowledge and Belief: An Introduction to the Logic of the Two Notions,
+Ithaca, Cornell University Press.
+1970 «‘Knowing that One Knows’ Reviewed», Synthese, vol. 21, no 2,
+p. 141-162.
+Lehrer, Keith
+1970 «Believing that One Knows», Synthese, vol. 21, no 2, p. 133-140.
+Lemmon, E.J.
+1967 «If I Know, Do I Know that I Know?», dans A. Stroll, dir., Epistemology: New Essays in the Theory of Knowledge, Westport, Greenwood
+Press, p. 54-82.
+Lewis, David, K.
+1996 «Elusive Knowledge», Australasian Journal of Philosophy, no 74,
+p. 549-567.
+Radford, Colin
+1966 «Knowledge — By Examples», Analysis, vol. 27, no 1, p. 1-11.
+Williamson, Timothy
+2000
+
+Knowledge and its Limits, Oxford, Oxford University Press.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Éthique à Nicomaque</title><editor><persName><surname>Aristote</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Defradas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Epistemology: New Essays in the Theory of Knowledge</title><editor><persName><forename type="first">Arthur C.</forename><surname>Danto</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Stroll</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Westport</pubPlace><date type="published">1967</date><biblScope unit="page" from="32">32</biblScope><biblScope unit="page" to="53">53</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">What Must Be Added to Knowing to Obtain Knowing that One Knows?</title><author><persName><forename type="first">Carl</forename><surname>Ginet</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">1970</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="163">163</biblScope><biblScope unit="page" to="186">186</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Justification and Knowledge</title><editor><persName><forename type="first">Alvin</forename><surname>Goldman</surname></persName></editor><editor><persName><forename type="first">G.S.</forename><surname>Pappas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Dordrecht</pubPlace><date type="published">1979</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="23">23</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Knowing that One Knows and the Classical Definition of Knowledge</title><author><persName><forename type="first">Risto</forename><surname>Hilpinen</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">1970</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="109">109</biblScope><biblScope unit="page" to="132">132</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Knowledge and Belief: An Introduction to the Logic of the Two Notions</title><editor><persName><forename type="first">Jaakko</forename><surname>Hintikka</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ithaca</pubPlace><date type="published">1962</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">‘Knowing that One Knows’ Reviewed</title><author><persName><forename type="first">Jaakko</forename><surname>Hintikka</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">1970</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="141">141</biblScope><biblScope unit="page" to="162">162</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Believing that One Knows</title><author><persName><forename type="first">Keith</forename><surname>Lehrer</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">1970</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="133">133</biblScope><biblScope unit="page" to="140">140</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Epistemology: New Essays in the Theory of Knowledge</title><editor><persName><forename type="first">E.J.</forename><surname>Lemmon</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Stroll</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Westport</pubPlace><date type="published">1967</date><biblScope unit="page" from="54">54</biblScope><biblScope unit="page" to="82">82</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Elusive Knowledge</title><author><persName><forename type="first">David K.</forename><surname>Lewis</surname></persName></author></analytic><monogr><title level="j">Australasian Journal of Philosophy</title><imprint><date type="published">1996</date><biblScope unit="page" from="549">549</biblScope><biblScope unit="page" to="567">567</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Knowledge — By Examples</title><author><persName><forename type="first">Colin</forename><surname>Radford</surname></persName></author></analytic><monogr><title level="j">Analysis</title><imprint><date type="published">1966</date><biblScope unit="volume">27</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="11">11</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Knowledge and its Limits</title><editor><persName><forename type="first">Timothy</forename><surname>Williamson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

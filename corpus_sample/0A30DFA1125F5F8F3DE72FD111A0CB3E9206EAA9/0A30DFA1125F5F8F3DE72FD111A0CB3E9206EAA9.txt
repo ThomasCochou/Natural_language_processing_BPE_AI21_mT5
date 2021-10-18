@@ -1,0 +1,1213 @@
+Virchows Arch. A Path. Anat. and Histol. 366, 149--175 (1975)
+9 by Springer-Verlag 1975
+
+Etude histochimique et histoenzymologique
+de l'infarctus exp6rimental du rat apr6s ligature
+permanente ou temporaire de la coronaire gauche*
+J . P. Camilleri, J . N. F a b i a n i , A. D e l o e h e et C. G u r d j i a n
+Avec l'aide technique de Mme M. Douheret et
+M. ~ . Wolfelsperger (photographies)
+Laboratoire d'Anatemie pathologique, U.E.R. Broussais-H6tel-Dieu
+(Prof. ag. J. Diebold), Paris
+Laborateire d'Etude des Greffes et Proth~ses valvulaires et cardiaques
+(Prof. ag. A. Carpentier) CNRS EI~A 420, Paris
+l~egu le 18 octobre 1974
+H i s t o c h e m i c a l a n d t t i s t o e n z y m a t i c S t u d y of E x p e r i m e n t a l M y o c a r d i a l I n f a r c t i o n
+in t h e t~at b y T e m p o r a r y a n d P e r m a n e n t L i g a t i o n of t h e L e f t C o r o n a r y A r t e r y
+
+Summary. The evolution of experimental myocardial infarction in the Rat with or without revascularization has been studied histechemically and histoenzymatically in 56 animals
+sacrified after 1, 6, 12, 24, 48 hrs and 7 days. Following permanent ischemia (14 animals),
+there appeared an extended transversal infarction marked by the complete disappearance
+of all phosphorylase activity (P-ase) after the first hour. During the first 6 hrs, changes
+appeared in suceinodeshydrogenase (SDH) and cytochrome oxydase (Cyt-Ox). Glueose-6phosphodeshydrogenase (G6PDH) persisted until lysis of the necrotic focus. It was possible
+to define a perineerotic marginal area in which P-ase activity is absent and SDH is granular
+" G " in nature, characterized by continuous remodeling in the first 48 hrs.
+Following temporary ischemia (42 animals) the evolution was marked by rapid tissue
+reactions and early regression of the marginal zones. After 48 hrs and 7 days of survival,
+the planimetric evaluation of the infarcted area shows a definite reduction in the size of the
+infarctus in 50 % of cases following removal of the ligature after 6 hrs, and in 66 % of cases
+following removal of the ligature after 1 hr. I t would appear probable that therevitalization
+of certain myocardial areas may extend from the marginal zones as is suggested by the reappearance in these zones several hrs after revascularization of P-ase and SDH activity.
+On the other hand, it is also true that the early restoration of blood flow does not always
+prevent the occurrence of an extended infarction. Certain recent observations have shown
+microcirculatory changes which are secondary to anoxia and should be studied further.
+Rdsumd. L'6volution de l'infarctus myocardique exp6rimental du l ~ t avec et sans
+revascularisation est pr6cis6e par une 6tude histochimique et histeenzymologique de 56 animaux sacrifi6s ~ 1, 6, 12, 24, 48 heures et 7 jours.
+Apr6s isch6mie permanente (14 animaux) la ligature de la coronaire gauche ~ son origine
+donne un infarctus transmural 6tendu, de topographie ant@ro-lat6rale, marqu6 d@s la premi6re heure par la disparition compl6te de route activit6 phosphorylasique (P-ase). Au cours
+des 6 premibres heures, apparaissent les modifications de la succino-deshydrog6nase (SDH)
+et de la cytochrome oxydase (Cyt-Ox). La glucose-6-deshydrog6nase (G6PDH) persiste
+jusqu'& la lyse du foyer n6crotique. Surtout, il est possible de d6finir avec pr6cision une zone
+p6rin6erotique, dire marginale, P-ase n6gative et SDH & activit6 granulaire <~G~), caract6ris6e
+par d'incessants remodelages au cours de 48 premieres heures.
+* bTous remercions vivement le Dr. P. Ganter pour ses conseils qui noas ont ~t6 tr@s utiles
+pour la rgdaetion d~finitive de ce travail.
+
+150
+
+J . P . Camitleri et al.
+
+Apr6s isch6mie temporaire (42 animaux), l'6volution est marqu6e par la rapidit6 des
+r6actions tissulaires et la r6gression pr6coce des zones marginales. A la 486me heure et apr6s
+7 jours de survie, l'6valuation planim6trique du territoire n6cros6 montre une r6duction
+notable de la taille de l'infarctus dans la moiti6 des cas apr6s lev6e de ligature g la 66me
+heure, et dans les deux tiers des cas apr6s lev6e h la 16re heure. I1 parait probable que la r6cup6ration de certains territoires myocardiques puisse se faire & p~rtir des zones marginales,
+comme le sugg6re la r6apparition dans ces zones des activit6s phosphorylasique et deshydrog6nasique apr@s plusieurs heures de revascularisation. A l'oppos6, il est incontestable que
+le r6tablissement m~me tr6s pr6coce du flux sanguin n'emp4che pas toujours la constitution
+d'infarctus 6tendus. Certaines observations r6centes 6voquent l'intervention de perturbations microcirculatoires, secondaires g l'anoxie, dont l'6tude m6rite d'@tre poursuivie.
+D e p u i s u n e d i z a i n e d ' a n n 6 e s , de n o m b r e u s e s p u b l i c a t i o n s o n t 6t6 consacr6es
+a u x effets de l ' i s c h 6 m i e a i g u e sur le m y o c a r d e (Oliver et al., 1972; B r a c h f e l d ,
+1974). Les espoirs a c t u e l s de la c h i r u r g i e des coronaires, et les p r o b l 6 m c s pos6s
+p a r la p r o t e c t i o n m y o c a r d i q u e d a n s la c h i r u r g i e c a r d i a q u e m o d e r n e , e x p l i q u e n t
+l ' i n t 6 r 6 t c r o i s s a n t des cliniciens e t des p a t h o l o g i s t e s p o u r c e t t e q u e s t i o n .
+Beaucoup d'auteurs se sont adress6s aux infarctus exp6rimentaux par la ligature d'une
+des branches des coronaires avec examen du coeur entier ou d'une zone d'irrigation terminale
+comme le pilier post6rieur de la mitrale apr6s ligature distale de la circonflcxe (Sommers
+et Jennings, 1964). Malgr6 l'apport consid6rable des 6tudes histochimiques, histoenzymologiques et ultrastructurales, bien des inconnues persistent encore quant aux crit6res de viabilit6 de la cellule myocardique, au seuil d'irr6versibilit6 des 16sions, s la distribution h6t6rog6ne des alt6rations cellulaires au sein d'un territoire priv6 de son irrigation sanguine. La
+question essentielle est de savoir dans quelle mesure une revascularisation pr6coce peut r6duire
+le foyer de n6crose et permettre la r6cup6ration des zones marginales non encore d6finitivement frapp6es dans leur m6tabolisme. Dans un travail ant6rieur, utilisant le Rat comme animal d'exp6rience, il nous est apparu que les effets du r6tablissement du flux sanguin dansle territoire isch6mique 6taient 6troitement d6pendants de l'horaire de la lev6e de la ligature
+(Fontaliran et al., 1972). I1 nous a sembl6 int6ressant de complBter les donn6es histopathologiques et 61ectriques par une 6rude histochimique et histoenzymologique, pour mieux
+pr6ciser les phases pr6coces du processus et le comportement m6tabolique des zones marginales avec ou sans revascularisation.
+M a t e r i e l et .M6thodes
+
+Choix de I'ar~imal
+.Nous avons choisi le t~at pour sa commodit6, la possibilit4 de travailler sur de grandes
+s4ries, la relative facilit6 de l'intervention chirurgicale, la bonne tol6rance de l'animal, la
+topographie pr6cise et reproductible de l'infarctus obtenu. Cette 6tude concerne 56 rats Wistar
+males, d'un poids moyen de 250 gr, retenus sur une s6rie de 110 animaux. Les animaux
+morts spontan4ment, les rares 6checs de l'intervention, et tousles cas incompldtement 6tudi6s
+ou comportant des d6fauts techniques out 6t6 syst6matiquement 61imin6s.
+
+Protocole chirurgical
+La coronaire gauche est li4e & son origine selon la m6thode de Johns et Olson (1954),
+simplifi6e par Selye et al. (1960). L'intervention dure environ 3 minutes, ne n6cessite pas
+d'assistance respiratoire. La mortalit6 reste 41ev6e (35 % environ) li6e plus ~ l'infarctus par
+insuffisance cardiaque aigu6 qu's la m6thode elle-m@me. Pour cr4er une isch4mie temporaire,
+la ligature est faite de fagon que la traction s u r u n chef, laiss6 ext6rioris4, permette de d6faire
+le nceud (Deloche et al., 1972). Cette m6thode permet donc de lever des ligatures tardivement
+sans r6intervention. L'ablation de la ligature entraine dans la quasi-totalit6 des cas une bonne
+re6xpansion du lit art6riel, comme le montrent les coronographies apr6s injection de masses
+opaques et Fabsence de thrombose au niveau de la ligature sur les contr61es histologiques.
+Un 41ectrocardiogramme est enregistr6 ~u cours et au d6cours de l'intervention grace s
+
+E t u d e histochimique et histoenzymologique de l'infarctus exp6rimental
+
+151
+
+des aiguilles piqu6es A la racine des quatre membres et dans la r6gion pr6eordiale. L'appareil
+enregistreur est u n appareil multipiste (Electronique Appliqu6e). Les trac6s obtenus perm e t t e n t de v6rifier la r6alit6 de l'infaretus et d'6tudier les modifications 61ectriques apr6s
+lev6e de la ligature coronaire.
+Des animaux t6moins, non op6r6s, et op6r6s mais non ligatur6s, sent 6tudi6s selon le
+m~me protoeole.
+
+Protocole histochimique et histoenzymologique
+Chez l'animal anesth6si6 s l'6ther, le occur es~ pr61ev6 b a t t a n t sans t r a u m a t i s m e et
+imm6diatement plong6 dans du s6rum physiologique glac6. I1 est ensuite tr6s r a p i d e m e n t
+coup6 transversalement ~ 0,5--0,6 cm de la pointe. L ' u n des fragments est fix6 dans le
+liquide de Baker pour une 6rude histologique standard. Les colorations syst6matiquement
+effectu6es sent les suivantes: h6mat6ine-6osine-safran, trichrome au bleu d'aniline selon
+Masson, P.A.S., h6matoxyline phosphotungstique de Mallory, h6mat6ine-fuschine basique
+selon Lie (1971), yon Kosai pour la recherche du calcium, Perls pour le fer.
+Le fragment destin6 ~ l'6tude histoenzymologique est, apr6s pr616vement, instantan6m e n t congel6 dans u n m61ange ac6tone-earboglace ~ -- 80 ~ et coup6 au cryostat ~ 5 t~. Apr6s
+une 6rude pr6alable a y a n t permis de tester sur ce mat6riel une quinzaine d'enzymes, nous
+nous sommes arr4t6s ~ 4 d'entre eux, int6ress6s de fa9on variable au cours de l'isch6mie
+et repr6sentatifs de plusieurs grandes voies du m6tabolisme cellulaire:
+- - v o l e d ' E m b d e n Meyerhof pour la phosphorylase (P-ase)(Takeuchi, 1962);
+- - s h u n t des hexoses monophosphates pour la glucose-6-phosphate deshydrog6nase
+(G6PDH)(teehnique modifi6e de Hess, Scarpelli et Pearsc, 1958);
+- - c y c l e de Krebs pour la suecino-deshydrog6nase (SDH)(Nachlas, Tsou, de Souza,
+Cheng et Seligman, 1957);
+- - c h a i n e respiratoire pour la cytochrome-oxydase (Cyt-Ox)(Burstone, 1961).
+Pour chaque r6action enzymatique, les temps d'incubation sent identiques pour toute
+la s6rie afin de pouvoir comparer des r6sultats d ' u n cas g~ l'autre. La lecture des coupes compare pour chaque cas l'aspect dans le territoire de la coronaire gauche priv6 d'irrigation
+sanguine, et dans le reste du myocarde, ceci par rapport s des rats t6moins. L'intensit6 des
+r6actions est appr6ci6e dans chaque territoire selon une cotation grossi6re de 0 g~ d - + ~-.
+Enfin, sur chaque section de cceur, les surfaces respectives des diff6rentes zones identifiables
+sent ealeul6es apr6s projection sur une grille grace s une m6thode planim6trique simple, et
+exprim6es en pourcentage de la surface totale des parois ant6rieure, lat6rale, post6rieure
+et septale du ventricule gauche.
+Sur le coupes voisines effectu6es au cryostat, sent pratiqu6es des colorations des graisses
+(Oil Red O, Noir Soudan), une recherche du glycog6ne apr6s post-fixation ~ l'alcool (P.A.S.,
+amylase), une coloration par l'acridine orange avec examen en fluorescence.
+
+Rdpartition des animaux
+La r6partition des animaux est la suivante:
+Heure de la levee
+
+Ligature permanente
+Lev6e 1 heure
+Lev6e 6 heures
+Lev6e 12 heures
+Total
+
+Heure du sacrifice
+1h
+
+6h
+
+12 h
+
+24 h
+
+48 h
+
+7 jours
+
+Total
+
+2
+
+2
+2
+--4
+
+1
+2
+2
+-5
+
+3
+8
+2
+3
+16
+
+3
+4
+4
+-11
+
+3
+ll
+4
+-18
+
+14
+27
+12
+3
+56
+
+--2
+
+Les animaux avec ligature permanente sent sacrifi~s s 1, 6, 12, 24 et 48 heures et une
+semaine.
+Nous nous sommes limit6s s des dur6es d'isch6mie temporaire de 1 h, 6 h et 12 h,
+l'exp~rience nous a y a n t appris que les lev~es plus tardivcs cntrainaient constamment unc
+aggravation des 16sions. Les a n i m a u x sent alors sacrifi~s s 6, 12, 24, 48 heures et une semaine.
+
+152
+
+J.P. Camilleri et al.
+R6sultats
+
+I. Etude histologique
+Les aspects histopathologiques des infarctus obtenus chez le Rat par isch6mie
+permanente ou temporaire ont 6t@ expos6s dans d'autres publications (Fontaliran
+et al., 1972). Nos observations sont dans l'ensemble conformes aux descriptions
+ant@rieures.
+Dans les in/aretus par isehdmie permanente (14 animaux), le territoire atteint
+int6resse dans la quasi-totalit6 des cas les faces ant6rieure et lat6rale du ventricule gauche, tout ou partie de s~ paroi post6rieure, rarement (2 cas) une partie
+du septum. L'infarctus est toujours transmural, m6nageant seulement 2 & 3
+couches de cellules myocardiques sous l'endocarde. L'atteinte des pilfers est
+habituellement parcellaire. Avec les colorations conventionnelles (h4mat@ine6osine-safran), les alterations histologiques ne sont significatives qu's 6 heures
+(oed~me, congestion capillaire, hyper4osinophilie des cellules myocardiques,
+aspect granuleux du cyboplasme avec parfois conservation de la striation transversale, noyaux r@tract6s ou pycnotiques). Parmi les diverses colorations effectu@es (h@matoxyline-phosphotungstique de Mallory, acridine-orange en fluorescence), seule l'h~matoxyline-fuschine basique, r6cemment propos6e par Lie
+(1971) semble donner des r6sultats apr~s une heure d'isch~mie. Toutefois, dans
+notre mat@riel, cette fuschinophilie parait inconstante, tr~s d@endante des temps
+de diff@renciation, et susceptible de donner des faux positifs. La comparaison
+des r6sultats avec les donn~cs de l'histoenzymologie impose quelques r6serves
+dans l'application syst6matique de ce test. A 12 heures, les 16sions sont caract6ristiques, faisant alterner n@crose de coagulation, d6g6n6rescence vacuolaire,
+myolyse, diap6d~se leucocybaire. Les suffusions h@morragiques sont rares. Les
+bandes 6osinophiles de contraction s'observent surtout en p@riph6rie du foyer
+de n6crose. L'6volution des 16sions est caract6ris6e par la rapidit6 des r6aetions
+de d6tersion aboutissant, d6s la fin de la premi6re semaine, au remplaeement
+de la n6crose acidophile par un tissu de granulation (Fontaliran et al., 1972).
+Dans les in/arctus par isehdmie temporaire (42 animaux), les r6sultats d6pendent de l'heure de la lev6e de ligature. Apr6s 12 heures d'isch6mie et 12 heures
+de revascularisation (3 cas), l'aspect est comparable aux infarctus par isch6mie
+permanente de 24 heures. I1 faut noter seulement l'importance des suffusions
+h6morragiques interstitielles. Apr6s 1 ou 6 heures d'isch6mie, les 16sions observ6es
+6, 12, 24 et 48 heures (24 cas) eomportent certains caract6res communs qui
+permettent de les distinguer des infaretus par isch6mie permanente. Le foyer
+de n6crose est plus nettement d61imit@ des territoires voisins. Les modifications
+interstitielles sont particuligrement intenses: oed~me intercellulaire, nombreux
+polynucl6aires, suffusions 6rythrodiap~d6tiques. Les 16sions cellulaires sont polymorphes. Des il6ts de n@crose de coagulation sont m616s & des altgrations d6g6n~rarives diverses, avec nombreuses bandes transversales hyper~osinophiles de contraction, dislocation myofibrillaire. Ces l@sions @16mentaires sont mieux analysges aprgs coloration par l'h6matoxyline phosphotungstique de Mallory (PTAH).
+Dans 3 cas, les colorations 6lectives du calcium montrent de fins d@6ts granulaires int6ressant des cellules isol6es du des groupes de eellules myoeardiques,
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+153
+
+surtout en p@iph@ie du foyer de n6crose. L'6volution tardive de ces infarctus
+revascularis6s rejoint celle des infarctus par isch6mie permanente. A 7 jours
+(15 cas), le territoire n6cros6 est remplac6 par un tissu de granulation. Tout
+au plus, note-t-on la pr6sence de pigment h6mosid@inique t6moignant des suffusions h6morragiques ant@ieures, la persistance dans certains cas d'il6ts de
+n6crose de coagulation non encore d6terg6s, une plus grande intrication de
+zones cicatricielles et de territoires pr6serv6s constitu6s de cellules myocardiqucs
+hypertrophiques. L'essenticl r6side dans les topographies compar~es de cos
+diff6rents types d'infarctus. Cette 6rude sera faite & partir des documents bistoenzymologiques.
+
+II. Etude histoehimiqus et histoenzymologique
+A la lumi@e des documents histologiqucs, et compte-tenu des horMres choisis
+pour ce travail, l'6volution des 16sions comporte trois phases: une phase de pr6n6crose jusqu'~ l'apparition des premiers stigmates histopathologiques avec los
+techniques conventionnelles (6 premi@es hcures), une phase de n6crose avec
+son cortege de r6actions cellulaires et interstitielles (6 ~ 48 heures), et une phase
+de r6paration et de cieatrisation (premi@e semainc).
+Nous envisagerons les a]t@ations histochimiques et histoenzymologiques
+cn deux 6tapes: les modifications pr6coces couvrant les phases de pr6n6crose
+et de n6crose (1 ~ 48 heures), les modifications tardives repr6sentant le r6sultat
+du processus d'organisation des 16sions (7 jours). Pour chaque 6tape, nous
+comparerons les r6sultats observ6s apr~s isch6mie permanente et temporaire.
+Ensuite, nous r6sumerons les modifications plus particuli@es observ6es en zone
+marginale et nous r6capitulerons les r6sultats obtenus par 6valuation planim6trique.
+A. Modifications pr6coces (48 premi@es heures)
+
+1. In/arctus par isehdmie permanente. La recherche des graisses neutres (Oil
+I~ed O, ~oir Soudan) montre l'accumulation de fines gouttelettes, volontiers
+p@inucl6aires, dans les cellules myocardiques. Cette st6atose myocardique est
+pratiquement constante ~ la 6~me heure, surtout dans les zones p6rifocales.
+La d6pl6tion du glycog~ne intramyocardique est assez pr6coce dans le territoire
+priv6 d'irrigation sanguine. Dans de bonnes conditions techniques, il est possible
+de mettre en 6vidence, d~s la premi@e heure, des foyers diss6min4s ayant perdu
+leur charge glycog~nique. E n r6alit6, cette d6pl6tion n'est 6tendue ~ tout le
+territoire isch6mique qu's la 6~me heure. Dans les m~mes d61ais, apparaissent
+des d6p6ts intra-cellulaires PAS positifs r6sistants ~ l'amylase, dont on discute
+l'originc endocellulaire et/ou circulante. Ces d6p6ts accompagnent l'hyper6osinophilie cytoplasmique. Notons que tout au long du processus, le r6seau des cellules
+de Purkinje sous-endocardiques gardent une forte charge glycog~nique.
+L'aetivitd phosphorylasique-(P-ase) est intense dans le myocarde normal. Elle
+se pr6sente sous l'aspect d'une coloration bleu-violac6 homog~ne. L'attaqne
+par les amylases ~ et fl fair disparaitre route coloration. D~s la l~re heure, l'activit6
+enzymatique a totalement disparu darts la zone priv6e d'irrigation sanguine. La
+limite avec le territoire normal est d6coup6e, abrupte, sans zone interm6diaire
+(Fig. 1).
+
+154
+
+J.P. Camilleri et al.
+
+9
+
+"~ •
+
+v
+
+O
+
+2~ ~m
+-|
+
+~
+
+~
+
+m
+ke
+
+~
+
+~.~
+
+La succino-ddshydrog~nase (SDH), enzyme mitochondriMe montre une activit5
+tr~s importante dans le myocarde normal. L'utilisation du Nitrobleu de Tetrazolium (nitro BT) comme accepteur d'61ectrons, la r~v~le sous forme de dSpSts
+denses bleu-noir de formazan (Fig. 2). Ces d4p6ts se font aux p61es des noy~ux
+et le long des myofibrilles, selon une distribution finement lin~aire longitudinale
+
+Z
+
+Etude histochimique et histoenzymologique de l'infaretus exp6rimenta]
+
+155
+
+.8
+
+r
+
+9
+
+"3
+c8
+
+9
+
+,=
+:; •
+4a
+
+Lea
+
+II
+g.~
+
+m
+
+~4
+
+associ6e g une striation transversale caract6ristique. C'est la disposition dire
+fibrillaire {~F~>li6e aux mitochondries (Nachlas et al., 1957; Niles et al., 1966).
+Les premi6res modifications observ6es darts le territoire isch6mique consistent
+en une redistribution des d6pSts de formazan sous forme de granules de 1 g 3 b~
+(Fig. 3 et 4). Ce~te disposition granulaire {~G ~>est i n c o n s t a m m e n t observ6e dans
+
+156
+
+J.P. Camilleri et al.
+
+Fig. 3. Infarctus par isch6mie permanente sacrifi6 h 6 heures. Activit6 succino-deshydrog6nasique en zone p6rifoeale. Coupe longitudinale de eellules myocardiques montran~ un
+m61ange d'activit6 fibrillaire persistante et d'aetivit6 granulaire anormale. G = 1500 •
+
+la zone phosphorylase-n6gative d6s la lbre heure. A 6 heures, on distingue tr6s
+n e t t e m e n t trois zones. La zone centrale de n6crose, habituellement cantonn6e
+g la paroi ant6rieure, est marqu6e par une dissociation des cellules myocardiques
+qui sont r6tract6es, occup6es par des mottes compactes trbs denses de formazan.
+A u t o u r de ce territoire, qui r6pond en histologie eonventionnelle g des 16sions de
+d6g6n6rescence acidophile, persiste une large zone, surtout d6velopp6e au niveau
+des patois lat6rale et post6rieure dn ventrieule gauche, et caraet6ris6e par une
+disposition granulaire <(G,> des d6p6ts de formazan. Cette zone P-ase n6gative
+et S D H de t y p e granulaire ~ G,> peut eorrespondre ~ la zone marginale isch6mique
+(Fig. 5 et 6). A 24 et surtout 48 heures, la zone de n6erose perd t o u t e coloration,
+t e n d s s'6tendre aux d6pens de la zone dite iseh6mique. A 48 heures, il ne persiste
+plus q u ' u n e zone de n6erose S D H n6gative et P-ase n6gative sans territoire in-
+
+Etude histochimique et histoenzymologique de l'inf~rctus exp4rimental
+
+157
+
+F i g . 4. M 6 m e c~s. S u c c i n o - d e s h y d r o g 6 n a s e e n z o n e p6ri~ocale. A s p e c t s u r u n e c o u p e t r u n s versale des f~isceaux myoc~rdiques. G ~ 1500 •
+
+term6diaire. Au contact de cette zone. le myocarde montre une intense activit6
+phosphorylasique (Fig. 7).
+L~ cytochrome oxydase (Cyt-Ox) est aussi une enzyme mitochondriale. Son
+activit6 se pr6sente dans le myocarde normal sous l'aspect de fines granulations
+brun-rouge localis6es le long des myofibrilles. Dans le territoire isch6mique,
+on note une nette diminution d'activit6 g, 6 heures. Dans la zone de n6crosc,
+les cellules myocardiques prennent un aspect r6tract6 et dense, puis perdent
+route coloration. En p6riph6rie, les sites d'activit6 prennent souvent un aspect
+grossibrement granulaire. L'6volution ult6rieure est pratiquement superposable
+celle de la SDI-I.
+La glucose-6-phosphate-ddshydrogdnase (G6PDH) montre une faible activit6
+dans le myocarde normal. Cette activit6 persiste plusieurs heures dans le foyer
+isch6mique, pour disparaitre au moment de la lyse du foyer n6crotique (24-:tl Virchows Arch. A Path. Anat. and ttistol., Vol. 366
+
+158
+
+J.P. Camilleri et al.
+
+Fig. 5. Infarctus myocardique par isch6mie permanente. Sacrifice s la 6~me heure. Disparition eompl6te de route aetivit6 phosphorylasique dans le territoire iseh6mique laissant
+persister un fin liser6 positif sous-endoeardique. G = 13,5 X
+
+48 heures). A 48 heures, on note un renforcement de l'activit6 enzymatique
+dans les zones p6rifoca]es.
+I1 est ainsi possible, par comparaison des activit6s histoenzymatiques 6tudi6es,
+de d6finir beaucoup plus nettement qu'avec les colorations histologiques conventionnelles trois zones distinctes: une zone centrale de n6crose, une zone
+marginale dite isch6mique, et le myocarde s distance. La zone phosphorylase
+n6gative semble 6pouser d6s la premi6re heure la topographic quasi d6finitive
+de l'infarctus. Par contre, les autres activit6s enzymatiques (SDI-I, Cyt-Ox)
+montrent, 5~ l'int6rieur de ce territoire, d'importants remaniements au cours
+des 48 premi6res heures, essentiellement marqu6s par l'extension de la zone de
+n6crose et la r6duction de la zone marginMe P-ase n6gative et SDtI d'activit6
+granulaire ((G~). Les r6sultats de l'6valuation planim6trique de ces diff6rents
+
+Etude histochimique et histoenzymologique de l'infaretus exp6rimental
+
+159
+
+Fig. 6. M6me cas. M6me territoire. Succino-deshydrog6nase (SDH). Apparition entre la zone
+normale et la zone de n6crose intramyocardique d'une zone plus pile montrant une activit6
+interm6diuire. Ce territoire s'inscrit sur la photographic pr6e6dente duns la zone P-use n6garive ( = zone marginale ou isch6mique). G = 13,5 •
+
+t e r r i t o i r e s p a r r a p p o r t A la surface projet6e t o t a l e des parois ant6rieure, lat6rale,
+post6rieure et septale d u v e n t r i c u l e gauche, sont consign6s duns u n t a b l e a u
+g6n6ra] ( T a b l e a u 1). Le p e t i t n o m b r e de cas i n t e r d i t t o u t e t e n t a t i v e de ealeul
+statistique. Disons que g l o b a l e m e n t la zone P-use n6gative oecupe e n v i r o n 55
+70 % de la surface totale. L a zone m a r g i n a l e est n e t t e m e n t d6finie & 6 heures
+(25 A 35%). Elle t e n d s d6croitre ( 2 0 - - 2 5 % & 12 heures, 1 0 - - 1 5 % & 24 heures,
+0% ~ 48 heures) t a n d i s que la zone de n6crose s ' 6 t e n d p r o g r e s s i v e m e n t .
+2. In/arctus par ischdmie temporaire. L ' a c c u m u l a t i o n duns les zones p6rilocales de fines g o u t t e l e t t e s de graisses n e u t r e s soudanophiles, et la d6pl6tion
+glycog6nique duns le t e r r i t o i r e priv6 d ' i r r i g a t i o n sanguine, sont observ6es de
+fagon & p e u prbs c o m p a r a b l e duns les infarctus p a r isch6mie t e m p o r a i r e ou permanente.
+11"
+
+160
+
+J.P. Camilleri et al.
+,
+
+@
+
+~gx
+
+,z. 8 e,~
+
+9
+
+.re
+
+9
+
+m~
+0<0
+0"2 oU ."m .':"~
+
+~~
+
+0
+
+~
+
+=
+
+5
+
+a
+
+e
+
+.~
+
+~.~
+~ .~
++z
+
+m~z
+
+~:-~ ~
+.~
+
+Les modifications des diverses activit6s enzymatiques explor6es (P-ase,
+SDH, Cyt-Ox~ G6PDH) m6ritent d'6tre examin6es en fonction de la dur6e
+tot~le de survie (temps d'iseh6mie et de revascularisation eompris), par eomparaison avee des dur6es 6gales d'isch6mie permanente.
+A 6 heures (2 animaux), l'aspect des infarctus lev6s s la premiere heure est
+tout s fair superposable ~ celui des infaretus par isch6mie permanente de 6 heures.
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+161
+
+Tableau 1. Etendue des diff6rents territoircs en fonetion de l'aetivit6 enzymatique (P-ase et
+SDH); (exprim6e en pourcentage de la surface projet6e totale du ventrieule gauche)
+9 Isch6mie permanente, o lev6e 1 heure, ~ levge 6 heures, ~ lev6e 12 heures
+Zone phosphory[ase nSgative
+Horaire
+
+lh
+
+6h
+
+12h 24h 48h
+
+7j.
+
+Zone SDH granulaire (G)
+lh
+
+6h 12h 24h 48h
+
+7j.
+
+IO0
+9O
+80
+70
+6O
+50
+& 4O
+9p:: 30
+
+@@
+
+@@
+
+9
+
+2o
+
+10
+0
+100
+90
+80
+70
+"~
+60
+&
+
+E 50
+._~ 40
+E 30
+
+-~
+
+20
+
+10
+
+A 12 et 24 heures (17 a n i m a u x ) , la zone P-ase n6gative est i d e n t i q u e a u x
+infarctus p a r isch6mie p e r m a n e n t e d a n s 9 cas ( 5 5 - - 7 5 %), discr@tement diminu6e
+d a n s 2 cas ( 4 5 - - 5 0 % ) , et n e t t e m e n t inf6rieure d a n s 6 eas ( 3 0 4 0 % ) .
+A v e e la
+succino-deshydrog6nase, ]e fair r e m a r q u a b l e est la r6duction n o t a b l e apr6s
+revascu]arisation de la zone & activit6 g r a n u l a i r e <~G~> (5 g 10% au lieu de 10
+& 25% apr~s isch6mie p e r m a n e n t e ) . A 24 heures, la zone m a r g i n a l e P-ase n6gative
+et S D H g r a n u l a i r e est r6duite & quelques foyers diss6min6s, m6nag6s entre
+l'infarctus et le m y o c a r d e & aetivit6 d6shydrog6nasique normale. Ainsi, d a n s les
+cas e o m p o r t a n t une t o p o g r a p h i e globale c o m p a r a b l e & celle des infarctus p a r
+iseh6mie p e r m a n e n t e , ces c o n s t a t a t i o n s sugg6rent que la n6erose a progress6
+plus vite en eas de revascularisation. C~est le cas des 3 i n f a r c t u s lev6s s la 126me
+heure et de 6 des 14 infarctus lev6s & 1 ou 6 heures. D a n s les a u t r e s cas (8 a n i m a u x )
+m o n t r a n t une d i m i n u t i o n plus ou moins m a r q u 6 e du t e r r i t o i r e 16sionnel, la
+r6duction s'est effectu6e p r i n c i p a l e m e n t a u x d 6 p e n s de la zone m a r g i n a l e &
+activit6 SD]-I g r a n u l a i r e G, avec ou sans s t a b i l i s a t i o n du foyer de n6erose. Le
+
+162
+
+J.P. Camilleri et al.
+
+dStail des r6sultats en fonction de la dur6e de l'isch6mie et de la revaseularisation
+figure dans le tableau 1.
+A 48 heures (8 animaux) toute aetivit6 enzymatique adisparu du territoire
+de l'infaretus. La topographic de la zone muette est superposable, avee la phosphorylase, la suecino-d6shydrog6nase et la cytochrome-oxydase. I1 n'existe plus
+de zone marginale 5` aetivit6 S D I t de type granulaire. An contraire, los territoires pgrifoeaux, les touche sous-endocardiques, eertains il6ts sous-6pieardiques comportcnt un renforcement de routes les activit~s enzymatiques 6tudi6es.
+Dans 3 eas (1 lev6e 5` 1 heure et 2 lev6es s 6 heures), la taille de l'infaretus est
+comparable 5` eelle des infaretus par iseh6mie permanente (60%). Dans 5 cas
+(3 lev~es 5` 1 heure et 2 lev6es 5` 6 heures), la taille est partiellement rBduite
+(25 5` 45 %).
+B. Modifications tardives (7 jours)
+1. In[arctus par ischdmie permanente (3 eas). A la fin de la premi6re semaine,
+la n6erose de coagulation est remplac6e par un tissu de granulation en voie
+d'organisation eonjonctive, dans lequel persistent encore de rares polynucl6aires,
+des ccllules mononucl6es surtout macrophagiques, parfois de petites suffusions
+sanguines. La paroi est nettement amineie et marque souvent 5` oct endroit
+une 6bauehe de soufflure de la cavit6 ventrieulaSre.
+A eette date, les eellules myoeardiques p6rifocales ont repris une charge
+glyeog6nique normale et ne eomportent plus de st6atose. La pr6senee de graisses
+neutrcs pout encore gtrc d6montr6e dans certaines eellules macrophagiques du
+tissu de granulation.
+L'aetivit6 phosphorylasique est nulle dans la zone de l'infarctus et tr6s intense dans les territoirs marginaux. Une diserbte activit6 succino-dehydrog6nasique est retrouv6e sous forme de fins dgp6ts de formazan dans les eellules
+eonjonetives et les cellules musculaires lisses des vaisseaux. Les eellules myoeardiques marginales montrent par eontre une importante aetivit6 enzymatique.
+Tout le cytoplasme des cellulcs hypertrophi6es est intens6ment et uniform6ment color6 en bleu. La diffusion des d6p6ts de formazan efface la topographic
+mitoehondriale earaet6ristique de l'activit6 normalc. Toutc aetivit6 cytochrome
+oxydasique a habituellement disparu du territoire de l'infarctus. Seules les
+eellulcs eonjonetives montrent une discrgte activit6 enzymatique sous forme de
+fins d6p6ts bruns finement granulaires. La glucose 6 phosphate deshydrog6nase
+montre une activit6 nettement accrue dans les zones marginales, par rapport
+aux rats t~moins.
+Au plan topographique, il existe une superposition entre les aspects observ6s
+apr~s coloration par I ' I I E S et les r6aetions enzymologiques (Fig. 8). L'6tendue
+des 3 cas 6tudi6s selon ce protocole est de 55, 60 et 70% (Tableau 1).
+2. In]arctus par ischdmie temporaire (15 cas). Les infarctus par isch6mie temporaire different des pr6c6dents par la distribution des 16sions. Aprgs r6tablissement du flux sanguin 5, ]a l~re heurc (11 cas) ou 5` la 6gme heure (4 eas), nous
+avons obtenu dans 6 cas un infarctus transmural 6tendu identique aux 16sions
+non revascularis6es (55 5` 70%), dans 4 cas un inIarctus transmural localis6
+de topographie le plus souvent ant6rieure (35 5` 50%)(Fig. 9), dans 5 cas un in-
+
+Etude histoehimique et histoenzymologique de l'infarctus exp6rimental
+
+163
+
+Fig. 8. Infaretus par isch6mie permanente. Sacrifice ~ 7 jours. Suceino-deshydrog6nase
+(SDH). La quasi-totalit6 de la paroi du ventricule gaucho est amincie, remplae6e par un tissu
+de granulation resI0ectant un fin liser6 sous-endoeardique de cellules myoeardiques aetives.
+Persistance d'un territoire normal au niveau du pilier. G = 14 •
+
+farctus i n t r a m u r a l ou s o u s - e n d o c a r d i q u e n e t t e m e n t r6duit (10 /~ 30%)(Fig. 10
+et l l ) . Les r6sultats en fonction de la dur6e d'isch6mie sont d6taill6s duns le
+t a b l e a u 1. Le fair s a i l l a n t de ees infaretus limit6s, s u r t o u t sous-endoeardiques
+ou i n t r a m u r a u x , est leur caract6re h6t6roggne, diss6min6, m61ant des foyers
+eieatriciels de faille v a r i a b l e et de larges il6ts de eellules m y o e a r d i q u e s m 6 t a b o l i q u e
+cicatrieiels de taille v a r i a b l e et de larges il6ts de cellules m y o c a r d i q u e s m6tab o l i q u e m e n t aetives (Fig. 12). Cette i n t r i e a t i o n est p a r t i c u l i b r e m e n t n e t t e en
+p6riph6rie, duns la zone sous-6picardique n o t a m m e n t a u c o n t a c t des vaisseaux,
+et au n i v e a u des piliers en t o t a l i t 6 ou p a r t i e l l e m e n t 6pargn6s. L a cavit6 eard i a q u e est t o u j o u r s soulign6e p a r 2 ou 3 couches de cellules m y o c a r d i q u e s respeet6es. N o t o n s la t o p o g r a p h i e ant6rieure, ou ant6rolat6rale, p r a t i q u e m e n t const a n t e de ees i n f a r c t u s r6duits.
+
+164
+
+J . P . Camilleri et al.
+
+Fig. 9. Infarctus myocardique par isch6mie temporaire de 1 heure. Sacrifice k 48 heures.
+Succino-deshydrog6nase. Pr6sence au niveau de la paroi ant6ro-lat6rale d ' u n infarctus transmural r6duit, respec~ant la paroi post6rieure. G = 18 •
+
+C. Modifications enzymatiques
+
+en zone marginale
+
+Les donn6es histoenzymologiques permettent, d6s la 66me heure, de d6finir
+nettement, entre ]'infarctus et ]e myocarde normal ~ distance, une zone marginale
+de comportement
+histoenzymologique particulier. A 6 heures, cette zone P-ase
+n6gative et SDII granulaire <(G~) occupe entre ]e tiers et la moiti6 du myocarde
+priv6 &irrigation sanguine. Elle diminue rapidement au cours des 24--48 premi6res heures. En cas de revaseularisation pr6coce (lev6e de ligature ~ i ou
+6 heures), ce territoire marginal semble disparaitre plus rapidement, en moins
+de 24 heures. A la fin de la premi6re semaine, avec ou sans revaseularisation,
+la zone p6rifoeale montre nne augmentation des enzymes de la glycolyse et du
+shunt des hexoses monophosphates
+(P-ase et G6PDI-I), par rapport aux rats
+t6moins. L'activit6 SDH est intense et diffuse (Tableau 2).
+
+Etude his~oehimique et histoenzymologique de l'infarctus exp6rimental
+
+165
+
+Sx
+
+9
+
+g'~
+t'~
+
+m
+
+@ m
+
+g.~
+
+0
+
+O ~
+
+m
+
+~'~
+
+D. Etendue des infarctus par isch6mie perm~nente ou temporaire
+Nous avons compar6 l'aspect des 16sions obtenues par isch6mie permanente
+ou temporaire, en fonction de la dur6e de survie. I1/aut aussi corr61er l'6tendue
+de l'infarctus estim6e par m6thode planim6trique s la dur6e de l'isch6mie. Les
+r6sultats expos6s plus haut ayant montr6 que les modifications histoenzymologiques subissaient d'importantes fluctuations au eours des 48 premieres heures,
+nous ne retiendrons ici que les animaux sacrifi6s ~ 48 heures et ~ une semaine,
+soit 29 animaux (Tableau 3). Par r6fgrence aux infarctus par isch6mie per-
+
+166
+
+J.P.
+
+C a m i l l e r i et al.
+
+'5 5
+~.a
+
+>
+
+o
+
+r
+
+~2
+
+N'~~.~
+
+-|
+
+e~
+.~.~
+
+~-~
+m
+
+~.~
+
+N=
+
+~e
+manente, le r~tablissement du flux sanguin permet d'obtenir une r6duction mod6r6e ou importante de la taille de l'infaretus dans la moiti6 des cas pour des
+lev6es de ligature g 6 heures, et dans les 2/3 des cas pour des lev6es s la l~re heure.
+Le hombre des eas est dans ehaque groupe trop limit6 pour permettre une appreciation statistique et les ehiffres donn6s n'ont qu'une valeur indicative.
+
+Etude histochimique et histoenzymologique de l'infurctus experimental
+
+167
+
+r
+
+O
+
+Go
+
+..~ o
+
+~•
+~
+~~
+
+9~'.~ ~
+
+~.~
+
+Commentaires
+
+La ligature de la coronaire gauche s son origine permet d'obtenir chez le R a t
+un infarctus de topographie ant6ro-lat6rale 6tendue et transversale, caract6ris6
+par la rapidit6 des r6actions tissulaires. Nos observations rejoignent & cet 6gard
+celles d'autres auteurs (Mallory et al., 1939; Selye et al., 1960). La bonne repro-
+
+168
+
+J . P . Camilleri et al.
+
+Tableau 2. Infarctus par isch6mie loermanente. Activit6s enzymatiques en zone marginale (ZM)
+Horaire P-ase
+
+h
+
+6h
+12h
+24h
+48h
+7jours
+
+SDH
+
+Cyt-Ox
+
+G6PDH
+
+ZM
+
+N1
+
+ZM
+
+N1
+
+ZM
+
+N1
+
+ZM
+
+N1
+
+0
+
++++
++++
++++
+q-++
++++
++++
+
++~++
++(G)
++(G)
+@(G)
++++
++@+
+(diffus)
+
++++
++++
+++@
+q- -- q+++
+@++
+
+++
+-r
++
+q+++
++++
+
++++
+-r++
++++
++q-q+++
++++
+
+++
+++
++
+q+++
++@+-+-
+
++++
+++ +
++++
++q- +
++++
++++
+
+0
+0
+0
+++~+++
+++++
+
+ZM = zone marginale, N1 = myoearde normal, 0 ~ q- + q- + = aetivit6 enzymatique, q- + q= activit6 normale, G -- granulaire.
+
+Tableau 3. Etendue de l'infarctus (exprime6e en loourcentage de la surface projet6e totale du
+ventricule gauche) ; en fonction de la dur6e de l'Isch6mie (29 animaux)
+48 heures
+
+Ligature permanente
+Lev6e 1 heure
+Lev6e 6 heures
+
+7 jours
+
+55/70 %
+
+35/50 %
+
+~0/30 %
+
+55/70 %
+
+35/50%
+
+10/30%
+
+3
+1
+2
+
+0
+1
+2
+
+0
+2
+0
+
+3
+4
+2
+
+0
+4
+0
+
+0
+3
+2
+
+duetibilit6 des 16sions est un des avantages du R a t comme animal d'exp6rience.
+Tr6s t6t les auteurs se song adress6s aux techniques histoehimiques pour tenter
+de mettre en 6vidence les 16sions pr6n6erotiques qui 6chappent habituellement
+aux techniques histologiques eonventionnelles. Les premiers t r a v a u x concernent les modifications de la charge glycog6nique et l'aceumulation de graisses
+neutres dans le territoire priv6 d'irrigation sanguine ( Y o k o y a m a et al., 1955;
+W a r t m a n et al., 1956; Klionsky, 1960; Shnitka et Nachlas, 1963). Mais ce song
+surtout les m6thodes histoenzymologiques qui song apparues les plus int6ressantes.
+Elles ont pris, ~ c6t6 des 6tudes ultrastructurales, une place capitale dans
+l'approche des alt6rations pr6eoces de l'iseh6mie (Kent et Diseker, 1955; Kaufm a n et al., 1959; Neoral et al., 1959; ttecht, K o r b et David, 1961; Shnitka eV
+Nachlas, 1963; ttecht, 1964; Bajusz at Jasmin, 1964; Fine, Morales et Scerpella,
+1966; Seiferth, 1967), et d'autres cardiopathies exp6rimentMes (Bajusz et Jasmin,
+1963; Niles, 1964; Niles, 1968; Kakari, 1970; Hecht, 1971). Les aspects observ6s
+doivent ~tre interpr6t6s /~ la lumi6re des donn6es bioehimiques plus pr6eises et
+quantitatives, mais l'avantaga principal de l'histoenzymo]ogio est d'ordre topographique et structural. I1 faug savoir aussi qua certaines images observ6es song
+en r6alit6 des art6facts li6s aux conditions de la raise en 6videnee des activit6s
+enzymatiques cellulaires on histoenzymologie: temps d'ineubagion, solubilit6
+des enzymes, diffusion darts le milieu d'ineubation, p6n6tration du substrat,
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+169
+
+rSle de la perm6abilit6 cellulaire (Hecht, 1971). L'cssentiel est la reproductibilit6
+des r6sultats. L'int6r6t des protocoles utilisant le cceur entier est de pouvoir
+comparer sur une m4me section tissu]aire le r6sultat color6 de la r6action enzymatique dans It territoire isch6miquc ct dans le reste du myocarde normalement irrigu6.
+Parmi les r~actions enzymatiques choisies pour ce travail, la lohoslohorylase
+est la premi6re atteinte. Ceci a 4t6 montr6 pour la premiere lois par Bajusz et
+Jasmin (1964), louis confirm6 loar d'autres auteurs (Fine et Morales, 1966; Jaaskelainen, 1966; Seiferth, 1967; Krug et al., 1967; IKecht, 1971). II est habituellement admis que toute activit6 lohoslohorylasique a disloaru apr6s 5 minutes
+d'isch6mie. Dans notre mat6riel, l'activit4 phoslohorylasique est nulle, dans
+tout le territoire de la coronaire ligatur6e, apr~s une isch6mie permanente d'une
+heure. Tout se passe comme si, d6s la premiere heure, la zone P-ase n6gative
+d~liminait de fagon quasi-d6finitive la toloogralohie de l'infarctus, t~alopelons
+ce propos que los analyses biochimiques montrent au contraire, d~s les loremitres minutes de ]'isch6mie, une augmentation de l'activit6 lohosphorylasique
+par transformation de la lohoslohorylase inactive b dans sa forme active a (Dobson
+et Mayer, 1973). Cette activation de la glycolyse va de pair avec la baisse des
+r~serves glycog6niques. Pour certains (Schulzc, 1969; ttecht, 1971), la d6pl~tion
+enzymatique observ~e dans le territoire 16s6 serait due s l'augmentation de la
+loerm~abilit~ cellulaire et s la diffusion dans le milieu d'incubation d'une enzyme
+cytoplasmique tr6s soluble. L'utilisation comme substrat de dextrans de haut
+poids mol6culaire parait pouvoir s'opposer ~ cettc diffusion (Meijer, 1968).
+La mise en 6vidence des diverses activit6s deshydrog6nasiques du cycle de
+Krebs a 6t6 souvent utilis4e en loathologie myoeardique. Au cours de l'isch6mie,
+divers auteurs ont montr~ que l'activit6 succino-deshydrog6nasique (SDH)
+disloaraissait apr6s un temps de latence de 4 s 6 heures (Kaufman et al., 1959;
+Hecht, Korb et David, 1961; Shnitka et Nachlas, 1963; Bajusz et Jasmin, 1964;
+Hecht, 1964; Fine et Morales, 1966). Avec les sels de tetrazolium (NitroBT)
+comme acceloteurs d'Slectrons, les altSrations observ~es concernent non seulement l'intensit~ de la r6action color6e, mais la distribution des sites d'activit6
+marqu6s par les d6lo6ts de formazan. La plupart accordent une signification
+l'apparition de gros granules bleut~s de 1 ~ 3 ~z (Shnitka et Nachlas, 1963;
+Kakari, 1970). Cette activit~ granulairc G, bien diff~rente de ls distribution
+mitochondriale normale dite fibrillaire F (Niles, 1966) parait li6e aux alterations
+mitochondriales et ~ l'aloparition de fines gouttelettes lipidiques modifiant
+l'6quilibre lohysicochimique du cytoplasme (Kakari, 1970). Elle a 6t6 reloroduite
+in vitro et obscrv6e in vivo dans plusicurs cardiomyopathics induites par des
+substances m~dicamenteuses ou toxiques. L'aspect obtenu en zone de n~crose
+est tout s fait diff6rent et repr6sentc vraisemblablemcnt un artefact en rapport
+avec l'affinit6 non sp6cifiquc des sels de tctrazolium pour les prot6ines cellulaires
+d6natur6es, galoloelons qu's 48 heures, toute activit6 deshydrog6nasique a disloaru dans le territoire de l'infarctus.
+La comparaison entre les activit6s phosphorylasique et succinodeshydrog6nasique permet de d6finir tr~s nettement, entre la zone de n6crose et le myocarde
+normal ~ distance, une zone interm6diaire marginale, caract6ris6e par une disparition de l'activit6 P-asique et une activit6 S D H granulaire G. L'6volution
+
+170
+
+J.P. Camilleri et al.
+
+des 16sions au eours des 48 premi6res heures montre d'importants remodelages
+du profil enzymatique dans les territoires marginaux, ~vec r6duetion progressive
+de la zone P-~se n6gative et SDH granulaire, et extension de la zone de n6erose.
+L'activit6 cytochrome-oxydasique est eonst~mment diminu6e au eours de
+l'isch6mie~ comme pour routes les enzymes du m6tabolisme oxydatif. Cert~ins
+la consid~rent comme un indicateur tr6s pr6eoee de l'isch6mie (J~skel~inen, 1966),
+alors que d'autres ne la trouvent nettement diminu6e qu'apr~s un d61ai de 1
+4heures (Shnitka et Nachlas, 1963; Bajusz et J~smin, 1964; Heeht, 1964;
+Fine et Morales, 1966; Seiferth, 1967). Darts notre mat6riel, la r6action enzymatique n'est nettement alt6r6e qu'/~ 6 heures, avec une 6volution comparable
+/~ celle de la SDI-I.
+La glucose-6-phosphate deshydrog6nase est un chainon important du shunt
+des hexoses monophosphates. Son activit6 est faible dans le myocarde normal
+dont le m6tabolisme est essentiellement tourn6 vers la production d'6nergie.
+Son renforcement dans les zones p6rifocales, surtout ~ la phase tardive du processus, sugg6re une activation des processus de synth6se, notamment de la synth~se des nucl6oprot6ines (Dusek, 1971).
+L'incidence de la revascularisation sur l'6volution des infarctus exp6rimentaux
+est encore real connue. Depuis les premiers travaux de Blumgart, Gilligan
+et Schlesinger (1941). divers auteurs on 6tudi6 les effects sur le myocarde d'une
+isch4mie temporaire (Yabuki et aL, 1959; Fisher et Edwards, 1969; Sommers
+et Jennings, 1964; I-Iort et Dacanalis, 1965; Jennings, 1974). Certains ont soulign6 les particularit6s histopathologiques et ultrastructurales de ces infarctus
+revascularis6s (Sommers et Jennings, 1964). On a insist6 sur l'impo~%ance, dans
+ces cas, des suffusions h6morragiques qui peuvent jouer le r61e d'un facteur
+aggravant dans l'6volution des 16sions (Breshnahan et al., 1974). Les aspects
+morphologiques not6s apr6s revaseularisation sont ~ rapprocher de certaines
+16sions observ6es chez l'homme, au cours du choc h6morragique (Martin et I-Iackel,
+1963). I1 n'est pas interdit de penser que les troubles profonds de la perm6abilit6
+capillaire qui accompagnent l'anoxie jouent un r61e d6terminant dans cette
+6rythrodiap6d~se.
+En r6alit6, la question essentielle est de s~voir dans quelle mesure la restauration pr6coee du flux sanguin dans un territoire isch6mique est susceptible de
+r6duire l'6tendue de la n6crose tissulaire. I1 est g6n6ralement admis que les
+alt6rations m6taboliques pr6n6crotiques des cellules myocardiques passent par
+une phase de r6versibilit6, puis d'irr6versibilit6 (Jennings~ 1969). Au plan th6orique, ce point d'irr6versibilit6 peut 6tre consid6r6 comme d6pass6 quand les
+processus biochimiques qui pr6sident au m6tabolisme 6nerg6tique ne peuvent
+plus assurer l'int6grit6 structurale et fonctionnelle de la cellule. Pour la plupart
+des auteurs, ce stade d'irr6versibilit6 est atteint apr~s 20 ~ 60 minutes d'isch6mie
+(Blumg~rt et al., 1944; Jennings et Sommers, 1960; Krug, 1970; Brachfeld,
+1974). Par contre, il parait possible, chez le Chien, de restaurer les battements
+cardiaques apr6s unc p6riode d'anoxie de 90 minutes (Coffman et al., 1960). Krug,
+du Mesnil de Rochemont et Korb (1966) obtiennent, ehez le Chat, en utilisant
+comme marqueur l'injeetion de substance fluorescente, des infarctns de taille
+r6duite pour des dur6es de ligature coronaire inf6~'ieures h 90 minutes. R6cemmerit, Maroko et al. (1972), Ginks et al. (1972--1974)ont montr6, chez le Chien,
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+171
+
+par des techniques morphologiques, 61eetrocardiographiques et biochimiques,
+la possibilit6 de sauver de la ngcrose du tissu myocardique par reperfusion coronaire aprgs 3 heures d'isch6mie. Pour notre part (Fontaliran et al., 1972 ; Deloehe
+et al., 1972), la revascularisation r6alis6e duns les 12 premigres heures, grgee
+une technique originale de ligature amovible, nous a permis d'obtenir ehez le
+R a t des infaretus d'6tendue r6duite duns pros de 80%. I)ans lu s6rie pr6sente,
+r@ondant au mgme protoeole chirurgicul, le r6tablissement du flux sanguin
+s'accompagne d'une r~duetion mod6r4e ou importante de la taille de l'infaretus
+duns la moiti6 des eas pour une dur6e d'iseh6mie de 6 heures, et les deux tiers
+des eas pour une dur6e d'iseh6mie d'une heure. Aueun des infaretus lev6s
+la 12~me heure n'a ~t6 modifi6 par rapport aux infaretus par isch6mie permanente.
+Le petit nombre de eus ~tndi6s duns ehaque s6rie ne permet gu@e de faire des
+eomparaisons ehiffr6es, d ' a u t a n t que les m~thodes d'6tude sont diff6rentes. Le
+fair important est la possibilitY, ehez le Rat, d'obtenir par revascularisation
+au cours de 6 premigres heures d'iseh6mie une r6duetion notable de la faille de
+l'infaretus.
+Ainsi, avee des diff6renees peut-gtre li6es au protoeole utilis6 et tout partieuligrement au ehoix de l'animul d'exp~rienee, plusieurs travaux exp6rimentaux
+sngg~rent que, mgme pour une isehgmie de plus d'une henre, la restauration du
+flux sangnin peut favoriser la r6cup6ration strueturule et fonetionnelle de eertains
+territoires myoeardiques. Ces eonstutations ne remettent pus en cause les crit~res
+biochimiques de viabilit6 de lu eellule myocardique, mais le territoire myocardique privg d'irrigation sanguine n'est pus nne masse tissulaire homoggne.
+L'iseh~mie est un processns dynamique, progressif, soumis ~ de nombreux facteurs bioehimiques et hgmodynamiques. An d~bnt, lu zone d6pendant de l'artgre
+ligatnr6e est un m61ange de foyers d6g6n6ratifs en vole de n6erose et de eellules
+myoeardiques m6taboliquement aetives, n o t a m m e n t en p6riph6rie. Apr~s 45 minutes d'anoxie, on estime qne 35 ~ 66 % de la population eellulaire montre une
+aetivit6 m~tabolique de base compatible avee la survie, mgme si la fonetion
+m6eanique n'est pus assur~e (MeKeever et al., 1958; Jennings et al., 1963; Bruehfeld, 1974). Nos observations histoenzymologiques eonfirment eette progressivit6 duns l'installation des 16sions. Les 24 et mgme 48 premigres heures sont
+murquges par des modifications importantes des diff6rentes zones identifi6es
+en fonetion de leur profil enzymatique. Le r6tablissement pr6coee du flux sunguin
+a pour effet de r6duire en quelques heures la zone marginale P-use n6gative et
+S D I t granulaire. Cette r~duetion s'aeeompugne d'une stabilisation de la zone
+de n~crose. La restitution duns les zones marginMes des aetivit6s P-asique et
+S D t t normales est compatible avee ee qui a gt6 observb duns d'autres eardiomyopathies exp~rimentales, aprgs intoxication par le KCN par exemple (I{eeht,
+1967), et in vitro (Kakari, 1970), off l'on a pu montrer la r~versibilitg de ees alt6rations histoenzymologiques. Ces eonstatations eorroborent les travaux de
+Lushnikov (1963), de Cox, MeLaughlin, Flowers et Horan (1968), qui ont insist6,
+partir de documents histoenzymologiques, sur le eomportement des zones
+marginales au tours des phases prgcoees du proeessus. I1 puruit probable que la
+r6eup6ration de certains territoires myoeardiques se fasse ~ purtir de ees zones,
+surtout marginales, qui n'ont pus 6t6 dgfinitivement frapp6es duns leur m6tabolisme 6nerg6tique d~s la premigre heure.
+
+172
+
+J . P . Camilleri et al.
+
+U n e derni~re question est soulev~e p a r l'in~galit6 des r6sultats. Si la possibilit4 d ' o b t e n i r p a r r e v a s c u l a r i s a t i o n pr6coce une r~duction de la taille de l'infarctus p a r a i t acquise d a n s certains cas, il est i n c o n t e s t a b l e que, d a n s bon n o m b r e
+d ' a u t r e s , ]e r 4 t a b l i s s e m e n t m6me pr~coce du flux s a n g u i n a b o u t i t ~ des l~sions
+de t o p o g r a p h i e s u p e r p o s a b l e ~ celle des infarctus p a r isch~mie p e r m a n e n t e .
+D a n s n o t r e s~rie, le tiers des lev6es de ligature apr~s une heure d'isch~mie cornp o r t e une telle 4volution. Bien plus, l ' 6 t u d e h i s t o e n z y m o l o g i q u e des premieres
+phases d u processus m o n t r e parfois une extension plus r a p i d e de la zone de n6crose.
+Les v~rifications coronographiques et histologiques effectuSes p e r m e t t e n t d'41im i n e r la persistance d ' u n obstacle au n i v e a u de la l i g a t u r e (thrombose p a r exemple). Certaines o b s e r v a t i o n s sugg~rent l'intervention~ dans ces cas, de p e r t u r b a t i o n s profondes de la microcirculation. L ' a b s e n c e dans certains t e r r i t o i r e s
+isch~miques de r6expansion v a s c u l a i r e ~ ]'6chelon capillaire, malgr6 la r6injection
+correete du lit art~riel aprSs r 6 t a b l i s s e m e n t du flux sanguin, serait susceptible
+d ' a g g r a v e r l'anoxie tissulaire. Oed~me cellulaire ou ((sludge~) p o u r r a i e n t 6tre
+responsables de ce second obstacle, au n i v e a u de la microcirculation. D a n s ees
+zones, le processus 4voluerait p o u r son p r o p r e c o m p t e et 6 c h a p p e r a i t a u x effets
+f a v o r a b l e s de la revascularisation. D~s 1966, K r u g et al. et, plus r ~ c e m m e n t ,
+Hauschild, U. et al., o n t 6voqu6 le r61e des f a c t e u r s microcirculatoires d a n s
+l'isch6mie m y o c a r d i q u e exp6rimentale. D ' a u t r e s a u t e u r s o n t observ6 des fairs
+semblables d a n s la surr~nale ( K o v a c s et al., 1966), l'enc4phale ( K o w a d a et al.,
+1968; A m e s et al., 1968) et la p e a u ( W i l l m s - K r e t s c h m e r et Majno, 1969). L ' ~ t u d e
+de ces modifications p a r des techniques d ' i n j e c t i o n s de masses o p a q u e s et color~es
+est a c t u e l l e m e n t en cours. Les r~sultats feront l ' o b j e t d ' u n e p u b l i c a t i o n ult~rieure.
+
+Bibliographie
+Ames, A., Wright, R.W., Kowada, ~V[., Thurston, J.M., ~ajno, G.: Cerebral ischemia.
+II. The no-reflow phenomenon. Amer. J. Path. 52, 437--454 (1968)
+Baghirzade, M.F., Kitsch, U., Hauschild, U. : Capillareinengung bei anoxisch und ischiimisch bedingtem Ausstieg des Coronarwiderstandes im Meerschweinchenlurzen. Virchows Arch. Abt. A. 351, 193--204 (1970)
+Bajusz, E., Jasmin, G. : Comparative morphogenesis and enzyme histogenesis ol some occlusive and metabolic cardiac necroses. Rev. canad. Biol. 22, 181--199 (1963)
+Bajusz, E., Jasmin, G. : His~ochemical studies on the myocardium following experimental
+interference with coronary circulation in the Rat. I. Occlusion of coronary artery. Acta
+histochem. (Jena) 18, 222--237 (1964)
+Bajusz, E., Jasmin, G. : Histochemically demonstrable phosphorylase as an early index of
+~noxie myocardial damage. Expcrientia (Basel) 20, 373 (1964)
+Blumgart, H.L., Gilligan, D. P~., Schlesinger, M. J.: Experimental studies on the effectof
+temporary occlusion of coronary arteries. - - IL The production of myocardial infarction.
+Amer. Heart J. 22, 374--389 (1941)
+Br~chfeld, N.: Maintenance of cell viability. Circulation (Suppl.) 39, 40--202 (1969)
+Brachfeld, N.: Ischemic myocardial metabolism and cell necrosis. Bull. N. u Acad. Med.
+50, 261--293 (1974)
+Breshnahan, G. F., Roberts, 1~., Shell, W. E., t~oss, J. Jr., Sobel, B. E. : Deleterious effects of
+hemorrhage after myocardial reperfusion. Am. J. Cardiol. 32, 82 (1974)
+Coffman, J.D., Lewis, F. B., Gregg, D . E . : Effect of prolonged periods of anoxia on atrioventricular conduction and cardiac muscle. Circular. Res. 8, 649 (1960)
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+173
+
+Cox, J. L., McLaughlin, V. W., Flowers, N. C., Horan, L. G. : The ischemic zone surrounding
+acute myocardial infarction. Its morphology as detected by deshydrogenase staining.
+Amer. Heart J. 76, 650--659 (1968)
+Deloche, A., Fontaliran, F., Fabiani, J.N., Pennecot, G., Carpentier, A., Dubost, Ch.:
+Etude exp6rimentale de la revascularisation chirurgicale pr6coce de l'infarctus du myocard~. Ann. Chir. Thor. Cardiovasc. l l , 89--105 (1972)
+Dobson, J. G., Mayer, J. E. : mechanisms of activation of cardial glycogen phosphorylase
+in ischemia and anoxia. Circular. Res. 38, 4 1 2 ~ 2 0 (1973)
+Dusek, J., Rona, G., Kahn, D. S. : Healing process in the marginal zone of an experimental
+myocardial infarct: finding in the surviving cardiac muscle cells. Amer. J. Path. 62,
+321--332 (1971)
+Fine, G., Morales, A., Scerpella, J. R. : Experimental myocardial infarction: a histochemical
+study. Arch. Path. 82, 4---8 (1966)
+Fischer, S., Edwards, W. S.: Tissue necrosis after temporary coronary artery occlusion.
+Amer. Surg. 29, 617--619 (1963)
+Fontaliran, F., Deloche, A., Camilleri, J. P., Carpentier, A., Diebold, J. : Effets de la revascnlarisation sur l'6volution histopathologique de l'infarctus experimental du Rat. Path.
+et Biol. 20, 393--400 (1972)
+Ginks, W., Ross, J., Sybers, H. : Prevential of gross myocardial infarction in the canine
+heart. Arch. Path. 97, 380--384 (1974)
+Ginks, W. R., Sybers, H. D., Maroko, P. 1~., Covell, J.W., Sobel, B. E., Ross, J. : Coronary
+artery reperfusion. II. Reduction of myocardial infarct size at 1 week after the coronary occlusion. J. clin. Invest. 51, 2717--2723 (1972)
+Hausehild, U., Baghirzade, M.-F., Kirsch, U.: Capillarkompression als Isch~miefolge.
+Elektronenoptisehe Untersuchungen an Papillarmuskeln des Menschen und des Meersehweinchens. Virchows Arch. Abt. A 351, 205 224 (1970)
+Hecht, A.: Fermenthistochemische Friihver~nderungen beim experimentellen Herzinfarkt.
+Virchows Arch. path. Anat. 887, 414--424 (1964)
+Heeht, A.: Fermenthistochemische Befunde am Granulationsgewebe des experimentellen
+Herzinfarktes. Virchows Arch. path. Anat. 338, 5--15 (1964)
+Hecht, A.: Zum Problem der fermenthistochemisehen Erfassung unterschiedlicher Schadigungsmechanismen am Rattenherzmuskel am Beispie] der Phosphorylaseaktivit~t.
+Beitr. path. Anat. 137, 322--332 (1967)
+Hecht, A.: Enzyme histochemistry of Heart muscle in normal and pathologic conditions.
+Meth. Achier. exp. Path. 5, 384--436 (1971)
+Hecht, A., Jennrieh, M., Friedrich, C.: Sauerstoffmangelzustiinde und histochemisch nachweisbare Phosphorylaseaktivit~t am Rattenherzmuskel. Histochemie 14, 335--342 (1968)
+Hecht, A., Korb, G., David, H. : Vergleichende histochemische, fluoreszenzmikroskopische
+und elektronenoptische Untersuchungen zur Friihdiagnose des Herzinfarktes der Ratte.
+Virchows Arch. path. Anat. 334, 267--284 (1961)
+Hort, W., Dacanalis, J. P. : Untersuehungen an Rattenherzen nach temori~rer Unterbindung
+der linken Kranzarterie. Virchows Arch. path. Anat. 389, 61--71 (1965)
+Ji~skel~inen, A. J. : Phosphorylase activity in myocardial infarction and its post mortem
+demonstrability in the l~at. Ann. Med. exp. Fenn. 44, 541--543 (1966)
+Jennings, 1%.B.: Effects of a tansiant period of isehemia on myocardial cells. Amer. J.
+Path. 74, 3, 381 (1974)
+Jennings, R. B., Kaltenbaeh, J. P., Sommers, H. M., Bahr, G. F., Wartman, W. R. : Studies
+of dying myocardial cell. In: The etiology of myocardial infarction (James, T.N. and
+Keyes, J. W., eds.), chap. 12. Boston: Brown 1963
+Jennings, R.B., Sommers, H.M., Herdson, P. B., Kaltenbach, J . P . : Ischemic injury of
+the myocardium. Amer. :N. u Acad. Sci. 156, 61--78 (1969)
+Johns, T. N. P., Olson, B. I.: Experimental myocardial infarction. I. Method of coronary
+occlusion in small animals. Amer. J. Surg. 14t), 675--682 (1954)
+Kakari, S. : Observation on the use of Nitroblue tetrazolium in the detection of early myocardial changes. The histochem. J. 2, 453--477 (1970)
+Kaufman, N., Gavan, T.L., Hill, R.W.: Experimental myocardial infarction in the rat.
+Arch. Path. 67, 4 8 2 4 8 8 (1959)
+12 VirchowsArch.A Path. Anat. and Histol.,Vol.366
+
+174
+
+J . P . Camilleri et al.
+
+Kent, S. P., Diseker, M. : Early myocardial ischemia: study of histochemical changes in dog.
+Lab. Invest. 4, 398~405 (1955)
+Klionsky, B.: Myocardial ischemia and early infarction: a histochemical study. Amer. J.
+Path. 86, 575--591 (1960)
+Korb, G. : Morphologische Untersuchungen an experimentellen Herzmuskelnekrosen. Habilitationsschrift. Marburg, 1964
+Korb, G., Totovic, V." Electronmicroscopical studies on experimental ischemic lesions of
+the heart. Ann. IN. Y. Acad. Sci. 156, 48--60 (1969)
+Kovacs, K., Carroll, R., Tapp, E.: Temporary ischaemia of the adrenal gland. J. Path.
+Baet. 91, 235--240 (1966)
+Kowada, M., Ames, A., Maine, G., Weight, R. L. : Cerebral ischemia. An improved experimental method for study; cardiovascular effects and demonstration of an early vascular
+lesion in the rabbit. J. Neurosurg. ~8, 150--157 (1968)
+Krug, A.- The extent of ischemic damage in the myocardium of the cat after permanent
+and temporary coronary occlusion. J. thorac, cardiovase. Surg. 60, 242~247 (1970)
+Krug, A., Dharamadhach, A., Krug, Ch.: Zum histochemischen Phosphorylasennachweis
+im Herzinfarkt. I-Iistochemie 10, 376--377 (1967)
+Krug, A., Korb, G. : DurchblutungsstSrungen und Histologische sowie enzymhistochemische
+Frfihver~nderungen am Katzerhegen nach temporiirer Unterbindung von Koronargef~l]en. Beitr. path. Anat. 184, 29--5f (t966)
+Krug, A., Roehamont, W. de, Korb, G.: Blood supply of the myoeardium after temporary
+coronary occlusion. Circular. Res. 19, 57--62 (1966)
+Lie, J.T., Holley, K. T., Kampa, W. R., Titus, J. L. : New histochemical method for morphologic diagnosis of early stages of myocardial isehemia. Prec. Mayo Clin. 46,319--327
+(1971)
+Lushnikov, E. F. : ttistochemical study of experimentally produced myocardial infarction.
+Fed. Prec. 22, 906--910 (1963)
+McKeever, W. P., Gregg, D. E., Canney, P. C. : Oxygen uptake of the nonworking left ventricule. Circulat. l~es. 6, 612--616 (1958)
+iV[cNamara, J. J., Smith, G. T., Svehiro, G. T., Soeter, J. R., Anema, R. J., Morgan, A. L.,
+Liao, S. K." Myocardial viability after transient ischemia in primates. J. thorac, cardiovase. Surg. 68, 248--256 (1974)
+Mallory, G.K., White, P.D., Salcedo-Salgar, J.: The speed of healing of myocardial infarction: ~ study of the pathological anatomy in seventy-two cases. Amer. Heart J. 18,
+647--671 (1939)
+Maroko, P. R., Kjekshus, J. K., Sobel, B. E., Watanabe, T., Covell, J. W., Ross, J., Braunwald, E.- Factors influencing infarct size following experimental coronary artery occlusions. Circulation 48, 67--82 (1971)
+Maroko, P. R., Libby, P., Ginks, W. R., Bloor, C. 1VL, Shell, W. E., Sobel, B. E., Ross, J.:
+Coronary artery reperfusion. I. Early effects on local myocardial function and the extent
+of myocardial necrosis. J. olin. Invest. 51, 2710--2716 (1972)
+Maroko, P. R., Libby, P., Sobel, B.E., Bloor, C.M., Sybers, H.D., Shell, W. E., Covell,
+T.W., Braunwald, E.: Effect of glucose-insulin-potassium infusion on myocardial infarction follwing experimental coronary artery occlusion. Circulation 45, 1160--1175
+(1972)
+Martin, A. M., Hackel, D. B. : The myocardium of the dog in hemorragic shock. A histochemical study. Lab. Invest. 12, 77--91 (1963)
+Meijer, A. E. F. H. : Improved histochemical method for the demonstration of the activity
+of ~-glucan-phosphorylase. I. The use of glycosyl accepter dextran. Histochemie 12,
+244-252 (1968)
+Niles, N. R., Bitensky, L., Braimbridge, 1V[.V., Chayen, J. : Histochemical changes related
+to oxidation and phosphorylation in human heart muscle. J. roy. mier. Soc. 86, 159--166
+(1966)
+I~iles, I~. R., Bitensky, L., Chayen, J., Cunningham, G. T., Braimbridge, M. V. : The value
+of histochemistry in the analysis of myocardial dysfunction. Lancet 1964I, 963--965
+Niles, N. 1%., Zavin, J.D., Morikado, 1%.N. : Histoehemical study of effects of hypoxia and
+isoproterenol on rat myocardium. Amer. J. Cardiol. ~2, 381--388 (1968)
+
+Etude histochimique et histoenzymologique de l'infarctus exp6rimental
+
+175
+
+Pearse, A. G. E. : Histochemistry, theoretical and applied. J. & A. Churchill Ltd. London : 1961
+Schulze, W., Krausc, E. G., Wollenberger, A.: Uber die unterschiedlichen Aussagen der
+histochemischen und quantitativ-biochemischen Bestimmung der Phosphorylaseaktivit~t im Herzmuskel nach Koronararterienverschluf~ und nach kiinstlich erzeugtem
+Glykogenmangel. Acta histochem. (Jena) 32, 270~280 (1969)
+Seiferth, J.: Fermenthistochemische Friihver~nderungen des experimentellen ~yokardinfarkts bei der Ratte. Frankfurt. Z. Path. 76, 329--339 (1967)
+Seiferth, J.: ttistochemische Untersuchungen zum Glykogenabbau im experimentellen
+Myokardinfarkt bei der l%atte. Acta histochem. (Jcna) 26, 351--359 (1967)
+Selye, H., Bajusz, E., Graslo, S., Mendell, P. : Simple techniques for the surgical occlusion
+of coronary vessels in the rat. Angiology 11, 398--407 (1960)
+Shnitka, T. K., Nachlas, M. M. : Histochemical alterations in ischemic heart muscle and early
+myocardial infarction. Amer. J. Path. 42, 507--527 (1963)
+Sommers, H.M., Jennings, R.B.: Experimental acute myocardial infarction. Histologic
+and histochemical studies of early myocardial infarcts induced by temporary or permanent occlusion of a coronary artery. Lab. Invest. 13, 1491--1503 (1964)
+Wartman, W.B., Jennings, R. B., Yokoyama, H.D., Clabaugh, G. F. : Fatty change of
+the myocardium in early experimental infarction. Arch. Path. 62, 318--323 (1956)
+Willerson, J.T., Powell, W. P., Guiney, T. E., Stark, J . J . , Sanders, C.A., Leaf, A.: Improvement in myocardial funtion and coronary blood flow in ischaemic myocardium after
+mannitol. J. clin. Invest. 51, 2989 (1972)
+Willms-Kretschmer, K., Majno, G. : Ischemia of the skin. Electron microscopic study of
+vascular injury. Amer. J. Path. 54, 327--353 (1969)
+Yabuki, S., Blanco, G., Imbriglia, J. E., Bentivoglia, L., Bailey, C. P. : Time studies of acute,
+reversible coronary occlusion in dogs. J. thorac. Surg. 88, 40--45 (1959)
+u
+H. 0., Jennings, R.B., Clabaugh, G.F., Wartman, W. B.: Histochemical
+studies of early experimental myocardial infarction. Periodic acid-Schiff method. Arch.
+Path. 59, 347--354 (1955)
+Dr. J. P. Camilleri
+Laboratoire d'Anatomie Pathologuique
+U.E.R. Broussais, HStel-Dieu
+21, Rue ]~cole de M6decine
+F-75006 Paris, France
+
+12"
+

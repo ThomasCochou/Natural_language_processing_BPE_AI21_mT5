@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Manque du nom propre et effet de la modalité sur la capacité à reconnaître des personnes connues au cours du vieillissement normal</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Manque du nom propre et effet de la modalité sur la capacité à reconnaître des personnes connues au cours du vieillissement normal</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Roxane</forename><surname>Langlois</surname></persName><email>langlois.roxane@courrier.uqam.ca</email><affiliation>Université de Montréal, Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Francine</forename><surname>Fontaine</surname></persName><affiliation>Institut universitaire de gériatrie de Montréal (IUGM)</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Caroline</forename><surname>Hamel</surname></persName><affiliation>Université de Montréal, Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)</affiliation></author><author xml:id="author-0003"><persName><forename type="first">Sven</forename><surname>Joubert</surname></persName><affiliation>Université de Montréal, Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)</affiliation></author><idno type="istex">2EA230330940F18CAEE3CF06A99C7E325866DA53</idno><idno type="ark">ark:/67375/6GQ-4F6SP3T8-N</idno><idno type="DOI">10.1017/S0714980809990183</idno><idno type="PII">S0714980809990183</idno><idno type="article-id">99018</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="337">337</biblScope><biblScope unit="page" to="345">345</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>The aim of this study was to investigate the impact of aging on the ability a) to name famous faces and b) to access biographical knowledge about famous people from different modalities of presentation (faces and names). Healthy elderly subjects (n = 117) divided into three different age groups were assessed using a semantic memory test of famous people. Results of this study indicate a decline in naming performance between oldest and youngest groups. In contrast, no difference between groups was found in terms of the ability to access semantic knowledge about famous people. Finally, a main effect of modality of presentation (faces vs. names) was found, revealing greater ability to identify famous people in the verbal (names) than in the visual modality (faces). Taken together, results of this study may contribute to developing new cognitive intervention programs in older adults presenting with proper-name anomia.</p></abstract><abstract xml:lang="fr" style="translated"><p>L’objectif de cette étude vise à étudier l’influence du vieillissement sur a) la capacité à dénommer des visages de personnes connues et b) le rôle de la modalité de présentation sur la capacité à accéder aux connaissances sémantiques sur les personnes connues. Les participants âgés en bonne santé (n = 117), répartis en trois tranches d’âge, ont été évalués à l’aide d’un test de mémoire sémantique de personnes célèbres. Les résultats révèlent une diminution significative de la performance en dénomination de noms propres entre le groupe le plus âgé et le moins âgé. Les résultats ne révèlent aucune différence entre les trois groupes quant à la capacité à accéder aux connaissances sémantiques sur ces mêmes personnes. Enfin, les résultats démontrent un effet principal en faveur de la modalité verbale (noms) relativement à la modalité visuelle (visages) dans la capacité des participants âgés à accéder à l’identité des personnes connues. Pris globalement, les résultats de cette étude pourraient contribuer à développer de nouvelles perspectives d’intervention cognitive auprès de personnes âgées présentant un manque du nom propre.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>Mémoire sémantique</term></item><item><term>vieillissement normal</term></item><item><term>personnes célèbres</term></item><item><term>dénomination</term></item><item><term>manque du nom propre</term></item><item><term>modalité de présentation</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>Semantic memory</term></item><item><term>normal aging</term></item><item><term>famous persons</term></item><item><term>naming</term></item><item><term>proper name anomia</term></item><item><term>modality</term></item><item><term/></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Manque du nom propre et effet de la
+modalité sur la capacité à reconnaître des
+personnes connues au cours du
+vieillissement normal*
+Roxane Langlois,1 Francine Fontaine,2 Caroline Hamel,1 et Sven Joubert1
+ABSTRACT
+The aim of this study was to investigate the impact of aging on the ability a) to name famous faces and b) to access
+biographical knowledge about famous people from different modalities of presentation (faces and names). Healthy
+elderly subjects (n = 117) divided into three different age groups were assessed using a semantic memory test of famous
+people. Results of this study indicate a decline in naming performance between oldest and youngest groups. In contrast,
+no difference between groups was found in terms of the ability to access semantic knowledge about famous people.
+Finally, a main effect of modality of presentation (faces vs. names) was found, revealing greater ability to identify famous
+people in the verbal (names) than in the visual modality (faces). Taken together, results of this study may contribute to
+developing new cognitive intervention programs in older adults presenting with proper-name anomia.
+
+RÉSUMÉ
+L’objectif de cette étude vise à étudier l’inﬂuence du vieillissement sur a) la capacité à dénommer des visages de personnes
+connues et b) le rôle de la modalité de présentation sur la capacité à accéder aux connaissances sémantiques sur les
+personnes connues. Les participants âgés en bonne santé (n = 117), répartis en trois tranches d’âge, ont été évalués à l’aide
+d’un test de mémoire sémantique de personnes célèbres. Les résultats révèlent une diminution signiﬁcative de la
+performance en dénomination de noms propres entre le groupe le plus âgé et le moins âgé. Les résultats ne révèlent
+aucune différence entre les trois groupes quant à la capacité à accéder aux connaissances sémantiques sur ces mêmes
+personnes. Enﬁn, les résultats démontrent un effet principal en faveur de la modalité verbale (noms) relativement à la
+modalité visuelle (visages) dans la capacité des participants âgés à accéder à l’identité des personnes connues. Pris
+globalement, les résultats de cette étude pourraient contribuer à développer de nouvelles perspectives d’intervention
+cognitive auprès de personnes âgées présentant un manque du nom propre.
+1
+
+Université de Montréal, Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)
+
+2
+
+Institut universitaire de gériatrie de Montréal (IUGM)
+
+* Ce projet a été réalisé grâce à une subvention recherche du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG)
+à SJ, par une subvention CAREC (Institut universitaire de gériatrie de Montréal) à SJ et FF, et grâce à une bourse de carrière de Chercheur-boursier - Junior 1 des Fonds de la recherche en santé du Québec (FRSQ) à SJ. Nous souhaitons remercier Francine Giroux pour
+son aide avec les statistiques. Nous aimerions aussi remercier tous les participants qui ont accepté de participer à cette étude.
+Manuscript received: / manuscrit reçu : 21/07/08
+Manuscript accepted: / manuscrit accepté : 26/05/09
+Mots clés : Mémoire sémantique, vieillissement normal, personnes célèbres, dénomination, manque du nom propre, modalité
+de présentation
+Keywords: Semantic memory, normal aging, famous persons, naming, proper name anomia, modality
+Correspondence concerning this article should be addressed to: / La correspondance concernant cet article doit être adressée à :
+Roxane Langlois, B.Sc.
+Département de psychologie
+Université de Montréal
+Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)
+4565, Chemin Queen-Mary
+Montréal, Québec H3W 1W5
+Tel: 514-340-3540
+Fax: 514-340-3548
+(langlois.roxane@courrier.uqam.ca)
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (4) : 337–345 (2009)
+doi:10.1017/S0714980809990183
+
+337
+
+338
+
+Canadian Journal on Aging 28 (4)
+
+Introduction
+La mémoire sémantique (MS) comprend l’ensemble
+des connaissances accumulées au cours de la vie et
+partagées par un même groupe culturel. La MS concerne par exemple les connaissances générales sur les
+objets, les personnes célèbres, les événements célèbres
+ainsi que les connaissances historiques, culturelles et
+scientiﬁques. La MS est dépourvue de contexte spatiotemporel d’acquisition, contrairement aux souvenirs
+contenus dans la mémoire épisodique qui nécessitent
+de remonter dans le temps et qui sont situés dans un
+lieu et sont survenus à un moment spéciﬁque de la vie.
+L’organisation de la MS demeure encore relativement
+mal connue, particulièrement dans le contexte du vieillissement, qu’il soit normal ou pathologique. De plus,
+il est possible que le déclin précoce de la MS au cours
+du vieillissement puisse être annonciateur d’un début
+de démence dégénérative (Joubert et al., 2008). Conséquemment, l’étude de la MS dans le vieillissement
+demeure également importante sur le plan clinique.
+Les données neuropsychologiques recueillies au cours
+des 20 dernières années ont suscité plusieurs questionnements quant à l’organisation de la MS. Ainsi, la découverte de certains troubles sémantiques sélectifs à
+certains objets (entités biologiques versus objets manufacturés), à certains types de concepts (concepts concrets versus abstraits) (Tyler &amp; Moss, 2001), ou à une
+modalité d’accès (verbale versus visuelle) (e.g., Haslam,
+Kay, Hanley, &amp; Lyons, 2004) laissent entrevoir la possibilité d’une certaine organisation des connaissances
+au sein même de la MS. Par exemple, il semble que les
+connaissances que nous avons sur les personnes connues soient organisées de manière indépendante de
+celles d’autres types de connaissances sémantiques. En
+effet, la littérature rapporte plusieurs études de cas
+neuropsychologiques dont les patients présentent une
+atteinte isolée de la capacité à reconnaître et à identiﬁer
+des personnes familières, alors que d’autres types de
+connaissances sémantiques demeurent intacts (Joubert
+et al., 2006). De surcroît, malgré qu’il soit beaucoup
+plus rare, le patron inverse, dans lequel les patients
+présentent une relative préservation de leurs connaissances sur les personnes familières, mais une atteinte
+quant à celles qui portent sur les objets et animaux, a
+aussi été documenté à quelques reprises (Kay &amp; Hanley,
+2002; Lyons, Hanley, &amp; Kay, 2002). Cette mise en évidence
+d’une dissociation entre les connaissances sur les
+personnes et celles sur d’autres domaines sémantiques,
+va dans le sens d’un système sémantique indépendant
+qui serait responsable du traitement des informations
+relatives aux personnes connues (Thompson
+et al., 2004).
+Aﬁn de pouvoir étudier la mémoire des personnes
+connues auprès d’un grand nombre de sujets, certains
+
+Roxane Langlois et al.
+
+auteurs ont développé et utilisé des tests qui évaluent
+les connaissances biographiques sur des personnes célèbres (personnages politiques, acteurs, chanteurs, athlètes, etc.) (Greene &amp; Hodges, 1996; Joubert et al., 2006).
+Une procédure dans laquelle on présente des personnes célèbres à partir de leurs photographies ou
+leurs noms permet ainsi d’évaluer les différents types
+de connaissances biographiques que nous avons sur
+ces personnes connues.
+Les modèles classiques s’avèrent incontournables dans
+le domaine de la reconnaissance des visages. Ces
+modèles postulent que l’accès aux connaissances sémantiques sur les personnes se fait par l’intermédiaire
+d’une succession d’opérations cognitives distinctes
+(Bruce &amp; Young, 1986; Burton, Bruce, &amp; Johnston, 1990;
+Valentine, Brédart, Lawson, &amp; Ward, 1991). D’ailleurs,
+les travaux de Bruce et Young (1986), Burton et al.
+(1990) et Valentine et al. (1991) ont mené au développement de modèles théoriques qui permettent de mieux
+comprendre les différentes étapes de traitement cognitif impliquées dans la reconnaissance des personnes
+familières. Trois étapes successives seraient impliquées
+dans la reconnaissance de personnes à partir de leurs
+visages (cf. ﬁgure 1). Dans une première étape, les visages sont analysés à un niveau perceptif, ce qui permettrait entre autres d’intégrer les différentes parties
+du visage en une conﬁguration globale. Dans une
+deuxième étape, lorsque les visages sont connus, des
+unités de reconnaissance faciales ou face recognition units
+(FRUs) sont activées. Ces unités stockées en mémoire
+constituent des représentations structurales visuelles
+de chaque visage connu. L’activation d’un FRU par un
+
+NOM
+
+VOIX
+
+VISAGE
+
+Analyse perceptive
+
+Analyse perceptive
+
+Analyse perceptive
+
+Unités de
+
+Unités de
+
+Unités de
+
+reconnaissance
+
+reconnaissance
+
+reconnaissance
+
+Connaissances biographiques/sémantiques sur les personnes
+Person Identity Nodes (PIN)
+
+Nom et identification
+
+Figure 1 : Représentation schématique des différentes étapes
+successives impliquées dans la reconnaissance des personnes
+(Joubert et al., 2006)
+
+Vieillissement et mémoire sémantique
+
+visage permet de dire que ce visage est familier. Cela
+peut ensuite mener à l’activation d’un nœud d’identité
+des personnes ou person identity nodes (PIN) correspondant, qui permettrait d’accéder à l’ensemble des informations sémantiques sur la personne en question.
+La reconnaissance et l’identiﬁcation des personnes
+familières ou connues peut aussi se faire à partir
+d’autres modalités, tel qu’à partir du nom ou de la voix
+de la personne. Par exemple, lors de la présentation de
+la voix ou du nom de «Marilyn Monroe», le système de
+reconnaissance de personnes compare les informations
+perceptives (analyse structurale de la voix ou du nom)
+à l’unité de reconnaissance correspondante (unité de reconnaissance vocale ou unité de reconnaissance du nom de
+Marilyn Monroe). Ensuite, l’activation de cette unité
+permet, par le biais du nœud d’identité (PIN) relatif à
+Marilyn Monroe, l’accès aux connaissances sémantiques (Semantic information units – SIUs) spéciﬁques à
+cette dernière. Ainsi, il devient possible d’évoquer le
+fait qu’elle est une vedette de nationalité américaine
+qui a eu une histoire d’amour avec John F. Kennedy et
+qu’elle est décédée d’une mort mystérieuse.
+Selon la première version du modèle de Bruce et Young
+(1986), l’accès au nom ne pouvait se faire qu’après
+l’activation des PINs. En 1990, Burton et al. ont élaboré
+le modèle IAC (interactive activation model) à partir de la
+première version. La principale modiﬁcation faite concerne l’accès au nom. En effet, dans cette adaptation, on
+stipule que le nom est stocké au niveau des SIUs, parallèlement aux autres informations sémantiques. Très
+récemment, une adaptation multimodale du model de
+reconnaissance de personnes de Bruce et Young a été
+élaborée (Joubert et al., 2006). Dans son modèle, Joubert
+et al. proposent une étroite collaboration des trois voies
+d’accès (visage, voix et nom) par le biais d’interactions
+multimodales.
+En résumé, les modèles classiques de la reconnaissance
+de personnes ont été élaborés aﬁn de rendre compte et
+d’expliquer les différentes étapes impliquées dans le
+traitement des représentations sémantiques spéciﬁques
+aux personnes. Ils stipulent que l’accès aux connaissances sur les personnes peut se faire tant à partir de la
+modalité visuelle, qu’à partir du nom ou de la voix.
+Ainsi, les différentes modalités d’accès mèneraient à
+un même stock sémantique. Néanmoins, il semblerait
+que le vieillissement a des effets différentiels sur ce
+stock sémantique et sur ces modalités d’accès.
+Le vieillissement affecte les divers systèmes mnésiques
+de manière différente. D’après les recherches qui ont
+étudié les effets du vieillissement sur la mémoire, il
+semble que la mémoire sémantique décline beaucoup
+plus tardivement que la mémoire épisodique et la mémoire de travail (Park et al., 2002). De surcroît, certains
+aspects de la MS auraient même tendance à s’accroître
+
+La Revue canadienne du vieillissement 28 (4)
+
+339
+
+au cours du vieillissement étant donné que nous continuons à accumuler des connaissances tout au long de
+notre vie. Par exemple, il a été démontré que les performances de participants âgés sains aux épreuves
+verbales d’intelligence (Wechsler Adult Intelligence
+Scale - WAIS), dont certains sous-tests reﬂètent différents aspects de la mémoire sémantique (intelligence
+cristallisée), déclineraient moins rapidement que les
+performances aux sous-tests qui évaluent le quotient
+intellectuel (QI) performance (intelligence ﬂuide) au
+cours du vieillissement (Grégoire &amp; Van der Linden,
+1997). Néanmoins, il existe peu d’études qui se sont intéressées à décrire de manière plus précise l’évolution
+de la mémoire sémantique au cours du vieillissement.
+D’autres part, certaines études portant sur la reconnaissance de personnes familières ont démontrées que
+la dénomination de personnes célèbres est affectée par
+le vieillissement (Crook &amp; West, 1990; James, 2006;
+Rendell, Castel, &amp; Craik, 2005). Ainsi, l’augmentation
+de l’âge serait corrélée à une diminution de la performance dans des tâches de dénomination de personnes
+célèbres à partir de photographies. L’apprentissage de
+nouveaux noms a aussi été comparé à l’apprentissage
+de nouvelles connaissances sémantiques sur les personnes et il semble encore une fois que la première
+tâche se fasse plus difﬁcilement que la seconde et ce,
+même si le mot à apprendre est le même (Baker en tant
+que nom versus en tant que profession) (McWeeny,
+Young, Hay, &amp; Ellis, 1987). Ces résultats suggèrent
+donc que le vieillissement affecte l’accès aux noms,
+alors que le stock de connaissances sémantiques sur les
+personnes familières semble robuste au vieillissement.
+Néanmoins, il est possible que la capacité à reconnaître
+des personnes familières et célèbres soit affectée de
+manière différente au cours du vieillissement selon la
+modalité dans laquelle la personne est présentée
+(visage, voix ou nom). En effet, il semble que l’accès
+aux connaissances sémantiques sur les personnes diffère selon la modalité de présentation. Dans une étude,
+certains chercheurs ont découvert que la vue du visage
+d’une personne familière permet d’accéder à plus
+d’informations sémantiques sur celle-ci que le fait
+d’entendre sa voix (Hanley &amp; Turner, 2000). Encore
+plus récemment, Haslam et al. (2004) ont étudié le rôle
+d’indices visuels (visages) et verbaux (noms) dans
+l’accès aux informations biographiques sur des personnes célèbres chez des sujets sains jeunes et âgés. Ils
+ont découvert l’existence d’un biais fondamental entre
+ces deux modalités de présentation. D’abord, les jugements de familiarité (reconnaissance) étaient plus
+élevés avec la présentation du nom des personnes célèbres qu’avec la présentation de leur visage. Résultat
+encore plus intéressant, cette supériorité de la modalité
+verbale sur la modalité visuelle a aussi été retrouvée au
+niveau du rappel d’informations sémantiques.
+
+340
+
+Canadian Journal on Aging 28 (4)
+
+Concernant les effets du vieillissement sur la reconnaissance de personnes à partir de ces deux modalités
+de présentation, les résultats de l’étude de Haslam
+et al. (2004) démontrent un avantage en faveur des
+participants âgés dans la précision des informations
+biographiques fournies sur les personnes célèbres, mais
+aucun effet d’interaction entre l’âge des sujets et la modalité de présentation des stimuli. Toutefois, étant
+donné que les scores indiquent aussi que les participants âgés étaient plus familiers que les jeunes avec les
+stimuli, il est tout à fait possible que ces résultats soient
+attribuables au choix des stimuli expérimentaux, c’està-dire que les personnes célèbres sélectionnées dans le
+cadre de cette étude se soient avérées plus populaires
+auprès de la génération aînée (Haslam et al., 2004).
+En bref, l’état actuel des connaissances dans le domaine
+de l’impact du vieillissement sur la MS demeure très
+fragmentaire. En effet, le faible nombre d’études
+portant sur le sujet ne permet pas de bien comprendre
+l’évolution de la MS et de son organisation au cours du
+vieillissement. La présente étude vise donc à aborder
+plusieurs questions en suspens dans ce domaine de
+recherche. Premièrement, le manque du nom propre
+demeure l’une des plaintes cognitives les plus
+fréquemment rapportées chez les personnes âgées.
+Une meilleure caractérisation du manque du nom
+propre au cours du vieillissement normal revêt ainsi
+une importance toute particulière. Deuxièmement, le
+manque du nom propre est-il relié à une perte des
+connaissances sémantiques sous-jacentes? Les connaissances sur les personnes que nous connaissons
+évoluent-elles au cours du vieillissement? Enﬁn, reconnaissons-nous mieux les personnes connues à partir de
+leurs visages ou à partir de leurs noms? L’étude de
+l’effet de la modalité sur la capacité à reconnaître des
+personnes familières demeure également une problématique importante reliée à l’étude du manque du
+nom propre. L’objectif de cette étude est d’étudier ces
+différentes questions qui demeurent en suspens.
+L’objectif général du présent projet est donc d’étudier
+différents niveaux de traitement sémantique impliqués
+dans la reconnaissance de personnes célèbres au cours
+du vieillissement normal. Les objectifs plus spéciﬁques
+sont de déterminer auprès de groupes de participants
+âgés de différentes tranches d’âge si (a) la capacité à
+dénommer des personnes célèbres décline avec l’âge,
+et si (b) l’accès aux connaissances sémantiques sur les
+personnes connues décline au cours du vieillissement
+et s’il varie en fonction de la modalité de présentation
+(photographies ou noms) au cours du vieillissement.
+Il est attendu que la capacité à nommer des visages
+déclinera au cours du vieillissement. Concernant les
+effets de la modalité de présentation, l’hypothèse est
+que l’identiﬁcation des personnes connues à partir de
+leurs visages aura davantage tendance à décliner au
+
+Roxane Langlois et al.
+
+cours du vieillissement que l’identiﬁcation des personnes connues à partir de leurs noms. En effet, certaines
+études suggèrent que les capacités de traitement visuoperceptif déclinent au cours du vieillissement (De Sanctis
+et al., 2008; Nielson et al., 2005; Pfũtze, Sommer, &amp;
+Schweinberger, 2002), ce qui pourrait nuire à la reconnaissance des visages connus.
+
+Méthode
+Participants
+Un total de 117 participants québécois âgés entre 60 et
+91 ans ont été évalués aux ﬁns du présent projet. Ils ont
+été recrutés par le biais d’annonces dans des journaux,
+des revues, des résidences pour personnes âgées autonomes et des clubs d’âge d’or. Tous les participants
+résidaient dans la région métropolitaine de Montréal
+ou dans les banlieues environnantes au moment du recrutement. Les participants provenaient ainsi de plusieurs milieux, reﬂétant la diversité des milieux sociaux
+et des modes de vie de la population québécoise âgée.
+Seuls les participants âgés en bonne santé ont été retenus pour participer à l’étude. En effet, lors d’une entrevue téléphonique, tous les participants ont dû répondre
+dans un premier temps à un questionnaire de dépistage
+visant à évaluer leur état de santé général (i.e., présence
+de troubles visuels et auditifs non-corrigés, troubles
+mnésiques, histoire de troubles neurologiques et psychiatriques, polypharmacologie, abus de substances et
+alcool, anesthésie générale au cours des 12 derniers
+mois). Les participants présentant un ou plusieurs de
+ces critères n’ont pas été inclus dans l’étude. De plus,
+deux tests ont servi à évaluer de manière objective
+l’état cognitif général des participants avant la passation du protocole sémantique: le Minimental State Examination (MMSE) (Folstein, Folstein, &amp; Mc Hugh,
+1975) et l’Échelle de démence de Mattis (Mattis Dementia
+Rating Scale – MDRS) (Mattis, 1988). Les participants à
+risque de présenter une démence ont été exclus de
+l’étude (score cutoff: MDRS: &lt; 123/144 et MMSE: &lt;
+23/30).
+Aﬁn de comparer la performance des participants
+selon leur âge, l’échantillon a été divisé en trois groupes
+de participants âgés de 60 à 69 ans, de 70 à 79 ans et de
+80 ans et plus (cf. tableau 1). Des analyses de variances
+ont permis de conﬁrmer l’équivalence des groupes
+d’âge concernant l’état cognitif des sujets (MMSE: M =
+27.53, F (2, 113) = 1.42, p = .25 et MDRS: M = 138.60, F (2,
+114) = 2.06, p = .13) et leur niveau de scolarité (M = 12
+années de scolarité), F (2, 114) = 1.79, p = .17. De plus, la
+proportion d’hommes et de femmes est comparable
+entre les groupes, χ2 = (2, 117), p = .50. Le projet a été
+approuvé par le comité d’éthique de la recherche de
+l’Institut universitaire de gériatrie de Montréal et les
+participants ont donné leur consentement écrit. Chaque
+
+Vieillissement et mémoire sémantique
+
+La Revue canadienne du vieillissement 28 (4)
+
+341
+
+Tableau 1 : Statistiques descriptives des participants
+Groupes d’âge
+
+Niveau de scolarité
+moyen en années (É–T)
+
+% de femmes
+
+Score moyen MMSE (É–T)
+
+Score moyen MDRS (É–T)
+
+N total
+
+60–69 ans
+70–79 ans
+80 ans et plus
+Total
+
+13,17
+11,70
+11,83
+12,26
+
+71.40
+75.00
+82.90
+76.10
+
+27.88
+27.26
+27.43
+27.53
+
+139.65
+138.00
+138.03
+138.60
+
+42
+40
+35
+117
+
+(4.10)
+(4.06)
+(3.33)
+(3.90)
+
+participant a reçu une compensation ﬁnancière de 20$,
+dans le cas d’évaluations à domicile, ou 40$ lorsque les
+séances ont eu lieu au Centre de recherche de l’institut
+universitaire de gériatrie de Montréal (CRIUGM,
+www.criugm.qc.ca).
+
+Instruments
+Dans la première partie du protocole sémantique, 30
+photographies de personnes célèbres et connues de la
+population québécoise ont été imprimées en noir et
+blanc sur des cartons de grandeur 8½ × 11 et regroupées dans un cahier à spirales aux ﬁns de présentation.
+Les 30 photographies ont été présélectionnées parmi
+un large échantillon de photographies de personnes
+connues provenant de différentes sources de médias.
+Les photographies ont préalablement été présentées
+auprès d’une quinzaine de participants âgés aﬁn de
+valider le choix des stimuli: seules les photographies
+les mieux reconnues par l’ensemble des participants
+ont été retenues et constituent le protocole expérimental. Par ailleurs, les photographies représentent les personnes célèbres au moment même où elles étaient
+célèbres, les rendant donc plus facilement reconnaissables. De plus, chaque photographie ne comporte aucun indice, autre que le visage de la célébrité (incluant
+les cheveux), pouvant permettre son identiﬁcation. Les
+personnes célèbres ont été sélectionnées parmi différentes époques, soit des années 1930 à aujourd’hui, et
+représentent des personnes qui étaient connues dans
+différents domaines (artistique, politique, sportif). La
+deuxième partie du protocole, la partie verbale, est
+composée du nom complet de ces mêmes célébrités,
+présenté dans le même ordre que les photographies et
+selon le même mode de présentation. Bien que cet instrument soit expérimental, la ﬁdélité test-retest (r =
+.99, p &lt; .01) et la consistance interne (dénomination α =
+.87; questions sémantiques en modalité visuelle α = .90;
+questions sémantiques en modalité verbale α = .86) ont
+été vériﬁées et demeurent excellentes.
+Procédure
+Les deux séances qui composent l’évaluation durent
+environ 45 minutes et se déroulent à deux semaines
+
+(1.89)
+(1.46)
+(1.79)
+(1.73)
+
+(3.29)
+(3.10)
+(5.32)
+(4.23)
+
+d’intervalles, au CRIUGM, ou au domicile du sujet,
+selon le choix de celui-ci. Chaque participant est
+évalué seul, dans un environnement tranquille.
+L’administration de la partie visuelle du protocole sémantique, soit la présentation des photographies, est
+réalisée lors de la première rencontre. Dans un premier
+temps, il est demandé au sujet de dénommer la personne présentée sur la photographie. Le nom complet
+de la personne célèbre est demandé. Aucune réponse
+vague ou incomplète n’est acceptée (par exemple, la
+reine d’Angleterre pour la Reine Elizabeth II). Enfin,
+lorsque le sujet ne peut pas répondre à la question
+ou lorsqu’il fournit une réponse erronée, aucun feedback n’est donné et les questions suivantes sont alors
+posées.
+Cinq questions de type vrai ou faux portant sur des
+connaissances sémantiques sont posées pour chaque
+personne connue après la dénomination. Toujours
+dans la même séquence, on pose une question sur la
+profession, une sur la nationalité ou l’origine, deux
+questions portant sur des éléments biographiques
+spéciﬁques à la personne célèbre et une dernière question chronologique, dans laquelle on vériﬁe à quelle
+époque la personne était célèbre. Lorsque la réponse à
+la question n’est pas connue, le participant doit répondre au hasard. Par exemple, la photographie de René
+Lévesque est présentée, puis on demande au sujet de
+nommer la personne. Ensuite, que la réponse soit
+bonne ou non, on pose une question sur la profession
+tel que Est-il un homme politique? Puis, sur la nationalité; Est-il de nationalité canadienne? Et deux questions
+spéciﬁques telles que: Est-ce qu’il a déjà été le Premier
+Ministre du Québec? Est-ce qu’il a été membre du cabinet
+de Jean Chrétien? Enﬁn, vient la dernière question
+d’ordre chronologique: Est-ce qu’il a été Premier Ministre dans les années 70? En somme, pour la partie
+visuelle, un total de 30 items comprenant chacun cinq
+questions sémantiques, en plus de la dénomination,
+sont posées aux sujets. Après la première rencontre, il
+est strictement demandé aux sujets de ne pas chercher à trouver les réponses aux questions qui leurs
+sont posées entre le moment de cette évaluation et
+la seconde évaluation qui a lieu deux semaines plus
+tard.
+
+Canadian Journal on Aging 28 (4)
+
+Au moment de la deuxième rencontre, les participants
+répondent à la partie verbale du protocole sémantique.
+Celle-ci est composée des mêmes personnes célèbres et
+des mêmes questions que lors de la séance précédente,
+à l’exception de la dénomination, mais leur nom plutôt
+que de leur photographie est présenté. Les questions
+sont posées dans le même ordre que lors de la première
+séance. L’ordre de présentation des stimuli en modalité
+visuelle lors de la première rencontre et en modalité
+verbale lors de la deuxième rencontre est indispensable, car cet ordre précis permet d’éviter que les participants identiﬁent les visages connus à partir de la
+présentation préalable de leur nom. À nouveau, lorsque la personnalité n’est pas connue du participant, ce
+dernier doit répondre au hasard. Le mode de présentation vrai ou faux des questions a été choisi aﬁn de minimiser les difﬁcultés potentielles reliées aux stratégies
+de recherche en mémoire fréquentes au cours du vieillissement, qui auraient pu avoir un impact négatif sur
+la capacité à récupérer des informations sémantiques
+en mémoire. Ainsi, les questions offrent un support
+contextuel sufﬁsant, qui permet ainsi d’appréhender
+l’état réel des connaissances sémantiques des sujets.
+Il importe de mentionner que la méthodologie choisie
+dans cette étude est largement utilisée et acceptée dans
+la littérature (Samson, 2001; Semenza, 1999; Warrington,
+1984). En effet, la passation séquentielle de la version
+visuelle et verbale du même outil est fréquemment utilisée pour évaluer l’effet de modalité en mémoire sémantique. De plus, l’évaluation des mêmes concepts à travers
+plusieurs passations est une méthodologie fréquemment employée dans l’étude de la mémoire sémantique
+(Raymer &amp; Gonzalez-Rothi, 2002). En effet, la mémoire
+sémantique, qui porte sur un ensemble de connaissances
+accumulées tout au long de la vie, n’est pas sensible à
+un effet de répétition de la tâche, tel qu’on pourrait
+retrouver dans des tâches de mémoire épisodique ou
+de mémoire de travail (i.e., le fait de présenter des concepts à plusieurs reprises ne modiﬁe pas la performance
+sémantique car ces concepts demeurent stables).
+
+Résultats
+Pour chacune des analyses, les variables sont constituées du score total moyen de chaque groupe. Par exemple, la moyenne de chaque groupe a été calculée à
+partir du score total, en pourcentage, des participants
+qui le composent.
+
+Roxane Langlois et al.
+
+mance des différentes tranches d’âges F (2, 114) = 3.26,
+p &lt; .05, R2 = .05. Ensuite, aﬁn de situer entre quels
+groupes d’âges se trouvent ces différences, des comparaisons à postériori ont été faites à l’aide du test de
+Tukey HSD (Honestly Signiﬁcant Differences). Cette
+dernière analyse révèle que le score moyen du groupe
+le moins âgé, soit celui dans lequel les gens ont entre 60
+et 69 ans (M = 73.57%, ÉT = 18.47), est signiﬁcativement
+plus élevé que le score moyen du groupe le plus âgé
+dans lequel les participants sont âgés de plus de 80 ans
+(M = 62.86%, ÉT = 17.99). Par contre, le score moyen du
+groupe âgé de 70 à 79 ans (M = 67.5%, ÉT = 18.94) ne
+diffère pas des autres groupes, car le seuil de signiﬁcativité statistique n’a pas été atteint (cf. ﬁgure 2).
+Questions sémantiques
+Dans un second temps, les effets de la modalité de
+présentation et de l’âge ont été explorés à l’aide d’une
+analyse de variance mixte aﬁn de comparer la performance des groupes aux questions sémantiques concernant les personnes célèbres, lors des modalités visuelle
+et verbale. Aucun effet d’interaction entre l’âge des sujets et la modalité de présentation n’est apparu signiﬁcatif, Lambda de Wilks = .98, F (2, 114) = .93, p = .40,
+R2 = .02. De plus, l’âge n’a pas atteint non plus le seuil de
+signiﬁcativité statistique F (2, 114) = 2.81, p = .07, R2 =
+.05. Néanmoins, il est à noter que la performance moyenne diminue progressivement d’une tranche d’âge à
+l’autre (bien que cette différence ne soit pas statistiquement signiﬁcative), et de manière plus prononcée pour
+le groupe de participants les plus âgés (cf. ﬁgure 3). Par
+conséquent, il est possible que l’âge ait un effet modeste sur la performance des participants, mais que cet
+effet ne soit observable que sur le plan qualitatif.
+
+100
+
+% de bonnes réponses
+
+342
+
+95
+90
+85
+80
+75
+
+73,57
+
+70
+
+67,50
+62,86
+
+65
+60
+55
+50
+
+Dénomination
+Dans un premier temps, aﬁn de comparer la performance des trois groupes d’âge en ce qui a trait à la
+dénomination de personnes célèbres, une ANOVA
+a été effectuée. Les résultats obtenus indiquent une
+différence statistiquement signiﬁcative entre la perfor-
+
+60-69 ans
+
+70-79 ans
+
+80 ans et plus
+
+Groupe d'âge
+Figure 2 : Performance en dénomination de personnes célèbres, selon le groupe d’âge. Une différence signiﬁcative est
+retrouvée entre le groupe de 60-69 ans et le groupe de 80
+ans et plus (p &lt; .05)
+
+Vieillissement et mémoire sémantique
+
+% de bonnes réponses
+
+60-69 ans
+
+70-79 ans
+
+La Revue canadienne du vieillissement 28 (4)
+80 ans et plus
+
+100
+95
+90
+85
+80
+75
+70
+Modalité visuelle
+
+Modalité verbale
+
+Figure 3 : Performance aux questions sémantiques selon le
+groupe d’âge et la modalité de présentation. Un effet principal de la modalité de présentation est retrouvé. L’accès aux
+connaissances sémantiques sur les personnes célèbres est
+meilleur pour tous les groupes à partir de la présentation de
+leurs noms qu’à partir de celle de leurs visages
+
+Les résultats démontrent un effet principal de la modalité de présentation très important, Lambda de Wilks =
+.59, F (1, 114) = 79,40, p &lt; .001, R2 = .41, en faveur de la
+modalité verbale. Cela démontre donc que les participants ont plus de difﬁculté à répondre à des questions
+sémantiques sur des personnes célèbres lorsqu’on leur
+présente des photographies comparativement à des
+noms, et ce peu importe leur âge (cf. ﬁgure 3).
+Enﬁn, une analyse par items supplémentaire a été réalisée. Les résultats de cette analyse conﬁrment les résultats obtenus ci-dessus. En effet, lorsque la performance
+des trois groupes de participants âgés est réalisée sur la
+base d’une analyse par items, aucune différence significative n’est apparue entre les 3 groupes d’âge, F (2,
+114) = 1.59, p = .210. Ces résultats confirment ainsi
+que les résultats obtenus ne sont pas dus à certains
+items qui auraient pu poser un problème particulier en
+fonction de l’âge des participants.
+Liens avec l’état cognitif général
+Dans un dernier temps, aﬁn d’évaluer la présence d’un
+lien avec l’état cognitif général des participants, des
+corrélations ont été faites entres le score à l’Échelle de
+démence de Mattis (Mattis Dementia Rating Scale –
+MDRS) (Mattis, 1988) et les différentes mesures du
+protocole sémantique. Les résultats indiquent la
+présence de corrélations entre la performance au MDRS
+et celle à la dénomination de personnes célères (r = .29,
+p &lt; .01, N = 117), ainsi qu’aux questions sémantiques,
+autant en modalité visuelle (r = .31, p &lt; .01, N = 117) que
+verbale (r = .37, p &lt; .001, N = 117).
+
+Discussion
+Tout d’abord, les résultats concernant la dénomination ont permis de conﬁrmer partiellement ceux mis
+
+343
+
+de l’avant par les études antérieures (Crook &amp; West,
+1990; James, 2006; Rendell et al., 2005) et l’hypothèse
+selon laquelle la capacité à dénommer des visages célèbres décline au cours du vieillissement. Toutefois,
+bien que le nombre de sujets par groupe soit inférieur
+à celui recommandé par Cohen (1992), le manque de
+puissance ne semble pas représenter une explication
+satisfaisante pour expliquer les résultats obtenus.
+En effet, une analyse à posteriori a été effectuée et
+indique une puissance de .84. L’absence de différence
+signiﬁcative entre la performance du groupe mitoyen
+et celle des deux autres groupes pourrait néanmoins
+être due à la taille importante des écart-types au sein
+des groupes. Ce postulat semble encore plus plausible
+si l’on considère les données de façon qualitative.
+En effet, on observe environ 5 pour cent de différence
+dans le nombre de bonnes réponses entre chaque
+groupe contigu (cf. ﬁgure 2).
+Néanmoins, étant donné que les résultats indiquent
+aussi une performance plus faible pour l’accès aux
+connaissances sémantiques par la présentation des visages, il est permis de croire que les processus de dénomination peuvent être inﬂuencés par les processus
+d’accès aux informations sémantiques. En effet, la difﬁculté d’accès via la modalité visuelle pourrait expliquer en partie, ou du moins moduler, cette difﬁculté
+à dénommer des personnes célèbres à partir de leur
+visage. Toutefois, étant donné que la dénomination
+relève du rappel libre et que les questions sémantiques
+(de type vrai ou faux) relèvent de la reconnaissance, il
+n’est pas possible de comparer directement la performance dans ces deux tâches.
+Dans un autre ordre d’idées, l’absence d’interaction
+entre la modalité de présentation et le groupe d’âge indique que l’identiﬁcation des personnes connues, à
+partir de leurs visages, n’a pas davantage tendance à
+décliner au cours du vieillissement que l’identiﬁcation
+des personnes connues à partir de leurs noms, ce qui
+inﬁrme l’hypothèse avancée. En effet, il semble plutôt
+que la modalité de présentation soit l’unique élément
+qui inﬂuence l’accès aux connaissances sémantiques
+sur les personnes célèbres. Ces résultats vont donc
+dans le sens de ceux mis de l’avant par Haslam et al.
+(2004) et concordent avec les modèles classiques de la
+reconnaissance de personnes, car ceux-ci stipulent que
+l’accès au stock sémantique peut se faire à partir de différentes voies modales (cf. ﬁgure 1). Cela constitue
+donc un appui supplémentaire à l’hypothèse selon
+laquelle les processus qui sous-tendent l’accès à ces
+connaissances pourraient être différents selon la voie
+visuelle et verbale. De plus, l’efﬁcacité respective de
+ces voies d’accès pourrait être inégale à la base, la voie
+verbale étant plus efﬁcace que la voie visuelle, mais
+elles seraient inﬂuencées de manière équivalente par
+les effets du vieillissement.
+
+344
+
+Canadian Journal on Aging 28 (4)
+
+En utilisant une méthodologie largement utilisée et acceptée dans la littérature (Samson, 2001; Semenza, 1999;
+Warrington, 1984), qui consiste à comparer la capacité
+à reconnaître des concepts à travers différentes modalités et différentes sessions, nous avons pu démontrer un
+avantage de la modalité verbale sur la modalité visuelle.
+Ces résultats démontrent donc une plus grande facilité
+pour les trois groupes de participants âgés à identiﬁer
+des personnes familières à partir de leur nom qu’à
+partir de leur visage. Aﬁn d’expliquer cet avantage de
+la modalité verbale sur la modalité visuelle, le niveau
+de difﬁculté du traitement requis pour le traitement
+des visages pourrait être avancé. En effet, il est possible
+que le traitement visuoperceptif que requiert la reconnaissance de visages familiers soit plus exigeant que le
+traitement verbal lexico-sémantique impliqué dans la
+reconnaissance de noms propres. Un visage serait un
+stimulus plus complexe à analyser sur le plan perceptif
+qu’un nom propre, rendant ainsi l’accès aux connaissances sémantiques plus difﬁcile en modalité visuelle.
+Par ailleurs, il est aussi possible que les liens entre les
+visages et les connaissances biographiques qui leurs
+appartiennent soient plus fragiles et plus arbitraires, ce
+qui rendrait l’accès aux connaissances sémantiques à
+partir des visages plus difﬁcile, sans qu’il y ait pour
+autant de déﬁcits visuoperceptifs à strictement parler.
+Des études évaluant de manière plus approfondie les
+capacités de traitement visuoperceptif, utilisées concurremment avec des tâches sémantiques, sont nécessaires pour répondre à ces questions.
+L’absence d’effet principal de l’âge concorde avec les
+études qui ont démontré que le stock sémantique reste
+stable voire même augmente au cours du vieillissement normal (Park et al., 2002). Cependant, les résultats de la présente étude suggèrent que les personnes
+âgées de 80 ans et plus ont des performances sémantiques diminuées par rapport à celles des deux autres
+groupes, indépendamment de la modalité de présentation (cf. Figure 3). Bien qu’aucune différence signiﬁcative ne soit apparue, ceci pourrait en effet indiquer un
+déclin des connaissances sémantiques vers un âge très
+avancé. Il est possible que le déclin sémantique au
+cours du vieillissement normal n’opère qu’à partir de
+85 ou 90 ans. Notre étude comportait très peu de participants très âgés (au-delà de 90 ans) à cause des difﬁcultés liées au recrutement des personnes très âgées,
+donc elle ne permet pas de conﬁrmer cette hypothèse.
+Par conséquent, de plus amples études menées auprès
+de cette tranche de personnes âgées seraient utiles
+pour répondre à cette question.
+Cette étude a aussi permis de mettre en évidence des
+corrélations (Cohen, 1988) entre la performance à un test
+évaluant l’état cognitif général (MDRS) et celle aux différentes mesures du protocole sémantique. Ces résultats
+suggèrent qu’il pourrait y a voir une relation entre le
+
+Roxane Langlois et al.
+
+déclin cognitif et la diminution des capacités de dénomination des personnes connues et d’accès au stock sémantique. Ces résultats cadrent bien avec l’hypothèse
+selon laquelle des troubles sémantiques précoces survenant au cours du vieillissement pourraient être annonciateurs d’un début de maladie neurodégénérative, tel
+qu’une maladie d’Alzheimer ou une démence sémantique. Par conséquent, il serait intéressant de répliquer
+cette recherche en y intégrant d’une part des participants
+à un stade préclinique de démence présentant un risque
+élevé de convertir vers une démence (qui présentent des
+troubles cognitifs légers - TCL) et d’autre part des patients dans un stade débutant de maladie d’Alzheimer
+(MA) ou de démence sémantique (DS). Il serait ainsi
+possible d’évaluer l’utilité clinique d’un tel protocole sémantique dans le dépistage précoce de certaines formes
+de démences liées au vieillissement pathologique ainsi
+que dans leur diagnostic différentiel.
+En résumé, les résultats de cette étude démontrent un
+effet de l’âge sur la capacité à nommer des personnes
+connues chez des personnes âgées en bonne santé. En
+revanche, nous n’observons pas de différences signiﬁcatives entre les trois groupes d’âge au niveau de la
+capacité à récupérer des connaissances biographiques
+sur ces mêmes individus. Il apparaît donc que le rappel
+des noms propres pourrait être sous-tendu par des
+processus distincts de ceux responsables du rappel
+d’informations biographiques, et que ces deux processus seraient affectés différemment au cours du vieillissement. Cela concorde avec les modèles classiques
+de la reconnaissance de personne qui postulent que
+l’accès au nom se fait à une étape subséquente à celle
+des PINs (cf. ﬁgure 1). Ainsi, selon les résultats obtenus, le vieillissement pourrait agir seulement à cette
+étape précise du traitement de l’information. De plus,
+cette étude démontre clairement qu’il est plus difﬁcile
+de reconnaître des personnes qui nous sont familières
+à partir de leur visage qu’à partir de leur nom, indépendamment de l’âge des participants. Ces résultats
+ont des implications évidentes en termes de perspectives d’intervention cognitive. En effet, un programme
+d’intervention visant à exploiter spéciﬁquement les
+processus d’accès aux représentations phonologiques
+des noms propres aurait une utilité avérée relativement à un programme d’intervention visant à réapprendre les attributs sémantiques des concepts. Enﬁn,
+il semble y avoir une relation entre le statut du fonctionnement cognitif général et la capacité à trouver le
+nom de personnes connues et à accéder au stock de
+connaissances sur celles-ci. Ces résultats sont en accord
+avec l’hypothèse selon laquelle un déclin prématuré de
+la mémoire sémantique au cours du vieillissement
+puisse être un marqueur préclinique de certaines
+formes de démences liées au vieillissement dans
+lesquelles prédominent les troubles sémantiques.
+
+Vieillissement et mémoire sémantique
+
+Références
+Bruce, V., et Young, A. (1986). Understanding face recognition. British Journal of Psychology, 77, 305–327.
+
+La Revue canadienne du vieillissement 28 (4)
+
+345
+
+Lyons, F., Hanley, J.R., et Kay, J.M. (2002). Anomia for common
+names and geographical names with preserved retrieval
+of names of people: A semantic memory disorder.
+Cortex, 38, 23–25.
+
+Burton, A.M., Bruce, V., et Johnston, R.A. (1990). Understanding face recognition with an interactive activation
+model. British Journal of Psychology, 81, 361–380.
+
+Mattis, S. (1988). Dementia Rating Scale: Professional manual.
+Odessa, FL: Psychological Assessment Resources.
+
+Cohen, J. (1988). Statistical power analysis for the behavioral
+sciences. Hillsdale, NJ: Lawrence Earlbaum Associates.
+
+McWeeny, K.H., Young, A.W., Hay, D.C., et Ellis, A.W. (1987).
+Putting names to faces. British Journal of Psychology, 78,
+143–149.
+
+Cohen, J. (1992). Quantitative methods in psychology: A
+power primer. Psychological Bulletin, 112, 155–159.
+Crook, T.H., et West, R.L. (1990). Name recall performance
+across the adult life-span. British Journal of Psychology,
+81, 335–349.
+
+Nielson, K.A., Douville, K.L., Seidenberg, M., Woodard, J.L.,
+Miller, S.K., Franczak, M., et al. (2005). Age-related functional recruitment for famous name recognition: An
+event-related fMRI study. Neurobiology of Aging, 27,
+1494–1504.
+
+De Sanctis, P., Katz, R., Wylie, G., Sehatpour, P., Alexopoulos,
+G., et Foxe, J. (2008). Enhanced and bilateralized visual
+sensory processing in the ventral stream may be a feature
+of normal aging. Neurobiology of Aging, 29, 1576–1586.
+
+Park, D.C., Lautenschlager, G., Hedden, T., Davidson, N.S.,
+Smith, A.D., et Smith, P.K. (2002). Models of visuospatial
+and verbal memory across the adult life span. Psychology
+and Aging, 17, 299–320.
+
+Folstein, M., Folstein, S., et Mc Hugh, P. (1975). “Mini-mental
+state”. A practical method for grading the cognitive
+state of patients for the clinician. Journal of Psychiatry, 12,
+189–198.
+
+Pfũtze, E.-M., Sommer, W., et Schweinberger, S.R. (2002).
+Age-related slowing in face and name recognition: Evidence from event-related brain potentials. Psychology
+and Aging, 17, 140–160.
+
+Greene, J.D.W., et Hodges, J.R. (1996). Identiﬁcation of
+famous faces and famous names in early Alzheimer’s
+disease: Relationship to anterograde episodic and general semantic memory. Brain, 119, 111–128.
+
+Raymer, A., et Gonzalez-Rothi, L.J. (2002). Clinical diagnosis
+and treatment of naming disorders. In E.A. Ellis (Éd.),
+The handbook of adult language disorders: Integrating cognitive, neuropsychology, neurology, and rehabilitation (pp.
+163–184). New York: Psychology Press.
+
+Grégoire, J., et Van der Linden, M. (1997). Effect of age on
+forward and backward digit spans. Aging, Neuropsychology and Cognition, 4, 140–149.
+Hanley, J.R., et Turner, J.M. (2000). Why are familiar-only experiences more frequent for voices than for faces? Quarterly
+Journal of Experimental Psychology, 53, 1105–1116.
+Haslam, C., Kay, J., Hanley, J.R., et Lyons, F. (2004). Biographical knowledge: Modality-speciﬁc or modality-neutral?
+Cortex, 40, 451–466.
+James, L.E. (2006). Speciﬁc effects of aging on proper name
+retrieval: Now you see them, now you don’t. Journal of
+Gerontology: Psychological Sciences, 61B, 180–183.
+Joubert, S., Felician, O., Barbeau, E., Didic, M., Poncet, M., et
+Ceccaldi, M. (2008). Patterns of semantic memory impairment in Mild Cognitive Impairment. Behavioral Neurology, 19(1–2), 35–40.
+Joubert, S., Felician, O., Barbeau, E., Ranjeva, J.-P., Christophe, M., Didic, M., et al. (2006). The right temporal
+lobe variant of frontotemporal dementia: Cognitive and
+neuroanatomical proﬁle of three patients. Journal of
+Neurology, 253, 1447–1458.
+Kay, J.M., et Hanley, J.R. (2002). Preservation of memory for
+people in semantic memory disorder: Further categoryspeciﬁc semantic dissociation. Cognitive Neuropsychology,
+19, 113–133.
+
+Rendell, P.G., Castel, A.D., et Craik, F.I.M. (2005). Memory
+for proper names in old age: A disproportionate impairment? Quarterly Journal of Experimental Psychology Section
+A, 58, 54–71.
+Samson, D. (2001). Évaluation et rééducation des troubles
+sémantiques. In G. Aubin, C. Belin, D. David, &amp; M.-P. de
+Partz (Éds.), Actualités en pathologie du langage et de la
+communication (pp. 103–129). Marseille, France: Solal.
+Semenza, C. (1999). Lexical-semantic disorders in aphasia. In
+G. Denes &amp; L. Pizzamiglio (Éds.), Handbook of clinical and
+experimental neuropsychology (pp. 215–244). Hove, England: Psychology Press.
+Thompson, S.A., Graham, K.S., Williams, G., Patterson, K.,
+Kapur, N., et Hodges, J.R. (2004). Dissociating personspeciﬁc from general semantic knowledge: Roles of
+the left and right temporal lobes. Neuropsychologia, 42,
+359–370.
+Tyler, L.K., et Moss, H.E. (2001). Towards a distributed account
+of conceptual knowledge. Cognitive Sciences, 5, 244–252.
+Valentine, T., Brédart, S., Lawson, R., et Ward, G. (1991). What’s
+in a name? Access to information from people’s names.
+European Journal of Cognitive Psychology, 3, 147–176.
+Warrington, E.K. (1984). Manual for Recognition Memory Test.
+Windsor, England: NFER-Nelson.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Understanding face recognition</title><author><persName><forename type="first">V.</forename><surname>Bruce</surname></persName></author><author><persName><forename type="first">A</forename><surname>Young</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychology</title><imprint><date type="published">1986</date><biblScope unit="volume">77</biblScope><biblScope unit="page" from="305">305</biblScope><biblScope unit="page" to="327">327</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Understanding face recognition with an interactive activation model</title><author><persName><forename type="first">A.M.</forename><surname>Burton</surname></persName></author><author><persName><forename type="first">V.</forename><surname>Bruce</surname></persName></author><author><persName><forename type="first">R.A</forename><surname>Johnston</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychology</title><imprint><date type="published">1990</date><biblScope unit="volume">81</biblScope><biblScope unit="page" from="361">361</biblScope><biblScope unit="page" to="380">380</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Statistical power analysis for the behavioral sciences</title><editor><persName><forename type="first">J</forename><surname>Cohen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hillsdale, NJ</pubPlace><date type="published">1988</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Quantitative methods in psychology: A power primer</title><author><persName><forename type="first">J</forename><surname>Cohen</surname></persName></author></analytic><monogr><title level="j">Psychological Bulletin</title><imprint><date type="published">1992</date><biblScope unit="volume">112</biblScope><biblScope unit="page" from="155">155</biblScope><biblScope unit="page" to="159">159</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Name recall performance across the adult life-span</title><author><persName><forename type="first">T.H.</forename><surname>Crook</surname></persName></author><author><persName><forename type="first">R.L</forename><surname>West</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychology</title><imprint><date type="published">1990</date><biblScope unit="volume">81</biblScope><biblScope unit="page" from="335">335</biblScope><biblScope unit="page" to="349">349</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Enhanced and bilateralized visual sensory processing in the ventral stream may be a feature of normal aging</title><author><persName><forename type="first">P.</forename><surname>De Sanctis</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Katz</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Wylie</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Sehatpour</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Alexopoulos</surname></persName></author><author><persName><forename type="first">J</forename><surname>Foxe</surname></persName></author></analytic><monogr><title level="j">Neurobiology of Aging</title><imprint><date type="published">2008</date><biblScope unit="volume">29</biblScope><biblScope unit="page" from="1576">1576</biblScope><biblScope unit="page" to="1586">1586</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">“Mini-mental state”. A practical method for grading the cognitive state of patients for the clinician</title><author><persName><forename type="first">M.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">P</forename><surname>Mc Hugh</surname></persName></author></analytic><monogr><title level="j">Journal of Psychiatry</title><imprint><date type="published">1975</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="198">198</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Identification of famous faces and famous names in early Alzheimer’s disease: Relationship to anterograde episodic and general semantic memory</title><author><persName><forename type="first">J.D.W.</forename><surname>Greene</surname></persName></author><author><persName><forename type="first">J.R</forename><surname>Hodges</surname></persName></author></analytic><monogr><title level="j">Brain</title><imprint><date type="published">1996</date><biblScope unit="volume">119</biblScope><biblScope unit="page" from="111">111</biblScope><biblScope unit="page" to="128">128</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Effect of age on forward and backward digit spans</title><author><persName><forename type="first">J.</forename><surname>Grégoire</surname></persName></author><author><persName><forename type="first">M</forename><surname>Van der Linden</surname></persName></author></analytic><monogr><title level="j">Aging, Neuropsychology and Cognition</title><imprint><date type="published">1997</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="140">140</biblScope><biblScope unit="page" to="149">149</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Why are familiar-only experiences more frequent for voices than for faces?</title><author><persName><forename type="first">J.R.</forename><surname>Hanley</surname></persName></author><author><persName><forename type="first">J.M</forename><surname>Turner</surname></persName></author></analytic><monogr><title level="j">Quarterly Journal of Experimental Psychology</title><imprint><date type="published">2000</date><biblScope unit="volume">53</biblScope><biblScope unit="page" from="1105">1105</biblScope><biblScope unit="page" to="1116">1116</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Biographical knowledge: Modality-specific or modality-neutral?</title><author><persName><forename type="first">C.</forename><surname>Haslam</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Kay</surname></persName></author><author><persName><forename type="first">J.R.</forename><surname>Hanley</surname></persName></author><author><persName><forename type="first">F</forename><surname>Lyons</surname></persName></author></analytic><monogr><title level="j">Cortex</title><imprint><date type="published">2004</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="451">451</biblScope><biblScope unit="page" to="466">466</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Specific effects of aging on proper name retrieval: Now you see them, now you don’t</title><author><persName><forename type="first">L.E</forename><surname>James</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology: Psychological Sciences</title><imprint><date type="published">2006</date><biblScope unit="volume">61B</biblScope><biblScope unit="page" from="180">180</biblScope><biblScope unit="page" to="183">183</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Patterns of semantic memory impairment in Mild Cognitive Impairment</title><author><persName><forename type="first">S.</forename><surname>Joubert</surname></persName></author><author><persName><forename type="first">O.</forename><surname>Felician</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Barbeau</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Didic</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Poncet</surname></persName></author><author><persName><forename type="first">M</forename><surname>Ceccaldi</surname></persName></author></analytic><monogr><title level="j">Behavioral Neurology</title><imprint><date type="published">2008</date><biblScope unit="volume">19</biblScope><biblScope unit="issue">1–2</biblScope><biblScope unit="page" from="35">35</biblScope><biblScope unit="page" to="40">40</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">The right temporal lobe variant of frontotemporal dementia: Cognitive and neuroanatomical profile of three patients</title><author><persName><forename type="first">S.</forename><surname>Joubert</surname></persName></author><author><persName><forename type="first">O.</forename><surname>Felician</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Barbeau</surname></persName></author><author><persName><forename type="first">J.-P.</forename><surname>Ranjeva</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Christophe</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Didic</surname></persName></author></analytic><monogr><title level="j">Journal of Neurology</title><imprint><date type="published">2006</date><biblScope unit="volume">253</biblScope><biblScope unit="page" from="1447">1447</biblScope><biblScope unit="page" to="1458">1458</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Preservation of memory for people in semantic memory disorder: Further category-specific semantic dissociation</title><author><persName><forename type="first">J.M.</forename><surname>Kay</surname></persName></author><author><persName><forename type="first">J.R</forename><surname>Hanley</surname></persName></author></analytic><monogr><title level="j">Cognitive Neuropsychology</title><imprint><date type="published">2002</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="113">113</biblScope><biblScope unit="page" to="133">133</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Anomia for common names and geographical names with preserved retrieval of names of people: A semantic memory disorder</title><author><persName><forename type="first">F.</forename><surname>Lyons</surname></persName></author><author><persName><forename type="first">J.R.</forename><surname>Hanley</surname></persName></author><author><persName><forename type="first">J.M</forename><surname>Kay</surname></persName></author></analytic><monogr><title level="j">Cortex</title><imprint><date type="published">2002</date><biblScope unit="volume">38</biblScope><biblScope unit="page" from="23">23</biblScope><biblScope unit="page" to="25">25</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Dementia Rating Scale: Professional manual</title><editor><persName><forename type="first">S</forename><surname>Mattis</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Odessa, FL</pubPlace><date type="published">1988</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">Putting names to faces</title><author><persName><forename type="first">K.H.</forename><surname>McWeeny</surname></persName></author><author><persName><forename type="first">A.W.</forename><surname>Young</surname></persName></author><author><persName><forename type="first">D.C.</forename><surname>Hay</surname></persName></author><author><persName><forename type="first">A.W</forename><surname>Ellis</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychology</title><imprint><date type="published">1987</date><biblScope unit="volume">78</biblScope><biblScope unit="page" from="143">143</biblScope><biblScope unit="page" to="149">149</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">Age-related functional recruitment for famous name recognition: An event-related fMRI study</title><author><persName><forename type="first">K.A.</forename><surname>Nielson</surname></persName></author><author><persName><forename type="first">K.L.</forename><surname>Douville</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Seidenberg</surname></persName></author><author><persName><forename type="first">J.L.</forename><surname>Woodard</surname></persName></author><author><persName><forename type="first">S.K.</forename><surname>Miller</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Franczak</surname></persName></author></analytic><monogr><title level="j">Neurobiology of Aging</title><imprint><date type="published">2005</date><biblScope unit="volume">27</biblScope><biblScope unit="page" from="1494">1494</biblScope><biblScope unit="page" to="1504">1504</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Models of visuospatial and verbal memory across the adult life span</title><author><persName><forename type="first">D.C.</forename><surname>Park</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Lautenschlager</surname></persName></author><author><persName><forename type="first">T.</forename><surname>Hedden</surname></persName></author><author><persName><forename type="first">N.S.</forename><surname>Davidson</surname></persName></author><author><persName><forename type="first">A.D.</forename><surname>Smith</surname></persName></author><author><persName><forename type="first">P.K</forename><surname>Smith</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">2002</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="299">299</biblScope><biblScope unit="page" to="320">320</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">Age-related slowing in face and name recognition: Evidence from event-related brain potentials</title><author><persName><forename type="first">E.-M.</forename><surname>Pfũtze</surname></persName></author><author><persName><forename type="first">W.</forename><surname>Sommer</surname></persName></author><author><persName><forename type="first">S.R</forename><surname>Schweinberger</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">2002</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="140">140</biblScope><biblScope unit="page" to="160">160</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">The handbook of adult language disorders: Integrating cognitive, neuropsychology, neurology, and rehabilitation</title><editor><persName><forename type="first">A.</forename><surname>Raymer</surname></persName></editor><editor><persName><forename type="first">L.J</forename><surname>Gonzalez-Rothi</surname></persName></editor><editor><persName><forename type="first">E.A.</forename><surname>Ellis</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2002</date><biblScope unit="page" from="163">163</biblScope><biblScope unit="page" to="184">184</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">Memory for proper names in old age: A disproportionate impairment?</title><author><persName><forename type="first">P.G.</forename><surname>Rendell</surname></persName></author><author><persName><forename type="first">A.D.</forename><surname>Castel</surname></persName></author><author><persName><forename type="first">F.I.M</forename><surname>Craik</surname></persName></author></analytic><monogr><title level="j">Quarterly Journal of Experimental Psychology Section A</title><imprint><date type="published">2005</date><biblScope unit="volume">58</biblScope><biblScope unit="page" from="54">54</biblScope><biblScope unit="page" to="71">71</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">Actualités en pathologie du langage et de la communication</title><editor><persName><forename type="first">D</forename><surname>Samson</surname></persName></editor><editor><persName><forename type="first">G.</forename><surname>Aubin</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Belin</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>David</surname></persName></editor><editor><persName><forename type="first">M.-P.</forename><surname>de Partz</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille, France</pubPlace><date type="published">2001</date><biblScope unit="page" from="103">103</biblScope><biblScope unit="page" to="129">129</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">Handbook of clinical and experimental neuropsychology</title><editor><persName><forename type="first">C</forename><surname>Semenza</surname></persName></editor><editor><persName><forename type="first">G.</forename><surname>Denes</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Pizzamiglio</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hove, England</pubPlace><date type="published">1999</date><biblScope unit="page" from="215">215</biblScope><biblScope unit="page" to="244">244</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">Dissociating person-specific from general semantic knowledge: Roles of the left and right temporal lobes</title><author><persName><forename type="first">S.A.</forename><surname>Thompson</surname></persName></author><author><persName><forename type="first">K.S.</forename><surname>Graham</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Williams</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Patterson</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Kapur</surname></persName></author><author><persName><forename type="first">J.R</forename><surname>Hodges</surname></persName></author></analytic><monogr><title level="j">Neuropsychologia</title><imprint><date type="published">2004</date><biblScope unit="volume">42</biblScope><biblScope unit="page" from="359">359</biblScope><biblScope unit="page" to="370">370</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Towards a distributed account of conceptual knowledge</title><author><persName><forename type="first">L.K.</forename><surname>Tyler</surname></persName></author><author><persName><forename type="first">H.E</forename><surname>Moss</surname></persName></author></analytic><monogr><title level="j">Cognitive Sciences</title><imprint><date type="published">2001</date><biblScope unit="volume">5</biblScope><biblScope unit="page" from="244">244</biblScope><biblScope unit="page" to="252">252</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">What’s in a name? Access to information from people’s names</title><author><persName><forename type="first">T.</forename><surname>Valentine</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Brédart</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Lawson</surname></persName></author><author><persName><forename type="first">G</forename><surname>Ward</surname></persName></author></analytic><monogr><title level="j">European Journal of Cognitive Psychology</title><imprint><date type="published">1991</date><biblScope unit="volume">3</biblScope><biblScope unit="page" from="147">147</biblScope><biblScope unit="page" to="176">176</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="inbook"><monogr><title level="m">Manual for Recognition Memory Test</title><editor><persName><forename type="first">E.K</forename><surname>Warrington</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Windsor, England</pubPlace><date type="published">1984</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

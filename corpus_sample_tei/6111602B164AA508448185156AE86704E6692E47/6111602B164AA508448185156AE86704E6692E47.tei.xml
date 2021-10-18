@@ -1,0 +1,5022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Modèles de la cohésion sociale</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><availability><licence><p>Copyright © A.E.S. 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Modèles de la cohésion sociale</title><author xml:id="author-0000"><persName><forename type="first">Caroline</forename><surname>Guibet Lafaye</surname></persName><affiliation>Centre Maurice Halbwachs – CNRS, Paris [caroline.guibet-lafaye@ens.fr].</affiliation></author><idno type="istex">6111602B164AA508448185156AE86704E6692E47</idno><idno type="ark">ark:/67375/6GQ-CDHGBTL2-J</idno><idno type="DOI">10.1017/S000397560999018X</idno><idno type="PII">S000397560999018X</idno><idno type="article-id">99018</idno></analytic><monogr><title level="j">European Journal of Sociology</title><title level="j" type="abbrev">Arch. eur. sociol.</title><idno type="pISSN">0003-9756</idno><idno type="eISSN">1474-0583</idno><idno type="publisher-id">EUR</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><date type="published" when="2009-12"/><biblScope unit="volume">50</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="389">389</biblScope><biblScope unit="page" to="427">427</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>Social cohesion is frequently mentioned in political discourse. However this concept remains vague and ill-defined. We intend to propose a typology of social cohesion patterns and examine under which conditions this concept might be used. Firstly, we sketch a brief history of its introduction in the political debate. Then we sort out three different meanings of this concept, in order to analyze which representations it is associated with.</p></abstract><abstract xml:lang="fr" style="translated"><p>La référence à la cohésion sociale est récurrente dans les discours politiques. Pourtant la notion demeure mal définie et indéterminée. Cet article propose une typologie des modèles de la cohésion sociale à partir de laquelle définir les limites et les conditions auxquelles un usage pertinent de la notion de « cohésion sociale » – préalablement définie – est possible. Après un bref rappel des étapes historiques qui ont marqué l'introduction de la notion de cohésion sociale dans le débat public, nous identifions trois types de modèles de cohésion à partir desquels nous proposerons une description systématisée des représentations que l’évocation de la cohésion suscite.</p></abstract><abstract xml:lang="fr" style="translated"><p>Der soziale Zusammenhalt ist integrierter Bestandteil der Politik, obwohl vage und unbestimmt. Dieser Aufsatz bietet eine Typologie verschiedener Modelle des sozialen Zusammenhalts, um seine Grenzen zu definieren und die Bedingungen zu skizzieren, die eine sinnvolle Verwendung des Begriffs „sozialer Zusammenhalt” – im Vorfeld definiert – ermöglichen. Zuerst werden wir kurz die Ursprünge des Begriffs des sozialen Zusammenhalts in der öffentlichen Debatte erläutern, um dann, anhand dreier Modelle des Zusammenhalts, die jeweiligen Assoziationen zu untersuchen.</p></abstract><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>Social cohesion</term></item><item><term>Durkheim</term></item><item><term>Sociability</term></item><item><term>Social Capital</term></item><item><term>Social Contract</term></item></list></keywords></textClass><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>Cohésion sociale</term></item><item><term>Durkheim</term></item><item><term>Sociabilité</term></item><item><term>Capital social</term></item><item><term>Contrat social</term></item></list></keywords></textClass><textClass xml:lang="de"><keywords scheme="keyword"><list><head>Schlagwörter</head><item><term>Sozialer Zusammenhalt</term></item><item><term>Durkheim</term></item><item><term>Sozialität</term></item><item><term>Sozialkapital</term></item><item><term>Sozialvertrag</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+C A R O L I N E G U I B E T L A FAY E
+
+`
+Modeles de la cohsion sociale
+e
+
+Abstract
+Social cohesion is frequently mentioned in political discourse. However this concept
+remains vague and ill-deﬁned. We intend to propose a typology of social cohesion
+patterns and examine under which conditions this concept might be used. Firstly,
+we sketch a brief history of its introduction in the political debate. Then we sort out
+three different meanings of this concept, in order to analyze which representations it
+is associated with.
+Keywords: Social cohesion; Durkheim; Sociability; Social Capital; Social Contract.
+
+D u r k h e i m a t un prcurseur dans la rfrence a la cohsion
+ee
+e
+ee
+e
+`
+sociale. Il l’envisage comme un fait structurant la socit et la dﬁnit
+ee
+e
+ee
+comme l’interdpendance1 entre les membres d’une socit ainsi
+e
+qu’en rfrence aux loyauts partages et a la solidarit. Selon les
+ee
+e
+e
+e
+`
+poques, le sens confr a cette notion a vari. Elle a signiﬁ la capacit
+e
+e e`
+e
+e
+e
+de construire une identit collective, un sens de l’appartenance
+e
+`
+(Jenson 1998). A d’autres poques et dans d’autres circonstances, on
+e
+a privilgi une approche et une apprciation de la cohsion a partir du
+e e
+e
+e
+`
+e`
+e
+e
+sens de l’engagement d’une socit2 et de sa capacit a assurer l’galit
+ee
+des chances, en incluant tous ses citoyens et en rduisant la
+e
+marginalit. Le sens de cette notion varie galement selon les
+e
+e
+contextes dans lesquels elle est convoque. Lorsqu’elle intervient
+e
+dans les discussions sur la dmocratie, la participation dmocratique
+e
+e
+ou la lgitimit des institutions reprsentatives, elle sert a souligner
+e
+e
+e
+`
+l’importance de l’engagement et de la participation de chacun. Lorsque
+
+1
+Le concept durkheimien d’interdpendance
+e
+est a la fois politique et sociologique.
+`
+2
+L’ide que c’est la socit comme telle
+e
+ee
+´
+et donc pour partie l’Etat, qui est le garant du
+
+maintien et de la consolidation de la cohsion
+e
+sociale se retrouve chez Castel (1995) et chez
+Donzelot (2006).
+
+389
+Caroline GUIBET LAFAYE, Centre Maurice Halbwachs – CNRS, Paris [caroline.guibetlafaye@ens.fr].
+Arch.europ.sociol., L, 3 (2009), pp. 389–427—0003-9756/09/0000-900$07.50per art + $0.10 per pageÓA.E.S.,
+2009
+
+caroline guibet lafaye
+sont envisags des conﬂits de valeurs, au sein des dmocraties librales
+e
+e
+e
+pluralistes, la rfrence a la cohsion sociale peut etre mobilise pour
+ee
+e
+ˆ
+e
+`
+dsigner la capacit sociale de mdiation des conﬂits relatifs a l’acces au
+e
+e
+e
+`
+`
+pouvoir et aux ressources, la capacit de la socit a accepter les
+e
+ee `
+controverses sur les questions fondamentales, en essayant d’y mettre ﬁn.
+Alors que d’autres notions comme celle d’exclusion ont t portes
+ee
+e
+par des individus issus de la socit civile comme l’abb Pierre puis, en
+ee
+e
+France notamment, par des mouvements sociaux et politiques, celle de
+cohsion sociale semble maner des lites intellectuelles et politiques
+e
+e
+e
+e
+(Saint-Martin 1999, p. 89)3. Bien que promue par ces lites ou celles
+du milieu des affaires ainsi que par quelques intellectuels (Taguieff
+2004, Viveret 2005a, 2005b), la notion de cohsion sociale fait rarement
+e
+l’objet d’un dbat politique. Cette prsence constante dans le dbat
+e
+e
+e
+sociopolitique n’a pas non plus induit d’laboration conceptuelle relle
+e
+e
+de la notion.
+Bien que largement convoqu dans le dbat sociopolitique, le
+e
+e
+concept de cohsion sociale n’a en tant que tel suscit que peu de
+e
+e
+littrature scientiﬁque. Jugeant que la notion est, pour partie, fonde
+e
+e
+sur une analyse des donnes de la situation mais nanmoins caractrise
+e
+e
+e e
+par une indtermination fondamentale qui la rend adaptable a une tres
+e
+`
+`
+large varit de situations et, pour cette raison, excessivement susceptible
+ee
+de se plier aux exigences et contraintes de l’action publique, on l’a
+identiﬁe a un quasi-concept, a une construction mentale hybride
+e `
+`
+(Bernard 1999, p. 48)4. Notre analyse vise au contraire a montrer que
+`
+ce concept a un contenu spciﬁque, certes pluriel, mais dont la varit
+e
+ee
+tient aux cadres thoriques dans lesquels il se trouve mobilis. Il s’agira
+e
+e
+donc ici de donner un contenu sociologique a une notion qui connaıt une
+ˆ
+`
+fortune politique remarquable. Nous nous attacherons, dans ce qui suit,
+au dbat francais des vingt dernieres annes concernant les questions
+e
+¸
+e
+`
+de cohsion sociale, de lien social et d’intgration. Alors qu’avec la
+e
+e
+rfrence au « lien social » s’opere un dplacement d’un mode
+ee
+e
+`
+d’explication holiste et structurel a une vision du monde social de
+`
+type interactionniste et relationnel (Gesnetier 2006, p. 21), la rfrence
+ee
+
+3
+J. Donzelot (2006) souligne que la
+fortune de l’expression de cohsion sociale
+e
+est inversement proportionnelle a l’usage
+`
+dclinant de celle de progres social a partir
+e
+`
+`
+des annes 1980.
+e
+4
+Rcemment encore on pouvait lire, dans
+e
+
+390
+
+le domaine francophone, que « la cohsion se
+e
+prete mal a une thorie gnrale sinon en
+ˆ
+e
+e e
+`
+termes vaguement mtaphoriques, parce que
+e
+la cohsion est un phnomene mergent et
+e
+e
+e
+`
+une sorte de bricolage historique » (Dubet
+2009, p. 325).
+
+cohsion sociale
+e
+a la cohsion sociale articule explication holiste et explication
+e
+`
+individualiste des rapports sociaux. En effet, lorsque l’on voque
+e
+l’exclusion, l’accent est port sur les individus qui sont exclus.
+e
+En revanche, lorsqu’il est question de cohsion sociale, l’attention se
+e
+porte sur la socit. L’unit d’analyse tend a devenir plus holiste et
+ee
+e
+`
+moins individualiste (Saint-Martin 1999, p. 89), quoique nous
+dgagerons galement des modeles de cohsion reposant sur des
+e
+e
+e
+`
+fondements individualistes. Nous vriﬁerons, en effet, qu’un nouveau
+e
+paradigme a pris forme a partir « d’un rquilibrage, d’un changement
+ee
+`
+d’chelle qui permet de s’interroger au niveau de l’individu sur ce qui
+e
+fonde l’etre ensemble, le lien social » (Dosse 1997, p. 12).
+ˆ
+Nous traiterons ici de cohsion sociale plutot que de solidarit,
+e
+ˆ
+e
+d’intgration ou de lien social, en considrant que la premiere
+e
+e
+`
+expression concerne prioritairement, dans le discours politique au
+moins, l’entit sociale en tant que telle, que la solidarit, envisage
+e
+e
+e
+de facon macrosociologique qualiﬁe le rapport de l’entit a ses
+¸
+e `
+composantes ou la dpendance rciproque des parties entre elles,
+e
+e
+alors que l’intgration dsignerait plutot le rapport des composantes a
+e
+e
+ˆ
+`
+l’entit sociale et le lien social, plus spciﬁquement, le rapport de ces
+e
+e
+ee
+composantes entre elles. Le lien social, auquel on fait rfrence pour
+penser et expliquer ce qui fait tenir ensemble les individus d’une
+meme socit, dsigne d’un point de vue individuel, en revanche,
+ˆ
+ee e
+l’ensemble des relations personnelles, des normes, des valeurs et des
+regles communes qui relient les individus (Cusset 2006, p. 21). Nous
+`
+n’entendrons pas la notion de cohsion sociale au sens de la solidarit,
+e
+e
+qu’elle soit propre a des entits sociales homogenes caractrises par
+e
+e e
+`
+`
+leur ressemblance et une forme d’galit – i.e. au sens de la solidarit
+e
+e
+e
+mcanique durkheimienne – ou que la solidarit renvoie a l’ensemble
+e
+e
+`
+´
+des institutions sociales d’un Etat-providence. Nous privilgierons
+e
+enﬁn une acception de la cohsion distincte de celle d’intgration,
+e
+e
+pour autant que cette derniere soit aujourd’hui principalement
+`
+mobilise, dans le dbat public, pour voquer la place des popue
+e
+e
+lations immigres dans la socit d’accueil5.
+e
+ee
+5
+En France spciﬁquement et jusqu’en
+e
+2002, la rfrence a l’intgration s’inscrivait
+ee
+e
+`
+dans un projet de recherche d’une unit
+e
+politique qui transcende la diversit des
+e
+modes de vie et des cultures. Elle hritait
+e
+du paradigme de l’assimilation qui opere
+`
+par effacement de l’altrit dans un
+e e
+ensemble
+dominant
+(Costa-Lascoux
+2002, p. 2) et se comprend comme une
+
+sorte d’aptitude a adopter les valeurs et les
+`
+modes de vie de la socit d’accueil. Le
+ee
+discours de Troyes du prsident de la
+e
+Rpublique, en octobre 2002, et la cration
+e
+e
+du Haut Conseil a l’Intgration inaugurent
+e
+`
+une nouvelle interprtation de l’intgration
+e
+e
+admettant la persistance de spciﬁcits
+e
+e
+culturelles des populations immigres ou
+e
+issues de l’immigration.
+
+391
+
+caroline guibet lafaye
+Notre propos sera donc, dans ce qui suit, de saisir les mcanismes
+e
+d’laboration thorique de la notion plutot que de cerner, par exemple,
+e
+e
+ˆ
+la facon dont les individus apprhendent, vivent et concoivent la
+¸
+e
+¸
+cohsion sociale. Nous n’envisagerons pas non plus la cohsion comme
+e
+e
+une fonction de la perception qu’a chaque membre du groupe de son
+propre statut, dans ce dernier (Bollen et Hoyle 1990)6. En revanche,
+nous tenterons de prciser les usages politiques de la notion aﬁn de saisir
+e
+les glissements et volutions des politiques sociales de ces dernieres
+e
+`
+dcennies dans le domaine. Apres avoir esquiss les jalons historiques de
+e
+e
+`
+l’introduction de la notion de cohsion sociale dans le dbat public, nous
+e
+e
+spciﬁerons des modeles de cohsion sociale, en en proposant une
+e
+e
+`
+description systmatise dans un cadre typologique7.
+e
+e
+
+I. La naissance d’un paradigme
+La prgnance de la rfrence a la cohsion sociale est aujourd’hui
+e
+ee
+e
+`
+manifeste aussi bien dans les politiques publiques que dans la
+littrature thorique. Prcisons le contexte et les raisons de ce recours
+e
+e
+e
+devenu quasi systmatique. En France, le commissariat gnral du Plan,
+e
+e e
+rcemment rebaptis « Conseil d’Analyse stratgique », s’est distingu
+e
+e
+e
+e
+par la publication de deux rapports sur le theme de la cohsion sociale8.
+e
+`
+Un « Conseil de l’Emploi, des Revenus et de la Cohsion sociale » a t
+e
+ee
+´
+cre par un dcret du Conseil d’Etat le 7 avril 2000. Un « Plan national
+e
+e
+de cohsion sociale » a t tabli, en 2005, par le ministre Jean-Louis
+e
+eee
+Borloo, ministre du Travail du Logement et de la Cohsion sociale9.
+e
+Ce souci de la cohsion sociale n’est pas propre a la France. Il
+e
+`
+a merg au Canada, depuis 1996, avec le rseau canadien de
+e
+e
+e
+recherche sur les politiques publiques, dont l’objectif est de
+repenser, a l’heure de la mondialisation, l’unit de la socit
+e
+ee
+`
+6
+L’existence d’carts individuels excessifs
+e
+de situation est un parametre dterminant de
+e
+`
+la cohsion sociale et de sa prservation.
+e
+e
+Nous n’entrerons pas ici dans l’analyse des
+rapports entre ces deux dimensions qui est
+aborde dans un autre volet de nos ree
+cherches.
+7
+Nous ne traiterons pas par consquent la
+e
+question de savoir comment maintenir la
+cohsion d’une socit ni ne mettrons en
+e
+ee
+vidence les voies de l’afﬁliation a une
+e
+`
+socit culturellement et normativement
+ee
+plurielle.
+
+392
+
+8
+Le rapport « Cohsion sociale et
+e
+prvention de l’exclusion » (Fragonard 1993)
+e
+et le rapport « Cohsion sociale et territoires »
+e
+(Delevoye 1997).
+9
+Il s’agit, par le biais de ce plan, de
+rduire les ingalits en France, notamment
+e
+e
+e
+celles que vivent les populations immigres
+e
+concentres dans les banlieues dfavorises,
+e
+e
+e
+par des mesures sur l’emploi, l’insertion des
+jeunes, le logement et l’galit des chances.
+e
+e
+Une maison de la Cohsion sociale a
+e
+galement t installe dans les bureaux de la
+e
+ee
+e
+HALDE.
+
+cohsion sociale
+e
+canadienne et la nature de son projet politique. Ce rseau a mis sur
+e
+pied en 2000 un « nexus de la cohsion sociale », charg de recueillir la
+e
+e
+rﬂexion existante sur ce sujet et de la dvelopper.
+e
+e
+L’ide de cohsion sociale a recu une forte impulsion, dans le
+e
+e
+¸
+monde occidental, dans le cadre de l’Union europenne et du projet
+e
+d’Europe sociale men par Jacques Delors (Ross 1995). La notion de
+e
+cohsion est introduite, comme telle, pour la premiere fois dans l’Acte
+e
+`
+e
+e
+unique de 198610. La cohsion conomique et sociale devient alors une
+nouvelle comptence de la Communaut. Le trait de Maastricht
+e
+e
+e
+(1992) consacre a la cohsion une place importante en prvoyant la
+e
+e
+`
+cration d’un Fonds de cohsion, allou sur la base des
+e
+e
+e
+´
+caractristiques conomiques des Etats. La Commission europenne
+e
+e
+e
+a fait de la cohsion sociale, lors du sommet de Lisbonne de 2000, le
+e
+troisieme de ses objectifs principaux. Le trait tablissant une
+e e
+`
+Constitution pour l’Europe (2004) lui fait encore une place centrale
+puisque « l’Union promeut la cohsion conomique, sociale et
+e
+e
+´
+territoriale, et la solidarit entre les Etats membres » (art. I.3, al. 3).
+e
+Dans ce projet, la notion de cohsion territoriale s’adjoint aux
+e
+concepts plus anciens de cohsion conomique et sociale11. Certains
+e
+e
+jugent que le discours sur la cohsion sociale, dans le contexte
+e
+europen, joue un role de lgitimation politique et fait partie d’un
+e
+ˆ
+e
+processus de construction d’une entit supra-tatique et d’une
+e
+e
+nouvelle forme de citoyennet (Saint-Martin 1999, p. 89). Plus
+e
+gnralement, la notion de cohsion sociale se voit mobilise dans
+e e
+e
+e
+un cadre plus vaste de redﬁnition de la social-dmocratie et de
+e
+e
+construction d’une nouvelle « troisieme voie » en Europe et en
+`
+Amrique du Nord (Giddens 1998).
+e
+De fait, la rfrence a la cohsion sociale est devenue rcurrente
+ee
+e
+e
+`
+dans un contexte tres spciﬁque, en l’occurrence celui d’une expansion
+e
+`
+de la mondialisation conomique et ﬁnanciere, d’une tres forte
+e
+`
+`
+concurrence conomique puis de la restructuration des annes 1980e
+e
+1990. Cette poque est effectivement celle de l’apparition des
+e
+´
+consquences sociales de la mondialisation et des difﬁcults des Etatse
+e
+providence a y faire face. Ce contexte de tensions, d’incertitude
+`
+conomique et politique semble galement avoir t, au dbut du xixe
+e
+e
+ee
+e
+siecle, le terreau duquel a merg, dans les rseaux acadmiques et
+e
+e
+e
+e
+`
+10
+« Aﬁn de promouvoir un dveloppement
+e
+harmonieux de l’ensemble de la Communaut,
+e
+celle-ci dveloppe et poursuit son action
+e
+tendant au renforcement de sa cohsion
+e
+conomique et sociale. En particulier, la
+e
+Communaut vise a rduire l’cart entre le
+e
+e
+` e
+
+niveau de dveloppement des diverses rgions
+e
+e
+et le retard des rgions les moins favorises »
+e
+e
+(art. 23 de l’Acte unique europen).
+e
+11
+En cho a cette perspective, un indice
+e
+`
+europen de cohsion territoriale a t mis au
+e
+e
+ee
+point par Grasland et Hamez (2005).
+
+393
+
+caroline guibet lafaye
+politiques, un intret pour la cohsion sociale (Jenson 1998, p. 8). Un
+e ˆ
+e
+souci spciﬁque pour les politiques communautaires en est alors n.
+e
+e
+Aujourd’hui l’mergence de la rfrence a la cohsion sociale paraıt
+e
+ee
+e
+ˆ
+`
+concomitante de l’identiﬁcation d’un ensemble de problemes (difﬁcults
+e
+`
+d’intgration de certains groupes sociaux, chomage, dlinquance, chec
+e
+ˆ
+e
+e
+scolaire, problemes des banlieues, dlocalisations, immigration)12, d’une
+e
+`
+incertitude conomique, de la peur de la dgradation.
+e
+e
+En France, l’intret pour la cohsion sociale est associ aux
+e ˆ
+e
+e
+proccupations suscites par le chomage, en particulier des jeunes.
+e
+e
+ˆ
+Au Canada, les dbats sur la cohsion sont nourris par ceux sur
+e
+e
+l’identit. Incontestablement, les regrets a l’gard de la perte de
+e
+` e
+cohsion sociale s’alimentent aujourd’hui du sentiment de perte de
+e
+substance de l’ide d’organisation sociale et de dissolution de l’ide
+e
+e
+meme de socit, en particulier des rapports sociaux, sous les effets de
+ˆ
+ee
+la dsinstitutionnalisation (Dubet et Martucelli 1998), de la mobilit
+e
+e
+gnralise (Urry 1999), du dveloppement de l’individualisme ou
+e e
+e
+e
+encore de celui de l’individualisme urbain (Bourdin 2005). Le
+discours est envahi d’une impression de dgradation des garanties
+e
+du pass voire de dcomposition des espoirs, consolidant ainsi la
+e
+e
+collusion de la notion de cohsion et d’un idal d’harmonie sociale. La
+e
+e
+rfrence a la cohsion sociale ou au lien social – sous la forme, par
+ee
+e
+`
+exemple, du « vivre ensemble » ou de la « convivialit » dans des lieux
+e
+privilgis comme les mouvements associatifs – se donne comme une
+e e
+rponse a cette perte de substance, en continuant de postuler
+e
+`
+l’existence d’un fait socital et d’un phnomene d’appartenance
+e
+e
+`
+collective qui lieraient des individus (Gesnetier 2006, p. 23).
+Ce contexte d’inquitude, associ a l’idal que vhicule la notion de
+e
+e`
+e
+e
+cohsion sociale, explique l’orientation prise par les politiques
+e
+adoptes et les ﬁnalits qu’elles se donnent. La volont politique de
+e
+e
+e
+promouvoir la cohsion sociale est un slogan qui anime toutes les
+e
+politiques sociales des pays europens depuis le dbut des annes
+e
+e
+e
+1990. Elle est aussi prsente dans les textes manant des institutions
+e
+e
+europennes et de l’OCDE. Y rpondent, sur le terrain, des pratiques
+e
+e
+de (re)construction du « lien social », dans un contexte ou celui-ci
+`
+serait dgrad voire rompu du fait de l’isolement social, du sentiment
+e
+e
+d’inscurit, de conﬂits entre certaines composantes de la socit
+e
+e
+ee
+(jeunes/aıns, autochtones/migrants, etc.) ou entre les citoyens et
+ˆ e
+12
+Dans le texte du commissariat au Plan,
+par exemple, la « dcohsion » sociale (i.e. la
+e
+e
+menace pesant sur la cohsion sociale) est
+e
+
+394
+
+associe a des sentiments d’isolement de la
+e `
+communaut.
+e
+
+cohsion sociale
+e
+´
+l’Etat ou les pouvoirs publics. Dans les quartiers ou la cohsion sociale
+e
+`
+est juge dfaillante, le « renforcement des liens sociaux » constitue
+e e
+l’un des objectifs des politiques publiques (Baillergeau 2007).
+
+`les
+II. Mode « socitaux » de la cohsion sociale
+e
+e
+Cet intret politique accentu pour la cohsion ne repose toutefois
+e ˆ
+e
+e
+pas sur une dﬁnition prcise et stable de la notion de cohsion sociale.
+e
+e
+e
+Une lecture analytique de la littrature sociologico-politique permet
+e
+nanmoins de distinguer plusieurs modeles de cohsion dont nous
+e
+e
+`
+souhaitons dgager la systmatique. Nous opererons ces distinctions
+e
+e
+`
+en identiﬁant les facteurs et les mcanismes sociaux que chacun de ces
+e
+modeles isole comme contribuant principalement a la cohsion du
+e
+`
+`
+groupe ou comme tant a son fondement. Une dichotomie premiere
+e
+`
+`
+entre deux types majeurs de modeles d’interprtation de la cohsion
+e
+e
+`
+sociale s’instaure, bien qu’a cette premiere dualit s’adjoignent d’autres
+e
+`
+`
+modeles que nous qualiﬁerons de mixtes13. Nous distinguerons donc les
+`
+modeles dits « socitaux » qui font de la cohsion sociale une proprit
+e
+e
+ee
+`
+socitale et l’expliquent a partir de processus ou de structures sociales,
+e
+`
+d’une part, des modeles de type « individualiste », d’autre part. L’analyse
+`
+ne sera toutefois complete qu’a condition d’adjoindre a ce binome des
+ˆ
+`
+`
+`
+modeles mixtes, articulant les dimensions socitales et subjectives des
+e
+`
+deux prcdents, et parmi lesquels on compte aussi bien des modeles
+e e
+`
+axiologiques que des modeles dits des forces.
+`
+1. Le paradigme intgrationniste
+e
+Les modeles « socitaux » et intgrationnistes de la cohsion sociale
+e
+e
+e
+`
+font, conformment a l’inspiration durkheimienne, de l’intgration
+e
+e
+`
+une caractristique des socits – certaines tant davantage « intgres »
+e
+ee
+e
+e e
+que d’autres – plutot qu’une caractristique des individus. Dans ces
+ˆ
+e
+modeles, la cohsion est saisie comme un attribut objectif du groupe.
+e
+`
+Le paradigme intgrationniste se dcline dans des variantes
+e
+e
+organiques, fonctionnalistes et mutualistes (i.e., dans ce dernier cas,
+
+13
+Nous ne postulons pas que, dans le
+dtail de leur exposition, ces modeles sont
+e
+`
+exclusifs les uns des autres. Les distinctions
+
+que nous proposons indiquent seulement des
+orientations dominantes.
+
+395
+
+caroline guibet lafaye
+selon des liens de rciprocit). Chaque type illustre une intgration
+e
+e
+e
+systmique (Lockwood 1956, 1964). L’accent est alors mis sur les
+e
+parties diffrencies et leur intgration dans la socit.
+e
+e
+e
+ee
+- La premiere forme d’intgrationnisme – dont nous verrons
+e
+`
+qu’elle est assez proche de la seconde, de type fonctionnaliste – est
+la variante dite organique. L’intgrationnisme de type organique
+e
+envisage l’entit sociale comme un organisme hirarchis14. La
+e
+e
+e
+cohsion sociale est interprte conformment a une reprsentation
+e
+ee
+e
+e
+`
+organique voire vitaliste du tout social. Le modele organique, nourri
+`
+par la littrature sociologique classique, est uniﬁant, holiste puisqu’il
+e
+considere la socit comme une entit ferme sur elle-meme, close,
+ee
+e
+e
+ˆ
+`
+autonome, dont le fonctionnement ne dpend pas fondamentalement
+e
+d’changes avec l’extrieur. L’hypothese sous-jacente est celle de
+e
+e
+`
+l’autorgulation sociale15, qui repose en particulier sur des « contacts
+e
+continus » entre les corps concerns, en somme entre les « organes » de
+e
+ce tout social. Le modele organique (prsup)pose que tous les
+e
+`
+lments de l’entit participent du tout et y sont intgrs. Aucun ne
+ee
+e
+e e
+peut donc (en) etre exclu. Chacun a sa fonction ainsi qu’une place (et
+ˆ
+une utilit) dans l’interdpendance organique et sociale. Des relations
+e
+e
+de solidarit, fondes sur ces rapports d’interdpendance, se crent
+e
+e
+e
+e
+comme le souligne Durkheim (1893), qui suggere galement que tout
+` e
+accroissement de l’activit fonctionnelle induit un accroissement de la
+e
+solidarit. Ce modele s’incarne dans des socits fondes sur une
+e
+ee
+e
+`
+division du travail et des rapports de production inclusifs.
+- La dimension fonctionnaliste de la variante organique du
+paradigme intgrationniste peut etre autonomise pour constituer,
+e
+ˆ
+e
+en tant que telle, un modele d’intgration se formulant en termes
+e
+`
+non vitalistes. L’interdpendance mutuelle, la rciprocit, la comple
+e
+e
+e
+mentarit fonctionnelle peuvent etre identiﬁes comme des composants
+e
+ˆ
+e
+fondamentaux de la cohsion. Dans la pense durkheimienne, fonctione
+e
+nalisme et organicisme sont indissociables. Nanmoins l’intgration
+e
+e
+fonctionnaliste se trouve, plus gnralement, illustre par une division
+e e
+e
+intgre du travail en rgime capitaliste, marqu par la complmentarit
+e e
+e
+e
+e
+e
+14
+On en trouve une « exempliﬁcation »
+thorique dans la philosophie rousseauiste
+e
+(Rousseau 1762, chapitre VII).
+15
+Si le comportement individuel a, dans
+ce modele, une place et se voit reconnaıtre
+ˆ
+`
+une certaine importance, les mcanismes
+e
+
+396
+
+sociaux sont interprts comme ayant une
+ee
+certaine autonomie. On leur reconnaıt des
+ˆ
+proprits indpendantes du comportement
+ee
+e
+individuel, telles que la coordination qui
+releve alors davantage des mcanismes
+e
+`
+sociaux que des individus.
+
+cohsion sociale
+e
+fonctionnelle des activits, et dont on trouve un exemple historique avec
+e
+e
+¸
+la socit industrielle16. La cohsion sociale est induite, de facon
+ee
+indirecte, par la participation de l’individu a des champs d’activits
+e
+`
+diffrencis et par les solidarits (assurances chomage, vieillesse,
+e
+e
+e
+ˆ
+protection sociale, etc.) que cre le travail salari. Ce faisant, la perte
+e
+e
+de lien avec la socit est consubstantielle de la perte de travail.
+ee
+Au plan thorique cette comprhension de l’organisation sociale
+e
+e
+se retrouve dans la thorie fonctionnaliste de la stratiﬁcation
+e
+formalise par Davis et Moore (1945). Ces auteurs apprhendent
+e
+e
+la stratiﬁcation comme une consquence immdiate de la division
+e
+e
+du travail : les emplois, correspondant a des fonctions d’importance
+`
+variable dans le systeme de division du travail, doivent etre ingalement
+ˆ
+e
+`
+rmunrs, matriellement et symboliquement. Rciproquement, la
+e
+ee
+e
+e
+cohsion sociale introduit des relations fonctionnelles (Costa-Lascoux
+e
+2007, p. 567). Ce modele dcrit une socit concue comme une entit
+e
+ee
+¸
+e
+`
+intgre et inclusive, une communaut ou l’goısme individualiste
+e e
+e ` e ¨
+et les affrontements sociaux constituent des situations anormales,
+ngatives. Cette interprtation fonctionnaliste, fonde sur le role du
+e
+e
+e
+ˆ
+travail, demeure a l’horizon des plus rcents projets politiques relatifs a
+e
+`
+`
+la cohsion sociale. Tel est le cas du projet de loi de cohsion sociale du
+e
+e
+gouvernement d’Alain Jupp (1995-1997) transform en loi du 29
+e
+e
+juillet 1998, dite loi contre les exclusions sociales.
+- Le paradigme intgrationniste demeure a l’œuvre dans la pense
+e
+e
+`
+sociologique contemporaine, mais ne s’exprime plus ncessairement
+e
+en des termes vitalistes. Ainsi identiﬁe-t-on une variante intgrationniste
+e
+concentrique, en particulier dans les travaux de Robert Castel (1995).
+Cette interprtation s’inscrit dans une reprsentation du corps social qui
+e
+e
+se constitue autour du cercle des inclus stables, au centre, et qui perd de la
+cohsion en allant vers les cercles extrieurs, vers les marges marques
+e
+e
+e
+par la vulnrabilit et la dsafﬁliation17. Alors que dans les variantes
+e
+e
+e
+organique et fonctionnaliste, les individus occupent la place qu’ils ont,
+du fait de leur fonction ou de leur activit dans le corps social,
+e
+l’intgrationnisme concentrique est un modele situationniste. Les ine
+`
+dividus occupent la position qu’ils ont du fait de leur tat, par exemple
+e
+16
+Des Adam Smith (1776), la division du
+`
+travail entre les individus s’impose dans la
+pense conomique librale comme facteur
+e e
+e
+principal de la cohsion sociale (voir aussi
+e
+Durkheim 1893, p. 1).
+17
+Ce modele mnage nanmoins la
+e
+e
+`
+possibilit d’une interprtation en termes de
+e
+e
+
+« degrs » d’intgration notamment a travers
+e
+e
+`
+l’identiﬁcation de zones de vulnrabilit.
+e
+e
+Dans ce type de modele (de nature
+`
+concentrique), la dcohsion sociale ne se
+e
+e
+pensera pas en termes de rupture mais en
+termes de dissolution.
+
+397
+
+caroline guibet lafaye
+du fait de leur naissance, de leur hritage social ou de leur situation a
+e
+`
+l’gard du travail (comme le chomage). Ils sont dans tel ou tel cercle
+e
+ˆ
+d’intgration mais pas principalement du fait de leur activit. Cette
+e
+e
+forme d’intgrationnisme connaıt aujourd’hui un renouveau alors que le
+e
+ˆ
+paradigme conﬂictualiste, reposant sur la domination, l’alination et la
+e
+division de la socit en classes tend a etre dlaiss (Soulet 2002).
+ee
+e
+e
+` ˆ
+2. Le contrat social
+Radicalement distinct du paradigme organique, mais appartenant
+nanmoins aux modeles socitaux de la cohsion sociale, se dessine un
+e
+e
+e
+`
+modele contractualiste institutionnel. Le modele contractualiste fonde
+`
+`
+la cohsion sociale sur le pacte social. Nous distinguerons deux formes
+e
+de contractualisme, selon qu’il s’entend de facon politique ou de facon
+¸
+¸
+sociale. Selon la premiere acception, il entre dans les modeles
+`
+`
+individualistes de la cohsion sociale et se pense en rfrence au
+e
+ee
+contrat social, thmatis par J.-J. Rousseau (1762) et fond sur
+e
+e
+e
+l’accord subjectif des volonts individuelles. L’accord politique entre
+e
+les individus est alors envisag comme tant au fondement de
+e
+e
+l’organisation sociopolitique.
+Cependant la rfrence au contrat peut aussi etre mobilise dans
+ee
+ˆ
+e
+e
+une perspective sociale. Lon Bourgeois (1986) pense la solidarit
+e
+comme fonde sur un contrat tacite qui lie l’individu a la socit
+e
+ee
+`
+envisage comme un tout. Le solidarisme place en son cœur le quasie
+e e
+contrat d’association qui lie tous les hommes entre eux18. La ralit de
+ce contrat social est sous-jacente a toutes les formes d’afﬁliation sociale
+`
+et institutionnelle des individus dans les socits ayant dploy des
+ee
+e
+e
+systemes de protection sociale (Paugam 2007). Le modele de cohsion
+e
+`
+`
+demeure ici de type holiste et socital, en ce sens que l’intgration
+e
+e
+individuelle dpend d’un rattachement a la structure, d’une afﬁliation
+e
+`
+mais galement de la nature de cette structure. Cet lment justiﬁe
+e
+ee
+l’inscription du modele contractualiste dans les modeles socitaux de
+e
+`
+`
+la cohsion sociale. Ce contractualisme de type macrosocial – par
+e
+opposition aux modeles microsociaux de la cohsion sociale et a un
+e
+`
+`
+contractualisme qui peut etre mis en œuvre au niveau local, comme
+ˆ
+nous le verrons ultrieurement – se distingue du paradigme
+e
+intgrationniste, aussi bien du fait de sa dimension formaliste que
+e
+
+18
+
+398
+
+Lon Bourgeois fait explicitement rfrence a la notion de « quasi-contrat social » (1902, p. 81).
+e
+ee
+`
+
+cohsion sociale
+e
+par une interprtation de la cohsion en fonction d’une relation
+e
+e
+verticale, par exemple comme tant fortement associe a l’existence
+e
+e `
+´
+d’un Etat social. C’est a cette dimension d’afﬁliation institutionnelle
+`
+que nous accorderons ici notre attention. Elle prsuppose une
+e
+cohsion sociale fonde sur la solidarit sociale nationale, en
+e
+e
+e
+´
+l’occurrence sur les institutions et la structure de l’Etat social.
+Ce modele s’est incarn socialement du dbut du xxe siecle
+e
+e
+`
+`
+jusqu’au lendemain de la Seconde Guerre mondiale, dans la plupart
+des pays d’Europe, ou ont t mis en place des dispositifs de
+ee
+`
+protection sociale ainsi que des transferts de ressources, a l’origine
+`
+ˆ
+de nouvelles formes de solidarit19. D’organique et d’un type plutot
+e
+horizontal (au sens ou la solidarit tait le fruit de l’activit laborieuse
+ee
+e
+`
+et d’une solidarit entre groupes sociaux), la solidarit a volu vers
+e
+e e
+e
+une forme verticale d’engendrement. Elle est impulse par les
+e
+pouvoirs publics pour engendrer des effets sociaux spciﬁques. La
+e
+cohsion sociale dpend alors des structures sociales de solidarit
+e
+e
+e
+´
+mises en place par l’Etat.
+Les dispositifs de protection sociale, apprhends comme des
+e
+e
+sources de cohsion sociale, prennent des formes varies dans
+e
+e
+chaque pays occidental et traduisent tous une certaine conception
+du pacte social. La rfrence au contrat est aujourd’hui prgnante
+ee
+e
+dans les politiques sociales francaises a travers, notamment, les
+¸
+`
+« contrats d’insertion ». La notion de contrat est utilise comme
+e
+instrument du travail social (Duvoux 2007). La rciprocit du contrat,
+e
+e
+fonde sur une symtrie des droits et des devoirs, absente des
+e
+e
+premieres dispositions lgislatives relatives au RMI (revenu minium
+e
+`
+d’insertion), s’est vue introduite avec le RMA (revenu minimum
+d’activit), lui-meme associ en 2003 au contrat d’insertion et qui
+e
+ˆ
+e
+modiﬁe le sens du RMI en introduisant une contrepartie au droit
+`
+ee `
+social20. A terme toutefois, dans des socits ou davantage d’individus
+sortent de la sphere salariale – comme c’est le cas en France
+`
+aujourd’hui –, l’afﬁliation a l’Etat social peut ﬁnir par rester le seul
+` ´
+vecteur d’intgration sociale. L’afﬁliation (ou la rafﬁliation) devient
+e
+e
+principalement institutionnelle. Ce faisant les interactions tisses par
+e
+´
+´
+l’Etat social tendent a devenir, dans l’Etat national, la composante
+`
+
+19
+Le modele contractualiste a donc une
+`
+inscription historiquement date, en ce sens
+e
+qu’il correspond aux formes de solidarit qui
+e
+se sont dployes avec les dispositifs de
+e
+e
+protection sociale de la priode voque.
+e
+e
+e
+
+20
+L’utilisation
+du
+contrat
+comme
+instrument du travail social intervient
+galement, au niveau local et avec d’autres
+e
+intentions, dans le programme Opsinjorn de
+la ville d’Anvers (Belgique).
+
+399
+
+caroline guibet lafaye
+majeure de son type de sociabilit, de telle sorte que le social forme,
+e
+dans certains cas, l’ossature meme du socital21.
+ˆ
+e
+`le
+3. La sociabilit comme mode de cohsion
+e
+e
+La prvalence des relations sociales dans la comprhension des
+e
+e
+phnomenes de cohsion, ainsi que l’interprtation de cette derniere
+e
+e
+e
+`
+`
+comme tant principalement une caractristique du tout social se
+e
+e
+lisent galement dans la tendance contemporaine, consistant a penser
+e
+`
+la cohsion sociale a partir de formes infrasystmiques de cohsion.
+e
+e
+e
+`
+Cet intret s’explique, d’une part, positivement par l’hypothese ou la
+e ˆ
+`
+croyance que la cohsion macrosociale serait engendre a partir de
+e
+e `
+formes locales ou communautaires de cohsion. Mais il y a, d’autre
+e
+part, une facon moins optimiste d’envisager la cohsion macrosociale,
+¸
+e
+qui se nourrit du fait que la fragmentation de nos socits a
+ee
+irrmdiablement dissout cette derniere (Chauvel 2001, p. 344).
+e e
+`
+Dans cette derniere perspective, la cohsion n’a de sens qu’au
+e
+`
+niveau des entits composant l’ensemble qu’est la socit.
+e
+ee
+Ce type de modele s’inscrit pourtant bien dans la branche
+`
+« socitale » de la typologie propose puisque la cohsion sociale
+e
+e
+e
+demeure envisage comme une caractristique de l’entit considre,
+e
+e
+e
+e e
+indpendamment de la taille de l’unit observe. En l’occurrence, elle
+e
+e
+e
+s’explique a partir des connexions et des relations existant entre les
+`
+units sociales, telles que les individus, les groupes, les associations, les
+e
+units territoriales. La cohsion est pense comme afﬂeurant dans des
+e
+e
+e
+relations et interactions intenses entre les individus. Ces interactions
+sont apprhendes selon une double dimension qualitative et
+e
+e
+quantitative. La force de ces interactions et l’intensit des changes
+e
+e
+sociaux engendrent alors et entretiennent la cohsion22. Ainsi certains,
+e
+comme Leon Sheleff, jugent-ils que « la vie en communaut, au niveau
+e
+local, est le paradigme de la cohsion sociale » (Sheleff 1997, p. 334).
+e
+Dans ce type d’interprtation, la cohsion dpend de la nature du lien
+e
+e
+e
+social ou reﬂete un certain tat du lien social.
+e
+`
+Plusieurs caractristiques de cette sociabilit la distinguent comme
+e
+e
+un modele, a strictement parler, de cohsion sociale, en particulier la
+e
+` `
+21
+Telle est l’interprtation que propose
+e
+Robert Castel pour le cas francais (Castel
+¸
+1995, p. 709). Une conﬁrmation empirique
+en est apporte par une tude sur des
+e
+e
+quartiers dfavoriss de la rgion parisienne
+e
+e
+e
+(Bacqu et Sintomer 2001, p. 242).
+e
+
+400
+
+22
+Cette intuition est dja prsente chez
+e`
+e
+Durkheim (1893), qui souligne que lorsque
+la coordination est absente, il n’y a pas de liens
+sociaux et, de ce fait, la socit plonge dans
+ee
+l’anomie.
+
+cohsion sociale
+e
+dimension des contacts continus et du rapport en face-a-face,
+`
+conformment a la version traditionnelle d’origine durkheimienne,
+e
+`
+de la cohsion fonde sur la sociabilit. Peut s’y adjoindre la solidarit
+e
+e
+e
+e
+de type intragroupe, non institutionnalise23. L’attention peut enﬁn
+e
+etre porte sur des qualits socitales, telles que l’tendue des ingalits
+ˆ
+e
+e
+e
+e
+e
+e
+ou la force des relations sociales et des liens dans la socit. La
+ee
+perspective demeure, dans tous les cas, socitale et objectiviste. Les
+e
+modeles qu’elle privilgie sont alors la sociabilit24 et le capital social
+e
+e
+`
+plutot que la sodalit.
+ˆ
+e
+L’attention pour les formes locales, communautaires ou de cohsion
+e
+fonde sur des liens de proximit, ne se dploie pas seulement au plan
+e
+e
+e
+thorique mais aussi dans les politiques publiques25. Ainsi nombre de
+e
+politiques sociales s’appuient sur le local pour produire de la cohsion
+e
+comme les politiques visant a favoriser la dmocratie participative
+e
+`
+locale ou la vie de quartier. Cette promotion de la rfrence a la
+ee
+`
+cohsion locale s’explique pour partie du fait que les communauts
+e
+e
+locales sont souvent percues comme un lieu de consensus plutot que
+¸
+ˆ
+comme un lieu de conﬂits.
+a) Cohsion locale et liens de proximit. Cette apprhension de la
+e
+e
+e
+cohsion locale et des liens de proximit est rcurrente dans les
+e
+e
+e
+politiques publiques concernant le quartier ou la ville. On la percoit
+¸
+galement dans les discours mobilisant des idaux de « cohsion », de
+e
+e
+e
+« rciprocit », d’« quilibre », d’« ouverture » en rfrence au « lieu » et
+e
+e
+e
+ee
+aux « territoires ». La justice sociale y est concue a travers l’ide d’une
+¸ `
+e
+coexistence paciﬁque, de l’image d’une sociabilit chaleureuse obtenue
+e
+par la « coprsence », la « concitoyennet », par les relations directes
+e
+e
+
+23
+L’hritage durkheimien a imprim sa
+e
+e
+marque sur les reprsentations de l’univers
+e
+sociologique francais. C’est en particulier le
+¸
+cas de la conception de l’intgration sociale –
+e
+que l’on oppose aux phnomenes d’exclusion –
+e
+`
+fonde sur la solidarit et le lien social.
+e
+e
+Cette reprsentation est propre au systeme
+e
+`
+sociopolitique francais, bien qu’elle ait
+¸
+essaim en d’autres lieux (Silver 1994, pp.
+e
+586-590).
+24
+Rappelons que la sociabilit dsigne la
+e e
+capacit humaine a former des rseaux, par
+e
+e
+`
+lesquels les units d’activits, individuelles et
+e
+e
+collectives, font circuler les informations qui
+
+expriment leurs intrets, gouts, opinions
+e ˆ
+ˆ
+(Baechler 1992, p. 58).
+25
+On l’apprhende dans la politique fdrale
+e
+e e
+canadienne de recherche du sous-comit pour la
+e
+cohsion sociale (PRSub-C) (Social Cohesion
+e
+Research Work-plan, Mars 1997), dans le
+rapport produit par le commissariat gnral
+e e
+du Plan en 1997 sur Cohsion sociale et
+e
+territoires (Delevoye 1997), dans le rapport
+de 1997 de l’OCDE (Societal Cohesion and the
+Globalising Economy) ou dans le rapport du
+`
+Club de Rome (1998). A chaque fois, le niveau
+local est considr comme l’chelon cl de
+ee
+e
+e
+production de la cohsion sociale.
+e
+
+401
+
+caroline guibet lafaye
+entre voisins ou « prochains » (Gesnetier 2006, p. 24). On s’appuie sur
+une apprciation positive des vertus supposment inhrentes a la
+e
+e
+e
+`
+localit, dans laquelle le quartier est assez systmatiquement associ a
+e
+e
+e`
+une vision irnique du « village dans la ville ». Le quartier est percu
+e
+¸
+comme un espace de solidarit, d’identit et de convivialit,
+e
+e
+e
+« naturellement » dot de vertus de rconciliation et d’efﬁcacit
+e
+e
+e
+(Neveu 2004, p. 59). Il est le lieu de l’euphmisation des conﬂits et
+e
+de tous les consensus. Plus gnralement, le territoire est concu
+e e
+¸
+comme potentiellement porteur d’une force identiﬁcatoire propre,
+d’une capacit de production de l’appartenance communautaire.
+e
+`
+A travers le territoire, le lieu, on place l’accent et l’attention sur la
+concrtude inhrente a l’chelle de la proximit, du groupe de
+e
+e
+e
+` e
+voisinage, de la communaut de vie quotidienne en dlaissant la
+e
+e
+problmatique de l’unit nationale pourtant concue, dans les annes
+e
+e
+¸
+e
+1960, comme une « communaut de destin » (Gesnetier 2006, p. 26)26.
+e
+En Grande-Bretagne galement, les politiques publiques accordent
+e
+une importance accrue aux relations sociales et associatives dans les
+quartiers urbains (Flint 2006a, p. 22)27.
+La « communaut » doit etre prise au sens de partage d’un meme territoire, un
+e
+ˆ
+ˆ
+« quartier » concu a la fois comme espace physique et comme mode d’organi¸ `
+sation sociale d’un milieu d’appartenance ou des rseaux se sont constitus. Elle
+e
+e
+`
+fait donc rfrence a une certaine qualit de relations sociales et a un mode de vie
+ee
+e
+`
+`
+(facon de penser et de se comporter, attachement a certaines valeurs). (Favreau
+¸
+`
+1994, p. 97).
+
+La rfrence a la communaut est aussi prsente dans la littrature
+ee
+e
+e
+e
+`
+anglo-saxonne. La notion de community qu’elle mobilise est plus
+substantielle que les usages francophones de la notion de communaut
+e
+puisque y sont prises en compte des dimensions :
+« dmographiques et gographiques, i.e. un territoire, une psychologie collective
+e
+e
+lie au sentiment d’appartenance a un lieu donn, une culture et des microe
+e
+`
+institutions qui lui sont propres, c’est-a-dire un rseau d’organisations relies
+e
+e
+`
+entre elles par un dnominateur commun, la participation de la population a
+e
+`
+l’amlioration de ce « quartier » (Favreau 1994, p. 97).
+e
+
+Au regard des politiques envisages, il ne s’agit pas seulement
+e
+d’engendrer de la cohsion a un niveau social spciﬁque – en
+e
+e
+`
+l’occurrence local plutot que national – mais bien de s’appuyer sur
+ˆ
+une reprsentation de la cohsion caractristique d’un niveau local ou
+e
+e
+e
+26
+Voir les discours de la DATAR de cette
+poque.
+e
+27
+De meme, des tudes sur l’conomie
+ˆ
+e
+e
+informelle ont montr que le role qu’y jouait
+e
+ˆ
+la communaut. Alejandro Portes (1994)
+e
+
+402
+
+souligne le ro essentiel de la conﬁance
+ˆle
+comme ciment social et du groupe comme
+instance de controle. Sur les solidarits
+ˆ
+e
+communautaires, voir aussi Pairault (1995).
+
+cohsion sociale
+e
+communautaire qui servirait de rfrence au-dela de ce plan d’analyse.
+ee
+`
+En somme, on croit pouvoir penser – et raliser – une cohsion
+e
+e
+macrostructurelle en s’en remettant au local, a la proximit ou au
+e
+`
+e
+communautaire28. Ainsi dans l’approche putnamienne prvaut,
+comme nous le verrons, une vision non conﬂictuelle de la socit
+ee
+(Portes 1998, Newton 1999), qui se trouve en outre associe a un
+e `
+ensemble d’autres traits distinctifs tels que la valorisation de la sphere
+`
+non marchande. Elle donne lieu a une croyance dans l’effet
+`
+essentiellement positif de la sociabilit29. Dans d’autres cas, en
+e
+revanche comme les exemples voqus le soulignent, on fait de
+e
+e
+l’espace un oprateur socital.
+e
+e
+Ces diffrents usages justiﬁent que l’on identiﬁe la sociabilit – i.e.
+e
+e
+la cohsion s’exprimant soit localement soit de facon communautaire
+e
+¸
+soit, ainsi que nous le verrons, a travers le capital social – comme un
+`
+`le, `
+mode a strictement parler, de cohsion et pas seulement comme des
+e
+niveaux distincts de son analyse. Nanmoins la rfrence a ces formes
+e
+ee
+`
+de sociabilit (comme celle des groupes ou des communauts locales)
+e
+e
+laisse ouverte la question de savoir si elles permettent d’expliquer et
+de penser la cohsion de macrostructures. On peut en particulier
+e
+douter que la cohsion, fonde sur le face-a-face dans des
+e
+e
+`
+communauts locales, soit aisment transposable a une autre chelle,
+e
+e
+e
+`
+par exemple a la communaut nationale notamment.
+e
+`
+b) Le capital social. Alors que dans la premiere moiti du xxe siecle,
+e
+`
+`
+les tudes empiriques des relations sociales ont principalement t
+e
+ee
+conduites a un niveau microsociologique : tudes en entreprises, analyse
+e
+`
+de la diffusion des nouveauts, monographies de communauts
+e
+e
+(Redﬁeld 1956), l’analyse sociologique des rseaux sociaux a connu un
+e
+essor important dans la seconde moiti du xxe siecle (Degenne et
+e
+`
+e
+Fors 2004)30. Les travaux sur la cohsion sociale et la nation, a la ﬁn
+e
+`
+e
+e
+du xxe siecle, marquent un largissement de cette rﬂexion aux limites
+`
+28
+Ce faisant, on procede a une riﬁcation des
+e
+` `
+rapports sociaux en des liens interindividuels
+et a la substantialisation des relations sociales au
+`
+travers de leur lieu d’effectuation (Gesnetier
+2006, p. 33).
+29
+De la sorte, on omet une difﬁcult de
+e
+taille puisque, traditionnellement, la socit
+ee
+est pense par diffrence d’avec la
+e
+e
+communaut. En effet, l’une des dﬁnitions
+e
+e
+les plus inﬂuentes du concept de socit,
+ee
+donne par Ferdinand T€ nnies (1887), se
+e
+o
+comprend par contraste d’avec celle de
+communaut, celle-ci tant caractrise par
+e
+e
+e e
+
+la proximit, affective autant que spatiale,
+e
+`
+des individus (Deliege 2005, p. 652). La
+socit, en revanche, est caractrise par des
+ee
+e e
+formes modernes de sociabilit. Elle se fonde
+e
+sur les intrets personnels, l’intret tant a la
+e ˆ
+e ˆ e
+`
+base des rapports sociaux orients vers le
+e
+march et le contrat.
+e
+30
+La notion de rseau – en tant qu’il se
+e
+diffrencie d’un agrgat – implique un partage
+e
+e
+de normes, d’informations, de ressources, qui
+le constitue en capital social (Langlois 2005,
+p. 596).
+
+403
+
+caroline guibet lafaye
+de la socit considre globalement. Depuis les annes 1980 mais
+ee
+ee
+e
+surtout 1990, un engouement important se note en conomie, en
+e
+sociologie et en science politique, pour la notion de cohsion sociale.
+e
+Celle-la a d’abord merg de la littrature sociologique (Bourdieu 1980,
+e
+e
+e
+`
+1986 ; Coleman 1990) puis a t diffuse par des travaux comparatistes
+ee
+e
+d’conomie politique (Fukuyama 1997) et de gouvernements compars
+e
+e
+(Putnam, Leonardi et Nanetti 1973 ; Putnam 2000). Le concept de
+capital social s’est progressivement substitu a des notions sociologiques
+e`
+tablies telles que les rseaux de relations, les rapports de rciprocit, la
+e
+e
+e
+e
+conﬁance, la mdiation, la socialisation, la mobilisation.
+e
+Le capital social peut etre dﬁni, dans un premier temps, comme
+ˆ
+e
+l’ensemble des normes et des rseaux qui facilitent l’action collective
+e
+(Woolcok et D. Narayan 2000). Il prsente alors une dimension
+e
+normative puisqu’il fait rfrence aux valeurs, aux normes ou aux
+ee
+regles informelles qui rgissent les interactions entre agents. Mais le
+e
+`
+e
+capital social peut galement etre apprhend a partir de caractristiques
+e
+ˆ
+e
+e`
+structurelles (Coleman 1990). Il dsigne alors le cadre formel au sein
+e
+duquel s’tablissent des relations entre les agents et peut etre envisag
+e
+ˆ
+e
+comme l’ensemble des institutions formelles ou informelles, c’est-a-dire
+`
+l’ensemble des regles ou des cadres d’action des agents, qui facilitent la
+`
+coopration entre acteurs en vue d’actions ﬁnalises (Angeon et Callois
+e
+e
+2006, p. 57).
+L’interprtation de la cohsion sociale fonde sur les connexions et
+e
+e
+e
+les rapports entre units sociales, sur une liaison troite ou intense
+e
+e
+entre les individus occupe aujourd’hui une part importante de la
+e
+e
+littrature31 sur la cohsion sociale, dveloppant le theme du « capital
+e
+`
+social » (Coleman 1990 ; Bagnasco et coll. 2001), lui-meme associ aux
+ˆ
+e
+notions de conﬁance et d’engagement civique (Putnam, Leonardi et
+e
+Nanetti 1973)32. Certains textes rcents mobilisant, dans leur analyse
+de la cohsion sociale, la notion de capital social tendent a tenir ces
+e
+`
+deux expressions pour synonymes. Ainsi la fonction dcisive du
+e
+capital social dans le maintien et la production de la cohsion sociale
+e
+est-elle fortement souligne par le Social Cohesion Research Network
+e
+du projet de recherche sur les politiques du gouvernement canadien.
+Dans ce type d’approche, la notion de capital social est concue a partir
+¸ `
+de la prise en compte de la densit et de la qualit des relations et des
+e
+e
+interactions entre les individus et les groupes, de leurs sentiments
+31
+L’accent plac sur le capital social
+e
+comme dimension fondatrice de la cohsion
+e
+sociale est central dans les tudes canadiennes.
+e
+32
+Le role central de la rfrence au capital
+ˆ
+ee
+
+404
+
+social dans les thories de la cohsion sociale
+e
+e
+s’explique a partir de la corrlation entre
+e
+`
+capital social et rseaux sociaux (Lin 1999).
+e
+
+cohsion sociale
+e
+d’engagement mutuel et de la conﬁance dans des valeurs et des normes
+communes, du sens de l’appartenance et de la solidarit, suppos etre
+e
+eˆ
+l’un des fondements de la cohrence interne d’une socit (Jenson
+e
+ee
+1998 ; O’Connor 1998)33.
+Une approche, comme celle de Coleman, souligne sa dimension
+structurelle. Ce dernier envisage le capital social comme « une varit
+ee
+d’entits diffrentes, ayant deux lments en commun : elles
+e
+e
+ee
+consistent toutes en aspects de la structure sociale et elles facilitent
+certaines actions des agents – qu’ils soient des agents individuels ou
+des corporations – au sein de la structure » (Coleman 1988, S 98).
+Robert Putnam (1973, 1995) en donne une interprtation troite
+e
+e
+et dﬁnit le capital social comme un ensemble d’« associations horie
+zontales » entre les individus, comme des « rseaux d’engagement
+e
+civique » (civicness) qui jouent un role de mdiation entre les normes
+ˆ
+e
+et les regles de fonctionnement de la socit, et qui produisent et
+ee
+`
+renforcent la conﬁance dans la crdibilit de ces regles comme dans les
+e
+e
+`
+relations sociales (O’Connor 1998 ; Hjerppe 1999; Social Capital
+Initiative 1998)34. En somme, le capital social consiste dans l’ensemble
+des rseaux sociaux et des normes de rciprocit qui y sont associes
+e
+e
+e
+e
+(Putnam 1995). Dans chacune de ces interprtations, le capital social est
+e
+dﬁni comme des « caractristiques de l’organisation sociale, telles que
+e
+e
+les rseaux, les normes, la conﬁance qui facilitent la coordination et
+e
+la coopration pour le bnﬁce mutuel » (Putnam 1993, p. 36)35. La
+e
+e e
+ressource, inhrente a la structure, existe indpendamment de l’action
+e
+e
+`
+33
+Reconnaissons toutefois qu’il existe une
+pluralit de dﬁnitions du capital social. Celle
+e
+e
+propose par Pierre Bourdieu, quoique souvent
+e
+critique, l’envisage comme « l’ensemble des
+e
+ressources actuelles ou potentielles qui
+sont lies a la possession d’un rseau durable
+e `
+e
+de relations plus ou moins institutionnalises
+e
+d’interconnaissance et d’inter-reconnaissance ;
+`
+ou en d’autres termes a l’appartenance a un
+`
+groupe, comme ensemble d’agents qui ne sont
+pas seulement dots de proprits communes
+e
+ee
+[. . .] mais sont aussi unis par des liaisons
+permanentes et utiles » (Bourdieu 1980,
+p. 2).
+34
+Dans l’interprtation putnamienne, le
+e
+capital social repose sur l’entretien de
+rseaux de sociabilit, la production de
+e
+e
+normes sociales et l’instauration d’une
+conﬁance mutuelle entre les acteurs.
+35
+De meme pour James Coleman (1988),
+ˆ
+le capital social correspond aux caractristiques
+e
+d’une structure sociale qui « facilitent les
+
+actions des individus au sein de la structure ».
+Coleman identiﬁe les processus constituant le
+capital social : les obligations et les attentes,
+l’acces a l’information, les normes et sanctions,
+` `
+les relations d’autorit, les organisations
+e
+sociales que les acteurs peuvent s’approprier
+(rseaux informels), les organisations sociales
+e
+intentionnelles (i.e. cres dans un but prcis)
+ee
+e
+(Coleman 1990, p. 302). Ces processus ne sont
+pas tous de meme niveau analytique mais
+ˆ
+reﬂetent la dmarche microsociologique de
+e
+`
+l’auteur. Dans l’approche de Coleman et de
+Putnam, qui s’en est inspir, le capital social ne
+e
+se manifeste pas dans les ressources qu’un
+individu est susceptible de mobiliser grace a
+ˆ `
+ses contacts – ce qui distingue cette approche
+de celle de Bourdieu – mais sous trois formes
+qui renvoient a la notion de controle social : les
+ˆ
+`
+attentes et obligations mutuelles, l’information
+– qui fait les rputations –, les normes et
+e
+sanctions qui dissuadent des tentations
+opportunistes (Ponthieux 2008, p. 3).
+
+405
+
+caroline guibet lafaye
+ou de l’intention des acteurs. Elle est accessible a tous les membres d’une
+`
+communaut et bnﬁcie a tous36.
+e
+e e
+`
+L’approche de R. Putnam (1995) revient a transposer au niveau
+`
+macrosocial l’interprtation de la notion de capital social propose par
+e
+e
+Coleman. Par ce biais, le capital social devient l’attribut de socits
+ee
+entieres et le dterminant de leurs rsultats concernant, par exemple,
+e
+e
+`
+le bien-etre, la sant, le bonheur. La dﬁnition putnamienne du capital
+ˆ
+e
+e
+social par une rfrence aux rseaux ainsi qu’aux normes de
+ee
+e
+rciprocit et de conﬁance qui en manent se voit alors mobilise.
+e
+e
+e
+e
+Le capital social est concu comme un fondement de la cohsion
+¸
+e
+sociale37.
+Cette interprtation des rapports sociaux a marqu de son
+e
+e
+empreinte les politiques publiques canadiennes qui postulent que
+« le capital social d’une socit inclut les institutions, les relations, les
+ee
+attitudes et les valeurs qui gouvernent les interactions entre les
+personnes et qui contribuent au dveloppement conomique et
+e
+e
+social. Le capital social, cependant, n’est pas simplement la somme
+des institutions qui fondent la socit, il est aussi le ciment (glue) qui
+ee
+les fait tenir ensemble. Il comprend les valeurs partages et les regles
+e
+`
+d’une conduite sociale exprimes dans les relations interpersonnelles,
+e
+la conﬁance et le sens partag d’une responsabilit ‘civique’, qui fait
+e
+e
+que la socit est davantage qu’une collection d’individus. Sans un
+ee
+degr d’identiﬁcation commune avec les formes de gouvernance, les
+e
+normes culturelles, les regles sociales, il est difﬁcile d’imaginer une
+`
+socit qui fonctionne » (Social Capital Initiative 1998, p. 1). La
+ee
+dimension structurelle prvaut fortement ici38. Des recherches
+e
+ultrieures vont effectuer un changement de niveau d’analyse et
+e
+36
+Le capital social est un bien public qui
+rside dans la structure des rseaux sociaux
+e
+e
+mais c’est aussi un espace d’investissement
+pour des stratgies individuelles (Granjon et
+e
+Lelong 2006, p. 151).
+37
+On considere que l’appartenance et la
+`
+participation active a des associations (de
+`
+loisirs, culturelles, religieuses, caritatives,
+etc.) (Walzer 1981) ou a des assembles
+e
+`
+politiques, surtout locales (Barber 1984),
+favoriseraient l’apparition d’un sentiment de
+conﬁance, d’un sens de la responsabilit et du
+e
+bien commun chez les individus (Putnam,
+Leonardi et Nanetti 1973, Putnam 2000).
+38
+L’ide d’attribuer un capital social aux
+e
+entits collectives prete nanmoins a
+e
+ˆ
+e
+`
+discussion. L’absence de modeles thoriques
+e
+`
+sur cette question oriente la recherche vers des
+
+406
+
+tudes empiriques de type inductif (Angeon
+e
+et Callois 2006, p. 62), pour lesquelles R.
+Putnam a jou un role de pionnier et qui sont
+e
+ˆ
+fort nombreuses depuis le milieu des annes
+e
+1990. Cependant on peut juger contestable
+l’approche de Putnam dans la mesure ou
+`
+elle confond, sous une meme appellation, des
+ˆ
+phnomenes tres diffrents (certains renvoyant
+e
+e
+`
+`
+a des pratiques – sociabilit, participation
+e
+`
+associative –, d’autres a des perceptions
+`
+– normes et valeurs –) (Ponthieux 2008,
+p. 3). En outre, Putnam entend par « capital
+social » aussi bien ce dont ce dernier tire sa
+valeur (i.e. les rseaux) que ce qu’il produit (en
+e
+l’occurrence une norme de rciprocit et de
+e
+e
+conﬁance). Le capital social est construit a la
+`
+fois comme effet et comme cause.
+
+cohsion sociale
+e
+faire du capital social une caractristique de certaines collectivits
+e
+e
+sociales, voire de certaines nations, en donnant au terme non plus une
+dﬁnition structurelle (le capital social comme ressource disponible
+e
+variable selon les acteurs et selon les contextes) mais culturelle (le
+capital social comme disposition, collective et hrite, a cooprer)
+e e `
+e
+(Ritaine 2001, p. 50)39.
+Au plan mthodologique, l’tude de la cohsion sociale fonde sur
+e
+e
+e
+e
+le capital social peut s’appuyer sur la sociomtrie ou l’analyse des
+e
+rseaux sociaux. Il s’agit alors de compter la frquence et la nature des
+e
+e
+interactions des membres du groupe. Cette approche se distingue
+spciﬁquement des tudes sur la cohsion percue (Bollen et Hoyle
+e
+e
+e
+¸
+1990, p. 483). La structural analysis, pour sa part, oprationnalise
+e
+empiriquement la notion de capital social a partir de mthodes
+e
+`
+permettant de mesurer la taille, les proprits morphologiques et les
+ee
+effets du capital social. D’autres travaux convoquent la notion de
+capital social ainsi que les acquis touchant a la force et a la
+`
+`
+morphologie des liens, pour interroger les ingalits de genre,
+e
+e
+d’ethnie, de revenu, de niveau scolaire, d’habitat (Lin 2001).
+La typologie tablie par la Banque mondiale en 2000 marque une
+e
+tape dans les usages empiriques de la notion de cohsion sociale.
+e
+e
+Cette typologie reprend les travaux antrieurement mens par
+e
+e
+Granovetter (1973), opposant liens forts et liens faibles. Elle
+identiﬁe les liens sociaux en termes de bonding, linking, bridging
+(respectivement capital social qui unit, lie et relie). Les liens de type
+bonding unissent des individus au sein d’une meme communaut. Ils
+ˆ
+e
+sont « horizontaux ». Les agents appartenant, dans ce type de structure,
+au meme groupe ont un statut identique. Il s’agit de relations familiales
+ˆ
+et amicales, de rseaux sociaux de type communautaire, d’organisations.
+e
+Les liens de type linking caractrisent, en revanche, des interactions
+e
+e
+entre des agents appartenant a des groupes diffrents. Les agents y
+`
+occupent des places ou des statuts diffrents. Ces liens sont de nature
+e
+« verticale ». Enﬁn dans les relations de type bridging, les agents sont
+distants les uns des autres aussi bien physiquement (les liens de type
+bridging sont extraterritoriaux) que dans le temps car ces liens sont
+discontinus. Alors que le bridging est une forme de lien faible, les deux
+premieres formes de liens sont des liens dits forts.
+`
+
+39
+Voir, pour une approche comparable
+mais relevant de l’conomie politique,
+e
+Francis Fukuyama (1997) qui, dans une
+analyse compare des diffrents capitalismes
+e
+e
+
+nationaux, fait du capital social la variable
+explicative de l’efﬁcacit conomique dans un
+ee
+monde globalis. L’inspiration putnamienne
+e
+est nette.
+
+407
+
+caroline guibet lafaye
+Des analyses territoriales, comme celle mene sur La Plaine Sainte
+Denis (Angeon et Lauro 2006), permettent de prendre la mesure de
+ces distinctions. Elles mettent en vidence le fait que les nouvelles
+e
+formes de mise au travail reposent sur des dimensions sociales
+´
+rticulaires40. L’Economie sociale solidaire, dont l’association
+e
+Halage d’insertion par l’conomique offre un exemple41, propose
+e
+des services a la personne qui tablissent des liens de proximit
+e
+e
+`
+forte, de type bonding et linking, entre agents. Dans la littrature
+e
+conomique galement, les liens de proximit forts entre acteurs
+e
+e
+e
+– c’est-a-dire la cohsion locale – sont prsents comme un lment
+e
+e
+e
+ee
+`
+explicatif du dveloppement territorial42. Or ces approches trouvent
+e
+leurs fondements thoriques dans les thories du capital social.
+e
+e
+Angeon et Callois (2006) proposent, dans une meme perspective,
+ˆ
+une analyse du role des coordinations locales dans le dveloppement
+ˆ
+e
+des territoires, en l’occurrence s’agissant de deux territoires ruraux
+francais. On trouve aujourd’hui, dans un nombre croissant de travaux
+¸
+empiriques, la conviction qu’en accroissant la capacit a faciliter
+e `
+l’action collective et la transmission d’informations, la cohsion sociale
+e
+serait renforce et contribuerait, de la sorte, au dveloppement
+e
+e
+territorial, si toutefois cette cohsion ne se traduit pas par une
+e
+fermeture a l’extrieur (Angeon et Callois 2006, p. 70). Cette foi dans
+e
+`
+la « force des liens faibles » (Granovetter) contribue a nuancer l’ide que
+e
+`
+seule la cohsion a petite chelle serait un facteur favorable au succes
+e
+e
+`
+`
+collectif43.
+L’interprtation de la cohsion sociale en rfrence a la notion de
+e
+e
+ee
+`
+capital social nous porte donc a la frontiere des deux principales
+`
+`
+40
+La Maison de l’initiative conomique
+e
+locale (MIEL) soutient de jeunes entreprises,
+en proposant a leurs dirigeants des prestations de
+`
+formation et d’accompagnement individuel
+(Angeon et Laurol 2006, p. 22). Elle met en
+relation des acteurs de statut identique et
+constitue de ce fait un cadre propice a la
+`
+formation de liens cohsifs forts (de type
+e
+bonding). Ayant des activits connexes avec
+e
+d’autres organismes prsents sur le territoire,
+e
+dans le but de promouvoir la formation du
+public concern, elle s’inscrit dans des
+e
+dynamiques de liens de type linking.
+41
+Cette association incite certains acteurs
+du territoire a prendre collectivement part a
+`
+`
+des actions ﬁnalises telles que le chantiere
+cole de remise en tat des berges de la Seine
+e
+e
+conduit par des chomeurs.
+ˆ
+42
+Les conomistes, apres les sociologues,
+e
+`
+
+408
+
+se sont appropris la notion de capital social.
+e
+43
+Certains travaux tudient galement les
+e
+e
+modalits de formation de la stratiﬁcation
+e
+sociale, aﬁn de dterminer comment
+e
+s’organisent les rseaux de sociabilit ainsi
+e
+e
+que les logiques d’agrgation et de sparation
+e
+e
+des personnes et des groupes. Ils mettent en
+vidence une diversit insoupconne de ces
+e
+e
+¸
+e
+formes (Eve 2002). En effet, selon les
+individus, les logiques d’agrgation peuvent
+e
+s’appuyer sur l’origine sociale, le quartier,
+´
+les services de l’Etat, les institutions
+d’enseignement suprieur, la profession, la
+e
+famille (Gribaudi 2000). Dans certains cas,
+ce sont les lieux de sociabilit qui s’averent
+e
+`
+particulierement structurants (Maillochon
+`
+1998) sans que cette importance puisse etre
+ˆ
+isole des autres « variables » dﬁnissant les
+e
+e
+individus.
+
+cohsion sociale
+e
+orientations thoriques a partir desquelles penser la cohsion44.
+e
+e
+`
+Mobilis pour expliquer les fondements de l’action collective et de
+e
+la coopration entre individus anonymes (Axelrod 1984, Coleman
+e
+1990), le capital social est apprhend comme une attitude de
+e
+e
+conﬁance qu’une personne dveloppe vis-a-vis d’autres qui ne lui
+e
+`
+sont pas familieres, attitude qui l’induirait a tablir des relations de
+`
+` e
+rciprocit, de collaboration et de coopration sociale (Levi 1996, Boix
+e
+e
+e
+et Posner 1988, Newton 1997). Dans ce type de modele, le lien causal
+`
+s’tablit de l’action de la communaut en direction des caractristiques
+e
+e
+e
+individuelles. Toutefois la conﬁance n’est pas seulement une proprit
+ee
+qui mane d’une conﬁguration structurelle mais galement un
+e
+e
+sentiment qu’prouvent ou non les individus.
+e
+Aux antipodes des modeles prcdemment exposs, certains
+e e
+e
+`
+thoriciens considerent que la cohsion sociale repose principalement
+e
+e
+`
+– et, pour certains, repose de facon ultime – sur le comportement, les
+¸
+attitudes et les valuations des membres de la socit. En effet, quand
+e
+ee
+bien meme la cohsion sociale serait une proprit socitale, elle est aussi
+ˆ
+e
+ee
+e
+e
+e
+e
+exprimente et vcue au quotidien par les individus, a travers la
+`
+perception d’ingalits ou dans le climat qui regne dans le voisinage,
+e
+e
+`
+le milieu professionnel ou scolaire. S’esquissent alors des modeles de
+`
+cohsion dans lesquels le lien causal ne s’tablit plus, principalement
+e
+e
+voire exclusivement, a partir de l’action de la communaut en direction
+e
+`
+des caractristiques individuelles.
+e
+
+`les
+III. Mode « individualistes » de la cohsion sociale
+e
+Les modeles sont ici dits individualistes (par opposition a des
+`
+`
+modeles holistes), dans la mesure ou la cohsion sociale n’est pas avant
+e
+`
+`
+tout ni fondamentalement pense comme une caractristique socitale
+e
+e
+e
+mais plutot comme une exprience et un ressenti subjectifs. Ces
+ˆ
+e
+modeles s’inscrivent, pour partie, dans la tradition de l’individualisme
+`
+mthodologique. Ils ne consistent pas simplement dans l’tude des
+e
+e
+manieres dont la cohsion sociale est exprimente quotidiennement
+e
+e
+e
+`
+par les individus qui vivent dans un contexte social reﬂtant, comme
+e
+44
+Cette dualit s’exprime dja dans la
+e
+e`
+dﬁnition que Coleman propose du capital
+e
+social lequel recouvre « une varit d’entits
+ee
+e
+qui ont deux lments en commun : elles
+ee
+consistent toutes en aspects de la structure
+
+sociale, et elles facilitent certaines actions des
+acteurs – individus ou acteurs collectifs – a
+`
+l’intrieur de la structure » (Coleman 1988,
+e
+S 98).
+
+409
+
+caroline guibet lafaye
+tel, cette cohsion. Ces modeles concoivent l’individu – dcideur et
+e
+¸
+e
+`
+agent – comme l’origine de conﬁgurations sociales prsentant une
+e
+forme de cohsion. Ils offrent une rponse a la question de savoir
+e
+e
+`
+comment les comportements individuels aboutissent aux rsultats
+e
+sociaux que l’on observe au niveau macro-conomique. Les modeles
+e
+`
+de type « individualiste » dsignent aussi bien des modeles de cohsion
+e
+e
+`
+fonds sur le « sentiment d’appartenance », des modeles dits « libraux »45
+e
+e
+`
+que des modeles contractualistes d’inspiration politique.
+`
+`le
+1. Le mode « individualiste communautaire »
+La cohsion sociale est ici concue comme se nourrissant et
+e
+¸
+dpendant des sentiments d’appartenance que chaque individu porte
+e
+a l’gard de l’entit sociale a laquelle il appartient, quelle que soit la
+e
+` e
+`
+taille de cette communaut et dont les limites peuvent s’tendre a
+e
+e
+`
+celles de la communaut nationale ou de la communaut europenne.
+e
+e
+e
+Plusieurs dﬁnitions de la cohsion sociale sont axes sur le sentiment
+e
+e
+e
+subjectif d’appartenance. Jerome Frank dﬁnit la cohsion comme
+e
+e
+« le sens qu’ont les membres d’appartenir a un groupe » (Franck 1957,
+`
+p. 54). Bollen et Hoyle proposent une dﬁnition thorique de la
+e
+e
+cohsion qui rend compte de l’tendue dans laquelle les groupes se
+e
+e
+sentent « lis a » (stuck to) ou se sentent « faisant partie de » groupes
+e `
+sociaux particuliers (Bollen et Hoyle 1990, p. 501).
+Plus rcemment Carron envisage la cohsion comme « la tendance
+e
+e
+pour un groupe a rester ensemble et a demeurer uni dans la poursuite de
+`
+`
+ses buts et de ses objectifs » (Carron 1982, p. 124). Buckner a cherch a
+e`
+combiner les perceptions des membres du groupe pour caractriser la
+e
+cohsion du groupe comme un tout (Buckner 1988). Si les membres
+e
+du groupe ressentent individuellement un plus fort lien au groupe
+– i.e. s’ils percoivent une forte cohsion entre eux –, le groupe comme
+¸
+e
+un tout en viendra a manifester une unit de fonction ou d’objectif
+e
+`
+(purpose) et d’exprience (i.e. une forte cohsion de groupe). Suivant la
+e
+e
+meme inspiration, d’autres thoriciens ont envisag la cohsion
+ˆ
+e
+e
+e
+comme une fonction de la perception qu’a chaque individu de son
+propre statut dans le groupe considr.
+e e
+Le sentiment d’appartenance a un groupe peut s’actualiser dans
+`
+une conscience collective commune dont Durkheim et Marx avaient
+45
+Nous employons ici l’adjectif « libral »
+e
+au sens que lui donne la philosophie anglosaxonne d’attachement et de prminence des
+ee
+
+410
+
+droits et liberts individuelles pluto que
+e
+ˆt
+conformment aux signiﬁcations qu’il revet
+e
+ˆ
+dans le dbat politique francais.
+e
+¸
+
+cohsion sociale
+e
+soulign le role comme vecteur d’intgration et de cohsion sociales.
+e
+ˆ
+e
+e
+On le saisit dans la conscience de classe, la classe sociale constituant,
+jusque dans les annes 1970 au moins en France, un lieu positif
+e
+d’appartenance collective. Le role du sentiment d’appartenance
+ˆ
+comme vecteur de socialisation n’est plus a dmontrer. On observe
+` e
+par exemple que les adolescents, dans les cits, nourrissent une logique
+e
+d’attachement et d’identiﬁcation au quartier qui constitue pour eux un
+lieu de sociabilit et de solidarit (Avenel 2006). Se dploie dans la cit
+e
+e
+e
+e
+une sociabilit intensive, domine par la convivialit et le sentiment
+e
+e
+e
+de solidarit. Elle offre un contrepoint a la dsorganisation et a
+e
+e
+`
+`
+l’exclusion (Avenel 2006, p. 129).
+Plus gnralement les formes d’intgration induites par le
+e e
+e
+sentiment d’appartenance au groupe ou a la communaut sont
+e
+`
+exploites par les politiques publiques oprant a l’chelon local et
+e
+e
+e
+`
+valorisant les afﬁliations communautaires46. Ainsi les politiques mises
+en place par le gouvernement travailliste britannique se sont appuyes
+e
+sur l’identiﬁcation a la communaut (Rose 2001). Celle-ci est
+e
+`
+apprhende comme un lieu et une instance de gouvernance. Le
+e
+e
+renforcement des processus de rafﬁliation et l’effort pour faire participer
+e
+activement les citoyens a l’atteinte des objectifs gouvernementaux sont
+`
+passs par la promotion du communautarisme mettant l’accent sur
+e
+l’action collective locale ainsi que sur les droits et responsabilits
+e
+mutuels (Etziono 1995 ; Giddens 1998). Ils s’efforcent galement
+e
+d’encourager une implication civique active des individus au sein de
+leur communaut.
+e
+De la meme facon, les politiques sociales au bnﬁce des quartiers
+ˆ
+¸
+e e
+en crise, aux Pays-Bas dans les annes 1990, ont mis a proﬁt
+e
+`
+l’organisation communautaire (Baillergeau 2007). Aﬁn de raliser
+e
+l’objectif de cohsion sociale qu’elles s’taient donn, ces politiques
+e
+e
+e
+ont favoris le « vivre ensemble » dans un contexte multiculturel, ainsi
+e
+que le dialogue et l’entraide entre des personnes dont les seuls
+points communs taient la prcarit sur le march de l’emploi et
+e
+e
+e
+e
+l’appartenance a un quartier ngativement stigmatis47. Dans cette
+e
+e
+`
+perspective, ont t dveloppes, des le dbut des annes 1990, des
+ee e
+e
+e
+e
+`
+activits collectives d’animation de la vie de quartier, la valorisation
+e
+46
+Certains misent sur la dynamique des
+corporations de dveloppement communautaire
+e
+pour contrer la tentation de l’isolement que
+reprsentent les gated communities ainsi que la
+e
+perte de conﬁance en soi et dans les autres
+qu’elle symbolise (Putnam 2000).
+
+47
+On peut toutefois mettre des doutes
+e
+quant a la possibilit de faire socit, c’est-ae
+ee
+`
+`
+dire de construire du lien social, uniquement
+a partir de l’insertion conomique, et en ne
+e
+`
+s’appuyant que sur le ressort communautaire
+(Donzelot 2003).
+
+411
+
+caroline guibet lafaye
+des initiatives de nettoyage et d’embellissement des rues par
+l’attribution de primes a l’action (Duyvendak et Van der Graaf
+`
+2001), l’implication d’habitants dans des dispositifs de mdiation
+e
+des conﬂits de voisinage (Peper, Spierings et de Jong 1999). Ces
+exemples illustrent une interprtation de la cohsion sociale fonde
+e
+e
+e
+sur un sens de l’engagement individuel, sur le dsir et la volont de
+e
+e
+vivre ensemble dans l’harmonie.
+Cette variante communautaire des modeles subjectivistes de la
+`
+cohsion a des liens troits avec le modele axiologique – que nous
+e
+e
+`
+analyserons ultrieurement – dans la mesure ou le sens de
+e
+`
+l’appartenance comporte a la fois des lments cognitifs et des
+ee
+`
+lments affectifs48. Or dans sa dimension cognitive, le sens de
+ee
+l’appartenance peut reposer sur l’identiﬁcation personnelle a un
+`
+systeme de croyances ou a une idologie49.
+e
+`
+`
+`le
+2. Le mode « individualiste libral »
+e
+Ce modele dcrit une forme minimale de cohsion sociale et
+e
+e
+`
+s’appuie sur la these librale selon laquelle une socit qui
+e
+ee
+`
+fonctionne bien advient comme la rsultante ou le produit de
+e
+comportements privs. Les institutions publiques ont seulement un
+e
+role restreint en matiere d’engendrement de la cohsion. L’ordre
+ˆ
+e
+`
+social est induit par le march ou par des institutions prives telles que
+e
+e
+la famille ou les rseaux sociaux. Ce modele d’interprtation lie
+e
+e
+`
+troitement la cohsion sociale aux institutions conomiques et,
+e
+e
+e
+principalement, au march. Ce dernier induit des phnomenes de
+e
+e
+`
+stratiﬁcation. Adam Smith (1776) considrait dja que les salaires, et
+e
+e`
+plus gnralement, les rmunrations sociales (comme le statut)
+e e
+e
+e
+dpendent de l’offre et de la demande correspondant a tel ou tel
+e
+`
+emploi. L’offre est fonction de la difﬁcult d’apprentissage et
+e
+d’excution des taches correspondant aux emplois, ce qui justiﬁe
+e
+ˆ
+que le statut de mdecin soit suprieur a celui d’un employ. Dans ce
+e
+e
+e
+`
+e
+modele, la forme de cohsion sociale entre les individus est minimale
+`
+puisque :
+ce qui rend possibles l’accord et la paix dans une telle socit, c’est que les
+ee
+individus ne sont pas tenus de se mettre d’accord sur les ﬁns, mais seulement sur
+48
+Les lments cognitifs concernent
+ee
+l’information. Les lments affectifs sont a
+ee
+`
+l’origine de la motivation.
+49
+La thorie de l’autocatgorisation
+e
+e
+a soulign l’importance du principe selon
+e
+
+412
+
+lequel l’identiﬁcation a un groupe implique
+`
+l’adhsion aux normes et aux valeurs qui
+e
+prescrivent les comportements dsirables et
+e
+les attitudes valorises au sein du groupe
+e
+(Oakes, Haslam et Turner 1993).
+
+cohsion sociale
+e
+des moyens susceptibles de servir une grande varit d’objectifs, et dont chacun
+ee
+espere qu’ils l’aideront dans la poursuite de ses objectifs a lui (Hayek 2007, p. 4).
+`
+`
+
+Bien que ce que Hayek nomme la Grande Socit ne soit pas une
+ee
+unit conomique, la Grande Socit est principalement soude par
+e e
+ee
+e
+les relations conomiques50.
+e
+Ces modeles trouvent une pertinence sociologique dans le domaine
+`
+anglo-saxon. Aux yeux de certains auteurs, la « cohsion sociale est
+e
+suppose etre le rsultat quasi automatique de la somme des
+e ˆ
+e
+ajustements constants entre les multiples intrets de la socit civile »
+e ˆ
+ee
+(Ion 1995, p. 67). Dans ce type d’approche, la perte de cohsion sociale
+e
+est apprhende en termes de dclin de la participation des individus
+e
+e
+e
+aux activits communautaires et aux corps intermdiaires qui les relient
+e
+e
+´
+indirectement a l’Etat. La cohsion sociale vient des individus, la
+e
+`
+communaut tant alors seulement l’agrgat des intrets individuels.
+e e
+e
+e ˆ
+La dﬁnition librale de la cohsion sociale, qui fonde les liens sociaux
+e
+e
+e
+´
+en dehors de l’Etat et la fait reposer exclusivement sur des valeurs
+partages par les individus, tend par consquent a rendre invisibles les
+e
+e
+`
+collectivits nationales ou politiques.
+e
+Cette approche de la cohsion sociale est toutefois mise en difﬁcult
+e
+e
+des lors que l’on considere que la cohsion sociale est moins l’affaire
+e
+`
+`
+d’individus partageant des valeurs que celles des institutions et de leur
+capacit a grer efﬁcacement les diffrences et de produire des
+e ` e
+e
+compromis satisfaisants, au moins provisoirement, pour les parties
+en conﬂit.
+3. Le contrat politique et la participation
+Le modele de la cohsion fond sur le contrat politique (que
+e
+e
+`
+Rousseau dsigne nanmoins par l’expression de contrat social) est un
+e
+e
+modele de type volontariste qui s’inscrit dans les modeles
+`
+`
+individualistes de la cohsion sociale, envisage comme un phnomene
+e
+e
+e
+`
+induit, principalement, a partir de comportements individuels
+`
+caractriss. La rfrence au contrat se distingue ici spciﬁquement
+e e
+ee
+e
+de celle mise en œuvre prcdemment. La notion de « pacte social »
+e e
+antrieurement convoque suggrait un modele social fond sur des
+e
+e
+e
+e
+`
+dispositifs de protection sociale se dployant a l’chelle macrosociale
+e
+` e
+´
+et dans lesquels l’Etat social constituait la clef de voute.
+ˆ
+50
+« Voila le sens tres large dans lequel l’on
+`
+`
+peut utiliser le terme ‘conomique’ en disant
+e
+que l’interdpendance ou la cohsion des
+e
+e
+
+lments de la Grande Socit est purement
+ee
+ee
+conomique » (Hayek 2007, p. 135).
+e
+
+413
+
+caroline guibet lafaye
+Il s’agit a prsent d’envisager les usages sociaux et politiques de la
+` e
+rfrence au contrat en tant qu’il lie un individu singulier – cette fois
+ee
+plac au cœur du dispositif – a un projet social plus englobant mais qui
+e
+`
+ne s’tend jamais aux limites de la nation. Le ressort est ici la volont
+e
+e
+individuelle et l’engagement personnel. Le lien causal (et producteur de
+cohsion) s’tablit a partir des caractristiques et des comportements
+e
+e
+e
+`
+individuels en direction de la communaut et de la structure sociale. En
+e
+l’occurrence, le « contrat [tablit] une thique et une lgitimit
+e
+e
+e
+e
+institutionnelle du vivre ensemble » (Costa-Lascoux 2007, p. 567) et
+prsente une force d’intgration spciﬁque. Ce modele s’actualise dans
+e
+e
+e
+`
+la volont de cooprer aussi bien sur le plan social que politique mais sa
+e
+e
+pertinence se vriﬁe principalement dans l’ordre politique et dans des
+e
+qualiﬁcations de la cohsion a partir des thmatiques de l’engagement et
+e
+e
+`
+de la participation politiques.
+La cohsion sociale repose ici, et est en partie dﬁnie, comme la
+e
+e
+somme de toutes les volonts individuelles de cooprer les uns avec les
+e
+e
+autres, notamment dans des entreprises collectives, sans contrainte
+dans un ensemble de relations sociales, ncessaires aux individus pour
+e
+survivre, mener leur existence et prosprer51. Par opposition a une
+e
+`
+apprhension objectiviste de la cohsion sociale, qui dgagerait les
+e
+e
+e
+proprits structurelles (telles que la garantie de l’galit des chances),
+ee
+e
+e
+fondatrices et productrices de cohsion sociale, le prsent modele, de
+e
+e
+`
+nature individualiste, voit dans la volont de vivre ensemble et dans la
+e
+disposition volontaire de chacun a cooprer, la matrice de cette
+e
+`
+cohsion.
+e
+Ce modele n’a pas seulement une ralit thorique. Nous en
+e e
+e
+`
+tudierons les dclinaisons empiriques spciﬁquement dans le cas
+e
+e
+e
+francais. En Europe et surtout en France, la cohsion sociale se fonde
+¸
+e
+sur une conception rpublicaine de la citoyennet : l’intgration dans
+e
+e
+e
+le corps social ne se fait pas par le jeu des corps intermdiaires – a la
+e
+`
+diffrence de la tradition anglo-saxonne – mais par l’intermdiaire de
+e
+e
+´
+l’Etat avec lequel le citoyen est en relation directe (Saint-Martin 1999,
+e
+e
+p. 92)52. Le haut conseil a l’Intgration a refond, depuis 2002, la
+`
+51
+Le pacte a le sens d’un accord sur le fait
+que les relations et interactions s’opereront
+`
+sur la base du respect des regles sociales, sans
+`
+recourir a la force ou a d’autres formes
+`
+`
+illgitimes de controle social. Son expression
+e
+ˆ
+paradigmatique se trouve chez Rousseau :
+« Trouver une forme d’association qui
+dfende et protege de toute la force
+e
+`
+commune la personne et les biens de chaque
+
+414
+
+associ, et par laquelle chacun s’unissant a tous
+e
+`
+n’obisse pourtant qu’a lui-meme et reste aussi
+e
+ˆ
+`
+libre qu’auparavant ». Tel est le probleme
+`
+fondamental dont le contrat social donne la
+solution (Rousseau 1762, chapitre VI).
+52
+´
+« L’Etat a la capacit de nourrir
+e
+fortement la cohsion sociale » (Delevoye
+e
+1997, p.5).
+
+cohsion sociale
+e
+politique de l’intgration sur le contrat (Haut Conseil a l’Intgration
+e
+e
+`
+2004). De meme, le « contrat d’accueil et d’intgration », institu en
+ˆ
+e
+e
+2004, constitue, en France, un outil d’intgration faconn par le droit
+e
+¸
+e
+et la citoyennet.
+e
+Ce modele contractualiste opere galement dans nombre d’activits
+e
+`
+` e
+quotidiennes, tout de meme qu’il se trouve convoqu a l’appui de
+ˆ
+e `
+certaines politiques sociales contemporaines a quelque niveau social
+`
+qu’elles operent. Il s’explicite dans les contrats passs entre les jeunes
+e
+`
+´
+de banlieue dfavorise et un organisme d’Etat, dans le cadre d’un
+e
+e
+dispositif d’insertion (Roulleau-Berger 1994, p. 859). On le retrouve
+dans les contrats de ville en France 1994-1999 puis 2000-2006 ainsi
+que dans la loi de fvrier 2002 sur la « dmocratie de proximit »53. Les
+e
+e
+e
+« contrats ville » visent a rtablir le contact dans les quartiers
+` e
+concerns, a rinvestir les lieux, a innover concernant l’intervention
+e ` e
+`
+publique et a rpondre aux problemes de dlinquance et d’inscurit.
+e
+e
+e
+` e
+`
+De facon gnrale, ces politiques sociales et urbaines reposent sur la
+¸
+e e
+contractualisation d’objectifs, au bnﬁce des populations les plus
+e e
+dfavorises des quartiers considrs54. Elles œuvrent en s’appuyant
+e
+e
+e e
+sur les notions de « coordination », « rseau », « participation » et
+e
+« mdiation », cette derniere visant a reconstituer une communaut au
+e
+e
+`
+`
+nom de l’appartenance territoriale ou de la commune citoyennet
+e
+(Donzelot 1997).
+Ces politiques et en particulier la gouvernance de proximit ont
+e
+inspir a A. Crawford (2003), le theme de la « communaut
+e `
+e
+`
+contractuelle ». Un exemple en est donn par les modes d’occupation
+e
+du logement priv ou sont labores des regles rgissant la conduite des
+e `
+e
+e
+e
+`
+copropritaires, instituant des responsabilits pour ces derniers a l’gard
+e
+e
+` e
+de la communaut et de leurs voisins. Ces dispositions s’appuient sur le
+e
+cadre lgislatif, en matiere civile et prive55.
+e
+e
+`
+
+53
+Comme nous l’avons voqu, le
+e
+e
+programme Opsinjorn de la ville d’Anvers
+rcompense ses citoyens qui s’engagent dans
+e
+des activits de nature communautaire ou des
+e
+initiatives visant a dvelopper le capital social
+` e
+dans les quartiers tels que la signature d’un
+contrat entre au moins cinq voisins s’engageant
+a entretenir une rue ou un parc (Loopmans
+`
+2004).
+54
+Le contrat a t l’instrument privilgi
+ee
+e e
+de la mise en œuvre des principes (de ciblage,
+de globalit, de transversalit, de citoyennet)
+e
+e
+e
+animant les nouvelles politiques de la ville.
+Il est limit dans le temps et appelle une
+e
+
+valuation lorsqu’il touche a son terme.
+e
+`
+55
+Nanmoins ces « services soustraits a
+e
+`
+l’administration locale » (MacLeod 2004) sont
+un modele d’autonomisation des citoyens et des
+`
+quartiers qui pourrait bien engendrer un
+dsengagement plutot qu’un rengagement
+e
+ˆ
+e
+´
+envers l’Etat (Flint 2006a, p. 24). Tout en
+s’inscrivant dans la gouvernance de proximit
+e
+encourage par le gouvernement britannique
+e
+par exemple, ces pratiques remettent en
+question l’existence d’un intret commun a
+e ˆ
+`
+l’chelon des municipalits ainsi que la volont
+e
+e
+e
+de faire socit (Crawford 2003, p. 501).
+ee
+
+415
+
+caroline guibet lafaye
+De meme, les efforts mens pour mettre en place une participation
+ˆ
+e
+politique locale, fonde sur l’engagement participatif des habitants,
+e
+dans une commune comme Aubervilliers vise a initier un processus de
+`
+rafﬁliation politique et, au-dela, a recrer du lien social ou un lien
+e
+e
+` `
+social plus englobant (Bacqu et Sintomer 201, p. 240 sq.) Dans la ville
+e
+d’Evry, l’objectif majeur du contrat ville est la lutte contre l’exclusion,
+associe a une exigence de dmocratie locale. Les structures mises en
+e `
+e
+place ont pour ambition de retisser un lien au travers de la
+participation citoyenne. Les associations contribuent galement a
+e
+`
+cette reconstitution du lien social en mobilisant l’autonomie et la
+crativit des habitants du quartier (Muller et Tengour 2000). Elles
+e
+e
+insistent sur la notion de responsabilit : les adhrents doivent
+e
+e
+s’investir, s’approprier les locaux et utiliser leur nergie cratrice.
+e
+e
+Parallelement, existent des systemes de solidarit de voisinage,
+e
+`
+`
+ethniques, de compagnonnage et de convivialit qui permettent de
+e
+maintenir la cohsion sociale dans les quartiers par l’entraide,
+e
+l’change de biens et de services, consolidant ainsi la communaut.
+e
+e
+La cohsion sociale des quartiers qui entrent dans le Dveloppement
+e
+e
+social des quartiers (DSQ) est galement organise autour d’une
+e
+e
+solidarit de voisinage et d’une identit locale.
+e
+e
+La volont publique de crer davantage de cohsion convoque les
+e
+e
+e
+outils de la participation politique et de l’« empowerment » des
+e
+citoyens56. Dans tous les pays europens, la participation des
+habitants est prsente comme un objectif essentiel. L’intensiﬁcation
+e
+e
+de la cohsion sociale passe par l’accroissement de la participation de
+e
+chacun dans la socit civile, ce qui produit a la fois des rsultats
+ee
+e
+`
+sociaux additionnels et un rseau d’associations, qui cooperent plus
+e
+`
+facilement dans d’autres domaines tout en proposant des alternatives
+dans les facons de faire (Putnam 1995, 2000). En France, la
+¸
+participation des habitants, dont on attend qu’elle induise un
+surcroıt de cohsion sociale et de sentiment d’appartenance
+ˆ
+e
+individuel a la communaut politique, est, depuis le rapport
+e
+`
+Dudebout (1993), une injonction des ministeres publics. Elle est
+`
+rafﬁrme dans les trois lois autour desquelles s’ordonne la politique
+e
+e
+de la Ville : la loi d’orientation pour la Ville (1991), le pacte de relance
+de la politique de la Ville (1996), la loi relative a la solidarit et au
+e
+`
+renouvellement urbain (SRU, 2000). La politique de la Ville, en
+France, est mobilise a la fois pour promouvoir la dmocratie
+e `
+e
+56
+L’empowerment dsigne une pratique
+e
+visant a lever la capacit d’action et de
+e
+` e
+dcision des habitants pour les aider a sortir
+e
+`
+
+416
+
+de leurs difﬁcults par leurs propres moyens,
+e
+a augmenter leur pouvoir d’agir sur leur
+`
+espace et leur vie.
+
+cohsion sociale
+e
+participative, dvelopper les liens de proximit et restaurer le lien
+e
+e
+social. Il s’agit de dvelopper des pratiques susceptibles de renforcer
+e
+l’intensit des relations de bon voisinage, d’organiser des
+e
+manifestations, des fetes de quartier, des projets d’amlioration du
+ˆ
+e
+cadre de vie. On considere en effet que le renforcement des liens de
+`
+proximit, l’organisation de petites actions communautaires, vont
+e
+empecher l’individu de basculer dans l’exclusion, et le quartier de se
+ˆ
+dgrader completement ou de devenir une zone de relgation (Bresson
+e
+e
+`
+2007, p. 1224).
+S’agissant de la participation et de l’implication politiques, on
+observe la mise en place, dans des quartiers en difﬁcult, de
+e
+procdures participatives avec des jeunes visant a leur donner une
+e
+`
+capacit d’inﬂuence sur les dcisions politiques et a leur offrir l’acces a
+e
+e
+`
+` `
+certaines sources du pouvoir (Roulleau-Berger 1994, p. 859). De meme,
+ˆ
+les centres sociaux revendiquent de faire merger la citoyennet en
+e
+e
+œuvrant dans la proximit pour intresser les citoyens aux enjeux
+e
+e
+¸
+e e
+politiques (Bresson 2004)57. De facon gnrale, la participation des
+habitants est un objectif afﬁch de la politique de la Ville et de
+e
+l’amnagement du territoire, dans le but de soutenir la cohsion
+e
+e
+sociale et de lutter contre les exclusions urbaines et les banlieues d’exil
+(Dubet et Lapeyronnie 1999). Elle repose sur une interprtation large
+e
+du lien social. Cette injonction a participer, en particulier dans le cadre
+`
+des centres sociaux et socioculturels francais, vise en ralit davantage a
+¸
+e e
+`
+restaurer un lien social minimal avec des populations exclues, qu’a
+`
+dvelopper l’engagement politique et social de citoyens clairs (Bresson
+e
+e
+e
+e
+2004)58. On tient en effet pour acquis, en France, que les lus et les
+associations ont pour mission de « promouvoir le lien social ».
+En Grande-Bretagne, on retrouve galement des politiques
+e
+encourageant la participation des citoyens aux politiques publiques
+et a l’autorglementation (Kearns et Forrest 2000, Forrest et Kearns
+e
+`
+2001, Loughlin, Lux et Martin 2004). On recherche un niveau
+d’implication suprieur des citoyens dans le secteur priv et
+e
+e
+associatif et l’on vise a promouvoir des communauts autoe
+`
+nomes grace a des structures de gouvernance de proximit (Local
+ˆ
+e
+`
+57
+Dans la charte fdrale des centres
+e e
+sociaux et socioculturels de France, adopte
+e
+par l’Assemble gnrale d’Angers (17-18
+e
+e e
+juin 2000), la dmocratie est l’une des trois
+e
+valeurs de rfrence nonces. Elle est pense
+ee
+e
+e
+e
+en termes de dmocratie participative,
+e
+suggrant ainsi l’implication des adhrents
+e
+e
+et des bnvoles dans l’organisation des
+e e
+
+services de proximit (garderies d’enfants,
+e
+centres de runion, activits sociales et
+e
+e
+culturelles de toutes sortes).
+58
+Maryse Bresson a travaill dans le
+e
+Nord-Pas-de-Calais ou l’on recensait, en
+`
+2003, plus de 120 centres sociaux, dont
+90 % taient a gestion associative.
+e
+`
+
+417
+
+caroline guibet lafaye
+Government Association, 2004). Ce passage de la gouvernance
+tatique a la gouvernance communautaire (Flint 2006b) repose aussi
+e
+`
+sur des mesures visant a encourager l’autonomie, la reprsentation,
+e
+`
+l’empowerment et la responsabilit des citoyens et des communauts
+e
+e
+qui s’autorglementent (Rose 1999). Ainsi le gouvernement travailliste
+e
+pense-t-il pouvoir refonder le lien politique en suscitant de nouveaux
+comportements (Rose 1999, Field 2003). De la meme facon, la loi en
+ˆ
+¸
+France sur la dmocratie de proximit (2002) faisait de la participation
+e
+e
+des citoyens une condition cardinale du succes de la gouvernance
+`
+locale (Loughlin, Lux et Martin 2004). En Grande-Bretagne, cet
+appel a la participation active des citoyens constitue une voie et un
+`
+moyen de la ralisation d’objectifs gouvernementaux59.
+e
+De meme dans les villes allemandes, ont t mis en place des
+ˆ
+ee
+programmes Soziale Stadt insistant sur le role de l’engagement
+ˆ
+civique et de la participation locale dans les politiques des villes
+(Mayer 2006). L’accent est port sur la qualit de citoyen actif et sur
+e
+e
+l’action sociale locale60. Il s’agit explicitement de promouvoir la
+cohsion sociale puisque le programme Soziale Stadt vise a
+e
+`
+amliorer les conditions de vie des rsidants dans des quartiers
+e
+e
+dgrads grace a une « politique de dveloppement urbain efﬁcace
+e
+e
+ˆ
+e
+`
+qui favorise l’intgration » (D€hne et Kurt 1999, p. 25). Ce programme
+e
+o
+est comparable a ceux mis en place dans d’autres pays europens
+e
+`
+depuis les annes 1980, notamment en Grande-Bretagne la National
+e
+Strategy for Neighborhood Renewal et, en France, la politique de
+dveloppement social des quartiers ou les rgies des quartiers. Ces
+e
+e
+programmes visent la responsabilisation et l’empowerment des groupes
+dmunis vivant dans des quartiers prcis et, de ce fait, une meilleure
+e
+e
+cohsion au sein des villes (Mayer 2006, p. 39)61. On veut penser que
+e
+
+59
+«
+Un
+lment
+ee
+important
+de
+l’amlioration durable des services publics
+e
+et de la participation des citoyens aux
+institutions du gouvernement consiste a
+`
+offrir et a mettre au point des activits a
+e `
+`
+l’chelon du quartier, mobilisant ainsi
+e
+l’intret des gens envers les questions
+e ˆ
+locales, qui touchent leur vie quotidienne »
+(ODPM 2005).
+60
+Ce type de mesure s’inscrit dans une
+reconﬁguration d’ensemble des politiques
+´
+sociales allemandes ou l’ « Etat activateur »
+`
+doit promouvoir et faciliter l’action de ses
+citoyens plutot que leur offrir des mesures
+ˆ
+sociales renforcant leur passivit.
+¸
+e
+
+418
+
+61
+Cette forme d’empowerment est un objectif
+afﬁrm du programme Soziale Stadt qui
+e
+dplore que « les rsidants ne participent
+e
+e
+pratiquement pas a la vie politique ». Ce
+`
+programme a comme objectif principal de
+« motiver les rsidants a participer aux projets,
+e
+`
+a s’engager dans les associations et a s’organiser
+`
+`
+eux-memes sur une base permanente »
+ˆ
+(ARGEBAU 2000, site visit le 27 avril 2009).
+e
+Tous les L€nder ont souscrit a cet objectif.
+a
+`
+Certains le ralisent en mettant en place des
+e
+structures de participation, tandis que d’autres
+s’emploient davantage a rendre les citoyens plus
+`
+actifs
+individuellement
+(Institut
+f€ r
+u
+Stadtforschung und Strukturpolitik (IfS) 2004.
+
+cohsion sociale
+e
+ces politiques induiront des amliorations conomiques et sociales
+e
+e
+dans le quartier mais galement en termes de cohsion sociale et de
+e
+e
+participation dmocratique (Mayer 2006, p. 39). La participation
+e
+incarne un idal de promotion de la solidarit et du lien social.
+e
+e
+Les formes prises par ces politiques, dans l’ensemble europen,
+e
+rvelent donc une certaine homognit ainsi qu’un corpus relativement
+e `
+e e e
+cohrent de pratiques (Baillergeau 2007)62. Ces dynamiques que l’on
+e
+´
+retrouve dans plusieurs pays europens ainsi qu’aux Etats-Unis (Bacqu
+e
+e
+2006), s’inscrivent dans des politiques dont l’une des proccupations
+e
+majeures est la cohsion sociale et la rduction de l’exclusion sociale.
+e
+e
+Leur ambition a toutes est de restaurer le lien social63. Un changement
+`
+d’accent est en effet perceptible dans la smantique des politiques
+e
+publiques qui mobilisent moins les termes traditionnels de « pauvret »
+e
+et d’« galit » que d’« exclusion sociale » et de « cohsion sociale ».
+e
+e
+e
+Elles reposent sur le postulat selon lequel l’exclusion sociale sera
+mieux combattue en faisant travailler les personnes en difﬁcult
+e
+aptes au travail, en intgrant les bnﬁciaires d’aide sociale dans des
+e
+e e
+programmes de recherche d’emploi ainsi que dans des structures
+participatives locales.
+Toutefois, en France en particulier, il s’agit plutot de « traiter les
+ˆ
+lieux », en ce sens que la politique de la ville promeut indirectement
+seulement la participation des habitants (Bresson 2007, p. 125). En
+effet, les themes de la participation et de la « restauration » du lien
+`
+social, ou de la dynamisation urbaine ne sont poss en France ni sous
+e
+´
+l’angle des communauts, comme aux Etats-Unis, ni sous celui du
+e
+voisinage comme aux Pays-Bas. Ils convoquent plutot une
+ˆ
+reprsentation du rapport entre l’individu et la socit et/ou entre
+e
+ee
+´
+l’individu et l’Etat ou le rgime politique ainsi qu’une reprsentation
+e
+e
+du lien politique au sens de la cit ou des citoyens appartenant a un
+e
+`
+meme territoire. Autrement dit, l’ambition de la politique de la ville
+ˆ
+n’est pas de restaurer ou de favoriser des liens sociaux pour les
+groupes ou pour les individus, mais de restaurer le lien social, la
+cohsion sociale ou la solidarit au sens durkheimien (Bresson 2007,
+e
+e
+62
+Notre propos n’est pas ici de juger de
+leur lgitimit ou de leur a-propos mais de
+e
+e
+`
+souligner le recours massif des politiques
+publiques et sociales a ce type d’instruments.
+`
+63
+Il s’agit galement de dvelopper une
+e
+e
+intervention de « proximit » (Breviglieri
+e
+2005), au contact direct des destinataires des
+politiques sociales, en tenant compte de leurs
+difﬁcults et de leurs aspirations, en essayant
+e
+
+de rduire la distance qui la spare de la
+e
+e
+socit. Enﬁn il s’agit de promouvoir la
+ee
+« participation » des personnes concernes
+e
+par ces politiques sociales, de susciter leur
+implication dans la mise en œuvre de ces
+dernieres, de susciter les initiatives manant
+e
+`
+des citoyens, de dvelopper les pratiques
+e
+associatives en vue de contribuer au mieuxetre collectif (Baillergau 2007).
+ˆ
+
+419
+
+caroline guibet lafaye
+p. 125), c’est-a-dire de « faire socit »64. L’idal de la participation,
+ee
+e
+`
+sur lequel est fonde la politique de la ville, place en son cœur le lien
+e
+politique, le « pacte civil » dont on juge que, dans certaines zones
+gographiques, il est mis en difﬁcult, faisant des lors naıtre une
+e
+e
+ˆ
+`
+menace pour la cohsion sociale, pour l’avenir de la nation et donc
+e
+pour l’avenir du rgime dmocratique65. De la sorte, les enjeux
+e
+e
+politiques, sociaux et urbains, au niveau national et de proximit,
+e
+s’entremelent (Bresson 2007, p. 125). Le pari de la politique de la Ville
+ˆ
+en France consiste indissociablement a lutter contre les exclusions, a
+`
+`
+refaire du lien social et politique, a refaire la ville, en dveloppant des
+e
+`
+liens de proximit dans les quartiers, en mobilisant les habitants pour
+e
+participer a la transformation de leur cadre de vie et en initiant des
+`
+dbats et des rencontres pour faire « remonter la parole des habitants ».
+e
+Il est certain que ces politiques, prsentes dans nombre de pays
+e
+occidentaux, ne vont pas sans poser de difﬁcults puisque la gestion
+e
+communautaire, susceptible de s’associer a une solidarit spontane,
+e
+e
+`
+peut accroıtre la solidarit dans un milieu de vie au dtriment de la
+ˆ
+e
+e
+cohsion nationale. L’incitation a crer des quartiers comme lieux de
+e
+` e
+mobilisation des citoyens est susceptible d’affaiblir plutot que de
+ˆ
+renforcer l’identiﬁcation de ces derniers avec des domaines publics
+plus larges.
+Le modele du contrat politique ou du contrat social fond sur un
+e
+`
+engagement politique peut aussi bien etre mobilis dans une
+ˆ
+e
+perspective formaliste66 que dans une perspective substantialiste.
+Dans ce dernier cas, il impliquera un consensus axiologique diffus et
+fort sur la lgitimit des conventions, des valeurs et des objectifs que
+e
+e
+se donne le groupe social considr. Apprhend dans une perspective
+e e
+e
+e
+substantialiste, le modele contractualiste politique a partie lie avec le
+e
+`
+modele axiologique de la cohsion sociale. En revanche, rduit a sa
+e
+e
+`
+`
+dimension formelle, il ne prsuppose aucune communaut de valeurs
+e
+e
+partages. La cohsion sociale implique seulement une conformit
+e
+e
+e
+formelle a un ordre social, c’est-a-dire un respect des regles qui
+`
+`
+`
+structurent et organisent la vie sociale, politique voire conomique.
+e
+64
+La reformulation de l’idal de cohsion,
+e
+e
+de justice ou de solidarit dans un discours
+e
+sur le lien social, ainsi que son explicitation
+en rfrence a la proximit et a la localit, lui
+ee
+e `
+e
+`
+conferent au moins une densit empirique,
+e
+`
+un surcroıt de scientiﬁcit et, de ce fait, une
+ˆ
+e
+tonalit moins idaliste (Gesnetier 2006,
+e
+e
+p. 28).
+65
+Dans cette reprsentation du lien
+e
+
+420
+
+social dfaillant, ce ne sont pas tant les
+e
+relations de proximit entre des habitants
+e
+obligs de vivre ensemble – parce qu’ils
+e
+n’ont pas les moyens d’habiter ailleurs –
+qu’il faudrait promouvoir mais le vivre
+ensemble dans des lieux communs, comme
+les lieux publics.
+66
+Comme dans le libralisme politique et
+e
+la philosophie politique rawlsienne.
+
+cohsion sociale
+e
+Elle ne dpend pas de l’identit ou de l’homognit des valeurs et des
+e
+e
+e e e
+opinions, des croyances et des styles de vie ni du prsuppos selon
+e
+e
+lequel les individus devraient s’y conformer.
+
+`les
+IV. Les mode mixtes
+`le
+1. Mode axiologique
+Cette dimension substantialiste nourrit, comme telle, un modele
+`
+spciﬁque de cohsion sociale ou se conjuguent les perspectives
+e
+e
+`
+socitales et individualistes. La cohsion consiste alors dans le fait
+e
+e
+de partager, pour les individus, une communaut de valeurs. Elle
+e
+reﬂete et dpend d’un consensus sur la lgitimit des conventions, des
+e
+e
+e
+`
+normes et des objectifs que se donne la socit67. Auguste Comte
+ee
+(1839), par exemple, juge que l’accord des esprits est ncessaire pour
+e
+former une socit : il ne peut y avoir de socit que dans la mesure
+ee
+ee
+ou ses membres partagent les memes croyances et qu’existe
+ˆ
+`
+une homognit des convictions et des conduites68. Le modele
+e e e
+`
+axiologique de cohsion se trouve convoqu a tous les niveaux de
+e
+e `
+l’organisation sociale. La rfrence a des valeurs partages peut
+ee
+e
+`
+galement etre mobilise dans l’un ou l’autre des modeles
+e
+ˆ
+e
+`
+antrieurement esquisss, quoique de facon secondaire. Le prsent
+e
+e
+¸
+e
+modele prsuppose que les individus adherent, respectent – ou
+e
+`
+`
+s’engagent a respecter – des valeurs, elles-memes lgues par une
+ˆ
+e e
+`
+tradition et propres a l’entit sociale considre. Les deux dimensions
+e
+e e
+`
+prcdemment dissocies convergent ici puisque, pour une part, les
+e e
+e
+valeurs incarnent des jugements normatifs propres a des cultures ou a
+`
+`
+des groupes sociaux (les valeurs sont collectivement partages)69 mais
+e
+pour autant que ces valeurs font l’objet d’un consensus, elles sont le
+
+67
+Dans sa forme radicale, ce modele
+`
+interprtatif revient a penser que l’ordre
+e
+`
+social serait la consquence de valeurs
+e
+pluto que d’intrets, du consensus plutot
+ˆt
+e ˆ
+ˆ
+que du conﬂit.
+68
+De facon comparable, la cohsion d’une
+¸
+e
+socit passe, pour Durkheim, par la mise en
+ee
+place d’une morale taye par des valeurs
+e e
+collectivement partages et rationnellement
+e
+fondes.
+e
+
+69
+L’attrait des valeurs dpend d’une
+e
+valuation et d’une chelle transitive des
+e
+e
+biens, tels qu’ils ont t tablis dans une
+ee e
+culture donne, ou tels qu’ils ont t
+e
+ee
+adopts
+e
+par
+un
+groupe
+particulier
+(Habermas 1995, pp. 114-115). Habermas
+envisage les « valeurs » comme des produits
+sociaux contingents, variant au gr des
+e
+« mondes de la vie ».
+
+421
+
+caroline guibet lafaye
+support d’un accord tacite entre des sujets. La dimension axiologique
+est porte par et rsulte, pour partie, de mcanismes socialement
+e
+e
+e
+intgrateurs (en l’occurrence de mcanismes de production et de
+e
+e
+controle social). Dans cette mesure, ce modele de cohsion sociale
+ˆ
+e
+`
+appartient aux modeles socitaux mais l’engagement qu’il implique de
+e
+`
+la part de chacun en fait galement un modele contractualiste de type
+e
+`
+individualiste. On dmontrerait cette conjonction des perspectives
+e
+socitale et individualiste sur l’engagement en faveur des valeurs des
+e
+dmocraties librales auxquelles la plupart d’entre nous tenons et pour
+e
+e
+lesquelles certains engagent des luttes (Rawls 1993)70.
+Le partage de valeurs communes concerne aussi bien des valeurs
+spciﬁques a un pays qu’a une sous-communaut nationale. On trouve
+e
+e
+`
+`
+un exemple caractris de ce second cas dans le Manifeste in Warande
+e e
+(Pagano, Verbeke et Accaputo 2006) qui justiﬁe la sparation de la
+e
+Flandre du reste de la Belgique au motif que les orientations
+politiques des communauts wallonnes et ﬂamandes sont diffrentes,
+e
+e
+que les valeurs de solidarit ne sont pas interprtes dans les memes
+e
+ee
+ˆ
+termes ni ne suscitent les memes comportements. De facon plus
+ˆ
+¸
+large, l’intgration dans la communaut politique, conditionne
+e
+e
+e
+axiologiquement, s’opere a travers l’acceptation des principes fondateurs
+` `
+´
+´
+de l’Etat par ses membres, en l’occurrence en France des principes de l’Etat
+rpublicain (universalit, galit, laıcit) ou, de facon plus large, des valeurs
+e
+e e
+e ¨ e
+¸
+e
+des dmocraties librales71. Intensiﬁer la cohsion sociale signiﬁe alors
+e
+e
+une adhsion plus forte des individus aux normes de comportement et
+e
+aux normes institues, une telle ambition sous-tendant en France par
+e
+exemple les plus rcentes directives sur l’« ducation civique, juridique et
+e
+e
+sociale » (ECJS)72.
+Une des critiques de taille qui peut nanmoins etre adresse a ce
+e
+ˆ
+e `
+modele est qu’il n’est pas besoin de partager des valeurs communes
+`
+e
+pour qu’existe de la cohsion73. On peut envisager des communauts
+e
+ou le lien social serait fort sans que le diffrend ne soit tu, minimis ou
+e
+e
+`
+
+70
+Des travaux empiriques convoquent
+galement la rfrence aux normes pour
+e
+ee
+mesurer l’intgration de l’immigr dans la
+e
+e
+socit d’accueil (Safi 2006).
+ee
+71
+Voir aussi la thorie du consensus par
+e
+recoupement de Rawls (1993).
+72
+Voir galement le « Socle commun de
+e
+connaissances et de comptences », propos
+e
+e
+par Gilles de Robien en 2006 et paru au
+Journal Ofﬁciel du 12 juillet 2006.
+73
+Voir Guibet Lafaye (2008b) sur
+
+422
+
+l’ducation a la citoyennet dans un contexte
+e
+e
+`
+multiculturaliste et le traitement du multiculturalisme dans des pays comme le Canada
+ou les Pays-Bas. En effet, la reconnaissance
+comme membre d’une socit n’implique pas
+ee
+ncessairement de partager l’ide d’une
+e
+e
+destine ou de valeurs communes, si ce n’est
+e
+celle de la mise en application concrete du
+`
+respect des liberts et des chances de tout un
+e
+chacun (Helly 2002, p. 29).
+
+cohsion sociale
+e
+vacu. Ainsi du point de vue de Benjamin Barber, les assembles
+e
+e
+e
+locales et les forums rgionaux et nationaux sont des lieux ou se
+e
+`
+dploieraient une « dmocratie forte » (participatory democracy), un
+e
+e
+sens de la communaut non consensuel ni conformiste mais amical car
+e
+construit sur le conﬂit, la diffrence et le diffrend (Guibet Lafaye
+e
+e
+2008a). Les citoyens pourraient y discuter leurs dsaccords et, selon
+e
+Barber, prendre conscience de la supriorit des questions collectives
+e
+e
+sur leurs proccupations individuelles.
+e
+`le
+2. Le mode des forces
+Le modele des forces est un modele de type dynamique – par
+`
+`
+opposition a ce que serait un modele mcanique de cohsion fond sur
+e
+e
+e
+`
+`
+l’identit ou la similitude des individus, et prsupposant une
+e
+e
+intgration dﬁnitive de l’individu a la communaut. Le modele
+e
+e
+e
+`
+`
+organique est galement de nature dynamique. Comme nous l’avons
+e
+soulign, les modeles que nous esquissons ne constituent pas des
+e
+`
+principes explicatifs exclusifs les uns des autres. Ce faisant, les
+proprits qui les caractrisent, de facon prdominante, peuvent se
+ee
+e
+¸
+e
+retrouver dans d’autres modeles. Autrement dit, notre propos est de
+`
+e
+distinguer ces modeles en fonction de leurs proprits mais galement
+ee
+`
+par les logiques qu’ils convoquent, pour rendre compte des rapports
+entre les individus et le tout comme des rapports interindividuels,
+ainsi que pour expliquer la cohsion et le fonctionnement social.
+e
+En l’occurrence, la cohsion sociale a t pense comme une force,
+e
+ee
+e
+en particulier comme la rsultante de « forces » individuelles supposes
+e
+e
+inﬂuencer les individus pour rester dans le groupe (Bollen et Hoyle
+1990, p. 481)74. L’attraction interpersonnelle est ici synonyme de
+cohsion. Cette interprtation – pour partie mtaphorique – peut etre
+e
+e
+e
+ˆ
+convoque dans une apprhension de la cohsion sociale d’inspiration
+e
+e
+e
+intgrationniste ou dans une interprtation privilgiant la rfrence au
+e
+e
+e
+ee
+capital social. Elle est sous-jacente a une comprhension de
+e
+`
+l’intgration sociale qui souligne, au-dela de la varit inﬁnie des
+e
+ee
+`
+motivations individuelles, la convergence des comportements qui
+renforce la stabilit des institutions (Ben Rafael 2005, p. 365). Une
+e
+¨
+illustration paradigmatique de ce modele fut offerte par les travaux de
+`
+Festinger et ses collaborateurs mens en psychologie sociale sur de
+e
+petits groupes. Constatant qu’il est souvent difﬁcile de dire quelles
+74
+
+Voir Aussi Back (1950) et Schachter (1952).
+
+423
+
+caroline guibet lafaye
+forces sont les plus importantes ou combien de forces peuvent etre
+ˆ
+mesures pour dterminer correctement la cohsion (Gros et Martin
+e
+e
+e
+1952), Festinger rinterprete la cohsion comme « la rsultante de
+e
+e
+e
+`
+toutes les forces » qui inﬂuencent ou conditionnent les membres a
+`
+rester dans le groupe (Festinger, Schachter et Back 1950, p. 194). La
+cohsion est alors saisie a la fois a partir des forces individuelles et
+e
+`
+`
+comme la rsultante de forces sociales.
+e
+Le modele des forces est bien un modele mixte puisque, pour une
+`
+`
+part, il fait rfrence a des forces qui attirent ou poussent les individus
+ee
+`
+a rester dans le groupe – telle est sa dimension socitale – mais il
+e
+`
+explique par ailleurs la cohsion en rfrence a des forces et a des
+e
+ee
+`
+`
+comportements individuels. Pour autant il ne fait pas reposer
+exclusivement la cohsion sur des comportements individuels, dans
+e
+la mesure ou les individus sont, pour une part, « agis » par des forces
+`
+qui leur sont extrieures, de nature strictement sociale et identiﬁables
+e
+a des proprits de la structure sociale, qui les poussent a l’agrgation
+ee
+e
+`
+`
+ou a la sortie du groupe. Le lien causal entre la communaut et les
+e
+`
+caractristiques individuelles est rciproque, ce qui conﬁrme encore
+e
+e
+l’inscription du modele des forces dans les modeles mixtes
+`
+`
+d’interprtation de la cohsion sociale.
+e
+e
+Apres la reformulation en 1950 par Festinger du concept de
+`
+cohsion, plusieurs chercheurs ont continu de travailler sur les
+e
+e
+forces particulieres qui œuvraient pour maintenir les groupes
+`
+ensemble. Kurt Back se concentre sur la « force de l’attraction que le
+groupe a sur ses membres » (Back 1950, p. 21). Il met ainsi en vidence
+e
+un lien causal qui prend son origine dans l’action de la communaut et
+e
+induit des caractristiques individuelles. Lott rend formellement
+e
+oprationnelle cette force individuelle comme « le nombre et la force
+e
+des attitudes mutuelles positives parmi les membres du groupe » (Lott
+1961, p. 279). Schachter enﬁn dfend l’utilisation de « composant
+e
+d’amiti (friendship component) du champ des forces » comme un
+e
+vecteur (proxy) de cohsion (Schachter 1952, p. 556).
+e
+Dans ces ultimes thorisations de la cohsion sociale en termes
+e
+e
+de forces, l’accent semble port sur la dimension subjective et
+e
+le comportement individuel. On voque par exemple l’amiti.
+e
+e
+Nanmoins la mutualit et le fait que la coopration engendre de la
+e
+e
+e
+conﬁance sont galement des parametres structurels caractrisant le
+e
+e
+`
+groupe, qui justiﬁent l’inscription du paradigme des forces dans les
+modeles mixtes de la cohsion sociale. La conﬁance interne au groupe
+e
+`
+joue le role de force attractive ou captatrice sur les individus qui
+ˆ
+e
+appartiennent a ce groupe. Ce modele prsente toutefois certaines
+`
+`
+424
+
+cohsion sociale
+e
+limites. En particulier l’attraction rciproque entre les membres d’un
+e
+groupe ou l’attraction qu’prouve un individu a l’gard d’un groupe,
+e
+` e
+bien qu’elles soient susceptibles de produire de la cohsion (Lott et
+e
+Lott 1964) ne peuvent, en tant que telle, etre confondues ni avec le
+ˆ
+phnomene de la cohsion ni avec son concept.
+e
+e
+`
+Lorsque l’on voque la cohsion ou le lien social, le discours est
+e
+e
+frquemment celui de la dploration. S’y exprime le regret d’un age d’or
+e
+e
+ˆ
+voire une posture de rsistance contre ce qui advient, en l’occurrence
+e
+face a ce qui passe pour un double pril : la monte de l’individualisme
+e
+e
+`
+postmoderne et la dissolution de la socit industrielle des Trente
+ee
+Glorieuses, que l’on envisage souvent comme la haute poque de
+e
+l’intgration sociale – du fait de la massiﬁcation de la consommation,
+e
+de la « moyennisation » sociale alors obtenue par l’extension du salariat et
+´
+l’affermissement de l’Etat-providence.
+Rsolument distinct de ce discours, notre propos a consist a dgager
+e
+e` e
+les grands axes a partir desquels envisager les modeles interprtatifs de
+e
+`
+`
+la cohsion sociale et, par consquent, a confrer une substance a un
+e
+e
+e
+`
+`
+concept que l’on a jug vague, indtermin, vide (Bernard 1999, p. 48).
+e
+e
+e
+e
+Un moyen d’apprhender la diversit d’acceptions de cette notion est
+e
+de souligner, de facon positive, qu’il n’existe pas de facon unique de
+¸
+¸
+dﬁnir la cohsion sociale. Cette plurivocit n’est toutefois pas
+e
+e
+e
+synonyme d’indtermination. Elle signiﬁe plutot que l’on ne peut
+e
+ˆ
+conclure a la cohsion d’une socit complexe en rfrence a un critere
+e
+ee
+ee
+`
+`
+`
+unique. Ainsi la rfrence a la complmentarit fonctionnelle des
+ee
+e
+e
+`
+positions, dans la socit industrielle, ne peut etre l’unique critere
+ee
+ˆ
+`
+d’apprciation de la cohsion des socits passes ou contemporaines.
+e
+e
+ee
+e
+Elle permet seulement d’afﬁrmer qu’une telle socit est intgre.
+ee
+e e
+Cette typologie devrait galement contribuer a prvenir les
+e
+e
+`
+jugements hatifs sur l’tat de dcohsion qui affecterait les socits
+ˆ
+e
+e
+e
+ee
+contemporaines notamment de la part de ceux qui prendraient pour
+modele et rfrence une reprsentation de la cohsion exclusivement
+ee
+e
+e
+`
+inspire de celle des socits industrielles et pour partie reconstruite
+e
+ee
+a posteriori (Dubet et Martucelli 1998). La typologie prcdemment
+e e
+esquisse permet de saisir une volution temporelle des usages de la
+e
+e
+notion de cohsion sociale ainsi que des politiques publiques
+e
+s’efforcant de la promouvoir. Du dbut du xxe siecle au lendemain
+¸
+e
+`
+de la Seconde Guerre mondiale, les politiques de « cohsion sociale »
+e
+– qui n’en portaient pas le nom – ont consist, dans la plupart des pays
+e
+d’Europe, a adopter des dispositions publiques s’efforcant d’inclure et
+¸
+`
+de protger les travailleurs, de rduire l’extreme pauvret ainsi que les
+e
+e
+ˆ
+e
+425
+
+caroline guibet lafaye
+plus hauts revenus. Apres la Seconde Guerre mondiale, la recherche
+`
+d’une plus grande cohsion sociale a pris forme dans l’adoption de
+e
+dispositifs de protection sociale (chomage, maladie, vieillesse) ou de
+ˆ
+transferts de ressources (allocations familiales, allocations logement).
+Aujourd’hui, les politiques publiques europennes voire norde
+amricaines, visant a engendrer davantage de cohsion, operent a
+e
+e
+`
+`
+`
+une autre chelle et suivant d’autres modalits. Elles prennent en
+e
+e
+particulier la forme de politiques de la Ville ou de politiques visant a
+`
+recrer du tissu social a l’chelle locale. Au niveau national, on
+e
+` e
+retrouve plutot – en France au moins – des politiques a destination
+ˆ
+`
+de populations spciﬁques identiﬁes par leur « manque d’intgration ».
+e
+e
+e
+Ainsi l’agence nationale pour la Cohsion sociale et l’galit des chances,
+e
+e
+e
+cre par la loi n0 2006-396 du 31 mars 2006, concourt-elle a la lutte
+ee
+`
+contre les discriminations et a-t-elle pour objectif l’intgration, sur
+e
+l’ensemble du territoire national, des populations immigres et issues de
+e
+l’immigration rsidant en France. Elle prend galement part aux
+e
+e
+oprations en faveur des habitants des quartiers prioritaires de la
+e
+politique de la Ville dont on a vu l’importance dans les politiques
+d’intgration contemporaines. La typologie propose permet donc de
+e
+e
+saisir et d’apprcier les changements de paradigmes – par exemple le
+e
+passage d’un modele organique a une interprtation de la cohsion
+e
+e
+`
+`
+faisant rfrence a un modele individualiste ou localiste – dans
+ee
+`
+`
+l’interprtation et l’valuation de la cohsion sociale, locale,
+e
+e
+e
+communautaire ou nationale. Elle n’ouvre pas seulement une
+perspective descriptive et statique de la cohsion mais galement une
+e
+e
+apprciation dynamique et volutive de celle-ci.
+e
+e
+
+BIBLIOGRAPHY
+Outre cette bibliographie tres rduite, une plus complete se trouve dans l’dition lectronique.
+e
+e
+` e
+`
+Bacque Marie-Hlene et Yves Sintomer,
+e`
+2001. Affiliations et desaffiliations en
+`e
+banlieue : rflexions a partir des exemples
+e
+`
+de Saint-Denis et d’Aubervilliers, Revue
+francaise de sociologie, 42 (2), pp. 217-249.
+¸
+Buckner J. C., 1988. The development of an
+instrument to measure neighborhood cohesion. American Journal of Community
+Psychology, 16, pp. 771-791.
+
+426
+
+Castel Robert, 1995. Les mtamorphoses de la
+e
+question sociale : une chronique du salariat
+(Paris, Fayard).
+Coleman James, 1988. Social Capital in the
+Creation of Human Capital. The American
+Journal of Sociology Supplment, n0 94.
+e
+Organizations and Institutions: Sociological and Economic Approaches to the Analysis of Social Structure, S 95-S 120.
+
+cohsion sociale
+e
+Delevoye Jean-Paul, 1997. Cohsion sociale et
+e
+territoires. La Documentation francaise.
+¸
+Paris, commissariat gnral du Plan.
+e e
+Donzelot Jacques, 2006. Refonder la
+cohsion sociale. Esprit (Dcembre)
+e
+e
+(www.esprit.presse.fr/review/article.php?
+code513800).
+Dubet Francois et Danilo Martuccelli,
+¸
+1998. Dans quelle socit vivons-nous ?
+ee
+(Paris, Seuil).
+Festinger Leon, Stanley Schachter et Kurt
+W. Back, 1950. Social Pressures in Informal
+Groups: A Study of Human Factors in
+Housing (Chicago, Stanford University
+Press).
+Flint John, 2006a. Stratgies d’empowere
+ment et lutte contre les comportements
+« antisociaux » au Royaume-Uni, Gographie,
+e
+economie, socit, 8 (1), pp. 17-36.
+
+ee
+Granovetter Maks S, 1973. The Strenght
+of Weak Ties. AJS, 78 (6), pp. 13601380.
+Gross Neil et William E. Martin, 1952. On
+Group Cohesiveness. American Journal of
+Sociology, 52, pp. 546-554.
+Helly Denise, 2002. Les limites de la notion
+de cohsion sociale. La Revue Tocqueville
+e
+23 (1), pp. 73-101.
+Jenson Jane, 1998. Mapping Social Cohesion: The State of Canadian Research.
+Canadian Policy Research Network Inc.
+http://www.cprn.org/doc.cfm?doc5180&amp;;
+l5en.
+
+Lin Nan, 2001. Social Capital: A Theory of
+Social Structure and Action. Cambridge:
+Cambridge University Press.
+Lott A. J. et Bernice E. Lott, 1964. Group
+cohesiveness as interpersonal attraction:
+a review of relationship with antecedent
+and consequent variables, Psychological
+Bulletin, pp. 259-309.
+Neveu Catherine, 2004. Une « petite fabrique
+de territoire » : quartiers et citoyennet a
+e `
+Roubaix, Ethnologie francaise, 34 (1), pp.
+¸
+59-66.
+Ponthieux Sophie, 2008. Les analyses du
+capital social : apports et controverses.
+Informations sociales, 3 (147). Rseaux
+e
+sociaux : diversitdes approches, pp. 32-33.
+e
+Putnam Robert, 2000. Bowling Alone: The
+Collapse and Revival of American Community. New edition. Simon &amp; Schuster Ltd.
+Putnam Robert D. Robert Jean Leonardi et
+Raffaella Y. Nanetti, 1973. Making Democracy Work: Civic Traditions in Modern
+Italy. New edition. (Princeton, Princeton
+University Press).
+Roulleau-Berger Laurence, 1994. Ordres et
+dsordres locaux. Des politiques d’insere
+tion aux espaces intermdiaires. Revue
+e
+francaise de science politique, 44 (5), pp.
+¸
+856-880.
+Woolcok M. et D. Narayan, 2000. Social
+capital: implication for development theory, research and policy. The World Bank
+Research Observer, 15 (2), pp. 225-249.
+
+R sum
+e
+e
+
+Zusammenfassung
+
+La rfrence a la cohsion sociale est
+ee
+e
+`
+rcurrente dans les discours politiques. Poure
+tant la notion demeure mal dfinie et
+e
+indtermine. Cet article propose une typoe
+e
+logie des modeles de la cohsion sociale a
+e
+`
+`
+partir de laquelle dfinir les limites et les
+e
+conditions auxquelles un usage pertinent de
+la notion de « cohsion sociale » – pre
+e
+alablement dfinie – est possible. Apres un
+e
+`
+bref rappel des tapes historiques qui ont
+e
+marqu l’introduction de la notion de
+e
+cohsion sociale dans le dbat public, nous
+e
+e
+identifions trois types de modeles de
+`
+cohsion a partir desquels nous proposerons
+e
+`
+une description systmatise des reprsentae
+e
+e
+tions que l’vocation de la cohsion suscite.
+e
+e
+
+Der soziale Zusammenhalt ist integrierter
+Bestandteil der Politik, obwohl vage und
+unbestimmt. Dieser Aufsatz bietet eine Typologie verschiedener Modelle des sozialen
+Zusammenhalts, um seine Grenzen zu definieren und die Bedingungen zu skizzieren,
+die eine sinnvolle Verwendung des Begriffs
+,,sozialer Zusammenhalt’’ – im Vorfeld definiert – erm€glichen. Zuerst werden wir kurz
+o
+die Urspr€ nge des Begriffs des sozialen
+u
+Zusammenhalts in der offentlichen Debatte
+€
+erl€utern, um dann, anhand dreier Modelle
+a
+des Zusammenhalts, die jeweiligen Assoziationen zu untersuchen.
+Schlagw€rter: Sozialer Zusammenhalt; Durko
+heim; Sozialit€t; Sozialkapital; Sozialvertrag.
+a
+
+Mots cls : Cohsion sociale ; Durkheim;
+e
+e
+Sociabilit ; Capital social ; Contrat social.
+e
+
+427
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Affiliations et dèésaffiliations en banlieue : réflexions à partir des exemples de Saint-Denis et d'Aubervilliers</title><author><persName><forename type="first">Marie-Hélène</forename><surname>Bacque</surname></persName></author><author><persName><forename type="first">Yves</forename><surname>Sintomer</surname></persName></author></analytic><monogr><title level="j">Revue française de sociologie</title><imprint><date type="published">2001</date><biblScope unit="volume">42</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="217">217</biblScope><biblScope unit="page" to="249">249</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">The development of an instrument to measure neighborhood cohesion</title><author><persName><forename type="first">J. C.</forename><surname>Buckner</surname></persName></author></analytic><monogr><title level="j">American Journal of Community Psychology</title><imprint><date type="published">1988</date><biblScope unit="volume">16</biblScope><biblScope unit="page" from="771">771</biblScope><biblScope unit="page" to="791">791</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Les métamorphoses de la question sociale : une chronique du salariat</title><editor><persName><forename type="first">Robert</forename><surname>Castel</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Social Capital in the Creation of Human Capital</title><author><persName><forename type="first">James</forename><surname>Coleman</surname></persName></author></analytic><monogr><title level="j">The American Journal of Sociology</title><imprint><date type="published">1988</date><biblScope unit="page" from=" 95">S 95</biblScope><biblScope unit="page" to=" 120">S 120</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Cohésion sociale et territoires</title><editor><persName><forename type="first">Jean-Paul</forename><surname>Delevoye</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Refonder la cohésion sociale</title><author><persName><forename type="first">Jacques</forename><surname>Donzelot</surname></persName></author></analytic><monogr><title level="j">Esprit</title><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Dans quelle société vivons-nous ?</title><editor><persName><forename type="first">François</forename><surname>Dubet</surname></persName></editor><editor><persName><forename type="first">Danilo</forename><surname>Martuccelli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Social Pressures in Informal Groups: A Study of Human Factors in Housing</title><editor><persName><forename type="first">Leon</forename><surname>Festinger</surname></persName></editor><editor><persName><forename type="first">Stanley</forename><surname>Schachter</surname></persName></editor><editor><persName><forename type="first">Kurt W.</forename><surname>Back</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Chicago</pubPlace><date type="published">1950</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Stratégies d'empowerment et lutte contre les comportements « antisociaux » au Royaume-Uni</title><author><persName><forename type="first">John</forename><surname>Flint</surname></persName></author></analytic><monogr><title level="j">Géographie, économie, société</title><imprint><date type="published">2006</date><biblScope unit="volume">8</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="17">17</biblScope><biblScope unit="page" to="36">36</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">The Strenght of Weak Ties</title><author><persName><forename type="first">Maks S</forename><surname>Granovetter</surname></persName></author></analytic><monogr><title level="j">AJS</title><imprint><date type="published">1973</date><biblScope unit="volume">78</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="1360">1360</biblScope><biblScope unit="page" to="1380">1380</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">On Group Cohesiveness</title><author><persName><forename type="first">Neil</forename><surname>Gross</surname></persName></author><author><persName><forename type="first">William E.</forename><surname>Martin</surname></persName></author></analytic><monogr><title level="j">American Journal of Sociology</title><imprint><date type="published">1952</date><biblScope unit="volume">52</biblScope><biblScope unit="page" from="546">546</biblScope><biblScope unit="page" to="554">554</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Les limites de la notion de cohésion sociale</title><author><persName><forename type="first">Denise</forename><surname>Helly</surname></persName></author></analytic><monogr><title level="j">La Revue Tocqueville</title><imprint><date type="published">2002</date><biblScope unit="volume">23</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="73">73</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">JensonJane, 1998. Mapping Social Cohesion: The State of Canadian Research. Canadian Policy Research Network Inc. http://www.cprn.org/doc.cfm?doc=180&amp;;l=en.</title><editor><persName><forename type="first">Jane</forename><surname>Jenson</surname></persName></editor><idno type="uri">http://www.cprn.org/doc.cfm?doc=180&amp;;l=en</idno><imprint><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Social Capital: A Theory of Social Structure and Action</title><editor><persName><forename type="first">Nan</forename><surname>Lin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Group cohesiveness as interpersonal attraction: a review of relationship with antecedent and consequent variables</title><author><persName><forename type="first">A. J.</forename><surname>Lott</surname></persName></author><author><persName><forename type="first">Bernice E.</forename><surname>Lott</surname></persName></author></analytic><monogr><title level="j">Psychological Bulletin</title><imprint><date type="published">1964</date><biblScope unit="page" from="259">259</biblScope><biblScope unit="page" to="309">309</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Une « petite fabrique de territoire » : quartiers et citoyenneté à Roubaix</title><author><persName><forename type="first">Catherine</forename><surname>Neveu</surname></persName></author></analytic><monogr><title level="j">Ethnologie française</title><imprint><date type="published">2004</date><biblScope unit="volume">34</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="59">59</biblScope><biblScope unit="page" to="66">66</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Les analyses du capital social : apports et controverses</title><author><persName><forename type="first">Sophie</forename><surname>Ponthieux</surname></persName></author></analytic><monogr><title level="j">Informations sociales</title><imprint><date type="published">2008</date><biblScope unit="volume">3</biblScope><biblScope unit="issue">147</biblScope><biblScope unit="page" from="32">32</biblScope><biblScope unit="page" to="33">33</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Bowling Alone: The Collapse and Revival of American Community</title><editor><persName><forename type="first">Robert</forename><surname>Putnam</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New edition</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Making Democracy Work: Civic Traditions in Modern Italy</title><editor><persName><forename type="first">Robert D.</forename><surname>Putnam</surname></persName></editor><editor><persName><forename type="first">Robert Jean</forename><surname>Leonardi</surname></persName></editor><editor><persName><forename type="first">Raffaella Y.</forename><surname>Nanetti</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">1973</date></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Ordres et désordres locaux. Des politiques d'insertion aux espaces intermédiaires</title><author><persName><forename type="first">Laurence</forename><surname>Roulleau-Berger</surname></persName></author></analytic><monogr><title level="j">Revue française de science politique</title><imprint><date type="published">1994</date><biblScope unit="volume">44</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="856">856</biblScope><biblScope unit="page" to="880">880</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">Social capital: implication for development theory, research and policy</title><author><persName><forename type="first">M.</forename><surname>Woolcok</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Narayan</surname></persName></author></analytic><monogr><title level="j">The World Bank Research Observer</title><imprint><date type="published">2000</date><biblScope unit="volume">15</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="225">225</biblScope><biblScope unit="page" to="249">249</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

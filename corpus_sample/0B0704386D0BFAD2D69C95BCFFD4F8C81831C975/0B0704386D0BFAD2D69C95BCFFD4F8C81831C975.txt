@@ -1,0 +1,3518 @@
+Math. Nachr. 279, No. 12, 1289 – 1312 (2006) / DOI 10.1002/mana.200310421
+
+Opérateurs d’extension linéaires explicites dans des intersections de
+classes ultradifférentiables
+Pascal Beaugendre∗1
+1
+
+Université de Paris-Sud Mathématiques, Bâtiment 425, 91405 Orsay, France
+Received 3 December 2003, revised 14 June 2004, accepted 18 July 2004
+Published online 7 August 2006
+Mots-clé Jets, ultradifferentiable functions, Beurling classes, Whitney’s extension theorem, Schauder basis,
+Chebyshev polynomials, linear extension operators, Markov’s property
+MSC (2000) 26E10, 41A10, 46E10, 46E15
+B. S. Mityagin a montré que les polynômes de Tchebyshev forment une base de Schauder de l’espace des
+fonctions de classe C ∞ sur l’intervalle [−1,1]. Il en déduit un opérateur linéaire continu d’extension explicite.
+Ces résultats ont été étendus, par A. Goncharov, à des compacts ne satisfaisant pas la propriété de Markov. A
+contrario, M. Tidten a donné des exemples de compacts pour lesquels il n’y a pas d’opérateur linéaire continu
+d’extension. Dans cet article, on généralise ces travaux à des classes de fonctions ultradifférentiables construites
+sur le modèle de l’intersection des classes de Gevrey non quasi-analytiques. On obtient notamment un théorème
+d’extension linéaire dans des classes de Beurling assez grandes.
+B. S. Mityagin proved that the Chebyshev polynomials form a Schauder basis of the space of C ∞ functions
+on the interval [−1,1]. Whereof he deduced an explicit continuous linear extension operator. These results
+were extended, by A. Goncharov, to compact sets without Markov’s property. On the reverse, M. Tidten gave
+examples of compact sets for which there is no continuous linear extension operator. In this paper, we generalize
+these works to the intersections of ultradifferentiable classes of functions built on the model of the non quasianalytic intersection of Gevrey classes. We get, among other things, a Whitney linear extension theorem for
+ultradifferentiable jets of Beurling type.
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1
+
+Introduction
+
+B. S. Mityagin a démontré, dans [12], que les polynômes Tchebyshev forment une base de Schauder absolue de
+l’espace C ∞ ([−1,1]). Il en déduit un opérateur d’extension linéaire explicite, de C ∞ ([−1,1]) dans C ∞ (R).
+On dit que le compact E de Rn vérifie la propriété de Markov lorsqu’il existe deux constantes M > 0 et
+r ≥ 2 telles que, pour tout polynôme Q et pour tout multi-indice (j1 , . . . ,jn ) de longueur j, on ait
+
+
+
+
+∂ j Q(x)
+ ≤ M(deg Q)rj sup |Q(x)| .
+sup  j1
+
+j
+x∈E ∂ x1 . . . ∂ n xn
+x∈E
+Pour des compacts ayant une telle “régularité”, en utilisant une méthode d’interpolation à l’aide de polynômes
+de Lagrange, W. Pawłucki et W. Pleśniak ont donné dans [13] une généralisation du théorème d’extension linéaire
+de Mityagin.
+Des résultats similaires ont été obtenus récemment par A. Goncharov, pour des compacts irréguliers de R ne
+vérifiant pas nécessairement la propriété de Markov. A contrario, M. Tidten a donné un exemple de compact pour
+lequel il n’y a pas d’opérateur linéaire continu d’extension.
+Il est naturel d’étudier ensuite s’il y a des énoncés analogues dans des classes ultradifférentiables, c’est-àdire pour des ensembles de fonctions définis par des conditions de croissance des dérivées. Pour des classes
+de fonctions ultradifférentiables construites sur le modèle de l’intersection des classes de Gevrey non quasianalytiques, on a établi, dans [3], un théorème d’extension de type Whitney. Pour les compacts vérifiant une
+∗
+
+e-mail: pascal.beaugendre@laposte.net, Phone: +33147504890
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1290
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+propriété de Markov et dans de grandes classes, on a démontré un théorème d’extension linéaire. Dans ce nouveau
+travail et toujours dans le cadre de ces classes, on démontre des versions ultradifférentiables des résultats de
+B. S. Mityagin, de A. Goncharov et de M. Tidten.
+Plus précisément, soit φ une fonction convexe croissante sur R+ , nulle en 0 et vérifiant la condition suivante
+lim
+
+t→+∞
+
+φ(t)
+= +∞ .
+t
+
+(1.1)
+
+On considère l’ensemble Iφ ([−1,1]) formé des fonctions f , infiniment dérivables sur [−1,1], vérifiant la condition
+suivante:
+Pour tout a > 0, il existe une constante Na telle que, pour tout x ∈ [−1,1] et tout p ∈ N, on ait
+ (p) 
+f (x) ≤ Na p! exp(φ(ap)) .
+En notant f a la plus petite constante Na réalisant l’inégalité précédente, on définit une famille de normes
+sur Iφ ([−1,1]) qui lui confère une structure d’espace de Fréchet. On définit également l’ensemble Iφ (R), en
+considérant des fonctions infiniment dérivables sur R.
+On démontre d’abord le théorème suivant.
+Théorème A 1) Sous l’hypothèse (1.1), les polynômes Tchebyshev forment une base de Schauder absolue de
+l’espace de Fréchet Iφ ([−1,1]).
+2) Si limu→+∞ uφ(u)
+ln u = +∞, alors, il existe une application linéaire continue U , de Iφ ([−1,1]) dans Iφ (R)
+telle que, pour toute fonction f ∈ Iφ ([−1,1]), et tout x ∈ [−1,1], on ait
+U (f )(x) = f (x) .
+Ensuite on considère deux suites (ak )k≥1 et (bk )k≥1 vérifiant les conditions suivantes.
+• Les suites (ak )k≥1 et (bk − ak )k≥1 décroissent vers 0.
+• b1 ≤ 1 et pour tout entier k ≥ 1, on a ak − bk+1 > 0.
+• Il existe deux constantes C0 ≥ 3 et M > 0 telles que, pour tout k ≥ 1, on ait
+2bk ≤ C0 (bk − ak ) , bk − ak ≤ 2C0 (ak − bk+1 )
+
+et bk+1 − ak+1 ≥ 21−M (bk − ak )
+
+M
+
+.
+
+On définit le compact de Goncharov
+⎛
+⎞
+
+K = {0} ∪ ⎝
+[ak ,bk ]⎠.
+k≥1
+
+Pour ce compact, on remplace la notion de fonction infiniment dérivable sur le compact par celle de jet de
+Whitney et on définit l’espace de jets Iφ (K). On établit alors le résultat suivant.
+Théorème B Si limu→+∞ φ(u)
+u2 = +∞, alors, l’espace de Fréchet Iφ (K) a une base de Schauder absolue
+et il existe une application linéaire continue U , de Iφ (K) dans Iφ (R) telle que, pour tout jet f ∈ Iφ (K), tout
+x ∈ K et tout j ∈ N, on ait
+(U (f ))(j) (x) = f (j) (x) .
+Notons que dans le cas particulier où φ(u) = ua , avec a > 2, Iφ (K) est un espace de Beurling (voir [4]).
+Ce travail est complété par le résultat suivant qui donne un exemple de compact “épais” de R2 pour lequel il
+n’existe pas d’opérateur linéaire continu d’extension.
+φ(u)
+Théorème C On suppose que limu→+∞ u ln(ln
+u) = +∞, alors, il existe une fonction g ∈ Iφ (R) telle que
+g > 0 sur R∗+ et g = 0 sur R− . On pose
+
+
+2
+Kg = (x,y) ∈ [0,1] , 0 ≤ y ≤ g(x) .
+
+	 
+
+Alors il n’existe pas d’opérateur linéaire continu d’extension de Iφ (Kg ) dans Iφ R2 .
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+2
+
+1291
+
+Préliminaires: les polynômes de Tchebyshev
+
+Rappels et notations On note N l’ensemble des entiers naturels et N∗ = N\ {0} et R∗ = R\ {0}. Soit n ∈ N,
+on pose, pour tout x ∈ [−1,1], Tn (x) = cos(n arccos x); c’est le polynôme de Tchebyshev de degré n pour
+l’intervalle [−1,1]. On continuera à le noter Tn (x) lorsqu’il est défini sur R.
+Le coefficient du terme de degré n de Tn est égal à 2n−1 si n > 0; il vaut 1 sinon. Le polynôme Tn (x) possède
+n racines distinctes appartenant à l’intervalle [−1,1].
+En appliquant le théorème de Dirichlet à la fonction t → f (cos t), on établit le théorème suivant qui donne le
+développement de Tchebyshev d’une fonction continûment dérivable.
+Théorème 2.1 Soit f une fonction continûment dérivable sur [−1,1]. On pose
+1
+a0 (f ) =
+2π
+
+
+
+π
+
+−π
+
+(f ◦ cos)(t) dt
+
+et, pour tout n ∈ N∗ ,
+an (f ) =
+
+1
+π
+
+
+
+π
+−π
+
+(f ◦ cos)(t) cos(nt) dt .
+
+Alors, pour tout x ∈ [−1,1], on a
+f (x) =
+
++∞
+
+
+an (f ) Tn (x) .
+
+n=0
+
+De plus, si f est de classes C ∞ , alors cette égalité a lieu pour toutes les dérivées de f .
+d
+En particulier, si P est un polynôme de degré d, on a P (x) = n=0 an (P ) Tn (x).
+Dans toute la suite de ce paragraphe, si f est une fonction continue sur [−1,1], on pose
+f [−1,1] =
+
+sup |f (x)| .
+x∈[−1,1]
+
+Proposition 2.2 (Inégalité de W. A. Markov [5, p. 131] ou [15, p. 123]) Si P est un polynôme de degré au
+plus n, alors, pour tout entier p, on a
+ (p) 
+P 
+≤ T n(p) (1) P [−1,1] .
+[−1,1]
+Corollaire 2.3 Pour tout (n,p) ∈ N2 , on a
+ (p) 
+n2p
+T 
+.
+= T n(p) (1) ≤
+n
+[−1,1]
+p!
+
+(2.1)
+
+Proposition 2.4 ([5, p. 131] ou [15, p. 108]) Si P est un polynôme de degré au plus n, alors, pour tout réel x,
+|x| ≥ 1 et pour tout entier p, on a
+
+ (p) 
+
+P (x) ≤ T n(p) (x)  P 
+[−1,1].
+Enfin, on en déduit facilement la proposition suivante.
+
+
+1
+1
+2
+Proposition 2.5 Si x ∈ −1 − 1+n
+2 , 1 + 1+n2 , alors, pour tout (n, p) ∈ N , on a
+2p
+
+ (p)
+T n (x)  ≤ e2 n .
+p!
+
+www.mn-journal.com
+
+(2.2)
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1292
+
+3
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+Une base de l’espace Iφ([−1,1])
+
+Dans tout ce qui suit, on suppose que φ est une fonction convexe croissante sur R+ , nulle en 0 et vérifiant la
+condition suivante
+lim
+
+t→+∞
+
+φ(t)
+= +∞ .
+t
+
+(3.1)
+
+Notations Soit I un intervalle de longueur non nulle. On considère l’espace de Banach {φ(t), I} formé des
+fonctions f , de classe C ∞ sur I, vérifiant la condition suivante
+ (p) 
+f (x)
+= f {φ(t),I} < +∞ .
+sup sup
+p∈N x∈I p! exp(φ(p))
+On note hφ(t) la fonction définie sur R∗+ en posant, pour tout ρ > 0,
+	
+
+
+hφ(t) (ρ) = inf ρk exp(φ(k)) .
+k∈N
+
+Plus généralement, si α1 ∈ R∗+ et α2 , α3 ∈ R+ , pour tout ρ > 0, on pose
+	
+
+
+hφ(α1 t+α2 )+α3 t ln t (ρ) = inf ρk k α3 k exp(φ(α1 k + α2 )) .
+k∈N
+
+Définition 3.1 Soit F un espace de Fréchet muni d’une famille de semi-normes (.a )a>0 . Soient (xn )n≥0
+une suite d’éléments de F et (xn )n≥0 une suite d’éléments du dual de F . On dit que le système
+
+
+(xn )n≥0 , (xn )n≥0
+est une 
+base de Schauder del’espace F lorsque les deux conditions suivantes sont vérifiées
+(i) (xn )n≥0 , (xn )n≥0 est un système biorthogonal,
+
+(ii) pour tout x ∈ F, on a x = n≥0 xn (x)xn .
+De plus, on dit que cette base est absolue lorsque, pour tout b > 0, il existe deux réels a > 0 et σ > 0 tels que,
+pour tout x ∈ F, on ait
++∞
+
+
+|xn (x)| xn b ≤ σ xa .
+
+n=0
+
+Lemme 3.2 Soit f une fonction appartenant à {φ(t), [−1,1]}. Avec les notations du Théorème 2.1, pour tout
+n ∈ N∗ , on a
+|an (f )| ≤
+
+ou
+
+„ «
+
+16
+4
+hφ(t+2)+t ln t
+f {φ(t),[−1,1]} .
+n
+n2
+
+P r e u v e. Soit n ∈ N∗ et soit r ∈ N∗ . Après r intégrations par parties, on a
+p  π
+(−1)
+(f ◦ cos)(r) (t) cos(nt) dt si r = 2p
+an (f ) =
+πnr −π
+p+1
+
+an (f ) =
+
+(−1)
+πnr
+
+
+
+π
+
+−π
+
+(f ◦ cos)(r) (t) sin(nt) dt
+
+si
+
+r = 2p + 1 .
+
+Or, en utilisant la formule de Faà di Bruno [16], on a
+⎛
+⎞
+js
+r
+r 
+(i)
+(s)
+
+
+
+(cos)
+f
+(cos(t))
+(t)
+(f ◦ cos)(r) (t)
+⎝
+⎠
+=
+CJ,i,r
+r!
+i!
+s!
+s=1
+i=1
+J∈Ji,r
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1293
+
+r
+r
+en posant Ji,r = 	{(j1
+, . . . ,jr ) ∈ Nr , s=1 sjs = r et s=1 js = i}. De plus les constantes CJ,i,r vérifient
+
+r−1
+J∈Ji,r CJ,i,r = i−1 . Il s’ensuit que
+ (i) 
+
+
+f 
+(f ◦ cos)(r) (t) 
+[−1,1]
+r−1
+≤ 2
+≤ f {φ(t),[−1,1]} 2r−1 exp(φ(r)) .
+sup
+sup
+r!
+i!
+t∈R
+0≤i≤r
+
+(3.2)
+
+Donc, pour tout n ∈ N∗ et tout r ∈ N∗ , on a
+|an (f )| ≤
+
+1
+f {φ(t),[−1,1]} 2r r! exp(φ(r)) .
+nr
+
+(3.3)
+
+En prenant r + 2 à la place de r, comme (r + 2)! ≤ rr 2r+2 , on obtient
+|an (f )| ≤
+
+16
+n2
+
+ r
+4
+f {φ(t),[−1,1]} rr exp(φ(r + 2)) .
+n
+
+Il suffit de minimiser par rapport à r pour conclure.
+Lemme 3.3 Pour tout a ∈ R∗+ et tout n ∈ N∗ , on a
+hφ(a(t+2))+t ln t
+
+„ «
+„
+«
+exp(φ(2a))
+4
+1
+	 1 
+ hφ(8at)+2t ln t 2 2 .
+≤
+n
+e n
+hφ(at) 8e
+
+P r e u v e. Soit a un réel strictement positif. Pour tout entier p, on a p+2 ≤ max (2,3p) et donc φ(a(p + 2)) ≤
+φ(2a) + φ(3ap). Comme φ(3ap) + φ(ap) ≤ φ(4ap), on a
+ p
+p
+ p p  1 p2
+4
+(8e)
+p
+exp(φ(2a))
+exp(φ(a(p + 2))) ≤
+exp(φ(4ap))
+n
+2
+e 2 n2
+exp(φ(ap))
+p
+
+et donc
+
+ p
+ p p  1  p2
+4
+exp(φ(2a))
+	1
+ .
+p
+exp(φ(a(p + 2))) ≤
+exp(φ(4ap))
+n
+2
+e 2 n2
+hφ(at) 8e
+p
+
+On conclut en remarquant que
+
+inf
+
+p∈N
+
+1
+e 2 n2
+
+p2  
+p p
+exp(φ(4ap)) =
+2
+
+
+
+p
+
+1
+ 2p
+inf1
+p
+exp(φ(8ap ))
+2 2
+p ∈ 2 N e n
+
+p
+1
+≤ inf
+p2p exp(φ(8ap)) .
+p∈N e2 n2
+
+
+Définition 3.4 On considère l’intersection Iφ ([−1,1]) = a>0 {φ (at) , [−1,1]} et, pour alléger les notations,
+on pose .{φ(at),[−1,1]} = .a . Alors Iφ ([−1,1]) est un espace de Fréchet.
+
+
+Théorème 3.5 Le système (Tn )n≥0 , (an )n≥0 est une base de Schauder absolue de l’espace de Fréchet
+Iφ ([−1,1]).
+
+
+P r e u v e. Il est clair que le système (Tn )n≥0 , (an )n≥0 est biorthogonal et on sait déjà que
+f =
+
++∞
+
+
+an (f ) Tn ,
+
+n=0
+
+au sens de la convergence simple (c’est une conséquence du Théorème 2.1).
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1294
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+Si n ∈ N∗ , en utilisant la majoration (2.1), on a
+Tn 8a ≤
+
+sup 	
+
+0≤p≤n
+
+
+
+2
+1 p
+(p!)
+n2
+
+1
+exp(φ(8ap))
+
+≤
+
+sup 	
+
+0≤p≤n
+
+
+p
+1
+p2p
+e2 n2
+
+1
+exp(φ(8ap))
+
+et donc
+Tn 8a ≤
+
+1
+hφ(8at)+2t ln t
+
+	
+
+1
+e2 n2
+
+
+.
+
+Ensuite, avec les Lemmes 3.2 et 3.3, on obtient
++∞
+
+
++∞
+
+1
+exp(φ(2a))
+	 1 
+ f a
++ |a0 (f )|
+2
+n
+hφ(at) 8e
+n=1
+
+
+8π 2 exp(φ(2a))
+	 1 
+ + 1 f a .
+≤
+3 hφ(at) 8e
+
+|an (f )| Tn 8a ≤ 16
+
+n=0
+
+Remarques 3.6 Dans ce théorème, (3.1) est la seule hypothèse sur la vitesse de croissance de φ.
+G. I. Balikov a prouvé dans [1] un résultat analogue pour des classes définies par des limites inductives. Dans
+ce cas, il a établi que les polynômes de Jacobi forment une base de l’espace des fonctions ultradifférentiables sur
+[−1,1].
+Pour les classes de Beurling–Komatsu, H. J. Petzsche a montré dans [14] que les polynômes de Tchebyshev
+ne forment pas, en général, une base de Schauder de l’espace des fonctions ultradifférentiables sur [−1,1]. On
+pourra aussi consulter [11].
+
+4
+
+Extension linéaire de Iφ([−1,1]) dans Iφ (R)
+
+
+Définition 4.1 On considère l’intersection Iφ (R) = a>0 {φ(at), R} et, s’il n’y a pas ambiguı̈té, on pose
+.{φ(at),R} = .a . On désigne par R[−1,1] l’application de restriction, de Iφ (R) dans Iφ ([−1,1]). On dit que
+l’espace de Iφ ([−1,1]) a la propriété d’extension linéaire lorsqu’il existe une application linéaire continue U , de
+Iφ ([−1,1]) dans Iφ (R), telle que R[−1,1] ◦ U = id. Ici id désigne l’application identité sur Iφ ([−1,1]).
+La proposition suivante est une conséquence immédiate du Théorème 3.5.
+Proposition 4.2 Les conditions suivantes sont équivalentes.
+1) L’espace Iφ ([−1,1]) a la propriété d’extension linéaire.
+	 
+
+2) Il existe une suite de fonctions Tn n≥0 , appartenant à Iφ (R), vérifiant
+
+• pour tout n ∈ N, on a Tn 
+= Tn ,
+[−1,1]
+
+• pour tout α > 0, il existe deux réels β > 0 et Dα > 0 tels que, pour tout n ∈ N, on ait
+ 
+Tn  ≤ Dα Tn β .
+α
+Théorème 4.3 On suppose que φ vérifie la condition
+lim
+
+u→+∞
+
+φ(u)
+= +∞ .
+u ln u
+
+(4.1)
+
+Alors l’espace Iφ ([−1,1]) a la propriété d’extension linéaire.
+P r e u v e. D’après [3, Proposition 4.2], il existe une fonction ψ convexe sur R+ , croissante, nulle en 0 et
+vérifiant les deux conditions suivantes:
+ +∞
+dt
+ < +∞ ,
+
+
+(4.2)
+1
+t exp ψ(t)
+t
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1295
+
+pour tout a > 0, il existe Ca > 0 tel que, pour tout p ∈ N, on ait
+(4.3)
+exp(ψ(p)) ≤ Ca exp(φ(ap)) .
+ +∞
+dt
+. Comme dans [3, Lemme 3.1.1] ou [10, Théorème 1.3.5], pour tout entier
+On pose Cψ = 1 + 1
+ψ(t)
+t(exp( t ))
+
+
+1
+1
+n, il existe une fonction un de classe C ∞ sur R, positive, à support dans −1 − 1+n
+2 , 1 + 1+n2 , égale à 1 sur
+[−1,1] vérifiant la condition suivante:
+
+
+	
+
+
+
+	
+2 p
+
+Pour tout p ∈ N et tout x ∈ R, on a u(p)
+p! exp(ψ(p)) .
+n (x) ≤ 2Cψ 1 + n
+Alors, en utilisant la formule de Leibniz et l’inégalité (2.2), pour tout x ∈ R, on a
+ p  
+
+ p
+
+
+
+
+
+(Tn un )(p) (x) = 
+(x)
+T n(l) (x)u(p−l)
+n
+
+
+l
+l=0
+p  
+
+	
+
+
+p−l
+p 2 n2l 	
+≤
+2Cψ 1 + n2
+(p − l)! exp(ψ(p − l))
+e
+l
+l!
+l=0
+
+p
+
+	
+
+
+p−l
+n2l 	
+2Cψ 1 + n2
+l!2
+l=0
+
+p
+p	
+≤ p! exp(ψ(p))e2 (2Cψ ) 1 + 2n2 .
+
+≤ p! exp(ψ(p))e2
+
+Soit α > 0, pour tout n > 0, on a
+
+
+	
+
+p
+sup (Tn un )(p) (x) ≤ p! exp(ψ(p))e2 6Cψ n2 .
+x∈R
+
+Si p > 0, on écrit l’inégalité (3.3) avec f = Tn , r = 2p et la norme Tn  α . Comme an (Tn ) = 1, on obtient
+n2p
+
+ “ ”
+α
+≤ Tn  α 22p (2p)! exp φ
+p
+4
+
+4
+
+2
+
+et on constate que cette dernière inégalité est vraie si p = 0. Il s’ensuit que
+	
+	 
+
+
+
+
+p
+ (Tn un )(p) (x) 
+e2 (24Cψ ) (2p)! exp ψ(p) + φ α2 p
+
+
+Tn  α .
+sup 
+ ≤
+4
+exp(φ(αp))
+x∈R p! exp(φ(αp))
+	 	 
+
+
+Or, avec les notations de (4.3), on a exp(ψ(p)) ≤ C α4 exp φ α4 p et donc
+	 	 
+
+	 
+
+
+
+
+p
+ (Tn un )(p) (x) 
+e2 (24Cψ ) (2p)! exp φ α4 p + φ α2 p
+
+
+Tn  α .
+sup 
+ ≤ C α4
+4
+exp(φ(αp))
+x∈R p! exp (φ (αp))
+Notons que la majoration précédente est vraie pour n = 0. 
+
+α
+(24Cψ )p (2p)! exp(φ( α
+4 p)+φ( 2 p))
+Ensuite, comme l’hypothèse (4.1) implique que la suite
+est bornée, on
+exp(φ(αp))
+p≥0
+	 
+
+en déduit que la famille Tn n≥0 = (Tn un )n≥0 satisfait à la condition 2) du Théorème 4.2.
+Remarques 4.4 On dit qu’un ensemble compact K de R vérifie la propriété de Markov lorsqu’il existe deux
+réels r ≥ 2 et M > 0 tels que, pour tout polynôme Q et pour tout entier j, on ait
+
+
+rj
+sup Q(j) (x) ≤ M (deg Q) sup |Q(x)| .
+x∈K
+
+x∈K
+
+Comme l’intervalle [−1,1] vérifie cette propriété, le théorème précédent est un cas particulier de [3, Théorème
+8.8].
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1296
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+On a également établi dans [3] que l’application de restriction R[−1,1] de Iφ (R) dans Iφ ([−1,1]) est surjective,
+si et seulement si, la fonction φ vérifie la condition suivante:
+lim
+
+u→+∞
+
+φ(u)
+= +∞ .
+u ln(ln u)
+
+La condition (4.1) impose une croissance plus forte à la fonction φ.
+Pour l’intersection des classes de Gevrey non quasi-analytiques, c’est-à-dire lorsque la fonction φ est définie
+par φ(t) = t ln(1 + t), l’espace Iφ ([−1,1]) n’a pas la propriété d’extension linéaire. On ne sait pas si la condition
+(4.1) est nécessaire pour qu’il possède cette propriété.
+Dans [2], G. I. Balikov a donné un résultat d’extension linéaire analogue pour les classes définies dans [1].
+
+5
+
+Jets sur le compact de Goncharov
+
+L’objet de ce paragraphe est l’obtention de résultats similaires à ceux des paragraphes 3 et 4 pour un compact de
+R qui ne vérifie pas nécessairement la propriété de Markov. Il s’agit de versions ultradifférentiables de théorèmes
+établis, pour la régularité C ∞ , par A. Goncharov dans [7], [8] et [9].
+Comme les compacts qui interviennent dans ce paragraphe ne sont pas réguliers au sens de Whitney, pour
+définir l’espace Iφ (K), on a recours à la notion de jets.
+5.1 Définitions
+Ici φ désigne une fonction convexe croissante sur R+ , nulle en 0 et vérifiant
+	
+
+la condition (3.1).
+Soit K un compact de R. Un jet f sur K est la donnée d’une suite f (j) j≥0 de fonctions continues sur K à
+valeurs dans R.
+Soient p ∈ N, j ∈ N tels que j ≤ p et (ζ, x) ∈ K 2 . On définit le reste de Taylor Rζj,p f (x) par
+Rζj,p f (x) = f (j) (x) −
+
+p−j
+
+1
+(x − ζ)k f (j+k) (ζ) .
+k!
+k=0
+
+L’espace {φ(t), K} est formé des jets f sur K vérifiant la condition suivante:
+⎧
+⎫
+
+ j,p
+ (p) 
+⎪
+⎪
+⎨
+⎬
+R f (x)
+f (x)
+ζ
+= f {φ(t),K}
+, sup sup
+sup max sup
+p+1−j
+⎪
+⎪
+p∈N
+⎩x∈K p! exp(φ(p)) j; j≤p (ζ,x)∈K 2 j! exp(φ(p + 1)) |ζ − x|
+⎭
+ζ=x
+
+< + ∞.
+On note Iφ (K) l’espace de Fréchet formé des jets appartenant à {φ(at), K}, pour tout a > 0 et on pose
+.{φ(at),K} = .a .
+5.2 Notations
+On considère deux suites (ak )k≥1 et (bk )k≥1 vérifiant les conditions suivantes:
+• Les suites (ak )k≥1 et (bk − ak )k≥1 décroissent vers 0.
+• b1 ≤ 1 et pour tout entier k ≥ 1, on a ak − bk+1 > 0.
+• Il existe deux constantes C0 ≥ 3 et M > 0 telles que, pour tout k ≥ 1, on ait
+2bk ≤ C0 (bk − ak ) , bk − ak ≤ 2C0 (ak − bk+1 )
+
+et bk+1 − ak+1 ≥ 21−M (bk − ak )M .
+
+Puis on définit le compact de Goncharov
+⎛
+⎞
+
+K = {0} ∪ ⎝
+Ik ⎠
+k≥1
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1297
+
+avec, pour tout k ≥ 1, Ik = [ak ,bk ].
+k
+k
+, xk = ak +b
+et hk = ak − bk+1 puis on choisit b0 et δ0 tels que
+Dans tout ce qui suit, on pose δk = bk −a
+2
+2
+M
+l’on ait δ0 ≤ 1 ≤ b0 ≤ C0 δ0 , δ0 ≤ C0 h0 et δ0 ≤ δ1 . Alors, pour tout entier k, on a
+bk ≤ C0 δk , δk ≤ C0 hk
+
+et δk+1 ≥ δkM .
+
+5.3 Série de Tchebyshev adaptée au compact de Goncharov ([8])
+Pour tout (n,k) ∈ N × N∗ , on note Tn,k le polynôme de Tchebyshevde degré
+ n associé à l’intervalle [xk − δk ,
+
+xk + δk ]. C’est-à-dire que l’on pose, pour tout x ∈ R, Tn,k (x) = Tn
+
+x−xk
+δk
+
+.
+
+L’application qui à un jet f appartenant à Iφ (K) associe f (0) est injective. De plus les fonctions f (p) sont les
+f (0)
+dérivées successives de f (0) sur K\ {0}. On identifie alors le jet f à sa première fonction
+
+.
+Dans tout ce qui suit l’application l de N∗ dans N est définie en posant l(k) =
+fonction partie entière. Pour tout k ∈ N∗ , on a
+
+− ln(δk )
+ln(4C0 )
+
+. Ici [ . ] désigne la
+
+≤ δk−1 et l(k) ≤ δk−1 .
+	
+
+
+On considère la famille T n,k (n,k)∈N×N∗ formée des fonctions définies sur K de la façon suivante.
+• Pour tout (n,k) ∈ N × N∗ , n < l(k),
+
+T n,k = χ[0,b ]∩K Tn,k 
+(4C0 )
+
+l(k)
+
+k
+
+(5.1)
+
+K
+
+∗
+
+• Pour tout (n,k) ∈ N × N , n ≥ l(k) ,
+
+T n,k = χIk Tn,k K .
+
+Ici, Tn,k K désigne la restriction de Tn,k au compact K et, pour tout sous-ensemble E de K, χE désigne la
+fonction caractéristique de E.
+Soit f un jet appartenant à Iφ (K). Pour tout (n,k) ∈ N∗ × N∗ , on pose
+
+1 π
+f (xk + δk cos t) cos (nt) dt
+an,k (f ) =
+π −π
+et, pour tout k ∈ N∗ , on pose
+ π
+1
+f (xk + δk cos t) dt .
+a0,k (f ) =
+2π −π
+Pour tout (n,k) ∈ N × N∗ , on définit le coefficient ηn,k (f ) de la façon suivante:
+• si k = 1, ηn,k (f ) = an,k (f ),
+• si k > 1 et n ≥ l(k − 1), ηn,k (f ) = an,k (f ),
+	
+
+
+l(k−1)−1
+• si k > 1 et n < l(k − 1), ηn,k (f ) = an,k (f ) − i=n
+an,k T i,k−1 ai,k−1 (f ).
+Alors, d’après [8], pour tout x ∈ ]0,b1 ] ∩ K, on a
+f (x) =
+
++∞
++∞ 
+
+
+(5.2)
+
+ηn,k (f ) T n,k (x) .
+
+k=1 n=0
+
+De plus cette dernière égalité est vraie au sens des jets.
+Si on suppose que φ vérifie la condition
+lim
+
+u→+∞
+
+φ(u)
+= +∞
+u2
+
+(5.3)
+
+alors la fonction l vérifie la propriété suivante:
+Pour tout a ∈ R∗+ , il existe un plus petit entier ka tel que, pour tout entier k ≥ ka , on ait
+φ(al(k − 1)) + l(k − 1) ln δk > 0 .
+www.mn-journal.com
+
+(5.4)
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1298
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+5.4 Une base de Schauder de l’espace Iφ (K)
+Théorème 5.1 On suppose que φ vérifie la condition (5.3). Alors le système
+	
+
+
+
+T n,k (n,k)∈N×N∗ , (ηn,k )(n,k)∈N×N∗
+est une base de Schauder absolue de l’espace de Fréchet Iφ (K).
+La biorthogonalité est démontrée dans [8]. Ensuite, il s’agit essentiellement de montrer que, pour tout b > 0,
+il existe deux réels a > 0 et σ > 0 tels que, pour tout f ∈ Iφ (K), on ait
++∞
++∞ 
+
+
+
+
+|ηn,k (f )| T n,k b ≤ σ f a .
+
+(5.5)
+
+k=1 n=0
+
+Car l’égalité au sens des jets résulte alors de (5.2). La démonstration repose sur plusieurs lemmes techniques.
+Dans les Lemmes 5.2 et 5.3, hφ(αt) désigne la fonction définie dans les notations du paragraphe 3.
+Lemme 5.2 Soit α ∈ R∗+ et soient k et n deux entiers tels que k ≥ 1 et n ≥ l (k).
+Si n = 0, on a
+
+
+
+
+T n,k  = T 0,k  ≤
+α
+α
+Si n > 0, on a
+
+
+T n,k  ≤
+α
+
+e
+
+hφ(αt)
+
+1
+
+hφ(αt)
+
+δk
+C0
+
+.
+
+.
+
+δk
+n2 C0
+
+P r e u v e. 1◦ ) Traitons tout d’abord le cas n = 0 et l(k) = 0. On a T 0,k = χIk et donc
+
+
+ (p) 
+T 0,k (x)
+= 1.
+sup sup
+p∈N x∈K p! exp(φ(αp))
+	
+
+
+Soient ζ, x ∈ K, les seuls restes de Taylor non nuls sont les Rζ0,p T 0,k (x) = 1 pour p ∈ N avec x ∈ Ik et
+ζ∈
+/ Ik ou x ∈
+/ Ik et ζ ∈ Ik .
+δk
+Lorsque x ∈ Ik et ζ ≥ ak−1 , on a |ζ − x| ≥ hk−1 ≥ δk−1
+C0 ≥ C0 donc
+ 0,p 	
+
+ 
+R
+T 0,k (x)
+ζ
+p+1
+
+exp(φ(α (p + 1))) |ζ − x|
+
+≤
+
+1
+
+ p+1 .
+exp(φ (α (p + 1))) Cδk0
+
+Les autres cas se traitent de façon similaire.
+
+
+Ensuite, en minimisant sur p, on obtient T 0,k α ≤
+
+1“
+”.
+δ
+hφ(αt) Ck
+0
+
+2◦ ) On suppose que l’entier n est strictement positif.
+• Si x ∈ Ik , d’après l’inégalité (2.1) du Corollaire 2.3, pour tout p ∈ N, on a
+
+
+
+
+n2p δk−p
+ (p) 
+ (p) 
+T n,k (x) = T n,k (x) ≤
+p!
+donc
+sup sup
+p∈N x∈K
+
+
+
+ (p) 
+T n,k (x)
+p! exp(φ(αp))
+
+≤ sup
+p∈N
+
+(5.6)
+
+2
+
+n2p δk−p
+
+(p!) exp(φ(αp))
+
+n2p δk−p
+1
+	 
+.
+≤
+hφ(αt) nδk2
+p∈N exp(φ(αp))
+
+≤ sup
+
+• Soit (j,p) ∈ N2 avec j ≤ p.
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1299
+
+	
+
+
+i) On suppose que (ζ, x) ∈ Ik2 , alors Rζj,p T n,k (x) = Rζj,p (Tn,k )(x) et, d’après la formule de Taylor
+ j,p 	
+
+p+1−j
+ R T n,k 
+(x) 
+
+
+
+
+p+1
+|ζ − x|
+ ζ
+
+ (p+1) 
+ (p+1) 
+p+1−j 2
+sup T n,k (t) ≤ |ζ − x|
+sup T n,k (t)
+
+ ≤
+
+
+j!
+j! (p + 1 − j)! t∈Ik
+(p + 1)! t∈Ik
+et la majoration (5.6), implique
+
+ j,p 	
+ R T n,k 
+(x) 
+2p+1 n2p+2 δk−p−1
+
+ ζ
+≤
+.
+
+
+ j! |ζ − x|p+1−j 
+((p + 1)!)2
+Donc
+ j,p 	
+
+ 
+R T n,k (x)
+1
+ζ
+	δ 
+.
+sup sup
+≤
+p+1−j
+k
+hφ(αt) 2n
+p∈N j;j≤p j! exp(φ(α(p + 1))) |ζ − x|
+2
+	
+
+
+(j)
+(j)
+ii) On suppose que x ∈ Ik , ζ ∈ K\Ik , alors Rζj,p T n,k (x) = T n,k (x) = T n,k (x) donc, en utilisant la
+majoration (5.6), on a
+2j −j
+ j,p 	
+
+ 
+R T n,k (x) ≤ n δk .
+ζ
+j!
+δk
+Si ζ ≥ ak−1 , alors |x − ζ| ≥ hk−1 ≥ δk−1
+C0 ≥ C0 et si ζ ≤ ak+1 alors |x − ζ| ≥ hk ≥
+on a
+ j,p 	
+
+ 
+R T n,k (x)
+2j −j
+ζ
+p+1−j n δk
+δkj−p−1
+≤
+C
+0
+p+1−j
+j!
+|ζ − x|
+puis
+ j,p 	
+
+ 
+R T n,k (x)
+n2p δk−p−1
+ζ
+p+1
+≤
+C
+0
+2
+p+1−j
+(j!) exp(φ(α(p + 1)))
+j! exp(φ(α(p + 1))) |ζ − x|
+et donc
+ j,p 	
+
+ 
+R T n,k (x)
+1
+1
+ζ
+
+.
+≤ 2
+p+1−j
+δk
+n h
+j! exp(φ(α(p + 1))) |ζ − x|
+φ(αt) n2 C0
+
+δk
+C0 .
+
+Dans les deux cas,
+
+iii) On suppose que ζ ∈ Ik , x ∈ K\Ik , alors, on a
+p−j
+
+	
+
+
+1
+(j+m)
+Rζj,p T n,k (x) = −
+(x − ζ)m T n,k (ζ)
+m!
+m=0
+
+donc
+
+p−j
+
+
+
+ j,p 	
+
+ 
+1
+
+m  (j+m)
+R T n,k (x) ≤
+|x − ζ| T n,k (ζ) .
+ζ
+m!
+m=0
+
+D’après la majoration (5.6),
+
+
+2(j+m)
+ (j+m) 
+−(j+m) n
+T n,k (ζ) ≤ δk
+(j + m)!
+puis, comme on a encore |x − ζ| ≥ Cδk0 , on obtient
+ j,p 	
+
+ 
+p−j
+R T n,k (x)
+
+1 p+1−j−m j−p−1+m n2(j+m) −(j+m)
+ζ
+C
+δ
+≤
+δk
+m! 0
+(j + m)! k
+|ζ − x|p+1−j
+m=0
+−(p+1)
+
+≤ δk
+
+C0p+1
+
+−(p+1)
+
+≤ eδk
+www.mn-journal.com
+
+p−j
+
+
+n2(j+m)
+m! (j + m)!
+m=0
+
+C0p+1 n2p .
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1300
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+Ainsi, on a
+ j,p 	
+
+ 
+R T n,k (x)
+ζ
+
+p+1−j
+
+j! exp(φ(α(p + 1))) |ζ − x|
+et donc
+
+ j,p 	
+
+ 
+R T n,k (x)
+ζ
+
+j! exp(φ(α(p + 1))) |ζ − x|p+1−j
+
+≤
+
+−p−1 p+1
+C0
+e n2(p+1) δk
+n2 exp(φ(α(p + 1)))
+
+≤
+
+e
+n2 h
+
+1
+
+
+δk
+φ(αt) n2 C0
+
+.
+
+Ce qui termine la démonstration du Lemme 5.2.
+Lemme 5.3 Soient k et n deux entiers tels que k ≥ 1 et n < l(k). Pour tout réel α > 0, on a
+n
+
+
+T n,k  ≤ (4C0 )
+α
+2 h
+
+1
+
+
+δk
+φ(αt) 4C0
+
+.
+
+P r e u v e. Le cas n = 0 se traite comme le 1◦ ) de la démonstration de Lemme 5.2. Dans ce qui suit, on
+suppose que n > 0.
+1◦ ) Les n racines du polynôme Tn,k (x) appartiennent à l’intervalle Ik , on peut donc écrire
+Tn,k (x) = 2n−1 δk−n
+
+n
+
+
+(x − tj ) ,
+
+j=1
+(p)
+
+avec, pour tout j, tj ∈ Ik . Il s’ensuit que T n,k (x) est une somme de
+
+
+	
+2n−1 δk−n (x − tj1 ) . . . x − tjn−p .
+
+n!
+(n−p)!
+
+termes de la forme
+
+Si x ∈ [0,bk ] ∩ K alors |x − tj | ≤ C0 δk et, pour tout p ∈ {0, . . . ,n}, on a
+
+
+
+ (p)
+
+ (p)
+T (x)
+T n,k (x)
+(4C0 )n −p
+n!
+n,k
+=
+≤ 2n−1
+δk−n (C0 δk )n−p ≤
+δk
+p!
+p!
+p! (n − p)!
+2
+et donc
+
+
+ (p)
+
+n
+T n,k (x)
+(4C0 )
+1
+sup sup
+≤
+.
+2 hφ(αt) (δk )
+p∈N x∈K p! exp(φ(αp))
+
+(5.7)
+
+2◦ ) Soit (j,p) ∈ N2 , avec j ≤ p.
+	
+
+
+i) On suppose que ζ, x ∈ [0,bk ] ∩ K, alors, Rζj,p T n,k (x) = Rζj,p (Tn,k )(x) s’estime en utilisant la formule
+de Taylor et (5.7), on obtient
+ j,p 	
+
+ 
+n
+R T n,k (x)
+1
+ζ
+−(p+1)
+p+1 (4C0 )
+δk
+,
+≤
+2
+p+1−j
+2
+exp(φ(α(p + 1)))
+j! exp(φ(α(p + 1))) |ζ − x|
+ce qui implique la majoration voulue dans ce cas.
+	
+
+
+ii) On suppose que ζ ≥ ak−1 et que x ≥ ak−1 , alors Rζj,p T n,k (x) = 0.
+iii) On suppose que ζ ≥ ak−1 et que x ≤ bk , alors, d’après la majoration (5.7), on a
+n
+
+
+ j,p 	
+
+ 
+R T n,k (x) = T (j) (x)  ≤ j! (4C0 ) δ −j .
+n,k
+ζ
+k
+2
+
+Ensuite, en utilisant encore l’inégalité |ζ − x| ≥
+ j,p 	
+
+ 
+R T n,k (x)
+ζ
+
+j! |ζ − x|
+
+p+1−j
+
+n
+
+≤
+
+δk
+C0 ,
+
+on obtient
+n
+
+(4C0 ) −j p+1−j j−p−1
+(4C0 )
+−(p+1)
+δk C0
+C0p+1 δk
+δk
+≤
+,
+2
+2
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1301
+
+ce qui implique la majoration voulue dans ce cas.
+iv) On suppose que ζ ≤ bk et que x ≥ ak−1 , alors
+p−j
+
+	
+
+
+1
+m
+(x − ζ) T j+m
+Rζj,p T n,k (x) = −
+n,k (ζ) .
+m!
+m=0
+
+En utilisant encore (5.7), on a
+ j,p 	
+
+ 
+R T n,k (x)
+ζ
+|ζ − x|
+
+p+1−j
+
+≤
+
+p−j
+n
+
+1
+−(j+m)
+m−(p+1−j) (4C0 )
+|x − ζ|
+(j + m)!δk
+m!
+2
+m=0
+
+≤
+
+p−j
+(4C0 )n  (j + m)! (p+1−j−m) j+m−p−1 −(j+m)
+C0
+δk
+δk
+2
+m!
+m=0
+
+p−j
+(4C0 )n −(p+1) p+1  (j + m)!
+≤
+C0
+δk
+.
+2
+m!
+m=0
+
+Or
+
+(j+m)!
+m!
+
+≤ 2j+m j! et donc
+ j,p 	
+
+ 
+R T n,k (x)
+ζ
+
+n
+
+p+1−j
+
+j! exp(φ(α(p + 1))) |ζ − x|
+
+≤
+
+1
+(4C0 ) −(p+1) p+1 2p−j
+δk
+C0 2
+2
+exp(φ(α(p + 1)))
+
+ce qui donne l’inégalité voulue dans ce cas.
+Lemme 5.4 Soit f une fonction appartenant à Iφ (K) et soit a ∈ R∗+ . Soient k et n deux entiers strictement
+positifs. On note ra,k le plus petit entier t tel que
+(5.8)
+
+φ(at) + t ln δk > 0 .
+Pour tout entier r ≥ 1, on a
+|an,k (f )| ≤
+
+1
+f a 2r r! exp(φ(ar)) .
+nr
+
+(5.9)
+
+De plus, si r ≥ ra,k ou si r ≤ n, on a
+|an,k (f )| ≤
+
+1
+f a r!δkr 2r exp(φ(ar)) .
+nr
+
+(5.10)
+
+P r e u v e. Soit r un entier strictement positif. Comme dans la démonstration du Lemme 3.2, on a
+
+
+
+1  π
+(r)
+
+|an,k (f )| =
+(f
+(x
++
+δ
+cos))
+(t)
+τ
+(nt)
+dt
+k
+k
+
+
+πnr −π
+où τ désigne la fonction cos ou la fonction sin suivant la parité de r. Avec la formule de Faà di Bruno, on a
+
+js
+r
+r
+
+
+(f (xk + δk cos))(r) (t)
+(δk cos)(s) (t)
+f (i) (xk + δk cos(t)) 
+=
+CJ,i,r
+(5.11)
+r!
+i!
+s!
+s=1
+i=1
+J∈Ji,r
+
+et donc
+|an,k (f )| ≤
+
+2r r!
+f a sup δki exp(φ(ai)) .
+nr
+0≤i≤r
+
+De là, on déduit que pour	tout entier r ≥
+1, on a la majoration (5.9).
+D’autre part, la suite δki exp(φ(ai)) i≥0 est décroissante puis croissante. Donc, pour tout r ≥ ra,k , on a
+sup0≤i≤r δki exp(φ(ai)) ≤ δkr exp(φ(ar)), ce qui démontre l’inégalité (5.10), lorsque r ≥ ra,k .
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1302
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+	 (i) 
+
+f
+le polynôme de Taylor de f (i)
+On suppose que 1 ≤ r ≤ n. Pour tout i ∈ {1, . . . ,r}, on note T xr−1−i
+k
+	
+
+
+f (r) = 0 et Rxr,r−1
+d’ordre r − 1 − i basé en xk avec la convention que T x−1
+f = f (r) . On a
+k
+k
+	 (i) 
+
+f
+(xk + δk cos (t)) + Rxi,r−1
+f (xk + δk cos t)
+f (i) (xk + δk cos (t)) = T xr−1−i
+k
+k
+et, comme
+r
+
+
+	 (i) 
+
+T xr−1−i
++
+δ
+cos(t))
+C
+f
+(x
+k
+k
+J,i,r
+k
+s=1
+
+J∈Ji,r
+
+
+
+(δk cos)(s) (t)
+s!
+
+js
+
+est un polynôme en cos(t) et sin(t) dont le degré ne dépasse pas r − 1; lorsqu’on le multiplie τ (nt), il est
+d’intégrale nulle sur [−π,π]. En utilisant (5.11), on a donc
+
+js 
+
+ π 
+r  i,r−1
+r
+(s)
+
+ Rxk f (xk + δk cos t) 
+
+cos)
+(t)
+1
+(δ
+k
+
+ dt
+CJ,i,r
+|an,k (f )| ≤ r! r
+
+
+πn −π i=1 
+i!
+s!
+
+s=1
+J∈Ji,r
+
+et par suite
+|an,k (f )| ≤ f a r!
+
+
+
+r
+2 
+1
+r r−1
+= f a r! r δkr 2r exp(φ(ar)) ,
+exp(φ(ar))δ
+k
+r
+i−1
+n
+n
+i=1
+
+ce qui démontre (5.10), lorsque r ≤ n.
+Dans les Lemmes 5.5 et 5.6, on utilise des notations généralisant celles du paragraphe 3 : si (λ,µ) ∈ N∗ × N∗
+et si a ∈ R∗+ , on note hφ(a(λt+µ))+(λt+µ) ln(λt+µ) la fonction définie sur R∗+ en posant, pour tout ρ > 0,
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ) (ρ) = inf
+
+k∈N
+
+
+
+λk+µ
+exp(φ(a(λk + µ))) .
+ρk (λk + µ)
+
+(5.12)
+
+Lemme 5.5 Soit f une fonction appartenant à Iφ (K) et soit a ∈ R∗+ . Si k et n sont deux entiers tels que
+k ≥ 1, n ≥ 1 et n ≥ l(k − 1), alors, pour tout (λ,µ) ∈ N∗ × N∗ , on a
+|ηn,k (f )| = |an,k (f )| ≤
+
+Ca
+
+
+
+2δk
+n
+
+µ
+
+„
+
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ)
+
+2δk
+n
+
+«λ !
+
+f a
+
+(5.13)
+
+où Ca est une constante qui ne dépend que de a.
+De plus, si k = 1, alors la majoration (5.13) est vraie pour tout n ∈ N∗ .
+P r e u v e. D’après (5.4) et (5.8), k ≥ ka implique l(k − 1) ≥ ra,k .
+Donc, si k ≥ ka alors, d’après (5.10), pour tout r ≥ 1, on a
+|an,k (f )| ≤
+
+1
+f a r!δkr 2r exp(φ(ar)) .
+nr
+
+Si k < ka et si 1 ≤ r < ra,k , d’après (5.9), on a
+−r
+
+|an,k (f )| ≤ δka a,ka f a
+
+1
+r!δkr 2r exp(φ(ar)) .
+nr
+
+−r
+
+Ainsi, en posant Ca = δka a,ka , pour tout k ∈ N∗ et pour tout r ∈ N∗ , on a
+|ηn,k (f )| = |an,k (f )| ≤ Ca f a
+
+1
+r!δkr 2r exp(φ(ar)) .
+nr
+
+(5.14)
+
+En prenant r = λp + µ et en minimisant sur p, on obtient (5.13), ce qui termine la démonstration du Lemme 5.5.
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1303
+
+Lemme 5.6 Soit f une fonction appartenant à Iφ (K) et soit a ∈ R∗+ . Si k et n sont deux entiers tels que
+k ≥ 2 et n < l(k − 1), alors, pour tout couple d’entiers (λ,µ) ∈ N∗2 , on a
+
+λ 
+µ−1
+1
+µ
+|ηn,k (f )| ≤ 2Ca (2C0 ) δk M hφ(a(λt+µ))+(λt+µ) ln(λt+µ) 2C0 δkM
+(5.15)
+f a
+où Ca est la même constante que celle de Lemme 5.5.
+De plus, compte tenu du Lemme 5.5, la majoration (5.15) reste valide si l(k − 1) ≤ n < l(k).
+Pour prouver ce lemme, on établit tout d’abord trois majorations.
+Première majoration. Si les entiers n, k et r vérifient k ≥ 2 et 1 ≤ r ≤ n < l(k − 1), on a
+"
+#
+r−1
+|ηn,k (f )| ≤ 2 f a exp(φ(ar)) δkr + δk−1
+.
+	
+Preuve. On suppose que n > 0 sinon, on remplace le facteur
+1
+ηn,k (f ) =
+π
+
+Z
+
+π
+
+−π
+
+2
+
+1
+π
+
+par
+
+1
+2π
+
+
+
+. On a
+
+4f (xk + δk cos t) cos(nt) − f (xk−1 + δk−1 cos t)
+
+l(k−1)−1
+
+X
+
+3
+`
+´
+an,k T i,k−1 cos(it)5 dt .
+
+i=n
+
+Notons Λ le terme entre les crochets. On fait deux développements de Taylor à l’ordre r − 1. Pour
+f (xk + δk cos t), le développement est basé en xk et, pour f (xk−1 + δk−1 cos t), le développement est basé
+en xk−1 . On obtient
+Λ =
+
+r−1
+
+1 (j)
+f (xk )(δk cos t)j cos(nt)
+j!
+j=0
+l(k−1)−1
+r−1
+
+
+	
+
+
+1 (j)
+j
+−
+f (xk−1 )(δk−1 cos t)
+an,k T i,k−1 cos(it)
+j!
+j=0
+i=n
+
++ Rx0,r−1
+f (xk + δk cos t) cos(nt)
+k
+
+
+l(k−1)−1
+
+f (xk−1 + δk−1 cos t)
+− Rx0,r−1
+k−1
+
+	
+
+
+an,k T i,k−1 cos(it) .
+
+i=n
+
+En utilisant l’orthogonalité, on obtient
+
+#
+1 π " 0,r−1
+Rxk f (xk + δk cos t) cos(nt) dt
+ηn,k (f ) =
+π −π
+
+l(k−1)−1
+	
+
+ π 0,r−1
+1 
+an,k T i,k−1
+Rxk−1 f (xk−1 + δk−1 cos t) cos(it) dt .
+−
+π i=n
+−π
+Enfin, les restes de Taylor se majorent en utilisant la norme f a , on obtient
+
+
+l(k−1)−1
+
+|ηn,k (f )| ≤
+
+2 f a δkr
+
+exp(φ(ar)) +
+
+r
+2 f a δk−1
+
+exp(φ(ar))
+
+
+	
+
+
+an,k T i,k−1  .
+
+i=n
+
+Par ailleurs, d’après [8, (5.3)], si k ≥ 2 et si n < l(k − 1), on a
+
+
+l(k−1)−1
+
+
+	
+
+
+an,k T i,k−1  ≤ δ −1
+k−1
+
+(5.16)
+
+i=n
+
+ce qui prouve la première majoration.
+www.mn-journal.com
+
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1304
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+Seconde majoration. Si les entiers n, k et r vérifient 2 ≤ k et 0 ≤ n < r < l(k − 1), on a
+#
+"
+r−1
+.
+|ηn,k (f )| ≤ 2 f a exp(φ(ar)) δkr + C0r δk−1
+Preuve. Remarquons que si P est un polynôme de degré strictement plus petit que l(k − 1), on a
+
+
+l(k−1)−1
+
+P =
+
+ai,k−1 (P ) Ti,k−1
+
+i=0
+
+et donc
+
+
+l(k−1)−1
+
+an,k (P ) =
+
+
+
+l(k−1)−1
+
+ai,k−1 (P ) an,k (Ti,k−1 ) =
+
+i=0
+
+	
+
+
+an,k T i,k−1 ai,k−1 (P ) .
+
+i=n
+
+Ainsi, lorsque n < l(k − 1), on a
+
+
+l(k−1)−1
+
+ηn,k (P ) = an,k (P ) −
+
+	
+
+
+an,k T i,k−1 ai,k−1 (P ) = 0 .
+
+i=n
+
+	
+
+
+1
+On suppose que n > 0 sinon, on remplace le facteur π1 par 2π
+. On utilise un développement de Taylor de f
+à l’ordre r − 1 basé en xk . Si T r−1
+f
+désigne
+sa
+partie
+polynomiale,
+on obtient
+xk
+	
+
+
+f + Rx0,r−1
+f
+ηn,k (f ) = ηn,k T xr−1
+k
+k
+
+
+	
+f
+= ηn,k Rx0,r−1
+k
+
+1 π 0,r−1
+=
+R
+f (xk + δk cos t) cos(nt)dt
+π −π xk
+
+l(k−1)−1
+
+	
+
+
+1 π 0,r−1
+Rxk f (xk−1 + δk−1 cos t)
+an,k T i,k−1 cos(it) dt
+−
+π −π
+i=n
+donc
+
+
+
+l(k−1)−1
+
+
+
+
+	
+
+
+r
+r
+
+|ηn,k (f )| ≤ 2δk f a exp(φ(ar)) + 2(bk−1 − xk ) f a exp(φ(ar)) 
+an,k T i,k−1  .
+ i=n
+
+
+On conclut en utilisant (5.16) et l’inégalité bk−1 ≤ C0 δk−1 .
+Troisième majoration. Si les entiers n, k, et r vérifient 2 ≤ k et 1 ≤ n < l(k − 1) ≤ r, on a
+|ηn,k (f )| ≤ Ca
+
+
+
+"
+#
+1
+r−1
+f a 2r r! exp(φ(ar)) δkr + δk−1
+.
+r
+n
+−r
+
+Preuve. Comme dans la démonstration du Lemme 5.5, on pose Ca = δka a,ka . Alors, en utilisant encore le
+Lemme 5.4, on a
+|an,k (f )| ≤ Ca f a
+
+1
+r!δkr 2r exp(φ(ar))
+nr
+
+et, si i ∈ {n, . . . ,l(k − 1) − 1},
+−r
+
+a,ka
+f a
+|ai,k−1 (f )| ≤ δka −1
+
+Donc
+
+1
+1
+r
+r
+r!δk−1
+2r exp(φ(ar)) ≤ Ca f a r r!δk−1
+2r exp(φ(ar)) .
+ir
+n
+
+⎡
+⎤
+l(k−1)−1
+ 
+	
+
+
+1
+r
+an,k T i,k−1 ⎦
+|ηn,k (f )| ≤ Ca r f a 2r r! exp(φ(ar))⎣ δkr + δk−1
+n
+i=n
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1305
+
+
+
+et, en utilisant encore (5.16), on obtient la majoration voulue.
+P r e u v e d u L e m m e 5.6. D’après les trois majorations précédentes, pour tout entier r ≥ 1, on a
+"
+#
+r−1
+|ηn,k (f )| ≤ Ca f a 2r r! exp(φ(ar))C0r δkr + δk−1
+ r−1 
+≤ 2Ca f a 2r r! exp(φ(ar))C0r δkM .
+
+(5.17)
+
+Si p est un entier quelconque, avec r = λp + µ, on peut écrire
+λp
+µ−1 
+1
+µ
+(λp + µ)! exp(φ(a(λp + µ))) .
+|ηn,k (f )| ≤ 2Ca f a (2C0 ) δk M 2C0 δkM
+En minimisant sur p et en utilisant la notation (5.12), on obtient l’inégalité (5.15).
+
+Lemme 5.7 Soient λ et µ deux entiers avec λ ≥ max (M,2) et soit a un réel strictement positif. Il existe une
+constante σa,λ,µ > 0 telle que, pour tout (n,k) ∈ N∗2 , on ait
+„
+
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ)
+et
+
+2δk
+n
+
+«λ !
+
+„
+
+≤ σa,λ,µ hφ(2a(λ+µ)t)
+
+δk
+n2 C0
+
+«
+
+
+„
+«
+λ 
+1
+δk
+M
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ) 2C0 δk
+.
+≤ σa,λ,µ hφ(2a(λ+µ)t)
+4C0
+
+P r e u v e. 1◦ ) Pour tout entier p, on a
+„
+
+2δk
+n
+
+«λp
+
+(λp + µ)
+
+λp+µ
+
+„
+exp(φ(a(λp + µ))) ≤
+
+δk
+n2 C0
+
+´p
+«p `
+C0 2λ (λp + µ)λp+µ
+exp(φ(2a(λp + µ)))
+exp(φ(a(λp + µ)))
+
+or λp + µ ≤ max(µ,(λ + µ)p) et donc φ(2a(λp + µ)) ≤ φ(2µa) + φ(2a(λ + µ)p). Il s’ensuit que
+
+λp
+2δk
+λp+µ
+(λp + µ)
+exp(φ(a(λp + µ)))
+n
+
+p
+
+p 	
+λp+µ
+C0 2λ (λp + µ)
+exp(φ(2µa))
+δk
+exp(φ(2a (λ + µ) p)) .
+≤
+n2 C0
+exp(φ(a(λp + µ)))
+Or, d’après la condition (5.3),
+	
+
+p
+C0 2λ (λp + µ)λp+µ exp(φ(2µa))
+sup
+= σa,λ,µ,1 < +∞ ,
+exp(φ(a(λp + µ)))
+p∈N
+ce qui implique
+„
+
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ)
+
+2δk
+n
+
+«λ !
+
+≤ σa,λ,µ,1 hφ(2a(λ+µ)t)
+
+„
+
+δk
+n2 C02
+
+«
+
+.
+
+2◦ ) Pour tout entier p, on a également
+λp
+
+1
+2C0 δkM
+(λ + µ)λp+µ exp(φ(a(λp + µ)))
+
+p
+
+(4C0 )(λ+1)p (λp + µ)λp+µ exp(φ(2µa)) δk
+exp(φ(2a(λ + µ)p)) .
+≤
+exp(φ(a(λp + µ)))
+4C0
+
+Or, d’après la condition (5.3),
+(4C0 )(λ+1)p (λp + µ)λp+µ exp(φ(2µa))
+= σa,λ,µ,2 < +∞ ,
+exp(φ(a(λp + µ)))
+p∈N
+sup
+
+ce qui implique
+
+
+„
+«
+λ 
+1
+δk
+M
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ) 2C0 δk
+.
+≤ σa,λ,µ,2 hφ(2a(λ+µ)t)
+4C0
+
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1306
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+P r e u v e d u T h é o r è m e 5.1. On choisit un couple d’entiers (λ,µ) vérifiant λ ≥ max(M,2) et µ ≥ 3M +2.
+Soit a > 0 et soit f un jet appartenant à Iφ (K).
+On considère la somme
++∞ 
++∞
+
+
+
+
+|ηn,k (f )| T n,k 2a(λ+µ) .
+
+k=1 n=0
+
+
+
+
+
++∞
++∞
+Posons S1 = n=0 |ηn,1 (f )| T n,1 2a(λ+µ) = n=0 |an,1 (f )| T n,1 2a(λ+µ) . En utilisant les Lemmes 5.2
+et 5.3 avec α = 2a (λ + µ) puis le Lemme 5.7, on vérifie aisément qu’il existe une constante σ1 (a) telle que
+S1 ≤ σ1 (a) f a .
+
+
++∞ +∞
+Ensuite, on sépare la somme S2 = k=2 n=0 |ηn,k (f )| T n,k 2a(λ+µ) en deux suivant que n ≥ l(k) ou
+que n < l(k). Quitte à mettre à part un nombre fini de termes, dans la somme pour n ≥ l(k) on peut supposer
+que n > 0. On utilise les lemmes précédents et on obtient
++∞ X
++∞
+X
+
+S2 ≤
+
+e
+hφ(2a(λ+µ)t)
+
+k=2 n=l(k)
+
++
+
++∞ l(k)−1
+X
+X
+k=2 n=0
+
+≤
+
+“
+
+δk
+n2 C0
+
+(4C0 )n
+“
+
+δk
+4C0
+
+hφ(2a(λ+µ)t)
+
+0
++∞ X
++∞
+X
+
+Ca σa,λ,µ @
+
+k=2 n=l(k)
+
+„
+
+” Ca
+
+2δk
+e
+n
+
+«µ
+
+”
+
+„
+
+Ca
+
++
+
+2δk
+n
+
+«µ
+
+„“
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ)
+µ−1
+M
+
+µ
+
+f a (2C0 ) δk
+
++∞ l(k)−1
+X
+X
+
+2δk
+n
+
+”λ «
+
+f a
+„
+
+hφ(a(λt+µ))+(λt+µ) ln(λt+µ)
+
+1
+M
+
+2C0 δk
+
+«λ !
+
+1
+n
+
+µ
+
+µ−1
+M
+
+(4C0 ) (2C0 ) δk
+
+A f 
+
+k=2 n=0
+
+a
+
+et, en utilisant (5.1), on obtient
+S2 ≤ σ2 (a) f a ,
+avec
+
+⎛
+σ2 (a) = Ca σa,λ,µ ⎝
+
++∞
++∞ 
+
+
+k=2 n=l(k)
+
+
+e
+
+2δk
+n
+
+µ
++
+
++∞
+
+
+⎞
+µ−1
+M
+
+δk−2 (2C0 ) δk
+µ
+
+⎠.
+
+k=1
+
+La relation (5.5) est donc établie, ce qui termine la démonstration du Théorème 5.1.
+
+
+
+5.5 Extension linéaire des jets appartenant à Iφ (K)
+Pour l’espace Iφ (K), comme pour Iφ ([−1,1]) dans la Définition 4.1, on définit la propriété d’extension linéaire.
+Théorème 5.8 On suppose que la fonction φ vérifie la condition
+φ (u)
+= +∞ .
+u2
+
+lim
+
+u→+∞
+
+Alors, l’espace Iφ (K) a la propriété d’extension linéaire.
+
+
+	
+Lemme 5.9 Il existe une famille de fonctions Tn,k (n,k)∈N×N∗ appartenant à Iφ (R) vérifiant les conditions
+suivantes.
+
+1) Pour tout (n,k) ∈ N × N∗ , on a Tn,k K = T n,k .
+2) Pour tout réel α > 0, il existe deux réels β > 0 et Dα > 0 tels que, pour tout (n,k) ∈ N × N∗ , on ait
+
+
+Tn,k 
+
+α
+
+
+
+≤ Dα T n,k β .
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1307
+
+P r e u v e. Soit ψ unefonction vérifiant les conditions (4.2) et (4.3) de la démonstration du Théorème 4.3. On
++∞
+δk
+dt
+note encore Cψ = 1 + 1
+. Pour tout (n,k) ∈ N × N∗ , on pose τn,k = C 2 (1+n
+2 ) . Il existe une
+t(exp( ψ(t)
+0
+t ))
+famille (ωn,k )(n,k)∈N×N∗ de fonctions de classe C ∞ sur R, positives, vérifiant les conditions suivantes.
+• Pour tout (n,k) ∈ N × N∗ , n < l(k), ωn,k est une fonction à support dans [−τn,k ,bk + τn,k ] égale à 1 sur
+l’intervalle [0,bk ].
+• Pour tout (n,k) ∈ N × N∗ , n ≥ l(k), ωn,k est une fonction à support dans [ak − τn,k ,bk + τn,k ] égale à 1
+sur l’intervalle [ak ,bk ].
+• Pour tout (n,k) ∈ N × N∗ et pour tout p ∈ N, on a
+ (p) 
+p −p
+sup ωn,k (x) ≤ (2Cψ ) τn,k
+p! exp(ψ(p)) .
+x∈R
+
+1◦ ) Si n et
+ k sont
+ deux entiers tels que k ≥ 1 et n ≥ l(k), pour tout x ∈ [ak − τn,k ,bk + τn,k ], on a
+x−xk
+et, d’après la Proposition 2.5, pour tout p ∈ N, on a
+Tn,k (x) = Tn δk
+2p
+ (p)
+
+T (x) ≤ e2 n δ −p .
+n,k
+p! k
+
+Alors, comme dans la démonstration du Théorème 4.3, la formule de Leibniz donne
+
+
+(p) 
+	
+
+p
+	
+
+p
+
+(x) ≤ p! exp(ψ(p))e2 2Cψ C02 δk−p 1 + 2n2
+sup (Tn,k ωn,k
+x∈R
+
+et, si n > 0,
+
+
+	
+
+p
+	
+
+p
+sup (Tn,k ωn,k )(p) (x) ≤ p! exp(ψ(p))e2 2Cψ C02 δk−p 3n2 .
+
+x∈R
+
+
+	
+
+
+Soit β ∈ R∗+ , on écrit la majoration (5.14) avec r = 2p et la norme Tn,k β . Comme ηn,k T n,k  = 1, quitte
+à augmenter la constante Cβ lorsque p = 0, on obtient δk−p n2p ≤ Cβ δkp Tn,k β 22p (2p)! exp(φ(2βp)) et donc,
+pour tout n > 0,
+
+
+	
+
+p
+(p)
+sup (Tn,k ωn,k ) (x) ≤ Cβ p! exp(ψ(p))e2 24Cψ C02 (2p)! exp(φ(2βp)) Tn,k β .
+x∈R
+
+−1
+Si l’ensemble des entiers k tels que l(k) = 0 est non vide, on note K0 son plus grand élément et on pose L = δK
+;
+0
+sinon, on pose L = 1. Alors, pour tout entier n ≥ l(k), on a
+
+
+	
+
+p
+
+
+(p)
+sup (Tn,k ωn,k ) (x) ≤ Cβ p! exp(ψ(p))e2 24Cψ LC02 (2p)! exp (φ (2βp)) Tn,k β . (5.18)
+x∈R
+
+◦
+
+2 ) Si k et n sont deux entiers tels que k ≥ 1 et 1 ≤ n < l(k), comme dans la démonstration du Lemme 5.3,
+on a
+Tn,k (x) = 2n−1 δk−n
+
+n
+
+
+(x − tj ) ,
+
+j=1
+
+et si x ∈ [−τn,k , bk + τn,k ], alors |x − tj | ≤ (C0 + 1)δk et on a
+ (i)
+
+ T (x) 
+n!
+4n
+ n,k
+
+n−i
+n
+δk−n ((C0 + 1)δk )
+(1 + C0 ) .
+≤ δk−i
+
+ ≤ 2n−1
+ i! 
+i! (n − i)!
+2
+En utilisant encore la formule de Leibniz, on obtient
+p
+
+
+
+
+p
+	
+
+p−l
+
+
+(p)
+n	
+−p
+1 + n2
+(T n,k ωn,k ) (x) ≤ 4n (1 + C0 ) 2Cψ C02 p! exp(ψ(p))δk
+n	
+
+≤ 4 (1 + C0 )
+n
+
+www.mn-journal.com
+
+
+p
+2Cψ C02
+
+l=0
+−p 	
+p! exp(ψ(p))δk 2 +
+
+
+p
+n2 .
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1308
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+Or, d’après (5.1), on a
+4n (1 + C0 )
+
+n
+
+l(k)−1
+
+≤ 4l(k)−1 (1 + C0 )
+
+≤ (8C0 )
+
+l(k)
+
+≤ (4C0 )
+
+et
+
+p
+
+	
+
+p
+
+p
+	
+2 + n2 ≤ 2 + l(k)2
+≤ 2 + δk−2
+≤ 3p δk−2p .
+
+Donc
+
+
+
+	
+
+p
+
+
+(p)
+−3p−2
+.
+(Tn,k ωn,k ) (x) ≤ 6Cψ C02 p! exp(ψ(p))δk
+
+2l(k)
+
+≤ δk−2
+
+Notons que si n = 0, la majoration précédente reste vraie.
+Soit β ∈ R∗+ , on écrit la majoration (5.17) avec r = rp = (3p + 2) [M + 2] et la norme Tn,k β . Comme
+r−1
+
+	
+
+
+ηn,k T n,k  = 1 et δ −3p−2 ≤ δ − M , on obtient
+k
+k
+
+
+r
+δk−3p−2 ≤ 2Cβ T n,k β (2C0 ) p (rp )! exp(φ(βrp ))
+ce qui implique
+˛
+˛
+‚
+‚
+`
+´p
+˛
+˛
+sup ˛(Tn,k ωn,k )(p) (x)˛ ≤ 2Cβ ‚T n,k ‚β (2C0 )rp (rp )! 6Cψ C02 exp(φ(βrp ))p! exp(ψ(p)) .
+
+x∈R
+
+(5.19)
+
+α
+Soit α ∈ R∗+ , on pose β = 10([M]+3)
+. Il existe une constante Cβ telle que l’on ait exp(ψ(p)) ≤
+Cβ exp(φ(βp)). Alors, comme la condition (5.3) implique,
+
+
+	
+
+p
+exp(φ(βp)) 24Cψ LC02 (2p)! exp(φ(2βp))
+< +∞
+sup
+exp(φ(αp))
+p≥0
+
+et
+
+
+sup
+p≥0
+
+
+
+p
+	
+(2C0 )rp (rp )! exp(φ(βrp )) 6Cψ C02 exp(φ(βp))
+< +∞ ,
+exp(φ(αp))
+
+le lemme résulte alors des inégalités (5.18) et (5.19).
+Enfin, le théorème d’extension linéaire 5.8 en découle immédiatement.
+k
+
+Exemple 5.10 Si on considère le cas δk = 2−3 et bk = 6δk , alors, le compact K ne vérifie pas la propriété
+de Markov (voir [9]). Le théorème précédent montre que l’hypothèse de Markov n’est pas nécessaire pour qu’il
+y ait extension linéaire. En revanche, on sait que c’est une condition suffisante (voir [3, Théorème 8.8]).
+Dans le cas particulier où φ (u) = ua , avec a > 2, Iφ (K) est un espace de Beurling (voir [4]).
+
+6
+
+Compacts “épais” pour lesquels il n’existe pas d’opérateur linéaire continu d’extension
+
+Dans ce paragraphe, si f est une fonction de classe C ∞ en x = (x1 ,x2 ) ∈ R2 , pour tout (p1 ,p2 ) ∈ N2 , on note
+p1 +p2
+f (p1 ,p2 ) (x) = ∂∂p1 x1 ∂ pf2(x)
+x2 .
+
+φ(u)
+On suppose que limu→+∞ u ln(ln
+u) = +∞ et on considère une fonction g appartenant à Iφ ([0,1]), ayant
+toutes ses dérivées nulles en 0 et strictement positive sur ]0, 1]. On peut construire une telle fonction en utilisant
+encore [3, Proposition
+ 4.2 et le Lemme 3.1.1] ou [10,
+ Théorème 1.3.5].
+2
+On pose Kg = (x, y) ∈ [0,1] , 0 ≤ y ≤ g (x) ; Kg est un compact de R2 régulier au sens de Whitney. On
+note Iφ (Kg ) l’ensemble des fonctions f , de classe C ∞ sur Kg , telles que, pour tout a > 0, on ait
+ (p ,p ) 
+f 1 2 (x)
+= f a < +∞ .
+sup
+sup
+(p1 ,p2 )∈N2 (x1 ,x2 )∈Kg (p1 + p2 )! exp(φ(a(p1 + p2 )))
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1309
+
+	 
+
+On définit de même l’espace Iφ R2 . Ce sont des espaces de Fréchet.
+	 
+
+D’après [3, Théorème 4.1.], on sait que l’application de restriction, de Iφ R2 dans Iφ (Kg ) est surjective. Le
+théorème qui suit est inspiré par un travail de M. Tidten [17]; il complète une situation étudiée par U. Franken
+dans [6].
+	 
+
+Théorème 6.1 Il n’existe pas d’opérateur linéaire continu d’extension, de Iφ (Kg ) dans Iφ R2 .
+Dans tout ce qui suit, on utilise les notations du paragraphe 3 et on remarque que, pour tout a > 0 et tout
+r > 0, hφ(at) (r) = rk0 exp(φ(ak0 )) où k0 est le plus petit entier k tel que φ(a(k + 1)) − φ(ak) + ln r ≥ 0. En
+particulier, si
+φ(a(k0 )) − φ(a(k0 − 1)) < − ln r ≤ φ(a(k0 + 1)) − φ(ak0 ) ,
+on a
+hφ(at) (r) = rk0 exp(φ(ak0 )) .
+Lemme 6.2 Pour tout r > 0 il existe ϕr ∈ Iφ (R) vérifiant les conditions suivantes:
+(a) supp (ϕr ) ⊂ [−r,r] et ϕr (0) = 1;
+(b) pour tout a > 0, il existe une constante D ≥ 0 telle que, pour tout j ∈ N et tout x ∈ [−r,r], on ait
+ (j) 
+ϕ (x) ≤ D
+r
+
+1
+hφ(at) (r)
+
+j! exp(φ(2aj)) .
+
+P r e u v e. Soit ψ une fonction vérifiant les conditions (4.2) et (4.3) de la démonstration du Théorème 4.3.
+Pour tout r > 0, il existe une fonction ϕr ∈ C ∞ (R), à support dans [−r,r], telle que ϕr (0) = 1 et, pour tout
+j ∈ N et tout x ∈ [−r,r], on ait
+ (j) 
+ϕ (x) ≤
+r
+avec encore Cψ = 1 +
+
+
+
+2Cψ
+r
+
+ +∞
+1
+
+j
+j! exp(ψ(j))
+
+dt
+.
+ψ(t)
+t(exp( t ))
+
+Quitte à remplacer ψ(t) par ψ(t) + t ln (2Cψ ) et à augmenter la
+
+constante Ca de l’inégalité (4.3), on peut supposer que
+ (j) 
+ϕr (x) ≤
+
+ j
+1
+j! exp(ψ(j)) .
+r
+
+Alors, pour tout j ∈ N et tout x ∈ [−r,r], on a
+ j
+ (j) 
+ϕ (x) ≤ Ca 1 j! exp(φ(aj))
+r
+r
+1
+j! exp(φ(2aj))
+≤ Ca j
+r exp(φ(aj))
+1
+≤ Ca
+j! exp(φ(2aj)) .
+hφ(at) (r)
+Dans toute la suite du paragraphe, si γ est un réel strictement positif, on note
+ (p) 
+g (x)
+.
+gγ = sup sup
+p∈N x∈[0,1] p! exp(φ(γp))
+Le lemme suivant est une conséquence immédiate de la formule de Taylor.
+Lemme 6.3 Pour tout γ > 0 et pour tout x ∈ [0,1], on a
+|g(x)| ≤ hφ(γt) (x) gγ .
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1310
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+P r e u v e d u T h é o r è m e 6.1. Pour tout n ∈ N et tout r > 0, on note fr,n l’application de Kg dans R,
+n
+(x,y) → ϕr (x) yn! . Soit b > 0, on a
+
+fr,n b =
+
+sup
+(x,y)∈Kg
+|x|≤r
+0≤k1 et 0≤k2 ≤n
+
+ 
+
+ (k )  y n−k2 
+1
+ϕr 1 (x)
+.
+(n − k2 )! (k1 + k2 )! exp(φ(b(k1 + k2 )))
+
+Donc, en notant D la constante donnée par le Lemme 6.2 lorsque a = 2b , pour tout γ > 0, on a
+⎛
+fr,n b ≤
+
+Or
+
+k1 !
+(n−k2 )!(k1 +k2 )!
+
+≤
+
+2n
+n!
+
+sup
+
+0≤k1 et 0≤k2 ≤n
+
+et
+
+⎜
+⎝
+
+n−k2
+
+Dk1 ! exp(φ(bk1 )) hφ(γt) (r) gγ
+hφ( b t) (r) (n − k2 )! (k1 + k2 )! exp(φ(b(k1 + k2 )))
+
+1
+exp(φ(b(k1 +k2 )))
+
+⎞
+⎟
+⎠.
+
+2
+
+≤
+
+1
+1
+exp(φ(bk1 )) exp(φ(bk2 ))
+
+donc
+
+
+n−k2
+gγ hφ(γt) (r)
+2n
+.
+fr,n b ≤ D
+max
+hφ( b t) (r) n! 0≤k2 ≤n
+exp(φ(bk2 ))
+
+(6.1)
+
+2
+
+	 2
+
+Supposons qu’il existe une application
+	 2 
+ linéaire continue U , de Iφ (Kg ) dans Iφ R telle que, si on note
+RKg l’application de restriction Iφ R dans Iφ (Kg ), on ait RKg ◦ U = idIφ (Kg ) . Alors U vérifie la condition
+suivante:
+Pour tout a > 0, il existe deux réels b > 0 et C ≥ 0 tels que, pour tout f appartenant à Iφ (Kg ), on ait
+U (f )a ≤ C f b .
+
+(6.2)
+
+On note b1# et C"1 les constantes de l’inégalité (6.2) associées à a = 1.
+Soit a2 ∈ 0, b41 , on note b2 et C2 les constantes de l’inégalité (6.2) associées à a = a2 .
+Pour tout r > 0, tout n ∈ N∗ et tout y ∈ R, on pose gr,n (y) = U (fr,n )(0,y). En écrivant un développement
+(n)
+de Taylor de la fonction gr,n à l’ordre n − 1, on obtient
+n
+n
+
+ (n)
+gr,n (y) − 1 ≤ y U (fr,n ) (2n)! exp(φ(2a2 n)) ≤ y C2 fr,n  (2n)! exp(φ(2a2 n)) .
+a2
+b2
+n!
+n!
+
+Soit
+
+
+τn =
+
+n!
+1
+2 (2n)! exp(φ(2a2 n))C2 fr,n b2
+
+ n1
+,
+
+alors, pour tout y ∈ [0,τn ], on a
+
+ (n)
+gr,n (y) − 1 ≤ 1 ,
+2
+et donc
+(n)
+gr,n
+(y) ≥
+
+1
+,
+2
+
+puis, par intégration,
+gr,n (y) ≥
+
+1 yn
+.
+2 n!
+
+En particulier, avec y = τn , on obtient
+1 τnn
+≤ gr,n (τn ) ≤ C1 fr,n b1
+2 n!
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+
+Math. Nachr. 279, No. 12 (2006)
+
+1311
+
+donc
+1
+≤ C1 C2 fr,n b1 fr,n b2 .
+(6.3)
+4(2n)! exp(φ(2a2 n))
+	
+
+
+On choisit γ < max b21 , b22 et on note D1 (resp. D2 ) la constante donnée par le Lemme 6.2 lorsque a = b21
+	
+
+
+resp. a = b22 . Alors, d’après l’inégalité (6.1), on a
+fr,n b1
+
+
+n−k2
+hφ(γt) (r) gγ
+1
+max
+.
+≤ D1 2 n
+hφ( b1 t) (r) n! 0≤k2 ≤n
+exp(φ(b1 k2 ))
+1
+
+2
+
+Soit (r2n )n ≥0 une suite décroissante de réels strictement positifs, de limite nulle, telle que, pour tout n ∈ N∗ ,
+on ait
+
+
+φ(b1 (n )) − φ(b1 (n − 1)) < − ln hφ(γt) (r2n ) gγ ≤ φ(b1 (n + 1)) − φ(b1 n ) .
+On a donc
+
+
+min
+
+0≤k2 ≤2n
+
+soit
+max
+
+hφ(γt) (r2n ) gγ
+
+k2
+
+
+n
+
+exp(φ(b1 k2 )) = hφ(γt) (r2n ) gγ
+exp(φ(b1 n ))
+
+
+2n −k2
+hφ(γt) (r2n ) gγ
+
+0≤k2 ≤2n
+
+exp(φ(b1 k2 ))
+
+=
+
+
+n
+hφ(γt) (r2n ) gγ
+exp(φ(b1 n ))
+
+.
+
+Pour tout n ∈ N∗ , on a donc
+
+
+fr,2n b1 ≤ D1 22n
+
+	
+
+
+n −1
+hφ(γt) (r2n )
+gnγ
+1
+.
+(2n )!
+exp(φ(b1 n ))
+
+D’autre part, si n est assez grand,
+
+2n −k2
+hφ(γt) (r2n ) gγ
+max
+≤ 1.
+0≤k2 ≤2n
+exp(φ(b2 k2 ))
+D’après (6.1), on a donc
+
+
+fr,2n b2 ≤ D2 22n
+
+1
+1
+.
+(2n )! hφ( b2 t) (r2n )
+2
+
+Ainsi, en utilisant (6.3),
+1
+1
+
+4 (4n )! exp(φ(4a2 n ))
+≤ C1 C2 D1 2
+
+2n
+
+
+n −1
+	
+n
+gγ
+hφ(γt) (r2n )
+
+1
+1
+1
+D2 22n
+
+
+(2n )!
+exp(φ(b1 n ))
+(2n )! hφ( b2 t) (r2n )
+2
+
+soit
+
+	
+
+n −2
+n
+hφ(γt) (r2n )
+gγ
+(2n )! (2n )!
+1
+4n
+≤ C1 C2 D1 D2 2
+4 (4n )! exp(φ(4a2 n ))
+exp(φ(b1 n ))
+
+et, par suite,
+	
+
+n −2
+n
+hφ(γt) (r2n )
+gγ
+1
+4n
+.
+≤ C1 C2 D1 D2 2
+exp(φ(b1 n ))
+2(4n +2) exp(φ(4a2 n ))
+www.mn-journal.com
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+1312
+
+Beaugendre: Opérateurs d’extension linéaires explicites
+
+"
+
+	
+#
+Ce qui est impossible, lorsque n tend vers
+puisque a2 ∈ 0, b41 . Donc il n’existe pas d’opérateur linéaire
+	 +∞
+
+
+continu d’extension, de Iφ (Kg ) dans Iφ R2 .
+Remarque 6.4 La démonstration de ce théorème s’inspire de celle de la proposition du paragraphe 7.1 de [3]
+concernant le cas d’un compact de R réduit à point. Ici les fonctions gr,n jouent le même rôle que les fonctions
+χp de [3].
+Remerciements Je tiens à remercier Monsieur Jacques Chaumat pour son aide précieuse.
+Je remercie également le referee pour ses remarques et suggestions utiles.
+
+Références
+[1] G. I. Balikov, Spaces of non-quasianalytic ultradifferentiable functions with polynomial basis, Bull. Polish Acad. Sci.
+Math. 40, No. 2, 81–85 (1992).
+[2] G. I. Balikov, Notes on the continuous linear extension operator and the basis in some DFS-spaces of ultradifferentiable
+functions on interval, Rostock. Math. Kolloq. 52, 47–56 (1998).
+[3] P. Beaugendre, Extensions de jets dans des intersections de classes non quasi-analytiques, Ann. Polon. Math. 76, 213–
+243 (2001).
+[4] R. W. Braun, R. Meise, and B. A. Taylor, Ultradifferentiable functions and Fourier analysis, Results Math. 17, 206–237
+(1990).
+[5] R. De Vore and G. Lorentz, Constructive Approximation (Springer-Verlag, Berlin – Heidelberg – New York, 1993).
+[6] U. Franken, Examples of compact sets with non-empty interior which do not admit a continuous linear extension operator
+for ultradifferentiable functions of Beurling type, Arch. Math. (Basel) 62, 239–247 (1994).
+[7] A. Goncharov, A compact set without Markov’s property but with an extension operator for C ∞ -functions, Studia Math.
+119, 27–35 (1996).
+[8] A. Goncharov, Spaces of Whitney functions with basis, Math. Nachr. 220, 47–57 (2000).
+[9] A. Goncharov, On the explicit form of an extension operator for C ∞ -functions, East J. Approx. 7, No. 2, 179–193
+(2001).
+[10] L. Hörmander, The Analysis of Linear Partial Differential Operators I (Springer-Verlag, Berlin – Heidelberg – New York,
+1990).
+[11] M. Langenbruch, Ultradifferentiable functions on compact intervals, Math. Nachr. 140, 109–126 (1989).
+[12] B. S. Mityagin, Approximate dimension and bases in nuclear spaces, Russian Math. Surveys 16, 59–127 (1961).
+[13] W. Pawłucki et W. Pleśniak, Extension of C ∞ functions from sets with polynomial cusps, Studia Math. 88, 279–287
+(1988).
+[14] H. J. Petzsche, Die Nuklearität der Ultradistributionsräume und der Satz vom Kern. II, Manuscripta Math. 27, 221–251
+(1979).
+[15] T. J. Rivlin, Chebyshev Polynomials, 2nd edn. (Wiley and Sons, New York, 1990).
+[16] S. Roman, The formula of Faà di Bruno, Amer. Math. Monthly 87, 805–809 (1980).
+[17] M. Tidten, Fortsetzungen von C ∞ -Funktionen, welche auf einer abgeschlossenen Menge in Rn definiert sind, Manuscripta Math. 27, 291–312 (1979).
+
+c 2006 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+
+www.mn-journal.com
+

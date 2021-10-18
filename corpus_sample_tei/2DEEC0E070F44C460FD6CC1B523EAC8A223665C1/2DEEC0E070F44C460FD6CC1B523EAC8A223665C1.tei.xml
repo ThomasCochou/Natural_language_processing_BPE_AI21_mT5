@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Un grand acteur, un honnête homme: une manifestation de la respectabilité en France au XIX<hi rend="superscript">e</hi> siècle, à travers l'article nécrologique de presse</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2009. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2009">2009</date>
+            <date type="published">2009</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Un grand acteur, un honnête homme: une manifestation de la respectabilité en France au XIX<hi rend="superscript">e</hi> siècle, à travers l'article nécrologique de presse</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Denis</surname>
+                        <forename type="first">Hélène</forename>
+                     </persName>
+                     <affiliation role="corresp">
+                        <email>kathryn.rees@queens.ox.ac.uk</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">2DEEC0E070F44C460FD6CC1B523EAC8A223665C1</idno>
+                  <idno type="ark">ark:/67375/HXZ-22ZZPLTF-F</idno>
+                  <idno type="DOI">10.1093/fs/knp142</idno>
+                  <idno type="publisher-id">knp142</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2009</date>
+                     <biblScope unit="vol">63</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="page" from="416">416</biblScope>
+                     <biblScope unit="page" to="429">429</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <head>Résumé</head>
+            <p>Au dix-neuvième siècle, en France, la mort d'un acteur connu montre une normalisation de la place accordée au sein de la société à un personnage héritier d'une suspicion civile et religieuse séculaire. Depuis la Révolution, la loi d'égalité des citoyens et le pouvoir de l'Église très amoindri, il ne s'agit plus de faire acte de renonciation au métier, de trouver des subterfuges ou de se cacher derrière des demi silences afin de bénéficier des rites communs à l'ensemble des membres de la société. Le rituel mortuaire, effectif et discursif, témoigne de la nouvelle position.</p>
+            <p>De manière encore plus significative, à travers les échos nécrologiques des journaux, l'époque exprime son souci de respectabilité. En un siècle où le théâtre occupe une place éminente dans la sociabilité et la psychologie des contemporains, les proches, les camarades de troupe ainsi que les journalistes s'emploient à renvoyer une image conformiste de l'artiste défunt, que celle-ci soit ou non proche de la réalité des faits. Le cas de quelques interprètes de la comédie et du vaudeville — genres particulièrement prisés et servis par des talents remarquables — nous introduit à la fois dans l'évolution du statut social de l'acteur et dans les préoccupations comportementales de ses compatriotes.</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Stendhal, dans ses essais de journalisme au cours des années 1820, revient sur le célèbre comique Préville (mort en 1799) en ces termes: ce ‘n’était pas seulement, semble-t-il, un comédien de premier ordre, mais aussi un homme des plus estimable et des plus digne d'éloges dans sa vie privée. Beaucoup de traits de son existence lui font le plus grand honneur'.<hi rend="superscript">
+               <ref type="fn" target="#FN1">1</ref>
+            </hi> Cette vision de l'acteur, selon qu'il s'agisse de la sphère publique ou privée, s'avère une constante au dix-neuvième siècle. Elle traduit un état d'esprit collectif où faits sociaux et politiques, anciens ou récents, s'imbriquent pour produire une nouvelle vision du comédien, à la fois tributaire et affranchie du regard séculaire dépréciatif. La mort de quelques artistes connus, au service de la comédie sous la Restauration, offre un angle d'observation fort évocateur. Le groupe se révèle intéressant à deux titres: le face à face du comique et de la mort rebute; le hasard des décès les fait s'échelonner entre 1826 et 1888, une chronologie qui autorise quelques échos sur le siècle précédent et couvre la presque totalité du siècle considéré. Quant à la presse, elle présente un intérêt indéniable. Outre sa richesse, peu exploitée de manière exhaustive (contrairement à la littérature), elle restitue les opinions qui ont cours dans le corps social: celles du contemporain ordinaire, pour qui le théâtre représente un plaisir favori et une pratique sociale majeure; celles du microcosme artistique, car nombre de journalistes sont également hommes de lettres, auteurs dramatiques. Ainsi lorsque nous citons Stendhal ou Gautier, c'est au titre de journaliste. La mort d'un interprète et la relation nécrologique dans la presse qui en découle apportent une contribution à la connaissance du dix-neuvième siècle français face à ses acteurs.</p>
+         <p>Jusqu'à la Révolution, ceux-ci vivent une situation très délicate: courtisés par les élites qu'ils divertissent, ils se trouvent maintenus à la marge du corps social par les pouvoirs civil et religieux. Leur art est suspect et par contrecoup leur personne. Le dix-huitième siècle connaît de grands artistes loués individuellement, tandis que dans le mental collectif s'est forgé un personnage social type, porteur de la réprobation quasi universelle, y compris de la part des auteurs dramatiques, tels Riccoboni, Diderot, Rousseau, Restif de la Bretonne.<hi rend="superscript">
+               <ref type="fn" target="#FN2">2</ref>
+            </hi> Cas unique en Europe, les gens du métier se voient dans l'obligation d'user de subterfuges, de semi-vérités, ou dans les cas extrêmes de renonciation à leur état, afin de se marier, d'être enterrés, de faire baptiser leurs enfants (ce qui vaut alors acte d'état civil). Et si le cas d'Adrienne Lecouvreur se révèle exceptionnel par son indignité, reste que l'immense Lekain, tant acclamé de son vivant, se voit dans l'obligation de faire acte de renonciation durant son agonie, afin de bénéficier des rites religieux ultimes. Par ailleurs, si un long éloge accompagne son décès dans le <hi rend="italic">Mercure de France</hi> (le <hi rend="italic">Journal de Paris</hi> publie une annonce), celui-ci s'attarde avant tout sur le talent. Quelques qualités humaines se trouvent citées, mais sans développement. Quant à l'aspect de l'élément d'un tout social, il n'est pas abordé. Son camarade de troupe Bellecour, qui meurt quelques mois plus tard, a droit à un traitement de même nature, mais beaucoup plus bref.<hi rend="superscript">
+               <ref type="fn" target="#FN3">3</ref>
+            </hi> Toutefois, si des éloges s'expriment envers quelques interprètes éminents des grands théâtres, de leur vivant ou au moment de leur mort, l'ensemble du métier reste quant à lui soumis à la marginalité ou l'indignité. Martine de Rougemont observe que la ‘menace pèse toujours tant qu'existent des lois défavorables, même si elles ne sont pas appliquées dans toutes les circonstances’. Ni les pouvoirs, ni le public ‘n'ont admis des revendications qui auraient annulé la différence entre les acteurs et les spectateurs’.<hi rend="superscript">
+               <ref type="fn" target="#FN4">4</ref>
+            </hi> Aussi, de manière significative, la Révolution les inclut-elle dans son œuvre émancipatrice, par une décision de décembre 1789.</p>
+         <p>Est-ce à dire que l'ancien préjugé disparaît d'un coup? Non, la mise à l'index persiste, avec cependant des caractéristiques propres aux normes socio-psychologiques du dix-neuvième siècle. Participant au mouvement de nette affirmation de l'individu, la condamnation se base dorénavant essentiellement sur la personnalité d'un sujet, son respect ou non de la règle sociale commune. Sous la Restauration, les témoignages vont dans le sens d'une honorabilité généralisée au sein du métier. Un ‘grand nombre’ ‘se distinguent par les qualités les plus recommandables’.<hi rend="superscript">
+               <ref type="fn" target="#FN5">5</ref>
+            </hi> Les piliers de la société bourgeoise triomphante: la famille — monogame et nucléaire — l'éducation, le savoir, l'avoir, sont autant d'éléments que les acteurs auraient fait leurs. ‘Les liens de la famille, si dédaignés dans le dernier siècle, ont repris leur puissance au théâtre comme dans le monde; les comédiens font donner à leurs enfans [<hi rend="italic">sic</hi>] une éducation qui leur permet de servir utilement leur pays’.<hi rend="superscript">
+               <ref type="fn" target="#FN6">6</ref>
+            </hi> C'est aussi une sociabilité ouverte, respectable, autorisée par un argent dépensé intelligemment:
+<cit>
+               <quote>
+                  <p>ceux dont la fortune a récompensé le talent, font un noble usage de leur opulence; leur maison ouverte à toutes les notabilités de notre époque offre la réunion de la meilleure compagnie, et le ton qui y règne pourrait servir de modèle à bien des salons aristocratiques où la frivolité de l'ancien régime a reparu avec tous ses ridicules.<hi rend="superscript">
+                        <ref type="fn" target="#FN7">7</ref>
+                     </hi>
+                  </p>
+               </quote>
+            </cit>Et la banqueroute d'un agent de change est l'occasion de lire en 1823: ‘maintenant que les comédiens font des économies, les agents-de-change font faillite: c'est le monde renversé.’<hi rend="superscript">
+               <ref type="fn" target="#FN8">8</ref>
+            </hi>
+         </p>
+         <p>Peut-on penser que les journalistes, notamment les chroniqueurs des spectacles, parties prenantes dans l'existence de l'art dramatique — sa publicité, et sa création, lorsque le journaliste est aussi auteur de pièces — souhaitent enjoliver une réputation générale encore teintée de suspicion? Cela ne semble pas être le cas. D'autant que rites mortuaires, civils et religieux, qui ne dépendent pas du journaliste, participent au phénomène de normalisation. Au vu des témoignages, nous sommes plutôt face à un travail de mémoire, encadré par la convention des mœurs, laquelle s'applique à tout personnage ayant rencontré une quelconque notoriété. D'une manière plus générale encore, la position du comédien décédé se situe dans la mouvance d'un renforcement du sentiment de soi qui affecte les autres composantes de la société. D'où une ‘hypertrophie de la vanité rassurante’,<hi rend="superscript">
+               <ref type="fn" target="#FN9">9</ref>
+            </hi> selon les termes d'Alain Corbin, observée lors des rituels mortuaires. Ce phénomène de bonification et d'honorabilité post mortem connaît une inflation caractérisée au cours du siècle.</p>
+         <p>De fait, la mort des acteurs, telle que rapportée par la presse, présente tous les signes de conformité avec la norme bourgeoise triomphante. Certes ces échos subissent des filtres divers: personnalité des journalistes, sources, discours sur la tombe (prononcé le plus souvent par un autre artiste, ou encore un proche, un auteur), mais ils obéissent également aux conventions de l'honorabilité et de la discrétion prisées par l'élite sociale de l'époque. La bourgeoisie se montre à la fois soucieuse de son image auprès des survivants et de la protection de son espace privé. Elle craint le scandale. Par ailleurs, moralement, tout ne peut se dire face au tragique de la mort. Ainsi que le constate Théophile Gautier: ‘On salue le mort d'hier, on craint d'en dire du mal, d'offenser sa cendre, son ombre, et l'on se permet tout avec les trépassés d'un siècle ou de vingt siècles […] comme si les morts avaient un âge.’<hi rend="superscript">
+               <ref type="fn" target="#FN10">10</ref>
+            </hi> Quand bien même ces échos transcrivent une partie plus ou moins grande de la réalité d'un être, ils illustrent aussi un mode de pensée du grand nombre.</p>
+         <p>Dans ce contexte, la part belle est faite à des qualités dites humaines, de cœur, ainsi qu'à des qualités relevant de la raison, de l'intellect. Là, le concept français de l'<hi rend="italic">honnête homme</hi> se voit rejoint par le concept anglais de <hi rend="italic">respectabilité</hi>, lequel s'installe précisément au cours du dix-neuvième siècle. Le qualificatif d'<hi rend="italic">honnête</hi> doit être pris dans un sens plus large que celui de la seule probité. Il renvoie aussi à l'égalité de caractère, la modestie, la discrétion, toutes qualités génératrices de mœurs régulières, de concorde sociale.</p>
+         <p>Bonté et probité sont indéniablement des vertus. La première prend place en un siècle où la charité relève de l'acte presque obligé de bonne conduite des classes bourgeoises. Les acteurs participent pleinement à cette tendance, par des représentations, eux qui aspirent à la régularisation de leur statut et sont la plupart du temps issus des diverses strates de la bourgeoisie; eux qui savent les aléas matériels entraînés par leur métier précaire. Leur générosité est transgénérationnelle, se manifeste à titre privé, professionnel, civil.</p>
+         <p>L'enterrement de Joly en 1839 fait surgir la figure d'un très vieux soldat de l'Ancien Régime totalement démuni, pleurant son bienfaiteur qui lui versait une pension. Lepeintre a passé une vie à faire le bien, à soutenir sa famille;<hi rend="superscript">
+               <ref type="fn" target="#FN11">11</ref>
+            </hi> ‘grand cœur’, il hébergea la femme de l'acteur Rosière [<hi rend="italic">sic</hi>], indigente.<hi rend="superscript">
+               <ref type="fn" target="#FN12">12</ref>
+            </hi> Michot, selon son camarade de troupe Cartigny dans son discours funèbre, fut bon, aimable, excellent camarade.<hi rend="superscript">
+               <ref type="fn" target="#FN13">13</ref>
+            </hi> L'acteur Tisserant, placé dans une circonstance similaire, souligne la vie d'honnête homme de Klein, les bonnes et nobles actions qui parsemèrent sa vie, mais aussi sa modestie, puisque le défunt ne les ébruitait pas — un ‘homme de bien’.<hi rend="superscript">
+               <ref type="fn" target="#FN14">14</ref>
+            </hi> Quant à l'intervention de l'acteur Samson, elle fait l'éloge des qualités d'Adrien Perlet, sa générosité et son dévouement envers sa famille et ses amis — son gendre considéré comme un fils, les soins prodigués à son épouse malade et mourante. Un parfait exemple, en un siècle où la famille occupe une place éminente. Un ami exemplaire aussi, avec le désistement en faveur de Samson dans la compétition pour le premier prix du Conservatoire censé éviter à ce dernier la conscription impériale (du moins les jeunes gens le pensaient).<hi rend="superscript">
+               <ref type="fn" target="#FN15">15</ref>
+            </hi> Ce sont aussi la générosité, l'humanité de Lafont, indiquées sobrement dans le discours de son ami Dumoulin.<hi rend="superscript">
+               <ref type="fn" target="#FN16">16</ref>
+            </hi> Dans cette ambiance laudative, Préval, le camarade qui a aidé l'acteur Legrand, malade, se trouve porté à la connaissance — et reconnaissance — publique.<hi rend="superscript">
+               <ref type="fn" target="#FN17">17</ref>
+            </hi> L'amitié entre artistes fait une bonne publicité à l'ensemble d'un corps dont les membres sont taxés d'individualisme outrancier et malveillant.</p>
+         <p>L'honnêteté plaît, dans toute l'acception définie plus haut. Lui sont souvent accolés des qualificatifs qui amplifient le caractère d'honorabilité. Si Gontier faisait preuve d'une ‘exquise probité’,<hi rend="superscript">
+               <ref type="fn" target="#FN18">18</ref>
+            </hi> Odry est reconnu honnête homme, cœur loyal et droit,<hi rend="superscript">
+               <ref type="fn" target="#FN19">19</ref>
+            </hi> Michot ‘parfait honnête homme’ et ‘bon citoyen’,<hi rend="superscript">
+               <ref type="fn" target="#FN20">20</ref>
+            </hi> Vernet, l'‘un des plus honnêtes […] artistes de ce temps-ci';<hi rend="superscript">
+               <ref type="fn" target="#FN21">21</ref>
+            </hi> Firmin, ‘honnête et galant homme’.<hi rend="superscript">
+               <ref type="fn" target="#FN22">22</ref>
+            </hi> L'affabilité de certains est appréciée. Brunet était doté d'une nature ‘douce et inoffensive’.<hi rend="superscript">
+               <ref type="fn" target="#FN23">23</ref>
+            </hi> Le caractère doux, égal, obligeant de Clozel, évoqué par le <hi rend="italic">Moniteur des théâtres</hi>,<hi rend="superscript">
+               <ref type="fn" target="#FN24">24</ref>
+            </hi> rencontre l'approbation du redoutable critique Charles Maurice, lequel pense légitime de regretter cette perte.<hi rend="superscript">
+               <ref type="fn" target="#FN25">25</ref>
+            </hi> La modestie surgit également, avec Brunet<hi rend="superscript">
+               <ref type="fn" target="#FN26">26</ref>
+            </hi> et Perlet.<hi rend="superscript">
+               <ref type="fn" target="#FN27">27</ref>
+            </hi> Une fois la scène quittée, après avoir été un ‘illustre parmi les grotesques’, Odry ‘a été tout simplement un honnête homme’.<hi rend="superscript">
+               <ref type="fn" target="#FN28">28</ref>
+            </hi> Aux yeux de l'acteur Tisserant, l'honnêteté revêt un sens professionnel: Klein s'est montré un homme probe, modeste, laborieux, un modèle de conscience envers son métier.<hi rend="superscript">
+               <ref type="fn" target="#FN29">29</ref>
+            </hi> Cette échelle de valeurs court durant tout le siècle, puisqu'en 1888 le défunt Bouffé est dit ‘brave et honnête homme, dans toute la force du terme’.<hi rend="superscript">
+               <ref type="fn" target="#FN30">30</ref>
+            </hi> Le malheur accorde un surcroît de mérite. Bernard-Léon s'en est allé accompagné de l'estime publique, et la réputation d'un honnête homme frappé par le sort. Regret d'un journaliste: le talent et la probité devraient aller de paire; malheureusement, il n'en est rien, aussi, il ‘faut louer ceux dont le cœur est assez grand pour les [qualités] contenir toutes deux’.<hi rend="superscript">
+               <ref type="fn" target="#FN31">31</ref>
+            </hi> Lepeintre, le soir de son suicide, s'est acquitté d'une dette, avant terme prend-on soin de souligner.<hi rend="superscript">
+               <ref type="fn" target="#FN32">32</ref>
+            </hi>
+         </p>
+         <p>Dans ce mouvement de bonification généralisée, il arrive d'outrepasser la réalité. Charles Potier, d'après des témoignages calculateur, égocentrique et distant, se retrouve sous la plume de son admirateur Briffault, un ‘homme si bon’, un retraité qui ‘vivait heureux, calme, gai de ses souvenirs, riant encore, faisant du bien et exerçant la plus charmante hospitalité’.<hi rend="superscript">
+               <ref type="fn" target="#FN33">33</ref>
+            </hi> De même le panégyrique de son confrère du <hi rend="italic">Corsaire</hi> apparaît-il comme un exercice politique destiné à noircir le prince de Talleyrand, tant honni, mort au même moment que le comique.<hi rend="superscript">
+               <ref type="fn" target="#FN34">34</ref>
+            </hi>
+         </p>
+         <p>Le deuxième groupe de qualités très remarquées fait référence, d'une part à la présentation de soi, aux bonnes manières, d'autre part aux connaissances. La distinction, l'élégance, le polissage des aspérités de la nature humaine, font partie d'un code des apparences distinctivement français. Instauré par la noblesse d'Ancien Régime, ce code n'a pas disparu avec celui-ci, du moins en ce qui concerne sa perception. A vingt-et-un ans de distance, Armand et Lafont sont remémorés pour en avoir été des parangons, à la scène comme à la ville. Perlet pour sa part possédait une ‘distinction naturelle’.<hi rend="superscript">
+               <ref type="fn" target="#FN35">35</ref>
+            </hi> Le concept anglais du <hi rend="italic">gentleman</hi> s'est introduit dans le mental français. Jean-Toussaint Merle, qui a fait le voyage à Londres, et dont le journal s'adresse à la noblesse légitimiste où l'on compte des anglomanes, évoque en 1838 un Potier <hi rend="italic">gentleman</hi>, semblable dans ses manières à l'acteur Young,<hi rend="superscript">
+               <ref type="fn" target="#FN36">36</ref>
+            </hi> à savoir grand artiste et homme du monde. En 1873, Lafont est considéré de même, au point pour ce bourgeois d'en remontrer sur scène aux seigneurs par le hasard de la naissance.<hi rend="superscript">
+               <ref type="fn" target="#FN37">37</ref>
+            </hi>
+         </p>
+         <p>La vie privée estimable, placée sous la régularité, figure dans ce catalogue du juste comportement. Legrand montrait des ‘habitudes modestes’,<hi rend="superscript">
+               <ref type="fn" target="#FN38">38</ref>
+            </hi> tandis qu'Odry avait des ‘mœurs douces et honnêtes’.<hi rend="superscript">
+               <ref type="fn" target="#FN39">39</ref>
+            </hi> Baptiste aîné fut un homme ‘estimable pour ses qualités privées et pour sa conduite dans le monde’.<hi rend="superscript">
+               <ref type="fn" target="#FN40">40</ref>
+            </hi> Son camarade de troupe, Firmin, ‘méritait par sa conduite privée l'estime générale dont il jouissait, non seulement auprès des gens de lettres et des artistes, mais aussi dans la société’.<hi rend="superscript">
+               <ref type="fn" target="#FN41">41</ref>
+            </hi> Le cas de Tiercelin éclaire de manière forte ce besoin ambiant. Son répertoire a comporté nombre de caractères triviaux, de quoi favoriser l'image d'un homme grossier dans son quotidien. Mais le vaudevilliste Brazier, qui l'a bien connu, atteste d'une vie privée honorable.<hi rend="superscript">
+               <ref type="fn" target="#FN42">42</ref>
+            </hi> Le journaliste Goizet va encore plus loin, à l'aide d'un rôle célèbre du défunt, celui de Taconet, lui-même acteur fameux du siècle précédent, dont l'intempérance valut une mort misérable à l'hôpital. Tiercelin fut au contraire ‘un père de famille, un citoyen, utile, honoré’.<hi rend="superscript">
+               <ref type="fn" target="#FN43">43</ref>
+            </hi> Par utile, le journaliste entend le métier d'acteur dont nombre de contemporains ne contestent plus l'intérêt pour l'ensemble social. Tout ceci renvoie l'image d'hommes rangés, en plein accord avec la civilité du temps, une fois quittés les travestissements du comique.</p>
+         <p>Autre manifestation du caractère très chère au siècle et qui se rattache en partie à la forte poussée de l'individualité: la méritocratie. On retrouve cette admiration dans l'exclamation de Tisserant à l'adresse du défunt Klein en 1849: ‘Fils de tes œuvres! Enfant du peuple, tu vins au monde artisan, ton génie te fit comédien.’<hi rend="superscript">
+               <ref type="fn" target="#FN44">44</ref>
+            </hi> Le mort a illustré ce que peut la force du talent, la persévérance de l'homme parti de peu. C'est verser dans le dithyrambe dans ce cas précis. En fait, il y a croisement de deux facteurs, biographique et sociologique. Tisserant a partagé la position de Klein. Tous deux ont peiné, ont été apprentis puis artisans avant d'opter pour le théâtre à part entière. Et ce combat individuel s'insère dans la lutte pour la fin du préjugé à l'encontre des comédiens et la reconnaissance du génie chez certains d'entre eux. Tisserant est d'ailleurs très impliqué dans la vie de l'Association des artistes dramatiques (créée en 1840). De son côté, Potier, en dépit de ses origines familiales (noblesse de robe parisienne) dut sa fortune à ses œuvres et non pas à un héritage.<hi rend="superscript">
+               <ref type="fn" target="#FN45">45</ref>
+            </hi> Les Révolutions de 1789 et de 1830 laissent des traces, chez les acteurs comme parmi leurs concitoyens.</p>
+         <p>La norme bourgeoise valorise la possession d'un socle de connaissances, où les lettres classiques, les humanités, figurent en bonne place, accompagnées par la pratique amateur de quelques arts dits majeurs, particulièrement la musique et le dessin. Le discours de Dumoulin sur la tombe de Lafont, dans la forme et le fond, obéit à cette éducation bourgeoise, par ses références à Bossuet, Socrate, Montesquieu.<hi rend="superscript">
+               <ref type="fn" target="#FN46">46</ref>
+            </hi> Conséquence de cette aspiration pressante, l'absence d'instruction n'échappe pas à l'œil du portraitiste, mais se voit détournée au profit de l'ignorant. Elle conforte la méritocratie tant prisée. Armand était à peu près illettré, selon Darthenay,<hi rend="superscript">
+               <ref type="fn" target="#FN47">47</ref>
+            </hi> et l'instruction sommaire de Bouffé se voit citée.<hi rend="superscript">
+               <ref type="fn" target="#FN48">48</ref>
+            </hi> Cependant, ni l'un ni l'autre n'ont, selon les apparences, vécu ceci comme un handicap, tant sur le plan personnel que sur le plan social. Armand possédait l'esprit et l'intelligence (alliés à son maintien parfait), d'après la même source. Quant à Bouffé, il sut prendre la plume pour produire des <hi rend="italic">Souvenirs</hi>, que le <hi rend="italic">Petit journal</hi> qualifie d'intéressants.<hi rend="superscript">
+               <ref type="fn" target="#FN49">49</ref>
+            </hi> Surtout, l'instruction initiale très lacunaire n'a pas empêché ce comédien de recevoir un titre d'officier d'académie, à une époque où la soif d'honneurs, de reconnaissance officielle et visible caractérise les roturiers. Le fait se révèle encore plus saillant pour les acteurs, en raison du poids du passé et de la rareté de l'attribution. Samson partage avec Bouffé le privilège d'une décoration, ce que n'omettent pas de signaler des journaux lors de leurs décès.</p>
+         <p>A propos des arts, l'on apprend que le jeune Ferville fut un violoniste talentueux durant sa jeunesse<hi rend="superscript">
+               <ref type="fn" target="#FN50">50</ref>
+            </hi> et que Baptiste aîné, musicien, amateur de peinture, eut aussi le talent de la conversation.<hi rend="superscript">
+               <ref type="fn" target="#FN51">51</ref>
+            </hi> C'est encore l'extrême habileté manuelle de Joly pour le dessin, la gravure sur métal, la menuiserie, manifestées par sa contribution à la genèse de la fameuse galerie d'acteurs du libraire Martinet ainsi qu'un théâtre miniature représentant la machinerie de l'Opéra. Honneur manifeste, celui-ci valut à son auteur d'être appelé aux Tuileries pour distraire les deux enfants royaux, Mademoiselle et le duc de Bordeaux.<hi rend="superscript">
+               <ref type="fn" target="#FN52">52</ref>
+            </hi> Quant à Tiercelin, il avait commencé par la peinture et n'était pas mauvais dans cet art.<hi rend="superscript">
+               <ref type="fn" target="#FN53">53</ref>
+            </hi> Dans sa jeunesse, le peintre en devenir ne pensait pas à la carrière d'acteur, d'après le témoignage du vaudevilliste Brazier.<hi rend="superscript">
+               <ref type="fn" target="#FN54">54</ref>
+            </hi> Toutefois des silences s'affichent à propos d'aptitudes que l'on se serait attendu à voir citées, en raison de leur caractère valorisant. Aucune allusion n'est faite aux talents de dessinateur, de pastelliste de l'illustre Potier.<hi rend="superscript">
+               <ref type="fn" target="#FN55">55</ref>
+            </hi> Plus étonnant encore, rien n'est dit de la culture certaine des lettres et des humanités possédée par Michelot.<hi rend="superscript">
+               <ref type="fn" target="#FN56">56</ref>
+            </hi>
+         </p>
+         <p>L'article nécrologique expose des liens familiaux attendus par la morale environnante, que ce soit durant la vie du sujet ou lors du rituel autour de sa mort. Car la ‘famille n'est pas seulement un patrimoine. Elle est aussi un capital symbolique d'honneur’,<hi rend="superscript">
+               <ref type="fn" target="#FN57">57</ref>
+            </hi> pour reprendre Michelle Perrot, de légitime fierté. Ainsi, un trio se rattache à la société de l'Ancien Régime, son savoir-vivre et le ton qu'elle avait su donner à toute l'Europe. Nonobstant son mérite personnel, Potier était issu d'une ‘illustre famille de robe’.<hi rend="superscript">
+               <ref type="fn" target="#FN58">58</ref>
+            </hi> Merle, royaliste, précise que la Révolution ne l'a pas épargné en provoquant la perte de son avoir.<hi rend="superscript">
+               <ref type="fn" target="#FN59">59</ref>
+            </hi> L'année suivante, Joly est dit fils d'un officier de bouche de la maison d'Orléans, également ruiné par 1789.<hi rend="superscript">
+               <ref type="fn" target="#FN60">60</ref>
+            </hi> Ces informations devaient toucher certains lecteurs des classes moyennes, commerçants, rentiers, officiers et clercs divers, qui voyaient avec inquiétude le règne de Louis-Philippe agité de soubresauts. Enfin la proximité des parents d'Armand avec l'ancienne Cour se trouve rappelée, sous le Second Empire.<hi rend="superscript">
+               <ref type="fn" target="#FN61">61</ref>
+            </hi> L'honorabilité du commerce mérite reconnaissance et citation. Le milieu de Firmin — également affecté par la Révolution — le rattachait au négoce, apprend-on,<hi rend="superscript">
+               <ref type="fn" target="#FN62">62</ref>
+            </hi> tandis que, selon une formule consacrée par et pour la bourgeoisie, Odry était le fils d'un ‘honnête commerçant’<hi rend="superscript">
+               <ref type="fn" target="#FN63">63</ref>
+            </hi> — en réalité un modeste cordonnier dont on ne sait rien.</p>
+         <p>Le couple et la descendance participent à la respectabilité. Au sommet de l'exemplarité matrimoniale, empreinte de sentimentalité et de pathos, Perlet a vu sa mort hâtée par le chagrin éprouvé à la perte de sa femme,<hi rend="superscript">
+               <ref type="fn" target="#FN64">64</ref>
+            </hi> et Bouffé a célébré ses noces de diamant peu de temps avant son décès.<hi rend="superscript">
+               <ref type="fn" target="#FN65">65</ref>
+            </hi> Sur un ton plus sobre, l'estime d'Odry envers sa femme est rapportée au détour d'une anecdote.<hi rend="superscript">
+               <ref type="fn" target="#FN66">66</ref>
+            </hi> Joly vivait auprès d'une épouse ‘aimable’.<hi rend="superscript">
+               <ref type="fn" target="#FN67">67</ref>
+            </hi> Dans ce contexte, l'usage n'est pas de s'étendre sur les unions malheureuses ou extra conjugales. Les enfants, et exceptionnellement les petits-enfants, viennent compléter le tableau de famille. Potier a vécu une ‘longue et honorable vie, comme acteur et comme père de famille’.<hi rend="superscript">
+               <ref type="fn" target="#FN68">68</ref>
+            </hi> En plus d'une femme aimable, Joly avait une fille charmante, qu'il eut ‘le bonheur’ d''établir avantageusement'. Par là, il faut entendre le mariage avec un notaire de la Nièvre, région où l'acteur s'était retiré.<hi rend="superscript">
+               <ref type="fn" target="#FN69">69</ref>
+            </hi> Mais l'honorabilité peut être secrétée par le milieu artiste. La fille de Clozel est ‘très bien élevée’ et se destine au théâtre.<hi rend="superscript">
+               <ref type="fn" target="#FN70">70</ref>
+            </hi> Il n'y a plus d'incompatibilité entre deux positions jadis jugées antagonistes. Comme tout bourgeois respectable, un acteur peut se montrer soucieux des valeurs portées par l'éducation — sur le plan comportemental et cognitif. De quoi convaincre le lecteur encore sceptique du changement intervenu dans les mœurs du métier. Toutefois, avides de promotion sociale tout autant que désireux d'épargner des écueils connus, les artistes peuvent rêver d'une autre destinée pour leur progéniture. Monrose ne voulait pas que ses enfants embrassent la carrière d'acteur. En vain, l'attrait pour le métier fut plus fort.<hi rend="superscript">
+               <ref type="fn" target="#FN71">71</ref>
+            </hi> Quant à Numa, étoile du Boulevard, ayant deux ménages (ce qui n'est pas mentionné dans les articles nécrologiques), il assumait le rôle d'un bon grand-père, menant à la promenade ses petits-fils, ‘en bon bourgeois qui prend l'air’.<hi rend="superscript">
+               <ref type="fn" target="#FN72">72</ref>
+            </hi> Dans le sillage réprobateur de l'évocation des unions illégitimes, les enfants adultérins ne sont pas mentionnés. Les cas des fils de Bosquier-Gavaudan et de Numa se révèlent d'autant plus remarquables que les Parisiens connaissent leur existence, puisqu'ils se sont engagés dans la carrière théâtrale, et le second sous le nom de son père.<hi rend="superscript">
+               <ref type="fn" target="#FN73">73</ref>
+            </hi>
+         </p>
+         <p>La règle de valorisation du défunt, traduction d'une aspiration générale de la société, jointe à la peur de la mort de la part des vivants, motive la retenue, quand ce n'est pas le silence pudique lorsqu'il s'agit d'aborder les aléas de la vie. Cependant, en dépit de cette règle restrictive, les malheurs ou les tragédies qui affectent l'acteur ou sa descendance ne sont pas toujours tus. Sur cet aspect, l'information dépend aussi de la personnalité des journalistes, de l'estime ou de la sympathie portée à l'égard du comédien décédé.</p>
+         <p>La famille n'est pas seulement une évocation à caractère généalogique, même si les notions de lignage et de transmission préoccupent les esprits. Elle participe activement à la composition de l'image sociale édifiante. Clozel s'est éteint très doucement, comme en dormant, dans les bras de ses enfants.<hi rend="superscript">
+               <ref type="fn" target="#FN74">74</ref>
+            </hi> Lafont agonise entouré de tous les siens.<hi rend="superscript">
+               <ref type="fn" target="#FN75">75</ref>
+            </hi> Le trépas de Potier montre un homme mourant dans les bras de sa femme, en pressant la main de ses enfants.<hi rend="superscript">
+               <ref type="fn" target="#FN76">76</ref>
+            </hi> Mme Michot et sa belle-sœur sont dites deux femmes ‘inconsolables’.<hi rend="superscript">
+               <ref type="fn" target="#FN77">77</ref>
+            </hi> Dans le registre de la piété filiale, le fils de Perlet, en proie à une émotion paroxystique, fut soutenu à l'église et ramené chez lui, sans pouvoir se rendre au cimetière.<hi rend="superscript">
+               <ref type="fn" target="#FN78">78</ref>
+            </hi> Celui de Clozel (né d'une union libre, fait non cité) dirige le deuil, après avoir été présent à l'agonie de son père.<hi rend="superscript">
+               <ref type="fn" target="#FN79">79</ref>
+            </hi> Quand il n'y a pas d'enfant, un membre de la famille — y compris par alliance — fait office de substitut. L'important est que la marque familiale, clanique, soit manifeste, qu'il n'y ait pas le constat d'un abandon. Ainsi le neveu de la femme de Michot, Victor Augier, est venu tout exprès du sud de la France, afin d'assister le vieil acteur.<hi rend="superscript">
+               <ref type="fn" target="#FN80">80</ref>
+            </hi> La fin de vie douloureuse de Baptiste aîné s'est trouvée adoucie par l'amitié de son frère, l'affection de sa famille;<hi rend="superscript">
+               <ref type="fn" target="#FN81">81</ref>
+            </hi> or dans le même temps, nous apprenons que l'on a caché la mort du premier au survivant, afin d'éviter un choc psychologique qui aurait pu être fatal à un homme frappé de faiblesse mentale.<hi rend="superscript">
+               <ref type="fn" target="#FN82">82</ref>
+            </hi> La contradiction expose le désir de construction d'une image édifiante. Outre cette parenté, des amis apparaissent, le plus souvent par une évocation à caractère global.</p>
+         <p>Une autre marque essentielle de l'honorabilité se situe sur un tout autre registre. Il s'agit de l'avoir. Un mode de pensée ancien n'associe pas la thésaurisation avec le comédien. Mais là encore, l'acteur de ce siècle adhère aux codes lorsque la possibilité lui en est offerte, et que son caractère s'y prête. La presse répercute l'acte de possession, notamment dans l'annonce nécrologique. Si le monétaire se trouve placé sous l'égide de la discrétion — bien que partout agissant, et le capteur de multiples énergies ambitieuses — l'immobilier ou le foncier se révèlent plus faciles à évoquer. Certains artistes ont tiré un profit matériel de leur carrière, d'autres non. Le montant des contrats a joué (même les vedettes se font exploiter par des directeurs rapaces, notamment durant la première moitié du siècle), mais aussi les tempéraments et quelquefois les coups du sort.</p>
+         <p>Michot ‘laisse une fortune considérable’,<hi rend="superscript">
+               <ref type="fn" target="#FN83">83</ref>
+            </hi> sans doute le fruit de bons placements. Perlet est mort avec un avoir d'une importance certaine, dû à son talent et son travail.<hi rend="superscript">
+               <ref type="fn" target="#FN84">84</ref>
+            </hi> Toutefois, face à ces hommes habiles et sages, une majorité a vécu de revenus modestes. La rente stable est privilégiée par le siècle. Ferville a pris sa retraite, ‘suffisamment renté’.<hi rend="superscript">
+               <ref type="fn" target="#FN85">85</ref>
+            </hi> Une fois retiré, Odry fut un ‘bien modeste rentier’.<hi rend="superscript">
+               <ref type="fn" target="#FN86">86</ref>
+            </hi> Une condition partagée par Gontier, l'étoile du Gymnase sous la Restauration, lequel vivait dans une ‘aisance modeste’.<hi rend="superscript">
+               <ref type="fn" target="#FN87">87</ref>
+            </hi> Quant au suicide de Lepeintre, il apparaît motivé par la perte de ‘sa petite fortune péniblement édifiée’.<hi rend="superscript">
+               <ref type="fn" target="#FN88">88</ref>
+            </hi> Une position malheureuse que tout lecteur pouvait aisément comprendre. Legrand présente une spécificité. A son égard s'exprime un sentiment d'injustice inusité: cet acteur, mort assez jeune, n'a pu profiter des fruits de sa patience, de ses efforts. En outre, son héritière serait sa domestique, dont les soins et l'attention ont entouré son maître malade.<hi rend="superscript">
+               <ref type="fn" target="#FN89">89</ref>
+            </hi> La double information a dû satisfaire des contemporains préoccupés par leur enrichissement, au moyen du travail et de l'épargne pour reprendre une pensée du ministre Guizot. Qui plus est, l'argent sorti des bourses respectables pour assister à une représentation n'avait pas servi à alimenter des mœurs futiles ou condamnables. Le dévouement sortait vainqueur de la confrontation avec le néant. La mort, en frappant un garçon de bonnes mœurs et un jeune talent, se montrait injuste, mais l'injustice se trouvait quelque peu réparée.</p>
+         <p>Le rêve de nombreux bourgeois s'incarne dans la propriété d'une maison. Celle-ci représente une mise à l'abri du besoin, un capital, du fait de la location et de la revente possible. La ‘bourgeoisie moyenne des grandes villes considérait les immeubles de rapport comme un placement de choix’,<hi rend="superscript">
+               <ref type="fn" target="#FN90">90</ref>
+            </hi> indique Adeline Daumard. Y est attachée ‘la qualité toujours prestigieuse de propriétaire’,<hi rend="superscript">
+               <ref type="fn" target="#FN91">91</ref>
+            </hi> signe de notabilité. La présence d'un jardin vivrier ou d'agrément n'est pas secondaire, qui plus est, l'horticulture fait partie des agréments socialement estimables et très prisés. Ainsi, Michelot est mort à ‘sa campagne’ de Passy,<hi rend="superscript">
+               <ref type="fn" target="#FN92">92</ref>
+            </hi> et Odry à ‘sa maison’ de Courbevoie lit-on dans plusieurs annonces nécrologiques. Muret signale que le second avait ouvert une table d'hôte destinée à recevoir les promeneurs du lundi, c'est-à-dire le peuple des artisans et des ouvriers,<hi rend="superscript">
+               <ref type="fn" target="#FN93">93</ref>
+            </hi> un fait peu compatible avec la vision du vieil homme rapportée par ailleurs. C'est aussi Damas et ‘sa maison de campagne près Longjumeau’, tel qu'indiqué dans l'annonce de divers journaux. Firmin s'était retiré dans une maison qualifiée de jolie,<hi rend="superscript">
+               <ref type="fn" target="#FN94">94</ref>
+            </hi> lui qui fut le possesseur d'un solide pécule lui ayant permis de s'acheter une ‘terre’ au Coudray.<hi rend="superscript">
+               <ref type="fn" target="#FN95">95</ref>
+            </hi> Michot possédait une ‘fort belle campagne à Fontenay-aux-Roses’.<hi rend="superscript">
+               <ref type="fn" target="#FN96">96</ref>
+            </hi> La maison de Potier à Fontenay-sous-Bois, qualifiée de jolie,<hi rend="superscript">
+               <ref type="fn" target="#FN97">97</ref>
+            </hi> est connue du public, car sujet d'une estampe de la série des <hi rend="italic">Habitations des personnages les plus célèbres de France</hi>, de Champin et Régnier.<hi rend="superscript">
+               <ref type="fn" target="#FN98">98</ref>
+            </hi> Une preuve s'il en est de la faveur de l'artiste auprès de ses contemporains. Joly génère une réflexion rousseauiste. Dumersan évoque une ‘belle retraite’ à Grand-Pré, près de Lormes (Nièvre), sans toutefois préciser que l'acteur n'en était pas propriétaire,<hi rend="superscript">
+               <ref type="fn" target="#FN99">99</ref>
+            </hi> où Joly termina ses jours en agriculteur estimé de ses voisins. Certes cette vie fut moins brillante que la précédente, estime l'auteur, mais exempte du caractère factice et des dangers de tous ordres qui assiègent la vie d'un artiste, et dont Joly avait pâti.</p>
+         <p>Enfin le rituel mortuaire expose, ô combien, l'honorabilité nouvelle de l'acteur au dix-neuvième siècle: l'agonie, entourée de consolations et de regrets — des proches, d'un prêtre et (ou) d'un médecin — la mort dans un lieu privé, et non à l'hospice infamant mouroir des pauvres, le faire-part — par voie de presse —, le service religieux, la tombe individuelle. Religieusement, civilement, légalement, l'exclusion séculaire et ses échappatoires n'est plus de mise.</p>
+         <p>La relation des secours ultimes de la religion reste exceptionnelle et n'entre pas dans le détail. Au regard des acteurs, la presse adopte une position généralement discrète en la matière. Potier reçoit les consolations d'une religion ‘qu'il avait toujours respectée’, dispensées par le ‘vénérable curé de Fontenay’.<hi rend="superscript">
+               <ref type="fn" target="#FN100">100</ref>
+            </hi> Lafont reçoit également des sacrements ‘par un prêtre de ses amis’, appelé à sa demande.<hi rend="superscript">
+               <ref type="fn" target="#FN101">101</ref>
+            </hi> Joly est assisté par le curé de Lormes. Toutefois, au moment de l'agonie, la respectabilité peut connaître quelques brèches et le caractère peu orthodoxe du métier reprendre ses droits. Après les derniers secours, Potier ‘voulait balbutier une dernière prière; mais ses facultés étaient anéanties’, ‘le cœur cherchait des mots de respect et de dévotion, la mémoire du vieux comédien ne retrouvait plus que les refrains du théâtre’.<hi rend="superscript">
+               <ref type="fn" target="#FN102">102</ref>
+            </hi> Et Baptiste agonisant, ayant capté le mot ‘médecin’, s'est alors mis à réciter la scène de Sganarelle au troisième acte du <hi rend="italic">Festin de Pierre</hi>.<hi rend="superscript">
+               <ref type="fn" target="#FN103">103</ref>
+            </hi>
+         </p>
+         <p>Le décorum mortuaire s'affiche comme pour tout autre membre de la société qui en a les moyens matériels. Le fameux Potier, accompagné par un ‘grand recueillement’,<hi rend="superscript">
+               <ref type="fn" target="#FN104">104</ref>
+            </hi> a droit en 1838 à un ‘corbillard décent’ et ‘quelques voitures de deuil’.<hi rend="superscript">
+               <ref type="fn" target="#FN105">105</ref>
+            </hi> Outre l'expression du désir de normalité sociale, de conformisme, se manifeste un soulagement. En effet, la perspective d'enterrer un comique pouvait susciter quelques craintes quant à la réserve et au sérieux de rigueur pour une telle circonstance. Trente-cinq ans plus tard, la dépouille de Lafont, entourée d'une multitude de cierges, se trouve placée sous un riche catafalque, à l'entrée du chœur.<hi rend="superscript">
+               <ref type="fn" target="#FN106">106</ref>
+            </hi> Des chants accompagnent la cérémonie.<hi rend="superscript">
+               <ref type="fn" target="#FN107">107</ref>
+            </hi> Le <hi rend="italic">Figaro</hi>, à l'inverse du <hi rend="italic">Constitutionnel</hi> et de son lectorat libéral et voltairien, parle de l'eau bénite jetée sur le corps.<hi rend="superscript">
+               <ref type="fn" target="#FN108">108</ref>
+            </hi> Dans son discours sur la tombe de Lafont, communiqué par la presse, son ami Dumoulin déclare ‘avec satisfaction’ qu'au milieu d'une vie agitée d'artiste, Lafont avait conservé des sentiments de chrétien, se montrait fidèle à la messe dominicale de sa paroisse.<hi rend="superscript">
+               <ref type="fn" target="#FN109">109</ref>
+            </hi>
+         </p>
+         <p>L'ensevelissement du corps marque l'ultime étape de l'honorabilité conquise. Les acteurs sont inhumés dans l'enceinte commune, sans exclusive. Mieux, ceux qui meurent à Paris ou ses environs peuvent être enterrés dans les enclos recherchés du Père-Lachaise ou de Montmartre. Si les cimetières parisiens se présentent comme le cadre ‘des vanités posthumes de tout ce qui compte à Paris’,<hi rend="superscript">
+               <ref type="fn" target="#FN110">110</ref>
+            </hi> selon Michel Vovelle, alors les comédiens entrent dans le cadre élitaire — non du fait de leur naissance ou de leur pouvoir économique, mais grâce à leur talent et leurs efforts qui ont conféré un autre type de pouvoir sur leurs contemporains. Lafont et Samson ont acheté une concession à perpétuité de leur vivant, et n'ont certainement pas été les seuls. L'acteur (ainsi que ses proches) partage une sensibilité courante alors, pour laquelle la promiscuité anonyme, au milieu d'inconnus, fait horreur. On recherche la mort entre soi, la reproduction de l'espace familial.<hi rend="superscript">
+               <ref type="fn" target="#FN111">111</ref>
+            </hi> Reflet de cette disposition de la sensibilité, la presse souligne qu'Odry et Lafont ont été inhumés dans des caveaux de famille.</p>
+         <p>Ainsi, la mythologie à caractère scandaleux qui s'attache aux acteurs, laquelle aurait été revendiquée crânement au dix-neuvième siècle par les intéressés, n'apparaît point dans l'article nécrologique.<hi rend="superscript">
+               <ref type="fn" target="#FN112">112</ref>
+            </hi> Même le colosse du mélodrame, Frédéric Lemaître, au tempérament et à la vie hors normes, connaît des notices biographiques mesurées lors de son décès en 1876. Sans nul doute sa vie étant connue de tous, il eut été difficile d'évoquer les notions de respectabilité, d'honorabilité. Reste que l'on n'éprouve pas ou peu le désir de faire étalage de ses écarts à la règle ambiante.<hi rend="superscript">
+               <ref type="fn" target="#FN113">113</ref>
+            </hi>
+         </p>
+         <p>A travers l'article nécrologique, la presse dans son ensemble se révèle à la fois un témoin et un agent dans le phénomène d'instauration du principe de respectabilité concernant les acteurs. Elle encadre le souvenir collectif, tend à convoyer l'image d'une vie, qui certes a connu ses heurts et quelquefois montré des travers, mais dont on gomme les aspérités. Commencé à la fin du dix-huitième siècle, le mouvement qui fait d'anciens marginaux ou exclus des citoyens à part entière connaît sa pleine expansion au siècle suivant. La circonstance de la mort en témoigne. Certains lecteurs ont dû se voir confortés dans leur amour du théâtre et des comédiens. Aller applaudir ces derniers, et payer le prix pour ce faire, ne s'avérait pas au final une mauvaise chose, puisque le comédien pouvait adhérer aux mêmes valeurs que son vis-à-vis dans la salle. Selon l'article nécrologique, l'acteur du dix-neuvième siècle serait à une écrasante majorité un homme partageant les valeurs sociales et comportementales de son temps, et ce en dépit d'un métier qui conserve un caractère singulier auquel s'attache une manière supposée d'être et de vivre.</p>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Stendhal, Paris–Londres: chroniques, ‘Publications étrangères’, novembre 1823 ([Paris], Stock, 1997), p. 160.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>H. Lagrave, ‘Privilèges et libertés’, éd. par J. de Jomaron, in Le Théâtre en France: du Moyen Âge à 1789, 2e éd., 2 vols (Paris, Colin, 1992), I, 272–73; M. Desprez, ‘Les Premiers Professionnels […] constitution d'un métier, constitution d'une image […], c.1500–c.1630’ (thèse non publiée, Université de Paris X–Nanterre, 2003).</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Respectivement: mars 1778, pp. 209–11; 5 décembre 1778, pp. 52–53.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>M. de Rougemont, La Vie théâtrale en France au XVIIIe siècle (Paris, Champion, 1988), pp. 208–09. L'auteur précise ‘dans aucun des cas de conflits connus ni le public ni aucune des catégories de ce public n'ont pris parti en faveur des comédiens; seuls quelques individus, liés personnellement à des acteurs, sont intervenus ponctuellement’.</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Le Miroir, 25 juin 1821, p. 2.</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>Le Courrier français, 25 octobre 1826, p. 2. L'utilité est vue au premier chef comme la défense de la patrie. Lire l'étude sommaire de G. baron de Contenson, Militaires fils d'acteurs (Paris, Plon, 1903).</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>Le Courrier français, 25 octobre 1826, p. 2.</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Le Drapeau blanc, 4 novembre 1823, p. 4.</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>A. Corbin, ‘Coulisses’, in Histoire de la vie privée, éd. par P. Ariès et G. Duby, 5 vols (Paris, Seuil, 1985–87), IV, 428.</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>T. Gautier, Histoire de l'art dramatique en France depuis vingt-cinq ans, 6 vols (Bruxelles, Hetzel, 1858–59), II, 280 (article écrit en 1842).</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Léon Paillet, La Patrie, 9 avril 1854, p. 3.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>Victor Moulin, Le Voleur, 15 avril 1854, p. 363. Il s'agit de la veuve de La Rozière (ou Rozière), acteur, co-fondateur du théâtre du Vaudeville et père de Laporte, l'arlequin fameux. Était-elle la mère de ce dernier?</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>Le Courrier français, 25 novembre 1826, p. 3.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Messager des théâtres et des arts, 26 août 1849, p. 3.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>Journal des débats, 24 décembre 1850, p. 2.</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>L'Entr'acte, 21 avril 1873, p. 2.</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>Revue du théâtre, 10 septembre 1836, p. 366.</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Moniteur des théâtres, 25 septembre 1841, p. 264.</p>
+            </note>
+            <note place="inline" n="FN19">
+               <ref>19</ref>
+               <p>Jules de Prémaray, La Patrie, 2 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN20">
+               <ref>20</ref>
+               <p>Le Constitutionnel, 24 novembre 1826, p. 4.</p>
+            </note>
+            <note place="inline" n="FN21">
+               <ref>21</ref>
+               <p>Faniez, Le Courrier français, 15 mai 1848, p. 1.</p>
+            </note>
+            <note place="inline" n="FN22">
+               <ref>22</ref>
+               <p>L'Entr'acte, 2 août 1859, p. 2.</p>
+            </note>
+            <note place="inline" n="FN23">
+               <ref>23</ref>
+               <p>Darthenay, Le Voleur, 15 mars 1853, p. 319.</p>
+            </note>
+            <note place="inline" n="FN24">
+               <ref>24</ref>
+               <p>Moniteur des théâtres, 4 janvier 1840, p. 75.</p>
+            </note>
+            <note place="inline" n="FN25">
+               <ref>25</ref>
+               <p>Courrier des théâtres, 3 janvier 1840, p. 4.</p>
+            </note>
+            <note place="inline" n="FN26">
+               <ref>26</ref>
+               <p>Eugène Guinot, L'Entr'acte, 8 mars 1853, p. 1.</p>
+            </note>
+            <note place="inline" n="FN27">
+               <ref>27</ref>
+               <p>Jean-Toussaint Merle, L'Union, 24 décembre 1850, p. 1.</p>
+            </note>
+            <note place="inline" n="FN28">
+               <ref>28</ref>
+               <p>Edouard Thierry, L'Assemblée nationale, 2 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN29">
+               <ref>29</ref>
+               <p>Messager des théâtres et des arts, 26 août 1849, p. 3.</p>
+            </note>
+            <note place="inline" n="FN30">
+               <ref>30</ref>
+               <p>Le Monde illustré, 3 novembre 1888, p. 277.</p>
+            </note>
+            <note place="inline" n="FN31">
+               <ref>31</ref>
+               <p>Théodore Anne, Revue et gazette des théâtres, 14 mars 1858, p. 1.</p>
+            </note>
+            <note place="inline" n="FN32">
+               <ref>32</ref>
+               <p>Théodore Muret, L'Union, 17–18 avril 1854, p. 2.</p>
+            </note>
+            <note place="inline" n="FN33">
+               <ref>33</ref>
+               <p>Le Temps, 28 mai 1838, supplément.</p>
+            </note>
+            <note place="inline" n="FN34">
+               <ref>34</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN35">
+               <ref>35</ref>
+               <p>Charles Matharel de Fiennes, Le Siècle, 24 décembre 1850, p. 3.</p>
+            </note>
+            <note place="inline" n="FN36">
+               <ref>36</ref>
+               <p>Charles Mayne, 1777–1856. Célèbre dans son pays, tragédien à la voix magnifique, il occupe une position (à la fois chronologique et artistique) entre Kemble et Kean. La Quotidienne, 23 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN37">
+               <ref>37</ref>
+               <p>La Patrie, 20 avril 1873, p. 2.</p>
+            </note>
+            <note place="inline" n="FN38">
+               <ref>38</ref>
+               <p>Moniteur des théâtres, 10 septembre 1836, p. 332.</p>
+            </note>
+            <note place="inline" n="FN39">
+               <ref>39</ref>
+               <p>Muret, L'Union, 9 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN40">
+               <ref>40</ref>
+               <p>Auguste Jal, Le Voleur, 1835, p. 1067.</p>
+            </note>
+            <note place="inline" n="FN41">
+               <ref>41</ref>
+               <p>Listener, Revue et gazette des théâtres, 4 août 1859, p. 2.</p>
+            </note>
+            <note place="inline" n="FN42">
+               <ref>42</ref>
+               <p>Moniteur des théâtres, 18 février 1837, p. 93.</p>
+            </note>
+            <note place="inline" n="FN43">
+               <ref>43</ref>
+               <p>Revue du théâtre, 22 février 1837, p. 289.</p>
+            </note>
+            <note place="inline" n="FN44">
+               <ref>44</ref>
+               <p>Le Messager des théâtres et des arts, 26 août 1849, p. 3.</p>
+            </note>
+            <note place="inline" n="FN45">
+               <ref>45</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN46">
+               <ref>46</ref>
+               <p>L'Entr'acte, 21 avril 1873, p. 2.</p>
+            </note>
+            <note place="inline" n="FN47">
+               <ref>47</ref>
+               <p>Le Voleur, 5 juillet 1852, p. 599.</p>
+            </note>
+            <note place="inline" n="FN48">
+               <ref>48</ref>
+               <p>J. Provençal, Le Pays, 30 octobre 1888, p. 4.</p>
+            </note>
+            <note place="inline" n="FN49">
+               <ref>49</ref>
+               <p>Le Petit Journal, 30 octobre 1888, p. 3. Curieusement, les journalistes ne signalent guère ces derniers lors du décès.</p>
+            </note>
+            <note place="inline" n="FN50">
+               <ref>50</ref>
+               <p>Achille Denis, Revue et gazette des théâtres, 18 août 1864, p. 2.</p>
+            </note>
+            <note place="inline" n="FN51">
+               <ref>51</ref>
+               <p>Jal, Le Voleur, 1835, p. 1067.</p>
+            </note>
+            <note place="inline" n="FN52">
+               <ref>52</ref>
+               <p>Dumersan, Le Voleur, 15 novembre 1839, p. 428.</p>
+            </note>
+            <note place="inline" n="FN53">
+               <ref>53</ref>
+               <p>J. Goizet, Revue du théâtre, 22 février 1837, p. 288.</p>
+            </note>
+            <note place="inline" n="FN54">
+               <ref>54</ref>
+               <p>Moniteur des théâtres, 18 février 1837, p. 92.</p>
+            </note>
+            <note place="inline" n="FN55">
+               <ref>55</ref>
+               <p>Dont nous avons connaissance par Charles Maurice, Epaves (Paris, [s. éd.], 1865), p. 76. Potier se servait de ce talent pour composer au préalable ses personnages sur le papier avant de les créer sur scène.</p>
+            </note>
+            <note place="inline" n="FN56">
+               <ref>56</ref>
+               <p>Un article du Globe le décrit ainsi en 1827: ‘un homme instruit, un homme du monde et de bonne compagnie. Il aime, il cultive les arts; et les jeunes gens de nos écoles le rencontrent souvent dans les cours publics et dans les amphithéâtres.’ 27 mars 1827, p. 516.</p>
+            </note>
+            <note place="inline" n="FN57">
+               <ref>57</ref>
+               <p>M. Perrot, ‘Drames et conflits familiaux’, in Histoire de la vie privée, éd. par P. Ariès et G. Duby, 5 vols (Paris, Seuil, 1985–87), IV, 266.</p>
+            </note>
+            <note place="inline" n="FN58">
+               <ref>58</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3; La Quotidienne, 23 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN59">
+               <ref>59</ref>
+               <p>La Quotidienne, 23 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN60">
+               <ref>60</ref>
+               <p>Dumersan, Le Voleur, 15 novembre 1839, p. 427.</p>
+            </note>
+            <note place="inline" n="FN61">
+               <ref>61</ref>
+               <p>Darthenay, Le Voleur, 5 juillet 1852, p. 598.</p>
+            </note>
+            <note place="inline" n="FN62">
+               <ref>62</ref>
+               <p>Listener, Revue et gazette des théâtres, 4 août 1859, p. 2.</p>
+            </note>
+            <note place="inline" n="FN63">
+               <ref>63</ref>
+               <p>Muret, L'Union, 9 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN64">
+               <ref>64</ref>
+               <p>Moniteur des théâtres, 23 décembre 1850, p. 2.</p>
+            </note>
+            <note place="inline" n="FN65">
+               <ref>65</ref>
+               <p>L'Entr'acte, 31 octobre 1888, p. 2.</p>
+            </note>
+            <note place="inline" n="FN66">
+               <ref>66</ref>
+               <p>Jules Lovy, Moniteur des théâtres, 3 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN67">
+               <ref>67</ref>
+               <p>Dumersan, Le Voleur, 15 novembre 1839, p. 428.</p>
+            </note>
+            <note place="inline" n="FN68">
+               <ref>68</ref>
+               <p>Merle, La Quotidienne, 23 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN69">
+               <ref>69</ref>
+               <p>Dumersan, Le Voleur, 15 novembre 1839, p. 428.</p>
+            </note>
+            <note place="inline" n="FN70">
+               <ref>70</ref>
+               <p>Courrier des théâtres, 3 janvier 1840, p. 4.</p>
+            </note>
+            <note place="inline" n="FN71">
+               <ref>71</ref>
+               <p>Le Constitutionnel, 24 avril 1843, p. 4.</p>
+            </note>
+            <note place="inline" n="FN72">
+               <ref>72</ref>
+               <p>Jules Claretie, L'Opinion nationale, 4 octobre 1869, p. 2.</p>
+            </note>
+            <note place="inline" n="FN73">
+               <ref>73</ref>
+               <p>Numa fils mourut en mai 1888. La maladie l'a empêché de faire une belle carrière.</p>
+            </note>
+            <note place="inline" n="FN74">
+               <ref>74</ref>
+               <p>Moniteur des théâtres, 4 janvier 1840, p. 76.</p>
+            </note>
+            <note place="inline" n="FN75">
+               <ref>75</ref>
+               <p>Le Constitutionnel, 20 avril 1873, [p. 3].</p>
+            </note>
+            <note place="inline" n="FN76">
+               <ref>76</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3. Toutefois le récit de la mort de Potier fait pendant à celui du prince de Talleyrand, aussi convenait-il de faire ressortir les traits de vertu du premier par rapport au trouble des mœurs privées et politiques du second.</p>
+            </note>
+            <note place="inline" n="FN77">
+               <ref>77</ref>
+               <p>Courrier des théâtres, 24 novembre 1826, p. 4.</p>
+            </note>
+            <note place="inline" n="FN78">
+               <ref>78</ref>
+               <p>Charles Matharel de Fiennes, Le Siècle, 24 décembre 1850, p. 3.</p>
+            </note>
+            <note place="inline" n="FN79">
+               <ref>79</ref>
+               <p>Moniteur des théâtres, 4 janvier 1840, p. 76.</p>
+            </note>
+            <note place="inline" n="FN80">
+               <ref>80</ref>
+               <p>Le Courrier français, 25 novembre 1826, p. 3. Père d'un auteur dramatique renommé sous le Second Empire, Emile Augier.</p>
+            </note>
+            <note place="inline" n="FN81">
+               <ref>81</ref>
+               <p>Jal, Le Voleur, 1835, p. 1066.</p>
+            </note>
+            <note place="inline" n="FN82">
+               <ref>82</ref>
+               <p>Edouard Charton, Le Temps, 14 décembre 1835, p. 1.</p>
+            </note>
+            <note place="inline" n="FN83">
+               <ref>83</ref>
+               <p>Journal des débats, 24 novembre 1826, p. 3.</p>
+            </note>
+            <note place="inline" n="FN84">
+               <ref>84</ref>
+               <p>Merle, L'Union, 24 décembre 1850, p. 1. Une aisance acquise par ses tournées en province, et à Londres où il se rendait tous les ans, en raison de cachets autrement plus importants que ceux de Paris.</p>
+            </note>
+            <note place="inline" n="FN85">
+               <ref>85</ref>
+               <p>Charles Monselet, Le Monde illustré, 27 août 1864, p. 142. Effectivement, l'État lui octroya une rente de 1000 F annuels — très peu. Apparemment, l'artiste n'avait pu faire d'économies du temps de son activité. Voir dossier de pension Ferville, A. N., F/21/1012.</p>
+            </note>
+            <note place="inline" n="FN86">
+               <ref>86</ref>
+               <p>Lovy, Moniteur des théâtres, 3 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN87">
+               <ref>87</ref>
+               <p>Moniteur des théâtres, 29 septembre 1841, p. 272.</p>
+            </note>
+            <note place="inline" n="FN88">
+               <ref>88</ref>
+               <p>Auguste Villemot, Le Figaro, 9 avril 1854, p. 2.</p>
+            </note>
+            <note place="inline" n="FN89">
+               <ref>89</ref>
+               <p>Moniteur des théâtres, 10 septembre 1836, p. 332.</p>
+            </note>
+            <note place="inline" n="FN90">
+               <ref>90</ref>
+               <p>A. Daumard, Les Bourgeois et la bourgeoisie en France depuis 1815 (Paris, Flammarion, 1991), p. 201.</p>
+            </note>
+            <note place="inline" n="FN91">
+               <ref>91</ref>
+               <p>Daumard, Les Bourgeois, p. 202.</p>
+            </note>
+            <note place="inline" n="FN92">
+               <ref>92</ref>
+               <p>La Patrie, 21 décembre 1856, p. 2.</p>
+            </note>
+            <note place="inline" n="FN93">
+               <ref>93</ref>
+               <p>L'Union, 9 mai 1853, p. 2.</p>
+            </note>
+            <note place="inline" n="FN94">
+               <ref>94</ref>
+               <p>Listener, Revue et gazette des théâtres, 4 août 1859, p. 2.</p>
+            </note>
+            <note place="inline" n="FN95">
+               <ref>95</ref>
+               <p>L'Entr'acte, 2 août 1859, p. 2.</p>
+            </note>
+            <note place="inline" n="FN96">
+               <ref>96</ref>
+               <p>Journal des débats, 24 novembre 1826, p. 3.</p>
+            </note>
+            <note place="inline" n="FN97">
+               <ref>97</ref>
+               <p>Eugène Briffault, Le Temps, 28 mai 1838, supplément.</p>
+            </note>
+            <note place="inline" n="FN98">
+               <ref>98</ref>
+               <p>Ouvrage publié en 1834.</p>
+            </note>
+            <note place="inline" n="FN99">
+               <ref>99</ref>
+               <p>Le Voleur, 15 novembre 1839, p. 428. Joly a terminé sa vie régisseur du domaine d'un ami.</p>
+            </note>
+            <note place="inline" n="FN100">
+               <ref>100</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN101">
+               <ref>101</ref>
+               <p>Jules Prével, Le Figaro, 15–16 avril 1873, p. 3.</p>
+            </note>
+            <note place="inline" n="FN102">
+               <ref>102</ref>
+               <p>Briffault, Le Temps, 28 mai 1838, supplément.</p>
+            </note>
+            <note place="inline" n="FN103">
+               <ref>103</ref>
+               <p>Charton, Le Temps, 14 décembre 1835, p. 3. Une comédie en 5 actes et en vers par Thomas Corneille, 1677.</p>
+            </note>
+            <note place="inline" n="FN104">
+               <ref>104</ref>
+               <p>Le Voleur, 25 mai 1838, p. 465.</p>
+            </note>
+            <note place="inline" n="FN105">
+               <ref>105</ref>
+               <p>Le Corsaire, 24 mai 1838, p. 3.</p>
+            </note>
+            <note place="inline" n="FN106">
+               <ref>106</ref>
+               <p>Le Constitutionnel, 22 avril 1873, [p. 3].</p>
+            </note>
+            <note place="inline" n="FN107">
+               <ref>107</ref>
+               <p>Gustave Lafargue, Le Figaro, 22 avril 1873, p. 3.</p>
+            </note>
+            <note place="inline" n="FN108">
+               <ref>108</ref>
+               <p>Le Figaro, 22 avril 1873, p. 3.</p>
+            </note>
+            <note place="inline" n="FN109">
+               <ref>109</ref>
+               <p>L'Entr'acte, 21 avril 1873, p. 2.</p>
+            </note>
+            <note place="inline" n="FN110">
+               <ref>110</ref>
+               <p>M. Vovelle, La Mort et l'Occident, de 1300 à nos jours ([Paris], Gallimard, 1983), p. 632.</p>
+            </note>
+            <note place="inline" n="FN111">
+               <ref>111</ref>
+               <p>Voir P. Ariès, Essais sur l'histoire de la mort en Occident ([Paris], Seuil, 1975), p. 55 notamment.</p>
+            </note>
+            <note place="inline" n="FN112">
+               <ref>112</ref>
+               <p>Voir Rougemont, p. 211.</p>
+            </note>
+            <note place="inline" n="FN113">
+               <ref>113</ref>
+               <p>Une étude sur les mœurs d'un nombre conséquent de célébrités théâtrales du siècle (et non quelques noms retenus par l'historiographie), permettrait à la fois de faire la part du réel et du mythe et de constater le degré d'adhésion des vedettes aux normes sociales. Elle permettrait aussi de connaître le rôle de la presse dans les bruits de la vie et de la ville, et peut-être la réaction des personnalités intéressées. Enfin, l'étude rendrait possible la comparaison entre le discours tenu lors du vivant de l'acteur et le discours nécrologique.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

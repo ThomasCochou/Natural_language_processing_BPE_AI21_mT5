@@ -1,0 +1,666 @@
+JOURNAL O F POLYMER SCIENCE
+
+VOT,. XXIII, PAGES 167-180 (1957)
+
+Etude experimentale de l’eaet Maxwell present6 par
+les solutions de macromol&culesen chaine
+JOSEPH LERAY, Cen,fre de Recherches sup les Macromolbcules, Strasbourg,
+France
+
+I. INTRODUCTION
+L’interpretation de l’effet Maxwell prCsent6 par les solutions monodispersees infiniment diluees de particules rigides ellipsoldales, peut &re consid6rBe comme acquise depuis que les calculs numeriques de Scheraga,
+Edsall et Gadd’ ont permis l’application pratique de la theorie de Peterlin et
+Stuart2 dans tout le domaine des gradients d’un Bcoulement laminaire.
+Dans un travail dejh ancien, Sadron3Ctudiait le comportement des milieux
+polydisperses et donnait une formule tr& generale (valable pour les particules rigides et pour les particules deformables) permettant de calculer
+la courbe d’extinction d’un tel milieu, connaissant celles des constituants
+ainsi que leurs courbes de birefringence.
+En utilisant cette formule, on a pi3 effectuer des verifications exp6rimentales precises, A l’aide de solutions de virus de la mosaique du t a b a ~ . ~ , 5
+Pour les solutions de macromolecules en chafne par contre, la theorie
+rencontre de grandes dificult&, tant dans le choix des modeles xue dans la
+poursuite des calculs. D’autre part des donnkes experimentales, d’ailleurs
+peu nombreuses, doivent &re interpretees avec circonspection Btant donne
+la complexit6 habituelle du materiel disponsible (polydispersit6, isomeries,
+notamment).
+Ces deux types de particules fournissent, en general des courbes d‘extinction et de birefringence analogues; tout au plus peut-on presumer qu’il
+s’agit de molecules en chafne lorsque la birefringence croft plus vite que le
+gradient de vitesse ; au contraire, lorsque la birefringence manifeste une
+saturation, on se trouve probablement en presence de particules rigides.
+Enfin, l’ordre de grandeur de la birefringence intrinshque :
+[An]
+
+=
+
+lim (An/Goc)
+G+o
+M
+
+O
+
+peut fournir une indication pratique interessante. Voici par exemple, les
+ordres de grandeur de cette quantite dans trois cas typiques:
+Bchantillon de virus de la mosaique du tabac
+[An]
+
+-
+
+4,5 X lop4
+167
+
+168
+
+J. LERAY
+
+kchantillon d’acide dBsoxyribonuclCique (S VIII)
+[An]
+
+-
+
+6 X
+
+6chantillon de polystyrhe en solution dans la cyclohexanone ( M
+2 x 105)
+[An] 5 X lo-*
+
+=
+
+Le fait que la birkfringence intrinskque de cette molkcule en chafne soit
+dix-mille fois plus faible que cele du VMT, explique d’alleurs les dificult6s
+exphrimentales particulihres que souleve son ktude.
+
+11. RAF’PELS THEORIQUES
+Ce travail a ktk entrepris en vue d’une confrontation avec l’exp&rience,
+d‘une thkorie dkveloppee recemment par Cerf6v7 pour les mol6cules en
+chafne.
+Rappelons brievement que, dans cette thhorie, la mol6cule est subdiviske
+en N sous-chaines de Gauss identiques et que les frottements du liquide
+sont localis6s aux points de jonction des sous-chaines. L’intkret de ce
+mod6le d6jh ancien, a 6t6 soulign6 par un travail recent de Rouse* oh la
+dispersion de la viscosit6 dam un Bcoulement laminaire de haute frBquence
+est 6tudi6e avec beaucoup de SUCC~S. Cerf d6finit alors une viscosit6 interne
+applicable h ce modhle et retrouve ainsi, en les completant, les r6sultats
+essentiels qu’il avait d6jh obenus h l’aide du modhle de la sphere klastique,S
+h savoir :
+(a) L’origine de la birefringence est dxkrente selon que la viscosit6 interne est grande ou petite devant la viscosit6 du solvant; dans le premier
+cas, les diverses configurations de la mol6cule se comportent comme des
+ensembles fig& qui s’orientent dans le champ hydrodynamique; dans le
+second, ces configurations se d6forment sous l’mfluencedes tensions exerc6es
+par le liquide. Cette d36rence dans l’origine du phknomhe, qui n’affecte
+pas le comportement de la grandeur dc la birefringence, se traduit au contraire, de fagon Claire dans celui de l’angle d’extinction.
+Si Yon ktudie en effet la pente tg CY de la tangente h l’origine de la courbe
+d‘extinction ( h dilution tres grande) en fonction de laviscosit6 qo du solvant,
+on obtient une droite d‘ordonn6e h l’originerespectivement nulle ou positive
+selon qu’on a d a i r e h des configurations qui subissent un effet d’orientation
+ou qui se dkforment dans 1’Ccoulement. Lorsque le domaine des viscosit6s
+est sufisamment ktendu, il est parfois possible de mettre en Bvidence les
+deux types de ph6nomhes.
+Dans le mode de repr6sentation oh l’on porte RT tg 01 en fonction de
+M[q]qO,
+la th6orie donne une courbe universelle pour des particules de
+mGme terme de viscosit6 interne, quelles que soient la nature du polymhe et
+sa masse molCculaire. La valeur thkorique du rapport p des pentes de la
+tangente hl’origine etde l’asymptote estvoisinede 10 lorsqu’ontient compte,
+dans le calcul, des interactions h ydrodynamiques entre les sous-chafnes ;
+dans le cas oh ces interactions sont nkgligkes, elle est de l’ordre de 5.
+
+LA SOLUTIONS D E MACROMOLECULES EN CHAINE
+
+169
+
+(b) Ces m6mes mesures sont susceptibles de fournir la viscosite interne
+de la particule A partir de l’ordonnBe A l’origine de l’asymptote de la courbe
+RT tg a en fonction de M[v]vo.
+Dans ce travail preliminaire, nous abordons 1’Btude experimentale de tg a
+en fonction de 70 pour une sBrie de polystyrhnes et pour un Bchantillon d‘acide
+dBsoxyribonucl8ique.
+111. PARTIE EXPERIMENTALE
+(A) Etude de polystyrhnes
+Les rBsultats de ce paragraphe font partie d‘un travail d’ensemble, comportant des mesures hydrodynamiques et des mesures de diffusion de la
+lumihre, e5ectuBes en collaboration avec Milan cop& et qui feront l’objet
+d’une publication ult6rireure. Les mesures de birdfringence d’ecoulement
+ci-dessous ont d6jA Bt6 presentees dans une courte note.‘O
+Nous disposions d’une sBrie de trois fractions Cs, Cq, Cg et d’un produit
+hautement polymBrisC d’origine diffBrente Cg. Nous nous servirons aussi de
+donnBes de Cerf” relatives A deux autres Bchantillons que nous designons
+par C1 et Cz. Les observations porteront donc sur des polymhres couvrant
+un large domaine de massedmol6culaires (cf. Tableau I). Les masses de C1
+et Czont 6th dBtermin6es par des mesures de pression osmotique; celles des
+autres produits, par diffusion de la lumihre. Les mesures de birbfringence
+d‘Bcoulement ont BtB effectuees au moyen d‘une cellule A rotor e ~ t e r i e u r . ~
+La liste des solvants est indiquBe dans le Tableau 11.
+TABLEAU I
+
+D~SIGNATION
+ET MASSE
+
+MOL~CULAIRE DES ~CHANTILLONS DE POLYSTYR BNES ~ T U D6s
+I
+
+Echantillons. . . . . . . . . . . . . . . .
+M X 1 0 - 6 . . .. . . . . . . . . . . . . . .
+
+C,
+0,13
+
+CZ
+0,20
+
+CI
+0,52
+
+C4
+1,24
+
+C5
+
+CS
+
+3,53
+
+10,O
+
+TABLEAU I1
+
+NATURE
+ET VISCOSITI?
+
+DES SOLVANTS UTILISBS
+
+Solvants
+
+Viscosit6s 70
+
+Benzene . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Benzene cyclohexanone(lv/lv) . . . . . . . . . . . . . . . . . . . . . . . . . .
+Cyclohexanone. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Solution B 10% d’oligostyrbne dans la cyclohexanone. . . . . . . . . .
+
++
+
+0,65
+1,lO
+2,25
+4,,20
+
+Les valeurs de 9 0 sont indiquCes en centipoises.
+
+Dam ce travail nous n’avons pas, pour l’instant, BtudiB syst6matiquement
+l’effet de la concentration du polymhre. Nous indiquons en dhtail, au
+paragraphe suivant, une mBthode de determination de tg a (pente initale de
+la courbe #extinction), que nous avons utilishe ici Bgalement. Toutefois
+dans le cas de la fraction de tr&shaute masse molBculaire, il n’a pas 6tB
+
+J. LERAY
+
+170
+
+Fig.
+
+C3, M
+
+Courbestga en fonction de 70 pour quatre Bchantillons de polys -,r&nes:
+Cz, M = 200.000. Les
+
+520.000. C4,M = 1.240.000. Cg, M = 3.530.000.
+valeurs relatives B Cz sont empruntCes B Cerf.3
+=
+
+possible d’Btablir une cofncidence satisfaisante entre la zone initiale de la
+courbe exphrimentale et aucune des courbes de rBf6rence que nous utilisons
+(cf. paragraphe B ci-dessous); nous avons dQ tracer la tangente initiale B la
+rhgle, les erreurs relatives commises Ctant d’ailleurs beaucoup plus faibles
+que dans le cas des acides nucl6iques.
+Les Figures 1 et 2 reproduisent les r6sultats expBrimentaux que nous
+avons obtenus sur nos Bchantillons C3, C4, Cs,C6. Elles suggerent les remarques suivantes: (a) pour un polymere donne et B une concentration
+donn6e, tg a! est une fonction lin6aire de 70, B la pr6cision de nos mesures;
+(b) pour un Bchantillon dbtermin6, les droites relatives B &verses concentrations ont m6me ordonnee A l‘origineB; (c) l’ordonn6e 21 l’origine B est proportionnelle B la masse mol6culaire (Fig. 4,). Nos mesures fournissent, pour
+le coefficient de proportionnalit6 une valeur de l’ordre de 5 x 10-l’.
+Nous pouvons grouper ces resultats en une expression de la forme:
+tg a
+
+=
+
+A(W.f(cho
+
++ B(M)
+
+LA SOLUTIONS DE MACROMOLECULES E N CHAINE
+
+I
+
+0
+
+I
+
+1
+
+I
+
+2
+
+I
+
+3
+
+I
+
+4
+
+Fraction de haute masse,
+10.000.000 (solvants mixtes).
+
+Fig. 2. Courbe tg a en fonction de q O .
+
+171
+
+l o
+M
+
+Cg,
+
+=
+
+La Figure 1(courbe C,) et la figure 3 reproduisent les rBsultats concernant
+Cz et C1 (C1 est brut, Cz fractionn6) ; nons avons port6 en ordonnee les
+valeurs de (T/293) tg a. Les remarqnes que nous avons faites s’appliquent
+encore, 1 ceci prhs que, B partir d’une concentration de l’ordre de 0,5% il
+apparait une courbure d‘autant plus prononcke que la concentration est
+plus Blev6e. Cette difl6rence pourrait peutdtre s’expliquer par le fait que
+les Bchantillons C1et C,, en solution dans la cyclohexanone, ont 6tB ktudiBs &
+diverses temperatures comprises entre 0 et 60OC; dans cet intervalle, leur
+viscositB intrinshque Btait pratiquement ind6pendante de la tempBrature.
+Dans notre cas, la viscositk intrinshque d’un polymhre n’est pas la m3me
+dans tous les solvants.
+Nous complBterons ulthrieurement ces premiers rksultats, notamment par
+l’Btude systematique de l’effet de la concentration et de l’influence de la
+ternp&ature, par le choix d’un solvant binaire susceptible de grandes
+variations de viscositk selon la proportion des constituants et par l’investigation de substances de structure diffBrente. En particulier, il sera n6cessaire de vBifier sur des dilutions croissantes que, m6me pour des polymhres
+de masse trhs BlevBe, la quantitk B est ind6pendante de la concentration:
+le fait d’observer sur les Bchantillons C1 et C z la convergence 31 toutes concentrations, des courbes tg a = f ( q 0 ) au point (0, B ) de I’axe des ordonnkes,
+constitute B cet Bgard, nne indication favorable.
+Si nos rBsultats se confEment, la dktermination expkrimentale de tg a B
+concentration nulle se trouvera simplifiee; en effet, il sufira d’6tudier & une
+concentration finie l’influence de qo puis, pour une valeur de T O , c’est-&-dire
+
+LERAY
+
+172
+
+Fig. 3. Courbes tg 01 en fonction de 70. Echantillon de polystyrene brut;
+Cl, M = 130.000 (d’aprhs CerP).
+B 10‘
+
+Fig. 4. Valeurs de l’ordonn6e A I’origine B en fonction de la masse
+mol6culaire M.
+
+pour un solvant particulier, choisi parmi ceux qui se pr6tent le mieux aux
+mesures, d’etudier l’effet de la concentration. Ces mesures fournissent
+simultankment la masse moleculaire de la fraction 6tudike pourvu que soit
+d6termin6, par un 6talonnage prealable au moyen de polymeres homologues
+de masses connues, le coeacient de proportionallitk b dans la relation
+B = bM.
+On notera que la quantite B ne coi’ncide pas necessairement avec l’ordonnke & l’origine de I’asymptote A la courbe thkorique. Toutefois, en nous
+fondant sur le resultats relatifs & C1et Cz (convergence 21 toutes concentrations) et sur ceux rapportks au paragraphe suivant, il y a lieu de penser que
+
+LA SOLUTIONS DE MACROMOLECULES E N CHAINE
+
+173
+
+cette coi’ncidenceest tr&sprobable et qu’en tout cas, la quantite B ainsi que
+I’ordonn6e h l’origine ont un comportement analogue, en fonction de la
+masse moleculaire.
+Par suite, si nos resultats exphrimentaux confirment l’existence dune
+ordonnee B l’origine non nulle de l’asymptote (terme de viscosite interne),
+ils paraissent neanmoins dificilement compatibles avec la conclusion de la
+theorie selon laquelle ce terme est indhpendant de la masse mol6culaire.
+
+(B) Etude d’un acide d6soxyribonucl6yque
+Les resultats prt5liminaires de ce paragraphe ne comportent que dcs
+donnkes de birefringence d’6coulement; ils devront Gtre complet6s notamment par l’6tude systematique de la viscosite intrins&quede l’echantillon
+dans les divers solvants qui ont BtB utilisks. L’absence de ces renseignements limite beaucoup les possibilites d’interprktation de nos premiers resultats. Nkanmoins nous parviendrons d&s maintenant B un certain
+nombre de conclusions.
+Cette etude effectuee sur des solutions neutres et h pH 3,s devrait permettre la mise en Bvidence d’une kventuelle difference de structure, suggerke dhjh par la variation de viscosite i n t r i d q u e (cj. Tableau 111).
+TABLEAU I11
+
+DONN~ES
+NLJM~CRIQUESCOMPARATIVES sm LES ACIDES D~SOXYRIBONUC L ~ ~ Q U ESSVIII ET S V EN SOLUTIONS SALINES
+s VIII
+
+Echantillons ac. DRN
+
+sv
+
+RBfBrences
+
+1.500
+2.036
+3X10-4
+
+18
+17
+16
+
+[s] A gradient nu1
+
+A ...............................
+N ...............................
+Rayon de giration (A). . . . . . . . . . . . . . .
+BirCfringence intrins6que.
+
+............
+
+3.900
+5.700
+2.660
+4,5 X
+
+L‘Bchantillon de desoxyribonuclkate de sodium, de masse 6 X lo6, prepare
+par Signer13et design6 par S VIII, a 6th mis en solution salee molaire; les
+solutions ont 6th additionnCes de quantites variables de glycerine, ou
+Btudiees h diffbrentes temperatures pour en faire varier la viscosite; en
+outre, ces deux procCd6s ont 6th appliques simultanement aux solutions
+acides dans l’intervalle 1 < 7 0 < 2 centipoise, pour deceler l’influence que
+pourrait avoir la presence de glycerine; enfin, chaque preparation a 6th
+amenee au pH choisi.
+Les mesures de birkfringence d’kcoulement on Bt6 effectukes au moyen de
+l’appareil de Sadron,14h des dilutions telles que la courbe d’extinction ne
+depend pratiquement plus de la concentration (3 X
+B
+g/cm3 selon
+la viscosite du solvant).
+On sait qu’il est dificile de determiner avec precision la pente tg a de la
+tangente h l’origine de l’arc de courbe interpole entre le point. (G = 0;
+= n / 4 ) et les premiers points experimentaux. L‘incertitude peut depasser
+25% lorsque la courbure de cet arc est grande; nous nous sommes trouves
+dans ce cas d&sque la viscosite du solvant depassait 4 centipoises.
+
++
+
+J. LERAY
+
+174
+
+Nous avons eu avantage h employer la m6thode des abaques, que nous
+avions d6jja utilisBe pour le VMT,b alors m$me que les particules d’acide
+nucl&que pouvaient n’btre plus rigides h priori. Nous disposions ainsi d’un
+rbeau de courbes construites, au besoin, pour des valeurs d6cimales de la
+constante de diffusion de rotation D aussi rapproch6es que nous le voulions;
+nous calculions la pente cherch6e par la relation tg a = 1/12D, h partir de
+celle des courbes de r6f6rence qui coincide au mieux avec la courbe exp6rimentale dans sa rkgion utile. Ce procBd6 dispense d’une interpolation parfois hasardeuse et, dans une large mesure, il est ind6pendant de l’exp6rimentateur; nous pensons qu’il permet des d6terminations plus sQresque la
+r6gle.
+
+I
+
+I
+
+TgM1O*
+
+I
+
+. /
+
+Fig. 5. Courbes tg a en fonction de 70 pour deux Bchantillons d’acides d6soxyribonuciGques. (a) Echantillon S VIII (en traits continus); 8 pH 3,8. A, variations
+thermiques; A, variations simultanees de la tempkrature et de la teneur en glycerine;
+A, variations de la teneur en glycerine; B pH 7: 0, variations thermiques; 0 , variations
+de la teneur en glycerine. (b) Echantillon S V (en trait discontinu). (D’aprks Schwander et Cerf.15)
+
+La Figure 5 reproduit des valeurs de tg a en fonction de qo, obtenues en
+milieu neutre et en mileu acide. Lorsque la temperature de 1’expBrience
+diff6rait de 20°C on a port6 (T/293) tg a en ordonnbe. On voit que les
+points exp6rimentaux se groupent au voisinage de deux segments de droite:
+l’un qui passe par l’origine, indique que le phCnom6ne d’orientation se
+manifeste tant que la viscositC du solvant ne d6passe pas une valeur de
+l’ordre de 1,6 centipoise: dans ce domaine, 1’6chantillon S VIII se comporte, dans l’Bcoulement,comme s’il Btait rigide; l’autre partie de la courbe,
+assimilable h un segment de droite d’ordonn6e ja l’origine B
+9 X
+caract6rise un processus de d6formation.
+On notera dans le cas du milieu acide, que les points pr6sentent dam la
+
+-
+
+LA SOLUTIONS D E MACROMOLECULES EN CHAINE
+
+175
+
+region initiale, une dispersion un peu sup&rieureh la precision des mesures.
+Nous pensons qu’elle peut s’expliquer par de 16gAres erreurs de mesures de
+pH ou par des variations de pH dGes, par exemple, aux variations de temp6rature. On sait en effet, que la viscosit6 intrinshque des acides d6soxyribonucl8’iques depend beaucoup du pH dam un domaine sit& autour de
+pH 4. Ainsi, dans notre cas, [v]determinee au viscosimAtre de Couette en
+solution salee molaire, h 25OC et h gradient G = 0,25 sec-I, varie de 3.500 h
+4.800 lorsque le pH passe de 3,7 h 4,O. Ces resultats nous ont BtC aimablement communiques par Pouyet, que nous tenons h remercier ici.
+Bien entendu, des differences d’Qnergied’interaction entre le solutC et
+deux solvants de m8me viscosit6, mais distincts par leur temperature et
+leur teneur en glycerine, peuvent conduire h des valeurs distinctes de tg a ;
+c’est peut-8tre la raison pour laquelle les points experimentaux obtenus en
+milieu glyc6rink dans l’intervalle (1, 2) centipoises paraissent se situer
+syst6matiquement au-dessous du segment de droite initial. En tout &at
+de cause, cet h a r t ne change pas les rksultats qualitatifs du test qui sont
+les suivants :
+( w ) L’Bchantillon examin6 par cette metbode (variation de tg a en
+fonction de vo) en milieu neutre et en solution h pH 3,8 a un comportement,
+sensiblement identique dans les deux cas.
+Les resultats plus complets donnes ici, ainsi qu’une determination plus
+correcte de tg a,modifient les conclusions ant6rieures.12
+(b) Les acides dkkoxyribonuclk’iques apparaissent comme deformables
+lorsque la yiscosite du solvant est assez &levee. Une telle remarque a
+dCjh Bt6 formulee par Cerf’5 h propos d’un Bchantillon de m8me origine, mais
+pr6par8 par une methode di€€6rente; ce produit, design6 par S V a 8th
+Ctudie en solutions sal6es h 10% par Schwander et Cerf.16 Nous avons report6 leurs resultats en trait discontinu sur la Figure 5.
+La transition du domaine des orientations au domaine des d6formations
+se situe vers vo = 6 centipoises. Des mesures directes et pr6cises17 fournissent la masse 6 X 106 pour les deux Bchantillons consid6r6s. (Dans le
+mdmoire,15 la masse mol6culaire de S V, calculee h partir d’un modAle lineaire
+est nettement sous-estimke. Le Tableau 111 groupe quelques donn6es experimentales sur l’un et l’autre.
+Nous remarquerons (Fig. 5) que les branches de courbes relatives au
+domaine des viscosit6s BlevBes, extrapol6es lineairement h vo = 0 se rencontrent h la prkcision de nos mesures sur l’axe des ordonn6es. Dans le cas de
+S V cette droite n’est definie que par deux points experimentaux qui, en
+revanche, sont situes dam un intervalle de viscosites trAs Ctendu (10 et 19
+centipoises).
+Le fait que les asymptotes des courbes correspondant h deux Bcha~itillons
+de m8me masse mol&culaire,aient sensiblement m8me ordonnee h l’origine B
+doit 8tre rapproche d’une propri6t6 analogue observee sur des molecules en
+chaine trAs souple, nous avons vu en effet au paragraphe precedent, que,
+dans le cas des polystyrhes l’ordonnke h l’origine B est proportionnelle h la
+masse molCculaire
+
+J. LERAY
+
+176
+
+Nous conviendrons de caract6riser la disposition relative des deux segments de chaque courbe par le rapport p des pentes de la tangente h
+l’origine et de l’asymptote; on voit, sur la figure qu’il est sensiblement le
+meme, de l’ordre de 4,5 pour les deux Bchantillons. En se servant de nos
+premiers rBsultats,12~1g
+CerF avait attribuB h p une valeur voisine de 10, en
+bon accord, selon lui, avec la valeur th6orique (calculBeen tenant compte des
+interactions hydrodynamiques entre les sous-chaines).
+L’examen des deux courbes de la Figure 5 montre que les coudes ont
+sensiblement meme ordonnBe, tandis que leurs abscisses sont dans le rapport
+3,8; or les viscosit6s intrinsi3ques h gradient nu1 des deux Bchantillons en
+solution salBe neutre sont dans le rapport 3,8. Par suite, en multipliant ses
+abscisses par 1/3,8 on amhne la courbe relative A S V en coincidence avec
+la premihre. C’est ce que Yon constate sur la Figure 6, ii la prCcision des
+mesures. Cette courbe se prete h une determination precise du rapport p et
+confirme la valeur 4,5 estimBe prBc6demmtnt.
+L‘ordonnBe h l’origine de l’asymptote demeure inchangke dans les deux
+modes de representation; on peut donc conclure que les Bchantillons S VIII
+et S V ont meme terme de ViscositB interne6: (1/12)pL2(fi/N) avec la signification suivante des symboles: p, nombre d’hvogadro; L2,car& moyen
+de la distance entre les extrBmit6s de la mol6cule; fi, coeficient de viscosit6
+interne; N nombre de sous-chaines.
+Si l’on suppose, en premihre approximation, que les carrgs des rayons de
+giration sont entre eux comme les Bcarts quadratiques moyens L2, on voit
+que la quantitBfl/Nrelative h l’hhantillon S V est de l’ordre de 1,7 fois celle
+relative h S VIII; en d‘autres termes, YBchantillon S V a une viscositB interne sensiblement plus Blevke que le second.
+Tg CX 10’
+
+Fig. 6. Courbe tg a en fonction de M [ 7 ] 7 0pour S VIII (0)
+et SV ( 0 )en milieu
+Pour chaque bchantillon, 17I est prise canstante et Bgale B la valeur mesurbe en
+solution acqueuse sal6e neutre.
+neu tre.
+
+LA SOLUTIONS DE MACROMOLECULES EN CHAINE
+
+177
+
+En ce qui concerne le comportement de tg a! en fonction de qo observe sur
+S VIII 1 deux pH, nous pensons qu'il est necessaire de proceder 1 une etude
+plus pousske de la question avant de tenter une explication. Bien entendu
+il sera necessaire de recueillir d'autres donnkes experimentales sur des
+acides nucleiques de masses diflerentes, 6tudiks selon la m6me methode, en
+milieu neutre.
+D'ores et d6j1, nous pensons que ces resultats sont compatibles avec le
+modhle et la classification rhcemment suggeres par Sadron.'7 En se fondant
+sur les proprietes h ydrodynamiques que nous avons bri6vement rappelees
+ainsi que sup des considbrations d'encombrement, Sadron imagine un
+edifice, proche de celui de Dekker et SchachmannZ0et form6 d'86ments
+rigides en double spirale, articules les uns aux autres selon une ligne briske.
+Un tel edifice, repli6 en accordeon, pourrait loger dans les bandes chromosomiques. AmbroseZ1parvient & une representation analogue 1 partir des
+donnees fournies par le dichroisme infra-rouge et la diffraction des rayons X,
+et pr6cise que l'articulation serait constituee par une zone en Bchelle douee
+d'une certaine souplesse. De plus, les acides desoxyribonucl8'iquesse rangent selon leur preparation dans deux grandes categories correspondant au
+m6me mod6le general. S VIII et S V appartiennent 1 une categorie
+differente.
+Nous venons de voir que la determination de la viscosit6 interne permet
+Bgalement de faire la distinction entre les deux categories d'acides d6soxyribonucl6iques.
+Si le modhle propose pour les acides desoxyribonucleiquesd86re notablenient de celui qui a servi dans les calculs, on notera nkanmoins que le comportement de tg a! en fonction de To, conforme, dans les grandes lignes, aux
+previsions theoriques de Cerf, souligne la validit6 de son modhle dans l'interpretation des phenomhnes h ydrodynamiques.
+
+IV. CONCLUSIONS
+En Btudiant tg a! en fonction de TO, nous sommes arrives aux conclusions
+suivantes :
+1") pour des polystyrhes de masses moleculaires comprises entre 5 x 106
+et 107, t,g OL est une fonction lineaire de 90; il est possible de determiner de
+fapon simple la quantite B (valeur extrapolee de tg a! 1 go = 0) ainsi que la
+quantite (tg
+(valeur extrapolee de tg a! 1 c = 0). La quantite B est proportionnelle 1la masse molkculaire.
+2') un acide dikoxyribonucl8'ique de masse M = 6 x lo6 s'est comport6
+comme une particule d6formable. L'existence de deux categories d'acides
+desoxyribonucleiques est confirmee; une difT6rence de souplesse des deux
+vari6tes apparait.
+3") L'ensemble des resultats confwment dans ses grandes lignes, la
+validit6 des consid6rations theoriques de Cerf et, en particulier, la possibilite de determiner la viscosite interne. Toutefois, la proportionnalitk de
+B la masse mol&ulaire, mentionnee ci-dessus pour les polystyrhe, semble
+difficilement compatible avec la thgorie.
+
+178
+
+J. LERAY
+
+Nous exprimons notre profonde gratitude h Monsieur le Professeur Sadron qui a bien
+voulu diriger ce travail; nous adressons Cgalement nos plus vifs remerciemerits 1 Monsieur R. Cerf avec qui nous avons eu d’utiles discussions.
+
+References
+Scheraga, H. A., Edsall, J. T.et Gadd, O., J. Chem. Phys., 19, 110 (1951).
+Peterlin, A., e t Stuart, H. A., Hand-Jahrb. d . Chem. Phys., 8, 52 (1943).
+Sadron, Ch., J.phys. rad., 9,381 (1938).
+Donnet, J. B., Compt. rend. mad. sci., 229, 189 (1949).
+(5) Leray, J., J . chim.phys., 52,755 (1955).
+(6) Cerf, R., Compt. rend. mad. sci., 240, 531 (1955); 241; 496 (1955).
+(7) Cerf, R., Compt. rend. mad. sci., 241, 1458 (1955).
+(8) Rouse, P. L., J. Chem. Phys., 21, 1272 (1953).
+(9) Cerf, R., Theses Strasbourg, 1950.
+(10) Leray, J., Compt. rend. mad. sci., 241, 1741 (1955).
+(11) Cerf, R., J . chim. phys., 47,663 (1950).
+(12) Horn, P., Leray, J., Pouyet, J. e t Sadron, Ch., J. Polymer Sci., 9, 535 (1952).
+(13) Signer, R., e t Schwander, H., Helv.Chim. Acta, 32 853, (1949); 33, 1521 (1950).
+(14) Sadron, Ch., J. phys. rad., 7,263 (1936); Schwert. Arch. angew. Wiss. u. Tech., 3,
+(1)
+(2)
+(3)
+(4)
+
+8 (1937).
+(15) Cerf, R., Compt. rend. mad. Sci., 235 1396 (1952).
+(16) Schwander, H., e t Cerf, R., Helv. Chim. A d a , 34, 436 (1951).
+(17) Sadron, Ch., 3’ Congr. interm. biochim. Bruxelles, 1955, (vol. prov. p. 217).
+(18) Pouyet, J., J . chim. phys., 48, 616 (1951).
+(19) Cerf, R., J. Polymer Sci., 12 30 (1954).
+(20) Dekker, C. A., e t Schachmann, H. K., Proc. Natl. Acad. Sci. U . S., 10, 894
+(1954).
+(21) Ambrose, E. J., Bull. SOC. chim. biol., 37, 1263 (1955).
+
+RBsumC
+On effectue sur deux types de polymkres des expCriences de birkfringence d’Ccoulement
+analogues h celles de Cerf, c’est-h-dire que I’on mesure la pente tg a de la tangente h
+I’origine de la courbe d’extinction dans des solvants de viscositC 7 0 variable. ( a ) Polystyrhes. Les mesures portent sur quatre Cchantillons de masses 520.000, 1.240.000,
+3.530.000 e t 10.000.000. Pour chacun d’eux, 1une concentration c donnke, tg 01 est une
+fonction linkaire de 70. Les droites relatives h diverses concentrations ont mdme ordonnCe h I’origine B. La quantitC B est proportionelle 1 la masse molCculaire. Ces rCsultats faciliteront les extrapolations h c = 0 et h 7 0 = 0 des mesures d’angle d’extinction.
+( b ) Acides d6soxyribonueliiques. Les valeurs de tg a obtenues sur un Cchantillon de
+masse 6x106 se placent au voisinage de deux droites d’ordonnCes h l’origine respectivement nulle e t positive e t dont les pentes sont dans un rapport de l’ordre de 4 5 Des observations analogues sont faites sur les rCsultats obtenus par d’autres auteurs, h l’aide
+d‘un Cchantillon de mdme masse, prCparC par une mCthode diff6rente. On effectue une
+premihe confrontation entre les rCsultats expkrimentaux e t une thkorie rCcente, fondee
+sur le modkle h N sous-chalnes de Gauss et qui tient compte de la viscositC interne de la
+particule. Une interpretation plus complkte nCcessitera la connaissance des valeurs de
+la viscosit6 intrinskgue des polymeres CtudiCs dans les diffbrents solvants utilisks.
+D’ores e t dkjh on peut dire que la plupart des donnCes expErirnentales sont en accord
+avec les conclusions thCoriques. En particulier, on confirme la possibilit6 de dkterminer
+le terme de viscositC interne comme ordonnee h l’origine de I’asymptote 1 la courbe tg a
+en fonction de 70. On corrobore les conclusions de Sadron quant h I’existence de deux
+catCgories d’acides dksoxyribonuclCiques, les deux Cchantillons examinks ici prCsentant
+une rigidit6 diffCrente. Toutefois, les ’variations du terme de viscositk interne avec la
+masse molCculaire paraissent difficilement compatibles avec la tbCorie.
+
+LA SOLUTIONS D E MACROMOLECULES E N CHAINE
+
+179
+
+Synopsis
+Two types of polymer molecules are investigated by flow birefringence experiments.
+a of the extinction
+angle curve being measured in solvents having different values of viscosity, 70. (a)
+Polystyrenes. Measurements are carried out with four samples (molecular weights
+520,000, 1,240,000, 3,530,000, and 10,000,000). For each of these samples, a t a given
+concentration c, tan a is a linear function of T,O. The straight lines corresponding to different values of the concentration have the same intercept B. The quantity B is proportional to molecular weight. The preceding results will facilitate extrapolation of the
+extinction angle measurements t o zero concentration and to zero solvent viscosity. (b)
+Desoxyribonweic acids. The tan a values obtained for a sample of molecular weight
+6x109 lie roughly on two straight lines, the intercept of the Grst being zero, that of the
+second being a positive value. The ratio of the slopes is about 4.5. Results of other
+authors on a sample having the same molecular weight, but prepared differently, show
+a similar behavior. A comparison is made between the preceding results and a recent
+theory which uses as a model a chain made up of N gaussian subchains, and which takes
+into account the internal viscosity of the molecule. A more complete interpretation
+will require the measurement of the intrinsic viscosity of the polymers in the various
+solvents which have been used. It can now be stated that most of the experimental
+results agree with the theoretical conclusions. In particular the possibility is codkmed
+of determining the inteinal viscosity term as the intercept of the asymptote to the tan a
+uersus qo curve. Sadron’s conclusions about the existence of two varieties of desoxyribonucleic acids are confirmed, since the two samples examined here, have different
+rigidities. However, the molecular weight dependence of the internal viscosity term
+does not seem to be compatible with theory.
+
+A procedure similar t o that of Cerf was followed, the initial slope tan
+
+Zusammenfassung
+Es werden auf zwei Polymertypen StrGmungsdoppelbrechungsmessungen durchgefiihrt, die ahnlich denjenigen Cerfs sind, das heisst es wird die Neigung, tg a, der Anfangstangente der AuslGschwinkelkurve in Abhgngigkeit der Viskositat, qo, des LGsungsmittels gemessen. (a)Polystyrole. Die Messungen beziehen sich auf vier Fraktionen
+von 520.000, 1.240.000, 3.530.000 und 10.000.000 Molekiilargewichten. Fiir jede von
+ihnen, bei einer gegebenen Konzentration c, ist tg a eine lineare Funktion von qo. Die
+Geraden fur verschiedene Konzentrationen haben dasselbe Anfangsordinat B. Der
+B-Wert ist dem Molekiilargewicht proportional. Diese Bemerkungen werden die Extrapolation der AuslGschwinkelmessungen auf c = 0 und auf qo = 0 erleichtern. (b)
+Desoxyribonukleinsuuren. Die tg a-werte, die rnit einer Fraktion von 6 X 106 Molekiilargewicht gemessen werden, fallen in der Nahe zweier Geraden, deren ordinate bzw.
+n d l und positiv sind und deren Steigungsverhgltnis von der GrGssenordnung 4,5 sind.
+Ahnliche Bemerkungen treffen fur Messungen anderer Autoren an einer rnit anderen
+Methoden hergestellten Fraktion desselben Molekulargewichts zu. Es wird dann ein
+erster Vergleich zwischen den experimentellen Ergebnissen und einer neueren Theorie
+durchgefuhrt. Diese Theorie ruht auf einem Modell rnit N statistischen Teilketten und
+zieht die innere Viskositat des Molekiils in Betracht. Eine vollstandigere Auslegung
+setzt die Kenntnis der Grenzviskositatszahl in den benutzten LGsungsmitteln der Polymere voraus. Schon jezt steht fest, dass die meisten experimentellen Ergebnisse rnit
+der Theorie iibereinstimmen. Insbesondere, wird die MGglichkeit, das innere Viskositats Glied von dem Anfangsordinat der Assymptote zur Kurve tg a (m)zu bestimmen
+bestatigt. Die Schlussfolgerungen Sadrons der Existenz zweier Arten Desoxyribonukleinszuren werden bekStigt!. da die zwei untersuchten Fraktionen verschieden steif
+sind. Allerdings scheinen die Anderungen des innere Viskositats Gliedes rnit dem Molekiilargewicht schwer rnit der Theorie in Ubereinstimmung zu bringen.
+
+180
+
+J. LERAY
+
+Discussion
+V. Desreux (Li?ge): (1) A quelles concentrations les mesures relatives L l’acide
+dksoxyribonucleique ont elles CtC faites? (2) La polydispersit.6 de cet acide semble btre
+Clevke pour une valeur moyenne de la constante de sedimentation Cgale h 30 on peut
+estimer la dispersion entre 15 et 45 unitks Svedberg. Quelle influence cette polydispersit6 peut-elle avoir sur la valeur et l’interpretation de la tangente a?
+R. Cerf: (1)Les mesures de birkfringence d‘Ccoulement ont CtC effectuCes L des dilutions tells que la courbe d‘extinction ne dkpend plus de la concentration (3 X 10-6
+gr/cm3, selon la viscosith du solvant). (2) Le rapport des pentes de la tangente h
+5
+l’origine de la courbe tg a ( T O ) et de l’asymptote n’est vraisemblablement pas affect6
+par la polydispersit6. En tout cas, la valeur thkorique de ce rapport ne l’est pas. La
+valeur de tg CY par contre, dkpend fortement de la polydispersitk. La correction peut
+6tre effectuCe si l’on connait la rkpartition des masses dans l’kchantillon.
+

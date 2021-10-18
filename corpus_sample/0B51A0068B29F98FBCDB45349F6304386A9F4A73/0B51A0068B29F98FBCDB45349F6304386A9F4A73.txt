@@ -1,0 +1,1116 @@
+BIOPOLYMERS
+
+De‘gradation du DNA par H,O,
+en Pre‘sence d’Ions Cu++, Fe++ et Fe+++
+H. SCHWEITZ, Centre de Recherches sur les Macromolhcules, Strasbourq,
+France
+
+Synopsis
+The mechanism of degradation of calf thymus DNA by HZ02 in dark and light, and
+in the presence of either Cut+, Fe++, or Fe+++ions has been investigated by following
+the decrease of molecular weight f i w by light scattering. Both in the dark and in light,
+the rate of degradation decreases in the following order: Cu++>Fe++>Fe+++. In order
+to exploit quantitatively the variation of hTw with time, we calculated the probablility
+p ( t ) of rupture in a double stranded polymer as a function of the occurence a t random
+of both breaks of the “first kind” (single hits) and of the “second kind” (double hits),
+when there are caused by any degrading agent. The value of p ( t ) can then be related
+to W,(t) for the present case of a randomly polydisperse sample of DNA molecules.
+In the dark, and in the presence of Cu++ions, a degradation of the first kind (which takes
+place through the simultaneous or successive splitting of both strands of DNA at the
+same level) is the only one so far observed. The number of degradation sites of the
+first kind is equivalent to the number of bound Cu++ ions in inner sites of DNA. A
+model is set up to explain the successive breaks of the two strands of the DNA molecule
+through the formation of a complex (DNA site-Cu++-I1202) which exhibits peroxidative
+properties. The comparison of the degradation induced under these conditions in a
+native and a sonicated DNA, shows that the specific sites of attack of ultrasonic waves
+are not specific sites of HZOz action in the presence of Cu++ ions. In the dark and in the
+presence of Fe++or Fe+++ions, breaks of the first kind and second kind are superimposed,
+but the last are predominant. This is ascribed to the low binding of iron ions in inner
+sites of DNA under these conditions. A large increase in degradation rate of the
+second kind occurred in the presence of light (with or without added metallic ions and)
+is ascribed to the action of the free radicals HO’ (and HOz.) which arise from the photolysis of HZOz. These results are discussed in relation to those obtained by the action of
+ionizing radiations on aqueous solutions of DNA.
+
+INTRODUCTION
+Dans un travail antkrieur,’ nous avons montr6 que l’eau oxyg6n6e d6gradait le DNA en provoquant une chute de la masse mol6culaire. I1 est
+apparu depuis que certains ions de mktaux de transition et la lumikre ont
+une action dkterminante et trks nette sur cette dkgradation. Ces ions
+mktalliques, complexks par le DNA, jouent ce de fait un rBle de catalyseur
+li6 b la mol6cule, dans la dBcomposition de Hz02en presence ou non de
+lumikre.
+Nous examinerons tout d’abord les principaux r6sultats obtenus dans
+ce domaine, lorsque la rkaction a lieu en milieu homogkne, A un pH voisin
+101
+
+SCHWETTZ
+
+102
+
+de la neutralite et B la temperature ordinaire. Une deuxihme partie sera
+consacr6e B l’dtude theorique de la degradation d’un polyrn&re en double
+chaine par la superposition de deux m6canismes differents. Nous verrons
+erisuite comment on peut appliquer ces calculs B l’interpretation quantitative de la d6gradation du DNA par HzO, en pr6sence d’ions CU++,Fe++
+et Fe+++ b l’obscurite et B la IumiQre. Dans un autre article,2nous avons
+examine plus particuliQrement la ddgradation des bases dans le DNA par
+I’nction de HzOz en presence d’ions Fe++ et de IumiQre.
+
+La D6composition de 1’Eau oxyg6nde
+E n presence d’ions ferreux et ferriques, les reactions d’initiation sont les
+suivantes3 *
+1
+
++ Fe++ HO’ + [Fe’II OH]++
+H202 + Fe+++ -+ HOz‘ + H+ + Fe++
+H202
+
+--$
+
+(1)
+(2)
+
+D’aprQs
+la variation d’6nergie libre necessaire B la reaction (1) n’est
+que de 6 kcal au lieu de 30 kcal pour la reaction (2). Ceci expliquerait
+pourquoi la decomposition de Hz02est beaucoup plus rapide en presence
+d’ions Fe++ qu’en presence d’ions Fe+++. E n presence de I’un ou l’autre
+ion, les reactions de propagation mQnent nux radicaux NO’ e t HO,’.
+L’ion Cu++ libre e t seul est peu actif dans la decomposition de l’eau
+oxygenhe.5 , 6
+La decomposition photochimique de HzOz ne se produit qu’avec les
+radiations de longueur d’onde X <3800 A, suivant la schema ( 3 ):7-s
+H202
+
++ h~ -+
+
+HO’
+
++ HO’
+
+(3)
+
+Les radicaux HO’ donnent naissance b quelques radicaux HOz’ en
+agissant sur Hz02. Par consequent, comme dans le cas de la d6composition
+catalysee par les ions Fe++ et Fe+++, et comme dans l’action des radiations
+ionisantes sur les solutions aqueuses a6rees,* les espQces actives obtenues
+sont finalement les radicaux libres H O , trbs rdactifs, et HO; qui le sont
+beaucoup r n ~ i n s . “ + ’ ~E n l’absence de substrat oxydable, e t dans tous les
+cas, la r6action de termination de ces differentes chaines de reaction conduit
+B la liberation d’oxygQnemoleculaire. E n pr6sence d’un substrat organique
+oxydable du type R H par exemple, les radicaux libres sont capt6s dQsleur
+formation suivant la rdaction generale:
+RH
+
++ HO’ -+ R’ + HzO
+
+(4)
+
+suivi de la fixation d’oxygQne moleculaire lorsqu’on opbre en milieu a6r6:
+
+R
+
++
+
+0 2
+
+-+ROO’
+
+(5)
+
+Ce radical peroxyde ROO’ est instable; il 6voluera B son tour en entrainant une d6gradation plus ou moins poussee de la mol6cule initiale RH.
+*Dam ce cas il se forme aussi le radical 0 ~ .
+
+IIEGRADATION OF DNA BY HzOz AND IONS
+
+103
+
+(Voir la discussion en ce qui concerne l’action des radiations ionisantes sur
+les solutions aqueuses de DNA.)
+Dam beaucoup de cas, et en particulier d a m celui du DNA, une complication se pr6sente du fait que le substrat peut agir comme agent ch6latant
+vis B vis des ions metalliques. I1 faut done consid6rer ce deuxicme ph6nomhne.
+
+Interactions du DNA avec les Ions m6talliques de Transition
+Ions cuivriques. I1 y a trois types de complexes po~sibles.’~Comme
+tout cation, Cu++ peut jouer le rBle d’ion compensateur e t &re 1% Blectrostatiquement aux groupes phosphates. I1 est ii noter que la liaison avec
+un phosphate secondaire (cas d’une coupure prhexistante par exemple) est
+beaucoup plus forte. Ce type de complexe ne se forme pas en force
+ionique 6 l e ~ Q e(0,lM
+’ ~ p. ex.).
+Cu++ peut constituer un pont mBtallique entre un phosphate et l’azote
+N ? d’une purine. A cause de la liaison avec les phosphates, ce type de
+complexe ne se produit Bgalement qu’en faible force ionique. C’est lui
+qui cause la diminution de stabilit6 du DNA (dktectable par l’abaissement
+du T,) en modifiant l’bnergie d’empilement des bases.
+Enfin l’ion Cu++ peut former des chklates internes sur les guanines.
+Ce type de complexe est pratiquement indbpendant de la force ionique, son
+existence en force ionique BlevBe (0,lM ou plus) a Bt6 montr6e par RPE15.16
+polarographie et spectrophotomBtrie diff6rentielle;’4 e’est lui qui jouera un
+rB1e dans notre travail. E n force ionique 0,lM il est possible de fixer de
+cette faGon jusqu’h 5 ions Cu++ pour 100 nuclBotides dans le DNA natif
+de thymus de V e a ~ . ‘ ~ . ’ ~
+Ions ferreux. Leurs complexes ont Bt6 beaucoup moins 6tudiBs que
+ceux de l’ion Cu++. 11s semblent presenter une certaine analogie avec ces
+derniers, mais la fixation de l’ion Fe++ sur le DNA est nettement moins importante (du moins en 0,lM C104Na) que celle de l’ion Cu++.
+Ions ferriques. Ces ions peuvent se fixer sur les phosphates; on n’a
+par contre pas mis en evidence leur fixation dans des sites internes du
+DNA natif.15
+Sachant que les ions Cu++, Fe++ et Fe+++ ont B la fois la propriBt6 de
+catalyser la dBcomposition de H202et d’&trechBlat6s dans certaines conditions par le DNA, il apparait important d’examiner ce que l’on sait d’une
+faFon g6nBrale de l’influence des agents chklatants sur la dBcomposition
+de H202 catalys6e par ces ions mBtalliques.
+Influence des Agents ch6latants sur la Dikomposition de H202catalys6e
+par les Ions fer et cuivre
+I1 ressort des travaux effectuks sur ce sujet que l’on peut caraetkriser
+cette influence par deux crit&res.
+(a) L’effet catalytique des ions mBtalliques est augment6 par chhlation,
+du moins tant que cette ch6lation demeure partielle. Ainsi l’activit6
+
+104
+
+SCHWEITZ
+
+catalytique des ions Fe++ et Fe+++ est 100 fois plus grande lorsque ces
+ions sorit complex6s par la 1,10-ph6nantholine ou Ic a,a’-bi pyridylc.17
+De m&mel’ion Cuff qui, B I’6tnt libre (sulfate ou nitrate), dBcompose tr&
+leritemerit H202,voit son activite catdytique augmcnter considBrablemcrit,
+par complcxatiori faible avec l’ion acRtate,lXou plus forte avec l’ammoniaque.ly L’6tude de ses complexes avec plusieurs bases azot6es h6t6rocycliques diff6rentes a permi Kirson et 5L Sigel et coll. de moritrer que
+son activit6 catalytique est maxima lorsque 2 des 4 coordinances d u cuivre
+sont likes A l’agent ~hBlatant.~O-Z~
+( b ) Le m6canisme m&mede l’oxydation par H2Oz d’un substrat organique quelconque est modifi6 quand les ions m6talliques qui catalysent
+cette oxydation sont ch6lat6s. I1 ne fait plus intervenir les radicaux
+libres HO‘ et H02‘ mais un complexe (ligande-ion m6tallique-H20z)
+dont la structure, probablement stabilisbe par tautom6rie l’apparente aux
+compos6s (peroxydase-H20z). Ce m6canisme a 6th mis en Bvidence en
+particulier dans l’oxydation de d6riv6s de l’ad6nine par Hz02en pr6sencc
+d’ions C U + + ,et
+~ ~dans I’hydroxylation de l’anisole par Hz02en pr6sence
+de quantit6 catalytiques d’ions Ire+++ et de cat6choLZ5
+
+ETUDE THEORIQUE DE LA DEGRADATION D’UN POLYMERE
+EN DOUBLE CHAINE
+Depuis que Crick e t Watsonz6 ont propos6 pour la structure secondaire
+du DNA un moditle en double hblice, qui par ailleurs a repu de multiples
+confirmations exp6rimentales, plusieurs physicochimistes ont 6tudi6
+th6oriquement et exp6rimentalement les cons6quences que devrait avoir
+une telle structure sur les modes de dbgradation du DNA par diff6rents
+agents (enzymes, acide, chaleur, radiations ionisantes etc.) ;11.27-35 mais
+ces auteurs n’ont pas envisag6 le cas g6nQraloh il y aurait deux espBces de
+rkactions BlQmentairesentrainant avec des constantes de vitesse diff Brentes
+la rupture de la mol6cules la premiitre en une &ape la deuxiitme en deux
+6tapes ind6pendantes. D’autre part, dans certains cas, les calculs adapt&
+aux mesures de viscosit6 font intervenir des paramittres de configuration
+des molecules qui compliquent I’interpretation des rBsultats exp6rimentaux.
+
+Modsle
+Nous avons BtudiB le cas d’une dkgradation statistique d’un polymitre
+en double chaine dans un cas g6n6ral qui tient compte des parametres
+suivants, lion envisages par les auteurs cit6s ci-dessus: la d6gradation se
+fait par la superposition de deux mkcanismes diffbents; les liaisons entre
+monomh-es, dont la coupure entraine la rupture du polymitre par l’un ou
+I’autre de ces mbcanismes se couperit avec des vitesses diffkrentes,* la
+probabilit6 qu’une quelconque de ces liaisons soit coup& n’est pas dans
+cas g6n6ral proportionnelle au temps.
+*Nous utiliserons le terme “coupure” pour dkigner la rupture d’une chdne simple et II?
+terme “rupture” pour designer la rupture du polymi?re.
+
+DEGRADATION OF DNA BY HzOz AND IONS
+
+105
+
+Nous supposerons qu’au temps t = 0, avant que l’agent d6gradant entre
+en action, il y a dans l’kchantillon de polymbre considkrk, L(0) liaisons
+entre monombres se rbpartissant comme suit.
+L , ( O ) = L(O)x, liaisons qui sont telles quc 1 : ~coupurc de l’une d’entre
+elles entraine rapidement la coupure de la liilison en vis-A-vis et par voie de
+conskquence la rupture du polymbre par un m6canisme que nous appellerons
+de lbre espbce. Par extension et pour faciliter l’exposh, nous appellerons
+liaisons de premikre espbce les liaisons de ce type, et site de premibre espbce
+l’ensemble de deux liaisons de lbre espbce situkes en vis-A-vis.
+LZ(0) = L(0)zZ liaisons qui sont telles que la coupure de l’une d’entre
+elles (coupure de deuxibme espbce) n’entraine la rupture du polymbre
+(rupture de deuxibme espbce) que si une deuxikme coupure de chaine de
+deuxibme espbce, indkpendante de la premibre, se produit sur l’autre
+cha’ne, en vis-A-vis, A une distance infkrieure ou au plus kgale A p monombres (voir Fig. 1). Nous appellerons par extension liaison de “deuxibme
+espbce”, les liaisons de ce type et site de deuxibme espbce, l’ensemble form6
+par deux liaisons de deuxibme espbce situkes en vis-A-vis ou d6cal6es de fi
+monombres au maximum.
+I1 est bien entendu que les liaisons de premibre et de deuxibme espbce
+peuvent dans le cas gkn6ral soit &re diffkrentes, soit Btre identiques
+(liaisons phosphodiester entre nucl6otides par exp.), mais dans ce dernier
+cas, c’est la proximitd d’une h6tkrogknkit6 (ion mktallique ou s6quence
+particulibre de bases par exemple) qui iriduit une difference dans leur
+mode de coupure.
+Le nombre de liaisons qui sont insensibles A l’agent d6gradant est Bvidemment
+
+L(0) [1 -
+
+(21
+
++4
+
+1
+
+Nous admettrons que les sites de premibre espbce et les liaisons de deuxi&meespbce sont distribub au hasard dans 1’6chantillon.
+
+Pas de rupture de
+la rnol&uLe Q
+.3(
+
+Rupture d e l k espke
+de la rnolkule
+
+Rupture de 2ime
+e e e de La
+m o k u l e (2 =
+
+p)
+
+Fig. 1. Schema reprksentant la dkgradation d’un polymitre en double chahe par des
+mecanismes de premiere et de deuxihme espitce superposks, dans le cas oh 6 = 2 : ( 0 )
+liaison de premiere espece; ( 0)liaison de deuxihme espitce; ( - ) liaison insensible h
+l’agent dirgradant; ( 1) “point d’impact” de l’agent d6gradant.
+
+SCHWEITZ
+
+106
+
+Calcul de la ProbabilitC de Rupture du Polymsre au Temps t
+Au temps t, comptk depuis le dkbut de l’action de l’agent dkgradant,
+appelons p l ( t ) la probabilitk pour que deux liaisons de premibre esp&ce
+quelconques mais situkes en vis-8-vis, c’est-&-dire formant un site de
+premiere espbce, soient coupkes :
+
+pdt)
+
+=
+
+[Ll(O) - Ll(t)I/Ll(O)
+
+(6)
+
+La probabilitk pour que deux liaisons quelconques, mais situ6es en vis-8-vis
+soient coup6es par ce mkcanisme propre aux liaisons de premiere espbce
+est donc rtlpl(t).
+Soit p z ( t ) la probabilit6 pour qu’une liaison de deuxibme espbce quelconque soit coupke au temps t :
+pz(t)
+
+=
+
+[LZ(O)- LZ(t)l/LZ(O)
+
+(7)
+
+Si l’on considbre dans l’kchantillon, l’ensemble form6 par les liaisons de
+deuxibme espbce et celles qui sont rhsistantes 8 l’agent d6gradant’ la
+probabilitk pour que I’une quelconque de ces liaisons, donnke 8 priori,
+soit coupke au temps t est :
+[22/(1
+
+-
+
+4 1 pz(t>
+
+La probabilit6 pour que deux quelconques de ces liaisons soient coup6es
+juste en vis-8-vis est :
+[ 2 2 / ( 1 - 2dI2pz“t)
+
+La probabilit6 pour qu’elles soient coup6es en vis-8-vis, mais avec un
+decalage possible de p liaisons de part et d’autre sera 2p
+1 fois plus
+grand soit, si l’on pose comme Cavalieri et Bendich, 2 p
+1 = B:
+
++
++
+
+B [zz/(1 -
+
+21)12
+
+pzz(t)
+
+Si B > 1, cette expression est valable aussi longtemps que les domaines
+comportant p liaisons de part et d’autre d’une liaison coupke ne se recouvrent pas. Nous admettrons qu’elle constitue une bonne approximation
+jusqu’8 un stade de dhgradation assez avanck. Si B = 1, elle est valable
+jusqu’b la fin de la dkgradation.
+Les valeurs gknkralement admises pour le param&tre,f3 varient, dans le cas
+du DNA natif, entre 2 (valeur trouv6e par Thomas par l’ktude de la
+degradation du DNA par la DNAse p a n c r 6 a t i q ~ e3, ~et~ 4 (valeurs admises
+respectivement par Hagen35 et par S c h o l e ~8~partir
+~
+des rksultats de
+dkgradation du DNA par les radiations ionisantes.)
+La probabilit6 pour que deux liaisons quelconques, prises dans l’ensemble
+de toutes les liaisons, mais situ6es en vis-8-vis ou dkcalkes de f p monomikes, soient coup6es par ce m6canisme propre aux liaisons de deuxibme
+espbce est 6gal au produit de l’expression pr6c6dente par (1 - 51)’ soit :
+B [ ~ ‘ / ( 1- z1)l pz’(t)
+
+DEGRADATION OF D N A BY
+
+H202
+
+AND IONS
+
+107
+
+1,a probabilit6 p ( t ) d’avoir au temps t, au niveau d’une paire de monombres quelconque, mais donn6e B l’avance, une rupture du polymbre par
+l’un quelconque dc ces deux m6canismes est donc la somme des deux
+probabilit6s de rupture correspondant B chacun de ces deux m6canismes:
+
+Exploitation des R6sultats
+Relations entre la Masse mol6culaire et le Nombre de ruptures. Le
+nombre de ruptures dans un polymbre de masse mol6culaire AT, constitu6
+dc N unit& de masse mol6culaire m est donn6 par:
+
+R
+
+=
+
+N P(2)
+
+=
+
+W/m) p(t)
+
+(9)
+
+Dans le cas d’un systbme polydisperse, si l’on pouvait commod6ment
+mesurer la masse mol6culaire moyenne en poids
+on aurait toujours:
+
+an,
+
+an(O)/an(t)
+
+=
+
+1
+
++ Rn
+
+(10)
+
+Rn est le nombre moyen de ruptures par molBcule initiale de masse
+R,(O). I1 serait alors facile de r6soudre notre Bquation (8) et de calculer
+oh
+
+ses diffkrents parambtres. Cependant la technique la plus commode pour
+6tudier ces degradations est la diffusion de la lumibre; elle fournit la masse
+molCculaire moyenne en poids Bu;
+il s’agit de trouver une relation liant
+aw(t)
+B Ai,(O) et R ; le nombre moyen de ruptures par molBcule initiale
+de masse AT,(O). Une telle relation dkpend de la structure des molBcules
+et de leur degr6 de polydispersit6. Diff6rents a u t e ~ r s ~ont
+~ -Btabli
+~ ~ les
+relations existant dans quelques cas particuliers pour les mol6cules en
+simple chaine mais il est 6vident qu’elles sont identiques pour les molBcules
+en double chafne puisque R repr6sente un nombre de ruptures de molBcule
+(c’est-B-dire des deux chafnes B la fois, quel que soit le mecanisme qui a
+engendr6 cette rupture.)
+Nous n’examinerons ici que le cas qui nous intkressera pour l’exploitation
+de nos r6sultats expBrimentaux :celui d’un Bchantillon de mol6cules 1inBaires
+polydisperses en double chaine. Aprbs extraction des mol6cules de DNA
+des organismes sup6rieurs par les m6thodes classiques on a en effet une
+distribution des masses moleculaires qui correspond B peu prbs B celle que
+I’on obtiendrait en coupant au hasard une mol6cule infiniment 10ngue;~l
+c’est la distribution la plus probable, caract6ris6e en particulier par la
+relation
+
+iv”(o)/mn(0)= 2
+
+(11)
+
+Ce rapport de 2 est 6videmment conserv6 si l’on degrade les molBcules
+par un agent qui agit au hasard (ce qui est notre hypothbse de dBpart).
+Cette donnke th6orique a d’ailleurs 6t6 v6rifi6e expkrimentalement par
+Peacocke et Preston31 dans l’action des rayons y sur une solution de DNA.
+
+108
+
+SCH W M T Z
+
+a,
+
+D a m ce cas la relation entre
+et R est tres simple si l’on neglige les
+bouts de chaine (c’est-&dire 1 devant N), on a en effet:
+
+AiU(O)/B&)
+= 1 + (R/2)
+Le facteur vient du fait que R &ant ici le nombre moyen de ruptures
+par molkcule de masse kgale B B,(O) est le double du nombre de ruptures
+par molecule de masse
+Les relations ( 8 ) , (9) et (12) permettent donc d’6crire dans ce cas:
+
+a,(O).
+
+oti N = a w ( 0 ) / mm
+, &ant la masse d’une paire de monombres.
+Dans un autre arti~le,~O
+nous verrons comment on peut % partir de notre
+Rquation (8) et des expressions Ctablies par C h a r l e ~ b yD, ~u~r ~ p ,Strazielle
+~*
+et B e n ~ i tBvaluer
+, ~ ~ l’importance relative des deux espBces de dbgradation
+auxquelles peut &tresoumis un Bchantillon de DNA si l’on connait sa structure et r&,iproquement, comment on peut determiner sa structure si
+l’espbce de la d6gradation est connu. Le calcul du nombre de coupures
+pr6existantes y sera 6galement examine. Une premibre application pratique de (13) a d6jB 6t6 faite dans le cas de la d6gradation du DNA par
+H202en presence d’ion cuivrique seul et de lumihre seule.*’
+
+MATERIEL ET METHODES
+L’6chantillon de DNA utilis6 (V 268) nous a 6t6 fourni par le Dr. J.
+Pouyet. I1 a Bt6 pr6par6 B partir de thymus de Veau, selon une m6thode
+d6rivant de celle de Kay, Simmons e t Dounce.42
+L’eau oxyg6nQeest un produit Merck B 30%.
+La dkgradation du DNA par H202a 6t6 suivie par la diminution de la
+masse molRculaire au cours du temps. Les mesures ont 6t6 faites sur un
+photogoniodiffusiombtre Sofica dans les conditions suivantes : 3 ml de
+sulfate mktallique (Cu++, Fe++, Fe+++) lW4M B p H 4 fraichement pr6par6
+sont ajout6s B 25 ml d’un tampon acetate de sodium 0,2111 B p H 6.” On
+ajoute ensuite en agitant, 10 ml d’une solution de DNA de thymus de
+veau (V268) B 1 mg/ml. Les solutions sont compl6t6es B 50 ml par de
+l’eau distill6e, centrifugbes, 25 ml de chaque solution sont pipet& dans les
+cellules de mesure et maintenus
+35°C B l’obscurit6. Une premiere
+mesure est eff ectu6e d&sque I’Rquilibre thermique est atteint. L’addition,
+dans les cellules, de 0,085 ml de H20213N (Merck) d6finit le temps z6ro.
+*A pH neutre les ions ferreux et ferriques, ajoutEs b la solution de DNA, prkcipitent au bout de quelques heures sow forme de micelles qui diffusent considerablement
+la lumikre. Nous avons r6ussi a Eliminer cet effet parasite, d u n e part en acidifiant
+tr&slegkrement le milieu rEactionne1 (tampon acbtate b pH 6 au lieu de tampon phosphate b p H 7, les acetates ayant en plus l’avantage d’&trebeaucoup plus solubles que les
+phosphates), et d’autres part, en limitant la quantitE d’ions mbtalliques ajoutbs, a uii
+ion pour 100 nucleotides du DNA.
+
+DEC;ItAL>ATION OF DNA BY II&e AND IONS
+
+10‘3
+
+Uans ces conditions il y a dans les solutions 35 moldcules H202par nucl6otide du DNA, e t un ion mdtallique pour 106 nucldotides. Quatre solutions
+tkmoin ne contenaient que l’eau oxyg6n6e ou les ions mktalliques, ajout6s
+au DNA.
+Une partie de la solution de DNA (V 268) a dtk prkalablement soniquke
+soniquke pendant 3 min avec une puissance de 0,7 W/cm3. La masse
+mol6culaire &ant r6duite au dixiiime de sa valeur initiale par ce traitemcnt,
+40 ml de cette solution (au lieu de 10 ml) et 12 ml de sulfate de cuivre (au
+lieu de 3 ml) ont BtB utilisks de f q o n B pouvoir effectuer Ies mesures dam
+des conditions convenables et comparables.
+A la fin de cette exp6rience menke b l’obscuritk, les solutions t6moiIis
+ne contenant pas d’eau oxygende ont B t B refroidies B 30”. Au temps z6ro,
+on a ajoutk 0,075 ml de H20213N dans chaque cellule e t on a dclair6 avec
+le tube Philips “TL, lumikre noire” de 40 W, place B 10 cm pour suivre la
+dbgradation en prksence de lumikre.
+Toutes ces mesures ont c‘t4 effectutes sur des solutions qu’on a laisskes
+kvoluer dans les cellules de mesure. I1 n’a par conskquent pas dt6 possible,
+pour dkterminer la masse Ai,, de tracer des Zimm-plots complets avec
+extrapolation B concentration nulle. Nous avons donc admis que le
+deuxikme coefficient du Viriel dtait nul, ou du moins qu’il restait constant
+pendant la ddgradation. La premikre hypothkse est justifike par le fait
+qu’aux dilutions en DNA oh l’on a op6r6, seules les interactions klectrostatiques sont importantes, or en force ionique moyenne ou forte, elles sont
+compendes. I,e deuxikme coefficient du Viriel doit dont &re riul dans
+ces conditions; c’est ce qui a ktk vdrifik dans la degradation ultrasonore de
+solutions aqueuses de DNA en force ioriique 0,2.43 Pour presque tous
+les kchantillons htudids, le deuxi&mecoefficient du Viriel ktait nu1 b tous
+les stades de la d6gradation, depuis la masse de 4 millions jusqu’b 200000.
+La deuxikme hypothkse, est justifike par le fait que pour les quelques
+6chantillons qui prksentaient un deuxihme coefficient du Viriel non nu1 B
+l’6tat natif, cette valeur restait constante au cours de la degradation.
+
+RESULTATS EXPERIMENTAUX
+Action de H,Os sur le DNA en PrCsence d’Ions mCtalliques
+et 2 I’ObscuritC
+DNA natif. Aprks 90 heures d’action de H202,les densit6s optiques
+B ‘260 mp des solutions ont peu vari6 (augmentation b 4%), de m&meque
+les concentrations en H202(diminution b 16%). Les variations des masses
+molbculaires du DNA sont reprbsentkes sur la Figure 2.
+On constate qu’B l’obscurit6, H20zseule” et les ions m6talliques seuls ne
+provoquent aucune diminution de la masse mol6culaire du DNA. Par
+*C’est b dire sans ions mbtalliques de transition ajoutds. En utilisarit la spectrophotombtrie d’absorption atomique, rious n’avoiis d’ailleurs pas dbtertb de cuivre dans
+l’dchaiitillori de DNA utilisb. Etant d o i i i i i . la g r a d e sensibilitd de la mbthode, ce
+rbsultat permet d’affirmer qu’il y a moins d’un ion pour 5.000 nuclbotides.
+
+SCHWEITZ
+
+110
+
+&
+Fiw 0)
+
+1c
+
+0
+I
+
+heures
+
+0
+
+Fig. 2
+
+contre, si les ions mktalliques et H2O2sont prksents simultankment, la
+diminution de la masse molkculaire devient mesurable e t l’intensitk de la
+degradation croyt dans l’ordre Fe+++ < Fe++ < Cu++.
+E n prksence d’ions Cu++ et de H202, la courbe reprksentant les variations
+de B,(O)/B,(t)en fonction du temps prksente une concavitk toujours
+tournke vers le bas qui indique une dhgradation de premikre espbce.
+Comme le DNA utilisk est polydispersk
+2), l’expression thkorique g6nkrale (13) rend compte d’une maniBre satisfaisante de ce rksultat si
+l’on admet qu’il n’y a pas de coupures de deuxiBme espbce (pz = 0) et que
+les liaisons se coupent suivant une cinktique du l e r ordre de constante de
+vitesse kl telle que p l = 1 - e c k l t (ceci est justifik par le fait que l’eau
+oxygknke &ant en grand excbs e t se dkcomposant trBs lentement, sa concentration peut &re considkrbe comme % peu prbs constante pendant toute
+la durke de la dkgradation), eq. (13) devient done dans ce cas:
+
+(@,/a,
+-I
+
+B,(0)/Bw(t)
+= I
+
++ [B,(0)/2rn]x1 (1 -
+
+e--klt)
+
+(14)
+
+La tangerite % l’origine, bien dkfinie par les points expkrimentaux correspond
+au dkveloppement limit6 de eq. (14) :
+
+B,(O)/B,(t)=
+
+1
+
++ [R,(o)/aml
+
+XllClt
+
+(15)
+
+La droite d’ky. (15) tracke en pointillk sur la Figure 3 permet done de
+dkterminer le produit xlkl, on trouvc zlkl = 72 X loc6 heure-’. I1 ne
+reste done qu’% choisir la valeur de x1 permettant de faire coincider la
+courbe thkorique avec les points expkrimentaux. Sur la Figure 3, les
+courbes A et B correspondant respectivement % x1 = 1,0 X 10W et 2,0 X
+lOW, encadrent les points expkrimentaux.
+E n prksence des ions Fe++ et Fe+++ l’allure des courbes est plus complexe. La reprksentation des valeurs de (l/t) [#w(0)/Bw(t)
+- 11 en fonction du temps ne donne pas des droites horizontales comme dans le cas
+prkckdent, mais des courbes prCsentant un minimum. Dans le cas de
+
+111
+
+DEGRADATION OF DNA BY HzOz AND IONS
+
+l’ion ferreux, l’allure de la courbe peut s’interpreter comme &ant due B
+la superposition d’une degradation de lBre esphce portant sur un trBs petit
+nombre de sites (21 li 1 X
+soit environ 0,6 site par molecule), e t
+d’une degradation de deuxihme esp6ce plus importante. Dans le cas de
+l’ion ferrique, seule se manifeste pratiquement la degradation de deuxiBme
+espBce (21 ‘v 0,6 X
+soit environ 0,3 site par molecule, et la constante
+de vitesse kl est sensiblement plus faible qu’avec les ions Fe++). Les
+resultats sont rassembl6s dans le Tableau IA.
+TABLEAU I
+Evaluation des coupures de premihre et de deuxieme esphce dans I’action de I1,Oz sur le
+DNA de thymus de veau (V 268).
+
+A. Ions miitalliyues B I’obscuritk (Figs. 2 et 3 )
+
+cu++
+
+Fe++
+Fe+++
+
+371
+3,2
+3,s
+
+18,2
+-
+
+0
+-
+
+72
+-35
+-3
+
+B. Eclairemelit UV plus ions mbCalliques (Figs. 5 et 6)
+cu++
+494
+66
+610
+1!)0
+Fe++
+Fe+++
+
+4,2
+
+474
+
+34
+26
+
+76
+74
+
+______.~__
+
+100
+
+73
+
+(0)
+-238
+-100
+
+I !lo(f
+(670)
+(650)
+
+(0)
+-175
+-75
+
+1400
+(500)
+(480)
+
+-~
+
+azlkl
+et xZk2 reprhentent la fraction des liaisons totales du DNA coupkes par heure
+suivant un miicanisme de premiere e t de deuxieme esphe; p est le d6calage maximum,
+exprimi: en nombre de nuclkotides, entre deux coupures de deuxihme espkce situkes en vis8-vis e t permettant la rupture de la rnol6cule; K et (Y sont respectivement l’ordonniie B
+l’origine e t la pente de la droite obtenue dans la reprksentation en (1/1) [W,(O)/W,(t) 11 en fonction du temps.
+
+112
+
+SCHWEITZ
+
+t heures
+
+Fig. 4
+
+DNA soniqu6. L’Btude comparative a 6t6 faite de I’action, ti I’obscurit6
+e t B 37°C’ de HzOz en presence d’ion Cu++ (1 pour 106 nuclkotides), sur
+du DNA V 265 natif et soniqu6, pour savoir si les sites du DNA qui donnerit
+lieu B une dbgradation suivunt un m6canisme de lbre esphce sont identiques
+ou non B ceux qui donnent lieu au m6me type de d6gradation dam l’action
+des ultra-sons.
+Pour comparer les dkgradations obtenues dans les deux cas, on a trac6,
+en fonction du temps t d’action de Hz02,les variations de la quantit6 2m
+[l/@,(t) - 1 / ~ @ ~ ( 0qui
+) ] est 6gale B la valeur p ( t ) d6finie par 1’6q. (5)
+(Fig. 4). Cette valeur pr6sente en effet l’avantage d’6tre thboriquement
+indhpendante de la masse mol6culaire de depart
+Si 1’011 admet que
+le nombre de liaisons coup6es est proportionriel au temps (pl = klt et
+p , = kzt)*, p ( t ) s’6crit:
+
+aW(O).
+
+p(t)
+
+=
+
+zllclt
+
++B
+
+[222/(1
+
+- a)]kz2t2
+
+(16)
+
+On voit sur la Figure 4 que la pente B l’origine, qui reprksente la fraction
+z l k l des liaisons totales coupBes par heure suivant un mkcanisme de lbre
+esphce est plus grande pour le DNA soniyu6 (112 X lop6) yue pour le
+DNA natif (89 x lopfi). Le trac6 de p ( t ) / t en fonction de t permet
+d’6valuer B 187 X
+la fraction xrkz des liaisons totales coup6es par
+*Cette hypothhse, dCji faite par d’autres a u t e u r ~ ’ ~ . ~ *sera
+. 3 ~ ,eii g6nCral valable au
+d6but de la degradation, tant que I’activite de l‘ageiit d6gradaiit sera coiihtante et tarit
+que les fractions des liaisoiis coup6es de chaque esphce seront petites devaiit un.
+
+DEGRADATION OF DNA BY
+
+H202
+
+AND IONS
+
+113
+
+heure suivant un m6canisme de deuxibme espBce pour la DNA soniqu6,
+(alors que cette fraction est apparement nulle pour le DNA natif).
+
+Action de H 2 0 2sur Ie DNA en Presence d’Ions metalliques et de IumiSre
+La Figure 5 montre qu’h la lumi6re la dkgradation du DSA se fait
+comme prBc6demment avec une intensit6 croissante dans l’ordre Fe+++
+< Fe++ <Cu++, mais elle est beaucoup plus rapide qu’8 l’obscurit6 et il
+y a apparition d’une d6gradation de 28me espBce qui se superpose B celle
+de lBre espbce, m6me en prQence de cuivre. En effet, au d6but de la
+ddgradation toutes les courbes sont concaves vers Ie haut, de plus on peut
+les assimilier B des paraboles comme le montre la reprbsentation en (l/t)
+[(fiTW(O)/8,(t)
+- I] laquelle donne des droites (Fig. 6). Ceci correspond
+donc B l’expression th6orique (13) oh p l = klt et p , = k d . On peut par
+condquent, B partir de l’ordonn6e B l’origine I< et de la pente a des droites
+obtenues dans la representation de la Figure 6, calculer simplement 1 ~ s
+
+I
+
+I
+
+5
+
+10
+
+I
+
+I
+heures
+
+Fig. 5
+
+“0
+
+5
+
+Fig. 6
+
+lo
+heures
+
+15
+
+114
+
+SCHWEITZ
+
+fractions xlkl et xzkz des liaisons qui se coupent par heure, respectivement
+suivant un m6canisme de premiere et de deuxiitme espitce (Tableau IB).
+On voit que xlkl et xzkz sont plus grands B la lumiitre, quel que soit l’ion
+m6tallique consid6r6. De plus il y a aussi une degradation du DNA en
+absence d’ions m6talliques ajout6s.
+
+INTERPRETATION DES RESULTATS ET DISCUSSION
+Nous avons vu que suivant les conditions exp6rimentales (ion m6tallique
+de transition, lumikre), I’eau oxyg6n6e d6grade le DNA suivant un m6canisme de premiitre espitce (rupture des deux chaines es un coup) ou de
+deuxiitme espitce (rupture en deux coups).
+Nous allons tout d’abord pr6ciser l’origine et le m6canisme de la dkgradation de deuxiitme espitce obtenue par HzOz en comparant nos r6sultats B
+ceux qu’ont obtenus d’autres auteurs en faisant agir soit Hz02,soit les
+radiations ionisantes. Nous examinerons ensuite la degradation de litre
+espitce. Peacocke et P r e s t ~ n ont
+~ ~ ktudik
+. ~ ~ les effects de l’irradiation y
+sur des solutions aqueuses de DNA. 11s ont constat6 que aWp1
+(mesure
+par diffusion de la lumiitre) croissait lin6airement en fonction du carrk de
+la dose de rayonnement. Ceci confirmait les conclusions auxquelles
+6taient arrivks Cox et al.11x44
+B partir des mesures de viscosit6, B savoir qu’il
+est n6cessaire d’avoir deux coupures indkpendantes, une sur chaque chaine
+du DNA, pour rompre la mol6cule. La rupture des mol6cules de DNA
+par les rayons y se fait par conskquent par un m6canisme de deuxiitme
+espitce, ceci est vrai 6galement avec d’autres radiations ionisantes, dans
+la mesure oh les radicaux libres produits (HO’, HOz’,et 02-en milieu a6r6)
+sont assez dispers6s (ce qui n’est pas le cas avec les rayons
+mais l’est
+approximativement avec les rayons
+et les 6 l e ~ t r o n s ~ ~La
+) . titration
+des solutions de DNA irradikes” a permis de constater que l’irradiation y
+rompait Bgalement dans une forte proportion les ponts hydrogitne entre
+bases, sans toutefois entrainer la skparation des deux chaines qui restent
+emrn616es’ de telle sorte que le traitement mathematique de la variation
+de
+en fonction de la dose de rayorinement n’est pas affect6 par ces
+ruptures.
+En ce qui concerne leu coupures de chaines, Cox et al.” orit sugg6r6, B
+partir des mesures de titration, que les groupes acides lib6r6s pouvaient
+&re des phosphates secondaires termiriaux airisi que des carboxyles produits
+par l’attaque des sucres en C,’ par en radical libre. Scholes12a pr6cis6 ces
+r6actions chimiques en irradiant les mononucl6otides. I1 iriterpritte la
+formation observ6e d’acide phosphorique e t de phosphoesters labiles par une
+action primaire des radicaux sur le dkoxyribose en 3’ e t en 5’. Les cons6yuences &ant, d’une part une libkration d’acide phosphorique au site
+d’attaque, e t d’autre part la formation d’un phosphoester labile en position
+p par rapport B ce site d’attaque.
+Butler et Conway l o orit montr6 qu’en pr6sence de lumiitre ultraviolette,
+la dkgradation du DhTApar H ~ O est
+B analogue B celle que l’on obtiendrait
+X3s946
+
+DEGRADATION OF DNA BY HzOz AND IONS
+
+115
+
+par de fortes doses de rayons X. (Elle se fait en effet, comme nous l’avons
+vu plus haut par l’interm6diaire des radicaux HO’ et HOz’). Nous
+avons effectu6 des mesures sur la degradation du DNA par HzOz en pr6sence de lumibre ultraviolette (bande d’6mission situ6e entre 3000 et 4200
+8) e t en absence d’ions metalliques
+Les r6sultats obtenus
+confirment e t pr6cisent les observations de Butler: la degradation est de
+JeuxiBme espece, son intensit6 croft avec l’intensit6 de 1’6clairement’ et
+d’autre part le rapport du nombre de bases d6gradees (determink par
+arialyse chimique) au nombre de liaisons phosphoesters coup6es daris le
+meme temps (valeur de ~ 2 k 2 t )est 6gal B 2’3, valeur tres voisine du rendement radiochimique G(base)/G(sucre) = 2’8 obtenu avec les rayons X;12
+alors que dans un autre type de dhgradation du DNA, la dhgradation
+mBnag6e par 1’acide,28ce m6me rapport est de 200.
+Rhaese et F r e e ~ ont
+e ~ ~montr6 en 6tudiant la degradation de quelques
+oligo d-A par H20zen presence d’ions Fe+++ que la reaction initiale est une
+oxydation du d6oxyribose en 1’ qui eritrairie d’une part la liberation de la
+base et la formation d’un acide ribonique e t d’autre part, chaque fois
+qu’elle est possible, la coupure de la liaison phosphoester e t 3’ par /3
+dimination.
+I1 est difficile de savoir si les differences eritre les mecanismes proposes
+par ces diff6rents auteurs doivent &re attribuees B des differences entre
+les modes d’action des radiations ionisantes et de H202, ou si elles
+sont dues aux diffbrences entre les mat6riels utilis6s (DNA, mononucleotides
+et oligo d-A). I1 est par contre remarquable de constater les analogies qui
+existent dans ces diffkrents cas:
+--I,&
+
+lib6ration des bases et la rupture des liaisons phosphoesters sont dues
+
+B l’oxydation du dkoxyribose par un radical libre.
+--La /3 6limination en 3’’ avec liberation d’un phosphate 5’ terminal sur le
+tiucl6otide adjacent, semble &re un m6canisme privil6gi6. Elle serait la
+corisequerice d’une oxydation primaire en 5‘ (radiations ionisantes sur
+mononucl6otides) ou en 1’ (HZ02 sur oligo d-A).
+-Ces r6actions sont provoqu6es par des radicaux libres, qui agissent i n d b
+pendamment sur chaque chaine du DKA, ce qui a pour cons6quence de
+rompre la mol6cule de DXA par un m6canisme de deuxiBme espkce.
+
+En ce qui conceriie la d6gradation de premikre espkce, il convient de
+v6rificr tout d’abord si elle tie peut pas &re due B des ruptures preexistantes.
+1,’Btudepar sedimentation de bande en milieu alcaliri selon la m6thode mise
+au point par Vinograd et aL50 et utilis6e par Sinsheimer et lXoerner5’ pour
+6valuer le nombre de coupures pr6cxistantes dans une molecule de DKA 4
+x174, rious a pcrmis d’kvaluer B 2 ou 3 seulement le riombre de coupures
+preexistantes dans une mol6cule de 1’6chantillonV 268 de DNA de thymus
+de veau. Ces 2 ou 3 coupures prkexistantes peuvent eventuellement rendre
+compte d’une petite dkgradation de premiere espBce qui a 6td mise e1)
+evidence, B cBt6 de la d6gradation de deuxi&meespece pr6pondkrante, en
+
+SCHWEITZ
+
+116
+
+absence d’ions mktalliques ajout6s; elles n’expliquent pas par contre les trbs
+importantes dkgradations de lbre espbce observ6es en presence d’ion m6talliques, Cu++ en particulier.
+Dans ces conditions nous d o n s examiner successivement les rksultats
+obtenus dans la d6gradation A l’obscurit6 et A la lumibre e t proposer un
+modble, qui rende compte d’une faGon ad6quate de ces r6sultats.
+
+A I’Obscurit6 en Pr6sence d’Ions m6talliques ajoutCs
+On pouvait prkvoir, connaissant l’effet catalytique des ions I”+++
+et
+surtout Fe++ sur la d6composition de HzOz, que la dkgradation du DNA
+serait plus rapide en pr6sence des ions Fe++ que des ions Fe+++. L’efficacitk plus grande de la d6gradation en pr6sence des ions Cu++ qu’en
+pr6serice des ions Fe++ eux-m&mes n’6tait par contre pas prkvisible B
+partir des propriktes catalytiques des ions libres: elle doit &re mise en
+relation, comme nous l’avons vu plus haut, avec une ch6lation partielle de
+l’ion Cu++. I,es travaux que nous avons pass6s en revue nous montrent
+d’ailleurs que, dans les conditions utilis6es, 85y0 des ions cuivre mis en
+solution sont effectivement fix& dans des sites internes du DNA et ceci &
+raison de 1 ion pour 124 nucl6otides. Si l’on admet qu’une rupture de
+mol6cule (c’est A dire deux coupures en vis B vis de liaisons de lbre esphe)
+ne peut se produite qu’au site de fixation d’un ion cuivre, on doit trouver
+21 = 2/124 = 1,6 X lop2. Ce rksultat est confirm6 par l’exp6rience
+d’une faGori satisfaisante, puisqu’on irouve que Ics courbes correspondant
+&n = 1 x
+et z1 = 2 x low2 encardrent les points exphrimentaux.
+A partir de ces r6sultats, il nous semble possible de proposer le sch6ma
+r6actionnel suivant.
+L’ion Cu++ est fix6 dans un site interne du DNA, d’oh les deux chaines
+h i sont 6galement accessibles. Une liaison est 6chang6e avec l’azote 7
+de la guanine (la fixation sur l’azote 7 de la guanine a peut-&tre d6jB un
+effet labilisant comme L a ~ l e yl’a~ ~
+montr6 avec les agents alkylants).
+E n pr6sence d’eau oxyg6n6e’ ce complexe local a des propri6t6s peroxyd a ~ i q u e s . ~Cela
+~ , ~signifie
+~
+que, par analogie au compos6 Er (peroxydase
+H202),il peut provoquer deux deshydroghations successives, lesquelles
+orit lieu vraisemblablement sur les d6oxyriboses (DH) des deux chaines
+opposkes du DNA, chaque radical D‘ form6 pouvant entrainer la coupure
+pourrslit donc s’ecrire,
+de la liaison phosphoester v o i ~ i i i e . ’ ~Ida~ skquenee
+~~
+par analogie avec les reactions peroxydasiques :54
+
++
+
++ Hz02 -+ EI
+EI + DH -+ EII + D’ + coupure premibre chaine
+
+E
+
+EII
+
++ DH + E + D’
+
++ coupure
+
+deuxibme chaine
+
+E represente ici le complexe local DSA-site-Cu++, e t EI et EII repr6senterit les compos6s oxyd6s de ce complexe, contenant respectivement 2
+et 16quivalents oxydants. On voit que, d’aprhs ce schbma, une seule mo16-
+
+DEGRADATION OF DNA BY HsOz AND IONS
+
+117
+
+cule HzOz pourrait rompre la molecule de DNA en deux reactions qui
+sont successives e t par consequent non independantes dans le temps contruirement A ccllcs qui sont produites par les radicaux librcs. I1 n’est
+cependant pas exclu qu’A c6t6 dc cette degradation de l&reespbce, quelques
+coupures de deuxibme espbce soient caus6es par les 15yo d’ions Cu++
+libres catalysarit la decomposition de H202 A l’exterieur de la mol6cule de
+DNA.
+J,es resultats obtenus en presence des ions Fe++ et Fe++ sont plus difficiles
+d interpr5ter; cependant la degradation de deuxibme esp6ce observee d m s
+ces deux cas, peut &tremise en relation avec le fait que l’ion Fe++ se fixe scnsiblement moins sur les bases que l’ion C U + + ’ ~et, ~que
+~ I’ion l’e+++ ne
+semble pas sly fixer d’une manibre d6tectable.lS Dans ces conditions
+ces ions doivent agir essentiellement en catalysant la d6composition dc
+Hz02 en radicaux libres HO. et HO;. I,a petite degradation de l&re
+espbce observee au d6but est explicable par la presence de moins d’un site
+de lbre espbce en moyenrie par molecule de DKA. Nous pensons que ces
+sites sont dQsau piegeage des ions fer au niveau des coupures preexistantes,
+lesquelles ont k t e Bvalu6es A 2 ou 3 par molecule.
+J,’action comparative de H,Oz en prbsence d’ions Cu++, sur du DNA
+natif et soniqu6, montre que la sonication a pour effet non point de diminuer, mais au contraire d’augmenter de 26% le produit xlkl, c’est d
+dire la fraction de liaisons coupees en une heure par H202suivant un mecanisme de premibre espbce. Cette augmentation doit probablement 6tre
+attribuke A I’augmentation apparente de x1 due A la creation de coupures
+cachkes lors de la ~ o n i c a t i o n . ~On
+~ peut en conclure que s’il existe des
+sites privilbgies du DNA pour l’action des ultra sons, ce ne sont pas ceux
+qui interviennent dans l’action de H202en pr6sence d’ions Cu++.
+
+A la LumMre, en prbence d’Ions m6talliques ajoutCs
+Dans le cas de I’ion CU++,l’apparition d’une degradation de deuxibme
+espbce en plus de celle de lbre espbce doit 6videmment &re attribuee A
+B l’action des radicaux HO‘ produits par la photolyse de Hz02. Le Tableau
+I montre d’autre part que la degradation de premibre espbce est 2’6 fois
+plus rapide qu’B l’obscurite; ceci semble montrer que le complexe ternaire
+(site du DNA-Cu*-H,O,)
+peut &re activ6 par la lumibre. Son maximum
+d’absorption daris l’ultra-violet (A,,,, = 3 600
+est d’ailleurs precisement situ6 dans la bande d’emission de la source de lumibre utilis6e (3000
+B 4200 A).
+Dans le cas des ions Fe++ et Fe+++,il est remarquable que la d6gradation
+de lbre espbce devienne importante B la lumibre. I1 ne peut pas s’agir uniquement, comme dans le cas de l’ion Cu++, d’une activation des quelques
+sites de lbre esp6ce d6jB presents B l’obscurite, car dans ce cas on s’attendrait st l’apparition d’un palier de masse trbs net dbs le d6but de 1’Bclairement4”. La seule explication vraisemblable est que les ions fer, fixes
+d’abord B l’exterieur de la molecule, et capables de migrer le long de la
+chaine de DNA sont pikges dans les interruptions cr66es par les radicaux
+
+118
+
+SCHWElTZ
+
+HO’; ils forment alors avec H202 des complexes capables de rompre
+rapidement la chaine en vis B vis.
+I1 est difficile d’expliquer, par contre, la fait que la degradation de
+deuxikme esp8ce en presence de IumiBre soit nettemerit plus lente avec les
+ions Pe++ et Fe+++ qu’avec l’ion Cu++ (Tableau IB) alors qu’elle devrait
+&re equivalente dans les trois cas si elle est due essentiellement aux
+radicaux HO’ produits par photolyse de H20z. Nous pensons que les
+resultats obtenus en presence des ions fer sont fausses au bout de quelques
+heures B cause de la precipitation de micelles d’hydroxyde der fer. La
+production de ces micelles au cours du temps tend B faire croitre la
+masse mol6culaire et le rayon de giration ce qui se traduit par des paliers
+apparents dans le degradation (Fig. 5).
+Enfin, il faut signaler qu’une difficult6 supplementaire, en presence des
+ions fer, vient du fait que le passage de la forme reduite (Fe++) B la forme
+oxyd6e (Fe+++) et inversement, est possible en presence d’eau oxygen6e.
+E n particulier, l’oxydation de Fe++ en Fe+++ doit diminuer l’activit6
+catalytique de I’ion Fe++ au cours du temps et, par consBquent, la
+production de radicaux HO’.
+D’aprbs les travaux dBcrits on sait que l’ion Cu++ se fixe de f q o n specifique au niveau de certaines sequences du DNA.14 Dans ces conditions le
+fait d’avoir, avec l’eau oxygenbe, des ruptures de lBre esphce au niveau de
+ces sites de fixation, devrait permettre d’obtenir des segments de DNA
+ayant des caracteristiques definies, dont l’utilisation pour la determination
+des sequences ou la separation des marqueurs genetiques est Bvidente.
+Cette propriete, trouvee sur le DNA, doit aussi pouvoir &re utilisee pour
+mettre en evidence des sequences analogues existant dans les acides
+ribonucleiques.
+Nous remercions Monsieur le Professeur Sadron et Monsieur le Professeur D a m e
+pour leurs conseils et pour I’int6r&tqu’ils ont port6 B notre travail.
+
+References
+1. H. Schweitz et D. Lnzzati, J . Chim. Phys., 60,1173 (1963).
+2. 13. Schweitx, Riochim. Biophys. Acta, 166, 720 (1968).
+3. F. Haber et J. Weiss, Proc. Roy. SOC.,(London) A147, 332 (1934).
+4. N. Uri, Chem. Rev., 50, 375 (1952).
+5. 13. I. Shpitalskii e t B. A. Konovalova, J. Russ. Phys. Chem. Soc., 62,1033 (1930).
+6. W. G. Barb, J. H. Baxendale, P. George, et K. R. Hargrave, Trans. Faraday
+Soc., 47, 462 (1951).
+7. W. C. Schumb, C. N. Satterfield et I<..L. Wentworth Hydrogen Peroxide, Reinhold, New York, 1955.
+8. M. C. R. Symons, Peroxide Reaction Mechanisms, Interscience, New York, 1960.
+9. P. Pascal, Nouveau trait6 de Chimie Mineraze, Tome XIII, Masson, Paris, 1960.
+10. J. A. V. Butler et B. E. Connay, Proc. Roy. Soc. (London), B141, 562 (1953).
+11. R. A. Cox, W. G. Overend, A. It. Peacocke et S. Wilson, Proc. Roy. SOC.,(London),
+B149, 511 (1958).
+12. G. Scholes, Progr. Biophys. 21.301. R i d , 13,59 (1963).
+13. J. Marchal, Radiation Res. Proc. 3rd Int. Congress of Radiation Research, Cortina
+d’ilmpezzo, Juin-Juil. 1966, North Holland, Amsterdan, 1967 p. 327.
+
+DEGRADATION OF DNA BY HzO2 AND IONS
+
+119
+
+14. J. P. Schreiber et M. Ilaune, Hiopol!gmers, 1969 (in press).
+15. C. Itopars, ThBse, Paris (1966).
+16. C. Ropars et It. Viovy, J . Chim. Phys., 62, 408 (1965).
+17. J. €3. Baxeridale, Advan. Catal., 4, 62 (1953).
+18. M. 0. Kharmandaryan e t 15. A . Alekseeva, .I. IZitss. Phys. Chem. SOC.,62, 1677
+(1930).
+19. H. W. Jacobson et G. W. Smith, J . Amer. Chem. SOC.,76,4494 (1954).
+20. B. Kirson, Bull. Soc. Chim. France, 1954, 950.
+21. H. Brintzinger et H. Erlenmeyer, Helv. Chim. Acta, 48, 836 (1965).
+22. H. Sigel e t U. Muller, Helv.Chim. Acta, 49, 671 (1966).
+23. H. Erlenmeyer, U. Muller et It. Sigel, Helv.Chim. Acta, 49, 681 (1966).
+24. H. Sigel et H. Erlenmeyer, Helv. Chin. Acta, 49, 1266 (1966).
+25. G. A. Hamilton, J. P. Friedman et P. M. Campbell, J . Amer. Chem. Soc., 88,
+5266 (1966).
+26. F. H. C. Crick e t J. I). Watson, Proc. Roy. Soc., (London), A223, 80 (1954).
+27. V. N. Schumaker, E. G. Richards et. H. K. Schachman, J . Amer. Chem. Soc., 78,
+4230 (1956).
+28. C. A. Thomas et P. Doty, J . Amer. Chem. SOC.,78, 1854 (1956).
+29. C. A. Thomas, J . Amer. Chem. SOC.,78, 1861 (1956).
+30. A. R. Peacocke et B. N. Preston, J . Polym. Sci.,31, 1 (1958).
+31. A. It. Peacocke et B. N. Preston, Proc. Roy. SOC.,(London), B153, 90 (1960).
+32. L. F. Cavalieri et B. 13. Rosenberg, Biophys. J., 1, 323 (1961).
+33. J. Applequist, Arch. Biochem. Biophys., 95, 42 (1961).
+34. G. Bernardi et Ch. Sadron, Biochemistry, 3, 1411 (1964).
+35. U. Hagen, Biochim. Biophys. Acta, 134, 45 (1967).
+36. G. Scholes, Progr. Biophys. Mol. Biol., 13, 59 (1963).
+37. A. Charlesby, Proc. Roy. (London), A224, 120 (1954).
+38. J. Durup, J. Chim. Phys., 51, 64 (1954).
+39. C. Strazielle et H. Benoit, J . Chim. Phys., 62, 986 (1965).
+40. H. Schweitx, J. Chim. Phys., 66, 657 (1960).
+41. H. Schweitz, C. R. Acad. Sci. (Paris), D264, 1335 (1967).
+42. E. It. M. Kay, N. S. Simmons et A. L. Iloimce, J . Amer. Chem. Soe., 74, 1724
+(1952).
+43. R. Litzler, ThGse, Strasbourg, 1967.
+44. It. A. Cox, W. G. Overend, A. R. Peacocke et S. Wilson, Nature, 176, 919 (3955).
+45. P. Alexander, J . T. Lett, P. Kopp et It. Itzhaki, Rad. Res., 14, 363 (1961).
+46. L. F. Cavalieri, R. Finston, et. B. H. Roseriberg, Nature, 189, 833 (1961).
+47. J. T. Lett et P. Alexander, Rad. Res., 15, 159 (1961).
+48. H. Schweitx, Thcse, Strasbourg, 1967.
+49. H. J. Rhaese et E. Freese, Biochim. Biophys. Acta, 155, 476 (1968).
+50. J. Vinograd, R. Bruner, R. Kent, et J. Weigle, Proc. Kat. Acad. Sci. U S . , 49,
+902 (1963).
+51. R. L. Sinsheimer et J. F. Koerner, J . Biol. Chem., 198, 293 (1952).
+52. P. 1).Lawley, J . Chim. Phys., 58, 1011 (1961).
+53. H.Sigel, B. Prijs et H. Erlenmeyer, Ezperientia, 23, 170 (1967).
+54. A. S. Brill, Comprehensive Biochemistry Vol. 14, Elsevier Londres, New York,
+1966 p. 447.
+55. G. L. Eichhorn, Nature, 194, 474 (1962).
+
+Received June 10, 1968
+Revised November 15, 196s
+

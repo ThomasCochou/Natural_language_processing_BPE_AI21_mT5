@@ -1,0 +1,1460 @@
+615.7%: 547.831.
+
+CONTRIBUTION A LkTUDE DES MkDICAMENTS DE
+SYNTHfiSE CONTRE L A MALARIA
+PAR
+
+R. F. A. ALTMAN.
+O n a donne en premier lieu la synthese de quelques derives de la
+quinoleine. homologues en chaines lineaires (chaines a 7, 8 et 9 atomes
+de carbone) de la sene de la plasmoquine.
+Cette synthese passe par trois stades:
+1. Synthese de la methoxy-6-amino-8quinolkine.
+2. Preparation des dikthylamino-chloro-alcanes.
+3. Condensation des composes mentionnes sous 1 et 2.
+Quant aux modifications qu’on a apportkes B la molecule de la quinine,
+celles-ci se limitent iiu groupement alcoolique secondaire et au groupernent
+vinylique. D’autre part, on a don& des methodes perfectionnkes pour la
+preparation de la quitenine et du chlorure de quinyle.
+Les derives de la quinoleine se sont montres tris actifs contre la malaria
+des oiseaux. Par contre. les ,,variantes” de la quinine n’ont aucune action
+digne de mention.
+
+Introduction.
+Les resultats des travaux que j’ai executes autrefois ne sont publies
+que dans ma these qui a paru il y a trois ans 1 ) . Pour des raisons
+particulieres, j’avais renonce provisoirement 5 les publier d’une faqon
+plus accessible.
+Depuis que ma these a paru, la bibliographie des travaux chimiques
+ou chimiotherapeutiques sur la lutte contre le paludisme s’est bien
+etendue. Ceci est tout comprehensible puisque le medicament antipaludique soi-disant ,,ideal” n’a pas encore ete decouvert.
+Pour porter un jugement critique sur la valeur d e ce remede ideal
+il ne me semble pas inutile d’esquisser brievement le developpement
+de l’agent propagateur de la malaria suivant les interpretations les
+plus modernes.
+
+R. F. A. A 1 t m a n, Contribution a I’etude des medicaments de synthese contre
+la malaria, These Leyde, juin 1935.
+
+942
+
+R. F. A . Altman.
+
+Prenons comme point d e depart le moment ou un individu sain
+vient d'Ctre pique par un moustique anophele infect& Le spororoite,
+qui a la forme d'un filament, vient, d'une maniere pas encore completement eclaircie, des glandes salivaires du moustique dans le sang
+humain. I1 est bien demontre aujourd'hui que le sporozoite, contrairement h la theorie de S c h a u d i n n . n'envahit pas les globules
+rouges. I1 subit probablement une metamorphose en une autre forme
+qui, suivant divers - experimentateurs, se developpe dans le systeme
+reticufo-endothklial 2 ) . Quoi qu'il en soit, il est certain que c'est le
+m6roroite qui envahit le globule rouge, sly installe, et se developpe,
+aux depens du gobule rouge, en schirontes (Ckments asexues) ou en
+gametes ( e l h e n t s sexues).
+Le schizonte ou forme annulaire subit, apres un temps qui depend
+de I'espece du parasite (Plasmodium quartana, P . tertiana ou P .
+perniciosa). une parturition asexuee, ce qui donne naissance h une
+nouvelle generation de merozoites.
+Ceux-ci envahissent derechef des globules rouges etc. (schizogonie,
+cycle schizontocide) .
+Les gametes, mlles et femelles, ne se developpent pas dans le corps
+humain mais y perissent. Cependant, avant de perir, elles peuvent
+penetrer dans l'organisme du moustique anophele si celui-ci se
+repait du sang d'un malade. La fecondation des gametes produit
+enfin, h nouveau, des sporozoites, qui, reunis dans les glandes
+salivaires du moustique, penetrent dans la circulation du sang de la
+victime humaine, des qu'elle est piquee par le moustique infect6
+(sporogonie, cycle gametocide). Nous voici revenus a notre point d e
+depart * ).
+On peut des lors definir le medicament antipaludique ideal comme
+suit: une preparation pharmaceutique h bon marche, sans saveur, facile
+B appliquer et chimiquement stable, qui est en &at d e detruire en
+meme temps toutes les formes des trois es@ces du parasite humain
+sans influencer nuisiblement le malade (voir G r e e n 3 ) ).
+Le tableau ci-joint (tableau I ) nous apprend qu'il s'en faut de
+beaucoup que les remedes existants soient ideaux. Pourtant il est h
+2, S. P. J a m e s , Nature 139, 545 (1937); H. R u g e . Riv. Malariol. 15, 441
+(1936); B o t h a d e M e i l l o n , S. Africa Med. J. 10, 474 (1936); G. R a f f a e l e .
+Rlv. Malariol. 15, 309, 318 (1936); A. M i s s i r o l i , Riv. Malariol. 16, 99, 181
+(1937).
+* ) Cet expos6 est spkcialement destine au lecteur-chimiste peu au courant de ce
+sujet.
+3) R. G r e e n , Bull. Inst. Med. Res. Malay 1934, No. 2, p. 9-10.
+
+Contribution A I'ktude des rn6dicarnents de synthese contre la malaria. 943
+remarquer que ce n'est qu'un mdicament contre les sporozoites qui
+nous manque encore. Tandis que les ,,variantes" d e la quinine ainsi que
+les derives de l'acridine se sont montres actifs contre les schizontes.
+l'action des derives de la quinolkine, produits purement synthetiques.
+est presque totalement dirigee contre les gametes. E n combinant des
+remedes de ces deux groupes, on obtient des produits actifs 2 la fois
+contre les schizontes et contre les gametes (quinoplasmine4 ) . quiniostovarsol5) quininepaludex 6 ) . stovoquine 7 ) . 915 F 8 ) etc.).
+I1 est notoire qu'on peut facilement ajouter aux preparations citees
+dans le tableau des dizaines d'autres preparations qui ne sont montrks
+plus ou moins efficaces contre le malaria des oiseaux. Cependant, la
+plupart des composes prepares n'ont aucune action antipaludique. Nous
+renvoyons pour ceci aux travaux originaux * ) des experimentateurs
+suivants: B r a h m a c h a r i , D a s G u p t a , ~ B a s u B ) , B o y d ,
+J a c o b s, H e i d e 1 b e r g e r 1 0 ) . B u t t l e , H e n r y . * G o od s o n ,
+S o l o m o n e.a.11), C o l l i e r , R o t h m a n n , W a r s t a d t l z ) ,
+F o u r n e a u , T r e f o u e l , B o v e t e.a.13). G i e m s a , O e s t e r l i n ,
+V y e i s e e.a.14). H e g n e r , M a n w e l l . S h a w l s ) . M a g i d s o n ,
+
+4, Preparation de 1'1. G. Farbenindustrie, bibliographie complete sur demande.
+En outre: F. L e g e n d r e . Bull. SOC.path. exot. 26, 1317 (1933); Ph. D e c o u r t ,
+Riv. Malariol. 15, 358 (1936): Bull. SOC. path. exot. 31, 138, 243 (1938); G. M i r r a.
+
+.
+
+Arch. Schiffs- Tropen-Hyg. 35, 191 (1931)
+6 , F. L e g e n d r e , Bull. soc. path. exot. 26, 1317 (1933); Ch. M a s s i a s , ibid.
+23, 651 (1930): ibid. 27, 641 (1934); G. M i r r a. Arch. Schiffs. Tropen-Hyg. 35,
+191 (1931).
+") G. S e r r a . Ann. Sot. belge m d . trop. 17, 39/49 (1937).
+7 , C h . M a s s i a s , P. B o u r g i n . Bull. soc. path. exot. 27, 929 (1934).
+A. S e r g e n t, P. V o g t, Bull. SOC. path. exot. 26, 1255 (1933).
+*) Les travaux indiques par ( * ) donnent aussi des resultats chimiques.
+9, ( * ) J. Indian Chem. SOC.8, 571 (1931): 9, 37, 215 (1932); 10, 197 (1933); 14,
+468 (1937).
+lo) Am. J. Hyg. 6, 173 (1926); (*) J. Am. Chem. Soc. 41, 817, 2090. 2131 (1919);
+42, 1481, 1489. 2278 (1920); 44, 1079 (1922).
+11) Biochem. J. 28, 426 (1934): 32, 47 (1938): (*) J. Am. Chem. Soc. 59, 2354;
+(*) J. Chem. Soc. 145, 1923 (1934): 147, 966 (1935): 147, 1094 (1935): 151, 592
+(1937): 133, 6 (1938).
+12) 2. Hyg. Infektionskh. 112, 527. 534 (1931): Klin. Wochschr. 10, 987 (1931).
+13) ( * ) Bull. soc. chim. t3, 454 (1928) ; 47, 626 (1930) ; ( * ) Ann. inst. Pasteur 44,
+503, 719 (1930); Ibid. 46, 514 (1931): 50, 731 (1933); 51, 528 (1933): Bull. soc.
+path. exot. 27, 236, 729 (1934).
+14) Arch. Schiffs- Troptn-Hyg. 30, 334 (1926): (*) ibid. Beih. 37, 217 (1933):
+( * ) Ber. 51, 1325 (1918); 52, 906 (1919): 53, 732 (1920); 54, 1167, 1189 (1921);
+58, 91 (1925); 64, 57 (1931).
+l a ) Am. J. Trop. Hyg. 7, 279 (1927); 8, 564 (1928).
+
+R. F. A. Altman.
+
+944
+
+T a b 1e a u I. Apercu des dlfftrmtr
+
+designation chimique
+
+designation medicale
+
+_.___
+
+R)
+
+cinchonhe et cinchonidine
+
+d- et I-vinyl-3-hydroxy-9-rubiacine(=
+
+quinine
+
+vinyl-3-hydroxy-9-m&hoxy-6'2
+
+hydroquinine
+
+ethyl-3-hydroxy-9-m~thoxy-6'-R
+
+quinethyline
+
+vinyl-3-hydroxy-94tho~y-6'-R
+
+optoquine
+
+6thyl-3-hydroxy-94thoxy-6'-R
+
+ethylate de quitenhe
+
+car~thoxy-3-hydroxy-9-dth0~~-6'-R
+methoxy-6- (4'di~thylamino-l'-m6thyl-butyl)-8aminoquinoleine
+
+plasmoquine. pdquine
+Fourneau 710, rhodoquine, plasmocide. antimala,
+rine B.
+
+-8-amino.
+methoxy-6- (3'-diethylamino-~nd6cyl)
+quino16ine
+
+Fourneau 574, rhodoquine M.
+
+methoxy-6- (3'-dim&hylaminopropyl) -&aminoquinoleine
+
+Fourneau 852
+
+methoxy-6- ( 11'dikthylamino-und&cyl)-8-aminoquinoleine
+
+paludex
+
+cupro-oxyquinoleine sulfonate sodique
+
+acaprine
+
+methyl-sulfomethylate de I'uree
+
+atebrine, quinacrine. acrichine, 868
+
+R.P.
+
+chloro-3-mkthoxy -8- ( 4'-diethylamino-l'-m&hylbutyl) -1 0-amino-acridine
+
+bleu de methylhe
+
+chloromithylate de trimethylthionine
+
+stovarsol, spirocid
+
+acide ac6tylamino-3-hydroxy4-phhylarsinique
+
+salvarsan, arstnobillon, treparsenan
+*) Cf. J. W. F i e l d , The development and use of synthetic drugs
+
+in the prophylaxis
+
+Contribution B l'ktude des medicaments d e synthese contre la malaria. 945
+-
+
+medicaments antipaludiques *)
+
+I
+
+I
+
+.
+
+action antipaludique
+gametes
+
+schiwntes
+tert.
+
+tert.
+
+-
+
+-
+
+_
+.
+
++
++
++
++
++
++
++
++
++
++
++
++
++
+
++
++
++
++
++
++
++
++
++ +
++ +
+-
+
+sporozoytes
+
+remarques
+
+-
+
+f
+
+la structure de la rubhcirie est donnee B la
+
+page 955.
+
++
++
+
+--
+
+Cf. F i s c h l . S c h l o s s b e r g e r , Handbuch
+der Chemotherapie". Leipzig 1934, pp. 140204.
+
++ +
++!+
+j+ +
+I
+
+- . .-
+
+Cf. ,,Referate wichtiger Plasmochin-Arbeiten",
+Ed. de 1'I.G. Farbenidustrie.
+
+Cf. p. ex. S a u t e t, Bull. soc. path. exot. 25,
+1074 (1932); S i c a u I t . D e c o u r t , ibid.
+27, 146 (1934).
+
+Cf. p. ex. S i c a u l t . D e c o u r t , Bull. SOC.
+path. exot. 27, 144 (1934); M a s s i a s , ]bid.
+I?, 641, 644 (1934).
+
+I
+
+Cf. M e r c h o u x. C h o r i n e, Compt. rend.
+ccc. biol. 112. 1463 (1933).
+I
+
++ +/+
+-
+
+-
+
+CF.
+
+v a n N i t s e n. Ann. SOC. belge m6d. trop.
+16,439 (1936). K o n h 6, ibid. 17,229 (1937).
+
+i_
+
+Cf. R a d v a n, A 1 c x a n d r e s c u. Bull.
+path. exot. 30, 362, 467, 470 (1937).
+
++
+
+SOC.
+
+Cf. ,.Atebrin Literatur", Ed. de 1'I.G. Farben-
+
++
+
+hdustrie.
+
+-
+
+i
+
+Cf. p. ex. C o n t a. Arch. Schiffs-TropenHyg. 30, 281 (1926).
+
+I Cf.
+
+'
+
+1
+
+p. ex. M a r c h o u x , Presse mkd. 1925.
+
+..
+
+......
+
+M i r r u, zA-,-h
+35, 191 (1931).
+
+n
+r . 115.
+.<<I
+
+.I..
+
+I
+
+Ch.:Cto-T---,U..vrr.rr.u-rr"ycll-rr)r~.
+
+- cf. F i s c h l . S c h l o s s b e r g e r , Handbuch
+I p. 494.
+I
+I
+I
+I
+and treatment of malaria, p. 15. Societk des Nations, &mite d'Hygi&ne de ]'Orient. Singapore 1935.
+
+946
+
+R. F. A. Altman.
+
+K r i t s c h e w s ky, S t r u k o w e.a. 16). R o b i n s o n, B a r g e r,
+B a I d w i n e.a.17), S c h u l e m a n n , K i k u t h, S c h o n h o f e r
+e.a. 18) etc.
+Mes recherches personelles se limitent A la preparation de
+A. QUELQUES DBRIVBS DE LA QUINOLBINE.
+
+homologues (en chaines lineaires) de la serie de la plasmoquine;
+B. QUELQUES VARIANTES DE LA QUININE.
+
+A. La rynthhe drm dtrioCa dc 1. qoinoltint.
+peut ttre considkree comme une suite ,des recherches commenckes en
+1931 par F o u r n e a u et ses collaborateurs B 1’Institut Pasteur de
+Paris. Ces experimentateurs avaient dej& prepare des composes de
+structure gen6rale:
+NH-(CH& -N(GH5)2
+
+AA
+l l
+CH30- i
+\/v
+
+oh n = 2. 3, 4. 5, 6, 10 et 11 10). Je me suis occupe de la preparation
+des termes manquants de cette s6rie homologue c’est-&dire des
+composes en n = 7, 8 et 9. I1 faut remarquer que M a g i d s o n PO)
+a publie les resultats de ses recherches sup les mtmes composks B
+peu prts a u moment OG a paru m a these.
+Les pages suivantes rapporteront:
+1. Le synthese d e la mCthoxy-6-amino-8-quinolkine,
+2. la preparation des dikthylamino-chloro-alcanes A 7, 8 et 9
+atomes d e carbone,
+la) ( * ) Arch. Pharm. 271, 359. 569 (1933): 272, 74 (1934); 273, 320 (1935); J.
+Gen. Chem. U.S.S.R. 7, 842, 1557, 1896 (1937); (*) Ber. 69, 396. 537 (1936); (*)
+Chem. Zentr. 1936 I, 377; 11. 3704; 1937 11, 437; Giorn. di Batteriol. e Immuniol. 15,
+505 (1935).
+17) (*) J. Chem. Soc. 136, 2947, 2952 (1929); li0, 3089, 3096 (1931; 143, 1467
+(1933); 145. 1264. 1267. 1322. 1520, 1524 (1934); 147, 1143 (1935).
+la) I. G. Farbenindustrie: ,,Medizin und Chemie” I, 11. I11 (1933-1936):
+(*) D.
+R.P. 486.079: Br. P. 267.169; Br. P. 354.352; Br. P. 363.392: Br. P. 437.953; Klin.
+Wochschr. 11, 381 (1932); ibid. 12, 1276 (1933); ibid. 13, 875 (1934): 2. angew,
+Chem. 47, 633 (1934): Deut. med. Wochschr. 1935, 573; Z. Bakt. Parasitenk. Infekt.
+121, 408 (1931).
+le) n = 2 . 3: E. F o u r n e a u , Ann. inst. Pasteur 46, 528, 534 (1931); n = 4 . 5,
+6, 11: ibid. 50, 734, 735 (1933).
+2 0 ) M a g i d s o n , Arch. Pharm. 272, 74 (1934); voir aussi: ibid. 271. 569 (1933).
+
+Contribution a I'gtude des medicaments de synthese confre fa malaria. 947
+
+-
+
+3. la condensation d e ces composes avec la mCthoxy-6-amino-Bquinoleine.
+T a b I e a u I1 : Synthese de quelques derives de la quinoleine.
+
+1. Synthese de la
+m~thoxy-6-arnino-8-quinoI~ine
+
+2. Preparation des
+diet hylamino-chloro-alcanes
+
+-N H ~
+
+CH3O -I
+
+I
+
+\/
+
+7
+/\--NH.
+CH3O-
+
+I !
+
+COCH3
+
+r'
+CH30-
+
+4
+COCH3
+
+HO-(CHZ)n -OH
+
+\/
+
+7
+
+4
+
+NO2
+/\--NH~
+CH3O-
+
+COO. Alc.
+
+I
+
+\/
+
+NO;!
+/\--NH.
+
+i
+
+Alc. OOC-(CHzk-2-
+
+CI-(CH2).
+
+I /
+
+- OH
+
+!
+
+\/
+
+7
+
+3. Condensation de la
+rnkthoxy-6-amino-8-quinolkine avec les dikthylamino-chloro-alcanes:
+
+q
+
+= 7.8 et 9.
+
+R. F. A. Altman.
+
+918
+
+1.
+
+Synthkse d e la mithoxy-6-arnino-8-quinolCine.
+
+Ce compose fut prepare par S c h u l e m a n n et ses collaborateurs 21) et par d'autres experimentateurs 2 1 ) comme produit intermediaire dans la synthese d e la plasmoquine. J'ai opere dans les
+conditions donnkes par S c h u 1 e m a n n et par F o u r n e a u et ses
+collaborateurs. L a suite des operations de la synthkse est donnee dans
+le tableau 11.
+PARTIE EXPgRIMENTALE.
+Partant de la p-enisidine (produit commercial) on prepare, Ck la maniere usuelle,
+la p-scktylanisidine (P.F. 130"). De ce compose on obtient par nitration, suivant
+W e n d e r *a), de belles aiguilles jaunes (P.F. 119") dec~ty~smino-2-m~thoxy-~nitrobenztne. Saponifie par I'acide chlorhydrique dilue (1 : 2), ce produit donne
+naissance a des aiguilles rouges d'emino-2-mefhoxy-5-nifrobenzene (P.F. 123").
+La methoxya-nitro-8-quinoleine a ete obtenue pour la premiere fois par
+S c h u 1e m a n n et ses collaborateurs. Cette application de la synthese de S k r a u p
+fut ensuite executee par plusieurs exp&imentateurs et notamment par R o b i n s o n,
+F o u r n e a u , B r a h m a c h a r i , V a n S c h e l v e n , ' ) , M a g i d s o n . Le mode
+operation suivant est dO a F o u r n e a u et T r 6 f o u e 1. O n y a apporte quelques
+changements:
+amino-2-methoxy-5-nitrobenzknesec 219 g
+acide arsenique, W H,O
+195 g
+glycerine
+293 g
+acide sulfurique concentre
+375 g
+O n pile finement au mortier I'amino-2-m6thoxy-5-nitrobenz~ne
+et I'acide arsenique.
+O n introduit Ie melange dans un ballon et on y ajoute la glycerine, puis, peu a peu
+et en agitant, I'acide sulfurique. Le contenu du ballon s'kchauffe fortement. Sans
+laisser refroidir, on munit le ballon d u n refrigerant
+reflux et on chauffe le
+melange au bain dhuile
+130" pendant 7 heures. Ensuite on verse la masse tres
+foncee dans de l'eau glade. La solution obtenw est souillee de resines qu'on essore.
+L'addition d u n grand exces dammoniaque donne naissance a un precipite d'un
+produit tres impur ( 5 5 d oyo d'impuretts) Par recristallisation dans un melange
+dalcool et d'acetone (1 : 3). on peut purifier ce dkrive de la quinoleine. Aiguilles
+blanches P.F. = 159". Cependant, pour l ' w r a t i o n suivante il est inutile de purifier
+le produit brut.
+La methoxy-6-amino-8-quinoleine se prepare comme suit:
+m~thoxy-6-nitro-8-quinoleine(calculee en produit pur)
+110 g
+SnCI, .2H,O
+583 g
+acide chlorhydrique concentre ( d = 1.19)
+400 cm'
+eau
+307 cm'
+
+.
+
+---
+
+11) G e m . Zentr. 1928, I 414; D.R.P. 451 730 (1925);3 r . Pat. 267 169; Holl.
+Pat. 17 991. '
+*I)
+B a 1 d in. J. Chem. Soc. 134, 2961 (1929):F o u r n e a u, Ann. inst. Pasteur
+44, 745-747 (1930);B r a h m a c h a r i. J. Indian Chem. Soc. 9, 37 ( 1932); M a g i d s o n, Arch. Pharm. 271, 361 (1933): cf. Prom. org. d i m . 4, 523 (1937).
+*9 Gazz. him. ital. 19, 220 (1889);cf. Ann. inst. Pasteur 44, 745 (1930).
+14) Chem. Zentr. 1933, I1 3196.
+
+Confribution ci I'etude des m6dicaments de synthese contre la malaria. 949
+
+On dissout le SnC1,. 2 H,O dans I'acide chlorhydrique. on y ajoute l'eau, puis,
+La solution ainsi obtenue est
+par petites portions, 1.3 m~thoxy-6-nitro-8quinoleine.
+d u n e couleur foncee, A cause des impureth du produit de depart. En partant d u n
+produit pur, on obtient un liquide limpide d e couleur jaune.
+O n peut atteindre uiie reduction complete en chauffant le melange au bain-marie
+pendant une heure. O n abandonne la solution pendant une nuit dans la glaciere et
+on obtient alors, sous forme d'une masse cristalline jaune-brunatre, la combinaison double du chlorure detain et de la m6thoxy-6-amino-8-quinoleine.
+On peut Iiberer la base au moyen de lessive de soude, mais la separation de
+I'huile est une op6raticm delicate, car, lors de l'epuisement par I'ether. il se forme
+une emulsion difficile ii remudre.
+La methode suivante me semble la plus efficace: O n essore la combinaison double
+qu'on decompose ensuite a u moyen de lessive de soude en presence d u n e quantite
+considerable de glace. O n introduit 1e liquide aim1 obtenu dans une grande ampoule
+a decanter, puis on I'extrait avec beaucoup dether. O n abandonne l'ernulsion formbe
+pendant 4 a 5 heures. On bout de ce temps, le liquide parait encore emulsionne
+mais si on le laisse s'ecouler dans un recipient assez large on observe une separation
+presque complete et on peut alors decanter tres facilement la solution etheree. O n
+repete cette op&ation plusieurs fois et, apres 5 3 6 kpuisements, l'extraction de la
+m~thoxy-6-nmino-8-quinoleine
+est complete.
+Lextraction que je viens dexposer est preferable a un tpuisement continu. Lessai
+suivant est assez remarquable: une certaine quantite du liquide alcalin fut soumise
+a un epuisement continu pendant trois jours ce qui ne donna que 2 g du produit
+desire. Le meme liquide alcalin fut ensuite extrait a ]'ether par la methode decrite
+ci-dessus ce qui permit d'obtenir une quantite supplementaire de 25 g de la base.
+La cause du resultat defavorable de l'epuisement continu peut problablement etre
+attribuee a une constitution sp6ciale de la masse alcaline qui renferme la base
+extraire. I1 est bien possible que l'appareil d'epuisement continu de P o 1 i c a r d et
+1: a v i e r $ 5 ) donne des resultats plus favorables.
+Une distillation a la vapeur d'eau ne permet pas davantage la separation de la
+base; il se produit une decomposition qui se revele par une forte odeur dammoniaque.
+La separation de la base a l'etat pur est tres simple. On n'a qu'a d c h e r la
+solution etheree sur 1e sulfate de soude, a chasser ]'ether et a distiller le produit
+residue1 dans le vide. Elb.,, = 187"; F.P. = 41".
+Le rendement obtenu est assez satisfaisant. Partant de 200 g de para-anisidine
+LOUS a w n s obtenu 85 (1 de m6thoxy-6-amino-8-quinol~ine,
+soit 30% de la theorie,
+cc que nous avons pu confirmer par une deuxieme experience. En n'effectuant pas
+I'extraction par la methode decrite, on n'obtenait qu'un rendement de 20%.
+2.
+
+Prkparation dtrs diCthylaminochloro-alcanes ( voir tableau 11).
+
+a. Les acides bibasiques 5 7, 8 et 9 atomes d e carbone (acides
+pimelique. suberique et azelai'que ) ont ete prepares suivant des
+me th odes' connues.
+Lacide pimelique.
+
+En raison de la mediocrit6 des resultats que
+
+Bull. soc. chim. (5) 1, 1523 (1934).
+
+nous avons
+
+R. 'F.A. Altman.
+obtenus, la methode de preparation de W i 1 1 s t a t t e r 26). modifiee par E i nh o r nL u m s d e n *7) et par M u 11 e r R o 1 z Z R ) , a et& abandonnee. La methode de
+P e r k i n * @ ) ,executee et prescrite par V e r k a d e , C o o p s et H a r t m a n S O ) ,
+s'est montree de beaucoup preferable. En apportant quelques modifications a cette
+prescription, nous avons pu ameliorer le rendement.
+Lapplication de la synthese malonique * I ) s'effectue sans difficult&. Voici le
+mode operatoire suivi:
+En refroidissant, on ajoute un melange contenant (270 g de dibromo-1.3-propane
+890 g de malonate d'ethyle) a une solution de 65 g de sodium dans 700 g
+d'alcool absolu; puis on chauffe au bain-mane jusqu'a ce que la reaction soit
+neutre. A la pression ordimire, on distille au bain d'huile la plus grande partie de
+l'alcool. Ensuite on ajoute de l'eau au produit residue1 jusqu'a ce que le bromure
+de sodium soit dissous et on extrait plusieurs fois a I'ether. La solution etheree.
+qui est d u n e couleur rouge brunatre, contknt l'exces de malonate d'ethyle et le
+pentane-l,1,5,5-t6tracarboxylate dkthyle. La separation de ces deux composes esl
+obtenue par une simple distillation fractionnee dans le vide. On peut recuperer plus
+dc 400 g de malonate d'ethyle.
+La saponification du pentane-l.l,5,5-t~tracarboxylatedkthyle est obtenue au
+moyen de la potasse en solution aqueuse. Dans un ballon large, muni d u n refrigerant
+a reflux puissant, on introduit une solution refroidie de 825 g de potasse dans
+660 cm* d'eau. O n y ajoute. par petites quantites, 330 g d'ester de I'acide pentane1.I ,5,5-tetracarboxylique. Tout I'ester &ant ajoute, on chauffe quelquc temps au
+bain-marie. Deux couches se forment: la couche sup6rieure contient principalement
+l'alcool forme, la couche inferieure est la solution aqueuse alcaline contenant 1e
+sel de I'acide tetracarboxylique. On libere cet acide en ajoutant a la solution un
+melange de 1430 g dacide chlorhydrique (d = 1.19) et un litre d'eau.
+On abandonne la solution pendant une nuit, on essore les cristaux de CIK qui
+se sont sCpar6s et on evapore le filtrat a sec au bain-marie. Le produit residue1 est
+une huile brune contenant encore une quantite considerable de CIK. O n la reprend
+a I'ether. On filtre la solution etheree, on la seche sur SO,Na, et on chasse l'ether.
+Le resMu, chauffe au gain dhuile B 180",produit 130 g d'acide pimelique ( = 64%
+de la theone) avec degagement de Co,.Le produit brut donne, apres recristallisations rkp6tees dans I'eau. I'acide pfmelique a l'etat pur. P.F. = 150".
+
+-
+
++
+
+Pour ce qui concerne la preparation des acides subkrique (P.F. =
+138') et arklaique (P.F. = 106-7'),
+nous renvoyons au travail de
+V e r k a d e , C o o p s et H a r t m a n dans lequel on trouvera la
+bibliographie complete 5 ) .
+b. Les esfers des dits acides bibasiques se prkparent facilement
+suivant les methodes usuelles. La prescription de V e r k a d e et ses
+2e)
+28)
+
+2e)
+30)
+
+91)
+
+Ber. 27, 331 (1894).
+Ann. 286, 259 (1895).
+Monatsh. 48, 523, 733 (1927).
+Ber. 18, 3248 (1885);J. Chem. Soc. 51, 241 (1887);ibid. 59, 823 (1891).
+Rec. trav. d i m . 45, 373 (1926).
+Cf. G u t h z e i t , D r e s s e l , Ber. 21, 2234 (1888):Ann. 256, 171 (1890).
+
+Contribution I'6tude des medicaments de synfhesecontre la malaria. 95 1
+
+collaborateurs 3 2 ) est tres recommandable. Voir aussi les travaux de
+P a l o m a a 3 3 ) , R o s a n o w 3 4 ) et V o g e 1 3 5 ) , puis ma these pp.
+
+75-79.
+c. Les glycols biprirnaires ont ete prepares au moyen d'alcool
+absolu et de sodium, d'apres B o u v e a u 1 t ct B 1 a n c 3 6 ) . La
+methode originale a ete modifiee dans le but d'ameliorer les rendements et nous avons suivi le mode operatoire decrit dans les ,,Organic
+Synthesis" tome 14, p. 20 (1934).
+i e s rendements obtenus sont tres satisfaisants: ainsi, pour l'hepfanediol (Eb., = 146': P.F. = 20O.2). on obtient 80.3 "/G. Les autres diols
+avaient 6te prepares suivant les mkthodes decrites par B e n n e t et
+M o s s e s s 7 ) et par C a r o t h e r s , H i l l et K i r b y S s ) . L'octanediol
+(Eb.,, = 154';
+P.F. = 58')
+et le nonanediol (Eb.,, = 173O.2;
+P.F. = 44O.4)avaient ete obtenus avec un rendement de 55 a 60 %.
+d. Pour la preparation des halogkno-alcanols, la methode de
+A 1 b e r t i S m i e c i u s z e w s k i S g ) modifiee par B e n n e t t
+M o s s e s 3 7 ) est de beaucoup preferable a celle de M i 11 s B a i n s ")
+modifiee par F i r m e n i c h ' l ) . Voici les resultats de nos experiences:
+
+-
+
+-
+
+-
+
+Chloro-heptsnol-7. Rendement: 46.2 yo; Eb., .. = 120"; phenylcarbamate
+P.F. = 7 6 7 7 " .
+Chloro-octanol-8. Rendement: 75 yo; Eb. B.s = 139"; phenylcarbamate
+P.F.= 77"; rn-nitrophenylcarbamate P.F. = 61 .
+(Analyse: trouve 10.67 yo CI, calcule pour C,,H,,O,N,CI: 10.80 yo Cl).
+Chforo-I-nonanol-9. Rendement: 86 yo: Eb.,, = 146O.5; phenylcarbamate
+P.F. = 67"; rn-nitrophenylcarbamate P.F. = 57".
+
+.
+~
+
+e. Les di~thylarnino-alcanolsse preparent assez facilement comme
+suit:
+On chauffe en tube scelle, pendant 12 a 15 heures, une mo1.-gr d'alcanol halogene
+avec un exces de diethylamine ( 3 a 4 rno1.q). La temperature varie habituellement
+de t20 160".
+Rec. trav. chim. 45, 586 (1926).
+Chem. Zentr. 1918 I, 1144.
+34) Chem. Abstr. 1930, 3765.
+35) J. Chem. Soc. 145, ,338 (1934).
+3'3) Compt. rend. 137, ,328 (1903); Bull. SOC. chim. (3) 31, 669 (1904).
+37) J. Chem. SOC. 138, 1697 (1931).
+38) J. Am. Chem. Soc. 52, 5287 (1930).
+m) Monatsh. 24, 618 (1903); ibid. 27, 411 (1906).
+40) J.Chem. Soc. 127, 2502 (1925).
+41)
+,,Contribution a I'ettide des anesthetiques locaux", These Paris, 1930.
+32)
+33)
+
+R. F. A. Altman.
+O n essore le chlorhydrate de diethylamine form6 et on le lave B I'ether. O n
+purifie la base deside en agitant la solution etherbe avec l'acide chlorhvdrique diluP
+et en separant les deux couches formees au moyen d'une ampoule B decanter. Tandis
+que les produits resineux restent dans I'ether, la base est transformbe en chlorhydrate
+soluble dans I'acide dilue. Puis on precidte la base et on I'extrait
+I'ether. O n
+seche la solution etheree sur du sifate-de soude. puis on evapore I'ether et on
+fractionne le residu sous preuion dduite.
+Les resultats de nos experiences sont r6unis dans le tableau 111:
+Compose
+
+Rendt.
+
+4
+
+Pt. d'ebull.
+
+n 4
+
+IdenRcation
+
+0,8681
+(200)
+0,8610
+(15O.5)
+
+1.4561
+
+p. nitrobenzoate.
+
+0,8635
+(15O.5)
+
+1.4574
+
+I
+
+diethy lamino-1
+heptanol-7
+
+132O (9.5 mm)
+
+diethylamino-1
+octanol-8
+
+151O (12 mm)
+
+diethylamino-1
+nonanol-9
+
+161.O5 (12 mm)
+
+I
+
+I
+
+___
+
+I
+
+1.4570
+
+I
+
+p. nitrobenzoate P.F. =
+740
+p. nitrophenylcarbonate
+P.F. = 7676O.5
+
+f. Les dikthylaminochloro-alcanes peuvent Etre o b t e n u s sans p e i n e
+par la m e t h o d e g6nCrale suivante:
+O n ajoute un exces de chlorure de thionyle a une solution benzenique de diethylamino-alcanol bien refroidie. Puis on fait bouillir B reflux le melange ainsi obtenu
+pendant 5 heures. L a chloruration s'effectue suivant l'equation:
+
+R-OH+SOCI~+R-Cl+SO~+HCI.
+I.'acide chlorhydrique form6 transforme le diethylamino-chloro-alcane en chlorhydrate.
+O n chasse ensuite le benzene et le chlorure de thionyle au bain marie dans le
+vide et on dissout le dsidu, qui contient le chlorhydrate. dans l'eau. La solution
+assez resineuse ainsi obtenue doit avoir une reaction acide au rouge congo (on y
+ajoute de l'acide chlorhydrique dam le cas inverse). O n filtre sur du noir animal et,
+habituellement, on obtient ainsi une solution de couleur jaune-brunatre. Des que
+la base est precipitee par la soude, elle doit etre extraite immaiatement a l'ether afin
+d'emHcher la formation de bases quaternaires I * ) .
+On seche ensuite la solution etheree en I'agitant avec du sulfate de soude, on
+chasse l'ether et on distille le residu dans le vide. La produit obtenu doit etre
+condense imm6diatement avec la m6thoxy-6-amino-8-quinol&ne.
+Diethylamino-1-chloro-7-heptane:Eb.,, = 126"; nDf*= 1.4528.
+Diethylamino-1-chloro-8-octane:Eb.,, = 130.5"; nl,l* = 1.4535.
+Diethylamino-1-chloro-9-nonane:Eb.,, = 145; ~ 1 ~ 1 7 . =
+5 1.4535.
+42)
+
+Cf. p, ex. C. M a n n i c h et B. R e i c h e r t : Arch. Pharm. 271, 119-120
+
+(1933).
+
+Contribution a I’ktudedes mkdicamentsde synthese contre la malaria. 993
+
+_ _ - _ ~
+
+3. L a condensation des diethylaminochloro-alcanes
+methoxy-6-amino-8-quinoeline s’exkcute assez simplement:
+
+.
+
+avec
+
+la
+
+On n’a qu’a chauffer. pendant 10 a 15 heures. les deux produits a condenser
+dans une tube scelle a une temperature qui varie habituellement de 130 B 170”. O n
+n’emploie qu‘un leger exces de m~thoxyA-amino-8-quinoleine,
+parce que celle-cl
+coiite cher. A la fin de la reaction, le contenu du tube scelle est un liquide
+homogene tres sirupeux d’une couleur jaune-brunatre avec une fluorescence verte.
+O n dissout ce liquide dans de I’acide chlorhydrlque a 20%: la solution rougeorange ainsi obtenue ccmtient les chlorhydrates de la m&hoxy-6-ahino-8-quinoleine
+en exces. du diethylamino-chloro-alcane qui n’a pas reagi et du produit de condensation. On libere les bases au moyen de lessive de soude concentrke, puis on les
+txtrait a I’ether.
+On seche la solution etherbe sur du sulfate de soude. on chasse I’ether et on
+fractionne soigneusement le residu afin de separer les bases. O n fractionne d’abord
+a la trompe, puis dans le vide presque absolu. Ce dernier fractionnement n‘est pas
+indispensable: apres la distillation ?i la trompe, on peut acidifier le produit residue1
+avec I‘acide chlorhydrique en leger exces. puis filtrer la solution ainsi obtenue sur
+du noir animal et I’evaporer B sec au bain-marie. O n continue B chauffer au
+bain-marie jusqu’a ce que le trichlorhydrate soit transform6 en dichlorhydrate.
+O n obtient ce dichlcirhydrate sous forme d’un solide amorphe. Pour le faire
+cristalliser. on le conserve pendant quelque temps dans le vide sur de la chaux
+sodee. Une fois cristallise. le dichlorhydrate se recristallise assez facilement d a m
+I’ecetone. Nous avons applique ce mode d’obtention ?i la methoxy&(di6thytamlno7’-heptylamino)-8-quinolPine. que nous n’avons pas distillee.
+
+La methoxy-6-(diethylamino-7‘-heptylamino)-8-quinoleine a ete
+obtenue sous forme de dichlorhydrate: aiguilles d’un jaune dore
+P. F. = 1 1 5 O .
+Analyse:
+Trouve: 9.17 et 9.20% N; 16.21 et 16.32 % CI.
+10.09yo N: 17.06 yo CI.
+Calcule pour C,,H,,ON,CI,:
+
+La methoxy-6- (ditith ylamino-8’-oct ylamino) -8-quinoleine est , fraichement distillee. un liquide sirupeux d’un jaune dore magnifique.
+Eb.o.5 = 206O: n1,1*.5 = 1.5595: dq15~5= 0.9976.
+Dichlorhydrate: belles petites aiguilles rouge-orange P.F. = 1 12-3O.
+Analyse:
+Trouve: 9.40 et 9.41 yo N ; 15.65 et 15.6976 CI.
+Calcule pour CZtH,,ON,CI,: 9.76% N; 16.51 yo CI.
+
+Dibromhydrate: petites aiguilles d’un jaune dore superbe P.F. 8 4 O .
+Analyse:
+Trouve: 7.14 yo N: 29.31 yo Br.
+Calcule pour C,,HSiON,Br,: 8.08 yo N: 30.75 yo Br.
+
+La methoxy-6-(di~thylamin0-9’-nonylamino)-8-quinol~ine
+est un
+
+R. P. A. Altman.
+
+954
+
+liquide sirupeux d'une couleur jaune-dore. Eb.,, = 218O; nDf7-2=
+1.5569; d415.5 = 0.9943.
+Le dichlorhydrate cristallise dans l'acetone en belles aiguilles rougeorange. P.F. = 105-6O.
+Analysc:
+
+Trouvk: 9.48 et 9.36 yo N; 15.45 yo Cl.
+Calculk pour G,H,ON,Cl,:
+9.46 &: N et 15.98 yo Cl.
+
+Loxalate cristallise sous forme d'aiguilles jaunes rCunies en Ctoiles
+(alcool). P.F. = 8 6 O .
+
+B. Pr&pmrdon & q d q m e a
+
+rariantcr dr 1. qoinlw.
+
+L'intkret ne s'est jamais relache pour les alcaloides du quinquina,
+particulikrement pour la quinine, et plusieurs essais ont CtC tentes pour
+modifier la molecule de la quinine dans le but d'obtenir des medicaments
+precieux. Pour l'orientation de nos recherches, nous n'avions que
+l'embarras du choix car, si le nombre des variantes de la quinine
+prkparees est grand, le nombre des composks possibles l'est bien plus
+encore.
+Pour la nomenclature des variantes de la quinine nous renvoyQI1s &I la
+proposition de R a b l a). Pourtant, nous ne sawions admettre le nom de .&ban"
+(francais: rubane; hollandais: rubaan). voulant t d r compte des rQlcs ptoposcts
+par la Commission pour la dforme de la nomenclature en chtmk organiqw de
+I'Union internationale de Chimle").
+Dabord, la dtsinmce m e s'emploie uniquement pour les hydrocarburrs, et. de
+plus, le terme rubane ne r6poOd pas & I'intention de R a b e d y retrouver le radical
+des alcalo?des des Rubiackes. Nous voudrions donc proposer un nom uauel avec le
+dCdnence he, tout en tenant compte de I'intention de R a b e. Le tcrme rubiscine
+nous paralt mieux cboiai et nous I'emploierons, par consequent, clan6 la suite.
+Dans la formule de structure suivante. nous n d r o t o n s les positions des atomes
+dans la molkule suivant les rcgles etablies par la Commission internationale 46).
+
+Ce qui precede paraft, cependant, en contradiction avec la premicre rtgle de
+la Commisaion, qui dit: O n apportera le moins de changements posdbk &I la
+termiwlogie univencllcment adopt&.
+Mais nous pouvons abjecter que nous ne proposons que le remplacement du
+trrme rubane fautif par rubiadne. Le tenne rubiacine est conformc B la rCgle qui
+a) Ber. 55, 522 (1922).
+u, P. E. V e r k a d e . Rec. trav. chim. d i m . 51, 185 (1932).
+'6) Cf. A. M. P a t t e r s o n. J. Am. Chem. SOC. 47, 543 (1925); Rec. trav. d i m .
+45, 1 (1926).
+
+Contribution B retude des medicaments de synthkse contre la malaria. 955
+H
+I
+
+I'
+
+H
+
+dit que les noms des noyaux (basiques) doivent se terminer en ine. Ajoutons A cela
+que la terminologie de R a b e ne peut se prevaloir detre universellement adoptee.
+Remarquons, nkanmoins. que le nom de .,Ruban" deviendrait correct sf on le
+transformait en ,,Rubann" (hollandais et francais: ruban); mais pourquoi ne pas
+prkferer une terminologie exacte et prkcise?
+
+Les considerations suivantes ont guide nos travaux. Nous pouvons
+contrder l'influence de I'introduction de groupements aminks, substituts
+ou non. par I'activitt plus ou moins grande des derives de la quinolkine
+(plasmoquine), sans perdre de vue que I'atebrine, le vrai succedank
+de la quinine, contient un groupement amink substitue. Nous savons
+aussi que la quitenine, inactive, devient active ( quoique faiblement)
+par Ctherification du groupement carboxylique. O n ne sait d'ailleurs
+rien ou presque rien des derives de la quitenine; il nous a paru utile
+d'en prCparer quelques-uns et d'etudier leur action antimalarique.
+I1 est deplorable que l'on n'ait pas encore rkussi B prkparer un derive
+de la quinine specifique contre la malaria avec quelque chance de
+succes commercial. Toute concurrence avec le produit nature1 est
+impossible, ou bien parce que l'activite du remede est infkrieure 2 celle
+de la quinine, ou bien parce que sa preparation est encore trop difficile.
+Ajoutons a cela que presque tous les produits derives de la quinine
+sont absolument inactifs contre la malaria. Sont-ils sans valeur pour
+cela? Du point de vue chimique siirement non: la presence de chacun
+d'eux se justifie, car ils ont permis de rksoudre les problemes les plus
+divers. 11s meritent d'Ctre cites aussi du point de vue pharmacologique.
+car ils peuvent conduire A la decouverte des composes actifs, ce qu'ils
+ont d'ailleurs deja fait. 11s contribuent, tout comme les medicaments
+actifs. h l'kdification des relations theoriques entre la structure chimique
+et I'action antimalarique 4 6 ) .
+
+'6) Cf. S. F r a n k e l , Arzneimittelsynthese. 5e &I..
+p. 243 (1921); E. F o u r n e a u , Practitioner 130, 279 (1935): A. D. A i n l y. H. K i n g , Proc. Roy. Soc.
+London (B), 125, 4%92 (1938).
+
+9%
+
+R. F. A. Altman.
+
+Les transformations apportees a la molecule de la quinine se
+limitent:
+1. au groupement alcoolique secondaire;
+2. au groupement alcoolique secondaire et au groupement vinylique
+en mCme temps.
+Nous pouvons representer la molecule de la quinine par le schema
+suivant: CH30-Q-CHOH--Q1-CH
+= CHp. oh Q represente le
+noyau quinoleique et Q1 le noyau de la quinuclidine.
+Substitution d u groupement alcoolique secondaire.
+La methode la plus simple pour remplacer un groupement OH par
+un groupement a m i d . substitue ou non, se represente par le schema
+suivant: R-OH + R-CI + R-NH2.
+F r a n k e l . T r i t t , M e h r e r et H e r r s c h m a n n 4 7 ) ont realis&
+la substitution du groupement alcoolique secondaire de la quinine par
+un groupement a m i d . Nous n'avons pas repris les experiences de ces
+auteurs mais nous avons Ctudie les possibilitks de remplacer I'atome
+de chlore par les groupements -N(CH),),
+et -N(C2H5)2. Avant
+d'aborder ce sujet, nous donnons quelques modes de preparation du
+chlorure de quinyle.
+Jusqu'ici. ce dernier compose Ctait prepare uniquement par chloruration de la quinie avec 1e pentachbrure de phosphore. Cette methode est
+due A C o m s t o c k et K o e n i g s ' s ) et fut reprise par R a b e ' g ) ,
+G i e m s a et H a l b e r k a n n s o ) , F r a n k e l , H e r r s c h m a n n
+et T r i t t 6 1 ) et d'autres. Elle ne nous fournit que des resultats
+mkdiocres et nous fit rechercher une autre methode. d'execution plus
+simple. Nous croyons l'avoir trouvee dans le mode operatoire decrit
+en premier lieu par D a r z e n s 5 2 ) et dans lequel il est fait usage du
+chlorure de thionyle, S0Cl2. Cette methode a ete appliquee avec succ~s.
+p. ex. par. H e 1 f r i c h 6 5 ) A quelques glucosides et par E m d e54) B
+]'ephedrine. Dans ce dernier cas, l'addition d'une base tertiaire Ctait
+superflue, l'ephedrine en remplissant le r61e.
+Ces faits nous laissaient esperer une chloruration aisee de la quinine
+par le chlorure de thionyle. Cette supposition fut confirmee p a r
+l'expkrience.
+1.
+
+4'l)
+
+4 9
+
+50)
+
+61)
+62)
+
+6s)
+B4)
+
+Ber. 58, 547 (1925).
+Ber. 17, 1988 ( 1884).
+Ann. 373, 103 (1910).
+Ber. 54, 1190, 1192, 1197 (1921).
+Ber. 56, 438 (1923).
+Bull. soc. chim. (4) 9, 492 (1911); Chem. Ztg. 35, 634 (1911).
+Ber. 54, 1028 (1921).
+Helv. Chim. Acta 12, 388 (1922).
+
+Contribution d l'etude des medicaments de synthese contre la malaria. 957
+
+PARTIE EXPeRJMENTaE.
+A. Chloruration du chlorhydrate de quinine per le XI,.
+Cette methode de prkparation n'offre aucune difficultt, mals elle est assez longue
+;IU benzene du chlorure de qulnyle libere et de la dessiccation
+subsequente du ben&ne. Les rendements obtenus varlent de 60 a So%.
+
+a cause de ]'extraction
+
+B. Chloruration du i:hlorhydr.de de quinine avec le SOCl,.
+Nous avons applique ce mode de chloruration de deux facons, notamment suivant
+la prescription d ' E m d e (loc. cit.) pour la preparation du chlorure d'kphedryle
+( a ) et suivant m e methode qui ne differe de la precedente que par la temperature
+de la &action (b).
+( a ) . Chloruration
+2 la temperature ordinaire (20'). Preparation du
+CHSO--Q--CHCI4,-CH=CH,
+HCI.
+On ajoute, par petites portions, 5 g de chlorhydrate de quinine a une solution
+de 10 cm* de SOCI, dans 10 cm' de chlorotorme. Les premltres portions de
+chlorhydrate se dissdvent instantanement, mais pour les dernieres portions il faut
+agiter. I1 y a un h n d a n t degagement dacide chlorhydrique gaa~eux.
+O n obtient ainsi une solution Claire, jaune-pale et mi-slrupeuse. Apres une heure.
+on verse prudemment sur cette solution 150 cm' dether IKC. Des qu'on mblange
+les Iiquides, il se separe une substance cristalline jaune-pale. On I'essore. on la
+lave rapidement I'ether absolu et on la conserve une nuit sur de la chaux sodee
+dans un exsiccateur a vide.
+Le produit brut, probablement le monochlorhydrate du chlorure de qulnyle, est
+tres hygroscopique et se decompose vers 100" avec un degagement gazeux. 11 se
+dissout facilement dans les alcools ethylique et methylique, moins fadlement dans
+le chlorofome et I'acetate dethyle; iI est insoluble dans le benzhe et I'tther. Les
+tentatives de puriHcation par recristallisation sont restees infructueuses. Afio
+didentifier cette substance, nous l'avons dissoute dam I'eau, p d s la base en a ftC
+prkipitee par I'ammoniaque et extraite par I'acetate dethyle. Apres recristallisation
+dans du benzene additloan6 d'un peu d'ether de petrole, nous avons obtenu m e
+substance cristalline fondant a 151". point de fusion du chlorure de quinyle.
+
+.
+
+( b ) . Chloruration a la temperature du bain-marie (100"). Preparation du
+=CH,. 2 HCI.
+Apres quelques essais dorientatfon, nous avons adopt6 le mode operatoire suivant:
+En refroidissant par le melange glace et sel, on ajoute lentement 25 cms de
+chlorure de thionyle B uiie solution chloroformique saturee contenant 22.5 g de
+chlorhydrate de quinine. La chloruration s'effectue avec degagement dacide chlorhydrique et I'on obtient m e solution Claire d'un jaune tr&s pale, que I'on fait
+bouillir au bain-marie avec rkfrigerant a reflux. Le liquide bouillant se trouble
+apres vingt minutes environ et bient6t se separe nettement une substance mi-solide
+de couleur jaune-pale et qui crlstallise par refroidfssernent. Ces cristaux sont essores.
+laves rapidement
+I'ether sec et conserves sur chaux sodke dans Ie vide.
+Le produit brut est purifie aisement par redstallisation de I'alcool absolu et
+l'on obtient ainsi de fines aiguilles maclees d u n jaune-pale. Nous n'avons pu
+obtenir un produit incolore, ni par des recristallisations repetees, ni en faisant
+bouillir avec du charbon. P.F. = k 183" (dk.). La substance est hygroscopique. peu
+soluble dans le chloroforme et presque totalement insoluble dans I'ether. le bendne
+et I'acetate dethyle.
+
+CH,O-Q-CHCI4,-CH
+
+LVIl
+
+32
+
+R. F. A. Alhnan.
+
+958
+
+-.-
+
+Analyse:
+
+1. Teneur en chlorure total: trouvk 25.21 yo;calcde 2557 yo.
+2. Teneur en chlore ionisable: tr. 16.66%; calc. 17.06%.
+
+La substance que nous avo- obtenue alnsi.
+
+CHaO-Q-CHCI--Q,-CH=CH,. 2 HCi.
+a ete identifik aistment. Elle a ete dissoute dans l'eau, ptecipitee par l'ammoniaque
+
+et extraite avec de I'acCtate dethyle. On a obtenu finalenrat le chlorure de qulnyle
+base, avec un point de fusion de 151". Le rendement est presque quantitatlf.
+
+Didcoyfarninoquinyles ( = vinyl-3-dialcoylamino-9-m~thoxy-6'-rubiacines).
+Le remplacement de l'atome de chlore du chlorure de quinyle par
+un groupement dimtthyl- ou diethylamint a t t t realist? en chauffant
+pendant 8 A 10 heures en tube scellt. A une temptrature de 140 B 160°.
+L a produits de rkaction ainsi obtenus sont en grande partie rtsinifih.
+La substance desirte a pu etre stparte des parties non rtsinifiees de
+la facon decrite plus bas. Nous n'avons pas recherche I'influence d'une
+temptrature plus basse. 130° par exemple, sup les rendements de la
+trans formation.
+PARTIE EXPERIMENTALE.
+
+A. Preparation de la dirnethylaminoquinyfe (vinyl-3-dimethylamin0-9-m~thoxy6'-rubiadne).
+En chauffant, en tube scelle, 10 g de chlorure de quinyle. 2HCl avec une
+solution de 10 g de dimethylamine dans 10 c d deau pendant dix heures B 150"
+environ, on obflent un liquide brun tres sirupeux, dam lequel on distingue tres
+nettement des cristaux. Tout le contenu du tube est dissous dans l'adde chlorhydrique (1 : 1): cette solution est a g i t k avec du charbon et filtree. O n precipite
+la base par la soude et on l'extrait par du chloroforme. La solution chloroformique
+de couleur brun-fond ne se decolorant que tres peu par fbdlition avec du charbon.
+on l'agite avec de l'acide chlorhydrique dilue: la dhithylaminoquinyle se dissout
+sous forme de chlorhydrate. On predpite derechef la base par la soude et on
+I'extrait par le chloroform. La solution ainsi obtenue n'est plus que d'un brun pale.
+O n distille le chloroforme au bain-marie; on obtient ainsi un sirop. qui, a p r h
+des digestions rWtCes avec l'ether de petrole. se prend en une masse solide amorphe.
+Toutes les tentatives pour faire cristalliser cette substance resterent sans r6sultat.
+Pour identifier cette substance, nous l'avons transformee en sel picrolonique en
+ajoutant B la solution alcoolique de dIm6thylaminoquinyle une quantite equivalente
+d a d d e picrolonique dissous egalement dams l'alcool. I1 predpite un cornpod
+lame amorphe qui devient cristallin apres quelques ]ours de repos. Ce predpite est
+euor6 et recristallid dans I'acetone. On dtient des cristaux d'aspect mediocre.
+P.F. = 170" (dec.). 11s sont insolubles dans l'eau. l'ether, l'alcool. etc.
+Analyse:
+
+Trouve: 16.13% N.
+Calcule pour C,,H,,O,N,:
+
+16.00y0 N.
+
+Contribution a l'etude des medicaments de synthese contre la malaria. 959
+- ._
+
+.
+
+- ...
+
+.....
+.
+. .
+
+.-..
+
+. .-..
+
+B. Preparation de la dikthylaminoquinyle (vinyl-3dikthylamino-9-rnkthoxy-6'rubiacine) .
+La preparation de ce compose est, jusque dans les moindres details, tout a fait
+analogue a celle du derive dimethyl& O n chauffe en tube scell4: 10 g de chlorure
+de quinyle. 2HC1, 15 g de diethylamine et 15 cms d'eau.
+Le produit a ete identifie egalement sous forme de picrolonate. qui apres
+recristallisation de ]'acetone, fond B environ 155" en se dkcomposant.
+Analyse:
+Trouve: 15.00y0 N.
+Calcule pour C,,H,,O,N,:
+
+15.42 yo N.
+
+2. Modifications simultankes d u groupement alcoolique secondaire
+et du groupement oinylique.
+La quitenine 5 5 ) fut la substance de depart pour cette partie de nos
+recherches. Pour la preparer, nous avons applique la mCthode de
+S k r a u p et B u c h e r. mais celle-ci presente les inconvenients suivants:
+1. Si I'on oxyde 50 g de quinine, on obtient un volume liquide de 4.5 1, qu'il
+faut evaporer 8 rni-volume.
+2. Levaporation. mentionnee sous 1, est tres longue et ne sert qu'8 chasser
+I'alcool qu'on vient d'ajouter au liquide.
+3. Le residu. dont la quitenhe se &pare apres refroidhement. contient des
+quantites respectables de sulfate de potassium qui cristalbe en m h e temps.
+4. La puriflcation du produit brut est tres longue egalement et I'on n'en enleve
+la couleur brune qu'apres plusieurs recristallisations.
+5. Laddition goutte a goutte de la solution de permanganate dure longtemps.
+6. La quantite de perrnanganate prescrite est insuffisante pour une oxydation
+complete de la quinine en quitenine et acide formique. De plus, l'adde fomique
+est en &at de reduire une quantite notable de permanganate.
+
+Nous croyons avoir remkdie a tous ces inconvenients dans le mode
+operatoire suivant:
+O n ajoute 50 g de quinine base a une solution de 11.2 cma dacide sulfurique
+98 yo ( d = 1.836) dam 650 cm' d'eau. En chauffant legerement 2u bain-mane
+on obtient une solution Claire avec fluorescence bleue. On refroidit cette solution
+avec le melange glace et sel et on y laisse coder. d'un large entonnoir il robinet
+et assez rapidement, 2500 cm' de solution de permanganate de potasse
+4y0.
+Le melange doit &re sournis une agitation mecanique rapide. Comme la temperature de la reaction ne peut pas depasser 5" C, il est utile de refroidir au prealable
+la solution de KMnO, (k 12'). Pendant I'oxydation. il se degage de I'anhydride
+carbonique en grande quantite.
+Apres la reaction. on conserve le melange dans la glaciere pendant une nuit.
+O n essore ensuite le bioxyde de manganhe qui englobe la quitenine et on lave
+plusieurs fois B I'eau h i d e pour enlever les sels inorganiques. Nous recommandons
+6 6 ) Voir:
+K e r n e r . Z.Chem. 1869, 593:
+S k r a u p . Ber. 12, 1104 (1879);
+Monatsh.. 10, 40 (1889): B u c h e r . Monatsh. 14, 598 (1893).
+
+960
+
+R. F. A. Altman.
+
+le procede suivant pour &parer la quitenine: on delaie le prkipite, ti froid, dans
+une soluhon de 20 B 25 g dhydroxyde potasdque dans 1.5 B 2 1 deau. O n lais~e
+reposer cette bouillie un certain temps, puis on essore. Le predpite est lave quelques
+fois a I'eau froide. Le Hltrat contient la quitenine sous forme de sel potassique;
+on peut liberer la base en addifiant falblement avec l'adde sulfdque dllue et en
+neutralisant ensuite par un excts de bicarbonate de soude. I1 est plus prudent encore
+d'ajouter un leger e x c h dammoniaque qu'on elirnine ensuite par un courant
+danhydride carbonique. O n &pare ainsi la quitedne dune facon presque quanl'eau froide. Le rendement
+titative. Le prod& brut est essork et lave encore
+s'eleve a 35-40 g soit 6676% de la quantite theorique. Une redstallhation
+sur charbon fournit de la quittnine pure sous forme de beaux petits prismw, blancr
+c o m e la neige.
+On peut remedier la fable solubilite du permanganate de potasse dans l'eau
+en le remplacant par le permanganate de sodium. Le permanganate de potesse
+solide ne convient pas. car l a cristaw se recouvrent rapidement dune couche de
+bioxyde de manganese qui empkhe la dissolution ulterieure de la substance
+cxydante.
+
+La chloruration de la quitinine auec le chlorure de thionyle a ete
+executee par H. J o h n 5 6 ) . Cet auteur affirme avoir obtenu, comme
+produit de la reaction. la carbochlorure-3-hydroxy-9-mCthoxy-6'rubiacine: CH,O-Q-CH
+(OH)--Q,-COCI.
+I1 apporte. a titre de preuve, un dosage d'azote assez douteux. Ce
+dosage lui a donne une teneur en azote de 6.92 % tandis que le pourcentage calcult pour C,,H,,O,N,Cl
+est de 7.77. Suivant J o h n ,
+l'ebullition avec de l'alcool methylique ou ethylique du produit qu'il
+a obtenu lui a fourni des esters en apparence identiques aux esters
+methylique et kthylique de la quithine prepares d u n e autre maniece.
+Meme en negligeant les r e d t a t s de ce dosage d'azote peu probant,
+les experiences du chapitre precedent nous permettaient de douter de
+l'exactitude de l'hypothbe de J o h n. Puisque, comme nous l'avons
+vu, le groupement alcoolique secondaire se laisse remplacer aisement
+par le chlore & l'aide du chlorure de thionyle. nous ne pouvions que
+tr&s di€ficilement admettre que cette substitution ne se produirait pas
+Cgalement par l'action du SOCl, SUP la quitenine. I1 ne peut Etre
+question d u n e chloruration partielle dans les experiences de J o h n.
+puisqu'il a employe un grand exces d'agent chlorurant. Les experiences
+que nous allons decrire le montrent. d'ailleurs, d'une maniere probante.
+PARTIE EXPl3RIMENTAL.E.
+A. Chloruration a 20°, actim de 6 B 7 parties & SOCl, sur une partie de
+guitenine.
+Une partie de quitenine est ajoutee en petites portions B 6 ti 7 parties (en pod&)
+de chlorure de thionyle refroidi par le melange glace et sel. I1 se degage de la
+6'3)
+
+J. prakt. Chun. 128, 223 (1930).
+
+__
+
+Contribution ci I'etude des m6dicaments de synthese contre la malaria. 961
+.-
+
+_.
+
+- -_____
+
+-...
+
+chaleur et des gaz (SO, et HCI) et on obtient une solution Claire, jaunedore.
+Apres un moment, on ajoute prudemment de I'ether absolu et ies deux couches
+liquides sont melangees lentement. O n essore la masse cristalline qui s'est &par&,
+on la lave rapidement a ]'ether absolu et on la conserve dans le vide sur de IP
+potasse ou de la chaux sodee.
+Le compose ainsi obtenu est tres hygroscopique et se dissout facilement dans les
+alcools methylique et ethylique: par contre. il est insoluble dans tous les solvants
+indifferents. P.F. (dec.) = k 185". Nous n'avons pas reussi a purifier ce produit
+brut, car il est, ou bien dfcompod par les solvants usuels. ou bien totalement
+insoluble dans les m h e s solvants.
+
+B. Chloruration
+100". action de 6 d 7 parties de SOCl, sur une partie de
+quithine.
+La quitenine est dissoute dans le SOCI, refroidi par le melange glace et sel. La
+solution jaunedore obtenue (comme en A.) est mise a bouillir au bain-mane avec
+un refrigerant a reflux. La solution se trouble apres une &ullition de 15 B 20
+minutes et bientdt tout le contenu du ballon se prend en une masse cristalline. O n
+eteint la flamme sous le bain-marie et on ajoute de I'fther absolu par le r e f r i g e a t .
+On le laisse bouillir doucement jusqu'h ce que le bain d'eau soit refroidl. La m a s e
+cristalline formee est krasee finement sous I'fther. essorfe rapidemcnt. l a v k
+plusieurs fois a fond avec de I'fther absolu et conservee sur chaux sodee dans un
+exsiccateur a vide. Le produit impur obtenu de cette facon a une couleur jaune plus
+foncee que le produit obtenu suivant A. P.F. (dfc.) = 195"-200". I1 est soluble
+dans la pyridine, insoluble dans tous les solvants organiques indifferents et il se
+decompose dans l'eau ift dans les alcools. Cette decomposition nous a servi B
+identifier le produit obtenu c o m e &ant le monochlorhydrate de la carbochlorure3-chloro-9-mithoxy-6'-diacine:
+C:H,O-Q-CHCl-Q,-coGI
+. HCI.
+C. Chloruration a 100". adion de 12 parfies de chlorure de thionyle sur une
+parfie de quithine. DurPe de la riaction 2 2 3 heures. (Cf. procede J o h n ) .
+Dans cette experience. I'exces de SoCl, a ete beaucoup plus grand que dans les
+cssais precedents. La solution de quitenine dans le chlorure de thionyle est egalement mise a bouillir au ba3in-marieavec rifrigerant a reflux. La crodte cristalline qui
+se separe apres 15 a 20 minutes est chauffee encore deux heures 100": on obtient
+ainsi un sirop visqueux d'aspect brun-fonce. Lexces de chlorure de thionyle est
+distill6 dans le vide au Sain-marie.
+Apres refroidissement le, residu se prend en cristaux qui sont essores et laves
+I'ether absolu.
+Des resultats de quelques analyses nous pouvons conclure que le produit obtenu
+suivant C est identique :I celui obtenu suivant B.
+
+L'identification du produit de la chloruration a ete effectuee a l'aide
+des produits de decomposition obtenus par dissolution du produit (B)
+dans l'eau ( a ) , dans I'alcool methylique ( b ) et dans l'alcool
+ethylique (c) .
+a. Decomposition dans l'eau.
+
+On dissout le produit de chloruration (B) dans le minimum d'eau et la
+
+%2
+
+R. F. A. Altman.
+~
+
+- .
+
+sec dans le vide
+la temperature ordinaire. Le
+solution obtenue est evaporee
+dsidu vitreux passe rapidement & l'etat cristallin quand on le mouille de quelques
+gouttes dalcool absolu et qu'on le frotte avec un agitateur en verre. Lalcool est
+&vapor6 et le produit brut est recristallise d'un melange dalcool rnethylique et
+dacetate dethyle; il s'en separe sous forme de beaux petits primes. soyeux et
+brillants, souvent r ~ m hen &toiles. P.F. ( d k ) = k 205". I1 est a i s h e n t soluble
+dam l'alcool Cthylique et insohhle dans l'ether, l'acktate d'kthyle. le benzene. le
+chloroforme et l'acetone.
+Si nous supposons que la chloruration de la quitenhe par le chlorure de thionyle
+a b u t i t & la formation du monochlorhydrate de la carbochlorure 3-chloro-9-methoxy6'-hiadne, la decomposition par l'eau se traduit par l'&quation suivante:
+H a + H,O --*
+c
++ c H , ~ C l - Q , - - C O O H . 2 HCI.
+L a d & chlorhydrique 1Wr6 est fix6 immkdiatement par le groupement basiqw
+libre du noyau rubiacine. Les r&ultats danalyse d-aprts constituent la preuve
+qu'il se forme ici le dichlorhydrate de la carboxy-3-chlor~9-m~thoxy-6'-rubiadne.
+
+.
+
+Analyse:
+Trouve: 5.69% H; 52.94% C: 23.92 % Q (total); 15.70 Cl (ionisable).
+Calcule pour CJIH,O,N,U,: 5.31 % H; 52.60% C; 24.57% C1 (total);
+16.37 yo C1 (ionlsabk).
+
+b. Dkomposition dans l'alcool mkthylique.
+En dissolvant le produit de la chloruration dans 2 & 3 parties (en poids) dalcool
+dthylique. il se forme une solution Claire de couleur jaune-brun. dont se &parent
+des cristaux aprts quelque temps dagitation. La cristallisation augrnente rapidement
+et bientbt mute la rnasse cristalllse en bloc; on enltve l'excts d'alcool methylique
+par esoorage. Le prcduit brut qu'on obtient ainsi est dej&d'un beau blanc. O n peut
+le purifier par recristallisation d u n melange dalcool methylique et d'acetate
+l'ithyle. I1 M stpare sous forme de beaux petits prismes presqu'incolores. P.F.
+(dtc.) = 185-6". I1 est fadlement soluble dam l'eau et dans l'alcool methylique.
+rnoins soluble dans l'alcool Cthyllque et insoluble dam l'tther, le benzene, etc.
+Tout comme dans la dCcomposition par l'eau, I'adde chlorhydrlque lib+re se fixe
+au groupernent basique encore libre. et 11 se forme le dichlorhydrate de la carbomCthoxy-3-chloro-9-methorya'-rubfaclne:
+CH,O-Q-CHCl-Q,-COOCH,.
+2 HCI.
+Analyse:
+Trouve: 53.16 et 52.34% C 5.75 et 5.07 H: 23.87% C1.
+Calcule pour C&,,O,N,Cl,:
+53.63% C; 5.59% H: 23.80% CI.
+C1 ionisable: Trouve: 15.68 et 1 5 . 0 9 ~ 0C1. Calcule: 15.87% C1.
+c. Lkornposition dwu l'alcool ffhylique.
+Tout comme dans le cas precedent. le produit de la chloruration (B) donne dans
+l'alcool ithylique une solution Claire de couleur jaune-brun, dont se separe une masse
+cristalline qui est essoree pour separer l'exces dalcool ethylique. Ce produit peut
+etre purifie par recristallisation dans l'alcool ethylique. O n obtient. sous forme de
+petits prismes incolores agelomeres en itoiles, le dichlorhydrate de la c a r W h o x y 3-chloro-9-mCthoxy-6'-rubiacine: CHsO-Q-CHC142,-COOC,H,
+. 2 HCl. P.F.
+(dec.) = _+ 206".
+
+Contribution A r6tude des m6dicaments de s y n t h k contre la malaria. 963
+
+--.-
+
+- .
+. .--
+
+__ - .
+
+.
+
+-..-
+
+-
+
+.
+
+_
+
+Analyse:
+Trouve: 6.27 % N: 23.65 % c1 (total): 15.41 yo CI (ionisable).
+6.07% N; 23.06% C1 (total): 15.36% CI
+Calcule pour C,,H,,O,N,CI,:
+(ionisable).
+
+Quant aux propriCtCs pharmacologiques des produits decrits, celles-ci
+ont ete deterrninees par le dr. I. C. A 1b r i c h t sous la direction du
+prof. U. G. B ij 1 s m a h 1’Institut de Pharmacologie d’utrecht. Nous
+leur reiterons ici nos vifs remerciments pour leur aide vraiment
+aimable 5 7 ) .
+Les derives de la quinoleine se sont montres tres actifs a la fois
+contre le Plasmodium relictum du canari et 1’Haemoproteus orizivorae
+du calfat; par contre, les variantes de la quinine sont presque totalement inactives.
+Nous nous bornetons donner les indices chimiotherapeutiques des
+composes semblables la plasmoquine:
+Methoxy-6- ( diethylamino-7’-heptylamino ) -8-quinolkine:
+I (calfat) = 1 : 166: I (canari) = 1 : 1000.
+Methoxy-6- ( di~thylamino-8’-octylamino
+) -8-quinol&1e:
+I (calfat) = 1 : 175; I (canari) = 1 : 500.
+Methoxy-6- ( diethylamino-9’-nonylamino)-8-quinoleine:
+I (calfat) = 1 : 180; I (canari) = 1 : 700.
+Nous tenons a exprimer ici notre grande gratitude a MM. les professeurs J. J. B l a n k s m a (Leyde), P. E. V e r k a d e (Rotterdam) et
+E. F o u r n e a u (Paris) pour I’aide et les conseils precieux qu’ils nous
+ont donnes pendant la duree de nos travaux et pour l’hospitalitt qu’ils
+ont bien voulu nous accorder dans leurs laboratoires.
+(Recu le 26 mai 1938).
+
+5 7 ) Les resultats pharmacologiques publies par B o v e t (Bull. soc. path. exot.
+27. 236. 729 (1934) sont tout autres parce que cet auteur a eu a sa disposition des
+
+produits irnpurs pas encore identifies.
+
+.
+

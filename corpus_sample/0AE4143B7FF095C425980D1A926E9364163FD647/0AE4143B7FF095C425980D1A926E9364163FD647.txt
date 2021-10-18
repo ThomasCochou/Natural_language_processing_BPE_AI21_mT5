@@ -1,0 +1,994 @@
+R. GRANQER:Distribution Blectronique anisotrope
+
+599
+
+phys. stat. sol. 16,599 (1966)
+
+Labmatoire de Magndtisme et de Physique du Solide, C.N.R.S., Bellevue
+
+Distribution Blectronique anisotrope dans
+les semiconducteurs purs au voisinage de l’avalanche
+Par
+
+R. GRANGER
+Nous prksentons une Btude de la distribution ilectronique dans les semiconducteurs purs
+soumis It des champs Blectriques E intenses, permettant de rendre compte du phbnombne
+d’ionisation par choc It travers la largeur de bande interdite el. D b que la concentration
+Blectronique est infkrieure It l O I 5 cm-3, les collisions interBlectroniques ne suffisent plus
+pour maintenir la distribution isotrope e t la notion de tempkrature Blectronique n’est alors
+plus valable. D’autres mBcanismes de relaxation sont cependant efficaces e t nous considBrons particulibrement 1es cas de diffusion par phonons acoustiques ou optiques. Nous
+montrons que dans le d e n i e r cas, une partie de la distribution (pour des Bnergies E e0 ( E ) ) ,
+est constitube essentiellement d’6lectrons dont 1e moment est dans la direction du
+champ Blectrique; ces Blectrons appelks ,,balistiques“ sont ceux qui, accilhrh dans le
+champ Blectrique, atteignent une Bnergie sup6rieure B &it e t causent l’ionisation par choc.
+Nous siparons la distribution B 1’6tat stationnaire en trois classes: E
+E,,, E~
+E
+q,
+E
+ei et calculons les probabilitPs de transition d‘une classe B l’autre. Nous obtenons alors
+les populations des trois classes en fonction du champ Blectrique e t dbduisons enfin la
+caracthristique courant-tension. Les rbsultats numiriques sont donn6s pour plusieurs semiconducteurs, et en particulier le champ de claquage It diffBrentes temperatures. Si la distribution reste relativement isotrope, la contribution de la partie anisotrope n’en est pas moins
+efficace, le temps de relaxation des porteurs &ant de cinq ordres de grandeur plus faible que
+leur durBe de vie. Nous comparons cette thiorie avec les resultats expbrimentaux sup
+InSb.
+
+>
+
+<
+
+>
+
+< <
+
+An analysis is made of the electron distribution function i n homogeneous pure semiconductors in high electric fields E , and this is used to interpret experimental results on intrinsic impact ionization across a n energy gap q. When the electron concentration is lower than
+~,
+collisions are not dominant and the introduction of a n elecabout 10’5 ~ r n - inter-electronic
+tron temperature is not valid. I n these circumstances scattering by acoustic or optical
+phonons must be considered in detail. I n the latter case, a part of the distribution (for
+energy E
+e O ( E ) )consists
+,
+of electrons with momenta along the direction of the electric
+field; these “balistic” electrons are mainly responsible for the impact ionization, since they
+are readily accelarated t o energies above q. The steady-state electron distribution can be
+E ~ c0
+,
+E
+q, E
+q. The transition rates between
+sub-divided in three energy regions: E
+these regions are calculated. The populations of the three regions are then obtained as functions of the electric field and the current-voltage characteristics are thus deduced. The
+results are applied t o several semiconductors and the breakdown fields are calculated for
+various temperatures. Although the anisotropy of the distribution is relatively weak, i t is
+by no means negligible, due t o a difference of five orders of magnitude between t h e relaxation time and the lifetime of the carriers. A comparison is made between the theory and
+experiments on InSb.
+
+>
+
+<
+
+< <
+
+>
+
+1. Introduction
+Dans un champ Blectrique intense, les Blectrons d’un semiconducteur peuvent
+acquBrir une Bnergie suffisante pour ioniser, par choc sup des klectrons liks, des
+porteurs de charge supplbmentaires, dont la multiplication en ,,avalanche“
+conduit A une brusque augmentation de la conductivitB au-delA d’un seuil de
+champ Blectrique. Ce phhnomkne rev&tun caractbre ,,intrinskque“ ou ,,extrin-
+
+600
+
+R. GRANGEF-
+
+seque“ suivant que les porteurs exckdentaires sont arrachbs & la bande de valence
+ou & un niveau d’impureM. Le but du present article est d’en donner une description thborique, en s’attachant plus particulikrement A l’ionistion par choc intrinskque. Celle-ci n’a BtB BtudiBe expBrimentalemcnt, dans des Bchantillons homoghnes, que dans l’antimoniure d’indium de haute puretb, oh elle est facile & observer A 77 “K ou & plus basse temperature [l]. Plusicurs theories ont tenth
+de dBcrire la distribution klectronique en champ Blectrique intense. La plupart
+d’entre elles (Wolff [2], Stratton [3], Chuenkov [4] et Bok [ 5 ] ) admettent que la
+distribution blectronique reste quasi-isotropc, ce qui permct de dbfinir une tempdrature Blectronique T,. Elles invoquent les collisions interblectroniques comme mbcanisme principal d’echangc d’hergie restaurant l’isotropie de la distribution malgrh la presence du champ Blectrique. Elles trouvent leur application
+dens l’inteprbtation des variations de mobilitk avec le champ blectrique, c t
+Bgalement de l’ionisation par choc extrinshque. Mais l’ionisation par choc
+intrinsequc suppose la presence d’dectrons de trks grande Bnergie, qui est peu
+compatible avec une forme de distribution isotrope; et, en effet, elle n’a BM
+observBe exp6rimentalement que dans des Bchantillons de concentration 61ectronique n
+10’5 ~ m - oa
+~ , les collisions intcrblectroniquev ne sont plus lc mBeanisme d’kchange d’dnergie e t de moment prkdominant [6]. La notion de temperature Blectronique ne s’applique plus, car la distribution Blcctronique devient anisotropc, et ce sont prBcisBment les Blectrons de grande knergie ayant un
+moment dirigB dans la direction du champ qui sont responsables dc l’ionisation
+par choc, comme l’ont remarque Toda et Glicksman [7].
+Nous nous sommes proposB d’analyser la distribution Blectronique en considbrant sBparBment les Blectrons d’hncrgie petite et moyenne, qu’on peut considbrer comme ,,isotropes“ e t les Blectrons de grande Bnergie se dBplapant dans la
+direction du champ, qu’on peut qualifier de ,,balistiques“. C’est parmi ces derniers que se trouvent dcs Blectrons d’hnergie supbrieure au seuil d’ionistaion Ei
+(largeur de bande interdite dans le cas du phknomhne intrinshque). La premiere
+&ape du calcul (Section 2) sera d’Bvaluer 1’Bnergie c0 (et le moment correspondant po) au-delit de laquelle commence la population d’klectrons ’’balistiques“.
+Le champ blectrique assure un pompage continu d’blectrons dc la population
+E ~ B) la population ,,balistique“ ( E
+c0). Les dectrons perdent
+,,isotrope“ ( E
+leur Bnergie, soit par le processus ,,utile“ d’ionisation par choc (si E
+E ~ ) ,soit
+par des processus concurrents. On analysera aux Sections 3 e t 4 les probabilitbs
+de ccs transitions e t les flux d’blcctrons entre les trois populations: E
+c0,
+c0
+E
+ci, E
+Ei. Nous pourrons alors (Section 5) determiner ces trois populations entre lesquellcs se repartissent les Blectrons en regime stationnairc, et
+ccci en fonction du champ Blectrique de fagon it faire apparaitre le champ critique d’ionisation. L’apparition de l’ionisation par choc au-delii de ce seuil est la
+conskquence de l’efficacit6 du pompage par le champ blectrique : le temps nBcessake ii un Blectron pour accBder & l’bnergie d’ionisation est du m&me ordre dc
+grandeur que le temps de relaxation (de l’ordre de 10-l2 s) alors que la durBc de
+vie moyenne des Blectrons hors d’hquilibrc cst beaucoup plus grande (de l’ordre
+de lo-’ 6).
+
+<
+
+<
+
+< <
+
+>
+
+>
+
+>
+
+<
+
+2. Bilan des processus Blhentaires d’Qchanged’6nergie
+ConsidBrons, B une temperature de rBseau donnBe, les klectrons d’knergie E ,
+dont le temps d’un librc parcours cst en moyennet(E). Comparons l’apport
+d’bnergie par le champ klcctriquc pendant le temps t 8. la perte d’knergie subie
+
+Distribution Blectronique anisotrope dans les semiconducteurs
+
+601
+
+par 1’6lectron au cours d’une collision. Nous envisageons les deux cas de diffusion
+par phonons acoustiqucs ou par phonons optiques.
+JR taux d’accroissement de l’bnergie dans lc champ blcctrique E est
+q2 E2
+= --T(&)
+m+
+
+B
+
+(q charge Qlbmentairc, m* masse effective).
+
+La relaxation par les phonons acoustiques se traduit par une perte d’hergie
+[6] (par unit4 de temps)
+
+Le temps de relaxation t est alors proportionnel ti
+(g)ph.ac.
+
+N
+
+- &3/2,
+
+(g)
+B
+
+N
+
+de sorte que
+&-l/2
+
+.
+
+La relaxation par les phonons optiques se t r d u i t par une perte d’6nergie
+sensiblement constante et Bgale B 1’6nergie maximalc h vo des phonons longitudinaux. Ceci s’exprime par un taux de variation de l’bnergie
+
+Le temps dc relaxation z est alors proportionnel
+
+d?,
+de sorte que
+
+Ces formules sont valables dans le cas d’une bande de conduction ,,standard“
+(isotrope, parabolique) qui s’applique aux composbs 111-V et 11-VI que nous
+envisagcons.
+La Fig. 1 reprbsente schbmatiquement, en fonction de E , la variation de ces
+taux d’bchange d’bnergie dans les deux cas de diffusion considbrbs; les flhches
+vcrticales indiquent lc sens du bilan d’bnergie. Suivant le signe de ce bilan,
+l’bnergie E de 1’Qlectron considQr6 varie dans un sens qui est indiqu6 par les
+
+I
+
+8
+2
+
+I
+
+r,
+
+t-
+
+fionons musrques
+Fig. 1
+
+602
+
+R.GRANQER
+
+fleches horizontales. On voit que, dans le cas de diffusion par phonons acoustiques, l’ensemble de la distribution tend ii se stabiliser autour d’une Bnergie
+d’bquilibre E,, alors que dans le cm de la diffusion par phonons optiques, les
+Blectrons ayant atteint une certaine Bnergie E~ ont tendance 8, gagner de 1’Bnergie
+jusqu’it ce qu’un nouveau p h h o m h e , celui d’ionisation par choc par exemple,
+intervienne, pour dissiper cette Bnergie.
+I1 apparait donc que le cas de la diffusion par phonons optiques est le plus
+favorable pour l’obtention de l’ionisation par choc, car les Qlectrons d’hergie
+E
+ont un moment dirig6 prBfBrentiellement dans la direction du champ
+Blectrique e t peuvent gagner rapidement 1’Bnergie nBcessaire 8, un choc ionisant.
+Cette conclusion se rapproche de celle obtenue par Hilsum [8] dans l’analyse du
+transfert des Blectrons dans une bande supbrieure (effet Gunn).
+
+>
+
+2.1 Vu”a7iutionde t ouvee les purambtres du semiconducteur
+
+La valeur de
+
+E~
+
+est definie par 1’Bquation
+
+qui, en remplapnt
+
+t par
+
+A
+
+s’6crit
+
+avec [9]
+
+(xo constante dielectrique optique, x, constante didectrique statique).
+
+E (Vun-7
+Fig. 2
+
+Fig. 3
+
+-
+
+Distribution Blectronique anisotrope dans les semiconducteurs
+
+603
+
+De (1) nous tirons la valeur de E,, et celle du moment pa correspondant
+EO(E)= h
+
+m*
+
+(3)
+
+q A 2 E Z'
+
+(4)
+
+Les Blectrons ayant la projection de leur moment suivant la direction du champ
+Blectrique supBrieure B p,,(E)(Pig. 2)l) ont des Bchanges d'bnergie et de moment
+avec le rBseau suffisamment faibles pour &re accB16rBs dans la direction du
+champ Blectrique et constituer la partie anisotrope de la distribution (Blectrons
+,,balistiques").
+I1 est important de connaitre la variation de E,, en fonction du champ Blectrique, pour une temperature de rBseau donnBe. C'est ce que reprbsente la Fig. 3
+d a m le cas de plusieurs semiconducteurs usuels: InSb, InAs et CdTe. Les valeurs des diffbrents parametres utilisBs sont notees dans le Tableau 1. Celles
+de A ont BtB calculbes B partir de la mobilitd de Hall exphrimentale, suivant la
+formule [lo] ,uE = 1,205 (q/m*) A (k T)ll2, oh 21 partir de l'expression (2). Ces
+deux mBthodes de calcul donnent des rbsultats trks voisins aux ternpBratures
+supenewes ou QgalesB 77 OK, dans la mesure o~ la mobilitB est principalement
+limit&epar les collisions sur les phonons optiques dans les composBs 111-V consid6rBs [lo] et dans CdTe [ll]; pratiquement, nous avons alors choisi la valeur
+dBduite de pH. Aux basses temperatures, A ne peut &re estimB qu'h partir de la
+formule (2), car d'autres mBcanismes de relaxation interviennent simultanhment (cf. aussi discussion de la Section 6).
+La Fig. 3 permet de situer les valeurs de E,, par rapport aux deux Bnergies qui
+caracthisent les phBnomenes physiques principaux mis en jeu: ci (Bgale 21 la
+largeur de bande interdite), qui conditionne l'ionisation par choc, et hv,,, qui
+dBcrit le mecanisme de relaxation principal.
+
+3. DQfinitiondu modele
+Ayant mis en Bvidence le caractere ,,balistique" des Blectrons dont la projection du moment sur l'axe du champ Blectrique pPB
+est supbrieur B pa,nous divisons
+
+la distribution Blectronique, dans la bande de conduction, en trois parties
+(Fig. 4). La partie appelBe Po comprend tous les Blectrons pour lesquels p~ 5 pa.
+
+Po
+
+--
+
+Fig. 4
+1)
+
+Dans les Figures 2,
+
+5 et 6 il f a u t lire p pour P .
+
+CJ
+
+1
++
+
+604
+
+R.GRANQEB
+Tableau I
+
+I
+
+Compose
+
+InSb
+0,0143
+
+300
+
+77
+
+4,6 x lo-'*
+
+I
+
+Compose
+
+(8.
+
+_
+
+_
+
+300
+-
+
+77
+
+-
+
+2,6x 10-la
+
+[eV]-1/2)
+
+4,85 x 10-l2
+
+m*
+-
+
+T (OK)
+A
+
+(8
+
+. [eV]-1/2)
+
+4
+
+1,045X lo-"
+
+1,045 X
+
+I
+1
+
+20
+
+4
+4,87 x 10-lp
+
+4,87 x
+
+0,11
+
+m,
+h I),, (eV)
+
+1
+
+20
+
+Inhs
+
+-
+
+-.
+
+T (OK)
+A
+
+1x lo-"
+
+I
+
+I
+
+1
+
+0,022
+
+300
+
+1
+
+77
+
+5 ~ 1 0 - l ~ 8x1O-l8-
+
+1
+
+20
+
+8.75 x
+
+1
+
+4
+8,75 x lo-"
+
+Considbrons que cette population Po eat isotrope. Les 6lectrons de p g 2 po sont
+divisbs en deux populations : celle PI des 6lectrons d'6nergie comprise entre c0
+et et celle P, des Blectrons ayant atteint I'bnergie d'ionisation q.
+Les Blectrons peuvent passer de la population Po A Pl, ou de Pl B, P,,par gain
+d'6nergie dans le champ 6lectrique. 11s peuvent 6galement &re relax& de P,
+A Plou de Pl A P, par perte d'knergie sur un phonon optique. Nous envisageons
+Bgalement Ies processus du choc ionisant, par lequel un blectron de la population P, donne naissance S deux Blectrons de la population Po et ti un trou, et
+enfin la recombinsison d'un 6lectron de la population Po, hors d'bquilibre, avec
+un trou .
+Nous dBsignerons par q,a,, a:, a:, a; et aR les probabilitbs respectives de ces
+diffbrentes transitions, qui sont Bgales aux inverses des temps de transit ou de
+relaxation correspondant (voir Fig. 4).
+
+Distribution Blectronique anisotrope dans les semiconducteurs
+
+606
+
+A l’btat stationnaire, le principc du bilan dktaill8 s’appliquc B chaquc population e t conduit aux bquations
+
+-
+
+Po(E)a,
+
+Po(E’)a,
+
++ P,(E) (4+ 4, 0
++ a;, - P,(E)a; = 0
+
+- Pl(W
+
+a2
+
++ P,(E)
+
+(a2
+
+=I
+
++ 6 N ( E )U R - Pl(E)
+
+- P,(E) 2 a;
+
+3
+
+(5)
+
+7
+
+(6)
+
+=0.
+
+(7)
+
+6 N ( E ) est l’accroissement du nombre d’blectrons total par rapport ii 1’8quilibre
+thermodynamique pour lequel E = 0 e t
+PO(0)
+
++ Pl(0) + PZ(0) = N
+
+(8)
+
+( N nombre d’klectrons libres dans la bandc de conduction). On peut h i r e
+d’autre part
+Po(E) P,(E’)
+=N
+6N(E‘)
+(9)
+
++
+
++
+
++
+
+ce qui permet d’Bliminer 6 N ( E )dans (7)sous la forme
+PO(E)
+
+((dl
+
++ %) f
+
+P l ( E ) (all
+
+-
+
++
+
+P2(E)
+
+(aR
+
+-
+
+=
+
+aR
+
+*
+
+(lo)
+
+Une quatrihme Bquation faisant intervenir la population P , de la bande de
+valence, p u t &tredkduite des trois prkckdentes car l’ensemble formc un cycle
+fermb. La combinaison linkaire formbe en ajoutant membre B membre ( 5 ) , (6)
+e t (7) est
+- P2(E)a:
+6 N ( E )a R = 0.
+
++
+
+Elle exprime simplernent le principe du bilan d8taillt5, appliquk ti la bande de
+valence.
+La rbsolution du systhme ( 5 ) , (6) et (10) nous donne la valeur de chacune des
+populations des diffbrents niveaux :
+
+Pour E faible P, NN N , car le second tcrme du dknominateur de (14) est tr&s
+faible. Quand E croit, aR,a;, a: restcnt constants alors quc 4,a2,a; croisscnt, de
+sorte que ce tcrme croit, ce qui entrafne la croissance de P, avec E .
+30 physica
+
+R. GRANGER
+
+606
+
+4. Evaluation des differentes probabiliths
+4.1 Probabilit6s a; e t a ;
+
+Le calcul prBcis des probabilit6s a: e t a; imposerait de tenir compte de la rBpartition en Bnergie de chaque population. Cette complication serait disproportionnee avec la simplicit6 du modhle it trois populations. Dans la logique de ce
+dernier, nous utiliserons l’approximation consistant a attribuer aux Blectrons
+des populations P, et Pz les Bnergies moyennes E, e t E ~ .Ceci revient it remplacer
+la probabilitb vraie par une limite superieure qui en est peu diffkrente, dans la
+mesure oh dans chacune de ces populations, les Blectrons occupent surtout les
+niveaux d’Bnergie les plus bas.
+Nous Bcrirons alors pour a;
+1
+
+a, l e - 1- -t(&,)
+
+A
+
+&;
+
+’
+
+e t en utilisant la valeur de eo donnBe par (3)
+
+De m & a epour a:
+
+4.2 Probabilitb a,
+
+Nous avons supposB que les Blectrons ayant p~ 2 po se dhplapaient d a m la
+direction du champ Blectrique. La probabilitb de passage de P, it Pzest l’inverse
+du temps de transit At, nbcessaire pour faire croitre 1’Bnergie de E , it E~ sous I’effet
+du champ Clectrique (ce qui implique la m6me approximation qu’& l’alinba
+pr8cbdent).
+La vitesse du porteur en fonction du temps est
+21
+
+qE
+P”
+= mx t fm* ( t
+
+= 0,
+
+quand p B = po) ,
+
+a’oa
+4.3 Probabilite‘ a,
+
+Celle-ci traduit le passage des Blectrons de la partie isotrope de la distribution
+it la partie balistique. Le problhme est de calculer pendant un temps dkfini,
+que nous prendrons Bgal it z(E,), le nombre d’blectrons dont la projection pE du
+moment atteint la*valeur p,. Nous avons utilisB une mBthode simple consistarit
+B faire ce calcul rigoureusement dans le cas des champs faibles e t B extrapoler le
+resultat pour les valeurs Blevkes du champ.
+Dans le cas d’une distribution isotrope, 1es Blectrons qui auront au temps
+t ( e 0 ) ,p E 2 p , sont ceux pour lesquels, au temps 0, po - q E z 5 pE 5 po (cf.
+bande B de la Fig. 5 ) .
+La probabilith a, s’kcrit alors
+1
+nombre d’8lectrons tels que p,, - q E t 5 p z 5 p,,
+%=-X
+
+tk0)
+
+iiombre total d’blectrons tels que p~
+
+5 p,
+
+Distribution Blectronique anisotrope dans les semiconducteurs
+
+607
+
+Le nombre d'blectrons de p E 5 po est pratiquement Bgal, dans les champs faibles,
+a u nombre total d'blectrons N .
+Nous calculerons donc a, par la formule
+
+La fonction
+
+donne une bonne approximation de la distribution dans la bande de conduction,
+la valeur de k T Btant faible devant la largeur de bande interdite.
+Dans le cas des champs Qlectriquesfaibles, on a q E z ( E ~ ) po, ce qui permet
+d'Bcrire
+
+<
+
+I = E T ( E ~K) ,
+ou K est l'intbgrale double de f ( p ) sur le plan perpendiculaire A E en po.
+Grbce 8, la symBtrie autour de l'axe E dans l'expace des p , K s'bcrit, en prenant
+comme variable d'intkgration l'angle y (Fig. 6)
+
+Cette intbgrale est aisBment calculable :
+( p o - VL*.I/ E)'
+2 m* k T
+
+K=2m*kTexp
+De la m6me fapon,
+
+J = [exp
+
+[-
+
+( p - m* ,u E)2 d3p =
+2m*kT
+
+exp
+
+s'exprime, par le calcul usuel, sous la forme
+
+J
+
+= (2 7c m*
+
+k
+
+.
+
+T)3/2
+
+1
+
+(- ---)
+
+'
+
+P2
+
+2 m.* k
+
+T d3p
+
+608
+
+R . GRANGER
+
+En consBquence, la valeur de % est
+9E
+a1 = (2 m* k
+
+T)1/3exp
+
+[
+
+-2]):p
+:(0
+:2-
+
+.
+
+Soit, en exprimant la valeur de po d’aprks (4)
+
+4.4 Probabilitd a;
+
+Les Blectrons ayant atteint 1’Bnergiecorrespondant A la largeur de bande interdite sont capables d’induire une ionisation. La section efficace pour l’ionisation
+d’un Blectron de la bande de valence dBcroit rapidement (comme E - ~ )en fonction
+de 1’Bnergie de 1’6lectron incident. Mais on peut penser [12] qu’au voisinage de
+E,, cette valeur est comparable it celle correspondant au phenomhe de relaxation sur les phonons optiques. Ceci nous conduirait A admettre pour la probabilitb d’ionisation une valeur de l’ordre de 10l2s-l. Nous avons cependant
+utilisB a6 comme un paramhtre, qui recevra differentes valeurs arbitraires : lo8,
+1010 et 10l29-1, de faqon A estimer l’influence de la variation de la probabilite
+d’ionisation par choc sur le comportement de l’avalanche.
+4.5 Probabilitd aR
+
+Elle est l’inverse de la durBe de vie des porteurs hors de 1’Bquilibrethermodynamique. Nous en connaissons une estimation dans le cas de faibles injections,
+pour InSb et GaAs [13, 141. La variation de la durBe de vie en fonction de l’injection est cependant ma1 connue. Nous avons choisi pour a,des valeurs indBpendantes du taux d’injection par ionisation, Bgales it los, lo8 ou 1Olo s-l, afin d’Btudier la variation du seuil d’ionisation avec la d u d e de vie.
+4.6 Variations des probabfliith avec E
+
+Nous avons trace sur la Fig. 7 les courbes representant a,, a2,a:, a; en fonction
+du champ Blectrique pour InSb A 77 “K. La valeur calculbe de a, aux champs
+BlevBs ( E E,) a 6th tracBe en pointill6 et n’est pas exacte, car les hypothhses
+initiales du calcul sont en dbfaut. Mais en fait, l’ionisation par choc se produit,
+comme nous le verrons, pour des champs plus petits que E M .
+
+>
+
+Fig. 7
+
+Distribution 6lectronique anisotrope dam les semiconducteurs
+
+609
+
+5. Calcul des populations :Courbes courant-tension
+Les formules (1l), (12), (13)et (14),dans lesquelles les probabilitbs ont BtB remplackes par leur valeur calculke it la section 4, fournissent les populations Po,
+PI,P, e t leur somme P,. Les calculs numBriques ont Btk effectuBs pour les
+semiconducteurs et aux temperatures citBes dans le Tableau 2.
+
+Compose
+semiconducteur
+
+1
+
+Tableau 2
+InSb
+
+1
+
+Temperatures
+(OK)
+
+77
+20
+4
+
+InAs
+
+CdTe
+
+300
+77
+20
+4
+
+300
+77
+20
+
+Pour chaque temperature le3 valeurs donnBes L uR sont : los, lo8, 1O1O s-l e t
+celles donnhs A ul : lo8, 1010,lo1, s-l.
+I1 n’est pas tenu compte dans ce modde d’ionisation intrinshque, du gel des
+Blectrons sur certains niveaux d’impuretbs quand la temperature dBcroit.
+E n effet, l’ionisation par choc des Blectrons B partir de ces niveaux [15] intervient it des champs beaucoup plus faibles que l’ionisation intrinshque. Nous
+donnons en exemple (au Tableau 3) les valeurs des differentes populations en
+fonction du champ Blectrique. On voit apparaitre trBs nettement un seuil d’ionisation pour un champ de l’ordre de 110 V/cm. Les populations PIe t P, d’Blectrons balistiques restent peu nombreuses, m&meau seuil de l’ionisation. Nous
+pouvons donc comparer directement les courbes experimentales reprksentant
+la densite de courant en fonction du champ Blectrique, avec les courbes P s ( E )
+la contribution des Blectrons ,,balistiques“ au phknomhne de conduction Btant
+d’au moins deux ordres de grandeur plus petite que celle des Blectrons ,,isotropes“.
+Tableau 3
+InSb : 77 OK, U; = lo1*
+
+UR =
+
+10’
+
+s-~
+
+PI
+N
+
+97
+101
+105
+109
+113
+117
+
+1,0004
+1,0028
+1,0151
+1,0704
+1,3217
+4,4229
+
+i , i 7 x 10-7
+9,74 x 10-7
+6,12 x lo-*
+3,i7 x 10-5
+i,57 x 10-4
+1,79 x
+
+P
+S
+N
+4,17 x
+2,so x 10-7
+1,51 x
+7,04 x
+3,2i x 10-5
+3,42 x 10-4
+
+1,0004
+1,0028
+1,0152
+1.0704
+1,3219
+4,425
+
+Nous avons trace les courbes P,(E) pour InSb it 77 OK, 20 OK, 4 OK (Fig. 8 , 9
+e t lo), InAs a 77 OK (Fig. 11) e t CdTe A 300 OK (Fig. 12) pour les diffbrentes
+valeurs des probabilitks d’ionisation u3 e t de recombinaison uR.
+
+610
+
+R.GRANGER
+
+100
+E (Vcm-7
+
+--
+
+150
+
+Fig. 8
+
+,
+
+200
+
+150
+
+E lvmq
+
+--
+
+250
+
+Fig. 9
+
+!
+
+t
+10
+
+7
+
+300
+
+400
+E (Vcm-?
+Fig. 10
+
+m
+
+~
+
+-
+
+E (Vcm-lFig. 11
+
+61 1
+
+Distribution Blectronique anisotrope dans lea semiconducteurs
+
+6. Discussion et comparaison avec l’exphrience
+Comparons les rBsultats de la Fig. 8 avec les rBsu1tat.s expbrimentaux connus
+pour InSb it 77 OK. La valeur minimum du seuil d’ionisation dBduite des experiences de Glicksman et Steele [l] ou de Kanai [l] se situe au voisinage de
+150 V/cm. Bok [5] a cependant trouvB des valeurs nettement plus faibles. Lea
+croix marquees sur la Fig. 8 donnent la courbe d’ionisation - (densit6 de courant,
+champ Blectrique) que nous avons relevhe sur un Qchantillon de type n de concentration 5 x 10Ig cm-3. Les valeurs du seuil d’ionisation trouvBes par le calcul
+sont compatibles avec les valeurs mesurees sur des matBriaux purs. Nous voyons
+que la valeur de 10l2
+pour la probabilite d’ionisation uj est la plus convenable,
+ce qui confirme I’hypothAse de Baraff [12] donnant une valeur de section efficace
+d’ionisation du m6me ordre de grandeur que celle de la diffusion par les phonons.
+Les courbes montrent la dBpendance importante du seuil d’ionisation avec la
+probabilite de recombinaison, qui explique la dispersion des rBsultats pour des
+Bchantillons de m6me puretB maix dont le degrB de compensation e t la concentration des pikges peuvent 6tre diffbrents, ce qui se traduit par des probabilitks
+de recombinaisons variant de lo6 it lo9 s-l.
+Dans le cas d’6chantillons A plus forte concentration Blectronique, le modhle
+proposh pourrait encore 6tre utilise en tenant compte de la perte d’6nergie dans
+les collisions interBlectroniques. Celle-ci peut se mettre sous la forme [16]
+deldt N E-112, qui est une fonction dBcroissante de 1’Bnergie du m6me type que
+celle applicable aux collisions avec les phonons optiques.
+Le seuil d’ionisation A 4 e t 20 OK est supbrieur B celui correspondant S 77 OK.
+Ce rBsultat, constate experimentalement par Bok [5], est dii au fait que la mobilit6, dBcrivant les interactions du gaz d’electrons aux champs faibles, intervient
+dans l’expression de a, (cf. formule (18)). D’autres mBcanismes de relaxation
+(chocs sur les impuretbs ionisQespar exemple) limitent alors la mobilit6, cependant ces processus presque Blastiques
+correspondent B des pertes d’Bnergie
+relativement faibles pour les Blectrons
+de grande Bnergie qui nous interessent.
+I1 n’est donc pas dbraisonnable de choisir
+pour p, dans la formule (18), la valeur 5
+expbrimentale, et simultankment pour 4?
+A, la valeur thBorique issue de (2) en ne
+tenant compte que de la relaxation par
+phonons optiques. C’est ce que nous
+avons fait pour T = 4 ou 20 OK.
+I0
+Nous remarquons que la valeur de el,
+prise Bgale B celle de la largeur de bande
+dans nos calculs, intervient peu sur la
+forme des courbes et m6me sur la valeur
+du seuil d’ionisation. E n effet, un Blectron ,,balistique“ (d’energie > E ~ ) gagne
+rapidement de 1’Bnergie dans le champ
+Blectrique. La courbe reprksentant u2(E)
+N
+
+I
+
+4000
+Flg. 12
+
+5000
+
+6000
+E (Vcm-7
+
+-
+
+MOO
+
+612
+
+R . GRANGER:Distribution Blectronique anisotrope
+
+est peu deformhe si on change E , ; si l’on double E,, son minimum a une valeur
+deux fois plus faible, ce qui donne une variation relative de l’ordre de 5% sur la
+valeur de P, au voisinage de l’avalanche.
+Dans le cas de composes semiconducteurs comportant une bande d’Blectrons
+lourds dont le minimum est it E~ au-dessus du minimum de la bande d’hlectrons
+legers ( E ~ E ~ ) , le remplissage de cette bande d’blectrons lourds se realisera
+avant le phbnomene d’ionisation intrinseque : les Blectrons ayant alors une masse
+effective plus grande sont plus difficilement accBlBrBs e t l’ionisation par choc
+debutera pour des champs Blectriques bien supkrieurs.
+I1 serait intbressant de modifier le modele proposB pour Bvaluer la population
+des electrons lourds. Pour ce calcul, ui doit 6tre pris Qgal it zBro. u; traduit le
+phhnomhne de relaxation entre les deux bandes Blectroniques, qui est ma1 connu ;
+mais on peut penser que a; e t a ; sont du m6me ordre de grandeur. E~ sera remplacB par E~ e t P, designera alors la population des Blectrons lourds, dont le seuil de
+croissance rapide correspondra au champ Blectrique E , au-del8 duquel apparait
+l’effet Gunn [17].
+
+<
+
+Remerciements
+
+Nous remercions M. Rodot pour ses encouragements et ses fructueuses suggestions, pour la lecture et la correction de ce texte.
+
+Bibliographie
+[l] R. BRAY,Bull. Amer. Phys. SOC.80, 35 (1955).
+M. GLICESMANet M. C. STEELE,Phys. Rev. 110, 1204 (1958):118, 474 (1960).
+Y. KANA?,J. Phys. SOC.Japan la, 1065 (1958);14, 1302 (1959).
+[2] P. A. WOLFF,Phys. Rev. 96, 1415 (1954).
+[3] R.STRATTON,
+Proc. Roy. SOC.242, 355 (1957).
+141 V. A. CHUENKOV,Fiz. tverd. Tela 2, 799 (1960).
+[5] J. BOR,Ann. RadioBlectr. 60, 120 (1960).
+[6] H. FROHLICH et B. V. PARANJAPE,Proc. Phys. SOC.B69, 21 (1956).
+[7] H.TODAet M. GLICKSMAN.Phys. Rev. 140, 1317 (1965).
+[8] C. HILSUM,Proc. IRE 60, 185 (1962).
+Phys. Rev. 76, 1394 (1949).
+[9] H.B. CALLEN,
+[lo] C. HILSUM,Proc. Phys. SOC.76, 414 (1960);Comm. Conf. Internat. Phys. Semicond.,
+Paris 1964 (p. 1127).
+[ll] B. SECALL,
+M. R. LORENZ
+et R. E. HALSTEAD,
+Phys. Rev. 129, 2471 (1963).
+[12] G. A. BARAFF,Phys. Rev. 128, 6 (1962).
+[13] R. N.ZITTER,
+A. J. STRAUSS
+et A. E. ATTARD,
+Phys. Rev. 116, 266 (1959).
+[14] T.KTNSEL
+et I. KUDMAN,
+Solid State Electronics 8, 797 (1965).
+[15] A. ZYLBERSTEIN,J. Electronics and Control 10, 429 (1961).
+[l6] D.PINES
+et D. BOHM,Phys. Rev. 86,338 (1952).
+[17] J. GUNN,Solid State Comm. 1, 88 (1963).
+(Received M a y 18,1966)
+

@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Les conditions de possibilité de la théologie comme science</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Les conditions de possibilité de la théologie comme science</title><author xml:id="author-0000"><persName><forename type="first">David</forename><surname>Piché</surname></persName><affiliation>Université de Montréal</affiliation></author><idno type="istex">0DF34BA5DB63415BB9D13ECD9B9357F6286304EB</idno><idno type="ark">ark:/67375/6GQ-DBL5Q59D-C</idno><idno type="DOI">10.1017/S0012217310000570</idno><idno type="PII">S0012217310000570</idno><idno type="article-id">00057</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-09"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="331">331</biblScope><biblScope unit="page" to="364">364</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Les théologiens des xiiie et xive siècles ont ardemment débattu à propos de la scientificité de la théologie. J’expose ici la position d’Hervaeus Natalis, un penseur fort singulier du premier quart du xive siècle. Selon Hervé, la notion centrale pour résoudre la question en présence est celle d’abstraction. Cet article offre une analyse historique et philosophique de sa position qui s’appuie sur une traduction française inédite d’une portion significative d’un Quodlibet d’Hervé que j’ai réalisée à partir de ma propre édition de l’original latin.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT : The scientific character of theology was hotly debated among theologians of the 13th and 14th century. In what follows I expound the singular views of Hervaeus Natalis, a thinker who lived in the first quarter of the 14th century. According to him, the solution to this problem lies in the notion of abstraction. I offer a historical and philosophical analysis of his position based on the first French translation of a significative portion of one of his Quodlibets. I made the translation from my own edition of its Latin text.</p></abstract></profileDesc><revisionDesc><change when="2010-09">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+Les conditions de possibilité de la
+théologie comme science
+
+DAVID PICHÉ
+
+Université de Montréal
+
+RÉSUMÉ : Les théologiens des XIII e et XIV e siècles ont ardemment débattu à propos de
+la scientiﬁcité de la théologie. J’expose ici la position d’Hervaeus Natalis, un penseur
+fort singulier du premier quart du XIV e siècle. Selon Hervé, la notion centrale pour
+résoudre la question en présence est celle d’abstraction. Cet article offre une analyse
+historique et philosophique de sa position qui s’appuie sur une traduction française
+inédite d’une portion signiﬁcative d’un Quodlibet d’Hervé que j’ai réalisée à partir
+de ma propre édition de l’original latin.
+ABSTRACT : The scientiﬁc character of theology was hotly debated among theologians
+of the 13th and 14th century. In what follows I expound the singular views of Hervaeus
+Natalis, a thinker who lived in the ﬁrst quarter of the 14th century. According to him, the
+solution to this problem lies in the notion of abstraction. I offer a historical and philosophical analysis of his position based on the ﬁrst French translation of a signiﬁcative portion
+of one of his Quodlibets. I made the translation from my own edition of its Latin text.
+
+Les théologiens latins des XIIIe et XIVe siècles ont intensément débattu la
+question du caractère scientiﬁque de la théologie : en quel sens ou à quelles
+Dialogue 49 (2010), 331–364.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000570
+
+332
+
+Dialogue
+
+conditions épistémologiques la théologie mérite-t-elle le statut de science?
+Quand Jean Duns Scot (c. 1265-1308) intervient dans le débat, trois positions
+prévalent et se partagent les allégeances des theologiens scolastique1. La première soutient que la théologie n’est une science qu’à condition de se conformer
+au paradigme du syllogisme démonstratif tel que développé par Aristote dans
+les Seconds analytiques. La théologie est une science, afﬁrme notamment
+Thomas d’Aquin (1224/25–1274), dans la mesure où elle déduit rigoureusement ses conclusions à partir de prémisses nécessairement vraies et immédiatement connues. Le fait que les principes premiers des démonstrations théologiques
+soient les articles de la foi catholique ne compromet pas la scientiﬁcité de la
+théologie, croit Thomas, pourvu que l’on recoure au concept de subalternatio.
+Tout comme le spécialiste de la science optique admet sans discussion à titre de
+prémisses initiales de sa discipline des conclusions qui ont été formellement
+démontrées par le spécialiste de géométrie, ainsi le théologien prend comme
+point de départ apodictique de sa discipline des vérités qui, bien qu’elles ne soient pas évidentes pour lui, le sont cependant pour Dieu et les bienheureux qui
+les connaissent. Ainsi, les articles de foi, principes premiers de la science
+théologique de l’homme ici-bas, reçoivent leur statut de prémisses scientiﬁques
+par le fait d’être «subalternés» à la science divine, c’est-à-dire à la connaissance
+suréminente que Dieu en possède et qu’il communique aux bienheureux2.
+À ce modèle épistémologique, on pourra objecter que la subalternation ne
+peut réussir à transmettre la scientiﬁcité d’une discipline à une autre que si elle
+opère à l’intérieur d’un seul et même sujet épistémique : c’est bien le cas, par
+exemple, pour le rapport de l’optique à la géométrie — les deux disciplines
+peuvent être acquises par un seul et même homme —, mais ce ne saurait être
+le cas pour le rapport de notre théologie à celle de Dieu, puisque, dans ce cas,
+les deux sujets épistémiques sont radicalement distincts, non seulement en
+nombre, mais aussi quant à leur pouvoir de connaître respectif.
+Une position alternative au modèle thomasien consiste à afﬁrmer que la scientiﬁcité de la théologie repose sur l’application de raisonnements, de déﬁnitions et d’analyses aux articles de foi eux-mêmes qui, par ces opérations
+discursives, reçoivent une clarté ou une évidence qu’ils ne détiennent pas de
+soi : c’est la position controversée d’Henri de Gand (c. 1220–1293), qui essuiera le feu de nombreuses critiques. Selon ce maître séculier, l’intellect des
+théologiens peut s’élever au-dessus du «clair-obscur» de la foi dans la mesure
+où il reçoit une illumination spéciale de la part de Dieu : c’est le lumen medium
+ou supernaturale, qui se situe entre le lumen ﬁdei dont dispose le simple croyant et le lumen gloriae de la vision béatiﬁque. La discipline théologique se voit
+ainsi garantir un statut scientiﬁque qui la place au-dessus de la simple connaissance de foi3.
+Nombreux sont les théologiens scolastiques qui refuseront le paradigme démonstratif, que ce soit sous sa version thomasienne ou sa version henricienne.
+Ils embrasseront une autre conception de la théologie, que l’on pourrait qualiﬁer de modèle explicatif4. Dans cette optique, la théologie est une discipline
+
+La théologie comme science 333
+
+rigoureuse qui s’élève au-dessus de la simple foi pour cette raison que le travail
+discursif du théologien permet de clariﬁer le sens des termes qui composent les
+articles de foi, d’illustrer ceux-ci à l’aide d’analogies et de les soutenir à l’aide
+d’arguments (pas forcément apodictiques) contre de possibles objections. La
+théologie n’est pas une science au sens strict (aristotélicien) du terme; elle
+n’est pas de nature démonstrative pas plus qu’elle n’est caractérisée par
+l’évidence : elle n’en est pas moins un savoir efﬁcace qui permet à l’intelligence
+humaine de dépasser le ﬁdéisme.
+À partir de Duns Scot, un changement de paradigme épistémologique se
+produit5. Le problème du caractère scientiﬁque de la théologie se pose désormais dans les termes de la distinction entre connaissances intuitive et abstractive. Si la connaissance intuitive, communément déﬁnie depuis Scot comme la
+saisie cognitive d’une chose présente en son existence, ne peut avoir pour objet, lorsqu’il s’agit de la condition naturelle de l’humain sur terre, l’essence
+divine en tant que telle, une connaissance abstractive de cette dernière est néanmoins possible, dans la mesure où il s’agit d’une appréhension cognitive de
+l’essence d’une chose qui fait abstraction de son existence. Selon Duns Scot et
+ceux qui s’inscriront dans son sillage, une telle connaissance abstractive est la
+condition de possibilité de la science théologique : celle-ci est possible à condition que l’humain ici-bas puisse connaître abstractivement l’essence divine,
+à défaut de la connaître intuitivement. En outre, la distinction entre connaissances intuitive et abstractive s’articule sur la notion capitale d’évidence : alors
+que la connaissance intuitive permet l’évidence de jugements portant sur des
+vérités contingentes, la connaissance abstractive, quant à elle, ne permet
+l’évidence que pour des vérités nécessaires. L’évidence devenant le critère central de la scientiﬁcité d’un discours, plusieurs penseurs, notamment Ockham
+(c. 1285–1347), soutiennent que nous pouvons ici-bas acquérir une science des
+vérités théologiques nécessaires (par exemple : «Dieu est un et trine»), mais
+qu’il nous est impossible pour l’heure d’accéder à une science des vérités
+théologiques contingentes (par exemple : «le Verbe s’est fait chair»)6. Dans les
+débats universitaires qui naissent à partir de Duns Scot, la question n’est plus
+seulement de savoir si le théologien peut démontrer les vérités de foi ou construire un savoir démonstratif à partir d’elles, mais aussi (et peut-être surtout)
+s’il est possible pour l’intellect humain, dans sa condition présente, d’avoir une
+connaissance qui appréhende distinctement (ou expressément) l’essence divine en tant que telle. C’est la question que soulève Hervé de Nédellec (c.
+1250/60–1323) dans son Quodlibet II, 5, dont je fournis plus loin l’extrait crucial7. Ainsi, le Doctor rarus inscrit résolument sa réﬂexion dans le cadre épistémologique que Duns Scot avait mis en place quelques années auparavant8.
+1. Les lignes de force de l’extrait traduit
+Dans l’extrait dont le lecteur trouvera ci-dessous la toute première traduction
+française, Hervé offre une réponse à notre question en quatre temps : après
+l’avoir scindée en deux questions distinctes,
+
+334
+
+Dialogue
+
+&lt;I&gt; il clariﬁe le sens de la première;
+&lt;II&gt; il expose ensuite, à l’endroit de celle-ci, une opinion qu’il juge être
+fausse, assortie de trois arguments en sa faveur, qu’il réfute;
+&lt;III&gt; il livre enﬁn sa propre pensée au regard de cette première question;
+&lt;IV&gt; puis répond brièvement à la seconde question.
+Dans la présente section, je me limiterai à dégager les principaux éléments de
+la réponse d’Hervé, réservant aux notes qui accompagnent ma traduction
+l’explication plus précise des thèses et concepts clefs que contient le corpus du
+Quodlibet II, 5.
+&lt;I&gt; La première question qu’Hervé pose consiste à se demander s’il est possible pour l’humain d’avoir une connaissance abstractive de l’essence divine sans
+avoir de connaissance intuitive de l’être divin. Hervé formule son interrogation
+en suivant la doctrine de «ceux qui posent une double connaissance de la chose»,
+à savoir l’abstractive et l’intuitive : s’il est aisé de reconnaître ici une doctrine qui
+s’inscrit dans le sillage de la pensée scotiste, il est plus difﬁcile de savoir si Hervé
+lui-même souscrit à une telle doctrine, puisqu’il ne l’afﬁrme pas explicitement, se
+contentant d’user de formules à la troisième personne du pluriel («ils appellent
+connaissance intuitive […] ils appellent connaissance abstractive»). Quoi qu’il
+en soit de l’engagement personnel d’Hervé sur ce point9, il est manifeste qu’il
+assume pleinement le jeu conceptuel qu’ouvre une telle distinction entre abstraction et intuition, puisqu’il s’en sert pour clariﬁer le sens de la question à débattre.
+Ainsi, étant admis que la connaissance abstractive est celle qui appréhende
+l’essence d’une chose sans aucune considération à l’égard de son existence et que
+la connaissance intuitive, au contraire, est celle qui appréhende l’existence en
+acte d’une chose, Hervé se demande, en déﬁnitive, s’il est possible pour l’humain
+d’avoir une connaissance ayant pour objet l’essence divine telle qu’elle est en
+elle-même, abstraction faite de son existence, de sorte que, sans savoir si Dieu
+existe ou non en réalité, l’humain puisse néanmoins connaître ce qu’est Dieu en
+son essence — à savoir une trinité de personnes dans l’unité d’une essence.
+&lt;II&gt; Hervé pense qu’est fausse l’opinion voulant qu’une telle connaissance
+abstractive de l’essence divine soit possible. Au moment où notre maître
+dominicain soutient son Quodlibet II, 5, cette opinion avait été défendue par
+Duns Scot et, vraisemblablement, par certains de ses disciples; ultérieurement,
+elle sera endossée aussi par Ockham10. Hervé relaie puis réfute trois arguments
+que proposent pour la justiﬁer les tenants de cette opinion. Cette dialectique
+nous offre d’intéressants développements concernant, d’une part, la différence
+entre causalité naturelle et causalité volontaire et, d’autre part, la distinction
+conceptuelle (ratione) entre l’essence et l’existence, ainsi qu’une discussion
+portant sur le type de connaissance du Divin dont l’apôtre Paul a pu bénéﬁcier
+à la faveur du rapt qui l’a élevé au troisième ciel.
+&lt;III&gt; Hervé croit être vraie la position selon laquelle il est impossible pour
+l’humain d’avoir une connaissance abstractive de l’essence divine telle que
+la posent ses adversaires. Durand de St-Pourçain (c. 1275–1334) et Gérard de
+
+La théologie comme science 335
+
+Bologne (c. 1240/50–1317) comptent parmi les contemporains d’Hervé qui
+adoptent cette même position11. Pour l’établir, Hervé procède à deux distinctions
+absolument capitales. La première concerne la connaissance de l’essence divine.
+Le Doctor rarus afﬁrme qu’elle se décline en deux types : elle peut être
+1) soit générale;
+2) soit spéciﬁque.
+Elle est générale lorsqu’elle saisit Dieu confusément à travers des concepts que
+nous tirons naturellement du monde créé, par exemple les concepts d’intellect
+et de substance. Elle est spéciﬁque lorsqu’elle saisit l’essence de Dieu telle
+qu’elle est en soi, à savoir en tant qu’elle est une seule essence en trois
+personnes — ce qui revient à connaître l’essence divine de manière expresse.
+Une telle connaissance peut être atteinte de deux façons, à savoir
+2.1) soit par un acte de foi ayant pour objet l’énoncé trinitaire;
+2.2) soit par un acte de connaître dont le terme immédiat est l’essence divine telle qu’elle est en soi, c’est-à-dire l’unité essentielle d’une trinité
+personnelle : un tel acte de connaître est pourvu d’un caractère manifeste dont est privé l’acte de foi.
+La seconde distinction qu’introduit Hervé concerne le mode selon lequel la
+présence d’un objet en son existence se rapporte à l’intellect, dans le cas bien
+précis où ce dernier est tel qu’il peut être conduit à l’intellection par son objet
+(c’est le cas de l’intellect humain, dont l’acte peut être causé par l’objet). Selon
+Hervé, l’objet présent en son existence peut se rapporter à l’intellect
+A) sous le mode de ce qui meut à l’acte de connaître;
+B) ou encore sous le mode du terme de l’acte de connaître, autrement dit
+sous le mode de ce qui achève et que saisit l’acte de connaître.
+Hervé tisse ainsi une grille de lecture composée de cinq éléments qu’il va combiner dans le but d’étayer sa position. Je reproduis ci-dessous, sous forme de
+tableau, les résultats auxquels Hervé parvient en opérant sa combinatoire. À la
+question : la présence de Dieu en son existence est-elle requise pour que
+l’homme puisse avoir une connaissance abstractive de son essence? Autrement
+dit, est-il possible pour l’homme d’avoir une connaissance abstractive de
+l’essence divine sans en avoir une connaissance intuitive (sans savoir si une
+telle essence existe ou non)? Hervé répond :
+Hervé ne discute pas les options 1-A et 2.1-A, et pour cause : il va de soi que
+dans les cas de la connaissance naturelle qui prend appui sur les choses créées
+et de la connaissance de foi qui repose sur le témoignage d’autrui, Dieu luimême n’est pas cause motrice de l’acte cognitif. Ces deux types de connaissance (1 et 2.1) sont à la portée du pouvoir de l’homme, puisqu’ils peuvent se
+
+336
+
+Dialogue
+
+modalité de l’objet
+type de connaissance
+
+A
+
+B
+
+1
+
+ø
+
+présence non requise/
+possible
+
+2.1
+
+ø
+
+présence non requise/
+possible
+
+2.2
+
+présence requise/
+impossible
+
+présence requise/
+impossible
+
+réaliser sans que Dieu lui-même ﬁgure comme terme immédiat de l’acte de
+connaître (modalité B) : il sufﬁt que Dieu soit reﬂété (1) dans ses créatures
+ou (2.1) dans une image que forme dans son imagination ou son intellect la
+personne qui croit ce qu’on lui enseigne à propos de Dieu. Comme nous le
+verrons ci-après dans le texte même du Quodlibet II, 5, la possibilité d’opérer
+ces deux sortes de connaissance est fonction de la possibilité de former une
+déﬁnition nominale de Dieu, étant donné que celle-ci n’implique pas de savoir que l’objet déﬁni existe. Par ailleurs, une connaissance abstractive au
+sens 2.2 ne peut se réaliser en l’homme qu’à deux conditions : primo, Dieu
+lui-même doit être présent en acte pour la causer (modalité A), puisque rien
+ne cause que s’il est en acte et rien d’autre que Dieu ne peut causer ce type
+de connaissance; secundo, l’essence divine elle-même doit ﬁgurer comme
+terme immédiat de l’acte cognitif (modalité B), puisqu’aucune entité créée
+ne peut tenir lieu de médiation objective à travers laquelle l’essence divine
+serait représentée expressément telle qu’elle est en elle-même. Autrement
+dit, rien de créé ne peut offrir une représentation de la trinité divine qui la
+ferait connaître en soi de manière explicite. Sous une modalité ou l’autre (à
+savoir A ou B), l’essence divine n’est pas connue abstractivement (au sens
+2.2) sans être également connue intuitivement (c’est-à-dire en tant qu’elle
+existe) 12.
+&lt;IV&gt; La seconde question que soulève Hervé consiste à se demander si une
+connaissance abstractive du type de celle dont ses adversaires afﬁrment la possibilité est compatible avec la condition de l’homme ici-bas. Hervé répond par
+la négative et le raisonnement par lequel il soutient sa réponse est simple : la
+connaissance la plus parfaite que nous puissions avoir d’une chose est celle qui
+saisit son essence de manière explicite; or, dans le cas de Dieu, il nous est impossible de le connaître en cette vie de la manière la plus parfaite qui soit,
+puisqu’une telle connaissance implique la béatitude, qui est incompatible avec
+notre condition terrestre : donc la connaissance expresse de l’essence divine
+n’est pas compatible avec l’état qui est le nôtre en cette vie.
+
+La théologie comme science 337
+
+2. Établissement du texte : remarques philologiques
+Le répertoire de T. Kaeppeli fait état de 26 manuscrits dans lesquels est contenu
+le Quodlibet II, 5 d’Hervé de Nédellec13. Il ne m’a pas été possible d’examiner
+une telle quantité de dépositions manuscrites. Cependant, aﬁn de boniﬁer, voire
+de corriger, l’édition que tous les médiévistes utilisent — celle que ﬁt paraître
+M. A. Zimara à Venise en 151314 —, laquelle comporte son lot de fautes et de lacunes, j’ai collationné, pour le texte dont je donne la traduction ci-dessous, les neuf
+(9) témoins manuscrits les plus anciens (tous du XIV e siècle), dont voici la liste15 :
+A
+B
+K
+L
+M
+P
+S
+V
+W
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Avignon, Bibliothèque Municipale 285, ff. 33rb–34ra.
+Berlin, Staatsbibl., Lat. fol. 428, ff. 131va–132rb.
+Kraków, Bibl. Jagiell. 734, ff. 41va–42va.
+Leipzig, Univ. Bibl. 530, ff. 44rb–45rb.
+Madrid, Bibl. Nac. 226, ff. 62vb–63vb.
+Paris, BnF, lat. 14572, ff. 61ra–62rb.
+Salamanca, Bibl. Univ. 1937, ff. 47va–48vb.
+Vaticano, vat. lat. 861, ff. 76rb–78rb.
+Wien, Nat. Bibl. 1382, ff. 40vb–41vb.
+
+Ainsi, j’ai réalisé ma traduction à partir d’un texte latin qui est, j’ose l’espérer,
+plus ﬁable que celui édité jadis par M. A. Zimara. Outre quelques leçons carrément fautives, ce dernier est affecté de plusieurs omissions, dont certaines par
+homéotéleute, comme le lecteur pourra d’ailleurs le constater en consultant les
+notes de variantes que j’ai jointes à ma traduction. Il s’agit d’une notation sélective, qui ne consigne que les variantes les plus signiﬁcatives, spécialement
+celles du manuscrit de Paris (P), car celui-ci, retouché en seconde main, s’est
+avéré présenter un texte de très haute tenue — par exemple, presque toutes les
+omissions de première main sont comblées par une seconde main qui place les
+leçons manquantes dans la marge.
+Quelques remarques, pour terminer, sur le texte traduit. J’ai réalisé la division en paragraphes et la ponctuation : ce faisant, j’ai tenté de mettre en relief
+l’armature et les articulations logiques du Quodlibet II, 5. Tout ce qui se
+trouve entre crochets obliques (&lt; &gt;) constitue un ajout de ma part qui m’a
+semblé nécessaire aux ﬁns de la lisibilité ou de l’intelligibilité de la traduction; dans la plupart des cas, il s’agissait tout simplement de rendre explicite
+ce que le latin donne de manière elliptique. Enﬁn, j’ai placé entre parenthèses
+les termes ou syntagmes latins qui, par leur caractère technique, me semblaient dignes de mention ou qui m’apparaissaient offrir une possibilité de
+traduction alternative16. Les notes de l’apparat critique sont indiquées entre
+astérisques16.
+3. &lt;Hervé de Nédellec : Quodlibet II, 5 (extraits)&gt;
+§1 […] Est-ce que quelqu’un pourrait avoir une connaissance expresse de la
+quiddité de Dieu17 en demeurant dans l’état de la vie présente (status uie)18? […]
+
+338
+
+Dialogue
+
+§2 Je réponds : en vue d’élucider cette question, deux &lt;points&gt; principalement doivent être traités. Le premier consiste à voir si l’on peut avoir une
+connaissance abstractive de la quiddité divine, telle que la posent certains
+&lt;maîtres&gt;19, sans &lt;connaissance&gt; intuitivei. Le second consiste à voir si, étant
+admise une telle connaissance, celui qui la possède se trouve hors de l’état de
+la vie présente.
+§3 Relativement au premier &lt;article&gt;, premièrement j’établirai son sens (intellectus); deuxièmement je présenterai une opinion que je ne crois pas être
+vraie, avec ses raisons (motiua); troisièmement je présenterai une opinion que
+je crois être vraie.
+§4 &lt;I&gt; Concernant le premier &lt;point&gt;, il faut savoir que ceux qui posent une
+double connaissance de la chose, à savoir intuitive et abstractive20, appellent
+«connaissance intuitive» la connaissance qui a pour terme21 l’existence actuelle22 de la chose : par exemple, lorsque je vois le soleil se mouvoir23, j’ai une
+connaissance intuitive de son mouvement24; pareillement, lorsque je vois la
+rose exister25, j’ai une connaissance intuitive de la roseii.
+§5 En outre, ils appellent «connaissance abstractive» le fait de connaître ce
+qu’est la chose et de quelle nature elle est, qu’elle existe ou non dans la réalité
+naturelle26 : par exemple, lorsque quelqu’un considère ce qu’est la rose sans
+considérer si elle existe ou non dans la réalité naturelle27. C’est pourquoi,
+comme je le crois, ils appellent «abstractive» une telle connaissance, parce
+que, semble-t-il, elle abstrait de l’être et du non-être de la chose, car, comme
+on l’a dit, par une telle connaissance, on considère ce qu’est la chose sans considérer si elle existe ou noniii.
+§6 Le sens de la question est donc de se demander si quelqu’un peut avoir
+une connaissance expresse de la quiddité divine — à savoir ce qu’est une telle
+
+i
+
+ii
+
+iii
+
+Au lieu de la leçon «sans &lt;connaissance&gt; intuitive», le manuscrit B (en première
+main) et l’édition Z présentent la variante «dans la vie présente». La leçon de la majorité des témoins correspond bien à ce qui est en cause dans la question traitée.
+Le manuscrit P omet la leçon «pareillement, lorsque je vois la rose exister, j’ai
+une connaissance intuitive de la rose».
+L’édition Z omet, selon ce qui apparaît comme une omission par homéotéleute, le
+passage qui va de «C’est pourquoi…» jusqu’à «…si elle existe ou non». Peut-être
+que la présence du syntagme «je crois» et quelques redondances que ce passage
+comporte ont fait croire à l’éditeur Z qu’il s’agissait d’une interpolation de la part
+d’un membre de la tradition manuscrite, plutôt que d’une leçon archétypale. Cette
+hypothèse semble toutefois difﬁcile à maintenir, car si elle s’avérait, il serait légitime de s’attendre à ce qu’au moins un des manuscrits (les plus anciens de la tradition, rappelons-le) que j’ai collationnés ne présentât pas cette leçon : or tous la
+fournissent.
+
+La théologie comme science 339
+
+essence avec une telle trinité de personnes — sans considérer si elle existe ou
+non, de sorte que sa connaissance ait pour terme la quiddité divine sous la raison28 selon laquelle &lt;elle est&gt; quidditéiv et non pas l’existence de celle-ci, de
+sorte qu’il connaisse la quiddité mais ne sache pas qu’elle existe29.
+§7 &lt;II&gt; Concernant le deuxième &lt;point&gt;, il faut savoir que certains &lt;maîtres&gt;
+afﬁrment qu’on peut avoir une telle connaissancev de la quiddité divine30. Ils le
+prouvent au moyen de trois arguments31.
+§8 &lt;1&gt; Le premier est le suivant : tout ce que Dieu peut faire dans l’intellect
+sous la raison de l’objet qui meut naturellement32 et qui est présent en son être,
+il peut le faire par volonté sans se présenter comme objet à l’intellect selon une
+telle présence d’être. Or Dieu, sous la raison de l’objet qui meut naturellement
+et qui est présent en son être, peut causer dans l’intellect une connaissance
+(notitia) expresse de sa quiddité33. Donc, par volonté, il peut causer une telle
+connaissance de sa quiddité sans se présenter comme objet à l’intellect sous la
+raison de ce qui est présent en sonvi être : par conséquent, on peut avoir une
+telle connaissance abstractive de Dieu34.
+§9 &lt;2&gt; Le deuxième argument est le suivant : tous &lt;les items&gt; qui diffèrent
+en raison35 peuvent être intelligés l’un sans l’autre. Or en Dieu la quiddité et
+l’être diffèrent, du moins en raison. Donc la quiddité de Dieu peut être intelligée sans l’être. Mais on appelle «connaissance abstractive» la connaissance
+par laquelle une quiddité est connue sans la connaissance de l’être lui-même.
+Donc etc.36
+§10 &lt;3&gt; Le troisième argument est le suivant : Paul, après son rapt37, à ce
+qu’il semble, a eu une connaissance (notitia) de la quiddité divine, car il ne
+semble pas que ce qu’il a vu en état de rapt ait été livré aussitôt à l’oubli38. Or
+cette connaissance que Paul a eue après son rapt ne fut pas une vision ou une
+
+iv
+
+v
+
+vi
+
+La leçon «sous la raison selon laquelle &lt;elle est&gt; quiddité» est donnée de manière
+plus succincte dans l’édition Z : «sous la raison de quiddité».
+J’ai retenu la leçon du manuscrit P, «qu’on peut avoir une telle connaissance»
+(talem cognitionem posse haberi), de préférence à celle que tous les autres témoins et l’édition Z présentent, à savoir «qu’on a une telle connaissance possible»
+(talem cognitionem possibilem haberi), parce que cette dernière me semble rendre moins correctement le sens de la thèse rapportée ici par Hervé.
+Le possessif «son» n’est présent que dans les manuscrits V et W : tous les autres
+témoins et l’édition Z l’omettent et par conséquent donnent «dans l’être» (in
+esse), plutôt que «en son être» (in suo esse). Cette dernière formulation me paraissait préférable pour une raison de symétrie avec ce qui est posé dans la seconde
+prémisse du raisonnement dont on obtient maintenant la conclusion : comme le
+lecteur peut le constater, on y trouve effectivement «en son être» et non pas «dans
+l’être».
+
+340
+
+Dialogue
+
+connaissance intuitive de l’essence divinevii. Donc on peut avoir une connaissance abstractive de la quiddité divine sans connaissance intuitive39.
+§11 Je ne crois pas que cette opinion soit vraie et, parce que la preuve de
+l’opinion opposée équivaut à la réfutation de cette &lt;opinion jugée fausse&gt;, je
+n’argumente pas contre la position mais contre les arguments.
+§12 &lt;1*&gt; Premièrement contre le premier, qui a trois défauts. Le premier est
+qu’il suppose quelque chose de faux. Le deuxième est que, si cette fausseté qui
+est supposée était vraie, la proposition majeure serait quand même fausse40. Le
+troisième défaut est que &lt;l’argument&gt; ne conclut pas davantage pour
+l’abstractive que pour l’intuitive.
+§13 Le premier &lt;point&gt; est manifeste, car la proposition majeure suppose
+que Dieu imprime une vision sur l’intellect bienheureuxviii à la manière de ce
+qui meut naturellement ou à la manière de ce qui agit par nécessité naturelle.
+En effet, rien de ce qui agit par libre arbitre n’agit naturellement ou à la manière
+d’un agent naturel. Or tout ce que Dieu fait dans la créature, il le fait (agit) par
+libre arbitre. Donc etc.
+§14 Le deuxième &lt;point&gt; est manifeste, car toutes les fois qu’une chose
+convient naturellement à un &lt;être&gt; qui a la volonté, cette &lt;chose&gt; n’est pas
+soumise à la volonté de celui à qui elle convient naturellement. De là vient que,
+parce qu’être capable de rire convient naturellement à l’hommeix, que celuici soit capable ou non de rire n’est pas soumis à sa volonté. Or, d’après toi41, le
+fait de mouvoir à la connaissance intuitive sous la raison de l’objet qui meut
+naturellement convient à Dieu naturellement, comme cela est supposé dans la
+majeure. Donc si cette supposition était vraie, la majeure serait fausse, à savoir
+que tout ce que Dieu peut sous la raison de l’objet qui meut naturellement, il le
+peut par volonté, etc. : en effet, s’il lui convenait naturellement qu’il fît ou non
+telle &lt;ou telle chose&gt;, cela ne serait pas soumis à sa volonté, tout comme il
+n’est pas soumis à la volonté du Père qu’il engendre le Fils ou qu’il soit Dieu42.
+§15 Le troisième &lt;point&gt; est manifeste, à savoir que cet argument ne conclut pas davantage pour la connaissance abstractive que pour l’intuitive. En
+
+vii
+viii
+
+ix
+
+Le manuscrit P précise «donc &lt;ce fut&gt; une abstractive».
+L’épithète «bienheureux» (beatus) est fournie par la majorité des manuscrits et
+l’édition Z : elle me semble conforme à l’idée exposée ici d’une vision de Dieu
+produite par Dieu lui-même. Toutefois, le reste de la tradition manuscrite est divisé sur ce lieu textuel. En effet, l’intellect dont il est ici question est qualiﬁé de
+«humain» par le témoin B, de «humain bienheureux» par le témoin K et de «créé»
+par le témoin M, tandis que le manuscrit L parle de «notre intellect» et que le témoin A n’attribue aucune qualiﬁcation à l’intellect.
+Le manuscrit P précise «qui a la volonté».
+
+La théologie comme science 341
+
+effet, si tout ce que Dieu peut sous la raison de l’objet qui meut naturellement
+et qui est présent, il le peut par volonté, etc., puisqu’il peut produire une connaissance intuitive sous la raison de l’objet qui meut et qui est présent, il
+s’ensuit qu’il peut produire par volonté une connaissance intuitive sans la
+présence de l’objet existant. Ainsi &lt;l’argument&gt; conclut autant pour la connaissance intuitive que pour l’abstractive.
+§16 En outre43, il est reconnu qu’il est impossible44 qu’il y ait connaissance
+intuitive sans objet présent en son existencex et connu quant à son existence
+présentexi : c’est pourquoi il est clair que l’argument est nul45.
+§17 &lt;2*&gt; J’argumente contre le deuxième argument, car s’il en est ainsi, &lt;à
+savoir&gt; que tous &lt;les items&gt; qui diffèrent en raison peuvent être connus l’un
+sans l’autre, de sorte qu’on peut avoir une connaissance de l’un sans que l’autre
+soit connu, puisque l’être diffère de l’essence en raison46, tout comme l’inverse,
+il s’ensuit que, tout comme on peut avoir une connaissance de l’essence sans
+l’être, de même également on pourra avoir une connaissance de l’être sans
+l’essence. Or cela est faux, car dans ce cas celui qui voit Dieu d’une connaissance intuitive pourrait ainsi voir Dieu et ne pas avoir une connaissance de sa
+quiddité, ce qui est faux d’après tout le monde. Donc il n’est pas vrai de
+manière universelle que tous &lt;les items&gt; qui diffèrent en raison peuvent être
+connus l’un sans l’autre.
+§18 Si tu rétorques ceci : il est vrai que cette &lt;proposition&gt; n’est pas vraie
+de manière universelle, mais elle est universellement vraie dans le cas de ces
+&lt;items&gt; qui diffèrent en raison de telle sorte que l’un n’appartient pas à la
+raison de l’autre. Or il en est ainsi dans le cas présent : l’être n’appartient pas à
+la raison de l’essence47, mais à l’inverse l’essence appartient à la raison de
+l’être48.
+§19 Contre &lt;cette réplique, je dis ceci&gt; : quoi qu’il en soit dans le cas
+des autres &lt;êtres&gt;, dans le cas de l’être nécessaire par soi, l’être appartient
+
+x
+xi
+
+Le manuscrit M ajoute «actuelle».
+Le texte d’Hervé donne «presentialem existentiam», qui se traduit littéralement
+par «existence présentielle». C’est la leçon que donne la grande majorité des
+manuscrits. Les témoins B et K offrent la leçon «existence actuelle et présentielle», tandis que, dans l’édition Z, on lit plutôt «présentialité». Enﬁn, le témoin M
+présente la variante «existence principale», évidemment fautive.
+Sur les concepts de présence et de «présentialité», voir J. Biard, «Intention et
+présence : la notion de presentialitas au XIVe siècle», dans D. Perler, dir., Ancient
+and Medieval Theories of Intentionality, Leiden, Brill, 2001, p. 265–282. Selon
+toute vraisemblance, le concept de presentialitas aurait commencé à être couramment utilisé au début du XIVe siècle, notamment (voire principalement) chez Duns
+Scot, mais ce serait avec Pierre d’Auriol que ce concept aurait acquis sa pleine
+consistance et son autonomie au regard du concept voisin de presentia.
+
+342
+
+Dialogue
+
+à la raison de l’essence, tout comme l’inverse. Or Dieu est l’être nécessaire par
+soi. Donc etc. La preuve de la majeure &lt;va comme suit&gt; : &lt;pour les items&gt; qui
+appartiennent à la raison d’un étant de manière égale, l’un appartient à la raison
+de l’autre tout autant que l’inverse. Or, dans le cas de l’être nécessaire par soi,
+l’être tout autant que l’essence appartient à la raison d’un tel étant. Donc etc.49
+§20 &lt;3*&gt; Contre le troisième argument, j’argumente de la manière suivante :
+tout comme, en état de rapt, Paul a vu l’essence de Dieu, de même il a vu son
+être et son exister50. Si donc, &lt;étant supposé&gt; que ce qu’il a vu n’ait pas été
+oublié, &lt;l’argument&gt; conclut qu’après son rapt &lt;Paul&gt; a eu une connaissance
+(notitia) de la quiddité divine, alors il conclut également qu’après son rapt
+&lt;Paul&gt; a eu une connaissance de l’être divin. Ainsi &lt;Paul&gt; n’a pas eu une connaissance abstractive de la quiddité sans une connaissance de l’être même.
+§21 Tu rétorqueras peut-être que &lt;Paul&gt; a eu une connaissance quidditative
+de l’un et de l’autre, à savoir de l’être et de l’essence, c’est-à-dire qu’il savait
+quelle est l’essence divine et quel est son être, mais qu’il ne savait pas que Dieu
+existe dans la réalité naturelle51.
+§22 Cette &lt;objection&gt; ne vaut rien, car je demande ceci : qu’est-ce que la
+connaissance de Paul après son rapt avait pour terme immédiat? Si tu réponds
+que son terme immédiat était à la fois l’être et la quiddité de Dieu, alors &lt;Paul&gt;
+a eu une connaissance qui avait pour terme autant l’être que l’essence et qui
+avait même pour terme le fait que Dieu existe, car il est impossible d’avoir une
+connaissance immédiate de l’être et de l’essence de Dieuxii et d’ignorer cet
+&lt;être&gt; même52.
+§23 En revanche, si la connaissance de Paul n’avait pour terme immédiat
+ni l’essence ni l’être de Dieu, mais quelque chose qui demeure dans l’intellect
+ou dans le phantasme, quelque chose en quoi &lt;l’être et/ou l’essence de Dieu&gt;
+était représenté, &lt;je dis&gt; à l’encontre &lt;de cette réponse&gt; que cette &lt;entité&gt;
+représentative qui se trouvait en Paul représentait l’essence divine sur le mode
+d’un objet intermédiaire (obiectum medium)53, comme quelque chose qui est
+vu dans un miroir. Or, quoi qu’il en soit du cas de l’espèce dans la vision bienheureuse54, personne cependant n’a afﬁrmé qu’une créature55, sur le mode
+d’un objet intermédiaire, pût représenter expressément la quiddité divine, telle
+qu’elle est en soi. Donc etc.56
+§24 À l’argument au sujet de Paul, il faut dire que, bien qu’après le rapt il ait
+pu rester en Paul une impression par laquelle il appréhendait confusément qu’il
+avait vu Dieu, cependant il n’est pas resté en lui une connaissance expresse de
+
+xii
+
+Au lieu de la leçon «de Dieu», le manuscrit M et l’édition Z ont la variante «d’une
+chose». Cependant, l’argument porte précisément sur le cas de Dieu et, par conséquent, la leçon de la presque totalité des témoins apparaît préférable.
+
+La théologie comme science 343
+
+la quiddité divine57; de la même manière, il est resté en Nabuchodonosor58 une
+impression par laquelle il appréhendait qu’il avait rêvé une grande &lt;chose&gt;,
+cependant il n’est pas resté en lui une connaissance expresse de l’objet rêvé59.
+§25 &lt;III&gt; L’autre opinion, que je crois être vraie60, est qu’il est impossible
+d’avoir une connaissance abstractive de Dieu telle que ces &lt;maîtres&gt; la posent.
+En vue d’élucider cette opinion, je pose en premier lieu deux &lt;choses&gt;; je
+pénètrerai ensuite au cœur de la &lt;question&gt; posée.
+§26 &lt;1&gt; La première est qu’avoir une connaissance de la quiddité de Dieu
+se présente de deux façons. Premièrement, de façon générale, &lt;à savoir&gt;
+lorsqu’on sait que l’essence de Dieu est une certaine substance ou un certain
+intellect; et cela &lt;se produit&gt; au moyen des créatures61. D’une autre façon,
+nous pouvons connaître la quiddité de Dieu de manière spéciﬁque, relativement au fait qu’elle est une essence ayant une trinité de personnes dans l’unité
+de l’essence; et cela &lt;se produit&gt; de deux façons. Premièrement, lorsqu’on
+croit à quelqu’un qui dit que Dieu est d’une telle nature. Deuxièmement, de
+façon manifeste, à savoir lorsqu’on appréhende cette &lt;quiddité&gt; comme elle
+est en soi, de sorte que la connaissance a pour terme immédiat la quiddité divine en soi, en tant qu’elle est en soi une telle quiddité.
+§27 &lt;2&gt; La seconde &lt;chose&gt; que j’avance est que la présence de l’objet en
+son existence peut se rapporter à l’intellect de deux façons, si l’on parle d’un
+intellect qui est mû à l’acte d’intelliger par l’objet62. Premièrement, à la façon
+de ce qui meut à l’acte de connaître. Deuxièmement, à la façon du terme auquel
+la connaissance se termine comme à l’objet connu.
+§28 Ces deux &lt;modalités&gt; diffèrent, car il arrive parfois que quelque chose
+d’autre que l’objet meuve à la connaissance de l’objet lui-même : en effet,
+l’étant meut à la connaissance du non-étant ou de la non-entitéxiii, de sorte que
+la connaissance peut avoir parfois pour terme le non-étant à titre &lt;d’objet&gt;
+connu, bien que le non-étant ne puisse pas mouvoir quelque chose.
+§29 De même, il n’y a pas de doute que Dieu puisse causer dans l’intellect
+de quelqu’un la connaissance de quelque chose qui n’a pas mû cette personne
+à l’acte de connaître. Ainsi une telle connaissance a pour terme cette &lt;chose&gt;
+
+xiii
+
+Le manuscrit B et l’édition Z omettent «ou de la non-entité». On pourrait penser que,
+de même que l’entité (entitas) serait la quiddité de l’étant (ens) — c’est-à-dire : ce
+qu’est l’étant en tant qu’étant — ainsi la non-entité (non entitas) serait la quiddité du
+non-étant (non ens) — c’est-à-dire : ce qu’«est» le non-étant en tant que non-étant.
+Mais plus simplement et en accord avec l’usage qu’Hervé fait de ces termes dans le
+présent Quodlibet, «entité» et «non-entité» sont à prendre comme des synonymes de
+«existence» et «non-existence».
+
+344
+
+Dialogue
+
+à titre &lt;d’objet&gt; connu, bien qu’elle ne soit pas &lt;causée&gt; par cette &lt;chose&gt;
+comme par quelque chose qui meut63.
+§30 Cela étant dit, je réponds à &lt;la question&gt; antérieurement posée qu’il
+ne fait pas de doute que la présence de Dieu en son essencexiv ou Dieu
+lui-même en tant que présent en son existencexv soit requis(e) pour la connaissance expresse de sa quiddité, tel qu’il (ou elle) est en soi et sous la raison
+de ce qui meut à une telle connaissancexvi, car rien ne meut si ce n’est en tant
+qu’il existe en acte. Or aucune chose ne peut mouvoir à une telle connaissance
+si ce n’est Dieu seul. Donc etc.
+§31 D’autre part, à savoir si la présence de Dieu en son existencexvii est requise selon la seconde &lt;modalité&gt;, à savoir comme terme vers lequel &lt;tend
+l’acte de connaissance&gt;, à la manière dont une connaissance a pour terme
+l’objet connu, je dis que, si nous parlons de la connaissance confuse que
+l’homme en cette vie (viator) a de Dieu naturellement par l’intermédiaire des
+créatures et d’une connaissance expresse telle que celle qu’il peut avoir par la
+foi, alors &lt;quelqu’un&gt; pourrait avoir une connaissance abstractive de Dieu64.
+§32 En effet, quelqu’un ici-bas (in via) peut considérer ce qui est impliqué
+par la &lt;notion de&gt; cause première, sans considérer si elle existe ou non. En
+
+xiv
+
+xv
+
+xvi
+
+xvii
+
+Au lieu de la leçon «essence», les manuscrits M et P donnent la variante «existence».
+Voir ma remarque à la prochaine note de variante.
+La tradition manuscrite est divisée sur ce lieu textuel. En effet, la leçon «existence» est donnée par un peu moins de la moitié de la tradition manuscrite (B, K,
+P et S en première main dans le texte), tandis que les autres témoins (A, L, M, V
+et W) et l’édition Z donnent la leçon «essence» (S ajoute en seconde main «ou
+essence» au-dessus de la ligne). Pour éviter la redondance avec ce qui précède
+(voir la précédente note de variante) et parce que la question à laquelle Hervé
+s’attaque est posée en termes de présence d’une chose en son existence, j’ai opté
+ici pour le terme «existence».
+Le manuscrit P omet le dernier membre de la phrase : «tel qu’il (ou elle) est en soi
+et sous la raison de ce qui meut à une telle connaissance», qui est cependant requis
+dans le présent contexte, même si le scribe a pu le considérer comme étant sousentendu. Au lieu de ce membre de phrase, l’édition Z présente le suivant : «tel
+qu’il a en soi la raison d’objet qui meut à une telle connaissance expresse de sa
+quiddité». Cette formulation comporte deux défauts : écarter l’idée de la présence
+de Dieu en soi (par opposition à la présence par l’intermédiaire d’une entité
+représentative), idée qui est essentielle aux présentes considérations d’Hervé, et
+poser la raison (ratio) comme quelque chose qui se trouve en Dieu ou que Dieu
+possède en soi, alors qu’il est beaucoup plus adéquat d’afﬁrmer que Dieu est
+conçu sous une certaine raison (aspect, point de vue, angle), sans faire de celle-ci
+quelque chose que Dieu posséderait.
+Au lieu de la leçon «existence», les manuscrits V et W offrent la variante
+«essence».
+
+La théologie comme science 345
+
+outre, un croyant (ﬁdelis) peut considérer ce qui est impliqué par ce nom «trinité», sans considérer si elle existe ou non. Mais que quelqu’un puisse avoir une
+connaissance de la quiddité de Dieu ayant celle-ci immédiatement pour terme,
+telle qu’elle est en soi, et ne pas savoir si elle existe ou non, cela est impossible.
+§33 La raison du premier &lt;point&gt;65 est la suivante : ici-bas, que ce soit de
+façon naturelle ou par la foi, nous ne connaissons Dieu qu’en tant qu’il brille66
+dans les créatures ou dans l’une de ses images qu’un croyant, entendant ce que
+la foi afﬁrme au sujet de Dieu, forme dans son intellect ou dans son imagination (fantasia). Or ces &lt;choses&gt;, qui représentent Dieu de manière très imparfaite, peuvent le représenter quant à la déﬁnition nominale67, de sorte que l’on
+considère ce qui est désigné par le nom, sans considérer si la chose existe ou
+non; et parfois &lt;ces choses&gt; peuvent représenter de manière déductive que ce
+qui est désigné par le nom est une vraie chose qui existe dans la réalité naturelle et, dans ce cas, on la considère en tant qu’elle existe68.
+§34 Quant au second &lt;point&gt; — à savoir qu’il est impossible que la quiddité
+de Dieu soit connue, par une connaissance expresse dont elle est le terme immédiat, quant à l’entité (entitas) qu’elle possède en soi et qu’on demeure dans
+l’ignorance quant à son existencexviii —, il pourrait facilement être prouvé en
+suivant ceux qui posent69 que toute connaissance a pour terme quelque chose
+qui est présent à l’intellect dans l’existencexix, de sorte qu’il est nécessaire
+que quelque chose soit connu ou bien en étant lui-même présent en soi à
+
+xviii
+
+xix
+
+xx
+
+Au lieu de la leçon «existence», que le sens du présent contexte réclame impérativement, les manuscrits A, M, V et W donnent la variante «essence». Le témoin L offre
+le terme «être», que l’on peut, dans le présent contexte, considérer comme synonyme
+du terme «existence».
+Au lieu de la leçon «existence», qui est requise dans le présent contexte, les
+manuscrits A et M présentent la variante «essence». Le manuscrit P donne bien
+«existence» en première main dans le corps du texte; toutefois une seconde main
+exponctue ce terme et écrit «phantasme» dans la marge. Cette correction de seconde main est à écarter : voir mes remarques à la note de variante qui suit.
+Les manuscrits P (en première main) et S, ainsi que l’édition Z, omettent par homéotéleute la proposition qui va de «de sorte que…» jusqu’à «…à l’intellect». Cependant, le témoin P va combler l’omission en transcrivant la proposition manquante
+dans la marge en seconde main. Il n’est pas impossible que l’omission ait semblé
+justiﬁée à certains scribes par l’impression de redondance qui peut se dégager du
+passage dans lequel elle se produit. Une lecture attentive montre toutefois qu’il n’y
+a aucune répétition superﬂue dans ce passage : la thèse qu’Hervé rapporte soutient
+qu’un existant peut être présent à l’intellect soit en lui-même, soit en un existant
+autre que lui et qui le représente à l’intellect. Les deux branches de l’alternative sont
+nécessaires aux considérations qu’Hervé développe dans le présent contexte.
+
+346
+
+Dialogue
+
+l’intellectxx, ou bien &lt;étant présent&gt; quelque chose qui le représente, comme
+l’image d’une chose absente est présente dans le phantasme70.
+§35 Cela étant supposé, la &lt;thèse&gt; proposée devient facilement manifeste,
+de la manière suivante : une telle connaissance de la quiddité divine ou bien a
+celle-ci pour terme en tant qu’elle est présente en son existence71, ou bien
+quelque chose d’autre qu’elle qui est présent en son existence à l’intellect et la
+représente; mais la seconde &lt;branche de l’alternative&gt; est impossible, car,
+comme on l’a dit72, il est impossible qu’une quelconque créature représente
+l’essence divine sur le mode d’un objet intermédiaire : donc etc. […]
+§36 &lt;IV&gt; En ce qui concerne le second article, à savoir si une telle connaissance abstractive, si on l’admet, est compatible avec l’état de la vie présente, je
+dis, selon ce qui m’apparaît vrai, que non73.
+§37 La raison en est que la connaissance la plus parfaite d’une chose est la
+connaissance expresse de celle-ci quant à ce qu’elle est. Or la connaissance de
+Dieu la meilleure n’est pas compatible avec l’état de la vie présente. Donc la
+connaissance expresse de ce qu’est Dieu lui-même n’est pas compatible avec
+l’état de la vie présentexxi et, par conséquent, il est impossible que la connaissance expresse de la quiddité divine se trouve dans l’état de la vie présente.
+§38 La majeure est manifeste74, parce que la connaissance consiste en une
+assimilation du connaissant à la chose connue75. Or, du côté de la chose
+connuexxii, l’assimilation à celle-ci se réalise par-dessus tout selon sa forme et
+sa quiddité. Donc etc.
+§39 La mineure aussi est facilement manifeste76, parce que la connaissance
+de Dieu la meilleure est la béatitude ou du moins n’est pas sans béatitude. Or
+la béatitude n’est pas compatible avec l’état de la vie présente. Donc etc. […]
+4. Annexes
+4.1. La caractérisation scotiste des connaissances intuitive et abstractive
+A) Un premier lieu textuel important est le passage suivant du deuxième
+livre de la version révisée (Ordinatio) des leçons oxoniennes sur les Sentences
+
+xxi
+
+xxii
+
+Les manuscrits M et S, ainsi que l’édition Z, omettent par homéotéleute la proposition qui va de «Donc…» jusqu’à «…présente». À moins que les scribes et l’éditeur
+aient jugé qu’elle était redondante, puisque la proposition qui la suit immédiatement
+(introduite par l’expression «par conséquent») semble répéter la même idée. En fait,
+je crois que cette dernière proposition permet à Hervé d’établir l’équivalence notionnelle entre le syntagme «ce qu’est la chose» (quod quid est rei; littéralement : «le ce
+que c’est de la chose»), que fait intervenir le présent raisonnement, et le terme de
+quiddité (quidditas), qu’Hervé avait constamment utilisé jusque là.
+Le syntagme «du côté de la chose connue» est omis par les manuscrits B et K,
+ainsi que par l’édition Z.
+
+La théologie comme science 347
+
+(révision qui, pour le deuxième livre, était vraisemblablement terminée lorsque
+Scot a débuté son enseignement sententiaire à Paris à l’automne 1302) : «Je
+distingue d’abord entre deux intellections : il peut en effet y avoir une connaissance de l’objet selon qu’elle abstrait de toute existence actuelle et une autre
+selon que l’objet existe et qu’il est présent dans quelque existence actuelle.
+[…] J’appelle “abstractive” celle qui est de la quiddité selon qu’elle abstrait de
+l’existence actuelle et de la non-existence. La seconde, celle qui est de la quiddité de la chose selon son existence actuelle (ou qui est de la chose présente
+selon une telle existence), je l’appelle “intellection intuitive”, non pas en tant
+que “intuitive” s’oppose à “discursive” (en effet, en ce sens, une certaine abstractive est intuitive), mais absolument “intuitive”, au sens où nous disons
+qu’une chose est intuitionnée comme elle est en soi» (Ioannes Duns Scotus,
+Ordinatio II, d. 3, p. 2, q. 2, éd. Vaticana, t. 7, 1973, p. 552–553).
+B) Un autre passage important se trouve dans les leçons parisiennes sur les
+Sentences (année universitaire 1302–1303) : «Il faut savoir qu’il y a deux connaissances : l’une est au moyen d’une espèce et elle est une connaissance de la
+chose non présente en soi : elle est appelée “connaissance abstractive de la
+chose”; l’autre est une connaissance de la chose en tant qu’elle est dans
+l’existence actuelle : elle est appelée “connaissance intuitive”. Il est possible
+de mettre au jour ces deux connaissances dans le cas des puissances sensitives.
+En effet, la vue appréhende le visible en tant qu’il existe en acte : la connaissance intuitive de l’intellect correspond à la vue. D’autre part, la fantaisie ou
+imagination appréhende ce visible au moyen d’une espèce qui le représente en
+l’absence de la chose, même si &lt;celle-ci&gt; n’est pas présente à elle &lt;c’est-à-dire
+à l’imagination&gt; dans l’existence actuelle : la connaissance abstractive de
+l’intellect correspond à cela &lt;c’est-à-dire à l’imagination connaissant par le
+biais d’une espèce&gt;» (Ioannes Duns Scotus, Reportata Parisiensia, Prologus,
+q. 2, dans Opera omnia, éd. Wadding, Paris, Vivès, 1894, t. 22, p. 41).
+On notera la mention de l’espèce dans la caractérisation scotiste de la connaissance abstractive. Dans le Quodlibet II, 5, en revanche, Hervé ne parle pas
+d’une espèce qui serait présente en connaissance abstractive.
+Par ailleurs, il importe de souligner que l’édition Wadding, malgré ce que le
+titre indique, ne reproduit pas les Reportata de Scot mais plutôt les Additiones
+magnae, qui sont des extraits des leçons sententiaires parisienne et oxonienne
+de Scot qui ont été compilés par son disciple, Guillaume d’Alnwick. Je me ﬁe
+toutefois au jugement de S.D. Dumont qui, après comparaison entre un manuscrit viennois contenant la version révisée par Scot lui-même de son enseignement parisien (Reportatio Parisiensis examinata) et le texte du prologue dans
+l’édition Wadding, conclut que ce dernier «is generally very close to the Reportatio examinata» («Theology as a Science (…)», op. cit., p. 585, n. 25).
+Pour démêler les ﬁls de l’écheveau complexe que constitue l’œuvre sententiaire de Scot, voir T. Williams, «Introduction: The Life and Works of John Duns
+the Scot», dans The Cambridge Companion to Duns Scotus, éd. T. Williams,
+Cambridge University Press, 2003, p. 1–14.
+
+348
+
+Dialogue
+
+C) Pour revenir à la distinction opérée par Scot, le passage suivant du Quodlibet 6 (1305–1307) doit également être cité : «On distingue deux actes de
+l’intellect et ce, en parlant de l’appréhension simple ou de l’intellection d’un
+objet simple. Le premier peut être indifféremment au regard d’un objet existant
+ou non existant, et même indifféremment au regard d’un objet réellement
+présent ou non. […] Cet acte d’intellection, qui peut être appelé “scientiﬁque”,
+parce qu’il précède et est requis pour la science de la conclusion et l’intellection
+du principe, peut assez proprement être appelé “abstractif”, parce qu’il abstrait
+l’objet de l’existence et de la non-existence, de la présence et de l’absence. Il y
+a, en outre, un autre acte d’intellection, que nous n’expérimentons pas cependant avec autant de certitude en nous, mais qui est possible, lequel est précisément de l’objet présent en tant que présent et existant en tant qu’existant. […]
+Cette intellection peut être proprement appelée “intuitive”, parce qu’elle est
+une intuition de la chose en tant qu’elle existe et est présente» (Ioannes Duns
+Scotus, Quaestiones Quodlibetales, Q. VI, dans Opera omnia, éd. Wadding,
+Paris, Vivès, 1895, t. 25, p. 243–244).
+On invoquera enﬁn ces quelques lignes du Quodlibet 7 (1305–1307) : «[…]
+bien que la connaissance abstractive puisse être du non–existant aussi bien que
+de l’existant, l’intuitive, en revanche, n’est connaissance que de l’existant en
+tant qu’il est existant» (Ioannes Duns Scotus, Quaestiones Quodlibetales, Q.
+VII, dans Opera omnia, éd. Wadding, Paris, Vivès, 1895, t. 25, p. 290).
+Pour une mise au point récente sur la production quodlibétique de Scot, voir
+T. B. Noone et H. F. Roberts, «John Duns Scotus’ Quodlibet», dans C. Schabel,
+dir., Theological Quodlibeta in the Middle Ages. The Fourteenth Century,
+Leiden, Brill, 2007, p. 131–198. L’intégralité des questions quodlibétiques de
+Scot (21 questions) a été traduite en anglais : John Duns Scotus, God and Creatures. The Quodlibetal Questions, Translated with an Introduction, Notes, and
+Glossary by F. Alluntis and A. B. Wolter, Princeton, Princeton University
+Press, 1975.
+4.2. La possibilité d’une connaissance abstractive de la déité selon Duns Scot
+Le passage suivant des leçons parisiennes sur les Sentences est éloquent (je
+traduis) : «Donc, Dieu peut être connu distinctement selon une connaissance
+abstractive. Or une telle connaissance abstractive de Dieu ne répugne pas à
+l’homme dans l’état présent (viator), alors que la connaissance intuitive est
+incompatible avec cet état. Par conséquent, dans l’état présent, l’homme peut
+intelliger distinctement Dieu, bien que ce ne soit pas intuitivement et clairement, puisque ce n’est pas toute connaissance distincte qui est claire et intuitive. […] Je concède donc que Dieu, sous la raison de déité, puisse être connu
+distinctement par l’homme dans l’état présent». Ioannes Duns Scotus, Reportata Parisiensia, Prologus, q. 2, dans Opera omnia, éd. Wadding, Paris, Vivès,
+1894, t. 22, p. 42.
+Un peu plus loin (ibid., p. 42–43), Scot spéciﬁe l’origine et la modalité d’une
+telle connaissance abstractive de la déité : «[…] Il est prouvé que l’homme
+
+La théologie comme science 349
+
+dans l’état présent peut avoir de Dieu sous la raison de déité une science plus
+parfaite que ne l’est la connaissance de foi, puisque tout ce que Dieu peut au
+moyen d’une cause effective médiate, il le peut immédiatement; or, par la médiation de l’objet présent à l’intellect, il peut causer une science qui surpasse la
+connaissance de foi : donc il le peut immédiatement. Par conséquent, Dieu peut
+créer dans l’intellect de l’homme dans l’état présent une connaissance portant
+immédiatement sur lui-même comme celle que serait destiné immédiatement à
+causer quelque chose qui le représenterait sous la raison de déité. Cette connaissance, appelée “parole de Dieu intérieure”, est comme celle qu’ont eue les
+prophètes, laquelle n’est pas claire ou intuitive, puisqu’elle ne reçoit pas immédiatement une évidence de l’objet. […] Une science de cette sorte, portant sur
+Dieu sous la raison de déité, n’est pas obtenue par l’étude, mais elle est un don
+qui est accordé gratuitement au proﬁt de l’Église; et le Christ sut quand il fut
+proﬁtable d’accorder un tel don, et à qui, par exemple aux apôtres et aux
+prophètes».
+4.3. L’impossibilité d’une connaissance abstractive de la déité selon Durand
+de Saint-Pourçain et Gérard de Bologne
+Durand de Saint-Pourçain, dans la première question du Prologue de son Commentaire aux Sentences (première rédaction, qui date vraisemblablement de
+1306, au plus tard 1307–1308), afﬁrme ceci (je traduis à partir de la transcription de S. F. Brown) : «il ne semble pas possible qu’une telle connaissance de
+Dieu &lt;à savoir, abstractive, qui donne à connaître parfaitement la quiddité divine et ce qui lui convient&gt; puisse être communiquée à l’homme dans l’état
+présent».
+Durand réitérera cette afﬁrmation dans la troisième et dernière rédaction de
+son Commentaire aux Sentences (probablement rédigée entre 1317 et 1327),
+dont je traduis l’extrait pertinent : «[…] Il ne m’apparaît pas possible que
+l’homme dans l’état présent puisse avoir une connaissance abstractive de Dieu,
+précisément expresse et parfaite […], sans jamais manquer toutefois au respect
+envers la puissance divine, qui ne peut être parfaitement comprise par nous»
+(Durandus a Sancto Porciano, Petri Lombardi Sententias Theologicas Commentariorum libri IIII, Prologus, q. 3, Venetiis, 1571, fol. 7rb.; réimprimé en
+1964 par The Gregg Press Incorporated, Ridgewood, New Jersey).
+Quant à Gérard de Bologne, nous pouvons lire ce qui suit dans son deuxième
+Quodlibet (probablement soutenu à Paris en 1306) — je traduis : [Question 6]
+«Il ne semble pas convenir d’afﬁrmer que la quiddité ou l’essence de Dieu
+puisse être connue de manière spéciﬁque par l’homme dans l’état présent, alors
+que son existence n’est pas connue. En effet, celui qui connaît Dieu et sa quiddité imparfaitement et en général connaît aussitôt que l’essence de Dieu est son
+existence et que son essence ne peut pas être posée sans que ne soit posée son
+existence. En effet, l’exister de Dieu appartient à la notion (ratio) de son essence. C’est pourquoi, aussi imparfaitement qu’il connaisse Dieu, personne ne
+peut le connaître sous la raison de Dieu, ou de premier étant ou de premier être
+
+350
+
+Dialogue
+
+ou de quelque façon semblable, sans par le fait même qu’il ne sache qu’il existe. Donc, à plus forte raison, s’il connaît la quiddité de Dieu de manière
+spéciﬁque, il saura nécessairement qu’il existe.»; [Question 11] «Il semble
+donc assez raisonnable de pouvoir dire que, de puissance divine absolue, il
+peut se produire que l’homme dans l’état présent puisse connaître intuitivement et par vision la quiddité de Dieu de manière spéciﬁque, comme elle est
+vue dans l’au-delà (in patria). Mais il ne semble pas être raisonnable &lt;de dire&gt;
+que la quiddité de Dieu soit connue de manière spéciﬁque abstractivement sans
+qu’elle ne le soit intuitivement».
+Notes
+1
+
+2
+
+3
+
+Le lecteur voudra bien excuser le caractère sommaire de la présentation qui suit,
+en sachant qu’elle n’a d’autre but que de poser le cadre général à l’intérieur
+duquel viendra s’inscrire la doctrine d’Hervé de Nédellec. Pour le thème de la
+théologie comme science, il faut prioritairement consulter les travaux de Stephen F. Brown, parmi lesquels je me limite à citer deux contributions particulièrement importantes relativement à mon propos : «Declarative Theology after
+Durandus : Its Re-presentation and Defense by Peter Aureoli», Philosophical Debates at Paris in the Early Fourteenth Century, dans S. Brown, T. Dewender et
+T. Kobusch, dir., Leiden, Brill, 2009, p. 401–421; «Peter of Candia’s HundredYear “History” of the Theologian’s Role», dans Medieval Philosophy and Theology, vol. 1, 1991, p. 156–190. L’article de D. J. Leclercq, «La théologie comme
+science d’après la littérature quodlibétique», Recherches de théologie ancienne et
+médiévale, vol. 11, 1939, p. 351–374, n’est plus tellement proﬁtable, autant à
+cause des acquis de la recherche historique plus récente, qui le rendent sur plusieurs points obsolète, qu’à cause de sa tendance à gommer les différences entre
+les positions en présence et à sous-estimer la contribution de Duns Scot au dossier
+étudié.
+Pour tout ce qui précède, voir l’ouvrage devenu classique de M.-D. Chenu, La
+théologie comme science au XIII e siècle, Paris, Vrin, 19573. Voir également Cl.
+Laﬂeur, en collaboration avec J. Carrier, «Dieu, la théologie et la métaphysique au
+milieu du XIIIe siècle selon des textes épistémologiques artiens et thomasiens»,
+Revue des sciences philosophiques et théologiques, vol. 89, 2005, p. 261–294,
+ainsi que C. Trottmann, Théologie et noétique au XIII e siècle. À la recherche d’un
+statut, Paris, Vrin, 1999.
+Cf. C. Trottmann, Théologie et noétique au XIII e siècle, p. 157–192. Voir aussi les
+travaux de P. Porro, notamment «Filosoﬁa e scienza teologica in Enrico di Gand»,
+dans C. Esposito, P. Ponzio, P. Porro et V. Castellano, dir., Verum et certum. Studi
+di storiograﬁa ﬁlosoﬁca in onore di Ada Lamacchia, Bari, Levante, 1998, p. 415–
+442. La position d’Henri de Gand a exercé une profonde inﬂuence sur les générations ultérieures de théologiens. À ce propos, voir S. F. Brown, «Duo Candelabra
+Parisiensia: Prosper of Reggio in Emilia’s Portrait of the Enduring Presence of
+Henry of Ghent and Godfrey of Fontaines regarding the Nature of Theological
+Study», dans J. A. Aertsen, K. Emery JR. et A. Speer, dir., Nach der Verurteilung
+
+La théologie comme science 351
+
+4
+
+5
+
+6
+7
+
+8
+
+9
+
+von 1277. Philosophie und Theologie an der Universität von Paris im letzten Viertel des 13. Jahrhunderts. Studien und Texte, Berlin/New York, Walter de
+Gruyter, 2001, p. 320–356. L’article de P. De Vooght, «La méthode théologique
+d’après Henri de Gand et Gérard de Bologne», Recherches de théologie ancienne
+et médiévale, vol. 23, 1956, p. 61–87, même s’il comporte d’utiles présentations
+synoptiques des conceptions respectives de ces deux théologiens quant au statut
+épistémologique de leur discipline, est tissé de tant de jugements subjectifs visant
+à valoriser Gérard au détriment d’Henri qu’il en devient ridicule.
+Godefroid de Fontaines (avant 1250–1306/09), à la faveur de sa critique du paradigme démonstratif, peut être considéré comme l’initiateur de ce modèle explicatif. Il sera suivi par plusieurs théologiens du XIVe siècle, au premier rang desquels
+se trouvera Pierre d’Auriol. À ce sujet, voir les études de S.F. Brown citées à la
+note 1 supra.
+Voir l’article incontournable de S. D. Dumont, «Theology as a Science and Duns
+Scotus’s Distinction between Intuitive and Abstractive Cognition», Speculum,
+vol. 64, 1989, p. 579–599. Voir aussi D. Demange, Jean Duns Scot. La théorie du
+savoir, Paris, Vrin, 2007.
+Cf. J. Biard, Guillaume d’Ockham et la théologie, Paris, Cerf, 1999.
+Hervé de Nédellec (Hervaeus Natalis; Hervé Noël) aurait soutenu son deuxième
+Quodlibet à titre de Maître régent à l’Université de Paris en 1308 ou 1309. Pour
+la datation des Quodlibeta d’Hervé, voir R. L. Friedman, «Dominican Quodlibetal Literature, ca. 1260–1330», dans C. Schabel, dir., Leiden, Brill Theological
+Quodlibeta in the Middle Ages. The Fourteenth Century, 2007, p. 401–491 («Hervaeus Natalis» : p. 431–449).
+Il importe de souligner que, dans la première question du prologue de son
+Commentaire aux Sentences — est-ce que la théologie est une science? —, Hervé
+ne fait aucunement appel au binôme intuition/abstraction. La discussion tourne
+autour de trois opinions : 1) la théologie est une science au sens propre ou absolu;
+2) sans être une science au sens strict, elle est néanmoins une science subalternée
+proprement dite; 3) la théologie est une science subalternée au sens large, position
+qui emporte l’adhésion d’Hervé. Si, comme le propose S. D. Dumont dans son
+article pionnier («Theology as a Science»), c’est le Commentaire aux Sentences
+de Duns Scot en sa version parisienne (Reportatio Parisiensis) qui a modiﬁé déﬁnitivement la manière de poser le problème de la scientiﬁcité de la théologie en
+le traitant à l’aune de la distinction entre connaissances intuitive et abstractive,
+nous avons ici, s’agissant du Commentaire d’Hervé, un indice nous suggérant
+qu’il précède l’enseignement sententiaire que Scot a prodigué à Paris en 1302–
+1303, ce qui s’accorde avec la date proposée habituellement par les historiens, à
+savoir que le Commentaire d’Hervé serait issu d’un enseignement que le Breton
+aurait donné à Paris peu après 1300. Cf. Hervaeus Natalis, Commentaria in quatuor libros Sententiarum, Paris, 1647 (réimprimé en 1966 par Gregg International
+Publishers Limited), p. 1–6.
+Cf. R. G. Wengert, «Three Senses of Intuitive Cognition : A Quodlibetal Question
+of Harvey of Nedellec», Franciscan Studies, vol. 43, 1983, p. 408–431.
+
+352
+
+Dialogue
+
+10
+
+Cf. D. Piché, «Intuition, Abstraction and the Possibility of a Science of God:
+Durandus of St.-Pourçain, Gerard of Bologna and William of Ockham», dans
+S. Brown, T. Dewender et T. Kobusch, dir., Philosophical Debates at Paris in the
+Early Fourteenth Century, Leiden, Brill, 2009, p. 423–431. Une des critiques
+ultérieures les plus intéressantes de la position qu’Hervé défend contre Scot dans
+son Quodlibet II, 5, est celle que mène Pierre d’Auriol dans la question 2 du
+Proœmium de son Commentaire au premier livre des Sentences. Cf. Petrus Aureoli,
+Scriptum super primum Sententiarum, Proœmium, q. 2, éd. E. M. Buytaert,
+St.-Bonaventure, The Franciscan Institute, 1952, vol. 1, p. 177–217. On trouve
+une traduction anglaise de ce texte dans The Cambridge Translations of Medieval
+Philosophical Texts, vol. 3: Mind and Knowledge, éd. R. Pasnau, Cambridge,
+Cambridge University Press, 2002, p. 178–218 («Peter Aureol. Intuition, Abstraction, and Demonstrative Knowledge»).
+Voir l’article de D. Piché cité à la note précédente. Pour examiner la position de
+Durand à ce sujet, j’ai eu accès à la transcription que S. F. Brown a réalisée de la
+première rédaction du Prologue du Commentaire aux Sentences de ce maître
+dominicain (ca. 1306). Quant à Gérard de Bologne, sa position sur ce point est
+demeurée constante, des Quodlibeta des années 1305–1312 (notamment les
+Quodlibeta II, 6 et II, 11) à la Summa que le maître carme a mise en chantier en
+1313 mais qu’il n’aura pas terminée lorsque la mort le frappera en 1317.
+Les conclusions auxquelles Hervé parvient dans son Quodlibet II, 5 s’accordent
+avec ce qu’il défend dans un autre de ses Quodlibeta, le VI, 3. Dans ce dernier, le
+maître dominicain distingue trois modalités selon lesquelles l’humain peut connaître le divin, les deux premières relevant de l’état de la vie présente, la troisième
+étant réservée à la patrie céleste : 1) la modalité naturelle, qui s’effectue par un
+examen rationnel des créatures et qui permet de connaître ce qu’est Dieu de
+manière générale (par exemple : il est une substance immatérielle intellectuelle);
+2) la modalité de foi, qui repose sur la révélation transmise par les Écritures
+saintes et qui permet de connaître Dieu de manière spéciﬁque mais obscure (par
+exemple : une trinité de personnes essentiellement une); 3) la modalité de la vision béatiﬁque, en laquelle Dieu est connu en son essence, de manière spéciﬁque,
+claire et manifeste. Cf. Hervaeus Natalis Brito, Quodlibet VI, q. 3, dans Quodlibeta, éd. M. A. Zimara, Venise, 1513 [édition réimprimée en 1966 par The Gregg
+Press Incorporated, Ridgewood, New Jersey], fol. 130rb-va. Je prends pour acquis que l’attribution de ce Quodlibet VI à Hervé de Nédellec est justiﬁée, bien
+qu’elle ait été contestée. Je m’appuie sur les conclusions auxquelles parvient
+R. L. Friedman dans «Dominican Quodlibetal Literature, ca. 1260–1330», op. cit.,
+p. 438–445.
+Cf. T. Kaeppeli, Scriptores Ordinis Praedicatorum Medii Aevi, vol. II (G-I),
+Rome, 1975, p. 234–236 (entrée : «Hervaeus Natalis Brito», p. 231–244).
+Cette édition a été réimprimée en 1966 par The Gregg Press Incorporated, Ridgewood (N. J.).
+Les numéros de folios ne couvrent que la portion de texte qui est traduite
+ci-dessous. Dans les notes de variantes qui accompagnent ma traduction, je
+
+11
+
+12
+
+13
+14
+15
+
+La théologie comme science 353
+
+16
+
+17
+
+18
+
+19
+20
+
+réfère aux manuscrits par leur sigle alphabétique. L’édition de Zimara est désignée par le sigle Z; la portion traduite du Quodlibet II, 5 s’y trouve aux folios
+41rb–42va.
+Je tiens à remercier le Conseil de Recherches en Sciences Humaines du Canada
+(CRSH), le Fonds Québécois de Recherches sur la Société et la Culture (FQRSC)
+ainsi que le Fonds d’installation de l’Université de Montréal pour le soutien ﬁnancier qu’ils m’ont accordé et grâce auquel j’ai pu mener à bien la rédaction de cet
+article. J’adresse également mes remerciements aux deux évaluateurs anonymes
+de mon article pour les remarques critiques qu’ils ont formulées à l’endroit de
+celui-ci; il va sans dire que je demeure l’unique responsable des défauts qui pourraient subsister.
+Une connaissance expresse est une connaissance tout à fait explicite de la totalité
+des traits essentiels qui constituent une nature (une essence, une quiddité (ce
+qu’est la chose) : je considère ces termes comme des synonymes dans le présent
+contexte). Par exemple, connaître la nature humaine comme une nature animale
+rationnelle mortelle équivaut à la connaître expressément. Comme cela apparaîtra
+dans la suite du présent Quodlibet, la connaissance expresse de la quiddité (essence) divine est la connaissance de Dieu comme trinité de personnes essentiellement une, par opposition à une connaissance qui appréhenderait Dieu du point de
+vue de ses attributs ou perfections (unité, simplicité, bonté, sagesse, etc.), ou encore qui le saisirait au regard des créatures, par exemple comme cause première
+ou ﬁnale de celles-ci. Bref, la connaissance expresse de la quiddité divine est celle
+qui peut servir d’assise pour la construction de la théologie proprement dite (la
+théologie des théologiens), par contraste avec la théologie philosophique (la
+théologie des philosophes, qui est l’une des déterminations de la philosophie première ou métaphysique).
+L’état de la vie présente est celui dans lequel l’humain se trouve durant son passage terrestre. Cet état présent se distingue, d’une part, de l’état adamique originel
+auquel la chute a mis ﬁn et, d’autre part, de l’état de gloire qui attend les élus dans
+l’au-delà. Il s’agit donc littéralement de la voie (via) sur laquelle le pèlerin humain (viator) chemine ici-bas dans l’espérance d’atteindre la patrie céleste (patria). Du point de vue épistémique, et suivant l’ordre volontairement institué par
+Dieu (par opposition à ce qu’il a pu ou pourrait réaliser par sa puissance absolue),
+cet état se caractérise essentiellement par l’impossibilité dans laquelle se trouve
+l’intellect humain de jouir d’une vision directe ou d’une connaissance intuitive de
+l’essence divine, une telle connaissance béatiﬁque étant l’apanage des bienheureux dans l’au-delà.
+Voir ci-dessous pour l’identiﬁcation de ces «quidam».
+Jean Duns Scot est l’instigateur de cette distinction qui deviendra l’un des philosophèmes les plus puissants de la pensée du XIVe siècle. À l’époque où Hervé
+soutient le présent Quodlibet, la doctrine de Scot pouvait déjà compter sur l’appui
+de plusieurs théologiens. J’ai traduit en annexes quelques passages cruciaux dans
+lesquels Scot pose cette distinction entre connaissances intuitive et abstractive :
+voir ci-dessous annexe 1.
+
+354
+
+Dialogue
+
+21
+
+Le terme de la connaissance est l’objet ou l’aspect de l’objet vers lequel tend et
+que saisit l’acte de connaître qui, une fois qu’il l’atteint, est «terminé», c’est-àdire achevé, accompli.
+L’existence actuelle équivaut à l’existence en acte : l’actualité ne renvoie donc
+pas ici à une modalité temporelle mais à un état ontologique de la chose. Bien que
+ce qui existe en acte dans le monde créé existe aussi au présent, l’inverse n’est
+cependant pas toujours vrai : quelque chose peut exister présentement sans exister
+en acte (il est alors en puissance, existant potentiellement).
+Le latin donne «uideo solem moueri», un syntagme qui peut se traduire de deux
+façons : «je vois le soleil se mouvoir», ou bien «je vois que le soleil se meut». J’ai
+opté pour la première possibilité, parce que Duns Scot fait de l’intuition une connaissance simple ou incomplexe — donc anté-propositionnelle — et non une connaissance complexe ayant un contenu propositionnel (du type «je vois que p»). En
+ce sens, voir l’extrait du Quodlibet 6 traduit infra en annexes (1C).
+Dans cet exemple, l’intuition a pour objet non pas le soleil en tant que soleil ni
+même en tant qu’il est telle chose singulière, mais une propriété qui lui échoit (un
+accident), à savoir son mouvement, qui est un sensible commun (c’est-à-dire une
+propriété sensible qui peut être appréhendée par plus d’un sens particulier).
+Le latin donne «uideo rosam esse», un syntagme qui est susceptible d’être traduit
+de deux façons : «je vois la rose exister», ou bien «je vois que la rose existe». J’ai
+opté pour la première possibilité, pour la même raison que celle que j’invoque à
+la note 23 supra. Conformément à la doctrine de Scot, et contrairement à ce que
+pourrait laisser croire la manière dont Hervé l’exprime, ce qui est l’objet de
+l’intuition dans ce cas, ce n’est pas la rose en tant que rose, ni la singularité d’une
+rose en particulier, mais la rose en tant qu’elle existe en acte, autrement dit
+l’existence actuelle de la rose.
+L’expression «dans la réalité naturelle» correspond au syntagme latin «in rerum
+natura» (littéralement : «dans la nature des choses»), qui est employé très fréquemment par les penseurs latins des XIIIe et XIVe siècles. Cette expression désigne non
+pas seulement le monde naturel au sens strict (le monde physique), mais la totalité
+du réel, y compris Dieu (voir en ce sens plus bas le §21). Quelque chose est dit exister dans la réalité naturelle par opposition à ce qui existe dans l’âme ou l’intellect
+d’un sujet connaissant, quel qu’il soit (divin, angélique, humain ou animal).
+Pas plus ici qu’ailleurs dans son Quodlibet II 5 Hervé ne lie l’abstraction à une
+connaissance via des espèces.
+La raison (ratio) désigne tout autant l’aspect réel qui est cognitivement saisi que
+le point de vue ou l’angle sous lequel la faculté cognitive — en l’occurrence
+l’intellect — le saisit. S’agissant de Dieu, même s’il est parfaitement un, il y a de
+nombreux aspects sous lesquels il peut être cognitivement appréhendé (existence,
+essence, perfections ou attributs, rapports au monde, etc.) : Hervé précise que la
+présente question vise une saisie de Dieu du strict point de vue de sa quiddité ou
+essence, donc abstraction faite, notamment, de son existence.
+Le latin donne «ita quod cognoscat quiditatem et non cognoscat eam esse», qui
+se traduit littéralement ainsi : «de sorte qu’il connaisse la quiddité et ne connaisse
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+28
+
+29
+
+La théologie comme science 355
+
+30
+
+31
+
+32
+
+pas (ou ignore) qu’elle est». J’ai opté pour une traduction moins littérale mais
+plus élégante en français. Cela étant, il importe de noter qu’Hervé emploie deux
+fois le verbe «cognoscere» et non pas le verbe «scire».
+Jean Duns Scot admet qu’il est possible pour l’homme ici-bas d’avoir une telle
+connaissance abstractive de l’essence divine : voir ci-dessous le texte traduit à la
+section 4.2 de l’annexe.
+Je n’ai pas repéré un unique texte de Duns Scot dans lequel ces trois arguments se
+trouveraient groupés ensemble et littéralement exposés tels qu’ils le sont ici par
+Hervé. Cependant, chacun d’eux prend sa source dans un texte ou l’autre de Scot
+que je cite et traduis ci-dessous à la suite de l’exposé qu’en donne Hervé. Il est
+possible que ce dernier ait reconstruit un argumentaire uniﬁé de type scotiste à
+partir de plusieurs passages de l’œuvre du Docteur subtil. Il se pourrait aussi que
+les arguments exposés par Hervé se trouvent dans les textes de l’un ou l’autre des
+auteurs franciscains qui enseignèrent la théologie à Paris dans les années précédant ou concomitantes à la première régence d’Hervé (1307–1309/10) — sans
+parler des maîtres appartenant aux autres ordres —, tels que Pierre d’Angleterre,
+Alexandre d’Alexandrie, Nicolas de Lyre ou Jacques d’Ascoli; or la connaissance
+que nous avons actuellement de la pensée de ces théologiens ne nous permet pas
+de tirer des conclusions à ce chapitre. À leur sujet, voir W. O. Duba, «Continental
+Franciscan Quodlibeta after Scotus», dans C. Schabel, dir., Theological Quodlibeta in the Middle Ages. The Fourteenth Century, Leiden, Brill, 2007, p. 569–649.
+Il est à noter que les mêmes arguments que présente Hervé sont exposés, selon le
+sens à défaut d’une identité littérale, dans le Commentaire aux Sentences de
+Pierre d’Auriol (1316–1317), où ils sont attribués à Duns Scot. Cf. Petrus Aureoli,
+Scriptum super primum Sententiarum, Proœmium, q. 2, éd. E. M. Buytaert, St.Bonaventure (N. Y.), The Franciscan Institute, 1952, vol. 1, p. 180, §16 (argument
+&lt;3&gt; dans le présent Quodlibet); p. 181, §19 (argument &lt;2&gt; dans le présent Quodlibet); p. 191, § 53 (argument &lt;1&gt; dans le présent Quodlibet). Par ailleurs, deux
+des trois arguments exposés par Hervé se trouvent également dans le Commentaire aux Sentences de Durand de St.-Pourçain : le premier argument &lt;1&gt; se rencontre dans la première rédaction (vraisemblablement rédigée en 1306, au plus
+tard en 1307–1308), où il ressortit à un argument plus développé, ainsi que dans
+la troisième et dernière rédaction (vraisemblablement rédigée entre 1317 et 1327;
+c’est la rédaction que reprendront les éditions anciennes), où il est presque littéralement identique; le troisième argument &lt;3&gt; se rencontre dans la troisième rédaction seulement. Voir Durandus a Sancto Porciano, Petri Lombardi Sententias
+Theologicas Commentariorum libri IIII, Prologus, q. 3, Venetiis, 1571, fol. 7ra,
+§§3–4; réimprimé en 1964 par The Gregg Press Incorporated, Ridgewood (N. J.).
+Du point de vue de la connaissance, un objet meut naturellement lorsqu’il est par
+nature apte à causer une connaissance dans une faculté cognitive qui est adéquatement disposée à son égard. Le mouvoir dont il est ici question désigne le passage
+de la puissance à l’acte de connaître : il s’agit de l’actualisation d’une connaissance dans une faculté cognitive sous l’action naturelle d’une chose qui agit précisément comme cause de l’acte de connaître dont elle est l’objet.
+
+356
+
+Dialogue
+
+33
+
+C’est le cas de la vision béatiﬁque, comme le conﬁrme le §13 ci-dessous. Sur ce
+thème, voir C. Trottmann, La vision béatiﬁque : des disputes scolastiques à sa
+déﬁnition par Benoît XII, Rome, École française de Rome, 1995, fasc. 289.
+Cf. Ioannes Duns Scotus, Reportata Parisiensia, Prologus, q. 2, dans Opera omnia, éd. Wadding, Paris, Vivès, 1894, t. 22, p. 42–43 : «Il est prouvé que l’homme
+dans l’état présent peut avoir de Dieu sous la raison de déité une science plus
+parfaite que ne l’est la connaissance de foi, puisque tout ce que Dieu peut au
+moyen d’une cause effective médiate, il le peut immédiatement; or, par la médiation de l’objet présent à l’intellect, il peut causer une science qui surpasse la connaissance de foi : donc il le peut immédiatement. Par conséquent, Dieu peut créer
+dans l’intellect de l’homme dans l’état présent une connaissance portant immédiatement sur lui-même comme celle que serait destiné immédiatement à causer
+quelque chose qui le représenterait sous la raison de déité».
+Si ce texte est la source de l’argument rapporté par Hervé, il faut souligner la
+différence majeure qui le sépare de ce dernier : dans le texte de Scot, Dieu se
+substitue à une entité médiatrice qui pourrait le représenter quidditativement (une
+espèce intelligible, par exemple), de sorte qu’il produit lui-même une connaissance de sa quiddité dans l’intellect humain; dans la version d’Hervé, en revanche,
+le vouloir divin se substitue, pour ainsi dire, à la présence divine aﬁn de produire
+dans l’intellect une connaissance de la quiddité divine.
+La différence de raison est une différence conceptuelle, c’est-à-dire une différence qui, bien qu’elle puisse se fonder sur une différence d’aspects dans la
+chose même, est due, en déﬁnitive, à l’opération de l’intellect qui prend un point
+de vue sur l’objet, qui l’aborde sous un certain angle. La différence de raison, en
+tant qu’elle réside dans l’intellect qui l’opère en connaissant la chose, se distingue
+précisément de la différence réelle, puisque celle-ci se trouve dans la chose même,
+indépendamment du fait que celle-ci soit connue ou non.
+Cf. Ioannes Duns Scotus, Quaestiones Quodlibetales, Q. VII, dans Opera omnia,
+éd. Wadding, Paris, Vivès, 1895, t. 25, p. 290 : «(…) Puisque la notion (ratio) peut
+demeurer dans l’âme, alors que l’objet cesse d’exister en acte, il s’ensuit que
+l’existence n’est pas par soi un aspect (ratio) appartenant à l’objet en tant qu’il est
+connaissable (scibile), car la notion scientiﬁque ne peut demeurer la même dans
+l’âme, si ne demeure pas cela même qui est par soi un aspect du connaissable en
+tant que connaissable. Que le connaissable puisse exister ou non dans la réalité, il
+n’en reste pas moins que sa notion (ratio), en tant qu’il est connaissable, peut
+demeurer la même dans l’âme, même si l’existence ne demeure pas. Donc, la
+science abstrait de l’existence, de sorte qu’elle ne l’inclut pas dans la notion du
+connaissable».
+Si ce texte est la source de l’argument que rapporte Hervé, il ne dit rien cependant
+— et c’est une différence de taille — de la distinction conceptuelle entre la quiddité et l’être en Dieu.
+L’apôtre Paul lui-même témoigne de ce rapt divin qui l’a élevé au-dessus de
+lui-même dans la Deuxième épître aux Corinthiens 12, 1–4. Le texte de la Vulgate présente l’événement de cette manière (je ponctue) : «Si gloriari oportet non
+
+34
+
+35
+
+36
+
+37
+
+La théologie comme science 357
+
+38
+
+expedit quidem veniam autem ad visiones et revelationes Domini. Scio hominem
+in Christo, ante annos quattuordecim — sive in corpore nescio, sive extra corpus
+nescio; Deus scit –, raptum eiusmodi usque ad tertium caelum. Et scio huiusmodi
+hominem — sive in corpore, sive extra corpus nescio; Deus scit — quoniam
+raptus est in paradisum et audivit arcana verba quae non licet homini loqui». La
+traduction française de la Bible de Jérusalem donne ceci : «Il faut se gloriﬁer?
+(cela ne vaut rien pourtant) eh bien! J’en viendrai aux visions et révélations du
+Seigneur. Je connais un homme dans le Christ &lt;il s’agit d’une formule de modestie : Paul parle de lui-même&gt; qui, voici quatorze ans — était-ce en son corps?
+Je ne sais; était-ce hors de son corps? Je ne sais; Dieu le sait — … cet homme-là
+fut ravi jusqu’au troisième ciel. Et cet homme-là — était-ce en son corps? Étaitce sans son corps? Je ne sais; Dieu le sait –, je sais qu’il fut ravi jusqu’au paradis
+et qu’il entendit des paroles ineffables, qu’il n’est pas permis à un homme
+de redire.»
+Les médiévaux qui évoquent cet épisode suivent l’interprétation d’Augustin,
+qui le comprend comme une vision de l’essence divine : cf. Liber de videndo Deo
+(Epistola CXLVII ad Paulinam), XIII, 31, CSEL XLIV, p. 305.
+Dans les débats à l’époque d’Hervé, le cas de Paul constitue l’exception (ou du
+moins l’une des exceptions) qui conﬁrme la règle : nul humain ne peut avoir icibas une vision ou une intuition de l’être divin, sauf celui à qui Dieu l’accorde
+surnaturellement. C’est le cas de Paul, qui, d’après les autorités que j’ai citées à la
+note précédente, aurait reçu exceptionnellement dans l’état de la vie présente ce
+qui est réservé aux bienheureux dans l’au-delà, même si ce fut seulement de
+manière partielle et transitoire. L’argument suppose que ce qui se réalisa de facto
+pour Paul est possible en principe pour tout intellect humain, non pas que cela soit
+au pouvoir naturel de l’homme, mais que cela puisse être accordé à qui que ce soit
+par intervention surnaturelle de Dieu.
+L’argument est intéressant en ce qu’il souligne le lien, déjà nettement tracé
+par Duns Scot, entre abstraction et mémoire : selon une de ses acceptions, la connaissance abstractive est la connaissance qui résulte de l’intuition et demeure
+dans l’intellect une fois que celle-ci s’est estompée; en vertu d’une telle connaissance abstractive (par contraste avec la connaissance abstractive au sens d’une
+connaissance universelle, commune ou générale), l’intellect peut se remémorer
+un objet individuel qu’il a antérieurement appréhendé par intuition, alors que cet
+objet n’est plus actuellement présent. Concernant ce rapport entre l’intuition et la
+mémoire chez Duns Scot, voir A. B. Wolter, «Duns Scotus on Intuition, Memory
+and our Knowledge of Individuals», dans History of Philosophy in the Making,
+éd. L. J. Thro, Lanham (MD.), University Press of America, 1982, p. 81–104.
+Enﬁn, cet argument permet de préciser un aspect de la question qui est
+présentement débattue par Hervé : il ne s’agit pas de se demander si l’on peut
+avoir une connaissance abstractive expresse de l’essence divine sans connaissance intuitive préalable de cette essence, mais plutôt si une telle connaissance
+abstractive est possible sans intuition concomitante de Dieu (sans que l’abstractive
+s’accompagne actuellement d’une intuition de l’être divin).
+
+358
+
+Dialogue
+
+39
+
+Cf. Ioannes Duns Scotus, Ordinatio II, d. 3, p. 2, q. 2, éd. Vaticana, t. 7, 1973,
+p. 556–557 : «[…] Quelqu’un qui est enlevé (raptus) et qui voit transitoirement
+l’essence divine, une fois qu’a cessé cet acte de voir, peut avoir une mémoire de
+l’objet, et ce sous un aspect (ratio) distinct (sous lequel se trouvait l’objet de la
+vision), bien que ce ne soit pas sous l’aspect de ce qui est actuellement présent,
+parce qu’une telle présence ne demeure pas, après l’acte, dans la notion (ratio) du
+connaissable […]. On peut rendre manifeste la prémisse (assumptum) par le cas
+du rapt de Paul, lequel, après avoir traversé ce rapt, se rappelait ce qu’il avait vu,
+selon ce que lui-même écrit &lt;dans l’épître&gt; aux Corinthiens […]».
+Même si cet extrait ne le mentionne pas, son contexte indique clairement que
+l’acte de mémoire dont il est ici question, acte qui appréhende son objet sous un
+aspect distinct, est une forme de connaissance abstractive.
+Une version similaire de l’argument «paulinien» se trouvait déjà dans l’état antérieur des leçons oxoniennes du Commentaire aux Sentences : cf. Ioannes Duns
+Scotus, Lectura II, d. 3, p. 2, q. 2, éd. Vaticana, t. 18, 1982, p. 324 : «(…) Si
+quelqu’un est enlevé et voit l’essence divine distinctement, de sorte qu’il la voit
+intuitivement (et non seulement distinctement), alors, une fois qu’a cessé l’acte de
+voir intuitivement, quelque chose demeure par lequel il peut connaître distinctement l’essence divine (comme dans le cas de Paul)».
+Je traduis littéralement. Hervé veut dire : la proposition majeure de l’argument
+adverse contient une afﬁrmation qui est fausse (premier défaut); en outre, même
+si l’on concédait à l’adversaire cette afﬁrmation fausse, même si on l’admettait
+comme étant vraie, la proposition majeure serait quand même fausse (deuxième
+défaut). Comme on le verra, cela s’explique par le fait que la proposition majeure
+contient deux afﬁrmations qui sont incompatibles.
+Hervé interpelle son adversaire, le tenant de l’argument qu’il est en train de réfuter. La deuxième personne du singulier pourrait être l’écho véridique d’un débat
+auquel l’adversaire était réellement présent; mais elle pourrait aussi bien être
+employée comme simple procédé stylistique ayant pour but de rendre le texte plus
+vivant.
+En somme, pour résumer les deux premiers points, selon Hervé, il est faux
+d’afﬁrmer que la causalité divine à l’égard de la vision béatiﬁque est naturelle,
+mais si on l’admettait, il s’ensuivrait, contre ce que prétend l’adversaire, que Dieu
+ne pourrait causer une telle vision de façon volontaire, puisque la causalité naturelle, en tant qu’elle s’exerce selon la modalité du nécessaire, s’oppose précisément au caractère libre de la causalité volontaire.
+Le texte latin donne «ulterius», qui pourrait être traduit par «plus loin» ou «ultérieurement». Ainsi traduit, le texte d’Hervé ferait signe vers un passage ultérieur
+de l’œuvre de son adversaire dans lequel celui-ci afﬁrmerait ou suggérerait
+l’impossibilité dont il est question dans le présent paragraphe.
+Ce passage présente deux difﬁcultés d’interprétation. D’abord, sur quoi porte exactement l’impossibilité : (1) qu’il y ait une intuition d’une chose qui n’est pas
+présente en son existence ou bien (2) qu’il y ait une telle intuition et que la chose
+soit connue quant à son existence présente? Autrement dit : Hervé afﬁrme-t-il (1)
+
+40
+
+41
+
+42
+
+43
+
+44
+
+La théologie comme science 359
+
+45
+
+qu’une intuition d’une chose existentiellement absente est impossible ou plutôt
+(2) qu’une telle intuition est possible mais qu’il est impossible qu’elle
+s’accompagne d’une connaissance de la chose comme étant existentiellement
+présente? La seconde branche de l’alternative (= 2) est envisageable dans le contexte des débats qui ont cours à l’époque d’Hervé : en effet, si la plupart, voire la
+vaste majorité, des protagonistes croient qu’une intuition d’une chose absente (ou
+non existante) conduirait l’intellect à juger faussement que cette chose est présente
+(ou existante), Ockham se singularise en soutenant que l’intuition d’une chose
+absente (ou non existante) conduirait l’intellect à juger correctement que cette
+chose est absente (ou non existante). Seconde difﬁculté : est-ce qu’Hervé pense
+qu’il y a (A) impossibilité pure et simple ou (B) impossibilité du seul point de vue
+des principes auxquels son adversaire (scotiste) souscrit? La prise en considération de ce qu’Hervé soutient dans son Quodlibet IV, 11 (le maître dominicain y
+afﬁrme que la connaissance intuitive ne requiert pas toujours la présence de la
+chose connue) me porte à accorder ma préférence à une interprétation de type (B),
+auquel cas c’est fondamentalement une impossibilité de type (1) qui est en cause.
+C’est d’ailleurs en ce sens que va l’objection similaire qui se rencontre chez
+Durand de Saint-Pourçain : voir plus bas note 45.
+Hervé prétend montrer que l’argument auquel il s’attaque conduit à admettre que,
+en vertu d’une intervention de la volonté divine (et non pas naturellement), une
+faculté cognitive pourrait avoir une intuition d’une chose absente, voire inexistante. Or une telle conséquence est contradictoire du point de vue de la notion
+scotiste de connaissance intuitive, qui semble bien être celle qu’Hervé prend en
+considération dans le présent Quodlibet. En effet, selon Duns Scot (cf. plus bas la
+section 4.1. de l’annexe), il est de la nature même de l’intuition de porter sur une
+chose présente et existante en tant qu’elle est présente et existante. Les spéculations sur la possibilité d’une connaissance intuitive du non-présent ou du nonexistant vont ﬂeurir dans les décennies suivant la mort de Scot et elles deviendront
+l’un des sujets chauds de l’historiographie contemporaine. À ce sujet, cf. Cl.
+Panaccio et D. Piché, «Ockham’s Reliabilism and the Intuition of Non-Existents»,
+dans H. Lagerlund, dir., Rethinking the History of Skepticism : The Missing Medieval Background, Leiden, Brill, 2009, p. 97–118; D. Piché, «Introduction», dans
+Guillaume d’Ockham. Intuition et abstraction, textes introduits, traduits et annotés par D. Piché, Paris, Vrin, 2005, p. 8–51.
+Une objection tout à fait similaire au même argument se trouve dans le Commentaire aux Sentences de Durand de Saint-Pourçain : voir Durandus a Sancto
+Porciano, Petri Lombardi Sententias Theologicas Commentariorum libri IIII,
+Prologus, q. 3, Venetiis, 1571, fol. 8ra, §18 (je traduis) : «Au troisième argument,
+il faut répondre que celui-ci ne conclut rien en leur faveur &lt;c’est-à-dire en faveur
+des tenants de l’argument&gt;, mais seulement contre eux, s’il conclut quelque
+chose. Cela apparaît si l’on résume leur argument : tout ce que ferait l’essence
+divine si elle était présente à l’intellect sous la raison de l’objet qui meut naturellement, la volonté divine peut le faire sans une telle présence de l’existence; mais
+si l’essence divine était présente à l’intellect sous la raison de l’objet qui meut
+
+360
+
+46
+
+47
+48
+
+49
+
+Dialogue
+naturellement, elle causerait une connaissance intuitive parfaite d’elle-même, et
+non une abstractive : donc la volonté divine, sans la présence de l’essence sous la
+raison de l’objet qui meut naturellement, peut causer une connaissance intuitive
+parfaite, et non une abstractive, ce qui est contre eux».
+Une objection semblable était déjà présente dans la première rédaction du
+Commentaire de Durand (je traduis d’après la transcription de S. F. Brown) :
+«[…] Leur argument conclut l’opposé de ce qu’ils cherchent à établir, &lt;ce qui
+apparaît&gt; de la manière suivante : ce que peut faire l’essence divine présente à
+l’intellect sous la raison de l’objet, la volonté divine peut le faire sans une telle
+présence, comme eux-mêmes le disent; mais l’essence divine présente sous la
+raison de l’objet cause une connaissance intuitive de soi : donc, sans une telle
+présence, la volonté divine peut causer une connaissance intuitive, ce qui contredit une autre afﬁrmation, à savoir que la connaissance intuitive porte seulement
+sur une chose qui existe, présente en son existence actuelle».
+On peut se demander si Hervé se contente ici d’admettre dialectiquement une
+thèse de ses adversaires (l’être et l’essence diffèrent en raison) aﬁn de montrer
+qu’une conséquence fausse (l’être et l’essence peuvent être connus l’un sans
+l’autre) résulte de leur prémisse (tous les items qui diffèrent en raison peuvent être
+connus l’un sans l’autre), ou s’il endosse lui-même cette thèse. Dans ce cas, non
+seulement sa pensée s’écarterait-elle sur ce point de la doctrine de Thomas
+d’Aquin (composition réelle de l’être et de l’essence en tout étant créé), dont il est
+censé être le gardien orthodoxe, mais elle divergerait aussi sensiblement de ce que
+lui-même soutient dans son De esse et essentia (rédigé entre 1302 et 1307), où il
+accorde sa faveur à une distinction de nature sémantique entre «être» et «essence». À ce sujet, voir E. B. Allen, «Hervaeus Natalis : An Early “Thomist” on
+the Notion of Being», Mediaeval Studies, vol. 22, 1960, p. 1–14, ainsi que W.
+Seńko, «Les opinions d’Hervé Nédellec au sujet de l’essence et l’existence», dans
+Mediaevalia philos. Polonorum, vol. 10, 1961, p. 59–74. Le De esse et essentia
+d’Hervé a été intégralement édité par E. B. Allen dans sa thèse doctorale inédite
+«The Notion of Being in Hervaeus Natalis», 2 vol., University of Toronto, 1958,
+et il a été partiellement transcrit par W. Seńko dans Studia mediewistyczne, vol.
+11, 1970, p. 260–273 (je remercie Geneviève Barrette pour cette information).
+Autrement dit, la saisie de l’essence n’inclut pas la saisie de l’être et, par conséquent, il est possible d’intelliger l’essence sans intelliger qu’elle existe ou non.
+Autrement dit, la saisie de l’être inclut la saisie de l’essence et, par conséquent, il
+est impossible d’intelliger l’être sans intelliger l’essence qui est la sienne. Ne
+pourrait-on pas rétorquer qu’il est possible de forger un concept de l’être, purement et simplement, un concept de l’être en tant qu’être, sans aucune considération de nature ou d’essence?
+Tout ce qui précède (§§17–19), à savoir la distinction de raison entre l’être et
+l’essence ainsi que la détermination de Dieu comme être nécessaire par soi, prend
+sa source dans la métaphysique d’Avicenne. Cf. Métaphysique du Shifā, l. I, c. 5,
+et l. VIII, c. 4, dans Avicenna, The Metaphysics of The Healing, a parallel EnglishArabic text translated, introduced, and annotated by M. E. Marmura, Brigham
+
+La théologie comme science 361
+
+50
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+Young University Press, Provo (UT.) 2005, p. 22–29 et 273–278. Pour l’édition
+critique de la traduction latine médiévale, voir Avicenna, Liber de philosophia
+prima sive scientia divina, éd. S. Van Riet, Leiden/Louvain, Brill/Peeters, 1977,
+2 vol., tract. I, cap. 5 (vol. 1) et tract. VIII, cap. 4 (vol. 2), p. 31–42 et 397–404.
+Hervé précise ce qu’il entend par «être» : «être» est compris au sens de «exister».
+En ce sens, connaître l’être de quelque chose, c’est savoir qu’il existe réellement.
+La réplique consiste à afﬁrmer qu’il y a une différence entre connaître abstraitement l’être divin, c’est-à-dire savoir de quel type d’être il s’agit, quelle est sa
+«manière» ou sa modalité d’être («quale sit suum esse»), et savoir que Dieu existe
+effectivement.
+J’ai traduit par «ignorer cet &lt;être&gt; même» le syntagme latin «ignorare ipsum»,
+qui laisse indéterminée la question de savoir si le pronom «ipsum» renvoie à Dieu
+ou à son être. Les deux sont possibles d’un point de vue grammatical. Les manuscrits A et M tranchent en ajoutant «esse» après «ipsum». C’est ainsi que je comprends ce passage : on ne peut pas avoir une connaissance immédiate de l’être et
+de l’essence de Dieu et ignorer cet être même, autrement dit ignorer que Dieu
+existe, ce qui est conforme à la conclusion à laquelle le présent argument entend
+aboutir.
+Un objet intermédiaire est quelque chose qui est posé entre le sujet connaissant et
+l’objet ultime de son acte de connaître, quelque chose à travers quoi ou par la
+médiation duquel l’objet ultime est connu par le sujet connaissant.
+Bien que le terme «bienheureuse» (beata) soit omis par le manuscrit P, qui est le
+seul à l'omettre cette leçon, il ne fait pas de doute à mes yeux, étant donné le contexte, qu’Hervé fait allusion au débat sur la présence ou non d’une espèce (species) dans la vision béatiﬁque, et non pas au débat sur la nécessité ou non d’une
+espèce sensible pour expliquer la vision corporelle. À propos du premier débat,
+voir C. Trottmann, La vision béatiﬁque : des disputes scolastiques à sa déﬁnition
+par Benoît XII, Rome, École française de Rome, 1995, principalement chapitres
+IV–VI, p. 283–410, et p. 804–807 (pour le dénouement sous Benoît XII).
+«Créature» doit être compris ici au sens large d’une entité créée, aﬁn d’inclure les
+objets mentaux dans l’acception de ce terme, en plus des êtres réels extramentaux.
+En somme, à la question qu’Hervé pose à son objecteur — quel était le terme immédiat de la connaissance de Paul après son rapt? –, Hervé n’admet que deux
+réponses possibles : (1) soit l’être et l’essence de Dieu (§22), auquel cas, selon
+Hervé, la connaissance de Paul impliquait qu’il savait que Dieu existe (ce qui va
+à l’encontre de ce que l’adversaire cherche à soutenir); (2) soit un objet mental en
+lequel Dieu se trouvait représenté (§23), auquel cas, selon Hervé, Paul ne pouvait
+saisir de manière tout à fait explicite l’essence divine, telle qu’elle est en soi (ce
+qui s’oppose également à la conclusion recherchée par l’adversaire), puisque rien
+de créé ne peut tenir lieu de médiation objective à travers laquelle l’intellect humain parviendrait à une telle connaissance du divin.
+Nous voyons, par ce passage, qu’Hervé conçoit la connaissance expresse — qui met
+pleinement au jour toutes les déterminations essentielles de la chose connue — par
+
+362
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+Dialogue
+contraste avec la connaissance confuse (littéralement : «in confuso») — qui ne
+dévoile pas nettement l’ensemble des éléments essentiels de la chose connue.
+Cf. Daniel 2, 1–49. Dans le verset central (2, 31) de cet épisode biblique, Daniel
+révèle à Nabuchodonosor, roi de Babylone, la signiﬁcation de son rêve. Voici le
+texte de ce verset dans la version latine de la Vulgate : «Tu rex videbas et ecce
+quasi statua una grandis statua illa magna et statura sublimis stabat contra te et
+intuitus eius erat terribilis». La Bible de Jérusalem traduit ainsi : «Tu as eu, ô roi,
+une vision. Voici : une statue, une grande statue, extrêmement brillante, se dressait devant toi, terrible à voir».
+Pareille réplique se trouve dans la troisième rédaction du Commentaire aux Sentences de Durand de Saint-Pourçain (postérieure au présent Quodlibet d’Hervé) :
+voir Durandus a Sancto Porciano, Petri Lombardi Sententias Theologicas Commentariorum libri IIII, Prologus, q. 3, Venetiis, 1571, fol. 8ra, §19 (je traduis) :
+«Au quatrième argument, il faut répondre que la mémoire que le bienheureux
+Paul eut après son rapt de la vision qu’il avait eue en état de rapt et de la chose vue
+ne fut pas une connaissance expresse de l’essence divine, telle qu’ils &lt;c’est-à-dire
+les adversaires&gt; la posent, ni une connaissance expresse de la vision bienheureuse; mais seulement, de manière confuse, &lt;Paul&gt; s’est souvenu avoir vu Dieu,
+tout comme Nabuchodonosor (Daniel 2) s’est souvenu &lt;avoir vu&gt; dans son sommeil quelque chose de grand et de merveilleux, mais ne s’est pas souvenu de ce
+que c’était de manière spéciﬁque. La raison en est que toute connaissance mémorative est produite par une impression qui représente la chose remémorée selon
+le mode d’un objet intermédiaire. Mais, quoi qu’il en soit de l’espèce dans la vision bienheureuse, jamais personne cependant n’a posé que l’essence divine pouvait être représentée de manière expresse et quidditative par quelque chose de
+créé qui se trouve sous la raison d’objet intermédiaire. C’est pourquoi cette mémoire du bienheureux Paul n’a pas pu être une connaissance abstractive expresse
+de Dieu, telle qu’ils la posent».
+Cette opinion, qui apparaît vraie aux yeux d’Hervé, a été défendue avant lui par
+Gérard de Bologne et Durand de Saint-Pourçain, chacun à sa manière : voir cidessous les textes traduits dans la section 4.3. de l’annexe.
+Hervé afﬁrme qu’il est possible de se représenter la quiddité de Dieu sous des
+concepts généraux qui sont forgés à partir de certaines perfections ou modalités d’être qui se rencontrent dans le monde créé. Cela suppose au moins deux
+choses : (1) que certains aspects du Créateur transparaissent dans sa création; (2)
+qu’il soit possible d’appliquer des concepts d’ordre naturel (substance, intellect,
+etc.) à l’être métaphysique par excellence.
+Autrement dit, un intellect — comme celui de l’homme — en lequel l’intellection
+(l’acte de penser) est produite par l’objet qui agit comme cause motrice à l’égard
+de celle-ci.
+Cette possibilité que Dieu cause directement dans l’intellect un acte de connaître
+qui a pour terme un objet qui n’est pas cause motrice de cet acte joue un rôle
+crucial dans certaines discussions très spéciﬁques à l’époque d’Hervé, notamment
+celle portant sur la connaissance intuitive du non-existant. À ce sujet, voir Cl.
+
+La théologie comme science 363
+
+64
+
+65
+66
+
+67
+
+68
+
+69
+
+70
+
+Panaccio et D. Piché, «Ockham’s Reliabilism and the Intuition of Non-Existents»,
+op. cit., p. 97–118.
+Hervé conclut de manière elliptique. Sa conclusion, selon laquelle il est possible
+d’avoir une connaissance abstractive de Dieu, sous-entend que celle-ci ne
+s’accompagne d’aucune connaissance intuitive de l’être divin, c’est-à-dire qu’une
+telle connaissance abstractive peut se produire sans que Dieu lui-même soit
+présent en son existence en tant que terme de l’acte de connaître dont il est l’objet.
+Le premier point correspond à tout ce qui est afﬁrmé au paragraphe précédent
+avant le «Mais que…».
+Je traduis ainsi le verbe «relucere», qui est fréquemment employé en ce sens à
+l’époque d’Hervé (chez Duns Scot, notamment) : Dieu brille dans sa créature ou
+dans une image veut dire qu’il reluit en elle, qu’il est reﬂété par elle, autrement dit
+qu’il est représenté par quelque chose qui en diffuse une certaine connaissance à
+l’âme humaine.
+La déﬁnition nominale («quid nominis») est celle qui explique le sens d’un mot
+et, ce faisant, qui permet de référer adéquatement à la chose que ce mot désigne.
+Elle s’oppose à la déﬁnition réelle (quid rei), qui exprime et permet de connaître
+l’essence même de la chose, ce qu’elle est en soi.
+La traduction littérale donne un texte plutôt alambiqué. Hervé veut essentiellement dire ceci : les entités (créatures ou images) qui représentent une chose du
+point du vue de sa déﬁnition nominale donnent lieu à deux types de connaissance
+: parfois la déﬁnition nominale se limite à désigner la chose, sans que l’on sache
+si celle-ci existe ou non; parfois la déﬁnition nominale est le point de départ d’une
+déduction qui fait connaître que la chose désignée existe réellement.
+Aux ﬁns de ce qu’il entend établir, Hervé endosse une position que l’on peut attribuer à Scot : Ioannes Duns Scotus, Quaestiones Quodlibetales, Q. XIV, dans
+Opera omnia, éd. Wadding, Paris, Vivès, 1895, t. 26, p. 39 (je traduis) : «toute
+intellection par soi, propre et immédiate requiert l’objet même, sous l’aspect (ratio) propre d’objet, présent soit en sa propre existence, par exemple si
+&lt;l’intellection&gt; est intuitive, soit en quelque chose qui le représente parfaitement
+sous l’aspect propre et par soi du connaissable, si &lt;l’intellection&gt; est abstractive».
+À noter, encore ici, qu’Hervé ne mentionne nullement l’espèce intelligible, alors
+que l’on pourrait s’attendre à ce qu’il en fasse mention. En effet, il faut savoir que
+la doctrine du maître dominicain sur ce point litigieux, doctrine qu’il expose dans
+son De intellectu et specie (une des parties, avec le De esse et essentia, du traité
+couramment intitulé De quatuor materiis, vraisemblablement rédigé entre 1302 et
+1307), consiste à afﬁrmer qu’il convient de poser une espèce (une entité formelle
+représentative) dans l’intellect, laquelle diffère réellement à la fois de l’acte
+d’intellection, dont elle est la cause effective, et du verbe ou concept mental,
+lequel est formé par une parole intellectuelle qui procède de l’acte d’intellection.
+Pour tout ceci, voir l’extrait du De intellectu et specie édité par P. Stella, dans «La
+prima critica di Herveus Natalis O. P. alla noetica di Enrico di Gand : il “De intellectu et specie” del cosiddetto “De quatuor materiis”», dans Salesianum, vol. 21,
+
+364
+
+71
+72
+73
+
+74
+75
+
+76
+
+Dialogue
+1959, p. 125–170 (p. 142–147 pour les considérations portant spéciﬁquement sur
+l’espèce intelligible).
+Dans ce cas, l’essence divine est intuitivement connue et l’intellect sait qu’elle
+existe, ce qui est précisément la thèse qu’Hervé cherche à établir.
+Cf. supra §23.
+La réponse d’Hervé contredit la position de Scot, qui écrit ceci dans son septième
+Quodlibet (je traduis) : «[…] Seule la connaissance intuitive de l’essence divine
+est celle qui pose l’homme en dehors de l’état de la vie présente (status viae) […].
+Donc, de Dieu, on peut avoir une connaissance au plus haut point distincte en
+deçà de l’intuitive […]. C’est de cette manière que la théologie peut être une science dans l’intellect de l’homme qui est dans l’état de la vie présente et qui demeure absolument dans cet état : l’intellect pouvant avoir un concept incluant
+virtuellement, de manière immédiate ou médiate, toutes les vérités nécessaires
+ordonnées au sujet d’un objet, peut avoir une science complète de cet objet; or,
+l’intellect de l’homme dans l’état de la vie présente peut avoir un tel concept au
+sujet de Dieu : donc etc. La mineure est manifeste, car le concept au plus haut
+point distinct du sujet de la théologie, qui est Dieu, peut être obtenu en deçà de la
+connaissance intuitive et ce concept contient de manière virtuelle et évidente
+toutes les vérités nécessaires à propos de son sujet» (Ioannes Duns Scotus, Quaestiones Quodlibetales, Q. VII, dans Opera omnia, éd. Wadding, Paris, Vivès, 1895,
+t. 25, p. 290–291).
+La proposition majeure du syllogisme est «la connaissance la plus parfaite d’une
+chose est la connaissance expresse de celle-ci quant à ce qu’elle est».
+Hervé reprend la conception courante, de tendance péripatéticienne, qui fait de la
+connaissance une assimilation : ce qui connaît une chose devient semblable à
+celle-ci, c’est-à-dire, selon plusieurs théoriciens médiévaux, qu’il reçoit en lui
+une similitude formelle de la chose. La postulation d’une telle similitude formelle
+ne va pas sans problème. Ainsi, les questions — qu’Hervé ne traite pas dans le
+présent Quodlibet — qui ont été vigoureusement débattues chez les scolastiques
+médiévaux consistent à se demander, notamment, quelle est la nature ou quel est
+le statut ontologique d’une telle similitude formelle, dans quelle faculté cognitive
+il convient de la poser, quelle est son origine, par quels processus elle est formée
+et comment elle se rapporte à l’acte cognitif (à titre de cause, d’objet connu, de
+contenu représentationnel, etc., à moins qu’elle ne lui soit identique).
+La proposition mineure du syllogisme est «la connaissance de Dieu la meilleure
+n’est pas compatible avec l’état de la vie présente».
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Theology as a Science and Duns Scotus’s Distinction between Intuitive and Abstractive Cognition</title><author><persName><forename type="first">S. D.</forename><surname>Dumont</surname></persName></author></analytic><monogr><title level="j">Speculum</title><imprint><date type="published">1989</date><biblScope unit="volume">64</biblScope><biblScope unit="page" from="579">579</biblScope><biblScope unit="page" to="599">599</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Jean Duns Scot. La théorie du savoir</title><editor><persName><forename type="first">D.</forename><surname>Demange</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Guillaume d’Ockham et la théologie</title><editor><persName><forename type="first">J.</forename><surname>Biard</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1999</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Commentaria in quatuor libros Sententiarum</title><editor><persName><forename type="first">Hervaeus</forename><surname>Natalis</surname></persName></editor><imprint><date type="published">1647</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="6">6</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Three Senses of Intuitive Cognition : A Quodlibetal Question of Harvey of Nedellec</title><author><persName><forename type="first">R. G.</forename><surname>Wengert</surname></persName></author></analytic><monogr><title level="j">Franciscan Studies</title><imprint><date type="published">1983</date><biblScope unit="volume">43</biblScope><biblScope unit="page" from="408">408</biblScope><biblScope unit="page" to="431">431</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Philosophical Debates at Paris in the Early Fourteenth Century</title><editor><persName><forename type="first">D.</forename><surname>Piché</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Brown</surname></persName></editor><editor><persName><forename type="first">T.</forename><surname>Dewender</surname></persName></editor><editor><persName><forename type="first">T.</forename><surname>Kobusch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leiden</pubPlace><date type="published">2009</date><biblScope unit="page" from="423">423</biblScope><biblScope unit="page" to="431">431</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Scriptores Ordinis Praedicatorum Medii Aevi</title><editor><persName><forename type="first">T.</forename><surname>Kaeppeli</surname></persName></editor><imprint><date type="published">1975</date><biblScope unit="volume">II</biblScope><biblScope unit="page" from="234">234</biblScope><biblScope unit="page" to="236">236</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

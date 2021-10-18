@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Les antinomies du port du voile</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>SAGE Publications</publisher>
+            <pubPlace>Sage UK: London, England</pubPlace>
+            <date type="published">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Les antinomies du port du voile</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Dialmy</surname>
+                        <forename type="first">Abdessamad</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">Université Mohamed V de Rabat (Maroc)</orgName>
+                        <email>dialm@menara.ma</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">ED67BABB5B8AD86805C17B69A425D4540420C137</idno>
+                  <idno type="ark">ark:/67375/M70-N936K81F-6</idno>
+                  <idno type="DOI">10.1177/0037768608097239</idno>
+                  <idno type="publisher-id">10.1177_0037768608097239</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Social Compass</title>
+                  <idno type="hwp">spscp</idno>
+                  <idno type="pISSN">0037-7686</idno>
+                  <imprint>
+                     <publisher>SAGE Publications</publisher>
+                     <pubPlace>Sage UK: London, England</pubPlace>
+                     <date type="published">2008</date>
+                     <biblScope unit="vol">55</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="page" from="561">561</biblScope>
+                     <biblScope unit="page" to="580">580</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract xml:lang="fr">
+            <p>
+               <hi rend="italic">Que signifie le geste de se voiler? Est-ce une observance stricte d'une prescription religieuse? Est-ce le fruit d'une interprétation? Comment le port du voile se situait-il dans une logique endogamique de l'aristocratie citadine avant de devenir le cache-misère des déshérités? Comment dépasse-t-il le statut d'un indicateur de l'appartenance de classe pour atteindre celui de marqueur de l'identité culturelle? Est-il le symbole de la subordination de la femme ou celui d'un féminisme différencié et spécifique? Comment oscille-t-il entre l'islamisme et le soufisme, entre l'arme de combat d'une confrontation culturelle et l'insigne du cheminement spirituel anti-matérialiste? Le geste de se voiler renvoie à toutes ces significations, successives, parfois simultanées, d'où la nécessité théorique de parler du voile en termes de polysémie plurielle et, surtout, antinomique.</hi>
+            </p>
+         </abstract>
+         <abstract>
+            <p>
+               <hi rend="italic">What is the meaning of wearing a veil? Is it respect for a legal religious instruction? Is it the result of a specific interpretation? How was the veil adopted for endogamous reasons by city aristocracy before becoming associated with the popular classes? How is it moving beyond social class significance to cultural significance, and towards becoming a sign of cultural identity? Is it the symbol of women's subordination or the indicator of a different and specific feminism? How does the veil waver between islamism and sufism, between being a weapon of cultural warfare and a tool of an anti-materialistic spiritual quest for the truth? Wearing the veil can suggest all these meanings, successively and sometimes simultaneously, hence the theoretical necessity to deal with the veil in terms of plural and above all antinomic meanings.</hi>
+            </p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <textClass ana="keyword">
+            <keywords>
+               <term>antinomie</term>
+               <term>classe sociale</term>
+               <term>émancipation</term>
+               <term>identité culturelle</term>
+               <term>infériorisation</term>
+               <term>islamisme</term>
+               <term>marginalisation</term>
+               <term>obligation</term>
+               <term>spiritualité</term>
+               <term>voile</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>social
+compass
+55(4), 2008, 561–580
+
+Abdessamad DIALMY
+
+Les antinomies du port du voile
+Que signifie le geste de se voiler? Est-ce une observance stricte d’une
+prescription religieuse? Est-ce le fruit d’une interprétation? Comment le port
+du voile se situait-il dans une logique endogamique de l’aristocratie citadine
+avant de devenir le cache-misère des déshérités? Comment dépasse-t-il le statut
+d’un indicateur de l’appartenance de classe pour atteindre celui de marqueur de
+l’identité culturelle? Est-il le symbole de la subordination de la femme ou celui
+d’un féminisme différencié et spécifique? Comment oscille-t-il entre l’islamisme
+et le soufisme, entre l’arme de combat d’une confrontation culturelle et l’insigne
+du cheminement spirituel anti-matérialiste? Le geste de se voiler renvoie à toutes
+ces significations, successives, parfois simultanées, d’où la nécessité théorique
+de parler du voile en termes de polysémie plurielle et, surtout, antinomique.
+Mots-clés: antinomie · classe sociale · émancipation · identité culturelle ·
+infériorisation · islamisme · marginalisation · obligation · spiritualité · voile
+
+What is the meaning of wearing a veil? Is it respect for a legal religious instruction? Is it the result of a specific interpretation? How was the veil adopted for
+endogamous reasons by city aristocracy before becoming associated with the
+popular classes? How is it moving beyond social class significance to cultural
+significance, and towards becoming a sign of cultural identity? Is it the symbol of women’s subordination or the indicator of a different and specific feminism? How does the veil waver between islamism and sufism, between being
+a weapon of cultural warfare and a tool of an anti-materialistic spiritual quest
+for the truth? Wearing the veil can suggest all these meanings, successively and
+sometimes simultaneously, hence the theoretical necessity to deal with the veil in
+terms of plural and above all antinomic meanings.
+Key words: antinomy · cultural identity · duty · Islamism · liberation ·
+marginalization · sense of inferiority · social class · spirituality · veil
+
+Que signifie-t-il, pour une femme, de se voiler1 au nom de l’islam? Une telle
+question évoque plusieurs pistes de réponse.
+Au premier abord, le voile est un marqueur public de la foi, cette dernière ne
+pouvant rester exclusivement un sentiment intérieur, invisible aux yeux d’autrui.
+La foi est appelée à être une pratique, une observance des prescriptions textuelles. Le voile serait l’une de ces prescriptions. Cependant, l’histoire des sociétés
+musulmanes induit deux questions centrales et incontournables: premièrement,
+DOI: 10.1177/0037768608097239
+http://scp.sagepub.com
+
+© 2008 Social Compass
+
+562
+
+Social Compass 55(4)
+
+les musulmanes sont-elles toutes appelées à se voiler (du seul fait qu’elles sont
+musulmanes)? Et deuxièmement, quelles parties du corps de la femme doivent
+être voilées? Le corps en entier? Certaines parties seulement?
+Au départ, les femmes musulmanes n’étaient pas toutes appelées à se
+voiler: seules les femmes libres, puis celles des classes dominantes dans les
+cités médiévales, étaient incitées à le faire. Ce constat conduit à interroger
+l’inconscient de la prescription religieuse, si prescription religieuse il y a: pourquoi n’est-elle pas observée par toutes les femmes musulmanes? L’opposition
+entre pratiquantes et non-pratiquantes ne suffit pas à expliquer la corrélation
+entre le port du voile et les femmes de l’aristocratie citadine traditionnelle. En
+effet, le port du voile par ces femmes ne signifiait nullement qu’elles étaient les
+seules à être de bonnes musulmanes, des musulmanes véritables, pratiquantes.
+La même remarque peut être formulée au sujet des femmes des différentes “banlieues de l’islam” d’aujourd’hui, parmi lesquelles le port du voile est beaucoup
+plus fréquent. On ne peut affirmer qu’elles sont aujourd’hui de bonnes et vraies
+musulmanes. De ce constat, il résulte que l’appartenance de classe semble jouer
+un rôle dans l’interprétation de la “prescription” du voile, dans le rapprochement
+du port du voile d’une prescription ou non, prescription universelle ou sélective.
+Avec la transformation contemporaine des sociétés musulmanes en “nouvel
+ennemi” de l’Occident, voire de la modernité, le port du voile tend à devenir
+le marqueur d’une identité culturelle qui englobe toutes les classes sociales, à
+forger une identité autre, radicale, irréductible. Ainsi, l’interprétation du voile
+comme prescription religieuse est promue au rang d’impératif catégorique
+inconditionnel qui supplante l’origine sociale: “Musulmanes de tous les pays,
+voilez-vous!” Un tel slogan, mis en rapport avec l’existence d’une internationale
+islamiste informelle, dément la thèse du port du voile comme étant une simple
+technique de subordination de la femme et de négation de son corps. En effet,
+de nombreuses jeunes femmes, tant en Occident qu’en pays musulman, affirment trouver dans le port du voile une manière de se libérer du patriarcat traditionnel, un instrument leur permettant de s’affirmer dans l’espace public, sans
+être réduites à leurs corps et sans faire jouer la séduction (par le corps) dans les
+relations sociales. Cette “libération” peut s’orienter de deux façons différentes:
+l’engagement islamiste—qui vise la décolonisation de la culture islamique, la
+“désoccidentalisation” de la pensée et de la pratique musulmanes—et le combat
+spirituel, du (grand) djihad contre soi, apolitique.
+Ces données préliminaires témoignent de ce que le geste de se voiler est par
+excellence un acte ambigu (Barber, 1996). Il dénote et connote plusieurs aspects
+à la fois: il est polysémique et ses sens sont antinomiques. Cet article se propose
+d’exposer cinq antinomies auxquelles renvoie le port du voile. Mais signalons
+ici que l’identification de ces cinq antinomies nécessite de dépasser un cadre
+national précis, dans la mesure où les données recueillies réfèrent à plusieurs
+pays et à plusieurs époques, à des sociétés multiculturelles comme à des sociétés
+où l’islam est religion d’État. Certes, l’interprétation du port du voile devrait
+varier en fonction du contexte historique, social et politique. La légitimité d’une
+approche sociologique contextualisée réside également dans sa capacité à expliquer, c’est-à-dire à indiquer comment une certaine manière de croire détermine
+une certaine manière d’agir, et, en l’occurrence, de porter le voile (ou de ne pas
+le porter). Dans ce cadre, notre article tentera également d’établir une “causalité
+
+Dialmy: Les antinomies du port du voile 563
+
+douce”, dans le sens où tel phénomène A (comme l’émigration, la marginalisation
+…) favorise plus ou moins fortement tel phénomène B (port du voile). Cette
+forme de causalité s’établit en termes de probabilité. Plus exactement, il n’existe
+pas de détermination unilatérale du port du voile par un seul facteur, qu’il soit
+économique, politique ou religieux. Cependant, nous refusons de nous en tenir
+au stade de l’approche contextualisée et explicative. Malgré ses avantages, cette
+approche souffrira des limites de sa localisation dans l’espace et dans le temps.
+Elle ne saurait rendre compte de la logique du voile en tant que phénomène à
+la fois constant et variable qui traverse l’histoire des sociétés islamiques depuis
+quinze siècles. Aussi adopterons-nous une approche idéaltypique. Il nous paraît,
+en effet, nécessaire de rendre intelligible le voile en en dégageant sa rationalité
+interne, de reconstruire ce qui est typique, essentiel, caractéristique du voile.
+Weber entendait l’idéal-type comme la reconstruction d’éléments abstraits de la
+réalité historique qui se rencontrent dans un grand nombre de circonstances. Le
+port du voile ne couvre pas l’histoire de la femme en islam dans sa totalité, mais
+s’inscrit dans différents moments de cette histoire. Ce niveau d’abstraction est
+intentionnellement recherché. Par ailleurs, l’idéal type est le principal instrument
+de la compréhension sociologique. Il tend à la rationalisation, c’est-à-dire à la
+saisie de la logique explicite et implicite du port du voile (ou de son refus). La
+compréhension procède du sens que l’acteur donne à sa conduite. Autrement dit,
+le but réside (également) dans la compréhension des sens subjectifs, explicites et
+implicites, des significations données au voile par l’acteur social, culturellement
+et/ou cultuellement musulman. Mais au-delà de cette restitution fondamentale
+des sens subjectifs, le défi est de rendre le port du voile plus intelligible qu’il ne
+l’est (ou ne l’a été) dans la conscience de l’acteur social musulman. Le sens du
+voile, en tant que vécu, échappe fréquemment à ceux et à celles qui le vivent (ou
+l’ont vécu).
+1. Première antinomie: obligation/non-obligation
+L’islam se fonde sur cinq piliers indiscutables: la profession de foi, la prière, le
+jeûne du ramadan, l’aumône légale et le pèlerinage. Les quatre derniers piliers
+font souvent l’objet d’une inobservance. Cette dernière ne fait du musulman un
+infidèle que pour certaines écoles extrémistes (comme les kharéjites dans l’islam
+primitif ou Takfir wa al Hijra aujourd’hui). Mais pour la majorité des écoles, il
+suffit de prononcer la profession de foi (il n’y de Dieu qu’Allah, Mohammed est
+le prophète d’Allah) pour être musulman. Le constat s’impose, dès lors, que le
+port du voile ne fait point partie des piliers de l’islam. Cependant, l’existence
+de quelques versets dans le Coran et de quelques hadiths légitimerait le port du
+voile comme une prescription légale.
+1.1 Le voile est une obligation légale
+Le verset 31 de la sourate “La Lumière” (Al Nour) prescrit aux croyantes “de
+baisser leurs regards, d’être chastes, de ne montrer que l’extérieur de leurs
+atours, de rabattre leurs voiles sur leurs poitrines …”.2 Dans ce verset du Coran,
+le terme arabe utilisé est celui de “khoumourihinna” (pluriel de khimar), que
+
+564
+
+Social Compass 55(4)
+
+D. Masson traduit par “voile”. Dans la même sourate, au verset 60, il propose
+la même traduction (au pluriel) pour le terme thiab (pluriel de thawb). Sa traduction est la suivante: “Il n’y a pas de faute à reprocher aux femmes qui ne
+peuvent plus enfanter et qui ne peuvent plus se marier de mettre leurs voiles
+(thiabahounna), à condition de ne pas se montrer dans leurs atours. Mais il est
+préférable pour elles de s’en abstenir, Dieu est celui qui entend et qui sait”.
+Dans la sourate “Les Factions” (Al Ahzab), Dieu déclare au verset 33:
+“Ô vous les femmes du Prophète! … Restez dans vos maisons, ne vous montrez
+pas dans vos atours comme le faisaient les femmes au temps de l’ancienne ignorance” (Coran, 1967: 518). Puis, dans la même sourate, verset 53, Dieu s’adresse
+aux hommes: “Quand vous demandez quelque objet aux épouses du Prophète,
+faites-le derrière un voile. Cela est plus pur pour vos cœurs et pour leurs cœurs”
+(Coran, 1967: 522). Ici, le terme hijab est utilisé et également traduit par “voile”.
+Enfin, le verset 59 de la même sourate semble étendre l’injonction de se “voiler”
+à toutes les femmes des croyants: “Ô prophète! Dis à tes épouses, à tes filles et
+aux femmes des croyants de se couvrir de leurs voiles. C’est pour elles le meilleur moyen de se faire connaître et de ne pas être offensées. Dieu est celui qui
+pardonne, Il est miséricordieux” (Coran 1967: 523). Cette fois, le terme qui a
+donné lieu à la traduction de “voile” est celui de jilbab.
+En somme, le premier de ces versets s’adresse aux croyantes par le biais
+du prophète, le deuxième semble inclure les femmes ménopausées, le troisième
+s’adresse directement aux femmes du prophète, le quatrième est destiné aux
+hommes, et le cinquième aux épouses et filles du prophète ainsi qu’aux femmes
+des croyants par l’entremise du prophète. Ces cinq versets utilisent quatre termes
+différents (khimar, thawb, hijab, jilbab) que D. Masson traduit indifféremment
+par un seul et même terme: “voile”.
+Ces cinq versets semblent faire du port du voile une prescription islamique.
+Si c’est le cas, pourquoi cette prescription n’a-t-elle pas le même statut légal
+incontestable que celui des rites de la prière et du jeûne, par exemple? Ou celui
+de la nécessité, pour une femme répudiée ou veuve, d’observer un délai de
+viduité? Ou pour une sœur d’hériter la moitié du legs reçu par son frère?
+1.2 Le voile n’est pas une obligation
+Cette “prescription” coranique du voile est, en fait, ambiguë à souhait. Les versets qui traitent du voile ne sont pas considérés comme catégoriques et à l’abri
+de toute interprétation.
+L’obligation du port du voile est discutée en tant que prescription universelle.
+Al Choukani (de l’école zidite) affirme que le jilbab est à porter par les femmes
+libres pour se distinguer des femmes esclaves, afin d’être repérées comme libres
+pour éviter d’être harcelées et offensées. L’islamologue Jacques Berque renchérit en soutenant qu’à l’origine, “le port du voile distingue la femme libre des
+femmes de condition inférieure”.
+De plus, l’emploi de plusieurs termes pour évoquer le voile a suscité une
+grande polémique entre juristes musulmans tentant de définir les parties du corps
+qui doivent être voilées, soustraites au regard de l’homme non prohibé (c’est-àdire de l’homme avec qui les relations sexuelles ne sont pas incestueuses). Les
+juristes musulmans n’ont atteint aucun consensus quant à la signification exacte
+
+Dialmy: Les antinomies du port du voile 565
+
+des quatre termes utilisés. Selon Al Zamakhchari, le jilbab est plus large que le
+khimar, ce qui reste vague. La sourate qui utilise le mot hijab s’adresse, en fait,
+aux hommes pour leur demander de ne pas s’adresser directement aux épouses
+du prophète. Un hijab (un paravent, une tenture) doit les séparer lors de leurs
+échanges verbaux. Les deux autres sourates s’adressent aux femmes libres (qui
+ne sont pas esclaves) et leur conseillent de porter un khimar ou un jilbab, afin
+de ne pas être offensées ou harcelées dans les rues. Nulle part dans les sourates,
+il n’est explicitement fait mention d’un voile recouvrant le visage, cachant les
+cheveux et encore moins le corps entier.3
+Par ailleurs, le verbe plus universel “youdnina” (employé dans le cinquième
+verset), a également donné lieu à plusieurs lectures. D’après Ibn Abbas et
+Obéida As Souleimani, ce verbe désigne l’acte d’enrouler le jilbab sur le front,
+d’en couvrir le nez—même si les yeux restent apparents; en somme de cacher la
+majeure partie du visage et la poitrine. Selon Al Zamakhchari, de l’école hanéfite, la femme doit enrouler le jilbab sur la tête et en laisser une partie pour se
+couvrir la poitrine.
+À partir du 19e siècle, l’accès du monde arabo-islamique à la modernité a
+été synonyme de lutte contre le port du voile par la femme. Le rejet du voile
+a, en effet, constitué une expression de l’évolution, de la modernisation des
+pays musulmans et caractérisé le premier réformisme musulman, celui du 19e
+siècle, nommé Nahda en arabe. Ce réformisme a prôné la modernité en termes
+de retour à la Tradition, c’est-à-dire d’épuration de l’islam de tous les ajouts
+culturels, comme le fait de voiler entièrement la femme (niqab ou burka). Pour
+cette première pensée réformiste, et contrairement au jihadiste d’aujourd’hui,
+la construction d’un monde arabe moderne ne pouvait s’envisager sur base
+d’un espace social bicéphale et hiérarchique: d’une part, un espace public masculin et dominant et, d’autre part, un espace privé féminin et dominé. À la
+suite de Qacem Amine (en Égypte en 1899) et de Tahar Haddad (en Tunisie
+en 1930), A. El Fassi (au Maroc en 1952) défendait, au nom de la Shari’a,
+le dévoilement de la femme musulmane, en écrivant que “la femme voilée
+n’est pas moins exposée que la femme dévoilée au risque de la débauche”
+(El Fassi, 1979: 272). Le voile ne prémunit pas contre le risque la débauche.
+Plus loin encore, il accusa la séparation des sexes d’être à l’origine des pratiques homosexuelles, considérées perverses. Après les indépendances nationales, le voile n’était donc plus perçu comme l’insigne religieux et nationaliste
+de la résistance au colonialisme, comme l’insigne d’une identité, mais plutôt
+comme un obstacle au développement. La bataille contre le voile, gagnée par
+les forces nationalistes, était hautement symbolique dans la mesure où elle
+visait l’établissement d’un islam moderne. Se libérer du voile représentait une
+libération vis-à-vis de l’image patriarcale de la femme au foyer, soumise. La
+bataille contre le voile constituait la première bataille féministe des premiers
+réformistes (et modernistes) de l’islam.
+Ni Qacem Amine, ni Tahar Haddad, ni encore A. El Fassi n’a rejeté le port
+du voile au nom d’une posture anti-islamique sécularisée. Au contraire, tous trois
+sont des Oulémas et c’est à ce titre qu’ils ont affirmé sans ambages que le port
+du voile n’était pas une prescription islamique légale incontournable.
+
+566
+
+Social Compass 55(4)
+
+1.3 L’islamisme refait du voile une obligation islamique
+Après la défaite arabe face à Israël durant la guerre des six jours (juin 1967) et
+suite à la montée en puissance des monarchies pétrolières du Golfe à partir de
+1973, l’islamisme se substitua au nationalisme arabe comme projet de société.
+C’est la percée de l’islamisme sous toutes ses formes, des plus intégrées aux plus
+violentes, qui explique, en grande partie, le retour au port du voile. Le voile reste
+un point commun à tous les islamismes. En effet, l’apothéose de l’islamisme
+durant la révolution iranienne en 1979 entraîna la généralisation de la réinterprétation du port du voile comme prescription légale. Depuis, le rejet du port
+du voile ou la simple discussion de sa légalité apparaît comme une trahison de
+l’islam, comme une invite à la débauche (identifiée, par les islamistes, comme
+occidentale). Aussi, le port du voile devient-il le signe premier et élémentaire du
+processus de réislamisation de la société (par le bas).4 Aux yeux des islamistes,
+une foi sans pratique (et sans port du voile) est pour le moins suspecte.
+Afin de consolider les versets islamiques déjà cités, les islamistes “invoquent” quelques hadiths qui vont dans le sens de l’obligation du port du voile.
+Parmi ces hadiths, citons les suivants:
+• “[T]oute femme qui ôte ses vêtements ailleurs que chez elle, Dieu lui
+ôte sa Protection.”
+• “[D]es femmes de Beni Tamim entrèrent chez Aïcha, que Dieu la
+bénisse, vêtues de vêtements ﬁns. Elle leur dit: si vous êtes croyantes,
+ce n’est pas là un habit pour les croyantes. Mais si vous êtes non croyantes, alors jouissez-en.”
+• “[L]e Messager d’Allah a dit: il y aura à la ﬁn de ma communauté des
+femmes dévoilées et nues, maudissez-les, car elles sont maudites.”
+• “[L]e Messager d’Allah a dit: deux catégories appartiennent aux gens
+de l’enfer, les gens qui ont des fouets avec lesquels ils frappent les
+gens, et les femmes dévoilées et nues.”
+• “[L]es meilleures de vos femmes sont les femmes sympathiques et
+fécondes, celles qui consolent et qui ne résistent pas, si elles craignent
+Dieu … Les pires de vos femmes sont les dévoilées et les orgueilleuses.
+Celles-là sont les hypocrites, elles n’entreront au paradis que comme
+le corbeau ayant un bec et des pattes rouges” (caractéristique très rare
+chez les corbeaux).
+À leur tour, ces hadiths (suspectés d’être apocryphes) ne précisent pas la
+teneur du voile. En quoi consiste le port du voile au juste? Aussi, quelques
+islamistes extrémistes ont-ils défini les caractéristiques “légales” du voile
+“légal” comme suit:
+1. Le voile doit couvrir l’ensemble du corps de la femme (selon l’opinion prévalente, reconnaissent-ils, ce qui laisse supposer qu’il existerait d’autres opinions légales non prévalentes; on peut, dès lors, s’interroger sur les critères de
+l’opinion prévalente).
+2. Le voile ne doit pas être en lui-même un embellissement.
+3. Il doit être épais et non transparent.
+4. Il doit être très large, non pas étroit.
+
+Dialmy: Les antinomies du port du voile 567
+
+5.
+6.
+7.
+8.
+
+Il ne peut pas être encensé et parfumé.
+Il ne peut pas ressembler aux vêtements des femmes impies.
+Il ne doit pas ressembler aux habits masculins.
+Il ne peut pas être porté pour se faire distinguer parmi les gens.
+
+Au travers de cette énumération, les extrémistes (ou islamistes radicaux)
+assimilent le voile à un recouvrement total du corps de la femme et font reposer
+l’impératif de la pudeur sur les femmes seules. C’est là un réflexe classique des
+sociétés islamiques: selon une perspective intégriste et puriste, la femme est seule à
+être déclarée responsable et à être accusée des situations de débauche et de luxure.
+À titre d’exemple, dans la première moitié du 16e siècle, les oulémas ont invoqué la perversité naturelle de la femme pour “expliquer” la licence sexuelle qui
+a caractérisé le Maroc septentrional (Dialmy, 1987). L’homme a été déresponsabilisé. Ce mécanisme “rationalisateur” est révélateur de la haine à l’encontre des
+femmes, caractéristique de toute société patriarcale, et débouche sur la nécessité
+de contrôler leurs corps (par le port du voile, par le tabou de la virginité …).
+2. L’antinomie historico-sociologique: voile des bourgeois/
+voile des déshérités
+Au départ, le voile a été imposé aux femmes du prophète, puis aux femmes de
+l’aristocratie citadine, avant d’être aujourd’hui fortement associé aux femmes
+des classes populaires et moyennes.
+2.1 Voile bourgeois ou d’embourgeoisement
+La pratique du voile n’a été observée au cours de l’histoire musulmane que
+dans les cités, là où la loi musulmane est observée, loi qui menace l’unité du
+patrimoine familial par la reconnaissance du droit de la femme à l’héritage.
+À l’image de l’habitat introverti, caractéristique des médinas, l’objectif du voile
+était de réserver les filles de la famille aux garçons de la famille. Comme l’a
+magistralement démontré G. Tillion (1966), le voile est ici un mécanisme au
+service de l’endogamie et celle-ci est une manière de concilier l’impératif légal
+de faire hériter les filles et celui, patriarcal, de veiller à ce que le patrimoine
+familial reste indivis. À ce titre, le voile constitue une ruse patriarcale servant
+à contourner le projet d’une communauté islamique non patrilignagère, métatribale en quelque sorte. Ce projet de société islamique devait se réaliser par et
+dans la cité, cette citadelle de l’orthodoxie, par le biais d’un échange de femmes
+(exogamie) entre tribus-quartiers.
+Ce voile endogamique “traditionnel” préservant les intérêts économiques
+des familles et des classes possédantes a été progressivement abandonné par
+ces mêmes familles et classes, au contact de l’Occident. La modernisation
+de la condition de la femme, de sa circulation dans l’espace public, a commencé par en haut. Les exemples de Huda Sha’rawi (en 1923 en Égypte) et de
+la princesse Aïcha (en 1947 au Maroc) qui ont ôté leur voile en public, dans
+des gestes symboliques, confirment cette évolution (Taarji, 1991: 319). Ces
+deux exemples se situent dans le cadre d’une pensée nationaliste réformiste
+
+568
+
+Social Compass 55(4)
+
+qui a impliqué la femme dans le processus de modernisation. Dans une même
+optique, volontariste cette fois, les Français ont organisé, à la fin de la guerre
+d’Algérie, des cérémonies de dévoilement collectif pour faire montre de
+l’œuvre de la France en faveur des femmes algériennes (Shepard, 2004). Dans
+ces conditions, le port du voile est devenu un phénomène très minoritaire dans
+la plupart des pays arabes dans les années 1960, à l’exception des monarchies
+pétrolières, wahhabites en l’occurrence.
+2.2 Voile islamiste des déshérités
+À partir des années 1970, avec la montée des islamistes, on assiste au revoilement des femmes, au nom de la nécessité du retour à l’islam, appréhendé
+comme étant la solution, une fois l’échec du panarabisme socialisant constaté,
+après la défaite arabe de 1967.
+Ce retour au voile est, en fait, un re-voilement par le bas, dans la mesure
+où le voile islamiste s’est d’abord enraciné dans les périphéries des villes, dans
+les quartiers clandestins, dans les bidonvilles. Cela se comprend eu égard à la
+fonction nouvelle de ce voile réactualisé, islamiste, à savoir moraliser la vie quotidienne dans ces périphéries délaissées et livrées à elle-mêmes, sombrant dans
+l’alcoolisme, la drogue et la prostitution. Quant aux quartiers les plus aisés des
+villes du monde arabo-islamique, ils furent les plus réticents au port du voile et
+à son caractère obligatoire. L’occurrence statistique favorable au port du voile y
+est inférieure (Dialmy, 1995).
+Le voile, et l’islamisme dans lequel il s’inscrit aujourd’hui, sauvent de
+l’anomie, caractéristique des classes populaires. L’anomie se manifeste comme
+une conséquence de l’échec du développement ou, du moins, de son caractère
+inégalitaire et inéquitable. Dans l’espace public, ce voile que les classes populaires adoptent traduit leur contestation de l’ordre moderne inégalitaire dont
+elles sont les victimes. Ni les femmes, ni les classes populaires auxquelles elles
+appartiennent n’accèdent à la consommation. Aussi le voile est-il appel au rejet
+de cette société: il sollicite l’austérité et la frugalité.
+Il faut ajouter que même à l’intérieur de l’espace domestique, le voile se
+substitue aux murs, lorsqu’ils font défaut. Il a été démontré que, dans un logement familial exigu, le voile joue ce rôle de frontière spatiale (Dialmy, 1995). À
+l’image du mur, le voile recrée symboliquement cette distance physique entre les
+générations et les sexes: il est une défense symbolique contre la promiscuité au
+sein de la famille (Nicollet, 1996)5. Il est un rappel à l’ordre contre la tentation
+de l’inceste, celui du regard à tout le moins.
+La corrélation entre le voile et l’exclusion sociale6 est une thèse confortée
+par deux autres faits établis: premièrement, dans les collèges et lycées français
+du monde arabo-islamique, la quasi-totalité des filles est dévoilée (eu égard
+à leur appartenance aux classes favorisées), et ce bien avant la promulgation,
+en 2004, de la loi interdisant le port des insignes religieux à l’école publique;
+deuxièmement, dans la France pluriculturelle et plurifonctionnelle, le port du
+voile est davantage associé aux jeunes filles musulmanes socio-économiquement défavorisées.
+
+Dialmy: Les antinomies du port du voile 569
+
+3. L’antinomie socioculturelle
+Le voile oscille aussi entre une logique moderne, qui en fait un signe
+d’appartenance à une classe sociale défavorisée, et une logique post-moderne,
+culturelle et identitaire.
+3.1 Le voile, expression d’une marginalisation sociale et économique
+Selon S. Beaud et M. Pialoux,
+la question de l’immigration a pour effet de révéler les contradictions qui travaillent la société
+française tout entière depuis plus de deux cents ans: d’un côté, un universalisme hautement
+proclamé, mais fort abstrait, de l’autre, des discriminations de fait bien réelles et qui ne cessent de s’accentuer depuis vingt-cinq ans. Et aujourd’hui, il faut être aveugle pour ne pas
+s’apercevoir de l’acuité du problème qui se trouve posé: la prise en charge de ces enfants
+d’immigrés qui ont été relégués et concentrés dans les mauvaises classes, les mauvaises banlieues, les emplois précaires et autres stages bidon. (Beaud et Pialoux, 2004).
+
+Il en résulte une ethnicisation de la pauvreté, voire sa confessionnalisation:
+les Maghrébins, à la fois ethnie et confession, sont les pauvres de la France.
+Cette exclusion sociale que vivent les Maghrébins débouche sur le port du voile.
+Dans ce cas, le voile exprime une protestation contre la précarité, il est un cri de
+colère, une arme dans une lutte de classes partielle. À travers le port du voile,
+les Maghrébines et les Français d’origine maghrébine (en général) revendiquent
+davantage de justice sociale, de la part d’une république qui ne traite pas tous
+ses citoyens de manière égale.
+L’islam devient alors, en tant que religion politiquement dominée dans la
+laïcité, en tant que religion minoritaire et minorisée à travers la marginalisation de ses représentants (économiquement) défavorisés, un moyen d’expression
+spécifique d’une lutte de classes spécifique. Il représente le refuge par excellence du “sous-prolétariat” maghrébin contre les discriminations frustrantes de
+la société d’accueil. La marginalisation socio-économique des Maghrébins les
+conduit à se constituer en sous-classe sociale, à l’intérieur du prolétariat, avec
+une sub-culture islamique spécifique. Par le biais du voile, les femmes voilées
+contestent à d’autres femmes le droit d’être (plus) riches, et surtout de l’afficher
+de manière ostentatoire. Les jeunes issus de l’immigration ont tous en commun
+d’être en butte à un contrôle policier de tous les instants et victimes de discriminations inacceptables. Aussi, pour lutter contre les humiliations et retrouver leur
+dignité, certains jeunes de confession musulmane, inspirés ou non par des mouvements islamistes, ont-ils choisi de mener une bataille politique pour le droit
+des jeunes filles à porter le voile à l’école.
+En d’autres termes, ce re-voilement par le bas (de la société multiculturelle)
+témoigne d’une aspiration à une société plus égalitaire. La laïcité est donc
+moins menacée par le port du voile que par la précarité sociale qu’il indique
+et qui pousse des populations laissées-pour-compte, victimes de discrimination,
+d’absence de mixité sociale, à choisir de s’affirmer et de lutter par le recours à
+des signes religieux. Cette analyse prouve que la lutte contre le port du voile
+passe par la défense du service public, par la lutte contre la discrimination
+sociale.
+
+570
+
+Social Compass 55(4)
+
+3.2 Le voile, expression de l’identité
+Mais eu égard au recul de l’analyse marxiste en termes de classes sociales et
+de l’idéologie communiste, les Maghrébins se perçoivent de moins en moins
+comme un sous-prolétariat défavorisé pour davantage se poser (et s’opposer)
+en tant que représentants d’une culture différente, islamique. L’islam devient le
+véritable repère (repaire) de leur identité. Plus leur islam est une marque qui
+les marginalise, plus ils s’y accrochent pour se donner et se définir une identité
+spécifique.
+Cette posture est confortée par l’humiliation internationale de l’Islam et des
+Arabes en Palestine, en Afghanistan, en Tchétchénie et en Irak. Là, l’islamisme—
+et le voile qui l’indique sur le plan vestimentaire—constitue une protestation
+contre un ordre international vécu comme inique. À ce niveau, les jeunes filles et
+femmes maghrébines qui portent le voile se perçoivent moins comme Françaises
+ou Canadiennes défavorisées que comme Arabes et musulmanes politiquement
+humiliées. Elles éprouvent le besoin d’exister et s’affichent différemment pour
+ce faire. Seule leur appartenance religieuse leur semble capable d’étancher leur
+soif d’existence et de reconnaissance. Or, revendiquer d’exister grâce au voile et
+par lui, c’est revendiquer le stigmate pour exister, c’est transformer le stigmate
+en avantage, c’est se définir comme meilleure parce que musulmane. En devenant le signe de l’identité musulmane, le voile marque les frontières (vestimentaires) de l’identité et connote ainsi une résistance active à l’usage occidental du
+vêtement et du corps féminin.
+Dans ce cadre d’analyse qui a dominé les années 1980 en France par exemple, l’individu (musulman) ne s’identifie plus à la raison universelle qui domine
+la société multiculturelle française, mais occupe la place particulière qui est la
+sienne. C’est la crise de l’homme et de la femme “sans qualités”, c’est-à-dire
+sans déterminations sociales. C’est la crise de l’Un, de la totalité. Les filles et
+femmes “voilées” sont des actrices qui revendiquent désormais d’être socialement déterminées. Face à un universalisme républicain abstrait et assimilationniste, le voile devient l’indicateur d’une culture (spécifique) qu’on vit désormais
+comme déterminante (en dernière analyse). Pour le Maghrébin, les références
+principales redeviennent culturelles et communautaires, au-delà de l’universalité
+de la raison (républicaine), voire contre elle (Tribalat et Kaltenbach, 2002). Les
+islamistes expriment ce cheminement, s’en saisissent et se présentent en porteparole du droit à la différence.
+Cette posture indique l’entrée dans la post-modernité, car les sociétés postmodernes sont justement des sociétés de communautés (ou de ghettos). Suite
+à une politique urbaine discriminante, la relégation spatiale des Maghrébins et
+de leur descendance a créé des quasi-“ghettos”. En effet, la cité, reflet d’une
+politique ségrégationniste de la ville, est un espace qui favorise le ghetto et
+ses lois particulières, entre autres, celles du port du voile. “L’adoption du voile
+renvoie à la montée d’un islamisme militant qui se développe dans les cités,
+comme une alternative à une intégration manquée”, affirme H. Cherifi (2003:
+16): l’islamisme comme sub-culture, voire comme contre-culture, a effectivement progressé notamment dans les ghettos: “cet apartheid territorial et social
+… qui enferme des millions de gens dans la misère culturelle.” Il est alors normal que, dans une société multiculturelle inégalitaire, le discours universaliste
+
+Dialmy: Les antinomies du port du voile 571
+
+égalitaire perde le monopole du sens parce que constamment trahi par des
+politiques publiques discriminatoires. Aussi, et pour des raisons économiques, y
+a-t-il rejet de la prétention de la culture occidentale à l’unité et à l’universalité.
+“C’est cette dissociation des stratégies économiques et de la construction d’un
+type de société, de culture et de personnalité … que nomme et qui définit l’idée
+de post-modernité”, affirme A. Touraine (1992: 216).
+Ici se dessine le passage à la société post-moderne, celle-ci étant un champ de
+bataille entre des groupes sociaux qui ne se définissent plus en termes de classes
+sociales. La lutte devient raciale (entre blancs et non blancs), ethnique (entre
+Français de souche et Français naturalisés), religieuse (entre non-musulmans
+et musulmans), sexuelle (entre hommes et femmes). En d’autres termes, les
+batailles se situent au sein de guerres culturelles fondées sur la nature, notamment le sexe et la couleur de peau, ou renvoyant à des structures primaires (confessionnelles, ethniques).
+Cependant, parmi les jeunes des années 1990 en France, il est de moins en
+moins question de retour à une différence communautaire sauvage et irréductible, mais plustôt de construction d’une sociabilité religieuse plus européenne et
+transnationale.
+[Les] jeunes ne se laissent plus enfermer dans une logique de démarquage et une vision
+essentialiste de l’islam. Il faudra à l’avenir analyser non plus la spécificité musulmane, mais
+les modalités de son entrée dans une culture de la post-modernité où la différence devient une
+ressource dans le processus de l’interaction sociale. (Saint Blancat, 2004: 245).
+
+En d’autres termes, les jeunes européens d’origine maghrébine seraient de
+moins en moins analysables à travers le prisme identitaire. Ce changement est
+également dû à l’émergence des jeunes en tant que classe moyenne plus intégrée. On assiste alors à une contradiction moindre entre foi islamique et loyauté
+à l’État-nation (de résidence ou de citoyenneté). L’islam ne serait plus vécu
+par les jeunes comme un défi à l’État-nation ou l’occasion de développer une
+conception communautaire de la laïcité (contraire à la république). Au contraire, l’islam, et plus précisément le voile, serait devenu, pour les jeunes filles,
+un moyen de libération individuelle contre le communautarisme culturel étroit
+des parents. Les jeunes femmes qui portent le voile ne réclament pas des droits
+spécifiques dérogatoires au droit commun en matière de mariage, de divorce, de
+garde des enfants … Elles réclament surtout un droit à l’intégration à la république (Gaspard et Khosrokhavar, 1995).
+Aussi, peut-on voir dans le conflit à propos du port du voile en France
+l’affrontement entre ceux pour qui la laïcité signifie la lutte anticléricale et ceux
+pour qui la laïcité signifie l’égalité des droits entre les différentes confessions
+sur le plan social et politique.
+4. L’antinomie du genre: entre infériorisation et
+émancipation
+Le voile est-il nécessairement un moyen d’inférioriser la femme et de la marginaliser? Dans quelle mesure est-il au contraire instrumentalisé par des femmes
+musulmanes et islamistes pour en faire l’arme d’une libération doublement
+
+572
+
+Social Compass 55(4)
+
+correcte, tant aux yeux de l’islam que du féminisme, et qui tente ainsi de
+concilier le féminisme et l’islam?
+4.1 Le voile, instrument de subordination des femmes
+Le retour au voile peut d’abord être lu comme une résistance islamiste à l’effet
+de la modernisation, voire comme une régression et un archaïsme. En effet,
+quelques interprétations des versets et des hadiths cités plus haut imposent à la
+femme de se voiler parce qu’elles la définissent comme fitna, c’est-à-dire comme
+séduction et sédition. La beauté des femmes est considérée par certains juristes,
+à l’image d’Ibn Al Jawzia, comme la flèche dont se sert Satan pour détourner les
+croyants du chemin de Dieu et les conduire vers le désordre et l’ignorance. Ici
+est développée une vision misogyne: la femme est subversion, source de désordre, alliée du diable, ennemie de l’homme et de Dieu. Considéré comme awra,
+c’est-à-dire comme une chose à couvrir, le corps de la femme est à soustraire au
+regard (de l’homme) dans l’espace public. Ce corps est craint, car, de par son
+action sexuelle potentielle et jouissive, il est susceptible de détruire l’ordre de
+la communauté et l’honneur de la famille. Aussi, le voile, tout en autorisant la
+mixité, préserverait l’homme et l’ordre public du “péril féminin”.
+La signification sexiste attachée au port du voile ne fait ici aucun doute
+puisqu’il est revendiqué au nom de la séparation des sexes et de la “pudeur”
+assumée par les femmes (seules). Pour G. Halimi, “le voile crée un apartheid
+sexuel” (2003). Sous prétexte de pudeur, le voile réfère à l’obsession de la virginité et à la division sexuelle figée et inégalitaire des rôles sociaux (Bensaïd,
+Joshua et Vachetta, 2005). Il tombe ainsi sous le sens que la fonction principale
+du retour au voile est de contrôler les femmes, de subordonner leur corps et leur
+sexualité. Ce re-voilement assure, au sein d’une certaine logique néo-patriarcale,
+l’anti-sexualisation du corps féminin, c’est-à-dire sa neutralisation sexuelle dans
+l’espace public de la ville. Il s’agit là d’une volonté d’arrêter la mise en scène de
+ce corps par et pour le marché.
+Dans de nombreux cas, le port du voile résulte d’une pression parentale (père,
+frère) ou maritale. Quelques parents obtiennent des bourses d’études pour leurs
+filles, à condition de leur imposer le port du voile. Mis à part ce pragmatisme
+servile, la pression parentale reflète une domination masculine légitimée par le
+religieux et qui fait exécuter le religieux. Là, le port du voile traduit la nécessité d’obéir aux parents. Ceux-ci craignent la libération sexuelle de leurs filles,
+libération entendue comme option occidentale “perverse”. Les parents obligent
+donc leurs filles à se re-voiler, c’est-à-dire à neutraliser leur corps, cet instrument suprême de libération sexuelle. Cette pression s’exerce également au nom
+de la “cité-ghetto”, de sa logique et de sa “loi”, en marge de la loi républicaine.
+Sous intégrée, la cité-ghetto fait prévaloir la loi d’Allah, comprise par ses mâles
+comme un impératif catégorique d’imposer le voile aux femmes (sœurs et filles).
+La femme par qui l’Occident arrive, c’est celle qui introduit des comportements inédits, étrangers au groupe et à son référentiel propre. Imposer le voile
+à la femme est synonyme de maîtrise des risques de dérive, de trahison et de
+déshonneur. Cette obligation de contrôle revient aux hommes qui, s’ils ne veillent pas à l’application de la Shari’a (entendue par eux comme port de voile
+obligatoire), ne seraient plus que des mâles sans masculinité, sans honneur. Nous
+
+Dialmy: Les antinomies du port du voile 573
+
+pourrions ici évoquer l’hypothèse de Todd, selon laquelle “si les musulmans
+imposent le port du voile à leurs filles, c’est pour les empêcher de rencontrer
+et éventuellement de se marier avec des non-musulmans” (1994). En effet, dans
+des pays multiculturalistes où le port du voile est bien accepté (Angleterre,
+États-Unis), le taux de mariages mixtes est bien plus bas. Ce refus du mariage
+mixte permettrait de poursuivre les pratiques endogamiques signalées plus haut
+par Tillion. Mais l’endogamie est alors plutôt de type religieux, l’enjeu étant de
+réserver les jeunes filles musulmanes aux jeunes hommes musulmans. Pour certains parents, refuser le mariage de leur fille avec un non-musulman, c’est sauvegarder l’honneur de la famille. Cette logique atteint son paroxysme en Syrie,
+par exemple: les jeunes filles qui osent épouser un homme qui appartient à une
+autre confession sont sauvagement assassinées par leurs parents (pères et/ou
+frères) sous les youyous et cris de joie de leurs mères et sœurs. Ces crimes sont
+considérés en Syrie comme des crimes d’honneur (Zeitouna, 2007).
+Le voile est humiliant pour les femmes auxquelles il assigne une place de
+proie et pour les hommes qu’il assimile à des prédateurs. Aussi, une soixantaine
+de personnalités, d’Isabelle Adjani à Élisabeth Badinter, ont-elles signé un texte
+demandant l’interdiction de ce “symbole visible de la soumission de la femme”,
+“une atteinte personnelle à sa dignité et à sa liberté” (Nouvel Observateur, 2003).
+L’écrivaine Chahdortt Djavann renchérit, en déclarant à la commission Stasi que
+“le port du voile doit être considéré comme un acte de maltraitance” des filles
+mineures (Coroller, 2003). Elle “explique” que “le voile, hidjab, c’est le dogme
+islamique le plus barbare qui s’inscrit sur le corps féminin et s’en empare”.
+Cette révolte “féministe” contre le voile est aussi une réaction contre la
+logique islamiste radicale qui a tendance à ériger un voile un et semblable,
+surimposé de l’extérieur, coercitif, mondialisé. Ce voile unidimensionnel, dit
+“légal”, qui annihile toute individualité féminine publique, est l’arme utilisée par
+une internationale islamiste (informelle) qui résiste non seulement à l’Occident,
+mais aussi et surtout, à la modernité. Le voile mondialisé, comme représentation et comme pratique, est désormais un uniforme idéologique qu’on impose
+aux femmes pour les engager dans un seul et même combat contre le statut du
+corps dans la modernité, statut caractérisé par la dénudation, la marchandisation,
+la mise en scène. Le voile noir et recouvrant ne correspond à aucun précepte
+religieux, ni même à aucune tradition familiale nationale maghrébine. C’est ce
+voile qu’un islamisme extrémiste et radical tente d’internationaliser. Il s’agit
+d’un habit porté dans la péninsule arabique, en Iran ou en Afghanistan. Le porter
+partout relève donc bien de l’acte militant.
+4.2 Le voile, instrument d’émancipation de la femme
+Une autre lecture du voile, diamétralement opposée, est possible. En effet, le
+port du voile peut également être le choix d’une jeune femme libre qui entend
+exprimer ainsi son désir de liberté.
+Dans ce cadre, le port du voile est d’abord une révolte contre certains parents,
+et contre une certaine lecture de l’islam. L’islam des parents, première génération
+illettrée, est très marqué par la présence de traditions sociales qui imposent aux
+enfants une obéissance aveugle aux parents, et aux femmes une soumission inconditionnelle aux hommes. Ces traditions culturelles ont finalement été perçues et
+
+574
+
+Social Compass 55(4)
+
+vécues comme des prescriptions religieuses légales. En conséquence, choisir de
+porter le voile, c’est, pour la jeune fille, se démarquer par rapport à cet islam.
+C’est refuser de l’hériter “naturellement”. C’est s’opposer à la génération des
+parents. C’est rejeter les traditions patriarcales et misogynes. En choisissant de
+porter un voile, la jeune fille, avec son capital scolaire, prétend mieux connaître
+l’islam que ses parents. Plus encore, elle leur apprend l’islam “véritable” et “pur”
+et le leur inculque. Pour cette catégorie de parents “sociologiquement” musulmans, le port du voile est perçu comme un choix (islamiste) non nécessaire.
+Dans certains cas, le port du voile traduit, en effet, un choix islamiste chez
+la jeune fille. Cet islamisme permet à la jeune femme de s’opposer à certaines formes de domination parentale et masculine. La jeune fille gagne ici la
+possibilité d’échapper à un mariage arrangé, par exemple. Son consentement est
+nécessaire, selon l’islam scripturaire qui fait fi des traditions patriarcales. Grâce
+au voile et au respect de la Shari’a qu’il symbolise pour la conscience ordinaire
+de parents ordinaires, la jeune fille conquiert aussi le droit de circuler librement
+… Porter un voile est, en effet, un mécanisme de défense qui permet de se protéger de la “drague” dans certaines cités et quartiers. Le voile est donc l’instrument
+d’une certaine forme d’émancipation: grâce à lui, la jeune fille circule librement,
+tout en étant respectée. Le porter, c’est à la fois gagner prestige social et liberté,
+contre une domination parentale et masculine rejetée comme arbitraire, parce
+que non conforme aux prescriptions d’une lecture puriste de la Shari’a.
+Par conséquent, le voile devient l’instrument d’un féminisme particulier,
+islamique, que d’aucuns considèrent comme paradoxal (Dialmy, 2003). Face à
+une famille qui pratique un islam culturel patriarcal, le port du voile constitue
+un moyen de libération plus légitime et plus fort. Si les parents peuvent opposer
+un refus à une libération à l’occidentale de leur fille, ils ne peuvent lui refuser
+le voile et les libertés qu’il implique. Car si la libération à l’occidentale va, pour
+eux, de pair avec la débauche et la luxure, la liberté de mouvement que le voile
+garantit est, au contraire, présentée et perçue comme une préservation contre le
+risque de débauche et d’immoralité. Garant et symbole de la moralité sexuelle,
+le voile libère la jeune fille des contraintes de l’islam culturel patriarcal, lequel
+prône la ségrégation des sexes, le rôle domestique de la femme, son obéissance,
+etc. Le port du voile impose d’accepter la mixité dans l’espace public, mixité
+légale parce que non excitante, prémunie contre la séduction. Cette libération
+est plus forte parce qu’elle provient de l’intérieur, de l’identité. On voit ainsi
+l’islam devenir, surtout là où il est dominé, le mode d’expression privilégié d’un
+féminisme spécifique, différencié.
+Dans ce contexte, le port du voile représente, par-delà des apparences,
+une critique de l’instrumentalisation du Coran qui sert à reproduire le modèle
+patriarcal d’autorité et la hiérarchie des genres au sein de la famille (Saint
+Blancat, 2004: 241). Grâce au voile, les jeunes filles se réapproprient le religieux et se recréent une identité de genre moins dominée et moins soumise au
+masculin. Comme l’écrit Amiraux: “il s’agit d’une femme plutôt jeune, née dans
+le pays européen dont elle est souvent la citoyenne, engagée dans de multiples
+circuits de socialisation, dont la religion n’est qu’une partie, choisie, assumée,
+revendiquée” (2003: 85).
+Ce voile libérateur semble également être infiltré par l’esprit de la mode et
+de la séduction. Dans des cas de plus en plus nombreux, il ne présuppose pas le
+
+Dialmy: Les antinomies du port du voile 575
+
+rejet de maquillage et de séduction, ou l’absence de couleurs vives et bariolées.
+Des défilés de mode consacrés au voile se tiennent ici et là. Certaines chaînes par
+satellite arabes et des sites web présentent régulièrement les derniers modèles et les
+tout derniers styles. Il existe même une concurrence livrée par le marché informel
+et constatée à travers la prolifération des marchés non structurés exposant partout
+des produits importés des pays asiatiques. Les habits pour femmes portant le voile
+commencent à se frayer une place de plus en plus importante dans le monde du
+prêt-à-porter féminin. Cette mode vestimentaire, discrète il y a quelques années,
+s’impose davantage avec le foisonnement de boutiques spécialisées dans les centres commerciaux les plus importants à travers le monde.
+5. L’antinomie religieuse: entre islamisme et spiritualité
+Le voile est souvent une arme associée au combat islamiste contre la dénudation
+moderne et occidentale du corps féminin. Mais son port peut également refléter
+une quête de la vérité, un cheminement spirituel, un combat contre soi: le grand
+jihad (al jihad al akbar).
+5.1 Le voile islamiste
+Pour C. Lacoste-Dujardin, le port des fichus par quelques écolières musulmanes
+en France avait été opportunément encouragé par les propagandistes de mouvements islamistes, dans le cadre d’une nouvelle stratégie d’“anti-intégration” de
+ces jeunes filles. Cette approche fait valoir qu’une minorité d’islamistes entrave
+la volonté des personnes d’origine maghrébine de s’intégrer dans la société
+française. Le voile apparaît ici comme un uniforme politico-religieux moderne,
+apparu à la suite de la révolution iranienne, et qui représente, aux yeux des Français, le signe d’une opposition politique: ce fichu est l’emblème d’une allégeance
+prioritaire à des prescriptions politico-religieuses qui peuvent aller jusqu’au refus
+des obligations légales et républicaines, dans le cas où les lois françaises apparaîtraient contraires à la loi religieuse (Lacoste-Dujardin, 2004). Il apparaît donc que
+les mouvements islamistes requièrent le port du voile afin d’évaluer leur poids
+dans la société et leur influence face aux autorités. Ce fichu s’inscrit majoritairement dans une internationale islamiste qui lance un défi aux politiques publiques
+de tout État qui ne fonde pas sa légitimité sur l’islam et qui ne se perçoit pas
+comme l’instrument exécutif de l’islam. Dans un espace laïc, l’islamisme exhorte
+parfois au ségrégationnisme communautaire. Ainsi, A. Duhamel (2003) voit, dans
+le voile, le totem du communautarisme, qui commence à l’école.
+Au sein de l’école, ce sanctuaire de la laïcité française, certaines jeunes
+filles voilées refusent certains cours qui porteraient atteinte à “l’honneur” et aux
+bonnes mœurs, comme les cours de théâtre et d’éducation physique. Selon les
+idéologues dont elles s’inspirent, le théâtre est une forme dépravée de spectacle,
+qui n’existe pas en islam. Pour ce qui est de l’éducation physique, la jeune fille
+s’exhiberait sans retenue. En refusant de suivre ces cours,7 l’élève voilée viole
+non seulement la règle de l’assiduité, mais s’opposerait, stratégiquement, au
+principe même de la laïcité, c’est-à-dire au principe de la neutralité religieuse
+de l’école. Le refus d’une fille d’être assise en classe à côté d’un garçon et/ou
+
+576
+
+Social Compass 55(4)
+
+de participer aux activités mixtes à la piscine va dans le même sens. Et, en effet,
+d’année en année, le grignotage religieux progresse et les concessions communautaristes gagnent, dans les cours d’histoire et d’éducation physique, dans les
+cantines. Depuis quatorze ans, en France, des privilèges communautaires ont été
+acquis.
+Certes, la laïcité à l’école (française) est avant tout celle des enseignants, celle
+des locaux, des programmes, pas celle des élèves. Le port du voile n’est donc pas
+anti-laïc en soi, comme l’a affirmé le Conseil d’État en France à plusieurs reprises
+(Willaime, 1991). Il le devient quand il est “acte de pression, de provocation, de
+prosélytisme ou de propagande ou s’il entrave les activités d’enseignement”. En
+revendiquant des salles de prière et des cantines séparées dans l’enceinte scolaire,
+on peut avancer que le voile islamiste s’oppose minimalement à la définition individualiste de la laïcité, laquelle estime que la religion est une affaire individuelle.
+Il en appelle implicitement et objectivement à une définition communautariste de
+la laïcité qui transforme la religion en affaire de groupe, en question collective.
+Ce débat public autour de la privatisation de l’islam court le risque de tomber
+dans la définition islamiste de l’islam comme étant la “meilleure des communautés”, ce qui, à la longue, ne manquera pas d’entrer en conflit avec le principe de
+l’égalité de tous les citoyens (qu’ils soient croyants ou incroyants, musulmans ou
+autres). Le port du voile peut aller de pair, à ce niveau de l’analyse, avec la “publicisation” d’une image survalorisée de soi.
+De manière générale, l’islamisme développe, en insistant sur le port du voile
+par la femme, une définition matérialiste de l’islam qui réduit l’islam au comportement extérieur de l’individu, à des signes visibles, ostensibles et ostentatoires. L’islamisme constitue alors pour l’Islam ce qu’est le behaviorisme pour
+la psychologie (Dialmy, 1995): tous deux produisent un “sujet” sans conscience,
+sans intériorité, sans spiritualité. Le voile serait-il, dans tous les cas, le symptôme d’une “musulmane” sans quête intérieure de la vérité?
+5.2 Le voile, un cheminement spirituel
+Plusieurs études signalent l’action des confréries, c’est-à-dire la présence d’un
+islam qui, sans être combatif et militant, appelle lui aussi les femmes à porter
+le voile. Cette action se déploie tant dans les pays où l’islam est religion d’État
+que dans les pays européens où l’islam est une religion parmi d’autres, dans un
+paysage laïc.
+La voie soufie est sexuellement non discriminatoire, dans le sens où elle
+s’adresse aux deux sexes pour leur demander de renoncer aux apparats, aux
+richesses et à toute forme de pouvoir et de séduction. Dans ce contexte, le port
+du voile reflète le renoncement, le recueillement. Cet appel au voile se fait
+dans une stratégie d’apprivoisement du corps, une stratégie qui s’adresse tant
+à la femme qu’à l’homme, une fois sur le chemin d’Allah. Se voiler est alors
+une manière de se définir comme pauvre en Allah, à la recherche d’Allah (Hessini, 1996: 100). Le porter, c’est indiquer une décision de se purifier, de purifier
+l’intention, le croire. Le port du voile s’associe alors à une nouvelle construction
+de soi, dans un parcours biographique. Il s’agit, pour reprendre les termes de G.
+Davie, d’une tendance à une spiritualité autonome, du développement d’un religieux hors piste et qui est ressource de sens et d’éthique (2004).
+
+Dialmy: Les antinomies du port du voile 577
+
+Ce credo spirituel est refus des apparences et de leur investissement dans
+les rapports sociaux, refus de la logique mercantile du capitalisme. Il rejoint
+la logique marxiste développée par A. Badiou, qui estime que la loi française
+contre le port du voile est une loi capitaliste pure qui ordonne que la féminité
+soit exposée et circule au sein du paradigme marchand (2003). Pour les femmes
+voilées au nom d’une spiritualité apolitique, l’enjeu est celui de ne pas exploiter
+la faiblesse sexuelle des hommes (au bénéfice du marché entre autres). Le
+voile se dit explicitement refus d’exploiter le corps féminin dans les messages
+publicitaires. Il est refus de l’assimilation de la femme à sa beauté physique et
+extérieure, il est refus de sa chosification corporelle. Quelques jeunes musulmanes voilées affirment en effet vouloir être estimées pour leur personnalité,
+leur intelligence, leur individualité, leur subjectivité.
+Cette subjectivisation du croire fragilise autant le contrôle des autorités
+familiales, communautaires, institutionnelles qu’associatives. Elle est une individualisation de l’interprétation qui permet de se réinscrire émotionnellement
+dans une filiation, grâce à une capacité réflexive, à un travail sur soi. À l’image
+de l’islamisme internationaliste, cette mouvance spirituelle tente également de
+transcender les différences nationales et le savoir juridique scripturaire. Grâce
+à sa souplesse, elle rend l’islam assimilable et n’offre pas de légitimation aux
+ruptures et aux violences. Le voile devient symbole d’une quête de paix entre
+les sexes, entre les peuples, entre les religions. Peut-être faut-il rapprocher cette
+mouvance spiritualiste minoritaire de l’émergence d’une classe moyenne européenne parmi les jeunes musulmans d’Europe.
+Conclusion
+Un coup d’œil sur internet met au jour des dizaines de témoignages de femmes
+musulmanes dans le monde, invoquant leurs raisons de porter ou de ne pas porter le voile. Le débat sur le voile est intense, passionnel et vraiment universel.
+Le voile n’a pas de signification unitaire. Il reflète la diversité des expériences
+et des aspirations des femmes dans le monde (Giddens, 2003). Des hybridations
+sont même possibles, dans la mesure où des jeunes femmes islamistes restent
+sensibles à la coquetterie et la pratiquent grâce au voile, et dans la mesure où il
+existe des islamistes sensibles à la spiritualité (et vice versa).
+Les cinq antinomies identifiées et décrites ci-dessus résument, à notre sens,
+les principales dénotations et fonctions que le voile a prises dans l’histoire de
+l’islam. Elles sont le signe de l’ambivalence du religieux. Le voile n’a pas la
+même signification partout: pour les femmes, il peut aussi bien être un symbole de soumission qu’un symbole d’adaptation à la modernité. Mais quoi qu’il
+en soit de ces antinomies, la problématique du voile est un indicateur de la
+centralité des femmes dans le débat public sur l’islam et ses enjeux. Le voile
+sort l’islam de la sphère privée, le rend visible dans la sphère publique et pose,
+entre autres, la question suivante: comment une école laïque en Occident peutelle parler de la religion et de l’islam, en particulier? La laïcité deviendrait-elle
+l’appareil d’illégitimation de toute expression publique de la religion de l’autre?
+Certes, l’école publique ne peut demeurer complaisante devant les intégrismes
+qui menacent les valeurs démocratiques et les savoirs scientifiques, et encore
+
+578
+
+Social Compass 55(4)
+
+moins être un espace servant à leur expression et à leur transmission. En cas
+de contradiction entre valeurs civiques communes et valeurs religieuses, l’école
+publique doit afficher clairement son choix en faveur des premières.
+La question du voile met en jeu non seulement la place de l’islam dans le
+paysage religieux, mais aussi la question des discriminations sociales et ethniques, ainsi que, partant, celle de la recomposition identitaire de toute société
+et du “vivre ensemble” (Vianès, 2004). S’il reste nécessaire de faire barrage à
+l’islamisme sans blesser les musulmans de par le monde, et ce, grâce à la laïcité
+qui est un excellent cadre pour réformer l’islam, il est néanmoins vrai que le
+geste de se voiler ne peut plus être envisagé uniquement à travers “le prisme de
+l’anti-modernité et de l’arriération” (Amiraux, 2003: 85).
+NOTES
+1.
+
+“Le voile renvoie à une croyance sémitique très ancienne, qui considérait la chevelure
+comme le reflet de la toison pubienne! Aussi, le port du voile est-il rendu obligatoire dès
+le XIIe siècle avant J.-C. par le roi d’Assyrie. C’est Saint-Paul qui, le premier, a imposé
+le voile aux femmes en avançant des arguments strictement religieux. Dans l’épître aux
+Corinthiens, il dit: ‘toute femme qui prie ou parle sous l’inspiration de Dieu sans voile sur
+la tête, commet une faute … L’homme, lui, ne doit pas se voiler la tête: il est l’image et la
+gloire de Dieu, mais la femme est la gloire de l’homme’” (Kacimi, 2003).
+2.
+Sourate La Lumière (Al Nour), Verset 31: “Dis aux croyantes de baisser leurs regards,
+D’être chastes, De ne montrer que l’extérieur de leurs atours, de rabattre leurs voiles
+(Khoumourihinna) sur leurs poitrines, De ne montrer leurs atours qu’à leurs époux, Ou
+leurs pères, ou aux pères de leurs époux, Ou à leurs fils, ou aux fils de leurs époux, Ou à
+leurs frères, ou aux fils de leurs frères, Ou aux fils de leurs sœurs Ou à leurs servantes ou
+à leurs esclaves, ou à leurs serviteurs mâles incapables d’actes sexuels, ou aux garçons
+impubères” (Coran, 1967: 434).
+3.
+Pour le Robert, un voile est soit “un morceau d’étoffe plus ou moins transparente
+destiné à cacher le visage”, soit un “vêtement léger et transparent qui couvre le corps
+féminin”. Cela ne correspond pas à ce que femmes et jeunes filles musulmanes ou
+islamistes portent sur la tête. Ce n’est pas non plus un foulard. Un mot français plus
+adéquat pour la désigner serait celui de “fichu”. Le “fichu islamiste” a été recalé. Le mot
+juste existe, simple et précis, celui de guimpe qui désigne “un morceau de toile qui couvre la tête, encadre le visage, cache le cou et la gorge” (Dupuy, 2004).
+4.
+Selon un sondage IFOP-Le Monde de septembre 2001, seuls 36% des musulmans se
+disent “croyants et pratiquants”, 42% s’affirmant simplement “croyants”, 16% “d’origine
+musulmane” et 5% “sans religion”. La même enquête indique que 79% des musulmans
+ne fréquentent pas la mosquée.
+5.
+Le phénomène des familles nombreuses dans des logements exigus se rencontre également en France au sein de la population immigrée, dans certaines familles polygames,
+notamment (Nicollet, 1996).
+6.
+Cette corrélation entre port du voile et classes populaires ne fait pas l’unanimité dans le
+monde arabe, dès lors que certains chercheurs lient le retour du voile à la classe moyenne,
+comme en Égypte (Mac Leod, 1992).
+7.
+Les cours concernant les sciences de la vie (théorie de l’évolution, anatomie et physiologie sexuelles), la littérature (refus d’étudier certains auteurs dits antireligieux et/ou
+féministes) étaient également boycottés ici et là.
+
+Dialmy: Les antinomies du port du voile 579
+
+RÉFÉRENCES
+Amiraux, Valérie (2003) “Discours voilés sur les musulmanes en Europe: comment les
+musulmans sont-ils devenus des musulmanes”, Social Compass 50(1): 85–96.
+Badiou, Alain (2003) “Derrière la Loi foulardière, la peur”, Le Monde (22 April).
+Barber, Benjamin R. (1996) Jihad vs McWorlds: How Globalisation and Tribalisation are
+Reshaping the World. New York: Ballatine Books.
+Beaud, Stéphane et Pialoux, Michel (2004) “Le voile de l’ignorance”, Le Monde (17
+Feb.).
+Bensaïd, Daniel, Joshua, Samy et Vachetta, Roseline (2005) “Quand la raison s’affole”,
+Libération (21 March).
+Cherifi, Hanifa (2003) “Ce que l’on n’ose pas dire”, L’Express (12 Sept.).
+Coran (1967) Coran (translated by Denise Masson). Paris: Gallimard.
+Coroller, Catherine (2003) “Chahdortt Djavann: le port du voile doit être considéré
+comme un acte de maltraitance”, Libération (22 Sept.).
+Davie, Grace (2004) Religion in Britain Since 1945: Believing Without Belonging.
+Oxford: Blackwell.
+Dialmy, Abdessamad (1987) Femmes et discours au Maroc. Amiens: Thèse de doctorat
+d’État, Université de Picardie.
+Dialmy, Abdessamad (1995) Logement, sexualité et islam. Casablanca: Eddif.
+Dialmy, Abdessamad (2003) “Les antinomies de la raison islamo-féministe”, Social Compass 50(1): 13–22.
+Duhamel, Alain (2003) “Le totem du communautarisme”, Libération (26 Nov.).
+Dupuy, Gérard (2004) “Guimpe religieuse à la mode islamique”, Libération (30 Jan.).
+El Fassi, Allal (1979) L’auto-critique. Rabat: Imprimerie Fedala (4th edn, in arabic).
+Gaspard, Françoise et Khosrokhavar, Farhad (1995) Le foulard et la république. Paris: La
+Découverte.
+Giddens, Anthony (2003) “Voile islamique: la France sur la mauvaise voie”, Le Monde
+(14 Jan.).
+Halimi, Gisèle (2003) “La dernière audience publique de la commission Stasi”, Le Monde
+(16 Nov.).
+Hessini, Leila (1996) “Signification du voile au Maroc. Tradition, protestation ou libération”, in Bourqia, R. , Charrad, M. M. et Gallagher, N. (eds) Femmes, culture et société
+au Maghreb. Casablanca: Afrique Orient.
+Kacimi, Mohamed (2003) “Voile, une antique aliénation”, Libération (10 Dec.).
+Lacoste-Dujardin, Camille (2004) “Fichu hidjab, uniforme islamiste”, Libération
+(6 Jan.).
+Mac Leod, Arlene Elowe (1992) Accommodating Protest, New Veiling and Social Change
+in Cairo. New York: Columbia University Press.
+Nicollet, Albert (1996) “Les filles de la nouvelle génération africaine. Continuité ou rupture”, Migrants Formation 91: 121–31.
+Nouvel Observateur (2003) “Elle lance un appel contre le voile”, Nouvel Observateur
+(4 Dec.).
+Saint Blancat, Chantal (2004) “La transmission de l’islam auprès des nouvelles générations de la diaspora”, Social Compass 51(2): 235–47.
+Shepard, Todd (2004) “La bataille du voile pendant la guerre d’Algérie”, in Nordmann,
+Charlotte (ed.) Le foulard islamique en questions, pp. 134–41. Paris: Éditions
+Amsterdam.
+Taarji, Hind (1991) Les voilées de l’islam. Casablanca: Eddif.
+Tillion, Germaine (1966) Le harem et les cousins. Paris: Seuil.
+Todd, Emmanuel (1994) Le destin des immigrés. Paris: Seuil.
+Touraine, Alain (1992) Critique de la modernité. Paris: Fayard.
+
+580
+
+Social Compass 55(4)
+
+Tribalat, Michèle et Kaltenbach, Jeannette (2002) La République et l’Islam. Paris:
+Gallimard.
+Vianès, Michèle (2004) Un voile sous la république. Paris: Stock.
+Willaime, Jean-Paul (1991) “Le conseil d’État et la laïcité: propos sur l’avis du 27 novembre 1990”, Revue Française de Science Politique 41(1): 28–44.
+Zeitouna, Razzane (2007) “Crimes d’un honneur large et ambigu”, Al Awan, Revue
+électronique (en arabe): see www.alawan.com/index.php?option=com_content&amp;amp;task=
+view&amp;amp;id=1435&amp;amp;Itemid=7
+
+Abdessamad DIALMY, sociologue, est professeur associé à l’Université
+Mohamed V de Rabat (Maroc). Il a publié de nombreux ouvrages sur le
+genre, la sexualité, l’islam et la santé. Parmi ses ouvrages figurent: Logement, sexualité et islam (1995), Féminisme, islamisme et soufisme (1997),
+Jeunesse, Sida et islam au Maroc (2000). Il a publié de nombreux articles
+dans des revues académiques internationales. Il a coordonné des ouvrages
+sur l’émigration, la situation de l’enfant, les sciences sociales et la santé.
+À plusieurs reprises, il a été sollicité comme expert ou consultant par des
+organismes internationaux tels que l’OMS, l’UNICEF, le FNUAP, l’USAID,
+l’Union Européenne, et d’autres. ADRESSE: Université Mohamed V,
+Faculté des Lettres et des Sciences Humaines, Département de Sociologie
+B.P.1040, Ibn Batouta 3 10 000 Rabat, Maroc. [email: dialmy@menara.ma]
+
+</p>
+         </div>
+      </body>
+      <back>
+         <note>
+            <p>
+               <list type="order">
+                  <item>
+                     <p>1. fiLe voile renvoie à une croyance sémitique très ancienne, qui considérait la chevelure comme le reflet de la toison pubienne! Aussi, le port du voile est-il rendu obligatoire dès le XIIe siècle avant J.-C. par le roi d'Assyrie. C'est Saint-Paul qui, le premier, a imposé le voile aux femmes en avançant des arguments strictement religieux. Dans l'épître aux Corinthiens, il dit: `toute femme qui prie ou parle sous l'inspiration de Dieu sans voile sur la tête, commet une faute … L'homme, lui, ne doit pas se voiler la tête: il est l'image et la gloire de Dieu, mais la femme est la gloire de l'homme'” (Kacimi, 2003).</p>
+                  </item>
+                  <item>
+                     <p>2. Sourate La Lumière (Al Nour), Verset 31: fiDis aux croyantes de baisser leurs regards, D'être chastes, De ne montrer que l'extérieur de leurs atours, de rabattre leurs voiles (Khoumourihinna) sur leurs poitrines, De ne montrer leurs atours qu'à leurs époux, Ou leurs pères, ou aux pères de leurs époux, Ou à leurs fils, ou aux fils de leurs époux, Ou à leurs frères, ou aux fils de leurs frères, Ou aux fils de leurs sœurs Ou à leurs servantes ou à leurs esclaves, ou à leurs serviteurs mâles incapables d'actes sexuels, ou aux garçons impubères” (Coran, 1967: 434).</p>
+                  </item>
+                  <item>
+                     <p>3. Pour le Robert, un voile est soit fiun morceau d'étoffe plus ou moins transparente destiné à cacher le visage”, soit un fivêtement léger et transparent qui couvre le corps féminin”. Cela ne correspond pas à ce que femmes et jeunes filles musulmanes ou islamistes portent sur la tête. Ce n'est pas non plus un foulard. Un mot français plus adéquat pour la désigner serait celui de fifichu”. Le fifichu islamiste” a été recalé. Le mot juste existe, simple et précis, celui de guimpe qui désigne “un morceau de toile qui couvre la tête, encadre le visage, cache le cou et la gorge” (Dupuy, 2004).</p>
+                  </item>
+                  <item>
+                     <p>4. Selon un sondage IFOP-Le Monde de septembre 2001, seuls 36% des musulmans se disent ficroyants et pratiquants”, 42% s'affirmant simplement ficroyants”, 16% fid'origine musulmane” et 5% fisans religion”. La même enquête indique que 79% des musulmans ne fréquentent pas la mosquée.</p>
+                  </item>
+                  <item>
+                     <p>5. Le phénomène des familles nombreuses dans des logements exigus se rencontre également en France au sein de la population immigrée, dans certaines familles polygames, notamment (Nicollet, 1996).</p>
+                  </item>
+                  <item>
+                     <p>6. Cette corrélation entre port du voile et classes populaires ne fait pas l'unanimité dans le monde arabe, dès lors que certains chercheurs lient le retour du voile à la classe moyenne, comme en Égypte (Mac Leod, 1992).</p>
+                  </item>
+                  <item>
+                     <p>7. Les cours concernant les sciences de la vie (théorie de l'évolution, anatomie et physiologie sexuelles), la littérature (refus d'étudier certains auteurs dits antireligieux et/ou féministes) étaient également boycottés ici et là.</p>
+                  </item>
+               </list>
+            </p>
+         </note>
+         <div type="references">
+            <listBibl>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiDiscours voilés sur les musulmanes en Europe: comment les musulmans sont-ils devenus des musulmanes</title>
+                     <author>
+                        <persName>
+                           <surname>Amiraux, Valérie</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Social Compass</title>
+                     <author>
+                        <persName>
+                           <surname>Amiraux, Valérie</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Amiraux, Valérie (2003) fiDiscours voilés sur les musulmanes en Europe: comment les musulmans sont-ils devenus des musulmanes ", Social Compass 50(1): 85-96.</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                        <biblScope unit="vol">50</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <biblScope unit="page" from="85">85</biblScope>
+                        <biblScope unit="page" to="96">96</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiDerrière la Loi foulardière, la peur</title>
+                     <author>
+                        <persName>
+                           <surname>Badiou, Alain</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Le Monde</title>
+                     <author>
+                        <persName>
+                           <surname>Badiou, Alain</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Badiou, Alain (2003) fiDerrière la Loi foulardière, la peur ", Le Monde (22 April).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Jihad vs McWorlds: How Globalisation and Tribalisation are Reshaping the World</title>
+                     <author>
+                        <persName>
+                           <surname>Barber, Benjamin R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Barber, Benjamin R.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <pubPlace>New York</pubPlace>
+                        <publisher>Ballatine Books</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">fiLe voile de l'ignorance</title>
+                     <author>
+                        <persName>
+                           <surname>Beaud, Stéphane et Pialoux, Michel</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Beaud, Stéphane et Pialoux, Michel</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <publisher>Le Monde</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiQuand la raison s'affole</title>
+                     <author>
+                        <persName>
+                           <surname>Bensaïd, Daniel</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Joshua, Samy</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Vachetta, Roseline</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Bensaïd, Daniel</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Joshua, Samy</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Vachetta, Roseline</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Bensaïd, Daniel, Joshua, Samy et Vachetta, Roseline (2005) fiQuand la raison s'affole ", Libération (21 March).</note>
+                     <imprint>
+                        <date type="year">2005</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiCe que l'on n'ose pas dire</title>
+                     <author>
+                        <persName>
+                           <surname>Cherifi, Hanifa</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">L'Express</title>
+                     <author>
+                        <persName>
+                           <surname>Cherifi, Hanifa</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Cherifi, Hanifa (2003) fiCe que l'on n'ose pas dire", L'Express (12 Sept.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Coran (translated by Denise Masson)</title>
+                     <author>
+                        <persName>
+                           <surname>Coran</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Coran</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1967</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Gallimard</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiChahdortt Djavann: le port du voile doit être considéré comme un acte de maltraitance</title>
+                     <author>
+                        <persName>
+                           <surname>Coroller, Catherine</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Coroller, Catherine</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Coroller, Catherine (2003) fiChahdortt Djavann: le port du voile doit être considéré comme un acte de maltraitance", Libération (22 Sept.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Religion in Britain Since 1945: Believing Without Belonging</title>
+                     <author>
+                        <persName>
+                           <surname>Davie, Grace</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Davie, Grace</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <pubPlace>Oxford</pubPlace>
+                        <publisher>Blackwell</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Femmes et discours au Maroc</title>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1987</date>
+                        <pubPlace>Amiens</pubPlace>
+                        <publisher>Thèse de doctorat d'État, Université de Picardie</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Logement, sexualité et islam</title>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1995</date>
+                        <pubPlace>Casablanca</pubPlace>
+                        <publisher>Eddif</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLes antinomies de la raison islamo-féministe</title>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Social Compass</title>
+                     <author>
+                        <persName>
+                           <surname>Dialmy, Abdessamad</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Dialmy, Abdessamad (2003) fiLes antinomies de la raison islamo-féministe ", Social Compass 50(1): 13-22.</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                        <biblScope unit="vol">50</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <biblScope unit="page" from="13">13</biblScope>
+                        <biblScope unit="page" to="22">22</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLe totem du communautarisme</title>
+                     <author>
+                        <persName>
+                           <surname>Duhamel, Alain</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Duhamel, Alain</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Duhamel, Alain (2003) fiLe totem du communautarisme", Libération (26 Nov.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiGuimpe religieuse à la mode islamique</title>
+                     <author>
+                        <persName>
+                           <surname>Dupuy, Gérard</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Dupuy, Gérard</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Dupuy, Gérard (2004) fiGuimpe religieuse à la mode islamique", Libération (30 Jan.).</note>
+                     <imprint>
+                        <date type="year">2004</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">L'auto-critique</title>
+                     <author>
+                        <persName>
+                           <surname>El Fassi, Allal</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>El Fassi, Allal</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1979</date>
+                        <pubPlace>Rabat</pubPlace>
+                        <publisher>Imprimerie Fedala</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le foulard et la république</title>
+                     <author>
+                        <persName>
+                           <surname>Gaspard, Françoise</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Khosrokhavar, Farhad</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gaspard, Françoise</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Khosrokhavar, Farhad</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1995</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>La Découverte</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiVoile islamique: la France sur la mauvaise voie</title>
+                     <author>
+                        <persName>
+                           <surname>Giddens, Anthony</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Le Monde</title>
+                     <author>
+                        <persName>
+                           <surname>Giddens, Anthony</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Giddens, Anthony (2003) fiVoile islamique: la France sur la mauvaise voie ", Le Monde (14 Jan.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLa dernière audience publique de la commission Stasi</title>
+                     <author>
+                        <persName>
+                           <surname>Halimi, Gisèle</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Le Monde</title>
+                     <author>
+                        <persName>
+                           <surname>Halimi, Gisèle</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Halimi, Gisèle (2003) fiLa dernière audience publique de la commission Stasi", Le Monde (16 Nov.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">fiSignification du voile au Maroc. Tradition, protestation ou libération</title>
+                     <title level="m">Femmes, culture et société au Maghreb</title>
+                     <author>
+                        <persName>
+                           <surname>Hessini, Leila</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bourqia, R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Charrad, M. M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gallagher, N.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Hessini, Leila</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bourqia, R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Charrad, M. M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gallagher, N.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <pubPlace>Casablanca</pubPlace>
+                        <publisher>Afrique Orient</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiVoile, une antique aliénation</title>
+                     <author>
+                        <persName>
+                           <surname>Kacimi, Mohamed</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Kacimi, Mohamed</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Kacimi, Mohamed (2003) fiVoile, une antique aliénation", Libération (10 Dec.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiFichu hidjab, uniforme islamiste</title>
+                     <author>
+                        <persName>
+                           <surname>Lacoste-Dujardin, Camille</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Libération</title>
+                     <author>
+                        <persName>
+                           <surname>Lacoste-Dujardin, Camille</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Lacoste-Dujardin, Camille (2004) fiFichu hidjab, uniforme islamiste", Libération (6 Jan.).</note>
+                     <imprint>
+                        <date type="year">2004</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Accommodating Protest, New Veiling and Social Change in Cairo</title>
+                     <author>
+                        <persName>
+                           <surname>Mac Leod</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Arlene Elowe</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Mac Leod</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Arlene Elowe</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1992</date>
+                        <pubPlace>New York</pubPlace>
+                        <publisher>Columbia University Press</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLes filles de la nouvelle génération africaine. Continuité ou rupture</title>
+                     <author>
+                        <persName>
+                           <surname>Nicollet, Albert</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Migrants Formation</title>
+                     <author>
+                        <persName>
+                           <surname>Nicollet, Albert</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Nicollet, Albert (1996) fiLes filles de la nouvelle génération africaine. Continuité ou rupture", Migrants Formation 91: 121-31.</note>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <biblScope unit="vol">91</biblScope>
+                        <biblScope unit="page" from="121">121</biblScope>
+                        <biblScope unit="page" to="31">31</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiElle lance un appel contre le voile</title>
+                     <author>
+                        <persName>
+                           <surname>Nouvel Observateur</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Nouvel Observateur</title>
+                     <author>
+                        <persName>
+                           <surname>Nouvel Observateur</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Nouvel Observateur (2003) fiElle lance un appel contre le voile", Nouvel Observateur (4 Dec.).</note>
+                     <imprint>
+                        <date type="year">2003</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLa transmission de l'islam auprès des nouvelles générations de la diaspora</title>
+                     <author>
+                        <persName>
+                           <surname>Saint Blancat, Chantal</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Social Compass</title>
+                     <author>
+                        <persName>
+                           <surname>Saint Blancat, Chantal</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Saint Blancat, Chantal (2004) fiLa transmission de l'islam auprès des nouvelles générations de la diaspora", Social Compass 51(2): 235-47.</note>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <biblScope unit="vol">51</biblScope>
+                        <biblScope unit="issue">2</biblScope>
+                        <biblScope unit="page" from="235">235</biblScope>
+                        <biblScope unit="page" to="47">47</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">fiLa bataille du voile pendant la guerre d'Algérie</title>
+                     <title level="m">Le foulard islamique en questions</title>
+                     <author>
+                        <persName>
+                           <surname>Shepard, Todd</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Nordmann, Charlotte</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Shepard, Todd</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Nordmann, Charlotte</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Éditions Amsterdam</publisher>
+                        <biblScope unit="page" from="134">134</biblScope>
+                        <biblScope unit="page" to="41">41</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Les voilées de l'islam</title>
+                     <author>
+                        <persName>
+                           <surname>Taarji, Hind</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Taarji, Hind</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1991</date>
+                        <pubPlace>Casablanca</pubPlace>
+                        <publisher>Eddif</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le harem et les cousins</title>
+                     <author>
+                        <persName>
+                           <surname>Tillion, Germaine</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Tillion, Germaine</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1966</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Seuil</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le destin des immigrés</title>
+                     <author>
+                        <persName>
+                           <surname>Todd, Emmanuel</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Todd, Emmanuel</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1994</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Seuil</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Critique de la modernité</title>
+                     <author>
+                        <persName>
+                           <surname>Touraine, Alain</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Touraine, Alain</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1992</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Fayard</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">La République et l'Islam</title>
+                     <author>
+                        <persName>
+                           <surname>Tribalat, Michèle</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Kaltenbach, Jeannette</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Tribalat, Michèle</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Kaltenbach, Jeannette</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2002</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Gallimard</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Un voile sous la république</title>
+                     <author>
+                        <persName>
+                           <surname>Vianès, Michèle</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Vianès, Michèle</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Stock</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">fiLe conseil d'État et la laïcité: propos sur l'avis du 27 novembre 1990</title>
+                     <author>
+                        <persName>
+                           <surname>Willaime, Jean-Paul</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Revue Française de Science Politique</title>
+                     <author>
+                        <persName>
+                           <surname>Willaime, Jean-Paul</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Willaime, Jean-Paul (1991) fiLe conseil d'État et la laïcité: propos sur l'avis du 27 novembre 1990", Revue Française de Science Politique 41(1): 28-44.</note>
+                     <imprint>
+                        <date type="year">1991</date>
+                        <biblScope unit="vol">41</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <biblScope unit="page" from="28">28</biblScope>
+                        <biblScope unit="page" to="44">44</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">fiCrimes d'un honneur large et ambigu</title>
+                     <idno type="url">www.alawan.com/index.php?option=com_content&amp;task=view&amp;id=1435&amp;Itemid=7</idno>
+                     <author>
+                        <persName>
+                           <surname>Zeitouna, Razzane</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Zeitouna, Razzane</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2007</date>
+                        <publisher>Al Awan, Revue électronique</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

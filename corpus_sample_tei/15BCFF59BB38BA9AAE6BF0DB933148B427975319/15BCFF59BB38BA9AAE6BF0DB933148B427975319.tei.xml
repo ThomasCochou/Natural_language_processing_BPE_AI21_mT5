@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Les idéaux humanitaires, les recherches sociales et les problèmes de l'actualité</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Sage Publications</publisher>
+            <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+            <date type="published">1968</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="other"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-7474895G-0">other</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="other">
+               <analytic>
+                  <title level="a" type="main">Les idéaux humanitaires, les recherches sociales et les problèmes de l'actualité</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Zamoškin</surname>
+                        <forename type="first">Jurij A.</forename>
+                     </persName>
+                  </author>
+                  <idno type="istex">15BCFF59BB38BA9AAE6BF0DB933148B427975319</idno>
+                  <idno type="ark">ark:/67375/M70-NQL5T052-H</idno>
+                  <idno type="DOI">10.1177/053901846800700505</idno>
+                  <idno type="publisher-id">10.1177_053901846800700505</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Social Science Information</title>
+                  <idno type="hwp">spssi</idno>
+                  <idno type="pISSN">0539-0184</idno>
+                  <imprint>
+                     <publisher>Sage Publications</publisher>
+                     <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+                     <date type="published">1968</date>
+                     <biblScope unit="vol">7</biblScope>
+                     <biblScope unit="issue">5</biblScope>
+                     <biblScope unit="page" from="51">51</biblScope>
+                     <biblScope unit="page" to="65">65</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>JURIJ A. ZAMO&amp;amp;Scaron;KIN
+
+Les id&amp;amp;eacute;aux
+et
+
+humanitaires, les recherches sociales
+les probl&amp;amp;egrave;mes de l’actualit&amp;amp;eacute; *
+
+Le probleme de 1’humanisme, de 1’homme et de
+
+sa personnalit6 acquiert
+jours une importance grandissante. Et il ne concerne plus aujourd’hui
+une personnalit6 d’elite, appartenant a une caste ou a un groupe privil6gi6,
+mais la personnalit6 de 1’individu au sein de la societe. Il s’agit des conditions sociales et du processus d’affirmation de la personnalit6, capable
+d’initiative et d’esprit cr6ateur dans le domaine du travail, de la culture,
+de la politique
+d’un individu participant activement a la d6termination
+de son propre sort et des destinees du monde modeme et aux prises de
+d6cisions a tous les niveaux de la societe, d’un individu dont la person-
+
+de
+
+nos
+
+-
+
+nalit6
+
+s’epanouit harmonieusement et se realise consciemment en tant
+que sujet du processus historique.
+Une des questions cruciales de 1’histoire moderne est celle de 1’orientation et du caractere du d6veloppement de 1’individu : ce processus s’orientera-t-il vers la formation d’un homme qui ne se sentira qu’un grain de
+poussière emporté par la tornade de 1’irrationnel social, d’un homme r6sign6
+a 1’oppression sociale, a 1’exploitation et a 1’absence de droits, d’un homme
+qui s’est perdu lui-meme en tant que personnalit6, pour devenir un &amp;amp;dquo;rouage
+&amp;amp;dquo;
+
+infime et standardis6 dans la machine de la bureaucratie? ou bien cette
+6volution s’orientera-t-elle vers 1’education d’un homme conscient, socialement actif et socialement responsable du progres social et de la dignit6
+humaine ?
+
+*
+
+Cet article
+
+a
+
+6t6 presente lors du colloque
+
+sur
+
+l’influence de Karl Marx dans le
+
+ddveloppement de la pensée scientifique contemporaine, Paris, 8-10 mai 1968, organisé so us
+les auspices de I’Unesco par le Conseil International des Sciences Sociales et le Conseil
+International pour la Philosophie et les Sciences Humaines.
+.
+
+5I
+
+r
+
+.
+
+52
+
+Ce sont
+
+problemes qui furent au coeur de 1’ensei1’activity scientifique a 6t6 assujettie a 1’etude
+des perspectives de construction d’une soci6t6 de type nouveau, d’une
+soci6t6-association
+oix Ie d6veloppement de chacun est la condition
+du libre d6veloppement de tous, d’une soci6t6 ouvrant un champ tres vaste
+au d6veloppement harmonieux de 1’individu et assurant en meme temps
+Ie contrble des cons6quences sociales de 1’activite d’ensemble des hommes,
+des formes de communication et d’organisation liant les membres de la
+societe. La doctrine de Marx qui considere I’homme comme le produit
+et I’objet des rapports sociaux, s’appuie sur la reconnaissance de la nature
+active de I’homme et de la logique subjective de revolution historique.
+Marx a su int6grer 1’interpretation philosophique et les traditions de
+la pens6e humanitaire avec les recherches scientifiques concretes, historiques,
+aconomiques, sociologiques, socio-psychologiques, et avec les processus
+et phenomenes r6e]s qui influent sur la fa~on d’aborder et de r6soudre
+(th6oriquement et pratiquement) les problemes de I’homme.
+Les traditions intellectuelles li6es au nom de Marx acqui6rent une signification particuliere en notre époque de transformations r6volutionnaires
+profondes, de complexification extreme du syst6me des rapports sociaux
+et deceleration du processus social, une époque qui d6couvre avec 6vidence
+son caractere contradictoire et place I’homme devant des alternatives
+et devant la n6cessit6 de prendre des d6cisions scientifiquement 6tay6es,
+lourdes de responsabilit6s, une époque de mouvements de masse lib6rateurs,
+d6mocratiques, anti-imp6rialistes, qui font participer des millions d’hommes
+A la creation sociale et a I’adoption de valeurs humanitaires.
+Il devient plus n6cessaire encore dans ces conditions d’61aborer sur
+des bases scientifiques les syst6mes d’orientation de I’individu dans la
+soci6t6 contemporaine, selon des programmes A long terme, pr6voyant
+un remaniement qualitatif substantiel de tous les systemes de rapports
+sociaux. Ce programme devrait s’appuyer sur une connaissance d6taill6e
+et aussi rigoureuse que possible des diff6rents m6canismes qui fonctionnent r6ellement aujourd’hui, a 1’6tape actuelle de revolution de telle ou
+telle soci6t6, dans les spheres de la production, de la consommation, de
+la politique, de la culture, de la psychologie individuelle et sociale, etc.,
+et s’appuyer 6galement sur la connaissance des possibilit6s objectives et
+des cadres de la pratique sociale, sur tel ou tel territoire et A tels moments
+donn6s.
+Une rupture et une alienation resciproques entre la pens6e th6orique
+orient6e vers des traditions humanitaires d’une part et, d’autre part, les
+recherches scientifiques sociales concretes qui connaissent au 20e siecle,
+on Ie sait, un grand d6veloppement et de vastes applications pratiques
+pr6cis6ment
+
+gnement de Marx, dont
+&amp;amp;dquo;
+
+seraient, dans
+
+ces
+
+toute
+
+&amp;amp;dquo;
+
+ces
+
+conditions, particulierement dangereuses.
+
+Il suffit d’indiquer dans ce contexte les tendances du positivisme sociologique, du fonctionnalisme unilat6ral et 6troit, de 1’operationalisme et
+de 1’empirisme, du social engineering, soumis aux impératifs utilitaires
+d’une organisation bureaucratique et d’autres phénomènes similaires,
+
+53
+
+fort bien d6crits par des
+
+sociologues
+
+suffisamment
+
+critiques,
+
+dans les pays
+
+d’Occid~nt.
+La science qui dweloppe les traditions de Marx (disons, a ce propos,
+qu’il fut Ie fondateur de la sociologie de la connaissance) a aujourd’hui
+pour tdche de donner une analyse approfondie, complete et lib6r6e de tout
+objectivisme iddologique, du processus contradictoire de devolution des
+recherches sociales dans les pays occidentaux du 20e siecle. 11 est tres important de comprendre comment, dans les travaux des sociologues qui expriment les tendances communes aux progres de toute la science moderne,
+le processus de la division du travail s’est trouv6 historiquement lie de
+facon fort 6troite a la naissance de formes de travail intellectuel ali6n6es,
+qui s’associent tout naturellement aux phenomenes de d6shumanisation.
+Le probleme est de savoir dans quelle mesure y ont contribu6 les rapports
+sociaux dans le cadre desquels la recherche scientifique sociologique s’est
+d6velopp6e, la commande sociale sp6cifique, la faqon d’appliquer les donn6es
+obtenues par le chercheur, et enfin le role fonctionnel impose a la recherche
+par la logique g6n6rale de la lutte id6ologique.
+Par
+
+exemple, le caractere sp6cifique des objectifs pratiques de gestion
+syst6me d’organisation sociale, tel qu’il s’est form6 aux ttats-Unis
+et en Europe Occidentale dans le cadre de 1’6conomie monopoliste d’ttat,
+a contribue au d6veloppement de 1’analyse fonctionnelle en sociologie
+tout en lui donnant une forme particuliere, aboutissant a une opposition
+artificielle (et dangereuse pour le systeme g6n6ral des connaissances sociales)
+entre 1’approche r6volutionnaire historique des problemes de la societe
+et une approche 6troitement fonctionnelle de problemes concernant des
+m6canismes typiques pour un des stades transitoires de cette societe. Le
+fonctionnalisme, qui nait naturellement et in6vitablement au cours du
+d6veloppement de la science, en tant que type et niveau relativement indespendant de 1’activite de recherche, prend ici la forme d’une reaction id6ologique contre la th6orie historico-mat6rialiste et dialectique du processus
+social, attentive aux lois historiques du passage d’une formation 6conomique a une autre. Du m6me coup il constitue une reaction contre les traditions de la philosophie sociale r6volutionnaire et dtsmocratique du 18e
+si6cle et de la premiere moiti6 du 19e.
+Les sociologues habitu6s aux m6thodes scientifiques d’analyse fonctionnelle se sont efforc6s avant tout A la solution des problemes li~s a 1’integration du systeme de rapports existant et dominant et au controle social
+du
+
+exercé sur 1’homme dans le cadre des besoins fonctionnels d’institutions
+sociales r6pondant, en fin de compte, A une structure d6termin6e du pouvoir économique et politique, A un type d6termin6 de valeurs.
+Toute 1’attention des sociologues-fonctionnalistes s’est port6e sur les
+mtscanismes d’auto-reproduction du systeme social existant, sur les ph6nomenes de reiteration du comportement social des individus dans le cadre
+de ce systeme, sur les m6canismes de socialisation de 1’homme (autrement
+dit de son adaptation aux r6les et fonctions d6termin6s qui lui sont impos6s
+
+54
+
+de 1’exterieur), sur les m6canismes de normalisation, de standardisation
+du comportement (coutumes, habitudes).
+On a donc constat6, d’une part, une extension et une diff6renciation
+rapide des problemes sur lesquels portent les recherches sociales, la science
+sociologique s’introduisant dans Ie m6canisme de 1’interaction fonctionnelle des diff6rents aspects de la vie sociale (m6canisme dont Ie fonctionnement n’avait pas 6t6 I’objet d’une etude syst6matique d6taill6e et dont
+la connaissance est tres importante pour comprendre les processus historiques) et, d’autre part, une exag6ration m6taphysique du role et de 1’importance de 1’6tat d’equilibre relatif dans le cadre du systeme social, une exag6ration de I’importance des m6canismes de
+conformisme social &amp;amp;dquo;.
+II faut se rappeler dans ce contexte qu’au 20e siecle les sociologues
+se heurtent a un nouveau groupe de problemes. Tant que leur principal
+objet d’etude était 1’evolution sociale consid6r6e comme un processus unique
+et entier en soi, la sociologie était marqu6e par une certaine uniformite
+m6thodologique. Les sociologues avaient presque tous affaire au m8me
+niveau d’analyse sociologique. 11 y avait, certes, des diff6rences dans 1’approche du sujet a 6tudier, mais des diff6rences principalement philosophiques et id6ologiques, refl6tant en fin de compte la lutte de classes et
+de mouvements sociaux divers et souvent hostiles les uns aux autres. Les
+sociologues s’attachaient surtout, dans 1’ensemble, a prendre conscience
+des problemes de la vie sociale et de la vie de 1’individu et leur activite avait
+pour r6sultat final des doctrines et des conceptions universelles qui, ou bien
+justifiaient l’ordre social et 1’etat de 1’individu tels qu’ils existaient, ou bien
+affirmaient la nécessité de transformations radicales.
+Le 20e siecle a prouvé l’insuffisance de cette approche des probl~mes
+du progres social, des formations sociales et du probleme de 1’homme.
+La sociologie s’est heurt6e A la n6cessit6 d’6tudier dans leur detail pr6cis
+1’individu et la societe, du point de vue de 1’interaction des differentes formes
+et aspects de leur vie. Pratiquement, cette prise de conscience des sociologues s’est exprim6e par la spécialisation et la division du travail, dans
+le cadre de la sociologie.
+La specialisation en matiere de sociologie a eu pour effet de mettre
+en lumi~re des approches, des systemes de mesure, des points de d6part
+divers. Le processus de 1’acquisition des connaissances concernant le
+mouvement social est devenu plus diff6renci6, et, partant, plus contradictoire. La fragmentation des problemes etudies a entrain6 une particularisation relative des proc6d6s m6thodologiques, des techniques et des procesdures. Cette particularisation est devenue h la fois une condition et un
+obstacle pour le d6veloppement des tendances A l’int6gration pour la mise
+en pratique, dans le domaine de la sociologie, du principe de la formation
+de connaissances constituant un tout et aboutissant h un tableau d’ensemble
+de la vie sociale, A partir des r6sultats acquis dans les diff6rents domaines
+de la recherche.
+Mais la rtsalisation pratique de ce desir d’int6gration des connaissances
+despendait moins de la logique interne de la science que du contexte histo&amp;amp;dquo;
+
+55
+
+rique,
+
+social et
+
+qu’on peut
+
+ideologique
+
+constater en
+
+ou la recherche s’est trouv6e
+
+plac6e. C’est
+
+ce
+
+prenant pour exemple la recherche socio-psycho-
+
+logique.
+On sait que 1’6tude des m6canismes d’interaction entre individus est
+apparue tr6s importante pour la solution de nombreux problemes pratiques,
+lies au comportement de 1’homme dans des situations concretes. La m6thodologie sp6cifique de la recherche socio-psychologique, 6tudiant 1’action
+de ces m6canismes (tests, interviews, matrices soclom6triques, experiences
+en groupes restreints, etc.) a permis de pr6ciser de fa~on empirique le fonctionnement de ces m6canismes et de prddire certains r6sultats de ce fonctionnement.
+
+’-
+
+.
+
+Une des conditions A remplir pour appliquer ces m6thodes est de
+faire abstraction des liaisons objectives qui, dans le contexte du probleme
+6tudi6, se sont r6v6l6es externes en quelque sorte au systeme de fonctionnement interne des mecanismes socio-psychologiques sp6cifiques. Faire
+abstraction, par exemple, des liens impersonnels relevant de 1’economic
+dans Ie cadre d’un mode de production et de r6partition d6termin6. Mais
+la m6thode n’est scientifique dans toute I’acception du terme (au sens que
+la doctrine de Marx donne a la science sociale) que dans le cas oa 1’on
+peut, par la suite, supprimer cette abstraction, au fur et A mesure que se
+pr6sentent ces connaissances sociales pour lesquelles plusieurs approches
+sont
+
+.
+
+-.
+
+’-
+
+indispensables.
+
+S’il examine les relations interindividuelles en s’appuyant sur 1’analyse
+d6jA r6alis6e des rapports socio-éconorniques et de leur 6volution historique,
+le sociologue d6couvre une interpretation de 1’interaction socio-psychologique entre individus autre que celle qu’il obtiendrait en se basant uniquement sur 1’observation descriptive et empirique des faits isol6s de leur
+contexte. Toute abstraction qui ne serait pas un proc6d6 de recherche
+conscient, ne d’une decision arbitraire ou de la necessitrs de parvenir ~ un
+objectif pragmatique pr6cis sp6cifi6 par Ie client, devient facilement une
+contrainte m6taphysique qui r6tr6cit le champ de vision historique du
+sociologue. L’abstraction devenue absolue, et non plus relative, n’est
+plus un proc6d6 scientifique, mais une v6ritable position id6ologique.
+Dans 1’exemple que nous avons pris, elle revient A ignorer d6lib6r6ment
+le rble des relations ti6es au fait objectif de 1’existence de la propri6t6 priv6e
+le capital monopoleur - dans
+et de 1’une en particulier de ses formes
+la vie sociale et dans la sphere de 1’interaction entre individus.
+La mise sur pied d’un type particulier de recherche, sp6cialis6e dans
+1’analyse psychologique des rapports d l’int6rieur d’un groupe et entre
+groupes, est une 6tape importante de 1’evolution de la sociologie. Mais
+dans les conditions sociales of elles sont apparues, ces formes professionnelles de 1’activite du sociologue ont pris un sens id6ologique sp6cifique.
+Ainsi, aux ttats-Unis, de nombreux sociologues se sont trouv6s entrain6s
+dans un travail qui revenait A mettre au point des systemes de manipulation
+socio-psychologique des individus, dans l’int6rEt d’organisations li~es
+au pouvoir social. La connaissance reelle, acquise grace A la science, des
+-
+
+56
+
+m6canismes
+
+socio-psychologiques, était utifis6e par les organisations bureaucratiques pour agir sur l’intelligence et les sentiments des hommes soumis
+a ces organisations.
+En favorisant la penetration de la sociologie dans le domaine de I’analyse des motifs et des stimulants du comportement des individus, les organisations au pouvoir ont contribu6 en meme temps a isoler de 1’ensemble
+de la th6orie sociologique les recherches empiriques portant sur Ie comportement. Car ce
+
+qu’elles recherchaient surtout, c’6tait le sociologue exp6riment6 en ce qui concerne la
+socialisation
+de 1’homme, c’est-a-dire ]a
+lutte contre divers types de comportement s’ecartant de la norme dominante, des standards, des types preetabus et contre les ph~nomenes de
+d6sorgandsation sociale &amp;amp;dquo;. Elles avaient besoin d’un manipulateur capable
+de faire servir les connaissances scientifiques a la consolidation du conformisme.
+Travaillant a obtenir des donn6es v6rifi6es, repr6sentatives, mettant
+au point une technique de g6n6ratisation de ces doan6es afin d’£tablir des
+corr6lations caract6ristiques pour des situations d6termin6es et pouvant
+servir de points de repere dans la pratique, un tel sociologue joue Ie role
+d’ ing6nieur social &amp;amp;dquo;. Cette comparaison entre la fonction de recherches
+sociales de ce type et celle d’un ing6nieur dans Ie domaine technique est
+justifi6e, dans la mesure ou I’ ingesnieur social &amp;amp;dquo; s’occupe g6n6ralement
+de la recherche de moyens optima pour aboutir A des objectifs sociaux
+qui en eux-memes sont en dehors du champ de ses recherches.
+Ces objectifs sont Ie plus souvent d6termin6s soit par Ie systeme des
+valeurs dominantes dans Ie systeme social donne, soit par les int6rEts de
+certains groupes sociaux. Dans une soci6t6 ou se heurtent des int6r8ts de
+groupes et de classes diff6rents, tout d6pendra du groupe qui influe sur
+les probl~mes propos6s pour 6tude, du groupe qui, profitant de son pouvoir
+6conomique et institutionnel et de son influence sur les masses s’attache
+A s’assurer une position dominante dans la soci6t6. Ce n’est pas par hasard
+que le fonctionnalisme sociologique du social engineering, compris dans
+un sens 6troit, s’associe si souvent, ind6pendamment de la volontrs du chercheur, ~ 1’apologie du r6gime existant.
+D’od 1’extreme importance, aujourd’hui, de d6velopper la m6thodologie et la theorie d’une analyse sociologique qui étudie la nature et 1’orientation g6n6rale de 1’evolution sociale et formule les objectifs essentiels
+de cette evolution en s’appuyant sur 1’~tude et 1’appreciation des tendances
+historiques contradictoires, avec I’ambition non plus simplement de d6couvrir les conditions optimales de fonctionnement du syst~me des institutions
+existantes, mais de consid6rer 1’ensemble du processus de d6veloppement
+de 1’individu, qui est li6 A la logique de toute revolution historique de la
+civilisation et A la logique des principaux mouvements sociaux du monde
+contemporain et des id6aux humanitaires qui les inspirent.
+La doctrine de Marx, qui a toujours tendu A d6passer les particulantes
+sp6cifiques et le caractdre n6cessairement limite des connaissances sociales
+partielles de son 6poque afin de donner un tableau d’easemble du processus
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+57
+
+social,
+
+1’exemple historique Ie plus probant d’une analyse de ce genre.
+R6aliser Ie meme objectif a 1’etape actuelle, marqu6e par la division
+du travail et la sp6cialisation, telle est la condition n6cessaire pour la fusion
+de la pens6e humanitaire et de la science la plus rigoureuse. Ce n’est que
+grace a la mise en place et au d6veloppement constant, dans un esprit
+cr6ateur, d’un systeme int6gr6 des connaissances que 1’homme peut prendre
+est
+
+conscience dans Ie monde moderne de sa propre nature et de la nature
+de la societe ou il vit, qu’il peut comprendre les alternatives historiques
+v6ritables auxquelles il est confront6 afin d’atteindre ~ un choix libre et
+conscient et d’organiser la vie commune de la faqon la plus ad6quate A
+la réalisation des programmes r6sultant de ce choix.
+La rupture de fait entre la recherche sociologique concrete et les traditions de la pens6e humaniste, rupture dont on parle tant aujourd’hui
+en Occident, contribue a la diffusion d’interpr6tations unilat6rales et objectivement fausses de la doctrine de Marx, ce qui empêche la uste appr6ciation
+de 1’importance toujours croissante de sa m6thodologie dans Ie monde
+
+contemporain.
+On pourrait citer dans
+
+ce contexte une interpretation fort rtspandue
+de la theorie de Marx dans 1’esprit du déterminisme technico-6conomique
+vulgaire. Suivant cette interpretation, la th6orie de Marx soumettrait directement et entierement le processus si vari6 de !’activity humaine a la logique
+objective des liaisons et des rapports sociaux impersonnels naissant dans
+la sphere de la production mat6rielle; elle nierait 1’immense influence et
+le r6le actif des hommes, des masses, de leurs aspirations spirituelles et de
+leurs id6aux.
+Cette version vulgaire vise £ inculquer l’id6e que, dans le cadre de la
+th6orie de Marx, 1’orientation vers la connaissance scientifique des processus
+et des besoins objectifs de la production mat6rielle est incompatible avec
+1’6thique, avec I’orientation vers des id6aux humanitaires. Falsification
+d’autant plus nocive qu’aux yeux de 1’homme de la rue, ignorant I’histoire
+de la philosophie et de la sociologie, les id6es du grand socialiste, d6mocrate
+et rwolutionnaire que fut Marx peuvent sembler une justification th6orique
+de la tendance A la bureaucratisation dont parlent tant les critiques sociaux
+modernes, dans les pays d’Occident. C’est que 1’apologie, consciente ou
+inconsciente, de la bureaucratie part tres souvent aujourd’hui des sch6mas
+logiques du d6terminisme technico-6conomique qui considerent la bureaucratisation comme Ie r6sultat, pr6tendu fatal, et la condition du developpement de la production industrielle moderne.
+On sait que la bureaucratie est caract6ris6e par une tendance A la
+dtsshumanisation des formes d’activitrs humaine, par une dépersonnalisation
+des liens entre les hommes. Ces liens deviennent fonctionnels, indtipendants
+du travailleur, de ses interets, de ses inclinations, de ses besoins de developpement en tant que personnalité. L’homme est rrsduit au role de moyen
+destin6 A satisfaire les besoins d’une organisation quelconque, dans Ie
+m6canisme d’activite de laquelle il s’int6gre. Le syst~me de la bureaucratie
+industrielle fait des ouvriers un appendice des processus de production
+
+.-
+
+58
+
+(fonctionnement du syst~me de machines), et des employ6s un appendice
+des processus administratifs et financiers, la machine de 1’administration.
+Par ailleurs, la bureaucratie pr6sente sa propre activite en termes de rentabilit6 et d’emcacite 6conomique et technique. Et elle est aidée en cela par
+la sociologie qui, orient6e sur le fonctionnement 6troit et le social engineerlitg, interprete volontiers cette terminologie comme la sienne propre.
+Il en r6sulte que les liens r6els entre 1’organisation bureaucratique
+d6shumanis6e et le caract6re des rapports sociaux objectifs et du systeme
+culturel de valeurs existant dans la soci6t6 donn6e se trouvent estomp6s.
+Marx, qui a 6tudi6 ces liens, a montr6 dans Le capital (Tome III) la duplicit6
+interne de cette forme de gestion de la production socialis6e, en systeme
+capitaliste. 11 a montre que 1’organisation de cette gestion n’est pas seulement
+soumise aux besoins objectifs de la production rationnelle, mais - et c’est
+aux int6rets de classe des couches sociales
+particuli~rement important
+dominantes, qui commandent les choses et les hommes. La gestion rationnelle s’exerce ici dans le cadre de fonctionnement du capital. Le choix des
+alternatives dans la gestion, le choix des crit~res d’efficacit6 d6pend du systeme des valeurs dominantes, lequel exprime en fin de compte la structure
+de classe objective et le type historique de culture de la soci6t6 consid6r6e.
+Partant de cette analyse, Marx a mis au point le programme du communisme
+scientifique, qui cr6e une organisation sociale excluant la d6shumanisation
+des mescanismes de t’activity humaine en tant que condition et critère de
+1 ’efficacité de cette activit6.
+Marx ses et disciples authentiques ont vigoureusement critiqu6 les
+succ6dan6s bureaucratiques du collectivisme, le faux esprit collectif, union
+d’une classe contre une autre qui, selon 1’expression de Marx &amp;amp;dquo; s’oppose
+aux membres de la soci6t6 en tant qu’entit~ ind6pendante
+et qui devient
+non seulement un collectivisme illusoire, mais une forme nouvelle d’oppression. Marx et ses disciples ont propose un programme de collectivisme
+communiste r6ellement d6mocratique, association veritable des travailleurs
+eux-memes dans laquelle le d6veloppement de 1’association en tant que
+systeme ne soit pas en contradiction avec le d6veloppement de chaque
+individu.
+,I, ’,’ ’:’1’,1&amp;amp;dquo;
+,,
+..
+r -z’ ;
+-
+
+,
+
+&amp;amp;dquo;
+
+,
+
+’
+
+*
+
+On sait que diverses formes de th6ories socio-critiques orient6es vers
+1’humanisme se desveloppent depuis la derniere guerre en Europe et aux
+ttats-Unis. Les principaux sujets de critique sont les tendances ~ la bureaucratisation de la vie sociale et les formes d6shumanis6es d’organisation
+et d’activity sociales, les tendances A la manipulation forc6e, id6ologique
+et psychologique, de la conscience et des sentiments, le glissement vers
+la standardisation de la culture et de 1’individu.
+La contradiction croissante entre les succ~s spectaculaires de la rationalisation fonctionnelle et 1’irrationalisation du progres de forces incontr6lables, lourdes de catastrophes sociales, éveille des attitudes critiques
+
+59
+manifeste. En effet, la revolution scientifique et technique
+corollaires des processus 6chappant au contr6le des hommes et
+pour
+entrainant le ch6mage, 1’elimination de certaines couches de la soci6t6
+des activit6s de production, la prol6tarisation, le d6veloppement des taudis,
+etc. Les forces colossales de la science tombent entre les mains des militaristes, qui organisent des aventures guerrières et tiennent le doigt sur la
+et une
+
+inqui6tude
+
+a
+
+gachette atomique.
+Ces theories socio-critiques ne sont nullement caract6ris6es par la
+crainte de vastes g6n6ralisations (crainte qui était typique jusqu’A pr6sent
+de la science sociale occidentale dans son ensemble). Au contraire elles
+sont enclines a poser les problemes les plus vastes et les plus importants
+concernant les temps modernes.
+ttant donn6 que dans 1’histoire moderne, c’est Ie marxisme qui a
+pose et r6solu les probl~mes philosophiques et m6thodologiques de base,
+il n’est pas estonnant que de nombreuses th6ories socio-critiques s’en prennent, sous une forme ou une autre, aux id6es de Marx. Cependant nombre
+des th6ories les plus r6pandues donnent une interpretation tres unilat6rale
+de ces id6es. 11 est caract6ristique A cet 6gard qu’on oppose souvent a l’id6al
+humaniste de Marx - id6al de 1’individu libre et harmonieusement d6veson 6conomie politique et sa sociologie, ou son enseignement
+lopp6
+sur le mouvement social visant a la reorganisation pratique de la soci6t6
+sur un modèle communiste. Les pronostics sociologiques de Marx, affirmet-on souvent, ne s’appuient pas sur I’analyse de la logique objective du
+processus historique : A 1’oppose de toute vraie science sociale, le marxisme
+en appellerait non pas a des liens objectifs de cause A effet, mais A un syst6me
+de postulats et d’idesaux 6thiques.
+C’est a ce meme type d’interpr6tation que sont liées les tentatives,
+de plus en plus fr6quentes ces temps derniers, de faire passer la doctrine
+de Marx pour une sorte d’humanisme anthropologique, que 1’on rapproche
+de 1’existentialisme ou de la th6ologie protestante lib6rale.
+Ces d6naturations de la pens6e de Marx sur le plan th6orique sont
+souvent des manifestations du profond divorce qui s6pare la pens6e sociale
+et philosophique humanitaire et le syst6me de recherches sociales dont
+nous avons parl6 plus haut.
+Une des cons6quences id6ologiques du d6veloppement sp6cifique de
+la recherche sociale en Occident est le discredit dans lequel est tomb6e
+la sociologie en tant que type de connaissances scientifiques, parmi les
+couches de la soci6t6 qui defendent les id6aux de I’humanisme et de la
+d6mocratie. De nombreuses th6ories socio-critiques humanitaires sont une
+sorte de r6action contre 1’expansion des formes bureaucratiques de ces
+recherches, li6es a I ’utilisation unilat6rale des m6thodes et procedures fonc-
+
+tionnelles, op6rationnelles et empiriques.
+L’attitude n6gative vis-A-vis du
+technicisme
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+et du
+
+&amp;amp;dquo;
+
+scientisme
+
+&amp;amp;dquo;
+
+des recherches sociales auquel la critique sociale a le plus souvent affaire,
+se mue en méfiance vis-A-vis de la sociologie en tant que telle, non sans
+cons6quences s6rieuses.
+- ,&amp;amp;dquo; &amp;amp;dquo;1.&amp;amp;dquo;
+
+..
+
+,,.,
+
+60
+
+sociaux partent toujours de la description d’un objet
+1’occurrence la soci6t6 moderne, ses liens internes et institutionnels, leurs fonctions et particularit6s, Ie caract~re des m6canismes de
+comportement de I’individu, la motivation des actes et des sentiments,
+etc. Lorsque, ce faisant, le critique refuse par principe d’utiliser les donn6es
+de la recherche sociologique professionnelle, il se trouve Ie plus souvent
+r6duit A s’appuyer sur ses propres impressions et sur les id6es courantes
+qui, dans I’opinion publique, ont force de v6rit6s premieres.
+11 renonce donc à employer les instruments fournis par la sociologie
+moderne, capables dans une certaine mesure de v6rifier ces concepts, notamment en ce qui concerne la valeur repr6sentative des donn6es utilisees pour
+d6crire 1’etat de conscience de la societe et de I’individu.
+Il peut de plus arriver, et il arrive souvent, que les concepts intuitivement
+accept6s comme vrais portent en réaIité I’empreinte des id6ologies, st6r6otypes et illusions propres a cette pens6e sociologique meme que Ie critique
+veut r6futer, et qu’ils soient de ce fait la condition et le r6sultat a la fois
+du caractère limit6 de cette pens6e, impose avant tout par les formes de la
+recherche et de la commande sociales.
+Essayons d’illustrer cette id6e, A premiere vue paradoxale, par des
+Les
+
+critique,
+
+critiques
+
+en
+
+exemples.
+La critique sociale s’attache avant tout au probl6me de l’influence
+de la production industrielle sur la soci6t6 et sur 1’homme.
+La recherche sociale bureaucratiquement orient6e concentre son attention sur les problemes de gestion, de socialisation de 1’homme dans le cadre
+des besoins fonctionnels de cette gestion. Elle accepte comme point de
+d6part g6n6ral l’id6e de liens de causalit6 (jouant le role de lien primordial)
+entre l’organisation bureaucratique elle-meme et le caractere de la technique
+modeme, avec ses exigences d’efficacite maximale. C’est ainsi que le modele
+d’efficacit6 est devenu modèle de base de 1’analyse fonctionnelle, tandis
+que tous les autres liens sociaux substantiels, engendrant des formes bureaucratiques d’administration et des rapports sp6cifiques &amp;amp;dquo; bureaucratehomme &amp;amp;dquo;, ne faisaient pas 1’objet d’une recherche professionnelle d6taill6e.
+Mais si le modèle d’emcacite a servi au cours de la recherche a cerner le
+probl~me, il fait le plus souvent figure, dans le contexte id6ologique, de
+postulat g6n6ral, de sch6ma d’ensemble des phenomenes li6s au phenomene
+de la bureaucratie.
+ftant liées au modeles d’emcacite &amp;amp;dquo;, les recherches sociales et psychologiques sur la personnalit6 des ouvriers et des employ6s ont dirig6
+1’attention sur des param~tres d6termin6s et des propri6t6s particulieres
+de 1’individu (par exemple, les m6canismes de conformisme, de discipline,
+d’adaptation aux structures fonctionnelles), 6tudi6es dans le cadre du
+modele d’emcacite &amp;amp;dquo;... Toutes les qualit6s et les m6canismes de 1’individu
+qui d6bordent ce cadre, ou bien ne font pas l’objet d’une etude professionnelle, ou bien sont consid6r6s comme des disfonctions et des symptbmes
+de
+comportement d6vi6
+(deviant behaviour).
+On met ainsi 1’accent sur la possibitit6 de guider la conscience de
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+61
+
+1’homme et de contr6ler son comportement, sur les donn6es empiriques
+aux relations mises en evidence par les chercheurs et qui
+travaillent
+dans le sens pragmatique. Cet accent n’est pas d6nu6 de
+signification id6ologlque, car il t6moigne du plan initial du chercheur. 11
+indique en meme temps 1’existence d’un lien entre le cadre restreint consid6r6 et les mod6les qui pr~sident ~ une certaine vision de I’homme et de
+son role dans la soci6t6 moderne.
+Le critique social, prenant position contre une attitude bureaucratique et fonctionnelle vis-vis de I’homme, peut manquer de sens critique
+en ce qui concerne les mod6les et les sch6mas id6ologiques que nous venons
+d’indiquer. 11 en r6sulte la formation dans sa conscience d’un tableau
+unidimensionnel
+de la societe modeme et de 1’homme au sein de
+cette societe. Il peut finir par croire que pour cette soci6t6, vue selon une
+seule dimension, dans ses liens avec la technique moderne (a 1’exclusion
+de tous les autres liens sociaux), une seule tendance est typique : la tendance
+au contr6le bureaucratique et au conformisme dans la conscience et le
+
+qui ob6issent
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+comportement.
+L’orientation
+
+de la recherche sociale dans certains pays
+est, on Ie sait, li6e historiquement
+a 1’organisation de la publicite commerciale, soucieuse d’assurer 1’efficacit~
+des moyens de communication. Cette recherche sociale a concentr6 son
+attention sur la personnalite de 1’homme-consommateur, de I’hommeclient, et sur 1’etude des m6canismes qui le poussent a acheter et a consommer
+(m6canismes de compensation, motifs de prestige social, etc.), ainsi que
+sur la possibilite de contr6ler et de stimuler ses d6sirs et d’obtenir un effet
+psychologique en les satisfaisant.
+A ces formes utilitaires d’approche du probleme de la consommation
+propres aux organisations qui finanqaient ces recherches, puis aux chercheurs eux-memes, on a donn6 comme justification id6ologique la necessite
+d’accroitre la production des articles de consommation et de maintenir
+la cadence rapide de cette production, voire de contribuer a la prosperite
+et au bonheur de I’homme. L’id6e qu’on peut exercer une action sur les
+besoins et les habitudes des consommateurs, 1’accent mis sur ces besoins
+et habitudes dans la structure de la personnalit6, sont devenus non seulement
+des hypotheses de travail, mais des postulats id6ologiques g6n6raux quant
+a la nature de 1’homme moderne.
+Certains critiques sociaux, inquiets A juste titre du d6veloppement de
+la psychologie du consommateur, ont cependant adopt6 ces postulats
+avec l’id6ologie
+optimiste de la publicit6 commerciale, d’of les id6es
+unidimensionnelles
+sur la society industrielle rsvolurse devenant tout
+naturellement, du fait de son d6veloppement, une soci6t6 de consommation.
+On a vu naitre une conception tout aussi &amp;amp;dquo; unidimensionnelle de 1’homme
+vivant dans cette societe, 1’homme-consommateur (Homo consumens),
+heureuse &amp;amp;dquo;.
+avec une conscience satisfaite et meme
+Cette critique sociale a laissé tout A fait de cote les nombreux faits
+t6moignant de la pauvret6 et des contrastes sociaux brutaux qui existent
+
+d’Occideat,
+
+pragmatique
+
+et surtout aux
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+ttats-Unis,
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+62
+
+dans les pays capitalistes les plus 6volu6s, du m6contentement de la masse,
+des justes revendications des travailleurs, qui doivent etre incluses dans le
+programme de I’humanisme th6orique et pratique.
+La th6orie de I’analyse structurelle fonctionnelle et la recherche pratique qui s’appuie sur cette theorie utilisent comme mod6le de travail,
+on Ie sait, Ie modèle de la societe a valeur normative (systeme des valeurs
+dominantes qui s’objectivisent dans les institutions et les formes d’activite
+sociale). Ce modele a contribu6 A 1’etude de la soci6t6 en tant qu’entite,
+mais en tant qu’entite particuliere, vue a travers Ie m6canisme de 1’autoreproduction du systeme social donn6 qui agit dans Ie sens de son int6gration interne et de sa stabilit6 relative, avec inclusion des nouvelles g6n6-
+
+rations,
+
+etc.
+
+Ainsi construit dans une dimension bien d6termin6e, ce modele ne
+pouvait englober, ni surtout expliquer la dialectique de la vie et de la
+conscience sociale, la rupture interne des bases de la soci6t6 (selon 1’expression de Marx) qui caract6rise certaines phases de son evolution et se manifeste surtout quand des classes aux int6r8ts divergents se trouvent en pr6sence. II ne pr6tendait pas et ne pouvait pr6tendre expliquer la logique
+objective du passage de tels systemes sociaux a tels autres, ni la logique
+des contradictions internes qui engendre des conflits sociaux et des processus jouant contre 1’integration et I’auto-reproduction d’un systeme donn6.
+L’accent mis sur les m6canismes d’int6gration et d’harmonie sociales,
+dont le modele de valeurs normatives etait destin6 a justifier 1’existence,
+est implicitement lie a des conceptions id6ologiques particuli6res et a des
+illusions apolog6tiques, pr6sentant la soci6t6 capitaliste modeme comme
+un tout dans Ie cadie duquel les oppositions et les conflits sociaux peuvent
+s’harmoniser et se trouver 6cart6s par une organisation fonctionnelle de la
+technologie, un appareil administratif bureaucratique et la manipulation
+des intelligences, des sentiments et des d6sirs de 1’homme.
+Le critique social dont nous parlons condamne severement cette entit6
+unidimensionnelle &amp;amp;dquo;, la rejette au nom des principes de I’humanisme comme
+incompatible avec le libre d6veloppement de la personnalit6 humaine,
+de ses capacit6s, de ses possibilit6s latentes, de son initiative et la consid6re
+meme comme une nouvelle forme voil6e d’esclavage. Mais ce jugement
+severe n’empeche pas le critique de rester souvent lui-meme conditionn6
+par la vision qu’il partage avec les apologistes, bien qu’il 1’affecte du signe
+n6gatif. L’interpr6tation unidimensionnelle de 1’entite sociale est ainsi
+rejet6e de fa~on 6galement unidimensionnelle. En fait, cette critique reste
+6minemment 6motionnelle, isol6e de la r6a]it6 et notamment des donn6es
+des recherches sociologiques, historiques, 6conomiques, et socio-psychologiques portant sur les divers processus sociaux et sur 1’analyse de leur
+caract6re interne contradictoire et multidimensionnel.
+Sans une connaissance sociale stricte, int6gr6e a la theorie et dialectiquement assimilee, impossible d’apercevoir le rapport r6el et le conflit
+des diff6rentes tendances dans le domaine de la production mat6rielle
+moderne (6tant donn6 les exigences objectives que le progres technique
+&amp;amp;dquo;
+
+63
+
+propose a la soci6t6 et a l’individu), dans la structure sociale de classe,
+dans la conscience et le comportement des hommes. Impossible de mettre
+en evidence et d’evaluer avec assez de pr6cision les tendances r6elles, qui
+sont deja ou peuvent devenir demain la base et Ie milieu nourricier d’un
+vaste mouvement social visant A la resalisation des id6aux humanitaires,
+et qui dessinent les alternatives réelles, et non pas illusoires, de I’histoire
+
+contemporaine. Impossible enfin de saisir Ie passage du d6sir h la r6alit6
+et de mettre au point une attitude scientifique et critique vis-A-vis de cela
+meme que 1’on d6sire.
+
+rigueur dialectique, la pens6e humanitaire risque d’être
+vers une critique concrete du syst~me social qui
+engendre une politique int6rieure anti-humanitaire et une politique ext6rieure imp6rialiste, vers une critique abstraite de I’ industrialisme &amp;amp;dquo;,
+du
+technicisme &amp;amp;dquo; en general; elle peut s’engager dans une direction
+ultra-gauche &amp;amp;dquo;, ultra-r6volutionnaire qui resterait en fait utopique
+Bref,
+
+sans
+
+artificiellement orient6e
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+et anarchiste.
+
+Pour éviter ces 6cueils, la critique sociale devrait avant tout se debardu caract6re
+unidimensionnel
+de son attitude vis-a-vis de la
+recherche sociale professionnelle, en s6parant les possibilit6s offertes par
+la specialisation et la division du travail, des formes id6ologiques selon
+lesquelles ces possibilit6s se r6a]isent Ie plus souvent dans les pays capitalistes. On peut trouver aussi dans ces pays, si nous examinons les r6sultats
+r6els de nombreuses recherches qui expriment la logique objective des faits
+6tudi6s et non pas les consid6rations f6tichistes g6n6ralement admises,
+une information scientifique repr6sentative et fort int6ressante sur les
+tendances contradictoires de la vie sociale. Dans ces recherches-la, les
+exigences pr6sent6es a 1’homme par la technique moderne ne sont pas
+strictement unidimensionnelles (par exemple la trained incapacity de
+R.K. Merton). Les liens entre la rationalisation 6conomique et Ie conformisme n’y semblent pas unifin6aires et la conscience du consommateur
+ne s’y pr6sente pas sous les traits du bonheur. Les sociologues modernes
+qui s’occupent de problemes sociaux et de phenomenes d’ anomie &amp;amp;dquo;
+fournissent des donn6es fort int6ressantes qui d6mentent 1’illusion d’une
+societe capitaliste moderne qui serait un &amp;amp;dquo; tout &amp;amp;dquo; et d’un individu qui
+ne serait qu’une
+entit6
+au sein de cette soci6t6 intesgree.
+Il convient dans ce contexte de souligner encore une fois l’importance
+des traditions li6es au nom de Marx, qui a su lier la critique th6orique et
+humaniste de la societe of il vivait avec une s6rie de donn6es, preleveses
+par exemple dans les comptes rendus des inspecteurs de fabriques anglaises
+qui fixaient avec assez de pr6cision les processus contradictoires affectant
+le travail et la conscience des ouvriers de Fepoque.
+11 est evident que, pour aboutir A une nouvelle forme de connaissance
+sociale int6gr6e, il est indispensable de r6unir tout un ensemble de conditions non seulement m6thodologiques, mais plus encore id6ologiques et
+sociales. Le succes depend pour beaucoup de la mesure dans laquelle on
+saura surmonter avec pers6v6rance les habitudes et les standards idéologiques.
+&amp;amp;dquo;
+
+rasser
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+&amp;amp;dquo;
+
+.
+
+64
+
+*
+
+La science sociale en U.R.S.S. est caract6ris6e aujourd’hui par une
+liaison solide avec la philosophie humaniste, une attention plus grande
+accordese a 1’homme, a ses opinions, ~ ses tendances, ~ son bien-6tre materiel
+et A sa sant6 spirituelle, a son desveloppement 6motionnel et intellectuel.
+L’analyse th6orique et les recherches pratiques se sont donn6es pour
+but d’etudier non seulement les liens et les lois de d6veloppement de la
+production et de la vie mat6rielle de la societe (liens objectifs et impersonnels), mais encore les processus extremement tenus et complexes qui affectent
+Ie psychisme humain et la personnalit6 de 1’homme. Cette orientation
+actuelle de la sociologie sovi6tique, tout en analysant les grandes structures
+sociales, telles que classes, collectivites d’entreprises, villes, etc., 6tudie
+de fagon de plus en plus détaillée 1’individu, point de depart de ces structures.
+
+comprendre la particularit6 fonci6re des tendances les plus caract6ristiques du d6veloppement des difl’erents aspects du phenomene social
+et de ses diff6rentes structures, il est particulièrement important aujourd’hui
+d’etudier les exigences que la production industrielle moderne, 6voluant
+comme un systeme de plus en plus complexe et différencié de relations
+objectives, impose a I’homme en r6gime socialiste.
+II est extremement important de savoir, avec autant de precision que
+possible, dans quelle mesure ce systeme a besoin d’un individu actif, dou6
+d’initiative et d’esprit cr6ateur, se d6veloppant dans Ie sens d’une personnalit6 harmonieuse; quels sont les domaines de la production offrant des
+A pr6sent les conditions les plus favorables pour que se manifestent 1 ’indépendance et 1’esprit cr6ateur et pour que se developpent des formes de
+coop6ration r6alisant au mieux les principes d’un collectivisme authentiquement d6mocratique. La th6orie et la recherche sociales s’int6ressent a
+des questions telles que la part repr6sent6e par ces domaines de la producPour
+
+tion si on les compare aux autres domaines of la routine domine encore,
+et surtout, aux tendances qui modifient les corr6lations dans cette sphere.
+La societes socialiste et 1’homme moderne ont besoin d’une connaissance representative et aussi rigoureuse que possible, des exigences objectives qu’impose la logique de la revolution scientifique et technique, des
+alternatives et des possibilités dtscoulant de cette logique, des conditions
+
+sociales, institutionnelles, culturelles, id6ologiques
+
+et
+
+psychologiques,
+
+des mesures, des resformes qui peuvent aider A la realisation de ces possibilit6s.
+Ces connaissances, devenues 1’apanage de 1’opinion publique, pourront servir de point de repère pour la discussion et 1’adoption des d6cisions
+concernant toute la soci6t6 et chaque individu. Elles pourront accelesrer
+Ie dtsveloppement de 1’organisation de la gestion de la soci6t6 socialiste,
+en faisant participer des millions d’individus a la pratique de cette gestion
+
+65
+en contribuant A la mise en place de formes
+plus modemes et plus avanc6es
+de collectivisme socialiste.
+Le d6veloppement de la science sociale en U.R.S.S. pr6suppose la combinaison, dans un esprit cr6ateur, de 1’orientation vers la solution de problemes
+pratiques, 6conomiques, politiques, moraux et psychologiques avec 1’orientation vers les valeurs humanitaires, c’est-a-dire vers la formation d’une
+personnalite harmonieusement d6velopp6e et libre. Cette combinaison
+doit se r6aliser grace A la planification et A la prevision sociales, lors de
+1’6tablissement de programmes A long terme formulant des objectifs sociaux
+g6n6raux et les moyens de leur realisation. La science sociale voudrait
+faire en sorte que ces programmes soient affranchis au maximum d’une
+part d’un empirisme 6troit et d’un utilitarisme de conjoncture, et d’autre
+part de volontarisme et d’utopisme. Elle s’appuie pour cet effort sur une
+recherche anim6e d’esprit cr6ateur, et sur I’assimilation, libre de subjectivisme et d’unilateralite, des traditions dont la doctrine de Marx est 1’expression.
+
+et
+
+furij Zamofkin est Chejdu D~partement de Recherches Sociales de !’Institut du MouveOuvrier International d Moscou. Ses travaux actuels se situent dans le domaine
+de l’hisfoire de la sociologie et de la psychologie sociale. Publications récentes : [Les
+problemes de l’orientation sociale de la persoflnalité dans le moiide actuel], in : Sociologija
+v S.S.S.R. Il (I965) ; [La crise de l’individualisme et la personnalit6] (1966~ ; [Les
+destins contradictoires de la sociologie dans des pays capitalistes contemporains], in :
+Voprosy filosofii .3 (1967).
+ment
+
+6
+
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

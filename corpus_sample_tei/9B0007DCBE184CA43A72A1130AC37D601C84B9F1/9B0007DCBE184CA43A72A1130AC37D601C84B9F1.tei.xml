@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">L'Emploi du temps: Diderot et Rousseau lecteurs de Sénèque</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2010. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2010">2010</date>
+            <date type="published">2010</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">L'Emploi du temps: Diderot et Rousseau lecteurs de Sénèque</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Nouis</surname>
+                        <forename type="first">Lucien</forename>
+                     </persName>
+                     <affiliation>
+                        <address>
+                           <orgName type="institution">New York University</orgName>
+                        </address>
+                     </affiliation>
+                     <affiliation role="corresp">
+                        <email>lucien_nouis@hotmail.com</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">9B0007DCBE184CA43A72A1130AC37D601C84B9F1</idno>
+                  <idno type="ark">ark:/67375/HXZ-31LDT6MP-Z</idno>
+                  <idno type="DOI">10.1093/fs/knq004</idno>
+                  <idno type="publisher-id">knq004</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2010</date>
+                     <biblScope unit="vol">64</biblScope>
+                     <biblScope unit="issue">2</biblScope>
+                     <biblScope unit="page" from="150">150</biblScope>
+                     <biblScope unit="page" to="163">163</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <head>Résumé</head>
+            <p>L'ancien questionnement philosophique sur le bon emploi du temps, que l'on trouve notamment développé dans les protreptiques (exhortations à la philosophie) de l'antiquité, est repris de manière peu orthodoxe par Diderot dans son <hi rend="italic">Essai sur les règnes de Claude et de Néron</hi> (1782), à propos du texte de Sénèque <hi rend="italic">De la brièveté de la vie</hi>: alors que Sénèque prône de façon toute classique que le bon emploi du temps coïncide avec le retrait dans la solitude pour s'employer à la philosophie, Diderot déclare vouloir donner son temps à qui le réclame et le compter pour rien. Nous envisagerons cette prise de position à la lumière de la querelle qui avait opposé Diderot à Rousseau sur la question de la sociabilité et de la solitude: Rousseau se montre proche de Sénèque, il est jaloux de son temps, c'est la seule chose dont on puisse être avare; Diderot, lui, en est prodigue, il l'offre à qui le demande. A travers cette divergence se pose la question de la place du philosophe et de la philosophie dans la société: comment mesurer ce qui appartient à l'individu et ce qui appartient au groupe?</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="s1">
+            <head/>
+            <p>
+               <cit>
+                  <quote>
+                     <p>Je lui dérobais mon temps, pour l'employer en occupations du même genre, mais qui avaient pour moi l'attrait de la liberté.<hi rend="superscript">
+                           <ref type="fn" target="#FN1">1</ref>
+                        </hi>
+                     </p>
+                     <p>Je n'ai jamais regretté le temps que j'ai donné aux autres, je n'en dirais pas autant de celui que j'ai employé pour moi.<hi rend="superscript">
+                           <ref type="fn" target="#FN2">2</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>Dans un commentaire concis mais éclairant du <hi rend="italic">De brevitate vitae</hi> de Sénèque, publié pour la première fois dans l'<hi rend="italic">Essai sur la vie et sur les écrits de Sénèque</hi> (1778), puis dans l'<hi rend="italic">Essai sur les règnes de Claude et de Néron</hi> (1782), Diderot reprend une question chère à la philosophie antique: comment <hi rend="italic">bien</hi> employer son temps, comment ne pas le laisser s'écouler sans en tirer le meilleur parti? Une telle interrogation se retrouve notamment chez certains auteurs de protreptiques, ou ‘exhortations à la philosophie’, dont la réponse peut suivre ce schème assez prévisible: parce que le moment de la mort est indécidable, la vie courte, l'art long, il faut se réapproprier le temps accaparé par les exigences de la vie publique, il faut sans attendre se détacher de celles-ci et préférer la fréquentation des meilleurs livres à celle de ses contemporains pris dans le tourbillon des affaires et du négoce — la pratique de la philosophie est le bien le plus désirable qui soit.<hi rend="superscript">
+                  <ref type="fn" target="#FN3">3</ref>
+               </hi>
+            </p>
+            <p>S'inscrivant pleinement dans cette tradition, en constituant même l'un des passages obligés, Sénèque critique dans <hi rend="italic">De la brièveté de la vie</hi> l'idée selon laquelle la mort viendrait toujours interrompre les plus belles créations humaines au moment le plus inopportun. Alors qu'Aristote déplore le fait que certains animaux vivent beaucoup plus longtemps que l'homme, Sénèque affirme au contraire que si la vie peut sembler brève, c'est uniquement pour qui n'a pas su bien employer son temps. Il importe dans ce domaine de ne pas se laisser exproprier:
+<cit>
+                  <quote>
+                     <p>Nous n'avons pas peu de temps, nous en avons beaucoup de perdu. La vie est assez longue et nous a été assez largement donnée pour achever notre haute destinée, si on en faisait toujours un bon placement […]. Oui, brève est la vie, non que nous recevons, mais que nous nous sommes faite; à son égard nous ne sommes pas des indigents, mais des prodigues.<hi rend="superscript">
+                           <ref type="fn" target="#FN4">4</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>Or — et ce sera notre point de départ — on se rend compte que dans la lecture de Sénèque qu'il propose, qui s'appuie sur des passages similaires, Diderot défend deux points de vue contradictoires, qui le font dévier quelque peu de l'orthodoxie du genre. Ayant commencé son texte en disant se reconnaître dans ce portrait de l'homme trop prodigue de son temps, qui arrive au terme de son existence sans avoir rien accompli de ce qu'il espérait faire — ‘On ne lit point ce traité sans s'appliquer à soi-même la plupart des sages réflexions dont il est parsemé’<hi rend="superscript">
+                  <ref type="fn" target="#FN5">5</ref>
+               </hi> —, il conclut sur la même idée: ‘Je n'ai pas lu le chapitre 3 sans rougir: c'est mon histoire. Heureux celui qui n'en sortira point convaincu qu'il n'a vécu qu'une très petite partie de sa vie’ (pp. 1208–09). On pourrait donc croire qu'ainsi encadré, ce développement sur <hi rend="italic">De la brièveté de la vie</hi> ne diverge en rien de la pensée de Sénèque. Mais entre ces deux moments d'entente, Diderot va aussi défendre de manière tout à fait inattendue l'idée inverse, faisant du don de son temps, et même de son abandon, une chose positive:
+<cit>
+                  <quote>
+                     <p>Un homme de lettres [c'est Diderot lui-même] se plaignait de la rapidité du temps. Un de ses amis, témoin de ses regrets, et sachant d'ailleurs combien il était prodigue du sien, l'interrompit en lui citant ce passage de Sénèque: <hi rend="italic">Tu te plains de la brièveté de la vie, et tu te laisses voler la tienne</hi>. ‘On ne vole point ma vie, répondit le philosophe: je la donne; et qu'ai-je de mieux à faire que d'en accorder une portion à celui qui m'estime assez pour solliciter ce présent?’ (p. 1203)</p>
+                  </quote>
+               </cit>Diderot, alors qu'il semble comme Sénèque condamner les distractions, la perte de temps, nous dit <hi rend="italic">aussi</hi> qu'il donne sans regret ses heures à qui les réclame. Non seulement cela, mais il semble aller encore plus loin dans sa prise de distance par rapport à Sénèque, puisqu'il suggère tenir son propre temps pour sans valeur:
+<cit>
+                  <quote>
+                     <p>Je n'ai jamais regretté le temps que j'ai donné aux autres, je n'en dirais pas autant de celui que j'ai employé pour moi. Peut-être m'en imposé-je par des illusions spécieuses, et ne suis-je prodigue de mon temps que par le peu de cas que j'en fais: je ne dissipe que la chose que je méprise; on me la demande pour rien, et je l'accorde de même. (p. 1203)</p>
+                  </quote>
+               </cit>
+            </p>
+            <p>Il y a plusieurs façons de lire cette contradiction apparente. En premier lieu, il faut noter que Sénèque et Diderot ne parlent pas tout à fait de la même chose, et que le temps n'est pas considéré comme perdu selon les mêmes critères de part et d'autre. Chez Sénèque, en effet, le temps est perdu s'il est consacré à autre chose qu'à la philosophie: il met sur le même plan les affaires publiques de Rome, le temps passé à collectionner des objets d'art et celui à lire les historiens. Diderot est plus vague sur ce point et c'est précisément ce qui rend sa prise de position intéressante. On pourrait d'abord penser qu'il ne fait qu'avouer ses regrets de ne pas avoir fait meilleur usage du temps qu'il s'était réservé, que les distractions du quotidien, ou son esprit en girouette, ne lui ont pas permis de mener à bien tous ses projets. Mais cette interprétation devient problématique lorsqu'on aborde le problème par l'autre côté, celui du temps offert à autrui: mettre ses jours au service des autres ne pourrait-il pas faire partie de ces distractions, et parfois équivaloir à mal employer son temps? Or, Diderot nous dit précisément qu'il n'a <hi rend="italic">jamais</hi> regretté le temps dont il s'est départi de cette façon. Difficile donc d'envisager que le type d'activité occupant une plage de temps donnée soit ce qui constitue l'enjeu premier du débat. Celui-ci semble plutôt résider pour Diderot dans l'identité du récipiendaire de ce temps — soi ou autrui. Tout se passe comme si c'était par le don qu'on en fait que le temps prenait toute sa valeur, le mieux employé devenant celui qui est consacré à ceux qui le réclament. Ce qui pourrait sembler à première vue paradoxal l'est beaucoup moins lorsque l'on considère que Diderot va justifier sa prise de position en ayant recours à l'opposition, que l'on pourrait dire classique, entre philosophie écrite et philosophie vécue: ‘Quelle comparaison d'une belle ligne, quand je saurais l’écrire, à une belle action? On n'écrit la belle ligne que pour exhorter à la bonne action, qui ne se fait pas: on n'écrit la belle ligne que pour accroître sa réputation' (p. 1203). A la pratique solitaire d'une écriture qui ne fait qu'enjoindre à bien agir, tournée sur elle-même, sans efficace immédiate même si elle est philosophique, Diderot oppose une éthique de la bonne action, de la bienfaisance active et directe. De ce point de vue, ce passage est un condensé fidèle de la stratégie qu'il adopte pour réhabiliter Sénèque: il faut en faire un philosophe de l'action et non pas de l'<hi rend="italic">otium</hi>, du retrait philosophique.<hi rend="superscript">
+                  <ref type="fn" target="#FN6">6</ref>
+               </hi> Comme nous le verrons plus loin, garder son temps pour soi, pour la ‘belle ligne’, c'est selon Diderot rester dans une dimension théorique, c'est se déprendre du monde.</p>
+            <p>Diderot se distancie donc en apparence du son modèle ancien: il affiche une libéralité dispendieuse au sujet du seul bien pour lequel Sénèque considère que l'avarice est honorable (‘in eo cujus unius honesta auaricia est’<hi rend="superscript">
+                  <ref type="fn" target="#FN7">7</ref>
+               </hi>). Alors que ce dernier pose comme limite au don de soi à autrui ce bien supérieur qu'est le temps propre, Diderot, lui, l'inclut dans sa pratique de la largesse et va même jusqu'à suggérer qu'il le tient pour sans valeur. De toute évidence, ce sont deux visions du monde, des rapports humains, qui s'affrontent à travers la question du bon emploi du temps.</p>
+            <p>Il a souvent été remarqué que l'<hi rend="italic">Essai</hi> n'est pas seulement une apologie de Sénèque, mais aussi une attaque contre Rousseau, puisqu'il contient plusieurs pages où ce dernier est décrit comme le parangon de l'antiphilosophe.<hi rend="superscript">
+                  <ref type="fn" target="#FN8">8</ref>
+               </hi> De fait, c'est peut-être dans la ‘querelle’ qu'il faudrait aller chercher, sinon une explication, du moins un contexte à cette apologie de l'abandon du temps propre soutenue par Diderot contre Sénèque. Plusieurs indices semblent à des degrés divers et de manière complémentaire pouvoir justifier un tel choix d'interprétation. En premier lieu, on remarque que Rousseau, tout au long de son œuvre autobiographique, se montre sur la question de l'emploi du temps proche de Sénèque, défendant à maintes reprises l'idée selon laquelle le temps serait à la fois ce qu'il y a de plus précieux et ce qui demanderait à être soustrait aux désirs et aux exigences d'autrui (et il est à noter que le texte de Sénèque dont il est question ici a fait l'objet d'une tentative de traduction de la part de Rousseau<hi rend="superscript">
+                  <ref type="fn" target="#FN9">9</ref>
+               </hi>). Et puis il y a la date de publication de la version initiale de l'<hi rend="italic">Essai</hi> de Diderot, qui suit de très près la mort de Rousseau: cette mort pourrait agir comme l'un des horizons implicites à partir desquels Diderot interroge Sénèque, tout se passant comme si en faisant le bilan de la vie du stoïcien, Diderot en profitait aussi pour faire celui de la vie de son ancien ami devenu ennemi. Enfin, Diderot dit explicitement dans l'<hi rend="italic">Essai</hi> que l'on trouve du Sénèque partout chez Rousseau, ce qui suggère la possibilité de lire son texte, du moins en partie, comme une tentative de récupération de Sénèque <hi rend="italic">contre</hi> Rousseau.</p>
+            <p>C'est donc à travers cette piste rousseauiste que nous proposons de chercher dans un premier temps le sens du décalage savamment ménagé par Diderot entre lui-même et Sénèque. Il s'agira de réfléchir à la question de la propriété du temps et de son partage, puisqu'entre prodigalité et avarice, il semble clair que l'attitude face au temps renvoie directement à la question de la place de l'individu dans la société, de son utilité, de sa participation plus ou moins grande au projet commun. C'est en situant les deux philosophes par rapport à Sénèque, par une sorte de triangulation, que nous serons à même de déterminer pleinement ce qui anime et gouverne leurs attitudes respectives vis-à-vis du temps.</p>
+         </div>
+         <div xml:id="s2">
+            <head>Le temps perdu</head>
+            <p>Parmi tous les passages qu'il faudrait mobiliser autour de la question de la perte de temps chez Rousseau, deux semblent avoir valeur d'exemple. Le premier a trait à l'expérience que Rousseau fait, encore adolescent, d'un séjour en apprentissage chez un graveur d'horlogerie. Professant un certain amour du métier et du dessin, Rousseau affirme qu'il ne lui aurait pas été impossible d'atteindre la perfection dans l'art somme toute assez borné de la gravure d'horlogerie, mais que c'est l'absence de liberté qui l'en a empêché — absence de liberté qui est ici illustrée de manière subtile à travers le récit d'une tentative ratée de double réappropriation symbolique, celle de l'appartenance républicaine et celle d'un temps employé pour soi:
+<cit>
+                  <quote>
+                     <p>J'y serais parvenu peut-être si la brutalité de mon maître et la gêne excessive ne m'avaient rebuté du travail. <hi rend="italic">Je lui dérobais mon temps, pour l'employer en occupations du même genre, mais qui avaient pour moi l'attrait de la liberté</hi>. Je gravais des espèces de médailles pour nous servir à moi et à mes camarades d'ordre de chevalerie. Mon maître me surprit à ce travail de contrebande, et me roua de coups, disant que je m'exerçais à faire de la fausse monnaie, parce que nos médailles avaient les armes de la République. Je puis bien jurer que je n'avais nulle idée de la fausse monnaie, et très peu de la véritable. Je savais mieux comment se faisaient les As romains que nos pièces de trois sous.<hi rend="superscript">
+                           <ref type="fn" target="#FN10">10</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>Rousseau affirme qu'il a dérobé à son maître son propre temps, formule qui peut s'interpréter d'au moins deux façons. D'une part, il y a le fait que la prise de possession par autrui du temps d'un individu équivaut à une perte de liberté pour celui-ci. D'autre part, ‘dérober’ son propre temps, c'est voler sans voler: Rousseau décrit un acte de résistance et même de réappropriation légitime. Il revendique sa liberté contre le pouvoir arbitraire de son persécuteur qui lui enlève ce qu'il a de plus propre. De manière révélatrice, ce temps est consacré à des activités similaires à celles pour lesquelles son maître l'emploie: tout se passe là aussi comme si l'enjeu véritable de ce récit n'était pas l'activité en elle-même, mais la propriété du temps.</p>
+            <p>Il n'est pas fortuit que l'acte de résistance en question soit symboliquement lié à la République genevoise, derrière laquelle se profile, comme souvent chez Rousseau, l'ancienne République romaine. Il n'est pas non plus inintéressant que ce travail de gravure soit confondu avec un travail de faussaire: c'est l'occasion pour Rousseau de réaffirmer son mépris tout philosophique pour l'argent. Alors que M. Ducommun pense que le temps dérobé est employé à la contrefaçon de pièces de monnaie, Rousseau, lui, ignore le signe monétaire: les médailles ressemblent à des pièces de monnaie, mais cela il ne le voit pas — les armes de la république ne sont pas pour lui le signe du numéraire, elles sont assimilées aux armes d'un ordre de chevalerie, c'est-à-dire reliées à un autre réseau de signification où interviennent, surajoutés, les concepts d'héroïsme et de gloire. Que la gravure de signes associés au républicanisme se fasse dans un atelier où l'on orne des objets utilisés pour mesurer le temps nous montre également à quel point Rousseau exploite une symbolique riche pour signifier l'étroite relation entre temps et liberté. On pourrait déduire de ce passage (même si cela demanderait à être appuyé par d'autres exemples, qui ne manquent pas d'ailleurs) que pour Rousseau le bien le plus précieux est la liberté telle qu'elle s'actualise dans l'emploi d'un temps non assujetti à une volonté extérieure. Le temps et l'argent, mis en rapport ici selon un schéma classique, se présentent comme deux formes de biens. L'un est ce capital dont le possesseur, pour autant qu'il le soit vraiment, est toujours hanté par la possibilité qu'il vienne à manquer, même s'il n'en fait pas forcément bon usage. L'autre joue sans doute chez Rousseau le rôle de compensation ou de supplément illusoire au premier. Mais Rousseau est insensible à la tentation de ce supplément: il ne dérobe pas son temps pour en tirer un profit financier quelconque, il s'en ressaisit pour sa valeur propre.</p>
+            <p>Notre deuxième exemple intervient plus tard dans les <hi rend="italic">Confessions</hi>, alors que Rousseau est devenu un homme coté à Paris, qu'il s'est métamorphosé en philosophe. Ici, le thème du temps accaparé par autrui réapparaît de manière à éclairer ce qui précède. Rousseau raconte comment, sans cesse menacé par les exigences du commerce et de la mondanité, il se trouve contraint d'adopter une stratégie de résistance pour faire face aux prétentions que divers importuns essaient de faire valoir sur son temps, dans un rapport agonistique d'autant plus violent que l'objet en est moins visible. L'enjeu de la lutte autour de la propriété du temps n'est ici rien moins qu'un droit à la philosophie et à la liberté:
+<cit>
+                  <quote>
+                     <p>Le succès de mes premiers écrits m'avait mis à la mode. […] Ma chambre ne désemplissait pas de gens qui sous divers prétextes venaient <hi rend="italic">s'emparer de mon temps</hi>. Les femmes employaient mille ruses pour m'avoir à dîner. Plus je brusquais les gens, plus ils s'obstinaient. Je ne pouvais refuser tout le monde. En me faisant mille ennemis par mes refus, j'étais incessamment subjugué par ma complaisance, et de quelque façon que je m'y prisse, <hi rend="italic">je n'avais pas par jour une heure de temps à moi</hi>. […] Je voulais vivre de mon métier: le public ne le voulait pas. On imaginait mille petits moyens de me dédommager <hi rend="italic">du temps qu'on me faisait perdre</hi>. […] Je ne connais pas d'assujettissement plus avilissant et plus cruel que celui-là. (p. 367; je souligne)</p>
+                  </quote>
+               </cit>Ce que Rousseau décrit dans ces lignes est tout simplement la difficulté de jouir de l'<hi rend="italic">otium</hi> philosophique, la difficulté de se retirer du monde pour avoir la liberté de penser. On est ici très près de Sénèque. On pense notamment au passage dans lequel celui-ci décrit les importuns qu'il est nécessaire d'écarter pour mener à bien la tâche de la philosophie en y consacrant son temps:
+<cit>
+                  <quote>
+                     <p>Tous ceux qui t'appellent à eux t'enlèvent à toi. Que de jours t'a ravis cet accusé? Et ce candidat? Et cette vieille, lasse de conduire le convoi de ses héritiers? Et ce faux malade qui s'amuse à exciter l'avidité des captateurs de testaments? Et cet ami puissant qui vous garde non pour l'amitié, mais pour la parade? Fais la balance, te dis-je, passe tes jours en revue: tu verras qu'un petit nombre, et le déchet, t'est resté. (<hi rend="smallCaps">vii</hi>, 7)</p>
+                  </quote>
+               </cit>
+               <hi rend="italic">De la brièveté de la vie</hi> peut à partir d'ici être légitimement considéré comme l'intertexte et le modèle autour duquel vient se cristalliser chez Rousseau son propre rapport au temps. Pour ce dernier comme pour Sénèque, l'assujettissement le plus terrible, le véritable esclavage, apparaît lorsque le temps vient à manquer, lorsque la philosophie devient impossible parce que <hi rend="italic">l'on n'a pas par jour une heure de temps à soi</hi>. On est tenté de rapprocher ces idées de la critique que Rousseau fait de la Hollande, nation que le dix-huitième siècle, lorsqu'il se montre inquiet des changements que le commerce a induits dans les rapports humains, associe le plus volontiers aux abus du mercantilisme. Il reproche aux habitants de ce pays leur rapport <hi rend="italic">intéressé</hi> au temps, leur appropriation du temps en tant que marchandise: ‘On dit qu'en Hollande le peuple se fait payer pour vous dire l'heure et pour vous montrer le chemin. Ce doit être un bien méprisable peuple que celui qui trafique ainsi des plus simples devoirs de l'humanité.’<hi rend="superscript">
+                  <ref type="fn" target="#FN11">11</ref>
+               </hi> Bien que le problème soit envisagé dans ces lignes d'une manière légèrement différente de ce que nous avons vu jusqu'ici, cette description du rapport entre temps et liberté, entre temps et argent, n'en rend pas moins explicite l'angoisse que Rousseau ressent à l'idée que l'on puisse <hi rend="italic">acheter</hi> son temps.</p>
+            <p>Dans les premiers livres des <hi rend="italic">Confessions</hi>, la relation au temps s'envisage presque toujours sous le signe de la perte. Or, toujours dans le but de rendre plus tangible ce qui distingue Diderot et Rousseau, il importe de montrer comment ce dernier, à travers la prise de conscience de sa propre mortalité, va parvenir à se réapproprier le temps pour le bien employer.</p>
+         </div>
+         <div xml:id="s3">
+            <head>Le temps réapproprié</head>
+            <p>La maladie qui saisit Rousseau alors qu'il est installé aux Charmettes avec Mme de Warens — décrite comme ‘une espèce de tempête qui s’éleva dans [son] sang' allant de pair avec un bruit interne assourdissant — le met dans un état si préoccupant qu'il pense ne pas pouvoir en réchapper: ‘Je me crus mort; je me mis au lit; le médecin fut appelé; je lui comptai mon cas en frémissant et le jugeant sans remède. Je crois qu'il en pensa de même, mais il fit son métier’.<hi rend="superscript">
+                  <ref type="fn" target="#FN12">12</ref>
+               </hi> Cette maladie inexpliquée, après avoir contraint le futur philosophe à garder le lit quelques semaines, a pour effet de bouleverser son rapport au temps:
+<cit>
+                  <quote>
+                     <p>Soit que je vécusse ou que je mourusse, <hi rend="italic">je n'avais point de temps à perdre</hi>. Ne rien savoir à près de vingt-cinq ans et vouloir tout apprendre, c'est s'engager à <hi rend="italic">bien mettre le temps à profit</hi>. Ne sachant à quel point le sort ou la mort pouvaient arrêter mon zèle, je voulais à tout événement acquérir des idées de toutes choses, tant pour sonder mes dispositions naturelles que pour juger par moi-même de ce qui méritait le mieux d'être cultivé. (pp. 234–35; je souligne)</p>
+                  </quote>
+               </cit>Le temps bien employé est ici celui qui est consacré à la réflexion, à la philosophie, c'est un temps qui correspond à un retour vers soi. Par ailleurs, ces lignes suggèrent l'idée d'une disproportion ou d'un disparate, comme si, la tâche étant immense, le temps jusqu'ici mal mis à profit menaçait de ne pas suffire.</p>
+            <p>La philosophie remplace donc la médecine, au moment où le risque de la mort physique tue les passions: Rousseau adopte une discipline quotidienne de l'étude. Après le réveil, c'est une promenade et des discussions autour de la table du déjeuner. Puis les lectures débutent et se poursuivent jusqu'à midi: ‘Je commençais par quelque livre de philosophie, comme la <hi rend="italic">Logique de Port-Royal</hi>, l’<hi rend="italic">Essai</hi> de Locke, Malebranche, Leibniz, Descartes, etc' (p. 235). Suivent la géométrie, le latin, puis l'histoire, la géographie, ou encore la cosmologie, dans un morcellement voulu qui, parce qu'il propose à l'esprit des sujets variés et changeants, permet à Rousseau de consacrer des heures à l'étude sans éprouver la moindre lassitude: ‘Je trouvais dans l'exécution de ce plan un autre avantage auquel je n'avais pas pensé; celui de mettre beaucoup de temps à profit’ (p. 235).</p>
+            <p>Par certains aspects, cette mise à profit tient de l'ascèse: que ce soit dans la tradition antique ou dans les exercices religieux chrétiens, il est notoire que la double maîtrise de l'esprit et du corps exige une certaine virtuosité exacte dans l'utilisation des heures, des jours et des semaines. Michel Foucault avait bien remarqué dans <hi rend="italic">Le Souci de soi</hi> que la transformation et l'entretien du corps et de l'esprit reposent aussi en grande partie sur ce que l'on pourrait appeler un souci du temps, idée dont il semble justement suggérer la présence chez Sénèque:
+<cit>
+                  <quote>
+                     <p>On sait l'ampleur prise, chez Sénèque, par le thème de l'application à soi-même: c'est pour se consacrer à celle-ci qu'il faut selon lui renoncer aux autres occupations: ainsi pourrait-on se rendre vacant pour soi-même (<hi rend="italic">sibi vacare</hi>). Mais cette ‘vacance' prend la forme d'une activité multiple qui demande qu'on ne perde pas de temps et qu'on ne ménage pas sa peine pour ‘se faire soi-même’, ‘se transformer soi-même’, ‘revenir à soi’.<hi rend="superscript">
+                           <ref type="fn" target="#FN13">13</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>D'autre part, cette organisation stricte de la journée rejoint chez Rousseau une certaine image de l'activité de l'homme de bien, tourné vers soi, indépendant, insensible aux attaques et aux maux de la société. Le temps discipliné mène à la vertu et allège les souffrances; se contraindre, c'est ici affirmer une liberté volontaire. Cette idée est particulièrement prégnante dans l'éloge que fait Rousseau d'un jeune Espagnol rencontré à Venise, Ignacio Emanuel de Altuna, qui partage son appartement avec lui lors d'un séjour à Paris. On voit en effet que la caractéristique principale de cet ‘homme de bien’ est l'extraordinaire efficace dont il fait preuve dans l'emploi de son temps:
+<cit>
+                  <quote>
+                     <p>Il partageait et fixait d'avance l'emploi de sa journée par heures, quarts d'heure et minutes, et suivait cette distribution avec un tel scrupule que si l'heure eût sonné tandis qu'il lisait sa phrase, il eût fermé le livre sans achever. De toutes ces mesures de temps ainsi rompues, il y en avait pour telle étude, il y en avait pour telle autre; il y en avait pour la réflexion, pour la conversation, pour l'office, pour Locke, pour le rosaire, pour les visites, pour la musique, pour la peinture; et il n'y avait ni plaisir ni tentation ni complaisance qui pût intervertir cet ordre; un devoir à remplir seul l'aurait pu. Quand il me faisait la liste de ses distributions afin que je m'y conformasse, je commençais par rire, et je finissais par pleurer d'admiration. (pp. 328–29)</p>
+                  </quote>
+               </cit>Si le rapport entre maîtrise du temps et vertu est ici clairement établi, l'économie illustrée par ce personnage semble cependant curieuse, on a l'impression que Rousseau s'engoue pour un maniaque. Sans doute l'hommage appuyé qu'il rend à cette figure-limite du contrôle de soi permet-il à Rousseau de signifier que cet idéal est pour lui inaccessible — face à l'exemple du philosophe qui a conquis le temps, il ne lui reste plus en effet qu'à ‘pleurer d'admiration’. L'Espagnol, dont la présence à Paris est motivée par son extraordinaire volonté de savoir, n'est ainsi pas loin d'être le portrait même de la sagesse. Discipliner le temps, c'est faire en sorte que celui-ci soit enfin vécu par le sujet dans une suffisance parfaite. Dans ce sens, la philosophie n'est rien d'autre pour Rousseau que l'apprentissage d'une certaine solitude du temps non partagé. La mise à profit des différents moments de la journée fait partie d'un véritable art de la présence à soi, condition de tout bonheur.</p>
+            <p>Gagner son autonomie, se rendre immune aux vicissitudes de l'existence, se garder de la contrainte que la proximité d'autrui rend presque inévitable: on voit que devenir philosophe, ou sage, passe par un rapport précis au temps. Comment repenser à partir de ce discours, que l'on pourrait dire classique, le décalage que nous avions perçu entre Rousseau et Diderot? Alors que ce dernier se montre peu jaloux de son temps, disions-nous, qu'il le consacre volontiers à qui en fait la demande, Rousseau privilégie une attitude proche de celle de Sénèque: manifestement, deux positions philosophiques sont mises ici à l'épreuve l'une de l'autre, dont il importe de déterminer l'enjeu véritable.</p>
+         </div>
+         <div xml:id="s4">
+            <head>Emploi du temps et sociabilité: Diderot critique de Rousseau</head>
+            <p>Il semble évident que l'écart entre Rousseau et Diderot ne peut se comprendre autrement qu'à travers l'analyse de deux images pratiquement opposées du philosophe, que l'on peut tour à tour, suivant le point de vue où l'on se place, reconnaître en Sénèque. L'<hi rend="italic">Essai</hi> de Diderot porte en grande partie sur la conduite adoptée par le philosophe à la cour des tyrans: la question est plus précisément de savoir ce qui a motivé Sénèque à rester si longtemps auprès de Néron et à ne s'en détacher que peu de temps avant sa disgrâce finale et son suicide forcé. Comme on le sait, Diderot défend l'idée selon laquelle Sénèque serait resté non pas pour bénéficier des avantages que lui valait sa proximité avec le siège du pouvoir (les immenses richesses qu'on lui reproche d'avoir accumulées), ce qui est l'accusation généralement portée par ses opposants au dix-huitième siècle, mais pour servir de frein jusqu'au bout à la folie sanguinaire de son élève. Pour Diderot, le véritable héroïsme philosophique ne correspond pas au retrait de la cour, au refus affiché et hautain de faire en quoi que ce soit cohabiter la philosophie et la tyrannie, mais plutôt consiste à rester proche du tyran afin de tenter jusqu'au bout de le raisonner et de le faire rougir de ses méfaits.</p>
+            <p>A travers sa défense de Sénèque, Diderot met bien en scène deux types de philosophes: d'une part, il y a celui dont la pensée, toute faite de refus et d'intransigeance, est pratiquée dans une sphère morale raréfiée qui implique nécessairement la solitude et l'éloignement de la cour; de l'autre, il y a celui qui est prêt à assumer pleinement sa mondanité et à accomplir sa mission sur l'horizon d'une certaine conception positive de la fonction sociale de censeur et de modérateur qui lui est assignée. Diderot choisit résolument le deuxième camp et encourage la circulation entre politique et philosophie, partant du principe que le philosophe qui fuit la cour affiche une vertu trop rigide, en désaccord avec les besoins de la société. C'est précisément pour cette raison qu'il ne suit pas Sénèque dans tous ses préceptes, allant même jusqu'à s'opposer à lui pour mieux le défendre:
+<cit>
+                  <quote>
+                     <p>[Sénèque] dit à Lucilius, <hi rend="italic">lettre XXXVI:</hi> ‘On blâme votre ami d'avoir embrassé le repos, abandonné ses places, et préféré l'obscurité de la retraite aux nouveaux honneurs qui l'attendaient. Exhortez-le à se mettre au-dessus de l'opinion; chaque jour il fera sentir à ses censeurs qu'il a choisi le parti le plus avantageux.’ Pour lui peut-être; mais pour la société? Il y a dans le stoïcisme un esprit monacal qui me déplaît; c'est cependant une philosophie à porter à la cour, près des grands, dans l'exercice des fonctions publiques, ou c'est une voix perdue qui crie dans le désert. J'aime le sage en évidence comme l'athlète sur l'arène: l'homme fort ne se reconnaît que dans les occasions où il y a de la force à montrer. (p. 1121)</p>
+                  </quote>
+               </cit>Envisagé ici sous ses formes les moins compatibles avec les principes de sociabilité qui traversent la philosophie du dix-huitième siècle, le stoïcisme est assimilé à une sorte de pratique religieuse: il s'agit là d'une objection forte à cette tradition, qui rejoint l'argument de Diderot contre la solitude des cloîtres, lieu symbolique de la perversion de la nature humaine. Afin de contrecarrer toute tentative de justification de l'érémitisme, Diderot affirme clairement que le stoïcisme n'aura de valeur que s'il est pratiqué à la vue de tous, dans les lieux les plus dangereux, là où le besoin s'en fait sentir avec le plus d'urgence. Un stoïcisme éloigné des villes et des cours, cultivé dans le confort d'une villa campagnarde, ne remplirait pas sa fonction <hi rend="italic">politique</hi> et donc n'irait pas jusqu'au bout de ses potentialités. La solitude, dans une telle perspective, ne peut être tolérée qu'à condition qu'elle soit provisoire:
+<cit>
+                  <quote>
+                     <p>[Sénèque] traite, [dans la] <hi rend="italic">lettre LXVIII</hi>, du repos du sage, qu'il arrache de ce recoin du globe pour le lancer dans les plaines de l'immensité. Je consens qu'il y fasse un tour, mais je ne veux pas qu'il y séjourne: s'expatrier ainsi, ce serait n'être ni parent, ni ami, ni citoyen. ‘Le stoïcien voit du haut des cieux combien c'est un siège bas qu'un tribunal, une chaise curule.’ De dessus une chaise curule, un tribunal, on voit combien c'est un rôle insensé que de se perdre dans les nues: vues monastiques et antisociales. (p. 1138)</p>
+                  </quote>
+               </cit>Selon Diderot, choisir la solitude philosophique équivaut à rompre tous les liens de la société et peut-être même à perdre symboliquement sa citoyenneté, c'est-à-dire sa voix: l'élévation au-dessus des nécessités de l'existence légale et politique entraîne automatiquement la défaite de toute visée effective dans le discours philosophique. De toute évidence, Diderot veut à tout prix se réapproprier Sénèque pour le faire se conformer à sa propre conception de la philosophie. Un passage en particulier montre bien que derrière la relecture que Diderot fait de Sénèque, c'est un autre projet qui s'annonce:
+<cit>
+                  <quote>
+                     <p>[Sénèque] s'occupe, <hi rend="italic">lettre XXV</hi>, des dangers de la solitude: si l'homme se retire dans la forêt par vanité ou par misanthropie, s'il y porte une âme pleine de fiel, il ne tardera pas à y devenir une bête féroce: celui dont il y prendra conseil est un méchant qui achèvera de le pervertir. (p. 1118)</p>
+                  </quote>
+               </cit>Diderot est ici à la limite du faux-sens. Tout ce que dit Sénèque dans la lettre en question est que la solitude est dangereuse pour qui n'est pas prêt à devenir son propre censeur: ce n'est qu'après avoir suivi un enseignement philosophique que l'on pourra être seul devant soi comme devant un homme de bien. Nulle part dans ce passage ne trouve-t-on les mots de ‘vanité’ et de ‘misanthropie’ — ce sont là des additions de Diderot. Or, on sait que la misanthropie est pour Diderot la passion la plus néfaste qui soit pour l'ordre social; c'est aussi la passion à laquelle Rousseau est communément accusé d'avoir cédé par ses ennemis. Il paraît donc très probable que ce dernier soit visé par Diderot lorsqu'il fait la critique d'un ‘mauvais’ stoïcisme. On peut aussi penser que lorsque Diderot prend soin d'écrire que l'on retrouve du Sénèque partout chez Rousseau, c'est seulement pour prouver que c'est un Sénèque asocial, non pas le ‘vrai’ Sénèque qui est le sien. Diderot, par un habile travail de réécriture, se construit à travers sa lecture de Sénèque comme l'exact opposé de Rousseau: un philosophe du mouvement, du tumulte et de la proximité, en prise sur son époque et écrivant pour ses contemporains. Considéré sous cet angle, le texte de Diderot ressemble de moins en moins à un éloge de Sénèque et de plus en plus à une ultime reprise de la querelle qui l'avait opposé à Rousseau.</p>
+            <p>Si l'on accepte l'idée selon laquelle Rousseau est bien celui qui est visé à travers la critique d'un stoïcisme ‘monacal’, la question de l'emploi du temps se trouve ici éclairée d'un nouveau jour: lorsque Diderot affirme donner son temps — c'est-à-dire participer directement à la société, se rendre utile — c'est en fait une certaine fonction politique et sociale de la philosophie qui est mise en avant <hi rend="italic">contre</hi> Rousseau (au moins implicitement). La question de l'emploi du temps demande en conséquence à être replacée au sein d'une divergence beaucoup plus vaste: il s'agirait de savoir si revendiquer son temps pour soi-même, se garder jalousement des autres, ce serait adopter une attitude fondamentalement contraire à l'intérêt de la collectivité.</p>
+            <p>La plus forte objection que l'on pourrait faire à l'<hi rend="italic">Essai</hi> est que chez Rousseau la réappropriation du temps n'est pas égoïste, comme le voudrait Diderot, même si elle passe par la solitude, mais relève plutôt d'une autre forme de participation et de communication. C'est d'ailleurs une telle interprétation que semble privilégier Bronislaw Baczkó lorsqu'il évoque ce qu'il appelle la ‘solitude démonstrative’ du philosophe: ‘toute écriture est par son essence même une extériorisation, elle est une tentative visant non seulement à nouer un dialogue, mais aussi à établir une communauté avec autrui.’<hi rend="superscript">
+                  <ref type="fn" target="#FN14">14</ref>
+               </hi> Pour Baczkó, la solitude recherchée et valorisée par Rousseau, qui fait presque inévitablement partie du processus d'écriture, est entre autres choses à comprendre comme le signe ou la démonstration de son refus du présent, de la société de son temps, au profit d'un appel utopique vers une société différente et meilleure, vers une autre forme de communauté et de solidarité. En somme, la méditation philosophique, la retraite, participerait chez Rousseau à la fois de la possession et de la dépossession: au temps de la réflexion et de l'écriture, qui est un temps consacré à soi, correspondrait le geste inverse, celui d'un temps offert à autrui — même si c'est indirectement, comme supplément.<hi rend="superscript">
+                  <ref type="fn" target="#FN15">15</ref>
+               </hi> Dans <hi rend="italic">Frêle bonheur</hi>, Tzvetan Todorov poursuit une veine similaire, lorsqu'il entreprend de restituer dans toute sa complexité la pratique rousseauiste de la solitude. En simplifiant l'argument, on dira qu'il distingue chez Rousseau au moins deux sortes de solitude: celle qui est source de souffrance et qui n'est jamais si terrible que lorsqu'elle survient au milieu d'occupations mondaines, dans le brouhaha des salons; l'autre qui, physique, de surface, ouvre sur une ‘communication authentique’,<hi rend="superscript">
+                  <ref type="fn" target="#FN16">16</ref>
+               </hi> concept que Todorov rattache en passant à la tradition stoïcienne. Encore une fois, Rousseau est certes seul, mais il l'est d'une façon qui ouvre aux autres. Pour Todorov, cet isolement volontaire témoigne du choix d'une ‘communication restreinte’, dont l'une des modalités est l'écriture en tant qu'elle ‘substitue un échange médiatisé à la promiscuité de la présence humaine’ (p. 48). Il s'agit là d'une solitude qui n'est pas totale, ni même réelle, puisque l'on sait que Rousseau était loin de vivre dans l'isolement: on doit la comprendre avant tout comme une attitude philosophique et un discours. L'éloge de la solitude tel qu'il est exprimé et se pratique à travers l'écriture devient ainsi le symptôme du désir d'une communication qui, parce qu'elle est différée, lointaine, en devient plus authentique. Il est à noter que Sénèque, dans <hi rend="italic">De la brièveté de la vie</hi>, conçoit une telle proximité médiatisée dans le dialogue avec les grands philosophes du passé:
+<cit>
+                  <quote>
+                     <p>Nous pouvons discuter avec Socrate, douter avec Carnéade, nous reposer avec Épicure, vaincre la nature humaine avec les Stoïciens, la dépasser avec les Cyniques. Puisque la nature nous admet en participation à tous les siècles, pourquoi ne pas sortir de l'étroit et chancelant passage de la vie pour nous adonner tout entiers à ces méditations infinies, éternelles, partagées avec les plus nobles esprits? (<hi rend="smallCaps">xiv</hi>, 2)</p>
+                  </quote>
+               </cit>Chez Rousseau comme chez Sénèque, la solitude du philosophe s'avère à bien des égards relative; elle est pleinement de l'ordre d'une sociabilité virtuelle, qui n'en reste pas moins bien réelle, même si ce n'est pas celle du salon.</p>
+            <p>Le rapprochement entre les concepts de temps, de sociabilité et de solitude qui semble être proposé par Diderot nous conduit donc à réévaluer à la fois le paradoxe de sa lecture du texte de Sénèque et la question de l'emploi du temps chez Rousseau. Ce dernier entend jouir de ses heures sans s'aligner sur le temps des autres: rejeter le temps social, la synchronisation des esprits et des corps sur laquelle repose le bon fonctionnement des nations commerçantes, c'est à la fois se rendre heureux et accéder à la liberté. Mais jouir de sa solitude, d'un temps non partagé, c'est aussi chez lui vouloir changer le monde: on pourrait même dire que selon la logique qui est ici proposée, toute possibilité de changement reposerait en premier lieu sur une mise à distance d'autrui à la fois spatiale et temporelle. C'est ce que Diderot semble ne pas vouloir reconnaître à Rousseau: il privilégie au contraire une communauté immédiate, une action au présent, et ne voit qu'hypocrisie et lâcheté dans l'éloignement et le décalage cultivés par son ancien ami.</p>
+            <p>En tant que métaphore ou métonymie, le temps sert donc à mesurer ce qui appartient à l'individu et ce qui appartient au groupe, ou plutôt: à établir le degré de participation au groupe. La divergence qui existe entre Diderot et Rousseau révèle à quel point toute conception du sujet dans une société donnée doit prendre en compte cette mesure du temps: Rousseau revendique la propriété inaliénable de son temps; chez Diderot, on a presque l'impression que le temps n'appartient pas à l'individu, mais à la société, et que le refuser aux autres serait menacer le fonctionnement de la communauté.</p>
+            <p>Entre le temps de la communauté et le temps de l'individu, on se demande d'ailleurs si les conséquences les plus importantes à extraire de la différence entre Diderot et Rousseau ne seraient pas avant tout politiques. La théorie du contrat social, par exemple, n'est pas entièrement étrangère à la question du temps bien employé, puisque lorsque Rousseau décrit le contrat comme ce par quoi ‘chacun se donnant à tous ne se donne à personne’,<hi rend="superscript">
+                  <ref type="fn" target="#FN17">17</ref>
+               </hi> il fait manifestement appel à un schéma de pensée similaire à ce que nous avons vu: la relation éthique et authentique à autrui exige sa mise à distance, dans un don dégagé de toute présence. C'est comme si le don politique du contrat social reproduisait le don philosophique de l'écriture. Le don de tous à tous est un don qui n'est pas un don tout simplement parce qu'il y a chez Rousseau cette médiation nécessaire: rien n'est directement donné à autrui parce qu'un tel don équivaudrait à une dépossession. Donner de loin, que ce soit par la médiation de l'écriture ou par celle du contrat, devient la seule façon de se garder près de soi-même, de ne pas se perdre dans la frivolité d'un rapport à l'autre dérégulé. Le temps de la solitude, on le voit, n'est pas forcément un temps asocial ou paranoïaque.</p>
+            <p>Entre Diderot et Rousseau, la divergence n'est ni profonde ni inéluctable. Diderot conçoit le partage et le don de son temps comme le point de départ de toute bonne philosophie et de toute bonne politique. La leçon que nous offre Rousseau, que l'on trouve sous la forme d'une interrogation constante à travers son œuvre, est que pour philosopher, pour penser la politique, pour exercer non seulement sa liberté mais défendre l'idée de liberté en général, ce qu'il faut, c'est tout simplement du temps pour soi, gardé sans partage <hi rend="italic">immédiat</hi>. Le temps jaloux du penseur fuyant le tumulte de la foule, exerçant dans le contentement la discipline intérieure de l'étude, ce serait l'idéal d'une existence sans confrontation, sans violence, tolérante, vécue dans une concorde enfin rendue possible grâce à la distance et à la médiation de l'écrit. Le philosophe rappelle de manière analogique et formelle une certaine idée de l'homme naturel: il échappe à la présence d'autrui et donc à sa menace, il existe dans la pure liberté de l'occupation solitaire. Certes, l'homme naturel ne pense pas, alors que le philosophe écrit et donne ses textes. Mais leur point commun est qu'ils ne sont presque jamais face à l'autre, qu'ils le rencontrent sans le rencontrer. On pense à une scène de don dans <hi rend="italic">Dersu Uzala</hi>, film très rousseauiste d'Akira Kurosawa: l'homme civilisé observe, fasciné, l'homme des bois laissant de la nourriture pour l'autre anonyme qui, perdu dans la forêt, pourrait venir à passer.<hi rend="superscript">
+                  <ref type="fn" target="#FN18">18</ref>
+               </hi> Il s'agit là d'un don qui requiert l'absence du donataire et la solitude du donateur. Rousseau, ne donnant à personne en particulier mais donnant à tous à travers le texte, reproduit sans doute un peu de ce geste étonnant qui, malgré le fait qu'il se passe d'un rapport direct avec autrui, n'en laisse pas moins d'être porteur de ses propres exigences éthiques — au même titre que la relation à l'autre prônée par Diderot.</p>
+         </div>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Jean-Jacques Rousseau, Les Confessions, dans Œuvres complètes (OC), éd. Bernard Gagnebin et Marcel Raymond, 5 vols (Paris: Gallimard, 1959–95), i, p. 31.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>Denis Diderot, Essai sur les règnes de Claude et de Néron, dans Œuvres, éd. Laurent Versini, 5 vols (Paris: Robert Laffont, 1994), i, p. 1203. Les indications de pages suivantes font toutes référence au tome premier de cette édition.</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Sur le genre du protreptique, consulter notamment: Sophie Van der Meeren, ‘Le Protreptique en philosophie: essai de définition d'un genre’, Revue des études grecques, 115.2 (2002), 591–621.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>Sénèque, De la brièveté de la vie, dans Dialogues, éd. A. Bougery, 2 vols (Paris: Les Belles Lettres, 1994), i (iii. 3), pp. 46–48.</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Diderot, Essai sur les règnes de Claude et de Néron, p. 1203.</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>Il est ainsi frappant de voir combien Diderot se montre à cet égard proche de la description de la philosophie de Zénon que proposait Louis de Jaucourt dans l'article ‘Morale’ de l'Encyclopédie, qui présente celle-ci presque exclusivement comme une éthique du don de soi à autrui: ‘Selon [les stoïciens], on est né pour procurer du bien à tous les humains, exercer la bénéficence envers tous, se contenter d'avoir fait une bonne action, et l'oublier même en quelque manière, au lieu de s'en proposer quelque récompense, passer d'une bonne action à une bonne action, se croire suffisamment payé, en ce que l'on a eu occasion de rendre service aux autres’ (‘Morale’, in Denis Diderot and Jean le Rond D'Alembert (éd.), Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers, éd. Robert Morrissey, 18 vols (University of Chicago: ARTFL Encyclopédie Project, Winter 2008 Edition) &lt;http://encyclopedie.uchicago/edu&gt; [consulté le 30 janvier 2010], x, 700).</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>‘Tous les plus grands génies ont beau être d'accord sur ce point, ils n'admireront jamais assez cet aveuglement de l'intelligence humaine: on ne laisse envahir ses domaines par personne; au moindre désaccord sur des questions de limites, on court aux pierres et aux armes: on laisse les autres empiéter sur sa vie; bien mieux, on introduit soi-même ceux qui vont en devenir les maîtres. Il ne se trouve personne pour vouloir partager son argent; entre combien chacun distribue-t-il sa vie? On est serré quand il faut garder son patrimoine; s'agit-il d'une perte de temps, on est particulièrement prodigue du seul bien dont il serait honorable de se montre avare’ (Sénèque, De la brièveté de la vie, iii, 1).</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Il existe une abondante bibliographie sur cette question. On citera pour mémoire: Jean Fabre, ‘Deux frères ennemis: Diderot et Jean-Jacques’, dans Lumières et romantisme: énergie et nostalgie de Rousseau à Mickiewicz (Paris: Klincksieck, 1980); Jacques Chouillet, ‘La Présence de J.-J. Rousseau après sa mort dans les écrits de Diderot’, Cahiers de Varsovie, 10 (1982), 177-88; Yves Citton, ‘Retour sur la misérable querelle Rousseau–Diderot: position, conséquence, spectacle et sphère publique’ et Marie Leca-Tsiomis, ‘Diderot et le nom de l'ami: à propos de l’Essai sur les règnes de Claude et de Néron', Recherches sur Diderot et l'Encyclopédie, 36 (2004), 57-95 et 97-108.</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>A propos de cette traduction, voir: Jean-Pierre Bouler, ‘Notes sur un fragment de Jean-Jacques Rousseau’, Annales, 37 (1966–68), 218–24. Dans cet article, Bouler démontre qu'un court fragment conservé à la Bibliothèque de la Ville de Neuchâtel, coté Ms. 7872c, fo 19 (ro–vo), que l'on avait longtemps pris pour le brouillon d'une lettre, est en fait un essai de traduction du De brevitate vitae. Sur la traduction de L'Apocoloquintose de Sénèque par Rousseau: Raymond Trousson, ‘Rousseau traducteur de Sénèque’, Travaux de Littérature, 3 (1990), 139–51. Sur Rousseau et le stoïcisme, on pourra consulter aussi: G. Pire, ‘De l'influence de Sénèque sur les théories pédagogiques de Rousseau’, Annales, 33 (1953–55), 57–92; G. Bretonneau, Stoïcisme et valeurs chez Jean-Jacques Rousseau: la position de Rousseau dans la recherche philosophique (Paris: CDU et SEDES, 1977); Yves Touchefeu, L'Antiquité et le christianisme dans la pensée de Jean-Jacques Rousseau (Oxford: Voltaire Foundation, 1999); et aussi: Eric Gatefin, Diderot, Sénèque et Jean-Jacques: un dialogue à trois voix (Amsterdam et New York: Rodopi, 2007).</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>Rousseau, Confessions, p. 31. Je souligne.</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Rousseau, Les Rêveries du promeneur solitaire, dans OC, i, p. 1097.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>Rousseau, Confessions, p. 227.</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>Michel Foucault, Histoire de la sexualité, iii: Le Souci de soi (Paris: Gallimard, 1984), p. 64.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Bronislaw Baczkó, Rousseau, solitude et communauté (Paris: École Pratique des Hautes Études et Mouton, 1974), p. 160.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>Outre le texte de Baczkó déjà cité, voir le chapitre que Starobinski consacre à la question de la solitude: Jean Starobinski, La Transparence et l'obstacle (Paris: Gallimard, 1971). Voir aussi l'essai de Goldschmidt qui propose d'interpréter la solitude chez Rousseau comme seul moyen d'instaurer un rapport authentique à autrui: Georges-Arthur Goldschmidt, Jean-Jacques Rousseau ou l'esprit de solitude (Paris: Phébus, 1978).</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>Tzvetan Todorov, Frêle bonheur: essai sur Rousseau (Paris: Hachette, 1985), p. 44.</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>Rousseau, Le Contrat social, dans OC, iii, p. 361.</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Akira Kurosawa, Dersu Uzala (URSS/Japon, 1975).</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

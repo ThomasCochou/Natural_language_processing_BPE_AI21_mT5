@@ -1,0 +1,1049 @@
+A. HADNI
+et al.: Spectres d’absorption et de dflexion
+
+241
+
+phys. stat. sol. 06, 241 (1968)
+Subject classification: 20.1; 6; 22.4.2; 22.4.3
+
+Universitd de Nancy
+
+Spectres d’absorption et de r6flexion, dans l’infrarouge lointain,
+de ZnSe, ZnTe et CdSe h basse temphture
+Par
+A. HADNI,J. CLAUDELe t P. STBIMER
+Quelques progrhs de l’instrumentation dans l’infrarouge lointain ont permis de pdciser
+1~ constantee optiques de CdSe, ZnTe et ZnSe par des mesures de trammission ou de rBflerion $ la tempBrature de l’hydrogbne liquide, de l’azote liquide et B teniperature ordinaire.
+1. Les spectres de dflexion d‘un polycristal de CdSe, d’une pastille de ZnTe, et d‘une
+lame d’Irtran 4 (ZnSe) obtenus B 290 et 80 OK, s’analysent de fapon satisfaisante dans
+l’hypothbe de deux oscillateurs de Lorentz pour CdSe, et d‘un seul pour ZnTe, et ZnSe.
+a) Pour CdSe ti 290 OK, on trouve v, = 171 cm-l, v, = 190 cm-l. Seule, la premibre fr&quence est B retenir. La deuxidme, bien que nhcesseire pour retrouver le spectre de reflexion
+ObservB, proviendrait de traces de soufre dans 1’Bchantillon. On en dBduit la frhquence longitudinale optique VLO = 214 cm-l, et le rapport de la charge effective des ions B celle
+de 1’6lectron dans la thBorie de Szigetti: e*/e = 0,85. A 80 OK, on a v1 = 175 cm-1 et
+VLO = 219 cm-1. b) Pour ZnTe d, 290 OK, on trouve v, = 177 cm-l; VLO = 205 cm-l;
+e*/e = 0,67. A 80 OK, v1 = 181 cm-l; YLO = 209 cm-l. c) Pour ZnSe A 290 OK, v, =
+= 204 cm-1, VLO = 254 cm-l, e*/e = 0,78. A 80 OK, w1 = 211 cm-l; YLO = 257 cm-l.
+11. - La transmission d’une couche t r b mince de ZnSe Bvaporee sur quartz permet de
+retrouver v1 = 204 cm-l B 290 OK, ainsi qu’une valeur approchbe du maximum de l’indice
+d’absorption kmaX w 5. Par ailleurs, la transmission d’une lame Bpaisse de ZnSe B la temp6rature de l’hydroghe liquide permet de mettre en Bvidence quatre bandes d‘absorption
+secondaire B 20; 23; 26,8 et 71 pm. La bande t r b faible B 20 pm eat attribuee B une
+combineison de trois phonons: LO
+TO
+TA. Les trois autres bandes sont interprktka
+TO, LO LA et 2 TA.
+par des combinaisons 11 deux phonons, respectivement: LO
+On en dhduit: TA = 70,5 cm-l; LA = 149 cm-l; TO = 210 cm-l et LO = 225 cm-l. On
+voit que les valeurs de LO et TO B la limite de la zone de Brillouin sont voisines, comme le
+fait prBvoir la valeur de e*/e et la rdgle de Keyhs [24].
+
+-
+
++
+
++
+
++
+
++
+
+The optical and dielectric constants of CdSe, ZnTe and ZnSe are precised by transmission
+and reflection measurements in the far infrared at liquid hydrogen, liquid nitrogen, and room
+temperature. 1.) the infrared reflectivity of e CdSe polycrystal, a ZnTe pellet, and e plate
+of Irtran 4 (ZnSe), studied a t both 80 and 290 OK can be satisfactorily explained assuming
+two Lorentz oscillators for CdSe, and only one for ZnTe and ZnSe. a) Their values for CdSe
+at 290 OK are: v, = 171 cm-l; v, = 190 cm-1. For pure CdSe only the first oscillator is
+reasonable. The second one though needed to fit the observed reflectivity, should arise
+from sulphur impurity in the sample a t our disposal. From vl we have calculated the longitudinal optic frequency VLO = 214 cm-l, and the ratio of the effective ionic charge to the
+electron charge e*/e = 0.85. At 80 OK, vl = 175 cm-l, and YLO = 219 cm-l. b) For
+ZnTe a t 290 OK, we find: v, = 177 cm-l; YLO = 205 cm-l; e*/e = 0.67. At 80 OK,
+181 cm-l; YLO = 209 cm-’. c) For ZnSe accurate results lead to v, = 204 cm-1:
+VLO = 254 cm-l; e*/e = 0.78 a t 290 OK, and v1 = 211 cm-1; WLO = 257 cm-1 a t 80 OK.
+2.) The transmission of a thin ZnSe layer deposited on a quartz plate leads again to v, =
+= 204 cm-l a t 290 O K , and to an approximate value for the maximum of the absorption
+16 physics 26/1
+
+242
+
+A. KADNI, J. CLAUDELet P. STRWE~
+
+index knlns 5 in good accordance with a Lorentz analysis. In a thick plate of Irtran 4
+at liquid hydrogen temperature three subsidiary absorption bands are found at 23. 26.8,
+and 71 pni. They are respectively explained by two phonons addition bands (LO TO,
+LO LA. and 2 TA). A weaker one at 20 W r n is explained in terms of three phonons
+(LO TO + TA). The values of the four characteristic phonons at the band edge are:
+TA = 70.5 cm-1; LA = 149 cm-1; TO = 210 cm-l; LO = 225 cm-l. The values of TO
+and LO are close enough to those expected from the ratio e*/e = 0.78 and an empirical
+relationship noted by Keyes, and cited by Fan and al. [24].
+
++
+
++
++
+
+1. Introduction
+Ces compos6s semi-conducteurs du type 11-VI ont fait l’objet de plusieur~
+etudes tant par absorption ou reflexion dans l’infrarouge, que par diffusion
+Raman. Qtons d’abord un travail general de Mitsuishi et al. sur leur absorption
+en suspension dans le polyethylene [2], et sur leurs spectres de reflexion [3] B.
+temperature ordinaire, et & celle de l’azote liquide. Ensuite, les spectres Raman
+de ZnSe et ZnTe obtenus recemment & temp6rature ordinaire [8].
+Citons erifin des travaux plus sp8cialisks. En ce qui concerne ZnSe, une Btude
+dejh anrienne [I] par reflexion, B. temperature ordinaire qui ne s’btendait malheureusement pas suffisamment dans l’infrarouge lointain, reprise recemment
+par Mitra [211, mais encore B. temperature ordinaire, a conduit des interpretations interessantes. Elle faisait intervenir des combinaisons & plusieurs
+phonons [12, 13,211. En ce qui concerne CdSe, il faut citer le travail de Geick
+et al. [23] en lumihre polarisee, B. 80 et 300 “K, et l’etude approfondie
+de Barker sur des cristaux mixtes CdSe-CdS [20]. Par ailleurs, les constantes
+diBlectriques de ZnSe [I, 15, 17, 221, ZnTe [I71 et CdSe [20] ont 6th mesurbes
+rbcemment, ainsi que les indices de refraction de ZnSe [I, 151, ZnTe [I61 et
+CdSe [20].
+Les techniques s’etant amBliorees, il Btait maintenant possible d’obtenir le
+spectre de reflexion de ZnSe et ZnTe non seulement B. basse temperature mais
+avec une precision meilleure que celle des spectres publib B. temperature or&naire. Par ailleurs, des mesures de transmission & basse temperature pour
+ZnSe Btaient Bgalement souhaitables puisqu’on ne disposait que des mesure 8
+toutes recentes de Mitra [21], & la tempbrature ordinaire, e t & celle de l’azote
+liquide seulement.
+2. Exporimentation
+
+Les spectres de reflexion de ZnSe, ZnTe et CdSe avaient dej&fait l’objet d’une
+Btude au laboratoire, & diverse8 temperatures, et nous ne reviendrons pas sur
+l’essentiel des conditions exp6rimentales [B]. Toutefois, nous avons pb ameliorer
+la precision des mesures en utilisaut davantage de reseaux, chacun &ant rkserv6
+pour un domaine spectral Btroit oh ses caract~5ristiquessont optimum, mais, les
+mesures ne sont pas encore assez precises pour deceler une variation de E R ou
+~
+ERO avec la temperature dans le cas de ces trois compos6s.
+Pour CdSe, nous avons utilise un polycristal. Le pouvoir rkflecteur de la
+surface vierge fut compare B. la mQme surface aluminbe. Pour ZnSe et ZnTe,
+nous n’avons disposk que de poudres comprimkes. Pour ZnSe, il s’agit d’un
+produit fritt.6 k8s belle surface, commercialis8 par Kodak sous le nom d’Irtran 4.
+Pour ZnTe, il s’agit de pastilles rBalis6es au laboratoire. I1 faut, constater que
+le pouvoir rbflecteur est beaucoup moins bon comme on l’avuit montrk pour
+ZnSe [B], en comparant directement la forme frittee (Irtran 4), et la pastille.
+
+243
+
+Spectres d'absorption et de rbflexion, dans l'infraxouge lointain
+
+AU contraire, pour KBr, CuCl, AgBr, . . . il est possible cl'obtenir des pastilles
+dent le pouvoir reflecteur approche de 100% A basse temperature.
+b s Irtran sont mauvais conducteurs de la chaleur, et pour les spectres de
+transmission A basse temperature, 1'Cchantillon est insbrb entre daus lames de
+quartz.
+
+3. ZnSe
+3.1 Spectres de &flexion
+
+La Fig. 1 donne le spectre de reflexion de 1'Irtran 4 A deux tempbratures, le
+pouvoir rbflecteur de la surface est compare B celui d'un miroir de verre aluminb.
+3.2 Atmlgse tfe h-mmers Kronig
+
+On sait que la valeur que l'on adopte pour le minimum de R* affecte tout le
+spectre. A la temperature ordinaire, e t A celle de l'azote liquide, nous prenons
+ici RZin= 2,5 et 3% respectivement, contrairement A la valeur adopthe (5 et 6'7")
+dans un travail precedent [el. On voit, sur la Fig. 2, que l'avance de phase Q
+A la rbflexion ne depasse gubre 2 radians; sup la Fig. 3, que n reste sensiblement
+nu1 sup un palier d'environ 30 cm-l, ce qui explique que R* y est sensiblement
+6gal ii loo%, et que l'indice d'absorption k ne dbpasse pas 8 A temperature
+ordinaire, et 11 ii 80 OK.
+
+t
+p-
+
+ZnSe
+
+60-
+
+J*t
+
+4810 -
+
+v/m-y
+
+FIR. 9. Indice ile r6frncticiii (z ilr ZnSc par I'annlvsc dc
+- - - ; cocffioicnt tl'ixtiurh n i e r s liroiiig -,
+t o n 1. dc %nSrpnr l'niinlyur tIr l i m n i m Y r m i g
+1
+
+16'
+
+'*-.'
+
+-
+
+244
+
+A. HADXI,J. CLAUDELet P.STRIMER
+
+-
+
+-
+
+vfcrn-7
+
+Fig. 4. Analyse de Lorentz de la reflexion de ZnSe B
+tempdrature ordinaire & L'aide d'un osrillateiir de IKIrentz. Les cercles dblgnent La eourbe exp6rinientale
+
+vcm-',
+
+Fig. 5. Analyse de Imentz de la reflexioii do ZnSe &
+tenipdrnture de I'nzotc liquidc A I'nide d'un oseillateur
+de Lorentx. Lca ecrrles clhignent In courbe expdrinien.
+tale
+
+7.50u
+
+N,
+
+ZnSe
+
+roo 500-
+
+-Jo -
+
+-
+
+v (on-7
+
+FSg. 6. Indice de refraction n de ZnSe dans I'hypo-
+
+- - -.
+. . . .. .
+
+t h b e d'un oseillateur de Lorentz -,
+Coefficient cl'eztlnction k de ZnSe dans I'hypotlid
+d'un 0seiUateur de Lorentz ,
+1
+
+v(cm-9
+
+-
+
+Fig. 7. Variation de la pnrtic rfelle c' do
+1n eonstante dielectrique de %nSe dam
+I'hypotlibe d'un oscillatenr ale Lorentx
+
+Yip. 8. Trnnnniiwion dc planiaurn lames
+d'lrtmn 4 d ' b p a i ~ ~ ~ diffErriites
+urs
+h dcul
+tenipfrnturca
+
+Spectres d’absorption et de &flexion, dans l’infrarouge lointain
+
+245
+
+3.3 Analyee d e Loretitx
+
+Une seule rbsonance suffit pour retrouver de fapon tres satisfaisante, Fig. 4 et
+ng.5,les courbes de rbflexion B. tempbrature ordinaire et h celle de l’azote
+liqsde. Le Tableau 1 rassemble les parametres des deux rbsonateurs de Lorentz
+Tablesu 1
+p-mhtres
+d’un rhsonateur de Lorentz permettant d’expliquer la r6flectivitk de ZnSe B
+290 et 80 OK (nos mesures par transmission sont dbignhes par * et nos mesuree par
+&flexion par **, celles de la litthrature par des nombreg correspondant A la bibliographie)
+
+-
+
+6
+
+VLO
+
+om-l)
+
+0,022
+0,018
+0,036
+
+0,010
+0,010
+
+.
+
+0.3
+5.4
+0,lO
+
+9.6
+7,6
+9,2
+
+5,80
+&3
+
+9,l
+
+204.5
+
+205
+
+254
+257
+
+I
+
+I
+
+I
+
+212
+
+_ 212
+
+257
+
+comepondant, avec 4ne = ERO - ERV;6 = g/o,, la force de frottement s’bcrivant
+dx
+f =m g
+et o1reprbsentant la frbquence angulaire de rbsonance. Nous y avom
+aussi portb les rbsultats de Mitra [21], de Mitsuishi [2,3], et de Krauzman en
+diffusiou Raman[ 81.
+Les valeurs que nous avons utilisbes pour ERV sont nettement plus grandes
+que celles correspondant au palier vers 10 ym que prbsente l’indice de rbfraction
+publib par Kodak pour 1’Irtran 4 [15]. Lorsqu’on veut diminuer ERV en laissant
+p et vl constants, l’aile de haute frbquence s’blargit vem les frbquences les plus
+Blevees.
+Ayant les parametres de l’oscillateur de Lorentz, on dbtermine n et k (Fig. 6)’
+E’ (Fig. 7) B. 290 et 80 OK. Les valeurs maximum de n et k sont un peu plus
+grandes que dans l’analyse de Rramers Kronig, le maximum de k s’observe
+sensiblement pour les m6mes frbquences.
+3.4 Supertransmission d’une lame d’Irtran 4 (ZnSe)
+
+La Fig. 8 reprksente la transmission d’une part de couches minces de ZnSe
+BvapporB et depose sur CsI et d’autre part d’une lame de 2 mm B. 290 “K, et aux
+temperatures de l’azote et de l’hydrogene liquides. On voit qu’h cette dernibre
+hmperature, la supertransmission s’btablit vers 50 ym, c’est-&-direimmbdiatement aprbs la frbquence Transversale Optique correspondant h un vecteur
+d’onde q = 0. La bande fondamentale correspondant B. la couche mince se situe
+A 204 cm-l en t.rbs bon accord avec les mesures par rbflexion.
+
+246
+
+A. HADNI,
+J. CLAUDEL,et P. STRIMER
+
+L’absorption 21 basse tempbratwe, provenant de processus d’addition 8,
+preciser, se reduit essentiellement 21 une bande 21 71 pm, dans l’aile de basses
+frequences, et trois bandes 8. 20 pm (500 cm-l), 23 pm (435 cm-’),_et 26,8 pm
+(374 cm-l) dans l’aile des hautes freyuences. La premihre n’apparait que sous
+l’apparence d’un point d’inflexion. D’aut.res bandes sont d6crites par Aven
+21 590 et 306 cm-1, et par Mitra[2lJ 21 268-292-303-318-334-351-412-444-530-580
+et 612 cm-1, mais nous ne les avons pas observees. Dans le
+Tableau 2 nous avons toutefois report6 la bande 8. 412 cm-l particulihement
+intense dam les spectre8 de Mitra.
+Tableau 2
+Bandes secondaires d‘absorption de ZnSe (no8 meniiren mnt. inrliqii4eR par
+
+*)
+
+Frbquences observ6es (em-’)
+
+__
+
+374
+374
+
+_501
+
+____
+
+432
+
+I
+
+-
+
+366
+
+____
+-- -
+
+LO+TO+TA LO
+
++ TO LO +LA
+
+141
+
+- __ .
+412
+420
+2 TO
+
+140
+140
+
+-
+
+2 TA
+
+Du c8t.6 basse frbquence, la bande 8. 71 pm (141 cm-l) ne peut faire intervenir
+que deur phonons de trhs basses frgquences, et correspond sans doute 21 2 TA.
+Nous avions dej21 observe cet harmonique dans CuCl[18]. D’oh TA = 70,5 cm-l.
+Du c8tB hautes frequences, les bandes les plus intenses d6crites dans la litt6rature pour ZnS, InSb, etc. . . . correspondent 21 2 TO, LO TO, LO LA et
+2LA. Par ailleurs, des bandes plus faibles peuvent r6sulter de combinaisons
+21 3 phonons, par exemple LO
+TO TA (500 cm-l).
+Nous essaierons d’interpr6ter: 1. la bande 21 435 cm-l comme LO TO;
+2. la bande 21 374 cm-l comme LO LA; 3. la bande 21 420 cm-l comme 2 TO,
+d’ou trois equations 21 trois inconnues. On obtient LA = 149 cm-l; TO=
+210 em-’; LO = 225 em-’.
+La dispersion serait importante sur la branche Longitudinale Optique, en bon
+accord avec ce qui est decrit pour des composes de mame structure comme
+GaAs [ll], et quasi negligeable sur la branche Transversele Optique, comme
+dam le cas de GaAs. On peut alors calculer LO TO TA = 505,5 cm-’
+21 15 OK, en bon accord avec le point d’inflexion observe h 500 cm-l h. la temperature ordinaire.
+Ayant les fr6quences caracteristiques des quatre branches 21 la limite de la
+zone de Rrillouin, nous avons essay6 de calculer 0: en ce point, et de comparer
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+?
+
+cette valeur h. la somme des carr6s des fr6quences TO et LO pour q = 0:
+2 0: = 1,56 x los
+qmax:2 o,: = 1,71 x lo5 cm-*. La Fig. 9 represente
+i
+
+i
+
+l’allure des courbes de dispersion de ZnSe h. la temperature de l’hydrogene
+liquide. Elle demandera 21 6tre precis& par le calcul, la diffusion des neutrons,
+ou tout au moins la connaisanca des pentes 21 l’origine, 21 partir de mesurev
+acoustiques ou elastiques.
+
+247
+
+Spectres d’absorption et. de rbflexion, dans l’infrarouge lointain
+g. courbes de dispersion dc ZsSe h la teulperntore de I’hyclru-
+
+gene liqulde
+
+44. ZnTo
+
+Les Fig. 10 et 11 donnent, par des points cerclbs, la rbflectivitb que nous avons
+observke, la Fig. 12 donne les rbsultats de l’analyse de Garners Kronig, et nous
+avons report6 (courbe en trait plein) sur lea Fig. 10 et 11 le pouvoir rbflecteur
+calculk dans l’hypothhse d’un oscillateur de Lorentz. L’analyse de Kramers
+Kronig redonne ici des courbes de dispersion pour n et k trhs proches de celles
+dbje publibes [6],et l’analyse de Lorentz les confirme. Le Tableau 3 rassemble
+les paramhtres utilisbs.
+Tableau 3
+Parambtres d’un rbonabur de Lorentz permettant d’expliquer la rbflectivith de ZnTe B
+290 et 80 O K (nos mesures sont indiqubes par *; celles dc la litthrature, par les nombres
+correspondant la bibliographie)
+TempBrature
+
+Vl
+
+e
+
+6
+
+(cm-1) [Lorentz]
+
+(OK)
+
+177
+177
+190
+290
+
+ERV
+
+Lorentz
+
+0,164 10,075
+0’19
+0,017
+
+180
+177
+
+177
+
+II
+
+205
+206
+
+I
+
+80
+
+I
+
+-I
+
+I;
+
+180,7
+180
+
+181
+
+1I
+
+209
+
+Nos rbsultats sont, en bon accord avec Mitsuishi pour yl, e et e ~ y mais
+,
+diffhrent beaucoup pour 6 du fa.it du mauvais pouvoir rbflecteur de la surface
+que nous avons considbrbe (pastille et non cristal). 11s sont en parfait accord
+avec les doiinees Raman rkceutes queut & la position cle v1 S 177 crn-l.
+
+248
+
+A. HADNI, J. CLAUDELet P.S ~ E R
+
+I
+
+1 *O1
+
+I
+9:
+
+10.
+
+20 '
+
+vfcm-9
+
+-
+
+Fig. 10. Analg-se de Lorentz de la refleuion de ZnTe B
+temperature ordimire B l'aide d'un oscillateur de Lorentz. Les cereles dhaignent la courbe eup6riimentale
+
+I
+
+-.... ...
+
+t
+
+C
+
+8-
+
+6-
+
+c
+
+7
+
+,
+
+_c
+
+Fig. 11. Analyse de Lorentz de la rdflexion de ZnTe &
+temperature de l'azote liquide 11 l'aide d'un o%cil~a.
+teur de Lorentz. Lea cerclea d~igileIltiUCourbc cupbrjmentale
+
+ufcm-7Fig. 12. Coefficient d'eutinction k de ZnTe par l'analyse de Iiramers Prontg
+9 - - ;Indice de
+reiraction n de ZnTe par l'andyse de Kramers K I O S I ~
+
+,rrr,
+
+vlcm-7
+
+-
+
+Fig. 1% Coeificient d'estinction k de CdSe par l'analyae
+de hramers Kronig
+
+2WK
+
+42-
+
+vfcm-3
+
+-
+
+Fig. 14. Indice do rQfractionn de CdSe par l'analyse
+de Krnnirrs Kronig
+
+0
+
+700
+
+200
+
+-
+
+300
+ufcm-7
+
+400
+
+Fig. 15. Analyne de Lormtz de In rfflexion de CdSe
+
+tcmpfrnturc ordimire h I'nidc tle deus oarilliitrurs de
+Lorentz. Lea cerclea dCignent la courbe espdrimentale
+
+Spectres d‘absorption et de &flexion, dens I’infrarouge lointain
+
+,
+
+Fig 16 Analyse de Lorentz de k r6flesion de CdSe b
+&&&ature de I’arote liqulde B I’alde de deux 06a t c u r s de Lorentz. Lea cercles d6signent Is courbe
+expbimentale
+
+1
+
+249
+
+80
+
+3
+
+>
+
+*60
+
+u
+
+U
+
+b. CdSe
+Contrairement au prbcbdent, ce cristal est du type Wurtzite. On attend donc
+deux frbquences actives en infrarouge. Dans un travail tout rbcent, Barker
+a montrb qu’elles n’btaient sbparbes que par 3 ern-’, et ici, oh le cristal prbsenhit plusieurs macles, nous nbgligerons cet effet.
+Les points cerclbs des Figures 15 et 16 indiquent la rbflectivite observbe
+8, 290 et 80 OK. Les Fig. 13 et 14 donnent les constantes optiques obtenues
+par la mbthode de Kramers Kronig. Les Fig. 15 et 16 montrent qu’8 l’aide
+de deux oscillateurs de Lorentz, on peut construire (courbe en trait plein) une
+&flectivitb qui correspond trbs sensiblement aux points observb.
+Le tableau 4 rassemble les paramhtres de Lorentz correspondent d’une part 8,
+nos mesures (*), d’autre part 8, celles de Mitsuishi [3]et de Barker [20].
+Nous avons aussi port6 les mesures de Mitsuishi par transmission [2]. Dans
+ce dernier cas, il s’agissait de poudre dispersbe dans du polybthylbne et la
+frequence du maximum d’absorption est 18 encore nettement plus grande.
+Au point de vue expbrimental il est inuressant de noter que le maximum
+de rbflexion tant dans nos spectres, que dam ceux de Mitsuishi et de Barker
+prbsente une structure. Toutefois, le pic de plus grande reflexion chez ces
+derniers auteurs se situe du ~ 8 t hdes plus courtes longueurs d‘onde et ce n’est
+qu’8, 16 OK que Barker retrouve une structure analogue 8, celle que nous observons tant B. 200 qu’8 80 OK. Rappelons que Barker (p. 23) a montre qu’elle
+ne dbpendait pas de la f a p n dont la surfacc eat prbparbe mais que, toutefois,
+un d4capage chimique de la surface augmentait la rbflexion.
+C’est cette structure qui nous a conduit 8, considbrer deux oscillateurs de
+Lorentz de frbquences vl et ye pour expliquer le spectre de rbflexion. Barker
+a montrb que cette structure provenait de traces de soufre. Les cristaux les
+plus purs de CdSe qu’on peut se procurer contiennent 1,5% de CdS et l’analyse
+des vibrations du cristal mixte conduit B. prbvoir huit frbquences fondamentales pour chacune des polarisations, E I! c, et E 1c. En fait pour chacune
+des polarisations, seules trois de ces oscillations ont une force notable, et nos
+resultats montrent qu’en utilisant les deux plus fortes, on peut trhs sensiblement retrouver le spectre de rbflexion expbrimental. Barker a toutefois dil
+utiliser une troisibme frbquence voisine de celle de CdS pour expliquer un
+maximum secondaire situb vers 280 cm-1. Dans la region qui nous a intbressbs,
+no8 points expbrimentaux, correspondent beaucoup mieux & la courbe thborique
+faisant interveiur deux osoillateuru, que dtws le travail de Barker (Fig.7 ct 3,
+
+15
+
+80
+
+i
+
+'
+
+I
+
+,
+
+_
+
+80
+
+290
+
+Temperature
+(O10
+
+-
+
+-
+
+290
+
+Temperature
+(OK)
+
+I,
+
+I
+
+1
+
+Vl
+
+I
+
+8,85 x 104
+8,15x lo4
+8,04 x l(r
+
+9,413x l(r
+8,46x1O4
+104
+8 ,x ~
+
+ZnSe
+ZnTe
+CdSe
+
+0,263
+
+0,266
+0,289
+0,287
+0,262
+
+el
+
+0,06
+
+0,012
+
+0,037
+
+0,052
+0,040
+0,05
+0,04
+
+4
+
+178
+180
+
+185,6
+
+178
+180
+
+189,6
+
+0,006
+0,004
+
+-
+
+-
+
+0,026
+
+--
+
+0,006
+0,04
+
+0,Ol
+
+ea
+82
+ERV
+
+I
+
+6,04 x
+
+6,09x
+
+5,66 x
+
+6,04x
+
+5,66 x
+6,09 x
+
+a (cm)
+
+6,00x 10-l8
+6,93x l0-l6
+6,84x
+-__-6,00x
+6,93x
+6,84x
+
+RP (cm*)
+
+0,800x 10-l2
+0,965x lo-'%
+0,965 x
+
+~
+
+--_--
+
+8
+
+891
+
+8,3
+
+0,75 ~ 1 O - l ~ 8,3
+8,2
+10-12
+10-18
+8
+
+4 Rap
+
+as
+--
+
+I
+
+I
+
+j
+
+!
+
+I
+
+Tableau 5
+Calcul dea compressibilitde a deux temp8rnturea diffkrentes
+
+--
+
+fl (dyne cm-1)
+
+174,7
+
+171,l
+167
+168 (11)
+171 (I)
+185
+
+(cm -1)
+
+ZnSe
+ZnTe
+CdSe
+
+[201
+[201
+
+*
+
+[201
+[21
+
+[20]
+
+[31
+
+*
+
+RBference
+'
+
+11,53
+10,3
+11,31
+
+11.6
+10.3
+11,35
+
+9,31
+
+-
+
+-
+
+9,35
+9-4
+9.72
+994
+
+-
+
+&RO
+
+'
+
+I
+
+I
+
+2,12
+
+2.10
+2,36
+
+--
+
+2.14
+2.39
+2.12
+
+1.75 x
+2.28 x
+2,05 x
+
+1,131 x
+2,39x 10-l2
+2,12x 10-12
+
+Tableau 4
+Parametres de deux rdsonateurs de Lorentz permethnt d'expliquer le coefficient de dflexion cle CdSe B 290, 80 et 15 O K .
+Nos mesures sont designees par *.
+
+251
+
+Spectres dabsorption et de reflexion, dans l’infrarouge lointain
+
+~201). Barker explique d’ailleurs ses difficultbs, e t il n’arrive retrouver ses
+courbes expbrimentales qu’A 15 “EL. (Fig. 9 et 10, [20]) ou le pic de plus grande
+amplitude se retrouve comme dans nos spectres du c6tb des grandes longueurs
+d’onde. 11 se pOUrrait, clue 88s spectres espbrimentaux A 300 “Ii soient alter&
+sy~tbm4tiquement. Les effet.5 de surface, par exemple, pourraient 6tre plus
+importants que prevu.
+
+6. Formules de Szigeti
+Les trois crivtaus L.tudi4s ont une structure cubique ii faces cent.rbes avec
+quatre molbcules par maille. Les dimensions respect.ives des ar6tes sont
+a = 5,66;6,09; 6,04A pour ZnSe, ZnTe e t CdSe. On en dkduit la distance R
+entre deux atomes diff6rent.s imm6diat.ement voisins :
+La premiere formule de Szigeti s’bcrit
+
+qj4 I&
+
++ 2 a3 ; u3
+x = 3 n2
+- - -est le volume
+s + 2 4R2B
+4
+1
+
+1
+
+1’
+
+occupb par une molbcule, et /3 = p w;, avec: - = - + -, M e t m &ant les
+/t
+M
+nt
+masses des deux atomeci, et wl reprbsentant la frbquence angulltire fondamentale
+du cristal (pour CdSe, on confondre, comme plus haut, les deux frbquences
+correspondant aux deux orientations d u cristal). On obtient ainsi le Tableau 5.
+La deuxibme formule de Szigeti s’6crit :
+
+Le Tableau 6 r&ume nos calculs.
+Tableau 6
+Repport e*/e de la charge effective des ions A celle de l’blectron dans la theorie de Szigeti
+A 290 OK
+
+290
+
+1 I
+ZnSe
+ZnTe
+CdSe
+
+I I
+
+1 8 2 ~ 1 0 - ~ ~3,3
+226 x
+2 2 0 ~ 1 0 - ~ ~:$5
+
+I
+
+69
+
+1 3,22
+3,72 x 10-10
+I 4,08xx 10-1O
+10-10
+
+0,048
+0,031
+0,062
+
+0,78
+,
+
+0,67
+0,85
+
+Bibliographie
+[l] M. AVEN,D. T. F. MARPLEet B. SEOALL.J. appl. Phys. 81,2261 (1961).
+[2] A. MITSUISEI, H. YOSHINAGA
+et S . FUJITA.J. Phys. SOC.Japan 18, 1235 (1958).
+[3] A. MITSUISHI,II.YOSHINAOA,
+K. YATAet. A. MANABE,
+Japan. J. appl. Phys. 4, 581
+(1965.)
+[4] S. S. MITRA et R. MAESHALL, Multiphonon Infrared Bbsorption in 11-VI Semiconductors, Physique des Semicondocteurs. Paris 1963 (p. 1085).
+[5] C. H. PERRY,M.I.T.Research Laboratories of Electronics
+Quart. Progr. Rep.
+No. 16, January 1965.
+[6] A. HADNI.P. HENRY,J.-P. LAMBERT,
+C. MORLOT,P. STRIMERet D. CHANAL,
+J. Phys.
+38, C-118 (1967).
+
+-
+
+252
+
+A. HADNI
+et al.: Spectres d‘absorption et de &flexion
+
+[7] A. HADETI,
+J. C ~ U D EX.
+L ,GERBAUX,G. MORLOT,P. STRIMER,
+et J.-M. M u m , Appl.
+Optics 4,487 (1965).
+[8] M.KRAUZMAN,
+Compta Rendus 864, 1117 (1967).
+[9] S.J. FRAY, F. A. JOHNSON
+et R. H.JONES,
+Proc. Phys. SOC.LXXVI, 939 (1960).
+[lo] R.B~RSEALL et S. S. MITRA, Phys. Rev. 184, A1019 (1964).
+1113 W. C o c m u ~ S.
+, J. FRAY, F. A. JOHNSON,
+J. E. Qu-QTON
+et N. WILLIAMS.J. appl.
+Phys. 83, 2102 (1961).
+[I21 S. S.MITRA et R. B f a a s ~ ~ uJ., Chem. Phys. 41,3158 (1964).
+[13] S. S. B~ITRA, Phys. Rev. 183, 986 (1963).
+[I41 F.A. JOHNSON,
+preprint.: Lattice Band in Diamond and Zinc Blende Crystals.
+r151 Kodak-Techbits. no. 2, 1966.
+cl6j T.R.S ~ EetRJ. M.JOST.J. Opt. SOC.Amer. 66, 130 (1966).
+[I71 D. BERLIN~XKTRT,
+H.J E B ~et
+E L. R. SEIOZAWA,
+Phys. Rev. 129, 1009 1963).
+et
+G. M o m , P. STRIMER
+[IS] J. N. PLENDL,A. HADNI,J. CLAUDEL, Y. HENNIXQER,
+L. C. MANS^, Appl. Optics 6, 397 (1966).
+1191 Z. I. KIR’YASEXINAet F. M.POPOV,
+LSoviet Phys. - J. tech. Phys. 87 69 (1967).
+[20] H. W.VERLEURet A. S. BARKER,
+JR.,Phys. Rev. 166, 750 (1967).
+[21] S.S.MITRA, J. Phys. SOC.Japan 31, 61 (1966).
+[22] W.R.RAMBAUSKE,
+J. appl. Phps. 85, 2598 (1964).
+1231 R. GEICK, C. H. PERRY
+et S. 8. MITRA, J. appl. Phys. 88, 1994 (1966).
+C24] R. E.NAEORY
+et H. Y. FAN,Phys. Rev. 166,826 (1967).
+(Received November 23.1967)
+

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La conception disjonctive de l’expérience</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La conception disjonctive de l’expérience</title><author xml:id="author-0000"><persName><forename type="first">Patrice</forename><surname>Philie</surname></persName><affiliation>Université d’Ottawa</affiliation></author><idno type="istex">71D634BDEF729582EC5B947E637FDD5A22BAEE99</idno><idno type="ark">ark:/67375/6GQ-0B5B2D4H-P</idno><idno type="DOI">10.1017/S0012217309990114</idno><idno type="PII">S0012217309990114</idno><idno type="article-id">99011</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="539">539</biblScope><biblScope unit="page" to="556">556</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : La conception traditionnelle de l’expérience — aussi nommée conception causale de l’expérience — a vu sa prédominance menacée depuis une trentaine d’année avec l’arrivée de la conception disjonctive de l’expérience. Le présent article porte sur un argument récemment proposé par John McDowell en faveur du disjonctivisme. De façon très générale, son argument peut être caractérisé comme une tentative de montrer que la conception traditionnelle est incapable de rendre compte d’un certain aspect de l’expérience, contrairement à la conception disjonctive. J’aimerais dans cet article suggérer que l’argument de McDowell — de facture transcendantale — n’a pas les ressources suffisantes pour atteindre son but.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: The traditional conception of experience — also known as the causal conception — has been criticised in the last thirty years or so by proponents of the disjunctive conception. This article examines an argument recently put forward by John McDowell in support of disjunctivism. Broadly speaking, his argument can be seen as an attempt to show that, unlike the disjunctive conception, the traditional conception cannot account for a crucial aspect of experience. I aim here to show that McDowell’s argument — which is of a transcendental kind — does not have sufficient resources to achieve its intended goal.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La conception disjonctive de
+l’expérience
+
+PATRICE PHILIE
+
+Université d’Ottawa
+
+RÉSUMÉ : La conception traditionnelle de l’expérience — aussi nommée conception
+causale de l’expérience — a vu sa prédominance menacée depuis une trentaine d’année
+avec l’arrivée de la conception disjonctive de l’expérience. Le présent article porte sur
+un argument récemment proposé par John McDowell en faveur du disjonctivisme. De
+façon très générale, son argument peut être caractérisé comme une tentative de montrer
+que la conception traditionnelle est incapable de rendre compte d’un certain aspect de
+l’expérience, contrairement à la conception disjonctive. J’aimerais dans cet article
+suggérer que l’argument de McDowell — de facture transcendantale — n’a pas les ressources sufﬁsantes pour atteindre son but.
+ABSTRACT: The traditional conception of experience — also known as the causal
+conception — has been criticised in the last thirty years or so by proponents of the
+disjunctive conception. This article examines an argument recently put forward by John
+McDowell in support of disjunctivism. Broadly speaking, his argument can be seen as
+an attempt to show that, unlike the disjunctive conception, the traditional conception
+cannot account for a crucial aspect of experience. I aim here to show that McDowell’s
+argument — which is of a transcendental kind — does not have sufﬁcient resources to
+achieve its intended goal.
+
+La conception traditionnelle de l’expérience — aussi nommée conception causale de l’expérience — a vu sa prédominance menacée depuis une trentaine
+d’année avec l’arrivée de la conception disjonctive de l’expérience1. La discussion se fait sur deux terrains : en philosophie de l’esprit et en épistémologie. En
+philosophie de l’esprit, le débat tourne autour de la nature des états mentaux
+associés aux énoncés d’expérience, comme «ceci m’apparaît rouge». Plus
+Dialogue 48 (2009), 539-556.
+© Canadian Philosophical Association /Association canadienne de philosophie, 2009
+doi:10.1017/S0012217309990114
+
+540
+
+Dialogue
+
+précisément, la question est de déterminer si les expériences véridiques et les
+expériences illusoires sont de la même nature (le traditionaliste dira que oui,
+tandis que le disjonctiviste s’opposera à cette identiﬁcation). En épistémologie,
+la discussion porte plutôt sur l’aptitude de la conception disjonctive à atténuer
+(en un sens à préciser) la voix du sceptique à propos de notre connaissance du
+monde extérieur. Le présent article porte sur l’aspect épistémologique du débat, plus précisément sur un argument récemment proposé par John McDowell
+en faveur du disjonctivisme. De façon très générale, son argument peut être
+caractérisé comme étant une tentative de montrer que, contrairement à la conception disjonctive, la conception traditionnelle est incapable de rendre compte
+d’un certain aspect de l’expérience. Cette capacité de la conception disjonctive, selon McDowell, lui permet d’atténuer la voix du sceptique.
+J’aimerais suggérer dans cet article que l’argument de McDowell — de facture transcendantale — n’a pas les ressources sufﬁsantes pour atteindre son
+but. Selon moi, il faut, pour justiﬁer une conception de l’expérience qui possède des ramiﬁcations importantes sur la nature de l’objectivité ainsi que sur le
+rapport entre le sujet et le monde, que cette conception soit soutenue par des
+considérations allant bien au-delà de ce qu’implique l’argument de McDowell.
+Je vais procéder de la manière suivante. En premier lieu, la conception traditionnelle sera introduite en la contrastant avec le problème du scepticisme.
+Puis, la conception disjonctive sera caractérisée, elle aussi à travers des considérations épistémologiques. Nous discuterons ensuite brièvement de quelques
+arguments en faveur de la conception disjonctive. Dans la section 4, nous examinerons trois versions de l’argument transcendantal en faveur de la conception disjonctive. Finalement, la version la plus plausible de l’argument de
+McDowell — la version «C» — sera critiquée.
+1. Le scepticisme et la conception traditionnelle de l’expérience
+Le problème traditionnel du scepticisme portant sur notre connaissance du
+monde extérieur prend sa source dans l’argument de l’illusion, que l’on peut
+décrire rapidement comme suit : lorsque j’ai une expérience donnée — par
+exemple la perception de ce qui paraît être un cube rouge devant moi — cette
+expérience est la même, d’un point de vue phénoménologique, qu’il y ait en
+effet un cube rouge devant moi ou que cette expérience soit une illusion ou une
+hallucination. Étant donné que les expériences véridiques et illusoires sont,
+selon cet argument, impossibles à distinguer l’une de l’autre d’un point de vue
+phénoménologique, il s’ensuit que pour toute expérience perceptuelle surgissant à la surface de la conscience d’un sujet, il est impossible pour le sujet de
+déterminer, de façon certaine, si cette expérience est véridique ou illusoire.
+Ainsi, nous ne pouvons jamais, selon cet argument, acquérir des justiﬁcations
+adéquates pour appuyer nos énoncés portant sur le monde extérieur. Nous
+avons ici la structure argumentative qui rend possible les scénarios sceptiques
+traditionnels, du malin Génie de Descartes à la Matrice en passant par
+l’hypothèse des cerveaux dans une cuve.
+
+La conception disjonctive 541
+
+Selon John McDowell2, l’argument de l’illusion présuppose une conception de l’expérience apparemment irrésistible qu’il nomme la conception du
+«plus grand dénominateur commun» (highest common factor). L’idée centrale,
+qu’il vaut la peine de développer ici, est la suivante. Imaginons que je fais
+l’expérience perceptuelle d’un cube rouge; deux scénarios sont alors à considérer. Soit il y a vraiment un cube rouge devant moi qui est responsable de mon
+expérience, soit il n’y a pas de cube de rouge devant moi. Les conditions dans
+les deux cas diffèrent. Dans le premier cas, l’expérience véridique est telle
+qu’il y a un cube rouge devant moi, que ce cube a provoqué une stimulation de
+ma rétine, qui a ensuite envoyé des informations à mon cerveau, ces dernières
+ayant été traitées par la suite de façon très complexe jusqu’à créer la dite expérience de cube rouge. Dans le deuxième cas, il n’y a pas de cube. Ma rétine
+n’a donc pas reçu les informations, ces informations n’ont pas été envoyées à
+mon cerveau. Quelque chose d’autre s’est passé dans mon cerveau — les détails ne sont pas pertinents, mais il est indéniable que le cours des événements
+diffère du cas véridique. Cependant, dans les deux cas, malgré toutes les différences, le résultat est le même quant à l’expérience visuelle du point de vue
+phénoménologique : l’expérience véridique et l’expérience illusoire sont (ou
+seraient, car il n’y en a qu’une) indifférenciables (ou identiques). L’expérience
+perceptuelle est ce qu’il y a de commun dans les deux cas. C’est le «plus grand
+dénominateur commun». Jusqu’à l’expérience, il n’y a rien de commun dans
+les deux cas.
+L’expérience perceptuelle étant la même d’un point de vue phénoménologique malgré la différence factuelle dans les deux cas, il s’ensuit que
+l’on doit accepter une différenciation entre la réalité (ce qui est perçu) et
+l’expérience (la représentation de ce qui est perçu). La conception du plus
+grand dénominateur commun rend donc irrésistible l’idée selon laquelle
+l’expérience perceptuelle est un certain type de phénomène (une «apparence»), et ce qu’elle représente est un autre type de phénomène (la «réalité»,
+«ce qui est perçu»). La possibilité de l’illusion nous oblige, selon cette conception, à accepter que toute expérience perceptuelle — même véridique —
+possède une nature déterminée et doit être soigneusement séparée de ce
+qu’elle est censée représenter. Cela résulte en un clivage net entre le représentant et le représenté (ou entre l’expérience et ce que cette expérience est censée représenter). Nous pouvons résumer cette conception de l’expérience en
+trois thèses centrales :
+1) Les expériences ne sont toujours que de simples apparences (thèse
+représentationaliste).
+2) Elles sont perpétuellement susceptibles d’être fausses (defeasible) (thèse
+épistémologique).
+3) Deux expériences peuvent être indifférenciables d’un point de vue
+phénoménologique même si l’une est véridique, l’autre illusoire (thèse
+phénoménologique).
+
+542
+
+Dialogue
+
+McDowell est d’avis que cette conception de l’expérience n’est pas inéluctable
+malgré son ancrage profond dans la philosophie moderne. Selon lui, c’est
+cette conception qui est responsable du malaise causé par le scepticisme, de
+telle sorte que si l’on parvient à rendre attrayante une autre conception de
+l’expérience, notre position face au scepticisme s’en trouvera grandement
+améliorée. De façon plus précise, il s’en prendra surtout à la thèse représentationaliste, mais son attitude face à la thèse épistémologique est ambivalente.
+Pour ce qui est de la thèse phénoménologique, il semble que sa propre conception soit en mesure de l’accommoder3. Dans ce qui suit, je veux examiner de
+plus près la stratégie de McDowell et la soumettre à un examen critique.
+2. La conception disjonctive de l’expérience et la notion de justiﬁcation
+Selon McDowell, ce qui rend le scepticisme possible et apparemment irrésistible est l’idée selon laquelle toute expérience perceptuelle consiste en une apparence conçue comme étant distincte de la réalité qu’elle est censée représenter.
+Nommons «représentationaliste» toute conception de l’expérience perceptuelle qui accepte cette idée et qui postule des intermédiaires entre la conscience
+et le monde4. Un modèle classique de cette tendance se trouve dans la théorie
+des sense data. Pour reprendre l’exemple précédent, lorsque je perçois un cube
+rouge, je le perçois à travers des sense data — ce sont eux qui sont présentés à
+ma conscience, pour ainsi dire. Dès que nous avons de tels intermédiaires, le
+scepticisme devient une possibilité inéluctable : en effet, qu’est-ce qui garantit
+que ces intermédiaires — dans ce cas-ci les sense data — sont des représentations ﬁdèles de la réalité? En principe, l’illusion est toujours possible. C’est de
+là que proviennent les divers scénarios sceptiques. Notons aussi que l’expérience
+véridique d’un cube rouge et l’expérience illusoire d’un cube rouge ont, par
+hypothèse, les mêmes caractéristiques (c’est une autre façon d’expliquer la notion de «plus grand dénominateur commun»).
+Le cœur de la conception de l’expérience proposée par McDowell réside
+dans la répudiation de la thèse représentationaliste à l’effet que l’expérience se
+fait toujours par le biais d’intermédiaires. La thèse fondamentale de la conception disjonctive est la suivante : lorsque je fais l’expérience perceptuelle d’un
+cube rouge, et qu’il y a un cube rouge devant moi, l’apparence est ici un fait
+qui se manifeste dans ma conscience. Le sujet est en contact cognitif avec l’état
+de choses. Il n’y a pas de différence ontologique entre le contenu de la conscience perceptuelle et le fait ainsi «représenté». Il vaut la peine ici de citer un
+passage qui éclaire (un peu) ce que McDowell entend par cette image
+«d’ouverture sur la réalité» :
+Il n’y a pas de fossé ontologique entre le genre de chose qu’on peut signiﬁer, ou de
+manière générale le genre de chose qu’on peut penser, et le genre de chose qui peut
+avoir lieu. Lorsque l’on pense de façon véridique, ce que l’on pense est ce qui a
+lieu. [. . .] Il n’y a pas de fossé entre la pensée, comme telle, et le monde (1994,
+p. 60)5.
+
+La conception disjonctive 543
+
+Lorsque je pense que le cube est rouge et que le cube est rouge, cette chose
+que je pense est le cas. C’est une façon — d’autres sont développées dans son
+corpus — d’afﬁrmer un genre d’identité entre la pensée et le monde. Cette
+thèse constitue peut-être le thème McDowellien par excellence qui traverse
+toute son œuvre.
+Mais revenons à la conception disjonctive en tant que telle. Nous venons de
+voir que cette conception tire sa source dans la répudiation de la thèse représentationaliste qui postule des intermédiaires entre le monde et le sujet qui perçoit
+ce monde (comme, par exemple, des sense data). Voilà pour une caractérisation négative. De façon plus positive, la conception disjonctive, nous l’avons
+vu, avance l’idée que l’expérience perceptuelle peut consister en un contact
+direct avec le monde. Ainsi, dans le cas d’une expérience véridique, le sujet
+voit le monde se manifester à lui — dans le cas d’une expérience illusoire, le
+sujet n’a devant lui qu’une apparence. D’où la disjonction : soit l’expérience
+consiste en un contact direct avec la réalité perçue, soit elle n’est qu’une «simple
+apparence».
+Ici, il est important de souligner que la conception disjonctive suggérée par
+McDowell possède des implications importantes au niveau épistémologique.
+Ce qui rend cette position attrayante aux yeux de McDowell, c’est la «position
+épistémologique» qu’elle rend disponible : lorsque j’ai une expérience véridique, cette dernière consiste en une justiﬁcation (adéquate, et en quelque
+sorte «immunisée» contre l’argument de l’illusion) que les choses sont telles
+qu’elles m’apparaissent6. Ici, il faut apprécier l’importance de cette afﬁrmation, en surface peut-être anodine. En fait, selon moi, la richesse ainsi que la
+plausibilité de la conception de McDowell dépendent de la façon dont cette
+afﬁrmation est explicitée.
+Regardons comment cette idée se situe par rapport au concept de justiﬁcation tel qu’il se déploie dans la conception rivale, celle du plus grand dénominateur commun. Prenons la version sense data de cette conception : ici, la
+justiﬁcation de «ceci est un cube rouge devant moi» réside principalement dans
+la disponibilité des sense data, ces derniers étant garants de l’énoncé. Bien sûr,
+ces sense data, dans cette conception rivale, sont d’une nature tout autre que ce
+qui est représenté. Au risque de le répéter, c’est cela qui rend le scepticisme si
+menaçant. On peut les concevoir sous le modèle de la photographie : les sense
+data sont un peu comme des photos de la réalité, et en ce sens ils ont en commun quelque chose avec ce qu’ils représentent, mais leur nature est fondamentalement différente. De surcroît, il est clair qu’une image photographique peut
+ne pas représenter ﬁdèlement ce qu’elle est censée représenter (dû à un défaut
+de l’appareil, ou à des conditions particulières lors de la prise de la photographie). Pour savoir si une image photographique est ﬁdèle à la réalité, il faut la
+comparer avec celle-ci — or, étant donné le «fossé ontologique» entre la photographie et la réalité qu’elle représente, la possibilité d’une représentation non
+véridique ne peut jamais être écartée a priori7. Il en va de même avec les sense
+data, ou tout autre conception qui postule une interface entre le sujet et le
+
+544
+
+Dialogue
+
+monde. Les sense data sont censés justiﬁer la proposition qu’il y a un cube
+rouge, mais cette justiﬁcation sera toujours susceptible d’être invalidée par
+d’autres considérations — et c’est la nature même des sense data qui rend
+inéluctable cette position épistémologique moins qu’idéale. C’est pour cette
+raison que la conception du dénominateur commun doit endosser la thèse
+épistémologique (l’idée que les expériences sont perpétuellement susceptibles
+d’être fausses) mentionnée plus haut — l’élément principal sur lequel repose la
+possibilité de l’argument de l’illusion.
+Avec la conception disjonctive, nous avons une notion de justiﬁcation qui
+prétend être plus solide. En effet, dans le cas d’une expérience véridique, cette
+dernière n’est pas d’une nature fondamentalement différente de ce qu’elle
+représente (il n’y a pas de fossé ontologique). Je fais l’expérience d’un cube
+rouge, et cette même chose, un cube rouge, est ce qui est le cas. Ainsi, lorsque
+tout se passe bien, ma justiﬁcation de la proposition «ceci est un cube rouge»
+n’est pas susceptible d’être fausse (defeasible) puisque ce qui est le cas est, en
+quelque sorte, présent dans mon expérience (cela revient à un rejet partiel de la
+thèse épistémologique de la conception rivale). Ce n’est pas une photographie
+du fait, mais plutôt le fait lui-même qui se présente à ma conscience. Pour utiliser un langage mcdowellien, on peut dire que l’expérience véridique fait partie, de façon non problématique, de l’espace des raisons : je peux faire appel
+à mon expérience pour justiﬁer ma croyance, et ce n’est pas problématique
+comme dans le cas de la conception du plus grand dénominateur commun,
+puisque ce à quoi je fais appel n’appartient pas à une catégorie ontologique
+différente de ce qui est représenté. Bien sûr, dans les cas illusoires, mon expérience ne représente pas ﬁdèlement la réalité. C’est l’autre élément de la disjonction qui entre en jeu et dans ce cas mon expérience doit être soigneusement
+séparée de la réalité qu’elle représente8.
+On voit donc ici de façon limpide pourquoi le rejet du mythe du donné non
+conceptuel occupe une place aussi importante chez McDowell : il sufﬁt de se
+rappeler que selon McDowell, le monde ainsi que l’expérience sont conceptuels. C’est ce qui permet de creuser le fossé ontologique. Si l’on considère les
+sense data comme étant non conceptuels et la sphère des raisons comme étant
+irrémédiablement conceptuelle, les premiers ne seront pas en mesure de produire une justiﬁcation adéquate. Ainsi, étant donné la thèse de la conceptualité
+du monde (une présupposition de poids), il faut que ce qui est «donné» par
+l’expérience soit aussi, d’une certaine façon, conceptuel si nous voulons éviter
+le genre d’écart ontologique qui est la source du scepticisme. Lorsque l’on
+étudie la réponse de McDowell au scepticisme, on voit bien pourquoi il suggère une refonte des conceptions de l’expérience et du monde. C’est en amenant le monde au niveau conceptuel, et en conceptualisant l’expérience, qu’il
+est mesure de promouvoir son attitude face au scepticisme.
+Évidemment, cette double refonte de notions centrales soulève une foule de
+questions et de problèmes, puisque nous avons affaire ici à rien de moins
+qu’une réﬂexion venant ébranler le concept traditionnel d’objectivité9. Nous
+
+La conception disjonctive 545
+
+verrons à la toute ﬁn que le problème principal de l’argument de McDowell en
+faveur de sa conception de l’expérience tire sa source de ces considérations.
+3. Examen de quelques arguments stratégiques en faveur de la
+conception disjonctive
+Nous nous proposons d’évaluer dans ce qui suit la force persuasive des arguments avancés en faveur de cette conception alternative de l’expérience. La
+littérature récente offre toute une batterie d’arguments en faveur de la conception disjonctive. Commençons par tracer les grandes lignes de certains d’entre
+eux.
+Il est parfois avancé que l’on devrait adopter la conception disjonctive car
+elle permet de nous soulager du scepticisme. En effet : surtout du point de vue
+de McDowell, il semble qu’il s’agit d’une des vertus principales de cette conception (2000, p. 243). Appelons-le l’argument anti-sceptique (suivant Wright,
+2002).
+Cependant, il mentionne (au même endroit), que son intérêt principal pour
+cette conception réside dans le fait qu’elle rend possible l’idée de «contenu
+empirique». L’idée semble être ici que la conception traditionnelle de
+l’expérience en est incapable, puisqu’elle est complètement déterminée par le
+fossé ontologique entre l’expérience et le monde. Nommons-le l’argument du
+contenu empirique.
+Un autre argument, défendu par M. G. F. Martin (2004, p. 272-77), consiste
+à souligner que la conception disjonctive «sauve» le réalisme naïf, que l’on
+peut déﬁnir comme suit : les objets de la perception sont des constituants de
+l’expérience. Désignons-le sous le nom d’argument du réalisme naïf.
+Un dernier argument de la même catégorie est l’argument du contact cognitif (voir par exemple Millar, 2007, p. 187-90). Selon ce dernier, la conception
+disjonctive est la bonne car elle permet de rendre compte de notre contact avec
+le monde extérieur, tandis que la conception traditionnelle semble faire en
+sorte que ce contact soit toujours médiatisé par des intermédiaires — de telle
+sorte que nous sommes davantage en contact avec ces intermédiaires (sense
+data) qu’avec la réalité en tant que telle.
+Ces quatre arguments ont deux points importants en commun. Le premier
+est qu’ils soulignent tous la façon dont la conception disjonctive comprend
+notre rapport à la réalité empirique. En quelque sorte, ce rapport à la réalité
+n’est pas ce qui est argumenté, mais il est plutôt pris pour acquis. Cela nous
+amène au deuxième point. Ceux qui avancent ces arguments considèrent les
+implications de l’adoption de la conception disjonctive et soulignent sa supériorité explicative sur la conception traditionnelle : elle permet de rendre
+compte de certains aspects de notre vie cognitive que la conception traditionnelle trouve difﬁcile, selon eux, à expliquer. Ainsi, ces arguments reposent en dernière analyse sur la valeur stratégique offerte par la conception
+disjonctive. L’idée fondamentale de la conception — le contact direct avec la
+réalité — n’est pas ici défendue en tant que telle. Ces arguments stratégiques
+
+546
+
+Dialogue
+
+ne valent donc pas grand chose si la conception en tant que telle n’est pas
+tout d’abord défendue adéquatement. En effet, supposons pour un instant
+que la conception disjonctive ne soit pas susceptible d’être justiﬁée de façon
+indépendante. Cela aurait pour conséquence que notre rapport à la réalité
+n’est (peut être) pas direct, et que nous sommes en quelque sorte pris au
+piège avec tous les problèmes traditionnels (le scepticisme, le rapport à la
+réalité, etc.). Nous reviendrions à la case de départ, et les quatre arguments
+mentionnés n’auraient plus de poids. En d’autres mots, cela reviendrait à
+dire : «oui, d’accord, si la conception disjonctive est la bonne, alors ces
+problèmes sont résolus — cela, je vous l’accorde10 — mais pourquoi
+devrais-je accepter cette conception?» C’est pourquoi le vrai débat se situe
+ailleurs, c’est-à-dire sur le terrain de la plausibilité de la conception disjonctive en tant que telle.
+4. Trois versions de l’argument transcendantal de McDowell
+Dans un article publié en 2006, McDowell avance pour la première fois un
+argument direct, et de facture transcendantale, en faveur de la conception
+disjonctive. S’inspirant d’un passage de l’article fondateur de Sellars
+(1956), il tente de promouvoir l’idée selon laquelle l’expérience consiste,
+dans les «bons» cas, en un contact direct avec la réalité au moyen d’une question
+typiquement transcendantale : comment est-il possible que l’expérience ait une
+portée objective (objective purport)? En effet, il semble indéniable que
+l’idée même d’expérience perceptuelle ne puisse être intelligible que si
+celle-ci a pour finalité d’être à propos du monde empirique. Le cœur de
+l’argument transcendantal de McDowell consiste à partir de cette prémisse
+et d’en déduire une conclusion permettant de rendre plausible la conception
+disjonctive. Comme tout argument transcendantal, celui-ci repose sur
+deux prémisses principales — une prémisse d’indispensabilité et une
+prémisse de nécessitation. La conclusion porte sur l’intelligibilité de l’idée
+maîtresse de la conception disjonctive, ce qui est peut-être surprenant,
+mais McDowell insiste beaucoup sur ce point : il dit à plusieurs reprises
+que tout ce dont il a besoin, c’est de l’intelligibilité de la conception11,12.
+Voici un schéma illustrant cet argument, que nous désignerons sous le nom
+d’argument transcendantal modeste, pour des raisons qui deviendront claires
+plus loin :
+A) Argument Transcendantal Modeste
+1A) Prémisse d’indispensabilité: l’expérience a une portée objective.
+2A) Prémisse de nécessitation : pour que l’expérience ait une portée
+objective, l’intelligibilité de l’idée selon laquelle l’expérience est
+en contact direct avec le monde est requise.
+3A) Conclusion: donc, l’idée selon laquelle l’expérience est en contact
+direct avec le monde est intelligible.
+
+La conception disjonctive 547
+
+Il y a beaucoup de choses à dire sur cet argument. Pour l’instant, nous allons
+prendre pour acquis que la deuxième prémisse, cruciale, est bien défendue et
+nous concentrerons notre attention sur le pouvoir persuasif de la conclusion
+(la prémisse de nécessitation sera étudiée plus en profondeur dans la section
+suivante). Que nous apprend cette conclusion à propos de la conception disjonctive? Il semble que tout ce que nous pouvons déduire de l’intelligibilité de
+l’idée selon laquelle l’expérience est en contact direct avec le monde est que la
+conception disjonctive est elle-même intelligible.
+En premier lieu, le lecteur sera peut-être surpris par la faiblesse de cette
+afﬁrmation — en effet, celle-ci ne dit pas que la conception disjonctive est la
+bonne, mais plutôt, très humblement, qu’elle doit être intelligible. Il est bien
+évident qu’en soi, cette afﬁrmation ne convaincra aucun partisan de la conception du plus grand dénominateur commun. Personne ne dit que l’idée même du
+contact direct, non médiatisé par des intermédiaires, consiste en un non sens.
+On peut très bien reconnaître l’intelligibilité d’une position théorique sans pour
+autant l’endosser. Ainsi, de ce point de vue, la conclusion de l’argument de
+McDowell est d’une faiblesse inouïe.
+Mais il est possible, comme l’a fait Crispin Wright (2008), d’interpréter la
+conclusion de l’argument de McDowell de façon robuste — c’est-à-dire portant
+non pas sur l’intelligibilité de l’idée maîtresse de la conception disjonctive,
+mais plutôt sur l’inéluctabilité de cette idée — et donc, par la bande, sur
+l’inéluctabilité de la conception disjonctive. Dans ce cas-ci, nous devrons reconstruire l’argument comme suit (que nous nommerons l’argument transcendantal robuste) :
+B) Argument Transcendantal Robuste
+1B) Prémisse d’indispensabilité : l’expérience a une portée objective.
+2B) Prémisse de nécessitation : pour que l’expérience ait une portée
+objective, l’expérience doit, dans les «bons» cas, être en contact
+direct avec le monde.
+3B) Conclusion : donc, l’expérience, dans les «bons» cas, est en contact
+direct avec le monde.
+Si la version robuste est la bonne, alors sa portée est renforcée de façon radicale :
+ici, il ne s’agit plus de promouvoir l’intelligibilité de la conception disjonctive,
+mais bien la nécessité de son adoption, au détriment de la conception traditionnelle du plus grand dénominateur commun. En effet, si (3B) s’avérait vraie,
+alors la conception disjonctive aurait un argument de poids en sa faveur,
+puisque l’idée d’une expérience en contact direct avec le monde est au cœur
+de cette conception. Cependant, devant la version robuste de l’argument, il
+devient très tentant d’être insatisfait pour la raison suivante : cet argument
+transcendantal en trois temps semble à première vue beaucoup trop mince pour
+supporter sa conclusion. Par exemple, Wright (2008), qui interprète l’argument
+
+548
+
+Dialogue
+
+transcendantal de McDowell sous sa version robuste, manifeste son incrédulité
+quant à sa force persuasive face à la vénérable conception du plus grand dénominateur commun, dont les origines, selon lui, remontent non seulement à
+Descartes et à Locke, mais peut-être même jusqu’à Platon.
+Un dilemme se présente donc : si l’on adopte la version modeste de
+l’argument transcendantal, sa conclusion devient tellement faible qu’elle en
+perd tout intérêt. D’un autre côté, si l’on adopte la version robuste de cet argument, celui-ci ne semble pas posséder la charpente et l’ampleur nécessaire
+pour supporter une conclusion de cette envergure. Il est difﬁcile d’éprouver de
+la sympathie pour la version modeste, pour les raisons mentionnées. Étant
+donné la faiblesse de cette version, un interprète charitable de la position de
+McDowell doit donc considérer de plus près la version robuste et vériﬁer s’il
+n’est pas possible de consolider sa plausibilité.
+Un indice nous est donné lorsqu’il compare le statut de la conception du plus
+grand dénominateur commun à la conclusion de l’argument transcendantal. Il
+mentionne que cette conception rivale ne peut rendre compte de l’intelligibilité
+de l’idée selon laquelle l’expérience est en contact direct avec le monde (2006,
+p. 231), et un peu plus loin il afﬁrme que «l’argument transcendantal montre
+que la conception disjonctive est requise» (2006, p. 232). Regardons cela de
+plus près. Selon la conception traditionnelle, ce qui est fourni par l’expérience
+ne peut consister qu’en de «simples apparences» qui doivent être toujours
+soigneusement séparées du monde extérieur qu’elles représentent puisque ce
+que l’expérience fournit consiste toujours en des intermédiaires (par exemple,
+des sense data). Ainsi, malgré le fait que ces apparences sont conçues, par ceux
+qui adhèrent à cette conception, comme possédant une portée objective, il n’en
+demeure pas moins qu’elle n’est pas capable de rendre compte de cette portée
+objective, si l’argument transcendantal est correct. En effet, l’expérience, selon
+cette conception, ne peut pas être en contact direct avec la réalité — tandis
+que l’argument transcendantal montre qu’elle le peut. C’est une question de
+perspective : d’un point de vue sufﬁsamment détaché de toute préconception
+concernant la nature de l’expérience, l’intelligibilité de la conception disjonctive ne fait aucun doute. Mais du point de vue de la conception du plus grand
+dénominateur commun — pour quelqu’un qui accepte celle-ci et croit qu’il
+s’agit de la bonne conception — alors cette intelligibilité peut bien être remise
+en question puisque l’expérience consiste nécessairement, dans cette conception, en de simples apparences qui ne peuvent «atteindre» directement ce qui
+est représenté.
+Si ce qui précède est exact, soutenir l’intelligibilité de l’idée du contact
+direct avec la réalité reviendrait à une démonstration de la supériorité de la
+conception disjonctive sur la conception du plus grand dénominateur commun,
+et en ce sens la version modeste de l’argument transcendantal serait sufﬁsante
+pour les besoins de la cause. Pour en avoir une idée claire, reconstruisons
+l’argument modeste comme suit — appelons-le l’argument transcendantal
+modeste renforcé :
+
+La conception disjonctive 549
+
+C) Argument Transcendantal Modeste Renforcé
+1C) Prémisse d’indispensabilité : l’expérience a une portée objective.
+2C) Prémisse de nécessitation : pour que l’expérience ait une portée
+objective, l’intelligibilité de l’idée selon laquelle l’expérience est
+en contact direct avec le monde est requise.
+3C) Lemme (1C, 2C) : donc, l’idée selon laquelle l’expérience est en
+contact direct avec le monde est intelligible.
+4C) Prémisse : la conception du plus grand dénominateur commun ne
+peut rendre compte de l’intelligibilité de cette idée; la conception
+disjonctive nous donne les ressources pour le faire.
+5C) Conclusion (3C, 4C) : nous devons adopter la conception disjonctive.
+Rappelons que cette version de l’argument ne se retrouve pas explicitement
+dans l’article de McDowell sur l’argument transcendantal, mais étant donné le
+dilemme mentionné précédemment ainsi qu’une piste fournie dans cet
+article, cette version renforcée de l’argument modeste en représente peut-être
+l’interprétation la plus plausible.
+Cependant, encore une fois, il est difﬁcile de ne pas éprouver un certain
+malaise face à cette reconstruction de l’argument transcendantal. En partant
+de considérations portant sur l’intelligibilité de l’idée maîtresse de la
+conception disjonctive (2C), l’argument se termine par une injonction à
+adopter cette conception au détriment de la conception traditionnelle de
+l’expérience (5C).
+À première vue, la charpente argumentative semble encore trop mince
+pour supporter une conclusion de cette envergure. Qu’est-ce qui cloche
+exactement? Tout repose sur le poids accordé au concept d’intelligibilité.
+Dans la version modeste de l’argument, nous l’avons déjà mentionné, le
+concept d’intelligibilité est à comprendre en un sens «détaché» de toute conception de l’expérience : l’idée du contact direct est ici intelligible car elle
+n’est pas absurde, elle vaut la peine de s’y arrêter, de la considérer, etc. Mais,
+et ce point est central, ce ne peut pas être uniquement ce concept d’intelligibilité
+qui est en jeu dans la version renforcée de l’argument modeste. En effet, si
+c’était le cas, il serait trop facile pour le partisan de la conception du plus
+grand dénominateur commun de souligner qu’il n’a rien contre l’intelligibilité
+de la conception disjonctive — il croit seulement que ce n’est pas la bonne
+conception de l’expérience. L’adoption de la conception traditionnelle ferme
+la porte à la possibilité que l’expérience consiste, dans les faits, en un contact
+direct avec la réalité, mais elle n’en écarte pas l’intelligibilité. En d’autres
+termes, la prémisse (4C) serait tout simplement fausse, et ainsi l’argument ne
+réussirait pas à démontrer sa conclusion. Cette prémisse serait fausse car la
+conception du plus grand dénominateur commun peut facilement accommoder l’intelligibilité d’une autre conception de l’expérience, contrairement
+à ce que (4C) afﬁrme.
+
+550
+
+Dialogue
+
+Pour que l’argument soit valide, il faut peut-être interpréter le concept
+d’intelligibilité de façon plus substantielle. Comme McDowell insiste pour
+dire que c’est tout ce qu’exige son argument13, il faut examiner la possibilité de
+comprendre le concept d’intelligibilité comme étant assez solide pour soutenir
+la charpente argumentative qu’il se propose d’étayer. Ce que l’argument transcendantal modeste renforcé semble exiger, c’est un concept d’intelligibilité
+— appliqué à l’idée de l’expérience entendue comme contact direct avec la
+réalité — dont la simple reconnaissance mène à l’exclusion de la conception
+du plus grand dénominateur commun au bénéﬁce de la conception disjonctive.
+Un tel concept serait le suivant : l’intelligibilité d’une idée requiert qu’une
+conception donnée puisse rendre compte de celle-ci. Si l’on se situe à l’intérieur
+d’une position philosophique déterminée, et que cette position n’est pas capable
+d’intégrer, en son sein, une certaine idée ou conception, alors cette position
+n’est pas capable de rendre compte de l’intelligibilité de cette idée ou conception. Transposé au domaine qui nous intéresse ici, l’argument transcendantal
+modeste renforcé montrerait, dans un premier temps (le lemme), que toute
+conception de l’expérience doit accommoder l’idée de l’expérience consistant
+en un contact direct avec le monde. Le deuxième moment de l’argument nous
+rappellerait que la conception du plus grand dénominateur n’a pas de place
+pour une telle idée, c’est-à-dire qu’elle n’est pas capable d’en rendre compte.
+Ainsi, il vaudrait mieux adopter une conception de l’expérience qui est en
+mesure de rendre compte de cette caractéristique de l’expérience — et la conception disjonctive est taillée sur mesure pour remplir ce rôle.
+Cette interprétation du concept d’intelligibilité contient une exigence forte
+par rapport à toute conception de l’expérience. Il ne s’agit pas seulement ici
+d’accepter que l’idée du contact direct en tant que telle soit porteuse de sens,
+comme le mot «intelligibilité» semble le laisser entendre — au contraire,
+l’intelligibilité dont il est question dans cette interprétation robuste du concept
+implique une responsabilité, pour toute théorie de l’expérience, qui consiste à
+rendre plausible l’idée que l’expérience, dans les cas véridiques, soit de facto
+en contact direct avec le monde14.
+5. Critique de l’argument transcendantal modeste renforcé
+Avant de poursuivre, procédons à une petite récapitulation de cet examen des
+différentes versions de l’argument transcendantal. McDowell, à première vue,
+semble proposer une version modeste de cet argument, dont la conclusion serait tout simplement qu’est douée de sens l’idée selon laquelle l’expérience est
+en contact direct avec le monde. Nous avons souligné l’insufﬁsance évidente
+de cette conclusion, telle qu’elle se présente à première vue. Ensuite, une version robuste de l’argument transcendantal, suggérée par quelques éléments du
+texte de McDowell, a été examinée. Cette version souffre du problème inverse :
+sa conclusion est trop forte pour être, en tant que telle, persuasive. Cette situation mène à un dilemme puisque aucune des deux versions n’est satisfaisante.
+Puis, nous avons remarqué que McDowell mentionne l’incapacité de la
+
+La conception disjonctive 551
+
+conception du plus grand dénominateur commun à rendre compte de
+l’intelligibilité de l’idée selon laquelle l’expérience est en contact direct avec
+le monde. Cela nous a mené à nous tourner vers l’argument modeste renforcé.
+Cette dernière version, comme nous venons de le voir, nous ramène à un
+dilemme semblable au premier : si nous interprétons le concept d’intelligibilité
+de façon naturelle, l’argument semble trop faible — mais si nous l’interprétons
+de façon substantielle, il semble que l’argument soit identique à la version robuste et nous nous retrouvons avec l’impression que l’argument tel que décrit
+n’est pas en mesure de soutenir sa conclusion.
+Nous voilà donc de nouveau à un endroit familier de la dialectique — est-ce
+que la version «C» de l’argument transcendantal possède une charpente argumentative sufﬁsamment solide pour appuyer une conclusion possédant une
+telle envergure? La réponse est «non». La raison en est que la prémisse de nécessitation de l’argument transcendantal modeste renforcé (2C) revient en fait
+à postuler un lien fort entre l’idée de portée objective et la conception disjonctive. Si le concept d’intelligibilité en jeu ici est le concept robuste explicité plus
+haut, et si (2C) est vraie, alors l’expérience est en contact direct avec le monde.
+La prémisse de nécessitation est le cœur de l’argument transcendantal. La
+question cruciale, donc, est la suivante : pourquoi devrait-on accepter que la
+portée objective de l’expérience nécessite que l’expérience véridique soit en
+contact direct avec le monde? Dans l’article que nous étudions ici, McDowell
+se contente de faire appel à la troisième partie de l’inﬂuent article de Sellars,
+«L’empirisme et la philosophie de l’esprit», dans laquelle ce dernier discute du
+statut des énoncés qui portent sur ce que le contenu de l’expérience paraît
+décrire, comme par exemple «il semble que ceci est rouge». Cette discussion
+fait partie d’un projet beaucoup plus large et ambitieux consistant à déconstruire
+le modèle cartésien de l’expérience et de la justiﬁcation — et même, disons-le,
+le paradigme cartésien de la nature de l’esprit (mind). Les propos de Sellars
+dans cette section peuvent être interprétés comme soutenant une conception de
+l’expérience qui ne serait pas médiatisée par de «simples apparences» — des
+«intermédiaires» comme des sense data, par exemple. En fait, McDowell
+semble interpréter Sellars comme s’il proposait une forme de réalisme direct,
+ce qui serait tout à fait naturel pour lui.
+Pour que ce recours à Sellars remplisse son mandat — c’est-à-dire qu’il
+fasse la démonstration du bien-fondé de la conception disjonctive —, il faut
+que les arguments de celui-ci en faveur du réalisme direct soient probants.
+Deux points à noter ici. Le premier, c’est qu’il faudrait procéder à une étude
+approfondie de cette section de l’article de Sellars si l’on voulait en évaluer la
+plausibilité (ce que nous ne pouvons faire ici). Le deuxième est que ces considérations sellarsiennes font partie, comme nous l’avons mentionné, d’un projet
+beaucoup plus large consistant à ébranler la conception traditionnelle de l’esprit
+et de son rapport avec le monde. La conception de Sellars en ce qui a trait au
+rapport entre l’esprit et le monde est fondamentale dans son œuvre et est liée
+irréductiblement à une appréciation de problèmes centraux en philosophie de
+
+552
+
+Dialogue
+
+l’esprit et en épistémologie, de même qu’en philosophie du langage. Pour ces
+raisons, l’appel à l’autorité qu’effectue McDowell pour justiﬁer la prémisse de
+nécessitation de l’argument transcendantal modeste renforcé (2C) ne peut remplir son rôle adéquatement. Montrer que l’expérience peut, dans les cas véridiques, être en contact direct avec le monde revient à défendre une conception
+de l’esprit et de son rapport au monde qui est totalement étrangère à la conception cartésienne traditionnelle. Normalement, proposer un tel projet revient à
+en faire le cœur de l’œuvre complète d’un philosophe hors du commun — on
+peut penser que Wittgenstein, Heidegger, et peut-être même le Hegel de
+McDowell sont des philosophes qui ont passé une bonne partie de leur vie à
+tenter d’ébranler le modèle cartésien. Manifestement, quelques pages d’un
+article ne leur a pas sufﬁt. Il serait surprenant que Sellars (ou McDowell, ou
+n’importe qui) ait réussi ce tour de force.
+Cela m’amène au dernier point. Pour que McDowell soit convaincant dans
+son argumentation en faveur de la conception disjonctive, il faut que cette
+dernière soit supportée par une charpente solide et assez imposante. Voyons la
+chose comme suit : la conception disjonctive revient, dans les faits, à chambouler tout un pan de la philosophie moderne, celui qui touche à la philosophie
+de l’esprit, à l’épistémologie, et à la philosophie du langage (et même à la métaphysique). C’est une «théorie» — je ne suis pas certain que ce mot soit adéquat, tant il semble s’agir davantage d’une invitation à une perspective, ou à un
+paradigme, différent15 — qui touche à un des thèmes majeurs de la philosophie
+occidentale, celui du rapport entre le sujet le monde, celui de l’objectivité et de
+son rapport à la subjectivité. D’immenses portions de l’histoire de la philosophie, de Platon à Heidegger, peuvent être lues sous l’angle de cette problématique. Si la conception disjonctive est la bonne, alors nous devons procéder à
+une refonte complète des concepts d’objectivité, de subjectivité, de justiﬁcation, de vérité — nous devons revoir notre rapport au monde. Ce n’est pas rien.
+En fait, pour rendre cette conception plausible, il faut quelque chose comme
+une œuvre philosophique. Justement — et cela est plutôt ironique — McDowell
+soutient, depuis la fin des années 70, une conception de notre rapport au
+monde qui se situe dans le courant anti-cartésien que nous venons de mentionner. Par exemple, son livre L’esprit et le monde peut-être lu comme un précipité de ses idées fondamentales, et aussi comme un manifeste prônant un
+changement de perspective. McDowell lui-même est d’accord pour dire qu’il
+tente d’effectuer un tel changement de perspective : lorsqu’il contraste le naturalisme brut avec sa propre conception de la nature (son platonisme naturalisé,
+ou naturalisme de la seconde nature), il concède explicitement que le naturalisme brut est attrayant et que celui qui accepte ce paradigme peut très bien tout
+simplement refuser le platonisme naturalisée, en toute cohérence; il peut voir
+le monde à sa façon, et McDowell à la sienne, et tout est une question «d’être
+à l’aise» avec sa conception fondamentale. L’avantage de la conception de
+McDowell, selon lui, c’est qu’elle permet de «sauver» la spontanéité. Si le tenant
+du naturalisme brut peut supporter les compromis qu’il doit accepter pour
+
+La conception disjonctive 553
+
+réduire la portée de cette spontanéité, alors il n’a pas de raison de changer
+d’allégeance.
+Cela veut dire dans le contexte de la conception disjonctive que pour être
+convaincu de la véracité de la prémisse (2C) de l’argument transcendantal
+modeste renforcé, il faut être prêt à voir les choses de la façon proposée
+par McDowell dans l’ensemble de ses articles — et cela inclut, entre autre,
+l’acceptation de la thèse de la conceptualité de l’expérience et du monde que
+nous avons mentionné auparavant. Au mieux, l’argument transcendantal est un
+élément de la structure argumentative qui chapeaute l’œuvre de McDowell.
+Pour quelqu’un qui est déjà enclin à envisager notre rapport au monde de cette
+façon, c’est-à-dire qui est susceptible de regarder d’un œil critique le paradigme cartésien dominant, l’argument transcendantal le dirigera (par exemple)
+vers une lecture plus approfondie des écrits de Sellars, ce qui lui permettra
+ensuite d’approfondir ce qui cloche peut-être avec le modèle traditionnel. Mais
+en tant que tel, l’argument transcendantal, à lui seul, n’est pas en mesure de
+convaincre qui que ce soit de l’urgence d’adopter la conception disjonctive de
+l’expérience.
+Notes
+1 Les contributions de Hinton ont lancé le débat (voir surtout 1967a, 1967b, 1973).
+McDowell répond en (1982) et dans d’autres publications subséquentes; Snowdon
+avait répondu à la même époque (1981).
+2 Sur l’argument de l’illusion et sa relation avec la conception du plus grand dénominateur commun, voir McDowell (1982, p. 381-385; 2006, §3).
+3 Et il vaut mieux qu’elle le soit : en effet, la thèse phénoménologique est un aspect
+de l’expérience telle qu’elle est vécue, et si une théorie de l’expérience est incapable
+de l’accommoder, celle-ci aura la tâche ardue d’expliquer comment il se fait qu’elle
+est fausse. En ce sens, la thèse phénoménologique est davantage un élément à
+expliquer pour toute conception de l’expérience qu’une position à défendre.
+4 Une bonne discussion sur les «intermédiaires» est celle de Millar (2007, p. 180-185).
+Cette idée est centrale pour la conception du plus grand dénominateur commun
+selon McDowell (par exemple, le premier article de McDowell sur ce sujet est explicite : «The upshot is that even in the non-deceptive cases we have to picture
+something that falls short of the fact ascertained [. . .] as interposing itself between
+the experiencing subject and the fact itself» (1982, p. 386). Une remarque de
+Wittgenstein dans les Recherches (§95) l’a fortement inﬂuencé : «Si nous disons :
+“il en est ainsi et ainsi” et que nous le pensons, nous ne restons pas, avec ce que
+nous pensons, en deçà du fait. Au contraire : Nous pensons que ceci et cela – est –
+ainsi et ainsi».
+5 J’utilise la pagination de la traduction française — ce passage se retrouve à la page
+60 de la version originale anglaise. Notons que la deuxième phrase de la citation a
+été escamotée dans la version française. J’ai pris la liberté de la traduire.
+6 Sur la position épistémique rendue possible par la conception disjonctive, voir
+McDowell (2002, p. 281; 2006, p. 231-232).
+
+554
+
+Dialogue
+
+7 Cette analogie se veut seulement une façon d’éclairer le problème. Je ne veux pas
+la pousser plus loin que nécessaire.
+8 C’est pourquoi McDowell est ambivalent à propos de la thèse épistémologique de
+la conception du plus grand dénominateur commun — en effet, parfois, nos expériences ne sont pas de «bons» justiﬁcateurs. Dans les «bons» cas, elles le sont. Il y
+aurait davantage à dire ici, car il semble que la position de McDowell ne fait
+qu’ignorer le scepticisme, et non pas le contrer. Disons seulement ici que son attitude face au scepticisme rappelle souvent celle de Rorty, qui consiste à penser
+qu’au lieu de répondre au sceptique, la bonne attitude consiste à l’ignorer.
+9 Une bonne discussion à ce sujet est fournie par le livre de Redding (2007). Voir en
+particulier le premier chapitre, qui porte sur McDowell, Sellars, et Evans.
+10 Cependant, Wright — un des rares à discuter sérieusement cet aspect de la conception disjonctive — n’est pas d’accord. Voir en particulier Wright, 2002 et 2008.
+11 Notamment, dans L’esprit et le monde, où il parle de l’idée de l’expérience comme
+ouverture aux faits : «Pour ce qui me concerne, la pure et simple compréhensibilité
+de cette idée me sufﬁt» (1994, p. 150; p. 113 de la version originale anglaise).
+12 Il serait possible ici, en principe, d’interpréter McDowell comme avançant l’idée
+que l’intelligibilité de la conception est sufﬁsante en ce qui a trait au scepticisme,
+car cette simple intelligibilité montre qu’il y a une conception alternative à la
+conception traditionnelle. Étant donnée que cette conception offre une réponse au
+scepticisme, alors il s’ensuivrait, selon cet argument, que la menace du scepticisme
+serait moins «urgente» puisqu’elle n’est pas inéluctable au sens où nous avons une
+«option». Ainsi, tant et aussi longtemps qu’il y a, sur le marché philosophique, une
+conception alternative à la conception traditionnelle qui est en mesure de faire taire
+la voix du sceptique, nous n’avons plus à nous préoccuper de celle-ci de façon
+aussi urgente qu’auparavant. Cependant, cet argument me semble très faible.
+L’intelligibilité dont il est question ici va pratiquement de soi : bien sûr, la conception disjonctive est «intelligible». Mais est-elle convaincante? Il me semble que
+pour faire taire le sceptique, il faut qu’elle soit convaincante. Je discute du concept
+d’intelligibilité dans la suite de ce texte.
+13 Par exemple : «we must be able to make sense of the idea of perceptual experience
+that is actually of objective reality. I have urged that this is enough to undermine a
+familiar sort of scepticism about knowledge of the external world» (2006, p. 232;
+je souligne).
+14 Ainsi, selon cette interprétation, nous avons en fait affaire à la version robuste de
+l’argument transcendantal puisque le lemme 3C pourrait tout aussi bien être lu
+comme étant 3B : l’expérience, dans les «bons» cas, est en contact direct avec le
+monde. Donc, si ce qui précède est exact, la version «C» de l’argument transcendantal, sous cette interprétation du concept d’intelligibilité, se réduit à la version
+«B» — l’argument transcendantal robuste. Mais nous allons continuer à étudier la
+version «C» de l’argument, puisqu’elle en constitue la version la plus explicite et
+plausible, selon nous.
+15 Wittgenstein mentionne souvent qu’il invite ses lecteurs à voir les choses différemment, à adopter une nouvelle façon de voir les choses. Par exemple, dans ses Zettel
+
+La conception disjonctive 555
+(au §461) et surtout les Recherches Philosophiques (§144). McDowell semble proposer quelque chose de semblable dans L’esprit et le monde (voir la quatrième
+conférence, surtout la section 5).
+
+Références bibliographiques
+Hinton, Julius Michael
+1967a «Experiences», Philosophical Quarterly, vol. 17, p. 1-13.
+1967b «Visual Experiences», Mind, vol. 76, p. 217–227.
+1973 Experiences: An Inquiry into Some Ambiguities, Oxford, Oxford
+University Press.
+Martin, Michael G. F.
+2004 «The Limits of Self-Awareness», dans A. Byrne et H. Logue, dir.,
+Disjunctivism: Contemporary Readings, Cambridge (MA), MIT Press,
+p. 271-317.
+McDowell, John
+1982 «Criteria, Defeasibility, and Knowledge», dans Meaning, Knowledge,
+and Reality, Cambridge (MA), Harvard University Press, p. 369-394
+[1998].
+1994 Mind and World, Cambridge (MA), Harvard University Press. Traduit
+en français par C. Alsaleh, L’esprit et le monde, Paris, Vrin, 2007.
+1998 Meaning, Knowledge, and Reality, Cambridge (MA), Harvard University Press.
+2000 «Experiencing the World», dans The Engaged Intellect. Philosophical
+Essays, Cambridge (MA), Harvard University Press, p. 243-256 [2009].
+2002 «Knowledge and the Internal Revisited», dans The Engaged Intellect.
+Philosophical Essays, Cambridge (MA), Harvard University Press,
+p. 279-287 [2009].
+2006 «The Disjunctive Conception of Experience as Material for a Transcendantal Argument», dans The Engaged Intellect. Philosophical Essays,
+Cambridge (MA), Harvard University Press, p. 225-240 [2009].
+2009 The Engaged Intellect. Philosophical Essays, Cambridge (MA), Harvard
+University Press.
+Millar, Alan
+2007 «What the Disjunctivist is Right About», Philosophy and Phenomenological Research, vol. 74, no 1, p. 176-198.
+Redding, Paul
+2007 Analytic Philosophy and the Return of Hegelian Thought, Cambridge,
+Cambridge University Press.
+Sellars, Wilfrid
+1956 Empiricism and the Philosophy of Mind, Cambridge (MA), Harvard
+University Press [1997].
+Snowdon, Paul
+1981 «Perception, Vision, and Causation», Proceedings of the Aristotelian
+Society, vol. 91, p. 191-196.
+
+556
+
+Dialogue
+
+Wittgenstein, Ludwig
+1953 Recherches Philosophiques, Paris, Gallimard [2004].
+1967 Zettel, Oxford, Blackwell.
+Wright, Crispin
+2002 «(Anti-)Sceptics Simple and Subtle: G. E. Moore and John McDowell»,
+Philosophy and Phenomenological Research, vol. 65, no 2, p. 330-348.
+2008 «Comment on John McDowell’s “The Disjunctive Conception of
+Experience as Material for a Transcendantal Argument”», dans
+A. Haddock et F. Macpherson, dir., Disjunctivism: Perception, Action,
+Knowledge, Oxford, Oxford University Press, p. 390-405.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Experiences</title><author><persName><forename type="first">Julius Michael</forename><surname>Hinton</surname></persName></author></analytic><monogr><title level="j">Philosophical Quarterly</title><imprint><date type="published">1967</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="13">13</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Visual Experiences</title><author><persName><forename type="first">Julius Michael</forename><surname>Hinton</surname></persName></author></analytic><monogr><title level="j">Mind</title><imprint><date type="published">1967</date><biblScope unit="volume">76</biblScope><biblScope unit="page" from="217">217</biblScope><biblScope unit="page" to="227">227</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Experiences: An Inquiry into Some Ambiguities</title><editor><persName><forename type="first">Julius Michael</forename><surname>Hinton</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1973</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Disjunctivism: Contemporary Readings</title><editor><persName><forename type="first">Michael G. F.</forename><surname>Martin</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Byrne</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Logue</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2004</date><biblScope unit="page" from="271">271</biblScope><biblScope unit="page" to="317">317</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Meaning, Knowledge, and Reality</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1982</date><biblScope unit="page" from="369">369</biblScope><biblScope unit="page" to="394">394</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Mind and World</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Alsaleh</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1994</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Meaning, Knowledge, and Reality</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">The Engaged Intellect. Philosophical Essays</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2000</date><biblScope unit="page" from="243">243</biblScope><biblScope unit="page" to="256">256</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">The Engaged Intellect. Philosophical Essays</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2002</date><biblScope unit="page" from="279">279</biblScope><biblScope unit="page" to="287">287</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">The Engaged Intellect. Philosophical Essays</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2006</date><biblScope unit="page" from="225">225</biblScope><biblScope unit="page" to="240">240</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">The Engaged Intellect. Philosophical Essays</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2009</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">What the Disjunctivist is Right About</title><author><persName><forename type="first">Alan</forename><surname>Millar</surname></persName></author></analytic><monogr><title level="j">Philosophy and Phenomenological Research</title><imprint><date type="published">2007</date><biblScope unit="volume">74</biblScope><biblScope unit="page" from="176">176</biblScope><biblScope unit="page" to="198">198</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Analytic Philosophy and the Return of Hegelian Thought</title><editor><persName><forename type="first">Paul</forename><surname>Redding</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Empiricism and the Philosophy of Mind</title><editor><persName><forename type="first">Wilfrid</forename><surname>Sellars</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1956</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Perception, Vision, and Causation</title><author><persName><forename type="first">Paul</forename><surname>Snowdon</surname></persName></author></analytic><monogr><title level="j">Proceedings of the Aristotelian Society</title><imprint><date type="published">1981</date><biblScope unit="volume">91</biblScope><biblScope unit="page" from="191">191</biblScope><biblScope unit="page" to="196">196</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Recherches Philosophiques</title><editor><persName><forename type="first">Ludwig</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1953</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Zettel</title><editor><persName><forename type="first">Ludwig</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1967</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">(Anti-)Sceptics Simple and Subtle: G. E. Moore and John McDowell</title><author><persName><forename type="first">Crispin</forename><surname>Wright</surname></persName></author></analytic><monogr><title level="j">Philosophy and Phenomenological Research</title><imprint><date type="published">2002</date><biblScope unit="volume">65</biblScope><biblScope unit="page" from="330">330</biblScope><biblScope unit="page" to="348">348</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Disjunctivism: Perception, Action, Knowledge</title><editor><persName><forename type="first">Crispin</forename><surname>Wright</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Haddock</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Macpherson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2008</date><biblScope unit="page" from="390">390</biblScope><biblScope unit="page" to="405">405</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

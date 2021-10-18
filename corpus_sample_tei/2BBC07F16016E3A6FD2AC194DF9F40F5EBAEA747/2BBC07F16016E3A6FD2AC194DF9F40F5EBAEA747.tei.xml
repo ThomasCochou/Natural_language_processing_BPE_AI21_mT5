@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Rencontre entre mémoire et contrôle chez des jeunes et des aînés : la naissance d’une plainte ?</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Rencontre entre mémoire et contrôle chez des jeunes et des aînés : la naissance d’une plainte ?</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Estelle</forename><surname>Guerdoux</surname></persName><affiliation>Psychologue clinicien spécialisé en Neuropsychologie</affiliation><affiliation>Centre Hospitalier Universitaire de Montpellier, Pôle de Gérontologie, France</affiliation><affiliation>Université Paul Valéry de Montpellier III, France</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Sophie</forename><surname>Martin</surname></persName><affiliation>Psychologue clinicien spécialisé en Neuropsychologie</affiliation><affiliation>Université Paul Valéry de Montpellier III, France</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Déborah</forename><surname>Dressaire</surname></persName><affiliation>Psychologue clinicien spécialisé en Neuropsychologie</affiliation><affiliation>Université Paul Valéry de Montpellier III, France</affiliation></author><author xml:id="author-0003"><persName><forename type="first">Stéphane</forename><surname>Adam</surname></persName><affiliation>Université de Liège, Unité de Neuropsychologie, Belgique</affiliation></author><author xml:id="author-0004"><persName><forename type="first">Denis</forename><surname>Brouillet</surname></persName><affiliation>Université Paul Valéry de Montpellier III, France</affiliation></author><idno type="istex">2BBC07F16016E3A6FD2AC194DF9F40F5EBAEA747</idno><idno type="ark">ark:/67375/6GQ-L0379DRQ-3</idno><idno type="DOI">10.1017/S0714980809090023</idno><idno type="PII">S0714980809090023</idno><idno type="article-id">09002</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="5">5</biblScope><biblScope unit="page" to="20">20</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>The aim of this study is to explore cognitive complaint by investigating the influence of memory controlled processes (recollection) and metacognitive beliefs. Several methodological precautions were taken in order to control neuropsychological and psychopathological criteria, like anxiety, depression or objective memory trouble. The “habit paradigm” (Hay &amp; Jacoby, 1999) was used to create a “memory slips” task, and to estimate the contributions of recollection and habit to performance. Besides, participants were asked to complete questionnaires in order to assess cognitive complaint (CDS) and metacognitive beliefs (MCQ). Results showed that neither cognitive complaint nor metacognitive beliefs differed significantly between young and older persons. However, statistical analysis did show cognitive dissociations in function of cognitive complaint. Finally, depressive affects, memory controlled processes and metacognitive beliefs about the controllability of thoughts appeared as good predictors of memory complaint. In spite of our study limitations, we discuss our results in terms of clinical implications.</p></abstract><abstract xml:lang="fr" style="translated"><p>Cette étude explore la plainte cognitive en investiguant notamment l’influence des processus contrôlés en mémoire et des croyances métacognitives. Les participants de notre population ne présentaient ni dépression, ni anxiété, ni trouble mnésique significatifs. Nous avons créé une tâche de « glissement de mémoire » pour estimer l’influence de la récupération consciente du souvenir dans la performance (Hay et Jacoby, 1999). Des questionnaires auto-administrés nous ont permis d’évaluer la plainte cognitive (EDC) et les croyances métacognitives (MCQ). Comme nous l’avions prédit, les différentes analyses statistiques réalisées confirment l’existence de dissociations cognitives en fonction de la plainte cognitive des participants. Nos résultats montrent que les affects dépressifs constituent une variable explicative de la plainte mnésique tout autant que les processus contrôlés en mémoire et le sentiment subjectif de contrôle. Nonobstant les limites de cette étude, nous discutons nos résultats en termes d’implications cliniques.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>plainte mnésique</term></item><item><term>processus automatiques et contrôlés</term></item><item><term>habitudes et récupération consciente</term></item><item><term>croyances métacognitives</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>memory complaint</term></item><item><term>automatic and controlled processes</term></item><item><term>habit and recollection</term></item><item><term>metacognitive beliefs</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Rencontre entre mémoire et contrôle chez
+des jeunes et des aînés : la naissance
+d’une plainte ?*
+Estelle Guerdoux,1,2,3 Sophie Martin,1,3 Déborah Dressaire,1,3 Stéphane Adam4
+et Denis Brouillet3
+ABSTRACT
+The aim of this study is to explore cognitive complaint by investigating the inﬂuence of memory controlled
+processes (recollection) and metacognitive beliefs. Several methodological precautions were taken in order to control
+neuropsychological and psychopathological criteria, like anxiety, depression or objective memory trouble. The “habit
+paradigm” (Hay &amp; Jacoby, 1999) was used to create a “memory slips” task, and to estimate the contributions of
+recollection and habit to performance. Besides, participants were asked to complete questionnaires in order to assess
+cognitive complaint (CDS) and metacognitive beliefs (MCQ). Results showed that neither cognitive complaint nor
+metacognitive beliefs differed signiﬁcantly between young and older persons. However, statistical analysis did show
+cognitive dissociations in function of cognitive complaint. Finally, depressive affects, memory controlled processes and
+metacognitive beliefs about the controllability of thoughts appeared as good predictors of memory complaint. In spite of
+our study limitations, we discuss our results in terms of clinical implications.
+
+RÉSUMÉ
+Cette étude explore la plainte cognitive en investiguant notamment l’inﬂuence des processus contrôlés en mémoire et
+des croyances métacognitives. Les participants de notre population ne présentaient ni dépression, ni anxiété, ni trouble
+mnésique signiﬁcatifs. Nous avons créé une tâche de « glissement de mémoire » pour estimer l’inﬂuence de la récupération
+consciente du souvenir dans la performance (Hay et Jacoby, 1999). Des questionnaires auto-administrés nous ont permis
+d’évaluer la plainte cognitive (EDC) et les croyances métacognitives (MCQ). Comme nous l’avions prédit, les différentes
+analyses statistiques réalisées conﬁrment l’existence de dissociations cognitives en fonction de la plainte cognitive des
+participants. Nos résultats montrent que les affects dépressifs constituent une variable explicative de la plainte mnésique
+tout autant que les processus contrôlés en mémoire et le sentiment subjectif de contrôle. Nonobstant les limites de cette
+étude, nous discutons nos résultats en termes d’implications cliniques.
+1
+
+Psychologue clinicien spécialisé en Neuropsychologie
+
+2
+
+Centre Hospitalier Universitaire de Montpellier, Pôle de Gérontologie, France
+
+3
+
+Université Paul Valéry de Montpellier III, France
+
+4
+
+Université de Liège, Unité de Neuropsychologie, Belgique
+
+* Nous tenons à remercier le Professeur Claude Jeandel, responsable du Pôle de Gérontologie du Centre Hospitalier
+Universitaire de Montpellier, pour sa collaboration à ce travail et le Professeur Thierry Meuleumans, responsable de l’Unité de
+Neuropsychologie de l’Université de Liège, pour son accueil et sa collaboration franco-belge.
+Manuscript received: / manuscrit reçu : 16/07/07
+Manuscript accepted: / manuscrit accepté : 9/11/08
+Mots clés : plainte mnésique, processus automatiques et contrôlés, habitudes et récupération consciente, croyances
+métacognitives
+Keywords: memory complaint, automatic and controlled processes, habit and recollection, metacognitive beliefs
+Correspondance et tirés à part à adresser à l’auteur :
+Estelle Guerdoux
+Laboratoire de Développement, Cognition, Acquisition (DCA) – Jeune Équipe 2517
+Université Paul-Valéry
+Route de Mende
+34 199 Montpellier, Cedex 5
+France
+(estelleguerdoux@yahoo.fr)
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (1) : 5–20 (2009)
+doi:10.1017/S0714980809090023
+
+5
+
+6
+
+Canadian Journal on Aging 28 (1)
+
+Introduction
+La plainte mnésique consiste, de la part du sujet, à
+exprimer son mécontentement, ses doléances, à l’égard
+d’une diminution subjective des capacités de mémoire
+dans la vie quotidienne. Elle constitue, à l’heure actuelle, l’un des motifs les plus fréquents de consultation
+en gérontologie ou en neurologie, à tel point que l’on
+pourrait en conclure qu’elle réalise l’identité la plus
+évidente du vieillissement. Certains travaux envisagent d’ailleurs la plainte cognitive comme un
+symptôme précoce de perturbations cognitives, voire
+de démence (Barberger-Gateau, Rouchi et Letenneur,
+2000 ; Jorm, Christensen, Korten, Jacomb, et Henderson,
+2001). Cependant, l’intensité de la plainte mnésique,
+et plus largement de la plainte cognitive (Derouesné
+et al., 1993), n’est que peu corrélée avec les scores
+obtenus aux tests neuropsychologiques. Elle ne permet
+pas l’identiﬁcation de troubles cognitifs spéciﬁques
+(Dixon, Backman, et Nilsson, 2004 ; Herrmann, Sheets,
+Gruneberg, et Rebecca, 2005).
+En fait, les études s’intéressant à la plainte mnésique diffèrent particulièrement en termes de méthodologie utilisée, tant sur le plan de la population étudiée que de
+l’évaluation de la plainte mnésique et du fonctionnement cognitif. En outre, le contrôle de certaines variables potentiellement confondues (telles que l’âge ou les
+symptômes dépressifs) apparaît très disparate (Jonker,
+Geerlings, et Schmand, 2000). Cela a par exemple pour
+conséquence que l’on qualiﬁe de mnésique une plainte
+qui recouvre en fait une sphère cognitive plus large
+(Derouesné et al., 1993). En effet, les personnes peinent à
+qualiﬁer leurs gênes dans la vie quotidienne, et notamment à discriminer ce qui relève des troubles attentionnels, phasiques ou bien mnésiques. Or, dans de nombreux
+travaux, l’évaluation de la plainte mnésique est appréhendée au moyen d’une unique question, telle que
+« Avez-vous eu une baisse de mémoire durant l’année
+qui vient de s’écouler ? Répondez par oui ou par non. »
+(Clarnette, Almeida, Forstl, Paton, et Martins, 2001 ;
+Comijs, Deeg, Dik, et Twisk, 2002 ; Riedel-Heller, Matschinger, Schork, et Angermeyer, 1999 ; St John et Montgomery, 2002 ; Verdon, 2007). Ainsi, une plainte qualiﬁée de
+mnésique par les chercheurs recouvre souvent une
+plainte cognitive plus générale pour l’interviewé. Ce
+chevauchement sémantique n’a en outre rien de surprenant lorsque l’on considère que la mémoire recouvre la
+cognition entière (Tiberghien, 1997). Par ailleurs, si certaines études révèlent un accroissement de la prévalence
+de la plainte mnésique avec l’âge (Ponds, Commissaris,
+et Jolles, 1997), la plupart des études ne se sont intéressées qu’à une seule population âgée (Jonker et al.,
+2000). Seuls de rares travaux ont réellement comparé
+la plainte de personnes jeunes et âgées sans mettre en
+exergue de différence d’intensité (Derouesné, Lacomblez, Thibault, et LePoncin, 1999).
+
+Estelle Guerdoux et al.
+
+Face à ces difﬁcultés méthodologiques et à ces données
+divergentes, la plupart des auteurs s’accordent ﬁnalement à dire que les principaux déterminants de la
+plainte cognitive, au-delà d’une étiologie organique
+ou iatrogène, seraient en lien avec des états psychoaffectifs ou des caractéristiques de personnalité
+(Harwood, Barker, Ownby, Mullan, et Duara, 2004 ;
+Martine, Martin, Dick, et Jelle, 2006 ). Ainsi, de
+nombreux travaux invitent à penser que la plainte
+serait la conséquence d’une perception négative du
+fonctionnement cognitif. La présence d’affects anxieux
+ou dépressifs, d’une personnalité à trait neurotique
+(Ponds et Jolles, 1996) ou d’un faible sentiment de contrôle et d’auto-efﬁcacité (Comijs, Deeg, Dik, et Twisk,
+2002) serait elle-même à l’origine de cette modiﬁcation
+perceptive. La perception que l’individu a de son propre fonctionnement cognitif correspond à une croyance subjective métacognitive. Celle-ci renvoie à la
+capacité spéciﬁquement humaine de connaître ses
+propres actes de connaissance et de réguler ses propres activités cognitives (Flavell, 1971 ; 1979). Des
+études récentes ont mis en exergue l’existence de corrélations positives entre des scores relatifs aux échecs
+cognitifs dans la vie quotidienne (ou les évènements
+perçus comme tels) à une échelle d’auto-évaluation et
+les scores à un questionnaire de métacognitions
+(Mecacci et Righi, 2006). Plus l’occurrence des échecs
+rapportés s’avérait élevée, plus le besoin de contrôler
+les inquiétudes se révélait urgent. Dès lors, la métacognition a été envisagée comme l’un des facteurs
+explicatifs des modiﬁcations des performances mnésiques chez les personnes âgées (Souchay et Isingrini,
+2004) et, par là, de la plainte cognitive.
+Toutefois, énoncer que la métacognition est impliquée
+dans la plainte ne nous renseigne pas pour autant sur
+ce qui engendre cette prise de conscience. En interrogeant le caractère écologique des épreuves utilisées en
+consultation, nous pourrions apporter d’autres éléments de réponse.
+En effet, dès 1977, Schneider et Shiffrin (voir aussi Shiffrin et Schneider, 1977) évoquent l’existence de deux
+types de processus cognitifs selon le degré d’attention
+sollicitée. De nature associative, les processus automatiques sont décrits comme rapides, non conscients,
+irrépressibles et sont activés sans contrôle ou attention
+de la part du sujet. Ils permettent ainsi une économie
+des ressources du système cognitif. Au contraire, les
+processus contrôlés sont qualiﬁés de stratégiques,
+coûteux et intentionnels. Ils sont indispensables pour
+l’intégration de nouvelles informations et la construction de nouveaux savoirs. Plus précisément, Hasher et
+Zacks (1979) et Jacoby (1991) ont étudié l’inﬂuence des
+processus contrôlés et automatiques sur le fonctionnement mnésique, dans la mesure où la récupération du
+souvenir met en jeu l’un ou l’autre de ces processus.
+
+Contrôle, mémoire et plainte cognitive
+
+Classiquement (Van Der Linden et al., 2004),
+l’évaluation des processus contrôlés est effectuée au
+moyen de tests de mémoire dits « directs » (c.-à-d. tâche
+de rappel libre, de rappel indicé ou de reconnaissance),
+alors que celle des processus automatiques fait appel à
+des tests dits « indirects » (c.-à-d. tâche d’amorçage
+perceptif ou conceptuel). Or, de nombreux travaux,
+dont ceux de Jacoby (pour une revue, voir Nicolas,
+2000), invitent à penser qu’aucune tâche mnésique
+n’est sous-tendue par des processus « purs ». On peut
+ainsi considérer que les tâches dites de mémoire explicite, évaluant les processus contrôlés de récupération, sont contaminées par des processus automatiques
+(Adam, 2003 ; Jacoby, Toth, et Yonelinas, 1993).
+Inversement, les tâches dites de mémoire implicite,
+fournissant une estimation des processus automatiques, seraient elles aussi inﬂuencées, dans une certaine mesure, par des processus contrôlés de
+récupération (Adam, 2003 ; Reingold et Merikle, 1990).
+En d’autres termes, ces épreuves ne contrôlent pas les
+stratégies mises en place par les sujets, ou les processus
+utilisés, au moment de la récupération d’un item. Ainsi,
+dans une tâche ostensiblement explicite de rappel indicé pour laquelle on demande au sujet de récupérer
+l’information antérieure, les patients amnésiques et
+les sujets contrôles peuvent utiliser l’indice pour
+générer une réponse de manière automatique (Vaidya,
+Gabrieli, Keane, et Monti, 1995).
+On invoque fréquemment l’effet de contamination
+pour expliquer certains résultats divergents obtenus
+dans la littérature concernant la préservation de la
+« mémoire implicite » dans le vieillissement normal
+ou dans la maladie d’Alzheimer (Adam, 2003). À un
+niveau clinique, cela se traduirait par une tendance à
+surestimer les capacités mnésiques des patients, dans
+la mesure où la performance masquerait un aspect essentiel du dysfonctionnement de certains processus
+mnésiques. Par exemple, au test du RL/RI-16 dit « de
+Grober et Buschke » (Van Der Linden et al., 2004) ou au
+test du RI-48 (Adam, Van der Linden, Poitrenaud et al.,
+2004), le patient restitue correctement les mots appris
+soit parce qu’il les a récupérés consciemment, autrement dit de façon contrôlée, soit parce que ces items lui
+sont venus à l’esprit automatiquement, lorsque la récupération intentionnelle a échoué. Ainsi, si une majorité
+de l’information est récupérée de manière consciente,
+une partie peut être générée sur la base des processus
+automatiques. Le patient pourra occasionnellement
+donner une réponse en partie fondée sur la familiarité
+et non sur la certitude que l’item était la cible. Cette
+réponse ne correspondra donc pas à une récupération
+épisodique ou explicite mais plutôt à une récupération
+automatique. Finalement, la performance obtenue au
+test par le patient peut se situer dans la norme parce
+qu’elle est, en réalité, contaminée par la contribution
+
+La Revue canadienne du vieillissement 28 (1)
+
+7
+
+des processus automatiques dans la récupération du
+souvenir. La performance globale occulte donc une
+partie du fonctionnement cognitif de ce patient.
+À l’inverse, dans une tâche d’amorçage de complétion
+de mots, les patients peuvent se souvenir d’avoir traité
+une liste de mots. Certains font alors l’association entre
+cette liste et la phase d’amorçage. Dans ce cas, lorsqu’un
+fragment de mot leur est présenté, ils peuvent recourir
+à des stratégies délibérées (explicites) de récupération
+(Adam, Van Der Linden, Collette, Lemauvais, et Salmon,
+2005).
+Parce qu’ils masquent un aspect du fonctionnement
+cognitif, ces effets de contamination pourraient expliquer le peu de corrélations observées entre l’intensité
+de la plainte cognitive subjective et les performances
+aux évaluations mnésiques explicites (Herrmann et al.,
+2005 ; Jacoby, Jennings, et Hay, 1996). Cela apparaît
+d’autant plus pertinent que, dans notre vie quotidienne, processus contrôlés et automatiques de récupération mnésique n’agissent jamais de manière isolée. Au
+contraire, ils interviennent toujours conjointement. En
+outre, de nombreuses études ont mis en évidence une
+modiﬁcation de l’efﬁcience des processus contrôlés
+dans le vieillissement (Adam et al., 2005 ; Hay et
+Jacoby, 1999 ; Jacoby et al., 1996). Enﬁn, comme nous
+l’avons vu précédemment, ces processus se situent au
+carrefour de la sphère mnésique et de la sphère attentionnelle. Cela amènerait donc à penser que l’efﬁcience
+des processus contrôlés en mémoire pourrait constituer
+une variable explicative de la plainte cognitive, au
+même titre que le sont les facteurs métacognitifs.
+Parmi les procédures que l’on utilise pour appréhender
+la modiﬁcation avec l’âge des processus mnésiques
+contrôlés, celle de Hay et Jacoby (1996 ; 1999) est particulièrement intéressante. Elle consiste à reproduire
+de manière expérimentale des erreurs de mémoire
+(« memory slips ») commises dans la vie quotidienne
+lorsque l’habitude et la récupération intentionnelle agissent de manière opposée. Ces erreurs de glissement
+de mémoire se produisent lorsque la contribution des
+processus contrôlés (la récupération consciente) n’est
+pas sufﬁsamment efﬁciente pour contrecarrer celle
+des processus automatiques (l’habitude). Par exemple,
+imaginons que la place habituelle où vous posez
+vos clés de voiture soit sur la table de l’entrée. Si vous
+avez effectivement posé vos clés sur cette table, alors
+l’habitude facilite la performance et vous amène à donner une réponse correcte (c.-à-d. retrouver les clés). Les
+processus automatiques et contrôlés de récupération
+mnésique agissent ici dans le même sens. Imaginons
+maintenant que vous ayez posé vos clés, non dans
+l’entrée comme d’habitude, mais sur le bureau de la
+chambre. L’erreur de glissement de mémoire consiste
+à les chercher au mauvais endroit, c’est-à-dire sur la
+table de l’entrée. Ces erreurs surviennent dans la vie
+
+8
+
+Canadian Journal on Aging 28 (1)
+
+Estelle Guerdoux et al.
+
+quotidienne lorsque la récupération consciente du souvenir et l’habitude agissent de manière opposée.
+
+attentionnels contrôlés, d’autant plus lorsque ces derniers sont impliqués dans la récupération des souvenirs.
+
+Dans l’expérience de Hay et Jacoby (1999), l’habitude
+est créée lors d’une première phase de routinisation
+lorsque l’on varie la probabilité de présentation des
+items. Ensuite, les performances de mémoire sont
+explorées selon que l’habitude s’oppose à la récupération consciente des évènements antérieurs (condition
+d’opposition) ou, au contraire, qu’elle agisse comme
+source de facilitation (condition de facilitation). Concrètement, des listes d’essais congruents ou incongruents avec la phase de routinisation sont testées au
+moyen d’une tâche de rappel indicé.
+
+La thèse que nous défendons est que la plainte cognitive pourrait être un mode d’adaptation à des croyances métacognitives fortes et à une moindre efﬁcience
+des processus contrôlés. Dans la mesure où la plainte
+mnésique recouvre une plainte cognitive plus générale,
+nous nous attendons à objectiver une majoration de la
+doléance cognitive chez des aînés par rapport à des
+adultes jeunes. Par ailleurs, on sait que les personnes
+âgées manifestent une moindre efﬁcience des processus contrôlés en mémoire, et cet aspect n’est pas mesuré
+dans les épreuves classiques actuelles. Ainsi, nous
+prédisons que chez des participants non cliniques, la
+plainte sera déterminée, d’une part, par la prévalence
+et l’occurrence des erreurs de glissement de mémoire
+dites « memory slips » et, d’autre part, par un score
+élevé à une échelle de croyances métacognitives. Ce
+proﬁl sera accentué lorsque la plainte cognitive sera
+plus importante. Les personnes présentant une plainte
+importante manifesteront un faible degré de conﬁance
+envers leurs propres processus cognitifs et un besoin
+urgent de contrôler les inquiétudes à ce propos.
+
+Le paradigme utilisé ici par Hay et Jacoby en 1999 diffère de la procédure classique développée par Jacoby
+en 1991, dans la mesure où l’inﬂuence des processus
+automatiques est calculée au moyen de « l’habitude »
+et celle des processus contrôlés au moyen de la « récupération consciente ». Ici, l’habitude est créée à partir
+de multiples présentations des stimuli au lieu d’une
+seule présentation antérieure. En outre, dans cette
+procédure de dissociation des processus (PDP), les
+auteurs construisent des conditions « d’opposition » et
+de « facilitation » en manipulant la congruence avec
+les apprentissages antérieurs, alors que dans les
+travaux princeps, ces conditions sont construites par la
+manipulation des instructions d’inclusion et d’exclusion
+au moment du test.
+Malgré ces différences notables, il est possible
+d’appliquer les équations de la PDP classique aﬁn de
+calculer la contribution de l’habitude (H), sous-tendue
+par les processus automatiques, et celle de la récupération consciente (R), régie par les processus contrôlés,
+dans la performance mnésique. En effet, la probabilité
+de récupérer un item routinisé dans un essai congruent, considéré comme une condition de facilitation,
+peut être estimée par la formule : Congruent :
+P(routinisé) = R + H* (1 – R). Dans les essais incongruents (condition d’opposition), l’habitude devient une
+source d’erreur. La probabilité de produire incorrectement un item routinisé dans les essais incongruents
+peut être estimée par la formule suivante : Incongruent :
+P(routinisé) = H* (1 – R). À partir de ces deux équations, on obtient : R = Congruent – Incongruent ; H =
+Incongruent / (1 – R).
+L’utilisation de cette procédure a notamment permis de
+montrer que l’âge affectait la récupération consciente
+mais pas l’habitude. Les personnes âgées commettent
+davantage de « memory slips » que les jeunes adultes
+(Hay et Jacoby, 1999). Dès lors, la plainte mnésique
+pourrait reﬂéter en partie ces erreurs commises dans la
+vie quotidienne qui sont liées à un amoindrissement de
+la remémoration consciente. Autrement dit, la plainte
+cognitive pourrait recouvrir la mise à mal des processus
+
+Methode
+Participants
+Soixante et un volontaires ont participé à cette recherche. Deux groupes indépendants ont été constitués en
+fonction de l’âge. Nous avons inclus des participants
+âgés de 18 à 35 ans pour les adultes jeunes et de 65 à 82
+ans pour les personnes âgées. Tous résidaient à leur
+domicile, étaient en bonne santé et présentaient une vision normale ou corrigée à la normale. Les critères
+d’exclusion concernaient 1) la présence d’une baisse
+signiﬁcative de l’efﬁcience cognitive globale objectivée
+par le Mini-Mental State Examination (Derouesné,
+Poitrenaud et al., 1999) ; 2) la présence d’un trouble de
+mémoire objectivé par l’épreuve de rappel indicé à 48
+items (RI-48) (Adam, Van der Linden, Poitrenaud et al.,
+2004) ; 3) la présence d’une anxiété pathologique objectivée par l’inventaire d’anxiété état-trait (forme Y)
+(Spielberger, 1983) ; 4) la présence d’une dépression
+signiﬁcative objectivée par l’inventaire de dépression
+de Beck II (BDI-II) (Beck, Steer, et Brown, 1996). Douze
+participants ont été retirés de l’étude, car ils répondaient aux critères d’exclusion1. Finalement, les données concernent 24 adultes jeunes (16 femmes et 8
+hommes) et 25 personnes âgées (16 femmes et 7 hommes). Les deux groupes ne différaient signiﬁcativement ni en termes de dépression ni en termes d’anxiété.
+Remarquons que nous n’avons pas déterminé en tant
+que telle la personnalité des différents participants.
+Les caractéristiques se rapportant à l’échantillon sont
+présentées dans le tableau 1.
+
+Contrôle, mémoire et plainte cognitive
+
+La Revue canadienne du vieillissement 28 (1)
+
+9
+
+Tableau 1 : Caractéristiques de l’échantillon en fonction des groupes de participants
+Groupes de participants
+Adultes jeunes
+Caractéristiques sociodémographiques
+Âge moyen
+Nombre moyen d’années d’études
+Caractéristiques neuropsychologiques
+MMSE
+RI-48 (note Z au rappel indicé)
+Caractéristiques psychopathologiques
+BDI-II
+STAI-Y État
+STAI-Y Trait
+
+Personnes âgées
+
+25,5 (± 4,5)
+15 (± 2,6)
+
+69,9 (± 5,2)**
+12,9 (± 3,7)*
+
+29,7 (± 0,5)
+0,5 (± 1,1)
+
+29 (± 0,9)*
+0,45 (± 1)NS
+
+7,6 (± 5,1)
+33,2 (± 9,7)
+39,3 (± 9,6)
+
+9,2 (± 7,8)NS
+25,9 (± 4,8)*
+38,2 (± 11,4)NS
+
+* = p &lt; 0,05 ; ** = p &lt; 0,001 ; NS = non signiﬁcatif
+
+Matériel et procédure
+Les participants ont été testés individuellement au laboratoire de psychologie DCA. de Montpellier en ce qui
+concerne les adultes jeunes et au Centre Hospitalier
+Universitaire de Montpellier, dans le Pôle de Gérontologie, en ce qui concerne les personnes âgées. Le protocole de recherche durait environ deux heures trente
+par personne. Tous les volontaires ont réalisé l’ensemble
+des épreuves dans un ordre identique. Une pause de
+dix minutes était effectuée après la passation du MiniMental State Examination et de l’épreuve de glissement de mémoire (EGM). Ont alors été administrés
+respectivement l’épreuve RI-48, l’échelle de difﬁcultés
+cognitives (EDC) (Israël, 1986), le BDI-II, l’inventaire
+d’anxiété état-trait (forme Y) et, enﬁn, le questionnaire
+de métacognitions (MCQ) (Cartwright-Hatton et Wells,
+1997). Par souci de clarté et de synthèse, seules les principales épreuves sont présentées ici.
+Inventaire de dépression de Beck II
+Le BDI-II (Beck et al., 1996) est un questionnaire autoadministré qui comporte 21 groupes d’énoncés. Le
+participant doit choisir l’énoncé qui décrit le mieux la
+manière dont il s’est senti au cours des deux dernières
+semaines, dont le jour de la passation. Chaque item
+permet d’obtenir un score selon l’énoncé qui est choisi
+par le participant. Quatre énoncés sont proposés par
+item et cotés en intensité selon une échelle de zéro à
+trois points. Par exemple, pour l’item intitulé « pessimisme », le participant doit choisir un énoncé entre 0)
+« Je ne suis pas découragé(e) face à mon avenir. » ; 1)
+« Je me sens plus découragé(e) qu’avant face à mon
+avenir. » ; 2) « Je ne m’attends pas à ce que les choses
+s’arrangent pour moi. » ; 3) « J’ai le sentiment que mon
+avenir est sans espoir et qu’il ne peut qu’empirer. »
+Tous les items du BDI-II se rapportent aux critères de
+la dépression du DSM-IV.
+
+D’une grande simplicité et rapidité d’application et de
+correction, le BDI-II fournit une estimation précise du
+niveau de symptomatologie dépressive ressenti par le
+sujet. Il fait preuve d’une validité adéquate (r = 0,68 et
+0,71 avec les échelles de désespoir et de dépression de
+Hamilton), d’une excellente cohérence interne (α =
+0,92) et d’une excellente stabilité temporelle (à une semaine, r = 0,93).
+Échelle de difﬁcultés cognitives
+Construite initialement par McNair et Kahn (1984),
+cette échelle, traduite en français par Israël en 1986,
+sert à évaluer les difﬁcultés cognitives éprouvées dans
+la vie quotidienne. Elle explore plusieurs aspects des
+dysfonctionnements cognitifs au moyen de 39 items
+que le participant doit évaluer selon leur fréquence
+d’occurrence (en utilisant une échelle de Likert en cinq
+points allant de « jamais » à « très souvent »). Le score
+total va de 0 à 156, un score élevé correspondant à
+d’importantes difﬁcultés cognitives perçues. Les items
+peuvent être regroupés selon quatre facteurs distincts :
+1) difﬁcultés d’attention-concentration ; 2) oubli ; 3)
+troubles de l’orientation ; 4) difﬁcultés cognitives diverses. Par exemple, l’échelle comprend des items tels
+que « Quand je suis interrompu(e) dans une lecture, j’ai
+du mal à retrouver où j’en étais. » (facteur 1) ; « J’oublie
+le nom des gens juste après qu’ils m’ont été présentés. »
+(facteur 2) ; « J’oublie quel jour de la semaine nous sommes. » (facteur 3) ; « J’ai du mal à dire ce que j’ai sur le
+bout de la langue. » (facteur 4). Les travaux réalisés par
+Poitrenaud, Israël, Barrère et Le Roch (1997) mettent
+notamment en exergue un effet de l’âge sur le score total obtenu à l’échelle et sur le facteur 2 « oubli ».
+Néanmoins, l’étude de Derouesné et al. (1993) montre
+de faibles corrélations entre les scores de 1 628 participants (âgés de 45 à 75 ans) obtenus à cette EDC et leurs
+performances objectives à des épreuves mnésiques et
+
+10
+
+Canadian Journal on Aging 28 (1)
+
+attentionnelles. En revanche, ces scores étaient consistants avec les mesures de dépression et d’anxiété. La
+consistance interne de l’EDC pour cet échantillon est
+estimée respectivement à α = 0,94 et 0,96 pour les premières et secondes évaluations.
+Nous avons choisi cette échelle parce qu’elle s’intéresse
+à des difﬁcultés cognitives plus larges que des difﬁcultés mnésiques « pures ». On sait en effet que de nombreux patients sont en difﬁculté à qualiﬁer leurs gênes
+dans la vie quotidienne, notamment à discriminer les
+troubles attentionnels ou phasiques des troubles mnésiques. Ainsi, cette échelle nous permettait de ne pas
+exclure des participants faux négatifs. Il a d’ailleurs été
+montré que l’utilisation du score global moyen de l’EDC
+pouvait être un bon moyen d’apprécier l’auto-évaluation de l’intensité des difﬁcultés mnésiques d’un groupe
+de sujets âgés (Michel, Derouesné, et Gély-Nargeot,
+1997). En outre, contrairement aux rares échelles de
+plainte mnésique existant en version française, par exemple le questionnaire d’auto-évaluation de la mémoire
+(QAM) (Van Der Linden, Wyns, Von Frenkell, Coyette,
+et Seron, 1989), celle-ci présente un temps de passation
+beaucoup plus court. Enﬁn et surtout, nous avons choisi
+cet outil pour son utilisation extrêmement répandue
+dans la pratique clinique. En effet, une enquête, menée
+par le GREMEM (Groupe de réﬂexion sur l’évaluation
+de la mémoire) auprès de 25 centres universitaires
+francophones réalisant des évaluations neuropsychologiques auprès d’adultes, a permis de montrer que
+72 pour cent des équipes utilisent les questionnaires
+d’auto-évaluation de la mémoire tels que le QAM ou
+l’EDC de McNair (Juillerat Van Der Linden, 2003).
+Questionnaire de métacognitions
+Le MCQ est un auto-questionnaire construit par
+Cartwright-Hatton et Wells (1997) et traduit en français par Laroi, Van Der Linden et d’Acremont (Laroi
+et Van Der Linden, 2005). Il a pour visée d’explorer
+les croyances métacognitives. Sa validité et sa ﬁabilité
+internes sont satisfaisantes : coefﬁcient de Cronbach
+α = 0,88, r = 0,20 à r = 0,62 entre chacun des items et le
+score total, analyse de composantes principales révélant six facteurs (qui expliquent 42 % de la variance
+totale). Le MCQ est composé de 65 items qui doivent
+être cotés de 1 à 4 selon le degré d’accord (de « pas
+d’accord » à « tout à fait d’accord »). L’échelle permet
+de distinguer cinq facteurs : 1) croyances positives et
+négatives à propos des inquiétudes (ex. : « Le fait de
+m’inquiéter m’aide à éviter des problèmes qui pourraient survenir. ») ; 2) croyances négatives à propos du
+caractère incontrôlable et dangereux des pensées (ex. :
+« Si je me laisse dépasser par mes inquiétudes, ce sont
+elles qui ﬁniront par me contrôler. ») ; 3) assurance cognitive (ex. : « Ma mémoire peut parfois m’induire en
+erreur. ») ; 4) croyances négatives à propos des pensées
+
+Estelle Guerdoux et al.
+
+en général (particulièrement relatives aux superstitions, aux punitions et aux responsabilités) (ex. : « Je
+pourrais être puni(e) pour ne pas avoir certaines pensées. » ; 5) conscience cognitive (ex. : « Je suis conscient(e)
+de la façon dont mon esprit fonctionne quand j’examine
+un problème en détail. »). Nous avons choisi cet outil,
+outre pour ses qualités psychométriques, en raison de
+sa forte consistance avec l’anxiété et le sentiment subjectif de contrôle (Cartwright-Hatton et Wells, 1997).
+Épreuve de rappel indicé à 48 items
+L’épreuve RI-48, élaborée par Adam, Van Der Linden,
+Poitrenaud et al. en 2004 sous l’égide du GRECO, avait
+pour but d’évaluer l’efﬁcience de la mémoire dite épisodique. Elle a été mise au point aﬁn d’éliminer l’effet
+plafond trouvé dans les autres épreuves classiques (par
+exemple dans le RL/RI-16 de Grober et Buschke) que
+l’on observe particulièrement avec les personnes de
+haut niveau socioculturel. En outre, nous l’avons également choisie pour ses qualités psychométriques
+(Adam, Van Der Linden, Ivanoiu et al., 2004), notamment son importante sensibilité (92,1 %, et 83,8 % pour
+les stades très légers de la maladie d’Alzheimer).
+L’épreuve est constituée de 48 mots qui sont regroupés
+sur des ﬁches par groupes de quatre. Parmi l’ensemble
+des items, il existe 12 catégories sémantiques différentes. Par exemple, les quatre exemplaires de la catégorie « insecte » sont : la coccinelle, la sauterelle, la cigale
+et le scarabée. Chaque ﬁche est constituée de quatre exemplaires de catégories différentes. Le participant doit
+explicitement apprendre les 48 mots. Après une première phase d’identiﬁcation (c.-à-d. déterminer parmi
+les quatre mots quel est l’exemplaire de la catégorie
+donné par l’examinateur), on procède à un rappel indicé (RIM), et on continue de cette manière jusqu’à ce
+que les 48 mots aient été étudiés. Après cette première
+phase et le rappel indicé des 12 ﬁches, le participant est
+soumis à une tâche distractive de 20 secondes (compte
+à rebours par 1 à partir de 374). On procède ensuite à
+une phase de rappel indicé différé (RIND). Pour chaque
+catégorie sémantique que le clinicien fournit, le participant doit donner les exemplaires appris dans la liste.
+Ce test permet ainsi de déﬁnir différents indicateurs :
+un score en rappel immédiat (RIM), un score en rappel
+indicé (RIND) et un score correspondant au nombre
+d’intrusions produites. Il permet également de connaître le score attendu au RIND en fonction du score obtenu au RIM. L’âge, le sexe et le niveau socioculturel
+sont pris en compte dans la cotation de l’épreuve.
+Épreuve de glissement de mémoire
+La tâche que nous avons mise au point s’inspire de
+plusieurs expériences réalisées par Hay et Jacoby (1996,
+1999) ainsi que par Adam et al. (2005). Le matériel
+concernait 18 paires composées d’un mot et d’un trigramme (ex. : montre – ﬂa_ _). Chaque trigramme,
+
+Contrôle, mémoire et plainte cognitive
+
+sélectionné à partir de la norme de Martin et al. (2009),
+pouvait être complété par deux lettres pour former un
+mot de la langue française. Il existait entre cinq et huit
+possibilités de complétion pour chaque trigramme
+sans compter les pluriels, les noms propres et les
+verbes conjugués (ex. : ﬂa _ _ : ﬂair, ﬂanc, ﬂâné, ﬂash,
+ﬂapi), mais seulement les deux complétions les plus
+produites apparaissaient dans l’expérience. La différence de fréquence entre le premier mot (ex. : ﬂair)
+et le second mot (ex. : ﬂanc) produits à partir du trigramme (ex. : ﬂa _ _) a été contrôlée. Par ailleurs, les
+radicaux de tous les trigrammes étaient différents.
+Chaque trigramme était précédé d’un mot indice pour
+former une paire. Les mots indices sélectionnés
+n’avaient pas de lien sémantique avec le mot cible (ex. :
+montre – ﬂair, montre – ﬂanc) basé sur les normes
+d’associations verbales (Ferrand et Alario, 1998; Tarrago, Martin, De La Haye, et Brouillet, 2005). Nous
+nous sommes également assurés qu’il n’existait ni lien
+phonologique ni syllabe identique entre le mot indice
+(ex. : montre) et le mot cible (ex. : ﬂair). Enﬁn, la concrétude, le genre, le nombre de lettres, le nombre de syllabes, la fréquence écrite et la valence émotionnelle
+de ces mots indices ont été contrôlés.
+L’épreuve a été programmée avec le logiciel « E-prime »
+sur un ordinateur portable dont l’écran était de 15’’. Le
+fond de l’écran était noir et les stimuli apparaissaient
+au milieu de l’écran en lettres d’imprimerie blanches
+pour les mots indices et en lettres majuscules bleu cyan
+pour les mots cibles. Les caractères étaient inscrits en
+taille de police 24 et en Times New Roman.
+La phase de routinisation était constituée de 5 blocs de
+72 présentations. À chaque présentation, un mot était
+couplé à un trigramme (ex. : montre – ﬂa _ _) durant
+3 000 ms. La tâche du participant était de deviner, dans
+les 1 500 ms dont il disposait, le mot de 5 lettres qui
+complétait ce fragment. Deux réponses étaient possibles (ex. : ﬂair ou ﬂanc) et un feedback était fourni après
+chaque essai (c.-à-d. le mot attendu s’afﬁchait sur
+l’écran durant 1 500 ms). Le participant était prévenu
+que certaines réponses étaient plus attendues que
+d’autres. Dans 75 pour cent des cas, lorsque la paire
+« mot – trigramme » était présentée, la réponse donnée
+au sujet était dite routinisée (ex. : ﬂair) et, dans 25 pour
+cent des cas, la réponse associée était qualiﬁée de non
+routinisée (ex. : ﬂanc). L’ordre des items dans chaque
+bloc était aléatoire, et le matériel a été contrebalancé
+entre la totalité des participants de telle sorte que
+chaque mot apparaissait de manière égale comme item
+routinisé et comme item non routinisé. Le participant
+faisait une pause d’environ 20 secondes entre chaque
+bloc. Une phase d’entraînement avec les mêmes items
+précédait la routinisation pour habituer le participant à
+la vitesse de la procédure. La ﬁgure 1 vient illustrer la
+procédure globale de cette l’épreuve.
+
+La Revue canadienne du vieillissement 28 (1)
+
+11
+
+Dans une seconde étape de l’expérience, le participant
+devait mémoriser neuf listes de huit paires de mots. En
+phase d’apprentissage, la consigne était de lire à haute
+voix chaque paire de la liste en vue de son rappel ultérieur. En phase de rappel, le participant voyait des
+paires « mot – trigramme » correspondant aux paires
+de mots mémorisées lors de la phase d’apprentissage.
+Il avait pour tâche de compléter le trigramme avec le
+mot appris précédemment. Il était également averti
+que certaines paires pouvaient apparaître alors qu’elles
+ne ﬁguraient pas dans la liste à apprendre. Dans ce cas
+là, il devait compléter le trigramme par le premier mot
+qui lui venait à l’esprit. Ces items « guessing » (c.-à-d.
+items « devinés ») nous ont servi de ligne de base.
+Chaque paire de mots était présentée durant 3 000 ms
+avec un intervalle interessais de 1 000 ms. Dans chacune des listes de huit paires, six items routinisés et
+deux items non routinisés étaient présentés, soit une
+proportion de 75 pour cent d’essais « congruents »
+pour lesquels l’habitude et la remémoration consciente
+agissent de concert (c.-à-d. le mot routinisé en phase 1
+est le mot à apprendre en phase 2) et 25 pour cent
+d’essais « incongruents » pour lesquels l’habitude et la
+remémoration consciente agissent comme sources
+d’erreur (c.-à-d. le mot non routinisé en phase 1 est le
+mot à apprendre en phase 2). Il existait un item « guessing » (c.-à-d. mot à deviner) par liste, chaque item apparaissant obligatoirement une fois sous sa forme
+« guessing » sur l’ensemble des neuf listes. L’ordre des
+items dans les listes était aléatoire, mais l’ordre des
+listes était ﬁxe pour tous les participants.
+Autrement dit, pour l’ensemble des listes, chacune des
+paires apparaissait en essai congruent (condition de facilitation), en essai incongruent (condition d’opposition)
+et en essai « guessing » (condition contrôle), et cela,
+pour chaque participant.
+Ensuite, le participant réalisait une courte tâche distractive entre l’apprentissage des listes et le rappel.
+Durant 15 secondes, il devait compter à rebours de 3 en
+3 en partant du chiffre inscrit à l’écran (compris aléatoirement entre 30 et 90) jusqu’au signal d’un nouvel
+écran. Enﬁn, lors du rappel, le participant avait pour
+tâche d’appuyer sur la barre espace du clavier au moment où il fournissait oralement sa réponse. Après
+chaque test et une courte pause, la procédure recommençait avec une nouvelle liste à apprendre, jusqu’à ce
+que les neuf listes aient été étudiées. Une phase
+d’entraînement permettait au participant de se familiariser avec la procédure.
+
+Résultats et Analyses
+Épreuve de glissement de mémoire
+L’objectif de la première phase de l’EGM dite de
+routinisation était de créer une habitude en présentant
+
+12
+
+Canadian Journal on Aging 28 (1)
+
+Estelle Guerdoux et al.
+
+(1) Phase de routinisation
+
+(2) Phase d’apprentissage
+
+(3) Phase de rappel indicé
+
+Réponse routinisée (75 % des cas) : FLAIR
+Réponse non routinisée (25 % des cas) :
+FLANC
+
+Essais congruents (75 %) :
+
+montre – FLA_ _
+
+montre – FLA _ _
+
+FLAIR
+
+Condition de facilitation :
+
+montre – FLAIR
+
+montre – FLA _ _
+
+FLAIR
+
+Essais incongruents (25 %) :
+montre – FLA _ _
+
+FLANC
+montre – FLANC
+
+montre – FLA _ _
+
+Condition d’opposition :
+
+montre – FLA _ _
+
+FLAIR
+
+Essais « guessing » (0 %) :
+
+Ø
+
+Condition contrôle :
+
+montre – FLA _ _
+
+(1)
+
+Phase de routinisation : Le participant doit repérer la réponse routinisée qui vient compléter le trigramme et la fournir le plus souvent
+possible avant qu’elle ne lui soit présentée à l’écran.
+
+(2)
+
+Phase d’apprentissage : Le participant apprend des paires de mots qui sont soit congruentes, c'est-à-dire composées de l’item routinisé durant
+la phase précédente, soit incongruentes, c'est-à-dire composées du mot non routinisé.
+
+(3)
+
+Phase de rappel indicé : À partir des indices fournis, le participant doit rappeler les paires de mots qu’il a précédemment apprises ou, le cas
+échéant, il complète le trigramme par le premier mot qui lui vient à l’esprit. Les essais congruents constituent alors la condition de facilitation,
+les essais incongruents la condition d’opposition et les essais « guessing » la condition contrôle. Sur l’ensemble de l’épreuve, chaque paire
+apparaît à chaque participant sous ces trois conditions.
+
+Figure 1 : Illustration de la procédure de l’épreuve de glissement de mémoire à l’aide d’un exemple de paires d’items en condition
+de facilitation (essai congruent), d’opposition (essai incongruent) ou de contrôle (essai « guessing »)
+
+certains items de manière privilégiée dans 75 pour cent
+des cas. Aussi, nous nous sommes d’abord assurés que
+l’ensemble des participants avait bien appris les items
+à routiniser dans cette phase. De même, nous avons
+vériﬁé que les personnes âgées présentaient une routinisation équivalente – et donc comparable – aux adultes jeunes à la ﬁn de la phase 1.
+Pour les adultes jeunes, la probabilité de répondre par
+un item routinisé est de 0,674 (± 0,09) au bloc 1 et de
+0,81 (± 0,142) au dernier bloc, avec une différence sig-
+
+niﬁcative (p &lt; 0,001 ; t = –4,4). De même, pour les participants âgés, la probabilité de répondre par un item
+routinisé entre le premier bloc (0,63 ± 0,094) et le
+dernier bloc (0,712 ± 0,135) s’est signiﬁcativement
+accentuée (p &lt; 0,001 ; t = –4,3). Les réponses n’étaient
+donc pas dues au hasard et ont substantiellement augmenté. En fait, l’analyse de variance mixte ANOVA
+[Groupe 2 × Blocs 5] montre que pour l’ensemble des
+participants, la probabilité de fournir un item routinisé
+au bloc 1 est de 0,651 (± 0,138), alors qu’elle augmente
+
+Probabilité de répondre par un
+item routinisé
+
+Contrôle, mémoire et plainte cognitive
+
+La Revue canadienne du vieillissement 28 (1)
+
+1.00
+0.90
+0.80
+
+0.72
+
+0.76
+
+0.67
+
+0.70
+
+0.68
+
+0.72
+
+0.81
+
+0.80
+
+Adultes jeunes
+0.76
+
+0.73
+
+Personnes âgées
+
+0.63
+
+0.60
+0.50
+
+Bloc 1 Bloc 2 Bloc 3 Bloc 4 Bloc 5
+
+Blocs de routinisation
+
+Figure 2 : Probabilité de répondre par un item routinisé dans
+la première phase de l’épreuve de glissement de mémoire en
+fonction du bloc de routinisation et du groupe de participants
+
+signiﬁcativement à 0,786 (± 0,19) à la ﬁn de la session
+[F(4,188) = 19,9 ; p &lt; 0,0001]. La probabilité de fournir un
+item routinisé ne diffère pas statistiquement [F(1,47) =
+3 ; NS] entre les adultes jeunes (0,81 ± 0,142) et les
+personnes âgées (0,762 ± 0,135) au dernier bloc. En
+outre, l’interaction [Bloc X Groupe] n’est pas signiﬁcative [F(1,188) = 0,25 ; NS]. Il y a donc bien eu apprentissage et routinisation des paires présentées dans 75
+pour cent des essais, et cela, de manière équivalente
+pour les adultes jeunes et les aînés. La ﬁgure 2 vient
+illustrer ces résultats.
+Nous nous sommes ensuite intéressés à la probabilité
+de fournir un item routinisé selon que l’habitude et la
+récupération consciente agissaient de concert (c.-à-d.
+condition de facilitation concernant les essais congruents) ou selon que l’habitude agissait comme source
+d’erreur (c.-à-d. condition d’opposition concernant les
+essais incongruents). Rappelons qu’une même réponse
+(à savoir un item routinisé) était une bonne réponse
+dans les essais congruents et une erreur de glissement
+de mémoire dans les essais incongruents. En nous
+basant sur la norme de complétion de trigrammes de
+Martin et al. (2009), nous nous sommes en premier lieu
+
+13
+
+assurés que cette probabilité était en moyenne supérieure au hasard dans le cas des essais congruents
+(p &lt; 0,001 ; t = –58,11) et inférieure au hasard dans le cas
+des essais incongruents (p &lt; 0,001 ; t = 3,5).
+Ensuite, les analyses montrent que la probabilité de
+fournir un item routinisé dans les essais incongruents
+est plus importante chez les personnes âgées que chez
+les adultes jeunes [F(1,47) = 23,6 ; p &lt; 0,0001], alors
+qu’elle ne se différencie pas signiﬁcativement entre les
+deux groupes dans les essais congruents [F(1,47) = 3 ;
+&lt; NS]. Les personnes âgées ont donc commis davantage
+d’erreurs de glissement que les adultes jeunes.
+De plus, nous avons estimé l’inﬂuence respective des
+processus automatiques et contrôlés au moyen de
+l’habitude et de la remémoration consciente. Les analyses montrent que l’estimation de la récupération consciente – sous-tendue par les processus contrôlés – est
+signiﬁcativement moins importante [F(1,47) = 24,4 ;
+p &lt; 0,0001] chez les personnes âgées (0,52 ± 0,2) que
+chez les adultes jeunes (0,74 ± 0,1). En revanche, la
+contribution de l’habitude, sous-tendue par les processus automatiques, ne diffère pas signiﬁcativement
+entre les deux groupes de participants [F(1,47) = 3,6 ;
+NS], avec une moyenne de 0,67 (± 0,2) chez les jeunes
+et de 0,75 (± 0,1) chez les aînés. Ces calculs sont réalisés
+par rapport à la condition contrôle qui montre que la
+probabilité de fournir un item routinisé dans les essais
+de type « guessing » est identique dans les deux
+groupes de participants [F(1,47) = 0,1 ; NS]. Le tableau
+2 détaille ces résultats.
+Analyses corrélationnelles
+D’abord de manière globale (voir tableau 3), les participants ont obtenu un score total à l’EDC s’élevant en
+moyenne à 42,7 ± 18,0 (sur un maximum de 156). Ce
+score total ne diffère pas signiﬁcativement (p = NS ; t =
+0,58) entre les participants jeunes (score moyen de 41,2
+
+Tableau 2 : Probabilités de répondre par un item routinisé en fonction du type d’essais et estimations moyennes de l’inﬂuence de
+la récupération consciente et de l’habitude en fonction du groupe de participants
+Type d’essais
+
+Estimations
+
+Congruents
+
+Groupe de
+Participants
+Adultes jeunes
+Personnes âgées
+
+Incongruents
+
+“Guessing”
+
+Récupération
+consciente
+
+Habitude
+
+(condition de
+facilitation)
+
+(condition
+d’opposition)
+
+(condition
+contrôle)
+
+(processus
+contrôlés)
+
+(processus
+automatiques)
+
+M
+
+ET
+
+M
+
+ET
+
+M
+
+ET
+
+M
+
+ET
+
+M
+
+ET
+
+0,92
+NS
+0,89
+
+0,1
+
+0,18
+**
+0,37
+
+0,1
+
+0,56
+NS
+0,59
+
+0,2
+
+0,74
+**
+0,52
+
+0,1
+
+0,67
+NS
+0,75
+
+0,2
+
+0,1
+
+0,2
+
+M = moyenne ; ET = écart type ; ** p &lt; 0,001 ; NS = non signiﬁcatif
+
+0,3
+
+0,2
+
+0,1
+
+14
+
+Canadian Journal on Aging 28 (1)
+
+Estelle Guerdoux et al.
+
+Tableau 3 : Scores moyens (M) et écarts types (ET) obtenus à
+l’échelle de difﬁcultés cognitives et au questionnaire de métacognitions pour l’ensemble des participants
+Résultats
+M
+Échelle de difﬁcultés cognitives
+1. Difﬁcultés d’attention-concentration
+2. Oubli
+3. Troubles de l’orientation
+4. Difﬁcultés cognitives diverses
+Questionnaire de métacognitions
+1. Croyances positives et négatives
+à propos des inquiétudes
+2. Croyances négatives à propos
+du caractère incontrôlable et
+dangereux des pensées
+3. Assurance cognitive
+4. Croyances négatives à propos
+des pensées en général
+5. Conscience cognitive
+
+ET
+
+42,7
+13,3
+11,4
+2,2
+4,7
+
+18,0
+7,1
+4,6
+1,6
+1,9
+
+132,6
+33,8
+
+23,1
+12,2
+
+35,0
+
+8,0
+
+20,7
+24,1
+
+5,4
+5,7
+
+19,0
+
+3,7
+
+± 15,4) et les aînés (score moyen de 44,2 ± 20), contrairement à la littérature dominante. En revanche, comme
+nous l’avions prévu, le facteur « oubli » de l’échelle différencie substantiellement les participants jeunes des
+participants âgés (p = 0,01 ; t = 2,64), ces derniers ayant
+un score plus élevé (en moyenne 14,1 ± 8) que les adultes jeunes (en moyenne 12,5 ± 6). Cette mesure serait
+restée néanmoins trop peu sensible pour qu’elle soit
+prise en tant que telle dans des analyses ultérieures.
+Par ailleurs, les participants ont obtenu un score moyen
+de 132,6 ± 23,1 au MCQ. L’intensité des croyances métacognitives ne diffère pas signiﬁcativement (p = NS ;
+t = –0,7) entre les adultes jeunes et les aînés (scores
+respectifs de 135 ± 23 et de 130,3 ± 23).
+Nous avons alors réalisé des analyses au moyen d’un
+test de Spearman aﬁn de rechercher, selon nos hypothèses, des corrélations entre les scores obtenus à
+l’EDC et les différentes performances obtenues sur
+l’ensemble de notre population. Quel que soit l’âge, il
+existe des corrélations modérées, voire fortes, entre le
+
+score total obtenu à l’EDC et 1) le score obtenu au MCQ
+(r = 0,50 ; p &lt; 0,05) ; et 2) le score obtenu à l’échelle de
+dépression BDI-II (r = 0,65 ; p &lt; 0,05), conformément à
+nos attentes. En ce qui concerne les épreuves mnésiques objectives, il n’existe pas de corrélation signiﬁcative (r = –0,04 ; NS) entre le score total obtenu à l’EDC
+et le score en rappel indicé obtenu à l’épreuve RI-48
+(considéré comme une mesure « contaminée »). En revanche, la relation entre le score de plainte cognitive et
+le score obtenu dans les essais congruents de l’Epreuve
+de Glissement de Mémoire (i.e. probabilité de fournir
+un item routinisé dans une condition de facilitation)
+devient signiﬁcative à r = –35 (p &lt; .05), de même
+qu’avec le score obtenu dans les essais incongruents
+(i.e. probabilité de produire un item routinisé dans une
+condition d’opposition) à r = 0,36 (p &lt; .05). Autrement
+dit, plus la plainte cognitive était importante, d’une
+part, plus l’intensité des croyances métacognitives et
+des affects dépressifs était élevée et, d’autre part, plus
+la probabilité de commettre des « memory slips » était
+considérable. En outre, conformément à nos prédictions, la relation corrélationnelle entre le score total
+obtenu à l’EDC et l’inﬂuence de la remémoration consciente dans la performance de l’EGM est signiﬁcative,
+modérée et négative (r = –42 ; p &lt; 0,05). La corrélation
+entre le score obtenu à l’EDC et l’inﬂuence de l’habitude
+dans la performance mnésique de l’EGM n’est en revanche pas signiﬁcative (r = –0,04 ; NS). Autrement dit,
+la plainte cognitive était d’autant plus importante que
+l’efﬁcience des processus mnésiques contrôlés était
+faible. À l’inverse, il n’existe pas de lien linéaire entre
+l’intensité de cette plainte et l’efﬁcience des processus
+automatiques de récupération mnésique. Le tableau 4
+présente ces résultats.
+Analyses de régression multiple
+Aﬁn de déterminer dans quelle mesure l’efﬁcience des
+processus contrôlés en mémoire et les facteurs métacognitifs prédisaient la plainte mnésique, nous avons
+conduit une série d’analyses de régression multiple
+sur l’ensemble de notre population. Nous avons utilisé le score obtenu à l’EDC comme variable à expliquer.
+Conformément à nos hypothèses et aux précédents
+
+Tableau 4 : Coefﬁcients de corrélation de Spearman réalisés entre le score obtenu à l’EDC et les scores obtenus au MCQ, au BDI-II,
+à l’épreuve RI-48 et à l’EGM
+Épreuve de glissement de mémoire
+MCQ
+EDC
+
+BDI-II
+
+RI-48
+
+Essais congruents
+
+Essais incongruents
+
+Récupération consciente
+
+Habitude
+
+0,50*
+
+0,65*
+
+–0,04
+
+–0,36*
+
+0,36*
+
+–0,42*
+
+–0,04
+
+*p &lt; 0,05
+EDC = échelle de difﬁcultés cognitives ; MCQ = questionnaire de métacognitions ; BDI-II = inventaire de dépression de Beck II ;
+RI-48 = rappel indicé à 48 items ; EGM = épreuve de glissement de mémoire
+
+Contrôle, mémoire et plainte cognitive
+
+La Revue canadienne du vieillissement 28 (1)
+
+résultats, nous avons introduit comme variables explicatives : l’inﬂuence de la récupération consciente à
+l’EGM, le score obtenu au MCQ et le score obtenu à
+l’échelle de dépression. La variance expliquée par le
+modèle est de R2 ajusté = 0,50, ce qui nous permet de
+qualiﬁer le modèle de modérément à fortement prédictif. Le test de Fischer conﬁrme que le modèle est
+signiﬁcatif [F(3,45) = 17,1 ; p &lt; 0,001], et la taille de
+l’effet peut être considérée comme modérée (f 2 = 1,14
+pour α = 0,05) (Cohen, 1977), et ce, malgré la taille
+réduite de notre échantillon (n = 49) (Cohen, 1992). Les
+variables signiﬁcatives (voir tableau 5) sont : les affects
+dépressifs chez des sujets non cliniques (β = 0,48 ; p &lt;
+0,001), l’efﬁcience des processus de récupération consciente en mémoire (processus contrôlés) (β = –0,26 ;
+p &lt; 0,01), et les croyances métacognitives (β = 0,23 ;
+p &lt; 0,05).
+Comparaisons en fonction de la plainte
+Nous avons constitué deux groupes de participants
+selon la médiane du score obtenu à l’échelle de plainte
+(EDC). Cinq participants ont été écartés de l’analyse
+parce qu’ils présentaient un score situé au niveau ou
+de part et d’autre de la médiane (de 41). Ainsi, nous
+avons obtenu un groupe de 22 participants (11 jeunes
+et 11 aînés) ayant un score moyen à l’EDC de 28,3 ± 10
+et considérés comme « peu plaintifs » et un groupe de
+22 participants (11 adultes jeunes et 11 adultes âgés)
+ayant un score moyen de 57,9 ± 13 et considérés comme
+« plaintifs » (p &lt; 0,001 ; t = –8). Nous nous sommes assurés que les deux nouveaux groupes présentaient certaines caractéristiques équivalentes, notamment en ce
+qui a trait au nombre moyen d’années d’études (14,4 ±
+2,8 pour le premier groupe et 13,4 ± 3,8 pour le second ;
+t = 1 ; p = NS), au score moyen au MMSE (29,4 ± 0,8
+pour les « peu plaintifs » et 29,5 ± 0,7 pour les « plaintifs », t = –0,2 ; p = NS) et au score Z obtenu au rappel
+indicé de l’épreuve de mémoire RI-48 (0,45 ± 1,2 pour
+le groupe des « peu plaintifs » et 0,44 ± 0,1 pour le
+groupe des « plaintifs » ; t = 0,01 ; p = NS).
+
+Tableau 5 : Résumé des analyses de régression multiple pour
+la plainte cognitive
+Score à l’EDC (plainte
+cognitive subjective)
+
+t
+Inﬂuence de la récupération
+consciente dans la performance
+de l’EGM (processus contrôlés)
+Score obtenu au MCQ
+Score obtenu au BDI-II
+(affects dépressifs)
+
+β
+–0,26
+
+&lt;0,01
+
+2,04
+4,18
+
+0,23
+0,48
+
+Nous avons ensuite conduit une série d’analyses de
+variance sur nos mesures principales (ANOVA à un
+facteur) au regard de nos hypothèses et en fonction des
+deux sous-groupes constitués (les non-plaintifs et les
+plaintifs). Nous avions prédit que, chez des participants non cliniques, la plainte serait déterminée, d’une
+part, par une moindre efﬁcience des processus contrôlés et, d’autre part, par un score élevé à une échelle
+de croyances métacognitives. Les personnes présentant une plainte importante manifesteraient un faible
+degré de conﬁance envers leurs propres processus cognitifs et un besoin urgent de contrôler les inquiétudes à
+ce propos.
+Comme nous l’avions supposé, il existe bien une dissociation cognitive entre les plaintifs et les non-plaintifs, selon que l’on s’intéresse aux processus mnésiques
+contrôlés (récupération consciente du souvenir) ou automatiques (récupération du souvenir par habitude).
+Effectivement, l’inﬂuence de la remémoration consciente est signiﬁcativement plus importante [F(1,42) =
+6,45 ; p = 0,01] chez les participants non plaintifs (0,69 ±
+0,17) que chez les plaintifs (0,56 ± 0,2), et cela, avec un
+effet modéré (η2 partiel = 0,13). En revanche, nos deux
+sous-groupes ne se distinguent pas en termes de récupération mnésique par habitude (0,71 ± 0,16 en moyenne pour les deux groupes, [F(1,42) = 0 ; p = NS]).
+Par ailleurs, les participants plaintifs ont davantage de
+croyances métacognitives que les non-plaintifs (respectivement 145,5 ± 19 contre 123 ± 22) avec un F(1,42) =
+13,1 pour un p = 0,001 et un effet modéré à fort (η2 partiel = 0,24). Plus exactement, comme nous l’avions
+prédit, les plaintifs se distinguent des non-plaintifs
+avec un effet modéré à fort (η2 partiel = 0,25) pour le
+score au deuxième facteur du MCQ se rapportant aux
+« croyances négatives à propos du caractère incontrôlable et dangereux des pensées » [F(1,40) = 14,3 ; p =
+0,01] et avec des moyennes respectives de 39,45 ± 7 et
+de 31,2 ± 7. De même, nos deux groupes sont distincts
+(en moyenne 23 ± 6 contre 19 ± 5) quant au troisième
+facteur, « l’assurance cognitive », avec un [F(1,40) = 6 ;
+p = 0,01] et un effet modéré (η2 partiel = 0,20). Il existe
+également un effet modéré de la plainte cognitive (η2 =
+0,19) pour le quatrième facteur concernant les « croyances négatives à propos des pensées en général »
+[F(1,24) = 4,39) ; p &lt; 0,05] avec des moyennes s’élevant
+à 26,4 ± 5 pour les plaintifs contre 21,6 ± 5 pour les
+participants peu plaintifs.
+
+p
+
+–2,44
+
+15
+
+&lt;0,05
+&lt;0,001
+
+Enﬁn, conformément à la littérature, l’effet de la plainte
+sur les affects dépressifs est signiﬁcatif et fort [F(1,42) =
+20,95 ; p &lt; 0,001 ; η2 partiel = 0,33], puisque l’on sait que
+les participants qui présentent une plainte cognitive
+importante présentent également des affects dépressifs
+plus importants (11,91 ± 6,5) que les peu plaintifs
+(4,45 ± 4).
+
+16
+
+Canadian Journal on Aging 28 (1)
+
+Estelle Guerdoux et al.
+
+Tableau 6 : Analyses de variance sur l’inﬂuence de la remémoration consciente, sur le score au MCQ et au BDI-II en fonction de la
+plainte cognitive des participants
+Sous-groupes
+
+Analyses de variance (ANOVA)
+
+« Peu plaintifs »
+
+« Plaintifs »
+
+Mesures
+
+M
+
+ET
+
+M
+
+ET
+
+Inﬂuence de la remémoration
+consciente (processus contrôlés)
+Score au MCQ
+Score au facteur 2 du MCQ
+Score au facteur 3 du MCQ
+Score au facteur 4 du MCQ
+Score à l'échelle de dépression
+
+0,69
+
+± 0,17
+
+0,56
+
+± 0,2
+
+123
+31,2
+19
+21,6
+4,45
+
+±
+±
+±
+±
+±
+
+145,5
+39,5
+23
+26,4
+11,91
+
+±
+±
+±
+±
+±
+
+22
+7,3
+4,8
+4,8
+4
+
+F(1,42)
+
+19
+7,2
+5,8
+5
+6,5
+
+p
+
+η2
+
+Taille de l’effet
+
+6,05
+
+*
+
+0,13
+
+Modéré
+
+13,05
+14,30
+6,20
+10,30
+20,95
+
+**
+**
+*
+**
+**
+
+0,24
+0,25
+0,13
+0,20
+0,33
+
+Modéré à fort
+Modéré à fort
+Modéré
+Modéré à fort
+Fort
+
+M = moyenne ; ET = écart type ; *p &lt; 0,05 ; ** p &lt; 0,001
+
+En résumé (voir tableau 6), à performances mnésiques
+objectives égales, les participants « plaintifs » se distinguent des « peu plaintifs » par la présence plus
+importante d’affects dépressifs, de croyances métacognitives et d’un amoindrissement de l’efﬁcacité des processus de récupération consciente en mémoire.
+
+Discussion
+Ce travail s’intéressait à deux déterminants susceptibles de rendre compte de l’écart observé entre des performances mnésiques et une plainte cognitive : les
+croyances métacognitives et l’efﬁcience des processus
+contrôlés en mémoire. Certains aspects psychopathologiques tels que les affects dépressifs ont également été pris en compte.
+Pour ce faire, nous avons utilisé une tâche de mémoire
+(EGM) qui recréait expérimentalement des erreurs
+commises dans la vie quotidienne. En appliquant les
+équations de la PDP (Jacoby, 1991), nous avons évalué
+la contribution de la récupération consciente et de
+l’habitude dans la performance mnésique. Conformément à la littérature, nos données montrent que les
+personnes âgées apprennent et routinisent une réponse
+autant que les jeunes adultes. Les aînés commettent
+néanmoins davantage d’erreurs de glissement dites
+« memory slips » que les jeunes. En outre, l’estimation
+de la récupération consciente et de l’habitude chez
+les personnes âgées et les jeunes a mis en évidence
+une dissociation accusant un amoindrissement de
+l’efﬁcience des processus contrôlés par opposition à
+un respect du fonctionnement des processus automatiques. Autrement dit, le vieillissement aurait pour
+conséquence de limiter la possibilité de se souvenir
+consciemment et de laisser les inﬂuences mnésiques
+automatiques et inconscientes s’exprimer librement
+sous la forme d’une habitude sans contrôle conscient.
+Nous avons créé cette épreuve dans le but de pouvoir
+estimer, au sein d’une performance mnésique, la contri-
+
+bution de la remémoration consciente et de l’habitude.
+L’EGM devait ainsi fournir une mesure plus « pure » du
+fonctionnement mnésique d’un participant, en supprimant l’effet de contamination trouvé dans les épreuves
+de mémoire classiques dites explicites. Nous voulions
+aussi disposer d’une mesure plus écologique de la mémoire, d’autant plus que dans la vie quotidienne, processus automatiques et contrôlés agissent toujours
+conjointement. Au regard de nos hypothèses, nous
+avons donc étudié le lien existant entre ces mesures et
+la plainte cognitive de participants jeunes et âgés.
+Aﬁn de mesurer l’intensité de la plainte mnésique,
+nous avons utilisé un questionnaire auto-administré
+s’intéressant aux difﬁcultés cognitives rencontrées
+dans la vie quotidienne (EDC). Cette échelle, très largement utilisée dans la pratique clinique, entretient généralement une faible association avec les performances
+objectives à des épreuves mnésiques et attentionnelles,
+alors que les scores sont consistants avec les mesures
+de dépression et d’anxiété. Contrairement à la littérature dominante qui souligne la sensibilité de cette
+échelle aux effets de l’âge, nous n’avons pas observé de
+majoration de la doléance cognitive avec le vieillissement. Seul le facteur « oubli » distingue nos participants, mais cette mesure comprenant peu d’items reste
+trop peu sensible pour être utilisée en tant que telle
+dans les analyses et n’apporterait qu’un éclairage
+réduit. En revanche, nos résultats vont dans le même
+sens que ceux d’études plus récentes (Derouesné,
+Lacomblez et al., 1999 ; Dubreuil, Adam, Bier et Gagnon, sous presse ; Mecacci et Righi, 2006). Derouesné,
+Lacomblez et al. soulignent eux aussi qu’il n’existe pas
+de « caractère sémiologique spéciﬁque de la plainte
+des sujets âgés par rapport à celle des sujets jeunes. La
+fréquence absolue et la fréquence relative des différents
+items des questionnaires utilisés sont identiques chez
+les jeunes et les âgés. » (p. 291). Nos résultats peuvent
+s’expliquer en partie par le fait que nous n’avons
+pas inclus dans notre étude des patients souffrant
+
+Contrôle, mémoire et plainte cognitive
+
+La Revue canadienne du vieillissement 28 (1)
+
+17
+
+signiﬁcativement de dépression et d’anxiété, contrairement à la plupart des travaux antérieurs. En outre,
+notre échantillon était relativement réduit et le niveau
+socioculturel des participants était particulièrement
+élevé dans nos deux groupes. Or on sait que l’autoobservation est liée au niveau socioculturel (CombePangaud, 2001 ; Mc Dougall et Jeonghee, 2003).
+L’occurrence subjective des échecs peut être surestimée
+si la personne focalise son attention sur eux et se concentre excessivement sur son fonctionnement mental.
+Les situations qui rendront les échecs plus saillants
+que les réussites contribueront à modiﬁer leurs probabilités subjectives respectives. Enﬁn, il est important
+de préciser que si la plainte liée à la faillite de
+l’intégrité des fonctions intellectuelles ne différencie
+pas les adultes jeunes et sénescents, en revanche, elle
+n’a pas la même intensité dramatique chez les uns et
+chez les autres (Verdon, 2007). Les jeunes ont tendance
+à considérer leurs difﬁcultés comme passagères et
+réversibles, imputables à des facteurs extérieurs, contingents et transitoires (par exemple, la fatigue). Au
+contraire, pour les aînés, les représentations des défaillances mnésiques interrogent leur caractère organique,
+les rendant témoins potentiels d’un processus neurodégénératif irréversible et involutif (largement véhiculé par les médias actuels). Excepté de rares travaux
+(Jonker et al., 2000), cela explique sans doute pourquoi
+la plupart des études se sont davantage centrées sur la
+plainte cognitive des aînés plutôt que sur celle des
+adultes jeunes. Finalement, nos résultats rappellent
+simplement que la plainte cognitive peut être présente
+à tout âge, mais qu’elle prend une tout autre place
+avec l’avancée en âge.
+
+plainte mnésique, au moins deux autres variables participent à sa mise en œuvre : la récupération consciente
+du souvenir et le besoin métacognitif de contrôler ses
+pensées. Enﬁn, nous avons souhaité appréhender un
+lien de causalité en discriminant notre population en
+deux sous-groupes selon le score obtenu à l’EDC. Les
+analyses de variance mettent là encore en exergue qu’à
+performances mnésiques objectives égales, les participants « plaintifs » se distinguent des « peu plaintifs »
+par la présence plus importante d’affects dépressifs, de
+croyances métacognitives et d’un amoindrissement de
+l’efﬁcacité des processus de récupération consciente en
+mémoire. Plus précisément, les participants qui présentaient une plainte cognitive plus importante manifestaient un faible degré de conﬁance envers leurs propres
+processus cognitifs et un besoin urgent de contrôler les
+inquiétudes pénibles ou gênantes à ce propos.
+
+Aussi, quel que soit l’âge des participants, nous avons
+réalisé différentes analyses permettant d’appréhender
+le lien entre, d’une part, la plainte cognitive subjective
+et, d’autre part, l’efﬁcience des processus contrôlés en
+mémoire, les croyances métacognitives (estimées par
+le MCQ) ainsi que l’intensité des affects dépressifs (au
+moyen du BDI-II).
+
+Ensuite, nos résultats laissent sous-entendre que la
+plainte mnésique serait en partie déterminée par une
+moindre efﬁcience des processus de remémoration
+consciente (et, par là, par une occurrence élevée des
+« memory slips »). Les personnes qui manifestent une
+doléance cognitive signiﬁcative présenteraient également d’importantes croyances métacognitives. Plus
+précisément, les « plaintifs » auraient une faible assurance cognitive et un besoin urgent de contrôler leurs
+pensées, considérées comme dangereuses. Nos résultats reconsidèrent également l’importance et le rôle de
+certains aspects psychopathologiques dans la plainte
+cognitive. Ils montrent notamment l’inﬂuence des affects dépressifs sans dépression signiﬁcative.
+
+Comme nous l’avions prévu, les analyses corrélationnelles montrent que plus la plainte cognitive était
+importante et plus l’intensité des croyances métacognitives et des affects dépressifs était élevée, plus la
+probabilité de commettre des « memory slips » était
+conséquente et moins l’inﬂuence de la remémoration
+consciente était importante dans la performance mnésique. À l’inverse, il n’existe pas de lien linéaire entre
+l’intensité de cette plainte et l’efﬁcience des processus
+automatiques de récupération mnésique (habitude).
+Ensuite, les analyses de régression indiquent que notre
+modèle apparaît prédictif avec un effet modéré. Si les
+aspects psychopathologiques, plus exactement les affects dépressifs, permettent effectivement de prédire la
+
+D’abord, l’ensemble de nos résultats étaye les travaux
+de Jacoby et al. (1993) qui stipulent que la plainte cognitive est corrélée avec les processus contrôlés mais
+non avec les processus automatiques. Nos analyses
+montrent ensuite qu’une méthode d’évaluation telle
+que la PDP, servant à isoler l’inﬂuence des processus
+de remémoration consciente dans la performance mnésique, permet en partie de prédire la plainte cognitive
+là où les évaluations classiques de mémoire échouent.
+Ces résultats suggèrent donc qu’une mesure plus
+pure des processus contrôlés de récupération mnésique
+constitue une approche plus écologique et valide
+que les mesures traditionnelles et se révèle plus adaptée
+à l’évaluation de la doléance cognitive dans la vie
+quotidienne.
+
+Finalement, l’ensemble de nos résultats invitent à
+penser que ce sont les processus qui participent au recouvrement du souvenir et qui servent de signal dans
+la mise en œuvre du contrôle métacognitif et de la
+plainte cognitive. Cependant, il faut souligner certaines
+limites de notre étude. D’abord, notre protocole ne
+comportait pas d’évaluation nous permettant de déterminer la personnalité des participants. Des échelles
+
+18
+
+Canadian Journal on Aging 28 (1)
+
+mesurant le degré de névrotisme ou d’introversion/
+extroversion chez les participants nous auraient sans
+doute permis de mettre en évidence les relations entre
+personnalité et plainte cognitive comme le suggèrent
+des travaux antérieurs (Ponds et Jolles, 1996). Par ailleurs, si nos analyses de variance évoquent des liens de
+causalité entre processus mnésiques contrôlés, croyances métacognitives, affects dépressifs et plainte cognitive, elles ne permettent cependant pas de se
+prononcer clairement sur la direction des relations observées. De plus, l’étude de la plainte mnésique est
+complexe et difﬁcile. Elle interroge la méthodologie et
+les outils utilisés. Ainsi, l’EDC présente la faiblesse
+d’évaluer seulement la fréquence avec laquelle les difﬁcultés cognitives sont éprouvées par les personnes.
+Ses items ne permettent pas d’apprécier l’intensité de
+ces difﬁcultés ni la gêne qu’elles entraînent dans les activités de la vie quotidienne. On pourrait également
+évoquer un manque de sensibilité. Rappelons toutefois
+que nous avions choisi cet outil pour son utilisation clinique extrêmement répandue. Enﬁn, une limite inhérente à notre étude tient à la taille réduite de notre
+échantillon (49 participants) qui doit nous amener à
+nuancer nos propos. Une étude comprenant un échantillon plus large nous permettrait d’étayer davantage
+nos interprétations.
+Nonobstant ces limites, notre étude a le mérite de clariﬁer en partie les faibles corrélations qui sont habituellement observées entre une plainte mnésique subjective
+et des performances mnésiques objectives. D’un point
+de vue clinique, notre recherche invite à développer et
+à systématiser une évaluation neuropsychologique articulée autour des processus contrôlés et automatiques.
+La formulation d’un projet thérapeutique nous semble
+également avoir toute sa place, allant de la prise en
+charge ayant pour but la réhabilitation cognitive de la
+remémoration consciente jusqu’à un travail psychopathologique axé autour de la distanciation de certains
+schèmes anxiogènes métacognitifs.
+
+Conclusion
+La plainte mnésique peut être présente à tout âge, mais
+elle prend une importance particulière chez les personnes âgées. Nos résultats invitent à explorer la doléance cognitive, d’une part, comme la conséquence
+d’une mise à l’épreuve des interactions entre le sujet et
+son environnement et, d’autre part, comme le signal
+d’une modiﬁcation cognitive effective. La plainte mnésique semble occuper une place centrale dans la problématique des croyances métacognitives, car elle reﬂète la
+perception qu’a le sujet de son propre fonctionnement.
+Ces croyances inﬂuencent le jugement et affectent
+nécessairement les cognitions et le comportement. La
+diminution de l’efﬁcience des processus contrôlés en
+mémoire, qui se traduit notamment par une occurrence
+
+Estelle Guerdoux et al.
+
+plus élevée de certaines erreurs de mémoire dans la vie
+quotidienne, pourrait bien recouvrir le signal de cette
+prise de conscience métacognitive et engendrer une
+plainte mnésique. Si d’autres études sont nécessaires
+pour étayer nos conclusions, les données obtenues invitent toutefois à reconsidérer la plainte cognitive au-delà
+des stéréotypes classiques. Notre étude préconise
+notamment une approche cognitive, tant neuropsychologique que psychopathologique, chez les sujets qui
+s’appuient sur une moindre efﬁcience mnésique pour
+étayer leur souffrance psychique.
+
+Note
+1 Six participants (trois jeunes et trois aînés) ont été retirés de
+l’étude, car ils présentaient un score pathologique au RI-48.
+Deux personnes âgées ont dû être exclues pour un score de
+dépression signiﬁcatif au BDI II et un score d’anxiété étattrait trop élevé au STAI-Y. Par ailleurs, deux participants
+jeunes n’ont commis aucune erreur « memory slips » et
+deux autres adultes jeunes ont obtenu un score de 100 pour
+cent aux essais congruents. Pour la validité des traitements,
+ces données ont été retirées des calculs (Nicolas, 2000).
+
+Références Bibliographiques
+Adam, S. (2003). Nouvelles techniques d’évaluation de la
+mémoire épisodique: Procédure de dissociation des
+processus et paradigme R/K. In T. Meulemenans,
+B. Desgranges, S. Adam et F. Eustache (Eds.), Evaluation
+et prise en charge des troubles mnésiques (pp. 78–102).
+Marseille: Solal.
+Adam, S., Van Der Linden, M., Collette, F., Lemauvais, L., et
+Salmon, E. (2005). Further exploration of controlled
+and automatic memory processes in early Alzheimer’s
+disease. Neuropsychology, 19(4), 420–427.
+Adam, S., Van Der Linden, M., Ivanoiu, A., Juillerat, A.-C.,
+Bechet, S., et Salmon, E. (2004). Optimization of encoding speciﬁcity for the diagnosis of early AD: The RI-48
+task. Journal of Clinical and Experimental Neuropsychology,
+29(5), 477–487.
+Adam, S., Van der Linden, M., Poitrenaud, J., Kalafat, M.,
+Agniel, A., Baisset Mouly, C., et al. (2004). L’épreuve de
+rappel indicé à 48 items (RI-48). In M. Van der Linden, S.
+Adam, A. Agniel, C. Baisset Mouly et al. (Eds.),
+L’évaluation des troubles de la mémoire: Présentation de
+quatre tests de mémoire épisodique (avec leur étalonnage).
+Marseille: Solal.
+Barberger-Gateau, P., Rouchi, I., et Letenneur, L. (2000).
+PAQUID: 10 ans déjà... Synthèse des derniers résultats.
+La Revue de gériatrie, 25(7), 443–452.
+Beck, A., Steer, R., et Brown, G. (1996). BDI-II, Beck Depression
+Inventory: Manual (2nd ed.): San Antonio, TX: The Psychological Corporation.
+Cartwright-Hatton, S., et Wells, A. (1997). Beliefs about worry
+and intrusions: The meta-cognitions questionnaire and
+its correlates. Journal of Anxiety Disorders, 11(3), 279–296.
+
+Contrôle, mémoire et plainte cognitive
+
+La Revue canadienne du vieillissement 28 (1)
+
+19
+
+Clarnette, R. M., Almeida, O. P., Forstl, H., Paton, A., et Martins, R. N. (2001). Clinical characteristics of individuals
+with subjective memory loss in Western Australia: Results from a cross-selectional survey. International Journal
+of Geriatric Psychiatry, 16, 168–174.
+
+Harwood, D. G., Barker, W. W., Ownby, R. L., Mullan, M. et
+Duara, R. (2004). No association between subjective
+memory complaints and apolipoprotein E genotype in
+collectively intact elderly. International Journal of Geriatric
+Psychiatry, 19, 1131–1139.
+
+Cohen, J. (1977). Statistical power analysis for the behavioral sciences (revised edition). New York: Academic Press.
+
+Hasher, L. et Zacks, R. T. (1979). Automatic and effortful
+processes in memory. Journal of Experimental Psychology:
+General, 108(3), 356–388.
+
+Cohen, J. (1992). A power primer. Psychological bulletin, 112,
+155–159.
+Combe-Pangaud, C. (2001). Contribution à l’étude de la complexité du système mnésique humain: Approche multidimensionnelle des relations entre mémoire et métamémoire. Thèse
+de doctorat inédite, Université Lumière Lyon 2, Lyon,
+France.
+Comijs, H. C., Deeg, D. J., Dik, J. W., et Twisk, C. J. (2002).
+Memory complaint: The association with psychoaffective and health problems and the role of personality
+characteristics. A 6-year follow-up study. Journal of
+Affective Disorders, 72, 157–165.
+Derouesné, C., Dealberto, M. J., Boyer, P., Lubin, S., Sauron,
+B., et Piette, F. (1993). Empirical evaluation of the cognitive difﬁculties scale for assessment of memory complaints in general practice: A study of 1628 cognitively
+normal subjects aged 45–75 years. International Journal of
+Geriatric Psychiatry, 8, 599–607.
+Derouesné, C., et Lacomblez, L. (2000). La plainte mnésique:
+épidémiologie et démarche diagnostique. Presse Medicale, 29, 858–862.
+Derouesné, C., Lacomblez, L., Thibault, S., et LePoncin, M.
+(1999). Memory complaints in young and elderly subjects. International Journal of Geriatric Psychiatry, 14, 291–
+301.
+Derouesné, C., Poitrenaud, J., Hugonot, L., Kalafat, M.,
+Dubois, B., Laurent, B., et al. (1999). Le Mini-mental state
+examination (MMSE): un outil pratique pour l’évaluation
+de l’état cognitif des patients par le clinicien. La Presse
+Médicale, 28(21), 1141–1148.
+Dixon, R., Backman, L., et Nilsson, L. G. (2004). New frontiers
+in cognitive aging. Oxford: Oxford University Press.
+Dubreuil, P., Adam, S., Bier, N., et Gagnon, L. (sous presse).
+The ecological validity of traditional memory evaluation
+in relation with controlled memory processes and routinization. Archives of Clinical Neuropsychology.
+Ferrand, L., et Alario, F.-X. (1998). Normes d’associations
+verbales pour 366 noms d’objets concrets. L’année psychologique, 98, 659–709.
+
+Hay, J. F., et Jacoby, L. L. (1996). Separating habit and recollection: Memory slips, process dissociations and probability matching. Journal of Experimental Psychology:
+Learning, Memory and Cognition, 22, 1323–1335.
+Hay, J. F., et Jacoby, L. L. (1999). Separating habit and recollection in young and older adults: Effects of elaborative
+processing and distinctiveness. Psychology and Aging,
+14(1), 122–134.
+Herrmann, D. J., Sheets, V., Gruneberg, M., et Rebecca, T.
+(2005). Are self reports of memory failure accurate? Applied Cognitive Psychology, 19, 821–841.
+Israël, L. (1986). Échelle d’auto-évaluation des difﬁcultés de
+la vie quotidienne (Cognitive Difﬁculties Scale) C.D.S. In
+J.-D. Gueﬂi (Ed.), L’évaluation clinique standardisée en psychiatrie (pp. 485–491). Paris: Pierre Fabre.
+Jacoby, L. L. (1991). A process dissociation framework: Separating automatic from intentional uses of memory. Journal of Memory and Language, 30, 513–541.
+Jacoby, L. L., Jennings, J. M., et Hay, J. F. (1996). Dissociating
+automatic and consciously controlled processes: implications for diagnostics and rehabilitation of memory
+deﬁcits. In D. J. Herrmann, C. L. McEvoy, C. Hertzog, P.
+Hertel et M. K. Johnson (Eds.), Basic and applied memory
+research: Theory in context (vol. 1, pp. 161–193). Mahwah,
+NJ: Erlbaum.
+Jacoby, L. L., Toth, J. P., et Yonelinas, A. P. (1993). Separating
+conscious and unconscious inﬂuences of memory: Measuring recollection. Journal of Experimental Psychology:
+General, 122(2), 139–154.
+Jonker, C., Geerlings, M. I., et Schmand, B. (2000). Are memory complaints predictive for dementia? A review of
+clinical and population based-studies. International Journal of Geriatric Psychiatry, 15, 983–991.
+Jorm, A. F., Christensen, H., Korten, A. E., Jacomb, P. A., et
+Henderson, A. S. (2001). Memory complaints as a precursor of memory impairment in older people: A longitudinal analysis over 7–8 years. Psychological Medicine,
+31, 441–449.
+
+Flavell, J. H. (1971). First discussant’s comments: What is
+memory development the development of? Human Development, 14, 272–278.
+
+Juillerat Van Der Linden, A.-C. (2003). Une approche
+écologique dans l’évaluation des troubles de la mémoire.
+In T. Meulemans, B. Desgranges, S. Adam et F. Eustache
+(Eds.), Évaluation et prise en charge des troubles mnésiques
+(pp. 267–280). Marseille: Solal.
+
+Flavell, J. H. (1979). Metacognition and cognitive monitoring:
+A new area of cognitive-developmental inquiry. American Psychologis, 34, 906–911.
+
+Laroi, F., et Van Der Linden, M. (2005). Metacognitions in
+proneness towards hallucinations and delusions. Behavior, Research and Therapy, 43, 1425–1441.
+
+20
+
+Canadian Journal on Aging 28 (1)
+
+Martin, S., Dressaire, D., Guerdoux, E., Trouillet, R., Brouillet,
+T., Brouillet, D., et al. (2009). Norme francophone de
+complétion de trigrammes chez des participants âgés
+30 à 91 ans. Revue Européenne de Psychologie Appliquée,
+59(1), 25–36.
+Martine, E. M. M., Martin, P. J. v. B., Dick, W., et Jelle, J. (2006).
+Do subjective memory complaints predict cognitive
+dysfunction over time? A six-year follow-up of the
+Maastricht aging study. International Journal of Geriatric
+Psychiatry, 21, 432–441.
+Mc Dougall, G. J., et Jeonghee, K. (2003). Memory self-efﬁcacy and memory performance in older males. International Journal of Men’s Health, 2(2), 131–147.
+McNair, D. M., et Kahn, R. J. (1984). Self-assessment of cognitive deﬁcits. In T. Crook, S. Ferris et R. Bartus (Eds.), Assessment in Geriatric Psychopharmacology (pp. 137–143).
+New Canaan, CT: Mark Powley.
+Mecacci, L., et Righi, S. (2006). Cognitive failures, metacognitive beliefs and aging. Personality and Individual Differences, 40, 1453–1459.
+Nicolas, S. (2000). La dissociation automatique vs. contrôlée
+en rappel: Application de la procédure de dissociation
+des processus (PDP) de Jacoby (1991, 1998). Revue de
+Neuropsychologie, 10, 97–128.
+
+Estelle Guerdoux et al.
+Romatet, S. (1998). Memory complaints in the elderly: A step
+towards dementia? La Presse Médicale, 27(31), 1585–1587.
+Schneider, W. &amp; Shifﬁn, R. M. (1977). Controlled and automatic information processing I: Detection, search and
+attention. Psychological Review, 84, 1–66.
+Shiffrin, R. M. &amp; Schneider, W. (1977). Controlled and automatic information processing II: Perceptual learning,
+automatic attending, and a general theory. Psychological
+Review, 84, 127–190.
+Souchay, C., et Isingrini, M. (2004). Age related differences in
+metacognitive control: Role of executive functioning.
+Brain and Cognition, 56, 89–99.
+Spielberger, C. D. (1983). State-trait anxiety inventory: A comprehensive bibliography. Palo Alto, CA: Consulting Psychologist Press.
+St John, P., et Montgomery, P. (2002). Are cognitively intact
+seniors with subjective memory loss more likely to develop dementia? International Journal of Geriatric Psychiatry, 17, 814–820.
+Tarrago, R., Martin, S., De La Haye, F., et Brouillet, D. (2005).
+Normes d’associations verbales chez des sujets âgés.
+Word association norms for older adults. Revue européenne de psychologie appliquée, 55, 245–253.
+Thomas-Antérion, C., Dirson, S., Foyatier-Michel, N.,
+Laurent, B., et Michel, D. (1997). Plainte mnésique et
+anxiété: À propos de 40 patients reçus dans une consultation spécialisée. L’Encéphale, XXIII, 42–47.
+
+Poitrenaud, J., Israël, L., Barrère, H., et Le Roch, K. (1997).
+Version française de l’échelle de difﬁcultés cognitives de
+McNair et Khan. In B.-F. Michel, C. Derouesné et M.-C.
+Gély-Nargeot (Eds.), De la plainte mnésique à la maladie
+d’Alzheimer (pp. 159–168). Marseille: Solal.
+
+Tiberghien, G. (1997). La mémoire oubliée. Liège: Mardaga.
+
+Ponds, R. W., et Jolles, J. (1997). Memory complaints in elderly people: The role of memory abilities, metamemory,
+depression, and personality. Educational Gerontology, 22,
+341–357.
+
+Van Der Linden, M., Adam, S., Agniel, A., Baisset-Mouly, C.,
+Bardet, F., Coyette, F., et al. (2004). L'évaluation des troubles de la mémoire: Présentation de quatre tests de mémoire
+épisodique (avec leur étalonnage). Marseille: Solal.
+
+Reingold, E. M., et Merikle, P. M. (1990). On the interrelatedness of theory and measurement in the
+study of unconscious processes. Mind and Language, 5,
+9–28.
+Riedel-Heller, S. G., Matschinger, H., Schork, A., et
+Angermeyer, M. C. (1999). Do memory complaints indicate the presence of cognitive impairment? Results of a
+ﬁeld study. European Archives of Psychiatry and Clinical
+Neuroscience, 249, 197–204.
+
+Van Der Linden, M., Wyns, C. H., Von Frenkell, R., Coyette,
+F., et Seron, X. (1989). Un questionnaire d'auto-évaluation
+de la mémoire (Q.A.M.). Bruxelles: Editest.
+Vaidya, C. J., Gabrieli, J. D. E., Keane, M. M., et Monti, L.
+(1995). Perceptual and conceptual memory processes in
+global amnesia. Neuropsychology, 9, 580–591.
+Verdon, B. (2007). Diversité psychopathologique dans la clinique de la plainte mnésique de l’adulte vieillissant. Psychologie et Neuropsychiatrie du Vieillissement, 5(3), 209–223.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Evaluation et prise en charge des troubles mnésiques</title><editor><persName><forename type="first">S</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">T.</forename><surname>Meulemenans</surname></persName></editor><editor><persName><forename type="first">B.</forename><surname>Desgranges</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Eustache</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille</pubPlace><date type="published">2003</date><biblScope unit="page" from="78">78</biblScope><biblScope unit="page" to="102">102</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Further exploration of controlled and automatic memory processes in early Alzheimer’s disease</title><author><persName><forename type="first">S.</forename><surname>Adam</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Van Der Linden</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Collette</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Lemauvais</surname></persName></author><author><persName><forename type="first">E</forename><surname>Salmon</surname></persName></author></analytic><monogr><title level="j">Neuropsychology</title><imprint><date type="published">2005</date><biblScope unit="volume">19</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="420">420</biblScope><biblScope unit="page" to="427">427</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Optimization of encoding specificity for the diagnosis of early AD: The RI-48 task</title><author><persName><forename type="first">S.</forename><surname>Adam</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Van Der Linden</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Ivanoiu</surname></persName></author><author><persName><forename type="first">A.-C.</forename><surname>Juillerat</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Bechet</surname></persName></author><author><persName><forename type="first">E</forename><surname>Salmon</surname></persName></author></analytic><monogr><title level="j">Journal of Clinical and Experimental Neuropsychology</title><imprint><date type="published">2004</date><biblScope unit="volume">29</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="477">477</biblScope><biblScope unit="page" to="487">487</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">L’évaluation des troubles de la mémoire: Présentation de quatre tests de mémoire épisodique (avec leur étalonnage)</title><editor><persName><forename type="first">S.</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Van der Linden</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Poitrenaud</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Kalafat</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Agniel</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Baisset Mouly</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Van der Linden</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Agniel</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Baisset Mouly</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">PAQUID: 10 ans déjà... Synthèse des derniers résultats</title><author><persName><forename type="first">P.</forename><surname>Barberger-Gateau</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Rouchi</surname></persName></author><author><persName><forename type="first">L</forename><surname>Letenneur</surname></persName></author></analytic><monogr><title level="j">La Revue de gériatrie</title><imprint><date type="published">2000</date><biblScope unit="volume">25</biblScope><biblScope unit="issue">7</biblScope><biblScope unit="page" from="443">443</biblScope><biblScope unit="page" to="452">452</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">BDI-II, Beck Depression Inventory: Manual</title><editor><persName><forename type="first">A.</forename><surname>Beck</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Steer</surname></persName></editor><editor><persName><forename type="first">G</forename><surname>Brown</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Beliefs about worry and intrusions: The meta-cognitions questionnaire and its correlates</title><author><persName><forename type="first">S.</forename><surname>Cartwright-Hatton</surname></persName></author><author><persName><forename type="first">A</forename><surname>Wells</surname></persName></author></analytic><monogr><title level="j">Journal of Anxiety Disorders</title><imprint><date type="published">1997</date><biblScope unit="volume">11</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="279">279</biblScope><biblScope unit="page" to="296">296</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Clinical characteristics of individuals with subjective memory loss in Western Australia: Results from a cross-selectional survey</title><author><persName><forename type="first">R. M.</forename><surname>Clarnette</surname></persName></author><author><persName><forename type="first">O. P.</forename><surname>Almeida</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Forstl</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Paton</surname></persName></author><author><persName><forename type="first">R. N</forename><surname>Martins</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2001</date><biblScope unit="volume">16</biblScope><biblScope unit="page" from="168">168</biblScope><biblScope unit="page" to="174">174</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Statistical power analysis for the behavioral sciences (revised edition)</title><editor><persName><forename type="first">J</forename><surname>Cohen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1977</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">A power primer</title><author><persName><forename type="first">J</forename><surname>Cohen</surname></persName></author></analytic><monogr><title level="j">Psychological bulletin</title><imprint><date type="published">1992</date><biblScope unit="volume">112</biblScope><biblScope unit="page" from="155">155</biblScope><biblScope unit="page" to="159">159</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Contribution à l’étude de la complexité du système mnésique humain: Approche multidimensionnelle des relations entre mémoire et métamémoire</title><editor><persName><forename type="first">C</forename><surname>Combe-Pangaud</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lyon, France</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Memory complaint: The association with psycho-affective and health problems and the role of personality characteristics. A 6-year follow-up study</title><author><persName><forename type="first">H. C.</forename><surname>Comijs</surname></persName></author><author><persName><forename type="first">D. J.</forename><surname>Deeg</surname></persName></author><author><persName><forename type="first">J. W.</forename><surname>Dik</surname></persName></author><author><persName><forename type="first">C. J</forename><surname>Twisk</surname></persName></author></analytic><monogr><title level="j">Journal of Affective Disorders</title><imprint><date type="published">2002</date><biblScope unit="volume">72</biblScope><biblScope unit="page" from="157">157</biblScope><biblScope unit="page" to="165">165</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Empirical evaluation of the cognitive difficulties scale for assessment of memory complaints in general practice: A study of 1628 cognitively normal subjects aged 45–75 years</title><author><persName><forename type="first">C.</forename><surname>Derouesné</surname></persName></author><author><persName><forename type="first">M. J.</forename><surname>Dealberto</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Boyer</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Lubin</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Sauron</surname></persName></author><author><persName><forename type="first">F</forename><surname>Piette</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">1993</date><biblScope unit="volume">8</biblScope><biblScope unit="page" from="599">599</biblScope><biblScope unit="page" to="607">607</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">La plainte mnésique: épidémiologie et démarche diagnostique</title><author><persName><forename type="first">C.</forename><surname>Derouesné</surname></persName></author><author><persName><forename type="first">L</forename><surname>Lacomblez</surname></persName></author></analytic><monogr><title level="j">Presse Medicale</title><imprint><date type="published">2000</date><biblScope unit="volume">29</biblScope><biblScope unit="page" from="858">858</biblScope><biblScope unit="page" to="862">862</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Memory complaints in young and elderly subjects</title><author><persName><forename type="first">C.</forename><surname>Derouesné</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Lacomblez</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Thibault</surname></persName></author><author><persName><forename type="first">M</forename><surname>LePoncin</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">1999</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="291">291</biblScope><biblScope unit="page" to="301">301</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Le Mini-mental state examination (MMSE): un outil pratique pour l’évaluation de l’état cognitif des patients par le clinicien</title><author><persName><forename type="first">C.</forename><surname>Derouesné</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Poitrenaud</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Hugonot</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Kalafat</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Dubois</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Laurent</surname></persName></author></analytic><monogr><title level="j">La Presse Médicale</title><imprint><date type="published">1999</date><biblScope unit="volume">28</biblScope><biblScope unit="issue">21</biblScope><biblScope unit="page" from="1141">1141</biblScope><biblScope unit="page" to="1148">1148</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">New frontiers in cognitive aging</title><editor><persName><forename type="first">R.</forename><surname>Dixon</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Backman</surname></persName></editor><editor><persName><forename type="first">L. G</forename><surname>Nilsson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">The ecological validity of traditional memory evaluation in relation with controlled memory processes and routinization</title><author><persName><forename type="first">P.</forename><surname>Dubreuil</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Adam</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Bier</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Gagnon</surname></persName></author></analytic><monogr><title level="j">Archives of Clinical Neuropsychology</title><imprint/></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">Normes d’associations verbales pour 366 noms d’objets concrets</title><author><persName><forename type="first">L.</forename><surname>Ferrand</surname></persName></author><author><persName><forename type="first">F.-X.</forename><surname>Alario</surname></persName></author></analytic><monogr><title level="j">L’année psychologique</title><imprint><date type="published">1998</date><biblScope unit="volume">98</biblScope><biblScope unit="page" from="659">659</biblScope><biblScope unit="page" to="709">709</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">First discussant’s comments: What is memory development the development of?</title><author><persName><forename type="first">J. H</forename><surname>Flavell</surname></persName></author></analytic><monogr><title level="j">Human Development</title><imprint><date type="published">1971</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="272">272</biblScope><biblScope unit="page" to="278">278</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry</title><author><persName><forename type="first">J. H</forename><surname>Flavell</surname></persName></author></analytic><monogr><title level="j">American Psychologis</title><imprint><date type="published">1979</date><biblScope unit="volume">34</biblScope><biblScope unit="page" from="906">906</biblScope><biblScope unit="page" to="911">911</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b53" type="article"><analytic><title level="a">No association between subjective memory complaints and apolipoprotein E genotype in collectively intact elderly</title><author><persName><forename type="first">D. G.</forename><surname>Harwood</surname></persName></author><author><persName><forename type="first">W. W.</forename><surname>Barker</surname></persName></author><author><persName><forename type="first">R. L.</forename><surname>Ownby</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Mullan</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Duara</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2004</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="1131">1131</biblScope><biblScope unit="page" to="1139">1139</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b57" type="article"><analytic><title level="a">Automatic and effortful processes in memory</title><author><persName><forename type="first">L.</forename><surname>Hasher</surname></persName></author><author><persName><forename type="first">R. T</forename><surname>Zacks</surname></persName></author></analytic><monogr><title level="j">Journal of Experimental Psychology: General</title><imprint><date type="published">1979</date><biblScope unit="volume">108</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="356">356</biblScope><biblScope unit="page" to="388">388</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">Separating habit and recollection: Memory slips, process dissociations and probability matching</title><author><persName><forename type="first">J. F.</forename><surname>Hay</surname></persName></author><author><persName><forename type="first">L. L</forename><surname>Jacoby</surname></persName></author></analytic><monogr><title level="j">Journal of Experimental Psychology: Learning, Memory and Cognition</title><imprint><date type="published">1996</date><biblScope unit="volume">22</biblScope><biblScope unit="page" from="1323">1323</biblScope><biblScope unit="page" to="1335">1335</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">Separating habit and recollection in young and older adults: Effects of elaborative processing and distinctiveness</title><author><persName><forename type="first">J. F.</forename><surname>Hay</surname></persName></author><author><persName><forename type="first">L. L</forename><surname>Jacoby</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">1999</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="122">122</biblScope><biblScope unit="page" to="134">134</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="article"><analytic><title level="a">Are self reports of memory failure accurate?</title><author><persName><forename type="first">D. J.</forename><surname>Herrmann</surname></persName></author><author><persName><forename type="first">V.</forename><surname>Sheets</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Gruneberg</surname></persName></author><author><persName><forename type="first">T</forename><surname>Rebecca</surname></persName></author></analytic><monogr><title level="j">Applied Cognitive Psychology</title><imprint><date type="published">2005</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="821">821</biblScope><biblScope unit="page" to="841">841</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">L’évaluation clinique standardisée en psychiatrie</title><editor><persName><forename type="first">L</forename><surname>Israël</surname></persName></editor><editor><persName><forename type="first">J.-D.</forename><surname>Guefli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1986</date><biblScope unit="page" from="485">485</biblScope><biblScope unit="page" to="491">491</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">A process dissociation framework: Separating automatic from intentional uses of memory</title><author><persName><forename type="first">L. L</forename><surname>Jacoby</surname></persName></author></analytic><monogr><title level="j">Journal of Memory and Language</title><imprint><date type="published">1991</date><biblScope unit="volume">30</biblScope><biblScope unit="page" from="513">513</biblScope><biblScope unit="page" to="541">541</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="inbook"><monogr><title level="m">Basic and applied memory research: Theory in context</title><editor><persName><forename type="first">L. L.</forename><surname>Jacoby</surname></persName></editor><editor><persName><forename type="first">J. M.</forename><surname>Jennings</surname></persName></editor><editor><persName><forename type="first">J. F</forename><surname>Hay</surname></persName></editor><editor><persName><forename type="first">D. J.</forename><surname>Herrmann</surname></persName></editor><editor><persName><forename type="first">C. L.</forename><surname>McEvoy</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Hertzog</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Hertel</surname></persName></editor><editor><persName><forename type="first">M. K.</forename><surname>Johnson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Mahwah, NJ</pubPlace><date type="published">1996</date><biblScope unit="page" from="161">161</biblScope><biblScope unit="page" to="193">193</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Separating conscious and unconscious influences of memory: Measuring recollection</title><author><persName><forename type="first">L. L.</forename><surname>Jacoby</surname></persName></author><author><persName><forename type="first">J. P.</forename><surname>Toth</surname></persName></author><author><persName><forename type="first">A. P</forename><surname>Yonelinas</surname></persName></author></analytic><monogr><title level="j">Journal of Experimental Psychology: General</title><imprint><date type="published">1993</date><biblScope unit="volume">122</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="139">139</biblScope><biblScope unit="page" to="154">154</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Are memory complaints predictive for dementia? A review of clinical and population based-studies</title><author><persName><forename type="first">C.</forename><surname>Jonker</surname></persName></author><author><persName><forename type="first">M. I.</forename><surname>Geerlings</surname></persName></author><author><persName><forename type="first">B</forename><surname>Schmand</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2000</date><biblScope unit="volume">15</biblScope><biblScope unit="page" from="983">983</biblScope><biblScope unit="page" to="991">991</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">Memory complaints as a precursor of memory impairment in older people: A longitudinal analysis over 7–8 years</title><author><persName><forename type="first">A. F.</forename><surname>Jorm</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Christensen</surname></persName></author><author><persName><forename type="first">A. E.</forename><surname>Korten</surname></persName></author><author><persName><forename type="first">P. A.</forename><surname>Jacomb</surname></persName></author><author><persName><forename type="first">A. S</forename><surname>Henderson</surname></persName></author></analytic><monogr><title level="j">Psychological Medicine</title><imprint><date type="published">2001</date><biblScope unit="volume">31</biblScope><biblScope unit="page" from="441">441</biblScope><biblScope unit="page" to="449">449</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Évaluation et prise en charge des troubles mnésiques</title><editor><persName><forename type="first">A.-C.</forename><surname>Juillerat Van Der Linden</surname></persName></editor><editor><persName><forename type="first">T.</forename><surname>Meulemans</surname></persName></editor><editor><persName><forename type="first">B.</forename><surname>Desgranges</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Eustache</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille</pubPlace><date type="published">2003</date><biblScope unit="page" from="267">267</biblScope><biblScope unit="page" to="280">280</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="article"><analytic><title level="a">Metacognitions in proneness towards hallucinations and delusions</title><author><persName><forename type="first">F.</forename><surname>Laroi</surname></persName></author><author><persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName></author></analytic><monogr><title level="j">Behavior, Research and Therapy</title><imprint><date type="published">2005</date><biblScope unit="volume">43</biblScope><biblScope unit="page" from="1425">1425</biblScope><biblScope unit="page" to="1441">1441</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Norme francophone de complétion de trigrammes chez des participants âgés 30 à 91 ans</title><author><persName><forename type="first">S.</forename><surname>Martin</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Dressaire</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Guerdoux</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Trouillet</surname></persName></author><author><persName><forename type="first">T.</forename><surname>Brouillet</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Brouillet</surname></persName></author></analytic><monogr><title level="j">Revue Européenne de Psychologie Appliquée</title><imprint><date type="published">2009</date><biblScope unit="volume">59</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="25">25</biblScope><biblScope unit="page" to="36">36</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="article"><analytic><title level="a">Do subjective memory complaints predict cognitive dysfunction over time? A six-year follow-up of the Maastricht aging study</title><author><persName><forename type="first">E. M. M.</forename><surname>Martine</surname></persName></author><author><persName><forename type="first">P. J. v. B.</forename><surname>Martin</surname></persName></author><author><persName><forename type="first">W.</forename><surname>Dick</surname></persName></author><author><persName><forename type="first">J</forename><surname>Jelle</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2006</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="432">432</biblScope><biblScope unit="page" to="441">441</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="article"><analytic><title level="a">Memory self-efficacy and memory performance in older males</title><author><persName><forename type="first">G. J.</forename><surname>Mc Dougall</surname></persName></author><author><persName><forename type="first">K</forename><surname>Jeonghee</surname></persName></author></analytic><monogr><title level="j">International Journal of Men’s Health</title><imprint><date type="published">2003</date><biblScope unit="volume">2</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="131">131</biblScope><biblScope unit="page" to="147">147</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Assessment in Geriatric Psychopharmacology</title><editor><persName><forename type="first">D. M.</forename><surname>McNair</surname></persName></editor><editor><persName><forename type="first">R. J</forename><surname>Kahn</surname></persName></editor><editor><persName><forename type="first">T.</forename><surname>Crook</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Ferris</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Bartus</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New Canaan, CT</pubPlace><date type="published">1984</date><biblScope unit="page" from="137">137</biblScope><biblScope unit="page" to="143">143</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="article"><analytic><title level="a">Cognitive failures, metacognitive beliefs and aging</title><author><persName><forename type="first">L.</forename><surname>Mecacci</surname></persName></author><author><persName><forename type="first">S</forename><surname>Righi</surname></persName></author></analytic><monogr><title level="j">Personality and Individual Differences</title><imprint><date type="published">2006</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="1453">1453</biblScope><biblScope unit="page" to="1459">1459</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="article"><analytic><title level="a">La dissociation automatique vs. contrôlée en rappel: Application de la procédure de dissociation des processus (PDP) de Jacoby (1991, 1998)</title><author><persName><forename type="first">S</forename><surname>Nicolas</surname></persName></author></analytic><monogr><title level="j">Revue de Neuropsychologie</title><imprint><date type="published">2000</date><biblScope unit="volume">10</biblScope><biblScope unit="page" from="97">97</biblScope><biblScope unit="page" to="128">128</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="inbook"><monogr><title level="m">De la plainte mnésique à la maladie d’Alzheimer</title><editor><persName><forename type="first">J.</forename><surname>Poitrenaud</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Israël</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Barrère</surname></persName></editor><editor><persName><forename type="first">K</forename><surname>Le Roch</surname></persName></editor><editor><persName><forename type="first">B.-F.</forename><surname>Michel</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Derouesné</surname></persName></editor><editor><persName><forename type="first">M.-C.</forename><surname>Gély-Nargeot</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille</pubPlace><date type="published">1997</date><biblScope unit="page" from="159">159</biblScope><biblScope unit="page" to="168">168</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="article"><analytic><title level="a">Memory complaints in elderly people: The role of memory abilities, metamemory, depression, and personality</title><author><persName><forename type="first">R. W.</forename><surname>Ponds</surname></persName></author><author><persName><forename type="first">J</forename><surname>Jolles</surname></persName></author></analytic><monogr><title level="j">Educational Gerontology</title><imprint><date type="published">1997</date><biblScope unit="volume">22</biblScope><biblScope unit="page" from="341">341</biblScope><biblScope unit="page" to="357">357</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="article"><analytic><title level="a">On the inter-relatedness of theory and measurement in the study of unconscious processes</title><author><persName><forename type="first">E. M.</forename><surname>Reingold</surname></persName></author><author><persName><forename type="first">P. M</forename><surname>Merikle</surname></persName></author></analytic><monogr><title level="j">Mind and Language</title><imprint><date type="published">1990</date><biblScope unit="volume">5</biblScope><biblScope unit="page" from="9">9</biblScope><biblScope unit="page" to="28">28</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="article"><analytic><title level="a">Do memory complaints indicate the presence of cognitive impairment? Results of a field study</title><author><persName><forename type="first">S. G.</forename><surname>Riedel-Heller</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Matschinger</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Schork</surname></persName></author><author><persName><forename type="first">M. C</forename><surname>Angermeyer</surname></persName></author></analytic><monogr><title level="j">European Archives of Psychiatry and Clinical Neuroscience</title><imprint><date type="published">1999</date><biblScope unit="volume">249</biblScope><biblScope unit="page" from="197">197</biblScope><biblScope unit="page" to="204">204</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">Memory complaints in the elderly: A step towards dementia?</title><author><persName><forename type="first">S</forename><surname>Romatet</surname></persName></author></analytic><monogr><title level="j">La Presse Médicale</title><imprint><date type="published">1998</date><biblScope unit="volume">27</biblScope><biblScope unit="issue">31</biblScope><biblScope unit="page" from="1585">1585</biblScope><biblScope unit="page" to="1587">1587</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b54" type="article"><analytic><title level="a">Controlled and automatic information processing I: Detection, search and attention</title><author><persName><forename type="first">W.</forename><surname>Schneider</surname></persName></author><author><persName><forename type="first">R. M</forename><surname>Shiffin</surname></persName></author></analytic><monogr><title level="j">Psychological Review</title><imprint><date type="published">1977</date><biblScope unit="volume">84</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="66">66</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b56" type="article"><analytic><title level="a">Controlled and automatic information processing II: Perceptual learning, automatic attending, and a general theory</title><author><persName><forename type="first">R. M.</forename><surname>Shiffrin</surname></persName></author><author><persName><forename type="first">W</forename><surname>Schneider</surname></persName></author></analytic><monogr><title level="j">Psychological Review</title><imprint><date type="published">1977</date><biblScope unit="volume">84</biblScope><biblScope unit="page" from="127">127</biblScope><biblScope unit="page" to="190">190</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="article"><analytic><title level="a">Age related differences in metacognitive control: Role of executive functioning</title><author><persName><forename type="first">C.</forename><surname>Souchay</surname></persName></author><author><persName><forename type="first">M</forename><surname>Isingrini</surname></persName></author></analytic><monogr><title level="j">Brain and Cognition</title><imprint><date type="published">2004</date><biblScope unit="volume">56</biblScope><biblScope unit="page" from="89">89</biblScope><biblScope unit="page" to="99">99</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="inbook"><monogr><title level="m">State-trait anxiety inventory: A comprehensive bibliography</title><editor><persName><forename type="first">C. D</forename><surname>Spielberger</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Palo Alto, CA</pubPlace><date type="published">1983</date></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">Are cognitively intact seniors with subjective memory loss more likely to develop dementia?</title><author><persName><forename type="first">P.</forename><surname>St John</surname></persName></author><author><persName><forename type="first">P</forename><surname>Montgomery</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2002</date><biblScope unit="volume">17</biblScope><biblScope unit="page" from="814">814</biblScope><biblScope unit="page" to="820">820</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">Normes d’associations verbales chez des sujets âgés. Word association norms for older adults</title><author><persName><forename type="first">R.</forename><surname>Tarrago</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Martin</surname></persName></author><author><persName><forename type="first">F.</forename><surname>De La Haye</surname></persName></author><author><persName><forename type="first">D</forename><surname>Brouillet</surname></persName></author></analytic><monogr><title level="j">Revue européenne de psychologie appliquée</title><imprint><date type="published">2005</date><biblScope unit="volume">55</biblScope><biblScope unit="page" from="245">245</biblScope><biblScope unit="page" to="253">253</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b48" type="article"><analytic><title level="a">Plainte mnésique et anxiété: À propos de 40 patients reçus dans une consultation spécialisée</title><author><persName><forename type="first">C.</forename><surname>Thomas-Antérion</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Dirson</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Foyatier-Michel</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Laurent</surname></persName></author><author><persName><forename type="first">D</forename><surname>Michel</surname></persName></author></analytic><monogr><title level="j">L’Encéphale</title><imprint><date type="published">1997</date><biblScope unit="volume">XXIII</biblScope><biblScope unit="page" from="42">42</biblScope><biblScope unit="page" to="47">47</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b49" type="inbook"><monogr><title level="m">La mémoire oubliée</title><editor><persName><forename type="first">G</forename><surname>Tiberghien</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Liège</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b50" type="inbook"><monogr><title level="m">L'évaluation des troubles de la mémoire: Présentation de quatre tests de mémoire épisodique (avec leur étalonnage)</title><editor><persName><forename type="first">M.</forename><surname>Van Der Linden</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Adam</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Agniel</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Baisset-Mouly</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Bardet</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Coyette</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marseille</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b51" type="inbook"><monogr><title level="m">Un questionnaire d'auto-évaluation de la mémoire (Q.A.M.)</title><editor><persName><forename type="first">M.</forename><surname>Van Der Linden</surname></persName></editor><editor><persName><forename type="first">C. H.</forename><surname>Wyns</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Von Frenkell</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Coyette</surname></persName></editor><editor><persName><forename type="first">X</forename><surname>Seron</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Bruxelles</pubPlace><date type="published">1989</date></imprint></monogr></biblStruct><biblStruct xml:id="b55" type="article"><analytic><title level="a">Perceptual and conceptual memory processes in global amnesia</title><author><persName><forename type="first">C. J.</forename><surname>Vaidya</surname></persName></author><author><persName><forename type="first">J. D. E.</forename><surname>Gabrieli</surname></persName></author><author><persName><forename type="first">M. M.</forename><surname>Keane</surname></persName></author><author><persName><forename type="first">L</forename><surname>Monti</surname></persName></author></analytic><monogr><title level="j">Neuropsychology</title><imprint><date type="published">1995</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="580">580</biblScope><biblScope unit="page" to="591">591</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b52" type="article"><analytic><title level="a">Diversité psychopathologique dans la clinique de la plainte mnésique de l’adulte vieillissant</title><author><persName><forename type="first">B</forename><surname>Verdon</surname></persName></author></analytic><monogr><title level="j">Psychologie et Neuropsychiatrie du Vieillissement</title><imprint><date type="published">2007</date><biblScope unit="volume">5</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="209">209</biblScope><biblScope unit="page" to="223">223</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

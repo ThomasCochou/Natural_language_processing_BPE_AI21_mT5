@@ -1,0 +1,2126 @@
+Structure des Ecoulements dans une Cuve B Fond Bomb6 Agit6e
+Dar une Turbine de Rushton
+F. MAGNI, J . COSTES, J . BERTRAND et J . P. COUDERC
+Labomtoire de G h i e Chimique, U.R.A. CNRS 192 - E.N.S.l.G.C., Chemin de la Loge, 31078 Toulouse Ckdex (France)
+La structure des Ccoulements gkneres par une turbine de Rushton est CtudiCe dans une cuve chicanee i fond bombe.
+contenant un volume d’eau de 50 litres. La technique de mesure utilisee est la velocimktrie Doppler i laser.
+Pour une vitesse de rotation de 65 tours par minute, les composantes radiale, tangentielle et axiale de la vitesse moyenne
+et de la moyenne quadratique des fluctuations de vitesse ont etC dCterminCes en divers points du plan median entre
+deux chicanes et dans deux plans verticaux voisins des chicanes. Les debits de circulation radiale, axiale et tangentiellc
+ont ete calcules.
+L’ensemble de ces rksultats a permis de determiner trks finement les caracteristiques des ecoulements moyen et Iluctuant dans tout le volume de la cuve et de pricker les influences des chicanes et du fond bombe.
+The flow pattern induced by a Rushton turbine was studied in a 50 I. baffled, dome-shaped tank using Laser Doppler
+velocimetry. The radial, tangential and axial components of the mean velocity and the quadratic mean of the velocity
+fluctuations were determined at several locations in the cross-section between two baffles and in two vertical planes
+close to the baffles. Radial. axial and tangential circulation rates were computed. These sets of results were used to
+determine precisely the mean and fluctuating flow features in the tank and to explain the respective effects of the baffles
+and the dome-shape.
+
+Keywords: agitator flow patterns, laser-Doppler velocimetry, Rushton turbine, turbulence profiles.
+
+L’
+
+agitation mecanique est un procede tres souvent
+exploit6 par les industries chimiques, agroalimentaires,
+pharmaceutiques et bien d’autres encore. 11 permet de
+realiser, dans des cuves, des transformations physiques, chimiques ou biochimiques diverses.
+En raison de cette utilisation intensive, les systemes agitCs
+ont fait I’ob,jet de tres nombreux travaux de recherche. Pour
+l‘essentiel et jusqu’a tres rkcemment, ces etudes Ctaient
+menees de maniere essentiellement globale et empirique, avec
+des series d’essais systkmatiques permettant, d’une part de
+sdectionner les dispositifs les plus efficaces et, d’autre part,
+d’en relever les propriCtCs globales.
+Si cette approche a permis de realiser des progres considerables, elle connait, cependant, des limites, en particulier
+lorsque les mecanismes physico-chimiques ou biochimiques
+impliquCs deviennent complexes; des etudes plus locales et
+approfondies s’averent alors indispensables, qui s’appuient
+inivitablement sur une connaissance detaillee des mouvements du liquide.
+Cette derniere affirmation est souvent considCree, par
+beaucoup d’utilisateurs de systemes agitis, comme un simple
+alibi de chercheur dCsireux de justifier des travaux thCoriques
+dont on voit ma1 les retombtes pratiques. I1 nous semble utile
+de demontrer, sans ambiguiti, le contraire afin d’inciter la
+profession a investir beaucoup plus qu’elle ne le fait dans
+les analyses hydrodynamiques de base. Pour ce faire,
+examinons rapidement et B titre d’exemple, le phCnomene
+du melange de deux liquides miscibles; le champ de concentration obCit a I’Cquation suivante,
+
+evidente, et sans entrer dans les details, on peut preciser que
+le terme de convection turbulente (3) est souvent dvalut a
+l’aide d’un modele k-c (Jaworski et al., 1985; Middleton et
+al., 1986), les tlkments essentiels de ce niodele, I’Cnergie
+cinetique turbulente k et le taux de dissipation visqueuse c
+pouvant, eux-m&mes, &tre calculCs a partir des moyennes
+quadratiques de fluctuations de vitesse (Laufiutte et Mersmann, 1985 a, 1987; Costes, 1986). L’analyse du melange
+de deux liquides rniscibles, qui constitue le point de dipart
+de I’Ctude de nombreux rCacteurs agitks, impliyue done la
+connaissance des distributions spatiales des vitesses moyennes
+et des moyennes quadratiques des fluctuations de vitesse; elle
+ne peut &treabordCe que si ces caracteristiques hydrodynamiques sont connues.
+Voila pourquoi, depuis plusieurs anntes, quelques
+laboratoires ont consenti un effort important pour developper
+I’analyse des mouvements de liquide generes par un a&‘
+ritateur
+en rotation dans une cuve. Cet article concerne un systkme
+tres classique, constitut d’une turbine de Rushton normalisee
+a six pales droites, situCe au tiers inferieur de la hauteur du
+liquide contenu dans une cuve cylindrique chicanee.
+L’originalitC importante de ce travail tient au fait que la cuve
+posskde un fond bornbe; ce cas, trks frCquent dans la pratique industrielle, a CtC trks peu CtudiC en laboratoire.
+Les mesures ont CtC effectuees par vtlocimetrie Doppler
+a laser. Elles contribuent enrichir la banque de donnies
+hydrodynamiques qui est en train, depuis peu de temps, de
+se constituer progressivement et qui devrait faciliter, dans
+l’avenir, I’Ctude des processus complexes d’agitation et de
+melange.
+
+Etude expkrimentale
+(4)
+
+II apparait clairement que la determination, a un instant
+donne, d e k distribution, dans la cuve, de la concentration
+moyenne C demande la connaisance prialable des composantes de la vitesse moyenne V , pour le calcul du terme
+de convection moyenne (2). De manikre beaucoup moins
+
+SYSTEME AGITE
+
+La figure 1 prtsente un schema de I’unitt d’agitation. La
+cuve est un cylindre en altuglass, de diametre interieur
+T = 0.40 m, muni d’un fond bomb6 de rayon de courbure
+0.40 m. La hauteur d’eau au repos est Cgale B T, ce qui correspond a un volume de liquide de 50 litres.
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68. DECEMBER. 1990
+
+88 I
+
+LASER
+
+A
+
+OPTIQUE i
+CELLULE
+DE BRAGG
+
+VOLTMETRES
+
+1i
+~
+
+Figure 2 - Vklocimktrie Doppler a Laser: principe et appareillages utilisCs.
+
+I-
+
+I
+
+Figure I - Schema de I’unitk d’agitation.
+La cuve est munie de quatre chicanes d’une largeur @ale
+a Tl 10, dispostes 2 90” les unes des autres. Elle est entourke
+d’une enveloppe paralltltpiptdique a section carrCe, remplie d’eau, qui constitue un dispositif optique de lames B faces
+paralleles: les phtnomknes de refraction subis par les rayons
+laser sont ainsi attinuts.
+Le mobile est une turbine de Rushton normaliste avec un
+disque et 6 pales droites, dont le diamktre D est Cgal 2 0.45 T.
+Elle est maintenue au tiers inftrieur de la hauteur du liquide
+par un axe, centrt dans la cuve et elle est entrainte par un
+moteur, a courant continu, a vitesse variable, d’une puissance maximale de 700 W. Afin de minimiser les vibrations
+transmises au systkme agitk, le moteur est p l a d sur un chissis
+distinct de celui supportant la cuve.
+
+DISPOSITIF
+ANEMOMETRIQUE
+L’analyse de la bibliographie (Giinkel et Weber, 1975;
+Reed et al., 1977; Van der Molen et Van Mannen, 1978;
+Laiifhiitte et Mersmann, 1986 b; Costes, 1986; Magni et al.,
+1986; Yianneskis et al., 1987; Mahouast et al., 1987;
+Mahouast, 1988) montre que seules la vtlocimttrie thermique
+et la vtlocimttrie a laser permettent d’esptrer mesurer convenablement les caracttristiques d’un tcoulement turbulent.
+De plus, la comparaison entre ces deux techniques de
+mesure effectuee par Costes en 1986, a mis en tvidence que
+la vtlocimktrie Doppler B laser (LDV) est plus performante
+que la vClocimttrie thermique. En effet, cette technique
+permet d’obtenir directement une composante de la vitesse
+avec son signe; elle doit donc stre plus particulikrement utiliske pour 1’Ctude de tout tcoulement fortement turbulent
+ayant une vitesse moyenne faible pour lequel la vitesse instantante peut frequemment changer de signe. Nous I’avons
+retenue pour ce travail.
+882
+
+Le schCma de principe du velocimhtre est present6 sur la
+figure 2. Les mesures ont t t i effectutes avec un laser argon
+d’une puissance nominale de 2 Watts (Spectra Physics Modkle 164). I1 fournit un rayon de lumikre monochromatique verte (b= 514.5 nm), qui est ensuite divist en deux
+rayons, focalists au point de mesure I? I’aide d’un Cquipement optique adkquat. Dans le volume de convergence des
+deux faisceaux, un rtseau de franges d’interftrence, paralIdes B la premikre bissectrice de I’angle form6 par Ies dcux
+rayons incidents, se constitue.
+Lorsqu’une petite particule solide, transportee par le
+liquide en mouvement, ptnktre dans le volume de mesure,
+elle diffuse dans toutes les directions une lumikre modulke
+en intensite en fonction de son avancement progressif a travers le rtseau de franges.
+Cette lumikre diffuste est recueillie par un photomultiplicateur qui transforme le signal lumineux en un signal
+tlectrique. Celui-ci est alors analyse en frtquence par un
+compteur de franges puis trait6 par des voltmktres de valeur
+moyenne et r.m.s., qui permettent d’obtenir les composantes
+de la vitesse moyenne et de la moyenne quadratique de la
+fluctuation de vitesse, suivant la direction perpendiculaire
+au rtseau de franges d’interfirences.
+Signalons que le dispositif utilise est doti d’une cellule de
+Bragg. En introduisant un dtcalage de frequence au niveau
+d’un des deux rayons, cette cellule provoque un defilement
+a vitesse constante du rtseau de franges, permettant ainsi de
+prtciser le sens de I’tcoulement ou, encore, le signe de la
+vitesse.
+La lumikre diffusie peut Ctre collectte dans toutes les directions. Ntanmoins, les particules qui servent de traceur Ctant,
+en gintral, submicroniques, on se trouve dans le domaine
+de la diffusion de Mie et la lumikre diffusCe dans le sens de
+la propagation des faisceaux laser est beaucoup plus intense
+que celle diffuste vers l’arrikre. Aussi, la technique dite dc
+retrodiffusion, qui collecte la lumibre diffuste vers l’arrikre,
+s’avbe-t-elle beaucoup moins prtcise que la technique ordinaire de diffusion vers I’avant; nous ne I’avons retenue que
+pour la mesure de la composante tangentielle, lorsque I’arbre
+d’agitation empCche toute mesure en diffusion avant
+(figure 3).
+Dans ce cas, et afin d’amtliorer la qualitt des mesures,
+I’eau a dfi Ctre ensemencte de particules calibrtes d’aluminium de 3 micromktres dont les proprietts optiques
+sont particulikrement convenables. Malgrt cette prCcaution, la qualitt des mesures en rktrodiffusion demeure
+moins bonne que celle des mesures en diffusion avant,
+avec un risque de surevaluation, en particulier des
+valeurs de la moyenne quadratique des fluctuations de
+vitesse.
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOI-UME 68. DECEMBER. 1990
+
+-0.025
+-0.05
+
+VClocimCtrie Doppler
+3
+et rCtrodiffusion.
+
+Figure
+avant
+
+T
+
+I
+
+B Laser: mesures par diffusion
+
+I
+
+I
+
+0.2
+
+a3
+
+*
+
+1
+
+0.1
+
+rlT
+
+Figure 5 - Vitesse moyenne adimemionnelle tangentielle clan\ Ir
+courant de refoulement.
+A proximitt de la turbine, le profil de vitesse prcsente un
+maximum B mi-hauteur de la pile. I1 est ligerement di
+mCtrique, avec une vitesse nettement plus importante
+partie inferieure. Au fur et a mesure que r augmente et que
+la zone de mesure s’approche de la paroi de la cuve. le profil
+de vitesse s’aplatit.
+En premiere approximation, on peut observer que la composante radiale a mi-hauteur de la pale decroit IinCairement
+en fonction de la position radiale, suivant ainsi la loi:
+
+z’T
+
+Q2
+
+1t
+
+0.3
+
+0.L
+
+r l i
+
+Figure 4 - Vitese moyenne adimensionnelle radiale dans le courant de retouleinent.
+ORGANISATION
+DE L’ETUDE
+Trois scries de mesures ont CtC realisies dans trois plans
+verticaux situes respectivement B 5.7”, 45” et 84.3” en aval
+d’une chicane, pour une vitesse de rotation de 65 t/mn
+(Re, = 3.5.10‘).
+Nous devons tout d’abord signaler que pour preciser
+l’influence de la vitesse de rotation de la turbine une mesure
+complementaire a CtC realiske dans le plan median a une
+vitesse de 135 t/min (Re, = 7.3.10‘). II apparait que les
+composantes de la vitesse moyenne et de la valeur r.m.s.
+des fluctuations de vitesse sont en chaque point proportionnelles i la vitesse de rotation de la turbine. Cette simple verification confirme donc les etudes plus completes et les
+rCsultats obtenus prCcCdemment (Costes, 1986; Magni et al.,
+1986, 1986 et 1987). Ainsi donc, par la suite nous presenterons uniquement les rtsultats sous forme adimensionnelle,
+c’est-a-dire en divisant chaque composante par la vitesse pkripherique en bout de pale, ?r ND.
+Nous decrirons d’abord I’Ccoulement dans le plan median
+entre deux chicanes, en cornmencant par le courant de refoulement de la turbine puis en traitant du reste du volume de
+la cuvc. Nous examinerons, ensuite, les differences essentielles observces dans les deux plans verticaux voisins des
+chicanes. Enfin, nous calculerons et discuterons diverses
+valeurs de debits qui permettent d’evaluer de manikre globale, niais simple, les performances du systeme d’agitation.
+
+Plan median entre deux chicanes
+E C O U l . t M E N 7 MOYEN
+
+Con\idCrons tout d’abord le courant de refoulement. La
+figure 4 prisente plusieurs profils de la composante radiale
+de la vitesse moyenne adimensionnelle, dans le plan median
+entre deux chicanes, pour diverses positions radiales.
+
+~~
+
+I$:=,))
+= I. I 1
+
+-
+
+2.22 r * . . . . . . . . . . . . . . . . . . . .
+
+(2)
+
+La figure 5 presente les profils de la composante tangentielle de la vitesse moyenne adimensionnelle. dans le plan
+median entre deux chicanes, pour diverses positions radiales.
+Ces profils de vitesse ont sensiblement la mtnie allure que
+ceux obtenus avec la composante radiale. A proximite de
+la turbine, la composante angulaire est toujours plus importante que la composante radiale, et ce d’autant plus que I’on
+se rapproche des extr&mites superieure ct infkrieurc de la
+pile.
+A partir des composantes angulaire et radiale, i I cst possible d’obtenir I’angle de refoulement moyen:
+-
+
+8
+
+=
+
+arc tan V $ / V,* . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)
+
+Les resultats correspondants sont rassembles dans le
+tableau 1. La signification physique de cet angle 8 est simple:
+des valeurs faibles sont I’indice d’un mouvement essentiellement radial alors que des valeurs elevkes niarquent l’existence d’une rotation rapide du liquide.
+A proximite de la turbinedour r*=-0.23,
+prend une
+valeur de I’ordre de 50” ( V f 2 1.2 V,*) a mi-hauteur de
+la pile puis augmente quand on se deplace vers les extrtmites. jusqu’h 62” 2 la partie infkricurc ct 80” i la partie
+supirieure. Lorsqu’on s’eloigne de la turbine, I’angle de
+refoulement commence par diminuer a toutes Ics c6tes pour
+ensuite reaugmenter lorsqu’on s’approche de la paroi de la
+cuve sur laquelle le jet de liquide produit par la turbine vient
+s’icraser (Mahouast et al., 1987; Magni et al., 1987).
+La composante axiale de la vitesse moyenne est trks faible
+dans tout le courant de refoulement, sauf au voisinage imnicdiat de la paroi de la cuve. Le courant de refoulement peut
+donc &tre consider6 comme parfaitenient horizontal, justifiant ainsi, sans aucune restriction, le classement de la turbine de Rushton dans la catCgorie des agitateurs de type
+radial.
+Pour le volume de la cuve la figure 6 presente, sous forme
+adimensionnelle, la resultante des composantes radiale et
+axiale de la vitesse moyenne. Le courant de refoulement,
+purement horizontal, se divise en deux Ccoulements verticaux,
+
+THE CANADIAN JOURNAL OF C H E M I C A L ENGINEERING. V O L U M E 68. DECEMBER. 1990
+
+e
+
+883
+
+r+
+
+-*
+
+0.23
+
+0.24
+
+0.29
+
+0.37
+
+0.44
+
+80
+78
+71
+59
+50
+57
+59
+59
+62
+
+73
+70
+67
+55
+48
+55
+50
+57
+56
+
+55
+53
+37
+39
+41
+38
+39
+44
+
+46
+48
+38
+41
+39
+39
+34
+46
+46
+
+58
+45
+54
+60
+53
+66
+52
+62
+62
+
+1
+
+0.05
+0.0375
+0.025
+0.0125
+0
+-0.0125
+-0.025
+-0.0375
+-0.05
+
+-
+
++0.6
+
+I
+
+._._
+
++0.3
+
+1z/T
+
+1
+
+I
+
+I
+
+I
+
+I
+
+1
+
+k
+
+-A + o . 1
++ 0.05
+
++ 0 . 025
+0.0
+-0.025
+
+- 0.05
+- 0. 1
+
+r
+IT
+I . ,
+
+0 0.040.090.140.19 0.24 0.29
+I
+
+0.23
+
+0.37 0.44 0.5
+0.39 0.47
+
+Figure 6 - Resultante des composantes radiale et axiale de la
+vitesse moyenne adimensionnelle.
+
+un ascendant et I’autre descendant a proximite de la paroi
+de la cuve. Dans chaque partie de la cuve, au-dessus et
+au-dessous du mobile, le liquide effectue une boucle, autour
+d’un centre de circulation. La position exacte de ces centres
+de circulation a etC prCcisCe par des mesures additionnelles
+des composantes radiale et axiale; la position radiale correspond a r,$ = 0.4 dans chaque compartiment. Axialernent, le centre de circulation se situe B mi-hauteur dans le
+compartiment superieur mais, seulement au premier tiers de
+la hauteur du liquide a partir de la turbine, dans le compartiment infirieur.
+La figure 7 presente les rCsultats concernant la colnqosante
+angulaire de la vitesse moyenne adimensionnelle Vol TND.
+Cette cornposante tangentielle reste importante dans I? peu p r b
+tout le volume de la cuve. Elle est intense dans le courant
+de refoulement de la turbine, et ce d’autant plus qu’on reste
+884
+
+p
+
+I
+
+014
+
+0.24
+
+0.37
+
+0.44 0.5
+
+rlT-
+
+O.O:066
+
+Figure 7 - Composante tangentielle de la vitesse moyenne
+adimensionnelle.
+au voisinage du mobile. Mais, en outre, on observe deux zones
+en rotation relativement rapide, dans la partie inferieure de
+la cuve, sous I’agitateur et, ensuite, vers la surface sup6rieure
+du liquide, au centre de la cuve.
+On peut donc en dtduire que le chicanage normalise qui
+a Ct6 utilise dans ce travail, s’il Climine de maniere parfaite
+toute formation de vortex, est cependant bien loin de supprimer
+totalement les mouvements de rotation dans le volume de la
+cuve. On pourrait imaginer, 2 partir de ces resultats, d’augmenter I’importance des chicanes pour transformer une partie
+de ce mouvement tangentiel, dont I’utilitk est peu Cvidente,
+soit en mouvement radial et axial, soit en fluctuations de
+vitesse.
+
+ECOULEMENT
+FLUCTUANT
+Les distributions spatiales de la moyenne quadratique des
+fluctuations de vitesse adimensionnelles, radiales, tangentielles
+et axiales sont presentees, respectivernent, sur les figures 8,
+9 et 10. I1 apparait que l’amplitude des fluctuations est moins
+importante dans le volume cle la cuve que dans le courant de
+refoulement; le calcul montre que la nonne des moyennes
+quadratiques des fluctuations de vitesse:
+
+v*I
+
+= (
+
++ j7p +
+
+F ) 1 / 2
+
+prend une valeur environ deux fois plus forte en sortie de la
+turbine que dans le volume de la cuve.
+En second lieu, les fluctuations apparaissent plus fortes dans
+la direction tangentielle que dans les deux autres directions,
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68, DECEMBER, 1990
+
+zlT
+
++ 0.67
++ 0.6
+
+f0.5
+
++0.4
+
+i
+
++ 0.3
+...
+
++0.2
+
+- ..
+
+i
+I
+
+0.0
+0.025
+
+-0.05
+
+I
+
+-0.1
+L .....
+
+......
+I
+
+-0.2
+
+I
+
+- 0.275
+- 0.313
+
+.....
+
+0 0.04
+014
+I
+0.066
+
+rlT
+
+0 0.04
+
+014
+
+0.24
+
+0.37 0 . U 0.5
+
+024
+
+0.37
+
+0.U 0.5
+
+Figure 9 - Moyenne quadratique des fluctuations de vitesse
+tangentielle.
+Figure 8 -- Moyenne quadratique des fluctuationsde vitesse radide.
+elles mitmes B peu prks tgales. Ainsi la turbulence ne serait
+pas isotrope. Nous devons, cependant, nuancer cette observation en tenant compte du fait que les mesures tangentielles,
+effectuees en retrodiffusion, ont pu &re artificiellement augmenttes par un taux de validation de particules particulikrement bas (voir le paragraphe 2.2).
+Du point de vue de la distribution spatiale, maintenant, et
+toujours avec des nuances pour ce qui concerne la direction
+tangentielle, la turbulence se rtvkle pratiquernent hornogkne
+dans chaque compartirnent. On peut determiner des valeurs
+rnoyennes de la norme Cgales 2 0.29 dans le cornpartirnent
+infkrieur et a 0.23 dans le cornpartiment suptrieur.
+A partir des valeurs de la vitesse moyenne et de la moyenne
+quadratique des fluctuations de vitesse, il est possible de calculer les intensites de turbulence radiale, tangentielle et axiale:
+
+oh j = r , 8, z , ainsi que I’intensitt de turbulence globale:
+
+(&
+
++ @’ + v z * 2 ) ’ / 2
+
+. . . . . . . . . . . . (6)
+
+Les valeurs obtenues dans le plan mtdian entre deux chicanes sont rassembltes dam le tableau 2. Nous pouvons constater que ces diverses intensitts de turbulence prennent des
+valeurs tres diffkrentes suivant la position dans le plan de
+
+la cuve et la composante exarninte. Lorsque I’tcoulement
+s’effectue principalement dans une direction donnee, l’intensit6 de turbulence globale a une valeur inftrieur a 100%; c’est
+le cas lorsque:
+- 1’Ccoulernent peut Ctre considtrt comme radial, dans
+le courant de refoulernent a la cote z* = 0 et a proxirnitt de
+la turbine (I z 60-70%).
+- 1’Ccoulement est principalernent axial proxirnite de
+l’axe de la cuve et de la paroi (I G 80-90%).
+
+Par contre lorsque I’Ccoulement change de direction ou que
+la vitesse moyenne est faible, I’intensitt de turbulence globale prend des valeurs netternent sugrieure a 100%.
+Pour compltter cette Ctude de la turbulence des koulements,
+les composantes de la rnoyenne quadratique des fluctuations
+de vitesse nous permettent de calculer localement I’energie
+cinCtique turbulente k , qui est definie par I’equation suivante:
+
+k =
+
+(v,*” +
+
++ v)”2
+( 1 r N D ) ~ l 2. . . . . .
+
+(7)
+
+Les rCsultats sont rassernblts dans le tableau 3, pour une
+vitesse de rotation de la turbine de 65 toursimin. L’tnergie
+cinttique turbulente a les valeurs les plus tlevtes dam le courant de refoulernent de la turbine, et elle dirninue t r b rapidement dans le volume de la cuve.
+L’ensernble de ces donnees sera certainement trks utile pour
+valider les rtsultats d’une modtlisation de la turbulence par
+le modkle k-c.
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68, DECEMBER, 1990
+
+885
+
+IT
+
+1 1 1
+
+TABLEAU
+2
+
+Intensites de Turbulence
+
++0.67
+
++0.5
+
+1 1.-
+
+(Plan Median, 65 Tourdmin)
+
++0.6
+
+\
+
+51.14
+
+*2:4
+
+9:.37
+
+I
+
+15r44
+
+I
+
+-t 0.L
+
+0.5
+
+78 107
+50
+
+i
+
+r
+
++o.
+
+3
+
+0.3
+
+f
++0.2
+
+I
+
++0.1
+
+I
+
++ 0.05
+
+1
+I1 -i
+
+u
+
+~
+
+,1
+
+b
+- 0.05
+
+50
+57
+44
+
+87
+
+- 0.2
+
+1
+
+,
+
+I
+
+rlT
+
+I
+
+014
+
+0.24
+
+0.37
+
+w
+
+1134
+I9 190
+
+79
+111 162
+
+88
+
+=
+
+886
+
+233
+
+1 1; :1 1 ;i
+1 I 1
+120
+
+I LI109
+180
+
+1
+
+-0.025
+
+-0.05
+
+Nous allons maintenant comparer les risultats obtenus dans
+les plans proches des chicanes (8 = 5.7" et 84.3") avec ceux
+que nous venons d'analyser et qui correspondent au plan
+median. Precisons, cependant, que les mesures ont t t t beaucoup moins nombreuses dans ces deux plans et que les informations disponibles sont, donc, moins pricises.
+Sur les figures 11 et 12, nous avons reprtsente sous forme
+adimensionnelle, la resultante des composantes radiale et axiale
+de la vitesse moyenne pour les deux plans consider&, juste
+en aval d'une chicane (0 = 5.7") et juste en amont
+(0 = 84.3").
+En ce qui concerne le courant de refoulement, le seul changement que I'on peut constater se situe dans le plan aval
+(0 = 5.7") oh, pour des positions radiaJes supirieures B
+r*
+0.4, le courant devient rentrant (V,* < 0) avec une
+vitesse tangentielle faible.
+Dans le volume de la cuve, le schema d'tcoulement du plan
+aniont (figure 12) garde unc organisation classique, tandis que
+celui du plan aval (figure 11) prksente des changements nets
+avec, en particulier, I'apparition d'une zone ob la vitesse
+moyenne est sensiblement nulle, vers le haut de la cuve devant
+la chicane.
+Dans Ic tableau 4, nous avons regroupe les rtsultats concernant la position des noeuds de circulation dans les trois
+plans &dies. Malgre les Cvolutions de I'organisation des k o u lements, la position des noeuds de circulation reste sensiblement identique dans les deux plans proches des chicanes.
+
+:1
+
+130
+
+186
+
+80
+
+94
+
+83
+148
+
+755
+
+1 7974
+
+66
+58 102
+50
+
+17
+
+57
+56
+
+I I I
+
+0
+
+~~
+
+Plans proches des chicanes
+
+I%$
+
+94
+
+0.025
+
+0.44 0.5
+
+Figure 10 - Moyenne quadratique des fluctuations de vitesse axiale.
+
+I 1 I zi
+
+46
+98
+133 ; ;1
+196
+94 ; ;1
+
+,
+.
+
+- 0.313
+
+222 320
+176
+
+45
+
+63
+0.05
+
+106 166
+89
+
+50
+
+-0.1
+
+I
+
+0 0.04
+
+99
+
+41
+76
+37
+
+0. I
+
+0.0
+
+1
+
+8
+
+0.2
+
+53
+71
+45
+
+155 198
+95
+
+-0.1
+
+47
+70
+39
+70
+32
+
+76
+
+68 101
+52
+
+1
+
+57
+71 105
+53
+
+1
+
+12
+88 120
+50
+
+I
+
+91
+140 187
+85
+79
+76 129
+67
+
+82
+112 175
+108
+
+89
+
+53
+84 113
+52
+
+100 117
+
+31
+
+40
+52
+39
+
+79
+167 198
+70
+
+54
+-0.3
+
+64
+
+93
+
+44
+
+-0.2
+
+54
+
+37
+41
+31
+
+88
+92 134
+I 4 3
+
+I
+
+46
+
+51
+
+72
+
+22
+
+Par contre, on peut noter une kvolution par rapport au plan
+median, de la position des noeuds de circulation qui se sont
+rapproches simultaniment de I'axe vertical de la cuve et du
+plan horizontal de la turbine. Cette evolution est surtout sensible dans le compartiment suptrieur de la cuve.
+En ce qui concerne les vitesses angulaires, enfin, qui sont
+presenttes sur les figures 13 et 14, on observe des organisations trks semblables h celles correspondant au plan median
+(figure 7), sauf pour le plan a w l , figure 13, dans la partie
+superieure et devant la chicane, oir la composante angulaire
+devient tr2s faible.
+Ainsi, toutes les mesures des composantes de la vitesse
+moyenne mettent-elles en evidence une zone morte dans la
+partie supkrieure de la cuve, en aval de la chicane. I1 faut,
+cependant, faire remarquer que le mouvement fluctuant
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68, DECEMBER. 1990
+
+cI T
+
+- aval (5.7’)
+
+TABLEAU
+3
+Energie Cinttique Turbulente:
+k ( x 10-3m2/s2)
+
++ 0.57
+- amont (84.7’)
+
+fO.50
+
+0.5
+
+5
+7
+
+6
+
+6
+
+18
+
+16
+
+17
+
+5
+3
+
+7
+7
+18
+
+11
+
+6
+13
+
+23
+
+10
+
+8
+7
+4
+
+0.2
+
+5
+
+10
+
+9
+
+13
+
+8
+II
+15
+
+20
+
+0.1
+
+10
+
+14
+14
+
+16
+18
+
+21
+
+19
+
+14
+
+27
+
+27
+
+31
+
+16
+
+0.025
+
+51
+
+32
+
+22
+
+0
+
+42
+59
+49
+
+27
+37
+37
+
+21
+28
+25
+
+48
+
+34
+
+19
+
+0.3
+---
+
+--
+
+0.05
+
+._
+
+.
+
+-0.025
+-0.0s
+
+38
+
+33
+
+27
+
+15
+
+37
+21
+23
+
+16
+
+-0.1
+
+61
+13
+35
+
+22
+
+II
+12
+12
+
+18
+
+16
+
+23
+
+18
+
+12
+22
+
+10
+
+-
+
+-0.2
+
+41
+
+18
+
+9
+
+8
+7
+4
+
+$0.30
+
++ 0.10
+
+0.0
+
+’
+
+-0.10
+
+- 0.20
+
+-
+
+- 0 ,275
+
+rl 1
+
+0.066 0.14
+
+0
+
+0.24
+
+0.37
+
+0.44 0.5
+
+Figure I 1 - Resultante des composantes radiale et axiale de la
+vitesse movenne adimensionnelle (0 = 5.7”).
+TABLEAU
+4
+Position des Noeuds de Circulation dans le Volume de la Cuve
+Compa rt iment
+
+demeure tres important dans cette zone qui est donc reliee
+aux autres parties de la cuve par une diffusion turbulente
+intense.
+En ce qui concerne les fluctuations de vitesse, nous avons
+observt que leurs valeurs ttaient pratiquement independantes
+de la position angulaire. Les conclusions degagkes pour le plan
+median demeurent valables pour les deux autres plans.
+Nous donnons simplement ici, c o m e exemples de rtsultats, les valeurs de I’tnergie cinttique turbulente k obtenues
+dans les deux plans proches d’une chicane. Ces risultats sont
+rassembles dans le tableau 3. Nous pouvons constater que la
+prtsence de la chicane n’a pratiquement pas d’influences sur
+la rkpartition de I’energie cinCtique.
+
+DCbits 9 I’intCrieur de la cuve
+I1 pcut Ctre commode de reperer les performances d’un
+systknie d’agitation par un petit nombre de paramktres globaux evidemment moins prkis que les profils que nous venons
+d’examiner, mais beaucoup plus simples. C’est ainsi qu’on
+dCfinit traditionnellement plusieurs dCbits qui permettent de
+caracttriser les mouvements moyens dans la cuve.
+L’ensemble, trbs dCtaillC, de donntes hydrodynamiques que
+nous venons de prtsenter et commenter permet, Cvidemment,
+de calculer les valeurs de ces debits, dont les definitions sont
+precisies sur la figure 15.
+
+Superieur
+
+Plan
+Ctudie
+
+I
+
+1
+
+I
+
+amont
+
+(5.7”)
+
+Inferieur
+
+I
+
+1
+
+I
+
+0.33
+
+0.26
+
+1
+
+0.33
+
+-0.08
+
+I
+
+1
+
+DEBIT DE POMPAGE - NOMBREDE POMPAGE
+
+La connaissance du profil de vitesse radiale immtdiatement
+a la sortie de la turbine permet de calculer le dCbit de pompage ou de refoulement
+Qp = 21rr ]+‘a’2
+-1012
+
+dz
+
+. . . . . . . . . . . . . . . . , . . . . . (8)
+
+puis le nombre de pompage correspondant
+
+(9)
+Les rdsultats obtenus pour les deux vitesses de rotation de
+l’agitateur, 65 et 135 tourslmin sont rassemblts dans le rableau
+5.
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING. VOLUME 68, DECEMBER, 1990
+
+887
+
+m
+I
+
+I
+
+ZIT
+
++'3 6:
+
++o
+
+t0.6
+
++0.6
+
++0.5
+
++o
+
+5
+
++o
+
+L
+
+t0.3
+
++o
+
+67
+
++0.3
+
+1
+
++o
+
+2
+
++o
+
+1
+
+t o 05
+0.0
+
+'
+
+9 3
+
+- 0 05
+-0.1
+
+-0 1
+
+-0.2
+
+-0 2
+
+-0.275
+
+- 0 275
+
+-0.313
+
+- 0.313
+
+4
+
+rI T
+
+0
+
+OG66 034
+
+0.24 0.29
+
+0.37
+
+0.4L
+0.42
+
+rlT
+
+OS
+
+0
+
+0.074 0.14
+
+0.24
+
+0.37
+
+0.44 0.5
+
+Figure 13 - Composante angulaire de la vitesse moyenne adimensionnelle (0 = 5.7").
+
+Figure 12 - Resultante des composantes radiale et axiale de la
+vitesse moyenne adimensionnelle (0 = 84.3').
+
+- les debits de circulation axiale dans les parties supb
+rieures, QHI,et infkrieur, QBI,de la cuve dans les trois plans
+de mesure.
+
+On observe que le debit de pompage est sensiblement independant de la position angulaire du plan de mesure et proportionnel a la vitesse de rotation de I'agitateur, ce qui conduit
+B des valeurs du nombre de pompage pratiquement constantes.
+Sachant que les evaluations dans les plans proches des chicanes sont beaucoup moins prkcises que celles effectukes dans
+le plan median, nous proposons de retenir c o m e valeur
+caracttristique du systkme etudik, le resultat NQp = 0.65.
+
+Les rCsultats obtenus pour une vitesse de rotation de la turbine de 65 tours par minute sont rassembles dans le tableau 6.
+Les rksultats obtenus dans le plan mCdian permettent de vCritier que le debit de circulation radiale se distribue entre les
+deux boucles infkrieur et superieure,
+Qc = Q H I
+
+ECOULEMENTS
+RADIAL E T AXIAL
+
++
+
+QBI
+
+avec un debit beaucoup plus eleve vers le haut:
+Plusieurs dCbits de Circulation ont CtC calculCs, suivant la
+position des noeuds de circulation (tableau 4 et figure 15):
+
+QHI~QBI
+
+Toujours pour le plan median, on peut, enfin, noter que le
+debit total de circulation est plus de deux fois plus important
+que le strict debit de pompage,
+
+- le debit de circulation radiale, Q,, dans le plan
+
+mkdian,
+
+Plan mCdian
+
+N tlmin
+
+QP
+
+(X
+
+Plan 6
+
+=
+
+5.7"
+
+Plan 0
+
+(X
+
+=
+
+QP
+
+QP
+
+NQP
+
+lO-'m'/s)
+
+3
+
+lO-'m'/s)
+
+(X
+
+84.3"
+NQP
+
+10 'm'/s)
+~
+
+65
+135
+888
+
+4.03
+8.53
+
+0.64
+0.65
+
+4.54
+
+0.72
+
+4.30
+
+0.68
+
+zlT
++O
+
+67
+
++ 0.6
+
+-Id2
++O 5
+Q,
+
++o
+
+3
+
++o
+
+1
+
+=
+
++ 0.05
+0 0
+- 0 05
+06,
+
+j 2xrVZ(r,z,)dr
+
+=
+
+-0 1
+
+0
+
+TI2
+
+-a
+
+2
+
+Q~~
+
+0074 0.14
+
+0.09
+
+0.37
+
+0.24
+
+0.44 0.5
+
+2nr.Vz(r.z,)dr
+
+Figure 15 - Schema et definition des debits de circulation radiale
+et axiale.
+
+L
+
+1
+
+j
+‘N
+
+- 0 275
+-0 33
+0
+
+=
+
+rlT
+
+ECOULEMENT
+TANGENTIEL
+Divers dtbits de circulation tangentielle ont ttt tvaluts, h
+travers les trois plans de mesure, pour l’ensemble de la cuve
+Qo, pour sa partie inftrieure Qoi ou sup6rieure Qo,, a partir
+de I’tquation
+
+Figure 14 - Cornposante angulaire de la vitesse moyenne adirnensionnelle (6 = 84.3’).
+
+Aux erreurs de mesure pres, les rtsultats obtenus dans les
+deux plans proches d’une chicane mettent en tvidence une
+nette diminution, dans un rapport de 3 environ, du dtbit de
+circulation dans le compartiment suptrieur. Par contre, dans
+le compartiment inftrieur le dtbit de circulation est pratiquement inchangt. De ce fait, le rapport entre les dtbits des deux
+compartinients est voisin de 1, et le dtbit global de circulation est Itgkrement suptrieur au dtbit de pompage.
+N o u ~pouvons donc en dtduire que le chicanage de la cuve
+introduit uniquement des modifications des Ccoulements radial
+et axial dans le compartiment suptrieur de la cuve.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+I
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(10)
+
+dans laquelle les bornes d’inttgration zi et z, dependent du
+dtbit calcult. Le tableau 7 rassernble les rtsultats obtenus.
+On peut verifier, aux erreurs de mesure prb, la conservation
+du dtbit h travers les trois plans. I1 est, ensuite, inttressant
+d’observer que le dCbit de circulation tangentielle Qo est plus
+Clevt que le dtbit de pompage Q p , rnais plus faible que le
+dtbit de circulation radiale Q,. dans le plan median.
+Par contre dans les plans proches de la chicane les dtbits
+de circulation axiale et angulaire sont du m&me ordre de
+
+TABLEAU
+6
+DCbits de Circulation Radiale et Axiale (65 Toudminute)
+Circulation radiale
+
+Circulation axiale
+
+Plan de
+mesure
+
+Q,
+
+QH I
+
+( x 10--’m3/s)
+
+( x lO-’m’/s)
+
+mdian
+
+8.7
+
+6.6
+
+2.2
+
+3
+
+8.8
+
+2. I
+
+amont
+(84.3”)
+
+2.7
+
+3.2
+
+0.84
+
+5.9
+
+1.4
+
+aval
+(5.7”)
+
+2.2
+
+2.5
+
+0.88
+
+4.1
+
+1.1
+
+(45’)
+
+QB I
+
+(x
+
+QHlIQBI
+
+10-’rn3/s)
+
+QHI + QBI QHI + Q B I / Q P
+~~-~rn’/s)
+
+(X
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68, DECEMBER, 1990
+
+889
+
+DCbit ( x 10-3m71s)
+Qth
+
+Qo,
+
+MCdian
+(45”)
+
+2.75
+
+2.25
+
+Amont
+(84.3”)
+
+2.75
+
+Aval
+(5.7”)
+
+2.75
+
+Plan de mesure
+
+QO
+
+Q,, + Q,,
+
+Qo~Q~
+
+Q,slQ,,
+
+Q~IIQ,
+
+5 .O
+
+1.22
+
+0.57
+
+I .24
+
+2.35
+
+5.1
+
+1.17
+
+0.87
+
+1.26
+
+2.45
+
+5.2
+
+1.12
+
+1.10
+
+1.29
+
+=
+
+TABLEAU
+8
+Debits de Circulation Axiale (Plan Median)
+Forme du fond
+de la cuve
+
+DIT
+0.33
+0.45
+0.45
+
+0.5
+0.33
+0.5
+
+plat
+bomb6
+bomb6
+
+QH, /Qp QH2IQP QB, / Q p QB2/ Q p
+
+QH
+
++ QB
+
+Q, IQ,,
+
+QHI QB
+
+-
+
+0.93
+2.96
+1.13
+
+RtfCrences
+
+QP
+
+2.23
+1.63
+1.28
+
+1.99
+1.52
+1.34
+
+2.41
+0.5
+1.13
+
+grandeur. Ces chiffres constituent un indice de l’efficacitk du
+chicanage.
+Enfin, on doit remarquer que le rapport entre les dCbits de
+circulation dans les parties supirieure et inferieure de la cuve,
+Q(,,T/ Q s j ,est beaucoup moins ClevC que le rapport entre les
+surfaces correspondantes offertes B I’tcoulement, qui est de
+2 . 2 . Cette diffkrence est I’indice de vitesses tangentielles plus
+importantes sous I’agitateur qu’au-dessuset, donc, d’une efficacitC de chicanage moindre au fond de la cuve, probablement like a la presence d’un fond bombt.
+
+1.95
+
+4.64
+2.18
+2.40
+
+0.91
+
+2.15
+2.15
+
+Costes, 1986
+ce travail
+Magni, 1988
+
+TABLEAU
+9
+Debits de Circulation Tangentielle dans une Cuve B Fond Bombe
+(Plan Median, 65 tlmin)
+I
+
+L
+
+I
+
+0.33
+
+1.24
+
+0.80
+
+0.45
+
+1.78
+
+ce travail
+
+0.5
+
+1.25
+
+0.90
+
+0.94
+
+0.96
+
+Magni, 1987
+
+0.45
+
+COMMENTAIRES
+
+I1 est interessant de comparer les rtsultats qui viennent d’&tre
+prtsentts avec ceux obtenus par ailleurs (Costes, 1986; Magni
+et al., 1988) dans des configurations gComCtriques voisines,
+toujours avec la turbine de Rushton standard.
+Les paramktres qui ont varit sont le diamktre relatif de la
+turbine, DIT = 0.33 et 0.45, la position relative de la turbine par rapport au fond de la cuve, HIT = 0.5 et 0.33, ainsi
+que la forme du fond de la cuve. Les valeurs des debits de
+circulation radiale et axiale dans le plan midian sont rassembltes dans le tableau 8.
+Nous observons, en premier lieu, que le rapport entre les
+dtbits de circulation axiale, Q H / Q B ,dans les parties sup&
+rieure et inftrieure de la cuve, dCpend seulement de la position de la turbine. I1 est approximativement tgal B 1 pour une
+turbine situCe a mi-hauteur, et Cgal 2 3, environ, pour une
+turbine situCe au tiers inferieur du niveau du liquide.
+Une deuxikme observation interessante est que le rapport
+cntre le dCbit de circulation axiale Q, = QH QB et le dCbit
+de pompage Q p depend du diamktre relatif de la turbine DIT;
+il dCcroit d’une valeur de 4.6 pour DIT = 0.33 2 une valeur
+de 2.2 pour DIT = 0.45.
+Dans le cas de I’CcouIement tangentiel maintenant, les debits
+de circulation obtenus pour une cuve B fond bomb6 sont rassemblts dans le tableau 9. Pour les deux positions de la turbine, il est intkressant de remarquer que le dCbit de circulation
+tangentielle reste toujours du m&meordre de grandeur que
+le dtbit de pompage. On observe, d’autre part, que la vitesse
+moyenne tangentielle (c’est-Mire le debit angulaire divisC
+
++
+
+890
+
+par la surface correspondante) est plus importante dans la
+partie inferieure de la cuve que dans la partie suptrieure.
+Le rapport entre les deux vitesses est trks ClevC lorsque la
+turbine est situte au tiers infkrieur de la cuve; nous avons dijB
+indiquC que ce resultat est caractiristique de la presence du
+fond bomb6 qui mtnage une zone ma1 chicante. Par contre,
+ce rapport diminue considerablement lorsque la turbine est
+relevCe jusqu’h mi-hauteur du liquide; la zone bombCe devient
+alors trop tloignte de I’agitateur pour &re le sikge de mouvements intenses.
+
+Conclusions
+Au cours de cette etude, nous avons donc prkcisk I’organisation des Ccoulements gCntrks par une turbine de Rushton
+situCe au tiers infkrieur de la hauteur du liquide dans une cuve
+chicanee a fond bombe. Nous devons tout d’abord rappeler
+I’originalitC et I’intkrCt de cet ensemble de resultats, car la
+configuration choisie et, notamment, la forme bomb6e du fond
+de la cuve n’avaient jamais CtC Ctudites, bien qu’ttant souvent utilisees dans le milieu industriel.
+La technique de mesure retenue, la vtlocimttrie Doppler
+B Laser, nous a permis de dtterminer trks finement les caractCristiques des Ccoulements moyen et fluctuant dam tout le
+volume de la cuve: le plan median entre deux chicanes (45”)
+et dans les plans situCs immtdiatement en aval et en amont
+d’une chicane (5.7” et 84.3”).
+De plus, au cours de ce travail, nous avons particulikrement
+insist6 sur la dktermination de la composante tangentielle
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING. VOLUME 68. DECEMBER, 1990
+
+de I‘ecoulement qui etait jusqu’alors beaucoup moins bien
+connue que les autres composantes, radiale et axiale. Ceci nous
+a permis de preciser la relation entre le mouvement tangentiel et I’organisation du chicanage. Nous avons, en particulier,
+not6 une zone d’erttrainement en rotation sous I’agitateur dont
+l’exidence et trtts probablement like a la forme bombee du
+fond et au defaut d e chicanage qui en rCsulte dans les parties
+les plus basses de la cuve.
+En ce qui concerne la turbulence, et malgre les quelques
+restrictions formulees vis-a-vis de la precision des mesures
+des fluctuations de la composante tangentielle, il nous semble
+possible, dans une premikre approximation, d e la considirer
+comme localement isotrope en tout point et homogttne dans
+le volume de la cuve (mais pas dans le courant de
+refoulement).
+Les donnies hydrodynamiques mesurees au cours de ce travail viennent s’ajouter aux informations, malheureusement
+encore trop peu nombreuses, dCja disponibles. Nous esgrons
+que heaucoup d’autres chercheurs vont orienter leurs activitts
+vers ce doniaine essentiel, pour fournir l’ingknieur les information\ d e base qui lui sont indispensables pour resoudre par
+des rnethodes modernes et efficaces, les difficiles problkmes
+de I’agitation.
+
+Remerciements
+Le\ auteurs tiennent a remercier trks sincbrement la societe RhonePoulenc pour le soutien materiel qu’elle leur a accord6 et les discussions scientifiquesfructueuses qu’elle a autorisks avec ses inginieurs
+sp6cialises.
+
+Nomenclature
+concentration du traceur (mol/m7)
+diametre de l’agitateur (m)
+coefficient de diffusion moleculaire (m2/s)
+intensite de turbulence ( % )
+Cnergie cinetique turbulente k = C V,’ ’12 (m2/s2)
+largeur des pales de la turbine (m)
+vitesse d’agitation (s-’)
+nombre de pompage (-)
+debit de circulation (m3/s)
+debit de pompage (m3/s)
+rayon de la cuve dans un plan horizontal (m)
+nombre de Reynolds (N . D2 . p / p ) (-)
+position radiale (m)
+position radiale adimensionnelle (= r / r ) (- )
+diamktre de la cuve (m)
+temps (s)
+vitesse lineaire (m/s)
+vitesse lineaire adimensionnelle (= V / * N D ) (-)
+coordonnke spatiale (m)
+position axiale (m)
+position axiale adimensionnelle ( = z / T ) (-)
+
+Symboles grecs
+E
+
+0
+p
+p
+
+4
+
+dissipation visqueuse (m’is’)
+angle de refoulement moyen
+viscositt dynamique (kg/m . s)
+=z masse volumique (kg/ni3)
+= diamktre de I’axe (m)
+=
+=
+==
+
+Indices
+c
+
+= extrhite des compartiments
+= compartiment inferieur
+
+i
+j
+
+=
+
+N
+
+= noeud de circulation
+
+indice spatial
+
+r
+s
+z
+0
+
+=
+
+composante radiale
+
+= compartiment superieur
+=
+
+composante axiale
+
+= composante tangentielle
+
+References
+Cooper, R. G. et D. Wolf, “Velocity Profiles Pumping Capacities
+for Turbine Type Impellers”, Can. J. Chem. Eng. 46,94-100
+( I 968).
+Costes, J. et J. P. Couderc, “Pumping Capacity and Turbulence
+Intensity in Baffled Stirred Tank: Influence of the Size of the Pilot
+Unit”, 4Ih European Conference on Mixing, BHRA, Noonvijkerhout, Netherlands, April 1982, Paper B2, p. 25.
+Costes, J. et J. P. Couderc, “Measurement of Velocities and Turbulence in the Radial Discharge of a Rushton Turbine by Thermal
+and Laser Anemometry”, %me Congrbs CHISA, Prague,
+Tch~coslovaquie(1984). ,
+Costes, J., “Structure des Ecoulements GCnCrCs par une Turbine
+de Rushton dans une Cuve Chican&”, Thkse d’Etat, INP Toulouse
+(1986).
+Costes, J., C. Alran et J. P. Couderc, “CaractCristiques du Courant
+de Refoulement d’une Turbine de Rushton - Mesures par
+Admometrie Thermique et Doppler 2 Laser”, Entropie, 24, 20-29
+(1988).
+Fort, I., H. 0. Mockel, J. Drbohlav et M. Hrach, “The Flow of
+Liquid in a Stream from the Standard Turbine Impeller”, Coll..
+Czech. Chem. Commun, 44,700-710 (1979).
+Gunkel, A. et M. Weber, “Flow Phenomena in Stirred Tanks”,
+AIChE J. 21, 931-949 (1975).
+Jaworski, Z . , I. Fort et F. Streck, “Numerical Simulation of Liquid
+Homogenization in a Stirred Tank with the Disc Turbine Agitator”,
+5‘h European Conference on Mixing, BHRA, Wurzburg, West
+Germany, 1985, paper 37, p. 377.
+Laufhiitte, H. D. et A. B. Mersman, “Dissipation of Power in Stirred
+Vessels”, 51h European Conference on Mixing, BHRA, Wurzburg, West Germany, Paper 33, p. 331 (1985a).
+Laufhutte, H. D. et A . B. Mersman, “Laser-Doppler Velocimetry
+as a Suitable Measuring Technique for the Determination of Flow
+Behavior in Stirred Fluids”, Ger. Chem. Eng. 8, 371-379 (l985b).
+Laiifiutte, H. D. et A. Mersman, “Local Energy Dissipation in Agitated Turbulent Fluids and its Significance for the Design of Stirring Equipment”, Chem. Eng. Technol. 10, 56-63 (1987).
+Magni, F., J. Costes et J. P. Couderc, “Etude par anCmomCtrie Doppler a Laser de la Structure des Ecoulements gCnCrts par
+une Turbine de Rushton dans une Cuve i Fond BomM”, Colloque
+d’Agitation Mkcanique, Toulouse, France, section 1, 17-28 (1986).
+Magni, F., J. Bertrand, J . Costes, J . P. Couderc et S. Indey,
+“Ecoulement dans une Cuve Agitte a Fond Bombe - Caractkristiques du Mouvement Angulaire”, ler Congrks National de Genie
+des Procedes, Nancy, France, 1-8 (1987).
+Magni F., J. Costes, J. Bertrand et J. P. Couderc, “Study by Doppler Anemometry of the Flow Induced by a Rushton Turbine in
+a Stirred Tank; Influences of the Geometry of the Tank Bottom
+and of the Position of the Turbine”, 6Ih European Conference
+on Mixing, BHRA, Pavie, Italie. (Mai 1988).
+Mahouast, M., R. David et G. Cognet, “Caracterisation des
+Champs Hydrodynamiques et de Concentration dans une Cuve
+Agitee Standard Alimentke en Continu”, Entropie, 23, 7-17
+(1987).
+Mahouast, M., “Etude du Melange en Cuve AgitCe par Analyse
+des Champs Turbulents et de Concentration - VLD Mono et
+Bidimensionnelle, Conductimetrie”. T h b e INP Lorraine, Nancy
+(1988).
+Middleton, J. C., F. Pierre et P. M. Lynch, “Computations of Flow
+Fields and Complex Reaction Yield in Turbulent Stirred Reactors
+and Comparison with Experimental Data”, Chem. Eng. Res.
+Des. 64, 18-22 (1986).
+Mujumdar, A. J., B. Huang, D. Wolf, M . Weber et W. J. M.
+Douglas, “Turbulence Parameters in a Stirred Tank”, Can. J.
+Chem. Eng. 48, 475-483 (1970).
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING. VOLUME 68, DECEMBER, 1990
+
+891
+
+Reed, XB, M. Princz et S. Hartland. “Laser Doppler Measurements of Turbulence in a Standard Stirred Tank”, 2”dEuropean
+Conference on Mixing, BHRA, Cranfield, England, 1-26 (1977).
+Revill, B. K . , “Pumping Capacity of Disc Turbine Agitators - A
+Literature Review”, 4‘h European Conference of Mixing,
+BHRA Noordwijkerhout, Netherlands, 11-24 (1982).
+Van der Molen, K. et H. R. E. Van Mannen, “Laser Doppler Measurements of the Turbulent Flow in Stirred Vessels to Establish
+Scaling Rules”, Chem. Eng. Sci. 33, 1161-1168 (1978).
+
+892
+
+Yianneskis, M., Z. PopioleketJ. H. Whitelaw, “An Experimental
+Study of the Steady and Unsteady Flow Characteristics of Stirred
+Reactors”, J . Fluid Mech. 175, 537-555 (1987).
+
+Manuscript received March 10, 1989; revised manuscript received
+January 23, 1990; accepted for publication February 3, 1990.
+
+THE CANADIAN JOURNAL OF CHEMICAL ENGINEERING, VOLUME 68, DECEMBER, 1990
+

@@ -1,0 +1,1779 @@
+232 1
+
+Makrornol, Chem. 182,2321 -2342 (1981)
+
+PolymCrisation anionique de I'acrolCine,
+
+3a)
+
+Analyse des microstructures par 'H NMR et 13C NMR et
+mCcanisme de polymCrisation
+Danide Gulino, Jean Pierre Pascault *
+Laboratoire des Materiaux MacromolCculaires, Batiment 403 ERA CNRS 745,
+Institut National des Sciences AppliquCes de Lyon,
+20, Avenue Albert Einstein, F-69621 Villeurbanne, France
+
+Quang Tho Pharn
+Laboratoire NMR du SCM - Centre National de la Recherche Scientifique
+43, Boulevard du 1 I Novembre 1918, F-69622 Villeurbanne, France
+(Date de rkeption: 7 mars 1980)
+
+SUMMARY:
+We have synthesized anionic polyacroleins using various initiators (naphthalene complex,
+tert-butyllithium) in different solvents (tetrahydrofuran, toluene). We have studied the
+'H NMR and 13C NMR spectra of the polymers and assigned monomeric units and diads by
+comparison with spectra of four compounds corresponding to the different microstructure
+arrangements. By this method, we have clearly proved the presence of 1,4- as well as 3,4- and
+1,2-units. But numerous cyclisations occur on the 1,2-units. Using only the 'H NMR method, a
+first estimation of the microstructure was obtained. I3C NMR gave further information and
+permitted the estimation of the (1 ,4-cis)/( 1,4-trans) ratio. Furthermore the presence of hydroxyl
+groups along the chains has also been established. A satisfactory determination of the 1,2-,
+3,4- and 1,4-structure percentages of several polyacroleins has been obtained using 'H NMR
+and 13CNMR simultaneously. A mechanism of acrolein polymerization, based on two different
+living ends is proposed. The microstructure indicates the existence of several complexation
+phenomena. When the living end/metal and monomer/metal complexations are weak (with
+Na' e.g.), the polymer consists mainly of 1,4- and 3,4-units. On the other hand, with Li', the
+microstructure has a high 1 ,2-content. Moreover, the living end/Li+ complexation would
+decrease with the chain length, because of the increasing attraction of the cation by the other
+complexing sites on this chain.
+
+Introduction
+L'acrolkine est un aldkhyde qui contient un systeme de doubles liaisons conjugukes
+CH,=CH-CH=O.
+Les doubles liaisons ne sont pas de meme nature et la microstructure des polyacrolkines devrait donc comporter plusieurs modes d'enchakements:
+a)
+
+Partie 2: ~ f . ~ ) .
+
+0250-9733/8 1/0182/2321/$03 .OO
+
+2322
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+Le dosage est trts complexe. Diffkrentes fonctions organiques sont prksentes le
+long de la chahe polymhe (aldkhydes - kthers allyliques -acktal). De plus des cyclisations sur les unites structurales (1,2) sont possibles’.’). La plupart des ktudes
+connues de la micro~tructure~-~)
+ont ktk rkaliskes par IR et analyse chimique. Schulz
+et a1.s ont utilisk la ‘HNMR mais sans en dkduire de microstructure. Yamamoto et
+a1.e ont ktudik des polyacrolkines obtenues par catalyse ionique coordinke et compark
+les rhultats obtenus par analyse chimique et ‘H NMR sans toutefois diffkrencier les
+motifs (3,4) et (1,4). Le but de ce travail est d’identifier les diffkrents types d’unites
+structurales, d’estimer leur pourcentage respectif dans des polyacroleines synthktisees
+par voie anionique, et de suivre l’holution des microstructures en fonction de la
+nature du solvant pour les d e w contre-ions Li+ et Na+ .
+
+Partie exphimentale
+Synth6se
+Les polyacroleines ont 6te synthetistes par voie anionique sous vide pousske (
+mmHg) en
+utilisant comme amorceurs les naphtaltne-mttaux (N’- Mt +) dans le tktrahydrofuranne (THF)
+ou le t-BuLi dans le tolutne (TOL) sur une gamme de temperature allant de - 45 “C B + 8 “C.
+Les polymtrisations rtalistes avec (N’-Li+ et N’-Na+ dans le THF ou le t-BuLi dans le TOL
+foumissent des polymtres solubles et donc analysables. I1 n’en est pas de meme en presence du
+contre-ion K od des gels se forment trbs rapidement et rendent impossible I’analyse par
+‘H NMR.) De plus, les polyacroltines doivent etre placCes B l’abri de la lumitre, prtcaution indispensable si I’on veut leur conserver leur caracttre soluble.
+Masses rnolkulaires
+Les masses moltculaires et l’indice de polymoltcularite des polyacroltines sont tvalutes par
+chromatographie par permeation de gel (CPC)?. Elles sont mesurCes par rapport B des polystyrtnes ttalons. (Les indices de polymoltcularitt trts ClevCs des polyacrolkines ne permettent
+pas d’utiliser-la tonomttrie pour determiner les valeurs exactes de la masse moleculaire moyenne
+en nombre M,.)
+Spectrom6trie ‘H et l3C NMR
+Nous avons utilisC les spectrombtres Varian XL 100 (100 et 25,2 MHz pour ‘H et I3C) et
+Varian DA-60-IL (60 MHz pour ‘H).Les spectres ‘H et I3C ont t t t enregistrts avec des
+solutions A 0,05 g/cm3 dans le chloroforme deuttrt CDCI, A la temptrature ambiante, avec le
+tttramethylsilane comme rtference interne. I1 n’est pas possible d’ameliorer la resolution
+spectrale par chauffage. En effet, dbs 68- 70°C on note sur les spectres ‘H, une diminution des
+massifs correspondant aux polyacroltines et l’apparition de resonances correspoqdant aux
+
+2323
+
+Polymerisation anionique de l’acroleine, 3
+
+protons de l’acroleine monomtre. Les polyacroltines commencent donc it se dtpolymeriser B
+partir de 60°C.
+Pour les spectres 13C NMR, nous avons utilise un angle d’impulsion de SO”, un temps
+d’acquisition de 0,8 s et un nombre d’acquisitions de 70000 (tube de diam&re 0 = 5 mm).
+La numerotation adoptte pour les differents protons et carbones dans les polyacrolkines est la
+suivante:
+
+mode d’addition (1,4)
+
+(1)
+
+(2) (3)
+
+. . .-CH,-CH=CH-0-
+
+...
+
+H’ (1,4) etc.
+
+Devant la diversite des structures prtsentes le long des chaines de polyacroleines nous
+utiliserons des produits moddes pour mettre en evidence l’existence de certaines unites structurales notamment les unites structurales (1,4) et Cgalement pour attribuer les differents
+protons: le methyl3 propanal (Fluka), l’ethoxy-1 prophe-1 (Fluka), le dimtthyl-2,5 tetrahydrofuranne (Fluka), le diCthoxy-3,3 prophe-1 (Aldrich). Les memes produits modkles sont
+utilises pour analyser les spectres I3C NMR. Aprts avoir mis en evidence les structures des
+polymeres B l’aide des deux techniques, nous proposerons une mtthode de dosage.
+
+Mise&&vidence de la structure des polyacrolkines par ‘H N M R
+
+M2me A 250 MHz, les spectres ‘Hne prtsentent aucune amtlioration par rapport
+aux spectres obtenus A plus basses frtquences (60 et 100 MHz). Aussi, a p r b avoir
+identifit les difftrents types de rtsonance, les intensitts relatives servant aux calculs
+des pourcentages des difftrents motifs ont ett dtlimitks par des verticales et ensuite
+planimttrtes. Sept massifs dtnommts A, B, C, , G, D, E et F (invisible dans certains
+cas) ont tte pris en considtration comme le montre le spectre de la Fig. 1.
+D’autre part, l’effet d’tcran provoque par les electrons des atomes d’oxyghe ne
+permet pas de considtrer des unitts monom&res isolts mais ntcessite l’examen des
+diades. En effet, certains protons appartenant A un m2me type d’unitts structurale
+auront des dtplacements chimiques difftrents selon la diade considtrte. Toutes les
+diades susceptibles d’gtre prtsentes dans les polyacrolkines figurent dans le Tab. 1 .
+Calvayrac et a1.*) ont montrt que les polyacroltines synthttiskes par voie anionique
+prtsentent la structure stquencte dans l’ordre suivant: 1,2/. . ./1,2/. . ./1,4/3,4/1,4/
+1,4/. . ./1,4/3,4/, la deuxihme stquence formte ttant constitute de motifs (1,4) et
+(3,4) rtpartis statistiquement. Sans &re aussi affirmatifs que ces auteurs, nous
+utiliserons leurs travaux pour supposer que les diades (1,4) (1,2) ou (1,2) (1,4) et (3,4)
+(1,2) ou (1,2) (3,4) sont peu probables.
+
+2324
+
+l
+
+,
+
+I
+
+I
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+I
+
+.
+
+.
+
+I
+
+I
+
+,
+
+I
+
+I
+
+,
+
+,
+
+I
+
+.
+
+,
+
+.
+
+I
+
+I I I I I
+
+,
+
+1
+
+6
+
+1
+
+'
+
+1
+
+I
+
+,
+
+,
+
+,
+
+, 1 1 1
+
+4
+
+I
+
+I
+
+,
+
+d
+
+,
+
+I
+
+,
+
+,
+
+,
+
+d,
+
+# I , ,
+
+,"",
+
+&en p.p.m.
+
+Fig. 1 . Spectre 'H NMR (100 MHz) d'une polyacroleine obtenue par voie anionique dans le
+THF en presence de naphtaltne-sodiumA -40°C
+
+Mise en Cvidence de la structure (1,4)
+La structure (1,4) n'avait jamais ttk mise en kvidence par 'H NMR. Seuls Thivollet
+et Golk4)l'avaient identifike par dosage chimique. Le produit modkle est l'kthoxy-1
+proptne-1, cis et trans (EP). Les protons (b) et (c) de EP permettent d'identifier les
+protons olkfiniques H? et H3 des unitks structurales (1,4) des polyacrolkines:
+
+EP trans (Fig.2)
+
+1,4 trans (Tab. 1 )
+
+et Egalement:
+
+EP cis (Fig. 2)
+
+1,4 cis (Tab.1)
+
+2325
+
+Polymerisation anionique de I’acroltine, 3
+Tab. 1.
+
+Diades rencontrtes dans une polyacroltine
+
+CH
+2-
+
+. . .-CH
+
+I
+
+2-
+
+CHO
+
+I
+
+CHO
+
+..
+
+CH-CH2-CH=CH-O-.
+2-
+
+. . .-CH
+
+CH- ...
+
+CH-CH
+
+2-1
+
+I
+
+CHO
+
+..
+
+CH-CH-0-.
+
+I
+
+CHO CH=CH,
+
+. . .-CH,-CH=CH-O-CH,-CH=CH-O-.
+. . .-CH2-CH=CH-0-CH-0-.
+
+..
+..
+
+I
+
+CHrCH2
+CH-. . .
+
+.-CH2-CH=CH-O-CH
+
+. . .-CH-0-
+
+CH-0-.
+
+I
+
+I
+
+,-CHO
+I
+..
+
+CH=CH, CH=CH,
+
+. . .-CH-O-CH2-CH=CH-O-.
+
+I
+
+CH=CH,
+
+. . .-CH-0-CH
+I
+
+CH--. . .
+
+CH=CH2
+
+I
+
+2-
+
+CHO
+
+Sur le spectre ‘H NMR d’une polyacroltine (Fig. 1) les protons H2 (1,4 trans)
+appartiennent donc au massif C1,les protons H2 (1,4 cis) au massif C, et les protons
+H3(1,4) au massif A. L’existence d’unitb (1,4) est donc certaine. De plus, on
+diffkrencie nettement le (1,4 cis) et le (1,4 trans).
+
+Modd&ation des diades (3,4) (3,4) et (1,4) (3,4)
+Le modtle utilist est le di&hoxy-3,3 propbne-1 (DP):
+(4,75-4,95 ppm)
+(b)
+(c)
+(a) (b)
+CH,-CH~-O-CH-O-CH~-CH~
+I
+CH=CH2
+(d) (el
+(5,65-6,05 ppm) (5,l-5,s ppm)
+
+(3)
+
+(a)
+
+DP (Fig. 3)
+
+;
+
+,
+
+. .-0-CH-0I
+
+...
+
+CH=CHz
+(2) (1)
+diades (1,4)(3,4) et (3,4)(3,4)
+(Tab. 1)
+
+2326
+
+D. Gulino, J . P. Pascault, Q. T. Pham
+
+Fig. 2. Spectre 'H NMR (100 MHz) de I'tthoxy-l prophe-1 (cis + trans)
+CH3-CH=CH-O-CH2-CH,
+(EP), modele des unitts structurales(1,4)
+(a) (b) (c)
+(4
+(el
+
+Fig. 3. Spectre 'H NMR (100 MHz) du ditthoxy-3,3 proptne-1 (DP), modkle des unitts
+structurales (3,4) dans les diades (3,4) (3,4) et (1,4) (3,4)
+
+2327
+
+Polymerisation anionique de I’acroltine, 3
+
+Les resonances des protons H1 (3,4);
+(3,4); H3 (3,4) des diades (1,4) (3,4) et (3,4)
+(3,4) sont identifikes B partir de celles des protons Hc, Hd, He de DP.
+He (DP)
+Hd (DP)
+HC(DP)
+
+-+
+
+-+
+
+--t
+
+H’ (3,4)
+H2 (3,4)
+H’ (3,4)
+
+-+
+
+--t
+-+
+
+aire B (4,95-5,7 p.p.m.) (Fig. I)
+partie de l’aire A + B (4,95 -6,8 p.p.m.) (Fig. 1 )
+partie de l’aire C, (4,7 - 4,95 p.p.rn.) (Fig. 1)
+
+Notons que les structures (1,4) et (3,4) sont difficiles B doser stpartment car la
+resolution est mauvaise dans le domaine 4,7 - 6,5 p.p.m.
+Moddisation des diades (1,2) (1,2)
+Le modhle utilist est le mtthyl-2 propanal (MP). I1 permet d’identifier les rksonances de @ (1,2) et H3 (1,2) des diades (1,2) (1’2):
+
+Les protons H2 (1,2) appartiennent B l’aire E et les protons H3 (1,2) B l’aire F
+(Fig. 1).
+Andreyeva et al.‘ s 2 ) ont montrk l’existence de reactions secondaires par cyclisations
+des diades (1,2) (1,2). Nous avons modtlist la structure obtenue par le dimtthoxy-l,4
+tktrahydrofuranne (DM-THF):
+
+Les dkplacements chimiques des protons aliphatiques H1 (1,2),
+
+(1,2) des diades
+
+(1,2) (1,2) correspondent B l’aire E (Fig. 1) qu’il y ait cyclisation ou non. Par contre,
+la valeur du dkplacement chimique des H3 (1,2) est affectke lorsqu’il y a cyclisation
+des diades (1,2) (1,2), B cause de la disparition de la fonction aldehydique.
+H3 ((1,2) (1,2) non cyclise)
+HC(MP)
+H3 [(I ,2) (1.2) cyclisC)
+Hb(DM-THF)
++
+
+-+
+
+-+
+
+-+
+
+aire F A 9,6 p.p.m. (Fig. 1)
+aire C, 4,9 p.p.rn. (Fig. 1)
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+2328
+
+D’autres reactions secondaires sont tgalement possibles. En particulier, nous avons
+mis en hidence des reactions de transfert sur le monomtre et le p~lymtre’.~).
+Ces
+rkactions qui ne provoquent que quelques dtfauts dans la chaine ne sont pas
+dttectables dans les conditions normales d’observation par ‘H NMR.
+
+Mise en evidence de la structure des polyacrolkines par 13C NMR
+
+Les produits modhles sont les memes que ceux utilisks pour l’ktude en ‘H NMR
+(Figs. 5 et 6). Le spectre de la polyacroltine Pa52est plus particulitrement ktudit (Fig.
+4 et Tab. 5) et les rtsonances des diffkrents carbones ont t t t numtrotks de 1 A 15.
+
+Attribution des carbones des motifs (1,4)
+L’tthoxy-1 proptne-1 cis et trans (EP) permet de connaitre les dtplacements
+chimiques des carbones Cz (1,4) et C3 (1,4) des polyacroltines:
+
+CH3-CH=CH-O-CHZ-CH,
+(a)
+(b) (c)
+(d) (e)
+
+EP cis et trans (Fig. 5 )
+
+;
+
+. . . -CH,-CH=CH-O-.
+(1)
+
+.
+
+(2) (3)
+
+(1,4 cis et trans) (Fig. 4)
+
+L’attribution des Cz (1,4) est immediate (Tab. 2). De plus, vu les conditions
+d’analyse utiliskes pour la prise des spectres i3C NMR, le temps de relaxation des C2
+(1,4 cis) est peu difftrent de celui des C2 (1’4 trans). En utilisant les raies des Cz (1,4)
+un dosage du (1,4 cis) et du (1,4 trans) est possible. Ceci est confirm6 sur le modtle
+(EP), par ‘H NMR (1,4 cis) = 76,4%, par “C NMR (1,4 cis) = 74,6%. De mCme
+pour l’tchantillon Pa52, (1,4 cis) = 43% et (1,4 trans) = 57% avec (1,4 global =
+42yo).
+Par contre, l’indexation des C3 (1,4) est beaucoup plus dtlicate car il y a
+coalescence des raies correspondant aw carbones C3 (1,4 trans), C3 (1,4 cis) et C2
+(3,4). En effet, pour la polyacroltine Pa52, (1,4 trans) > (1,4 cis). L’intensitt de la
+raie correspondant aux C3 (1,4 trans) (135,3 p.p.m.) devrait &re suptrieure A celle des
+C3 (1,4 cis) (134,l p.p.m.). Or c’est l’inverse qui est observt A cause de la
+superposition des C3 (1,4 cis) et des Cz (3,4) appartenant a m diades (3,4) (3,4) et (1,4)
+(3,4) (Fig. 4). I1 y a tgalement coalescence des raies correspondant aux C3 (1,4 trans)
+et Cz (3,4) des diades (1,2) (3,4).
+Les dtplacements chimiques des carbones Cz (1,4) et C3 (1,4) ne sont pas affectb
+par le type de diade considtrte (Tab. 3.I1 n’en est pas de mCme pour les C‘ (1,4).
+L’utilisation des mtthodes de calculs semi-empiriques concernant les alcenes et les
+tthers nous permet d’avoir des valeurs approximatives de ces dtplacements
+chimiquesiO).
+L’attribution compltte des rtsonances des carbones des motifs (1,4) appartenant
+aux difftrentes diades est rtsumke dans le Tab. 2. Seuls les carbones C2 (1,4)
+
+2329
+
+Polymerisationanioniquede l'acroltine, 3
+
+I
+
+150
+
+'
+
+140
+
+110
+
+do
+
+7b
+
+5b
+
+30
+
+I0
+8 enp.p.m.
+
+Fig. 4. Spectre I3C Nh4R de la polyacroltine Pa,,. Solvant THF; amorceur: naphtaltnesodium B -43°C
+
+Fig. 5. Spectre
+"C NMRde l'kthoxy-1
+proptne-1 (cis + trans),
+modtle des Cz (1,4) et
+C3 (1,4) dans les diades
+
+I
+(C)
+
+(bl
+
+(dl
+
+I -..-
+
+(d)(el
+
+permettent l'estimation des pourcentages en (1,4 cis) et (1,4 trans) (Tab. 6 ) ) car les
+rbonances des C' (1,4 cis) et C' (1,4 trans) sont confondues. I1 en est de meme pour
+les resonances des C3 (1'4) et CZ (3,4).
+
+Attribution des carbones des motifs (3,4)
+Le dikthoxy-3,3 proptne-1 (DP) est un bon modele des diades (3,4) (3,4) et (1,4)
+(3,4):
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+2330
+
+DP (Fig.6)
+
+(e)
+
+(d)
+
+do
+
+130
+
+(3,4) des diades (3,4)(3,4)
+et (1,4)(3,4)
+
+cZ~
+(b)
+
+(CI
+
+/I0
+
+do
+
+jo
+
+(a)
+
+20
+
+30
+
+r'o
+
+Fig. 6. Spectre
+13C NMR du
+ditthoxy-3,3 proptne- 1
+(DP), modtle des unitts
+structurales (3,4) dans les
+diades (3,4) (3,4) et
+(1,4) (3,4) (I impurett
+non identifite)
+
+S en p.p.m.
+
+Tab. 2. Attributions des rtsonances I3C NMR des motifs (1,4) appartenant aux diffkrentes
+diades. EP = tthoxy-1 proptne-1 (cis + trans). Les carbones attribuis dans les diades
+appartiennent B la deuxitme unitk monomtre soulignte. [ ] = 6 calcults
+
+E P a)
+
+Pas2
+
+b,
+
+.I'
+
+C2 (1,4 cis)
+6 en raie
+p.p.m.
+
+C2 (1,4 trans) C3 (1,4 cis) C3 (1,4 trans) C' (1.4)
+6 en raie 6 en raie 6 en raie 6 en raie
+p.p.m.
+p.p.m.
+p.p.m.
+p.p.m.
+
+100,8 (b)
+
+98,2
+
+(b)
+
+145,3 (c)
+
+146,6 (c)
+
+(1,4)(z)
+
+98
+
+7
+
+97,l
+
+8
+
+134,l 2
+
+135,2 1
+
+77,6
+
+(3>4)(1,4)
+(1,2) (1,4)
+
+98
+
+7
+
+97,l
+
+8
+
+134,l 2
+
+135,2 1
+
+[77,71
+42
+15
+[351
+
+10
+
+L'attribution des carbones C' (3,4); Cz (3,4); C3 (3,4) des diades (3,4) (3,4) et (1,4)
+(3,4) est donc immtdiate (Tab. 3). Les C3 (3,4) permettent mQmede diffkrencier les
+diades (1,4) (3,4) et (3,4) (3,4). Par contre, les dtplacements chimiques des C' (3,4);
+C2 (3,4); C3 (3,4) des diades (1,2) (3,4) ont do &re estimts par le calcul;
+
+233 1
+
+Polymkrisationanionique de l’acrolkine, 3
+(3)
+
+. . .-CH,-yH-:H-O-.
+
+L’attribution complkte de la structure (3.4) est rtsumte dans le Tab. 3.
+
+c’ (3,4)
+6en ppm raie
+118,5
+
+DPa)
+
+b,
+
+I.
+
+136,5
+
+(d)
+
+102,2
+
+3
+
+134,l
+
+2
+
+4
+
+135
+[I37971
+
+1
+
+100,7
+et
+102,2
+92,8
+[97,71
+
+(2) 118,4
+3 (2)
+~
+
+(
+( 1 2 ) (2)
+
+c3(374)
+den ppm raie
+
+(e)
+
+(1,4)
+
+Pa,,
+
+c2(3,4)
+den ppm raie
+
+115,6
+[116,51
+
+(c)
+
+5 et 6
+9
+
+Attribution des carbones des motifs (1,2)
+On utilise le mCthyl-2 propanal (MP) pour identifier les carbones C3 (1,2) et C2 (1,2)
+des diades (1,2) (1,2):
+
+(1)
+
+CH3 CH3
+
+\ /
+CH (b) 41,2 ppm
+I
+CHO (c) 204,9 ppm
+
+MP
+
+. . .-CHI
+
+CHI\ /
+CH (2)
+I
+CHO
+(3)
+(1,2) des diades (1,2)(1,2)
+
+Du fait de leur faible concentration, les rtsonances des carbones aldthydiques
+C3 (1,2) ne sont pas visibles. De meme, par ‘HNMR il n’est par toujours aist de
+mettre en Cvidence les protons aldthydiques H3 (1,2). Comme nous l’avons mentionnk preckdemment, les diades (1,2) (1,2) seraient cyclistes et nous avons estimt par le
+calcul les dtplacements chimiques de leurs carbones lo).
+L’attribution de tous les carbones des diades (1,2) (1,2) cyclisks est rtsumte dans le
+Tab. 4. Signalons que la raie 4 A 115,6 p.p.m. (Fig. 4) que nous avons attribute aux
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+2332
+
+Tab. 4. Attribution des resonances I3C NMR des motifs (1,2)cyclisCs
+[ 1: 6 calculbs
+
+r (1,2)(1,2)
+
+Pa52
+
+I
+
+cyclisCes
+(3,4)(1,2)
+
+~
+
+115,6
+4
+[ 1 161
+non visible
+non visible
+
+~
+
+.. .
+
+~~~
+
+43,9 ou 45,3 13 ou 14 43,9 ou 45,3 14 ou 13
+1441
+[381
+non visible
+73,l
+11
+[741
+non visible
+-73,~
+11
+[741
+
+carbones C3 (1,2) correspond kgalement aux C’ (3,4) des diades (1,2) (3,4). De plus,
+en ce qui concerne les carbones C2 (1,2) et C’ (1,2), il est difficile d’attribuer plus
+prkciskment les raies 13 et 14 A 45,3 et 43’9 p.p.m. (Fig. 4) A l’un ou A l’autre type de
+carbone.
+Les unitks structurales (1,2) appartiennent kgalement aux diades (3,4) (1,2) et (1,4)
+(1,2). Ce type de diade modifie considkrablement le dkplacement chimique des
+carbones C1 (1,2). Dkplacement chimique que nous avons calculb et la rksonance de ce
+carbone correspond A la raie 1 1 .
+L’attribution de tous les carbones des unitks monom6res (1,2) est rbsumke dans le
+Tab. 4.
+Les diffkrentes raies attribukes pour l’kchantillon Pas, sont reportkes dans le Tab.
+5 . Dans ce tableau , une raie n’a pu Ctre identifike, la raie 12 A 64,l p.p.m. La valeur
+du dkplacement chimique correspondrait A des carbones hydroxylks dont la prksence
+est confirmke par une large absorption infrarouge A 3400 cm-’. Toutefois nous ne
+sommes pas en mesure de dkfinir plus prkciskment la nature de cet alcool.
+Dosage des polyacrolbines par ‘HNMR et I3C NMR
+
+Une polyacrolkine contient x motifs (1,4), y motifs (3,4) et z motifs (1’2) dont les
+pourcentages peuvent se calculer en utilisant les expressions suivantes:
+X
+
+x + y + z
+
+*
+
+loo;
+
+x + y + z
+
+.loo;
+
+Z
+
+x + y + z
+
+. loo
+
+Le dosage des diffkrentes unitks structurales n’est possible qu’en utilisant A la fois
+les rksultats de la ‘Het I3CNMR. La ‘HNMR permet de relier les diffbrentes aires A,
+B, C,0, E, de la Fig. 1 aux pourcentages des diffkrents types d’unitbs structurales.
+Estimation du pourcentage de motifs (1,4):
+La I3C NMR rend possible la dktermination quantitative du rapport T =
+(1,4 trans)/( 1,4 global). Cette valeur r est nkessaire pour utiliser les aires C,et C2du
+
+2333
+
+Polymerisation anionique de l’acroleine, 3
+
+Tab. 5 . Attribution des raies I3C NMR (25,l MHz) pour Pa,,. Les carbones attribues dans les
+diades appartiennent A la deuxitme unite monomere soulignte. La quasi totalitt des motifs (1,2)
+est cyclise
+~~~
+
+~
+
+~
+
+~
+
+N o raiea)
+
+6 en p.p.m.
+
+1
+
+135
+
+2
+
+134.1
+
+3
+
+118.4
+
+4
+
+115,6
+
+5
+
+6
+7
+8
+9
+
+102,2
+100,7
+98
+97,l
+92,8
+
+10
+
+77,6
+
+I1
+
+73,l
+64
+45,3
+43,9
+42,O
+
+12
+13
+14
+15
+a)
+
+Carbones
+
+Unites monomhes ou diades
+
+cf. Fig. 4.
+
+spectre ‘H NMR (Fig. 1). Sous l’aire C, se trouvent les protons H2 (1,4 trans) et les
+protons H3 (3,4) d’ou
+
+c, = y + 7x
+
+(1)
+
+Parallklement sous l’aire C, resonnent les protons H2 (1,4 cis) d’ou
+
+c,
+
+= (1 - 7)x
+
+(2)
+
+D’autre part sous l’aire A se trouvent les protons H3 (1.4) et une fraction a des
+protons Hz (3,4) et donc:
+A=x+uy
+
+(3)
+
+Estimation du pourcentage de motifs (3,4):
+Sous I’aire B rksonnent les protons H’ (3,4) et la fraction restante (1 - a ) des
+protons H2 (3,4), d’ou
+B = 2y
+
++ (1 - a ) y
+
+(4)
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+2334
+
+Estimation du pourcentage de motifs (1,2):
+Pour calculer le pourcentage de motifs (1,2) il faut admettre que les motifs (1,2)
+(cyclists ou non) forment des skquences relativement longues et que le nombre de
+diades (1,2) (1,4) ou (1,4) (1,2) et (3,4) (1,2) est faible devant le nombre de diades (1,2)
+(1,2). Bien que nous ayons observk la prksence de quelques diades (1,4) (1,2) et (3,4)
+(1,2) en I3C NMR, les travau anterieurs de Calvayrac et al.@ nous permettent
+d’avancer cette hypothtse.
+Dans ces conditions l’aire E de la Fig. 1 est constituke principalement par les
+protons H’ (1,2) et HZ (1,2) des diades (1,2) (1,2), d’oh
+z = E/3
+
+(5)
+
+Du fait de notre hypothtse nous nkgligeons les protons HI (1,4) des diades
+(1,2) (1,4) qui normalement rksonnent eu-aussi sous cette aire E.
+Ayant nkgligC les diades (1,4) (1,2) l’aire D correspond uniquement d la rksonance
+des protons HI (1,4) ce qui nous permet d’kcrire
+D = 2x
+
+(6)
+
+Le calcul:
+A partir des kquations (l), (3), (4) il est possible d’kvaluer la somme des aires
+A
+
++ B + cl = 4y + (1 + T ) X
+
+(7)
+
+De mCme une nouvelle kquation en x et y peut Stre obtenue:
+
+L’intkrCt d’utiliser ces sommes de surfaces est d’kliminer toutes les erreurs dans le
+ctdkcoupage)) des aires de la Fig. 1 (et ceci n’est rendu possible qu’d partir de la
+NMR).
+dktermination du rapport t par
+On calcule alors x, y, z d partir du systtme d trois Cquations, ( 5 ) , (7) et (8).
+x=-
+
+Cz
+
++D
+
+3 - T
+
+Y=
+
+1
+
+4(A
+
++ B + Cl + Cz + D )
+
+-x
+
+z=-
+
+E
+3
+
+Les rbultats de cette dktermination pour le polymtre P%zsont: 14 f 4% de (1,2);
+44 f 2% de (3,4) et 42 f 5% de (1,4) dont 18% de (1,4 cis) et 24% de (1,4 trans).
+
+Rbultats de microstructures et discussion
+
+Les microstructures obtenues sont rassemblks, selon le cation ktudik dans les Tabs.
+6 (Li+) et 7 (Na+). Elles sont ensuite reprksentkes en fonction de la masse molkulaire
+moyenne des polymtres sur la Fig. 7. Ces rksultats nous permettent de faire quatre
+observations: a) Dans le cas du contre-ion Li+, les microstructures sont approxi-
+
+2335
+
+Polymerisationanioniquede I’acrolkine, 3
+
+5
+
+Fig. 7 Evolution de la
+microstructure dans le
+tktrahydrofuranne des
+polyacrolkinesen
+fonction de la masse
+m_olkculaire en nombre
+M,, d6termini.e par
+GPC avec polystyrenes
+ktalons. Amorceur
+naphtalene-lithium:
+( A ) pourcentage de
+(3,4); (HI,
+1,4; ( o ) ,
+(1,2); amorceur naphtaltne-sodium: (A),
+(3,4); (o),
+(1,4); (o),
+
+n
+
+(1 9 2 )
+
+1
+
+0
+
+1
+
+15
+
+1034
+
+o
+
+1
+
+1
+
+,
+
+1
+
+5
+
+1
+
+1
+
+1
+
+I
+
+,
+
+,
+
+103.fin
+
+,
+
+,
+
+15
+
+mativement kgales dans deux solvants aussi diffkrents que le TOL et le THF. b) Par
+contre, l’addition du tktramkthyltnediamine (TMEDA) en proportion stoechiomktrique par rapport au Li+ provoque une diminution du pourcentage de (1,2) et
+paralltlement une augmentation du pourcentage de (3,4). c) Dans le THF, les polymbes amorcts par Na+ sont moins riches en (1,2) que c e w amorcts par Li+. d) Dans
+le THF, pour le contre-ion Li+ , la microstructure Cvolue avec la masse molkulaire du
+augmente.
+polymtre et le pourcentage de (1,2) diminue quand
+Au cours de la polymkrisation anionique de ditne”-13) ou de mkthacrylates
+d’al~oyles’~-’~),
+seules la nature du contre-ion et du solvant (ou du complexant) interviennent sur la complexation de la paire d’ions en croissance et modifient la vitesse de
+rkaction et la microstructure du polymtre final. La polymkrisation anionique de
+l’acrolkine est beaucoup plus complexe. Nous avons montrk qu’elle s’accompagne de
+nombreuses rtactions de transfert sur le monomtre et le polymtre’~~),
+sans jusqu’g
+prksent parvenir A dtfinir la nature des nouveaux centres actifs formks aprts transfert.
+Les kvolutions de microstructures ne correspondent kvidemment pas a w rtsultats
+obtenus lors de la polymtrisation des ditnes ou des mkthacrylates d’alcoyles. Pour
+expliquer l’existence des unitks structurales (1,2), (1,4), (3,4), il faut supposer deux
+structures diffkrentes pour les extrtmitks en croissance de polyacrolkines: une forme
+knolique dtlocaliske (1,4), (Fig. 8), et une forme oxanion (3,4), (Fig. 9). Les rkactions
+
+a,,
+
+f)
+
+e,
+
+d,
+
+b,
+
+a)
+
+Temps de
+polymtrisation
+en min
+
+3 450
+2 600
+7 900
+660
+840
+670
+500
+1710
+265
+
+[I],. lo3 b,
+mol. dm-3
+
+- 24,5
+- 24,5
+- 27,O
+- 26,3
+- 20,o
+- 5,O
++7,8
+- 42
+- 32
+
+a)
+
+1750
+4 900
+4 800
+I 290
+4 060
+
+[A],
+mol. dm-3
+
+- 41,2
+- 41,2
+-41,9
+-41,5
+-44,l
+
+T/"C
+
+27
+38
+38
+26
+22
+21
+19
+47
+64
+
+10
+25
+48
+22
+21
+
+Rendement
+en Yo
+
+1 860
+1630
+2 480
+1 590
+2 700
+2 300
+2 060
+3 900
+1 430
+
+1200
+I 960
+1600
+1 220
+1110
+
+M,
+
+> 10
+
+4,6
+
+> 10
+
+> 10
+
+5,2
+8,7
+
+> 10
+
+9,8
+5,s
+
+> 10
+
+6,5
+
+> 10
+> 10
+
+M,/M,C)
+
+22 f 5
+24 f 5
+13*3
+25 f 3
+20 f 5
+15+4
+22+5
+11 + 3
+30f6
+
+32+6
+24+5
+27+5
+28+5
+20+4
+
+(1 92)
+
+36 f 3
+35 f 2
+38+2
+29 f 2
+35 + 2
+39f2
+33+2
+39 + 1
+27f2
+
+30f3
+31f2
+31f2
+28+3
+37+2
+
+(394)
+en Yo
+
+Pourcentage de
+
+*
+
+42 + 3
+41
+3
+49f2
+46 + 3
+45
+3
+46f2
+45+3
+50 + 2
+43f4
+
+38f3
+45+3
+42+3
+44f4
+43f2
+
+(194)
+
+-
+
+M,,,/M,: indice de polymoltculariti. mesure par GPC.
+Polymtres prtparts dans les m2mes conditions de concentration et de temptrature mais avec des temps de rtaction differents.
+Solvant THF plus tttramtthyltthylkne diamine dans le rapport molaire TMEDA/Li = 1.
+Solvant toluene.
+
+No: Encentration initiale de naphtaltne-sodium.
+
+[A],: concentration initiale d'acroleine.
+
+References
+
+Tab. 6. Synthtses de polyacroltines (Pa) rtalistes avec le contre-ion Li+ dans le THF
+
+Q
+
+p
+
+d,
+
+')
+
+b,
+
+a)
+
+40
+4,o
+4,o
+1,4
+0,7
+
+0,08
+
+0,22
+0,38
+
+b,
+
+17
+140
+
+15
+
+130
+31
+63
+120
+360
+
+Temps de
+polymtrisation
+en min
+
+79
+98
+94
+79
+77
+
+44
+
+34
+51
+
+Rendement
+en Vo
+
+19200
+12900
+7 700
+9 100
+2 700
+4 800
+8 400
+3,7
+7,1
+5.4
+8,4
+6,4
+3,3
+2,5
+
+11+3
+14+3
+15+3
+17+4
+10+3
+12+3
+13k4
+
+41+2
+40+2
+39k2
+36r2
+38+1
+36+1
+40k2
+
+Pourcentage de
+
+Mw/Mn:Indice de polymoltcularitt mesurk par GPC.
+Polymtres preparts dans les m&mesconditions de concentration et de temptrature mais avec des temps de rtactions diffkrents.
+
+No:Concentration initiale de naphtaltne-sodium.
+
+[A],: Concentration initiale d'acrolkine.
+
+- 40
+
+-40
+- 40
+- 38
+- 39
+
+192
+1,2
+1,2
+1,4
+194
+1,4
+194
+1,4
+
+- 43
+-25,6
+-20,3
+
+a)
+
+48k3
+46+2
+46k2
+47+3
+52k2
+52k2
+47+2
+
+a
+
+[Ale
+mol. dm-3
+
+T/"C
+
+[I]0. Id
+mol. dm-3
+
+Rtftrences
+
+e.
+
+W
+
+96
+
+Tab. 7. Syntheses de polyacroltines (Pa) rtalistes avec l'amorceur naphtalene-sodium dans le THF
+
+D. Gulino, J . P. Pascault, Q. T. Pham
+
+2338
+
+de la forme tnolique (1,4) peuvent s’apparenter aux rtactions d’alcoylation des
+knolates qui ont t t t longuement ttudites:
+
+C-alcoylation
+Mt = mCtal; X = halogene
+
+Unitis s t y t u r u l e s
+w lades
+attaque de 1
+en a
+attaque de 1
+en Y
+
+attaque de 3
+en a
+
+attaque de 3
+en Y
+
+Fig. 8.
+
+Le centre en croissance est la forme dClocalisCe (1,4)
+
+Le rapport 0-alcoylation/C-alcoylationdepend du cation 17) et du solvant
+utilisti8). I1 augmente lorsque la liaison -O-Mt+ est l k h e c’est-&dire avec la taille
+du cation, le pouvoir complexant ou dissociant du solvant et en prtsence de complexant’g).
+Ce raisonnement peut s’appliquer B la propagation par les extrtmitts en croissance
+(1,4) des polyacroltines (Fig. 8). L’attaque en a serait alors plus probable lorsque la
+liaison entre le cation Mt+ et l’extrhitt? en croissance est l k h e et nous aurions
+formation d’unitb structurales (1,4) et (3,4). Au contraire, une interaction trts forte
+
+2339
+
+Polymtrisation anionique de I’acroltine, 3
+
+Unit6 st
+
+ct raIe
+ouViacie
+
+attaque de 3
+en a
+
+attaque de
+en (I
+
+(3,4 1 ( 3 , 4 )
+
+1
+
+Fig. 9. Le centre en croissance est l’oxanion de la structure (3,4)
+
+entre l’extrtmitt en croissance et le cation provoquerait une attaque en y et donc la
+formation d’unitts (1,2) et (3,4). Si l’on admet ces hypothtses, les rtsultats consignts
+dans le Tab. 8 pourraient s’expliquer par une association entre la chaine en croissance
+et le cation, plus forte pour le Li+ que pour le Na+ . En prtsence de Li+ ,l’absence de
+difference de microstructure observte entre le TOL et le THF pourrait kgalement
+
+Tab. 8. Variation de microstructure des polyacroltines en fonction de l’amorceur et du
+solvant A -40°C
+Amorceur,
+solvanta)
+
+G, b)
+
+Pourcentage d’unitts
+
+r
+
+\
+
+A
+
+(1 92)
+
+(3 $4)
+
+(1 $4)
+
+en ?h
+Li+, TOL
+Li’, THF
+Li’, THF, TMEDA‘)
+N a + , THF
+a)
+
+b,
+‘)
+
+30
+32
+20
+12
+
+f6
+f6
+
+f4
+f2
+
+21
+30
+37
+38
+
+f2
+f 3
+
+f2
+f2
+
+43
+38
+43
+50
+
+f4
+f3
+
+f2
+f 2
+
+1430
+1100
+1 100
+> 3 OOO
+
+TOL = toluene; THF = tttrahydrofuranne; TMEDA = tttramtthyltthyltne diamine.
+Masse moltculaire moyenne en nombre par GPC (voir Partie exptrimentale).
+Rapport molaire tttramtthyltthyltne diamine/Li+ = 1.
+
+s’expliquer par la petite taille et le fort pouvoir accepteur d’klectrons du cation Li+ .
+Ce dernier ne pourrait Ctre stpart de I’extrtmitt vivante en croissance, elle-mCme trts
+complexante, ni dans le THF ni dans le TOL. Dans ces conditions, la diminution du
+pourcentage de (1,2) en prtsence de TMEDA signifierait que ce complexant est
+suffisamment fort pour eloigner le Li+ de la chaine en croissance.
+
+2340
+
+D. Gulino, J. P. Pascault, Q.T. Pham
+
+Jusqu’B prksent, nous avons raisonnt uniquement sur les extremitts en croissance
+(1,4) dklocaliste. Lorsque I’attaque de la chaine en croissance se produit sur le
+carbone C3 du monomtre, la nouvelle extrCmitC vivante est du type (3,4) (Fig. 9).
+C’est une forme non dklocaliske et par constquent sa structure est dkterminee avant
+I’addition d’une nouvelle moltcule de monomihe. L’attaque sur les C1 et C3 de
+I’acroleine devrait dkpendre de la complexation de l’extrtmitk en croissance par le
+monomhe lors de son approche et avant la propagation proprement dite. En prtsence
+de Li+ , pendant cette &ape de complexation intermkdiaire, I’acrolkine se coordinerait
+sur ce cation soit uniquement par la double liaison >C=O soit par les deux doubles
+liaisons orientant ainsi l’attaque soit sur le C3 soit sur le C1 de I’acrolkine. Si cette
+hypothbse est admise, l’enrichissement en (3,4), en presence de TMEDA, traduirait la
+coordination relativement difficile de l’acroltine sur le cation Li+ . Cette complexation se ferait davantage par la liaison >C=O. Parallelement cet effet de complexation
+par le monomQe est moins accentut dans le cas du Na+ .
+L’tvolution de la microstructure avec
+dans le cas du Li+, est dklicate A
+apprkhender. Rappelons qu’il a Ctk montrk1s~20),
+dans le cas de monomhes polaires
+comme le mtthacrylate de mtthyle, que les groupes >C=O des dernikres unites du
+polymtre en croissance solvatent le cation et interviennent sur le mkcanisme de polymtrisation. La chaine en croissance de polyacroltine est, elle aussi, trts polaire. En
+effet, elle contient de nombreux atomes d’oxygkne donneurs qui peuvent participer A
+la complexation du Li+. De plus, la cyclisation de certaines mitts structurales (1,2),
+en cours de rkaction, par transfert intramoltculaire conduisent B de nombreuses
+structures acetals t r b polaires.
+
+a,,,
+
+. . .-CH2-CH-CH2-CH-CH2
+(a)
+
+AH0
+
+I
+
+CHO
+
+,CH=CH+
+
+M&
+
+0
+
+-
+
+. . .-CH2,
+
+/CH2
+
+CH
+
+I
+
+\dc‘CH
+
+I
+
+II
+
+Le nombre d’oxyghes donneurs et le nombre de structures acttals se multiplient
+avec la croissance de la chaine. Dans ces conditions le Li+ Ctant de plus en plus attirt
+par d’autres sites de la chaine, la complexation (Li+ extrkmitt en croissance)
+s’affaiblira avec l’augmentation de @, . Ces hypotheses permettraient d’expliquer
+l’tvolution globale de la microstructure avec B,,.Les unites structurales (1,2) ne se
+constitueraient qu’au dtbut d’une croissance de cha2ne seul moment oh les
+phknomenes de complexation rendraient possible l’attaque du monomtre en position
+1 sur le y de la forme 1,4 dtlocaliste (Fig. 8).
+Cet effet de polaritk de la chaine en croissance est observable de manitre
+progressive uniquement dans le cas du Li+, cation de petite taille ayant un fort
+pouvoir accepteur d’tlectrons (notons tgalement que les rtactions de transfert sur le
+monomke, donc le redkmarrage d’une nouvelle chaine en croissance, sont plus
+nombreuses avec le Li+ 9 ) .
+
+PolymCrisationanionique de I’acrolCine, 3
+
+234 1
+
+Enfin, quelques rksultats (Tab. 6) semblent montrer que la tempkrature joue un
+rble secondaire dans le mkcanisme de la polymkrisation de l’acrolkine. Tout au moins
+c’est un phknom&nequi n’est pas assez important pour Ctre apprthendk connaissant
+l’imprtcision des microstructures obtenues.
+
+Conclusion
+
+La microstructure des polyacrolkines obtenues par polymkrisation anionique a ktk
+examinee par ‘H NMR et I3C NMR. En prenant en considtration des diades de
+monombes, il a ktt possible d’identifier les diffkrentes unitks structurales (1,2), (3,4),
+(1,4 cis) et (1,4trans) grgce 9 l’utilisation des molkcules modkles et du calcul
+approximatif des valeurs de dkplacement chimique des I3C. La complkmentaritk des
+NMR ont permis une dktermination
+informations fournies par IH NMR et
+quantitative, relativement bonne des pourcentages des diffkrents types de motifs
+monomtres. De plus, il a ktk observk que les motifs (1,2), formant des skquences sont
+totalement cyclisks et qu’approximativement les 2/3 des motifs (1,4)sont en
+configuration trans. D’autre part, des dkfauts de chaines, peu nombreux, provenant
+de rkactions secondaires ou de transfert (apparition de fonctions alcools sur les
+chaines) ont etk mis en kvidence sans &re dosts avec prkcision.
+Le dosage des diffkrentes unitks structurales (1,2), (3,4)et (1,4)a kte appliquk a
+toute une skrie de polyacrolkines pour lesquelles nous avons fait varier la nature du
+cation de l’amorceur et du solvant de synthbe. Nous avons pu alors propost un
+mecanisme de propagation mettant en jeu deux types d’extrkmites vivantes: une structure (1,4)dklocaliste et une structure (3,4).Lorsque les complexations (extremitk en
+croissance - cation) et (monomere - cation) sont faibles (cas du Na+), la microstructure des polyacrolkines est riche en (1,4)+ (3,4).Dans le cas contraire (cas du Li+ ), la
+microstructure devient riche en (1,2). De plus il semblerait que la complexation (extrkmitk vivante - Li+) s’atttnue avec la longueur de la chaine, le cation ktant attirk par
+d’autres sites complexants apparus sur le polymkre en croissance.
+
+Nous tenons A remercier la Dklkgation Gknerale d la Recherche Scientifique et Technique
+(DGRST) pour I’aide financikre qu’elle a apportee A la rkalisation de ce travail.
+
+’)
+
+2,
+
+3,
+4,
+’)
+
+7,
+’)
+
+M. U. Koton, I. V. Andreyeva, Yu P. Getman Chuk, L. Ya. Madarkaya, E. I. Pokrovskii,
+A . I. Koltsov, U. E. Filatova, Vysokomol. Soedin. 7, 2039 (1965)
+I. V. Andreyeva, M. N. Koton, V. N. Artemeva, Yu N . Sazanov, G. N. Fedvrova,
+Vysokomol. Soedin. 18, 1707 (1976)
+R. C. Schulz, G. Wegner, W. Kern, J. Polym. Sci., Part C 16, 989 (1967)
+P . Thivollet, J. GolC, J. Polym. Sci. 11, 1615 (1973)
+I. Rashkov, I. M. Panayotov, Makromol. Chem. 151, 275 (1972)
+T. Yamamoto, S. Noda, Y. Yanamoto, Kobunshi Kagaku 30, 94 (1973)
+D. Gulino, J. Gole, J. P. Pascault, Eur. Polym. J. 15, 469 (1979)
+€3 Calvayrac, P. Thivollet, J. Cole, J . Polym. Sci. 11, 1631 (1973)
+
+2342
+
+D. Gulino, J. P. Pascault, Q. T. Pham
+
+D. Gulino, J. Colt, J. P. Pascault, Makromol. Chem. 182, 1215 (1981)
+E. Breit-Maier, W. Voelter, d 3 C NMR Spectroscospy - Methods and Applicationsn td. A.
+Krebs, Verlag Chemie, Weinheim 1974
+A. Essel, R. Salle, J. Colt, Q.-T. Pham, J. Polym. Sci., Polym. Chem. Ed.13, 1847 (1975)
+1'
+R. Salle, J. Colt, Q.-T. Pham, J: Polym. Sci., Polym. Chem. Ed. 15, 1199 (1977)
+13) R. Salle, Q.-T. Pham, J. Polym. Sci., Polym. Chem. Ed. 15, 1799 (1977)
+14) J. P. Pascault, J. Kawak, J. Colt, Q.-T. Pham, Eur. Polym. J. 10, 1107 (1974)
+Is) J. P. Pascault, F. Chastrette, Q.-T. Pham, Eur. Polym. J. 12, 273 (1976)
+la) F. Guirbt, P. Sarthou, G. Bram, Tetrahedron 30, 3139 (1974)
+17) A. L. Kurtz, A. Macias, I. P. Beletskaya, 0. A. Reutov, Tetrahedron Lett. 32,3037 (1971)
+G. J. Heiszwolf, H. Kloosterziel, Rec. Trav. Chim. Pays Bas 89, 1153 (1970)
+19) C. Cambillau, P. Sarthou, G. Bram, Tetrahedron Lett. 4, 281 (1976)
+' O ) W. Fowells, C. Schuerch, F. A. Bovey, F. P. Hood, J. Am. Chem. SOC.89, 1396 (1967)
+9,
+
+lo)
+

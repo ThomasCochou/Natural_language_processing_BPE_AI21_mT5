@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Le Père Étienne Bauny, SJ: la <hi rend="italic">Somme des péchés qui se commettent en tous états</hi> face aux <hi rend="italic">Lettres provinciales</hi>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2009. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2009">2009</date>
+            <date type="published">2009</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Le Père Étienne Bauny, SJ: la <hi rend="italic">Somme des péchés qui se commettent en tous états</hi> face aux <hi rend="italic">Lettres provinciales</hi>
+                  </title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Parish</surname>
+                        <forename type="first">Richard</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">St Catherine's College</orgName>
+                        <address>
+                           <addrLine>Oxford</addrLine>
+                        </address>
+                     </affiliation>
+                     <affiliation role="corresp">
+                        <email>richard.parish@stcatz.ox.ac.uk</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">6AAAA5C0D692F03BC2F849556709CC86C9AE9538</idno>
+                  <idno type="ark">ark:/67375/HXZ-M2HCVCKP-C</idno>
+                  <idno type="DOI">10.1093/fs/knp128</idno>
+                  <idno type="publisher-id">knp128</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2009</date>
+                     <biblScope unit="vol">63</biblScope>
+                     <biblScope unit="issue">4</biblScope>
+                     <biblScope unit="page" from="385">385</biblScope>
+                     <biblScope unit="page" to="398">398</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <head>Résumé</head>
+            <p>La postérité du Père Bauny se limite pour l'essentiel au statut de celui que Pascal, ou plutôt son porte-parole Louis de Montalte, a combattu dans les <hi rend="italic">Lettres provinciales</hi>, et qu'il est parvenu à couvrir de ridicule et d'opprobre. Pourtant la <hi rend="italic">Somme des péchés</hi>, qui se situe dans la longue tradition des manuels à l'usage des confesseurs, se trouve considérablement déformée par le traitement du polémiste. Dans cet article nous cherchons tant soit peu à rééquilibrer les enjeux et à accorder une définition plus objective à la casuistique, tout en admettant qu'un lecteur moderne risque toutefois de trouver l'ouvrage jésuite aussi rébarbatif que sophistique. Après une brève esquisse de certaines de ses caractéristiques les plus saillantes, nous tentons une évaluation des deux théologies qui s'affrontent, et finissons par nous demander quels éléments de leur stratégie éristique furent déterminants pour l'étonnant succès des petites lettres.</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>‘<hi rend="italic">Ecce qui tollit peccata mundi</hi>. Voici celui qui ôte les péchés du monde.’<hi rend="superscript">
+               <ref type="fn" target="#FN1">1</ref>
+            </hi> Le nom du Père Étienne Bauny, de la Compagnie de Jésus, semble être devenu, suite à la campagne des <hi rend="italic">Provinciales</hi> de Pascal, un synonyme pour tout ce qu'il y a de plus néfaste dans la morale des Jésuites. Il paraît non moins de soixante-deux fois dans les petites lettres, et trois fois dans les <hi rend="italic">Pensées</hi>, même si l'une des mentions se limite à la phrase autant elliptique que mémorable: ‘Bauny brûleur de granges’.<hi rend="superscript">
+               <ref type="fn" target="#FN2">2</ref>
+            </hi> Dans la première série de lettres, là où la majorité des citations est fournie, ce sont les cas-limites sélectionnés par le Jésuite fictif qui servent d'évidence cumulative contre la morale de la Compagnie de Jésus, ainsi qu'elle est censée se manifester dans sa pratique pénitentielle. Dans la 15<hi rend="superscript">e</hi> lettre, Bauny est une fois de plus un sujet fertile de polémique dans la mesure où sa défense, qui a provoqué une série de réponses jésuites, inaugure à son tour la litanie d'accusations rythmée de la charge: ‘<hi rend="italic">Mentiris impudentissime</hi>.’ Et, malgré la gamme des textes jésuites cités, Bauny reste celui avec qui Louis de Montalte,<hi rend="superscript">
+               <ref type="fn" target="#FN3">3</ref>
+            </hi> dans la sixième lettre, est explicitement invité à se disputer.</p>
+         <p>La <hi rend="italic">Somme des péchés</hi> se situe dans la longue tradition des manuels à l'usage des confesseurs.<hi rend="superscript">
+               <ref type="fn" target="#FN4">4</ref>
+            </hi> L'évangile selon saint Jean contient bien sûr les paroles christiques: ‘Ceux à qui vous remettrez les péchés, ils leur seront remis; ceux à qui vous les retiendrez, ils leur seront retenus’ (<hi rend="italic">Jean</hi> 20. 23); mais le <hi rend="italic">Dictionnaire de théologie catholique</hi> cerne toute l'incertitude qui enveloppe à sa suite la mise en vigueur de cette injonction:
+<cit>
+               <quote>
+                  <p>Si l'Évangile est formel sur l'existence du pouvoir de remettre les péchés dans l'Église et la concession de ce pouvoir par Jésus-Christ à ses apôtres d'une façon permanente, […] il est entièrement muet sur les conditions et le mode de son exercice.<hi rend="superscript">
+                        <ref type="fn" target="#FN5">5</ref>
+                     </hi>
+                  </p>
+               </quote>
+            </cit>L'origine de la pratique vise à réconcilier le pénitent avec Dieu et l'individu avec la communauté ecclésiale.<hi rend="superscript">
+               <ref type="fn" target="#FN6">6</ref>
+            </hi> Mais, malgré son essor à l'époque médiévale, ‘il n'y a pas’, ainsi que l'explique Philippe Rouillard dans son <hi rend="italic">Histoire de la pénitence</hi>, ‘une forme unique d'absolution sacramentelle, mais une géométrie variable de la pénitence et de la réconciliation.’<hi rend="superscript">
+               <ref type="fn" target="#FN7">7</ref>
+            </hi> C'est pourtant à la suite de la législation tridentine que Rouillard identifie l'émergence de deux tendances en France:
+<cit>
+               <quote>
+                  <p>D'une part, un courant rigoureux ou même rigoriste insistant sur la gravité du péché, sur les exigences d'une véritable contrition, sur les conditions et éventuellement les délais requis avant que le prêtre ne donne l'absolution; d'autre part, un courant plus ouvert, qui sera qualifié de laxiste, [et qui] met en relief la miséricorde de Dieu, la misère de l'homme dont le repentir n'est pas toujours motivé par les sentiments très élevés, et donc le devoir des pasteurs de donner le pardon de Dieu à tous ceux qui viennent le demander.<hi rend="superscript">
+                        <ref type="fn" target="#FN8">8</ref>
+                     </hi>
+                  </p>
+               </quote>
+            </cit>C'est de cette tension entre rigoristes et laxistes que témoignent nos deux textes car, comme ironise Pascal dans un fragment des <hi rend="italic">Pensées</hi>: ‘Les saints subtilisent pour se trouver criminels et accuser leurs meilleures actions, et ceux-ci subtilisent pour excuser les plus méchantes.’<hi rend="superscript">
+               <ref type="fn" target="#FN9">9</ref>
+            </hi>
+         </p>
+         <p>Mais si c'est la Compagnie de Jésus qui a fait sienne l'équation selon laquelle la diversité d'opinions dans les questions de morale était une manière d'alléger le joug de la foi, c'est aussi, selon les auteurs d'une étude américaine des années 1980, un système qui, à travers ses dettes à la loi romaine, fait appel à la taxinomie de la loi judaïque, avec le résultat qu'ils résument ainsi:
+<cit>
+               <quote>
+                  <p>The method of casuistry involved an ordering of cases by paradigm and analogy, appeals to maxims and analyses of circumstances, the qualification of opinions, the accumulation of multiple arguments, and the statement of practical resolutions of particular moral problems in the light of these considerations.<hi rend="superscript">
+                        <ref type="fn" target="#FN10">10</ref>
+                     </hi>
+                  </p>
+               </quote>
+            </cit>Cette étude fournit aussi les termes d'un contraste qui établit une différence particulièrement claire entre théorie et pratique: selon ses propres termes, la théorie était ‘idealized, atemporal and necessary’; mais la pratique était ‘concrete, temporal and presumptive’.<hi rend="superscript">
+               <ref type="fn" target="#FN11">11</ref>
+            </hi> Enfin c'est Marcel Bernos qui cerne la controverse autour de la condamnation de Bauny en termes d'‘un désaccord profond [qui] régnait […] sur l'exigence plus ou moins grande que l'on pouvait avoir en matière morale'. Et c'est également, selon le même chercheur, ‘l'intervention de Pascal […] qui va faire descendre le débat dans la rue et dans les ruelles’.<hi rend="superscript">
+               <ref type="fn" target="#FN12">12</ref>
+            </hi>
+         </p>
+         <p>Dans une entrée en matière éloquente, Bauny, de sa part, rappelle au lecteur toute la puissance de la confession auriculaire, et se donne comme tâche de décrire
+<cit>
+               <quote>
+                  <p>quels sont les effets de ce terrible glaive, que portent en leurs mains les Prélats; quand ils doivent s'en servir; de quelles armes il se faut prévaloir contre Satan; à qui avoir recours pour guérir de ses plaies; quel remède apporter aux peines de l'esprit, qui arrivent en tout genre de vie; à quelles offenses l'on est sujet selon la qualité de sa profession; [et] quand elles sont mortelles, quand vénielles.<hi rend="superscript">
+                        <ref type="fn" target="#FN13">13</ref>
+                     </hi>
+                  </p>
+               </quote>
+            </cit>Ainsi, faisant appel à l'autorité biblique dans une phrase hautement mémorable, Bauny nous rappelle vers la fin du volume que les péchés sont remis ‘<hi rend="italic">virtute clavium</hi>, par la force des clés';<hi rend="superscript">
+               <ref type="fn" target="#FN14">14</ref>
+            </hi> et la théologie qui sous-tend ce programme est énoncée à son tour en plein milieu du texte: ‘Comme par la faute et volonté de nos premiers parents nous […] avons contracté [le péché originel], ainsi par l'application que [les Confesseurs] nous feront du remède que Dieu a ordonné en son Église, nous pourrons être guéris’ (p. 479). Le confesseur est dorénavant identifié par un rôle triple, répété à maintes reprises: il est ‘Juge, Pasteur et Médecin de son Pénitent’ (p. 795), conformément au Concile de Trente, et ce volume servira à empêcher, selon la même métaphore, que le médecin, faute d'étudier, ne réussisse pas à guérir le malade (p. 289). Le confesseur est ainsi appelé très simplement à exercer un ministère de discrimination, et le but, ainsi qu'il est annoncé dans le ‘Au lecteur’, n'est autre chose que de travailler pour ‘le soulagement des gens d’Église' afin de les rendre ‘et meilleurs et plus sages’.<hi rend="superscript">
+               <ref type="fn" target="#FN15">15</ref>
+            </hi>
+         </p>
+         <p>Quel est donc l'impact de ce vaste tome, publié pour la première fois en 1633, dont l'organisation est loin d'être évidente, et qui compte neuf cents pages à maints égards denses et rébarbatives?</p>
+         <p>La forme se définit tout d'abord par le titre: c'est une somme, que nous pouvons caractériser comme hiérarchique, exhaustive et hypothétique. Dans un premier temps, les péchés sont eux-mêmes sujets à la gradation, et lorsqu'il examine les catégories de péché, Bauny avance selon une méthode tripartite: au début est promu l'idéal, justifié non seulement par l'autorité scripturaire et ecclésiale mais aussi par sa conformité à la raison et aux lois du pays; ensuite le débat concernant les exceptions et les nuances prend une tonalité bien plus provisoire; et, pour terminer, les péchés dont se confessera le pénitent sont énumérés, suivis à chaque reprise par les initiales p.v. (péché véniel) ou p.m. (péché mortel). A la fin de chaque section le confesseur est invité à interroger le pénitent selon une liste qui, sous sa forme latine, constitue un vers mnémonique: ‘<hi rend="italic">Quis, quid, ubi, quibus auxiliis, cur, quomodo, quando</hi>’.<hi rend="superscript">
+               <ref type="fn" target="#FN16">16</ref>
+            </hi> Vu de façon systématique, alors, un débat hypothétique et circonspect est précédé d'une réitération de l'idéal évangélique, et suivi d'une liste de péchés qui, elle aussi, tend à réimposer la rigueur. C'est un fruit mou dans une écorce dure.</p>
+         <p>Mais c'est surtout dans l'examen de la question de savoir si tous les péchés capitaux sont automatiquement mortels (question à laquelle la réponse est négative) que ressort avec le plus d'éclat la complexité taxinomique de la méthode préconisée, car c'est là que se regroupe l'énumération des circonstances précises qui aggravent ou atténuent la malice de l'acte selon son espèce. Si un péché capital est commis dans un lieu sacré, par exemple, le péché de sacrilège s'y ajoute par conséquent, et altère ainsi l'espèce du péché, et ainsi de suite. Dans le même contexte, Bauny examine les cas où la confession serait invalide, passant ainsi à la question de l'efficacité du sacrement tout court, et légitimant, ce faisant, l'existence d'un pareil volume.</p>
+         <p>La seconde caractéristique de ce texte est sa prétention à être exhaustif; et c'est bien sûr cette dimension qui se prête à l'examen des cas-limites, si chers à Montalte. Le cas de l'homme mourant en donne naissance à plusieurs, comme on pourrait s'y attendre, ainsi: ‘Le malade en l'extrémité de son mal peut être absous, quoi qu'il ne se confesse que par signes’;<hi rend="superscript">
+               <ref type="fn" target="#FN17">17</ref>
+            </hi> et ces signes, qui sont, conformément à la teneur du texte, spécifiés et énumérés, peuvent consister à ‘[frapper] de ses mains sa poitrine, en les levant avec ses yeux au Ciel pour donner quelque indice de ses fautes’ (p. 894). Une anecdote mémorable concerne le pape Clément VIII qui,
+<cit>
+               <quote>
+                  <p>à ce que l'on raconte, voyant un artisan qui tombait en terre du faîte d'une Église avec péril de se briser les membres, comme il fit, l'honora de sa bénédiction, en disant: <hi rend="italic">Si tu es capax absolutionis, ego te absolvo</hi> (p. 892).</p>
+               </quote>
+            </cit>Mais c'est aussi cette recherche d'exhaustivité qui se prête au traitement des péchés très mineurs, tels que le risque d'écouter ‘les sons d'orgues déshonnêtes et impudiques’ (p. 5), ou pittoresques, tels que celui de ‘prendre certaines herbes des mains des magiciens, avec un poil de la tête d'une fille, pour la décevoir’ (bien que dans ce cas précis ce soit un péché mortel) (p. 16). Ce genre de précision revêt un caractère légèrement comique à différents moments, lorsque par exemple la distinction est faite entre les songes et la réaction aux songes. Les songes impudiques se situent en dehors de la volonté, mais ils restent quand même des péchés si, au réveil, il arrive que ‘l'on s’[en] soit délecté, ou désiré qu'ils fussent vrais' (p. 140). Les exceptions sont régulièrement faites pour ceux qui agissent ‘par ignorance ou bien [par] stupidité d'esprit’ (p. 25), pour ceux qui sont muets et sourds, ou pour quelqu'un qui, dans le cas de l'assentiment aux dogmes, est ‘un homme des champs qui n'a pu dans l'incapacité de son esprit concevoir qu'est-ce que Trinité’, mais qui ‘déteste pleinement le péché, aime Dieu [et] espère en lui’, comparable, selon Bauny, à la figure du bon larron, crucifié aux côtés du Christ (p. 37).</p>
+         <p>Enfin le texte est hypothétique; et la dimension qui a le plus provoqué de commentaires hostiles est bien sûr celle de la probabilité, ou plutôt du probabilisme.<hi rend="superscript">
+               <ref type="fn" target="#FN18">18</ref>
+            </hi> La <hi rend="italic">Somme des péchés</hi> propose des hypothèses de deux façons: la première concerne le besoin d'envisager tous les péchés qui auraient des chances de faire partie de l'acte de pénitence; mais c'est la seconde, bien plus controversée, qui expose les détails des circonstances qui serviraient éventuellement à les mitiger ou à les excuser, qui fournit un maximum de munitions à Montalte. C'est dans cette perspective que Bauny, dans le second panneau de nombreux chapitres, cite successivement les opinions les plus et les moins rigoureuses concernant ce qui est ou n'est pas permis dans une suite de circonstances. En outre, dans toutes ces questions, la voix du casuiste est souvent introduite, afin de trancher, même si, malgré l'impression créée par les <hi rend="italic">Provinciales</hi>, ce n'est pas toujours dans le sens du choix le plus laxiste. Ainsi, dans la question des jurements, le casuiste opte pour l'opinion la plus sévère, avec la remarque nonobstant que ‘la première opinion [plus relâchée] semble toutefois plus vraisemblable, et en pratique doit être suivie du Confesseur […] parce qu'elle le met à couvert des scrupules […] de n'avoir fait pour le bien de son Pénitent tout ce qu'il pouvait et devait’<hi rend="superscript">
+               <ref type="fn" target="#FN19">19</ref>
+            </hi> — et des formules semblables se répètent inlassablement tout le long du texte. C'est dans ce domaine pourtant que le casuiste se montre fin et subtil psychologue, faisant pénétrer chaque péché dans un réseau de circonstances qui atténuent ou aggravent l'acte, et apprenant au confesseur à reconnaître les marques qui trahissent les véritables intentions du pénitent. Enfin à certains moments on trouve ce que Pascal appellerait un ‘renversement continuel du pour au contre’,<hi rend="superscript">
+               <ref type="fn" target="#FN20">20</ref>
+            </hi> lorsqu'une opinion stricte est proposée, suivie d'une censure plus légère, suivie à son tour par les conditions qui prévalent dans son opération et, le plus souvent, un jugement prononcé par le casuiste quant aux mérites relatifs des positions adoptées.</p>
+         <p>Ces remarques nous conduisent logiquement à la question des autorités, car à juger de ce texte selon Montalte, il semblerait que les seules autorités citées proviennent des rangs des Jésuites, ce qui est très loin d'être le cas. Bauny se fonde sur des textes de toute provenance, mais s'évertue à les insérer dans les circonstances concrètes de son époque. L'Écriture Sainte est représentée par l'Ancien Testament: par le <hi rend="italic">Pentateuque</hi>, notamment la <hi rend="italic">Genèse</hi> et le <hi rend="italic">Lévitique</hi> (livre judaïque qui introduit par excellence la catégorisation des péchés, avec les détails de la réparation appropriée), ainsi que par les livres prophétiques et par les <hi rend="italic">Proverbes</hi>; et, dans le Nouveau Testament, ce sont les évangiles et les épîtres de saint Paul qui prédominent. Malgré l'impression créée par Montalte, alors, ce texte ne manque pas d'exemples christiques et apostoliques. Bauny cite comme manifestations de la colère biblique, par exemple, les moments où ‘le Sauveur appelle fous les deux disciples d'Emmaüs en <hi rend="italic">S. Luc</hi>, 24’<hi rend="superscript">
+               <ref type="fn" target="#FN21">21</ref>
+            </hi> ou lorsque saint Paul s'exclame: ‘<hi rend="italic">O insensati Galate</hi>' dans l'<hi rend="italic">Épître aux Galates</hi> (p. 98). Mais à côté de la Bible, Bauny cite régulièrement les conciles, les Pères et Docteurs de l'Église et les Papes. Les Jésuites sont également présents, bien sûr, en grand nombre, mais le plus souvent les diverses autorités se côtoient de façon inattendue et, pour un Montalte, déconcertante.</p>
+         <p>La <hi rend="italic">Somme des péchés</hi> est, notoirement, ‘dressé[e] en langue commune et vulgaire’.<hi rend="superscript">
+               <ref type="fn" target="#FN22">22</ref>
+            </hi> Si, dans l'ensemble, c'est effectivement le cas, certains traits nécessitent en même temps une description quelque peu plus nuancée. D'abord, toute autorité dont l'opinion est tirée d'un ouvrage écrit en latin est citée, souvent <hi rend="italic">in extenso</hi>, en latin, couvrant ainsi des demi-pages entières, même si un sommaire en langue française est le plus souvent fourni avant ou après la citation; et, même quand le texte est prioritairement en français, des phrases latines le jalonnent. Mais le français lui-même est souvent compliqué, soit par les suites syntaxiques prolongées et complexes, soit parce qu'une terminologie technique est introduite afin de faciliter les distinctions de genre: ainsi, dans le chapitre ‘Des jurements’, la distinction est tout de suite faite entre les jurements assertoires et exécratoires, les malédictions peuvent être énonciatives, impératives ou simplement déshonorantes; et le texte est rempli d'archaïsmes et de termes techniques, autant légaux que théologiques.<hi rend="superscript">
+               <ref type="fn" target="#FN23">23</ref>
+            </hi> L'incertitude quant à la destination du texte est ainsi remise en question. Car s'il s'agit d'un manuel technique et savant destiné tout d'abord à l'usage des clercs, ainsi que sa manière de présentation exhaustive et touffue tout autant que ses difficultés linguistiques sembleraient l'indiquer, le risque qu'il encourt de corrompre les laïcs en leur offrant un réseau d'échappatoires pénitentielles est considérablement réduit. Si, en revanche, Bauny choisit le français ‘pour être entendu de tout le monde’, ainsi qu'il le revendique dans la ‘Préface’ de la première édition, la désapprobation de Pascal semble davantage être justifiée, même si cette phrase a été éliminée dans les éditions ultérieures.<hi rend="superscript">
+               <ref type="fn" target="#FN24">24</ref>
+            </hi>
+         </p>
+         <p>L'un des traits les plus curieux de ce texte pour le lecteur d'aujourd'hui est sans doute la lumière inconsciemment ironique qu'il jette parfois sur les mœurs de l'époque ou sur les valeurs de l'âge. Faut-il, par exemple, lire un commentaire implicite sur les péchés les plus fréquemment commis dans le fait que le tout premier chapitre soit consacré aux superstitions, dont le mal se précise très succinctement comme une prétention à ‘connaître ce que naturellement l'on ne peut’?<hi rend="superscript">
+               <ref type="fn" target="#FN25">25</ref>
+            </hi> Dans un domaine plus léger, ce n'est apparemment pas un péché de dire d'un soldat ‘qu'il entretient chez soi une garce, qu'il est altier, glorieux, cajoleur etc., parce que telles gens font trophée de ces choses, [et] conséquemment ne prennent à injure que l'on les dise d'eux’ (p. 285) — bien que cet exemple fût toutefois explicitement condamné par Antoine Arnauld dans la <hi rend="italic">Théologie morale des jésuites</hi>.<hi rend="superscript">
+               <ref type="fn" target="#FN26">26</ref>
+            </hi> En revanche, pour un marchand, c'est un péché mortel de ‘[vendre] du vin nantais pour celui de Gascogne’. Les conseils vis-à-vis du jeûne mêlent réalisme et casuistique (au sens péjoratif du terme), lorsqu'il est conseillé que ‘le commun usage de l’Église permet[te] en la collation un peu de pain, avec fruit […], comme pruneaux, amandes, figues, pommes, poires, confitures […]. On pourrait aussi prendre quelque bouillon d'herbes, ou quelque salade avec un hareng'.<hi rend="superscript">
+               <ref type="fn" target="#FN27">27</ref>
+            </hi> Et pourquoi cela? Parce que ‘telles choses sont plutôt ordonnées pour rafraîchir que pour nourrir’ (bien que cette tolérance fût condamnée par la censure de 1641 comme ‘fausse et contre l'usage de l’Église').<hi rend="superscript">
+               <ref type="fn" target="#FN28">28</ref>
+            </hi> A l'autre bout de la gamme (et le jeûne et l'ivrognerie se côtoient dans le même chapitre), l'ivresse n'est pas un péché si les pénitents ‘ne perdent la raison, témoin qu'ils se souviennent de tout ce qu'ils ont fait le jour de devant’.<hi rend="superscript">
+               <ref type="fn" target="#FN29">29</ref>
+            </hi>
+         </p>
+         <p>Jusqu'à présent nous avons fait exprès de présenter ce texte en dehors de son statut de document censuré et scandaleux, et il faut passer maintenant à la question de son côté perturbateur. Si Pascal nous guide vers certains domaines de controverse, peut-on se demander plus objectivement quand et dans quelle mesure nos réactions de lecteurs s'accordent avec celles d'un Montalte?</p>
+         <p>C'est tout d'abord, sans doute, quand des critères purement sociaux sont introduits, par exemple quand l'obligation de restitution cesse lorsque le pénitent ‘[est] en danger de perdre sa renommée’, même si le sage confesseur lui dira qu'il faut agir ‘aussitôt que les moyens le lui permettront’.<hi rend="superscript">
+               <ref type="fn" target="#FN30">30</ref>
+            </hi> A d'autres moments, notamment dans la section consacrée aux marchands, la coïncidence entre lois naturelles et jugements pénitentiels semblerait, dans une perspective chrétienne, trop s'incliner vers les premières. Mais c'est avant tout dans les chapitres sur les censures que certaines des tolérances et précautions de Bauny semblent le plus s'approcher de celles dont Montalte nous renvoie une déformation caricaturale; et le casuiste en effet commence par reconnaître la difficulté: ‘De toutes les matières dont il se traite en la théologie morale, à peine s'en trouve-t-il de si embrouillée, et dont la connaissance soit toutefois si nécessaire, que des censures.’<hi rend="superscript">
+               <ref type="fn" target="#FN31">31</ref>
+            </hi>
+         </p>
+         <p>L'erreur de ces chapitres serait donc de façonner la discipline chrétienne aux coutumes du pays et du temps, mais aussi de la mesurer à l'aune du sens commun et, pour ainsi dire, païen. Là où les deux tendances se rencontrent, comme c'est le cas dans la plupart des exemples, une certaine rigueur subsiste; là où elles s'opposent, comme c'est le cas dans les façons d'imposer les censures les plus strictes, ce sont le bon fonctionnement social et le pragmatisme hiérarchique qui prévalent. Également sujets à la désapprobation pascalienne, les chapitres consacrés à la contrition et l'attrition poussent à la limite de ce qui se prête à la taxinomie, même si la distinction avec l'attrition est elle-même claire, puisque la contrition a ses origines dans l'amour, mais l'attrition dans la peur. Par conséquent, la justification de l'attrition s'explique chez Bauny par le fait que ‘cette doctrine n'est fondée que sur la miséricorde de Dieu’ (p. 844) comme ‘effet de la vertu que nous appelons Espérance’ (p. 853). Il serait également possible de se sentir choqué par le titre d'un chapitre tel que: ‘S'il faut que le propos qu'on doit avoir en la Confession de ne plus offenser soit actuel’, même si la distinction entre le statut actuel ou virtuel d'une telle conviction ne se traduirait que trop facilement en une reconnaissance de la faiblesse de la volonté humaine de ne pas récidiver.</p>
+         <p>Enfin, une question qui a provoqué un maximum de controverses est celle de la volonté, terme qui figure comme refrain tout le long du texte: pour pécher, il faut que l'action soit faite ‘sciemment et à dessein’, grâce à la connaissance du péché qui s'introduit dans l'esprit du pénitent par l'intervention du Saint Esprit (p. 755). A maintes reprises alors, le casuiste insiste sur le besoin, afin qu'un péché soit mortel, qu'il parte d'une ‘volonté délibérée au mal qu'on veut aux autres’ (p. 76), et, citant la première <hi rend="italic">Épître aux Corinthiens</hi>, il rappelle au confesseur que ‘l'ignorance ôte la connaissance nécessaire pour rendre le péché volontaire’ (p. 634).</p>
+         <p>Si en revanche l'on cherchait la sagesse cachée dans un texte qui a été tellement couvert d'opprobres, il serait tentant de la reconnaître dans une certaine recherche de la proportion. Concernant le châtiment administré à un fils ou à un valet, Bauny insiste qu'il ‘n'excède en sa rigueur le démérite de la coulpe’ (p. 92); et, à d'autres moments, une sentence frappe par sa justesse, lorsqu'il est avéré, par exemple, que ‘le parler réciproque essuie tous soupçons d'inimitié entre voisins’ (p. 92). A l'imitation de l'injonction biblique, une sentence nous rappelle le rapport entre l'homme et le sabbat; les foires sont tolérées ‘pour la commodité du menu peuple, et notamment des gens des champs’ (p. 332); et, en particulier dans les chapitres consacrés aux rapports entre pères et enfants et entre gens mariés, une forte insistance sur les devoirs réciproques prédomine. De plus, c'est souvent dans le but de proposer cette recherche de la juste proportion que la voix du casuiste se fait entendre avec le plus d'autorité. Mais une tonalité humanitaire est souvent présente aussi, lorsque par exemple l'obligation de la restitution est censée diminuer face à l'extrême ou la quasi-extrême nécessité, où Bauny esquisse sans la rendre explicite une politique chrétienne de la distribution des biens. Par conséquent, et malgré son contexte satirique, la remarque faite par le Jésuite fictif des <hi rend="italic">Provinciales</hi>: ‘Nos Pères […] rendent justice aux pauvres aussi bien qu'aux riches. Je dis bien davantage, ils la rendent même aux pécheurs’,<hi rend="superscript">
+               <ref type="fn" target="#FN32">32</ref>
+            </hi> loin de nous choquer, fournit les grandes lignes précisément de tout ce que le christianisme propose de plus radical. Et, dans un esprit encore plus synthétisant, Bauny reconnaît l'existence d'actes qui sont tout aussi conformes à la volonté de Dieu qu'aux pulsions de la nature. C'est surtout dans cette perspective que ce texte est capable de promouvoir un certain optimisme, car ‘se désespérer c'est irriter [Dieu], et non pas l'apaiser, [car] c'est imiter non pas saint Pierre en sa conversion, mais bien Judas en sa perdition, à laquelle la défiance servit de disposition à sa ruine’.<hi rend="superscript">
+               <ref type="fn" target="#FN33">33</ref>
+            </hi>
+         </p>
+         <p>La <hi rend="italic">Somme des péchés</hi> est ainsi conçue comme un texte pour guider les adultes, qui sont censés ‘coopérer avec [Dieu] à sa grâce’, ‘[travailler] pour le Ciel’, et ‘[contribuer] quelque chose de leur franc arbitre pour se sauver’.<hi rend="superscript">
+               <ref type="fn" target="#FN34">34</ref>
+            </hi> (Mais ne perdons pas de vue au passage le fait que la théologie indiquée par ces phrases, tout équilibrée qu'elle puisse paraître à un lecteur moderne, se situe aux antipodes des principes énoncés par Pascal dans les <hi rend="italic">Écrits sur la grâce</hi>, par exemple.<hi rend="superscript">
+               <ref type="fn" target="#FN35">35</ref>
+            </hi>) Si son destinataire privilégié est le confesseur, le sous-titre pourrait bien s'assimiler au titre du trente-huitième chapitre: ‘De la science nécessaire au Confesseur pour l'exécution de son ministère’.<hi rend="superscript">
+               <ref type="fn" target="#FN36">36</ref>
+            </hi> C'est ainsi un texte où les principes de la casuistique, au sens neutre du terme, sont suivis au pied de la lettre: il y est question de cas, y compris de cas-limites; il y est question de l'application des règles, autrement dit de nuances et de contextes; et il y est question d'incertitude et non de sûreté. Mais du fait même d'admettre que c'est un texte de casuistique <hi rend="italic">stricto sensu</hi>, il devient par conséquent plus difficile de lui accorder la définition exclusivement péjorative du même terme proposée dans une encyclopédie bon marché en 1836 comme ‘the art of quibbling with God’.<hi rend="superscript">
+               <ref type="fn" target="#FN37">37</ref>
+            </hi>
+         </p>
+         <p>La ressemblance la plus frappante entre nos deux textes concerne la taxinomie des catégories de pénitents. Les centaines de pages consacrées par Bauny aux différents rangs du clergé et ensuite aux professions et aux métiers groupés selon les tentations auxquelles ils étaient particulièrement exposés sont suivies grosso modo dans deux des petites lettres: dans la quatrième, même si Montalte passe directement des religieux aux gentilshommes et aux valets; et dans la huitième, où le père jésuite traite de certaines classes intermédiaires, même si l'indignation de son interlocuteur l'empêche d'aller plus loin que les juges et les gens d'affaires. La hiérarchisation des manuels confessionnaux est ainsi incorporée en partie dans les <hi rend="italic">Provinciales</hi>, tout en obéissant aux impératifs polémiques et à la dynamique de la série. Un autre point de similitude réside dans la pratique partagée, bien que dans un but fort différent, de la citation: Bauny et Montalte exploitent tous deux la souplesse et l'ambiguïté que leur offre le vaste choix de textes à leur disposition, même si pour Bauny l'intérêt est de tempérer et de ne pas conclure; et pour Pascal de trancher et de convertir. Et le fameux passage de la quatrième <hi rend="italic">Provinciale</hi> concernant l'autorité de saint Ambroise et d'Aristote représente comme une sorte de mise en abîme de l'ensemble des deux textes grâce à son processus de sélectivité vis-à-vis des intertextes cités.</p>
+         <p>Si nous cherchons ensuite le rapport le plus saillant entre le Père Bauny de la <hi rend="italic">Somme des péchés</hi> et le Père Bauny à demi fictif qui ressort des <hi rend="italic">Provinciales</hi>, nous le trouvons surtout dans l'énonciation du principe de la volonté requise pour qu'un acte puisse s'identifier comme péché. Mais c'est là aussi que le lecteur plus objectif commence une nouvelle fois à chercher à approfondir le raisonnement de Montalte. Car la définition de la grâce actuelle promue par le père jésuite fictif comme ‘principe indubitable’ (et qui est tout à fait compatible avec celle qui prévaut dans la <hi rend="italic">Somme des péchés</hi>) peut sembler, à un lecteur qui fonde son jugement sur un concept de la justice immanente, parfaitement raisonnable: ‘<hi rend="italic">Qu'une action ne peut être imputée à péché, si Dieu ne nous donne, avant que de la commettre, la connaissance du mal qui y est, et une inspiration qui nous excite à l’éviter</hi>.'<hi rend="superscript">
+               <ref type="fn" target="#FN38">38</ref>
+            </hi> Et la paraphrase fictive qui suit peu de temps après semble d'autant plus juste dans son équilibre: ‘Dieu n'a jamais laissé pécher un homme sans lui donner auparavant la vue du mal qu'il va faire, et le désir, ou d’éviter le péché, ou du moins d'implorer son assistance pour le pouvoir éviter.' La réaction de Montalte, ‘étonné d'un tel discours’,<hi rend="superscript">
+               <ref type="fn" target="#FN39">39</ref>
+            </hi> peut par conséquent nous paraître mal s'accorder avec le jugement instinctif du lecteur non-spécialiste — et c'est peut-être précisément à cause de ce risque que la culpabilisation des Jésuites doit bientôt s'affermir sur un terrain moins ambigu, en des termes, et avec des exemples, plus hyperboliques. En outre, l'aboutissement de la position de Montalte, telle qu'elle sera développée plus tard dans la même lettre, propose implicitement que ceux qui ne sont pas ‘justes’ ne seront pas avertis de leurs péchés; mais une exposition plus détaillée de la théologie de la prédestination qui sous-tend cette assertion est soigneusement évitée.</p>
+         <p>Ceci inaugure la dernière et peut-être la plus fascinante des questions qui restent à être posées. Pourquoi Pascal a-t-il gagné? Bauny est, si l'on veut lui accorder un maximum de crédit, plus fin psychologue, plus ouvert aux circonstances qui gouvernent la vie de son pénitent, plus réaliste, plus tolérant et, sinon plus érudit, tout au moins plus démonstratif dans son érudition.</p>
+         <p>La première réponse n'est pas difficile à trouver. La <hi rend="italic">Somme des péchés</hi> est présentée implicitement, mais erronément, comme texte accessible, et le Jésuite fictif des <hi rend="italic">Provinciales</hi> cite la cinquième édition ‘pour vous montrer que c'est un bon livre’.<hi rend="superscript">
+               <ref type="fn" target="#FN40">40</ref>
+            </hi> Le fait que le texte ait connu une rapide suite d'éditions est historiquement indéniable, mais rend mal justice à son caractère dense et souvent revêche. Et sa particularité de ‘livre en langue française’ promue, il est vrai, par Bauny lui-même, et vantée par son confrère dans les <hi rend="italic">Provinciales</hi>, laisse elle aussi bien des choses à désirer, même si l'ensemble est théoriquement lisible et compréhensible par un public laïque averti.<hi rend="superscript">
+               <ref type="fn" target="#FN41">41</ref>
+            </hi> Ensuite, il est offert comme dépourvu de sources antiques: les autorités citées par Montalte comme hostiles à Bauny sont tout de suite ‘les Pères, les papes, les conciles, [et] l’Écriture', et les lacunes patristiques sont identifiées plus tard à ‘saint Augustin, saint Chrysostome, saint Ambroise [et] saint Jérôme’.<hi rend="superscript">
+               <ref type="fn" target="#FN42">42</ref>
+            </hi> Mais la <hi rend="italic">Somme des péchés</hi> regorge de citations scripturaires, patristiques, conciliaires et papales, cependant elles font partie de la trame d'un argument complexe et souvent à but indéfini. Les autorités modernes ne prévalent que dans deux ou trois chapitres qui se révèlent comme les plus sujets à controverse, mais ils ne constituent qu'une infime proportion d'un texte où, le plus souvent, autorités antiques et modernes se côtoient, se soutiennent ou, ne le perdons pas de vue, se contredisent.</p>
+         <p>Tout ceci pour la forme. En ce qui concerne le fond, il faut tout d'abord citer la célèbre formule exprimée comme credo par Montalte: ‘Je ne me contente pas du probable, je cherche le sûr’,<hi rend="superscript">
+               <ref type="fn" target="#FN43">43</ref>
+            </hi> phrase qui oppose les deux attitudes antithétiques vis-à-vis de la morale chrétienne qu'incarnent nos deux textes. L'unicité de l'enseignement pascalien ne tolère pas l'incertitude; et la théologie qui la sous-tend est articulée dans la cinquième lettre, à partir d'une citation psalmique: ‘<hi rend="italic">La loi du Seigneur</hi> […] <hi rend="italic">est celle qui doit convertir les âmes</hi>, et les conformer à ses salutaires instructions.’<hi rend="superscript">
+               <ref type="fn" target="#FN44">44</ref>
+            </hi> Tout projet de Pascal implique le mouvement vers un changement de langage, transition effectuée dans cette série de lettres à l'étape de la onzième, lettre charnière qui introduit la certitude d'une perspective évangélique pure et dure qui prévaudra dans toutes celles qui suivront. Bauny, en revanche, reste dans le monde: juridique, provisoire, compromettant, récidiviste. Et la sévérité ponctuelle des Jésuites — exprimée par exemple dans l'un de ses rares moments d'apparente impartialité lorsque le second père jésuite exhorte Montalte à ‘[se] faire violence’ dans sa pratique du jeûne — cette sévérité prônée à côté de leur laxisme ne sert pour Montalte que de piège supplémentaire. Ainsi, dans la huitième lettre, nous trouvons un échange entre Montalte et son interlocuteur à propos des écrits de Bauny sur l'usure: ‘Ô mon Père, je ne le croyais pas si sévère! Il l'est quand il le faut, me dit-il.'<hi rend="superscript">
+               <ref type="fn" target="#FN45">45</ref>
+            </hi>
+         </p>
+         <p>Mais c'est peut-être dans la dixième lettre (sur l'adoucissement de la confession et de la pénitence) que nous trouvons réunies dans la même page les deux phrases complémentaires qui sont les plus à même d'illustrer le gouffre qui sépare non seulement les deux points de vue mais, critère encore plus important pour l'efficacité polémique, les deux réactions possibles du lecteur face aux deux théologies de la pénitence: car c'est là, dans le contexte des rechutes dans les péchés habituels, que le Jésuite fictif rassure Montalte sur le fait qu'une décision du Père Bauny (tirée en fait de sa <hi rend="italic">Theologia moralis</hi>) ‘soulage encore bien la honte qu'on a de confesser ses rechutes’;<hi rend="superscript">
+               <ref type="fn" target="#FN46">46</ref>
+            </hi> et tout de suite après, traduite en langue pascalienne, cette même assurance devient ‘une de leur plus pernicieuses maximes, et des plus propres à entretenir les vicieux dans leurs mauvaises habitudes’. Afin de voir le bon sens et la conviction évangélique de Pascal, il suffit de se rappeler l'idéal chrétien et de chercher, pas très loin d'ailleurs, la justification du rigorisme dans les abus du compromis qui peuvent s'ensuivre. Mais afin de voir le réalisme et l'humanité du Jésuite, il faut être capable de prendre nos distances vis-à-vis de l'indignation croissante de l'interlocuteur des petites lettres, et de reconnaître une malheureuse constante de la nature humaine déchue.</p>
+         <p>Pourquoi Pascal gagne-t-il? La réponse à cette question semble alors prendre plusieurs dimensions. Premièrement, Pascal ‘gagne’ parce qu'il triche, ainsi que l'a amplement démontré le travail de Roger Duchêne sur les impostures littéraires.<hi rend="superscript">
+               <ref type="fn" target="#FN47">47</ref>
+            </hi> Ou, comme le commente Robin Briggs: ‘It would certainly be most unwise to take Pascal and the other Jansenist polemicists as fair guides to what the Jesuits taught and practised.’<hi rend="superscript">
+               <ref type="fn" target="#FN48">48</ref>
+            </hi> Le texte de Bauny tel qu'il ressort des petites lettres est marqué par plusieurs traits qui le dénaturent grâce surtout au manque de contexte. Lorsque les opinions laxistes sont citées indépendamment des contrepoids rigoureux qui invariablement les complètent, la possibilité d'abus de la part du confesseur est bien sûr renforcée de même que leur capacité de choquer est sans exception rehaussée. N'oublions pas non plus que Pascal n'aurait probablement connu la <hi rend="italic">Somme des péchés</hi> que par les extraits succincts, culpabilisants et non-contextuels qui figurent dans la censure de 1641,<hi rend="superscript">
+               <ref type="fn" target="#FN49">49</ref>
+            </hi> ou bien par les multiples citations incorporées par Arnauld dans sa <hi rend="italic">Théologie morale des jésuites</hi> de 1643.<hi rend="superscript">
+               <ref type="fn" target="#FN50">50</ref>
+            </hi> Tous les deux sont systématiques, ponctuels et efficaces, et les extraits de Bauny sont choisis par Pascal, à l'instar de ces deux textes, afin d'accorder un maximum de crédibilité à la position rigoriste et de jeter un maximum de discrédit sur les positions laxistes.</p>
+         <p>Pascal gagne parce qu'il exploite la logique de la casuistique, Bauny et autres aidant, selon un processus qui est le contraire de la <hi rend="italic">reductio ad absurdum</hi>, et que l'on pourrait définir comme une sorte d'<hi rend="italic">amplificatio ad absurdum</hi>: ‘On ne saurait’, dit le Père dans la huitième lettre, ‘écrire pour trop de monde, ni particulariser trop les cas.’<hi rend="superscript">
+               <ref type="fn" target="#FN51">51</ref>
+            </hi> L'effet comique qui en ressort fut bien sûr à l'origine de l'attaque contre Pascal par les Jésuites, selon laquelle il aurait été coupable de ‘[tourner] les choses saintes en raillerie’.<hi rend="superscript">
+               <ref type="fn" target="#FN52">52</ref>
+            </hi> Mais la riposte de Pascal, qui fait tout le poids de la onzième lettre, consiste à insister sur la légitimité de la raillerie lorsque les choses saintes sont, à la lumière des impératifs évangéliques, elles-mêmes déformées. C'est donc selon lui, et grâce à une sorte de double renversement des termes, une raillerie de l'abus des choses saintes qu'il aurait proposée. La satire répond, dans cette perspective, à la parodie.</p>
+         <p>Soyons plus simples pour conclure; et reconnaissons dans un premier temps le très simple fait que Pascal gagne parce qu'il est lisible; Bauny ne l'est guère et son texte n'est pas <hi rend="italic">stricto sensu</hi> un texte éristique. Les traits lexicaux et stylistiques que nous avons identifiés comme caractéristiques de la <hi rend="italic">Somme des péchés</hi>, et que les longues citations encombrantes de la huitième lettre mettent en relief, ne sauraient faire face à l'élégance, la mondanité et la verve comique de leur némésis. Dans un second temps, Pascal gagne parce que le noir et le blanc sont de loin plus faciles à défendre et à promouvoir dans un contexte polémique que le gris. La certitude — le ‘sûr’ — accorde à la polémique une allure que le ‘probable’ ne sera jamais capable d'atteindre (il suffit de jeter un coup d'œil sur les réponses jésuites aux <hi rend="italic">Provinciales</hi>). Comme le note Robin Briggs, ‘the Jansenist view held obvious advantages as a debating position’,<hi rend="superscript">
+               <ref type="fn" target="#FN53">53</ref>
+            </hi> et c'est une grande ironie de constater que Pascal réussit à faire condamner par le sens commun un système qui y fait si constamment appel.</p>
+         <p>Mais ce double appel à l'orthodoxie et au sens commun réussit à son tour parce que Pascal écrit pour les sectateurs et pour les spectateurs — pour ceux qui cherchent d'une façon zélée et exclusive à suivre au pied de la lettre les injonctions les plus strictes de l'évangile (surtout dans les lettres qui suivent la onzième); mais aussi, surtout dans la première série, pour ceux qui, tout en n'en faisant pas partie, croient que le christianisme dont ils sont prêts à admettre la valeur pour autrui devrait être comme cela; pour ceux qui ne veulent pas en être, autrement dit, mais qui souhaitent que ceux qui en sont soient parfaits. Ainsi que nous lisons dans la réponse de l'ami provincial à la seconde lettre: ‘Elles [les lettres] ne sont pas seulement estimées par les théologiens; elles sont encore agréables aux gens du monde’;<hi rend="superscript">
+               <ref type="fn" target="#FN54">54</ref>
+            </hi> ou, dans la quatrième: ‘Mais prenez garde, mon Père, aux dangereuses suites de votre maxime. Ne remarquez-vous pas quel effet elle peut faire dans ces libertins qui ne cherchent qu’à douter de la religion?'<hi rend="superscript">
+               <ref type="fn" target="#FN55">55</ref>
+            </hi>
+         </p>
+         <p>Pascal note dans un fragment des <hi rend="italic">Pensées</hi> que ‘les Jésuites ont voulu joindre Dieu au monde, et n'ont gagné que le mépris de Dieu et du monde’,<hi rend="superscript">
+               <ref type="fn" target="#FN56">56</ref>
+            </hi> et c'est dans cette perspective que je voudrais adapter un autre fragment des <hi rend="italic">Pensées</hi> pour conclure: ‘Le monde veut naturellement une religion, mais douce.’<hi rend="superscript">
+               <ref type="fn" target="#FN57">57</ref>
+            </hi> Non, le monde veut naturellement une religion dure, mais à condition de ne pas y adhérer. Les sectateurs visent à la pureté de leur foi; les spectateurs préfèrent que l'Église se conforme à un idéal qui n'est pas le leur — ou, dans notre cas, n'est plus le nôtre. En revanche, ceux qui travaillent à l'intérieur de l'Église de tous les jours, faillible dans ses membres sinon dans ses dogmes, sujette aux scandales de tous ordres et, du fait même de son statut militant, ni sûre ni pure, ceux-là comprennent que les questions qui travaillent les confesseurs face à leurs pénitents, et qui en troublent les consciences, ne se prêtent que rarement à des réponses absolues et définitives. Revenons au titre. Le texte du Père Bauny est une somme de péchés, écrite pour les pécheurs qui se confessent, mais écrite également pour les confesseurs, autrement dit pour ces autres pécheurs qui détiennent, ceux-là, la <hi rend="italic">virtus clavium</hi>, le pouvoir d'absoudre ou de refuser l'absolution à leurs homologues déchus.<hi rend="superscript">
+               <ref type="fn" target="#FN58">58</ref>
+            </hi> Et ‘que celui d'entre [eux] qui est sans péché […] jette la première pierre’.</p>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Blaise Pascal, Les Provinciales, in Pascal, Les Provinciales, Pensées, et opuscules divers, éd. par P. Sellier et G. Ferreyrolles (Paris, Garnier et Librairie Générale Française, 2004), 4e lettre, p. 313.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>Pascal, Pensées, in Pascal, Les Provinciales, Pensées, et opuscules divers, éd. par Sellier et Ferreyrolles, fr. 801. A. Arnauld, dans la Théologie morale des jésuites ([s.l.], [s.n.], 1643), explique que Bauny cherche à excuser ‘celui qui aura prié un soldat de frapper, battre son voisin, ou de brûler sa grange’, puisque le soldat resterait toujours libre à accorder ou à nier la demande (section XVIII). L'exemption se trouve chez Bauny à la p. 212.</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Nous suivons la pratique adoptée dans la plupart des études récentes des Provinciales, qui consiste à accorder à la première personne de l'épistolier le pseudonyme de L. de Montalte. Même si ce nom ne figure pas dans le texte, il se voit consacré par Pascal dans le titre du recueil publié en 1657: Les Provinciales; ou, Les Lettres écrites par Louis de Montalte à un provincial de ses amis et aux RR. PP. Jésuites.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>Père É. Bauny, SJ, La Somme des péchés qui se commettent en tous états (Cologne, [s.n.], 1633; 3e éd. 1635; 5e éd. 1638).</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Dictionnaire de théologie catholique, éd. par A. Vacant, 15 vols (Paris, Letouzey et Ané, 1903–68), art. ‘Confession’.</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>La perte de cette double fonction chez les Jésuites est notamment critiquée par Arnauld: ‘Ils ont réduit tout le sacrement de la Pénitence à la seule Confession’ (Théologie morale des jésuites, p. 24).</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>P. Rouillard, Histoire de la pénitence des origines à nos jours (Paris, Cerf, 1996), p. 63.</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Ibid., p. 81.</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>Pascal, Pensées, fr. 796.</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>A. Jonsen and S. Toulmin, The Abuse of Casuistry: A History of Moral Reasoning (Berkeley, University of California Press, 1988), pp. 256–57.</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Jonsen and Toulmin, The Abuse of Casuistry, pp. 26–27.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>M. Bernos, ‘Saint Charles Borromée et ses Instructions aux Confesseurs: une lecture rigoriste par le clergé français’, in Groupe de la Bussière, Pratique de la Confession (Paris, Cerf, 1983), pp. 185–200 (p. 195).</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>Bauny, Somme, ‘Au lecteur’.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Bauny, Somme, p. 814.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>Ibid., ‘Au lecteur’.</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>Bauny, Somme, p. 770. Cette formule mnémonique, qui remonte à l'époque médiévale, est un poncif des summæ confessorum.</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>Bauny, Somme, p. 484.</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Selon le Dictionnaire de théologie catholique (art. ‘Probabilisme’): ‘[Le terme] désigne en général les théories des moralistes qui admettent comme règle légitime de conduite une opinion probable connue telle, quand même a cours sur le point débattu une opinion reconnue plus probable.’ Le mot lui-même, qui date de la fin du XVIIe siècle, ne comporte en soi aucune acception péjorative. Il se distingue à la fois du probabiliorisme, selon lequel le jugement est fondé sur une opinion plus probable, et du tutiorisme, qui conseille de suivre l'opinion la plus sûre.</p>
+            </note>
+            <note place="inline" n="FN19">
+               <ref>19</ref>
+               <p>Bauny, Somme, p. 49.</p>
+            </note>
+            <note place="inline" n="FN20">
+               <ref>20</ref>
+               <p>Pascal, Pensées, fr. 127.</p>
+            </note>
+            <note place="inline" n="FN21">
+               <ref>21</ref>
+               <p>Bauny, Somme, p. 97.</p>
+            </note>
+            <note place="inline" n="FN22">
+               <ref>22</ref>
+               <p>Ibid., ‘Au lecteur’.</p>
+            </note>
+            <note place="inline" n="FN23">
+               <ref>23</ref>
+               <p>Par exemple (choisis au hasard): admodier; la déshérance; l'emphythéose; la latiration; le mutataire; la paction; la préfixion; la quérimonie; ramentevoir; la ratihabition.</p>
+            </note>
+            <note place="inline" n="FN24">
+               <ref>24</ref>
+               <p>Voir Pascal, Provinciales, p. 388, n. 3.</p>
+            </note>
+            <note place="inline" n="FN25">
+               <ref>25</ref>
+               <p>Bauny, Somme, p. 6.</p>
+            </note>
+            <note place="inline" n="FN26">
+               <ref>26</ref>
+               <p>Section XX.</p>
+            </note>
+            <note place="inline" n="FN27">
+               <ref>27</ref>
+               <p>Bauny, Somme, pp. 306–07.</p>
+            </note>
+            <note place="inline" n="FN28">
+               <ref>28</ref>
+               <p>Censure de la Faculté de théologie de Paris du livre français intitulé ‘La Somme des péchés’, faite le 1er avril 1641, in Lettres provinciales (Cologne, chez Nicolas Schoute, 1659).</p>
+            </note>
+            <note place="inline" n="FN29">
+               <ref>29</ref>
+               <p>Bauny, Somme, p. 317.</p>
+            </note>
+            <note place="inline" n="FN30">
+               <ref>30</ref>
+               <p>Ibid., p. 71.</p>
+            </note>
+            <note place="inline" n="FN31">
+               <ref>31</ref>
+               <p>Ibid., p. 571.</p>
+            </note>
+            <note place="inline" n="FN32">
+               <ref>32</ref>
+               <p>Pascal, Provinciales, 8e lettre, p. 394.</p>
+            </note>
+            <note place="inline" n="FN33">
+               <ref>33</ref>
+               <p>Bauny, Somme, p. 851.</p>
+            </note>
+            <note place="inline" n="FN34">
+               <ref>34</ref>
+               <p>Ibid., p. 34.</p>
+            </note>
+            <note place="inline" n="FN35">
+               <ref>35</ref>
+               <p>‘Concluons donc de ces décisions toutes saintes: que Dieu par sa miséricorde donne quand il lui plaît, aux justes, le pouvoir plein et parfait d'accomplir ses préceptes, et qu'il ne le donne pas toujours, par un jugement juste quoique caché’ (Pascal, Écrits sur la grâce, in Pascal, Œuvres complètes, éd. par L. Lafuma (Paris, Seuil, 1963), pp. 310–48 (p. 348)).</p>
+            </note>
+            <note place="inline" n="FN36">
+               <ref>36</ref>
+               <p>Bauny, Somme, p. 733.</p>
+            </note>
+            <note place="inline" n="FN37">
+               <ref>37</ref>
+               <p>Penny Cyclopedia, citée par Jonsen et Toulmin, The Abuse of Casuistry, p. 12.</p>
+            </note>
+            <note place="inline" n="FN38">
+               <ref>38</ref>
+               <p>Pascal, Provinciales, 4e lettre, p. 311.</p>
+            </note>
+            <note place="inline" n="FN39">
+               <ref>39</ref>
+               <p>Ibid., 4e lettre, p. 316.</p>
+            </note>
+            <note place="inline" n="FN40">
+               <ref>40</ref>
+               <p>Ibid., 4e lettre, p. 312.</p>
+            </note>
+            <note place="inline" n="FN41">
+               <ref>41</ref>
+               <p>Ibid., 8e lettre, p. 388; 10e lettre, p. 428.</p>
+            </note>
+            <note place="inline" n="FN42">
+               <ref>42</ref>
+               <p>Ibid., 5e lettre, p. 345.</p>
+            </note>
+            <note place="inline" n="FN43">
+               <ref>43</ref>
+               <p>Ibid., 5e lettre, p. 338.</p>
+            </note>
+            <note place="inline" n="FN44">
+               <ref>44</ref>
+               <p>Ibid., 5e lettre, p. 333.</p>
+            </note>
+            <note place="inline" n="FN45">
+               <ref>45</ref>
+               <p>Ibid., 8e lettre, p. 387.</p>
+            </note>
+            <note place="inline" n="FN46">
+               <ref>46</ref>
+               <p>Ibid., 10e lettre, pp. 421–22.</p>
+            </note>
+            <note place="inline" n="FN47">
+               <ref>47</ref>
+               <p>R. Duchêne, L'Imposture littéraire dans les ‘Lettres provinciales’, 2e éd. revue et augmentée (Aix-en-Provence, Université de Provence, 1985).</p>
+            </note>
+            <note place="inline" n="FN48">
+               <ref>48</ref>
+               <p>R. Briggs, Communities of Belief: Cultural and Social Tensions in Early Modern France (Oxford, Clarendon Press, 1989), p. 286.</p>
+            </note>
+            <note place="inline" n="FN49">
+               <ref>49</ref>
+               <p>Rapportée dans l'édition de 1659 des Provinciales de Pascal.</p>
+            </note>
+            <note place="inline" n="FN50">
+               <ref>50</ref>
+               <p>Voir Pascal, Les Provinciales, éd. M. Le Guern (Paris, Gallimard, 1987).</p>
+            </note>
+            <note place="inline" n="FN51">
+               <ref>51</ref>
+               <p>Pascal, Provinciales, 8e lettre, p. 399.</p>
+            </note>
+            <note place="inline" n="FN52">
+               <ref>52</ref>
+               <p>Ibid., 11e lettre, p. 440.</p>
+            </note>
+            <note place="inline" n="FN53">
+               <ref>53</ref>
+               <p>Briggs, Communities of Belief, p. 289.</p>
+            </note>
+            <note place="inline" n="FN54">
+               <ref>54</ref>
+               <p>Pascal, Provinciales, p. 294.</p>
+            </note>
+            <note place="inline" n="FN55">
+               <ref>55</ref>
+               <p>Ibid., 4e lettre, pp. 316–17.</p>
+            </note>
+            <note place="inline" n="FN56">
+               <ref>56</ref>
+               <p>Pascal, Pensées, fr. 809.</p>
+            </note>
+            <note place="inline" n="FN57">
+               <ref>57</ref>
+               <p>Ibid., fr. 789.</p>
+            </note>
+            <note place="inline" n="FN58">
+               <ref>58</ref>
+               <p>Fénelon nous rappelle dans son sermon De la prière: ‘Saint Paul [Épître aux Hébreux 5. 3] recommande que le prêtre mortel, qui représente Jésus-Christ, étant sujet aux faiblesses humaines, offre le sacrifice pour ses propres péchés en même temps que pour ceux du peuple'. Œuvres spirituelles, in Œuvres, I, éd. par Jacques Le Brun (Paris, Gallimard, 1983), p. 882.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

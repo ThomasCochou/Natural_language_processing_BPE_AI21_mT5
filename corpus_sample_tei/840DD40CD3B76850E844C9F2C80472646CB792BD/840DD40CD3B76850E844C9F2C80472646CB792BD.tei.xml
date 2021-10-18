@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019-->
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a" type="main" xml:lang="fr">Matérialisme et unité de l’être humain : le défi du dualisme cartésien chez La Mettrie et d’Holbach</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>ISTEX</authority>
+        <publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher>
+        <pubPlace>New York, USA</pubPlace>
+        <availability>
+          <licence>
+            <p>Copyright © Canadian Philosophical Association 2011</p>
+          </licence>
+          <p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p>
+        </availability>
+        <date>2011</date>
+      </publicationStmt>
+      <notesStmt>
+        <note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+        <note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct type="inbook">
+          <analytic>
+            <title level="a" type="main" xml:lang="fr">Matérialisme et unité de l’être humain : le défi du dualisme cartésien chez La Mettrie et d’Holbach</title>
+            <author xml:id="author-0000">
+              <persName>
+                <forename type="first">Daniel</forename>
+                <surname>Dumouchel</surname>
+              </persName>
+              <affiliation>Université de Montréal</affiliation>
+            </author>
+            <idno type="istex">840DD40CD3B76850E844C9F2C80472646CB792BD</idno>
+            <idno type="ark">ark:/67375/6GQ-SPPKXM3B-L</idno>
+            <idno type="DOI">10.1017/S0012217310000697</idno>
+            <idno type="PII">S0012217310000697</idno>
+            <idno type="article-id">00069</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Dialogue</title>
+            <title level="j" type="abbrev">Dialogue</title>
+            <idno type="pISSN">0012-2173</idno>
+            <idno type="eISSN">1759-0949</idno>
+            <idno type="publisher-id">DIA</idno>
+            <imprint>
+              <publisher>Cambridge University Press</publisher>
+              <pubPlace>New York, USA</pubPlace>
+              <date type="published" when="2010-12"/>
+              <biblScope unit="volume">49</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page" from="561">561</biblScope>
+              <biblScope unit="page" to="572">572</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>2011</date>
+      </creation>
+      <langUsage>
+        <language ident="fr">fr</language>
+      </langUsage>
+      <abstract xml:lang="fr" style="translated">
+        <p>Le présent article se propose de réfléchir sur le rôle que joue la pensée philosophique de Descartes chez deux des principaux philosophes matérialistes du xviiie siècle, Julien Offray de La Mettrie et le baron d’Holbach. Alors que les deux philosophes s’entendent sur le caractère aberrant et inintelligible de la spiritualité de l’âme, l’interprétation qu’ils font de la signification des conséquences du cartésianisme diffère. Tandis que l’auteur de L’homme-machine feint de voir dans le dualisme cartésien une ruse destinée aux théologiens, qui cache un matérialisme souterrain qui ne révélerait sa véritable portée que dans l’analogie de la machine appliquée à l’être humain, l’auteur du Système de la nature élève l’erreur cartésienne au rang d’emblème de l’ignorance philosophique causée par l’autonomisation de l’imagination théorique.</p>
+      </abstract>
+      <abstract xml:lang="fr" style="normal">
+        <p>This paper assesses the influence of Descartes’s thought on Julien Offray de La Mettrie and Baron D’Holbach, two prominent materialist philosophers of the 18th century. While both agree on the aberrant and unintelligible character of the soul’s spirituality, their interpretation of the consequences of Cartesianism differ. To lay the ground for his own materialism, La Mettrie disingenuously describes Descartes as a crypto-materialist. D’Holbach, on the other hand, takes the mistake of dualism as the product of an overly imaginative metaphysics.</p>
+      </abstract>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2010-12">Published</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+Matérialisme et unité de l’être humain :
+le déﬁ du dualisme cartésien chez La
+Mettrie et d’Holbach
+
+DANIEL DUMOUCHEL
+
+Université de Montréal
+
+RÉSUMÉ: Le présent article se propose de réﬂéchir sur le rôle que joue la pensée
+philosophique de Descartes chez deux des principaux philosophes matérialistes du
+XVIIIe siècle, Julien Offray de La Mettrie et le baron d’Holbach. Alors que les deux philosophes s’entendent sur le caractère aberrant et inintelligible de la spiritualité de
+l’âme, l’interprétation qu’ils font de la signiﬁcation des conséquences du cartésianisme
+diffère. Tandis que l’auteur de L’homme-machine feint de voir dans le dualisme
+cartésien une ruse destinée aux théologiens, qui cache un matérialisme souterrain qui
+ne révélerait sa véritable portée que dans l’analogie de la machine appliquée à l’être
+humain, l’auteur du Système de la nature élève l’erreur cartésienne au rang d’emblème
+de l’ignorance philosophique causée par l’autonomisation de l’imagination théorique.
+ABSTRACT: This paper assesses the inﬂuence of Descartes’s thought on Julien Offray
+de La Mettrie and Baron D’Holbach, two prominent materialist philosophers of the 18th
+century. While both agree on the aberrant and unintelligible character of the soul’s
+spirituality, their interpretation of the consequences of Cartesianism differ. To lay the
+ground for his own materialism, La Mettrie disingenuously describes Descartes as a
+crypto-materialist. D’Holbach, on the other hand, takes the mistake of dualism as the
+product of an overly imaginative metaphysics.
+
+Pour discrète qu’elle puisse sembler à première vue, la philosophie de Descartes
+occupe une place non négligeable dans le matérialisme français du XVIIIe
+siècle. Je proposerai ici quelques réﬂexions sur le rôle que joue la pensée
+Dialogue 49 (2010), 561–572.
+© Canadian Philosophical Association /Association canadienne de philosophie 2011
+doi:10.1017/S0012217310000697
+
+562
+
+Dialogue
+
+philosophique cartésienne dans la philosophie de La Mettrie et de d’Holbach,
+qui mobilisent la ﬁgure de Descartes à des moments cruciaux de leur argumentation. Pour ce faire, je me concentrerai sur la question de l’unité de l’être
+humain, et plus particulièrement sur celle du rapport entre l’homme physique
+et l’homme moral. Il convient préalablement de préciser que pour être appelée
+matérialiste, au siècle des Lumières, une théorie de l’esprit doit se proposer de
+réduire l’explication des phénomènes «intellectuels» à des propriétés corporelles ou matérielles et d’inclure le corps humain dans l’ensemble de la nature.
+Pour participer du matérialisme, il ne sufﬁt pas qu’un auteur en appelle à une
+conception naturaliste de la connaissance et de l’action : David Hume, par
+exemple, dans son Traité de la nature humaine, se veut naturaliste, sans avoir
+pourtant développé une théorie matérialiste de l’esprit. On ne peut pas non plus
+identiﬁer le matérialisme au projet d’une genèse radicale de la connaissance à
+partir de la sensation : l’Essai sur l’origine des connaissances humaines de
+Condillac a mené un projet de cette sorte en respectant le cadre philosophique
+du dualisme. La généalogie matérialiste est radicale; elle vise non seulement à
+restituer l’engendrement des connaissances et des facultés de pensée, mais à
+expliquer la genèse de la pensée elle-même à partir du corps. Même Helvétius,
+dans De l’esprit, a pu montrer l’engendrement de l’esprit et de nos passions à
+partir de la sensation et de l’amour de soi sans jamais s’engager ouvertement
+dans la voie matérialiste. En revanche, si La Mettrie, d’Holbach et Diderot sont
+des philosophes matérialistes, c’est parce qu’ils considèrent que l’explication
+de l’être humain est incomplète si les phénomènes mentaux et moraux ne sont
+pas réinsérés dans l’unité de la nature matérielle, à titre de propriétés de notre
+organisation corporelle.
+L’une des tâches de la pensée matérialiste française, de La Mettrie à Diderot
+et à d’Holbach, est donc de fournir une conception uniﬁée de l’être humain en
+continuité avec ce que nous pouvons connaître de la nature corporelle. Le principal obstacle qui s’oppose à cette entreprise vient des conceptions dualistes de
+l’âme et de l’esprit, qui introduisent, selon ces auteurs, des incohérences au
+sein de l’explication de la nature et de l’être humain. Même si ce reproche vise
+la plupart des systèmes métaphysiques modernes, sans parler de celui des
+théologiens, on comprendra que la pensée cartésienne, qui repose sur une distinction radicale entre la substance étendue et la substance pensante, soit particulièrement emblématique, dans ce contexte, des positions dont il convient
+de prendre ses distances. Comme je l’ai dit précédemment, j’examinerai comment, et dans quel but, la ﬁgure philosophique de Descartes est mobilisée chez
+La Mettrie et chez d’Holbach. On verra qu’entre l’auteur de L’homme-machine
+et celui du Système de la nature, les stratégies diffèrent, en dépit d’un consensus relatif sur la nécessité de réduire le dualisme à un monisme corporel, la
+pensée pouvant s’expliquer en termes de propriétés matérielles, sans que
+l’on doive renoncer à la complexité descriptive des facultés intellectuelles.
+Alors que La Mettrie entretient un rapport volontairement ambigu à la ﬁgure
+d’autorité cartésienne, tentant de sauvegarder certaines de ses intuitions
+
+Matérialisme et unité 563
+
+épistémologiques et allant même jusqu’à proposer de l’embrigader dans
+l’entreprise matérialiste, d’Holbach, dans la première partie de son Système de
+la nature, revient avec insistance sur ce qu’on pourrait appeler, pour reprendre
+un titre récent, l’erreur de Descartes, non seulement pour la réfuter, mais pour
+en faire l’emblème de toute ignorance métaphysique.
+1. La Mettrie
+La pensée de La Mettrie n’est pas toujours aisée à saisir, tant l’auteur de
+L’homme-machine passe d’une métaphore ou d’une analogie à l’autre, et d’un
+niveau d’argumentation philosophique à un autre. Il n’est pas rare que, dans
+un même texte, La Mettrie soutienne deux thèses incompatibles ou passe d’un
+argument métaphysique à un argument expérimental. Il connaît aussi les limites des ﬁctions et des métaphores philosophiques — comme celle de machine,
+ou de plante — et il en joue savamment, selon les contextes. On doit donc
+appliquer la règle de prudence aux passages, empreints de ruse et d’ironie, où La
+Mettrie discute du mérite ou des limites de Descartes. Dans la section du Traité
+de l’âme portant sur le génie, lorsqu’est discutée la question de savoir quels
+philosophes modernes méritent cette épithète élogieuse, La Mettrie soutient de
+façon conventionnelle que le chef-d’œuvre de Descartes est sa méthode, dont
+les fruits se sont manifestés d’abord dans la géométrie1. Même remarque dans
+l’Abrégé des systèmes : c’est en proposant un nouvel art de raisonner, une
+méthode de penser, que Descartes a débarrassé la philosophie des termes
+«ontologiques» et des idées abstraites de l’être qui l’encombraient (AS, p. 165).
+Le compliment est toutefois de courte durée. Le premier des géomètres se
+révèle piètre métaphysicien. Descartes n’a pas suivi sa propre méthode (id.), et
+sitôt que l’on quitte sa géométrie, on se retrouve empêtré dans «des systèmes,
+c’est-à-dire des imaginations, des erreurs» (ibid., p. 166). Par un soudain renversement, celui qui avait purgé la philosophie de son galimatias ontologique
+est lui-même accusé de produire de l’obscurité et d’engendrer des idées vides :
+«assurément dans ces Méditations métaphysiques [...] Descartes ne sait ce qu’il
+cherche ni où il veut aller; il ne s’entend pas lui-même» (TA, p. 132). Voilà un
+reproche bien dur pour celui qui faisait de la conduite de sa pensée et de la recherche de l’évidence le point de départ de sa démarche philosophique. La fécondité de la méthode cartésienne, en dehors de la géométrie, est tout au plus
+indirecte : la volonté de réfuter ses «frivoles conjectures» (AS, p. 165) a conduit ses successeurs à produire de nombreuses expériences utiles : «je veux, dit
+La Mettrie, que sans lui nous n’eussions point eu les Huygens, les Boyle, les
+Mariotte, les Newton, [...] les Gravesande, les Boerhaave, etc., qui ont enrichi la physique d’une prodigieuse multitude d’expériences, et qu’en ce sens il
+soit fort permis aux imaginations vives de se donner carrière» (TS, p. 133).
+Mais qu’en est-il exactement de cette obscurité cartésienne? La Mettrie
+reproche d’abord à Descartes de réduire l’essence de la matière — «qu’il ne
+connaît pas», précise-t-il — à l’étendue et à limiter la «substance» corporelle à
+ce que nous pouvons connaître de l’étendue et du mouvement. La Mettrie est
+
+564
+
+Dialogue
+
+prêt à accepter que des attributs que nous concevons clairement, comme
+l’étendue et le mouvement, doivent exister dans une «chose» ou une «substance»
+corporelle ou matérielle qui possède l’étendue, même si Descartes, selon lui,
+avoue n’avoir aucune idée de la substance comme telle; ce qu’il conteste, c’est
+que ce que nous concevons clairement à propos de la substance étendue épuise
+la totalité de cette substance. Implicitement, La Mettrie reproche à Descartes
+de ne pas être en mesure de démontrer que la matière ne peut être rien de plus
+que l’étendue corporelle. C’est le scepticisme lockien à l’endroit de la connaissance de la substance2 qui est en jeu ici, et La Mettrie s’inscrit dans la foulée
+de l’interprétation matérialiste du passage célèbre où Locke suggère que Dieu
+pourrait faire en sorte que la matière produise la pensée3. Comme il se doit, La
+Mettrie reproche aussi à Descartes de faire dépendre tout mouvement dans les
+corps d’une force divine et de refuser toute force active à la matière. Descartes
+n’est pas le seul à subir cette critique, puisqu’à présent «il est démontré contre
+les cartésiens, les stahliens, les malebranchistes et les théologiens [...], que la
+matière se meut par elle-même non seulement lorsqu’elle est organisée, comme
+dans un cœur entier par exemple, mais lors même que cette organisation est
+détruite» (HM, p. 77).
+L’insufﬁsance de la déﬁnition métaphysique des corps se fait sentir également sur le plan de l’âme, ou de la substance pensante. Ce que nous connaissons de l’âme, son attribut essentiel, se résume à la pensée. On se souvient de
+la déﬁnition cartésienne de la pensée : «Par le mot de penser, j’entends tout ce
+qui se fait en nous de telle sorte que nous l’apercevons immédiatement par
+nous-mêmes; c’est pourquoi non seulement entendre, vouloir, imaginer, mais
+aussi sentir, est la même chose que penser»4. La pensée et ses divers modes
+sont irréductibles, dans leur nature même, à l’étendue, ce qui nous autorise,
+selon Descartes, à les attribuer à une substance propre, la chose pensante ou
+l’âme, radicalement distincte du corps. Mais pour La Mettrie, Descartes, en
+prétendant déﬁnir la pensée, n’a fait que dénombrer ses propriétés (ou ses
+modes), il n’a produit aucune idée de la nature de l’âme, c’est-à-dire de la
+substance pensante. Le scepticisme à l’endroit de la substance matérielle
+s’applique également à la prétendue substance pensante : qu’est-ce qui
+empêche les propriétés en question (sentir, vouloir, imaginer, etc.) d’être
+dépendantes d’une autre substance, en d’autres termes, d’être des propriétés de
+la matière? La seule véritable preuve suggérée par Descartes est celle du caractère inétendu de nos représentations de pensée. Mais c’est justement là que le
+bât blesse, selon La Mettrie, dans la mesure où le dualisme des substances introduit une série d’incohérences dans la pensée cartésienne. Ici, il faut bien le
+dire, La Mettrie fait preuve d’une certaine mauvaise foi et dénature un peu
+la pensée de Descartes pour les ﬁns de sa démonstration. Un être inétendu ne
+peut occuper aucun espace, et pourtant Descartes aurait voulu placer le siège
+de l’âme dans la glande pinéale. Cet être sans partie et inétendu, s’il devait exister «réellement quelque part», devrait être «dans le vide», le vide étant par ailleurs exclu par la physique cartésienne. Par ailleurs, une chose inétendue ne
+
+Matérialisme et unité 565
+
+peut agir sur une chose étendue, et vice-versa; l’obscure théorie de l’union de
+l’âme et du corps conduit donc Descartes directement à la (tout aussi obscure)
+théorie des causes occasionnelles.
+Devant ce qui lui apparaît comme un tissu d’incohérences, La Mettrie va
+suggérer que si Descartes a parlé de l’âme, c’est «parce qu’il était forcé d’en
+parler» (AS, p. 169). Le philosophe qui s’avance masqué dissimule donc un
+penseur matérialiste; chez lui, «l’âme spirituelle, inétendue, immortelle, sont
+de vains mots pour endormir les argus de Sorbonne» (ibid., p. 168). L’hommemachine poussera la stratégie de récupération de Descartes encore plus loin :
+ce célèbre philosophe s’est beaucoup trompé, «mais enﬁn il a connu la nature
+animale; il a le premier parfaitement démontré que les animaux étaient de
+pures machines» (HM, p. 80). Toute la théorie de la distinction des substances
+ne serait d’ailleurs qu’une «ruse de style» pour déjouer la vigilance des théologiens et leur faire avaler le «poison caché à l’ombre [de l’] analogie» (id.) de la
+machine! Cette analogie qui frappe tout le monde et que seuls les théologiens
+ne voient pas, ne dit pas seulement que les animaux sont des machines, mais
+que l’être humain peut être compris par la même analogie, et par conséquent
+que l’homme est lui-même un animal, qui ne se distingue des autres animaux
+que par la particularité et la complexité de son organisation. La ﬁction cartésienne de la machine et de l’automate animal permet de rabattre l’orgueil des
+théologiens et de leur montrer qu’ils ne sont «au fond que des animaux et des
+machines perpendiculairement rampantes» (id.). La remarquable intelligence
+qu’ils [c’est-à-dire les théologiens] s’attribuent se ramène à «un merveilleux
+instinct, dont l’éducation fait de l’esprit, et qui a toujours son siège dans le
+cerveau» (id.). Et on connaît la conclusion : «je crois la pensée, dit La Mettrie,
+si peu incompatible avec la matière organisée, qu’elle semble en être une
+propriété, telle que l’électricité, la faculté motrice, l’impénétrabilité, l’étendue,
+etc.» — Notons que l’ordre de l’énumération, ici, est digne d’intérêt : La
+Mettrie régresse des propriétés les plus particulières aux propriétés les plus
+générales de la matière, comme si les unes engendraient les autres — «Être
+machine, sentir, penser, savoir distinguer le bien du mal comme le bleu du
+jaune, en un mot être né avec de l’intelligence et un instinct sur la morale
+et n’être qu’un animal, sont donc des choses qui ne sont pas plus contradictoires qu’être un singe ou un perroquet et savoir se donner du plaisir» (id.).
+Deux choses doivent toutefois être précisées, qui sont liées à la conscience
+qu’a La Mettrie des limites de la connaissance humaine et qui conditionnent
+son mode d’argumentation. Premièrement, le scepticisme métaphysique à
+l’endroit de la connaissance de la substance matérielle et de la pensée oblige le
+philosophe à s’appuyer sur des analogies, des métaphores, tout en reconnaissant le caractère partiel et inadéquat de ces métaphores. Ainsi, la ﬁction de la
+machine ne saisit que de manière incomplète la réalité humaine; sa fonction se
+limite à montrer qu’il est possible d’appliquer à toutes les facultés humaines ce
+qui, dans la ﬁction cartésienne, ne valait que du corps humain et de l’animal.
+L’application à l’homme de l’analogie de la machine sert à appuyer la thèse —
+
+566
+
+Dialogue
+
+et la conclusion — de L’Homme-machine : «il n’y a dans tout l’univers qu’une
+seule substance diversement modiﬁée» (p. 84). Mais en raison de son caractère
+foncièrement inadéquat, la métaphore peut tout aussi bien être retournée :
+l’animal est plus que machine, puisqu’il a «de l’âme» lui aussi et est doté de
+perception, de mémoire, d’imagination et de jugement. Deuxièmement, la conviction de notre ignorance de la nature véritable de la matière et l’empirisme
+médical de La Mettrie le conduisent à remplacer l’argumentation philosophique
+par une accumulation d’observations censées venir appuyer la thèse matérialiste.
+Mais on peut douter qu’une telle méthode soit appropriée pour faire la preuve
+qu’il n’y a qu’une seule substance diversement modiﬁée et organisée. La Mettrie
+en est d’ailleurs conscient :
+L’homme est une machine si composée, dit-il, qu’il est impossible de s’en faire
+d’abord une idée claire, et conséquemment de la déﬁnir. [...] Ainsi ce n’est qu’a
+posteriori, ou en cherchant à démêler l’âme comme au travers des organes du corps,
+qu’on peut, je ne dis pas découvrir avec évidence la nature même de l’homme, mais
+atteindre le plus grand degré de probabilité possible sur ce sujet (ibid., p. 46).
+
+Mais, d’un point de vue strictement philosophique, de telles expériences ne
+peuvent faire guère plus que révéler l’entrelacement de ce qu’on appelle l’âme
+avec le corps, en soulignant la dépendance des états de l’âme par rapport aux
+variations des états corporels, et suggérer, avec la plus forte vraisemblance,
+que ce qu’on appelle l’esprit est le résultat de l’organisation corporelle, plus
+particulièrement du cerveau et des nerfs.
+2. D’Holbach
+Les conceptions que défend d’Holbach au sujet de la nature et de l’être humain
+sont assez semblables à celles que défendaient Diderot à la même époque5;
+pour faire vite, il est possible de catégoriser leur vision commune comme une
+sorte de néo-spinozisme vitaliste qui reste pensé, comme c’était aussi le cas
+chez La Mettrie, dans le contexte d’une théorie de la nature néo-lucrétienne, à
+la fois matérialiste et anti-ﬁnaliste. Le Système de la nature vise moins à justiﬁer cette conception de la nature qu’à inscrire radicalement l’être humain au
+sein des lois nécessaires de la nature et à en tirer les conséquences qui
+s’imposent au plan philosophique, moral et politique6. Autrement dit, le
+Système de la nature se présente sous la forme d’une anthropologie matérialiste
+et naturaliste radicale, dont la ﬁnalité n’est pas seulement descriptive, mais qui
+est également chargée d’une forte dimension normative : le savoir matérialiste
+est tourné vers la critique de l’ignorance, qui est la source de tous les maux de
+l’être humain. En dépit du nécessitarisme qu’il revendique explicitement,
+l’ethos prédominant de la pensée de d’Holbach vise à comprendre l’homme,
+comme être naturel, dans le but de le transformer en agissant sur les causes qui
+le maintiennent dans l’erreur, la superstition et la soumission. L’ignorance des
+lois de la nature, et de sa propre nature, de même que la transgression des
+
+Matérialisme et unité 567
+
+limites de la raison et de l’expérience livrent l’être humain à son imagination
+débridée, qui engendre des puissances inconnues et des êtres imaginaires;
+l’être humain est aliéné par les productions incohérentes de son propre esprit.
+«C’est faute de connaître sa propre nature, sa propre tendance, ses besoins et
+ses droits, dit d’Holbach, que l’homme en société est tombé de la liberté dans
+l’esclavage» (SN I §1, p. 41). L’imagination, l’enthousiasme, l’habitude, le
+préjugé pavent la voie à l’autorité illégitime, qui a toujours besoin de s’appuyer
+sur l’ignorance (SN, p. 43). Si l’erreur consiste à abandonner «l’expérience
+pour des systèmes enfantés par l’imagination» (ibid., p. 37), et si les réiﬁcations intellectuelles qui en résultent sont la porte d’entrée dans la soumission,
+on comprend pourquoi d’Holbach consacre une telle énergie à identiﬁer ce
+qu’on pourrait appeler la mécanique de l’illusion et de l’erreur, pas seulement
+aux plans religieux ou moral, mais également au plan philosophique et
+métaphysique. Qu’il s’agisse de la superstition ou des termes creux de la
+métaphysique, d’Holbach s’intéresse presque autant à la dynamique de l’erreur
+qu’à la défense de la vérité.
+C’est dans ce contexte, me semble-t-il, qu’il faut aborder les considérations
+sur les conceptions erronées de l’être humain qui occupent une grande portion
+de la première partie du Système de la nature. Le principe qui guide la critique
+menée par d’Holbach est celui qui veut que «toutes les erreurs des hommes
+sont des erreurs de physique» (SN, p. 41). En philosophie, l’ignorance de
+ce principe conduit aisément à la distinction abusive entre l’homme physique
+et l’homme moral. «L’homme, dit d’Holbach, est un être purement physique;
+l’homme moral n’est que cet homme physique considéré sous un certain point
+de vue, c’est-à-dire relativement à quelques-unes de ses façons d’agir, dues à
+son organisation particulière» (ibid., p 38). Cette organisation qui caractérise
+l’être humain est l’ouvrage de la nature, et par conséquent il convient de penser
+tous les mouvements visibles et invisibles qui sont excités en nous, toutes nos
+idées, nos volontés, nos actions comme des effets nécessaires des qualités que
+la nature a mises en nous. Tous les mouvements que nous éprouvons, qu’ils
+proviennent de l’intérieur ou de l’extérieur, sont ressentis comme étant favorables
+ou nuisibles à notre être, comme facteurs d’ordre ou de désordre; bref, ils nous
+apparaissent comme agréables ou désagréables. Nous approuvons et désirons
+les mouvements qui nous rendent heureux, tandis que nous désapprouvons et
+craignons les seconds, qui nous rendent malheureux. En d’autres termes, tout
+ce que nous faisons et tout ce qui se passe en nous est un effet de ce que
+d’Holbach appelle la conservation de soi, la «gravitation sur soi» — Helvétius
+parlerait d’amour de soi –, et nous inscrit dans le tout de la nature. C’est ce que
+veut dire d’Holbach lorsqu’il afﬁrme la continuité entre l’homme physique et
+l’homme moral.
+Je voudrais soutenir que c’est la ﬁgure de Descartes qui sert d’emblème de
+cette ignorance philosophique fondamentale dont il s’agit de saisir à la fois
+l’origine et les conséquences funestes. Le chapitre 6 du Système de la nature
+nous apprend que la source principale des erreurs de l’esprit humain, lorsqu’il
+
+568
+
+Dialogue
+
+tente de se penser lui-même, est de croire qu’il a le pouvoir de «se mouvoir
+lui-même, [d’] agir toujours par sa propre énergie» (SN, p. 106). Mais il faut
+dire que l’être humain, comme toute autre espèce, est susceptible de deux
+sortes de mouvements : des mouvements de masse, par lesquels le corps entier
+est soumis à des lois générales, et des mouvements internes et cachés, que nous
+ne pouvons percevoir que par leurs effets. Dans une machine complexe et très
+organisée comme l’être humain, plusieurs de ces mouvements peuvent se
+dérober à notre examen. Nous saisissons alors leurs effets, sans en connaître
+les causes. Il est alors presque inévitable que l’imagination prenne le relais de
+l’expérience et qu’elle formule d’«étranges hypothèses pour expliquer les jeux
+cachés de [notre] machine» (ibid., p. 108), qui nous apparaît si différente de
+celle des autres êtres de la nature. C’est le cas de la pensée, qui semble être en
+mesure de servir de principe moteur de notre machine, et donc de se mouvoir
+par sa propre énergie. C’est cette apparente autonomie de nos mouvements
+volontaires, dont nous ne percevons pas les causes, qui est la source de la première et principale erreur métaphysique de l’esprit humain, qui consiste à juger
+qu’il est «non seulement un être à part, mais encore d’une nature différente
+de tous les autres êtres de la nature» (ibid., p. 109). Autrement dit, il croit
+«apercevoir en lui-même une substance distinguée de lui» (id.) en tant qu’être
+naturel et corporel, une substance distincte de celles qui agissent sur nos organes
+à titres de causes visibles. C’est pour rendre compte de cette substance inconnue qu’il croyait être le principe caché de ses actions volontaires que l’homme
+a forgé les mots creux et vagues de «spiritualité, d’immatérialité, d’immortalité»
+(id.). Certes, une telle généalogie de l’erreur spiritualiste est de nature à
+englober une grande part de la tradition métaphysique et des philosophies
+dualistes, mais la suite montre bien que c’est l’erreur cartésienne qui est dans
+la mire du philosophe matérialiste :
+Ainsi, précise d’Holbach, l’homme devint double; il se regarda comme un tout composé par l’assemblage inconcevable de deux natures différentes, et qui n’avaient
+point d’analogie entre’elles. Il distingua deux substances en lui-même; l’une visiblement soumise aux inﬂuences des êtres grossiers et composés de matières grossières
+et inertes, fut nommé corps; l’autre, que l’on supposa simple, d’une essence plus
+pure, fut regardée comme agissante par elle-même et donnant le mouvement au
+corps auquel elle se trouvait miraculeusement unie; celle-ci fut nommée âme, ou
+esprit (ibid., p. 110).
+
+D’Holbach ne cherche pas seulement à montrer que ces distinctions métaphysiques, qui selon lui sont «adoptées aujourd’hui par la plupart des philosophes»
+(id.), sont vaines et sans fondement. Il faut se souvenir que pour lui, l’erreur est
+toujours nuisible. Ce qu’il veut suggérer, d’une part, c’est que l’invention de
+termes vides, privés du rapport à l’expérience, est un mécanisme de protection
+qui vise à remédier à l’ignorance des choses; et d’autre part, que les «spéculateurs
+en créant des mots et en multipliant les êtres, n’ont fait que se plonger dans des
+
+Matérialisme et unité 569
+
+embarras plus grands que ceux qu’ils voulaient éviter, et mettre des obstacles
+aux progrès des connaissances» (ibid., p. 111). Les conjectures gratuites se
+durcissent — s’hypostasient — en réalités et l’imagination théorique se perd
+dans le dédale qu’elle a elle-même enfanté. Les entités imaginaires entravent
+le progrès de la connaissance en enclenchant une logique de fausseté.
+Au chapitre 7, d’Holbach revient sur la question de l’âme spirituelle. Cette
+fois, Descartes est explicitement désigné comme fautif :
+Le système de la spiritualité tel qu’on l’admet aujourd’hui doit à Descartes toutes ses
+prétendues preuves : quoiqu’avant lui on eût regardé l’âme comme spirituelle, il est
+le premier qui ait établi que ce qui pense doit être distingué de la matière, d’où il
+conclut que notre âme, ou ce qui pense en nous, est un esprit, c’est-à-dire une
+substance simple et indivisible (SN, p. 127).
+
+D’Holbach a beau jeu de faire apparaître les nombreuses incohérences de la
+notion d’un être simple, sans étendue, sans mouvement, mais capable de recevoir ou de communiquer du mouvement. Je passe sur le détail de l’argumentation
+de d’Holbach. L’important est de voir que pour lui, ceux qui défendent l’idée
+de substance immatérielle ne comprennent pas eux-mêmes ce qu’ils énoncent
+et qu’ils n’ont rien fait d’autre «qu’imagine[r] une qualité négative dont ils
+n’ont point eu de véritable idée» (ibid., p. 122), étant donné que nos idées sont
+toutes issues de l’action de la matière sur nos organes. Le langage cartésien est
+retourné contre lui-même : alors que pour Descartes la connaissance métaphysique de l’âme n’est possible que si l’esprit fait abstraction de l’imagination et
+des images sensibles pour concevoir l’essence de la pensée, la théorie matérialiste et empiriste de d’Holbach soutient au contraire que les prétendues connaissances métaphysiques sont le résultat d’un délire imaginatif coupé de la
+seule source d’objectivité de la connaissance qui est l’expérience sensible.
+D’Holbach reproche implicitement à Descartes d’avoir dérogé à sa méthode
+lorsqu’il ajoute que c’est «faute de consulter l’expérience et d’écouter la raison
+que les hommes ont obscurci leurs idées sur le principe caché de leurs mouvements» (ibid., p. 125). Ce que révèlent justement l’expérience et la raison, c’est
+que l’âme fait partie de notre corps, qu’elle subit les même changements que
+lui, et en fait «qu’elle n’est que le corps lui-même considéré relativement à
+quelques-unes des fonctions ou facultés dont sa nature et son organisation
+particulière le rendent susceptible» (id.).
+Comme l’avait fait La Mettrie, d’Holbach va mobiliser les anciens contre
+Descartes et les philosophes modernes : bien que le terme esprit soit fort
+ancien, l’idée d’une spiritualité substantiellement distincte de la matérialité est
+de création récente, et elle est le produit de l’imagination philosophique. Au
+contraire, l’esprit des anciens n’est pas une substance immatérielle, mais un
+soufﬂe ou une matière subtile répandue dans le corps. Cette conception est plus
+proche de la vérité que l’entité chimérique sécrétée par l’imagination cartésienne qui s’est égarée en quittant les chemins de l’expérience. Voulant rejeter
+
+570
+
+Dialogue
+
+tous les préjugés, la raison cartésienne a produit une abstraction qui vient renforcer les préjugés théologiques. Avec d’Holbach, la conspiration théologienne
+n’est jamais loin, car il faut bien pouvoir expliquer à quoi sert une erreur qui
+persiste. Seules l’ignorance et la difﬁculté de percevoir les causes qui sont à
+l’œuvre dans notre esprit — ou plutôt dans notre cerveau — peuvent expliquer
+l’apparition et le maintien d’un système comme celui de la dualité des
+substances; mais l’ignorance engendre l’ignorance, et elle rend l’être humain
+vulnérable. Descartes, apôtre d’une pensée sans préjugés, libérée des dogmes
+et de l’autorité, apparaît à la fois comme victime des préjugés théologiques et
+comme fer de lance de l’autorité des théologiens.
+Si notre âme est matérielle et qu’elle ne peut tirer ses idées que des objets
+extérieurs qui modiﬁent notre cerveau en agissant sur nos sens ou de modiﬁcations internes à notre machine qui produisent des sensations, la théorie
+cartésienne des idées innées, qui suppose que l’âme spirituelle tire ses idées
+d’elle-même, apparaîtra comme une chimère de plus. En fait, cette théorie
+«monstrueuse» découle de ses propres prémisses, puisque si notre âme est une
+substance immatérielle il devient impossible de comprendre comment des
+êtres matériels peuvent avoir une inﬂuence sur elle; par conséquent, elle doit
+tirer ses modiﬁcations de sa propre énergie. En refusant les prémisses on réfute
+en même temps la théorie des idées innées. Il n’existe aucune preuve d’une
+spontanéité de l’esprit, ni dans les prétendues notions métaphysiques, ni dans
+les rêves où l’esprit semble engendrer des représentations sans causes externes,
+ni dans l’existence d’un prétendu sentiment moral; tous ces phénomènes sont
+explicables par des causes corporelles et par les effets de l’expérience. Mais
+outre leur fausseté, les connaissances qui prétendent se fonder sur des notions
+«infuses ou innées» (SN, p. 204) présentent un autre inconvénient grave. La
+plupart des disputes humaines sont le résultat de ce genre de notions abstraites,
+qui font ﬁ de l’expérience sensible pour s’appuyer sur des prétendues notions
+innées, alors même qu’elles ne sont que l’effet d’une imagination troublée et
+obscurcie par les préjugés et l’habitude. D’Holbach a la conviction que si l’on
+fonde la morale sur des notions théologiques vagues ou sur des êtres imaginaires sans modèle dans la nature, on l’abandonnera aux caprices et aux disputes. Plus on s’éloigne de l’expérience, plus les variations de l’imagination et
+la diversité des tempéraments rendront difﬁcile la communication entre les
+individus et favoriseront les conﬂits. Les caprices individuels de l’imagination
+empêchent que l’on s’entende jamais sur les prétendues notions abstraites; il
+est possible qu’en parlant de l’âme immatérielle ou de Dieu chaque individu
+attache à ces mots des idées différentes7.
+Je voudrais terminer par deux brèves remarques en guise de conclusion.
+D’abord, il faut rappeler l’usage fort différent qui est fait de la pensée cartésienne de la dualité des substances chez La Mettrie et chez d’Holbach. Si les
+deux philosophes s’entendent sur le caractère aberrant et inintelligible de la
+spiritualité de l’âme, ils diffèrent dans l’interprétation de la signiﬁcation des
+conséquences du cartésianisme. La Mettrie feint d’y voir une ruse, comme s’il
+
+Matérialisme et unité 571
+
+y a avait deux strates de discours chez Descartes : une strate dualiste faite pour
+satisfaire les théologiens et une strate matérialiste clandestine, qui ne révèlerait
+sa véritable portée que dans l’analogie de la machine appliquée à l’être
+humain. Notons toutefois que cette interprétation ne lève pas les autres difﬁcultés
+que La Mettrie impute à la philosophie cartésienne, notamment la conception
+mécaniste de la nature corporelle, qui empêche de reconnaître des forces
+intrinsèques à la matière. Pour d’Holbach l’erreur cartésienne devient
+l’emblème de l’ignorance philosophique causée par l’autonomisation de
+l’imagination théorique. C’est pourquoi d’Holbach la réfute moins en raison de
+sa fausseté intrinsèque que dans le but de disséquer les causes et les conséquences de l’erreur philosophique en général. Ce qui retient son attention,
+c’est le processus pathologique par lequel l’esprit humain devient victime de
+ses propres dérèglements imaginatifs, et l’examen de l’erreur dualiste est dans
+une large mesure parallèle à celui de la genèse de la religion dans L’histoire
+naturelle de la superstition. Bref, la réfutation de Descartes engage la pensée
+de d’Holbach dans une direction politique normative qui dépasse largement le
+strict débat métaphysique sur les rapports entre l’esprit et le corps. En second
+lieu, si la déﬁnition proposée au début du présent texte est correcte, la tâche à
+laquelle est confronté le matérialisme de La Mettrie, Diderot et d’Holbach,
+s’agissant de l’esprit humain, est celle de montrer la genèse concrète de
+l’ensemble des fonctions de l’esprit à partir de l’organisation particulière du
+corps humain. De ce point de vue, le résultat peut sembler décevant. La plupart
+des preuves expérimentales que propose, par exemple, La Mettrie ne visent qu’à
+montrer que ce que l’on appelle l’âme varie en même temps que les divers états
+du corps. Mais si l’on tente d’entrer plus en profondeur dans le détail de la
+compréhension matérialiste de l’unité humaine, on voit que l’imagination, qui
+selon lui rend compte de l’ensemble des opérations de l’esprit, s’explique par
+la façon dont les images se peignent sur la toile médullaire du cerveau8. Mais
+peu de choses, en fait, sont réellement connues du fonctionnement réel du
+cerveau et du réseau nerveux. Pourtant, si La Mettrie, d’Holbach — et il faudrait ajouter Diderot — sont convaincus que l’hypothèse matérialiste est plus
+féconde que l’hypothèse dualiste, c’est autant pour ses vertus «thérapeutiques»
+au plan moral et politique que pour l’horizon d’explication uniﬁée qu’elle
+permet d’ouvrir sur la nature humaine.
+Notes
+1 Traité de l’âme, p. 131. La Mettrie est cité d’après l’édition des Œuvres
+philosophiques, établissement du texte et annotation par Jean-Pierre Jackson,
+Paris, Coda, 2004. Pour les trois textes auxquels je ferai référence — soit L’homme
+Machine (1748; dorénavant HM), le Traité de l’âme (1745; dorénavant TA) et
+l’Abrégé des systèmes (dorénavant AS) —, J.-P. Jackson se base sur l’édition de
+1751 des «Mémoires pour servir à l’Histoire naturelle de l’Homme».
+2 On pourrait aussi bien parler d’un agnosticisme de l’empirisme de Locke à propos
+de la substance, et de la substance pensante en particulier, pourvu que l’on entende
+
+572
+
+3
+4
+5
+6
+7
+
+8
+
+Dialogue
+ce terme au sens étymologique et non pas au sens exclusivement religieux qu’il a
+pris en français au XIXe siècle. Le passage célèbre de Locke auquel je fais ici
+référence se trouve dans le livre IV, chapitre 3, §6 de l’Essai philosophique sur
+l’entendement humain.
+La Treizième lettre des Lettres philosophiques de Voltaire pourrait avoir servi de
+relais pour cette interprétation.
+Principes de la philosophie, I, §9; reproduction de l’édition Adam et Tannery, tome
+IX, Paris, Vrin, 1996, p. 28 (orthographe modernisée).
+Pensons par exemple au Rêve de D’Alembert, dont la rédaction date de 1769.
+Système de la nature, ou des lois du monde physique et du monde moral (1770),
+Paris, Fayard, 1990 (dorénavant SN, suivi de la pagination de cette édition).
+Pour l’exemple des désaccords engendrés par les variations imaginaires dans la
+conception de Dieu, voir La contagion sacrée, ou Histoire naturelle de la superstition
+(1768), chapitre II : «Si chaque individu est forcé de se faire un dieu à part, d’après
+sa propre organisation et ses propres circonstances, s’il n’est pas deux êtres de
+l’espèce humaine qui aient précisément les mêmes idées de leur dieu, il n’est pas
+surprenant que les inductions qu’ils en tirent soient inﬁniment diversiﬁées. […] Par
+une conséquence nécessaire, la religion doit suivre les idées que l’on s’est faites
+de sa divinité; et comme les hommes n’auront jamais de mesure commune pour
+décider des objets qui n’ont que leur fantaisie pour base, nous sommes forcés de
+conclure que nulle religion ne peut être vraie, et que jamais le genre humain ne
+pourra s’accorder dans les mêmes notions sur des objets purement imaginaires que
+chaque homme est obligé de voir diversement», Paris, Coda, 2006, p. 23-24.
+Voir HM, p. 58 : «Mais toujours est-il vrai que l’imagination seule aperçoit, que
+c’est elle qui se représente tous les objets, avec les mots et les ﬁgures qui les caractérisent, et qu’ainsi c’est elle encore une fois qui est l’âme, puisqu’elle en fait tous
+les rôles». Et ibid., p. 57 : «Je me sers toujours du mot imaginer, parce que je crois
+que tout s’imagine, et que toutes les parties de l’âme peuvent justement être réduites
+à la seule imagination, qui les forme toutes; et qu’ainsi le jugement, le raisonnement,
+la mémoire ne sont que des parties de l’âme nullement absolues, mais de véritables
+modiﬁcations de cette espèce de toile médullaire sur laquelle les objets peints dans
+l’œil sont renvoyés, comme d’une lanterne magique. Mais si tel est ce merveilleux
+et incompréhensible résultat de l’organisation du cerveau, si tout se conçoit par
+l’imagination, si tout s’explique par elle, pourquoi diviser le principe sensitif qui
+pense dans l’homme?».
+
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

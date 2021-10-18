@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Les sciences sociales françaises entre ancrage local et visibilité internationale</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><availability><licence><p>Copyright © A.E.S. 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Les sciences sociales françaises entre ancrage local et visibilité internationale</title><author xml:id="author-0000"><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName><email>gingras.yves@uqam.ca</email><affiliation>CIRST, Université du Québec à Montréal [gingras.yves@uqam.ca].</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Sébastien</forename><surname>Mosbah-Natanson</surname></persName><email>mosbah_natanson@yahoo.fr</email><affiliation>CIRST, Université du Québec à Montréal [mosbah_natanson@yahoo.fr].</affiliation></author><idno type="istex">686AC230A580980DEB4C68CEA2FC434F085B426A</idno><idno type="ark">ark:/67375/6GQ-K6Z760ZS-H</idno><idno type="DOI">10.1017/S0003975610000147</idno><idno type="PII">S0003975610000147</idno><idno type="article-id">00014</idno></analytic><monogr><title level="j">European Journal of Sociology</title><title level="j" type="abbrev">Arch. eur. sociol.</title><idno type="pISSN">0003-9756</idno><idno type="eISSN">1474-0583</idno><idno type="publisher-id">EUR</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>Cambridge, UK</pubPlace><date type="published" when="2010-08"/><biblScope unit="volume">51</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="305">305</biblScope><biblScope unit="page" to="321">321</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>In the current context of a growing internationalization of scientific exchanges, the issue of the language of scientific publications – settled in the natural sciences since the 1980s – has now become a central issue for the Social Sciences. Our paper discusses this topical issue through a detailed analysis of the linguistic strategies adopted by two major French social science journals, Population and Revue française de sociologie (RFS), which have chosen to translate into English a selection (RFS) or all (Population) of their articles. In view of the measured effects in terms of visibility in the international scientific field – increasing visibility for the journal Population at the expense of its French edition and a marginal effect for the RFS – we raise questions about the role of national social sciences journals and recall that the specific intellectual mission of these journals lies beyond the pursuit of internationalization.</p></abstract><abstract xml:lang="fr" style="translated"><p>À l’heure d’une internationalisation accrue des échanges scientifiques, la question de la langue des publications scientifiques – réglée en sciences de la nature depuis les années 1980 – est devenue un enjeu pour les sciences sociales. Cet article propose une analyse détaillée des stratégies linguistiques adoptées par deux revues françaises majeures de sciences sociales, Population et Revue française de sociologie (RFS), qui ont choisi de traduire en anglais une sélection (RFS) ou la totalité (Population) d’articles. Au vu des résultats en termes de visibilité dans le champ scientifique international – accroissement de la visibilité de la revue Population au détriment de la version française et effets marginaux pour la RFS –, on s’interroge sur le rôle joué par les revues nationales de sciences sociales. Une politique axée uniquement sur l’internationalisation laisse de côté toute une part de leur rôle de consignation d’un savoir national.</p></abstract><abstract xml:lang="de" style="translated"><p>Im Rahmen der Internationalisierung des Wissenschaftsbetriebs, wird die Frage der Veröffentlichungssprache in den Sozialwissenschaften zu einem nevralgischen Punkt. In den Naturwissenschaften ist die Frage seit den 80er Jahren gelöst. Dieser Aufsatz basiert auf der detaillierten Untersuchung der sprachlichen Strategien zweier frz sozialwissenschaftlicher Zeitschriften: Population und Revue française de sociologie (RFS). Letztere übersetzt einen Teil ihrer Aufsätze, erstere (Population) alle. Die internationale, wissenschaftliche Reichweite dieser Vorgehensweise – Anstieg der englischsprachigen Ausgabe bei Population gegenüber ihrer frz. Ausgabe und unbedeutende Auswirkungen bei RFS – wirft die Frage auf, welche Rolle die nationalen Zeitschriften der Sozialwissenschaften spielen. Die internationale Verankerung führt zur Vernachlässigung des hiesigen Wissens.</p></abstract><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>Evaluation</term></item><item><term>Internationalization</term></item><item><term>Scholarly journals</term></item><item><term>Language of publication</term></item><item><term>Translation</term></item></list></keywords></textClass><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>Évaluation</term></item><item><term>Internationalisation</term></item><item><term>Revues savantes</term></item><item><term>Langue de publication</term></item><item><term>Traduction</term></item></list></keywords></textClass><textClass xml:lang="de"><keywords scheme="keyword"><list><head>Schlagwörter</head><item><term>Einschätzung</term></item><item><term>Internationalisierung</term></item><item><term>Wissenschaftliche Zeitschriften</term></item><item><term>Veröffentlichungssprache</term></item><item><term>Übersetzung</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2010-08">Published</change></revisionDesc></teiHeader><text><body><div><p>
+WHEN IDEAS MEET MARKETS
+
+yves gingras et
+sbastien mosbah-natanson
+e
+
+Les sciences sociales francaises entre ancrage local
+¸
+et visibilit internationale *
+e
+
+Abstract
+In the current context of a growing internationalization of scientiﬁc exchanges, the
+issue of the language of scientiﬁc publications – settled in the natural sciences since
+the 1980s – has now become a central issue for the Social Sciences. Our paper
+discusses this topical issue through a detailed analysis of the linguistic strategies
+adopted by two major French social science journals, Population and Revue francaise
+¸
+de sociologie (RFS), which have chosen to translate into English a selection (RFS) or
+all (Population) of their articles. In view of the measured effects in terms of visibility in
+the international scientiﬁc ﬁeld – increasing visibility for the journal Population at the
+expense of its French edition and a marginal effect for the RFS – we raise questions
+about the role of national social sciences journals and recall that the speciﬁc
+intellectual mission of these journals lies beyond the pursuit of internationalization.
+
+Keywords: Evaluation, Internationalization, Scholarly journals, Language of publication, Translation.
+
+L a q u e s t i o n d e la langue des publications scientiﬁques a fait
+l’objet en France, au cours des annes 1980, d’un large dbat parmi les
+e
+e
+chercheurs des sciences de la nature et de la vie qui en sont arrivs a la
+e `
+conclusion que l’anglais constituait, dans leur domaine, la lingua franca
+internationale. En consquence, la majorit des revues scientiﬁques
+e
+e
+francaises publient aujourd’hui des articles principalement crits en
+¸
+e
+anglais, sans compter bien su les publications en anglais soumises
+ˆr
+aux revues internationales trangeres (Gingras 1984, Gingras 2002).
+e
+`
+Tranch depuis environ trente ans pour les « sciences dures », le dbat
+e
+e
+sur la langue de publication ne fait qu’merger en France dans le secteur
+e
+des sciences sociales et humaines. Si l’homognisation linguistique a t
+e e
+ee
+plus rapide dans les sciences dures, on peut supposer que cela tient au
+caractere beaucoup plus local et souvent national des objets propres aux
+`
+* Les auteurs tiennent a remercier les rdacteurs de la revue, de meme que Philippe Steiner
+e
+ˆ
+`
+pour leurs commentaires et suggestions.
+
+305
+Yves GINGRAS, CIRST, Universit du Qubec a Montral [gingras.yves@uqam.ca],
+e
+e
+e
+`
+et Sbastien MOSBAH-NATANSON, CIRST, Universit du Qubec a Montral
+e
+e
+e
+e
+`
+[mosbah_natanson@yahoo.fr].
+Arch.europ.sociol., L, 2 (2010), pp. 305–321—0003-9756/10/0000-900$07.50per art + $0.10 per pageÓA.E.S.,
+2010
+
+yves gingras et sbastien mosbah-natanson
+e
+sciences sociales et humaines ainsi qu’a l’existence de traditions natio`
+nales spciﬁques pour ces disciplines (Heilbron 2008). Tant que la plus
+e
+grande partie de la production dans ces domaines se faisait dans le
+contexte national1, la question de l’usage d’une langue « internationale »
+ne se posait guere.
+`
+Toutefois, l’internationalisation des changes scientiﬁques, ainsi que
+e
+les politiques europennes de coopration scientiﬁque (Patricio 2004),
+e
+e
+mais aussi les tentatives rcentes pour crer des outils d’valuation de
+e
+e
+e
+la recherche a l’chelle europenne, ont ﬁni par poser la question de
+e
+` e
+l’usage de l’anglais par rapport aux langues nationales dans les publications de sciences sociales et humaines. En effet, la construction
+d’une « Europe des sciences sociales et humaines » semble pousser
+dans la direction d’une homognisation linguistique des sciences
+e e
+sociales europennes, dont l’anglais deviendrait le vhicule commun.
+e
+e
+L’hypothese est alors celle d’un dclin du plurilinguisme au proﬁt
+e
+`
+de la langue anglaise comme unique vecteur de communication et de
+e
+diffusion de la recherche en sciences sociales2. Ce dclin du plurilinguisme aurait comme consquence mcanique la perte de visibilit
+e
+e
+e
+des grandes revues francaises de sciences sociales, du fait justement de
+¸
+leur ancrage linguistique minoritaire dans le champ scientiﬁque
+international. Ajoutons a cela que, en prenant l’exemple de la socio`
+logie, les revues plurilingues comme les Archives europennes de
+e
+sociologie, cre en 1960 par Raymond Aron ou Social Science Inee
+formation - Information sur les sciences sociales fonde en 1962, ne sont
+e
+plus imites par des revues plus rcentes. Ainsi la European Socioloe
+e
+gical Review, fonde en 1985 dans le cadre du European Consortium
+e
+for Sociological Research ou European Societies, publie a partir de
+e `
+1999 par la European Sociological Association sont uniquement en
+anglais. De plus, dans bon nombre de revues francaises de sciences
+¸
+sociales et humaines, la norme depuis une dizaine d’annes est de
+e
+publier de temps a autre des articles directement en anglais sans que
+`
+cela ait vraiment fait dbat au sein des disciplines concernes3.
+e
+e
+1
+Sur la question de la prfrence linguisee
+tique dans un cadre national donn, voir
+e
+Moshe Yitzhaki (1998).
+2
+Pour une analyse de l’volution vers l’ane
+glais des publications europennes en sciences
+e
+sociales et humaines, voir Yves Gingras et
+Johan Heilbron (2009). Le cas de la traduction des ouvrages de sciences sociales, par
+opposition aux articles de revues savantes,
+est une question entierement diffrente qui
+e
+`
+
+306
+
+releve du champ de l’dition que nous n’abore
+`
+dons pas ici (Chenu 2001, Sapiro 2008).
+3
+Le cas des revues d’conomie comme la
+e
+Revue economique ou la Revue d’conomie
+
+e
+politique est videmment rvlateur de cette
+e
+e e
+tendance, mais il faut noter que nombre de
+revues de sociologie ont opt pour cette meme
+e
+ˆ
+politique linguistique, comme L’Anne socioe
+logique, la Revue francaise de sociologie (on y
+¸
+revient plus loin), Sociologie du travail, Ethnologie francaise ou Langage et socits.
+¸
+ee
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+C’est dans ce contexte gnral qu’il faut placer les choix ditoriaux
+e e
+e
+de deux des revues parmi les plus minentes des sciences sociales
+e
+francaises, Population et la Revue francaise de sociologie. Ces deux
+¸
+¸
+revues ont dcid, la premiere a la ﬁn des annes 1980 et la seconde au
+e e
+e
+` `
+dbut des annes 2000, de traduire en anglais une partie ou la totalit
+e
+e
+e
+e
+de leurs articles4. Ainsi, Population a aujourd’hui deux ditions, l’une
+en francais et l’autre en anglais. La Revue francaise de sociologie publie
+¸
+¸
+une fois par an une English Issue qui reprend en traduction anglaise
+des textes publis initialement en francais. L’objectif afﬁch de cette
+e
+¸
+e
+stratgie est de mieux diffuser ou exporter les sciences sociales
+e
+francaises dans le champ scientiﬁque international. Sur le plan socio¸
+logique, on a alors une situation exprimentale particulierement
+e
+`
+intressante qui permet de mesurer l’effet du seul choix de la langue
+e
+puisque tous les autres parametres de l’article sont inchangs : le
+e
+`
+vhicule (la revue) et la valeur intrinseque de l’article.
+e
+`
+L’objet de cet article est de discuter des effets probables de cette
+politique de traduction des sciences sociales francaises, en analysant le
+¸
+lien entre visibilit des revues et objets d’tude5. Auparavant, il
+e
+e
+convient d’examiner l’argumentaire mis en avant par les deux revues
+pour justiﬁer leur stratgie. En conclusion, nous reviendrons a des
+e
+`
+considrations plus gnrales sur le role des revues nationales de
+e
+e e
+ˆ
+sciences sociales.
+
+Les stratgies linguistiques de Population et
+e
+de la Revue francaise de sociologie
+¸
+La revue Population a t cre en 1946 par Alfred Sauvy a
+e e ee
+`
+l’Institut national d’tudes dmographique (INED) dont il tait le
+e
+e
+e
+fondateur et constitue la principale revue francaise de dmographie6.
+¸
+e
+`
+A partir de 1989, et ce jusqu’en 2001, elle publie un ou deux numros
+e
+supplmentaires par an qui reprennent en anglais des articles de la
+e
+4
+Il faut ajouter que la revue Sociologie du
+travail a aussi suivi la meme voie plus
+ˆ
+rcemment (2005).
+e
+5
+Les donnes bibliomtriques dtailles
+e
+e
+e
+e
+sur lesquelles reposent nos hypotheses et
+`
+analyses des effets de la traduction des revues
+Population et Revue francaise de sociologie
+¸
+sont contenues dans une note de recherche
+du Centre interuniversitaire de recherche sur
+
+la science et la technologie (CIRST) de
+l’Universit du Qubec a Montral (Gingras
+e
+e
+e
+`
+et Mosbah-Natanson 2010).
+6
+Voir le numro consacr au cinquantee
+e
+naire de l’INED: Population, 50 (6), 1995, en
+particulier Girard (1995). Pour l’histoire de
+la dmographie en France, voir Rosental
+e
+(2003).
+
+307
+
+yves gingras et sbastien mosbah-natanson
+e
+version francaise. Un court avant-propos (« Foreword ») introduit le
+¸
+premier numro de cette nouvelle srie et prsente les raisons de cette
+e
+e
+e
+e
+innovation7. Si l’on suit ce texte, la dcision se fonde en premier lieu
+sur la volont de prsenter aux lecteurs anglophones une image plus
+e
+e
+juste du travail des dmographes francais: « a true picture of the work
+e
+¸
+of French demographers » (Calot 1989, p. 1). Ce choix semble dict par
+e
+le constat que les dmographes trangers auraient du mal a lire leurs
+e
+e
+`
+collegues francais. Comme il tait « absolument hors de question » de
+¸
+e
+`
+traduire la totalit des articles francais parus dans le domaine, « une
+e
+¸
+procdure dlicate de slection » fut mise en place pour reﬂter autant
+e
+e
+e
+e
+que possible la diversit des approches, tout en ciblant le caractere
+e
+`
+international des tudes et l’originalit des mthodes dployes. Enﬁn, le
+e
+e
+e
+e
+e
+directeur de l’INED qui signait ce « Foreword » rappelait que la communication entre savants est grandement facilite par un langage commun
+e
+et que c’est l’anglais qui aujourd’hui fait ofﬁce de lingua franca.
+En 2002, les responsables de la revue dcidaient de prendre un
+e
+« tournant historique » et de rendre Population completement bilingue,
+`
+chaque numro tant publi en francais et en anglais, en deux numros
+e e
+e
+¸
+e
+`
+indpendants. A notre connaissance, il s’agit de la seule revue francaise
+e
+¸
+de sciences sociales a agir ainsi. Dans le secteur des sciences dures par
+`
+exemple, lorsque les revues de l’Institut Pasteur sont passes a l’anglais
+e `
+a la ﬁn des annes 1980, il n’a pas t question de ddoubler les revues
+e
+ee
+e
+`
+en francais (Gingras 2002, pp. 40-41).
+¸
+Le directeur de l’INED et celui de la revue ont justiﬁ dans un
+e
+ditorial leur nouvelle dcision par la ncessit d’atteindre les chere
+e
+e
+e
+cheurs non francophones8, y ajoutant cette fois, changement majeur,
+l’ide d’inciter les auteurs trangers a publier davantage dans leur
+e
+e
+`
+revue. Il s’agit dsormais de placer la revue en meilleure position
+e
+parmi les revues de dmographie et plus seulement de mieux faire
+e
+connaıtre les travaux francais comme l’expliquait l’ditorial de 1989 :
+ˆ
+¸
+e
+« Mais pour qu’une revue vive, au plan international, il faut aujourd’hui
+qu’elle puisse etre lue par la majorit des chercheurs de la discipline,
+ˆ
+e
+et que des auteurs de tous pays aient envie d’y publier. La formule de la
+slection annuelle, publie de facon dcale par rapport aux articles
+e
+e
+¸
+e e
+originaux, ne rpondait que partiellement a ces proccupations » (Hran
+e
+e
+e
+`
+et Leridon 2002, p. 9).
+7
+On peut noter que, selon cet avantpropos, l’INED publiait dja des Selected
+e`
+Papers en anglais issus de Population, mais
+sur une base irrguliere.
+e
+`
+8
+Ajoutons que le dernier numro de l’Ene
+glish Selection en 2001 dbutait par un court
+e
+
+308
+
+texte (« A word to our readers ») sign du
+e
+directeur de la revue et qui dveloppait dja
+e
+e`
+partiellement les arguments de l’ditorial de
+e
+2002.
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+Au moment ou Population franchit cette deuxieme tape dans une
+e
+`
+`
+stratgie de diffusion internationale, la Revue francaise de sociologie
+e
+¸
+franchit la premiere et publie elle aussi, a compter de 2001, un numro
+e
+`
+`
+annuel en anglais, l’Annual English Selection ou English Issue, qui
+e
+reprend cinq ou six articles de la version francaise9. Fonde en 1960 a
+¸
+`
+un moment ou les sciences sociales, et la sociologie en particulier, se
+`
+consolident intellectuellement et institutionnellement en France10, la
+Revue francaise de sociologie constitue l’un des piliers du champ
+¸
+francais de la sociologie et fait partie des revues historiques cres
+¸
+ee
+apres la Seconde Guerre mondiale comme les Cahiers internationaux
+`
+de sociologie fonds en 1949 et Sociologie du travail en 1959. Les
+e
+rdacteurs de la Revue francaise de sociologie justiﬁent eux aussi leur
+e
+¸
+dcision de passer, au moins partiellement, a l’anglais en rappelant que :
+e
+`
+« English – whether we see this as a cause for rejoicing or lament – has
+become the language of scientiﬁc exchange everywhere in the world ».
+Et bien que certains concepts comme ceux de « cadre » ou de « sociabilit »
+e
+ne soient pas vraiment traduisibles en anglais, l’impratif de mieux faire
+e
+connaıtre « the current work of French sociologists – work with which
+ˆ
+they [les sociologues trangers] are often unfamiliar », s’impose, ajoutente
+ils, en raison d’une perception de la sociologie francaise a l’tranger, qui
+¸
+` e
+correspond tres peu a la reprsentation que la plupart des sociologues
+e
+`
+`
+francais ont de leur discipline11.
+¸
+Au-dela de la recherche d’une diffusion plus internationale, l’argu`
+ment de fond des rdacteurs rside, comme pour Population, et de
+e
+e
+maniere plus accentue encore, dans leur volont de prsenter la
+e
+e
+e
+`
+« vritable » sociologie francaise qui serait selon eux largement inconnue
+e
+¸
+dans le monde anglo-saxon ou sont clbrs certains auteurs, qui ne sont
+ee e
+`
+e
+meme pas percus en France comme sociologues12. Cette apprciation de
+ˆ
+¸
+la reprsentation de la sociologie francaise a l’tranger mriterait un
+e
+¸
+e
+` e
+dbat plus ample qui dpasse le cadre de cette recherche, mais notons
+e
+e
+9
+Les criteres de choix de ces articles ne
+`
+nous intressent pas ici. Notons simplement
+e
+que la rdaction de la Revue francaise de
+e
+¸
+sociologie afﬁrme fonder ses choix sur plusieurs criteres : varit des approches et des
+ee
+`
+domaines, pertinence par rapport aux dbats
+e
+internationaux ; valeur comparative des
+donnes francaises. Voir « Editor’s note »,
+e
+¸
+Revue francaise de sociologie, 42 (1), 2002, p. 3.
+¸
+10
+Sur l’histoire des sciences sociales en
+France et de la sociologie en particulier, voir,
+entre autres, Drouard (1982) et Chenu
+(2002).
+
+11
+« The impression of French sociology
+that seems widespread outside scarcely corresponds to the representation most French
+sociologists have of their discipline », « Editor’s note », Revue francaise de sociologie, op.
+¸
+cit., p. 3.
+12
+« In some cases, that impression comes
+down to a few names of thinkers who are not
+all perceived in France – and do not all present
+themselves – as sociologists », idem, p. 3. Les
+rdacteurs pensent probablement ici aux
+e
+auteurs de la « French Theory » beaucoup
+lus et cits aux Etats-Unis (Cusset 2003).
+e
+
+309
+
+yves gingras et sbastien mosbah-natanson
+e
+qu’il y a la matiere a s’interroger, comme l’avait propos Pierre Bourdieu
+e
+`
+` `
+(2002), sur la circulation internationale des ides et sur les reprsentae
+e
+tions associes.
+e
+Deux stratgies semblent alors se distinguer. La premiere correse
+`
+pond a celle de Population en 1989 et de la Revue francaise de sociologie
+¸
+`
+en 2001. Elle se caractrise par cette intention afﬁche de mieux faire
+e
+e
+connaıtre les travaux respectivement des dmographes et des socioˆ
+e
+logues francais a l’tranger, i.e. dans le champ scientiﬁque interna¸
+` e
+tional ou la langue de communication est l’anglais. Un autre trait
+`
+distinctif renvoie a cette volont de parler « au nom » de la discipline,
+e
+`
+ce qui peut sembler relativement logique dans le cas de Population,
+revue lie organiquement a l’INED et qui occupe une position
+e
+`
+centrale dans la dmographie francaise, mais qui semble moins fonde
+e
+¸
+e
+dans le cas de la Revue francaise de sociologie au regard de la diversit
+¸
+e
+de la sociologie francaise, a la fois en termes de revues et de courants
+¸
+`
+thoriques. Dans ce cas, on peut parler d’une stratgie d’exportation
+e
+e
+de la dmographie et de la sociologie, du moins des travaux considrs
+e
+e e
+les plus lgitimes par les rdacteurs des revues.
+e
+e
+La seconde stratgie s’inscrit dans un autre paradigme : mieux placer
+e
+la revue considre dans le champ scientiﬁque international. On peut
+e e
+donc dire que la stratgie dveloppe a partir de 2002 par Population est
+e
+e
+e `
+celle d’une insertion directe dans le champ international de la
+dmographie, cette insertion passant par l’usage de la langue anglaise,
+e
+et donc par le biais de la traduction des articles accepts, et par l’incitation
+e
+des auteurs non francophones a y publier et a voir ainsi leurs articles
+`
+`
+traduits en francais s’ils sont rdigs en anglais (et vice-versa). L’objectif
+¸
+e e
+est ici a la fois de conserver une position dominante pour la revue dans
+`
+l’espace national par le maintien de la version francaise, tout en s’en
+¸
+mancipant par la version anglaise. La revue pourra ainsi accroıtre sa
+e
+ˆ
+visibilit dans le champ international. Cette stratgie vise un double
+e
+e
+proﬁt : l’internationalisation et la conservation d’un role national, sans
+ˆ
+qu’il soit vident que les deux objectifs soient compatibles.
+e
+Ces deux stratgies amenent a s’interroger sur le statut et le ro
+e
+ˆle
+`
+`
+dvolu a chacune de ces revues dans les diffrents espaces scientie
+e
+`
+ﬁques, national et international – dans le cas francais, il faudrait aussi
+¸
+ajouter l’espace europen comme espace intermdiaire. Il faut remare
+e
+quer que les deux reposent largement sur l’ide implicite selon
+e
+laquelle les sociologues ou les dmographes francais auraient besoin
+e
+¸
+d’etre traduits pour voir leurs travaux diffuss a l’tranger. Cela sousˆ
+e ` e
+entendrait qu’ils ne publient pas, ou peu, directement dans des revues
+de langue anglaise, ce qui demande vriﬁcation empirique. Nous
+e
+310
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+tudierons ensuite les effets de cette stratgie de traduction sur la
+e
+e
+visibilit internationale des revues considres.
+e
+e e
+
+La prsence francaise dans le champ international
+e
+¸
+La stratgie de traduction des deux revues se fondant en partie sur
+e
+l’ide de mieux faire connaıtre a l’tranger les travaux francais,
+e
+ˆ
+¸
+` e
+suppose que les chercheurs francais utilisent d’abord et surtout ces
+¸
+deux supports pour diffuser leurs travaux, ce qui ne semble pas
+vident. En fait, comme le montre un indice simple mais probant, la
+e
+tendance est celle d’une augmentation a la fois du nombre et de la
+`
+proportion d’articles publis dans des revues de sciences sociales de
+e
+langue anglaise13. En effet, entre 1980 et 2005, le nombre d’articles
+crits par des sociologues francais qui ont t publis dans des revues
+e
+¸
+ee
+e
+anglophones recenses par le Web of Science a fortement augment,
+e
+e
+ˆ
+¸
+passant de 20 a 70 par an14. De meme, la proportion des articles francais
+`
+parus en langue anglaise parmi l’ensemble de ces revues recenses par
+e
+cette base de donnes a, elle aussi, plus que doubl, passant de 18 % a
+e
+e
+`
+e
+45 %15. Par ailleurs, la diversit des revues qui accueillent les travaux
+francais s’accroıt au cours de la priode. Ainsi, entre 1980 et 1984, les
+¸
+ˆ
+e
+sociologues francais publient-ils en moyenne dans 8 revues anglophones
+¸
+par an. Vingt ans plus tard (soit sur la priode 2000-2004), ce chiffre
+e
+a doubl, passant a 16 revues, signe vident d’une plus grande prsence
+e
+e
+e
+`
+francaise sur la scene internationale.
+¸
+`
+Les sociologues et les dmographes francais s’inserent donc largement
+e
+¸
+`
+dans le champ scientiﬁque international en publiant directement en
+anglais depuis les annes 1990. Un certain nombre d’lments peuvent
+e
+ee
+faire comprendre cette tendance forte. L’augmentation des collaborations internationales, et en particulier europennes, en sciences sociales
+e
+explique en partie cette croissance des publications francaises en langue
+¸
+13
+Cette croissance de la publication en
+anglais s’observe aussi a la meme priode a
+ˆ
+e
+`
+`
+l’chelle europenne (Gingras et Heilbron
+e
+e
+2009).
+14
+Le Thomson Web of Science est
+compos du Science Citation Index (SCI),
+e
+du SSCI (Social Science Citation Index) et
+de l’AHCI (Arts and Humanities Citation
+Index) ; il recense plus de 15 000 revues dont
+plus de 4 600 en sciences sociales et humaines ;
+toutes les adresses des auteurs sont incluses
+
+de meme que l’ensemble des rfrences conˆ
+ee
+tenues dans les articles.
+15
+Il faut noter videmment que cette proe
+portion est lie a la structure de la base de
+e `
+donnes du Web of Science qui recense dans
+e
+une bien plus grande proportion les revues de
+langue anglaise que les revues publies dans
+e
+d’autres langues (Archambault et al. 2006).
+Par consquent, la proportion des articles
+e
+publis en anglais par les sociologues francais
+e
+¸
+est en ralit plus faible, meme si la tendance
+e e
+ˆ
+dtecte reste largement valide.
+e
+e
+
+311
+
+yves gingras et sbastien mosbah-natanson
+e
+anglaise. On peut aussi considrer l’mergence de nouvelles gnrations
+e
+e
+e e
+de chercheurs en sciences sociales, plus socialiss internationalement
+e
+et plus enclins a publier directement en anglais que les gnrations
+e e
+`
+prcdentes. Il faut aussi insister sur les transformations du champ de la
+e e
+recherche, avec l’importance prise par l’valuation des chercheurs,
+e
+et, dans le cadre de cette valuation, le role donn aux publications en
+e
+ˆ
+e
+anglais : il s’agit, pour nombre de chercheurs, de prendre le « publish or
+perish » au pied de la lettre du point de vue linguistique.
+Ces rsultats conﬁrment que les deux revues tudies ici ne
+e
+e
+e
+peuvent srieusement prtendre etre des porte-parole lgitimes de
+e
+e
+ˆ
+e
+leur discipline respective sur le plan international. En fait, elles ne
+sont que deux revues parmi d’autres et sont ainsi objectivement en
+comptition pour saisir les meilleurs articles de leurs domaines
+e
+respectifs, une des questions tant de savoir si cette comptition se
+e
+e
+passe au plan national ou au plan international. Reste a regarder si,
+`
+comme le sous-entendaient les argumentaires voqus, l’on constate
+e
+e
+un dclin de la visibilit et de l’impact de ces deux revues, Population
+e
+e
+et la Revue francaise de sociologie durant la priode qui prcede leur
+¸
+e
+e `
+dcision de passer, au moins partiellement, a l’anglais.
+e
+`
+La stratgie linguistique mise en avant par Population et par la Revue
+e
+francaise de sociologie repose, entre autres, sur l’ide selon laquelle la
+¸
+e
+e
+dmographie et la sociologie francaises, c’est-a-dire les dmographes et
+e
+¸
+`
+sociologues francais, seraient mal connues a l’tranger, ide pour le
+¸
+e
+` e
+moins discutable comme on l’a vu prcdemment. L’explication en
+e e
+serait le dclin du rayonnement ou de la visibilit des principales revues
+e
+e
+francaises de sciences sociales, du fait de la langue. Une telle reprsen¸
+e
+tation et la prise de conscience de l’importance de la visibilit
+e
+internationale ont surement aussi t inﬂuences par la rcente ﬁevre
+ee
+e
+e
+ˆ
+`
+de l’valuation, que l’on pense aux classements des revues par la
+e
+European Science Foundation ou, en France, par l’AERES (Gingras
+2008). Cela mrite aussi d’etre discut. En premier lieu, il faut
+e
+ˆ
+e
+remarquer que les deux revues n’ont pas vraiment le meme potentiel
+ˆ
+d’internationalisation. L’tude de leur insertion dans l’espace des
+e
+revues le conﬁrme : la dmographie est plus fortement oriente vers
+e
+e
+les principales revues de dmographie anglophones, alors que la Revue
+e
+francaise de sociologie reste davantage lie aux revues francophones. Le
+¸
+e
+caractere plus local de la seconde semble d’abord du a son objet d’tude
+e
+`
+ˆ `
+qui porte gnralement plus sur la socit francaise et est moins
+e e
+ee
+¸
+gnralisable dans son approche monographique, a moins de s’en tenir,
+e e
+`
+encore une fois, aux essais thoriques qui circulent plus facilement dans
+e
+e
+le champ international. Cette plus grande intgration internationale de
+312
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+Population, de meme que le caractere plus formel de la dmographie,
+ˆ
+e
+`
+qui la rapproche des sciences plus « dures » contribuent d’ailleurs a
+`
+expliquer que la question de la langue de publication s’y soit pose dix ans
+e
+avant qu’elle n’merge en sociologie et dans les sciences sociales et
+e
+humaines, gnralement plus locales.
+e e
+L’hypothese du dclin des revues francophones doit etre analyse avec
+e
+ˆ
+e
+`
+prudence car une augmentation du nombre absolu des citations peut, en
+fait, cacher une baisse relative due a une plus grande dispersion de ces
+`
+e
+citations16. Les donnes statistiques obtenues indiquent en effet cette
+double tendance, en particulier pour la revue Population. On constate
+ainsi une forte baisse de la proportion des citations des deux revues,
+considres dans l’espace des sciences sociales tel que le reprsente le
+ee
+e
+Web of Science, malgr une augmentation du nombre absolu de citations
+e
+annuelles de la revue Population dans les annes 1990. Toutefois, l’on ne
+e
+peut exclure un effet langue coupl au facteur de dispersion des citations.
+e
+De fait, l’augmentation gnrale de la production scientiﬁque se fait
+e e
+largement en anglais, et ces publications ne citent que de maniere
+`
+e
+marginale des articles dans une autre langue17. L’on doit aussi considrer
+la possible baisse de la connaissance de la langue francaise chez les
+¸
+e
+nouvelles gnrations de chercheurs18. De tels phnomenes viendraient
+e e
+`
+alors justiﬁer, au moins partiellement, la stratgie linguistique des revues.
+e
+Ajoutons que d’autres facteurs peuvent etre envisags tels que la
+ˆ
+e
+diffusion des revue francaises, l’acces aux versions lectroniques dans
+¸
+e
+`
+les bibliotheques trangeres, etc. L’hypothese faite par les rdacteurs des
+e
+e
+`
+`
+`
+deux revues serait que la publication en anglais, meme partielle,
+ˆ
+permettrait d’accroıtre sa visibilit internationale, c’est-a-dire le nombre
+ˆ
+e
+`
+de citations dans les revues de langue anglaise – ce qui justiﬁe le choix
+d’une mthode bibliomtrique pour tester le bien-fond d’une telle
+e
+e
+e
+hypothese.
+`
+
+La revue Population : diffusion elargie et effet de substitution
+
+Une analyse dtaille de l’volution de la visibilit de la revue
+e
+e
+e
+e
+Population montre que depuis qu’elle publie en anglais, elle a rendu
+accessible aux chercheurs anglophones des travaux jusque-la rservs
+e
+` e
+16
+Le phnomene de la dispersion des
+e
+`
+citations sur un plus grand nombre de publications a fait l’objet de travaux rcents
+e
+`
+(Lariviere et al. 2009).
+
+17
+Pour le cas de la sociologie canadienne,
+voir Gingras et Warren (2006).
+18
+Pour le cas des chercheurs amricains,
+e
+cela a t soulign dans la littrature (Altbach
+ee
+e
+e
+et Lewis 1998).
+
+313
+
+yves gingras et sbastien mosbah-natanson
+e
+aux francophones et aux chercheurs trangers maıtrisant le francais,
+e
+ˆ
+¸
+augmentant ainsi mcaniquement sa visibilit dans le monde. Cela se
+e
+e
+traduit par une augmentation substantielle du nombre de citations
+annuelles de la revue sur les dix dernieres annes. Il semble toutefois
+e
+`
+que l’arrive d’un nouveau public qui cite Population dans son dition
+e
+e
+anglaise se combine a un effet de substitution non ngligeable, qui
+e
+`
+entraıne la chute des citations de l’dition francaise. En somme,
+ˆ
+e
+¸
+l’dition en anglais a permis a la revue de gagner plus de visibilit
+e
+e
+`
+sur le plan international, mais au dtriment de l’dition francaise. Si
+e
+e
+¸
+l’on continue, dans les revues anglophones, a citer largement les
+`
+articles en francais plus anciens de Population, il demeure que la
+¸
+tendance est toutefois, pour les numros rcents, de citer tres
+e
+e
+`
+majoritairement l’dition anglaise. Au vu de cette tendance, on peut
+e
+se demander si, a terme, cela n’amenera pas la revue a rviser une
+`
+`
+` e
+nouvelle fois sa politique ditoriale pour prendre un autre « tournant
+e
+historique » et abandonner une dition francaise.
+e
+¸
+On peut observer un autre effet de la nouvelle stratgie de la revue.
+e
+L’un des objectifs afﬁchs par les rdacteurs de Population pour
+e
+e
+justiﬁer le « passage » a l’anglais – en particulier dans sa deuxieme
+`
+`
+e
+forme, apres 2001 –, tait aussi d’inciter des auteurs trangers ou non
+e
+`
+francophones a y publier. Le constat qui se dgage de l’analyse des
+e
+`
+adresses des chercheurs publiant dans la revue sur la priode 1980e
+2006 est une baisse tendancielle notable de la proportion de chercheurs francais crivant dans la revue. Si plus des trois quarts des
+¸
+e
+articles publis dans les annes 1980 taient crits par au moins un
+e
+e
+e
+e
+chercheur francais, cette proportion baisse, bien que de maniere
+¸
+`
+erratique, sur la priode tudie. Pour la priode 2002-2006, la
+e
+e
+e
+e
+proportion d’articles crits par au moins un auteur francais est de 58 %
+e
+¸
+alors qu’elle tait de 75 % vingt ans plus tot, pour la priode 1982e
+ˆ
+e
+1986.
+Ces rsultats amenent deux conclusions. La premiere est que
+e
+`
+`
+l’objectif des rdacteurs de la revue d’accroıtre la prsence d’auteurs
+e
+ˆ
+e
+trangers et de dpasser ainsi un cadre strictement national a t
+e
+e
+ee
+atteint. La seconde, probablement moins attendue, est que cette
+« internationalisation » de la revue s’est faite au dtriment de la
+e
+prsence des dmographes francais dans la revue. En effet, le nombre
+e
+e
+¸
+e
+annuel de textes parus tant a peu pres constant au cours de la priode
+e
+`
+`
+tudie, toute croissance de la part des trangers s’est faite aux dpens
+e
+e
+e
+e
+des auteurs francais. La situation est en quelque sorte paradoxale et
+¸
+suggere que l’objectif de donner a la revue une meilleure position dans
+`
+`
+le champ international des revues de dmographie n’tait pas
+e
+e
+314
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+ncessairement compatible avec celui de faire connaıtre a l’tranger les
+e
+ˆ
+` e
+travaux francais (a moins d’augmenter le nombre d’articles par numro
+¸
+e
+`
+ou d’accroıtre le nombre de numros publis par anne). Une chose est
+ˆ
+e
+e
+e
+certaine, ce paradoxe pose de nouveau la question du role d’une revue
+ˆ
+disciplinaire nationale, la revue Population tant la principale revue de
+e
+dmographie en France : vhicule privilgi des travaux francais en
+e
+e
+e e
+¸
+dmographie ou revue « internationale » comme le sont celles qui ne
+e
+privilgient aucune production locale particuliere19 ? Il semble qu’ase
+`
+sumer les deux positions s’avere problmatique, meme si les analyses
+e
+ˆ
+`
+proposes prcdemment dmontrent une relative « efﬁcacit » de la
+e
+e e
+e
+e
+stratgie linguistique de la revue Population. Il faudrait aussi se
+e
+demander si l’internationalisation accrue de la revue ne s’est pas
+accompagne d’une baisse du traitement de problmatiques francaises,
+e
+e
+¸
+au proﬁt d’tudes davantage axes sur d’autres pays ou abordant des
+e
+e
+questions plus thoriques. Voyons maintenant si les memes tendances
+e
+ˆ
+sont observables dans le cas de la Revue francaise de sociologie.
+¸
+
+La Revue francaise de sociologie : une traduction aux effets marginaux
+¸
+L’English Issue annuelle de la Revue francaise de sociologie reprend
+¸
+depuis 2001 une slection d’articles publis en francais. Notons que
+e
+e
+¸
+l’dition francaise propose aussi parfois des articles directement en
+e
+¸
+anglais (cinq entre 2001 et 2007), gnralement parus dans des
+e e
+numros thmatiques, comme ceux consacrs a l’Europe sociale en
+e
+e
+e `
+2002 ou a la thorie du choix rationnel en 2003. Contrairement a ce
+e
+`
+`
+que l’on peut trouver dans les revues d’conomie, il ne s’agit pas
+e
+d’articles rdigs par des auteurs francais en anglais mais d’articles
+e e
+¸
+d’auteurs trangers que l’on ne prend plus la peine de traduire20.
+e
+
+19
+Il faut en effet distinguer les revues
+nationales a forte circulation internationale
+`
+mais qui publient en fait essentiellement des
+auteurs nationaux, et les revues internationales qui abordent des questions touchant
+diffrents pays et aires gographiques et
+e
+e
+publient des auteurs de diffrents pays.
+e
+Seules les secondes sont vraiment « internationales ». Ainsi, au cours de la priode 1981e
+2003, 91 % des auteurs publis dans l’Amere
+ican Journal of Sociology rsidaient aux Etatse
+Unis. Par comparaison, seulement 60 % des
+
+auteurs du Britih Journal of Sociology avaient
+une adresse britannique, ce qui indique une
+plus grande ouverture internationale de cette
+revue (Gingras et Warren 2006, pp. 517518).
+20
+Ce choix linguistique se fait entre la ﬁn
+des annes 1990 et le dbut des annes 2000.
+e
+e
+e
+Ainsi, le numro spcial consacr a l’analyse
+e
+e
+e `
+de rseaux en 1995 comprend encore des
+e
+articles d’auteurs trangers traduits de l’ane
+glais. Par la suite, les articles en anglais
+accepts ne sont plus traduits.
+e
+
+315
+
+yves gingras et sbastien mosbah-natanson
+e
+La question est donc celle de l’impact de cette English Issue sur la
+visibilit internationale de la revue. Une premiere analyse des citations
+e
+`
+faites de la Revue francaise de sociologie par les principales revues de
+¸
+sociologie de langue anglaise suggere une tres faible diffrence de
+e
+`
+`
+citations entre l’English Issue et l’dition francaise. Contrairement a ce
+e
+¸
+`
+que l’on a observ pour Population, les articles en francais ou dans leur
+e
+¸
+version anglaise obtiennent un nombre moyen de citations comparable.
+Or, considrant le poids respectif des articles de sociologie en anglais et
+e
+en francais, une visibilit gale des deux ditions devrait entraıner
+¸
+e e
+e
+ˆ
+mcaniquement plus de citations de l’dition anglaise, ce qui n’est pas le
+e
+e
+cas. Ce rsultat semble conﬁrmer que la sociologie demeure une
+e
+discipline plus nationale que la dmographie.
+e
+Si l’on fait le bilan sur la priode 2001-2007 en tenant compte des
+e
+tendances observes pour la revue Population, on peut estimer que la
+e
+stratgie ditoriale de traduction de la Revue francaise de sociologie a
+e
+e
+¸
+gnr peu de nouvelles citations dans l’ensemble des revues recenses
+e e e
+e
+par le Web of Science. On a pu estimer a moins d’une quinzaine le
+`
+nombre de citations d’articles de l’dition anglaise dans des revues de
+e
+langue anglaise sur la priode considre, un nombre non ngligeable
+e
+e e
+e
+e
+¸
+de ces citations tant en fait des autocitations de chercheurs francais se
+rfrant a la version anglaise de leur article. Il s’agit d’un rsultat plus
+ee
+e
+`
+que mitig. L’dition francaise reste, contrairement a Population, plus
+e
+e
+¸
+`
+cite que l’English Issue. On peut remarquer ici que, dans le cas de
+e
+Population, meme lors de la priode 1989-2001 ou coexistaient un
+ˆ
+e
+`
+numro en anglais et cinq ou six numros en francais par an, le poids
+e
+e
+¸
+de cette dition anglaise en matiere de visibilit internationale, tait
+e
+e
+e
+`
+plus fort que celui de la Revue francaise de sociologie, cette diffrence
+¸
+e
+pouvant sans doute etre relie a la spciﬁcit des objets de la dmographie
+ˆ
+e `
+e
+e
+e
+et de la sociologie et donc a la dimension plus internationalise de la
+e
+`
+premiere.
+`
+En plus de la spciﬁcit de l’objet sociologique, plus local et plus
+e
+e
+national, une autre voie peut etre explore pour expliquer les limites
+ˆ
+e
+de la stratgie linguistique adopte par la revue. En effet, le raisonnee
+e
+ment qui a pouss les rdacteurs de la Revue francaise de sociologie a
+e
+e
+¸
+`
+proposer une English Issue de la revue mrite d’etre analys de plus
+e
+ˆ
+e
+pres. S’il s’agit de « mieux » diffuser la sociologie francaise a l’tranger
+¸
+`
+` e
+– ou au moins les travaux publis dans la revue – il convient de
+e
+s’interroger d’abord empiriquement sur le type de travaux sociologiques francais le plus propre a etre cit dans les articles de sociologie
+¸
+e
+`ˆ
+ou de sciences sociales de langue anglaise. Il s’avere en fait que les
+`
+articles les plus cits de la Revue francaise de sociologie dans les sciences
+e
+¸
+316
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+sociales de langue anglaise sont issus des numros consacrs a
+e
+e `
+l’histoire de la sociologie francaise – en particulier a sa naissance
+¸
+`
+autour de 1900 et a la ﬁgure de Durkheim –, ou de numros spciaux
+e
+e
+`
+sur des thmatiques sociologiques contemporaines (mobilit sociale,
+e
+e
+sociologie des rseaux), auxquels il faut ajouter d’autres articles
+e
+devenus des classiques (comme l’article de Pierre Bourdieu de 1971
+consacr au champ religieux). Le poids des citations des numros (et
+e
+e
+des articles) traitant de l’histoire de la sociologie francaise indique
+¸
+immdiatement l’une des limites de la stratgie linguistique adopte
+e
+e
+e
+par la revue. Les sociologues et historiens qui publient en anglais
+sur l’histoire des sciences sociales francaises lisent le francais directe¸
+¸
+ment. On pourrait aussi ajouter l’hypothese que les sociologues qui
+`
+travaillent sur la socit francaise, et qui sont donc susceptibles de
+ee
+¸
+chercher des analyses dans les revues francaises de sociologie, ont de
+¸
+fortes chances aussi d’avoir dvelopp leur capacit linguistique.
+e
+e
+e
+Ces derniers rsultats soulignent les limites de l’effet traduction
+e
+pour la Revue francaise de sociologie, limites qui ne renvoient pas
+¸
+seulement a un probleme de diffusion et donc de visibilit de la revue
+e
+`
+`
+dans son dition anglaise, mais aussi, plus largement, aux pratiques de
+e
+citation de la revue dans les sciences sociales de langue anglaise. Ces
+pratiques a leur tour renvoient aux intrets de connaissance animant
+e ˆ
+`
+les chercheurs anglo-saxons ou non francophones qui citent la revue.
+Contrairement a Population qui, en publiant une dition entierement
+e
+`
+`
+¸
+en anglais indpendante de l’dition francaise, est sans doute
+e
+e
+dornavant percue comme une revue anglophone, la Revue francaise
+e
+¸
+¸
+de sociologie reste probablement d’abord percue comme une revue
+¸
+francophone et francaise et les lecteurs potentiels trangers sont peut¸
+e
+etre plus susceptibles de lire le francais puisqu’ils s’intressent a la
+ˆ
+¸
+e
+`
+sociologie ou a la socit francaises, objets premiers de cette revue.
+ee
+¸
+`
+
+Conclusion
+Pour bien saisir le sens des politiques linguistiques de Population et
+de la Revue francaise de sociologie, et ventuellement de quelques
+¸
+e
+autres revues francaises de sciences sociales, il peut etre utile de
+¸
+ˆ
+rappeler brievement ici que la question stratgique de l’acces aux
+e
+`
+`
+travaux publis en langue trangere s’est d’abord pose au gouvernee
+e
+e
+`
+ment et aux chercheurs amricains au milieu des annes 1950 quand
+e
+e
+ils ont dcouvert, au moment de la mise en orbite du satellite
+e
+317
+
+e
+yves gingras et sbastien mosbah-natanson
+Spoutnik, la puissance scientiﬁque de l’URSS. La politique adopte
+e
+par les Amricains avait alors consist a traduire a leurs frais les revues
+e
+e`
+`
+scientiﬁques publies en russe. Ainsi, dans son rapport annuel pour
+e
+l’anne 1957, la National Science Foundation crit-elle a propos des
+e
+e
+`
+publications scientiﬁques que « les plus importants de ces travaux
+trangers devraient etre traduits intgralement en anglais » (Gingras
+e
+ˆ
+e
+1984, p. 293). En 1960, par exemple, les Amricains traduisent dja
+e
+e`
+soixante revues savantes sur un total environ de 1000, y compris des
+revues de sciences sociales comme le prouve la parution, entre 1962 et
+1991, d’une revue intitule Soviet Sociology qui reprend des articles
+e
+issus de diffrents priodiques sovitiques de sciences sociales.
+e
+e
+e
+Quoique probablement assez couteux, ce plan tait efﬁcace pour
+e
+ˆ
+s’approprier les travaux trangers jugs importants.
+e
+e
+La stratgie des revues analyses ici est en quelque sorte inverse :
+e
+e
+des ressources (relativement rares au regard de la situation des
+sciences sociales en France) sont investies dans la traduction des
+articles pour une diffusion dans l’espace scientiﬁque de langue
+anglaise, mais sans qu’aient t estims leur rception et leur impact,
+ee
+e
+e
+c’est-a-dire le march et la demande relle. Sur le plan strictement
+e
+e
+`
+conomique, on comprend que le rendement d’une telle opration soit
+e
+e
+beaucoup plus incertain que celle qui consiste a laisser aux utilisateurs
+`
+le cout d’appropriation de ces savoirs. Il faut aussi distinguer cette
+ˆ
+stratgie couteuse de traduction de la publication directement en
+e
+ˆ
+langue anglaise dans des revues trangeres, comme le font dja bon
+e
+e`
+`
+nombre de sociologues et de dmographes francais qui internalisent en
+e
+¸
+quelque sorte les couts en vitant la traduction. On doit toutefois se
+e
+ˆ
+poser la question, le cas chant, des couts de traduction pour les
+e e
+ˆ
+institutions qui pratiquent une autre politique et traduisent en anglais
+des articles en francais produits par leurs chercheurs. Il faudrait une
+¸
+tude plus dtaille des pratiques de traduction des chercheurs
+e
+e
+e
+francais et de leur cout. D’autant plus que commencer par traduire
+¸
+ˆ
+des articles qui risquent ensuite d’etre refuss lors de l’valuation par
+ˆ
+e
+e
+les pairs ne semble pas tres rationnel.
+`
+Il faudrait aussi tenir compte de la spciﬁcit des sciences sociales
+e
+e
+dont les objets different ontologiquement de ceux des sciences dures,
+`
+par leur caractere plus local ou indexical. C’est sans doute ce caractere
+`
+`
+local des objets qui explique en bonne partie la ncessit de revues
+e
+e
+nationales en sciences sociales et humaines, dont l’objectif premier est
+de recueillir les rsultats de recherche sur des objets qui, de facon
+e
+¸
+gnrale, ne seraient pas tudis par des chercheurs d’autres socits,
+e e
+e
+e
+ee
+ou du moins le seraient de facon tres diffrente et a une chelle plus
+¸
+e
+e
+`
+`
+318
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+limite. De ce point de vue, on peut se demander si les stratgies
+e
+e
+consistant a traduire tous les articles d’une revue francophone en
+`
+anglais en ddoublant ainsi la revue ne se fondent pas implicitement
+e
+sur un postulat erron : celui de la circulation internationale des
+e
+connaissances sans gard pour leur caractere plus ou moins local.
+e
+`
+Dans les sciences de la nature, l’homognisation linguistique s’est
+e e
+faite autour d’une lingua franca, car les lectrons et les atomes sont les
+e
+memes pour tous... On peut difﬁcilement en dire autant de la politique
+ˆ
+francaise, des problemes ethniques, de l’histoire rgionale, a moins
+¸
+e
+`
+`
+d’aborder ces questions de facon purement thorique et abstraite
+¸
+e
+`
+facilitant ainsi d’autant leur circulation internationale. A la lumiere de
+`
+ces indications il y a fort a parier que la traduction systmatique des
+e
+`
+articles rendra non seulement redondante (et donc cou
+ˆteuse) la version
+francaise mais surtout risquera fort de faire dplacer le centre d’intret
+¸
+e
+e ˆ
+des chercheurs vers des objets qui circuleront plus facilement hors
+frontieres, c’est-a-dire plus intressants pour les revues dominantes du
+e
+`
+`
+champ, relguant ainsi aux oubliettes les objets locaux, pour lesquels les
+e
+revues nationales avaient justement t cres.
+e e ee
+Il faut donc distinguer l’objectif de faire connaıtre une revue
+ˆ
+francaise et d’accroıtre sa visibilit internationale, fut-ce au prix de
+¸
+ˆ
+e
+ˆ
+la publier en anglais – comme le ﬁt l’Institut Pasteur dans les annes
+e
+1980 avec ses propres revues qui sont devenues unilingues anglaises –,
+de celui de faire connaıtre les travaux des chercheurs francais. Dans le
+ˆ
+¸
+premier cas, le risque est alors que ces revues ne soient plus francaises
+¸
+que par leur lieu de publication et s’loignent des hritages historiques
+e
+e
+nationaux spciﬁques et des problmatiques locales ou nationales.
+e
+e
+Quant a faire connaıtre les travaux des chercheurs francais, on l’a vu,
+ˆ
+¸
+`
+cela se fait dja en dehors des revues francaises, ce qui rappelle qu’une
+e`
+¸
+revue peut difﬁcilement se poser en porte-parole de la communaut
+e
+disciplinaire locale.
+Si une politique doit etre dﬁnie pour rpondre aux exigences de
+ˆ
+e
+e
+l’heure, il nous semble que la piste la plus approprie et la plus
+e
+raliste, et a moindre cout, serait la promotion des revues plurilingues
+e
+`
+ˆ
+de sciences sociales – comme il en existe d’ailleurs dja – qui acceptent
+e`
+les articles dans leur langue d’origine. Cela suppose bien sur un
+ˆ
+certain niveau d’exigence linguistique, sans doute aujourd’hui souhaitable dans un monde supposment « globalis », mais qui devra
+e
+e
+surmonter l’obstacle de pratiques trop souvent limites au bilinguisme
+e
+anglais/langue locale. Sur le plan des objets, ces revues devraient aussi
+publier des travaux a la fois ancrs dans les problmatiques locales ou
+e
+e
+`
+
+319
+
+yves gingras et sbastien mosbah-natanson
+e
+nationales a cot de travaux a vocation plus thorique, comparatiste ou
+e
+` ˆ e
+`
+internationale.
+En conclusion, la rﬂexion sur la stratgie linguistique d’une revue
+e
+e
+savante ne peut se faire sans que soit distingu le niveau collectif de la
+e
+revue et de ses objectifs spciﬁques du niveau de la discipline ellee
+meme et des stratgies des agents qui la composent. Ces derniers
+ˆ
+e
+peuvent en effet accder directement au champ international sans
+e
+passer par les revues locales en adoptant l’anglais comme langue de
+diffusion. Cette possibilit dpend cependant de la nature des objets
+e e
+tudis et n’est pas galement accessible a tous. Oublier ces contraintes
+e
+e
+e
+`
+risque de faire perdre de vue les diverses fonctions intellectuelles des
+revues savantes et meme de faire disparaıtre dans certains cas la raison
+ˆ
+ˆ
+d’etre des revues nationales, et par ricochet de leur objet d’tude
+ˆ
+e
+spciﬁque, sans que le vide ainsi cr ne soit vraiment combl.
+e
+ee
+e
+
+BIBLIOGRAPHIE
+Altbach Philip G. et Lionel S. Lewis, 1998.
+‘‘Internationalism and insularism. American
+faculty and the world’’, Change, janvierfvrier, pp. 54-55.
+e
+´
+´
+Archambault Eric, Etienne Vignola-Gagn,
+e
+`
+Grgoire Cot, Vincent LARIVIERE et Yves
+e
+e
+Gingras, 2006. ‘‘Benchmarking Scientific
+Output in the Social Sciences and Humanities: The Limits of Existing Databases’’,
+Scientometrics, 68 (3), pp. 329-342.
+Bourdieu Pierre, 2002. ‘‘Les conditions sociales de la circulation internationale des
+ides’’, Actes de la recherche en sciences
+e
+sociales, 145 (5), pp. 3-8.
+Calot Grard, 1989. ‘‘Foreword’’, Populae
+tion, 44 (1), p. 1.
+Chenu Alain, 2001. ‘‘U.S. sociology through
+the mirror of French translation’’, Contemporary sociology, 30 (2), pp. 105-109.
+—, 2002. ‘‘Une institution sans intention.
+La sociologie en France depuis l’apres`
+guerre’’, Actes de la recherche en sciences
+sociales, 141/142 (1/2), pp. 46-59.
+Cusset Francois, 2003. French Theory. Fou¸
+cault, Derrida, Deleuze &amp; Cie et les mutations de la vie intellectuelle aux Etats-Unis
+(Paris, La Dcouverte).
+e
+Drouard Alain, 1982. ‘‘Rflexions sur une
+e
+chronologie. Le dveloppement des sciene
+ces sociales en France de 1945 a la fin des
+`
+
+320
+
+annes soixante’’, Revue francaise de socioe
+¸
+logie, 23 (1), pp. 55-85.
+Gingras Yves, 1984. ‘‘La valeur d’une langue
+dans un champ scientifique’’, Recherches
+sociographiques, 25 (2), pp. 286-296.
+—, 2002. ‘‘Les formes spcifiques de l’intere
+nationalit du champ scientifique’’, Actes
+e
+de la recherche en sciences sociales, 141/142
+(1/2), pp. 31-45.
+—, 2008. ‘‘Du mauvais usage de faux indicateurs’’, Revue d’histoire moderne et contemporaine, 55 (4 bis), pp. 67-79.
+Gingras Yves et Johan Heilbron, 2009.
+‘‘L’internationalisation de la recherche en
+sciences sociales et humaines en Europe,
+1980-2006’’, in Sapiro Gisele (dir.), L’Es`
+pace intellectuel en Europe. De la formation
+´
+`
+des Etats-nations a la mondialisation XIXe`cle
+XXIe sie (Paris, La Dcouverte).
+e
+Gingras Yves et Sbastien Mosbah-Natanson,
+e
+2010. ‘‘La question de la traduction en
+sciences sociales : les revues francaises entre
+¸
+visibilit internationale et ancrage national’’,
+e
+Note de recherche du CIRST, Universit du
+e
+Qubec a Montral. Disponible en ligne :
+e
+e
+`
+http://www.cirst.uqam.ca/Portals/0/docs/
+note_rech/2010-02.pdf
+Gingras Yves et Jean-Philippe Warren,
+2006. ‘‘A British Connection? A Quantitative Analysis of the Changing Relations
+
+SCIENCES SOCIALES FRANCAISES
+¸
+
+between American, British and Canadian
+Sociologists’’, Canadian Journal of Sociology, 31 (4), pp. 509-522.
+Girard Alain, 1995. ‘‘Le premier age de
+ˆ
+Population (1946-1962)’’, Population, 50
+(6), pp. 1335-1347.
+Heilbron Johan, 2008. ‘‘Qu’est-ce qu’une
+tradition nationale en sciences sociales ?’’,
+Revue d’histoire des sciences humaines, (18) 1,
+pp. 3-16.
+`
+Hran Francois et Henri Leridon, 2002. ‘‘A
+e
+¸
+nos lecteurs’’, Population, 57 (1), p. 9.
+`
+LariviERE Vincent, Yves Gingras, et Eric
+Archambault, 2009. ‘‘The Decline in the
+Concentration of Citations, 1900-2007’’,
+Journal of the American Society for Information Science and Technology, 60 (4),
+pp. 858-862.
+
+Patricio Maria Teresa, 2004. ‘‘EU Research
+and Technological Development Progammes: What Role for the Social Sciences and Humanities’’, Portuguese Journal of
+Social Science, 3 (1), pp. 49-68.
+Rosental Paul-Andr, 2003. L’Intelligence
+e
+dmographique : sciences et politiques des poe
+pulations en France (1930-1960) (Paris,
+Odile Jacob).
+Sapiro Gisele (dir.), 2008. Translation. Le
+`
+`
+march de la traduction en France a l’heure
+e
+de la mondialisation (Paris, CNRS ditions).
+e
+Yitzhaki Moshe, 1998. ‘‘The ‘language preference’ in sociology: measures of ‘language
+self-citation’, ‘relative own-language preference indicator’, and ‘mutual use of
+languages’’’, Scientometrics, 41 (1/2), pp.
+243-254.
+
+R sum
+e
+e
+
+Zusammenfassung
+
+`
+A l’heure d’une internationalisation accrue
+des changes scientifiques, la question de la
+e
+langue des publications scientifiques – rgle
+e e
+en sciences de la nature depuis les annes
+e
+1980 – est devenue un enjeu pour les sciences
+sociales. Cet article propose une analyse
+dtaille des stratgies linguistiques adoptes
+e
+e
+e
+e
+par deux revues francaises majeures de scien¸
+ces sociales, Population et Revue francaise de
+¸
+sociologie (RFS), qui ont choisi de traduire
+en anglais une slection (RFS) ou la totalit
+e
+e
+(Population) d’articles. Au vu des rsultats en
+e
+termes de visibilit dans le champ scientifie
+que international – accroissement de la visibilit de la revue Population au dtriment de
+e
+e
+la version francaise et effets marginaux pour
+¸
+la RFS –, on s’interroge sur le role jou par
+ˆ
+e
+les revues nationales de sciences sociales.
+Une politique axe uniquement sur l’intere
+nationalisation laisse de cot toute une part
+ˆ e
+de leur role de consignation d’un savoir
+ˆ
+national.
+
+Im Rahmen der Internationalisierung des
+Wissenschaftsbetriebs, wird die Frage der
+Ver€ffentlichungssprache in den Sozialo
+wissenschaften zu einem nevralgischen
+Punkt. In den Naturwissenschaften ist die
+Frage seit den 80er Jahren gel€st. Dieser
+o
+Aufsatz basiert auf der detaillierten Untersuchung der sprachlichen Strategien zweier
+frz sozialwissenschaftlicher Zeitschriften:
+Population und Revue francaise de sociologie
+¸
+(RFS). Letztere ubersetzt einen Teil ihrer
+€
+Aufs€tze, erstere (Population) alle. Die intera
+nationale,
+wissenschaftliche
+Reichweite
+dieser Vorgehensweise – Anstieg der englischsprachigen Ausgabe bei Population
+gegen€ ber ihrer frz. Ausgabe und unbedeuu
+tende Auswirkungen bei RFS – wirft die
+Frage auf, welche Rolle die nationalen Zeitschriften der Sozialwissenschaften spielen.
+Die internationale Verankerung f€ hrt zur
+u
+Vernachl€ssigung des hiesigen Wissens.
+a
+
+´
+Mots cls: Evaluation, Internationalisation,
+e
+Revues savantes, Langue de publication,
+Traduction.
+
+Schlagw€rter: Einsch€tzung, Internationalo
+a
+isierung, Wissenschaftliche Zeitschriften, Ver¨
+offentlichungssprache, Ubersetzung.
+€
+
+321
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Internationalism and insularism. American faculty and the world</title><author><persName><forename type="first">Philip G.</forename><surname>Altbach</surname></persName></author><author><persName><forename type="first">Lionel S.</forename><surname>Lewis</surname></persName></author></analytic><monogr><title level="j">Change</title><imprint><date type="published">1998</date><biblScope unit="page" from="54">54</biblScope><biblScope unit="page" to="55">55</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Benchmarking Scientific Output in the Social Sciences and Humanities: The Limits of Existing Databases</title><author><persName><forename type="first">Éric</forename><surname>Archambault</surname></persName></author><author><persName><forename type="first">Étienne</forename><surname>Vignola-Gagné</surname></persName></author><author><persName><forename type="first">Grégoire</forename><surname>Coté</surname></persName></author><author><persName><forename type="first">Vincent</forename><surname>Larivière</surname></persName></author><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author></analytic><monogr><title level="j">Scientometrics</title><imprint><date type="published">2006</date><biblScope unit="volume">68</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="329">329</biblScope><biblScope unit="page" to="342">342</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Les conditions sociales de la circulation internationale des idées</title><author><persName><forename type="first">Pierre</forename><surname>Bourdieu</surname></persName></author></analytic><monogr><title level="j">Actes de la recherche en sciences sociales</title><imprint><date type="published">2002</date><biblScope unit="volume">145</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="3">3</biblScope><biblScope unit="page" to="8">8</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Foreword</title><author><persName><forename type="first">Gérard</forename><surname>Calot</surname></persName></author></analytic><monogr><title level="j">Population</title><imprint><date type="published">1989</date><biblScope unit="volume">44</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="1">1</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">U.S. sociology through the mirror of French translation”</title><author><persName><forename type="first">Alain</forename><surname>Chenu</surname></persName></author></analytic><monogr><title level="j">Contemporary sociology</title><imprint><date type="published">2001</date><biblScope unit="volume">30</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="105">105</biblScope><biblScope unit="page" to="109">109</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Une institution sans intention. La sociologie en France depuis l’après-guerre</title><author><persName><forename type="first">Alain</forename><surname>Chenu</surname></persName></author></analytic><monogr><title level="j">Actes de la recherche en sciences sociales</title><imprint><date type="published">2002</date><biblScope unit="volume">141</biblScope><biblScope unit="issue">1/2</biblScope><biblScope unit="page" from="46">46</biblScope><biblScope unit="page" to="59">59</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">French Theory. Foucault, Derrida, Deleuze &amp; Cie et les mutations de la vie intellectuelle aux Etats-Unis</title><editor><persName><forename type="first">François</forename><surname>Cusset</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Réflexions sur une chronologie. Le développement des sciences sociales en France de 1945 à la fin des années soixante</title><author><persName><forename type="first">Alain</forename><surname>Drouard</surname></persName></author></analytic><monogr><title level="j">Revue française de sociologie</title><imprint><date type="published">1982</date><biblScope unit="volume">23</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="55">55</biblScope><biblScope unit="page" to="85">85</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">La valeur d’une langue dans un champ scientifique</title><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author></analytic><monogr><title level="j">Recherches sociographiques</title><imprint><date type="published">1984</date><biblScope unit="volume">25</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="286">286</biblScope><biblScope unit="page" to="296">296</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Les formes spécifiques de l’internationalité du champ scientifique</title><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author></analytic><monogr><title level="j">Actes de la recherche en sciences sociales</title><imprint><date type="published">2002</date><biblScope unit="volume">141</biblScope><biblScope unit="issue">1/2</biblScope><biblScope unit="page" from="31">31</biblScope><biblScope unit="page" to="45">45</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Du mauvais usage de faux indicateurs</title><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author></analytic><monogr><title level="j">Revue d’histoire moderne et contemporaine</title><imprint><date type="published">2008</date><biblScope unit="volume">55</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="67">67</biblScope><biblScope unit="page" to="79">79</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">L’Espace intellectuel en Europe. De la formation des États-nations à la mondialisation XIXe-XXIe siècle</title><editor><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></editor><editor><persName><forename type="first">Johan</forename><surname>Heilbron</surname></persName></editor><editor><persName><forename type="first">Gisèle</forename><surname>Sapiro</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2009</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">GingrasYves et Mosbah-NatansonSébastien, 2010. “La question de la traduction en sciences sociales : les revues françaises entre visibilité internationale et ancrage national”, Note de recherche du CIRST, Université du Québec à Montréal. Disponible en ligne : http://www.cirst.uqam.ca/Portals/0/docs/note_rech/2010-02.pdf</title><editor><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></editor><editor><persName><forename type="first">Sébastien</forename><surname>Mosbah-Natanson</surname></persName></editor><idno type="uri">http://www.cirst.uqam.ca/Portals/0/docs/note_rech/2010-02.pdf</idno><imprint><date type="published">2010</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">A British Connection? A Quantitative Analysis of the Changing Relations between American, British and Canadian Sociologists”</title><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author><author><persName><forename type="first">Jean-Philippe</forename><surname>Warren</surname></persName></author></analytic><monogr><title level="j">Canadian Journal of Sociology</title><imprint><date type="published">2006</date><biblScope unit="volume">31</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="509">509</biblScope><biblScope unit="page" to="522">522</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Le premier âge de Population (1946-1962)</title><author><persName><forename type="first">Alain</forename><surname>Girard</surname></persName></author></analytic><monogr><title level="j">Population</title><imprint><date type="published">1995</date><biblScope unit="volume">50</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="1335">1335</biblScope><biblScope unit="page" to="1347">1347</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Qu’est-ce qu’une tradition nationale en sciences sociales ?</title><author><persName><forename type="first">Johan</forename><surname>Heilbron</surname></persName></author></analytic><monogr><title level="j">Revue d’histoire des sciences humaines</title><imprint><date type="published">2008</date><biblScope unit="volume">18</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="3">3</biblScope><biblScope unit="page" to="16">16</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">À nos lecteurs</title><author><persName><forename type="first">François</forename><surname>Héran</surname></persName></author><author><persName><forename type="first">Henri</forename><surname>Leridon</surname></persName></author></analytic><monogr><title level="j">Population</title><imprint><date type="published">2002</date><biblScope unit="volume">57</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="9">9</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">The Decline in the Concentration of Citations, 1900-2007</title><author><persName><forename type="first">Vincent</forename><surname>Larivière</surname></persName></author><author><persName><forename type="first">Yves</forename><surname>Gingras</surname></persName></author><author><persName><forename type="first">Eric</forename><surname>Archambault</surname></persName></author></analytic><monogr><title level="j">Journal of the American Society for Information Science and Technology</title><imprint><date type="published">2009</date><biblScope unit="volume">60</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="858">858</biblScope><biblScope unit="page" to="862">862</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">EU Research and Technological Development Progammes: What Role for the Social Sciences and Humanities</title><author><persName><forename type="first">Maria Teresa</forename><surname>Patricio</surname></persName></author></analytic><monogr><title level="j">Portuguese Journal of Social Science</title><imprint><date type="published">2004</date><biblScope unit="volume">3</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="49">49</biblScope><biblScope unit="page" to="68">68</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">L’Intelligence démographique : sciences et politiques des populations en France (1930-1960)</title><editor><persName><forename type="first">Paul-André</forename><surname>Rosental</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Translation. Le marché de la traduction en France à l’heure de la mondialisation</title><editor><persName><forename type="first">Gisèle</forename><surname>Sapiro</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">The ‘language preference’ in sociology: measures of ‘language self-citation’, ‘relative own-language preference indicator’, and ‘mutual use of languages’</title><author><persName><forename type="first">Moshe</forename><surname>Yitzhaki</surname></persName></author></analytic><monogr><title level="j">Scientometrics</title><imprint><date type="published">1998</date><biblScope unit="volume">41</biblScope><biblScope unit="issue">1/2</biblScope><biblScope unit="page" from="243">243</biblScope><biblScope unit="page" to="254">254</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Pique-niquer sur le volcan: une pratique culturelle de Winckelmann à Sade</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2009. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2009">2009</date>
+            <date type="published">2009</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Pique-niquer sur le volcan: une pratique culturelle de Winckelmann à Sade</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>McCallam</surname>
+                        <forename type="first">David</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">University of Sheffield</orgName>
+                     </affiliation>
+                     <affiliation role="corresp">
+                        <email>d.mccallam@sheffield.ac.uk</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">04487705DB8383593AA047E0BC9AB81585B1E764</idno>
+                  <idno type="ark">ark:/67375/HXZ-XCNNMB17-J</idno>
+                  <idno type="DOI">10.1093/fs/knp063</idno>
+                  <idno type="publisher-id">knp063</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2009</date>
+                     <biblScope unit="vol">63</biblScope>
+                     <biblScope unit="issue">3</biblScope>
+                     <biblScope unit="page" from="259">259</biblScope>
+                     <biblScope unit="page" to="270">270</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>A partir de deux épisodes aux accents infernaux tirés de la vie de Winckelmann et de la prose de Sade, cet article examine une étrange pratique culturelle de la fin du dix-huitième siècle: pique-niquer sur le volcan, en l'occurrence le Vésuve, escale essentielle et spectacle sublime du Grand Tour. Puisant dans des lettres et des récits de voyage des touristes français et anglais, nous interrogeons cette commensalité — le fait de manger ensemble — aux flancs du volcan, interrogation qui révise et précise la signification du terme <hi rend="italic">pique-nique</hi> au dix-huitième siècle. De plus, nous rapprochons cette vision ‘alimentaire’ du volcan d'un autre phénomène culturel napolitain de l'époque: la cocagne. Ainsi, selon nous, volcan et cocagne constituent les deux pôles symboliques entre lesquels s'exerce le régime (au sens à la fois politique et diététique) du roi de Naples. En conclusion, nous analysons quelques réponses des touristes à l'appétit démesuré du Vésuve, constatant que ces réponses (dont le pique-nique lui-même) s'efforcent avant tout d'y réimposer une certaine mesure — que celle-ci soit scientifique ou esthétique.</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="s1">
+            <head>Deux exemples extrêmes: Winckelmann et Sade</head>
+            <p>Le 19 octobre 1767, le Vésuve entre en éruption de manière spectaculaire. Alors que le roi de Naples se voit obligé de fuir son palais à Portici, à quelques kilomètres du volcan, l'antiquaire papal, Johann Joachim Winckelmann, accompagné de deux amis, part en expédition en sens inverse, vers la montagne enflammée.<hi rend="superscript">
+                  <ref type="fn" target="#FN1">1</ref>
+               </hi> Dans deux lettres à des correspondants allemands, Winckelmann raconte cette ascension infernale. Bastonnant leur guide apeuré pour qu'il les mène parmi les coulées de lave ardentes, Winckelmann et ses compagnons poussent jusqu'au bord du cratère leurs souliers brûlés et déchirés. Là, écrit-il, ‘j’étais le premier à me déshabiller pour sécher ma chemise, et mes deux compagnons en ont fait autant'. Nus, les trois hommes se livrent à un pique-nique pour le moins gothique, ‘grillant du pigeon sur la lave’ et l'arrosant de ‘deux ou trois bouteilles de Rosoli', liqueur italienne locale.<hi rend="superscript">
+                  <ref type="fn" target="#FN2">2</ref>
+               </hi>
+            </p>
+            <p>Cet épisode aux accents infernaux anticipe sur une autre aventure — romanesque cette fois — d'un trio de libertines dans <hi rend="italic">L'Histoire de Juliette</hi> du marquis de Sade publié en 1801. Il s'agit d'une partie de plaisir au sommet du Vésuve qu'organisent Juliette et son amante Clairwil pour se défaire de leur compagne de débauche, l'infortunée Olympe de Borghèse. La veille de l'excursion au volcan, cette dernière (au nom ironiquement céleste et montagneux) est invitée à souper par ses futures assassines. Avec une ironie typiquement sadienne, Juliette et Clairwil servent à celle qui va rôtir dans les flammes du volcan, ‘des rôties au vin de Chypre’.<hi rend="superscript">
+                  <ref type="fn" target="#FN3">3</ref>
+               </hi> Le lendemain, les trois débauchées grimpent jusqu'au cratère du Vésuve. Là, les libertines meurtrières renvoient leurs guides sous un prétexte quelconque et s'attaquent à Olympe, l'agressant sexuellement avant de la jeter ‘toute vive dans les entrailles’ du volcan.<hi rend="superscript">
+                  <ref type="fn" target="#FN4">4</ref>
+               </hi> Ensuite, excitées par le mal pur qu'elles viennent de commettre, Juliette et Clairwil se masturbent sur le bord du gouffre, jouissance terrible qui à la fois imite et défie l'éruption volcanique. Pour sa part, le volcan ne leur renvoie qu'un rot de satisfaction sous forme d'une ‘nuée de pierres’ qui tombent inoffensivement autour d'elles, ce qui signale aux libertines que leur victime a bel et bien été reçue, comme le dit Juliette, ‘dans les entrailles de la terre’.<hi rend="superscript">
+                  <ref type="fn" target="#FN5">5</ref>
+               </hi> Elles fêtent ce meurtre en imitant encore une fois le volcan gourmand: ‘“Que rien ne nous dérange, déjeunons”’, dit Juliette. Et elles déjeunent sur le volcan se servant dans un ‘panier de rafraîchissements’ qu'elles avaient fait porter au sommet.<hi rend="superscript">
+                  <ref type="fn" target="#FN6">6</ref>
+               </hi>
+            </p>
+            <p>Au niveau structurel les parallèles entre les deux histoires sont manifestes: les trios d'hommes ou de femmes, le pique-nique au sommet du volcan et le déshabillement forcé (par la chaleur ou par le vice). De plus, le tribadisme sadien fait écho aux goûts homosexuels de Winckelmann plus ou moins connus à l'époque.<hi rend="superscript">
+                  <ref type="fn" target="#FN7">7</ref>
+               </hi> Tout pousse donc à se demander si Sade était au courant de l'histoire du dîner volcanique de l'antiquaire. Malgré quelques connaissances éventuelles qui lieraient les deux hommes,<hi rend="superscript">
+                  <ref type="fn" target="#FN8">8</ref>
+               </hi> des preuves irréfutables de cette relation nous font malheureusement défaut. Ceci dit, le meurtre brutal de Winckelmann le 8 juin 1768, à Trieste, moins d'un an après son pique-nique sur le volcan, nous fournit encore un motif qui rapproche les deux histoires macabres. Comme beaucoup de victimes dans les romans de Sade, Winckelmann souffre une mort lente, poignardé puis garotté dans sa chambre d'hôtel, après une rencontre sexuelle avec un soi-disant cuisinier qui s'appelle Arcangeli, nom sadien s'il en fut.<hi rend="superscript">
+                  <ref type="fn" target="#FN9">9</ref>
+               </hi>
+            </p>
+            <p>Mais quelle que soit l'influence des expériences de Winckelmann sur le roman de Sade, il n'en est pas moins vrai que ces deux cas sensationnels — l'un réel, l'autre romanesque — relèvent directement d'une pratique culturelle répandue à l'époque: pique-niquer sur le volcan, en l'occurrence le Vésuve, escale immanquable et spectacle sublime du Grand Tour. Lettres, mémoires et surtout récits de voyages de ce dix-huitième siècle finissant l'attestent clairement: on n'a qu'à lire les textes des touristes français et anglais qui visitent Naples et son volcan, ceux de l'abbé Jérôme Richard, de l'abbé Jean-Claude Richard de Saint-Non, de Jacques-Joseph de La Roque, de Charles Pinot Duclos, de Joseph Jérôme de Lalande, de Pierre-Jacques-Onésyme Bergeret de Grancourt, de Charles-Marguerite-Jean-Baptiste Mercier Dupaty, de Roland de la Platière, d'Elisabeth Vigée-Lebrun, d'Henry Swinburne, de Sir James Smith, de Hester Piozzi, de Mariana Starke, tous écrits entre 1760 et 1800. Ainsi ces témoignages constitueront-ils notre corpus principal ici.</p>
+         </div>
+         <div xml:id="s2">
+            <head>Des pique-niques sur le Vésuve</head>
+            <p>A lire les rapports de ces voyageurs, il est possible de faire un plan de la visite typique au volcan. D'habitude on part tôt le matin entre six et neuf heures; on loue une calèche pour rouler les six milles qui séparent Naples de Portici; de Portici, il y a trois routes principales qui mènent au Vésuve. La majorité écrasante de voyageurs choisissent la route de Résina, village à environ deux milles de Portici. Ce chemin ‘est le plus fréquenté, mais il est aussi le plus difficile’, nous apprend Lalande.<hi rend="superscript">
+                  <ref type="fn" target="#FN10">10</ref>
+               </hi> Là, si on ne l'a pas déjà fait à Portici, on loue des guides locaux, choisissant avec soin parmi la foule de misérables qui se présentent, et surtout faisant attention à ne pas les payer avant le retour à la voiture, puisque d'après l'abbé Richard, ce sont des gens ‘méchans et très-intéressés’, et qu'on ne doit pas craindre ‘de les éloigner à coups de bâton’.<hi rend="superscript">
+                  <ref type="fn" target="#FN11">11</ref>
+               </hi> On achète aussi des flambeaux (les meilleurs et les moins chers se trouvent à Naples selon La Roque),<hi rend="superscript">
+                  <ref type="fn" target="#FN12">12</ref>
+               </hi> parce que l'excursion se fait de manière à rester sur la montagne jusqu'à la tombée de la nuit pour jouir du spectacle des feux volcaniques dans le noir. En fait, on compte en moyenne quatre heures pour grimper jusqu'au cratère, et un peu moins de trois heures pour descendre. La première partie de l'ascension se fait à dos d'âne, jusqu'aux laves; puis à pied, jusqu'au sommet. Pour les voyageurs qui ont du mal à prendre pied sur les anciennes laves aiguës et tranchantes, ‘raboteuses et irrégulières’,<hi rend="superscript">
+                  <ref type="fn" target="#FN13">13</ref>
+               </hi> ou ceux qui sont fatigués de marcher ‘up to the ancles [<hi rend="italic">sic</hi>] at every step in purple, lukewarm ashes’,<hi rend="superscript">
+                  <ref type="fn" target="#FN14">14</ref>
+               </hi> les guides attachent les touristes à leur ceinture par une courroie et les entraînent derrière eux. Ce fait est confirmé par La Roque, Lalande, Goethe et Piozzi, et donne une note de réalisme au récit libertin de Juliette.<hi rend="superscript">
+                  <ref type="fn" target="#FN15">15</ref>
+               </hi>
+            </p>
+            <p>Selon le degré d'activité volcanique, les descriptions du cratère bouillant ou de la lave qui fait éruption comprennent un nombre de constantes. Les touristes, presque unanimement, font mention de ‘l'effroyable bruit’ assourdissant, souvent comparé à des canons du plus gros calibre, qualifié aussi de fracas, de ‘mugissements’; ils rapportent l'odeur insupportable de soufre, font remarquer leurs souliers brûlés et déchirés par les laves;<hi rend="superscript">
+                  <ref type="fn" target="#FN16">16</ref>
+               </hi> et ils soulignent le danger constant qu'ils bravent, souvent manifesté par des jets de pierres de toute taille, pierres enflammées qui roulent jusqu'à eux.<hi rend="superscript">
+                  <ref type="fn" target="#FN17">17</ref>
+               </hi> Et, puisqu'il s'agit de l'expérience-type du sublime naturel, presque tous les récits de la rencontre avec le volcan ne manquent pas de dire à quel point, paradoxalement, l'expérience est indicible, inexprimable; c'est un spectacle, dit Dupaty, ‘que ni le pinceau ni la parole ne sauroient reproduire’.<hi rend="superscript">
+                  <ref type="fn" target="#FN18">18</ref>
+               </hi>
+            </p>
+            <p>Mais, évidemment, ces touristes plus ou moins nantis<hi rend="superscript">
+                  <ref type="fn" target="#FN19">19</ref>
+               </hi> ni ne font tout cet effort, ni ne s'exposent à tous ces dangers sans s'être fortifiés auparavant, sans avoir rien mangé. En fait, la pratique la plus courante parmi ces voyageurs, en ce qui concerne leur alimentation, c'est de pique-niquer. Malgré une étymologie des plus controversées,<hi rend="superscript">
+                  <ref type="fn" target="#FN20">20</ref>
+               </hi> le substantif <hi rend="italic">pique-nique</hi> est reconnu par la troisième édition du <hi rend="italic">Dictionnaire de l'Académie française</hi> de 1740, où il signifie ‘Faire un repas où chacun paye son écot’,<hi rend="superscript">
+                  <ref type="fn" target="#FN21">21</ref>
+               </hi> c'est-à-dire faire un repas où chacun contribue sa part. Cette définition, sans référence à un menu fixe ni à un local précis, est reprise à quelques mots près dans les quatrième et cinquième éditions du <hi rend="italic">Dictionnaire</hi> de 1762 et de 1798. On a beau disputer l'origine du mot ou lui reprocher sa nouveauté, à la fin des années 1780 le <hi rend="italic">Dictionnaire critique</hi> de Jean-François Féraud prétend que le terme de <hi rend="italic">pique-nique</hi> est tout de même ‘usité par-tout’.<hi rend="superscript">
+                  <ref type="fn" target="#FN22">22</ref>
+               </hi> Pour notre imaginaire moderne, un pique-nique évoque d'une manière quasi-instinctive des images impressionnistes de la fin du dix-neuvième siècle, des <hi rend="italic">Déjeuner sur l'herbe</hi> d'Édouard Manet, de Claude Monet ou de James Tissot, bien qu'aucun de ces tableaux célèbres ne se serve du mot <hi rend="italic">pique-nique</hi> pour définir son sujet. Donc, il vaut la peine de souligner ici qu'au dix-huitième siècle un pique-nique n'avait nullement le sens d'un repas pris en plein air, mais se caractérisait plutôt par une mise en commun des frais ou des plats. Un pique-nique pouvait bien alors se faire à la campagne, mais ce n'était pas l'essentiel; il signifiait plus généralement ne pas manger chez soi.<hi rend="superscript">
+                  <ref type="fn" target="#FN23">23</ref>
+               </hi>
+            </p>
+            <p>En pratique, au pied du Vésuve, cela voulait dire qu'on apportait son repas avec soi, comme le confirme Bergeret de Grancourt en 1774: ‘nous avions porté notre diné dans nos voitures jusqu’à Portici, et de là sur des mulets et asnes jusqu'au bas du Vésuve';<hi rend="superscript">
+                  <ref type="fn" target="#FN24">24</ref>
+               </hi> il en va de même pour Mariana Starke écrivant en 1797: ‘We hired a carriage to go to Resina, […] took cold meat, bread and a bottle of wine, and set out at daybreak.’<hi rend="superscript">
+                  <ref type="fn" target="#FN25">25</ref>
+               </hi> En fait, les pique-niques consistaient habituellement en ces trois aliments: du pain, du vin et de la viande cuite, comme le fait remarquer également Duclos.<hi rend="superscript">
+                  <ref type="fn" target="#FN26">26</ref>
+               </hi> Pour ces repas sur le volcan, le local de préférence était une bâtisse singulière qui s'appelait l'Ermitage, dit aussi Il Salvatore, située environ deux milles en dessous du cratère.<hi rend="superscript">
+                  <ref type="fn" target="#FN27">27</ref>
+               </hi> D'habitude les voyageurs s'y reposaient au cours de l'ascension de la montagne, bien que le témoignage de Starke nous indique que certains touristes préféraient y faire une halte pendant la descente.<hi rend="superscript">
+                  <ref type="fn" target="#FN28">28</ref>
+               </hi> L'Ermitage était occupé alors par un drôle de personnage, un Français que Lalande nomme Claude Velene, originaire d'Amiens, qui s'est dit obligé de quitter l'armée et la France pour se retirer ‘sur cette montagne vers 1750’.<hi rend="superscript">
+                  <ref type="fn" target="#FN29">29</ref>
+               </hi> L'abbé Richard, qui avait rencontré l'ermite quatre ans avant Lalande, en 1762, n'hésite pas à le traiter dédaigneusement de ‘grand hâbleur de son métier, qui avoit voulu se donner pour un homme à miracles’.<hi rend="superscript">
+                  <ref type="fn" target="#FN30">30</ref>
+               </hi> Aussi dur que paraisse ce jugement, il semble pourtant juste puisque quand Hester Piozzi lui rend visite à la fin des années 1780, ‘ce bon vieil homme pauvre’ assure à sa convive qu'il était autrefois coiffeur à Londres et avait même frisé les cheveux à certains membres de sa partie.<hi rend="superscript">
+                  <ref type="fn" target="#FN31">31</ref>
+               </hi> D'après ces récits de voyage, il paraît que tantôt l'ermite fournisse un repas à ses invités, tantôt les touristes lui apportent des mets. Par exemple, Elisabeth Vigée-Lebrun déclare qu'elle ‘avait fait porter notre dîner chez l'Ermite, que nous avions invité à le partager’;<hi rend="superscript">
+                  <ref type="fn" target="#FN32">32</ref>
+               </hi> alors qu'un rapport anonyme sur l'éruption du Vésuve en 1767, envoyé à l'American Philosophical Society, précise que les touristes qui passent par l'Ermitage ‘are provided with refreshments by the hermit’.<hi rend="superscript">
+                  <ref type="fn" target="#FN33">33</ref>
+               </hi> Lalande confirme que les deux pratiques se complètent: ‘[L'ermite] reçoit les étrangers; on y trouve du vin, des fruits, et quelques rafraîchissemens proportionnés à son état; mais ceux qui ont envie d'y être bien traités ont soin d'y faire porter des provisions.’<hi rend="superscript">
+                  <ref type="fn" target="#FN34">34</ref>
+               </hi>
+            </p>
+            <p>De toute façon, qu'on dîne dans l'Ermitage ou qu'on déjeune en plein air dans ses environs comme le fait Goethe en compagnie de ses guides,<hi rend="superscript">
+                  <ref type="fn" target="#FN35">35</ref>
+               </hi> ces repas sur le Vésuve offrent une image d'une sociabilité assez singulière. C'est une commensalité — le fait de manger ensemble — qui est égalitaire, puisque ‘chacun paye son écot’, et transgressive, puisqu'on mange avec ses inférieurs sociaux, des guides par exemple, mais surtout avec l'ermite lui-même. Le lieu où on mange y est pour quelque chose, car l'Ermitage, perché sur le flanc du volcan, échappe à la surveillance des corps sociaux, l'Église, la Cour et la muncipalité, qui réglementent la restauration. De plus, face à la puissance volcanique, l'image d'une mort certaine et commune, figée dans les ruines voisines de Pompéi et d'Herculanum, sert à renforcer tout sentiment d'égalité tacite qui existerait entre les pique-niqueurs chez l'ermite. Cette commensalité cordiale et subversive semble déteindre aussi sur les descriptions subséquentes que donnent les voyageurs du volcan en éruption. Le volcan est personnifié, anthropomorphisé par moyen de termes digestifs. Il a évidemment une bouche, ou plusieurs; il a aussi des entrailles, <hi rend="italic">bowels</hi> en anglais; et il ne cesse de vomir laves, pierres ponces, cendres et fumée. Qui plus est, ces mêmes laves qu'il vomit, engloutissent et dévorent à leur tour tout ce qu'elles touchent. A une époque où la dynamique chimique de la combustion s'expliquait souvent par la théorie quasiment alchimique du <hi rend="italic">phlogiston</hi>,<hi rend="superscript">
+                  <ref type="fn" target="#FN36">36</ref>
+               </hi> on percevait communément le feu comme un élément plus ou moins inné de chaque substance. Comme le dit Gaston Bachelard, chez un tel ‘inconscient préscientifique’ la conception du feu est fortement animiste.<hi rend="superscript">
+                  <ref type="fn" target="#FN37">37</ref>
+               </hi> Ainsi dans l'imaginaire collectif de l'époque, feu, lave et volcan s'alimentent-ils comme un être vivant. Par conséquent, le volcan constitue un géant qui dévore et vomit, investi de ce que Bachelard appelle ‘le complexe de Pantagruel’.<hi rend="superscript">
+                  <ref type="fn" target="#FN38">38</ref>
+               </hi> Ceci a d'autres conséquences pour la représentation physiologique du volcan. D'abord, son cratère n'est pas sexué, comme féminin, comme matrice, utérus ou vagin, orifices de la bonne vieille terre, de la Gaïa. Au lieu de cela, on le décrit en termes d'ingestion, digestion et régurgitation. Il fait partie d'un énorme système digestif tellurique. Il s'ensuit que n'étant assimilé ni à l'utérus ni au vagin, le cratère évoque l'anus. Donc, si on était tenté de l'érotiser, il faudrait l'associer aux pratiques sodomitiques imputées à Winckelmann et favorisées dans les romans de Sade. Sur ce point, le <hi rend="italic">Voyage d'Italie</hi> de Sade lui-même nous révèle une éventuelle inspiration de cette association du volcan à la sodomie, puisqu'il raconte qu'après l'énorme éruption du Vésuve en 1767 la populace napolitaine dresse une statue du saint patron de la ville, saint Janvier, face à la montagne. Se croyant protégé par son idole, ce peuple vulgaire et superstitieux défie le volcan précisément en ‘montrant le derrière au Vésuve’ et en s'écriant ‘“Jette, jette Vésuve, nous t'en défions! A présent, saint Janvier te le défend!”’.<hi rend="superscript">
+                  <ref type="fn" target="#FN39">39</ref>
+               </hi>
+            </p>
+         </div>
+         <div xml:id="s3">
+            <head>Du pique-nique à la cocagne</head>
+            <p>Si les pique-niques sur le Vésuve renforcent la tendance chez ses touristes à caractériser l'expérience du volcan en fonction de la digestion et de l'alimentation, nous soutenons ici qu'il existe un autre spectacle napolitain qui détermine encore plus foncièrement l'identification du volcanique au comestible. Ce spectacle, c'est la cocagne (<hi rend="italic">cuccagna</hi> en italien). Faisant partie de presque tous les festivals populaires à Naples, la cocagne avait lieu d'habitude dans la grande place du Largo del Castello, souvent en présence de la famille royale et de la cour. Toujours dans son <hi rend="italic">Voyage d'Italie</hi>, entrepris en 1775 et 1776, Sade en donne une description assez typique qu'il vaut la peine de citer pleinement:
+<cit>
+                  <quote>
+                     <p>L'ouverture [du carnaval] se fait par une cocagne, spectacle le plus barbare qu'il soit peut-être possible d'imaginer au monde. Sur un grand échafaud que l'on orne d'une décoration rustique, se pose une prodigieuse quantité de vivres, disposés de manière à composer eux-mêmes une partie de la décoration. Ce sont inhumainement crucifiés, des oies, des poules, des dindons, qui suspendus tout en vie avec deux ou trois clous, amusent le peuple par leurs mouvements convulsifs, jusqu'au moment où il lui sera permis d'aller piller tout cela.<hi rend="superscript">
+                           <ref type="fn" target="#FN40">40</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>L'abbé de Saint-Non cite une lettre d'un de ses correspondants qui a assisté à une cocagne en 1778; sur beaucoup de points sa description reprend celle de Sade: l’édifice est couvert, écrit-il, ‘de merluches, de pain, de quartiers de bœufs, de moutons, de veaux et d'oyes, que l'on y attache avec barbarie toutes vivantes, et souvent quatre jours d'avance’.<hi rend="superscript">
+                  <ref type="fn" target="#FN41">41</ref>
+               </hi> A midi pile, un grand coup de canon tiré du Castello déclenche le pillage général. Le bas peuple napolitain, dit <hi rend="italic">lazzaroni</hi>, s'attaque alors avec brutalité et voracité à la cocagne et la dépouille en moins de cinq minutes de tous ses vivres dans une explosion de sauvagerie collective qui n'épargne ni les animaux accrochés ni leurs semblables. Bref, c'est le pantagruélisme donné en spectacle, la fête de l'appétit déchaîné.</p>
+            <p>Mais, cela étant, qu'est-ce qui rapproche ce spectacle abaissant, étalant la rapacité du peuple, des pique-niques souriants des touristes sur le Vésuve, ou encore de l'activité sublime du volcan lui-même? Tout d'abord c'est la forme travaillée que prend la construction de la cocagne napolitaine (ailleurs elle n'est souvent construite que d'un simple mât maigre). Le correspondant de Saint-Non déclare que l'édifice représente le plus souvent un temple; or, il ajoute qu'il peut bien représenter ‘quelquefois une montagne avec des collines’.<hi rend="superscript">
+                  <ref type="fn" target="#FN42">42</ref>
+               </hi> Témoin dégoûté d'une cocagne en février 1771, Lady Anna Miller corrobore cette description, notant qu'une ‘hill appears exactly opposite the palace from the centre of which bursts forth a fountain’.<hi rend="superscript">
+                  <ref type="fn" target="#FN43">43</ref>
+               </hi> Colline ou montagne d'où jaillit une fontaine, la cocagne offre souvent une image qui ne peut pas manquer de rappeler aux spectateurs le Vésuve, lequel d'ailleurs fume en toile de fond. De plus, elle commence par un coup de canon, écho des terribles fracas du volcan que ses visiteurs comparent volontiers à des décharges d'artillerie. Et le pillage qu'il déclenche est aussi rapide et brutal qu'une éruption volcanique; comme le décrit le correspondant de Saint-Non, ‘la fumée du canon n'est pas dissipée, que tout est enlevé jusqu'au moindre morceau'.<hi rend="superscript">
+                  <ref type="fn" target="#FN44">44</ref>
+               </hi> Dans la piazza comme sur le volcan, la fumée ne masque que provisoirement la violence-éclair. Mais si la cocagne a quelque chose de volcanique dans son énergie et dans sa violence, elle inverse le sens de l'éruption; c'est effectivement un volcan à l'envers. Alors que la lave déborde du cratère et descend les flancs de la montagne, ici la populace affamée afflue en montant jusqu'au sommet de l'édifice; alors que la lave couvre tout ce qu'elle rencontre, le peuple dépouille tout ce qu'il trouve; le volcan dégorge, le peuple se gorge. Mais, dans les deux cas, lave et peuple, volcan et cocagne gardent toujours la même dynamique: dévorer.</p>
+            <p>Pour bon nombre de voyageurs qui assistent à ces deux éruptions — éruption volcanique et éruption de la voracité populaire — il se peut qu'un lien, conscient ou inconscient, se forme entre ces expériences, puisqu'elles ont en commun une association à la nourriture et, avant tout, une présentation sous forme de spectacle. Car, pour ses touristes, Naples au dix-huitième siècle semble incarner tout ce qui est spectaculaire: située sur une baie en forme d'amphithéâtre naturel, la ville est célèbre pour son opéra San Carlo, et parmi les premières ruines qu'on déterre à Herculanum et à Pompéi se trouvent un théâtre, un forum et un amphithéâtre, sites de spectacle par excellence.<hi rend="superscript">
+                  <ref type="fn" target="#FN45">45</ref>
+               </hi> Ainsi Piozzi écrit-elle qu’‘Our eagerness to see sights has been repressed at Naples only by finding everything a sight'.<hi rend="superscript">
+                  <ref type="fn" target="#FN46">46</ref>
+               </hi> Et le plus grand de ces spectacles est, bien sûr, le Vésuve. En fait, le volcan est si spectaculaire qu'on cherche à reproduire ses explosions et ses jets de feu et de lave loin de son emplacement géographique. Il subit une sorte de mise en spectacle qui en fait une fête mobile. Par exemple, selon Piozzi, les Bolognais avaient l'idée un peu bizarre d'accueillir le roi de Naples en lui offrant une grande représentation artificielle du Vésuve dans la place principale de leur ville.<hi rend="superscript">
+                  <ref type="fn" target="#FN47">47</ref>
+               </hi> Dans les années 1790, le prince d'Anhalt-Dessau alla encore plus loin: dans ses jardins paysagés à Wörlitz, il fit construire une énorme copie du Vésuve. Ses visiteurs étaient invités à l'admirer au cours d'une promenade en bateau sur un lac qui faisait face au faux volcan, lequel entrait ponctuellement en éruption grâce à un dispositif pyrotechnique intérieur.<hi rend="superscript">
+                  <ref type="fn" target="#FN48">48</ref>
+               </hi>
+            </p>
+            <p>Mais pour revenir à Naples et à son volcan, il est possible que le spectacle de l'éruption volcanique ainsi que celui de la cocagne populaire constituent ensemble une expérience singulière du lieu qui ne peut se comprendre qu'en termes alimentaires. Ces deux phénomènes — l'un résolument naturel, l'autre résolument culturel — se renforcent et se complètent pour instaurer ce que nous sommes tentés d'appeler <hi rend="italic">le régime du régime</hi>, où le régime politique ou mode de gouverner, prend modèle direct sur le régime diététique, ou mode de s'alimenter. Le ton est d'ailleurs donné par le roi lui-même. Ferdinand IV était un roi fruste et barbare, à l'image de son peuple, qui aimait abattre des montagnes de gibier en se vautrant dans le sang de sa proie,<hi rend="superscript">
+                  <ref type="fn" target="#FN49">49</ref>
+               </hi> et qui invitait princes, ambassadeurs et courtisans à lui parler dans son cabinet lorsqu'il y déféquait.<hi rend="superscript">
+                  <ref type="fn" target="#FN50">50</ref>
+               </hi> A sa cour, ingestion et excrétion royales étaient des spectacles publics.</p>
+            <p>Ce régime du régime s'exerce alors entre deux extrêmes symboliques: entre l'excès d'ingérer représenté par la cocagne et l'excès de vomir représenté par le volcan. Le régime politique est donc pris entre ces deux pôles alimentaires; et les étrangers qui visitent Naples, comme Piozzi, ou qui y vivent, comme Hamilton, ne tardent pas à faire la relation: une crise volcanique entraîne presque inéluctablement une crise politique. Autrement dit, lorsque le volcan s'insurge, le peuple s'insurge aussi, et ce dernier se révèle souvent beaucoup plus meurtrier que les laves lointaines du Vésuve. Piozzi écrit:
+<cit>
+                  <quote>
+                     <p>Every time Vesuvius burns with danger to the city, they [the people] scruple not to insult their Sovereign as he flies from it; throwing large stones at his chariot, guards, etc.; making the insurrection it is sure to occasion, more perilous, if possible, than the volcano itself.<hi rend="superscript">
+                           <ref type="fn" target="#FN51">51</ref>
+                        </hi>
+                     </p>
+                  </quote>
+               </cit>
+            </p>
+         </div>
+         <div xml:id="s4">
+            <head>La démesure et la mesure</head>
+            <p>Donc ces touristes voyageant au Vésuve se trouvent dans le pays de la démesure, face avant tout à deux appétits démesurés: le pantagruélisme du peuple et la violence sublime du volcan. Plus que démesurés, ces appétits semblent être éternels, indéracinables, inhérents à la Campanie. Ainsi, visitant le musée de Portici qui contient les trésors des fouilles de Pompéi et d'Herculanum, Bergeret de Grancourt est fasciné par les ustensiles de cuisine et par les aliments comme le pain et la pâte, pétrifiés et préservés sous les cendres du volcan. Du coup, il se plaît à remarquer que les Romains partageaient sa gourmandise: ‘On est bien aise de voir qu'ils satisfaisoient comme nous aux mêmes besoins.’<hi rend="superscript">
+                  <ref type="fn" target="#FN52">52</ref>
+               </hi> A ces deux appétits démesurés on pourrait ajouter un troisième, le priapisme sexuel, célèbre dans la région et dont on exposait également les fétiches au Musée Royal de Portici. Sa collection de priapes obscènes, c'est-à-dire d'amulettes et de verres de forme phallique, ne cessent donc de choquer et d'intriguer les touristes comme Lalande et l'abbé Richard.<hi rend="superscript">
+                  <ref type="fn" target="#FN53">53</ref>
+               </hi> Autant de preuves d'une force surnaturelle et surhumaine qui anime du même souffle et le volcan et le peuple napolitain.</p>
+            <p>Confrontés ainsi aux énergies populaires et volcaniques qu'ils ne sont pas à même de maîtriser ou de comprendre, quelle est la réponse de ces voyageurs? La réponse la plus courante semble être celle du plus connaisseur d'entre eux, Sir William Hamilton, ambassadeur britannique au Royaume de deux Siciles pendant trente-six ans et volcanologue avant la lettre. N'étant aucunement capable de dompter le pouvoir incommensurable du Vésuve ou du peuple napolitain, Hamilton en observe la violence du plus près que possible et, une fois l'éruption passée, il jauge, il mesure, il évalue, et il en dresse le rapport. Mais, comme le démontre Noah Heringman, le mesurage des produits volcaniques ne donne qu'une faible idée de l'énergie volcanique, donc Hamilton se voit forcé de réduire autant que possible l'intervalle tant spatial que temporel qui le sépare du volcan en éruption pour compenser l'<hi rend="italic">après coup</hi> inhérent à ses rapports.<hi rend="superscript">
+                  <ref type="fn" target="#FN54">54</ref>
+               </hi> Ainsi se risque-t-il à errer parmi les coulées de lave traîtresses, sous les nuées de pierre ponce et de roche en fusion, dans un brouillard sulfureux, et tout cela aussitôt que l'éruption se déclare. Traduit en termes digestifs, le risque qu'il court alors, c'est celui d'être bouffé par le volcan gourmand, d'être englouti par ses laves. Déjà en 1767, il note: ‘I was apprehensive of the opening of a fresh mouth, which might have cut off our retreat.’<hi rend="superscript">
+                  <ref type="fn" target="#FN55">55</ref>
+               </hi> Les rapports de Hamilton sont ainsi les relations les plus immédiates et intrépides que nous possédons d'une rencontre avec le Vésuve en éruption au dix-huitième siècle. Ils n'en sont pas pour autant moins mesurés et circonspects. En tant qu'observateur éclairé, Hamilton semble indiquer que la seule réponse appropriée à la démesure de Naples et de ses environs, c'est toujours la mesure, tant au sens d'une évaluation précise des effets d'une éruption qu'une approche philosophique des plus impartiales et raisonnées.</p>
+            <p>N'empêche que, face au volcan, d'autres formes de mesure s'emploient, lesquelles cherchent, comme les rapports de Hamilton, à exprimer toute la force inimaginable du volcan (ou du peuple) tout en la subordonnant à l'entendement humain. Ainsi l'exactitude mathématique appliquée systématiquement aux coulées de lave compense l'extension à l'infini des colonnes de cendres et de fumée dégagées pendant une éruption et dont l'observateur ne peut donner qu'une idée imprécise et émerveillée. De plus, les observateurs s'appuient de plus en plus sur les instruments de mesure dont ils se servent, des ‘most excellent refracting Telescopes’ de Hamilton, du ‘baromètre’ de Lalande et de Torré,<hi rend="superscript">
+                  <ref type="fn" target="#FN56">56</ref>
+               </hi> et des montres pour chronométrer la chute des pierres lancées dans le cratère (dont le chronométrage libertin de la chute d'Olympe de Borghèse n'est qu'une parodie sadienne).<hi rend="superscript">
+                  <ref type="fn" target="#FN57">57</ref>
+               </hi> Tous ces instruments servent aussi à soumettre le pouvoir volcanique à la raison humaine. Mais à cette maîtrise mathématique du volcan, chasse gardée en quelque sorte des savants, les touristes au Vésuve préfèrent souvent une domestication esthétique de l'énergie volcanique. Le plus simple, c'est d'embaucher un peintre pour dompter le pouvoir du volcan en le réduisant à des effets de couleur et de lumière sur une toile. C'est ainsi que Bergeret, excédé par son ascension de la montagne, demande au peintre français, Pierre-Jacques Volaire, d'immortaliser pour lui la vue du Vésuve en feu.<hi rend="superscript">
+                  <ref type="fn" target="#FN58">58</ref>
+               </hi> Sade aussi se fait accompagné de Jean-Baptiste Tierce qui fait le même office auprès de lui. Portraitiste célèbre, Vigée-Lebrun ne peut pas s'empêcher non plus de voir le volcan sous forme d'une composition artistique, s'extasiant devant ‘la vue de ce superbe tableau et de tout ce qui l'encadrait’.<hi rend="superscript">
+                  <ref type="fn" target="#FN59">59</ref>
+               </hi> Faute de peintre ou de formation artistique, on peut, comme Piozzi, se servir d'une fenêtre pour encadrer le volcan ou, comme Dupaty, écrire un ‘tableau’ dans lequel la terreur que cause le volcan en éruption est domptée dans une esthétisation de son activité étincelante.<hi rend="superscript">
+                  <ref type="fn" target="#FN60">60</ref>
+               </hi>
+            </p>
+            <p>D'un point de vue plus général encore, on pourrait soutenir que la plupart de ces récits de voyage à Naples et au Vésuve fonctionnent comme la détermination mathématique ou la mise à distance esthétique du volcan; qu'ils ne sont qu'autant de tentatives de rétablir la mesure après coup, après avoir vu la violence du volcan (ou du peuple) de près. Pour revenir alors à notre point de départ, il est possible aussi d'interpréter les pique-niques sur le volcan comme un autre effort pour garder une juste mesure, pour donner l'exemple de la mesure — alimentaire cette fois — face à ces deux appétits démesurés que constituent le volcan et le peuple napolitain.<hi rend="superscript">
+                  <ref type="fn" target="#FN61">61</ref>
+               </hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Ces deux amis sont le voyageur et futur diplomate, le baron Johann Hermann von Riedesel, et l'aventurier, Pierre-François Hugues, soi-disant baron d'Hancarville.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>Voir J. J. Winckelmann, Briefe, éd. par Walther Rehm, 4 vols (Berlin, de Gruyter, 1952–57), III, 317, lettre à Stosch datée d'octobre 1767: ‘Hier war ich der erste welcher sich auszog, um mein Hemde zu trocknen, und meine Begleiter thaten desgleichen. Während dieser Zeit leereten wir ein par Flaschen Rosoli aus’; et III, 328, lettre à Francke datée de décembre 1767: ‘wir an dem feurigen Flusse Tauben brieten, und Winckelmann hielt, wie die Cyclopen, nackend seine Abendmahlzeit’. Ma traduction dans le texte. Cité aussi dans David Constantine, ‘Winckelmann and Sir William Hamilton’, Oxford German Studies, 22 (1993), 55–83 (p. 80).</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Donatien-Alphonse-François de Sade, Histoire de Juliette, 3 vols (Paris, Union Générale d'Éditions, 1976), III, 280.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>Ibid., III, 282.</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Ibid., III, 284.</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>Ibid., III, 284, 281.</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>Par exemple, l'anecdote racontée par Casanova selon laquelle ce dernier prit Winckelmann en flagrant délit avec un jeune garçon. Jacques Casanova de Seingalt, Histoire de ma vie, 12 vols (Wiesbaden, Brockhaus, 1960–62), VII, 197–98. Pour une étude plus détaillée sur le gothique et l'homo-érotique, voir George E. Haggerty, Queer Gothic (Urbana, University of Illinois Press, 2006).</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Sade séjourne à Naples en 1776, soit huit ans après la disparition de Winckelmann. Il est peu probable que tout renseignement éventuel sur Winckelmann et le Vésuve soit communiqué au marquis pendant cette période. Par contre, Sade rencontre un intermédiaire plus plausible en la personne du vieux libertin, Ange Goudar, qu'il croise à Florence en 1775. Goudar s'était installé à Naples vers 1767, époque où Winckelmann habitait la ville, et Goudar y vécut jusqu'en 1774, année de sa disgrâce et de sa fuite de la Campanie. De plus, la jeune femme anglaise de Goudar, Sara, est souvent citée comme un modèle possible de Clairwil, amante de l'héroïne sadienne. Voir Maurice Lever, ‘Introduction’ à Sade, Voyage d'Italie (Paris, Fayard, 1995), pp. 5–38. Une autre source éventuelle de l'histoire de Winckelmann est l'aventurier d'Hancarville, lui-même présent au pique-nique infernal sur le volcan. Comme Goudar, celui-ci est chassé de Naples et s'installe à Florence en 1770. Il est donc possible que Sade le rencontre cinq ans plus tard à Florence. Ce qui rend cette rencontre encore plus probable est que d'Hancarville est expulsé des terres napolitaines pour être pornographe. Voir Constantine, ‘Winckelmann and Sir William Hamilton’, p. 61.</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>Voir Kevin Parker, ‘Winckelmann, Historical Difference, and the Problem of the Boy’, Eighteenth-Century Studies, 25.4 (1992), 523–44 (pp. 529–31).</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>Joseph Jérôme de Lalande, Voyage d'un françois en Italie, fait dans les années 1765 et 1766, 8 vols (Paris, Desaint, 1769), VII, 167.</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Jérôme Richard, abbé, Description historique et critique de l'Italie; ou, Nouveaux mémoires sur l'état actuel de son gouvernement, des sciences, des arts, du commerce, de la population, et de l'histoire naturelle, 6 vols (Paris, Delalain, 1770), IV, 450.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>Jacques-Joseph de La Roque, Voyage d'un amateur des arts en Flandre, dans les Pays-Bas, en Hollande, en France, en Savoie, en Italie, en Suisse, fait dans les années 1775–1776–1777–1778, 4 vols (Amsterdam, [s. n.], 1783), III, 46.</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>La Roque, Voyage d'un amateur des arts, III, 49.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Henry Swinburne, Travels in the Two Sicilies, by Henry Swinburne Esq. In the Years 1777, 1778, 1779, and 1780, 2ème éd., 4 vols (Londres, Nichols, 1790), I, 81.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>La Roque, Voyage d'un amateur des arts, III, 47; Lalande, Voyage d'un françois, VII, 172; Johann Wolfgang von Goethe, Italian Journey, trad. par W. H. Auden et Elizabeth Mayer (Londres, Penguin, 1970), p. 193; Hester Lynch Thrale Piozzi, Observations and Reflections made in the Course of a Journey through France, Italy and Germany (Dublin, H. Chamberlaine et al., 1789), p. 351; Sade, Juliette, III, 281: ‘Là nous trouvâmes des guides dont l'usage est de vous attacher à des bretelles sur lesquelles on se soutient pour gravir la montagne.’</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>Un bel exemple d'un récit qui comprend tous ces détails est celui de Pierre-Jacques-Onesyme Bergeret de Grancourt, Bergeret et Fragonard: journal inédit d'un voyage en Italie 1773–1774 (Paris, Librairies-Imprimeries Réunies, 1895), pp. 301–03.</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>Voir Charles Marguerite Mercier Dupaty, Lettres sur l'Italie en 1785, 2 vols (Paris, De Senne, 1788), II, 210: ‘ce sont des milliers de pierres […] qui sifflent, tombent, retombent, roulent: en voilà une qui roule à cent pas de moi’; voir aussi Jean-Marie Roland de La Platière, Lettres écrites de Suisse, d'Italie et de Malte par M *** à Mlle *** en 1776–1778, 6 vols (Amsterdam [s. n.], 1780), II, 231–43.</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Dupaty, Lettres sur l'Italie, II, 211.</p>
+            </note>
+            <note place="inline" n="FN19">
+               <ref>19</ref>
+               <p>Voir le livre excellent de Chantal Grell, Herculanum et Pompéi dans les récits des voyageurs français du XVIIIe siècle (Naples, Centre Jean Bérard, 1982), pp. 8–9.</p>
+            </note>
+            <note place="inline" n="FN20">
+               <ref>20</ref>
+               <p>Voir sur ce point Julia Csergo, ‘The Picnic in Nineteenth-Century France: A Social Event Involving Food: Both a Necessity and a Form of Entertainment’, in Eating out in Europe: Picnics, Gourmet Dining and Snacks since the Late Eighteenth Century, éd. par Marc Jacobs et Peter Scholliers (Oxford, New York, Berg, 2003), pp. 139–59 (surtout pp. 141–43).</p>
+            </note>
+            <note place="inline" n="FN21">
+               <ref>21</ref>
+               <p>Cité dans Csergo, ‘The Picnic in Nineteenth-Century France’, p. 141.</p>
+            </note>
+            <note place="inline" n="FN22">
+               <ref>22</ref>
+               <p>J.-F. Féraud, Dictionnaire critique de la langue française, 3 vols (Marseille, Mossy, 1787–88), III, 166.</p>
+            </note>
+            <note place="inline" n="FN23">
+               <ref>23</ref>
+               <p>Par exemple, chez Jean-Jacques Rousseau, Les Rêveries du promeneur solitaire (Paris, Gallimard, 1972), p. 86: ‘M. Foulquier m'engagea contre mon usage à aller avec ma femme dîner en manière de pique-nique avec lui et son ami Benoit chez la dame Vacassin.’</p>
+            </note>
+            <note place="inline" n="FN24">
+               <ref>24</ref>
+               <p>Bergeret de Grancourt, Bergeret et Fragonard, p. 301.</p>
+            </note>
+            <note place="inline" n="FN25">
+               <ref>25</ref>
+               <p>M. Starke, Letters from Italy, between the Years 1792 and 1798, Containing a View on the Revolutions in that Country, 2 vols (Londres, Phillip, 1800), II, 130.</p>
+            </note>
+            <note place="inline" n="FN26">
+               <ref>26</ref>
+               <p>Charles Pinot Duclos, Voyage en Italie; ou, Considérations sur l'Italie (Maestricht, Roux, 1793), p. 282. Il s'agit d'une visite non au Vésuve qui n'intéresse guère Duclos, mais à Baïes; il y porte vin et viande, mais omet de mentionner du pain.</p>
+            </note>
+            <note place="inline" n="FN27">
+               <ref>27</ref>
+               <p>C'est l'actuel emplacement de l'Osservatorio Vesuviano, l'observatoire volcanologique bâti en 1841.</p>
+            </note>
+            <note place="inline" n="FN28">
+               <ref>28</ref>
+               <p>Starke, Letters from Italy, II, 131.</p>
+            </note>
+            <note place="inline" n="FN29">
+               <ref>29</ref>
+               <p>Lalande, Voyage d'un françois, VII, 168.</p>
+            </note>
+            <note place="inline" n="FN30">
+               <ref>30</ref>
+               <p>Richard, Description historique et critique, IV, 453.</p>
+            </note>
+            <note place="inline" n="FN31">
+               <ref>31</ref>
+               <p>Piozzi, Observations and Reflections, pp. 351–52.</p>
+            </note>
+            <note place="inline" n="FN32">
+               <ref>32</ref>
+               <p>E. Vigée-Lebrun, Souvenirs, 3 vols (Paris, Fournier, 1835–37), II, 109.</p>
+            </note>
+            <note place="inline" n="FN33">
+               <ref>33</ref>
+               <p>Anonymous, ‘An Account of the Eruption of Mount Vesuvius, in 1767; In a Letter from an English Gentleman Residing at Naples, to John Morgan, M. D. Prof. Med. Coll. Philad.’, Transactions of the American Philosophical Society, 1 (Jan. 1769–Jan. 1771), 281–85 (p. 283).</p>
+            </note>
+            <note place="inline" n="FN34">
+               <ref>34</ref>
+               <p>Lalande, Voyage d'un françois, VII, 168.</p>
+            </note>
+            <note place="inline" n="FN35">
+               <ref>35</ref>
+               <p>Goethe, Italian Journey, p. 194.</p>
+            </note>
+            <note place="inline" n="FN36">
+               <ref>36</ref>
+               <p>Théorie popularisée à partir des écrits des chimistes allemands, Johann Joachim Becher et Georg Ernst Stahl. Parmi les partisans du phlogiston en France au dix-huitième siècle se trouvait le chimiste influent, Louis-Bernard Guyton de Morveau.</p>
+            </note>
+            <note place="inline" n="FN37">
+               <ref>37</ref>
+               <p>G. Bachelard, La Psychanalyse du feu (Paris, Gallimard, 1949), pp. 109–11.</p>
+            </note>
+            <note place="inline" n="FN38">
+               <ref>38</ref>
+               <p>Ibid., p. 111.</p>
+            </note>
+            <note place="inline" n="FN39">
+               <ref>39</ref>
+               <p>Sade, Voyage d'Italie, p. 247.</p>
+            </note>
+            <note place="inline" n="FN40">
+               <ref>40</ref>
+               <p>Ibid., p. 177. Comme on le sait, ce texte sert de base au voyage picaresque et pornographique de Juliette, et tout ce passage sur la cocagne y est repris presque mot pour mot. Voir Sade, Juliette, III, 260–61.</p>
+            </note>
+            <note place="inline" n="FN41">
+               <ref>41</ref>
+               <p>Saint-Non, Voyage pittoresque; ou, Description des royaumes de Naples et de Sicile, 5 vols (Paris, Clousier, 1781–86), I, 250.</p>
+            </note>
+            <note place="inline" n="FN42">
+               <ref>42</ref>
+               <p>Saint-Non, Voyage pittoresque, I, 250.</p>
+            </note>
+            <note place="inline" n="FN43">
+               <ref>43</ref>
+               <p>Lady Anna Riggs Miller, Letters from Italy, Describing the Manners, Customs, Antiquities, Paintings, etc. of that Country in the Years MDCCLXX and MDCCLXXI to a Friend Residing in France, 3 vols (Dublin, Watson et al., 1776), II, 176.</p>
+            </note>
+            <note place="inline" n="FN44">
+               <ref>44</ref>
+               <p>Saint-Non, Voyage pittoresque, I, 250.</p>
+            </note>
+            <note place="inline" n="FN45">
+               <ref>45</ref>
+               <p>Des touristes visitent souvent le théâtre enseveli d'Herculanum ou directement avant ou directement après l'ascension du Vésuve. Pour un exemple de cet enchaînement de visites, voir Sir James Edward Smith, A Sketch of a Tour on the Continent, in the Years 1786 and 1787, 3 vols (Londres, B. et J. White, 1793), II, 117.</p>
+            </note>
+            <note place="inline" n="FN46">
+               <ref>46</ref>
+               <p>Piozzi, Observations and Reflections, p. 307.</p>
+            </note>
+            <note place="inline" n="FN47">
+               <ref>47</ref>
+               <p>Ibid., p. 186.</p>
+            </note>
+            <note place="inline" n="FN48">
+               <ref>48</ref>
+               <p>A ce sujet voir Joachim Von Der Thüsen, ‘Juliette at the Volcano: Reflections on the Sadean Journey’, Studies in Eighteenth-Century Culture, 22 (1992), 87–103 (pp. 100–01). Voir aussi l'excellent article de Noah Heringman, ‘The Style of Natural Catastrophes’, The Huntingdon Library Quarterly, 66.1–2 (2003), 97–133, dans lequel il met en lumière la pratique vulgarisante de mettre en spectacle des phénomènes naturels sublimes par moyen du ‘panorama, the eidophysikon, and the diorama, all of which prominently feature volcanoes’ (p. 121).</p>
+            </note>
+            <note place="inline" n="FN49">
+               <ref>49</ref>
+               <p>David Constantine, Fields of Fire: A Life of Sir William Hamilton (Londres, Phoenix Press, 2001), pp. 45–51.</p>
+            </note>
+            <note place="inline" n="FN50">
+               <ref>50</ref>
+               <p>Voir Harold Acton, The Bourbons of Naples 1734–1825 (Londres, Methuen, 1956), pp. 141–42.</p>
+            </note>
+            <note place="inline" n="FN51">
+               <ref>51</ref>
+               <p>Piozzi, Observations and Reflections, p. 321.</p>
+            </note>
+            <note place="inline" n="FN52">
+               <ref>52</ref>
+               <p>Bergeret de Grancourt, Bergeret et Fragonard, p. 321.</p>
+            </note>
+            <note place="inline" n="FN53">
+               <ref>53</ref>
+               <p>Voir Grell, Herculanum et Pompéi, pp. 134–39. Plus généralement sur ces forces ou formes d'énergie au dix-huitième siècle, voir Michel Delon, L'Idée d'énergie au tournant des Lumières (1770–1820) (Paris, Presses Universitaires de France, 1988).</p>
+            </note>
+            <note place="inline" n="FN54">
+               <ref>54</ref>
+               <p>N. Heringman, ‘The Style of Natural Catastrophes’, pp. 125–26.</p>
+            </note>
+            <note place="inline" n="FN55">
+               <ref>55</ref>
+               <p>Sir William Hamilton, Observations on Mount Vesuvius, Mount Etna, and Other Volcanos [sic] (Londres, T. Cadell, 1772), p. 27.</p>
+            </note>
+            <note place="inline" n="FN56">
+               <ref>56</ref>
+               <p>Voir Sir William Hamilton, Supplement to the Campi Phlegræi, Being an Account of the Great Eruption of Mount Vesuvius in the Month of August 1779 (Naples [s. n.], 1779), p. 6; et Lalande, Voyage d'un françois, VII, 169–70.</p>
+            </note>
+            <note place="inline" n="FN57">
+               <ref>57</ref>
+               <p>Sade, Juliette, III, 282–83: ‘nous distinguâmes, plus de six minutes, le bruit de son corps heurter et se précipiter par saccades sur les angles aigus qui le rejetaient de l'un à l'autre, en la déchirant en détail’.</p>
+            </note>
+            <note place="inline" n="FN58">
+               <ref>58</ref>
+               <p>Bergeret de Grancourt, Bergeret et Fragonard, p. 300.</p>
+            </note>
+            <note place="inline" n="FN59">
+               <ref>59</ref>
+               <p>Vigée-Lebrun, Souvenirs, II, 110.</p>
+            </note>
+            <note place="inline" n="FN60">
+               <ref>60</ref>
+               <p>Piozzi, Observations and Reflections, pp. 306–07; Dupaty, Lettres sur l'Italie, II, 209.</p>
+            </note>
+            <note place="inline" n="FN61">
+               <ref>61</ref>
+               <p>Pour cette notion du pique-nique comme une arme ‘carnavalesque’ de la discipline sociale, voir Claude Grignon, ‘Commensality and Social Morphology: An Essay in Typology’, in Food, Drink and Identity: Cooking, Eating and Drinking in Europe since the Middle Ages, éd. par Peter Scholliers (Oxford, New York, Berg, 2001), pp. 23–33. Ici le pique-nique appartient aux rituels de ‘transgressive commensality […], which, through symbolic compensation and inversion, allow[s] the ordinary order of things to be accepted anew and to resume’ (p. 31).</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Le problème dynamique de l’induction</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Le problème dynamique de l’induction</title><author xml:id="author-0000"><persName><forename type="first">Brian</forename><surname>Hill</surname></persName><affiliation>HEC Paris et IHPST (CNRS)</affiliation></author><idno type="istex">1AA549F489161514035910D4D63C55A790F17017</idno><idno type="ark">ark:/67375/6GQ-HTCF8NRX-C</idno><idno type="DOI">10.1017/S0012217309990394</idno><idno type="PII">S0012217309990394</idno><idno type="article-id">99039</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009-12"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="701">701</biblScope><biblScope unit="page" to="715">715</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Depuis l’ouvrage classique de Goodman (19954), on sait que toute théorie de l’induction doit comporter une composante non formelle. Or, la liberté théorique offerte par le recours à un tel élément implique des responsabilités. Cet article propose comme desideratum d’une théorie de l’induction qu’elle rende compte de la dynamique de sa composante non formelle. Ce desideratum, qui est nouveau, n’est pas satisfait par les principales théories existantes de l’induction. L’identification de l’importance de la dynamique a pourtant l’avantage de suggérer une voie vers une théorie plus acceptable et plus compléte de l’induction.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: Since Goodman’s classic monograph (1954), it has been known that any reasonable theory of induction must involve non formal elements. However, the right to make theoretical use of such an element comes with responsibilities. This article argues for an apparently new desideratum for a theory of induction: namely, that it accounts for the dynamics of the non formal element used. None of the main existing theories of induction satisfies this desideratum. The recognition of the importance of dynamics does however have the advantage of suggesting where to look for a more acceptable and complete theory of induction.</p></abstract></profileDesc><revisionDesc><change when="2009-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+Le problème dynamique de l’induction
+
+BRIAN HILL
+
+HEC Paris et IHPST (CNRS)
+
+RÉSUMÉ : Depuis l’ouvrage classique de Goodman (19954), on sait que toute théorie
+de l’induction doit comporter une composante non formelle. Or, la liberté théorique
+offerte par le recours à un tel élément implique des responsabilités. Cet article propose
+comme desideratum d’une théorie de l’induction qu’elle rende compte de la dynamique
+de sa composante non formelle. Ce desideratum, qui est nouveau, n’est pas satisfait par
+les principales théories existantes de l’induction. L’identiﬁcation de l’importance de la
+dynamique a pourtant l’avantage de suggérer une voie vers une théorie plus acceptable
+et plus compléte de l’induction.
+ABSTRACT: Since Goodman’s classic monograph (1954), it has been known that any
+reasonable theory of induction must involve non formal elements. However, the right to
+make theoretical use of such an element comes with responsibilities. This article argues
+for an apparently new desideratum for a theory of induction: namely, that it accounts
+for the dynamics of the non formal element used. None of the main existing theories of
+induction satisﬁes this desideratum. The recognition of the importance of dynamics
+does however have the advantage of suggesting where to look for a more acceptable
+and complete theory of induction.
+
+L’induction est un élément fondamental de toutes les sciences empiriques et une
+question centrale pour la philosophie. À un moment, il a semblé possible de
+Dialogue 48 (2009), 701-715.
+© Canadian Philosophical Association /Association canadienne de philosophie, 2009
+doi:10.1017/S0012217309990394
+
+702
+
+Dialogue
+
+développer une logique de l’induction, comparable à la logique déductive.
+Goodman, dans un ouvrage classique (1954), a montré que ce projet doit être
+nuancé : il ne peut pas y avoir de logique formelle de l’induction. Désormais,
+les théories — ou logiques — de l’induction comportent des composantes non
+formelles, comme par exemple la fonction de probabilité sur laquelle s’appuient
+beaucoup de théories de l’induction. Or, les théoriciens de l’induction ne se sont
+généralement pas attardés sur la question de savoir ce que l’on devrait attendre
+d’une théorie qui est forcée d’avoir recours à un tel élément, ce qui est d’autant
+plus regrettable que les théories diffèrent souvent dans le choix de leur composante
+non formelle. L’objectif de cet article est de dresser une liste d’exigences pour
+une telle théorie. Pour ce faire, nous développons quelques réﬂexions de
+Goodman, qui a eu le mérite de motiver la composante non formelle dans sa
+théorie de l’induction. Notre propos va toutefois au-delà des considérations
+goodmaniennes. Tout d’abord, nous avançons un desideratum pour une théorie
+de l’induction — qu’elle rende compte de la dynamique de la composante non
+formelle — que Goodman n’a pas reconnu, et que sa théorie ne satisfait pas. En
+outre, nous discutons d’autres théories de l’induction, notamment les théories
+probabilistes, en montrant que les mêmes exigences s’y appliquent et de plus
+qu’elles ne sont pas toutes satisfaites par ces théories. Enﬁn, nous suggérons
+que les exigences repérées indiquent une voie vers une théorie de l’induction
+qui est plus acceptable et plus complète que les théories existantes.
+Dans la première section, nous rappelons brièvement la «nouvelle énigme»
+de Goodman et évoquons les théories les plus importantes de l’induction.
+Ensuite, nous présentons un argument pour montrer qu’une théorie de
+l’induction doit prendre en compte la composante non formelle plutôt que la
+supposer donnée. Dans la troisième section, nous soutenons que le problème
+pertinent est celui de la dynamique de la composante non formelle. Enﬁn, nous
+concluons en mentionnant des pistes suggérées par ces nouvelles exigences à
+l’endroit des théories de l’induction.
+1. La nouvelle énigme de l’induction
+Une des plus fameuses difﬁcultés concernant l’induction est sans doute la
+«nouvelle énigme» de l’induction, proposée par N. Goodman dans son Fact,
+Fiction and Forecast (1954). À un moment, il a semblé possible de développer
+une logique de l’induction comparable à la logique déductive ordinaire. Dans
+sa forme traditionnelle, l’induction consiste dans le passage des «prémisses»
+— les observations des divers objets, fournissant un ensemble d’énoncés de la
+forme «cet X est Y» — à une «conclusion» — l’hypothèse universelle qui est
+conﬁrmée par les observations («tous les X sont Y»). Pour reprendre un
+exemple classique, l’induction permet de conclure, sur la base des observations d’un certain nombre d’émeraudes qui sont vertes, que toutes les émeraudes sont vertes. En effet, certains, dont Nicod (1924), Hempel (1943) et
+Carnap (1945), ont cherché une logique de l’induction, versant inductif de la
+
+Le problème dynamique de l’induction 703
+
+logique de la déduction. La nouvelle énigme de Goodman montre que, quoique
+l’analogie soit en général valable, il y a une disparité importante entre la déduction et l’induction.
+L’énigme consiste à appliquer le schéma inductif mentionné ci-dessus au
+nouveau prédicat «vreu». Ce prédicat est déﬁni de manière suivante : x est vreu
+si et seulement s’il est observé (pour la première fois) avant le 1er janvier 2010
+et il est vert, ou il est pas observé (pour la première fois) après le 1er
+janvier 2010 et il est bleu. Remarquons que toute émeraude verte observée
+avant le 1er janvier 2010 est aussi vreue. Considérons maintenant le fait que les
+émeraudes observés jusqu’à présent sont vertes; une formulation équivalente
+de cet énoncé est que les émeraudes observées jusqu’à présent sont vreues. De
+la première formulation, on conclut, par induction, que toutes les émeraudes
+sont vertes; de la seconde formulation, on arrive à la conclusion que toutes les
+émeraudes sont vreues. Or, ces deux conclusions, obtenues en appliquant le
+même schéma (l’induction) à la même prémisse (les mêmes observations) sont
+incompatibles : elles font des prévisions contradictoires relatives à la couleur des
+émeraudes observées (pour la première fois) après le 1er janvier 2010 — selon la
+première, elles seront vertes, selon la seconde, elles seront vreues et donc bleues.
+Le schéma intuitif de l’induction n’est donc pas généralement valide.
+Cette énigme est parfois citée comme preuve qu’il n’y a pas de «logique de
+l’induction», et donc, suggère-t-on, pas de théorie rigoureuse de l’induction.
+En vérité, l’énigme ne peut soutenir qu’une conclusion plus modeste : une
+«logique de l’induction» n’est pas entièrement formelle, comme l’est la logique
+déductive. La règle de la logique déductive qui afﬁrme que la règle : si «X» et
+«Y», alors «X et Y» s’applique à n’importe quelle paire de propositions X et Y.
+L’énigme montre que le schéma inductif (si, pour un certain nombre d’objets
+qui sont X, «cet X est Y», alors «tous les X sont Y»), alors qu’il est valide pour
+certains prédicats qui peuvent occuper la place de X et Y, n’est pas valide
+pour tous : le prédicat «vreu» et le cas des émeraudes en est un exemple. À la
+différence de la déduction, il faut savoir quelque chose sur les prédicats employés pour pouvoir y appliquer le schéma de l’induction.
+Cette conclusion plus nuancée laisse ouverte la possibilité d’obtenir une
+théorie rigoureuse de l’induction (que l’on pourrait vouloir qualiﬁer de
+«logique»), mais des questions importantes demeurent. Si l’induction n’est pas
+formelle, alors toute théorie de l’induction doit inclure une composante non
+formelle; mais qu’est-ce que l’on devrait exiger d’une théorie qui recourt à une
+telle composante ? Dans ce qui suit, nous tentons de donner une réponse à cette
+question. Il est nécessaire de la poser, et pas seulement parce que, compte tenu
+de la différence importante entre déduction et induction, il serait imprudent
+d’emprunter les exigences d’une bonne théorie à la logique déductive. En vérité,
+les philosophes ont proposé des théories de l’induction, parfois avec des composantes non formelles fort différentes, sans consacrer une réﬂexion particulièrement poussée aux composantes non formelles employées, alors qu’elles
+jouent un rôle assez important dans les polémiques entre les différentes théories.
+
+704
+
+Dialogue
+
+Un bref rappel des deux grandes sortes de théories de l’induction formulées
+depuis la publication de l’argument de Goodman mettra les choses au clair.
+La plus importante théorie qualitative de l’induction développée depuis la
+nouvelle énigme est sans doute celle de Goodman lui-même. La composante
+non formelle de sa théorie est l’enracinement épistémique : un ordre sur les
+prédicats du langage qui est censé reﬂéter l’usage antérieur et le succès des
+prédicats dans des inférences inductives. La théorie consiste en un certain
+nombre de «principes de projection» qui déterminent, sur la base d’un
+enracinement épistémique donné, si un ensemble d’observations conﬁrment
+ou non une hypothèse. Pour le dire grossièrement, ces principes garantissent
+que, si, en appliquant le schéma d’induction deux fois, avec deux prédicats
+différents, on obtient des conclusions incompatibles, alors c’est la conclusion
+obtenue avec le prédicat le plus enraciné (c’est-à-dire, avec un emploi passé
+plus ample et correct) qui est retenue. Par exemple, les observations des émeraudes
+vertes ne conﬁrment pas l’hypothèse que toutes les émeraudes sont vreues,
+parce que le prédicat «vreu» est moins enraciné que «vert», et les conclusions
+obtenues par l’usage des deux prédicats sont incompatibles. Alors que
+la motivation du paramètre sur lequel repose la théorie de Goodman –
+l’enracinement épistémique – est assez sophistiquée, elle n’explique pas de
+manière précise d’où il vient ni la façon dont il est ﬁxé.
+Par ailleurs, on a développé un nombre important de théories quantitatives
+de l’induction, où l’objectif est de mesurer le degré de conﬁrmation d’une
+hypothèse par un ensemble d’observations, notamment en termes des probabilités.
+Contrairement à ce qu’ont pensé les premiers à proposer ces sortes de théories,
+le problème mis en évidence par la nouvelle énigme touche également au
+domaine quantitatif (Goodman, 1946). En effet, dans un grand nombre de cas,
+la fonction de probabilité initiale sert de composante non formelle, dans la
+mesure où la théorie, au lieu d’en rendre compte, la suppose donnée1. Considérons
+une théorie quantitative simple mais représentative, où la mesure de conﬁrmation
+est fournie par le degré auquel les observations augmentent la probabilité
+de l’hypothèse: il y a confirmation si la probabilité de l’hypothèse (H)
+conditionnalisée sur les observations (E) est supérieure à la probabilité de
+l’hypothèse tout court (P(H|E) &gt; P(H)). Cette théorie a besoin d’une fonction
+de probabilité. D’ailleurs, un certain nombre de critiques de la théorie se
+concentrent sur l’usage d’une telle fonction. Non seulement l’origine et la
+nature de cette fonction sont mystérieuses, mais, pour que la théorie donne
+des résultats satisfaisants, il faut que cette fonction ait des propriétés particulières
+et toujours expliquer pourquoi elle les possède (voir par exemple Goodman
+(1966) et Howson (2000, chap. 4)). Les partisans de cette sorte de théorie n’ont
+pas réussi à répondre de manière convaincante à ces objections.
+En somme, toute théorie de l’induction, qu’elle soit qualitative ou quantitative,
+recourt à une composante non formelle sans répondre de manière satisfaisante
+aux questions qui se posent à son égard. D’autre part, plusieurs débats entre les
+partisans des théories différentes concernent exactement ces composantes non
+
+Le problème dynamique de l’induction 705
+
+formelles, les uns rejetant les composantes non formelles employées par les
+autres. Si bien que l’opposition entre les théories se ramène souvent à des
+petitii principi quant aux composantes non formelles. Pour surmonter cette
+dialectique malheureuse, il faut trouver un moyen d’évaluer si une théorie assume correctement la responsabilité de la composante non formelle qu’elle
+emploie. L’objectif de cet article consiste à déterminer les exigences à poser à
+l’endroit d’une composante non formelle et d’une théorie qui s’en sert.
+2. Prendre en charge la composante non formelle
+Pour arriver à une liste de ces exigences, nous raisonnerons principalement à
+partir de la théorie qualitative de l’induction proposée par Goodman dans Fact,
+Fiction and Forecast. Ce choix d’approche n’est pas dû à la justesse de sa
+théorie, mais plutôt à la profondeur des réﬂexions générales qu’il consacre
+à la question de la composante non formelle; elle nous permettra de nous
+servir de ces réﬂexions dans l’argumentation. Du coup, les conclusions de
+notre enquête ne sont pas limitées à la théorie de Goodman, mais s’appliquent
+à toutes les théories de l’induction développées avec des composantes non
+formelles ; en particulier, elles s’appliquent aux théories probabilistes, que
+nous considérerons en plus grand détail à la ﬁn de cette section.
+Un des apports de Goodman a été de reconnaître que les inférences inductives que l’on a faites dans le passé sont pertinentes pour la validité des inférences
+actuellement considérées. Au niveau intuitif, la composante non formelle dans
+sa théorie est le bilan des inférences inductives faites par le passé, de leurs
+succès et de leurs échecs (c’est-à-dire, si depuis elles ont été démenties ou non).
+Or, aﬁn de déterminer la validité des inférences sur la base de leur histoire, il
+faut pouvoir la traduire dans une forme convenable. C’est ce que devrait pouvoir faire l’enracinement épistémique : alors qu’il est censé résumer les usages
+et les succès des prédicats, Goodman a pu formuler des principes rigoureux
+(«principes de projection») qui déterminent si une inférence inductive est valide
+pour un ordre d’enracinement épistémique donné. Ces principes constituent
+l’essentiel de sa théorie, d’où la question : sufﬁt-il à une théorie de l’induction
+qui se sert de l’enracinement épistémique de préciser les principes de projection
+ou attend-on d’une telle théorie qu’elle nous fournisse d’autres informations sur
+l’enracinement épistémique ? Il est question de savoir ce que l’on devrait exiger
+d’une théorie qui emploie l’enracinement épistémique ; quelles sont, dans le cas
+particulier de la théorie de Goodman, les exigences à l’endroit d’une théorie de
+l’induction. Dans cette section, nous montrons qu’il faut demander que la
+théorie prenne en charge l’enracinement épistémique plutôt que le supposer
+donné; dans la section suivante, nous montrons qu’il s’agit, plus particulièrement, de rendre compte de la dynamique de l’enracinement épistémique.
+Pour démontrer le premier point, il est nécessaire de développer une analogie
+que propose Goodman dans le troisième chapitre de son livre entre la logique
+déductive et la logique inductive, analogie qui se répercute dans son choix
+de composante non formelle. Il emploie cette analogie, initialement au moins,
+
+706
+
+Dialogue
+
+pour montrer que la question de la justiﬁcation des inférences prétendument
+valides est reliée, sinon réductible, à la question de l’identiﬁcation de ces
+inférences. Il soutient que c’est le cas dans la logique déductive, avec le fameux
+argument du «cercle vertueux». Les règles logiques déterminent les inférences
+qui sont valides et ces inférences sont justiﬁées par leur conformité à ces règles.
+Or, il faut identiﬁer et justiﬁer ces règles elles-mêmes, ce qui se fait par un
+recours aux inférences admises : les règles logiques sont celles qui évaluent
+positivement autant d’inférences que possible parmi celles que l’on veut
+reconnaître comme valides et sont justiﬁées par leur conformité à ces inférences
+admises. Alors que la tâche de la logique consiste à formuler les règles, ces
+règles entrent dans un rapport étroit avec les inférences admises comme valides,
+rapport qui a trait à leur justiﬁcation et à leur identiﬁcation.
+Lorsque l’on l’applique dans le cas inductif, l’opposition subtile entre les
+inférences et les règles fournit une manière claire de poser le problème de la
+composante non formelle (en l’occurrence l’enracinement épistémique) : estelle de l’ordre de la règle, ou appartient-elle à l’inférence, comme prémisse
+auxiliaire? Si elle est de l’ordre de la règle, alors une théorie (ou, si l’on
+préfère, une logique) de l’induction, qui prétend rendre compte des règles, doit
+la prendre en charge ; si, en revanche, la composante non formelle est du côté
+de la prémisse, alors la théorie peut la supposer donnée sans en dire plus,
+comme elle fait pour les observations.
+Il est assez clair que l’enracinement épistémique est de l’ordre de la règle. En
+effet, non seulement les propos de Goodman lui-même vont en ce sens2, mais
+c’est surtout l’interprétation qui s’accorde le mieux avec la thèse de la circularité vertueuse. Selon cette thèse, les règles sont identiﬁées en s’appuyant sur
+les inférences que l’on veut reconnaître comme valides et sont justiﬁées par leur
+conformité à ces inférences. Mais l’ensemble des inférences inductives faites
+par le passé, avec leurs succès et leurs échecs, constitue une banque d’inférences
+acceptées qui peuvent servir à identiﬁer et à justiﬁer les règles d’induction en
+vigueur actuellement. Les inférences passées, ou l’enracinement épistémique
+qui les synthétise, entrent dans un rapport étroit avec les règles d’induction en
+vigueur actuellement ; c’est d’ailleurs la motivation implicite pour les prendre
+comme la composante non formelle qui ﬁgure dans ces règles. C’est également
+une conﬁrmation du fait que l’enracinement épistémique est de l’ordre de la
+règle, car il entre dans la même boucle d’identiﬁcation et de justiﬁcation.
+Il s’ensuit qu’une théorie de l’induction qui a pour objectif de formuler les
+règles de l’induction (une «logique de l’induction») doit rendre compte non
+seulement de la conﬁrmation ou non des hypothèses par des observations pour
+un ordre d’enracinement épistémique donné, mais également de l’enracinement
+épistémique lui-même. Goodman développe une série de «principes de
+projection» qui déterminent si une hypothèse est conﬁrmée par un ensemble
+d’observations sur la base d’un ordre d’enracinement épistémique Donné : ainsi
+la théorie accomplit la première partie de sa tâche. Pourtant, on trouve chez lui fort
+peu de remarques sur l’ordre d’enracinement épistémique, sur sa détermination et
+
+Le problème dynamique de l’induction 707
+
+son origine ; les indications vagues et les motivations intuitives qu’il offre ne
+constituent nullement une théorie de l’enracinement épistémique. Sa théorie de
+l’induction n’accomplit donc pas la seconde partie de sa tâche.
+Le même constat s’impose pour les autres théories de l’induction, à moins
+que l’on ne rejette le premier moment de l’argument, c’est-à-dire l’afﬁrmation
+selon laquelle la composante non formelle est de l’ordre de la règle. On vient
+de voir que pour la théorie de Goodman, la composante formelle (l’enracinement
+épistémique) est de l’ordre de la règle, et il serait certainement étrange que les
+composantes non formelles impliquées dans les théories de l’induction aient
+des statuts distincts dans les différentes théories. D’ailleurs, cette conception
+du statut de la composante non formelle est cohérente avec l’intuition que
+l’inférence inductive relie simplement un ensemble d’observations à une
+hypothèse qui est conﬁrmée par ces observations, c’est-à-dire à l’intuition
+selon laquelle les prémisses de l’inférence sont juste les observations.
+D’aucuns, notamment certains des partisans des théories quantitatives,
+rejettent pourtant cette intuition : ils considèrent que leurs composantes non
+formelles (grossièrement, la fonction de probabilité) sont de l’ordre d’une
+prémisse. Parfois, ils l’afﬁrment explicitement : «[t]he ‘synthetic’ premises in
+a probablistic inference are generally prior, or unconditional, probabilities»
+(Howson and Urbach, 1993, p. 80). Parfois, il le formulent en d’autres termes,
+disant que la conﬁrmation n’est pas une relation binaire, entre données et
+hypothèse, mais plutôt une relation ternaire, entre données, hypothèse et fonction
+de probabilité. (Souvent, le troisième terme de la relation est appelé «contexte
+informationnel» (Howson, 2000, p. 179) ou «l’information d’arrière-plan»
+(Fitelson, 2008, §3.2). Pour ce qui nous concerne ici, les notions de «contexte
+informationnel» ou d’«information d’arrière-plan» sont au moins aussi
+difﬁciles et obscures que celle de fonction de probabilité3, donc nous pouvons
+formuler notre discussion en termes de fonctions de probabilité.)
+Cette conception de l’inférence inductive permet aux théoriciens de distinguer
+la question des propriétés de la relation de conﬁrmation qui valent pour toute
+fonction de probabilité — ce qu’ils appellent la question logique (Fitelson, 2008,
+§3 ; Howson, 2000, chap. 7 et 8) — de la question de la détermination de
+la fonction de probabilité — une question qu’ils qualiﬁent d’épistémique. En
+retour, cette distinction fournit sans doute l’argument le plus fort pour leur
+conception de l’inférence inductive ; et donc, pour penser que la probabilité est
+de l’ordre de la prémisse plutôt que de l’ordre de la règle. Naturellement, elle
+a des conséquences importantes pour la nature de leurs théories. Tout d’abord,
+elle leur permet de formuler des «logiques de l’induction» qui passent sous
+silence la question de la détermination de la probabilité initiale, leur motif étant
+que cette question est d’ordre épistémique plutôt que logique. Par conséquent,
+ils nient que la nouvelle énigme de Goodman (ainsi que le problème d’induction
+tel qu’il a été posé par Hume) soit un problème pour la logique de l’induction :
+c’est plutôt un problème d’ordre épistémique, qui se pose pour une théorie qui
+a l’ambition de rendre compte des aspects épistémiques (plutôt que logiques,
+
+708
+
+Dialogue
+
+ou aussi bien que logiques) de l’induction. Fitelson (2008, §3.5) répond à
+l’énigme de Goodman en niant l’identiﬁcation de la relation de conﬁrmation,
+qui, selon lui, est logique, avec la relation de «soutien par les données» (evidential support), qui est épistémique ; le problème soulevé par l’énigme est
+celui du rapport entre le domaine logique et le domaine épistémique, un problème
+auquel Fitelson n’offre aucune réponse mais que l’on peut ignorer si l’on veut
+seulement développer la «logique de l’induction» au sens où il l’entend. La
+position de Howson (2000) ressemble à celle de Fitelson sur ce point. Il prétend que le problème soulevé par Hume est qu’une analyse de l’inférence inductive ne peut pas faire l’économie d’une fonction de probabilité et qu’il n’y a
+aucune manière non circulaire de ﬁxer la valeur de cette fonction. Il reconnaît
+que Hume a raison et se limite donc à développer une logique de l’induction,
+qui n’est au fond rien d’autre que la théorie mathématique des probabilités.
+On peut résumer la position de ces théoriciens en la comparant à celle de
+Goodman que nous venons de discuter. Chacune de ces théories s’appuie sur
+une composante non formelle dont ils ne rendent pas compte. Or, alors que
+les théoriciens probabilistes invoquent la distinction entre la logique et
+l’ épistémique comme excuse pour ne pas proposer de théorie de cette composante, la réﬂexion de Goodman l’oblige à fournir une théorie plus abondante de
+sa composante non formelle, même s’il ne le fait pas effectivement.
+Pourtant, la position de ces théoriciens probabilistes n’est pas convaincante,
+pour la simple raison que la distinction au cœur de leur théorie est ad hoc : elle
+donne trop l’impression qu’elle a été inventée pour leur permettre d’éviter
+la difﬁcile question mise en relief par l’énigme de Goodman. Il n’est donc
+pas étonnant que sa contribution à l’étude de l’induction n’ait pas été très
+constructive. Le problème de l’induction est de comprendre quand (et,
+éventuellement, pourquoi) on peut conclure une certaine hypothèse à partir
+d’un certain ensemble d’observations. Si ce problème est différent du problème
+— que ces théoriciens qualiﬁent de logique — de déterminer quand il y a une
+relation de conﬁrmation entre l’hypothèse et les données, alors la question
+logique n’est pas intéressante. C’est la question qu’ils qualiﬁent d’épistémique
+qui est centrale ; en laissant de côté cette question pour se concentrer sur la
+question logique, ils changent de sujet. D’où le dilemme auxquels ils doivent
+faire face : ou bien le problème de l’induction et en général celui posé par
+l’énigme de Goodman, n’est pas un problème logique et alors la logique
+d’induction est peu intéressante, ou bien il est un problème logique et ainsi
+leur distinction est erronée. Quoi qu’il en soit, toute théorie complète de
+l’induction qui aborde pleinement l’induction doit rendre compte de la
+composante non formelle. Aucune théorie de ce type n’a été proposée jusqu’à
+présent. Que l’on qualiﬁe cette théorie de logique ou non n’est au fond qu’une
+question de terminologie. Si nous préférons légèrement cette appellation
+ici, c’est parce que la distinction propose par Fitelson et Howson entre les
+dimensions «logique» et «épistémique» semble brouiller la question et détourner l’attention du problème difﬁcile qui reste en suspens.
+
+Le problème dynamique de l’induction 709
+
+Cette conclusion est forte : les théories existantes de l’induction ne relèvent
+pas un des deux déﬁs de l’induction qui consiste à prendre en compte la
+composante non formelle. Or, à première vue, il pourrait être difﬁcile d’imaginer
+ce que serait une théorie qui rende pleinement compte de la composante non
+formelle. Que ferait une théorie convenable que les théories existantes ne font
+pas? Pour répondre à cette question, il convient de développer la comparaison
+avec la logique déductive proposée par Goodman.
+3. La dynamique comme problème
+En discutant la logique déductive, Goodman décrit un processus d’ajustement
+par lequel les règles et les inférences valides sont mises en harmonie.
+A rule is amended if it yields an inference we are unwilling to accept ; an inference
+is rejected if it violates a rule we are unwilling to amend (Goodman, 1954, p. 64).
+
+Pour Goodman, l’harmonie entre règles et inférences atteinte grâce à ce genre
+de processus est reliée au cercle de justiﬁcation et d’identiﬁcation entre
+inférences et règles. Il y a justiﬁcation parce que l’on a atteint un état où les
+règles considèrent que sont valides toutes les inférences que l’on est prêt à
+admettre et qu’il n’y a pas d’autres inférences que l’on voudrait admettre au
+coût d’une des règles ; c’est-à-dire un état où il n’y a pas de modiﬁcations à
+faire. Il s’agit d’un équilibre réﬂexif, pour reprendre le terme de Rawls (1971).
+Or, alors qu’un équilibre réﬂexif est un point ﬁxe, le concept d’équilibre
+réﬂexif n’a pas de sens sans un processus dynamique : l’équilibre est un point
+stable de la dynamique. En effet, le processus décrit par Goodman est proprement
+dynamique. Il suppose des modiﬁcations, aussi bien des inférences considérées
+valides que, éventuellement, des règles. C’est un point important dont on n’a
+pas sufﬁsamment tenu compte. Le va-et-vient entre règles et inférences est par
+nature dynamique, même s’il peut y avoir des cas spéciaux où ce processus
+s’arrête à un point ﬁxe, cas que l’on peut envisager comme statiques.
+Si la déduction est un de ces cas, il est beaucoup moins évident que l’induction
+en soit un. Pour celle-ci, à la différence de celle-là, les inférences admises
+comme valides, en l’occurrence celles qui ont été faites par le passé et qui sont
+représentées par l’ordre d’enracinement épistémique, ﬁgurent explicitement
+dans la formulation des règles de l’induction. Il en découle pour l’induction
+que les règles font preuve d’une plus grande sensibilité par rapport aux
+inférences admises. Un changement dans l’ensemble d’inférences valides —
+c’est-à-dire dans l’ensemble des inférences inductives effectuées par le passé
+et qui n’ont pas été démenties jusqu’à présent — implique éventuellement un
+changement d’enracinement épistémique et par conséquent une modiﬁcation
+de la règle de l’induction. À la différence de la déduction, où une modiﬁcation
+dans les inférences admises comme valides retentit lentement sur les
+règles, car mitigée par les ajustements et les compromis, les modiﬁcations
+des inférences admises dans le cas de l’induction induisent directement des
+
+710
+
+Dialogue
+
+altérations des règles par le biais de l’enracinement épistémique. Cette sensibilité
+a pour conséquence que l’harmonie entre règles et inférences admises est
+beaucoup moins stable. D’autant moins que les inférences admises dans le cas
+de l’induction sont susceptibles de changer avec chaque nouvelle observation :
+il sufﬁt qu’une des inférences inductives soit démentie pour rabaisser le rang
+du prédicat impliqué dans l’ordre d’enracinement épistémique. En somme,
+l’équilibre réﬂexif, que l’on pourrait supposer atteint dans le cas déductif, est
+beaucoup plus difﬁcile à obtenir dans le cas de l’induction.
+Cette différence est lourde de conséquences pour la forme que prend une
+théorie, voire une logique, de l’induction. S’il y a équilibre, on obtient un état
+stable, et donc une analyse statique est possible. C’est le cas des logiques
+déductives : de telles logiques ne doivent pas prendre en compte les éventuels
+changements dans les inférences admises ou dans les règles. Si en revanche
+l’état d’équilibre n’est ni généralement atteint ni particulièrement stable, alors
+l’intérêt d’une analyse statique de cet état se dissipe. Dans de tels cas, et celui
+de l’induction en est un, la question importante est celle de la dynamique.
+Puisque, dans le cas de l’induction, la dynamique des règles se ramène à la
+dynamique de la composante non formelle ﬁgurant dans ces règles, la question
+est effectivement celle de la dynamique de la composante non formelle. Une
+théorie complète de l’induction devrait rendre compte de la dynamique de sa
+composante non formelle.
+Nous sommes donc en position de résumer les exigences à l’endroit d’une
+théorie ou, si l’on préfère, une logique de l’induction. Premièrement, elle doit
+fournir des principes qui déterminent, pour la donnée d’une valeur de la
+composante non formelle, les inférences inductives valides. Deuxièmement,
+elle doit rendre compte de la dynamique de cette composante non formelle,
+c’est-à-dire de son changement entre un moment et le prochain. Comme nous
+l’avons déjà noté, les théories de l’induction ont accompli la première tâche,
+quoique de manières différentes. En revanche, aucune théorie n’a même tenté
+de répondre au deuxième déﬁ.
+On objectera que cette conclusion, solide en ce qui concerne la théorie de
+Goodman, doit être nuancée pour les théories quantitatives, et particulièrement
+pour les théories probabilistes. Alors qu’il est vrai que les partisans de ces
+genres de théorie ne discutent pas la dynamique de la composante non
+formelle (en l’occurrence, la fonction de probabilité4) en tant que problème
+pour une théorie de l’induction, ils discutent ailleurs la question de la
+dynamique des probabilités, et l’on pourrait s’attendre à trouver dans leurs
+réﬂexions sur cette question une ébauche de réponse au déﬁ posé par la
+dynamique. En particulier, beaucoup d’entre eux interprètent la conditionnalisation
+bayésienne5 comme un principe de changement de la fonction de probabilité : la
+probabilité, après avoir appris un fait nouveau, est la probabilité initiale
+conditionnalisée par ce fait6. Or, il y a au moins deux raisons pour douter que
+la conditionnalisation constitue une réponse adéquate au deuxième déﬁ des
+théories de l’induction.
+
+Le problème dynamique de l’induction 711
+
+Premièrement, cette approche du changement de probabilités a pour conséquence que les propriétés importantes de la fonction de probabilité à un
+moment donné sont excessivement sensibles aux propriétés particulières
+d’une «fonction de probabilité initiale» (un prior), c’est-à-dire à la fonction de
+probabilité qu’il y avait avant que l’on ait commencé les observations. Pour
+illustrer le problème, considérons l’énigme de Goodman et son constat de
+l’importance de l’usage passé du prédicat «vert» du point de vue des théories
+probabilistes. Une théorie probabiliste peut rendre compte du fait que (au moment approprié, appelons-le t) l’hypothèse que toutes les émeraudes sont
+vertes (H1) est conﬁrmée par les observations des émeraudes vertes (E) alors
+que l’hypothèse que toutes les émeraudes sont vleues (H2) ne l’est pas puisque
+la probabilité de la première hypothèse conditionnalisée par les observations
+est plus grande que sa probabilité (sans conditionnalisation), alors que ce n’est
+pas le cas pour la dernière hypothèse (Pt(H1|E) &gt; Pt(H1) alors que Pt(H2|E) ≯
+Pt(H2)). Mais si l’on demande comment la fonction de probabilité a acquis
+cette propriété à ce moment — et en particulier, si l’on pose la question de la
+dynamique de la fonction de probabilité — il s’avère que la raison est que la
+fonction de probabilité initiale (celle en vigueur avant l’usage des prédicats
+et avant toute observation, en admettant qu’elle existe; appelons-le P0) était
+telle que la probabilité de H1 conditionnalisée sur la suite d’observations
+d’émeraudes vertes (E) et sur la suite d’usages du prédicat «vert» dans des
+raisonnements inductifs, et de réussites de ses usages, qui s’est effectivement
+produite (U) est grande relativement à sa probabilité conditionnalisée seulement sur la suite des usages, alors que ce n’est pas le cas pour H2 (P0(H1|E&amp;U)
+&gt; P0(H1|U) alors que P0(H2|E&amp;U) ≯ P0(H2|U)). Or, en se référant à cette
+probabilité initiale, on ne fait que déplacer le problème sans le résoudre : se
+pose toujours la question de savoir pourquoi la probabilité initiale a ces propriétés… En d’autres termes, on retrouve la question de savoir pourquoi on
+aurait telle probabilité plutôt que telle autre, désormais posée relativement à
+un moment antérieur, et cette question n’est pas moins redoutable que la question de la probabilité au moment en considération (t)7. L’approche de la dynamique des probabilités en termes de conditionnalisation mésuse de
+l’exigence qu’une théorie de l’induction prenne en compte la dynamique de la
+composante non formelle : celle-ci invite à une compréhension minimale de
+la raison pour laquelle il y a telle composante non formelle à tel moment, alors
+que celle-là esquive le déﬁ, en renvoyant le problème à une probabilité initiale
+toujours mal comprise.
+Cette manière d’aborder la question de la dynamique soulève un deuxième
+problème : les probabilités qui évoluent selon la conditionnalisation bayésienne
+ne sont pas nécessairement celles qui interviennent dans l’évaluation des
+inférences inductives. Pour saisir ce problème, qui a été introduit dans Glymour (1980, p. 86) et est connu sous l’appellation du problème des «vieilles
+données» (old evidence), supposons que les observations des émeraudes vertes
+soient effectuées avant celle d’une suite d’autres usages du prédicat «vert». La
+
+712
+
+Dialogue
+
+fonction de probabilité en vigueur est alors celle obtenue à partir d’une fonction
+de probabilité initiale (en admettant qu’il y en ait une) en conditionnalisant
+premièrement par les observations et ensuite par la suite d’usages ; conditionnaliser (encore) cette fonction par les observations a pour résultat la fonction
+elle-même (Pt(•) = P0(•|E&amp;U), donc Pt(•|E) = P0(•|E&amp;E&amp;U) = Pt(•)). Puisque
+l’indice de conﬁrmation d’une hypothèse par des observations est la différence
+entre la probabilité de l’hypothèse conditionnalisée par les observations et
+sa probabilité sans conditionnalisation, il s’ensuit qu’aucune hypothèse n’est
+conﬁrmée par ces observations, ni même l’hypothèse que toutes les émeraudes
+sont vertes!
+Le problème des vieilles données a suscité la controverse, mais on peut lui
+apporter une réponse très intuitive : dans les cas où les données sont vieilles,
+la probabilité que l’on devrait utiliser pour évaluer la conﬁrmation d’une
+hypothèse par des données n’est pas celle qui est effectivement en vigueur
+(selon laquelle les données sont déjà connues : elles sont de probabilité 1),
+mais plutôt la probabilité qu’il y aurait si l’on n’avait pas déjà obtenu ces
+données (comme le dit Howson (2000, p. 194), «on évalue la valeur des données E relativement au reste de l’information contemporaine d’arrière-plan, si E
+est déjà connu»). Or, il «s’avèr difﬁcile» de rendre cette réponse précise,
+notoire, parce que l’on n’a pas trouvé une manière convaincante d’expliquer
+comment on obtient cette autre probabilité (Fitelson (2008, §3.5) afﬁrme que
+ce problème est un des «graals de la théorie bayésienne subjective contemporaine
+de la conﬁrmation»). Il ne sufﬁt certainement pas de dire que cette probabilité
+est la probabilité initiale conditionnalisée sur toutes les données reçues jusqu’à
+ce moment, mises à part les observations qui interviennent dans l’inférence
+inductive sous considération. Tout d’abord, parce qu’il n’y a pas de manière
+simple et unique pour séparer toutes les données reçues jusqu’à ce moment en
+deux ensembles — un qui contient les observations intervenant dans l’inférence
+inductive et l’autre qui contient toutes les autres données — tels que ces
+ensembles soient logiquement indépendants et couvrent la totalité des données
+reçues (c’est d’ailleurs sous cette forme que Fitelson reconnaît et discute le
+problème). Ensuite, parce qu’il reste toujours la question de la probabilité
+initiale, question sans réponse alors que son importance est accrue. Enﬁn,
+parce qu’en se référant à une fonction de probabilité ﬁxe (la probabilité
+initiale) et à un ensemble (changeant) de données (celles qui ont été reçues
+mais qui ne sont pas parmi celles qui apparaissent dans l’inférence inductive),
+on renonce entièrement au traitement de la question de la dynamique en
+termes de conditionnalisation bayésienne. Au mieux, il est besoin de reposer
+la question en termes des ensembles de données que l’on peut supposer à un
+moment donné; or, pour le moment du moins, il n’y a pas de réponse à cette
+question.
+En somme, le traitement de la dynamique des probabilités employées comme
+composantes non formelles dans les théories quantitatives de l’induction avec la
+conditionnalisation bayésienne pose de redoutables problèmes et il ne peut pas
+
+Le problème dynamique de l’induction 713
+
+être considéré comme adéquat. La conclusion précédente est donc maintenue :
+il n’existe pas de théorie qui ait relevé, de manière sufﬁsante, le second des deux
+déﬁs pour une théorie de l’induction, celui de la dynamique.
+4. Le problème de l’induction : projections
+D’un certain point de vue, la conclusion à laquelle nous sommes arrivé est
+plutôt négative. Il est largement accepté, suite à la nouvelle énigme, qu’une
+théorie de l’induction, ou, si l’on préfère, une logique de l’induction, doive
+comporter une composante non formelle. La réﬂexion sur le rôle de la composante
+non formelle a révélé deux déﬁs, dont les théories existantes n’ont relevé qu’un
+seul. Les considérations présentées ici indiquent qu’aucune de ces théories ne
+peut être qualiﬁée de satisfaisante.
+Or, selon un autre point de vue, le résultat a des aspects positifs. Une
+nouvelle formulation du problème introduit une autre perspective et avec elle
+des idées nouvelles pour trouver une solution. Il ne sufﬁt pas de construire
+des théories sophistiquées qui ne font qu’évaluer les inférences inductives
+sur la base d’une valeur donnée de la composante non formelle, car ce n’est
+que la moitié du problème. Il faut plutôt recentrer la recherche pour mettre
+l’accent sur cette composante elle-même. La composante non formelle est
+la pierre angulaire de toute théorie de l’induction, mais elle est également
+son talon d’Achille. À tel point que le succès d’une théorie se joue dans
+le choix de sa composante non formelle. La théorie de Goodman en fournit
+l’illustration.
+Comme nous l’avons vu ci-dessus, le facteur non formel dans l’évaluation
+de la validité des inférences inductives est l’histoire de l’usage des prédicats,
+de leur succès et de leur échec. Si l’on prend comme composante non formelle
+l’histoire des usages, la question de la dynamique paraît relativement simple :
+entre un moment t et un moment ultérieur t′, l’histoire des usages a changé par
+le simple ajout des inférences inductives et des observations effectuées entre t
+et t′. Or, une liste des usages passés n’est pas dans une forme adéquate pour
+jouer un rôle dans l’évaluation des inférences inductives à un moment donné ;
+c’est-à-dire, une théorie qui emploie une histoire des usages comme composante
+non formelle a des problèmes avec le premier déﬁ de l’induction. Pour cette
+raison, Goodman utilise plutôt l’ordre d’enracinement épistémique comme
+composante non formelle. Dans un certain sens, l’introduction de l’enracinement
+épistémique simpliﬁe le problème de l’induction : il permet de formuler des
+principes pour évaluer les inférences, et donc d’accomplir la première tâche
+qui incombe à une théorie de l’induction. Dans un autre sens pourtant,
+l’enracinement épistémique rend le problème de l’induction plus difﬁcile, car
+il est loin d’être évident qu’il convienne à la seconde tâche qui consiste à
+rendre compte de la dynamique.
+Cette situation met en relief deux contraintes, partiellement conﬂictuelles,
+qui concernent la composante non formelle d’une théorie de l’induction. D’une
+part, elle doit aider la théorie à accomplir sa première tâche, en permettant une
+
+714
+
+Dialogue
+
+formulation relativement simple des principes qui déterminent les inférences
+inductives sur la base d’une valeur donnée de la composante non formelle.
+D’autre part, elle doit contribuer à l’accomplissement de la deuxième tâche, en
+soutenant une théorie de la dynamique de la composante non formelle. La double contrainte des théories de l’induction se traduit en une double contrainte des
+composantes non formelles qu’elles emploient. Ce qui suggère que la clé du
+problème de l’induction est dans le choix de la bonne composante non formelle.
+Cela indique la marche à suivre pour la recherche future : dans l’objectif de
+développer une théorie à la hauteur des exigences identiﬁées ci-dessus, il faut
+chercher une composante non formelle capable de satisfaire aux deux contraintes. La réévaluation du problème de l’induction entreprise ici débouche
+donc sur une voie, peu explorée à l’heure actuelle, qui pourrait mener à une
+théorie de l’induction plus satisfaisante.8
+Notes
+1 Selon les détails de la théorie, il se peut que la composante non formelle ne soit
+pas la fonction de probabilité elle-même, mais quelque chose de nécessaire
+pour déterminer la fonction de probabilité. C’est le cas par exemple pour la
+théorie de Carnap (1945) (voir le débat entre Carnap et Goodman dans Philosophy
+and Phenomenological Research, vol. 8, 1947) ; voir également Howson (2000,
+Chap. 4).
+2 «[O]ur task is to deﬁne the relation of conﬁrmation or valid projection between
+evidence and hypothesis in terms of anything that does not beg the question… This
+will include some knowledge of past predictions and their successes and failures»
+(Goodman, 1954, p. 85-86).
+3 Dans le cas de Fitelson (2008) par exemple, l’information d’arrière-plan est une
+proposition, et une fonction de probabilité est supposée indépendamment. Néanmoins,
+pour les besoins de la théorie, il sufﬁt d’utiliser la fonction de probabilité obtenue
+en conditionnalisant la fonction supposée avec l’information d’arrière-plan, de
+sorte que, du point de vue de la composante non formelle, sa théorie est au moins
+aussi lourde que celle considérée ici. En effet, la détermination de l’information
+d’arrière-plan et celle de la probabilité posent les mêmes genres de problèmes ; voir
+également la section suivante.
+4 Voir la discussion des théories probabilistes dans la section précédente et notamment
+la note 3.
+5 Alors que cette discussion concerne la conditionnalisation bayésienne, qui est
+l’opération de changement de probabilité la plus généralement admise, des
+considérations analogues semblent s’appliquer à d’autres opérations, dont notamment celle proposée par Jeffrey (1972, chap. 11).
+6 Il y a des théoriciens de la probabilité qui rejettent cette interprétation dynamique
+de la conditionnalisation, dont par exemple Howson (2000, p. 136-8) et Howson
+and Urbach (1993, p. 80-85). Ces théoriciens n’admettraient pas la sorte de
+réponse à la question de la dynamique que nous discutons, mais ils n’offrent rien
+en guise de remplacement.
+
+Le problème dynamique de l’induction 715
+7 Voir par exemple Howson (2000, chap. 4) sur la difﬁculté de cette question.
+8 Une version préliminaire de cet article a été présentée au Deuxième Congrès de la
+SPS (mars 2007). Nous remercions les participants à ce Congrès, ainsi que l’éditeur
+et les rapporteurs anonymes du Dialogue pour leurs commentaires.
+
+Références bibliographiques
+Carnap, R.
+1945
+Fitelson, B.
+2008
+Glymour, C.
+1980
+Goodman, N.
+1946
+
+«On Inductive Logic», Philosophy of Science, vol. 12, p. 72-97.
+«Goodmans ‘New Riddle’», Journal of Philosophical Logic, vol. 37,
+p. 613-643.
+Theory and Evidence, Princeton University Press, Princeton.
+
+«A Query on Conﬁrmation», The Journal of Philosophy, vol. 43,
+p. 383-385.
+1954 Fact, Fiction and Forecast, Harvard University Press, Cambridge
+(MA).
+1966 «Comments», The Journal of Philosophy, vol. 63, p. 338-351.
+Hempel, C. G.
+1943 «A Purely Syntactical Deﬁnition of Conﬁrmation», Journal of Symbolic Logic, vol. 8, p. 122-143.
+Howson, C.
+2000 Hume’s Problem. Induction and the Justiﬁ cation of Belief, Oxford
+University Press, Oxford.
+Howson, C. and Urbach, P.
+1993 Scientiﬁc Reasoning : The Bayesian Approach, Open Court, La Salle/
+Chicago.
+Jeffrey, R. C.
+1972 The Logic of Decision, University of Chicago Press, Chicago.
+Nicod, J.
+1924 Le problème logique de l’ induction, Alcan, Paris.
+Rawls, J.
+1971 A Theory of Justice, Harvard University Press, Cambridge (MA).
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b13" type="article"><analytic><title level="a">On Inductive Logic</title><author><persName><forename type="first">R.</forename><surname>Carnap</surname></persName></author></analytic><monogr><title level="j">Philosophy of Science</title><imprint><date type="published">1945</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="72">72</biblScope><biblScope unit="page" to="97">97</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Goodmans ‘New Riddle’</title><author><persName><forename type="first">B.</forename><surname>Fitelson</surname></persName></author></analytic><monogr><title level="j">Journal of Philosophical Logic</title><imprint><date type="published">2008</date><biblScope unit="volume">37</biblScope><biblScope unit="page" from="613">613</biblScope><biblScope unit="page" to="643">643</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Theory and Evidence</title><editor><persName><forename type="first">C.</forename><surname>Glymour</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">1980</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">A Query on Confirmation</title><author><persName><forename type="first">N.</forename><surname>Goodman</surname></persName></author></analytic><monogr><title level="j">The Journal of Philosophy</title><imprint><date type="published">1946</date><biblScope unit="volume">43</biblScope><biblScope unit="page" from="383">383</biblScope><biblScope unit="page" to="385">385</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Fact, Fiction and Forecast</title><editor><persName><forename type="first">N.</forename><surname>Goodman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1954</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">Comments</title><author><persName><forename type="first">N.</forename><surname>Goodman</surname></persName></author></analytic><monogr><title level="j">The Journal of Philosophy</title><imprint><date type="published">1966</date><biblScope unit="volume">63</biblScope><biblScope unit="page" from="338">338</biblScope><biblScope unit="page" to="351">351</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">A Purely Syntactical Definition of Confirmation</title><author><persName><forename type="first">C. G.</forename><surname>Hempel</surname></persName></author></analytic><monogr><title level="j">Journal of Symbolic Logic</title><imprint><date type="published">1943</date><biblScope unit="volume">8</biblScope><biblScope unit="page" from="122">122</biblScope><biblScope unit="page" to="143">143</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Hume’s Problem. Induction and the Justifi cation of Belief</title><editor><persName><forename type="first">C.</forename><surname>Howson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Scientific Reasoning : The Bayesian Approach</title><editor><persName><forename type="first">C.</forename><surname>Howson</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Urbach</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>La Salle/Chicago</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">The Logic of Decision</title><editor><persName><forename type="first">R. C.</forename><surname>Jeffrey</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Chicago</pubPlace><date type="published">1972</date></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Le problème logique de l’ induction</title><editor><persName><forename type="first">J.</forename><surname>Nicod</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1924</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">A Theory of Justice</title><editor><persName><forename type="first">J.</forename><surname>Rawls</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1971</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

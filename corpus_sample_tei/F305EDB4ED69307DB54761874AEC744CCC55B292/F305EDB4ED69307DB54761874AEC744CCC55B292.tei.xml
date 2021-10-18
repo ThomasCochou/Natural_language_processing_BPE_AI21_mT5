@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Embrayages narratifs en philosophie cartésienne</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2011</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2011</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Embrayages narratifs en philosophie cartésienne</title><author xml:id="author-0000"><persName><forename type="first">Jean-François</forename><surname>Méthot</surname></persName><affiliation>Collège universitaire dominicain, Ottawa</affiliation></author><idno type="istex">F305EDB4ED69307DB54761874AEC744CCC55B292</idno><idno type="ark">ark:/67375/6GQ-JFZQBQQ2-9</idno><idno type="DOI">10.1017/S0012217310000685</idno><idno type="PII">S0012217310000685</idno><idno type="article-id">00068</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-12"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="547">547</biblScope><biblScope unit="page" to="559">559</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2011</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>Nous examinons la narrativité du discours cartésien pour entamer un exercice herméneutique qui met en évidence quelques aspects des récits cartésiens, et qui montre que loin d’être un procédé littéraire, ou un simple agrément, le récit cartésien joue un rôle d’embrayeur au plan de la conceptualisation et de l’argumentation. La narrativité cartésienne met en jeu une double mimêsis qui est rétrospective dans les textes métaphysiques, et prospective dans les textes scientifiques. Ces deux directions remplissent des fonctions épistémologiques différentes.</p></abstract><abstract xml:lang="fr" style="normal"><p>Here, we examine the narrativity of Cartesian discourse in an hermeneutic exercise. Highlighting some features of Cartesian narratives will show that, far from being a simple literary device, Cartesian narratives serve as a “shifter” in conceptualization and argumentation. Cartesian narrativity follows Descartes’s ontological distinction between thought and extension, subjectivity and the material world, and involves a double mimèsis that is retrospective in the metaphysical texts and prospective in the scientific texts. These two directions of mimesis fulfill different epistemological functions.</p></abstract></profileDesc><revisionDesc><change when="2010-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Embrayages narratifs en philosophie
+cartésienne
+
+JEAN-FRANÇOIS MÉTHOT
+
+Collège universitaire dominicain, Ottawa
+
+RÉSUMÉ : Nous examinons la narrativité du discours cartésien pour entamer un exercice herméneutique qui met en évidence quelques aspects des récits cartésiens, et qui
+montre que loin d’être un procédé littéraire, ou un simple agrément, le récit cartésien
+joue un rôle d’embrayeur au plan de la conceptualisation et de l’argumentation. La
+narrativité cartésienne met en jeu une double mimêsis qui est rétrospective dans les
+textes métaphysiques, et prospective dans les textes scientiﬁques. Ces deux directions
+remplissent des fonctions épistémologiques différentes.
+ABSTRACT: Here, we examine the narrativity of Cartesian discourse in an hermeneutic
+exercise. Highlighting some features of Cartesian narratives will show that, far from
+being a simple literary device, Cartesian narratives serve as a “shifter” in conceptualization and argumentation. Cartesian narrativity follows Descartes’s ontological distinction between thought and extension, subjectivity and the material world, and
+involves a double mimèsis that is retrospective in the metaphysical texts and prospective in the scientiﬁc texts. These two directions of mimesis fulﬁll different epistemological functions.
+
+La philosophie cartésienne fait un grand usage de récits, de fables, d’analogies
+et de bien d’autres stratégies et mécanismes rhétoriques. Ce recours à la narrativité, à la fable, a longtemps été considéré comme secondaire ou marginal
+par rapport à l’argumentation philosophique et à l’explication scientiﬁque, bref
+à «l’ordre des raisons». Ce pouvait être une manière de dissimulation comme
+l’avançait déjà Maxime Leroy, et plus récemment Fernand Hallyn. Coquetterie
+de l’âge peut-être, recherche d’un nouveau style, d’un nouveau discours, à la
+Dialogue 49 (2010), 547–559.
+© Canadian Philosophical Association /Association canadienne de philosophie 2011
+doi:10.1017/S0012217310000685
+
+548
+
+Dialogue
+
+suite de Michel de Montaigne et de l’ami de Descartes, Guez de Balzac, c’est
+ainsi que le récit philosophique peut apparaître rafraîchissant aux lecteurs habitués au style plus technique d’une certaine scolastique. Ou encore, idiosyncrasie d’un philosophe et scientiﬁque, comme il y en eut tant d’autres, celui-ci
+aurait aimé raconter des histoires pour amener ses lecteurs à parcourir avec lui
+ses découvertes et l’enchaînement de ses raisons.
+Je voudrais donc réﬂéchir sur la narrativité du discours cartésien pour entamer un exercice herméneutique qui mette en évidence quelques aspects des
+récits cartésiens, et qui montre que loin d’être un procédé littéraire, ou un
+simple agrément, le récit cartésien joue un rôle d’embrayeur au plan de la conceptualisation et de l’argumentation. En ce sens, le récit est au service de «la
+logique de l’imaginaire» qui, selon Nicolas Grimaldi, «sert d’armature à toute
+la philosophie cartésienne de la connaissance»1. La narrativité cartésienne suit
+les divisions ontologiques entre la pensée et l’étendue, la subjectivité et le
+monde matériel, et met en jeu une double mimêsis qui est rétrospective dans les
+textes métaphysiques, et prospective dans les textes scientiﬁques. Ces deux
+directions de la mimêsis remplissent des fonctions épistémologiques différentes dans ces deux types de discours.
+1. Descartes, philosophe baroque
+On a déjà observé que Descartes participe à sa manière d’une culture baroque,
+friande d’effets surprenants, d’illusions, de trompe l’œil2. En même temps,
+Descartes est celui qui a voulu disposer déﬁnitivement du scepticisme de son
+époque, comme l’accomplissait, aux yeux de son auteur, les Méditations métaphysiques. Comme le note Jean-Pierre Cavaillé:
+Sous une forme spontanée, préthéorique, comme doute général et radical sur la vérité
+et la réalité de toutes choses, ce scepticisme est le terrain où s’épanouit une culture
+du trompe-l’œil, de la théâtralité et de l’éloquence, de la dissimulation et de
+l’ostentation, de la vanité et de la gloire, du mépris mais aussi du culte des apparences3.
+
+Le jeune Descartes n’aurait pas dédaigné expérimenter avec ce «culte des apparences». Ne reconnaît-on pas dans la description de cette culture baroque la
+fascination du jeune philosophe pour le trompe-l’œil, l’illusion d’optique, et ce
+que nous appelons aujourd’hui «les effets spéciaux»?
+On peut faire en un jardin des ombres qui représentent diverses ﬁgures, telles que des
+arbres et les autres […]. Item, faire paraître dans une chambre, des langues de feu,
+des chariots de feu et autres ﬁgures en l’air; le tout par de certains miroirs qui rassemblent les rayons en ces points-là. Item, on peut faire que le soleil, reluisant dans
+une chambre, semble toujours venir du même côté, ou bien qu’il semble aller de
+l’Occident à l’Orient, le tout par des miroirs paraboliques4.
+
+Embrayages narratifs
+
+549
+
+Dans ce contexte, le récit de ﬁction, et notamment la forme romanesque,
+déjà bien établie, faisait l’objet d’un véritable engouement au XVIIe siècle5. Le
+recours cartésien au récit dans les textes philosophiques et scientiﬁques
+s’inscrit donc dans une tradition, déjà bien installée dans le paysage intellectuel français, notamment par Michel de Montaigne. Cet esprit baroque se manifeste donc dans la recherche de l’agrément, de l’effet de surprise, bref dans un
+mouvement de l’esprit visant à captiver le lecteur ou la lectrice.
+Mais aﬁn que la longueur de ce discours vous soit moins ennuyeuse, j’en veux envelopper une partie dans l’invention d’une Fable, au travers de laquelle j’espère que la
+vérité ne laissera pas de paraître sufﬁsamment, et qu’elle ne sera pas moins agréable
+à voir, que si je l’exposais toute nue (Du Monde, AT, XI, p. 31).
+
+En même temps, la pensée de Descartes se démarque de l’esprit baroque, car s’il
+fait intervenir l’illusion comme dans les scènes du doute hyperbolique des
+Méditations ou dans la fable du Monde, c’est pour ensuite la dissiper et en
+révéler les causes6. Ainsi des passages bien connus des écrits de jeunesse montrent la fascination de Descartes pour l’illusion et les effets spéciaux: Jeux de
+lumière, projections, illusions d’optique, autant d’expériences qui pouvaient
+fasciner l’esprit baroque friand de tels artiﬁces amenés par le nouvel esprit
+scientiﬁque et technique. Baillet nous laisse savourer la satisfaction d’un jeune
+Descartes qui, ayant ébloui son ami l’ingénieur Villebressieu par des dispositifs
+optiques, lui révèle aussitôt le mécanisme utilisé.
+Jamais il ne parut plus surpris que lorsque M. Descartes lui ﬁt passer devant les
+yeux une compagnie de soldats au travers de sa chambre en apparence. L’artiﬁce ne
+consistait qu’en de petites ﬁgures de soldats qu’il avait soin de cacher; et par
+le moyen d’un miroir, il faisait grossir et augmenter ces petites ﬁgures jusqu’à la
+juste grandeur de l’homme au naturel, et semblait les faire entrer, passer et sortir de
+la chambre7.
+
+Bien plus tard, en 1649, dans le dialogue inachevé La recherche de la vérité il
+propose à ses lecteurs un projet semblable, mais cette fois-ci d’une grande envergure, consistant toujours à faire voir l’illusion pour ensuite la réduire à ses
+causes et principes.
+Ensuite, j’étalerai ici les ouvrages des hommes touchant les choses corporelles; et
+vous ayant fait admirer les plus puissantes machines, les plus rares automates, les
+plus apparentes visions, et les plus subtiles impostures, que l’artiﬁce puisse inventer,
+je vous en découvrirai les secrets, qui seront si simples et si innocents, que vous aurez sujet de n’admirer plus rien du tout des œuvres de nos mains (AT, X, p. 505).
+
+On a donc un mécanisme à la fois d’ordre argumentatif et rhétorique, où les
+ressources du scepticisme baroque, dont la narrativité, comme d’ailleurs la
+
+550
+
+Dialogue
+
+théâtralité, sont déployeés en vue de le réfuter en l’obligeant à reconnaître une
+proposition vraie, le cogito, et puis d’autres, comme l’existence d’un Dieu
+vérace, comme fondement de la connaissance.
+Du point de vue de ce que l’on appelle aujourd’hui le fondationalisme en
+épistémologie, un sérieux problème demeure, celui d’un frein à la régression à
+l’inﬁni dans la justiﬁcation des propositions (regress-stopper)8. Le fondationnalisme prétend fournir ce frein, contre notamment le scepticisme et le cohérentisme, mais, comme l’avancent ses adversaires, il y aurait toujours
+d’autres raisons de douter comme le montre bien le secteur ﬂorissant du cerveau en bouteille (Brain in a vat) de l’épistémologie contemporaine. Une
+réponse partielle à ce problème est liée à la forme narrative des Méditations, et
+à l’exercice qu’elles mettent en jeu au plan de la performance qui permet, de la
+part du lecteur, l’identiﬁcation avec le méditateur et l’appropriation de la méditation.
+On peut apprécier la différence entre le texte des Méditations, toutes écrites
+à la première personne, et ce texte des Secondes Réponses dans lequel Descartes explique que le cogito n’est pas la conclusion d’un syllogisme ou d’un
+enthymème.
+Mais quand nous nous apercevons que nous sommes des choses qui pensent, c’est
+une première notion qui n’est tirée d’aucun syllogisme; et lorsque quelqu’un dit : Je
+pense donc je suis, ou j’existe, il ne conclut pas son existence de sa pensée comme par
+la force de quelque syllogisme, mais comme une chose connue de soi; il la voit par
+une simple inspection de l’esprit. Comme il paraît de ce que, s’il la déduisait par le
+syllogisme, il aurait dû auparavant connaître cette majeure : Tout ce qui pense, est ou
+existe. Mais, au contraire, elle lui est enseignée de ce qu’il sent en lui-même qu’il ne
+se peut pas faire qu’il pense, s’il n’existe. Car c’est le propre de notre esprit, de former
+les propositions générales de la connaissance des particulières (AT, IX–1, p. 110).
+
+Considérez la foule qui habite ce passage. Le méditateur est peut-être seul dans
+son poêle, mais dans l’explication des Secondes Réponses, le cogito y est universalisé, en assignant cette expérience et en la faisant passer d’un «je», à un
+«il», à un «nous». Cette tâche est effectuée sans césure par la narrativité des
+Méditations dans lesquelles le lecteur est forcé de s’identiﬁer au je-méditant.
+2. Le recours cartésien aux récits
+Or ces merveilles, aussi bien celles qui appartiennent à notre pensée et à notre
+vie intérieure que celles qui font partie du monde extérieur, Descartes nous les
+présente souvent à travers des récits. Nous avons ainsi plusieurs indications
+dans l’œuvre de Descartes qui montrent son afﬁnité avec le genre du récit. Il y
+a bien sûr ce passage célèbre du Discours de la méthode.
+Mais, ne proposant cet écrit que comme une histoire, ou, si vous l’aimez mieux, que
+comme une fable, en laquelle, parmi quelques exemples qu’on peut imiter on en
+
+Embrayages narratifs
+
+551
+
+trouvera aussi plusieurs autres qu’on aura raison de ne pas suivre, j’espère qu’il sera
+utile à quelques-uns, sans être nuisible à personne, et que tous me sauront gré de ma
+franchise (AT, VI, p. 4).
+
+On objectera que ce passage constitue en fait une mise en garde, une manière
+de déﬂation, par laquelle Descartes espérait réduire les prétentions à
+l’universalité de son discours. Là se pose encore, comme en bien d’autres endroits, le problème de la dissimulation chez Descartes. Mais on peut réduire ici
+considérablement la portée de cette hypothèse en admettant que le Discours
+consiste, en une large part du moins, en une autobiographie intellectuelle, et
+que plutôt que la recette universelle pour la solution de tous les problèmes, il
+représente le cheminement intellectuel d’un homme qui s’est attaqué à une
+grande partie des problèmes qui fascinaient ses contemporains.
+Cet usage du récit se retrouve encore dans le Traité de l’Homme et dans Le
+Monde (rédigés en 1630–16329, bien qu’ils ne fussent publiés qu’en 1662 et
+1664 respectivement). Le Monde commence comme un exposé philosophique
+sur le monde et sur la connaissance du monde. Mais au chapitre V, Descartes
+voulant passer à l’échelle macrocosmique propose d’adopter un nouveau style
+de discours.
+Il me reste encore beaucoup d’autres choses à expliquer, et je serai même bien aise
+d’y ajouter quelques raisons pour rendre mes opinions plus vraisemblables. Mais aﬁn
+que la longueur de ce discours vous soit moins ennuyeuse, j’en veux envelopper une
+partie dans l’invention d’une fable, au travers de laquelle j’espère que la vérité ne
+laissera pas de paraître sufﬁsamment, et qu’elle ne sera pas moins agréable à voir que
+si je l’exposais toute nue (AT, XI, p. 31).
+
+On trouvera un autre indice, indirect, il est vrai, de narrativité chez Descartes
+dans les indications de lecture qu’il donne souvent en préface de ses textes.
+Ainsi, en préface des Principes, il est recommandé de lire ce texte tout d’un
+coup, «comme un roman», pour ensuite, lors d’une seconde lecture, s’arrêter
+aux passages difﬁciles, qui devraient dès lors apparaître moins épineux, et enﬁn, si l’on a encore quelques difﬁcultés, elles devraient se résorber lors d’une
+troisième lecture de ces passages particulièrement ardus. C’est d’ailleurs non
+sans surprise que nous prenons connaissance de ce conseil de lire les Principes
+comme un roman. C’est pour nous sans doute la chose la plus éloignée du roman que nous connaissions. Mais il n’est pas dit de les considérer comme un
+roman, mais simplement de les lire comme si l’on en lisait un.
+Il en va de même pour le Discours de la méthode que Descartes recommande de lire en une séance, mais si l’on éprouve quelques difﬁcultés, qu’on
+pourra lire en six parties séparées, commodément indiquées par l’auteur.
+Cependant, il faut dire que le Discours était destiné au grand public, et que
+Descartes envisageait pour ce dernier des lecteurs fort moyens, ce qui n’était
+pas le cas des Méditations, destinées au public savant et aux esprits forts.
+
+552
+
+Dialogue
+
+3. La narrativité du discours métaphysique, les Méditations
+Ces Méditations sont donc réservées aux happy few, aux esprits assez robustes
+et exercés pour en suivre le développement. Mais la mise en garde de l’auteur
+n’avertit pas seulement le lecteur de la complexité rebutante des démonstrations, mais surtout qu’il se propose de manier un mélange explosif face auquel
+il devra exercer prudence, ténacité et courage. Ici encore, il est recommandé de
+lire tout d’un trait, avant d’exercer son jugement sur des aspects particuliers du
+texte.
+Un autre indice important de narrativité dans les Méditations nous est donné
+par la forme même du texte. D’abord, la phrase d’ouverture est typique d’un
+énoncé narratif. «Il y a quelque temps déjà, que je me suis aperçu...» Le premier paragraphe contient la situation initiale, qui serait d’être à ce point, plutôt
+que trop tard, en mesure de réaliser le programme de base, exprimé dans une
+proposition conditionnelle.
+il me fallait entreprendre sérieusement une fois en ma vie de me défaire de toutes les
+opinions que j’avais reçues jusque alors en ma créance, et commencer de nouveau
+dès les fondements, si je voulais établir quelque chose de ferme et de constant dans
+les sciences (AT, IX, p. 13).
+
+Établir quelque chose de solide dans les sciences est donc l’énoncé programmatique de base de toutes ces Méditations, puisque c’est en effet l’antécédent
+de la proposition. Le conséquent consiste donc en un autre énoncé programmatique, celui du doute («me défaire de toutes mes anciennes opinions»), ce
+par quoi il s’agit bien d’une stratégie intermédiaire, un sous-programme narratif. Nous remarquons que l’architecture narrative des Méditations se construit véritablement d’une suite d’énoncés programmatiques, décrivant la
+marche à suivre pour conquérir la prochaine parcelle de certitude. Le critère du
+programme est donc satisfait.
+Cette architecture dans les Méditations nous est signalée par la présence
+d’énoncés programmatiques, caractérisés par le temps du futur, suivis de séries
+d’énoncés démonstratifs en majeure partie au présent de l’indicatif. Cette observation ne peut s’appliquer comme règle pour les énoncés narratifs qui sont
+au passé composé (parfait). Toutefois, nous pouvons en repérer un bon nombre
+dans le texte en l’espèce de marqueurs temporels. Mais il faut en admettre
+d’autres qui sont des indices, comme Barthes les appelle, tel:
+un homme qui tâche d’élever sa connaissance au-delà du commun, doit avoir honte de
+tirer des occasions de douter des formes et des termes de parler du vulgaire (ibid., 25).
+
+Ou encore, dans la troisième méditation, les deux preuves a posteriori de
+l’existence de Dieu sont rattachées, non pas par un lien de nécessité déductive,
+mais par «une autre voie», ce que Bordron appelle «une trouvaille»10. Nous
+
+Embrayages narratifs
+
+553
+
+considérons cette charnière comme un énoncé narratif, une fonction qui ouvre
+une nouvelle séquence du développement, le lien qui existe entre les deux
+preuves au plan de l’exposition ne serait donc pas rigoureusement démonstratif, comme le disait Gueroult dans l’avant-propos de L’ordre des raisons.
+En outre, de par leur structure temporelle, les Méditations forment clairement un tout, un ensemble fermé, du moins d’un point de vue narratif, ayant au
+moins un début et une ﬁn. La question du milieu nous semble plus difﬁcile à
+régler. Le critère aristotélicien s’applique à la tragédie, certes, mais elle-même
+se déﬁnit comme l’imitation d’une action. «La tragédie est l’imitation d’une
+action achevée formant un tout et d’une certaine étendue. Notre tout doit comporter un commencement, un milieu et une ﬁn11».
+Le milieu est le lieu où se prépare et se produit le processus d’inversion de
+la situation. Pour Aristote, il est préférable qu’il soit exprimé dans un renversement dramatique, une catastrophe. Mais cela sert avant tout à donner plus
+d’effet au texte. Les Méditations forment certainement un tout ayant un début
+et une ﬁn, mais si l’on peut parler d’un point de renversement dans les Méditations, il ne prend pas forme dans une péripétie, un événement tragique par
+lequel la situation exprimée dans le récit chavire dans son contraire.
+On pourrait cependant faire l’hypothèse qu’il existe effectivement un point
+de renversement de contenu dans les Méditations. Dans la situation initiale,
+quelqu’un s’aperçoit qu’«il avait reçu beaucoup de fausses opinions pour véritables» (AT, IX, p. 13); à la ﬁn, nous avons une garantie de certitude et la situation est complètement renversée. «Car de ce que Dieu n’est point trompeur, il
+suit nécessairement que je ne suis point en cela trompé» (ibid., 72). Le renversement se produit dans la quatrième méditation, alors que l’entendement,
+jusque là seul capable d’atteindre la vérité, est lié à la volonté12. Dès lors, on
+sait que le programme de base est en voie d’être réalisé, quoiqu’imparfaitement.
+Ce programme narratif des Méditations est réalisé à la sixième méditation, et
+partant est réalisable le programme général de base qui consistait à «établir
+quelque chose dans les sciences». Ce que nous trouverons, dans sa forme didactique, il est vrai — et non pas synthétique, comme on l’a souvent afﬁrmé —
+dans les Principes13.
+Enﬁn, nous trouvons un dernier indice sur le plan de la forme dans la structure des personnages, ou des «actants» pour employer la terminologie greimassienne. Les Méditations peuvent être conçues comme la démarche d’une
+personne nommée «je» dans le texte. Cette démarche pouvant être dite une
+quête, les Méditations apparaissent dans une perspective narratologique
+comme un récit de quête à un personnage. Cependant, plusieurs commentateurs ont noté des aspects dialogiques aux Méditations. Gueroult parle souvent
+de l’«adversaire». E. M. Curley, dans Descartes Against the Skeptics, découpe
+le texte comme un dialogue entre Descartes et un philosophe sceptique. Bordron analyse les Méditations comme le conﬂit entre les programmes d’un sujet
+et d’un anti-sujet14. Le «je», et c’est un truisme de le dire, est bien plus complexe que ce qu’il n’y paraît.
+
+554
+
+Dialogue
+
+D’ailleurs, dans L’entretien avec Burman, Descartes dit qu’au début de la
+première méditation, quand il écrit «tout ce que j’ai reçu jusqu’à présent pour
+le plus vrai et assuré, je l’ai appris des sens ou par les sens» (AT, IX, p. 14), il
+a en tête l’homme qui ne fait que commencer à philosopher et qui ne fait attention qu’à ce dont il est conscient. Mais il dit aussi, juste avant, que lui-même a
+aussi appris ces choses par les sens.
+La narrativité des Méditations n’est pas accessoire, c’est elle qui provoque
+l’adhésion du lecteur sceptique ou néophyte. Car la médiation cartésienne n’est
+pas qu’un raisonnement métaphysique. Elle est une activité, un exercice philosophique. Il existe donc un autre aspect important de la narrativité qui,
+comme le dit Aristote, tient dans son pouvoir d’imiter une action, c’est la
+mimêsis dont Ricœur a fait un concept central de sa théorie du récit. Il est donc
+légitime de considérer les Méditations en tant qu’imitation d’une action, celle
+de méditer15.
+Au XVIIe siècle, la méditation était une pratique et un genre discursif connus
+depuis longtemps dans les séminaires et les communautés religieuses. Les Jésuites, particulièrement, diffusaient et encourageaient la pratique des Exercices
+spirituels de Saint-Ignace de Loyola. Ces exercices se faisaient durant des retraites ou des périodes réservées. Ils comportaient non seulement des textes de
+prière et de réﬂexion, mais exigeaient une attention absolument constante du
+dévot la méditation ou à sa préparation ou à ses conclusions, et cela du lever
+jusqu’au coucher.
+Cette pratique s’accompagne généralement d’une thématique. Ainsi durant
+la semaine de méditation, celles du matin portaient sur la vie, la passion et la
+résurrection du Christ. Les méditations de la nuit portaient plus souvent sur
+l’examen de conscience et la réﬂexion. Voici quelques exemples de ces thèmes
+que donne (Fra) Luis de Grenada : la connaissance de nous-mêmes et de nos
+péchés; la misère de la vie temporelle; le moment de la mort; le jugement dernier; les souffrances de l’enfer; la gloire et le bonheur dans le royaume des
+cieux; les grandeurs de Dieu16.
+Ces méditations proprement dites étaient complétées toute la journée par des
+moments de préparation et de «réﬂexion discursive», de sorte que l’attention
+ne fût jamais éloignée de ses objets spirituels. La préparation comprend deux
+volets. Le premier est une visualisation, une «ﬁgurativisation» du lieu et du
+temps du sujet de la prochaine méditation, comme si on pouvait les voir «avec
+les yeux corporels»17. Il s’agit donc, plus qu’une représentation, d’une visualisation des plus précises de la scène ou du lieu auxquels se référera la prochaine
+méditation. Autant les sujets des méditations sont déjà fortement rattachés à la
+représentation (la mort, le jugement dernier, la vie de Jésus, l’enfer, etc.), autant la «composition» ou visualisation fascine et captive l’esprit. Ces compositions de scène en préparation à la méditation se retrouvent d’ailleurs dans
+plusieurs textes de prières, d’exercices ou même de poésie18.
+Le deuxième mode de préparation, fait à la suite de la composition, est
+une «pré-méditation» dans laquelle est considéré attentivement le sujet de la
+
+Embrayages narratifs
+
+555
+
+méditation, les façons possibles de le comprendre, les leçons à en tirer. Cette
+opération met en jeu les facultés intellectuelles et la volonté, «les trois puissances de l’âme». Par sa mémoire, le contemplatif garde bien en tête l’objet
+ultime de sa méditation, la connaissance de Dieu, de même que le sujet particulier sur lequel porte l’exercice19. Le sujet devra utiliser toutes les ressources
+de son entendement pour réﬂéchir à la méditation, en retourner sur tous ses
+côtés le sujet qui lui est proposé dans plusieurs discours intérieurs.
+Le point culminant de la méditation est un moment d’échange avec Dieu, le
+«colloque», un véritable dialogue dans lequel le sujet joue un rôle dans une
+représentation qu’il a construite toute la journée durant sa préparation. Là il
+s’insère lui-même comme un personnage dans la relation intellectuelle et dramatique qu’il entretient dans la représentation. Le colloque est une technique
+qui sert au dévot à personnaliser ses réﬂexions. Il se fera donc une sorte de
+dialogue, une scène ou un «jeu de rôle» comme disent les psychologues, dans
+lequel il s’adressera à une autre personne qui est ou qui incarne le sujet de la
+méditation. Il parlera donc comme un ﬁls à un père; ou comme un serviteur à
+son maître, ou encore comme un ami à un autre.
+La pratique de la méditation a aussi donné lieu à une production littéraire.
+Ce sont les manuels de méditations, les Exercices spirituels par exemple; on
+trouve aussi des textes spirituels dans lesquels les adeptes décrivaient leurs
+compositions et leurs dialogues. La méditation est donc un exercice très particulier de l’esprit. Elle implique, dans sa préparation et dans son déroulement,
+un aspect ﬁguratif, intellectuel et dialogique, ce qui en fait non seulement un
+exercice bénéﬁque pour former l’esprit et se rapprocher de la connaissance de
+Dieu, mais aussi une forme discursive très riche qui permet d’incorporer pensée rationnelle, images, actions, lieux et autres choses de ce genres propres à la
+composition littéraire ou philosophique.
+4. La narrativité du discours scientiﬁque
+Une conséquence, sémiotique, du dualisme cartésien, est que l’on a deux types
+de discours, qui visent deux types de substances, et nous voulons suggérer que
+le discours physique, mécaniste, a lui-même une propriété mécanique, alors
+que le discours métaphysique qui porte sur la pensée, loin d’être mécaniste et
+d’opérer dans ses fonctions, ses enchaînements et ses embrayages, l’«ordre des
+raisons» dirait-on pour reprendre le titre du célèbre commentaire des Méditations de Martial Gueroult, s’opère par intuition, par illumination, par clarté et
+distinction, par le sentiment de l’évidence, par le sentiment de certitude.
+Cet écart dans les modes discursifs soulève la question de savoir si Descartes aurait pu ou n’aurait pas dû maintenir son dualisme, tout en pouvant
+uniﬁer son discours. Plus précisément, on peut se demander si la pensée ellemême dans son émergence, son déroulement, ne peut elle-même être expliquée
+par une mécanique : elle ne l’est pas, bien au contraire. «Descartes’ Metaphysics logically leads to the conclusion that psychology must be reduced
+to physics, a development that Descartes did not care to make explicit»20. On
+
+556
+
+Dialogue
+
+reconnaît ici ce qu’on appelle aujourd’hui le «programme de naturalisation»,
+cher à Quine et aux spécialistes des sciences cognitives.
+En fait on pourrait se demander pourquoi Descartes n’a pas été plus behaviouriste en ce qui concerne la pensée, nos idées, nos raisonnements et notre
+connaissance. Après tout, il en avait certainement exprimé une version concernant les animaux, et même les humains. «Ce qui est si certain, que je juge qui
+si on avait bien fouetté un chien cinq ou six fois, au son du violon, sitôt qu’il
+ouïrait une autre fois cette musique, il commencerait à crier et à s’enfuir»21.
+Dans ses textes physiques, Descartes est obsédé par le mécanisme, non
+seulement dans les détails de l’explication, les forces, la chaleur, la pression de
+l’air, la forme, le poids et la densité des objets, mais dans la procédure même.
+Ce sont des textes d’exposition, rédigés à la deuxième personne, vous, comme
+à présenter à un auditoire ou un lectorat de spécialistes ou d’étudiants, dont
+les enchaînements sont effectués souvent par des phrases impératives, des
+directives.
+On y trouve aussi une forte occurrence des verbes d’action, de transformation, de changement comme on s’y attendrait dans un traité scientiﬁque : «fait
+que», «force», «produit», «cause», «provoque», «apporte», «amène», «génère», «refroidit», «condense». On entend effectivement la machinerie dans
+ces textes, à la manière d’une grande soufﬂerie, un univers matériel plein de
+tourbillons de matière subtile en mouvement qui se combinent en corps par
+l’action de Dieu et des lois qu’il établit pour la nature.
+Et pourtant, les textes scientiﬁques font grand usage de la narrativité. Le
+Monde n’est-il pas annoncé comme une fable? On pourrait faire l’hypothèse
+que le traité de l’Homme (et le traité du Monde aussi d’ailleurs) est de forme
+narrative, mais seulement comme contextualisation, qui ne serait pas étrangère
+à une tendance à la dissimulation chez Descartes, à la fois explicable par son
+dédain de la polémique et par la censure, intellectuelle et religieuse, qu’il tentait de désamorcer à l’avance.
+Or, si la dissimulation pourrait être un facteur, il serait plutôt mineur, car
+Descartes avait déjà mentionné le projet d’une fable du Monde dès 1629,
+quelques années avant la condamnation de Galilée. «Car la fable de mon
+Monde me plaît trop pour manquer à la parachever, si Dieu me laisse vivre assez longtemps pour cela; mais je ne veux point répondre de l’avenir»22. Dans
+notre culture qui semble vouloir tout mettre sur la scène, la dissimulation peut
+paraître une sorte de malhonnêteté, mais elle fait bien partie de l’activité littéraire et philosophique, du temps de Descartes comme du nôtre.
+La narrativité de la fable du monde est d’un ordre très différent de celui des
+Méditations. Plus qu’une dissimulation, la fable relève de la simulation, non au
+sens de mensonge, mais au sens où nous parlons aujourd’hui de «simulation
+par ordinateur». Il s’agit, comme l’observe Fernand Hallyn, d’une hypotypose,
+c’est-à-dire «une ﬁgure qui regroupe l’ensemble des procédés permettant
+d’animer une description au point que le lecteur “voit” le tableau se dessiner
+sous ses yeux [ﬁgure de suggestion visuelle]»23.
+
+Embrayages narratifs
+
+557
+
+Elle n’est pas narrative au sens où nous venons de le montrer dans le cas des
+Méditations. Elle sert en effet le travail scientiﬁque de modélisation, pour
+lequel Descartes reste un grand pionnier. Le traité de la lumière, que Descartes
+aimait appeler «son monde», pose par une fable un modèle du monde. La fable
+du monde est ainsi le mode de construction du monde-modèle dans l’espace
+imaginaire, monde qui ressemble en tous points à celui que nous habitons.
+«Permettez donc pour un peu de temps à votre pensée de sortir hors de ce
+Monde, pour en venir voir un autre tout nouveau, que je ferai naitre en sa
+présence dans les espaces imaginaires» (AT, XI, p. 31).
+La fable a ici une fonction épistémologique d’épokhê, elle sert à mettre le
+monde entre parenthèses, avec l’accord de sa lectrice ou de son lecteur, pour
+considérer un modèle du monde qui se déploie de la même manière que le
+nôtre sur la base de principes simples et applicables par l’esprit humain. «Car
+il y a bien plus d’apparence, et nous avons bien mieux le pouvoir, de prescrire
+des bornes à l’action de notre pensée, que non pas aux œuvres de Dieu» (ibid.,
+32–33).
+Enﬁn, la fable, tout comme le récit du méditateur, comporte un élément
+d’opérativité, car le lecteur devenant co-créateur du monde est à même de
+poursuivre et de broder lui-même sa propre fable, ce que Descartes souhaitait
+justement pour ses neveux et ses nièces.
+5. Conclusion
+La narrativité chez Descartes ne se réduit pas à la recherche du style ou à
+l’idiosyncrasie d’un philosophe qui aimait bien raconter des histoires, mais
+qui, à la rigueur, aurait bien pu s’en passer. Nous avons voulu montrer que la
+narrativité joue un rôle central dans la pensée cartésienne, mais que la mimêsis
+y adoptait deux ﬁgures très différentes selon qu’elle appartienne au discours
+métaphysique ou au discours scientiﬁque.
+Du point de vue du discours métaphysique, et notamment des Méditations,
+on peut relever trois principaux aspects :
+1) comme embrayeurs dans l’ordre des raisons;
+2) comme les Méditations sont orientés par un programme (trouver les
+fondements de la connaissance pour arriver à établir quelque chose de
+ferme et de constant dans les sciences) la narrativité sert de forme
+discursive à l’«analyse», la «ratio cognoscendi», l’histoire de mon
+esprit;
+3) par l’exercice de la méditation poursuivie par le lecteur au ﬁl du récit,
+la narrativité présente une fonction d’identiﬁcation et d’appropriation,
+que l’on pourrait appeler une sorte de katharsis apportée par le muthos
+philosophique.
+Du point de vue du discours scientiﬁque, nous avons insisté sur la fonction
+épistémologique de la narrativité qui permet la construction d’un modèle
+
+558
+
+Dialogue
+
+scientiﬁque du monde. Par ce gros plan de la représentation, suspendu dans
+l’affabulation, Descartes donne au regard scientiﬁque une nouvelle et radicale
+liberté, non pas celle de décrire et d’expliquer le monde, mais de le créer à
+nouveaux frais, pour en faire sa créature et y trouver sa place, c’est-à-dire celle
+de la personne qui veut y bien agir.
+La narrativité nous introduit donc aux deux univers cartésiens, celui de la
+subjectivité, «l’histoire de ma vie» qu’est le Discours ou le roman de formation
+que sont les Méditations, et celui du Monde, la fable-modèle du monde, règne
+de l’étendue et de la matière et des lois qui régissent leurs interactions.
+Notes
+1 Nicolas, Grimaldi, Descartes et ses fables, Paris, Presses universitaires de France,
+2006, p. 9.
+2 Sylvie, Romanowski, L’illusion chez Descartes, Paris, Klincksieck, 1974; JeanPierre Cavaillé, Descartes, La fable du monde, Paris, Vrin, 1991; Fernand, Hallyn,
+Descartes, dissimulation et ironie, Genève, Librairie Droz, 2006.
+3 J.-P. Cavaillé, Descartes, La fable du monde, p. 9.
+4 Cogitationes privatae, X 215–216, cité par Geneviève Rodis-Lewis, Descartes,
+Paris, Vrin, p. 394.
+5 Voir à ce sujet les travaux de Louis Marin.
+6 Comme le montre bien J.-P. Cavaillé, Descartes, p. 42–45.
+7 Adrien, Baillet, Vie de M. Descartes, Genève, Slatkine Reprints, 2010, p. 259.
+8 Cf. Yves Bouchard, «Coherentism and Inﬁnite Regress», dans Y. Bouchard, dir.,
+Perspectives on Coherentism, Aylmer, Éditions du scribe, p. 179-187.
+9 À Mersenne, 25 novembre 1630 : «la promesse que je vous ai faite d’avoir achevé
+mon Monde dans trois ans» (AT, I, p. 179).
+10 Jean-François Bordron, Descartes, recherches sur les contraintes sémiotiques de la
+pensée discursive, Paris, Presses universitaires de France, 1987, p. 124.
+11 Aristote, La poétique, 50b 21–26, trad. R. Dopont-Roc, et J. Lallot, Paris, Seuil,
+1980, p. 59.
+12 Cet aspect central de la quatrième méditation a été remarqué par L. A. Kosman, voir
+«The Naïve Narrator : Meditation in Descartes’s Meditations», dans Amélie Oksenberg Rorty, dir., Essays on Descartes’s Meditations, Berkeley et Los Angeles (CA),
+University of California Press, 1986, p. 38–39.
+13 Les Principes débutent avec les résultats Méditations, pratiquement dans le même
+ordre que dans le texte, sauf que la preuve a priori précède les preuves a posteriori.
+Peut-être est-ce en ce sens qu’il faut lire les Principes «comme un roman», parce
+qu’on y trouve le parcours général de la pensée cartésienne, en commençant par le
+programme général de base.
+14 J.-F. Bordron, Descartes, p. 27.
+15 Ce rapprochement a d’ailleurs été souligné, notamment par L. Beck, par F. Alquié
+et par A. Kosman.
+16 Louis L. Martz, The poetry of Meditation: A Study in English Religious Literature
+in the 17th Century, New Haven (CT), Yale University Press, 1962, p. 26.
+
+Embrayages narratifs
+
+559
+
+17 Ibid., p. 27, cité de The Text of the Spiritual Exercises of Saint Ignatius, Translated
+from the Original Spanish, Ed. John Morris, Westminster, 1943, p. 20.
+18 ibid.
+19 «With the memory to be mindful of God our Lorde, with whom wee are to speake,
+and to negociate; and to bee mindfull also, of the mysterie that is to bee meditated,
+passing thorough the memorie, with clearnesse and distinction, that wich is to be
+the matter of the meditation». Cité dans L. L. Martz, The poetry of Meditation, p.
+14–15.
+20 Richard A. Watson, The Breakdown of Cartesian Metaphysics, Indianapolis (IN),
+Hackett, 1998, p. 183.
+21 À Mersenne, 18 mars 1630, AT, I, p. 134.
+22 À Mersenne, 25 Novembre 1630, AT, I, p. 179.
+23 F. Hallyn, Descartes, dissimulation et ironie, p. 91. La déﬁnition de l’hypotypose
+est tirée de : http://www.etudes-litteraires.com/ﬁgures-de-style/hypotypose.php
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Descartes et ses fables</title><editor><persName><forename type="first">Grimaldi</forename><surname>Nicolas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2006</date><biblScope unit="page" from="9">9</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">L’illusion chez Descartes</title><editor><persName><forename type="first">Romanowski</forename><surname>Sylvie</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1974</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Descartes, La fable du monde</title><editor><persName><forename type="first">Jean-Pierre</forename><surname>Cavaillé</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Descartes, dissimulation et ironie</title><editor><persName><forename type="first">Hallyn</forename><surname>Fernand</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Genève</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Vie de M. Descartes</title><editor><persName><forename type="first">Baillet</forename><surname>Adrien</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Genève</pubPlace><date type="published">2010</date><biblScope unit="page" from="259">259</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Descartes, recherches sur les contraintes sémiotiques de la pensée discursive</title><editor><persName><forename type="first">Jean-François</forename><surname>Bordron</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1987</date><biblScope unit="page" from="124">124</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">The poetry of Meditation: A Study in English Religious Literature in the 17th Century</title><editor><persName><forename type="first">Louis L.</forename><surname>Martz</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New Haven (CT)</pubPlace><date type="published">1962</date><biblScope unit="page" from="26">26</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">The Breakdown of Cartesian Metaphysics</title><editor><persName><forename type="first">Richard A.</forename><surname>Watson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Indianapolis (IN)</pubPlace><date type="published">1998</date><biblScope unit="page" from="183">183</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

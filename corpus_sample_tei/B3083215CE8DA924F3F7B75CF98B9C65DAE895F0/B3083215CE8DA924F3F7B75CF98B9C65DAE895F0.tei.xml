@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">À la défense du déontologisme doxastique</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">À la défense du déontologisme doxastique</title><author xml:id="author-0000"><persName><forename type="first">Daniel</forename><surname>Laurier</surname></persName><affiliation>Université de Montréal</affiliation></author><idno type="istex">B3083215CE8DA924F3F7B75CF98B9C65DAE895F0</idno><idno type="ark">ark:/67375/6GQ-R635R3MM-2</idno><idno type="DOI">10.1017/S0012217309090039</idno><idno type="PII">S0012217309090039</idno><idno type="article-id">09003</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="37">37</biblScope><biblScope unit="page" to="58">58</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Je réfute l’argument standard selon lequel nous n’avons aucune obligation de croire (ou ne pas croire) quoi que ce soit, parce que nous n’avons pas, sur nos croyances, le genre de contrôle nécessaire pour avoir des obligations. Je propose ensuite une interprétation de la distinction entre raisons épistémiques et raisons pratiques de croire qui est généralisable à d’autres attitudes telles que l’intention et qui semble impliquer (i) que les actes mentaux tels que les jugements et les décisions ne sont jamais des actions intentionnelles et (ii) que ces deux sortes de raisons sont incommensurables.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: I offer a refutation of the standard argument according to which we have no doxastic obligation because we do not have the kind of voluntary control over our beliefs required for having obligations. I then propose an interpretation of the distinction between epistemic and practical reasons for belief which can be generalised to other attitudes such as intention, and seems to imply (i) that mental acts such as judgements and decisions never count as intentional actions, and (ii) that these two sorts of reasons are incommensurable.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+À la défense du déontologisme
+doxastique
+
+DANIEL LAURIER
+
+Université de Montréal
+
+RÉSUMÉ : Je réfute l’argument standard selon lequel nous n’avons aucune obligation
+de croire (ou ne pas croire) quoi que ce soit, parce que nous n’avons pas, sur nos croyances, le genre de contrôle nécessaire pour avoir des obligations. Je propose ensuite une
+interprétation de la distinction entre raisons épistémiques et raisons pratiques de croire
+qui est généralisable à d’autres attitudes telles que l’intention et qui semble impliquer
+(i) que les actes mentaux tels que les jugements et les décisions ne sont jamais des actions intentionnelles et (ii) que ces deux sortes de raisons sont incommensurables.
+ABSTRACT: I offer a refutation of the standard argument according to which we have
+no doxastic obligation because we do not have the kind of voluntary control over our
+beliefs required for having obligations. I then propose an interpretation of the distinction between epistemic and practical reasons for belief which can be generalised to
+other attitudes such as intention, and seems to imply (i) that mental acts such as judgements and decisions never count as intentional actions, and (ii) that these two sorts of
+reasons are incommensurable.
+
+1. L’argument anti-déontologique
+Il est généralement admis que
+i) nous avons au moins quelques fois des raisons de croire (ou de ne pas
+croire) ce que nous croyons (ou ne croyons pas);
+ii) si nos raisons de faire quelque chose ou d’avoir une certaine attitude
+l’emportent sur nos raisons de ne pas faire cette chose ou de ne pas avoir
+cette attitude, alors nous devons faire cette chose ou avoir cette attitude.
+Dialogue 48 (2009), 37-58. Printed in the U.S.A.
+© 2009 Canadian Philosophical Association/Association canadienne de philosophie
+doi:10.1017/S0012217309090039
+
+38
+
+Dialogue
+
+Cela suggère fortement que nous ne pouvons avoir des raisons de croire que
+s’il y a (parfois) des choses que nous avons l’obligation1 de croire, c’est-à-dire,
+que s’il y a des obligations qui gouvernent les croyances elles-mêmes, et non
+pas seulement les activités qui conduisent à la formation de croyance. Plusieurs s’opposent cependant à cette idée, sur la base de ce que j’appellerai
+l’argument anti-déontologique standard, selon lequel
+i) nous ne pouvons avoir l’obligation de faire une chose que si nous avons
+la capacité de la faire et de ne pas la faire;
+ii) or, nous n’avons pas (ou ne pouvons pas avoir), eu égard à nos croyances, ce genre de capacité.
+Examinons d’abord brièvement la première prémisse de cet argument. Elle
+repose sur l’intuition qu’il y a des liens intimes, voire nécessaires, entre
+l’obligation, la responsabilité, la liberté et la capacité de contrôler ses actions.
+Le raisonnement est, approximativement, le suivant. On ne peut pas avoir
+l’obligation de faire une chose à moins de pouvoir être tenu responsable de
+l’avoir faite ou de ne pas l’avoir faite, c’est-à-dire, à moins de pouvoir être loué
+pour l’avoir faite ou blâmé pour ne pas l’avoir faite. Mais on ne peut être responsable d’une action que si l’on était libre de la faire ou de ne pas la faire, et
+on ne peut être libre de faire une chose que s’il dépend de nous de la faire ou
+de ne pas la faire, ce qui implique qu’on ait la capacité de la faire et de ne pas
+la faire. Il s’ensuit qu’on ne peut avoir l’obligation de faire une chose que si
+l’on a à la fois la capacité de la faire et la capacité de ne pas la faire.
+Puisque ce raisonnement est apparemment valide, nier que l’obligation entraîne la capacité de s’y conformer ou de ne pas s’y conformer conduirait à
+rejeter soit l’idée que l’obligation entraîne la responsabilité, soit l’idée qu’on
+n’est responsable d’une chose (ou libre de la faire) que si l’on a la capacité de
+la faire ou de ne pas la faire. Pour autant que je puisse en juger, les deux options
+sont possibles. Il est bien connu, par exemple, que dès la ﬁn des années 60,
+Harry Frankfurt s’est attaqué au principe selon lequel la responsabilité (et la
+liberté) exige la capacité de «faire autrement» (habituellement appelé «le
+principe des possibilités alternatives») et quelques auteurs ont effectivement
+invoqué la possibilité de rejeter ce principe pour défendre le déontologisme
+doxastique2. D’autres se sont contentés de remarquer qu’on peut avoir
+l’obligation de faire quelque chose qu’on n’a pas la capacité de faire (en particulier Feldman, 1988 et 2000). Par exemple, le fait que je sois dans l’incapacité
+de rembourser une dette ou de m’occuper convenablement de mes enfants
+n’implique pas que je n’aie pas l’obligation de le faire, mais cela implique
+peut-être que je ne peux pas être blâmé de ne pas le faire. Sans entrer dans les
+détails, je vais expliquer brièvement pourquoi je ne veux m’engager dans aucune de ces deux voies.
+Commençons par l’idée que l’obligation n’entraîne pas la responsabilité. Je
+suis prêt à concéder qu’il y a un sens dans lequel on peut dire qu’il est obligatoire
+
+Déontologisme doxastique 39
+
+que S rembourse ses dettes, bien que S soit incapable de le faire. Mais je suis
+enclin à nier que, dans ce cas, cela soit équivalent à dire que S a l’obligation de
+rembourser ses dettes. Il est généralement admis qu’il y a une distinction entre
+ce qui doit être le cas et ce qui doit être fait. L’afﬁrmation qu’il doit être le cas
+que P n’implique pas nécessairement que qui que ce soit ait l’obligation de
+faire en sorte que P, mais peut simplement exprimer l’idée qu’un monde «parfait» est un monde dans lequel P est le cas. L’afﬁrmation que S doit rembourser
+ses dettes peut être comprise de la même manière, comme l’expression d’un
+devoir-être, ou comme l’expression d’un devoir-faire. Si c’est le cas, alors il
+semble possible de maintenir que l’obligation de faire implique toujours la
+responsabilité. Selon cette analyse, la proposition de Feldman consiste à dire
+que s’il y a des obligations doxastiques, alors ce sont des obligations d’être, et
+non pas des obligations de faire. En soutenant qu’elles ne peuvent pas être des
+obligations de faire, Feldman est engagé à soutenir soit que nous ne sommes
+pas responsables de nos croyances, soit que la responsabilité n’implique pas la
+capacité de faire autrement. Mais il semble aller de soi qu’on peut être critiqué
+pour nos croyances, et qu’il y a donc un sens dans lequel nous en sommes responsables. La voie offerte par Feldman semble par conséquent conduire elle
+aussi à rejeter le principe des possibilités alternatives.
+Si plusieurs n’hésitent pas (comme je l’ai déjà remarqué) à rejeter ce principe, il n’en reste pas moins qu’il s’agit là d’une position relativement controversée, et qui n’est acceptée que par les compatibilistes. Il serait malheureux,
+dans ces conditions, d’être obligé d’admettre que le sort du déontologisme
+doxastique dépende du statut de ce principe. Mon objectif est donc de montrer
+qu’il serait possible que nous ayons des obligations doxastiques même si le
+principe des possibilités alternatives était vrai.
+Je reviens donc à ce que j’ai appelé plus haut l’argument anti-déontologique
+standard. La première prémisse de cet argument afﬁrme qu’on ne peut avoir
+l’obligation de faire une chose que si l’on a la capacité de la faire et la capacité
+de ne pas la faire. On n’a pas besoin de savoir en quoi consiste exactement le
+fait d’avoir une capacité pour admettre qu’il y a une distinction entre avoir la
+capacité de faire une chose «à volonté» et avoir la capacité de vouloir faire ou
+ne pas faire cette chose. Il s’agit, en d’autres termes, de distinguer entre
+i) avoir la capacité de faire une chose si on décide de la faire et de ne pas
+faire cette chose si on décide de ne pas la faire;
+ii) avoir la capacité de décider de faire une chose et de décider de ne pas la
+faire.
+Cela nous donne deux manières d’interpréter la première prémisse; mais il faut
+aussi noter que quelle que soit l’interprétation envisagée, on ne peut conclure
+que nous n’avons pas d’obligations doxastiques sans passer par l’étape intermédiaire qui consiste à inférer qu’on ne peut avoir l’obligation de croire une
+chose que si on a la double capacité de la croire et de ne pas la croire (en
+
+40
+
+Dialogue
+
+s’appuyant implicitement sur le principe que ce qui vaut pour les obligations
+de faire vaut aussi pour les obligations de croire). L’argument anti-déontologique minimal (ou «argument ADM») est donc le suivant :
+1) Nécessairement, si on a l’obligation de croire que P, alors on a la capacité de croire que P et de ne pas croire que P (quel que soit P).
+2) On n’a jamais à la fois la capacité de croire que P et de ne pas croire que
+P (quel que soit P).
+3) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+Cet argument peut prendre deux formes différentes, correspondant aux deux
+manières de comprendre ce que c’est qu’avoir la double capacité de croire et
+de ne pas croire que P que j’ai introduites :
+Première forme
+4) Nécessairement, si on a l’obligation de croire que P, alors on a la capacité de croire que P si on décide de le croire et de ne pas croire que P
+si on décide de ne pas le croire.
+5) On n’a jamais la double capacité de croire que P si on décide de le croire
+et de ne pas croire que P si on décide de ne pas le croire.
+6) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+Deuxième forme
+7) Nécessairement, si on a l’obligation de croire que P, alors on a la capacité de décider de croire que P et de décider de ne pas croire que P.
+8) On n’a jamais la double capacité de décider de croire que P et de décider
+de ne pas croire que P.
+9) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+Je vais d’abord examiner la première forme de l’argument, pour montrer qu’il
+n’est pas concluant, je reviendrai ensuite sur la deuxième forme, pour montrer
+qu’on ne peut l’accepter sans accepter aussi que nous n’avons pas l’obligation
+de faire quoi que ce soit.
+2. Première forme de l’argument ADM
+En termes informels, la première forme que peut prendre l’argument antidéontologique consiste
+i) à dire que nous ne pouvons avoir l’obligation de croire une certaine
+proposition P que si nous avons la capacité de croire cette proposition «à
+volonté» simplement en décidant de la croire;
+ii) à observer qu’il n’y a aucune proposition que nous ayons la capacité
+de croire «à volonté», simplement en décidant de la croire, et
+
+Déontologisme doxastique 41
+
+indépendamment de la question de savoir si cette proposition nous
+semble vraie ou fausse (nous ne pouvons croire que les propositions qui
+nous apparaissent comme vraies, or il ne nous appartient pas de décider
+que telle ou telle proposition nous semble vraie ou non), pour ensuite
+conclure que nous n’avons aucune obligation de croire quoi que ce
+soit.
+Cet argument est valide, mais pourquoi devrions-nous en accepter les deux
+prémisses?
+La première prémisse repose vraisemblablement sur une analogie implicite
+avec le cas de l’action. Puisqu’une action ne peut être obligatoire que si nous
+avons la capacité de l’accomplir «à volonté», il est légitime de penser, selon ce
+raisonnement, qu’une croyance ne peut être obligatoire que si nous avons la
+capacité de la former «à volonté». Mais même à supposer qu’on ne peut avoir
+l’obligation d’accomplir une action que si l’on a la capacité de l’accomplir «à
+volonté», rien ne nous force à en conclure qu’il s’agit là d’une caractéristique
+de l’obligation plutôt que d’une caractéristique de l’action. D’autre part, il ne
+semble pas qu’il y ait beaucoup d’actions que nous ayons la capacité d’accomplir
+«à volonté», simplement en décidant de les accomplir, de sorte qu’il est peu
+probable que ces actions soient les seules que nous puissions avoir l’obligation
+d’accomplir (à supposer que nous puissions avoir quelque obligation que ce
+soit).
+Je ne peux pas plus faire des crêpes simplement en décidant d’en faire, que
+je ne peux croire que la lune est en fromage blanc simplement en décidant de
+le croire. Néanmoins, les deux cas ne sont pas symétriques. Pour n’importe
+quelle action ordinaire, comme celles de faire des crêpes ou de lever le bras, il
+y a des conditions dans lesquelles l’action sera accomplie si et seulement si
+l’on décide de l’accomplir (et en vertu du fait qu’on aura décidé de l’accomplir).
+Mais il semble bien qu’aucune proposition P n’est telle qu’il y a des conditions
+dans lesquelles on croira que P si et seulement si l’on décide de le croire (et en
+vertu du fait qu’on aura décidé de le croire).
+Il est prima facie tout à fait plausible de suggérer que c’est seulement si (et
+parce que) il y a de telles conditions qu’on peut avoir l’obligation d’accomplir
+une certaine action. En supposant que le même principe vaut pour les croyances, on pourrait alors conclure que nous n’avons aucune obligation de croire
+quoi que ce soit, puisque dans le cas des croyances, les conditions appropriées
+ne sont jamais réunies. Mais il resterait encore à montrer que ce qui vaut pour
+les obligations d’agir vaut pour les obligations en général, ou tout au moins pour
+les obligations de croire. J’expliquerai plus loin pourquoi je pense qu’on n’y
+parviendra pas, mais il faut d’abord donner quelques précisions concernant le
+sens dans lequel on pourrait vouloir concéder qu’on n’a jamais, en aucune circonstance, la capacité de croire que P en vertu d’une décision de croire que P.
+Supposons que je décide de croire que la lumière dans cette pièce est éteinte,
+et que cette décision me conduise à éteindre la lumière, produisant ainsi en moi
+
+42
+
+Dialogue
+
+la croyance que la lumière est éteinte3. Ce scénario montre clairement qu’il y a
+un sens dans lequel il est tout à fait possible, non seulement de décider de
+croire que P, mais aussi de croire que P en vertu d’une décision de le croire.
+Cela ne peut par conséquent pas être dans ce sens que l’argument anti-déontologique nie que ce soit possible; mais alors de quel sens s’agit-il?
+On a besoin, pour l’expliquer, de distinguer entre les choses qui sont «directement» sous le contrôle de la volonté et celles qui ne le sont qu’«indirectement».
+Ma décision de croire que la lumière est éteinte ne peut produire en moi la
+croyance qu’elle est éteinte que de manière indirecte, en m’amenant à faire
+quelque chose d’autre qui produira en moi cette croyance, tandis que ma décision de bouger le doigt peut produire «directement» l’action de bouger le doigt,
+sans que j’aie besoin de faire quoi que ce soit d’autre (c’est-à-dire, sans que
+j’aie besoin d’accomplir préalablement une autre action).
+L’argument qui nous intéresse doit donc être reformulé de la manière suivante :
+10) Nécessairement, on a l’obligation de croire que P seulement s’il y a
+des conditions dans lesquelles une décision de croire que P produira
+directement la croyance que P (et dans lesquelles on continue d’avoir
+l’obligation de croire que P).
+11) Il n’y a pas de conditions dans lesquelles une décision de croire que P
+produira directement la croyance que P.
+12) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+En supposant, encore une fois, que ce qui vaut pour l’action vaut aussi pour la
+croyance, on pourrait faire reposer la prémisse (10) sur l’idée selon laquelle
+on ne peut avoir l’obligation d’accomplir une action que s’il y a des conditions dans lesquelles une décision de l’accomplir produira directement cette
+action. Cette idée semble défendable, mais il est bon d’observer qu’elle
+n’implique pas que nous avons l’obligation d’accomplir une action seulement
+lorsque les conditions appropriées (c’est-à-dire, celles dans lesquelles l’action
+résultera directement d’une décision de l’accomplir) sont réalisées, mais tout
+au plus que nous puissions avoir cette obligation lorsque ces conditions sont
+réalisées.
+Supposons en effet que vous êtes assis dans votre fauteuil. Rien n’empêche
+de penser que vous puissiez (dans ces conditions) avoir l’obligation d’allumer
+la lumière dans la pièce où vous vous trouvez, en dépit du fait que vous ne
+pouvez pas, à ce moment-là, allumer la lumière «directement» en décidant de
+l’allumer. Vous ne pouvez allumer la lumière que si vous vous levez de votre
+fauteuil, vous allez jusqu’à l’interrupteur et vous appuyez dessus. C’est seulement lorsque que vous avez le doigt sur l’interrupteur que votre décision
+d’allumer la lumière peut produire «directement» l’action d’allumer la lumière.
+Mais il serait manifestement absurde de supposer que vous n’aviez pas
+l’obligation d’allumer la lumière avant d’avoir le doigt sur l’interrupteur.
+
+Déontologisme doxastique 43
+
+Mais si on peut avoir l’obligation d’accomplir une action alors qu’on n’a pas
+la capacité de l’accomplir directement en décidant de l’accomplir, pourquoi ne
+pourrait-on pas avoir l’obligation de croire que P, en dépit du fait qu’on n’a pas
+la capacité de croire que P directement, en décidant de le croire? Le fait que
+nous soyons toujours dans l’impossibilité de croire directement en vertu d’une
+décision de croire indique probablement que les croyances ne sont tout simplement pas des actions, mais des états. Mais je vois mal comment on pourrait en
+conclure que nous n’avons jamais l’obligation de croire quoi que ce soit sans
+supposer que seules les actions peuvent être obligatoires, ce qui ne serait pas
+loin d’être une pétition de principe.
+Quoi qu’il en soit, cette supposition s’accorderait mal avec la manière dont
+nous utilisons apparemment le concept d’obligation. Il n’y a rien d’inhabituel
+dans l’idée qu’on puisse (dans certaines circonstances) avoir l’obligation
+d’être dans certains types d’états. Par exemple, on peut avoir l’obligation de
+peser moins de 100kg. Le fait qu’il n’y ait pas de conditions dans lesquelles
+une décision de peser moins de 100kg aura «directement» pour effet qu’on
+pèse moins de 100kg n’empêche pas qu’on puisse avoir cette obligation. Cela
+implique cependant qu’on ne peut pas avoir l’obligation de peser moins de
+100 kg à moins d’avoir aussi l’obligation de faire quelque chose d’autre, à
+savoir accomplir une action qui aura comme résultat qu’on pèsera moins de
+100 kg et qui résultera elle-même directement d’une décision de l’accomplir.
+Puisque le cas de la croyance est au moins superﬁciellement parallèle, on ne
+peut toujours pas conclure que nous ne pouvons pas avoir l’obligation de
+croire quoi que ce soit. On pourrait cependant conclure qu’on ne peut pas
+avoir l’obligation de croire que P à moins d’avoir aussi l’obligation d’accomplir
+une action qui puisse résulter directement d’une décision de l’accomplir et
+conduire à la formation de cette croyance. Étant donné que pour n’importe
+quelle action ordinaire qu’on a le pouvoir d’accomplir, il y a des conditions
+dans lesquelles elle résultera directement d’une décision de l’accomplir, cela
+revient à dire qu’on ne peut avoir l’obligation de croire que P à moins d’avoir
+aussi l’obligation d’accomplir une action qui conduira à la formation de cette
+croyance. L’opinion largement répandue selon laquelle les seules obligations
+épistémiques que nous puissions avoir concernent la conduite de l’enquête,
+bien que littéralement fausse, pourrait alors être remplacée par l’idée que nous
+n’aurions pas d’obligations de croire si nous n’avions pas d’obligations concernant la conduite de l’enquête. L’important est que même si l’on devait
+ﬁnalement accepter cette conclusion, le déontologisme doxastique ne serait
+toujours pas réfuté.
+Jusqu’ici, je me suis concentré sur la première prémisse de l’argument antidéontologique, c’est-à-dire celle selon laquelle on ne peut avoir l’obligation
+de croire que P que s’il y a des conditions dans lesquelles une décision de
+croire que P produira directement la croyance que P, et je n’ai trouvé aucune
+raison contraignante de l’accepter. Mais je me tourne maintenant vers la
+deuxième prémisse, c’est-à-dire celle selon laquelle il n’y a pas de conditions
+
+44
+
+Dialogue
+
+dans lesquelles une décision de croire que P produira directement la croyance
+que P.
+Il est intéressant de se demander pourquoi cette prémisse semble si évidente.
+Après tout, pourquoi une décision de croire que P ne pourrait-elle pas causer
+directement une croyance que P, si un mal de tête peut causer directement la
+croyance qu’on a mal à la tête (ou même, n’importe quel autre état mental)? En
+d’autres termes (et comme l’a remarqué Bennett, 1991), il n’est ni logiquement, ni conceptuellement, ni métaphysiquement, impossible qu’une décision
+de croire que P cause directement la croyance que P. Il est même douteux que
+ce soit incompatible avec les «lois» de la psychologie humaine, si celles-ci sont
+comprises comme étant du même genre que les lois de la nature (c’est-à-dire,
+comme des lois «strictes», plutôt que ceteris paribus). Cela semble tout au plus
+incompatible avec le fonctionnement «normal» de l’esprit humain, à la fois
+dans le sens banal que ce n’est habituellement pas ainsi qu’un être humain
+normal acquiert ses croyances, et dans le sens normatif qu’on ne devrait pas, en
+général, acquérir nos croyances de cette manière. Puisqu’il est possible d’avoir
+des croyances qu’on ne devrait pas avoir, il n’y a aucune raison de penser qu’il
+soit impossible qu’une décision de croire que P cause directement une croyance que P.
+S’il n’est pas impossible qu’il y ait des conditions dans lesquelles une décision de croire que P causera directement une croyance que P, alors on ne peut
+pas conclure qu’il est impossible d’avoir l’obligation de croire que P. Mais cela
+ne montre pas qu’il y a en fait, «dans le monde réel», de telles conditions.
+L’anti-déontologiste a donc toujours le loisir de maintenir qu’il n’y a pas en fait
+de conditions dans lesquelles une décision de croire que P causera directement
+une croyance que P, et de conclure qu’on n’a pas en fait d’obligation de croire
+quoi que ce soit (bien que ce ne soit pas impossible). Le problème est qu’on ne
+voit plus, alors, sur quoi il pourrait faire reposer cette deuxième prémisse, car
+puisque nous avons déjà admis qu’elle ne découlait pas des «lois de la nature»
+(ou même de l’esprit, si l’on veut faire la distinction), elle ne peut être rien de
+plus qu’une conjecture à propos d’un fait (nomologiquement) contingent. Mais
+cela n’est pas d’un grand secours, puisque l’anti-déontologiste n’a pas réellement besoin d’afﬁrmer qu’il n’y a pas de conditions dans lesquelles une décision de croire que P produira directement la croyance que P. Il lui sufﬁt
+d’afﬁrmer que de telles conditions sont exceptionnelles et que nous ne savons
+pas reconnaître quand elles sont réalisées, ce qu’on peut difﬁcilement contester. Cela signiﬁe que nous serions incapables de nous acquitter d’une obligation de croire que P, puisque nous ne saurions pas ce qu’il faut faire pour créer
+les conditions dans lesquelles notre décision de croire que P produira directement la croyance que P.
+Ma «réfutation» de la première forme de l’argument ADM s’appuie donc
+entièrement sur le rejet de la première prémisse. Il est judicieux de remarquer
+qu’en rejetant cette prémisse, je n’ai pas pour autant nié que le principe des
+possibilités alternatives s’appliquait aux actions. Mon analyse est compatible
+
+Déontologisme doxastique 45
+
+avec l’idée qu’on ne peut avoir l’obligation d’accomplir une action que si l’on
+a la double capacité de l’accomplir si l’on décide de l’accomplir et de ne pas
+l’accomplir dans le cas contraire. Plus spéciﬁquement, elle est compatible avec
+le principe selon lequel on ne peut avoir l’obligation d’accomplir une action
+que s’il y a des conditions dans lesquelles une décision de l’accomplir produira
+directement cette action et une décision de ne pas l’accomplir aura directement
+pour effet que cette action ne sera pas accomplie. J’ai seulement nié que ce qui
+valait pour les obligations d’agir valait nécessairement pour les obligations de
+croire. Il ne s’ensuit pas, cependant, que rien de ce qui vaut pour les obligations
+d’agir ne vaut pour les obligations de croire. C’est ce que l’examen de la deuxième forme de l’argument ADM permettra de constater.
+3. Deuxième forme de l’argument ADM
+Je me tourne maintenant vers cette deuxième forme de l’argument ADM, que
+je répète ici :
+7) Nécessairement, si l’on a l’obligation de croire que P, alors on a la capacité de décider de croire que P et de décider de ne pas croire que P.
+8) On n’a jamais la double capacité de décider de croire que P et de décider
+de ne pas croire que P.
+9) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+À première vue, ce que j’ai dit plus haut à propos de la deuxième prémisse de
+la première forme de l’argument ADM semble s’appliquer aussi à la deuxième
+prémisse de cet argument; mais il n’en est rien. J’ai soutenu qu’il est possible
+qu’une décision de croire que P cause (directement ou indirectement) la croyance que P, et si c’est le cas, il s’ensuit qu’il est possible d’avoir la capacité de
+décider de croire que P. On voit mal dans ce cas pourquoi on ne pourrait pas
+aussi avoir la capacité de décider de ne pas croire que P. Mais du fait qu’on
+peut avoir la capacité de décider de croire que P et qu’on peut avoir la capacité
+de décider de ne pas croire que P, il ne s’ensuit pas qu’on peut avoir à la fois la
+capacité de décider de croire que P et celle de décider de ne pas croire que P.
+(Le fait qu’il soit possible que P et que non-P n’implique pas qu’il soit possible
+que P et non-P). Les remarques de la section précédente ne sont donc pas sufﬁsantes pour conclure que la deuxième prémisse de ce second argument (8)
+n’est pas nécessairement vraie. Elles ne permettent pas non plus de rejeter la
+première prémisse, car bien que j’aie rejeté le principe selon lequel on n’a
+l’obligation de croire que P que s’il y a des conditions dans lesquelles une décision de croire que P causera directement la croyance que P, je n’ai rien dit qui
+soit incompatible avec l’idée qu’on ne peut avoir l’obligation de croire que P
+que s’il y a des conditions dans lesquelles une décision de croire que P causera
+la croyance que P.
+Je pense que cet argument peut être réfuté (et en particulier que la première
+prémisse peut être rejetée), et j’expliquerai plus loin pourquoi, mais il me
+
+46
+
+Dialogue
+
+semble tout aussi important de remarquer qu’il n’est pas nécessaire de le réfuter pour le discréditer. Il sufﬁt d’observer qu’il n’est ni plus ni moins convaincant que l’argument correspondant qu’on pourrait formuler à propos de
+l’action :
+13) Nécessairement, si on a l’obligation de faire quelque chose, alors on a
+la capacité de décider de le faire et de décider de ne pas le faire.
+14) On n’a jamais la double capacité de décider de faire quelque chose et
+de décider de ne pas le faire.
+15) Donc, on n’a jamais l’obligation de faire quoi que ce soit.
+Cet argument découle directement de l’argument classique sur lequel s’appuient
+les incompatibilistes. On n’est responsable d’une action que si l’on était libre
+de l’accomplir ou de ne pas l’accomplir; on n’est libre d’accomplir une action
+que si l’on a non seulement la capacité de l’accomplir et de ne pas l’accomplir
+(selon ce qu’on décide), mais aussi la double capacité de décider de l’accomplir
+et de décider de ne pas l’accomplir. Mais si le déterminisme est vrai, alors on
+n’a jamais la capacité de faire ou de décider de faire autre chose que ce qu’on
+fait ou qu’on décide de faire (ce qui revient à dire que la deuxième prémisse est
+vraie). Il s’ensuit que si l’obligation implique la responsabilité et/ou la liberté,
+si la responsabilité ou la liberté impliquent la capacité de choisir entre deux
+options authentiques (à savoir, si le principe des possibilités alternatives est
+correct), et si le déterminisme est vrai, alors on n’a jamais l’obligation de faire
+quoi que ce soit.
+La conclusion me paraît claire : on ne peut pas s’appuyer sur la deuxième
+forme de l’argument ADM pour conclure qu’on n’a jamais l’obligation de
+croire quoi que ce soit, à moins d’être aussi disposé à conclure qu’on n’a jamais
+aucune obligation de faire quoi que ce soit (et qu’on n’est jamais responsable
+de quoi que ce soit); c’est-à-dire, à moins d’être ce qu’on appelle un «incompatibiliste dur» (un déterministe qui soutient que la liberté et la responsabilité
+sont incompatibles avec le déterminisme). Cela me semble sufﬁsant pour montrer qu’il vaudrait mieux y penser deux fois avant de rejeter le déontologisme
+doxastique (sur la base de cet argument).
+Il me reste à expliquer pourquoi cette deuxième forme de l’argument ADM
+doit être rejetée. Cette explication permettra de mieux comprendre quelles
+sortes d’obligations doxastiques nous pourrions avoir, mais non pas comment
+il est ultimement possible que nous ayons de telles obligations, puisqu’elle ne
+remettra pas en question le diagnostic du paragraphe précédent.
+4. L’intention est à la décision ce que la croyance est au jugement
+La première forme de l’argument ADM (contrairement à la deuxième) insiste
+sur ce qui distingue l’action de la croyance, de manière à pouvoir conclure que
+nous n’avons pas d’obligations de croire, bien que nous ayons des obligations
+d’agir. J’ai admis qu’une telle différence existe, et consiste dans le fait qu’il n’y
+
+Déontologisme doxastique 47
+
+a pas de conditions «normales» dans lesquelles une décision de croire que P
+produira directement la croyance que P, alors qu’il y a toujours de telles conditions, pour n’importe quelle action ordinaire. Mais j’ai soutenu que cela conduisait tout au plus à concéder qu’on ne peut pas avoir l’obligation de croire
+que P à moins d’avoir aussi l’obligation d’accomplir une action qui conduira à
+la formation de cette croyance, en remarquant que cette concession était compatible avec le déontologisme doxastique. Toutefois, je ne pense pas qu’il soit
+nécessaire de faire cette concession pour pouvoir défendre le déontologisme.
+Il est facile de voir que si j’ai raison de penser qu’il est possible qu’une
+décision de croire que P cause directement la croyance que P4, alors rien ne
+nous oblige à maintenir qu’on ne peut pas avoir l’obligation de croire que P
+sans avoir aussi l’obligation d’accomplir une action qui conduira à la formation de cette croyance. Mais si l’on rejetait ce principe uniquement sur cette
+base, alors on pourrait être contraint d’admettre que c’est parce qu’une décision de croire que P peut causer directement la croyance que P que nous pouvons avoir l’obligation de croire que P. Or ce n’est pas quelque chose que je
+suis disposé à admettre. Je veux soutenir que ce principe serait faux même s’il
+était impossible qu’une décision de croire que P cause directement, ou même
+indirectement, la croyance que P (et même s’il était impossible de décider de
+croire que P).
+L’idée qu’on ne peut pas avoir l’obligation d’être dans un certain état mental
+à moins d’avoir aussi l’obligation d’accomplir une action qui conduira à la
+formation de cet état mental repose sur une analogie erronée entre l’action et la
+formation d’états mentaux. Il est naturel de penser qu’on ne peut pas avoir
+l’obligation d’accomplir une action à moins d’avoir la capacité de décider de
+l’accomplir; et il est naturel de penser cela parce que la seule manière de
+s’acquitter d’une obligation de faire quelque chose consiste vraisemblablement
+à décider de le faire. Mais si c’est le cas, alors on ne peut pas avoir l’obligation
+d’accomplir une action à moins d’avoir aussi l’obligation de décider d’accomplir
+cette action. Si la seule manière de s’acquitter d’une obligation d’être dans un
+état mental consiste à décider d’être dans cet état mental, alors on ne peut pas
+avoir l’obligation d’être dans un état mental à moins d’avoir l’obligation (et
+donc la capacité) de décider d’être dans cet état mental. Comme une décision
+d’être dans un état mental ne conduit pas directement (par hypothèse) à la formation de cet état mental, il s’ensuit qu’on ne peut pas avoir l’obligation d’être
+dans un certain état mental à moins d’avoir aussi l’obligation d’accomplir une
+action qui conduira à la formation de cet état mental. Le problème est qu’il
+n’est pas vrai que la seule manière de s’acquitter d’une obligation d’être dans
+un état mental consiste à décider d’être dans cet état mental.
+Il sufﬁt pour s’en convaincre de réexaminer le cas de l’action d’un peu plus
+près. Il est plausible que supposer qu’on ne peut avoir l’obligation d’accomplir
+une action (ordinaire) que si l’on a l’obligation de l’accomplir intentionnellement. En supposant qu’une action intentionnelle est une action qui s’accompagne
+d’une intention de l’accomplir (et qui est en quelque sorte «guidée» ou
+
+48
+
+Dialogue
+
+«contrôlée» par cette intention), cela suggère qu’on ne peut avoir l’obligation
+d’accomplir une action que si l’on a aussi l’obligation d’avoir l’intention de
+l’accomplir, c’est-à-dire, l’obligation d’être dans un certain état mental. S’il
+était vrai qu’on ne peut pas avoir l’obligation d’être dans un certain état mental
+à moins d’avoir aussi l’obligation de décider d’être dans cet état mental, et
+donc d’accomplir une action qui conduira à la formation de cet état mental,
+alors il s’ensuivrait qu’on ne peut pas avoir l’obligation d’accomplir une action
+à moins d’avoir aussi l’obligation d’accomplir une autre action (qui conduira à
+la formation de l’intention d’accomplir cette action), ce qui est absurde (puisque
+cela déclencherait une régression).
+Le point crucial est qu’on n’a pas besoin, pour s’acquitter d’une obligation
+d’avoir l’intention d’accomplir une action de décider d’avoir cette intention. Il
+sufﬁt de décider d’accomplir cette action, et (dans des conditions normales)
+l’intention en résultera «automatiquement». En d’autres termes, une intention
+d’accomplir une action peut soit résulter directement d’une décision d’accomplir
+cette action, soit résulter indirectement d’une décision d’avoir cette intention5.
+Mais de même qu’il sufﬁt, dans des conditions normales, de décider d’accomplir
+une action pour avoir l’intention de l’accomplir, de même il sufﬁt, dans des
+conditions normales, de juger que P pour avoir la croyance que P. Intuitivement, juger que P n’est-il pas plus ou moins la même chose que décider que P?
+C’est régler la question de savoir si P, de même que décider de faire quelque
+chose, c’est régler la question de savoir quoi faire : le jugement, c’est la contrepartie épistémique de la décision (d’agir). Ceci n’est pas sans rapport avec
+la remarque (souvent citée) de Gareth Evans selon laquelle, dans beaucoup de
+cas, si l’on me demande si je crois que le ciel est couvert, je me tournerai vers
+le ciel, plutôt que vers mon propre esprit, pour trouver la réponse. La même
+remarque vaut pour l’intention : si l’on me demande si j’ai l’intention de voter
+pour Stephen Harper aux prochaines élections, ce n’est pas en sondant mon
+propre esprit que je trouverai la réponse, mais en me demandant ce qu’on peut
+attendre de Stephen Harper. Autrement dit, dans les deux cas, je me tournerai
+vers le genre de considérations qui sont susceptibles de m’amener soit à juger
+que le ciel est couvert, soit à décider de voter pour Stephen Harper (selon le
+cas), c’est-à-dire, en quelque sorte, «vers l’extérieur».
+Une croyance que P peut donc résulter soit (directement) d’un jugement
+que P, soit (indirectement) d’une décision de croire que P, de même qu’une
+intention d’accomplir une action peut résulter soit (directement) d’une décision d’accomplir cette action, soit (indirectement) d’une décision d’avoir
+cette intention. Il n’y a par conséquent aucune raison de concéder qu’on ne
+peut pas avoir l’obligation de croire que P (ou d’avoir l’intention d’accomplir
+une action) à moins d’avoir aussi l’obligation d’accomplir une action qui conduira à la formation de cette croyance (ou de cette intention). Il faut plutôt
+conclure qu’on ne peut pas avoir l’obligation de croire que P (ou d’avoir
+l’intention d’accomplir une action) à moins d’avoir l’obligation soit
+d’accomplir une action (intentionnelle) qui conduira à la formation de cette
+
+Déontologisme doxastique 49
+
+croyance (ou de cette intention) soit de juger que P (ou de décider d’accomplir
+cette action).
+On pourrait vouloir s’opposer à cette conclusion en faisant valoir que les décisions et les jugements sont aussi (en un certains sens) des actions, ou tout au
+moins des occurrences plutôt que des états, et en soutenant qu’ils peuvent (à ce
+titre, et dans les conditions appropriées) résulter «directement» d’une décision
+de les accomplir, de sorte que même en admettant qu’une décision ou un jugement peuvent produire directement une intention ou une croyance, il resterait
+vrai, en un certain sens, qu’on ne peut avoir l’obligation d’avoir une intention ou
+d’avoir une croyance sans avoir aussi l’obligation d’accomplir une action (intentionnelle) qui conduira à la formation de cette intention ou de cette croyance.
+Cette objection serait correcte si l’on ne pouvait pas avoir l’obligation de juger
+ou de décider sans avoir l’obligation de juger ou de décider intentionnellement,
+c’est-à-dire, sans avoir l’obligation d’avoir l’intention de juger ou de décider.
+Mais même en supposant qu’il est possible de juger et de décider intentionnellement, l’obligation de juger ou de décider ne peut pas impliquer l’obligation
+d’avoir l’intention de juger ou de décider, puisqu’elle ne peut pas (sous peine de
+régression) impliquer l’obligation de décider de juger ou de décider.
+Il y a une différence de taille entre les actions intentionnelles (ordinaires) et
+les actes mentaux tels que les jugements et les décisions. Cette différence tient
+au fait évident que les décisions et les jugements sont des événements mentaux
+qui ont un contenu intentionnel, alors que les actions intentionnelles ordinaires
+n’ont pas de contenu, et ne sont des actions intentionnelles qu’en vertu du fait
+qu’elles sont les contenus de certains actes ou états mentaux (en particulier, les
+décisions et les intentions dont elles procèdent). Puisque les décisions et les
+jugements peuvent être les contenus d’actes (et d’états) mentaux d’ordre supérieur, rien ne s’oppose apparemment à ce qu’ils puissent parfois compter
+comme des actions intentionnelles (c’est-à-dire, être exécutés intentionnellement)6, ni donc à ce qu’il soit possible d’avoir l’obligation de décider de juger
+ou de décider. Mais ce qu’il y a de sûr, c’est qu’ils ne sont pas «essentiellement» des actions intentionnelles. Un acte mental qui compterait comme une
+action intentionnelle pourrait donc être dit «intentionnel» en un double sens :
+en vertu du fait qu’il résulte d’un acte ou d’un état intentionnel d’ordre supérieur (une décision ou une intention de l’accomplir) et en vertu du fait qu’il
+a lui-même un contenu intentionnel.
+Ceci montre que le principe selon lequel on ne peut pas avoir l’obligation de
+croire que P (ou d’avoir l’intention d’accomplir une action) à moins d’avoir
+l’obligation soit d’accomplir une action (intentionnelle) qui conduira à la formation de cette croyance (ou de cette intention) soit de juger que P (ou de décider d’accomplir cette action) est strictement plus faible que celui selon lequel
+on ne peut pas avoir l’obligation de croire que P (ou d’avoir l’intention
+d’accomplir une action) à moins d’avoir l’obligation d’accomplir une action
+(intentionnelle) qui conduira à la formation de cette croyance (ou de cette
+intention).
+
+50
+
+Dialogue
+
+Il est maintenant facile de voir que la deuxième forme de l’argument ADM
+doit ﬁnalement être rejetée, puisque sa première prémisse, à savoir celle qui
+afﬁrme qu’on ne peut avoir l’obligation de croire que P que si l’on a la capacité
+de décider de croire que P et de décider de ne pas croire que P, est tout simplement fausse. On pourrait avoir l’obligation de croire que P sans avoir la capacité de décider de le croire ou de ne pas le croire, à condition d’avoir au
+moins la capacité de juger que P et de ne pas le juger. Dans la mesure où il est
+difﬁcile d’imaginer qu’on puisse avoir la capacité de décider de croire que P
+sans avoir celle de juger que P, cela signiﬁe que cette deuxième forme de
+l’argument ADM peut être reformulée de la manière suivante :
+16) Nécessairement, si on a l’obligation de croire que P, alors on a la
+capacité de juger que P et de ne pas juger que P.
+17) On n’a jamais la double capacité de juger que P et de ne pas juger que
+P.
+18) Donc, on n’a jamais l’obligation de croire quoi que ce soit.
+Mais cela ne change rien à la conclusion de la section précédente, à savoir que
+si cet argument montre qu’on n’a jamais l’obligation de croire quoi que ce soit,
+alors l’argument incompatibiliste classique montre qu’on n’a jamais l’obligation
+de faire quoi que ce soit. Il s’ensuit qu’on ne peut pas avoir des obligations
+d’agir à moins d’avoir aussi des obligations d’être dans certains états mentaux
+(et d’accomplir certains actes mentaux). Je suis loin d’être en mesure de prouver que nous ayons des obligations d’agir, et je pense qu’il y a un risque réel
+pour que la notion même d’obligation se révèle incohérente. Je vais néanmoins
+supposer, dans ce qui suit, que nous avons de telles obligations, et par conséquent que nous avons aussi des obligations d’accomplir certains actes mentaux et d’être dans certains états mentaux.
+5. Quelles sortes d’obligations doxastiques pourrions-nous avoir?
+Si nous avons des obligations d’agir, de croire et d’avoir des intentions, alors
+nous pouvons continuer à penser que nous avons aussi (parfois) des raisons
+d’agir, de croire, et d’avoir des intentions. Par déﬁnition, les raisons d’accomplir
+une action sont des raisons «pratiques», mais lorsqu’il s’agit de raisons de
+croire, il semble qu’on doive admettre qu’elles ne sont pas toutes, «par déﬁnition»,
+des raisons épistémiques, et qu’on peut aussi avoir des raisons pratiques de
+croire. Et si c’est le cas, alors on peut se demander (avec Clifford et James) si
+nos raisons pratiques de croire que P peuvent l’emporter sur nos raisons épistémiques de ne pas croire que P, c’est-à-dire, si l’on peut avoir l’obligation (tout
+bien considéré, ou ultima facie) de croire que P, en dépit du fait que nous ayons
+l’obligation épistémique de ne pas croire que P (en dépit du fait que nos raisons
+épistémiques de ne pas croire que P l’emportent sur nos raisons épistémiques de
+le croire). Pour pouvoir répondre à cette question, il faut d’abord en savoir plus
+sur ce qui distingue les «raisons pratiques» et les «raisons épistémiques».
+
+Déontologisme doxastique 51
+
+Il est généralement admis qu’une raison épistémique de croire que P est
+(quelque chose comme) une considération qui indique qu’il y a de bonnes
+chances pour que P soit vraie, ou qui fait augmenter la probabilité que P soit
+vraie. Cette idée est certainement sur la bonne voie, mais elle est beaucoup trop
+spéciﬁque, en ce sens qu’elle ne nous permet pas de comprendre pourquoi,
+dans le cas des croyances, il devrait y avoir des raisons qui ne sont pas des
+raisons pratiques (quelle que soit la nature spéciﬁque de ces raisons). La
+réponse à cette question est que les croyances ne sont pas un cas singulier :
+toutes les raisons d’avoir une intention ou d’exécuter une acte mental (tel que
+juger et décider) ne sont pas non plus des raisons pratiques (d’avoir cette intention ou d’exécuter cet acte mental). Les raisons pratiques s’opposent certainement aux raisons épistémiques, mais seulement en vertu du fait qu’elles
+s’opposent à un type de raisons plus général (auquel les raisons épistémiques
+appartiennent).
+Selon l’hypothèse que j’aimerais développer, la caractéristique d’une raison
+pratique est d’être non seulement une raison de faire quelque chose (ou d’être
+dans un certain état), mais aussi une raison de décider (et d’avoir l’intention)
+de le faire (ou d’être dans cet état). Toutes les raisons d’accomplir une action
+(ordinaire) sont des raisons pratiques, parce qu’une raison d’accomplir une action est toujours une raison de décider (et d’avoir l’intention) de l’accomplir.
+Dans la section précédente, j’ai avancé l’idée que les actes mentaux tels que les
+décisions et les jugements ne sont pas «essentiellement» des actions intentionnelles (sans pour autant exclure la possibilité qu’ils comptent parfois comme
+des actions intentionnelles). Par contre, ce sont «essentiellement» des choses
+pour lesquelles nous pouvons avoir des raisons. Par conséquent, pour n’importe
+quel acte mental, il doit y avoir des raisons de l’exécuter qui ne sont pas des
+raisons «pratiques», c’est-à-dire, qui ne sont pas elles-mêmes des raisons de
+décider (ou d’avoir l’intention) de l’exécuter.
+J’ai déjà remarqué que, pour n’importe quelle action ordinaire, il y a des
+conditions dans lesquelles cette action résultera directement d’une décision de
+l’accomplir, sans qu’on ait à faire (ni par conséquent à décider de faire) quoi
+que ce soit d’autre. Imaginons que ces conditions sont réunies pour que
+j’accomplisse l’action d’allumer la lumière : j’ai le doigt sur l’interrupteur, et
+je n’ai qu’à décider d’allumer la lumière pour allumer la lumière. Je décide
+d’allumer la lumière (formant ainsi l’intention d’allumer la lumière), et j’allume
+la lumière. Ce ne sont pas des choses que je fais à la légère, sans raison. Lorsque
+je décide d’accomplir une action, ma décision est (normalement) dictée par
+le fait que (selon moi) une certaine «valeur» est attachée à l’accomplissement
+de cette action, et non pas par le fait qu’une valeur est attachée au fait de décider ou d’avoir l’intention d’accomplir cette action. Cela ne veut pas dire que
+cette décision et l’intention qui en résulte n’ont pas de valeur, mais qu’ils tirent
+en quelque sorte leur valeur de celle qui est attachée à l’action elle-même :
+elles n’ont de valeur qu’en vertu du fait qu’elles conduiront à accomplir cette
+action et que cette action est désirable. En d’autres termes, dans un cas typique
+
+52
+
+Dialogue
+
+comme celui que j’ai mentionné, mes raisons de décider (et d’avoir l’intention)
+d’allumer la lumière dérivent entièrement de mes raisons d’allumer la lumière:
+je n’aurais pas de raison de décider ou d’avoir l’intention d’allumer la lumière
+si je n’avais pas de raison d’allumer la lumière. Mes raisons sont en quelque
+sorte orientées vers le contenu de cette décision et de cette intention, c’est-àdire qu’elles concernent les caractéristiques de l’action elle-même, et non pas
+celles de la décision ou de l’intention d’accomplir cette action. Appelons-les
+des raisons orientées vers le contenu (en l’occurrence, le contenu de la décision, qui est aussi celui de l’intention)7.
+Dans le genre de situation que je viens d’évoquer, il est clair que la décision
+d’allumer la lumière ne compte pas elle-même comme une action intentionnelle,
+car bien qu’elle possède, en un sens, des caractéristiques désirables (puisqu’il y
+a des raisons de prendre cette décision), elle ne possède pas d’autres caractéristiques désirables que celles qui dérivent du fait qu’elle produira l’action d’allumer
+la lumière (et que celle-ci est désirable); c’est-à-dire, il n’y a pas de raison de
+prendre cette décision qui ne soit aussi une raison d’allumer la lumière.
+Ces raisons de décider d’allumer la lumière que j’ai en vertu du fait que j’ai
+des raisons d’allumer la lumière ne peuvent pas elles-mêmes être des raisons
+pratiques de décider d’allumer la lumière, car (selon le critère que j’ai formulé)
+il faudrait pour cela qu’elles soient aussi des raisons de décider de décider
+d’allumer la lumière (et celles-ci, à leur tour, devraient alors être des raisons de
+décider de décider de décider d’allumer la lumière). Cela voudrait dire qu’on
+ne peut pas avoir l’obligation d’accomplir une action à moins d’avoir
+l’obligation d’accomplir un nombre illimité d’actes de décisions (et d’avoir un
+nombre illimité d’intentions). Pourtant, ce sont manifestement des raisons de
+décider et d’avoir l’intention d’allumer la lumière, et plus précisément des raisons orientées vers le contenu.
+Supposons maintenant que je n’aie aucune raison d’allumer la lumière, ni
+donc aucune raison orientée vers le contenu de décider d’allumer la lumière. Je
+pourrais quand même avoir des raisons de décider d’allumer la lumière, car il
+pourrait être désirable de décider d’allumer la lumière sans qu’il soit désirable
+d’allumer la lumière : la décision d’allumer la lumière pourrait être désirable en
+vertu de caractéristiques qui n’ont rien à voir avec le fait que l’action d’allumer
+la lumière soit désirable ou non (par exemple, en vertu du fait que prendre cette
+décision est susceptible de me procurer une sensation de plaisir comparable à
+celle d’une bonne cigarette). Appelons ces raisons des raisons orientées vers
+l’acte : ce sont des raisons de décider d’accomplir une action qui ne sont pas en
+elles-mêmes des raisons d’accomplir cette action. Mais si j’ai des raisons orientées vers l’acte de décider d’allumer la lumière, alors ces raisons sont aussi des
+raisons (orientées vers le contenu) de décider (et d’avoir l’intention) de décider
+d’allumer la lumière, et par conséquent (toujours selon le critère que j’ai formulé) des raisons pratiques de décider d’allumer la lumière.
+Puisqu’une action ordinaire n’a pas de contenu, et qu’une raison (pratique)
+d’agir est par conséquent toujours (par défaut) orientée vers l’acte, cela
+
+Déontologisme doxastique 53
+
+m’amène à formuler l’hypothèse que la distinction entre les raisons pratiques
+et les autres se ramène à une distinction entre les raisons orientées vers l’acte
+les raisons orientées vers le contenu. Selon ce point de vue, une raison épistémique ne serait rien d’autre qu’une raison orientée vers le contenu de juger,
+et donc de croire, quelque chose.
+Distinguer entre les raisons orientées vers le contenu et les raisons orientées
+vers l’acte (ou l’état mental) ne signiﬁe naturellement pas que nous ne pouvons
+pas avoir simultanément des raisons de ces deux types d’exécuter un acte
+mental (et/ou d’être dans l’état mental correspondant). Plus particulièrement,
+cela n’empêche pas que nous puissions avoir à la fois des raisons orientées
+vers le contenu de décider d’accomplir une action ou de juger que P, et des
+raisons orientées vers l’acte de ne pas décider d’accomplir cette action ou de
+ne pas juger que P (et inversement). C’est ce genre de cas qu’il faut examiner
+pour être en mesure de déterminer si, et à quelles conditions, les raisons
+pratiques de juger/croire que P peuvent l’emporter sur les raisons épistémiques
+de ne pas juger/croire que P.
+Revenons d’abord aux deux situations que j’ai décrites plus haut : la première est celle dans laquelle j’ai des raisons (pratiques) d’allumer la lumière et
+aucune raison de ne pas l’allumer, la deuxième est celle dans laquelle j’ai des
+raisons pratiques de décider d’allumer la lumière sans avoir de raison d’allumer
+la lumière. Rien ne s’oppose à ce que, dans cette deuxième situation, mes raisons pratiques de décider d’allumer la lumière me conduisent immédiatement
+à décider de décider d’allumer la lumière; de la même manière que rien ne
+s’oppose à ce que, dans la première situation, mes raisons pratiques d’allumer
+la lumière me conduisent immédiatement à décider d’allumer la lumière. Dans
+cette première situation (puisque j’ai le doigt sur l’interrupteur), l’action
+d’allumer la lumière résultera directement de la décision de l’allumer (et sera
+guidée par l’intention de l’allumer), ce qui conﬁrme qu’elle sera intentionnelle.
+Pour que l’acte de décider d’allumer la lumière soit lui aussi intentionnel, dans
+la deuxième situation (où, peut-on supposer, j’ai toujours le doigt sur
+l’interrupteur), il faudrait donc qu’il résulte lui-même directement de la décision de décider d’allumer la lumière. Mais nous avons supposé que, dans cette
+situation, je n’ai pas de raison orientée vers le contenu de décider d’allumer la
+lumière, puisque je n’ai pas de raison orientée vers l’acte d’allumer la lumière.
+Il s’ensuit que si ma décision de décider d’allumer la lumière conduisait directement à la décision d’allumer la lumière, alors elle me conduirait indirectement
+à allumer la lumière, c’est-à-dire, à accomplir une action (intentionnelle) que
+je n’ai aucune raison d’accomplir. Il n’est certainement pas impossible qu’une
+telle chose se produise, puisqu’il n’est certainement pas impossible d’accomplir
+une action (intentionnelle) qu’on n’a aucune raison d’accomplir (ou qu’on a de
+meilleures raisons de ne pas accomplir). Mais supposons
+i) que mes raisons pratiques de décider d’allumer la lumière l’emportent
+sur mes raisons pratiques de ne pas le décider, de sorte que j’aie l’obligation
+
+54
+
+Dialogue
+
+pratique de décider d’allumer la lumière (et donc, l’obligation orientée vers
+le contenu de décider de décider d’allumer la lumière);
+ii) que j’ai des raisons pratiques de ne pas allumer la lumière, de sorte que
+j’aie l’obligation pratique de ne pas allumer la lumière (et donc l’obligation
+orientée vers le contenu de ne pas décider de l’allumer) : alors il serait impossible (dans cette troisième situation) de m’acquitter simultanément de
+ces deux obligations.
+Il vaut la peine de réﬂéchir un moment à la nature de ce genre de conﬂit. Si
+l’on considère uniquement l’acte de décider d’allumer la lumière, le conﬂit est
+manifestement un conﬂit entre des raisons pratiques et des raisons «non pratiques» : la balance des raisons orientées vers l’acte de décider ou de ne pas décider
+d’allumer la lumière favorise l’acte de décider d’allumer la lumière, ce qui me
+fait parler d’une obligation «pratique» de décider d’allumer la lumière, alors
+que la balance des raisons orientées vers le contenu de décider ou de ne pas
+décider d’allumer la lumière favorise l’«acte» de ne pas décider d’allumer la
+lumière, ce qui me fait parler d’une obligation «orientée vers le contenu» de ne
+pas décider d’allumer la lumière. Mais il est frappant que (ce qui est essentiellement) le même conﬂit peut aussi être décrit comme un conﬂit entre l’obligation
+pratique de décider d’allumer la lumière et l’obligation pratique de ne pas allumer la lumière, ou encore, entre l’obligation orientée vers le contenu de décider de décider d’allumer la lumière et l’obligation orientée vers le contenu de
+ne pas décider d’allumer la lumière. Or lorsque le conﬂit est décrit de cette
+manière, il n’apparaît plus comme un conﬂit entre deux «sortes» d’obligations
+aux contenus contradictoires (faire une chose versus ne pas faire cette même
+chose), mais entre deux obligations (du même genre) dont les contenus respectifs sont logiquement (mais pas «rationnellement») compatibles. Si j’ai raison
+de penser qu’il s’agit bien d’un seul et même conﬂit, alors il ne devrait pas être
+nécessaire, pour le résoudre, de mettre les raisons orientées vers l’acte et les
+raisons orientées vers le contenu «sur la même balance», de manière à déterminer celles qui ont le plus de poids : il se pourrait bien que les raisons pratiques et les raisons «non pratiques» soient, en fait, «incommensurables».
+Si la (troisième) situation que j’ai décrite n’est pas incohérente, si j’ai réellement (ultima facie) toutes les obligations conﬂictuelles que j’ai dites, et si
+(comme je le crois) il n’y a pas de conﬂits d’obligations insolubles, alors il doit
+être possible de s’acquitter de toutes ces obligations (sans faillir à aucune autre
+obligation).
+Je ne vois pas d’autre manière de préserver l’intuition que j’ai réellement
+(ultima facie) toutes ces obligations qu’en supposant qu’une décision (ou une
+intention) de décider d’allumer la lumière ne conduit pas directement à la décision d’allumer la lumière, et plus généralement qu’une décision (ou une intention) d’exécuter un acte mental (c’est-à-dire, de juger ou de décider) ne conduit
+pas directement à l’exécution de cet acte (ou sinon très exceptionnellement :
+c’est-à-dire, aussi exceptionnellement qu’une décision de croire que P peut
+
+Déontologisme doxastique 55
+
+causer directement la croyance que P). Si cette supposition est juste, alors les
+actes mentaux ne sont jamais (ou très exceptionnellement) des actions intentionnelles et sont, de ce point de vue, dans le même bateau que les états mentaux (et même les états physiques comme peser moins de 100kg) en ce sens
+qu’ils ne peuvent (normalement) résulter qu’indirectement d’une décision (ou
+d’une intention) préalable de les exécuter, et qu’ils ne peuvent pas être «guidés», au moment de leur exécution, par une intention de les exécuter. Il s’ensuit
+apparemment que si toutes les raisons d’accomplir une action sont des raisons
+pratiques, toutes les raisons pratiques ne sont pas pour autant des raisons
+d’accomplir une action (intentionnelle).
+En quoi cette supposition permet-elle de maintenir que (dans la troisième
+situation décrite plus haut) j’ai à la fois l’obligation (pratique) de décider
+d’allumer la lumière et l’obligation (pratique) de ne pas allumer la lumière et
+que je peux (par conséquent) m’acquitter de la première sans faillir à la deuxième? De la manière suivante. Mon obligation de décider d’allumer la lumière
+(c’est-à-dire, le fait que mes raisons pratiques de décider d’allumer la lumière
+l’emportent sur mes raisons pratiques de ne pas le décider) me conduit directement à décider de décider d’allumer la lumière, mais cette décision de décider
+d’allumer la lumière ne conduit pas directement à la décision d’allumer la lumière. Elle ne peut y conduire qu’indirectement, en me conduisant à faire
+quelque chose qui me conduira (éventuellement) directement à décider d’allumer
+la lumière. Mais la seule chose qui puisse (rationnellement) me conduire directement à décider d’allumer la lumière, c’est le fait que mes raisons pratiques
+d’allumer la lumière l’emportent sur mes raisons pratiques de ne pas l’allumer
+(ou autrement dit, le fait que mes raisons orientées vers le contenu de décider
+d’allumer la lumière l’emportent sur mes raisons orientées vers le contenu de ne
+pas le décider). Pour m’acquitter de mon obligation de décider d’allumer la lumière, alors que mes raisons orientées vers le contenu de ne pas décider de
+l’allumer l’emportent sur mes raisons orientées vers le contenu de décider de
+l’allumer, je dois donc faire en sorte de renverser «la balance des raisons»,
+c’est-à-dire, faire en sorte que mes raisons pratiques d’allumer la lumière
+l’emportent sur mes raisons pratiques de ne pas l’allumer. (Dans la situation que
+j’ai décrite, c’est relativement facile à faire : il me sufﬁt d’attendre que la nuit
+tombe, ou de tirer les rideaux, ou d’éteindre la lumière, si elle était déjà allumée.) Autrement dit, alors que mon obligation de ne pas allumer la lumière est
+une obligation de ne pas allumer la lumière maintenant, mon obligation de décider d’allumer la lumière n’est pas une obligation de décider maintenant
+d’allumer la lumière. Au moment où je déciderai d’allumer la lumière, cette
+décision ne sera rationnelle que si, à ce moment, mes raisons pratiques d’allumer
+la lumière (et donc mes raisons orientées vers le contenu de décider de l’allumer)
+l’emportent sur mes raisons pratiques de ne pas l’allumer (et donc sur mes raisons orientées vers le contenu de ne pas décider de l’allumer).
+Voyons maintenant comment cette analyse peut être transposée au cas de la
+croyance et des conﬂits entre les raisons épistémiques et les raisons pratiques
+
+56
+
+Dialogue
+
+de croire. Supposons (quatrième situation) que Socrate dispose d’informations
+qui indiquent clairement que son ﬁls se drogue. Ses raisons épistémiques
+(c’est-à-dire, orientées vers le contenu) de juger/croire que son ﬁls se drogue
+l’emportent sur ses raisons épistémiques de ne pas le juger/croire, de sorte qu’il
+a (à t) l’obligation épistémique de juger/croire (à t) que son ﬁls se drogue. Il n’a
+vraisemblablement aucune raison de vouloir (ni donc de décider ou d’avoir
+l’intention de) juger/croire que son ﬁls se drogue. Il n’a d’ailleurs pas besoin
+d’avoir de telles raisons pratiques de le juger/croire, puisqu’il ne peut pas reconnaître que ses informations indiquent que son ﬁls se drogue sans juger/
+croire que c’est le cas (son jugement que son ﬁls se drogue n’est pas une action
+intentionnelle), et puisque de toute manière, la décision de juger/croire que son
+ﬁls se drogue ne produirait pas directement (sauf circonstances exceptionnelles) le jugement/croyance en question. Il pourrait très bien, par contre, avoir
+des raisons pratiques de ne pas juger/croire que son ﬁls se drogue, ne serait-ce
+que le fait que cela préserverait sa tranquillité d’esprit et qu’il tient beaucoup à
+sa tranquillité d’esprit, de telle sorte que ses raisons pratiques de ne pas juger/
+croire que son ﬁls se drogue l’emportent sur ses raisons pratiques (que nous
+avons supposées inexistantes) de le juger/croire, et qu’il ait par conséquent
+l’obligation pratique de ne pas juger/croire que son ﬁls se drogue.
+Cette quatrième situation ressemble fort à la troisième, en ceci
+i) qu’elle illustre un conﬂit entre une obligation pratique de ne pas juger/
+croire que son ﬁls se drogue et une obligation orientée vers le contenu de
+juger/croire que son ﬁls se drogue, de la même manière que la troisième
+situation illustre un conﬂit entre une obligation pratique de décider/avoir
+l’intention d’allumer la lumière et une obligation orientée vers le contenu
+de ne pas le décider/avoir cette intention;
+ii) que ce conﬂit peut être redécrit comme un conﬂit entre une obligation
+orientée vers le contenu de décider de ne pas juger/croire que son ﬁls se
+drogue et une obligation orientée vers le contenu de juger/croire que son
+ﬁls se drogue, de la même manière que le conﬂit de la troisième situation
+peut être redécrit comme un conﬂit entre une obligation orientée vers le
+contenu de décider de décider/avoir l’intention d’allumer la lumière et
+une obligation orientée vers le contenu de ne pas décider/avoir l’intention
+d’allumer la lumière.
+Il y a aussi une différence notable. Alors que le conﬂit de la troisième situation
+peut encore être redécrit comme un conﬂit entre une obligation pratique de
+décider d’allumer la lumière et une obligation pratique de ne pas allumer la
+lumière, le conﬂit de la quatrième situation ne peut pas être redécrit comme un
+conﬂit entre deux obligations pratiques. En d’autres termes, l’obligation orientée vers le contenu (c’est-à-dire, épistémique) de juger/croire que son ﬁls se
+drogue n’est pas ancrée dans une obligation pratique, alors que l’obligation
+orientée vers le contenu de ne pas décider/avoir l’intention d’allumer la lumière
+
+Déontologisme doxastique 57
+
+est ancrée l’obligation pratique de ne pas allumer la lumière. Mais bien qu’elle
+ne soit pas ancrée dans une obligation pratique, elle est tout de même ancrée
+dans le fait que la proposition que son ﬁls se drogue entretient un certain type
+de relation avec les raisons que Socrate a de juger/croire cette proposition, de
+même que l’obligation orientée vers le contenu de ne pas décider d’allumer la
+lumière est ancrée dans le fait que l’action de ne pas allumer la lumière entretient un certain type de relation avec mes raisons de ne pas l’allumer. C’est
+dans cette différence que réside naturellement le caractère spéciﬁquement
+épistémique des raisons orientées vers le contenu de juger/croire que P.
+Mais cette différence ne change rien au fait qu’il est parfaitement possible
+que Socrate ait les obligations conﬂictuelles que j’ai mentionnées, et qu’il
+puisse (rationnellement) s’en acquitter, fondamentalement de la même manière
+dont je pourrais m’acquitter (rationnellement) des obligations conﬂictuelles de
+la troisième situation. Socrate ne serait pas irrationnel s’il décidait de ne pas
+juger/croire que son ﬁls se drogue au moment même où il juge/croit que son
+ﬁls se drogue, puisque sa décision de ne pas juger/croire que son ﬁls se drogue
+ne le conduirait pas directement à ne pas le juger/croire. La seule question qui
+se pose est celle de savoir s’il lui est possible de faire en sorte que ses raisons
+épistémiques de ne pas juger/croire que son ﬁls se drogue l’emportent sur ses
+raisons épistémiques de le juger/croire sans jamais faillir à aucune de ses obligations (sans jamais faire autre chose que ce qu’il devrait rationnellement
+faire). La situation que j’ai décrite est trop minimale pour permettre de le déterminer, mais il n’y a aucune raison ni de croire, ni de décider de croire, que
+ce soit impossible en principe.
+Notes
+1 J’ai besoin d’un substantif correspondant à l’usage du verbe «devoir» dans la phrase
+précédente, et le terme «obligation» me paraît le plus approprié, en dépit de certaines connotations indésirables. Il serait bon de garder en mémoire que la discussion qui suit ne concerne pas spéciﬁquement l’obligation morale, mais l’obligation
+«rationnelle».
+2 Voir en particulier Jäger (2004) et Steup (2008).
+3 Cet exemple est emprunté à Feldman (2000).
+4 C’est-à-dire, de penser que la deuxième prémisse de l’argument ADM (première
+forme) n’est pas (nomologiquement) nécessaire.
+5 Je ne veux pas suggérer, en disant cela, qu’il n’y a que ces deux manières d’acquérir
+une intention. On ne peut pas exclure la possibilité qu’une intention (ou n’importe
+quel état mental) soit causée directement par un coup sur la tête, une savant fou ou
+un malin génie. Mais il s’agit certainement là de scénarios extraordinaires.
+6 Je donnerai plus loin des raisons de penser qu’ils ne sont en fait jamais (ou sinon
+très exceptionnellement) des actions intentionnelles, puisqu’ils ne résultent jamais
+directement d’une décision ou d’une intention de les accomplir.
+7 Je donne ici, et dans les quelques paragraphes qui suivent, ma propre version (schématique) d’une distinction qu’on trouve sous forme embryonnaire chez Frankfurt
+
+58
+
+Dialogue
+(1971), et sous une forme plus développée chez plusieurs autres auteurs, tels que
+Dunn (1991, 1992), Parﬁt (2001), Piller (2001, 2006) et Hieronymi (2006).
+
+Références bibliographiques
+Bennett, Jonathan
+1991 «Why Is Belief Involuntary?», Analysis, vol. 50, p. 87-107.
+Dunn, Robert
+1991 «Reasons, Attitudes and the Breakdown of Reasons», Philosophia,
+vol. 21, p. 53-67.
+1992 «Akratic Attitudes and Rationality», Australasian Journal of Philosophy,
+vol. 70, p. 24-39.
+Feldman, Richard
+1988 «Epistemic Obligations», dans J. E. Tomberlin, dir., Philosophical
+Perspectives, vol. 2, Atascadero (CA), Ridgeview, p. 235-256.
+2000 «The Ethics of Belief», Philosophy And Phenomenological Research,
+vol. 60, p. 667-695.
+Frankfurt, Harry G.
+1969 «Alternate Possibilities and Moral Responsibility», dans H. G. Frankfurt,
+The Importance of What We Care About, New York, Cambridge
+University Press, p. 1-10 [1988].
+1971 «Freedom of the Will and the Concept of a Person», dans H. G. Frankfurt,
+The Importance of What We Care About, New York, Cambridge
+University Press, p. 11-25 [1988].
+Hieronymi, Pamela
+2006 «Controlling Attitudes», Paciﬁc Philosophical Quarterly, vol. 87,
+p. 45-74.
+Jäger, Christoph
+2004 «Epistemic Deontology, Doxastic Voluntarism and the Principle of
+Alternate Possibilities», dans W. Löfﬂer et P. Weingartner, dir., Knowledge and Belief. Proceedings of the 26th International Wittgenstein
+Symposium, Vienne, Hölder-Pichler-Tempsky, p. 217-227.
+Parﬁt, Derek
+2001 «Rationality and Reasons», dans D. Egonsson et al., dir., Exploring
+Practical Philosophy. From Actions to Values, Aldershot, Ashgate,
+p. 17-39.
+Piller, Christian
+2001 «Normative Practical Reasoning», Proceedings of the Aristotelian
+Society, vol. supp. 75, p. 195-216.
+2006 «Content-Related and Attitude-Related Reasons for Preferences»,
+Royal Institute of Philosophy supplement, vol. 59, p. 155-181.
+Steup, Mathias
+2008 «Doxastic Freedom», Synthese, vol. 161, p. 375-392.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Why Is Belief Involuntary?</title><author><persName><forename type="first">Jonathan</forename><surname>Bennett</surname></persName></author></analytic><monogr><title level="j">Analysis</title><imprint><date type="published">1991</date><biblScope unit="volume">50</biblScope><biblScope unit="page" from="87">87</biblScope><biblScope unit="page" to="107">107</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Reasons, Attitudes and the Breakdown of Reasons</title><author><persName><forename type="first">Robert</forename><surname>Dunn</surname></persName></author></analytic><monogr><title level="j">Philosophia</title><imprint><date type="published">1991</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="53">53</biblScope><biblScope unit="page" to="67">67</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Akratic Attitudes and Rationality</title><author><persName><forename type="first">Robert</forename><surname>Dunn</surname></persName></author></analytic><monogr><title level="j">Australasian Journal of Philosophy</title><imprint><date type="published">1992</date><biblScope unit="volume">70</biblScope><biblScope unit="page" from="24">24</biblScope><biblScope unit="page" to="39">39</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Philosophical Perspectives</title><editor><persName><forename type="first">Richard</forename><surname>Feldman</surname></persName></editor><editor><persName><forename type="first">J. E.</forename><surname>Tomberlin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Atascadero (CA)</pubPlace><date type="published">1988</date><biblScope unit="volume">2</biblScope><biblScope unit="page" from="235">235</biblScope><biblScope unit="page" to="256">256</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">The Ethics of Belief</title><author><persName><forename type="first">Richard</forename><surname>Feldman</surname></persName></author></analytic><monogr><title level="j">Philosophy And Phenomenological Research</title><imprint><date type="published">2000</date><biblScope unit="volume">60</biblScope><biblScope unit="page" from="667">667</biblScope><biblScope unit="page" to="695">695</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">The Importance of What We Care About</title><editor><persName><forename type="first">Harry G</forename><surname>Frankfurt</surname></persName></editor><editor><persName><forename type="first">H. G.</forename><surname>Frankfurt</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1969</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="10">10</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">The Importance of What We Care About</title><editor><persName><forename type="first">Harry G</forename><surname>Frankfurt</surname></persName></editor><editor><persName><forename type="first">H. G.</forename><surname>Frankfurt</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1971</date><biblScope unit="page" from="11">11</biblScope><biblScope unit="page" to="25">25</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Controlling Attitudes</title><author><persName><forename type="first">Pamela</forename><surname>Hieronymi</surname></persName></author></analytic><monogr><title level="j">Pacific Philosophical Quarterly</title><imprint><date type="published">2006</date><biblScope unit="volume">87</biblScope><biblScope unit="page" from="45">45</biblScope><biblScope unit="page" to="74">74</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Knowledge and Belief. Proceedings of the 26th International Wittgenstein Symposium</title><editor><persName><forename type="first">Christoph</forename><surname>Jäger</surname></persName></editor><editor><persName><forename type="first">W.</forename><surname>Löffler</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Weingartner</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Vienne</pubPlace><date type="published">2004</date><biblScope unit="page" from="217">217</biblScope><biblScope unit="page" to="227">227</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Exploring Practical Philosophy. From Actions to Values</title><editor><persName><forename type="first">Derek</forename><surname>Parfit</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Egonsson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Aldershot</pubPlace><date type="published">2001</date><biblScope unit="page" from="17">17</biblScope><biblScope unit="page" to="39">39</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Normative Practical Reasoning</title><author><persName><forename type="first">Christian</forename><surname>Piller</surname></persName></author></analytic><monogr><title level="j">Proceedings of the Aristotelian Society</title><imprint><date type="published">2001</date><biblScope unit="page" from="195">195</biblScope><biblScope unit="page" to="216">216</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Content-Related and Attitude-Related Reasons for Preferences</title><author><persName><forename type="first">Christian</forename><surname>Piller</surname></persName></author></analytic><monogr><title level="j">Royal Institute of Philosophy supplement</title><imprint><date type="published">2006</date><biblScope unit="volume">59</biblScope><biblScope unit="page" from="155">155</biblScope><biblScope unit="page" to="181">181</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Doxastic Freedom</title><author><persName><forename type="first">Mathias</forename><surname>Steup</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">2008</date><biblScope unit="volume">161</biblScope><biblScope unit="page" from="375">375</biblScope><biblScope unit="page" to="392">392</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

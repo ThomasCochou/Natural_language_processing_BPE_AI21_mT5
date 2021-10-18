@@ -1,0 +1,2525 @@
+JOURNAL INTERNATIONAL DE PSYCHOLOGIE, 1996, 31 (2), 111± 130
+
+M eÂ m o ir e s e x a c t e e t in feÂ r e n tie lle e n
+a r it h m eÂ tiq u e m e n ta le
+J e a n -P a u l F is c h e r
+
+IU FM de Lorrain e et U niversiteÂ de M etz,France
+
+Dans cette recherche, nous cherchons aÁ eÂ prouver la pertinence de la distinction de deux meÂ moires
+quali® eÂ es d’ exacte et d’ infeÂ rentielle. Dans les deux expeÂ riences, sur 140 eÂ leÁ v es de Cours Moyen et 456
+eÂ tudiants respectivement, les sujets prennent d’ abord connaissanc e d’ un mateÂ riel numeÂ rique: un
+probleÁ me arithmeÂ tique ou un calcul me ntal (e.g. 86 + 47 + 93 + 52). Ensuite, ils sont interrogeÂ s aÁ la
+fois sur des donneÂ es exactes contenues dans ce mateÂ riel et sur des donneÂ es susc eptibles d’ en eÃ tre
+infeÂ reÂ es.
+La recherche ne con® rme pas clairement une indeÂ pendance des deux types de meÂ moire . En revanche,
+elle apporte des eÂ vidence s en faveur d’ une moindre sensibiliteÂ aÁ l’ amorcË age de la meÂ moire exacte. Elle
+suggeÁ re aussi que l’ effet de distance peut, en calcul mental, eÃ tre diffeÂ rencieÂ suivant les opeÂ rations
+arithmeÂ tiques: les opeÂ rations additives y sont plus sensibles que les opeÂ rations multiplicativ es.
+In this research w e investigate the relevance of a distinction betwee n an exact memory and an inferential
+memory. In the tw o studies, on 140 fourth- and ® fth-graders and on 456 adult students respectively, the
+subje cts are ® rst informed of a numerical material: an arithmetic verbal problem or a mental calc ulation
+(e.g. 86 + 47 + 93 + 5 2). Then they are tested both on exact data and on data that can be inferred from the
+information previously given.
+The research does not clearly support an independence between the tw o forms of me mory. How ever, it
+show s evidence for a low er sensitivity to priming of the exact memory. Furthermore, the second study
+demonstrates that the mental arithmetic split effect (Ashcraft, 1992 ) c an be differentiate d follow ing the
+arithmetical operations: additiv e operations are more sensitive to it than multiplicative operations.
+
+I N T R O D U C T IO N
+
+Beaucoup de modeÁ les contemporains du
+traitement arithmeÂ tique se limitent aÁ un aspect
+de ce dernier. Par exemple, le modeÁ le
+d’ Ashcraft (1982) ne s’ inteÂ resse qu’ aux calc uls
+eÂ leÂ mentaires, alors que Mayer (1985) ne discute
+1
+que les probleÁ mes arithmeÂ tiques. Par aille urs, il
+existe des theÂ ories geÂ neÂ rales de la connaissance,
+comme la theÂ orie d’ Anderson (1983 ; 1993) , qui,
+en principe, devraient eÂ galement s’ appliquer aÁ
+
+tous les traitements numeÂ riques. Mais la
+geÂ neÂ raliteÂ de ces theÂ ories, ou architectures de la
+cognition, fait aussi leur faible sse: elles ne
+conduis ent gueÁ re aÁ des preÂ dic tions speÂ ci® ques et
+preÂ cises dans le domaine numeÂ rique. Dans
+Fischer (1992), nous avons tenteÂ de proposer un
+2
+modeÁ leÐ PDup Ð qui se situe aÁ mi-chemin de ces
+deux extreÃ mes. De ce fait, il peut servir de cadre
+theÂ orique aÁ la fois pour notre expeÂ rience 1 sur la
+reÂ solution de probleÁ mes et pour notre expeÂ rience
+2 sur le calcul m ental. Avant de deÂ crire ces
+
+Qu’ il me soit permis de remercier les eÂ leÁ ves, eÂ tudiants et collaborateurs qui m’ ont permis deÐ ou aideÂ aÁÐ reÂ aliser la
+partie empirique de ce travail, ReÂ mi Brissiaud et Claire Meljac pour leur relecture d’ une preÂ version de cet article, ainsi que
+deux eÂ valuateurs (anonymes) et le ReÂ dacteur en Chef (F.Y. DoreÂ ) du Journal pour leurs conseils de mise au point.
+1
+Remarquons cependant que quelques modeÁ les, comme celui de Campbell (1994), inteÁ grent au moins deux dimensions
+du traitement numeÂ rique, en l’ occurrence l’ encodage et le calcul. Mais aucun, aÁ notre connaissance, n’ inteÁ gre les deux
+sujets d’ inteÂ reÃ t de cet articleÐ la reÂ solution de probleÁ mes et le calcul arithmeÂ tiques.
+2
+Sigle de ProceÂ duralÐ DeÂ claratifÐ unitisationÐ proceÂ duralisation.
+q
+
+199 6 Union Internationale de Psychologie Scienti® que
+
+112
+
+FISCH ER
+
+expeÂ rience s, nous preÂ sentons quelques traits
+fondam entaux, ou essentiels pour comprendre
+nos hypotheÁ ses theÂ oriques, du modeÁ le PDup, une
+revue de la litteÂ rature sur le point speÂ ci® que
+central de chacune de nos deux expeÂ riences et,
+en® n, les objectifs de nos recherches.
+
+L a d is tin c tio n p r o c eÂ d u r a l/d eÂ c la r a t if
+d a n s le m o d eÁ le P D u p
+
+La distinction proceÂ dural/deÂ claratif est treÁ s usiteÂ e
+en psychologie cognitiv e (e.g . Anderson, 1983)
+ou en neuropsychologi e (e.g. Squire, 1987).
+Dans le domaine des calculs arithmeÂ tiques, elle
+a eÂ teÂ introduite par Ashcraft (1982). Nous avons
+nous-m eÃ mes
+(Fischer,
+1992 )
+tenteÂ
+de
+l’ approfondi r dans le modeÁ le PDup qui insiste
+non seulement sur la distinction entre les deux
+types de connaissan ces, mais aussi sur les
+meÂ canismes
+d’ eÂ changeÐ l’ unitisation et la
+proceÂ duralisationÐ entre les deux .
+La distinction proceÂ dural/deÂ claratif est facile aÁ
+illustrer sur l’ exemple des calculs eÂ leÂ mentaires.
+Pour un calcul comm e, par exemple, 8 + 7, un
+sujet peut reÂ cupeÂ rer la reÂ ponse en meÂ moire
+deÂ clarativ e: il sait que 8 + 7 cË a fait 15; mais il
+peut aussi arriver qu’ il sache seulement comm ent
+on retrouve ce reÂ sultat: on reÂ cupeÁ re une proceÂ dure
+(e .g. la proceÂ dure de surcomptage: 9, 10, 11, 12,
+13, 14, 15; la proceÂ dure du passage de la dizaine:
+8 + 7 = 8 + 2 + 5 = 10 + 5 = 15 ; e tc.) en meÂ moire
+proceÂ durale et on l’ exeÂ cute.
+En theÂ orisant alors autour des uniteÂ s
+relativement petites (peut-eÃ tre preÂ ciseÂ ment de
+l’ ordre de trois ite ms: cf. Anderson, 1993) et
+autonom es, noteÂ es [ +, 8, 7, 15 ] dans le cas de s
+calculs eÂ leÂ mentaires, nous sommes arriveÂ s aÁ
+l’ hy potheÁ se que c’ est plutoÃt la meÂ moire
+proceÂ durale (que la meÂ moire deÂ clarativ e) qui
+devrait servir de support au raisonnement, aÁ la
+compreÂ hension et au sens. En effet, les petite s
+uniteÂ s autonomes de la meÂ m oire deÂ clarative
+semblent mal adapteÂ es aux nombreuses mises en
+relation que neÂ cessitent ces derniers. Elles
+semblent eÂ galement mal adapteÂ es pour servir de
+support aÁ l’ amorcË age (primin g) indirect: en
+conseÂ quence , PDup postule une plus grande
+sensibiliteÂ
+aÁ
+l’ amorcË age
+(indirect)
+des
+connaissances proceÂ durales comparativ ement
+aux connais sances deÂ clarativ es. D’ autre part, de
+manieÁ re
+plus
+em pirique,
+en
+eÂ tudiant
+l’ apprentissage ,
+notamm ent
+scolaire,
+en
+observant les proceÂ dures mises en oeuv re par le s
+
+eÂ leÁ ves et en mesurant plus d’ une centaine de
+milliers de temps de reÂ ponses aÁ des jugements
+d’ ``eÂ galiteÂ s’ ’ impliquan t les quatre opeÂ rations
+arithmeÂ tiques (e.g . 8 + 7 = 15 ; 9 3
+7 = 62;
+9 2 5 = 3; 27 4 3 = 9), nous sommes parvenus aÁ
+une autre conclusion: les opeÂ rations additiv es
+(addition et soustraction) sont davantag e
+proceÂ durales que les opeÂ rations multiplicatives
+(multipli cation et division) qui, elles, sont
+davantag e deÂ clarativ e s (Fischer, 1992; Fischer &
+Pluvinag e, 19 88).
+Le constat de cette diffeÂ rence entre opeÂ rations
+additiv es et multiplicatives, ameÁ ne aÁ se demander
+si elle est intrinseÁ que aÁ la nature des opeÂ rations
+arithmeÂ tiques ou si elle reÂ sulte du fait qu’ aÁ l’ eÂ cole
+(en France tout au moins) on apprend souvent par
+coeur la table de multiplication et pas celle
+d’ addition. Nous pensons que, en fait, il y a
+interaction entre ces deux explications . En effet,
+si les enseignants et les eÂ leÁ ves ressentent m oins le
+besoin d’ apprendre par coeur les additions (que
+les multipli cations), cela peut eÃ tre duÃ au fait qu’ il
+existe de nombreuses proceÂ dures ef® cientes pour
+reconstruire le reÂ sultat de la majoriteÂ des sommes
+eÂ leÂ mentaires. En outre, comme les opeÂ rations
+additiv es sont conceptuellement beaucoup plus
+simples que les opeÂ rations multipli catives, les
+enfants mettent en oeuv re spontaneÂ ment
+certaines proceÂ dures reconstructives bie n avant
+l’ apprentissage
+de
+l’ addition
+aÁ
+l’ eÂ cole
+obligatoire: les enseignants auraient donc bien
+du mal aÁ proceÂ der aÁ une couÃ teuse meÂ morisation
+par coeur de reÂ sultats que les enfants
+reconstruisent facilement et suÃ rement. En® n,
+comm e le fait eÂ tonnant que des eÂ leÁ ves ne savent
+pas par coeur les additions eÂ leÂ mentaires (e.g. 7 +
+2), alors qu’ ils peuvent savoir par coeur des
+multipli cations plus complexes (e.g . 9 3
+8 =
+72), peut apparaõÃ tre comme une particulariteÂ de
+l’ enseig nement francË ais, nous voudrions rappeler
+que Svenson (1985 ) a elle aussi souligneÂ , du
+moins aÁ cette date, ``la pauvreteÂ des livres et
+techniques
+d’ enseignement
+m atheÂ matique
+sueÂ dois quant aÁ
+leur insistance sur un
+apprentissag e
+par
+coeur
+des
+addition s
+eÂ leÂ mentaires’ ’ (p. 287).
+
+M eÂ m o ir e e t p r o b leÁ m e s a r it h m eÂ t iq u e s
+
+De nom breux deÂ veloppem ents theÂ oriques reÂ cents
+suggeÁ rent la mise en oeuvre de de ux formes de
+meÂ m oire au cours de la reÂ solution de probleÁ mes
+(entre autres). L’ une de ces formes est plutoÃt
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+explicite , consciente, mot aÁ mot, deÂ clarativ e et
+directe: elle sera quali® eÂ e d’ exacte dans ce
+travail . L’ autre est davantag e implicite, non
+consciente ,
+reconstructive,
+proc eÂ durale
+et
+indirecte: cette seconde forme de meÂ moire
+semble fondamentale pour le raisonnement et
+sera quali ® eÂ e d’ infeÂ rentielle. La theÂ orie de s
+traces ¯ oues (fuzzy trace the ory) de B rainerd et
+colleÁ gues (e.g. B rainerd & R eyna, 1992 ) soutient
+une certaine indeÂ pendanc e de ces deux form es de
+meÂ moire. Selon ces auteurs, l’ indeÂ pendance du
+raisonnem ent par rapport aÁ
+la meÂ moire
+s’ expliquerait par le fait que les opeÂ rations de
+raisonnem ent n’ ont pas un acceÁ s direct aux
+traces exactes (verbatim) de l’ information
+critique de base.
+D’ un point de vue empirique, B raine rd et
+colleÁ gues se sont inteÂ resseÂ s aÁ un certain nombre
+de paradigmes se preÃ tant aÁ une eÂ tude de
+l’ indeÂ pendance
+de
+la
+meÂ moire
+et
+du
+raisonnem ent: l’ inclusion des classes, la
+conservation du nombre, le jugement de
+probabiliteÂ et l’ infeÂ rence pragmatique (pour
+revue, voir Brainerd & Reyna, 1992) . Pour tous
+ces paradigmes, Brainerd et colleÁ gues ont eÂ tabli
+que la meÂ moire exacte des donneÂ es ne fav orise
+pas le raisonnem ent sur ces donneÂ e s. Ceci
+constitue eÂ videmment un argument fort en
+faveur de l’ indeÂ pendance de la meÂ moire et du
+raisonnem ent. Plus reÂ cemment, B rainerd et
+Gordon (1994) ont compareÂ deux relations
+deÂ veloppementales et fonctionnelles entre le s
+meÂ moires exactes (verbatim) et de l’ essentiel
+(gist) pour les nombres. Dans leur expeÂ rience 1,
+Brainerd et Gordon trouvent que le fait de se
+rappeler exactement les nombres n’ aide pas les
+enfants aÁ se remeÂ morer la relation globale (``le
+plus’ ’ , ``le m oins’ ’ ), ou les relations intra-paire s
+(``moins que’ ’ , ``plus que’ ’ ), sur des histoire s
+comme celle suivante du fermier Brow n: ``Mr
+Brow n, un fermier, posseÁ de de nombreux
+animaux. Il posseÁ de trois chiens, cinq moutons,
+sept poussins, neuf chevaux et onze vaches’ ’ .
+Dans leur expeÂ rience 2, Brainerd et Gordon
+fournissent une eÂ videnc e additionnelle favorabl e
+au m odeÁ le de reÂ cupeÂ ration en paralleÁ le: une
+manipulatio n des instructions a ameÂ lioreÂ la
+meÂ moire de l’ essentiel, mais diminueÂ
+la
+meÂ moire exacte. L’ argumentation de B rainerd et
+Gordon est alors simple : si la m eÂmoire de
+l’ essentiel eÂ tait reconstruite aÁ partir des donneÂ e s
+exactes, il aurait fallu trouver, apreÁ s cette
+manipulation , si ce n’ est une supeÂ rioriteÂ , du
+moins une performance comparable en meÂ moire
+
+11 3
+
+exacte . La recherche de Brainerd et Gordon ne
+porte cepe ndant pas vraiment sur des probleÁ mes
+arithmeÂ tiques dans la mesure ouÁ la reÂ ponse ne
+neÂ cessite pas de calcul numeÂ rique . Pour les vrais
+probleÁ mes arithm eÂtiques, nous ne connaisson s
+que deux recherches empiriques qui ont abordeÂ ,
+parfois secondairement, la question d’ une
+indeÂ pendanc e possibl e entre la meÂ m oire exacte
+des donneÂ es et le raisonnement.
+Une premieÁ re recherche est celle de Sw anson,
+Cooney et Brock (1993) sur 11 0 eÂ leÁ ves de
+troisieÁ me et quatrieÁ me anneÂ e d’ eÂ cole. Sw anson
+et al. ont proposeÂ aÁ leurs sujets, par eÂ crit, des
+probleÁ mes
+arithmeÂ tiques
+verbaux
+simples
+comm e, par exemple: ``Zac avai t douze balles
+de tennis. Il en a perdu sept. Zac joue bien au
+tennis. Combien de balles de tennis lui reste-til? ’ ’ . De nombreuses variabl es ont eÂ teÂ mesureÂ es
+sur de tels probleÁ mes arithmeÂ tiques. L’ analys e des
+reÂ sultats montre, entre autres, que la relation entre
+la meÂ moire (exacte) des donneÂ es du probleÁ me et
+l’ exac titude de la solution n’ est que faible. Dans
+la discussion, les auteurs avancent plusie urs
+explic ations, mais privil eÂ gient celle selon
+laquelle diffeÂ rents systeÁ mes de meÂ m oire
+controÃleraient le s performances des enfants au
+cours des tests de reÂ solution de probleÁ mes
+verbaux et de meÂ moire.
+Une autre recherche est celle, sur des eÂ tudiants,
+de Hegarty, Mayer et Monk (1995). Au cours de
+leur expeÂ rience 2, il apparaõÃ t que les eÂ tudiants
+perform ants en reÂ solution de probleÁ me qui se
+souviennent mal du probleÁ me, ont plus de
+chances de se souvenir de la situation que les
+eÂ tudiants peu performants. Mais, aÁ l’ inverse, ces
+meÃ m es eÂ tudiants perform ants qui se souvi ennent
+mal du probleÁ me ont moins de chances de se
+souvenir des mots-cleÂ s relationnel s speÂ ci® ques
+utiliseÂ s dans le probleÁ me (e.g . `moins’ ’ ou
+``plus’ ’ ) que les eÂ tudiants peu perform ants. Un
+tel reÂ sultat con® rme donc, du moins si l’ on se
+limite aux sujets ne se souvenant pas de tout,
+que la meÂ moire (exacte) des donneÂ es speÂ ci® ques
+semble mieux caracteÂ riser les sujets peu
+perform ants que les sujets performants qui, eux ,
+privileÂ gient la meÂ moire de la situation.
+
+M eÂ m o ir e e t c a lc u l m e n t a l
+
+Il n’ est pas possible de faire une revue de toute la
+vaste litteÂ rature sur les relations entre meÂ moire et
+calcul mental. Rappelons simplement deux
+aspects du calcul mental qui ont eÂ teÂ beaucoup
+
+114
+
+FISCH ER
+
+eÂ tudieÂ s. Il s’ agit d’ une part de la repreÂ sentation en
+meÂ moire aÁ long terme seÂ mantique, ou deÂ clarativ e,
+des faits num eÂriques eÂ leÂ mentaire s (nu mbe r facts):
+pour une revue, nous renvoyons aÁ Ashcraft (1992)
+ou Fischer (1992). D’ autre part, les calculs plus
+complexes sont treÁ s priseÂ s pour eÂ prouv er la
+meÂ moire de travai l (e.g. Heathcote, 1994; Hitch,
+1978) . En conseÂ quence, nous limiterons cette
+revue de question aÁ un point speÂ ci® que du
+calcul mental central dans nos expeÂ riences 2: la
+diffeÂ renciation des meÂ m oires en fonction de la
+nature , additiv e (addition et soustraction) ou
+multipli cative (multipli cation et division), de s
+opeÂ rations arithmeÂ tiques.
+Miller et Paredes (1990) ont observeÂ que, dans
+une taÃche de production, il y a plus d’ intrusions de
+produits en reÂ ponse aÁ des additions que l’ inverse,
+i.e. que de sommes en reÂ ponse aÁ
+de s
+multipli cations. Par exemple, aussi bien leurs
+jeunes sujets (de la deuxieÁ m e aÁ la cinquieÁ me
+anneÂ e d’ eÂ cole) que leurs sujets adultes
+(eÂ tudiants) , reÂ pondent (erroneÂ ment) davantage
+12 aÁ 3 + 4 que 7 aÁ 3 3 4.
+C ampbell (1994) a poseÂ des faits d’ addition et
+de multiplication aÁ 64 sujets adultes. Elle a
+trouveÂ , aussi bien lorsque les faits sont preÂ senteÂ s
+dans un format ``c hiffres’ ’ que dans un format
+``mots’ ’ , une supeÂ rioriteÂ
+des erreurs interopeÂ rations pour les additions . De manieÁ re
+preÂ cise, les erreurs d’ opeÂ rations (e.g. 2 + 9 = 18,
+4 3
+8 = 12) constituent 10 .7% de toutes les
+reÂ ponses incorrectes. Mais de telles erreurs ont
+eÂ teÂ plus nombreuses (plus de deux fois) pour
+l’ addition que pour la multipli cation, et ceci
+quel que soit le format (m eÃ me si elles sont
+globale ment plus nombreuses dans le format
+chiffres que dans le format mots). Ces
+diffeÂ rences sont hautement signi® catives: P »
+2 8
+10
+pour chacun des deux form ats. En outre,
+l’ effet du format sur les erreurs d’ opeÂ ration a
+eÂ teÂ plus important pour l’ addition que pour la
+multipli cation. En® n, le taux exceptionnellem ent
+eÂ leveÂ des erreurs d’ opeÂ ration dans le format
+chiffre pour les additions est principalement duÃ
+aux combinaisons impliquant 2, 3 et 4 (e.g. 3 + 3
+= 9; 4 + 2 = 8).
+Siegler et Engle (1994) ont observeÂ une
+patiente K.B .K. de 42 ans, qui avait eÂ teÂ
+intoxiqu eÂ e par du monoxyde de carbone et qui,
+ay ant des dif® culteÂ s reÂ siduelles dans les calculs,
+s’ est proposeÂ e spontaneÂ ment pour eÃ tre testeÂ e.
+Parmi les tests, les 100 faits d’ addition et
+multipli cation lui ont eÂ teÂ proposeÂ s. Un reÂ sultat
+inteÂ ressant est que sa performance aux
+
+multipli cations est m eilleure (81% de reÂ ponses
+correctes) que celle aux additions (53%
+correctes), bien que K.B.K. indique qu’ elle
+comprend les probleÁ mes d’ addition mais pas
+ceux de m ultiplication.
+En® n, l’ asymeÂ trie des intrusions interopeÂ rations apparaõÃ t de manieÁ re encore plus nette
+sur un autre cas neuropsy chologique. Le patient
+G.E. observeÂ par Sokol et al. (1991) a en effet fait
+68% (62/91 ) d’ erreurs d’ opeÂ ration dans les
+addition s (e.g. 8 + 4 = 32, 9 + 3 = 27, 4 + 2 =
+8) contre seulem ent 6% (9/156) dans les
+multipli cations (e.g . 9 3 3 = 12, 7 3 7 = 14 ). Il
+faut toutefois preÂ ciser que les m ultipli cations par
+1 (e.g. 1 3 4 = 5) ne sont pas compteÂ es comme
+erreurs d’ opeÂ ration dans cette statistique de Sokol
+et al. Nous avons calculeÂ que si on les compte, il y
+a
+39 %
+d’ erreurs
+d’ opeÂ ration
+dans
+les
+multipli cations : la diffeÂ rence avec l’ addition
+2
+reste fortement signi® cative : c
+= 19 .37, p <
+0.00 1.
+Nous terminerons en obse rvant que les
+chercheurs concerneÂ s ne proposent que rarement
+une e xplication theÂ orique de cette asym eÂtrie.
+Dans le modeÁ le PDup, en revanche, une telle
+explic ation deÂ coule assez directement de la
+connais sance
+plus
+(respectivement
+moins)
+deÂ clarativ e des multiplications (respectivement
+des additions) , et du mode d’ activation des
+uniteÂ s stockeÂ es en meÂ moire deÂ clarativ e. En
+effet, si l’ uniteÂ [ 3 , 7, 5, 35 ] par e xemple
+repreÂ sente un produi t mieux consolideÂ
+en
+meÂ m oire deÂ clarativ e que la somme [ +, 7, 5, 12] ,
+7 + 5 aura plus de chances d’ active r 35 que 7 3 5
+n’ a de chances d’ activer 12.
+
+O b je c t ifs d e s r e c h e r c h e s
+
+Le reÂ sum eÂ du modeÁ le PDup et les deux revues de
+questions
+preÂ ceÂ dentes,
+nous
+permettent
+maintenant de formuler nos objectifs.
+Le prem ier objectif est d’ approfondir, ou
+d’ eÂ largir sur un mateÂ riel qui n’ a pas eÂ teÂ eÂ tudieÂ
+(avec notre meÂ thode: voir partie suivante) , le
+probleÁ me de l’ indeÂ pendance de la meÂ moire et du
+raisonnement. Alors que le bon sens voudrai t que
+l’ on puisse d’ autant m ieux raisonner que l’ on
+connaõ Ã t exactement les donneÂ es, Piag et et ses
+colleÁ gues ont aussi pu suggeÂ rer l’ inverse, aÁ
+savoi r
+que
+la
+meÂ m oire
+deÂ pendrait
+du
+raisonnement. Par exemple, lorsque Piaget et
+Inhelder (1968) eÂ crivent que ``le code neÂ cessaire
+pour assurer les deÂ codag es aÁ partir des encodag es
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+deÂ pend
+des
+structures
+assimilatrices
+de
+l’ intelligence’ ’ (p. 482). Brainerd et colleÁ gues,
+nous venons de le voir, ont c ontribueÂ , ave c leur
+theÂ orie des traces ¯ oues, aÁ renouveler la
+probleÂ matique en postulant, dans certaine s
+conditions, l’ indeÂ pendance de la meÂ m oire et du
+raisonnem ent. Quant au modeÁ le PDup, il serait
+conforteÂ Ð dans son insistance sur la distinction
+de
+deux
+types
+de
+meÂ moireÐ par
+une
+con® rmation de l’ indeÂ pendance des meÂ moires
+exacte et infeÂ rentielle. Mais il ne la preÂ dit pas
+vraiment. Ce premier objectif est au centre de
+notre expeÂ rience 1. Nous y abordons non
+seulement et directem ent le probleÁ me de
+l’ indeÂ pendance
+de
+la
+meÂ moire
+et
+du
+raisonnem ent,
+mais
+aussi
+une
+de
+se s
+conseÂ quence s maje ures: la possibil iteÂ
+de
+diffeÂ rences individuelles dans l’ eÂ quilibre entre
+raisonnem ent et m eÂmoire.
+L’ autre objectif m ajeur est de tester plus
+directement le modeÁ le PDup en nous appuyant
+notamment sur la diffeÂ renciation des opeÂ rations
+additiv es et multipli catives. D’ abord, les
+opeÂ rations additiv es, davantag e proceÂ durales,
+devraient plus ac tiver la meÂ m oire infeÂ rentielle
+que les opeÂ rations multipli catives, davantage
+deÂ clarativ es, qui, elles, devraient plus activer la
+meÂ moire exacte. Sur des calculs comme 93 + 56 +
+87 + 24 ou 9 3 2 3 4 3 6, nous nous proposons
+donc de tester si le s performances en meÂ moire
+suivent des trajectoires inverses lorsqu’ on passe
+des additions aux multiplications : la meÂ moire
+exacte devrait s’ accroõÃ tre et la meÂ moire
+infeÂ rentielle deÂ croõÃ tre, ou, en tout c as, la
+diffeÂ rence algeÂ brique entre les deux devrait
+augme nter.
+Ensuite, le caracteÁ re davantag e proceÂ dural de s
+opeÂ rations additiv es, comparativ ement aux
+opeÂ rations multipli catives, suggeÁ re que les
+proceÂ dures
+d’ approximation
+seront
+plus
+ef® cie ntes pour les premieÁ res que pour les
+secondes. Par exemple, on peut voir assez
+facilement et suÃ rement qu’ un calcul comme 93
++ 56 + 87 + 24 doit conduire aÁ un reÂ sultat
+supeÂ rieur aÁ 200 puisque deux des quatre
+nombres sont proches de 100 (et les deux autre s
+sont loin d’ eÃ tre nuls). En revanche, il semble plus
+dif® cile de voir que 9 3 2 3 4 3 6 est supeÂ rieur aÁ
+340: en effet, meÃ me si on arrondit 9 aÁ 10, ce qui
+les facilite consideÂ rablement, il faut exeÂ cuter le s
+autres produits ; et, malgreÂ tout, on est pris
+d’ ince rtidude
+aÁ
+l’ arriveÂ e:
+le
+suppleÂ ment
+neÂ cessaire pour arrondir 9 aÁ 10, en eÂ tant
+multipli eÂ trois fois conseÂ cutivement par la suite,
+
+11 5
+
+n’ est-il pas responsabl e du reÂ sultat qui deÂ passe
+340? En conseÂ quence, un choix adeÂ quat de
+reÂ ponses peu (e.g. 230 pour 48 + 62 + 35 + 79;
+850 pour 3 3 8 3 5 3 7) ou treÁ s (e.g. 20 0 pour 93
++ 56 + 87 + 24; 34 0 pour 9 3 2 3 4 3 6) distantes
+des
+reÂ ponses
+justes,
+devrait
+permettre
+l’ eÂ mergence d’ un effet de distance diffeÂ rencieÂ
+suivant la nature de s opeÂ rations arithmeÂ tiques:
+les opeÂ rations additiv es devraient davantag e eÃ tre
+affecteÂ es par la distance (relative) entre reÂ ponse
+proposeÂ e et reÂ ponse juste.
+En® n, un dernier objectif sera de tester si le
+caracteÁ re davantage proceÂ dural des opeÂ rations
+additiv es (comparativ ement aux opeÂ rations
+multipli catives) condui t bien c es dernieÁ res,
+comm e le preÂ dit le modeÁ le PDup, aÁ une plus
+grande sensibili teÂ aÁ l’ amorcË age. Un desig n
+expeÂ rimental adapteÂ devrait nous permettre de
+tester cette moindre sensibiliteÂ aÁ l’ amorcË age non
+seulement
+des
+opeÂ rations
+additiv es
+comparativ em ent aux opeÂ rations multiplicatives
+(expeÂ riences 2), m ais aussi, plus geÂ neÂ ralement,
+de la meÂ moire infeÂ rentielle (raisonnem ent)
+comparativ em ent
+aÁ
+la
+meÂ moire
+exacte
+(expeÂ rience 1).
+M EÂ T H O D E G EÂ N EÂ R A L E
+S u je t s
+
+L’ eÂ tude de l’ indeÂ pendance des meÂ moires exacte
+et infeÂ rentielle, notamment si sa c on® rmation doit
+s’ appuy er sur le non-re jet de l’ hypotheÁ se nulle,
+neÂ cessite un grand nombre de sujets. Par exemple,
+dans leur recherche sur l’ indeÂ pendance entre le
+rappel d’ eÂ veÂ nements speÂ ci® ques et le rappel des
+relations entre ces eÂ veÂ nements, Fisher et Chandl er
+(1991) ont ``utiliseÂ ’’ 48 0 eÂ tudiants dans leur
+expeÂ rience 1.
+Pour eÂ tudier le raisonnement arithmeÂ tique,
+nous avons choisi un eÂ chantillon d’ eÂ leÁ ves en ® n
+d’ eÂ cole eÂ leÂ mentaire (quatrieÁ me et cinquieÁ me
+anneÂ e d’ eÂ cole en France). A cet aÃge, et aÁ ce
+niveau de la scolariteÂ , on peut en effet penser
+que la taÃche de reÂ solution de probleÁ m es
+arithmeÂ tiques est une activiteÂ familieÁ re aux
+eÂ leÁ ves. En outre, pour peu que les donneÂ es
+numeÂ riques soient simples, les eÂ leÁ ves de ce
+niveau ont en geÂ neÂ ral une m aõÃ trise suf® sante du
+calcul mental pour que le fac teur ``calcul’ ’ ,
+confondu avec le facteur ``raisonnem ent’ ’ si l’ on
+n’ observe que les reÂ ussites, puisse eÃ tre consideÂ reÂ
+comm e neÂ gligeable. Le design expeÂ rimental (voir
+suite) imposait six classes diffeÂ rentes: ceci a
+
+116
+
+FISCH ER
+
+condui t aÁ 140 sujets expeÂ rimentaux , un nombre
+qui nous a paru largement suf® sant pour une
+expeÂ rience utilisant une taÃche de production.
+Dans cette expeÂ rience 1 sur le raisonnement
+arithmeÂ tique, les sujets doivent en effet produire
+la reÂ ponse, et non pas simplement juger si une
+reÂ ponse proposeÂ e par l’ expeÂ rim entateur est
+correc te (taÃche de veÂ ri® cation).
+En revancheÐ nous venons de le suggeÂ rer
+im plicitementÐ les expeÂ riences 2 sur le calcul
+utilise nt une taÃche de veÂ ri® cation. Pour arriver aÁ
+des effectifs conseÂ quents, nous avons donc
+solliciteÂ tous nos eÂ tudiants adultes de premieÁ re
+ou deuxieÁ me anneÂ e d’ UniversiteÂ . Nous sommes
+ainsi arriveÂ aÁ, respectivement, 229 et 227
+eÂ tudiants pour nos expeÂ riences 2a et 2b sur le
+calcul.
+
+M a t eÂ r ie l
+
+Com me il sem ble indispensable de connaõÃ tre
+exactement
+les
+donneÂ es
+d’ un
+probleÁ me
+arithmeÂ tique si l’ on ve ut trouver sa reÂ ponse
+numeÂ rique exacte, nous voudrions commencer
+par insister sur le fait que cette connaissanc e de s
+donneÂ es n’ est neÂ cessaire qu’ aÁ un moment donneÂ
+du traitement. En effet, une fois l’ infeÂ rence
+arithmeÂ tique ou le calcul acheveÂ , il se peut que
+les donneÂ es l’ ayant e ngendreÂ soient effaceÂ es en
+meÂ moire de travail . En outre, nous voudrion s
+argum enter ou observer que:
+1. Devant la charge consideÂ rable en meÂ moire
+de travai l ou aÁ court terme imposeÂ e par un
+probleÁ me arithmeÂ tique verbal, surtout lorsqu’ il
+est preÂ senteÂ oralement et que les eÂ leÁ ves ne
+peuvent pas prendre de notes, et par suite de s
+limitations de la meÂ moire aÁ court terme, certains
+eÂ leÁ ves
+peuv ent
+eÃ tre
+ameneÂ s
+aÁ
+opeÂ rer,
+consciem ment ou non, un choix. Ils peuvent
+alors privileÂ gier soit la reÂ tention exacte de s
+deÂ tails, soit l’ extraction des donneÂ e s qui
+semblent essentielle s en vue d’ un raisonnement
+numeÂ rique. La litteÂ rature neuropsy chologique
+con® rme ce point: un patie nt, A.M. deÂ crit par
+Seron (1993, p. 66), ayant aÁ partag er ses
+ressources entre des activiteÂ s de stockage et de
+traitement, sem ble donner la prioriteÂ au traitem ent
+au deÂ triment du stoc kage.
+2. Il peut y avoir des diffeÂ rences individuelle s
+dans la faciliteÂ ou la preÂ feÂ rence d’ un type de
+traitement. Par exemple, il est bien connu que
+
+les jeunes enfants ont une excellente meÂ m oire
+(e.g. dans les jeux de type Memory: cf., par
+exemple, Schumann-Hengsteler, 1993) , mais que
+leur raisonnement logique est souvent pris en
+deÂ faut (e.g . les ceÂ leÁ bres tests piag eÂ tiens
+d’ inclusion) .
+3. Notre choix des probleÁ mes est tel que la
+reÂ ussite aux questions de raisonnement ne
+neÂ cessite pas, d’ un point de vue logique , la
+connais sance des reÂ ponses aux questions de
+meÂ m oire (aÁ une petite exception preÁ s: voir
+suite). En outre, nos textes incluent des
+inform ations numeÂ riques super¯ ues pour les
+raisonnements arithmeÂ tiques.
+4. En® n, les expeÂ riences sur le calcul
+pourrai ent faire l’ objet de reÂ serves analogues
+(un peu m oins fortes cependant car elles
+utilisent une taÃche de veÂ ri® cation) . Or, en
+anticipant leurs reÂ sultats, nous pouvons dire
+qu’ elles suggeÁ rent plutoÃt l’ indeÂ pendance.
+Pour le calcul, le choix des items (voir Annexe
+2)Ð vu leur nombre treÁ s limiteÂ Ð est eÂ videmment
+primordial .
+Comme
+en
+teÂ moignent
+les
+nombreuses contraintes que nous nous sommes
+imposeÂ e s (voir suite), nous avons pris beaucoup
+de soins pour les eÂ laborer. NeÂ anmoins, nos
+expeÂ riences 2 sur le calcul demanderai ent
+certainem ent aÁ eÃ tre reÂ pliqueÂ es avec un m ateÂ riel
+diffeÂ rent.
+
+P r o c eÂ d u r e
+
+La proceÂ dure expeÂ rimentale commune aux
+expeÂ riences rapporteÂ es dans cet article peut eÃ tre
+reÂ sumeÂ e treÁ s sim plement: on fournit des
+inform ations (texte ou calcul) aux suje ts et,
+ensuite, on les interroge , d’ une part sur des
+donneÂ es exactes et directement contenues dans
+ces informations (Me), d’ autre part sur des
+infeÂ rences que l’ on peut tirer de ces
+inform ations (Mi). GraÃce aÁ leurs reÂ ponses
+eÂ crites individue lles, nous disposons ainsi pour
+chacun des sujets d’ un score Me et d’ un score
+Mi. Ce sont principalem ent sur les diffeÂ rences
+des scores Me± Mi et des probabiliteÂ s P(Mi|Me )±
+P(Mi), ouÁ P(Mi|Me) deÂ signe la probabiliteÂ
+conditionnelle de reÂ ussir l’ item Mi si l’ on a
+reÂ ussi l’ item Me et P(Mi) la probabiliteÂ simple
+de reÂ ussir Mi, que porteront nos analyses
+statistiques.
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+C ompte tenu des critiques dont le type
+d’ approcheÐ ici
+utiliseÂ Ð de
+l’ eÂ tude
+de
+l’ indeÂ pendance (ou non) de deux types de
+meÂ moire a pu faire l’ objet (e.g. Hintzman &
+Hartry, 1990; How e et al., 1993), preÂ cisons que
+nous avons tenteÂ
+d’ eÂ viter certains eÂ cueils
+souligneÂ s
+par ces
+auteurs. Ainsi, dans
+l’ expeÂ rience sur le raisonnement, nous avons
+appliqueÂ un traitement statistique suggeÂ reÂ par
+Wickens (1993) et geÂ rant la variabiliteÂ intersujets. Nous avons aussi veÂ ri® eÂ la variabiliteÂ
+inter-items pour nous assurer que nous n’ avons
+pas eÂ teÂ victime du paradox e de Simpson dont
+Hintzman (1980) s’ est fait l’ apoÃtre.
+E X P EÂ R IE N C E 1 S U R L E
+R A I S O N N E M E N T A R IT H M EÂ T IQ U E
+D e s c r ip tio n
+L e s s u je ts
+
+Les 140 sujets sont issus de six classes de
+Cours Moyen (quatri eÁ me et cinquieÁ me anneÂ e
+d’ eÂ cole) et de milieux socio-eÂ conomiques en
+geÂ neÂ ral m oy ens ou favoriseÂ s. Leur moyenne
+d’ aÃge est 10.3 1 ans ( s = 0.66 ; min = 8.77, max
+= 11.99), celle des 78 ® lles (10.32; s = 0.65 ) eÂ tant
+quasiment identique aÁ celle des 62 garcË ons
+(10.30 ; s = 0.66).
+L e s ite m s
+
+Les six te xtes, et leurs questions conseÂ cutives,
+sont reproduits en Annexe 1. C haque texte
+deÂ bouche sur deux questions Mi et deux
+questions Me. L’ ordre de preÂ sentation de ces
+questions est tel que deux questions relevant du
+meÃ me type de meÂ moire ne se succeÁ dent jam ais; en
+outre, une fois sur deux, la premieÁ re question est
+une question Me. On peut aussi remarquer qu’ une
+moitieÂ des questions Me porte sur des informations
+numeÂ riques (e.g. Combien le villag e comptait-i l
+d’ habitants au deÂ but de l’ anneÂ e 1992? ), alors que
+l’ autre m oitieÂ porte sur des informations non
+numeÂ riques (e.g . Quelle sorte preÂ cise de ¯ eurs
+trouve-t-on dans le villag e ? ).
+L a p r o c eÂ d u r e d e p a s s a t io n
+
+L’ e xpeÂ rimentateur informe les eÂ leÁ ve s d’ une
+classe sur l’ objectif geÂ neÂ ral du test, s’ adapte au
+rythme de reÂ ponse des eÂ leÁ ves (en eÂ vitant tout
+retour en arrieÁ re) et essaie d’ eÂ viter au maximum
+le copiage .
+
+11 7
+
+A partir de l’ ordre de base qui apparaõÃ t en
+Annexe 1, nous avons deÂ riveÂ , par permutation
+circulaire, six ordres de preÂ sentation. Le nombre
+de classes est adapteÂ
+aux six ordre s de
+preÂ sentation des textes: chaque texte est preÂ senteÂ
+une et une seule fois en premieÁ re position. Ceci
+est important car les eÂ leÁ ves n’ ont pas de texte
+d’ eÂ chauffement. Chaque texte est lu deux fois et
+les eÂ leÁ ves disposent d’ une feuille-reÂ ponse ouÁ ils
+eÂ crive nt la reÂ ponse (phoneÂ tiquem ent, par deÂ faut).
+
+H y p o t h eÁ s e s
+H y p o th eÁ s e 1
+
+Par reÂ feÂ rence aux reÂ sultats empiriques
+rapporteÂ s dans notre revue de question nous
+eÂ mettons l’ hypotheÁ se 1 d’ une indeÂ pendance des
+meÂ m oires exacte et infeÂ rentielle.
+H y p o th eÁ s e 2
+
+L’ hypotheÁ se
+2
+concerne
+les
+possibl es
+diffeÂ rences individu elles. En effet, s’ il existe
+deux types de meÂ moire, les sujets peuvent avoi r
+des preÂ feÂ rences individuelles. Cette question des
+preÂ feÂ rences individu elles est certainement encore
+accentueÂ e par nos choix m eÂthodologiques: comme
+nous visions un pourcentage global de reÂ ussite de
+l’ ordre de 50 % , les questions seront, en moyenne,
+dif® ciles. En conseÂ quence certains eÂ leÁ ves, ne
+pouvant tout retenir, seront oblig eÂ s de faire un
+choix. Ceci nous condui t aÁ l’ hypotheÁ se 2 de
+diffeÂ renciation des sujets sur une balance Me±
+Mi. Cette hypotheÁ se 2 pourra eÃ tre, si ce n’ est
+testeÂ e, du m oins approcheÂ e en eÂ tudiant la
+normaliteÂ de la distribution des score s Me± Mi
+pour l’ ense mble des 140 sujets. Par exemple ,
+une distribution bimodale, av ec d’ un c oÃteÂ les
+bons ``raisonneurs’ ’ (caracteÂ riseÂ s par un score
+Me± Mi << 0) et de l’ autre les bons
+``meÂ m oriseurs’ ’ (caracteÂ riseÂ s par un score Me±
+Mi >> 0), con® rmerait l’ existence de diffeÂ rences
+individuelles.
+H y p o th eÁ s e 2 s
+
+En cas de con® rmation de cette hy potheÁ se 2,
+une hypotheÁ se subseÂ quente explicative peut eÃ tre
+formuleÂ e si l’ on se reÂ feÁ re aÁ la litteÂ rature sur les
+diffeÂ rences de traitement cognitif entre sexes. En
+effet et d’ une part, la supeÂ rioriteÂ des ® lles dans les
+capaciteÂ s verbales eÂ tait deÂ jaÁ consideÂ reÂ e comme
+bien eÂ tablie dans l’ ouvrage, longtemps de
+
+118
+
+FISCH ER
+
+reÂ feÂ rence, de Maccoby et Jac klin (1974). Elle
+continue aÁ eÃ tre documenteÂ e (e.g. Temple &
+Cornish, 19 93) et s’ ac corde avec la seule
+diffeÂ rence entre se xes que nous avons nousmeÃ mes trouveÂ e dans nos recherches sur le
+deÂ veloppement
+numeÂ riqueÐ aÁ
+savoi r
+une
+meilleure reÂ citation de la suite verbale des mots
+de nombres (``Un, deux, trois, . . .’ ’ ) chez les ® lle s
+(c f. Fischer, 1984). D’ autre part, la supeÂ rioriteÂ de s
+garcË ons dans le raisonnem ent matheÂ matique a eÂ teÂ
+souligneÂ e dans la syntheÁ se reÂ cente de Kimura
+(1992) et continue elle aussi aÁ eÃ tre documenteÂ e
+(e .g. Low & Over, 19 93; Mills et al., 19 93). Ce
+constat doubl e condui t alors aÁ l’ hypotheÁ se, que
+nous noterons 2s aÁ la fois pour rappeler qu’ elle
+est subseÂ quente et qu’ elle porte sur une diffeÂ rence
+entre sexes, d’ une supeÂ rioriteÂ algeÂ brique des
+scores Me± Mi des ® lles. Si nous arrivions au
+pourcentage global de 50 % de reÂ ponse s
+correc tes pour chacun des deux types de
+meÂ moire, l’ hy potheÁ se 2s se traduirait par Me±
+Mi > 0 pour les ® lles et Me± Mi < 0 pour les
+garcË ons.
+H yp o t h eÁ s e 3
+
+En® n, l’ hypotheÁ se 3 est deÂ riveÂ e du postulat
+PDup
+selon
+lequel
+les
+connaissanc es
+proceÂ durales
+(fondamentalement
+impliqueÂ e s
+dans le raisonnem ent) sont davantag e se nsibles aÁ
+l’ amorcË age que les connais sances deÂ clarativ e s (la
+meÂ moire exacte). Une conseÂ quence de ce postulat
+est que le score Me± Mi devrait diminuer
+(algeÂ briquement) entre le texte preÂ senteÂ en
+prem ier et les cinq autres textes.
+
+R eÂ s u lta ts e t c o m m e n t a ir e s
+G eÂ n eÂ r a lit eÂ s
+
+Pour toutes les questions le codag e est binaire.
+Il est ``seÂ veÁ re’ ’ dans le sens ouÁ , pour les questions
+Me, toute reÂ ponse partielle (e.g. ``fe rme’ ’ aÁ la
+place de ``ferme-auberge’ ’ ) est codeÂ e comme un
+eÂ c hec, et, pour les questions Mi, tout calcul sans
+
+3
+
+reÂ ponse (e.g. 200 + 200 + 200 + 50 aÁ la place de
+650) est eÂ galem ent codeÂ comm e un eÂ chec.
+L’ objectif viseÂ Ð aÁ savoir atteindre pour chaque
+type de meÂ moire 50% de reÂ ponses correctesÐ a
+presque eÂ teÂ atteint. En effet, nous avons obtenu
+53.3% (respectivement 57.8 % ) de reÂ ponses
+correctes aux questions Mi (respectivement Me).
+NeÂ anm oins, il faut souligne r que la diffeÂ rence de
+reÂ ussite entre les questions Me et Mi est
+signi® cative: t(139) = 2.41 8, P = 0.017 , test
+bilateÂ ral.
+En revanche, pour les questions Me, le
+pourcentage
+des
+reÂ ponses
+correctes
+aux
+questions veÂ hiculant une information numeÂ rique
+(58.3 % ) ne diffeÁ re pas signi® cativement de celui
+(57.2 % ) aux questions non numeÂ riques: t(139) =
+0.47 9, P = 0.633, test bilateÂ ral.
+Le coef® cient de correÂ lation lineÂ aire r (=
+0.583) entre Mi et Me est positif et signi® catif
+(P < 0.01). Mais il e st important de voir qu’ un tel
+coef® cient ne re¯ eÁ te pas la deÂ pendance vraie entre
+les items Mi et Me. Le niveau d’ association intrataÃches qu’ il mesure devrait eÃ tre ajusteÂ par une
+mesure d’ association inter-taÃches, pour obtenir
+un coef® cient ajusteÂ (voir Brainerd & Reyna,
+1995, note 2). Malheureusement, nous ne
+disposons pas preÂ sentement d’ une telle mesure
+inter-taÃches.
+En® n, pour les questions Mia et Meb du texte
+V ILLAGE, i.e. les deux seules questions ouÁ il y a
+3
+possibiliteÂ de recouvrement des proce ssus mis en
+oeuvre pour reÂ pondre, nous devrions observer,
+logiquement, une deÂ pendance. Et, de fait, le
+croisement de ces deux questions, rapporteÂ dans
+le tableau 1, con® rme am plement cette preÂ diction
+logique .
+Non seulement la question Mia est
+2
+signi® cativement plus dif® cile que Meb ( c
+=
+20.1 67, P < 0.001 , meÂ thode de McNemar), mais
+nous avons bien une quasi-implication (cf. Gras &
+±
+Larher, 1992): indice d’ implication q(Mia, Meb)
+= 2 4.68 , P < 0.001 .
+Tous ces reÂ sultats, en particulier le dernier qui
+teÂ moigne du seÂ rieux avec leque l les eÂ leÁ ves ont
+reÂ pondu au test, sont aÁ peu preÁ s conformes aÁ ce
+que nous attendions. Les donneÂ es sem blent donc
+bien se preÂ senter en vue de la discussion de nos
+hypotheÁ ses.
+
+Il y a, en fait, une neÂ cessiteÂ logique. Mais, psychologiquement, un eÂ leÁ ve peut proceÂ der aÁ une infeÂ rence en cours
+d’ encodage du texte et, eÂ ventuellement, oublier la donneÂ e originale. Nous avons ainsi pu observer un eÂ leÁ ve qui a fourni la
+reÂ ponse 545 (= 544 + 1) aÁ la question Mia et 544 aÁ la question Meb. Cet eÂ leÁ ve semble avoir infeÂ reÂ la population du village
+en ® n d’ anneÂe (544 = 543 + 1) en cours d’ encodage, la nouvelle population ``effacË ant’’ l’ ancienne (543); comme il ne se
+souvenait alors plus que de cette population infeÂ reÂ e, il lui a appliqueÂ l’ augmentation de 1 pour trouver 545.
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+T A BLEA U 1
+C ro is e m e n t d es d e u x s e u le s q u es tio n s lo g iq u e m en t
+d eÂ p e n d an tes
+
+Questio n M eb
+
+Texte VILLAGE
+
+ReÂ ussite
+
+Echec
+
+ReÂ ussite
+
+46
+
+1
+
+Echec
+
+23
+
+70
+
+(cf. Annexe 1)
+Question Mia
+
+H yp o t h eÁ s e 1 : in d eÂ p e n d a n c e d e M i
+et M e
+
+Pour eÂ tudier l’ indeÂ pendance, nous avons traiteÂ
+les quatre questions poseÂ es, aÁ propos de chaque
+texte, comme deux paires successiv es. Ainsi,
+chaque paire contenant une question Mi et une
+question Me, nous pouvons deÂ ® nir les variable s
+binaires Me et Mi sur une paire: Me = 1
+(respectivement Mi = 1) si et seule ment si
+l’ eÂ leÁ ve a reÂ pondu correctement aÁ la question Me
+(respectivement Mi) de la paire, et Me = 0
+(respectivement Mi = 0) si et seule ment si
+l’ eÂ leÁ ve a reÂ pondu incorrectement aÁ la question
+Me (respectivement Mi) de la paire. Nous avons
+obtenu les nombres suivants : n(Mi& Me) = 602;
+±
+±
+±
+n(Mi& Me) = 29 3; n(Mi& Me) = 369 et n(Mi &
+±
+Me) = 416. On en deÂ duit les probabiliteÂ s sim ple
+P(Mi) = 0.533 et conditionnelle P (Mi|Me) = 0.620 .
+Ave c une telle supeÂ rioriteÂ (preÁ s de 9% ) de
+P(Mi|Me), obtenue ave c 1680 = 14 0 3 12 paire s
+d’ observations , il est presque m anifeste que H0
+peut eÃ tre rejeteÂ e.
+NeÂ anmoins, pour le con® rmer statistiquem ent,
+nous avons appliqu eÂ le traitement preÂ coniseÂ par
+Wickens (1993) . Ce dernier essaie de geÂ rer la
+variabiliteÂ
+inter-sujets par un calcul du
+coef® cient log odds ratio pour chaque sujet.
+Sous l’ hy potheÁ se H0 d’ indeÂ pendance des deux
+variables Mi et Me, la m oy enne des lo g odd s
+ratio s devrait eÃ tre nulle. Le calcul reÂ veÁ le qu’ elle
+est eÂ gale aÁ 0.491. Un test de Student (pour un
+
+groupe)
+con® rme
+qu’ elle
+est
+bien
+signi® cativement diffeÂ rente de 0: t(139) = 4.760,
+P < 0.000 1, test bilateÂ ral. En outre, le lo g odd s
+ratio eÂ tant un coef® cient de correÂ lation (qui varie
+de moins l’ in® ni aÁ plus l’ in® ni) pour deux
+variables dichotomique s, on peut aussi observer
+que la correÂ lation est positiv e.
+Pour veÂ ri® er si la variance inter-items peut
+``e xpliquer’’ notre reÂ sultat, aÁ savoir P(Mi|Me ) >
+P(Mi), nous avons construit le tableau 2: on peut
+y lire , pour chacun des six items, les probabiliteÂ s
+P(Mi|Me ) et P(Mi) et, dans les marges, les vale urs
+trouveÂ es pour ces meÃ m es probabiliteÂ s en
+combinant tous les textes et les diffeÂ rences
+P(Mi|Me )± P(Mi).
+Comme le montre le tableau 2, tous les six
+textes ont bien apporteÂ une contribution positiv e
+dans le sens de l’ hy potheÁ se. Plus geÂ neÂ ralement,
+notre expeÂ rience dans les classes nous convainc
+que tout texte bien adapteÂ au niveau des eÂ leÁ ves,
+i.e. ne conduisant pas aÁ un e ffet plancher ou
+plafond, donnera le meÃ me reÂ sultat. Nous ne
+pouvons donc gueÁ re croire que la deÂ pe ndance
+trouveÂ e soit ``accidentelle ’’ , i.e. due aÁ un choix
+treÁ s particulier des items.
+Ni la variance inter-items, que nous venons de
+controÃ ler, ni la variance inter-sujets, que nous
+avons geÂ reÂ e par notre traitement statistique, ne
+peuvent expliquer la deÂ pendance trouveÂ e. Nous
+pouv ons
+donc
+rejeter
+l’ hypotheÁ se
+d’ indeÂ pendance (hypotheÁ se 1) et consideÂ rer que
+la deÂ pendance du raisonne ment de la meÂ moire est
+stochastiquement prouv eÂ e.
+H y p o th eÁ s e 2 : n o n -n o r m a liteÂ d e s
+scores M e± M i
+
+En consideÂ rant le score Me± Mi comme une
+variable numeÂ rique continue, nous pouvons
+visualiser la distribution des scores sous forme
+d’ un histogramme (® gure 1). Cette visualisatio n
+permet de voir tout de suite que la distributio n
+n’ est pas parfaitement normale: si le coef® cient g 1
+= 2 0.05 6 de Fisher ne reÂ veÁ le pas d’ asymeÂ trie (la
+
+TA BLEA U 2
+P (M i|M e ) e t P (M i) en fon ctio n d u te xte
+
+Texte 1
+
+Texte2
+
+Texte 3
+
+Texte 4
+
+Texte 5
+
+Texte 6
+
+Ens
+
+P(Mi|Me)
+
+0.519
+
+0.632
+
+0.807
+
+0.590
+
+0.670
+
+0.415
+
+0.620
+
+P(Mi)
+
+0.432
+
+0.561
+
+0.789
+
+0.450
+
+0.611
+
+0.354
+
+0.533
+
++0.087
+
++0.071
+
++0.018
+
++0.140
+
++0.059
+
++0.061
+
++0.087
+
+ProbabiliteÂ
+
+DiffeÂ rence
+
+11 9
+
+120
+
+FISCH ER
+
+30
+25
+
+Effectif
+
+20
+15
+10
+5
+0
+Ð 8
+
+Ð 6
+
+Ð 4
+
+Ð 2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+MeÐ Mi
+F IG . 1 .
+
+Histogramm e des score s Me± M i
+
+distribution n’ est pas plus eÂ taleÂ e aÁ gauche qu’ aÁ
+droite), en revanche g 2 = 2 0.319 con® rme qu’ elle
+est trop aplati e (ou pas assez pointue).
+Le test de Lilliefors permet de rejeter
+l’ hy potheÁ se de normaliteÂ : D = 0.105, P < 0.01.
+Nous pouvons donc conclure que l’ hypotheÁ se 2
+s’ est assez bien con® rmeÂ e, i.e. que l’ on ne peut
+pas consideÂ rer la distribution des score s Me± Mi
+comme normale.
+Pour certains eÂ leÁ ves extreÃ mes de cette
+distribution,
+nous
+avons
+interview eÂ
+le s
+enseig nants conc erneÂ s. De manieÁ re preÂ cise, nous
+av ons proceÂ deÂ aÁ une telle interview pour les 12
+eÂ leÁ ves dont la diffeÂ rence de performance aux
+item s Me et Mi s’ est reÂ veÂ leÂ e (en valeur absolue)
+supeÂ rieure ou eÂ gale aÁ 5. Souvent, c es interview s
+con® rment alors que nos observations n’ ont rien
+d’ accidentel. Par exemple, l’ une des deux eÂ leÁ ve s
+qui ont contribueÂ au rectangl e + 7 de la ® gure 1, a
+eu un score de 7 (sur 12) aux items Me et un score
+de 0 (sur 12) aux items Mi. Voici un passage de
+l’ entretien avec sa maõÃ tresse de CM2:
+ExpeÂ rimentateur: ``Il s’ agirait de savoi r si c’ est
+une faiblesse du raisonnement ou une faiblesse
+geÂ neÂ rale? ’ ’
+MaõÃ tresse : ``Non (= ce n’ est pas une faiblesse
+geÂ neÂ rale): elle, c’ est le raisonnement. DeÁ s qu’ il y
+a le moindre raisonnement, il n’ y a plus rien.’ ’
+
+H y p o th eÁ s e 2 s : le s ® lle s o n t d e s
+s c o r e s M e ± M i s u p eÂ r ie u r s a u x
+g a r cË o n s
+
+En accord avec l’ hypotheÁ se, la moyenne des
+scores Me± Mi des ® lles (= 1.269) est
+signi® cativement supeÂ rieure aÁ celle (= 2 0.3 71)
+2 4
+des garcË ons: t(138) = 3.801 , P » 10 , test
+unilateÂ ral. Une analy se com pleÂ m entaire suggeÁ re
+que la distribution visualis eÂ e sur la ® gure 1 ciavant serait le reÂ sultat de la superposition de celle
+des ® lles (dont le mode est + 2) et de celle des
+garcË ons (dont le mode est 2 1).
+H y p o th eÁ s e 3 : M e ± M i d im in u e e n tr e
+le p r e m ie r te x te e t le s s u iv a n ts
+
+Le tableau 3 preÂ sente les pourcentages de
+reÂ ponses correctes en fonction du texte (initial
+ou non) et du type de meÂ moire (infeÂ rentielle ou
+exacte ). Comme on peut le voir, ils vont dans la
+direction preÂ dite: au premier texte, les eÂ leÁ ves ont
+un pourcentage moyen de reÂ ussite aux questions
+Me ne ttement supeÂ rieur (de 15% ) au pourcentage
+moyen de reÂ ussite aux questions Mi; mais ensuite,
+aux c inq derniers textes, alors que le pourcentage
+moyen de reÂ ussite aux questions Mi s’ accroõÃ t
+assez nettement (de plus de 9% ), celui aux
+questions Me deÂ croõÃ t un peu (de 3.5% ). En
+consideÂ rant les scores Me± Mi au premier texte
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+12 1
+
+TA BLEA U 3
+P o u rc e n ta g e d e reÂ p o n se s c o rr ec te s en fo n c tio n d u
+typ e d e m eÂ m o ire e t d e la p o s it io n d u te xte d an s le te s t
+
+% de ReÂ ponses correctes au(x)
+Type de
+meÂ moire
+Mi
+Me
+
+1
+
+er
+
+texte
+
+45.71
+60.71
+
+et aux cinq autres textes (moyennes), nous avons
+pu controÃ ler que la diffeÂ rence entre le premier
+texte et les cinq autres est bien signi® cative:
+t(139) = 3.032, P = 0.0014 , test unilateÂ ral.
+E X P EÂ R IE N C E S 2 S U R L E C A L C U L
+
+Pour des calculs mentaux relativ e ment complexe s
+(e .g. 22 + 16 + 8 = ? ; 45 + 97 + 22 2 63 2 14 + 67
+= ? ), Brainerd et Kingma (1984) remarquent qu’
+``il serait avantag eux pour le sujet de trouver de s
+chemins vers la solution qui n’ impliqueraient pas
+le stockage et la reÂ cupeÂ ration de traces deÂ tailleÂ e s
+de toute s les donneÂ es de base’ ’ (p. 325). La
+distinction des opeÂ rations additiv es (plus
+proceÂ durales) et des opeÂ rations multipli catives
+(plus deÂ clarativ es), condui t aÁ un prolong ement
+inteÂ ressant de cette loi d’ eÂ conom ie suggeÂ reÂ e par
+Brainerd et Kingma. Ce prolong ement fera l’ objet
+de notre hypotheÁ se 1; et les postulats PDup sur le
+sens et l’ amorcË age sont aÁ l’ origine de nos
+hypotheÁ ses 2 aÁ 3.
+
+E x p eÂ r ie n c e 2 a s u r l’a d d itio n e t la
+m u ltip lic a t io n
+D e s c r ip t io n
+
+Les sujets. Les sujets expeÂ rim entaux sont 122
+eÂ tudiants en psychologi e de Deug deuxieÁ m e anneÂ e
+et 107 en premieÁ re anneÂ e d’ IUFM. Ces eÂ tudiants
+ont accepteÂ de compleÂ ter un questionnaire,
+succinctement deÂ crit en Annexe 2, dans le cadre,
+respectivement, de travaux dirigeÂ s de statistique s
+et d’ un module de psychologi e, assureÂ s par
+l’ aute ur.
+En deÂ pit d’ un aÃge (22.57 ans, s = 4.84, contre
+24.2 8 ans, s
+= 4.09) et d’ une formation
+universitaire en m oyenne (un an contre trois)
+moins importants des premiers, un controÃle
+preÂ alabl e a montreÂ
+que la performance
+d’ ensemble moyenne des eÂ tudiants de Deug2
+
+5 autres textes
+(Erreur-Standard)
+54.79 (ES = 2.73)
+57.21 (ES = 2.40)
+
+(11.7 7 sur 16) n’ est pas signi® cativement
+diffeÂ rente de celle des eÂ tudiants d’ IUFM (12.02
+sur 16): t(227) = 1.051, P > 0.29, test bilateÂ ral. En
+conseÂ quence, nous avons regroupeÂ les deux
+eÂ chantillons :
+l’ eÂ chantillon
+expeÂ rimental
+comporte donc 229 sujets, d’ aÃge moyen 23.37
+ans ( s = 4.59 ; max = 46 .59, min = 18.47) . Les
+® lles y sont en surnombre: 18 6 contre 43 garcË ons.
+Le mateÂ riel. Comme on peut le voir en
+Annexe 2, les stimuli consistent en quatre
+addition s et quatre multipli cations: pour chaque
+addition de quatre nombres aÁ deux chiffres, tous
+les chiffres, aÁ l’ exception de 0 et 1, ont eÂ teÂ utiliseÂ s
+une et une seule fois (conseÂ quence: il n’ y a pas de
+double); pour chaque multiplication quatre
+chiffres diffeÂ rents ont eÂ teÂ utiliseÂ s, deux calculs
+conseÂ cutifs regroupant tous les chiffres de 2 aÁ 9
+(conseÂ quence: pas de 0, ni 1).
+Pour chaque calcul, deux questions sont
+proposeÂ es: la question (a) porte toujours sur le
+reÂ sultat du calcul, la question (b) sur la m eÂ moire
+des donneÂ es. La moitieÂ des questions (a), aussi
+bien que la moitieÂ des questions (b), a pour
+reÂ ponse Oui.
+La reÂ ponse fausse proposeÂ e en (a) est toujours
+un m ultiple de 10 choisi de manieÁ re aÁ pouvoi r
+tester la diffeÂ renciation de l’ effet de distance en
+fonction de l’ opeÂ ration arithm eÂ tique. Pour eÂ viter
+les effets de primauteÂ et de reÂ cence, les cibles
+proposeÂ es en (b) sont une fois l’ un des deux
+termes intermeÂ diaires, une fois l’ autre, pour
+l’ addition aussi bien que pour la m ultiplication .
+La passation. Nous avons nous-meÃ m es fait
+passer tous les tests durant les TD ou Cours
+mentionneÂ s ci-avant. Les eÂ tudiants passent le
+test c ollectivement avec
+l’ ensemble
+des
+camarades de leur groupe . Les sept groupes ont
+des effectifs pouvant aller de 23 pour le plus petit
+aÁ 47 pour le plus grand.
+
+122
+
+FISCH ER
+
+Dans trois des sept groupes les calculs sont
+preÂ senteÂ s dans l’ ordre qui apparaõÃ t dans
+l’ Annexe 2, i.e. d’ abord les Additions puis les
+Multipli cations (condition ApM). Dans les
+quatre autres groupes, les calculs sont preÂ senteÂ s
+dans l’ ordre inverse, i.e. les Multipli cations
+preÂ ceÁ dent les Additions (condition MpA).
+ApreÁ s de breÁ ves explications sur le but et la
+nature des questions (pour ces dernieÁ res voir le
+haut de Annexe 2), le s eÂ tudiants com pleÁ tent
+individuel lement un questionnaire de huit ligne s
+semblabl es aÁ c elle reproduite au bas de l’ Annexe
+2 et correspondant aux 8 3
+2 items.
+PreÂ alablement, on attire leur attention sur le fait
+que l’ objectif de l’ expeÂ rience est d’ obtenir un
+deÂ bordement de la meÂ moire de travai l et que
+certains auront donc des dif® culteÂ s: on leur
+conseille simplement d’ utilise r tous les moyens
+``leÂ gaux ’ ’ (il est interdit de copier ou de prendre
+des notes) pour faire de leur mieux. On le s
+preÂ vie nt aussi que les donneÂ es et questions ne
+seront pas relues et qu’ il faut donc une attention
+totale. En® n, on insiste sur le fait que le choix est
+forceÂ et qu’ en dernier recours ils doivent reÂ pondre
+4
+intuitivement ou au hasard.
+Pour le premier calcul (dans la condition
+ApM), nous lisons, sans temps d’ arreÃ t et aÁ une
+vitesse normale (pour du calcul mental): ``Premier
+Calcul: 87 plus 45 plus 92 plus 63’ ’ Ð cinq
+secondesÐ ``Question (a): Est-ce que le reÂ sultat
+est supeÂ rieur aÁ
+. . . ? ReÂ pondez’ ’ Ð deux
+secondesÐ ``Question (b): Est-ce que les
+donneÂ es contenaient . . . ? ReÂ pondez’ ’ . Il y a un
+petit temps d’ arreÃ t ( » 10sec) entre deux questions.
+Pour les calculs suivants la meÃ me proceÂ dure est
+reÂ peÂ teÂ e. Le sig ne `` 3 ’ ’ de la multiplication est lu
+``fois’ ’ .
+Il n’ y a pas d’ eÂ chauffement: avant la premieÁ re
+question, on preÂ cise simplement qu’ il s’ agit d’ un
+calcul, suivi cinq se condes apreÁ s de deux
+questions auxquelles il faut reÂ pondre ``Oui’ ’ ou
+``Non’ ’ .
+H yp o t h eÁ s e s
+
+HypotheÁ se 1. Outre les raisons theÂ oriques
+plus geÂ neÂ rales preÂ senteÂ es dans la partie sur les
+objectifs et pouvant fonder cette hypotheÁ se 1, on
+peut remarquer aussi que les additions , plus
+
+4
+
+proceÂ durales,
+devraient
+amoindrir
+la
+perform ance dans le test de reconnaissanc e en
+meÂ m oire car les proceÂ dures de calcul entraõÃ nent
+le stockage de reÂ sultats intermeÂ diaires qui peuvent
+conduire aÁ l’ effacement des donneÂ es initiales.
+Pour la multipli cation, ouÁ il devrait davantage y
+avoi r de reÂ cupeÂ rations directes aÁ partir des
+donneÂ es, ces dernieÁ res devraient mieux se
+conserver
+en
+meÂ moire
+de
+travail .
+En
+conseÂ quence, si Me deÂ signe la performance aux
+items de MeÂ moire et Mi celle aux items de calcul,
+les scores Me± Mi pour l’ addition devraient eÃ tre
+Á taux
+infeÂ rieurs aÁ ceux pour la multipli cation. A
+global (calcul + meÂ m oire) de reÂ ussite comparabl e,
+l’ hypotheÁ se 1 preÂ dit des patterns inverses pour les
+addition s et m ultiplications: pour les prem ieÁ res,
+Mi devrait eÃ tre supeÂ rieur aÁ Me, alors que pour les
+secondes, Me devrait eÃ tre supeÂ rieur aÁ Mi.
+Hypoth eÁ se
+2. Les
+additions ,
+plus
+proceÂ durales, devraient, davantag e que les
+multipli cations , plus deÂ clarativ es, conduire aÁ la
+mise en oeuv re de proceÂ dures d’ approximation.
+En conseÂ quence, la supeÂ rioriteÂ des reÂ ponses
+eÂ videntes (i.e. lorsque les valeurs proposeÂ e s pour
+la comparaison s’ eÂ cartent de plus de 20% du
+reÂ sultat exact) sur les reÂ ponses moins eÂ videntes
+(i.e. lorsque les valeurs proposeÂ es pour la
+comparaison s’ eÂ cartent de moins de 5% de la
+reÂ ponse exacte) devrait davantage apparaõÃ tre
+pour les additions que pour les multiplications.
+HypotheÁ se 3. Lorsque les additions , plus
+proceÂ durales, sont proposeÂ es en prem ier, il se
+produit, davantag e que pour les multipli cations,
+un amorcË ag e ou une activation de la meÂ m oire
+proceÂ durale. En conseÂ quence, la condition ApM
+devrait, comparativ em ent aÁ la condition MpA,
+favoris er le calcul au deÂ triment de la
+reconnaissanc e en meÂ moire. Autrement dit, dans
+la condition ApM, les scores Me± Mi devraient
+eÃ tre infeÂ rieurs aÁ ceux dans la condition MpA.
+R eÂ s u lta ts
+
+GeÂ neÂ raliteÂ s. Dans cette taÃche de veÂ ri® cation,
+nous visions un pourcentage global de reÂ ussite de
+75% , aÁ la fois pour eÂ viter l’ effet plafond et pour
+eÂ carter le risque de reÂ ponse (geÂ neÂ rale) au hasard.
+
+En conseÂ quence, et parce que nous avons insisteÂ sur le fait que choix eÂ tait forceÂ , il n’ y a eu qu’ un faible nombre de
+valeurs manquantes: 7 sur 3664, soit moins de 0.2% . Pour faciliter les traitements, nous avons remplaceÂ arbitrairement ces
+valeurs manquantes par la reÂ ponse la plus freÂ quente dans l’ ensemble de la population aÁ l’ item concerneÂ .
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+En outre, nous espeÂ rions d’ une part que la
+performance aux items Me soit sensiblement
+eÂ quivalente aÁ celle aux items Mi, d’ autre part
+que
+la performance
+aux
+additions
+soit
+sensiblement
+eÂ quival ente
+aÁ
+celle
+aux
+multipli cations.
+Dans l’ ensem ble, les reÂ sultats obtenus n’ ont
+pas deÂ cË u nos e spoirs: le pourcentage geÂ neÂ ral de
+reÂ ussite est de 74 .29% ; le pourcentage de reÂ ussite
+aux
+items
+Me
+(75.38 % )
+n’ est
+pas
+signi® cativement {t(228) = 1.529 ; P = 0.1275 ,
+test bilateÂ ral} supeÂ rieur aÁ celui aux items Mi
+(73.20% ); le pourcentage de reÂ ussite aux item s
+d’ addition (74.67% ) n’ est pas sig ni® cativem ent
+{t(228) = 0.544; P = 0.5869, test bilateÂ ral}
+supeÂ rieur aÁ celui aux items de multipli cation
+(73.91 % ).
+C ependant, les 101 eÂ tudiants de la condition
+ApM se sont aveÂ reÂ s, globalement et en
+moyenne, infeÂ rieurs aux 12 8 de la condition
+MpA: t(227) = 2.377 , P = 0.0183, test bilateÂ ral.
+En outre, le coef® cient de correÂ lation lineÂ aire
+entre le s scores Me et Mi ne m anque pas
+d’ eÂ tonner par sa modiciteÂ : r = 0.031. Il est
+certes positif, mais pas du tout signi® catif (P >
+0.10, test bilateÂ ral).
+Hypoth eÁ se 1: le s scores Me± Mi pour l’ additio n
+sont
+infeÂ rieurs
+aÁ
+ceux
+pour
+la
+multiplication . Pour l’ addition le nombre total
+des reÂ ponses correctes aux items Me (= 66 2) est
+infeÂ rieur au nombre total des reÂ ponses correcte s
+aux items Mi (= 706). En revanche, pour la
+multipli cation le pattern e st inverse: le nombre
+total des reÂ ponses correctes aux items Me (=
+719) est supeÂ rieur au nombre total des reÂ ponse s
+correc tes aux items Mi (= 635). La diffeÂ rence (=
+0.559) entre les moyennes des scores Me± Mi aux
+multipli cations et aux additions est signi® cative:
+2 4
+t(228) = 5.195, P < 10 , test unilateÂ ral.
+HypotheÁ se 2: l’ effet de distance affecte
+davantag e
+les
+additions
+qu e
+les
+multiplications . C ette hypotheÁ se ne concerne
+bien entendu que le s items Mi. Les addition s
+pour lesquelles la valeur aÁ comparer s’ eÂ carte de
+plus de 20 % de la reÂ ponse juste ont conduit aÁ un
+nombre total de 41 1 reÂ ponses correcte s, alors que
+les additions pour lesquelles la valeur aÁ comparer
+s’ eÂ carte de m oins de 5% de la reÂ ponse juste n’ en
+ont engendreÂ que 295. Certes, les multipli cations
+pour lesquelles la valeur aÁ comparer s’ eÂ carte de
+plus de 20% de la reÂ ponse juste ont elles aussi
+
+12 3
+
+engendreÂ plus de reÂ ponse s correctes (344) que les
+multipli cations pour lesquelles la valeur aÁ
+compare r s’ eÂ carte de moins de 5% de la reÂ ponse
+juste (291); mais la supeÂ rioriteÂ des premieÁ res est
+moins nette que dans le cas des additions. En
+notant C20% (respectivement C5% ) le nombre
+de reÂ ponses correctes aux calculs pour lesquels
+la valeur aÁ com pare r s’ eÂ carte de 6
+20%
+(respectivement 5% ) de la reÂ ponse juste, nous
+avons controÃleÂ que les scores C20% ± C5% pour
+l’ addition diffeÁ rent signi® cativement des scores
+C20% ± C5% pour la multiplication: t(228) =
+3.28 7, P = 0.0006, test unilateÂ ral.
+Hypoth eÁ se 3: dans la conditio n addition en
+premier, les scores Me± Mi sont infeÂ rieurs. Les
+101 eÂ tudiants de la c ondition ApM ont obtenu une
+moyenne de 0.06 9 pour les scores Me± Mi. Les
+128 eÂ tudiants de la c ondition MpA ont obtenu une
+moyenne (= 0.258 ) leÂ geÁ rement supeÂ rieure. La
+diffeÂ rence n’ est pas signi® cative: t(227) = 0.819,
+P = 0.2068 , test unilateÂ ral.
+C o n c lu s io n s
+
+Les hypotheÁ ses 1 et 2 se sont con® rmeÂ es
+clairement. L’ hy potheÁ se 3 ne s’ est pas
+con® rmeÂ e, mais le reÂ sultat va neÂ anmoins dans la
+direction preÂ dite. En® n, la correÂ lation entre les
+perform ance s aux items Me et celle aux items
+Mi est pre sque nulle.
+
+E x p eÂ r ie n c e 2 b s u r le s q u a t r e
+o p eÂ r a tio n s
+
+L’ expeÂ rience 2b s’ apparente aÁ l’ expeÂ rience 2a. Si
+nous tenons aÁ la rapporter brieÁ vement ce n’ est pas
+tellement parce qu’ elle apporte des eÂ leÂ ments
+nouveaux, mais surtout parce qu’ elle permet
+d’ obvier aÁ
+une faiblesse de l’ approche
+preÂ ceÂ dente, aÁ savoir le manque de varieÂ teÂ des
+calculs proposeÂ s. Dans cette perspective de
+geÂ neÂ ralisation,
+nous
+avons
+introdui t
+les
+soustractions et les divisions: nous parlerons
+doreÂ navant d’ opeÂ rations additiv es (addition et
+soustraction) et m ultiplicatives (multipli cation et
+division). Com me
+les reÂ sultats geÂ neÂ raux
+suggeÁ rent que les donneÂ es obtenues dans cette
+deuxieÁ me expeÂ rience sur le calcul sont moins
+bien adapteÂ es aÁ l’ exam en de nos hypotheÁ ses,
+nous pouvons aussi eÂ prouver la robustesse des
+reÂ sultats de l’ expeÂ rience 2a.
+
+124
+
+FISCH ER
+
+D e s c r ip t io n
+
+Les sujets. Les sujets expeÂ rim entaux sont 227
+eÂ tudiants de psychologi e de Deug premieÁ re anneÂ e
+d’ aÃge moyen 20.76 ans ( s = 2.87; max = 43 .88,
+min = 17.66), av ec une large sur-repreÂ sentation du
+sexe feÂ minin (202 ® lles contre 25 garcË ons).
+Le mateÂ riel. Comme on peut le voir en
+Annexe 2, les stimuli consistent en deux
+additions,
+deux
+soustractions,
+deux
+multipli cations et deux divisions: pour les deux
+additions, de quatre nom bres aÁ deux chiffres
+chacune, tous les chiffres, aÁ l’ exception de 0 et
+1, sont utiliseÂ s une et une seule fois; pour chaque
+soustraction impliquant trois nombres aÁ trois
+chiffres, les neuf chiffres ( ¹ 0) sont utiliseÂ s une
+et une seule fois; pour les deux multiplications, de
+quatre chiffres chacune, tous les chiffres de 2 aÁ 9
+sont utiliseÂ s une et une seule fois; en® n, pour le s
+deux divisions, impliquant chacune un dividende
+aÁ trois chiffres et deux diviseurs conseÂ cutifs aÁ un
+chiffre, chacun des 10 chiffres est utiliseÂ une et
+une seule fois.
+Le nombre proposeÂ , pour comparaison av ec la
+reÂ ponse exacte, aux items Mi {noteÂ s (a) en
+Annexe 2} est toujours un multipl e de 5. Il est
+choisi de manieÁ re aÁ
+pouvoir tester la
+diffeÂ renciation de l’ effet de distance en fonction
+de la nature Ð additiv e ou multipli cativeÐ des
+opeÂ rations arithmeÂ tiques. Pour eÂ viter les effets
+de primauteÂ et de reÂ cence, les cibles proposeÂ e s
+aux items Me {noteÂ s (b) en Annexe 2} sont le (ou
+l’ un des) terme(s) intermeÂ diaire(s) du calcul.
+La passatio n. La passation, collective pour
+tous les eÂ tudiants d’ un groupe de TD, a eÂ teÂ
+assureÂ e par deux collaborateurs de l’ auteur dans
+le cadre d’ un module de statistiques. Le nombre
+non uniforme des eÂ tudiants dans les sept groupe s
+de TD, et l’ affectation d’ une condition aÁ un
+groupe, ont, malheureusement, condui t aÁ un
+deÂ seÂ quilibre important des effectifs dans les
+deux conditions ApM (qui deÂ signe ici l’ ordre:
+Addition,
+Soustraction,
+Multipli cation
+et
+Division) et MpA (qui deÂ signe ici l’ ordre:
+Multipli cation,
+Division,
+Addition
+et
+Soustraction).
+H yp o t h eÁ s e s
+
+En remplacË ant ``additions ’ ’ (respectivement
+multipli cations) par ``opeÂ rations additives’ ’
+(respectivement multipli catives), nous pouvons
+
+reprendre presque textuellem ent les hypotheÁ ses
+de l’ expeÂ rience 2a preÂ ceÂ dente. Il nous paraõÃ t
+donc supe r¯ u de les reform uler.
+R eÂ s u lta ts
+
+GeÂ neÂ raliteÂ s. Dans l’ ensem ble, le s reÂ sultats
+paraissent moins bien adapteÂ s aÁ l’ analys e de nos
+hypotheÁ ses: le pourcentage geÂ neÂ ral de reÂ ussite est
+de 79.07 % ; le pourcentage de reÂ ussite aux items
+Me (91.46% ) est signi® cativem ent {t(226) =
+2 4
+17.5 05; P < 10 , test bilateÂ ral} supeÂ rieur aÁ
+celui aux items Mi (66.68% ); le pourcentage de
+reÂ ussite aux items additif s (80.73% ) est
+signi® cativement {t(226) = 2.640; P = 0.0089 ,
+test bilateÂ ral} supeÂ rieur aÁ celui aux items
+multipli catifs (77.42% ); les 15 1 eÂ tudiants de la
+condition ApM se sont aveÂ reÂ s, global ement et en
+moyenne, supeÂ rieurs aux 76 de la condition MpA:
+2 4
+t(225) = 4.062, P < 10 , test bilateÂ ral.
+Par ailleurs, le coef® cient de correÂ lation
+lineÂ aire entre les sc ores Me et Mi est positif,
+mais faible (r = 0.092) et non signi® catif (P >
+0.10, test bilateÂ ral).
+HypotheÁ se 1: les scores Me± Mi pour les
+opeÂ rations additives sont in feÂ rieurs aÁ ceux pour
+les opeÂ rations multipl icatives. La supeÂ rioriteÂ (=
+0.590) entre les moyennes des scores Me± Mi aux
+opeÂ rations multipli catives, comparativ ement aux
+opeÂ rations additiv es, est sig ni® cative: t(226) =
+2 4
+6.44 1, P < 10 , test unilateÂ ral.
+HypotheÁ se 2: l’ effet de distance affecte
+davan tage les opeÂ rations additives que les
+opeÂ rations multipl ic atives. En notant C 20%
+(respectivement C6.5% ) le nombre de reÂ ponses
+correctes aux calculs dont la valeur aÁ comparer
+s’ eÂ carte de 6 20% (respectivement 6.5% ) de la
+reÂ ponse juste, les scores C20% ± C6.5% pour les
+opeÂ rations additiv es sont signi® cativement
+supeÂ rieurs aux sc ores C 20% ± C6.5% pour les
+opeÂ rations multipli catives: t(226) = 4.888, P <
+2 4
+10 , test unilateÂ ral.
+Hypoth eÁ se 3: dans la conditio n opeÂ ration s
+additives en premier, les sc ores Me± Mi sont
+in feÂ rieurs. La moyenne (= 1.894 ) du score
+Me± Mi dans la condition ApM n’ est pas
+signi® cativement infeÂ rieure aÁ celle (= 2.158)
+dans la condition MpA: t(225) = 1.10 0, P =
+0.1363, test unilateÂ ral.
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+C o n c lu s io n s
+
+Le pattern geÂ neÂ ral des reÂ sultats est identique aÁ
+celui de l’ expeÂ rience 2a: les hypotheÁ ses 1 et 2 se
+sont clairement con® rmeÂ es: l’ hy potheÁ se 3 ne s’ est
+pas con® rmeÂ e, mais le reÂ sultat va bien dans la
+direction preÂ vue; en® n, la correÂ lation entre les
+performances Me et Mi est un peu plus forte,
+mais pas non plus signi® cative.
+D IS C U S S IO N S E T C O N C L U S I O N S
+
+Dans cet article nous avons regroupeÂ deux
+recherchesÐ l’ une
+sur
+le
+raisonnement
+arithmeÂ tique,
+l’ autre
+sur
+le
+calculÐ non
+seulement parce qu’ elles conc ernent le meÃ me
+domaine (numeÂ rique) et utilisent une meÃ me
+approche meÂ thodologique, mais aussi parce
+qu’ elles permettent de tester, sur deux mateÂ riels
+numeÂ riques diffeÂ rents, certains postulats du
+modeÁ le PDup (Fisc her, 1992). Ces deux
+recherches nous ont am eneÂ s aÁ interroger plus
+d’ un demi-m illier de sujets, aÁ la fois sur des
+donneÂ es directement contenues dans les eÂ nonceÂ s
+qui leur ont eÂ teÂ fournis et sur des donneÂ es qui
+peuvent eÃ tre infeÂ reÂ es de ces derniers. Ceci
+devait nous permettre de savoi r si les sujets se
+souvenant exactement ou compleÁ tement des
+donneÂ es sont aussi ceux qui font les meilleurs
+infeÂ rences
+ou
+calculs
+(eÂ ventuellement
+approximatifs ). Avec cette meÂ thodologi e, nous
+pouvion s notamment approcher la question de
+l’ indeÂ pendance entre raisonnement et meÂ moire.
+En manipulan t l’ ordre de preÂ sentation des items,
+nous avons pu tester aussi l’ hy potheÁ se selon
+laquell e les connaissanc es proceÂ durales seraient
+davantag e sensibles aÁ l’ amorcË age (indirect) que
+les connaissances deÂ clarativ es. En® n, le choix
+du m ateÂ riel num eÂ rique devait nous permettre de
+deÂ tecter, le cas eÂ cheÂ ant, une diffeÂ renciation de
+l’ effet de distance suivant la natureÐ additiv e ou
+multipli cativeÐ des opeÂ rations arithm eÂ tiques.
+Ajoutons aÁ cela que notre objec tif n’ eÂ tait pas,
+en revanche, de discuter de manieÁ re geÂ neÂ rale de s
+modeÁ les de l’ arithmeÂ tique: nous avons tout aÁ fait
+conscience que nombre d’ autres modeÁ les
+arriveraient certainement aÁ expliquer certaines
+de nos observations . Nous pensons en particulier
+aux modeÁ les qui distinguent de ux types de
+
+5
+
+12 5
+
+traitem ents numeÂ riques, par exemple analogiqu e
+et digital (Dehaene & C ohen, 1991), ou
+analogiqu e e t arithmeÂ tique (Brissiaud, 19 94).
+En reÂ ponse au pre mier pointÐ l’ indeÂ pe ndance
+du raisonnement et de la meÂ m oireÐ l’ expeÂ rience
+1 sur le raisonnement arithmeÂ tique des eÂ leÁ ves de
+Cours Moyen a condui t aÁ une reÂ ponse neÂ gativ e.
+En effet, et c ontrairem ent aÁ ce que preÂ voit
+l’ hypotheÁ se d’ indeÂ pendance, nous avons trouveÂ
+une deÂ pendance du raisonnement de la m eÂ moire
+non
+seulem ent
+sig ni® cative,
+mais
+aussi
+relativ ement
+importante.
+La
+diffeÂ rence
+P(Mi|Me )± P(Mi) » 0.09, qui atteste de cette
+importance, doit en effet eÃ tre vue aÁ la lumieÁ re
+des contraintes matheÂ m atiques qui s’ exercent sur
+5
+elle et qui limitent son c hamp de variation.
+Cependant, aÁ la fois la seÂ veÂ riteÂ du test, quelques
+probleÁ mes
+meÂ thodologiques
+et
+quelques
+observations secondaires nous oblig ent aÁ
+nuancer notre reÂ sultat statistique.
+Parm i les observations secondaires, rappelons
+la non-normaliteÂ de la distribution des score s Me±
+Mi et, peut-eÃ tre sous-jacente aÁ cette dernieÁ re, la
+diffeÂ rence entre sexes. Cette diffeÂ rence entre
+sexes est compatibl e aÁ fois avec les diffeÂ rences
+individuelles postuleÂ es par Reyna et Brainerd
+(1991) et avec l’ hypotheÁ se d’ indeÂ pendance:
+si
+la
+meÂ moire
+infeÂ rentie lle
+deÂ pendait
+fondamentalem ent de la meÂ moire exacte des
+donneÂ es, les garcË ons, infeÂ rieurs au test de
+meÂ m oire exacte, n’ auraient pas pu eÃ tre
+supeÂ rieurs en raisonnement!
+Il c onvient aussi de preÂ ciser que ce prem ier
+reÂ sultat ne peut gueÁ re eÃ tre interpreÂ teÂ comme une
+discon® rmation de la theÂ orie des traces ¯ oues de
+Brainerd et colleÁ gues. Ces derniers avai ent en
+effet entrevu cette particulariteÂ des probleÁ mes
+arithmeÂ tiques simples. Ainsi, Reyna (1992)
+souligne-t-elle que lorsqu’ on propose aux sujets
+un probleÁ me de la forme ``si vous avez cinq
+gaÃteaux et si j’ en ai trois, combien en avons nous ensemble? ’ ’ , le ``gist’ ’ relationne l (``J’ ai
+plus de gaÃteaux que vous’ ’ ), le ``gist’ ’ nominal
+(``J’ ai beaucoup de gaÃteaux’ ’ ), et d’ autres
+formes d’ information synoptique, ne peuvent
+servir de support au raisonnement. En
+conseÂ quence, continue R eyna, si le paradigme
+de la sonde en m eÂmoire est employeÂ avec des
+probleÁ mes d’ arithmeÂ tique mentale, la theÂ orie des
+
+Comme il s’ agit de contraintes purement matheÂ matiques, elles sont tout aÁ fait identiques aÁ celles que Hintzman
+(1991) a deÂ gageÂ es pour deux autres (le rappel et la reconnaissance) taÃches de meÂ moire.
+
+126
+
+FISCH ER
+
+traces
+¯ oues
+preÂ dit
+des
+deÂ pendances
+raisonnem ent/meÂ moire prononceÂ es car un deÂ faut
+de meÂ moire exacte affecte la performance
+arithmeÂ tique aussi bien que la perform ance au
+test de m eÂmoire. Au demeurant, dans leur
+expeÂ rience 2 ouÁ les jeunes sujets (six et neuf
+ans) recË oivent pour instruction d’ essayer de bien
+comprendre les donneÂ es, Reyna et Kiernan (1994)
+ont observeÂ empiriquement une deÂ pendance
+positiv e entre la meÂ moire exacte des donneÂ es et
+un raisonne ment de transitiviteÂ sur ces donneÂ es.
+En outre, les correÂ lations quasiment nulles entre
+meÂ moire et calcul, obtenues dans notre seconde
+recherche, sont parfaite ment en accord av ec
+l’ hy potheÁ se d’ indeÂ pendance entre meÂ moire
+exacte et meÂ moire infeÂ rentielle (ou de
+l’ essentiel). En® n, aÁ propos de cette absence de
+correÂ lation, remarquons qu’ elle s’ accorde avec la
+theÁ se reÂ c ente de Logie et al. (1994) selon laquelle
+les c alculs approcheÂ s seraient l’ oeuvre de
+meÂ canismes qui sont, au moins en partie,
+indeÂ pendants des systeÁ mes neÂ cessaires pour
+l’ exactitude.
+La plupart des autres hypotheÁ ses reposaient sur
+la diffeÂ renc e entre opeÂ rations additiv es et
+opeÂ rations multiplicatives. Dans notre seconde
+recherche, l’ hypotheÁ se 1Ð qui af® rme que la
+diffeÂ rence entre la performance en MeÂ moire
+exacte et celle en MeÂ moire infeÂ rentielle devrait
+eÃ tre plus forte pour les structures multipli cative s
+(plus deÂ claratives) que pour les structures
+additiv es (plus proceÂ durales)Ð et l’ hypotheÁ se
+2Ð qui af® rme que l’ effet de distance affecte
+davantag e les opeÂ rations additiv es que les
+opeÂ rations multipli cativesÐ se sont con® rmeÂ e s
+sans ambiguõÈ teÂ. Par ailleurs, m eÃme si les
+hypotheÁ ses 3 sur l’ amorcË age n’ ont pas eÂ teÂ
+con® rmeÂ es statistiquement (dans la recherche
+sur le calcul), les reÂ sultats vont toujours dans la
+direction preÂ dite par la theÂ orie. Avant de c onclure
+sur l’ importance de la distinction des opeÂ rations
+arithmeÂ tiques,
+commentons
+encore
+la
+con® rmation de l’ hy potheÁ se 2.
+Nous pouvons opeÂ rer un rapprochement entre
+notre effet de distance et l’ effet de split
+initial ement mis en eÂ vidence dans le domaine du
+calcul arithmeÂ tique par Ashcraft et B attagli a
+(1978; voir aussi Ashcraft, 1992 ) et plusieurs
+fois retrouveÂ depuis (e.g . Allen et al., 19 92;
+pour revue, voir Fischer, 1988) . Le plus souvent,
+l’ effet a eÂ teÂ observeÂ sur des calculs eÂ leÂ mentaire s
+et par la mesure des Temps de R Âeponse. Ici il a eÂ teÂ
+observeÂ par une mesure de l’ exactitude du
+jugement d’ ineÂ galiteÂ s plus complexes. Mais
+
+c’ est surtout le fait que cet effet peut eÃ tre
+diffeÂ rencieÂ
+en fonction de la nature des
+opeÂ rations arithmeÂ tiques qui constitue la
+principale originaliteÂ
+de notre travail. La
+deÂ monstration que, toutes choses comparabl es
+par ailleurs, l’ effet de distance affecte davantag e
+les opeÂ rations additiv es (addition , soustraction)
+que
+les
+opeÂ rations
+multiplicatives
+(multipli cation, division) constitue, nous semblet-il, une premieÁ re.
+Tous ces derniers reÂ sultats plaident donc en
+faveur de l’ importance d’ une diffeÂ renciation des
+opeÂ rations arithm eÂ tiques en fonction de leur
+natureÐ additiv e
+ou
+multipli cative.
+Cette
+diffeÂ renciation est eÂ tayeÂ e aussi par un exam en
+de son ontogeneÁ se. On sait en effet que les
+structures additiv es se deÂ veloppent treÁ s toÃ t chez
+les enfants (e.g. Starkey, 1992; Wynn, 1992) et
+treÁ s longuement (e.g. Fischer, 1987). En revanc he,
+l’ apprentissageÐ souve nt scolaireÐ des structures
+multipli catives est be aucoup plus ramasseÂ dans le
+temps (e.g. Fische r, 19 92). Si l’ on accepte alors
+l’ hypotheÁ se que la manieÁ re dont les habileteÂ s et
+inform ations ont eÂ teÂ
+initial ement acquises
+in¯ uence fortement la manieÁ re dont le cerveau
+les
+stocke,
+on
+voit
+bien
+que
+notre
+diffeÂ renciation, assez isoleÂ e dans la litteÂ rature ,
+paraõÃ t neÂ anmoins solidement fondeÂ e.
+
+R EÂ F EÂ R E N C E S
+Alle n,
+P.A.,
+Ashcraft,
+M.H.,
+&
+Weber,
+T.A. (1992) . On mental multiplication and ag e.
+Psychology and Aging, 7, 536± 545.
+Anderson,
+J.R. (1983) . The
+architec ture
+of
+cogni tion.Cambridge, MA: Harvard University
+Press.
+Anderson, J.R. (1 993). Rules of the mind. Hillsdale,
+NJ: Erlbaum.
+Ashcraft, M.H. (1982) . The development of mental
+arithme tic:
+A
+chronometric
+approach.
+Dev elopmental Rev iew , 2, 213± 236.
+Ashcraft, M.H. (1992) . Cognitive arithmetic: A
+review of data and theory. Cognition, 44 , 75± 10 6.
+Ashcraft, M.H., & Battag lia, J. (1 978). Cognitive
+arithme tic: Evidence for retrieval and decision
+proce sses in mental addition. Journ al of
+Experimental Psycholog y: Human Learning an d
+Memory, 4, 52 7± 538.
+Brainerd, C.J., & Gordon, L.L. (1994) . Development
+of verbatim and gist memory for numbers.
+Dev elopmental Psyc hology, 30, 1 63± 177.
+Brainerd, C.J., & Kingma, J. (1984) . Do children have
+to remember to reason? A fuzz y-trace theory of
+transitivity deve lopment. Developmental Rev iew,
+4, 311 ± 377.
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+Braine rd, C.J., & Reyna, V.F. (199 0 ). Inclusion
+illusions: Fuzzy-trac e theory and perceptual
+salience
+effects
+in cognitive
+development.
+Developmental Review, 10, 3 65± 403.
+Braine rd, C.J., & Reyna, V .F. (1992) . Explaining
+``memory free’’ reasoning. Psychological Science,
+3 , 332± 339 .
+Braine rd, C.J., & Reyna, V.F. (1 993). Memory
+independence
+and
+me mory
+interference
+in
+cognitive development. Psychologica l Review,
+1 00, 42± 67 .
+Braine rd,
+C.J.,
+&
+Rey na,
+V .F.
+(199 5).
+Autosugg estibility
+in
+memory
+development.
+Cognitive Psychology, 28, 65± 101.
+Brissiaud, R. (199 4). Enseignement et deÂ veloppement
+des repreÂ sentations numeÂ riques chez l’ enfant:
+Penser les divers chemins vers le nombre. Paris 8:
+theÁ se de doctorat (non publieÂ e ).
+Campbell, J.I.D. (1994) . Architectures for numerical
+cognition. Cognition, 53, 1± 44.
+Dehae ne, S., & Cohen, L. (1991) . Tw o mental
+calculation systems: A case study of severe
+ac alculia
+w ith
+preserved
+approximation.
+Neuropsycholog ia, 29, 1045 ± 1 074 .
+Fischer, J.P. (198 4). La d eÂ nomination des nomb res
+p ar l’ enfant. Strasbourg: IREM.
+Fischer, J.P. (1987) . L’ automatisation des calculs
+eÂ leÂ mentaires aÁ
+l’ eÂ cole. Revue FrancË aise d e
+PeÂ dago gie, 8 0, 17± 24 .
+Fischer, J.P. (1988). La mesure
+des
+TR en
+arithmeÂ tique eÂ leÂ mentaire: SpeÂ ci® citeÂ s d’ une taÃche
+de veÂ ri® cation. In R . Duval (Ed.), Annale s d e
+Didactique et de Sc iences Cognitives: vol. 1 (pp.
+1 53± 178) . Strasbourg: IREM.
+Fischer, J.P. (1992) . Apprentissages numeÂ riqu es: la
+d istinction proceÂ d ural/deÂ clara tif. Nancy: Presses
+Universitaires.
+Fischer, J.P., & Pluvinage, F. (19 88). C omplexiteÂ s de
+compreÂ hension et d’ exeÂ cution des opeÂ rations
+arithmeÂ tiques
+eÂ leÂ mentaires.
+Recherches
+en
+Didactique des Math eÂ matiques, 9, 133± 154.
+Fisher, R.P., & Chandler, C.C. (199 1). Independence
+betw een recalling interev ent relations and speci® c
+eve nts. Journ al of Experimental Psychology:
+Learning, Memory, and Cognition , 17, 722± 733.
+Gras, R., &
+Larher, A. (199 2). L’ implication
+statistique, une nou velle meÂ thod e d’ an alyse d e
+d onneÂ es. Rennes: IREM.
+Heathcote, D. (1994) . The role of v isuo-spatial
+w orking memory in the me ntal addition of multidigit addends. CPC, 13, 207± 245.
+Hegarty,
+M.,
+May er,
+R.E.,
+&
+Monk,
+C.A. (1995) . Comprehension of arithmetic w ord
+problems: A comparison of successful and
+unsuccessful
+problem
+solvers.
+Jou rnal
+of
+Educationa l Psychology, 87, 1 8± 32.
+Hintzman, D.L. (19 80). Simpson’ s paradox and the
+analysis of memory retrieval. Psyc holog ical
+Review , 87 , 398± 410.
+Hintzman,
+D.L. (1991) . Contingency
+analyses,
+hypotheses, and artifac ts: Reply to Flexser and to
+Gardiner. Jou rnal of Experimenta l Psychology:
+Learning, Memory, and Cognition , 17, 341± 345.
+Hintzman, D.L., & Hartry, A.L. (1990) . Item effec ts
+
+12 7
+
+in
+recognition
+and
+fragment
+completion:
+Contingency relations vary for different subsets of
+words. Jou rnal of Experimental Psycho logy:
+Learning, Memory, and C ogn ition, 16, 955± 969 .
+Hitc h, G.J. (1 978). The role of short-term working
+memory
+in
+mental
+arithme tic.
+Cogni tive
+Psychology, 10, 302± 323 .
+Howe,
+M.L.,
+R abinowitz,
+F .M.,
+&
+Grant,
+M.J. (199 3). On measuring (in)dependence of
+cognitiv e processes. Psychologic al Review, 100,
+737± 747.
+Kimura, D. (1992) . Sex differences in the brain.
+Scienti® c American, 267, 8 0± 87.
+Logie,
+R.H.,
+Gilhooly,
+K.J.,
+&
+Wynn,
+V. (1994) . Counting on working memory in
+arithme tic problem solving. M emory & Cognition,
+22, 39 5± 410.
+Low, R., & Over, R. (1993) . Gender differences in
+solution of algebraic w ord problems containing
+irrelevant information. Jo urnal of Educationa l
+Psychology, 85, 331± 339 .
+Maccoby,
+E.E.,
+&
+Jacklin,
+C.N. (1974) . The
+psycho logy of sex differences. Stanford: University
+Press.
+Mayer, R.E. (1985) . Mathematical ability. In R.J.
+Sternberg (Ed.), Human abilities: an informationproc essing a pproa c h (pp. 127 ± 150) . New York:
+Freeman.
+Miller, K.F., & Paredes, D.R. (199 0 ). Starting to add
+worse: Effects of learning to multiply on children’ s
+addition. Cognition , 37, 2 13± 242.
+Mills,
+C.J.,
+Ablard,
+K.E.,
+&
+Stumpf,
+H. (1993) . Gender diffe rences in academically
+talented young students’ mathematical reasoning:
+Patterns across age and subskills. Journ al of
+Educatio nal Psychology, 85, 340± 346.
+Piag et, J., & Inhelder, B . (1 968). MeÂ moire et
+intelligenc e. Paris: PUF.
+Re yna, V .F. (1992) . Re asoning, reme mbering, and
+their
+relationship:
+Social,
+cognitive,
+and
+developmental issues. In M.L. How e, C.J.
+Brainerd & V.F. Reyna (Eds.), Dev elopment of
+long-term retention (pp. 1 03± 132) . New York:
+Springer-V erlag.
+Re yna, V .F., & B rainerd, C.J. (1991) . Fuzzy-trace
+theory and c hildren’ s acquisition of mathematical
+and scienti® c concepts. Learning and Individual
+Differenc es, 3, 27± 59.
+Re yna, V .F., & Kiernan, B. (1994) . De velopment of
+gist versus verbatim memory in sente nce
+recognition: Effects of lexical familiarity, semantic
+content, encoding instructions, and retention
+interval. Developme ntal Psychology, 30, 178± 191.
+Schumann-Hengsteler, R. (1993). Die
+B edeutung
+von Strategie n bei visuell-raÈumlichen Ge daÈchtnisleistungen von Vorschulkindern. Zeitschrift fuÈ r
+Entwicklungsp sychologie
+und
+PaÈ dago g ische
+Psychologie, XXV, 243± 252 .
+Seron, X. (1993). La neuropsycho logie cognitiv e.
+Paris: PUF.
+Siegler, R.S., & Engle, R.A. (1994). Studying c hange
+in developmental and neurospychological contex ts.
+CPC, 13, 321± 349.
+Sokol, S.M., McCloskey, M., Cohen, N.J., &
+
+128
+
+FISCH ER
+
+Aliminosa, D. (1991) . Cognitive representations
+and processes in arithme tic: Inferences from the
+performance of brain-damaged subje cts. Journ al of
+Experimental Psychology: Learn ing, Memo ry, and
+Cognition, 17 , 355± 3 76.
+Squire, L.R. (1 987). Memo ry a nd brain. New York:
+Oxford University Press.
+Squire, L.R., & Cohen, N.J. (1984) . Human memory
+and amne sia. In G. Lynch, J.L. McGaugh & N.M.
+Weinberger (Eds.), Neurobiology of learning and
+memory (pp. 3± 64). New York: Guilford.
+Squire, L.R., Know lton, B ., & Musen, G. (1993) . The
+structure and organization of memory. Annual
+Review of Psychology, 44 , 453± 495.
+Starkey, P. (1992) . The early deve lopme nt of
+numerical reasoning . Cognition , 43, 93± 126.
+Svenson, O. (1985) . Memory retrieval of answ ers of
+simple additions as re¯ ected in response latencies.
+Acta Psychologic a, 59, 285± 304.
+Swanson, H.L., Cooney, J.B., & B rock, S. (1993) . The
+in¯ uence of w orking memory and classi® cation
+ability on children’ s word problem solution.
+Journal of Experimental Child Psychology, 55,
+3 74± 395.
+Temple, C.M., & Cornish, K.M. (1993) . Re cognition
+memory for w ords and faces in schoolchildren: A
+female advantag e for w ords. British Journa l of
+Developmental Psychology, 11, 421± 426.
+Wickens, T.D. (1993) . Analysis of contingency tables
+w ith betwe en-subje cts variability. Psyc holog ical
+Bulletin, 113, 191 ± 204.
+Wynn, K. (199 2). Addition and subtraction by human
+infants. Natur e, 3 58, 749± 750.
+
+A N N E X E 1 : L E S S IX T E X T E S (E T
+Q U E S T IO N S ) D E L `E X P EÂ R I E N C E 1
+S U R L E R A IS O N N E M E N T
+A R IT H M EÂ T I Q U E
+Te x te 1 (v illa g e )
+
+Une ville est situeÂ e aÁ 50 0 m d’ altitude ; 300 m audessus on trouve encore un petit villag e de
+montagne. Au deÂ but de l’ anneÂ e 1992, ce village
+comptait 543 habitants . Durant l’ anneÂ e 1992, 18
+habitants ont deÂ meÂ nageÂ , alors que 19 personne s
+nouv elles venaient s’ install er dans ce joli village
+¯ euri avec des geÂ ranium s rose s. Toujours en
+1992 , il y a eu exactement le meÃ me nombre de
+naissances e t de deÂ c eÁ s dans ce villag e.
+(Mia)
+Combien le
+villag e
+compte-t-il
+d’ habitants aÁ la ® n de 1992?
+(Mea) Quelle sorte preÂ cise de ¯ eurs trouve-t-on
+dans le villag e ?
+(Mib) A quelle altitude se situe le villag e?
+(Meb) Combien le villag e
+comptait-i l
+d’ habitants au deÂ but de l’ anneÂ e 1992?
+
+Te x t e 2 ( a u t o r a il)
+
+Un autorai l jaune part de Luxembourg aÁ 6h 35 du
+matin. Il arrive en gare de Metz aÁ 7h. A Me tz, 60
+personnes descendent et 75 montent. Le train
+repart aÁ 7h 10 en direction de Nancy ouÁ il arrive
+aÁ 7h 45 .
+(Mea) D’ ouÁ l’ autorai l est-il parti?
+(Mia) ApreÁ s l’ arreÃ t aÁ la gare de Metz, combien
+y a-t-il de personnes de plus dans le train?
+(Meb) A quelle heure preÂ cise l’ autorai l est-il
+arriveÂ aÁ Nancy?
+(Mib) Combie n de temps le train s’ est-il arreÃ teÂ
+en gare de Metz?
+
+Te x t e 3 ( b o u la n g e r ie )
+
+Un m atin, je pars de chez moi av ec trois billets de
+200F dans m on portefeuille brun e t un billet de
+50F dans mon porte-monnaie noir. A la
+boulang erie j’ acheÁ te deux baguettes, trois
+croissants aux amandes et cinq au chocolat, le
+tout pour 30F. Je donne mon billet de 50 F pour
+payer et la boulang eÁ re m e rend la monnai e. Je
+rentre chez m oi pour prendre le petit deÂ jeuner.
+(Mia) Combien la boulang eÁ re m ’ a-t-e lle rendu
+d’ arge nt?
+(Mea) Quelle est la couleur de mon
+portefeuille?
+(Mib) Combien av ais-je d’ argent sur moi en
+partant?
+(Meb) C ombien de croissants aux amandes aije acheteÂ s?
+
+Te x t e 4 ( r a n d o n n eÂ e )
+
+Une association reÂ gionale propose la traverseÂ e des
+V osges, aÁ pied, durant l’ eÂ teÂ . Cette traverseÂ e
+repreÂ sente 100km et se deÂ roule sur cinq jours.
+Le deÂ part se fait aÁ Saverne le mardi 3 aouÃt aÁ 6h
+du matin, et l’ arriveÂ e aÁ Colmar le samedi 7 aouÃt
+vers 16h. Le prix est assez cher car, pour chaque
+participant et chaque jour, il faut payer: 110F pour
+l’ heÂ bergement, la nuit, dans une ferme-auberg e,
+50F pour le repas de midi, et 40F pour le repas du
+soir.
+(Mea) Quelle est la date compleÁ te (jour,
+numeÂ ro, mois) du deÂ part de la traverseÂ e des
+V osge s?
+
+Â TIQUE
+MEÂ MOIRES ET ARITHME
+
+(Mia) Combien, en moyenne, les participants
+doivent-ils faire de km par jour?
+(Meb) OuÁ se fait, durant la nuit, l’ heÂ bergem ent
+des participants?
+(Mib) A combie n revient une journeÂ e pour un
+participant?
+
+Te x te 5 (c in eÂ m a )
+
+Une salle de cineÂ ma, dont le plafond est tout blanc
+et les murs brun clair, comporte huit rangeÂ es de
+20 fauteuils recouverts d’ un tissu gris fonceÂ . Le s
+seÂ ances ont lieu aÁ 10h, 13h, 16h et 19h. Mercredi
+dernie r, pour la projection d’ un ® lm de Walt
+Disney, la salle eÂ tait comble pour les trois
+prem ieÁ res seÂ ances; m ais pour la dernieÁ re seÂ ance
+il n’ y avai t que 64 spectateurs.
+(Mia) Combie n y a-t-il de places dans cette
+salle de cineÂ ma?
+(Mea) Quelle est la couleur du tissu recouvrant
+les fauteuils?
+(Mib) Quel est toujours l’ intervall e de temps
+entre les deÂ buts de deux seÂ anc es?
+(Meb) Combien y avait-il de spectateurs aÁ la
+dernieÁ re seÂ anc e?
+
+Te x te 6 (m u s ic ie n s )
+
+Beethoven est neÂ en 1770 dans la ville de B onn,
+en Allemagne. Il a veÂ cu 57 ans, mais est devenu
+sourd deÁ s l’ anneÂ e 1800. Mozart, un autre grand
+compositeur de musique, est neÂ 14 ans avant
+Beethoven, aÁ Vienne, en Autriche, ouÁ Beethoven
+est deÂ ceÂ deÂ . Mozart n’ a veÂ cu que 35 ans.
+(Mea) Dans quelle ville est neÂ B eethoven?
+(Mia) En quelle anneÂ e est neÂ Mozart?
+(Meb) Combien d’ anneÂ es B eethoven a-t-il
+veÂ cu?
+(Mib) A quel aÃge Beethoven est-il devenu
+sourd?
+
+12 9
+
+A N N E X E 2: C A LC U L S*,
+Q U E S T IO N S * * E T M O D E D E
+R EÂ P O N S E D E S E X P EÂ R IE N C E S 2 A E T
+2B S U R L E C A L C U L
+(A ) C a lc u ls e t q u e s t io n s d e
+l’e x p eÂ r ie n c e 2 a
+
+(1) Calcul 1:
+supeÂ rieur
+38?
+(2) Calcul 2:
+supeÂ rieur
+(3) Calcul 3:
+supeÂ rieur
+(4) Calcul 4:
+supeÂ rieur
+
+29 + 34 + 78 + 65 (= 206): (a) est
+aÁ 200? ( 2 5% )***; (b) contient
+86 + 47 + 93 + 52 (= 278): (a) est
+aÁ 340? (+ 20 % ); (b) contient 93 ?
+48 + 62 + 35 + 79 (= 224): (a) est
+aÁ 230? (+ 5% ); (b) contient 52?
+93 + 56 + 87 + 24 (= 260): (a) est
+aÁ 200? ( 2 20% ); (b) contient 56?
+
+(5) Calcul 5: 7 3 4 3
+supeÂ rieur aÁ 540? (+
+(6) Calcul 6: 5 3 9 3
+supeÂ rieur aÁ 800? ( 2
+(7) Calcul 7: 3 3 8 3
+supeÂ rieur aÁ 850? (+
+(8) Calcul 8: 9 3 2 3
+supeÂ rieur aÁ 340? ( 2
+
+8 3 2 (= 448): (a) est
+20 % ); (b) contient 4?
+6 3 3 (= 810): (a) est
+5% ); (b) contient 6?
+5 3 7 (= 84 0) (a) est
+5% ); (b) contient 4?
+4 3 6 (= 432): (a) est
+20% ); (b) contient 7?
+
+(B ) C a lc u ls e t q u e s t io n s d e
+l’e x p eÂ r ie n c e 2 b
+
+(1) Calcul 1: 87 + 45 + 92 + 63 (= 287): (a) est
+supeÂ rieur aÁ 285? ( 2 6.5% ); (b) contient 21?
+(2) Calcul 2: 83 + 74 + 29 + 56 (= 242): (a) est
+supeÂ rieur aÁ 295? (+ 20 % ); (b) contient 74 ?
+(3) Calcul 3: 954 2 13 8 2 267 (= 549): (a) est
+supeÂ rieur aÁ 550? (+ 6.5% ); (b) contient 619?
+(4) Calcul 4: 827 2 35 9 2 146 (= 322): (a) est
+supeÂ rieur aÁ 255? ( 2 20% ); (b) contient 359?
+(5) Calcul 5: 9 3 2 3
+supeÂ rieur aÁ 460? ( 2
+
+4 3 8 (= 576): (a) est
+20% ); (b) contient 3?
+
+* L’ ordre de preÂ sentation des calculs est celui de la condition ApM. Pour l’ expeÂ rience 2a, l’ ordre de la condition MpA
+eÁ
+eÁ
+eÁ
+eÁ
+eÁ
+eÁ
+eÁ
+er
+eÁ
+eÁ
+eÁ
+eÁ
+eÁ
+er
+est l’ ordre inverse: 8 , 7 , 6 , 5 , 4 , 3 , 2 , 1 ; pour l’ expeÂ rience 2b, l’ ordre dans la condition MpA est: 6 , 5 , 8 , 7 , 2 , 1 ,
+eÁ
+eÁ
+4 , 3 .
+** La formulation des questions est un peu abreÂ geÂ e: pour un exemple de formulation compleÁ te, voir texte.
+*** Nous preÂ cisons, entre parentheÁ ses, que la valeur aÁ comparer aÁ la reÂ ponse exacte se situe dans une bande de 6 5%
+(respectivement 20% ; 6.5% ) autour de la reÂ ponse exacte; le signe 2 (respectivement +) preÂ cise qu’ elle est au-dessus
+(respectivement en dessous) de cette reÂ ponse exacte, i.e. que le sujet doit reÂ pondre Oui (respectivement Non).
+
+130
+
+FISCH ER
+
+(6) C alcu l 6: 7 3
+6 3
+3 3
+5 (= 630): (a)
+est supeÂ rieur aÁ 635? (+ 6.5% ); (b) contient
+6?
+(7) C alcu l 7: 960 : 4 : 3 (= 80): (a) est supeÂ rieur
+aÁ 75? ( 2 6.5% ); (b) contient 4?
+(8) C alcu l 8: 518 : 7 : 2 (= 37): (a) est supeÂ rieur
+aÁ 45? (+ 20% ); (b) contie nt 9?
+
+(C ) M o d e d e r eÂ p o n s e
+
+Pour chaque calcul, les sujets cochent une case
+pour la question (a) et une autre pour la question
+(b) dans une ligne comportant les seuls
+renseignements suivants :
+eÁ m e
+
+N
+
+C alcul, question (a):
+question (b):
+M
+
+M
+
+oui
+oui
+M
+
+M
+
+non
+non
+

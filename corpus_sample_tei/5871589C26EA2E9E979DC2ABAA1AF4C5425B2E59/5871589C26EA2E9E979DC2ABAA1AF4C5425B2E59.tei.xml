@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Développement d’un programme d’éducation au loisir adapté comme moyen de soutien à l’implication d’aidants d’un proche atteint de démence,</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Développement d’un programme d’éducation au loisir adapté comme moyen de soutien à l’implication d’aidants d’un proche atteint de démence,</title><author xml:id="author-0000"><persName><forename type="first">Hélène</forename><surname>Carbonneau</surname></persName><email>helene.carbonneau@USherbrooke.ca</email><affiliation>Centre de recherche sur le vieillissement, Sherbrooke, Québec, Canada</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Chantal D.</forename><surname>Caron</surname></persName><affiliation>Centre de recherche sur le vieillissement, Sherbrooke, Québec, Canada</affiliation><affiliation>Faculté de médecine et des sciences de la santé, Université de Sherbrooke, Sherbrooke, Québec, Canada</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Johanne</forename><surname>Desrosiers</surname></persName><affiliation>Centre de recherche sur le vieillissement, Sherbrooke, Québec, Canada</affiliation><affiliation>Faculté de médecine et des sciences de la santé, Université de Sherbrooke, Sherbrooke, Québec, Canada</affiliation></author><idno type="istex">5871589C26EA2E9E979DC2ABAA1AF4C5425B2E59</idno><idno type="ark">ark:/67375/6GQ-ZJXVCWJ1-N</idno><idno type="DOI">10.1017/S0714980809090114</idno><idno type="PII">S0714980809090114</idno><idno type="article-id">09011</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="121">121</biblScope><biblScope unit="page" to="134">134</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>Leisure represents a positive way to keep relationships satisfactory between caregivers and a person with dementia. Adapted leisure education is a promising approach to assist the family to discover new ways to share good times with their relatives. This study aimed to develop an adapted leisure education program. It included an evaluation of the caregivers’ needs, the program content development, and a pilot study to experiment with the content of the program. Three focus groups of dementia caregivers (n = 19) were conducted to investigate caregivers needs. Based on content analysis of these focus groups and a literature review, the content of the program was developed. The pilot study (n = 4) included a quasi-experimental trial and an implementation evaluation. This study led to the development of an adapted leisure education program that puts caregiver support in a new perspective, focusing on positive aspects rather than the burden of caregiving.</p></abstract><abstract xml:lang="fr" style="translated"><p>Le loisir représente une façon positive de maintenir des relations satisfaisantes entre les aidants et leur proche atteint de démence. L’éducation au loisir adapté est une voie prometteuse favorisant le soutien des aidants dans la reconstruction d’un vécu satisfaisant avec leur proche. La présente étude vise le développement d’un programme d’éducation au loisir adapté. Elle comporte trois parties : étude des besoins, élaboration du contenu et validation du contenu. Trois groupes de discussion focalisée formés d’aidants (n = 19) d’un proche atteint de démence ont d’abord été organisés. Le contenu du programme qui a ensuite été développé s’est appuyé sur une évaluation des besoins et une recension des écrits. Enfin, la validation du programme comportait une étude préexpérimentale (n = 4) jumelée à une évaluation d’implantation. Cette étude a mené au développement d’un programme d’éducation au loisir adapté qui introduit le soutien aux aidants dans une nouvelle perspective centrée sur les aspects positifs du rôle d’aidant plutôt que sur le fardeau.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>loisir</term></item><item><term>aidants</term></item><item><term>démence</term></item><item><term>soutien</term></item><item><term>méthodes mixtes</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>recreation</term></item><item><term>caregivers</term></item><item><term>dementia</term></item><item><term>support</term></item><item><term>mixed methods</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Développement d’un programme
+d’éducation au loisir adapté comme moyen
+de soutien à l’implication d’aidants d’un
+proche atteint de démence*, †
+Hélène Carbonneau,1 Chantal D. Caron,1,2 et Johanne Desrosiers1,2
+ABSTRACT
+Leisure represents a positive way to keep relationships satisfactory between caregivers and a person with dementia.
+Adapted leisure education is a promising approach to assist the family to discover new ways to share good times with
+their relatives. This study aimed to develop an adapted leisure education program. It included an evaluation of the
+caregivers’ needs, the program content development, and a pilot study to experiment with the content of the program.
+Three focus groups of dementia caregivers (n = 19) were conducted to investigate caregivers needs. Based on content
+analysis of these focus groups and a literature review, the content of the program was developed. The pilot study
+(n = 4) included a quasi-experimental trial and an implementation evaluation. This study led to the development of
+an adapted leisure education program that puts caregiver support in a new perspective, focusing on positive aspects
+rather than the burden of caregiving.
+
+RÉSUMÉ
+Le loisir représente une façon positive de maintenir des relations satisfaisantes entre les aidants et leur proche atteint
+de démence. L’éducation au loisir adapté est une voie prometteuse favorisant le soutien des aidants dans la
+reconstruction d’un vécu satisfaisant avec leur proche. La présente étude vise le développement d’un programme
+d’éducation au loisir adapté. Elle comporte trois parties : étude des besoins, élaboration du contenu et validation du
+contenu. Trois groupes de discussion focalisée formés d’aidants (n = 19) d’un proche atteint de démence ont d’abord
+été organisés. Le contenu du programme qui a ensuite été développé s’est appuyé sur une évaluation des besoins et
+une recension des écrits. Enﬁn, la validation du programme comportait une étude préexpérimentale (n = 4) jumelée à
+une évaluation d’implantation. Cette étude a mené au développement d’un programme d’éducation au loisir adapté
+qui introduit le soutien aux aidants dans une nouvelle perspective centrée sur les aspects positifs du rôle d’aidant
+plutôt que sur le fardeau.
+1
+
+Centre de recherche sur le vieillissement, Sherbrooke, Québec, Canada
+
+2
+
+Faculté de médecine et des sciences de la santé, Université de Sherbrooke, Sherbrooke, Québec, Canada
+
+* La présente étude a été ﬁnancée par la Fondation de l’Institut universitaire de gériatrie de Sherbrooke (IUGS). Hélène
+Carbonneau est boursière des Instituts de recherche en santé du Canada – Institut du vieillissement et du programme
+FORMSAV du Réseau québécois de recherche sur le vieillissement. Chantal D. Caron est chercheuse-boursière junior
+1 et Johanne Desrosiers est chercheuse-boursière nationale du Fonds de la recherche en santé. Merci au Centre
+de santé et de services sociaux – IUGS et à la Société Alzheimer de l’Estrie pour leur collaboration au recrutement des
+participants.
+†
+
+Afﬁche présentée à l’Association canadienne de gérontologie, Québec, octobre 2006
+
+Manuscript received: / manuscrit reçu : 03/04/08
+Manuscript accepted: / manuscrit accepté : 16/03/09
+Mots clés : loisir, aidants, démence, soutien, méthodes mixtes
+Keywords: recreation, caregivers, dementia, support, mixed methods
+Correspondance à: / Correspondence to:
+Hélène Carbonneau
+CSSS-IUGS
+Centre de recherche sur le vieillissement
+1036, Belvédère Sud
+Sherbrooke, Québec, Canada
+J1H 4C4
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (2) : 121–134 (2009)
+doi:10.1017/S0714980809090114
+
+121
+
+122
+
+Canadian Journal on Aging 28 (2)
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+Téléphone : 819 821-1170 poste 2680
+Télécopieur : 819 829-7141
+Courriel : helene.carbonneau@USherbrooke.ca
+
+Introduction
+Depuis plusieurs années, la préoccupation pour la
+santé mentale et physique des aidants d’un proche atteint de démence a mené à l’essor de mesures de soutien tels des programmes d’information ou des groupes
+de soutien (Acton et Kang, 2001 ; Lévesque et al., 2002 ;
+Mittelman, Roth, Haley et Zarit, 2004). Des chercheurs
+font état des résultats mitigés de plusieurs de ces
+programmes (Acton et Kang, 2001 ; Sörensen, Pinquart
+et Duberstein, 2002). La plupart des programmes
+évalués sont surtout centrés sur les aspects négatifs du
+rôle d’aidant et tiennent peu compte des aspects positifs
+qui y sont associés. Le rehaussement des aspects
+positifs du rôle d’aidant peut contribuer non seulement à l’allégement du sentiment de fardeau, mais
+aussi à l’amélioration du bien-être des aidants. Il importe d’explorer les avenues propices au développement d’aspects positifs dans le quotidien des aidants
+avec leur proche. La reconstruction d’un vécu satisfaisant entre l’aidant et son proche atteint de démence est
+une avenue prometteuse dans une perspective de soutien aux aidants (Hellström, Nolan et Lundh, 2005 ;
+Voelkl, 1998) et doit être valorisée (Lévesque et al.,
+2002).
+Parmi les activités de la vie quotidienne, les loisirs
+représentent une source privilégiée de moments plaisants entre un aidant et son proche (Bedini et Phoenix,
+1999 ; Dupuis et Pedlar, 1995 ; Voelkl, 1998). Toutefois,
+l’adaptation des activités en fonction des capacités et
+limites des personnes atteintes de démence ne va pas
+de soi. Des interventions favorisant la pratique de
+loisirs signiﬁcatifs par l’aidant et son proche seraient
+donc à préconiser. De telles approches suscitent un
+climat positif tant pour les aidants que pour leur proche
+(Bedini et Phoenix, 1999 ; Dupuis et Pedlar, 1995)
+et contribuent à l’amélioration de leur qualité de vie
+(Voelkl, 1998). Parmi les interventions possibles,
+Dupuis et Pedlar prônent l’organisation d’activités
+adaptées pour les aidants et leur proche. D’autres
+s’intéressent plutôt à l’organisation des visites, souvent
+dans une visée de gestion des comportements difﬁciles
+(McCallion, Toseland et Freeman, 1999).
+À notre connaissance, aucune publication n’a porté sur
+un programme visant une pratique autonome de loisirs partagés par l’aidant et son proche en continuité
+avec leurs habitudes de vie. La présente étude visait à
+combler cette lacune. Pour ce faire, nous avons développé un programme d’éducation au loisir adapté
+comme moyen de soutien à l’implication d’aidants
+
+auprès d’un proche atteint de démence, programme
+qui aidera à rehausser les aspects positifs de leur rôle.
+
+Contexte
+La valeur d’un programme d’intervention est tributaire
+de la rigueur de son développement. Certains auteurs
+(Chen, 2005 ; Patton, 1997) stipulent qu’il est important
+d’articuler le développement d’un programme à partir
+d’un modèle théorique cohérent avec les objectifs de
+l’intervention. Plus particulièrement, Carradice, Beail
+et Shankland (2003) déplorent l’absence fréquente de
+rationnel sous-jacent aux cibles d’intervention dans
+nombre d’études sur des mesures de soutien aux
+aidants. Ils insistent sur l’importance de recourir à des
+programmes de soutien aux aidants reposant sur des
+fondements théoriques bien articulés.
+Récemment, Chen (2005) a proposé une double composante au cadre théorique d’un programme d’intervention :
+la théorie conceptuelle et la théorie d’action (ﬁgure 1).
+Selon cet auteur, la théorie conceptuelle s’ancre dans
+les données scientiﬁques et constitue le rationnel
+théorique sous-jacent aux objectifs du programme. Ce
+rationnel présente les liens de causalité possibles entre
+les facteurs déterminants et les résultats recherchés.
+Les aspects positifs du rôle d’aidant étant au centre de
+la présente étude, la théorie conceptuelle pour le programme d’éducation au loisir adapté nécessitait la conception d’un cadre conceptuel qui en reﬂèterait la
+dynamique. En effet, la tendance à aborder la dynamique du rôle d’aidant dans une perspective de
+stress-coping limite la compréhension des aspects
+positifs (Farran, 1997). La théorie d’action, quant à elle,
+se réfère aux composantes théoriques (théories, principes d’intervention) et organisationnelles (caractéristiques de l’intervenant, conditions environnementales,
+nature des activités) liées aux modalités d’intervention.
+Dans la présente étude, certaines théories ainsi que les
+facteurs potentiels de réussite précisés dans d’autres
+programmes similaires ont guidé l’élaboration de la
+théorie d’action.
+
+Intervention
+
+Déterminants
+
+Théorie d’action
+
+Résultats
+
+Théorie conceptuelle
+
+Figure 1: Rôle de la théorie d’action et de la théorie conceptuelle dans l’évaluation, traduit de Chen (2005)
+
+Éducation au loisir et soutien aux aidants
+
+Méthode
+Nous avons élaboré le programme d’intervention en
+trois étapes : 1) étude des besoins, 2) élaboration du
+contenu du programme et 3) validation du contenu
+du programme (étude préexpérimentale et évaluation
+d’implantation). Le protocole de recherche a reçu
+l’approbation des comités d’éthique de la recherche
+concernés.
+Étude des besoins
+Nous avons effectué l’étude des besoins au moyen de
+trois rencontres de groupes de discussion focalisée
+composés d’aidants (conjoint, enfant ou autre) offrant
+un soutien régulier à un proche atteint de démence
+(c’est-à-dire le visitant au moins une fois par semaine).
+Provenant de différents milieux, les aidants rencontrés
+apportaient une vision diversiﬁée du vécu des aidants.
+Le premier groupe comprenait des aidants d’un proche
+vivant à domicile, le deuxième réunissait des aidants
+d’un proche demeurant en ressource intermédiaire
+et le dernier groupe était formé d’aidants d’un proche
+résidant en centre hospitalier de soins de longue
+durée.
+Nous avons planiﬁé les rencontres suivant les règles de
+fonctionnement d’un groupe de discussion focalisée
+(Krueger et Casey, 2000) : accueil, survol du sujet, clariﬁcation des règles, introduction, questions centrales et
+conclusion. Le guide d’animation qui a été construit
+nous a permis d’explorer les sujets suivants : vécu en
+loisir des aidants avec leur proche, difﬁcultés rencontrées dans ces activités et contribution du loisir dans
+leur vie. Les rencontres, qui se déroulaient au Centre
+de recherche sur le vieillissement situé à Sherbrooke,
+étaient d’une durée moyenne de 90 minutes. Elles
+étaient animées par une agente de recherche familiarisée avec cette approche, et celle-ci était secondée par
+une observatrice qui pouvait intervenir à la ﬁn des rencontres pour demander un complément d’information.
+Les discussions ont été enregistrées sur bande audio et
+le compte rendu intégral a été retranscrit. Les données
+issues de ces rencontres ont été analysées au moyen
+de la méthode de l’analyse thématique de Paillé et
+Mucchielli (2003). Le logiciel QSR Nvivo a été utilisé
+pour l’organisation des données.
+Parallèlement aux groupes de discussion focalisée,
+nous avons effectué une recension des écrits pour documenter la question du vécu des aidants, plus particulièrement en regard des aspects positifs de leur rôle.
+Cette recension avait pour objectif de favoriser une
+meilleure compréhension non seulement des aspects
+positifs associés au rôle d’aidant, mais aussi des facteurs favorisant leur émergence. Cela nous a permis de
+dégager un cadre conceptuel des aspects positifs du
+rôle d’aidant. Nous avons ensuite procédé à la triangu-
+
+La Revue canadienne du vieillissement 28 (2)
+
+123
+
+lation des données issues des groupes de discussion
+focalisée et de la recension des écrits concernant les
+aspects positifs aﬁn de valider ce cadre conceptuel.
+Élaboration du contenu du programme
+Partant des besoins ciblés, nous avons ensuite élaboré
+le contenu du programme en termes de ses fondements
+théoriques et activités (Chen, 2005 ; Patton, 1997) en
+précisant la théorie conceptuelle et la théorie d’action
+sous-jacentes.
+La théorie conceptuelle décrivant les déterminants et
+résultats retenus pour le programme d’intervention a
+été formulée à partir du cadre conceptuel des aspects
+positifs du rôle d’aidant élaboré lors de l’étude des
+besoins. Des théories ainsi que d’autres programmes
+d’intervention ont été considérés lors de la conception
+des composantes théoriques et organisationnelles de la
+théorie d’action sur lesquelles se base le programme.
+L’examen de théories liées à l’intervention psychosociale, à l’explication des comportements ainsi qu’à
+l’éducation au loisir a mené à la sélection des fondements théoriques les plus pertinents en regard des
+cibles d’intervention. Les différentes théories retenues
+dans le développement du programme seront décrites
+plus loin.
+Par ailleurs, la recension des écrits nous a permis
+de documenter les caractéristiques de programmes de
+soutien déjà existants et d’en dégager des facteurs de
+réussite potentielle. L’examen de ces facteurs de réussite nous a permis d’apporter des éléments pertinents
+lors de la construction des composantes organisationnelles de la théorie d’action du programme d’éducation
+au loisir adapté. De plus, les modalités de deux programmes éprouvés en clinique, soit un programme
+d’éducation au loisir (Carbonneau, 1995) et une approche en loisir adaptée aux personnes avec déﬁcits
+cognitifs (Carbonneau, Fontaine et Lussier, 2004),
+ont été considérées lors de l’élaboration des activités
+(outils, matériel, guides) du programme.
+Validation du contenu du programme
+La dernière étape de développement du programme
+avait pour but de valider les processus d’intervention
+et de vériﬁer si le format des rencontres et le matériel
+utilisé étaient bien reçus par les aidantes (Patton, 1997 ;
+Burgio et al., 2001). Nous avons mené une évaluation
+d’implantation et une étude préexpérimentale auprès
+de quatre dyades composées d’une aidante et de son
+proche atteint de démence. Ce groupe était formé
+d’une aidante et de son proche vivant à domicile, d’une
+aidante et de son proche vivant en résidence privée
+pour personnes âgées, d’une aidante et de son proche
+résidant en ressource intermédiaire et d’une aidante et
+de son proche demeurant dans un centre hospitalier de
+
+124
+
+Canadian Journal on Aging 28 (2)
+
+soins de longue durée. Cette stratégie d’échantillonnage
+visait à tester le programme dans divers contextes.
+Nous avons réalisé une évaluation d’implantation
+portant sur le taux d’application du programme en
+regard des activités ainsi que des processus de
+l’intervention. Nous avons recueilli des données qualitatives (dossiers de suivi des participants, journal
+de bord de l’intervenant) et quantitatives (nombre de
+sessions, durée, période) tout au long de l’étude préexpérimentale. À la ﬁn du programme, une agente de
+recherche extérieure à l’expérimentation a mené
+des entrevues semi-dirigées individuelles d’une heure
+à domicile auprès des aidantes aﬁn de documenter
+les facteurs facilitants et limitants du programme. Ces
+entrevues ont été enregistrées sur bande audio et le
+compte rendu intégral a été retranscrit. Ce compte
+rendu ainsi que le contenu des dossiers et du journal de
+bord ont été analysés selon l’approche par questionnement analytique de Paillé et Mucchielli (2003).
+Un dispositif de type prétest post-test impliquant un
+devis mixte a été retenu pour l’étude préexpérimentale. Une première évaluation des aidantes a eu lieu
+dans les deux semaines précédant le début du programme. Les formulaires de consentement ont été
+signés à ce moment. Les participantes ont ensuite suivi
+le programme qui était offert par une intervenante
+expérimentée, diplômée en récréologie et formée
+en regard de l’intervention nouvellement élaborée.
+Après avoir suivi le programme, les aidantes ont
+été réévaluées par la même agente de recherche.
+Nous avons utilisé l’échelle de bien-être général, version française du General Well-Being Schedule (Bravo,
+Gaulin et Dubois, 1996), pour évaluer le sentiment de
+bien-être de l’aidant. Le coefﬁcient de corrélation intraclasse lié à la ﬁdélité test-retest de ce questionnaire
+est de 0,82 et sa cohérence interne s’élève à 0,92.
+La qualité relationnelle a été mesurée à l’aide d’une
+traduction de trois instruments : la Relationships in Elder Care Scale (Lyonette et Yardley, 2003), le Relationship Rewards (Williamson et Shaffer, 2001) ainsi que le
+questionnaire de Mangen, Bengtson et Landry (1988).
+La méthode de la double traduction inversée a été
+utilisée pour la traduction de ces instruments. Les
+données métrologiques indiquent une bonne validité
+de la version originale de la Relationships in Elder Care
+Scale. Le Relationship Rewards montre aussi une bonne
+homogénéité des items avec des alphas de Cronbach
+de 0,81 et 0,84. Une adaptation du test de Bandura
+(1982) nous a par ailleurs permis d’évaluer le sentiment d’efﬁcacité en loisir adapté. La méthode de Bandura a fait ses preuves dans le développement de
+mesures de sentiment d’efﬁcacité spéciﬁques (Miller,
+Coombs et Fuqua, 1999), notamment pour les aidants
+(Steffen et al., 2002). Enﬁn, nous avons mesuré la
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+participation en loisir au moyen de la technique du
+budget-temps (Noreau et al., 1995), qui a été adaptée
+pour que soit inclus le niveau de plaisir ressenti pendant les activités (Voelkl, 1998). Le budget-temps permet de dresser un portrait des activités réalisées
+pendant une période donnée. Les données pour les
+cinq premiers instruments ont été recueillies par une
+agente de recherche, tandis que les participantes notaient elles-mêmes les informations de leur budgettemps tout au long de l’étude à la lumière des
+consignes données par l’intervenante.
+De plus, aﬁn que les effets du programme soient mieux
+documentés, les sujets ont participé à une entrevue
+semi-structurée jumelée à celle de l’évaluation
+d’implantation. Cette partie d’entrevue visait à approfondir les questions relatives aux effets du programme
+sur le bien-être de l’aidant, à la perception de son rôle
+et à la qualité relationnelle entre l’aidant et son proche.
+Une grille d’entrevue avait été élaborée à cet effet.
+Le compte rendu intégral a été analysé suivant la méthode de l’analyse thématique de Paillé et Mucchielli
+(2003) à l’aide du logiciel QSR Nvivo.
+
+Résultats
+Étude des besoins
+Au total, 19 personnes ont participé aux groupes de
+discussion. Cet échantillon, majoritairement composé
+de femmes (n = 15), comprenait cinq aidants d’un
+proche vivant à domicile, sept d’un proche demeurant
+en ressource intermédiaire et sept d’un proche résidant
+en centre hospitalier de soins de longue durée.
+La tenue de groupes de discussion focalisée visait à
+documenter les besoins des aidants en regard de
+l’intervention en loisir. Cette démarche a aussi servi à
+approfondir la compréhension de la dynamique entourant l’émergence d’aspects positifs dans le quotidien des aidants. Elle a ainsi permis de valider le cadre
+conceptuel des aspects positifs du rôle d’aidant développé à partir de la recension des écrits.
+Le cadre conceptuel (Carbonneau, Caron et Desrosiers,
+soumis) révèle trois dimensions qui se démarquent
+parmi les aspects positifs du rôle d’aidant : la qualité
+des relations au quotidien entre l’aidant et le proche
+aidé, le sentiment de réalisation de l’aidant ainsi que
+le sens du rôle d’aidant au quotidien. Ces dimensions
+sont interdépendantes et contribuent au bien-être
+de l’aidant. La recension des écrits indique que les
+aspects positifs se dessineraient lors d’événements
+enrichissants partagés par l’aidant et son proche
+(Cartwright, Archbold, Stewart et Limandri, 1994). La
+capacité des aidants à susciter des moments plaisants
+partagés avec leur proche est déterminante pour
+l’émergence d’aspects positifs dans leur quotidien.
+
+Éducation au loisir et soutien aux aidants
+
+Ce constat montre la pertinence de se préoccuper du
+renforcement du sentiment d’efﬁcacité des aidants
+à l’égard de la réalisation d’activités plaisantes avec
+leur proche et de concevoir un modèle d’intervention
+dans cette perspective.
+L’analyse des données issues des groupes de discussion focalisée conﬁrme que les besoins ciblés dans la
+littérature en regard de l’intervention en loisir concernent les activités partagées par la dyade et l’offre
+d’activités pour le proche (tableau 1). Le loisir apparaît
+comme une voie favorisant des relations positives entre un aidant et son proche atteint de démence. Bien
+que les aidants à domicile se soucient des moments
+plaisants avec leur proche, les activités partagées
+représentent une préoccupation plus importante pour
+les aidants d’un proche hébergé. Savoir trouver des activités signiﬁcatives et les adapter semble alors essentiel à un déroulement plus agréable des visites. Pour
+Tableau 1 : Besoins en regard de l’intervention en loisir
+Domicile
+
+Ressource
+intermédiaire
+ou Centre
+hospitalier
+de soins de
+longue durée
+
+˴ Moments plaisants partagés
+○ Activités partagées
+ö Savoir quelles activités proposer
+ö Savoir comment adapter les activités
+○ Activités avec le réseau social
+ö Savoir gérer les comportements du
+proche
+˴ Occupation du proche dans une
+perspective de répit
+○ Occupation du proche dans ses temps
+libres à domicile
+ö Savoir quoi proposer
+ö Savoir comment adapter les activités
+ö Savoir comment gérer les activités
+(supervision, sécurité)
+○ Recours à des ressources
+communautaires (centre de jour)
+ö Endroit où le proche a du bon temps
+○ Accès à du « gardiennage » à domicile
+ö Personnel compétent
+ö Activités intéressantes pour le proche
+˴ Soutien à la qualité des visites
+○ Soutien à l’organisation des visites
+ö Savoir quelles activités proposer
+ö Savoir intéresser le proche
+ö Savoir comment adapter les activités
+○ Offre d’opportunités dans le milieu
+ö Avoir accès à des activités organisées
+ö Avoir accès à du matériel (jeux ou
+autres)
+ö Avoir accès à des endroits agréables
+(intimes et attrayants)
+˴ Offre d’activités pour le proche
+dans le milieu de vie
+○ Offre d’activités adaptées accessibles à
+tous les résidents
+○ Préoccupation pour la qualité de vie du
+proche
+
+La Revue canadienne du vieillissement 28 (2)
+
+125
+
+les aidants à domicile, savoir comment occuper le
+proche dans des activités signiﬁcatives s’ajoute aux besoins relatifs à l’intervention en loisir dans une optique
+de répit. Pour les aidants d’un proche hébergé, la préoccupation pour l’offre d’activités adaptées à leur proche
+s’inscrit davantage comme un besoin auquel le milieu
+de vie devrait répondre dans une perspective de qualité
+de vie.
+Élaboration du contenu du programme
+La démarche d’élaboration du contenu du programme
+nous a d’abord permis de clariﬁer la théorie conceptuelle explicitant le rationnel sous-jacent à l’intervention.
+Ensuite, le développement de la théorie d’action a servi
+à la construction des modalités d’intervention et des
+activités du programme.
+Théorie conceptuelle
+La présente étude s’inscrivant dans une perspective
+centrée sur le rehaussement des aspects positifs du rôle
+d’aidant, la théorie conceptuelle s’articule autant autour des déterminants de ces aspects que des résultats
+découlant de leur accroissement dans le quotidien des
+aidants. Le cadre conceptuel des aspects positifs du
+rôle d’aidant conçu lors de l’étude des besoins a été
+utile au soutien de cette démarche.
+Partant de l’importance des moments plaisants pour
+l’émergence d’aspects positifs dans le rôle d’aidant,
+la théorie conceptuelle du programme pose
+l’importance du développement d’un vécu en loisir
+signiﬁcatif partagé par l’aidant et son proche. Cela
+implique que les aidants acquièrent des compétences
+non seulement pour trouver et adapter des activités
+de loisir, mais aussi pour les utiliser pour vivre
+des moments plaisants avec leur proche atteint
+de démence. Dans cette perspective, le sentiment
+d’efﬁcacité en loisir adapté ainsi que la participation
+à des loisirs constituent les déterminants visés par le
+programme et représentent les cibles de l’intervention
+(ﬁgure 2). En congruence avec le cadre conceptuel
+des aspects positifs du rôle d’aidant, le bien-être de
+l’aidant, la qualité de la relation et le sens du rôle
+d’aidant au quotidien constituent les indicateurs
+de résultats de l’intervention. Ainsi, le programme
+d’éducation au loisir adapté préconise une intégration d’activités plaisantes dans le quotidien de
+l’aidant avec son proche, non pas dans une perspective d’occupation, mais plutôt pour alimenter la
+qualité de leur relation.
+À partir de la théorie conceptuelle et des besoins ciblés,
+nous avons précisé les objectifs généraux et spéciﬁques
+du programme aﬁn de guider le développement des
+activités (tableau 2). Les objectifs retenus montrent que
+le programme d’éducation au loisir ne concerne pas
+
+126
+
+Canadian Journal on Aging 28 (2)
+Résultats
+
+Déterminants
+• Sentiment d’efficacité en loisir
+
+• Bien-être général de l’aidant
+
+• Participation en loisir
+
+• Qualité relationnelle (aidant et proche
+atteint de démence)
+• Sens du rôle au quotidien
+
+Théorie conceptuelle
+
+Figure 2 : Théorie conceptuelle sous-jacente au programme
+d’éducation au loisir adapté
+
+seulement l’adaptation des activités, mais aussi le
+savoir-agir avec un proche atteint de démence.
+Théorie d’action
+L’élaboration de la théorie d’action nous a permis de
+clariﬁer les composantes théoriques et organisationnelles les plus favorables à l’atteinte des indicateurs de
+résultats retenus dans la théorie conceptuelle. Elle nous
+a aussi aidé à déterminer les modalités d’intervention
+propices à agir sur les cibles du programme.
+Composantes théoriques. La prise en compte de certaines notions théoriques, soit une approche psychosociale, des principes d’éducation au loisir ainsi que des
+théories explicatives des comportements, permet de
+soutenir l’optimisation des moments enrichissants
+entre un aidant et son proche atteint de démence.
+Approche psychosociale. L’ancrage idéologique d’un
+programme étant déterminant de sa portée, il ne sufﬁt
+pas de spéciﬁer que le programme s’inscrit dans une
+perspective humaniste, encore faut-il préciser comment il le fait. L’approche centrée sur la triade d’Adams
+et Gardiner (2005) nous permet de guider cette réﬂexion. Elle s’inscrit en continuité avec l’approche axée
+sur la personne de Kitwood (1997), qui met l’accent
+sur la personne atteinte de démence et le respect de sa
+dignité. Ce modèle, bien que sensible aux personnes
+atteintes, ne considère pas les mécanismes liés à la
+relation entre l’aidant et son proche (Adams et
+Gardiner, 2005 ; Nolan, Ryan, Ederby et Reid, 2002).
+Nolan, Lundh, Grant et Keady (2003) proposent
+l’approche centrée sur la relation, qui inclut cette
+dynamique. De plus, Adams et Gardiner abordent
+la question sous l’angle de la triade en ajoutant
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+l’intervenant formel. Leur approche stipule que les interactions et échanges dans la triade amèneraient les
+individus à adopter certains rôles ou façons d’agir.
+Ces auteurs expliquent que les comportements dans
+la triade sont construits par la communication et les
+pratiques sociales en présence. Suivant l’approche
+d’Adams et Gardiner, il importe donc de déterminer
+les attitudes que l’intervenant doit adopter pour que
+ses actions soient propices à l’atteinte des objectifs du
+programme. Ainsi, pour soutenir le renforcement de la relation, l’intervenant doit agir comme un « facilitateur »
+du lien entre l’aidant et son proche. Il doit mettre
+l’accent sur les moments plaisants et amener l’aidant à
+reprendre contact avec le plaisir dans la relation. Il doit
+faire en sorte que l’aidant ne se sente pas responsable d’augmenter les bons moments pour son proche,
+sinon cela risque de s’ajouter à son fardeau.
+Principes d’éducation au loisir. Le développement du
+sentiment d’efﬁcacité en loisir adapté requiert de faire
+appel à des notions d’éducation au loisir. Diverses
+approches en cette matière peuvent être envisagées
+(Tinsley et Tinsley, 1981). Certaines formes relèvent
+surtout de la distribution d’information (Dattilo
+et Murphy, 1991), alors que d’autres considèrent plutôt
+le développement personnel des individus (Mundy,
+1998). La prise de conscience de l’individu par rapport
+au loisir devient alors centrale et la pratique autonome
+de loisirs représente la ﬁnalité de l’intervention.
+Le programme d’éducation au loisir adapté s’inscrit
+dans cette voie. Il considère les quatre composantes
+proposées par Mundy (conscience du loisir, conscience
+de soi, développement des compétences et utilisation
+des ressources) auxquelles s’ajoute la conscience de
+l’aidant à l’égard des capacités de son proche. En effet,
+si l’aidant ne voit aucun potentiel chez son proche, il
+lui sera difﬁcile d’envisager de faire des activités avec
+lui, et une méconnaissance de ses limites risque de
+mener à un échec.
+Théories explicatives des comportements. L’actualisation des objectifs du programme implique la modiﬁcation de certaines façons d’agir ou de penser de l’aidant.
+Le recours aux théories explicatives des comportements
+est utile à la détermination des modalités d’intervention.
+Les perceptions des aidants étant déterminantes, la
+
+Tableau 2: Objectifs du programme
+Objectifs généraux :
+• Rehausser l’émergence d’activités plaisantes dans la relation entre les aidants et leur proche atteint de démence.
+• Rehausser la qualité des temps libres ou des visites des aidants auprès de leur proche atteint de démence.
+Objectifs spéciﬁques :
+• Consolider les habiletés en communication adaptée de l’aidant.
+• Sensibiliser l’aidant à l’aspect continu de la relation malgré la maladie.
+• Recréer ou renforcer des zones de plaisir partagé dans le quotidien de la dyade aidant-proche atteint de démence.
+• Développer le sentiment d’efﬁcacité de l’aidant par rapport à la réalisation d’activités plaisantes avec son proche atteint de démence.
+
+Éducation au loisir et soutien aux aidants
+
+théorie perceptuelle constitue une toile de fond (Combs,
+Richards et Richards, 1976). En effet, l’acquisition par
+l’aidant d’une signiﬁcation symbolique, une des trois
+conditions ciblées par Cartwright et ses collaborateurs
+(1994) pour l’émergence d’événements enrichissants,
+fait appel à sa capacité à reconsidérer sa vision des
+choses pour transcender le sens commun associé au
+loisir. Coutu-Wakulczyk, Montgomery et O’Brien (1989)
+précisent que les comportements d’un individu seraient issus de la perception qu’il a de lui-même, de
+l’événement et de l’environnement. Dans le contexte
+du programme d’éducation au loisir adapté, la perception de l’aidant à l’égard des capacités de son proche
+atteint de démence importe aussi.
+À certaines étapes de l’intervention, il pourrait s’avérer
+nécessaire de recadrer des perceptions pour susciter
+une vision mieux adaptée à la situation. Le modèle
+cognitivo-comportemental de Beck (1995) est utile à
+cette ﬁn. Dans le programme d’éducation au loisir
+adapté, cette approche vise à amener l’aidant à acquérir une perception du loisir adaptée au contexte
+de la démence, c’est-à-dire davantage centrée sur les
+processus et sur le plaisir ressenti que sur les résultats.
+Les deux autres conditions relevées par Cartwright et
+ses collaborateurs (1994), la réalisation d’activités et
+l’ajustement (ﬁne tuning), font appel à l’aptitude de
+l’aidant à utiliser les opportunités du quotidien pour
+susciter des événements enrichissants. Le sentiment
+d’efﬁcacité de l’aidant par rapport à la réalisation
+d’activités adaptées étant au cœur de la démarche, la
+théorie sociale cognitive de Bandura (2004) constitue
+une autre composante des fondements théoriques.
+Selon Bandura, les comportements des individus seraient conditionnés par leur croyance en l’efﬁcacité
+du comportement et en leur efﬁcacité personnelle.
+Ainsi, il ne sufﬁrait pas de croire que le fait de pratiquer des activités de loisir peut avoir des retombées
+positives et inciter l’aidant à passer à l’action. Encore
+lui faut-il développer sa conﬁance en sa capacité à
+réaliser de telles activités avec son proche atteint de
+démence. Le sentiment d’efﬁcacité se développe par
+l’interaction des comportements, des facteurs personnels et de la rétroaction avec l’environnement.
+Ces trois éléments opèrent ensemble dans une dynamique de cofacteurs et non de causalité. Ainsi, la
+pratique d’activités doit faire partie de l’intervention
+aﬁn que l’expérience vécue par l’aidant soit considérée. En effet, la réﬂexion de celui-ci à l’égard des
+succès ou des difﬁcultés qu’il rencontrera sera cruciale pour l’intégration d’activités de loisir adaptées
+à son quotidien.
+Composantes organisationnelles. La prise en considération des avenues proposées pour l’amélioration des
+mesures de soutien nous a permis de déterminer les
+
+La Revue canadienne du vieillissement 28 (2)
+
+127
+
+modalités les plus propices à maximiser l’efﬁcacité du
+programme d’éducation au loisir adapté.
+Modalités d’intervention. Partant des facteurs de
+réussite relevés dans la recension des écrits, nous avons
+retenu quatre modalités d’intervention : l’approche
+psychoéducative, la mixité des approches, l’intervention
+auprès de la dyade et l’approche personnalisée (ﬁgure 3).
+Certains chercheurs ont démontré la pertinence
+d’interventions psychoéducatives (Lévesque et al.,
+2002 ; Mittelman et al., 2004). De plus, une métaanalyse révèle que les programmes à composantes mixtes
+semblent être les plus efﬁcaces (Acton et Kang, 2001).
+La mixité des approches permettrait de répondre à
+une diversité de besoins (information, adaptation et
+ventilation des émotions) et favoriserait un meilleur
+ajustement individuel (Mittelman et al., 2004). Par
+ailleurs, la métaanalyse de Brodaty, Green et Koschera
+(2003) indique que les programmes impliquant à la
+fois les aidants et leur proche semblent obtenir plus
+de succès que ceux qui concernent seulement un des
+membres de la dyade. Finalement, la personnalisation des services est un autre aspect déterminant de
+l’efﬁcacité des interventions (Acton et Kang, 2001).
+Il importe ainsi de considérer le vécu propre à chacun.
+Activités du programme. Les activités du programme
+(moyens d’intervention et outils pédagogiques) ont
+été construites à partir des modalités retenues. Ainsi,
+le programme a recours à des approches psychoéducatives qui agissent sur certaines perceptions des aidants.
+Il utilise également une mixité d’approches qui comprend des sections d’information, des moments de réﬂexion et une partie pratique qui intègre le proche
+atteint de démence, ce qui permet une participation de
+la dyade. La prise en compte par l’intervenant des
+habitudes de vie antérieures de l’aidant avec son
+Intervention
+Composanes théoriques
+• Approche centrée sur la triade
+• Principes d’éducation au loisir
+• Théories du comportement
+Composantes organisationnelles
+• Modalités d’intervention
+• Approche psychoéducative
+• Mixité des approches
+• Intervention auprès de la
+dyade
+• Approche personnalisée
+
+Déterminants
+Sentiment d’efficacité en loisir
+• Perception du loisir
+• Perception de la relation
+• Connaissance en loisir adapté
+Participation en loisir
+• Zones de plaisir partagé
+• Continuité des habitudes de vie
+
+• Activités
+• Fiches de réflexion
+• Fiches d’information
+• Partie pratique avec le proche
+
+Théorie d’action
+
+Figure 3 : Théorie d’action du programme d’éducation au
+loisir adapté
+
+128
+
+Canadian Journal on Aging 28 (2)
+
+proche ainsi que le suivi des activités réalisées chaque
+semaine par l’aidant favorisent une individualisation
+de l’approche.
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+La dernière étape de développement du programme consistait en la validation du contenu. Elle comportait deux
+parties qui ont été effectuées de façon concomitante, soit
+l’évaluation d’implantation et l’étude préexpérimentale.
+
+l’échantillon comportait autant d’hommes que de
+femmes. Le niveau d’atteinte des proches était diversiﬁé : une personne avait une atteinte de légère à modérée, une autre une atteinte modérée, une troisième
+une atteinte de modérée à avancée et une quatrième
+une atteinte avancée. La réalisation du programme a
+varié d’une dyade à l’autre. Trois aidantes ont au moins
+participé au programme de base. Parmi ce groupe, deux
+aidantes se sont aussi prévalues de rencontres optionnelles. Une personne n’a suivi que cinq des six activités
+de base. Sur le plan du contenu des rencontres, le programme a été appliqué à plus de 80 pour cent dans trois
+des cas et de 60 pour cent dans l’autre. Chaque rencontre durait un peu moins de deux heures. Le programme
+s’est échelonné sur une moyenne d’environ 11 semaines.
+Deux intervenantes se sont partagé la réalisation du
+programme. Une seule dyade a été suivie par la même
+personne du début à la ﬁn. Pour trois des participantes,
+une intervenante a pris la relève de l’autre, qui était absente pour des raisons de santé.
+
+Évaluation d’implantation
+L’évaluation d’implantation, telle que proposée par
+Patton (1997) ainsi que par Burgio et ses collaborateurs
+(2001) nous a permis non seulement de documenter le
+niveau d’application du programme pour chacune des
+dyades aidant-aidé participantes, mais aussi de comprendre les facteurs susceptibles d’avoir une incidence
+sur l’efﬁcacité du programme.
+
+Facteurs pouvant limiter l’efﬁcacité du programme.
+L’évaluation d’implantation nous a aussi permis de déterminer les facteurs susceptibles de limiter l’efﬁcacité du
+programme. Certaines lacunes ont été mises en lumière et
+des ajustements ont pu être apportés. Trois éléments principaux ont posé problème : le glissement vers l’objectif de
+divertir le proche, l’inﬂuence d’autres facteurs inhérents
+au rôle d’aidant et l’accent sur l’activité.
+
+Taux d’implantation des activités du programme. Quatre
+dyades ont bénéﬁcié du programme. L’échantillon était
+composé uniquement d’aidantes, dont une seule
+épouse. Pour ce qui est des proches atteints de démence,
+
+Glissement vers l’objectif de divertir le proche. Le
+risque que les aidants ajoutent à leurs responsabilités
+l’offre de loisirs à leur proche s’est actualisé, comme
+l’explique cette aidante : « C’était pour elle, trouver
+
+Plus précisément, le programme évalué lors de l’étude
+préexpérimentale était offert sous forme de suivi individuel. Il comportait quatre rencontres de base et deux
+suivis téléphoniques. Deux rencontres optionnelles pouvaient s’ajouter au besoin. Le tableau 3 présente les principales thématiques abordées au cours des sessions. La
+durée prévue était de 90 minutes pour les rencontres et
+de 30 minutes pour les suivis téléphoniques. Un guide de
+l’intervenant ainsi qu’un manuel du participant présentent en détail les diverses activités du programme.
+Validation du contenu du programme
+
+Tableau 3 : Principales thématiques abordées au cours des sessions d’intervention
+1re activité
+
+Rencontre individuelle aidant
+
+Évaluation de la situation de l’aidant :
+○ connaissances
+○ vécu en loisir
+
+2e activité
+
+Rencontre optionnelle aidant
+
+Notions de communication adaptée
+
+3e activité
+
+Rencontre aidant puis dyade
+
+Retour sur les notions de communication et sur l’évaluation
+Introduction des notions :
+○ d’événements plaisants
+○ de mémoire affective
+○ de confort psychologique
+Réalisation d’activités avec le proche et retour
+
+4e activité
+
+Rencontre dyade avec tiers
+
+Présentation de l’approche de loisir centrée sur les processus
+Choix d’activités signiﬁcatives
+Réalisation d’activités avec le proche et retour
+
+5e activité
+
+Suivi téléphonique
+
+Suivi de l’intégration de l’approche
+
+6e activité
+
+Rencontre dyade avec tiers
+
+Retour sur les réussites et difﬁcultés
+Réalisation d’activités avec le proche et retour
+
+7e activité
+
+Suivi téléphonique
+
+Suivi de l’intégration de l’approche
+
+8e
+
+Rencontre optionnelle aidant
+
+Consolidation des apprentissages
+
+activité
+
+Éducation au loisir et soutien aux aidants
+
+des loisirs pour elle. C’était ça que je pensais, moi, au
+début. » (sujet 2). Les intervenantes ont dû insister sur
+la nécessité pour l’aidante de se recentrer sur ses besoins et intérêts. L’analyse des données nous a permis
+de constater que la forme de la présentation d’un des
+outils utilisés pour guider la réﬂexion sur les habitudes de vie antérieures, soit le « Proﬁl en loisir »,
+était propice à générer un tel glissement, comme
+l’explique cette participante : « Il y a peut-être le petit
+questionnaire par rapport à ce qu’elle aimait, ce que
+j’aimais. Je n’ai peut-être pas saisi qu’il fallait que je
+fasse quelque chose que j’aime à travers ça. » (sujet 2).
+Des modiﬁcations ont été effectuées au programme
+aﬁn qu’il mette davantage l’accent sur le vécu des
+aidants. Le déroulement de certaines rencontres a été
+revu et des ajustements ont été apportés à l’outil
+« Proﬁl en loisir » aﬁn que la priorité soit donnée aux
+intérêts des aidants et à leurs besoins ainsi qu’aux activités partagées par la dyade.
+Inﬂuence d’autres facteurs inhérents au rôle d’aidant.
+La présence d’autres facteurs inhérents au rôle d’aidant –
+l’ampleur des difﬁcultés vécues – interférait avec la réalisation du programme, ce qui laissait peu de place au
+plaisir. Bien que l’accent doit être mis sur les moments
+plaisants, il importait de laisser de la place aux aidantes
+aﬁn qu’elles exposent les difﬁcultés qu’elles vivaient
+sans perdre de vue l’objectif de renforcer les éléments
+positifs de leur rôle. Pour faire face à cette situation, les
+intervenantes rapportent qu’elles ont consacré du
+temps à l’écoute des difﬁcultés tout en insistant sur
+l’importance de renforcer les aspects positifs pour contrer les éléments négatifs. Cette stratégie semble avoir
+porté fruit, comme le laisse voir ce passage d’une
+aidante : « Le programme, je le trouve super bon, parce
+que tu t’aperçois que tu n’es pas tout seul, les autres
+comprennent ce que tu vis… Ça nous encourage à être
+plus positifs. » (sujet 1).
+Accent sur l’activité. Finalement, une intervenante
+avait tendance à mettre davantage l’accent sur la nature des activités. Si, pour elle, ces activités semblaient
+simples à organiser, l’analyse des journaux de bord a
+mis en évidence que cela n’était pas le cas pour les
+aidantes, qui se sentaient surchargées à l’idée de faire
+de même. Une note dans un des dossiers de suivi des
+participantes souligne qu’une aidante s’est exclamée :
+« Est-ce que ça veut dire que je devrais toujours préparer des activités comme ça ? » (sujet 3). Des ajustements ont été apportés au programme aﬁn qu’il insiste
+plus sur la simplicité des activités et l’importance de
+valoriser le processus que sur les résultats. La sensibilisation de l’intervenante à cet égard est cruciale
+pour que son intervention soit adéquate. En effet, les
+notions d’activités simples ou de moments plaisants
+se révèlent plus bénéﬁques pour les aidantes, comme
+l’illustre cet extrait :
+
+La Revue canadienne du vieillissement 28 (2)
+
+129
+
+« Avant, c’était de me creuser la tête pour passer
+une super journée. Alors avec le moment présent,
+on peut suggérer quelque chose. Si ça marche, ça
+marche. Si ça ne marche pas et bien regarde, je
+suis là, et c’est ça qu’elle veut, juste ça. Ça m’a fait
+prendre conscience de ça. » (sujet 2)
+
+Facteurs pouvant faciliter l’efﬁcacité du programme.
+Tant certains outils pédagogiques que certaines façons
+d’agir des intervenantes favorisent l’atteinte des cibles
+d’intervention. Sur le plan des outils pédagogiques, les
+participantes ont apprécié la documentation, comme le
+montre cet extrait : « C’est tous les petits trucs qu’il y a
+dans la documentation qu’elle [l’intervenante] m’a apportée. » (sujet 3). La structure générale des rencontres
+semblait correspondre aux besoins des aidantes. Une
+participante expliquait : « J’ai aimé ça parce qu’on se
+voyait, puis on allait faire une activité. Comme ça, cela
+préparait l’activité et, en même temps, s’il y avait des
+choses qu’on voulait discuter… j’ai trouvé que c’était
+très bien structuré. » (sujet 3).
+Par ailleurs, deux éléments communs à d’autres approches de soutien, soit la qualité de l’écoute des intervenantes et la validation des aidantes dans leur
+compétence, semblent avoir aidé les participantes. Une
+aidante conﬁe : « Des fois, tu n’oses pas parler parce
+que tu n’es pas à l’aise. Puis là, je me sentais vraiment
+écoutée. » (sujet 3). Une autre ajoute : « On ne se sent
+pas bousculée, on sent qu’on prend le temps pour
+nous. » (sujet 2). Le fait d’être validées dans leurs compétences est un autre élément qui apparaît important
+pour les participantes. Si certaines aidantes avaient
+déjà des habiletés à interagir avec leur proche, elles
+doutaient de leur compétence et appréciaient être conﬁrmées dans leurs façons de faire, comme l’illustre cet
+extrait : « Des fois, on avait des idées comme elle, mais
+de savoir, de se faire appuyer par une personne déjà
+compétente, ça nous a encouragées. » (sujet 1). Ce résultat est cohérent avec la théorie de Bandura (2004)
+selon laquelle le sentiment d’efﬁcacité prévaut sur
+les compétences objectives et amène des individus à
+adopter un comportement. Le renforcement des aidants
+dans leur façon d’agir avec leur proche ainsi que dans
+la réalisation d’activités consolide l’intégration des
+habiletés en loisir adapté.
+Par ailleurs, le cœur du programme, soit l’approche loisir centrée sur les processus, semble répondre à une
+préoccupation des aidantes. L’approche a reçu un accueil favorable des participantes, comme le montre cet
+extrait : « C’est dommage qu’il n’y ait pas beaucoup
+d’activités pour ce monde-là… Ça fait longtemps que j’en
+cherche… On a été bien chanceux de tomber là-dessus. »
+(sujet 1). L’extrait suivant témoigne de l’intégration des
+notions de l’approche en loisir par les participantes :
+« J’ai appris à ne pas me compliquer la vie pour trouver
+
+130
+
+Canadian Journal on Aging 28 (2)
+
+plein de choses… vivre le moment présent. Puis, s’il y a
+quelque chose qui se présente, c’est d’essayer dans les
+petites choses. » (sujet 2). Les notions acquises en termes
+d’adaptation d’activités ont aussi été transférées à
+d’autres contextes :
+« Des fois, en pensant à une activité, je pensais à
+une autre semblable, qui fonctionnait aussi. Je
+n’allais pas toujours avec la même activité. Une
+fois, on a joué aux poches. Peut-être que j’ai rejoué une fois ou deux fois aux poches, mais après
+ça m’a permis de dire : “Hein, on peut jouer à
+autre chose !” » (sujet 3)
+
+En somme, l’évaluation d’implantation révèle que,
+globalement, les activités se sont déroulées selon les
+plans initiaux et que la plupart des outils ont été bien
+reçus par les aidantes. Les diverses notions théoriques
+(principes de communication, mémoire affective,
+confort psychologique et approche loisir) apparaissent
+bien intégrées par les participantes. Bien que certains
+ajustements aient été nécessaires, l’intervention semble
+avoir répondu aux attentes et besoins de ces dernières.
+Des participantes afﬁrmaient l’importance qu’un tel
+programme soit mis en place pour soutenir les aidants,
+comme en témoignent ces passages :
+« Si c’était plus au début […] ça aiderait tout le
+long de la maladie. Qu’ils expliquent plus vite aux
+familles comment les prendre, […] les aider dans
+des activités […] des activités à faire avec le
+proche, c’est ça qui manque. » (sujet 1)
+« Je souhaiterais que ça continue parce que je suis
+certaine qu’il y a beaucoup de personnes qui ne
+savent pas trop comment faire […] si ça devient
+plus ouvert, le monde va s’impliquer plus. » (sujet 3)
+
+Étude préexpérimentale
+L’étude préexpérimentale nous a permis d’explorer
+les effets du programme sur les participantes. Bien
+que le petit nombre de sujets et l’absence d’un groupe
+de comparaison ne nous permettent pas de tirer des
+conclusions sur le plan statistique, il est intéressant
+d’observer que le sentiment d’efﬁcacité en loisir
+adapté s’est amélioré et se situe près du seuil de signiﬁcation (tableau 4). De plus, l’augmentation du score
+médian au bien-être général de 55,5 à 71,5 est très intéressante. En effet, bien que ces résultats ne soient
+pas statistiquement signiﬁcatifs, une telle augmentation est cliniquement pertinente puisque les sujets
+passent de la catégorie de détresse modérée à celle de
+bien-être positif selon la classiﬁcation proposée par
+Fazio (1977). Pour la qualité de la relation, aucun instrument n’a noté une amélioration. Par ailleurs, la
+technique du budget-temps s’est révélée difﬁcilement
+applicable pour les aidantes ne résidant pas avec leur
+proche. Il a été nécessaire de l’adapter pour que les
+activités réalisées soient considérées plutôt que
+l’ensemble du temps de la journée. Cet instrument
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+montre peu de changements en termes de nombre
+d’activités. Toutefois, puisque la méthode du budgettemps utilisée tenait aussi compte du plaisir associé
+aux activités, elle a servi à documenter la satisfaction
+des sujets dans leurs activités avec leur proche. Elle a
+aussi été utile à la réalisation des suivis hebdomadaires entre l’intervenante et l’aidante en facilitant le
+retour sur les activités réalisées par les dyades.
+L’analyse des données qualitatives fait ressortir les effets possibles du programme sur les cibles retenues
+dans la théorie conceptuelle tant sur le plan des déterminants que des résultats, et ce, surtout pour trois des
+quatre participantes. L’aidante ayant considéré le programme comme moins utile est celle n’ayant suivi que
+60 pour cent des activités. Il est à noter que cette participante était aussi la seule conjointe. De plus, l’analyse
+du compte rendu intégral de cette aidante montre
+que ses préoccupations étaient plus centrées sur
+l’occupation du proche que sur l’amélioration de leurs
+interactions et rejoignaient moins en ce sens les objectifs du programme, comme en témoigne cet extrait :
+Interviewer : « Cela n’a pas changé vos activités ? »
+Sujet : « Non, […] il avait ses revues, il regardait
+ça. Ma nièce et moi, on jouait aux cartes, et on
+surveillait. On allait chercher de la crème glacée.
+J’apportais des fois du sucre à la crème, […] des
+petits biscuits. » (sujet 4)
+
+Il apparaît ainsi important que l’intervention réponde
+à un besoin de l’aidante quant à l’organisation des visites ou des temps libres auprès de son proche atteint
+de démence.
+Ainsi, l’analyse des données qualitatives suggère que
+le programme pourrait changer le sentiment d’efﬁcacité
+en loisir adapté, un des déterminants inclus dans
+la théorie conceptuelle, comme l’illustre cet extrait :
+« Ça m’a permis de comprendre que ça ne prenait pas
+grand-chose pour que ce soit agréable. » (sujet 3).
+Ce renforcement du sentiment d’efﬁcacité en loisir
+adapté se traduit par la réalisation d’activités satisfaisantes pour l’aidant et son proche atteint de démence.
+« Puis dans les choses simples, s’émerveiller devant des ﬂeurs ou aller prendre un petit café, ça, je
+le fais maintenant […]. La semaine dernière, je l’ai
+sortie juste un petit peu, je suis allée prendre une
+crème glacée, elle était heureuse. Je me dis : “Regarde, je ne suis pas obligée de partir tout l’aprèsmidi avec elle.” » (sujet 2)
+« On va le chercher avec des images, avec des
+photos […]. On lui montre des albums de photos
+de pêche et de chasse. Il aimait bien ça. Ça lui
+rappelle de bons souvenirs. » (sujet 1)
+
+L’amélioration de la qualité des visites semble avoir eu
+l’effet escompté sur les indicateurs de résultats, en particulier sur la qualité de la relation au quotidien. Le fait
+
+Éducation au loisir et soutien aux aidants
+
+La Revue canadienne du vieillissement 28 (2)
+
+131
+
+Tableau 4 : Résultats aux instruments quantitatifs (étude préexpérimentale) (n = 4)
+t1
+
+Variables Sujet 1 Sujet 2
+
+Sujet 3
+
+Sujet 4
+
+Sentiment d’efﬁcacité en loisir adapté (/70)
+t1
+21
+32
+33
+5
+t2
+33
+43
+44
+35
+Bien-être général (/110)
+t1
+49
+79
+86
+57
+t2
+44
+87
+83
+61
+Qualité de la relation
+• Relationships in Elder Care Scale (/55)
+t1
+42
+40
+27
+t2
+48
+45
+33
+• Relationship Rewards (/16)
+t1
+11
+12
+13
+t2
+12
+11
+manquant
+• Test de Mangen et al. (/16)
+t1
+13
+13
+13
+t2
+12
+13
+13
+
+Moyenne
+(écart type)
+
+t2
+Médiane
+(intervalle
+interquartile)
+
+Moyenne
+(écart type)
+
+Médiane
+(intervalle
+interquartile)
+
+Valeur p*
+
+22,8 (13)
+
+26,5 (9 – 32,7)
+
+38,8 (5,6)
+
+39,0 (33,5 – 43,8)
+
+0,07
+
+68,5 (17)
+
+69,5 (51,8 – 84,3)
+
+68,8 (20,1)
+
+72,0 (48,25 – 72)
+
+1
+
+35
+37
+
+36,8 (± 6,8)
+
+39,0 (29,5 – 41,8)
+
+40,3 (7,4)
+
+40,0 (33,5 – 47,2)
+
+0,14
+
+11
+10
+
+11,8 (0,96)
+
+11,5 (11 – 12,8)
+
+11,5 (1,3)
+
+11,5 (10,3 – 12,3)
+
+0,56
+
+10
+16
+
+11,8 (1,5)
+
+12,0 (10,3 – 13)
+
+13,7 (2,1)
+
+13,0 (12 – 16)
+
+0,67
+
+* Valeurs associées au test des rangs signés de Wilcoxon.
+
+de passer des moments agréables favoriserait un renforcement des liens entre l’aidant et son proche atteint
+de démence, comme le montre cet extrait : « Ça va
+m’aider à avoir plus de qualité ensemble, dans le sens
+que si je fais quelque chose que j’aime avec elle, bien on
+est heureuses toutes les deux […] ça va nous aider à
+être encore mieux ensemble. » (sujet 2).
+Les résultats révèlent aussi un effet possible du programme sur le sens du rôle d’aidant au quotidien. Le
+recours aux principes de la thérapie cognitive, qui nous
+permet d’agir sur certaines perceptions pouvant restreindre la satisfaction de l’aidant dans son rôle,
+pourrait atteindre son objectif. La participation au
+programme pourrait favoriser une vision davantage
+positive du rôle d’aidant, comme les propos suivants
+l’illustrent : « Moi, j’ai beaucoup, beaucoup aimé ça,
+parce que ça m’a apporté beaucoup […]. Ça m’a aidée
+à comprendre que je pouvais être bien comme aidante
+en faisant des activités qui plaisaient aux deux. » (sujet 2).
+En parlant de la vision qu’elle a de son rôle, une aidante
+raconte : « Je l’ai jamais pris pour une corvée, sauf que
+je trouve ça plus facile parce que ma pensée n’est plus
+la même. » (sujet 3). Elle précise : « Avec le programme,
+tu repars contente de ce que t’as fait, que t’as accompli.
+Vu que ça a été plus plaisant, tu n’arrives pas toute défaite. » (sujet 3). Ce dernier extrait renforce l’importance
+pour les aidants de vivre des expériences positives
+avec leur proche atteint de démence.
+Par ailleurs, l’intervention pourrait aussi rehausser le
+sentiment de réalisation des aidants, un autre des as-
+
+pects positifs du rôle d’aidant ciblés dans le cadre conceptuel. Tant les succès obtenus dans les activités que
+la modiﬁcation des perceptions pourraient contribuer
+à ce rehaussement, comme l’illustre cet extrait : « J’ai
+senti que je me débrouillais bien. Tu sais, à un moment
+donné, il faut que tu sois valorisée dans ça. » (sujet 3).
+De plus, le programme semble avoir eu une certaine
+portée en raison de la participation d’autres membres de
+la famille à certaines rencontres. La diffusion du contenu
+du programme à l’entourage pourrait être bénéﬁque
+pour les aidantes et renforcer l’implication d’autres personnes du réseau auprès du proche atteint de démence.
+Ces résultats font ressortir la pertinence d’envisager la
+participation de membres de l’entourage à certaines rencontres du programme. Une participante raconte comment le programme lui a été proﬁtable lorsqu’elle a
+amené son conjoint à se réinvestir auprès de sa mère :
+« Oui, ça m’a aidée beaucoup, surtout ça a aidé
+mon mari à comprendre, parce qu’il s’impliquait
+moins, ça lui a donné des outils pour comprendre… I1 est capable de s’impliquer […]. Ce qui
+fait que c’est beaucoup. » (sujet 3)
+
+Le programme semble même avoir permis à certaines
+participantes de se sentir davantage prêtes à aborder
+les prochaines étapes de la maladie de leur proche.
+Une aidante afﬁrme : « Plus il baisse, plus tu te demandes comment tu vas faire pour t’adapter. Bien là,
+l’intervenante est venue […]. Ça te donne des idées, ça
+paraît moins lourd […] pour aborder ce qui s’en vient. »
+(sujet 1).
+
+132
+
+Canadian Journal on Aging 28 (2)
+
+Discussion
+La rigueur dont nous avons fait preuve dans le processus de développement du programme d’éducation au
+loisir adapté renforce la valeur de cette intervention.
+Suivant la recommandation de Chen (2005) et de
+Patton (1997), le programme s’ancre dans des fondements théoriques articulés à ses objectifs, ce qui ajoute
+à sa cohérence. De plus, la prise en compte des enseignements issus de l’évaluation d’autres types de
+mesures de soutien pour les aidants répond à l’impératif
+que Carradice et ses collaborateurs (2003) soulevaient,
+qui était d’appuyer le développement de ce champ
+sur les connaissances acquises dans les autres études.
+Par ailleurs, la démarche de validation nous a permis
+de prétester le programme. Une planiﬁcation des plus
+rigoureuses n’élimine cependant pas les risques de
+glissement qui peuvent survenir, et qui peuvent faire
+en sorte que les moyens préconisés n’atteignent pas
+leur cible. L’inclusion d’une démarche d’évaluation
+d’implantation contribue aussi au renforcement de la
+valeur scientiﬁque et clinique du programme (Burgio
+et al., 2001). L’analyse continue des processus réalisée
+lors de l’évaluation d’implantation nous a permis
+d’effectuer des ajustements parfois mineurs qui, s’ils
+n’avaient pas été apportés, auraient pu avoir des effets
+importants sur l’efﬁcacité du programme. Plus particulièrement, le recadrage fait auprès des participantes
+qui se centraient sur les besoins en loisir du proche au
+détriment de leurs propres besoins était essentiel, sans
+quoi la cible principale du programme aurait été complètement perdue de vue.
+Les résultats limités obtenus avec l’une des participantes
+nous rappellent l’importance de bien cibler l’offre de
+service de soutien en regard des besoins particuliers
+de chaque aidant. En effet, une analyse comparative de
+diverses approches conclut que le dosage d’aide en
+fonction des besoins serait un aspect crucial de l’efﬁcacité
+des interventions (Zarit, Gaugler et Jarrott, 1999).
+De même, Acton et Kang (2001) montrent que
+l’individualisation des services en fonction des besoins
+des aidants constituerait une condition de réussite des
+interventions de soutien. Dans le même ordre d’idées, la
+prise en considération des facteurs de risque individuels dans l’élaboration de plans de soutien serait déterminante (Schulz et al., 2003). Une telle approche
+permettrait un meilleur ajustement de l’intervention
+aux besoins de chacun. Ainsi, il importe de s’assurer
+que la cible première du programme d’éducation au loisir, à savoir le rehaussement de la qualité des visites ou
+des temps libres, correspond à un besoin réel de l’aidant
+avant de proposer une telle intervention.
+De plus, la formation des intervenantes, en regard non
+seulement des activités du programme mais aussi des
+façons d’intervenir, est d’une importance cruciale pour
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+
+l’efﬁcacité du programme. Cela est congruent avec les
+recommandations de Burgio et ses collaborateurs
+(2001) selon lesquelles la rigueur de l’application d’un
+programme requiert des manuels précis, une formation structurée et un suivi régulier des intervenants.
+Ainsi, dans le cadre du programme d’éducation au loisir adapté, les intervenantes doivent être conscientisées
+au fait qu’il importe de rechercher des activités simples
+plutôt que de proposer des activités potentiellement
+plus intéressantes, mais aussi plus complexes à réaliser
+pour des novices. De même, il est essentiel qu’elles soient sensibilisées à l’importance d’apporter une écoute
+adéquate et des renforcements positifs pour l’atteinte
+des objectifs. Dans le même ordre d’idées, elles doivent
+posséder une connaissance minimale des principes de
+la relation d’aide pour être en mesure d’offrir un soutien adéquat aux participants faisant face à des difﬁcultés dans leur rôle d’aidant.
+Malgré les lacunes relevées dans l’évaluation d’implantation, le programme semble avoir agi sur certaines
+des cibles visées. Certes, des ajustements permettant
+de contrer les glissements observés en cours de processus ont été apportés mais, grâce à l’évaluation
+d’implantation, ils ont pu être documentés. Les modalités et outils d’intervention ont ainsi été ajustés aﬁn
+que ces risques de glissement soient éliminés. Le programme a ensuite été boniﬁé à partir des observations
+recueillies. Cette dernière version du programme sera
+utilisée lors d’une étude expérimentale.
+La présente étude comporte certaines limites. D’abord,
+la petite taille de l’échantillon ainsi que l’absence d’un
+groupe témoin contribuent à restreindre la portée des
+résultats. De plus, le fait qu’il y avait peu de conjoints
+parmi les participants, tant pour les groupes de discussion focalisée que pour l’étude préexpérimentale,
+représente une autre limite. Finalement, l’ensemble des
+participants de cette étude provient d’un milieu semiurbain. La situation vécue par les aidants pourrait être
+différente en milieu rural ou dans une métropole.
+
+Conclusion
+Cette recherche nous a permis de développer une nouvelle avenue permettant de soutenir l’implication des
+aidants familiaux auprès des personnes atteintes de
+démence. Cette approche aborde le soutien aux aidants
+sous un angle nouveau, centré davantage sur les aspects positifs du rôle d’aidant plutôt que sur les tâches
+ou sur le fardeau. Elle vise à rehausser l’émergence de
+moments plaisants dans la relation entre les aidants et
+leur proche ainsi qu’à renforcer la qualité des temps
+libres ou des visites.
+Le programme que nous avons développé s’appuie sur
+une étude des besoins des aidants. De plus, il repose
+sur une théorie de développement de programme.
+
+Éducation au loisir et soutien aux aidants
+
+Le cadre conceptuel sous-jacent à l’intervention ainsi
+que les fondements et modalités de l’intervention sont
+soutenus par une recension des écrits. Finalement, le
+programme a fait l’objet d’une évaluation d’implantation et d’une étude préexpérimentale, ce qui
+nous a permis d’en valider le contenu ainsi que les
+approches pédagogiques et de les boniﬁer à la lumière
+des résultats obtenus.
+Bien que cette intervention cible le soutien à l’aidant, le
+programme devrait aussi procurer des bienfaits à la
+personne atteinte de démence, qui pourrait retrouver
+un vécu en loisir davantage épanouissant. En ce
+sens, cette approche s’inscrit dans une perspective
+d’amélioration de la qualité de vie, tant des aidants
+que des personnes atteintes de démence.
+D’autres démarches restent à faire pour qu’il soit possible d’évaluer pleinement la pertinence du programme
+dans une optique de soutien aux aidants. La réalisation
+d’une étude expérimentale avec groupe témoin contribuerait à mesurer les effets d’une telle approche sur
+le maintien de l’implication des aidants auprès d’un
+proche atteint de démence.
+
+La Revue canadienne du vieillissement 28 (2)
+
+133
+
+givers: The problem of treatment implementation.
+The Gerontologist, 41(4), 481–489.
+Carbonneau, H. (1995). Programme d’éducation au loisir.
+Sherbrooke: Hôpital d’Youville.
+Carbonneau, H., Caron, C. et Desrosiers, J. (soumis). Development of a conceptual framework of qualitative aspects
+of caregiving. Dementia.
+Carbonneau, H., Fontaine, L. et Lussier, M. A. (2004).
+Approche loisir pour la clientèle avec déﬁcits cognitifs graves:
+Quand la mémoire fuit, accompagner dans la tendresse.
+Sherbrooke: Institut universitaire de gériatrie de
+Sherbrooke.
+Carradice, A., Beail, N. et Shankland, M. C. (2003). Interventions with family caregivers for people with dementia:
+efﬁcacy problems and potential solution. Journal of
+Psychiatric and Mental Health Nursing, 10(3), 307–315.
+Cartwright, J. C., Archbold, P. G., Stewart, B. J. et Limandri, B. (1994). Enrichment processes in family caregiving to frail elders. Advances in Nursing Sciences ,
+17 (1), 31–43.
+
+Références
+
+Chen, H. T. (2005). Practical program evaluation: assessing and
+improving planning, implementation, and effectiveness.
+Thousand Oaks: Sage.
+
+Acton, G. et Kang, J. (2001). Interventions to reduce the
+burden of caregiving for an adult with dementia: a
+meta-analysis. Research in Nursing &amp; Health, 24(5), 349–360.
+
+Combs, A. W., Richards, A. C. et Richards, F. (1976). Perceptual psychology: a humanistic approach to the study of
+persons. New York: Harper &amp; Row.
+
+Adams, T. et Gardiner, P. (2005). Communication and interaction within dementia care triads: developing a theory
+for relationship-centred care. Dementia, 4(2), 185–205.
+
+Coutu-Wakulczyk, G., Montgomery, P. et O’Brien, K. (1989).
+Self-concepts and professional commitment of student
+enrolled in a B.Sc.N. distance education program. Sudbury:
+Laurentien University, School of Nursing.
+
+Bandura, A. (2004). Auto-efﬁcacité: le sentiment d’efﬁcacité personnelle. Paris: De Boeck.
+Bandura, A. (1982). The assessment and predictive generality
+of self-percepts of efﬁcacy. Journal Behavior Therapy and
+Experimental Psychiatry, 13(3), 195–199.
+
+Dattilo, J. et Murphy, W. D. (1991). Leisure education program
+planning: a systematic approach. State College, PA: Venture
+Publishing Inc.
+
+Beck, J. S. (1995). Cognitive therapy: basics and beyond. New
+York: Guilford Press.
+
+Dupuis, S. L. et Pedlar, A. (1995). Family leisure programs in
+institutional care settings: buffering the stress of caregivers. Therapeutic Recreation Journal, 29(3), 184–205.
+
+Bedini, L. A. et Phoenix, T. L. (1999). Recreation programs for
+caregivers of older adults: A review and analysis of literature from 1990 to 1998. In M. J. Keller (Ed.), Caregivingleisure and aging (pp. 17–34). New York: Haworth Press.
+
+Farran, C. J. (1997). Theoretical perspectives concerning positive aspects of caring for elderly persons with dementia:
+stress/adaptation and existentialism. The Gerontologist,
+37(2), 250–256.
+
+Bravo, G., Gaulin, P. et Dubois, M. F. (1996). Validation d’une
+échelle de bien-être général auprès d’une population
+francophone âgée de 50 à 75 ans. Revue canadienne du
+vieillissement, 15(1), 112–128.
+
+Fazio, A. F. (1977). A concurrent validational study of the
+NCHS general well-being schedule. Vital and Health
+Statistics, 2(73), 1–53.
+
+Brodaty, H., Green, A. et Koschera, A. (2003). Meta-analysis
+of psychosocial interventions for caregivers of people
+with dementia. Journal of the American Geriatrics Society,
+51(5), 657–664.
+Burgio, L., Corcoran, M., Lichstein, K. L., Nichols, L., Czaja,
+S., Gallagher-Thompson, D. et al. (2001). Judging outcomes in psychosocial interventions for dementia care-
+
+Hellström, I., Nolan, M. et Lundh, U. (2005). ‘We do things
+together’ A case study of ‘couplehood’ in dementia.
+Dementia, 4(1), 7–22.
+Kitwood, T. (1997). Dementia reconsidered: the person comes
+ﬁrst. Buckingham: Open University Press.
+Krueger, R. A. et Casey, M. A. (2000). Focus group: a practical
+guide for applied research (3rd ed.). Thousand Oaks: Sage.
+
+134
+
+Canadian Journal on Aging 28 (2)
+
+Lévesque, L., Gendron, C., Vézina, J., Hébert, R., Ducharme,
+F., Lavoie, J.-P. et al. (2002). The process of a group intervention for caregivers of demented persons living at
+home: conceptual framework, components, and characteristics. Aging &amp; Mental Health, 6(3), 239–247.
+Lyonette, C. et Yardley, L. (2003). The inﬂuence on carer wellbeing of motivations to care for older people and the relationship with the care recipient. Ageing and Society,
+23(4), 487–506.
+Mangen D. J., Bengtson, V. L. et Landry, P. H. (Eds.) (1988).
+Measurement of intergenerational relations. Beverly Hills:
+Sage.
+
+Hélène Carbonneau, Chantal D. Caron et Johanne Desrosiers
+personnes ayant une déﬁcience motrice. Loisir et Société,
+18(1), 209–232.
+Paillé, P. et Mucchielli, A. (2003). L’analyse qualitative en
+sciences humaines et sociales. Paris: Armand Collin.
+Patton, M. Q. (1997). Utilization-focused evaluation: the new
+century text (3rd ed). Thousand Oaks: Sage.
+Quayhagen, M. P. et Quayhagen, M. (1988). Alzheimer’s
+stress: coping with the caregiving role. The Gerontologist,
+28(3), 391–396.
+
+McCallion, P., Toseland, R. W. et Freeman, K. (1999). An evaluation of a family visit education program. Journal of the
+American Geriatrics Society, 47(2), 203–214.
+
+Schulz, R., Burgio, L., Burns, R., Eisdorfer, C., GallagherThompson, D., Gitlin, L. N. et Mahoney, D. F. (2003).
+Resources for enhancing Alzheimer’s caregiver health
+(REACH): overview, site-speciﬁc outcomes, and future
+directions. The Gerontologist, 43(4), 514–520.
+
+Miller, J. W., Coombs, W. T., Fuqua, et D. R, 1999. An examination of psychometric properties of bandura’s
+multidimensional scales of perceived self-efﬁcacy.
+Measurement &amp; Evaluation in Counseling &amp; Development,
+31(4), 186–197.
+
+Steffen, A. M., McKibbin, C., Zeiss, A. M., Gallagher-Thompson,
+D., et Bandura, A. (2002). The revised xcale for caregiving self-efﬁcacy: Reliability and validity studies. Journal
+of Gerontology: PSYCHOLOGICAL SCIENCES 57B(1),
+P74–P86.
+
+Mittelman, M. S., Roth, D. L., Haley, W. E. et Zarit, S. H.
+(2004). Effects of a caregiver intervention on negative
+caregiver appraisals of behavior problems in patients
+with Alzheimer’s disease: results of a randomized trial.
+The Journals of Gerontology Series B: Psychological Sciences
+and Social Sciences, 59(1), 27–34.
+
+Sörensen, S., Pinquart, M. et Duberstein, P. (2002). How effective are interventions with caregivers? An updated
+meta-analysis. The Gerontologist, 42(3), 356–372.
+
+Mundy, J. (1998). Leisure education: theory and practice (2nd ed.).
+Champaign: Sagamore Publishing.
+Nolan, M., Lundh, U., Grant, G. et Keady, J. (2003). Partnerships in family care: understanding the caregiving career.
+Philadelphia: Open University Press.
+
+Tinsley, H. E. A. et Tinsley, D. J. (1981). An analysis of leisure
+counseling models. The Counseling Psychologist, 9(3),
+45–53.
+Voelkl, J. E. (1998). The shared activities of older adults with
+dementia and their caregivers. Therapeutic Recreation
+Journal, 32(3), 231–239.
+
+Nolan, M., Ryan, T., Ederby, R., et Reid, D. (2002). Towards a
+more inclusice vision of dementia care practive and research. Dementia, 1(2), 193–211.
+
+Williamson, G. M. et Shaffer, D. R. (2001). Relationship quality
+and potentially harmful behaviors by spousal caregivers: how we were then, how we are now: the Family
+Relationships in Late Life Project. Psychology and Aging,
+16(2), 217–226.
+
+Noreau, L., Murphy, G., Tremblay, G. et Cantin, R. (1995).
+Niveau de pratique de loisirs et inﬂuence des caractéristiques personnelles et environnementales chez des
+
+Zarit, S. H., Gaugler, J. E. et Jarrott, S. E. (1999). Useful
+services for families: research ﬁnding and directions.
+International Journal of Geriatric Psychiatry, 14(3), 165–181.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Interventions to reduce the burden of caregiving for an adult with dementia: a meta-analysis</title><author><persName><forename type="first">G.</forename><surname>Acton</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Kang</surname></persName></author></analytic><monogr><title level="j">Research in Nursing &amp; Health</title><imprint><date type="published">2001</date><biblScope unit="volume">24</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="349">349</biblScope><biblScope unit="page" to="360">360</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Communication and interaction within dementia care triads: developing a theory for relationship-centred care</title><author><persName><forename type="first">T.</forename><surname>Adams</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Gardiner</surname></persName></author></analytic><monogr><title level="j">Dementia</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="185">185</biblScope><biblScope unit="page" to="205">205</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Auto-efficacité: le sentiment d’efficacité personnelle</title><editor><persName><forename type="first">A.</forename><surname>Bandura</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">The assessment and predictive generality of self-percepts of efficacy</title><author><persName><forename type="first">A.</forename><surname>Bandura</surname></persName></author></analytic><monogr><title level="j">Journal Behavior Therapy and Experimental Psychiatry</title><imprint><date type="published">1982</date><biblScope unit="volume">13</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="195">195</biblScope><biblScope unit="page" to="199">199</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Cognitive therapy: basics and beyond</title><editor><persName><forename type="first">J. S.</forename><surname>Beck</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Caregiving-leisure and aging</title><editor><persName><forename type="first">L. A.</forename><surname>Bedini</surname></persName></editor><editor><persName><forename type="first">T. L.</forename><surname>Phoenix</surname></persName></editor><editor><persName><forename type="first">M. J.</forename><surname>Keller</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1999</date><biblScope unit="page" from="17">17</biblScope><biblScope unit="page" to="34">34</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Validation d’une échelle de bien-être général auprès d’une population francophone âgée de 50 à 75 ans</title><author><persName><forename type="first">G.</forename><surname>Bravo</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Gaulin</surname></persName></author><author><persName><forename type="first">M. F.</forename><surname>Dubois</surname></persName></author></analytic><monogr><title level="j">Revue canadienne du vieillissement</title><imprint><date type="published">1996</date><biblScope unit="volume">15</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="112">112</biblScope><biblScope unit="page" to="128">128</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Meta-analysis of psychosocial interventions for caregivers of people with dementia</title><author><persName><forename type="first">H.</forename><surname>Brodaty</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Green</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Koschera</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatrics Society</title><imprint><date type="published">2003</date><biblScope unit="volume">51</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="657">657</biblScope><biblScope unit="page" to="664">664</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Judging outcomes in psychosocial interventions for dementia caregivers: The problem of treatment implementation</title><author><persName><forename type="first">L.</forename><surname>Burgio</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Corcoran</surname></persName></author><author><persName><forename type="first">K. L.</forename><surname>Lichstein</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Nichols</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Czaja</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Gallagher-Thompson</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2001</date><biblScope unit="volume">41</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="481">481</biblScope><biblScope unit="page" to="489">489</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Programme d’éducation au loisir</title><editor><persName><forename type="first">H.</forename><surname>Carbonneau</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Sherbrooke</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Development of a conceptual framework of qualitative aspects of caregiving</title><author><persName><forename type="first">H.</forename><surname>Carbonneau</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Caron</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Desrosiers</surname></persName></author></analytic><monogr><title level="j">Dementia</title><imprint/></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Approche loisir pour la clientèle avec déficits cognitifs graves: Quand la mémoire fuit, accompagner dans la tendresse</title><editor><persName><forename type="first">H.</forename><surname>Carbonneau</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Fontaine</surname></persName></editor><editor><persName><forename type="first">M. A.</forename><surname>Lussier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Sherbrooke</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Interventions with family caregivers for people with dementia: efficacy problems and potential solution</title><author><persName><forename type="first">A.</forename><surname>Carradice</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Beail</surname></persName></author><author><persName><forename type="first">M. C.</forename><surname>Shankland</surname></persName></author></analytic><monogr><title level="j">Journal of Psychiatric and Mental Health Nursing</title><imprint><date type="published">2003</date><biblScope unit="volume">10</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="307">307</biblScope><biblScope unit="page" to="315">315</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Enrichment processes in family caregiving to frail elders</title><author><persName><forename type="first">J. C.</forename><surname>Cartwright</surname></persName></author><author><persName><forename type="first">P. G.</forename><surname>Archbold</surname></persName></author><author><persName><forename type="first">B. J.</forename><surname>Stewart</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Limandri</surname></persName></author></analytic><monogr><title level="j">Advances in Nursing Sciences</title><imprint><date type="published">1994</date><biblScope unit="volume">17</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="31">31</biblScope><biblScope unit="page" to="43">43</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Practical program evaluation: assessing and improving planning, implementation, and effectiveness</title><editor><persName><forename type="first">H. T.</forename><surname>Chen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Perceptual psychology: a humanistic approach to the study of persons</title><editor><persName><forename type="first">A. W.</forename><surname>Combs</surname></persName></editor><editor><persName><forename type="first">A. C.</forename><surname>Richards</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Richards</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1976</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Self-concepts and professional commitment of student enrolled in a B.Sc.N. distance education program</title><editor><persName><forename type="first">G.</forename><surname>Coutu-Wakulczyk</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Montgomery</surname></persName></editor><editor><persName><forename type="first">K.</forename><surname>O’Brien</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Sudbury</pubPlace><date type="published">1989</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Leisure education program planning: a systematic approach</title><editor><persName><forename type="first">J.</forename><surname>Dattilo</surname></persName></editor><editor><persName><forename type="first">W. D.</forename><surname>Murphy</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>State College, PA</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">Family leisure programs in institutional care settings: buffering the stress of caregivers</title><author><persName><forename type="first">S. L.</forename><surname>Dupuis</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Pedlar</surname></persName></author></analytic><monogr><title level="j">Therapeutic Recreation Journal</title><imprint><date type="published">1995</date><biblScope unit="volume">29</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="184">184</biblScope><biblScope unit="page" to="205">205</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Theoretical perspectives concerning positive aspects of caring for elderly persons with dementia: stress/adaptation and existentialism</title><author><persName><forename type="first">C. J.</forename><surname>Farran</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1997</date><biblScope unit="volume">37</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="250">250</biblScope><biblScope unit="page" to="256">256</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">A concurrent validational study of the NCHS general well-being schedule</title><author><persName><forename type="first">A. F.</forename><surname>Fazio</surname></persName></author></analytic><monogr><title level="j">Vital and Health Statistics</title><imprint><date type="published">1977</date><biblScope unit="volume">2</biblScope><biblScope unit="issue">73</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="53">53</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">‘We do things together’ A case study of ‘couplehood’ in dementia</title><author><persName><forename type="first">I.</forename><surname>Hellström</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Nolan</surname></persName></author><author><persName><forename type="first">U.</forename><surname>Lundh</surname></persName></author></analytic><monogr><title level="j">Dementia</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="7">7</biblScope><biblScope unit="page" to="22">22</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Dementia reconsidered: the person comes first</title><editor><persName><forename type="first">T.</forename><surname>Kitwood</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Buckingham</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">Focus group: a practical guide for applied research</title><editor><persName><forename type="first">R. A.</forename><surname>Krueger</surname></persName></editor><editor><persName><forename type="first">M. A.</forename><surname>Casey</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">The process of a group intervention for caregivers of demented persons living at home: conceptual framework, components, and characteristics</title><author><persName><forename type="first">L.</forename><surname>Lévesque</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Gendron</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Vézina</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Hébert</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Ducharme</surname></persName></author><author><persName><forename type="first">J.-P.</forename><surname>Lavoie</surname></persName></author></analytic><monogr><title level="j">Aging &amp; Mental Health</title><imprint><date type="published">2002</date><biblScope unit="volume">6</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="239">239</biblScope><biblScope unit="page" to="247">247</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">The influence on carer well-being of motivations to care for older people and the relationship with the care recipient</title><author><persName><forename type="first">C.</forename><surname>Lyonette</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Yardley</surname></persName></author></analytic><monogr><title level="j">Ageing and Society</title><imprint><date type="published">2003</date><biblScope unit="volume">23</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="487">487</biblScope><biblScope unit="page" to="506">506</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="inbook"><monogr><title level="m">Measurement of intergenerational relations</title><editor><persName><forename type="first">D. J.</forename><surname>Mangen</surname></persName></editor><editor><persName><forename type="first">V. L.</forename><surname>Bengtson</surname></persName></editor><editor><persName><forename type="first">P. H.</forename><surname>Landry</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Beverly Hills</pubPlace><date type="published">1988</date></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">An evaluation of a family visit education program</title><author><persName><forename type="first">P.</forename><surname>McCallion</surname></persName></author><author><persName><forename type="first">R. W.</forename><surname>Toseland</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Freeman</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatrics Society</title><imprint><date type="published">1999</date><biblScope unit="volume">47</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="203">203</biblScope><biblScope unit="page" to="214">214</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">An examination of psychometric properties of bandura’s multidimensional scales of perceived self-efficacy</title><author><persName><forename type="first">J. W.</forename><surname>Miller</surname></persName></author><author><persName><forename type="first">W. T.</forename><surname>Coombs</surname></persName></author><author><persName><forename type="first">D. R</forename><surname>Fuqua</surname></persName></author></analytic><monogr><title level="j">Measurement &amp; Evaluation in Counseling &amp; Development</title><imprint><date type="published">1999</date><biblScope unit="volume">31</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="186">186</biblScope><biblScope unit="page" to="197">197</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">Effects of a caregiver intervention on negative caregiver appraisals of behavior problems in patients with Alzheimer’s disease: results of a randomized trial</title><author><persName><forename type="first">M. S.</forename><surname>Mittelman</surname></persName></author><author><persName><forename type="first">D. L.</forename><surname>Roth</surname></persName></author><author><persName><forename type="first">W. E.</forename><surname>Haley</surname></persName></author><author><persName><forename type="first">S. H.</forename><surname>Zarit</surname></persName></author></analytic><monogr><title level="j">The Journals of Gerontology Series B: Psychological Sciences and Social Sciences</title><imprint><date type="published">2004</date><biblScope unit="volume">59</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="27">27</biblScope><biblScope unit="page" to="34">34</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Leisure education: theory and practice</title><editor><persName><forename type="first">J.</forename><surname>Mundy</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Champaign</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">Partnerships in family care: understanding the caregiving career</title><editor><persName><forename type="first">M.</forename><surname>Nolan</surname></persName></editor><editor><persName><forename type="first">U.</forename><surname>Lundh</surname></persName></editor><editor><persName><forename type="first">G.</forename><surname>Grant</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Keady</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Philadelphia</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Towards a more inclusice vision of dementia care practive and research</title><author><persName><forename type="first">M.</forename><surname>Nolan</surname></persName></author><author><persName><forename type="first">T.</forename><surname>Ryan</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Ederby</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Reid</surname></persName></author></analytic><monogr><title level="j">Dementia</title><imprint><date type="published">2002</date><biblScope unit="volume">1</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="193">193</biblScope><biblScope unit="page" to="211">211</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="article"><analytic><title level="a">Niveau de pratique de loisirs et influence des caractéristiques personnelles et environnementales chez des personnes ayant une déficience motrice</title><author><persName><forename type="first">L.</forename><surname>Noreau</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Murphy</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Tremblay</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Cantin</surname></persName></author></analytic><monogr><title level="j">Loisir et Société</title><imprint><date type="published">1995</date><biblScope unit="volume">18</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="209">209</biblScope><biblScope unit="page" to="232">232</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">L’analyse qualitative en sciences humaines et sociales</title><editor><persName><forename type="first">P.</forename><surname>Paillé</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Mucchielli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Utilization-focused evaluation: the new century text</title><editor><persName><forename type="first">M. Q.</forename><surname>Patton</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="article"><analytic><title level="a">Alzheimer’s stress: coping with the caregiving role</title><author><persName><forename type="first">M. P.</forename><surname>Quayhagen</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Quayhagen</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1988</date><biblScope unit="volume">28</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="391">391</biblScope><biblScope unit="page" to="396">396</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="article"><analytic><title level="a">Resources for enhancing Alzheimer’s caregiver health (REACH): overview, site-specific outcomes, and future directions</title><author><persName><forename type="first">R.</forename><surname>Schulz</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Burgio</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Burns</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Eisdorfer</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Gallagher-Thompson</surname></persName></author><author><persName><forename type="first">L. N.</forename><surname>Gitlin</surname></persName></author><author><persName><forename type="first">D. F.</forename><surname>Mahoney</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2003</date><biblScope unit="volume">43</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="514">514</biblScope><biblScope unit="page" to="520">520</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="article"><analytic><title level="a">The revised xcale for caregiving self-efficacy: Reliability and validity studies</title><author><persName><forename type="first">A. M.</forename><surname>Steffen</surname></persName></author><author><persName><forename type="first">C.</forename><surname>McKibbin</surname></persName></author><author><persName><forename type="first">A. M.</forename><surname>Zeiss</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Gallagher-Thompson</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Bandura</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology: PSYCHOLOGICAL SCIENCES</title><imprint><date type="published">2002</date><biblScope unit="volume">57B</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="74">P74</biblScope><biblScope unit="page" to="86">P86</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="article"><analytic><title level="a">How effective are interventions with caregivers? An updated meta-analysis</title><author><persName><forename type="first">S.</forename><surname>Sörensen</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Pinquart</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Duberstein</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2002</date><biblScope unit="volume">42</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="356">356</biblScope><biblScope unit="page" to="372">372</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="article"><analytic><title level="a">An analysis of leisure counseling models</title><author><persName><forename type="first">H. E. A.</forename><surname>Tinsley</surname></persName></author><author><persName><forename type="first">D. J.</forename><surname>Tinsley</surname></persName></author></analytic><monogr><title level="j">The Counseling Psychologist</title><imprint><date type="published">1981</date><biblScope unit="volume">9</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="45">45</biblScope><biblScope unit="page" to="53">53</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="article"><analytic><title level="a">The shared activities of older adults with dementia and their caregivers</title><author><persName><forename type="first">J. E.</forename><surname>Voelkl</surname></persName></author></analytic><monogr><title level="j">Therapeutic Recreation Journal</title><imprint><date type="published">1998</date><biblScope unit="volume">32</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="231">231</biblScope><biblScope unit="page" to="239">239</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">Relationship quality and potentially harmful behaviors by spousal caregivers: how we were then, how we are now: the Family Relationships in Late Life Project</title><author><persName><forename type="first">G. M.</forename><surname>Williamson</surname></persName></author><author><persName><forename type="first">D. R.</forename><surname>Shaffer</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">2001</date><biblScope unit="volume">16</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="217">217</biblScope><biblScope unit="page" to="226">226</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="article"><analytic><title level="a">Useful services for families: research finding and directions</title><author><persName><forename type="first">S. H.</forename><surname>Zarit</surname></persName></author><author><persName><forename type="first">J. E.</forename><surname>Gaugler</surname></persName></author><author><persName><forename type="first">S. E.</forename><surname>Jarrott</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">1999</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="165">165</biblScope><biblScope unit="page" to="181">181</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

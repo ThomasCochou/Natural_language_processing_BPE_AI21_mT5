@@ -1,0 +1,1433 @@
+L)ECAHBOXYLATION
+
+D E S ACIDES GRAS
+
+509
+
+Le mercure qui sert a deplacer les reactifs esl dehitk
+regulierement en actionnant, au moyen cl’un m6canisme
+dkmultiplication mu par un moteur a vitesse variable, le
+piston d’une seringue metallique d’une contenance de 300 em3.
+En rkpartissant le mercure eritre deux cylintlres jumeaux dont
+une seule contient du rkactif on peut encore reduire le debit
+d’alimentation.
+Le liquide ou le melange liquide est vaporise et amen6 a la
+temperature de reaction par passage dans un tube de 100cm
+de long e t 0,6 cm de diametre serti dans un bloc d’aluminium
+qui assure l’homogeneite de la temperature; les vapeurs passerit
+ensuite dans la chambre a reaction constituee par un tube d’une
+longueur de 160 cm e t de 0,8 cm de diametre garni d’une serie
+de disques en tissu de verre imprkgne d’oxyde de thorium (20 g).
+Le melange quittant la chambre de reaction est debarrasse
+de ses constituants condensables au moyen d’un refrigerant a
+eau, puis par urie colonne de fractionnement maintenue en
+t&te ii - 500 C ; les gaz sont requs et mesures dans une cloche,
+le liquide est soutire par siphonnage.
+La reaction a k t k suivie en mesurant, suivant le cas, la
+vitesse de production de l’anhydride carbonique, en determinant titrimktriquement l’acide restant, en titrant daris le
+mdange final neutralist! a la soude la cetone au moyen
+d’hydroxylamine, en hydrolysant, au moyen d’hydroxyde de
+sodiiini qu’on titre en retour, l’ester methylique produit. Lorsqu’on opere sur un melange d’acide acetique et d’acide benzofque, il se produit de l’acetone et de l’acetoyhenone; pour les
+doser iridependamment on separe la premiere par distillation
+en I’entrainant par un excks de methanol (*).
+
+E X P ~ R I E N CPRELIMINAIRES
+ES
+Un certain nombre de contrblcs ont 6t6 entrepris en systenie
+slatique 6 des temperatures allant de 250 a 3500 C pour verifier
+que le tissu de verre, employe comme support du catalyseur,
+etait effectivement inerte. A 3500 C, la temperature la plus
+klevke atteinte dans les experiences quantitatives, on n’observe
+pas de changemerit de pression notable de I’acide admis aprks
+une heure de contact.
+(x) COUSYEMANTet JUNGEILS,
+Bull. SOC.Chim. Belg. 59, 295 (1950).
+
+510
+
+J. C. KURIACOSE ET J. C. JUNGEWS
+
+Quelques essais ont ete realises afin de determiner quelle
+etait la quantite de thorine a mettre en a u v r e pour achever la
+reaction en un temps convenable. La premiere charge utilisee
+en systeme statique sur la base des resultats obtenus avec
+l’alumine dans la deshydratation de l’ethanol, f u t de 9 g; elle
+donna lieu a 260oC, a une reaction quasi instantanee. Par
+approximations successives on en vint a utiliser 0,5 g - c’est
+la quantitk mise en muvre dans I’ensemble des essais dkfinitifs
+rkalises en systkme statique.
+11s furent effectues avec quatre prkparations diffkrentes
+qui fournirent des resultats si parfaitement comparables qu’il
+nous a paru inutile de les distinguer dans la suite de cet article.
+Le premier Bchantillon fut eliminP, sans avoir perdu son activite, lors d’une modification de l’appareil; le second se deteriora
+graduellement lors d’essais sur la decomposition de l’anhydride
+acetique; le troisieme, qui avait deja serri a 80 experiences,
+perdit assez rapidement son a c livitk lors du traitenient catalytique de I’acide butyrique.
+Les mesures en dynamique ont ete effectuties gr*
+ace au
+meme echantillon qui n’a perdu jusqu’ici que 10
+de son
+actkite.
+Dans chaque cas le catalyseur f u t prepare en calcinant
+4500 C un tissu de laine de verre impregne d’une solution
+concentree de nitrate de thorium.
+I1 nous parait interessant de rapporter airec quelques
+details les observations faites en statique sur la charge de 0 g
+de thorine. L’acide acktique f u t admis sur le catalyseur chauffi.
+a 2600 C ; dks la fin de l’kvaporation la pression se stabilise A
+une valeur nettement inferieure a celle qui correspondait aux
+produits de reaction (fig. 2). I,e melange fut donc condensk ri
+nouveau et readmis ensuite dans la chambre portee A 3000 C ;
+la pression reste encore inferieure a sa valeur finale, E n repktant
+cette operation a des temperatures diffkrentes on constatc en
+fait que le melange n’evolue pas, sauf aux tempkratures voisines
+de 4000 C.
+Un examen des resultats indique que la pression reprend
+sensiblenient la meme valeur aux memes temperatures. I1
+rksulte de ceci que la reaction etait en fait terminke di.s lc
+debut des mesures et si la pression reste infbrieure i ce qiie
+permet d’attendre la stoechiometrie, c’est que les produits de
+
+UECARBOXTLATIONDES ACIDES GRAS
+
+-_----__pression
+
+----
+
+51 1
+
+th4orique d e lbcrde acetique
+
+*
+
+de5
+
+produits
+
+pression eJIective
+
+I
+I
+I
+I
+
+II
+
+...
+
+i
+
+I
+
+I
+
+I
+
+I
+I
+
+i301
+
+408O
+
+Temps en m i n u t e s
+Fig.2
+
+reaction sont adsorbes sur le catalyseur. L’intensite de cet
+effet est tel qu’a basse temperature (2600 C) la pression n’atteint
+mkme pas la valeur qui correspond a la quantite d’acide acetique
+admis; par contre, aux tempbratures klevkes la dbsorption est
+quasi complete car la pression correspond effectivement a celle
+que doiyent donner les produits. On peut donc s’attendre a ce
+que l’adsorption des reactifs et des produits joue un r6le marquant sur la cinetique de la decarboxylation des acides gras.
+
+LA CINETIQUE
+
+DE L A
+
+Rk. A C TI ON
+
+C’est l’acide acetique qui, du fait de sa reactivite elevee
+se prktait le mieux aux mesures a basse temperature et qui a
+permis d’obtenir les resultats les plus complets. L’acide pro-
+
+513
+
+J. C. K U R I A C O S E ET J. C . JUNGEHS
+
+pionique s’est encore pr&te a une analyse cinetique sornmaire
+qui confirme dans ses grandes lignes celle de son honiologrie
+inferieur ; mais l’acide butyrique ne reagit qu’li des tempCratures
+telles que les produits de reaction risquent eux-niemes de se
+transformer et d’endommager 1e catalyseur. Les quelques resulrime
+tats sur les termes superieurs ont 6te obtenus en rCg’
+d y n a miqu e.
+1
+
+A ) - L’ACIDEACETIQUE
+a) l’ordre en fonction de la concentration courante
+Les quelques donnees presentees dans le tableau I X et
+les rcsultats plus complets r6unis dans la figure 3 indiquent
+que la decarboxylation de l’acide acetique repond d’une maniere
+tres satisfaisante a l’ordre un dans tout le domaine de temperature considh-6.
+On a tire profit de cette observation pour resserrer d’une
+maniere plus precise que ne le permet la lecture directe ( 3 ‘I:,)
+la valeur de la pression initiale. Dans ce but on porte le
+logarithrne de l’accroissement de pression observk en fonclion
+du temps; en extrapolant a l’origine on peut deduire la pression initiale.
+I1 y a lieu de noter toutefois que la constante de vitesse,
+qui se maintient d’une maniere satisfaisante au cours de chaque
+reaction, varie d’une experience a l’autre. Ceci indique que la
+reaction prksente un ordre un par rapport h la concentration
+courante, mais un ordre different par rapport a la concentration
+initiale.
+b) l’ordre en fonction de la pression initiale
+E n considkrant l’eventail des courbes obtenues en operant
+a des pressions initiales differentes (fig. 3) on constate que les
+pentes a l’origine, c’est-a-dire les vitesses initiales se resserrent
+sur une limite superieure.
+Si on porte dans un graphique, en fonction de la pression,
+les ritesses initiales ainsi obtenues graphiquemen t o u encore,
+les constantes de vitesse calculees multipliees par la pression,
+on obtient la courbe prksentee dans la figure 4.
+
+513
+
+D ~ C A R U O X Y L A T I O N DES ACIDES GRAS
+
+TABLEATJ I
+A. ACl DE ACETIQUE
+
+B. ACIDE PROPIONIQUE
+
+Cat. 0,5 g
+
+Experience :
+80
+Pression initiale : 40,7 cm. Hg
+TempCrature : 300oC
+
+ExpCrience :
+106
+Pression initiale : 58,3 cm. Hg
+Temperature : 325oC
+
+t en min.
+
+5
+
+10
+15
+20
+25
+30
+85
+40
+45
+
+U--x
+
+34,P
+28,4
+24,2
+20,s
+17,7
+14,9
+12,s
+10,7
+9,l
+
+ExpCricncc :
+77
+Pression initiale : 7 2 , s cm. Hg
+Temperature : 275oC
+
+t en min.
+
+10
+15
+25
+35
+45
+55
+65
+
+95
+
+a-x
+
+67,3
+65,l
+60,7
+56,s
+
+53,l
+49,s
+46,5
+38,3
+
+10
+
+15
+20
+25
+30
+35
+40
+50
+
+80
+
+2 k3 en
+(cm Hg)-2
+min-1
+
+41,7
+353
+30,7
+28,l
+253
+23,7
+21,9
+19,9
+l5,l
+
+Expkriencc :
+I03
+Pression initiale : 57 cm. H g
+TempCrature : 3000C
+
+t en min.
+
+10
+15
+20
+25
+30
+40
+60
+70
+
+a -x
+
+50,4
+
+47,8
+45,6
+43,8
+42,o
+393
+34,6
+32,8
+
+2 k3 en
+(cm Hg)-2
+min-'
+
+514
+
+J. C . K U R I A C O S E ET J. C. J U N G E R S
+
+TABLEAUX I (suite)
+
+B. ACIDE PROPIONIQUE
+
+A. ACIDE ACETIQUE
+
+Cat. 0,5 g
+k
+
+-
+
+1 -
+
+2,303
+---log
+
+a-xl
+
+tz-t,
+
+a-xz
+
+~-
+
+k
+
+-
+
+I
+a -x
+
+k, en min-'
+
+-
+
+(a-z2)
+
+ExpCrience :
+107
+Pression initiale : 41 cm. Hg
+TempCrature : 30OoC
+
+ExpCrience :
+73
+Pression initiale : 54,6 cm. Hg
+TempCrature : 275OC
+
+t en min.
+
+-A
+[--1
+2 t (a-xJ2
+
+t en min.
+~
+
+10
+l5
+25
+35
+45
+65
+75
+95
+
+10
+15
+20
+25
+30
+50
+70
+360
+
+49,4
+
+1' 2:
+,
+
+I
+~
+
+39,O
+35,G
+29,2
+27,O
+22,G
+
+~
+a-x
+
+k, en min--]
+
+1,47 x
+1,45
+1,47
+
+N
+
+1,50
+
+I1
+
+1,40
+1,49
+1,46
+
+I1
+
+)I
+
+1)
+))
+
+ExpCrience :
+103
+Pression initiale : 23,2 cm. IIg
+TempCrature : 275OC
+
+ExpCrience :
+89
+Pression initiale : 34,4 cm. Hg
+TempCrature : 228OC
+
+t en min.
+
+35,s
+34,2
+32,s
+31,6
+30,4
+27,3
+24,5
+13,O
+
+_
+
+t en min.
+
+_
+a-x
+
+-~
+
+.
+
+2 k, en
+(cm H W ) - ~
+
+min -1
+10
+15
+20
+25
+
+30
+
+40
+50
+
+60
+300
+
+32,9
+32,s
+32,O
+31,G
+31,3
+30,G
+30,l
+29,6
+15,3
+
+10
+20
+30
+
+22,l
+21 ,o
+19,8
+
+50
+
+17,9
+
+70
+85
+95
+110
+125
+
+1G,4
+15,7
+15,o
+14,4
+13,8
+
+2,lS x 10-5
+230
+11
+2,68
+1)
+2,76
+1)
+2,G9
+1)
+2,82
+))
+2,79
+))
+2,79
+11
+
+D I ~ A R B O X Y L A T I O N DES A C I D E S GRAS
+
+5 15
+
+Fi3.3
+
+Cette courbe repond qualitativement a l’expression de
+Langmuir
+
+On pourrait s’etonner que la decarboxylation de l’acide
+acetique qui implique deux molecules, soit d’ordre un sur le
+catalyseur. En fait, les resultats experimentaux peuvent se
+traduire aussi bien par une expression de la forme
+
+qui admet que la reaction repond a un ordre deux sur le catalyseur. I1 est donc impossible sur la base de ces resultats de se
+
+516
+
+J. C. KURLACOSE E‘T .J. C. J U N G E R S
+
+Figure 4.
+
+prononcer en faveur de l’une ou de l’autre valeur pour l’ordre
+fondamental. Des arguments fournis par les essais en dynamiyue
+e t des renseignements complkmentaires obtenus grace ii des
+experiences auxiliaires indiquent cependant que c’est l’ordre
+deux qui doit &re considere comme le plus probable.
+c) Influence de la temptrafure
+
+Quelle que soit la valeur adoptcie pour la niolkcularitd de
+la reaction, les resultats de la figure 4 indiquent qu’ri la tempkrature envisagee, le catalyseur est completement saturc it
+partir de pressions de l’ordre de la demi-atmosphere. On peut
+prevoir qu’avec l’elevation de la temperature les pressions
+nkcessaires a maintenir la saturation seront de plus en plus
+
+D I k A R B O X Y L A T I O N DES ACIDES GRAS
+
+517
+
+elevees. C’est ce que confirme la seconde isotherme presentee
+dans la figure 4.
+Une elevation de temperature aura donc, suivant le domaine
+de pression envisage, une action differente sur la vitesse de
+reaction. A haute pression, le catalyseur restant sature, la
+vitesse s’elevera suivant l’expression d’hrrhknius; dans le
+domaine des faibles pressions la saturation ne sera plus
+complete a haute temperature e t l’accroissement de la constante
+de vitesse sera partiellement compensk par le depeuplenient
+du catalyseur.
+Ces deductions sont confirmees par les resultats presentes
+graphiquement dans la figure 5. 11s conduisent pour I’energie
+d’activation vraie a une valeur de 28 kcal.
+
+d) L’influence des produits
+Les resultats du premier paragraphe indiquent que la reac-
+
+518
+
+J . C. KURIACOSE ET J. C. J U N G E R S
+
+tion repond a un ordre un par rapport a la concentration courante en reactif. Dans la theorie g6nerale ceci s’interprete par
+une compensation fortuite qui a comme consequence que le
+denominateur reste constant dans l’expression
+
+Dans le cas d’une cinktique d’ordre deux sur le catalyseur
+la compensation n’est plus aussi parfaite, thkoriquement, bien
+qu’elle puisse en fait conduire a une reaction repondant
+apparemment a un ordre un (fig. 8).
+I1 rksulte donc de la cinetique de la reaction que I’acide
+acetique est assez fortement adsorb6 sur le catalyseur et que
+les produits auxquels il donne naissance presentent dans leur
+ensemble un coefficient d’adsorption comparable. Ceci t r o u w
+d’ailleurs une confirmation dans les resultats de l’experience
+preliminaire presentee dans la figure 2.
+I1 importait donc, pour effectuer l’analyse cinetique coniplete du phenomkne, d’etudier l’influence de chacun des produits
+sur la reaction.
+
+L ’ A C ~ T O N: E
+Comme l’indique la courbe du graphique 6 et les resultats
+plus complets du tableau 11, l’acetone exerce une action
+TABLEAU I1
+
+T = 275OC
+
+l’CIIBCOOH
+
+Cat.
+
+=
+
+0,s g
+
+P C H ~ C O C H ~ Vi
+cm Hg/min
+
+en cm Hg
+
+en cm Hg
+
+35,2
+38,s
+36,O
+32,O
+27,O
+20,o
+
+0
+29,s
+33,O
+21 ,o
+40,o
+20,o
+
+0,27
+
+-
+
+-
+
+0,25
+0,24
+0,25
+
+0,12
+0,12
+0,13
+
+0,058
+0,055
+0,062
+
+0,23
+0,24
+
+0,14
+0,11
+
+0,068
+0,050
+
+DECAHBOXYLATIONDES ACIUES GHAS
+
+I
+
+10
+
+LO
+
+519
+
+I
+
+65
+Temps en minutes
+Fi3 6
+
+inhibitrice rnoderke sur la decarboxylation de I’acide acetique. En comparant les vitesses initiales obtenues avec I’acide
+acetique pur et en melange avec des quantitks diiferentes
+d’acktone on pcut chiffrer le rapport des coefficients d’adsorption de ces substances, bCIIaCOCEIS
+/bCIIZCOOI,.
+Dans l’hypothese d’une reaction mononioleculaire ce rapport serait de 0,13, dans l’hypothese plus vraisemblable d’une
+reaction d’ordre deux, il serait de 0,06.
+11 etait interessant aussi d’inclure dans cette etude l’efiet
+de la dikthylcetone sur l’acide acetique afin de permettre une
+comparaison avec I’acide propionique qui lui donne naissance.
+Les resultats traduits par la courbe du graphique 6 et les resultats suivants, (Tableau 111), conduisent pour le rapport des
+
+520
+
+J. C. KUHIACOSE ET J . C . JUIVGERS
+
+coefficients d'adsorption diethylcetone-acide
+valeur 1,29 pour n = 1 et 0,57 pour n = 2.
+
+ac6tique h la
+
+TABLEAU I11
+1
+
+, I
+
+=
+
+cat. = 0,s g
+
+275OC
+
+I
+I
+
+36,O
+
+0
+
+51,O
+
+5,o
+24,9
+30,0
+
+83,O
+30,5
+
+O,27
+O,24
+0,13
+0,12
+
+1,3O
+1,24
+1,33
+
+,
+
+O,61
+O,59
+0,52
+
+Quelle que soit la cinktique admise, la diethylcetone est
+donc plus fortement adsorbee que l'acktone.
+
+L'ANIIYDHIDE
+CARBONIQUE :
+La courbe presentee dans la figure 6 et les rksultats suivants,
+(Tableau IV), donnent pour le rapport des coefficients d'atlsorption anhydride carbonique-acide acetique la valeur moyenne
+0,44 pour R = 1 e t 0,2 pour n = 2.
+TABLEAU I V
+Cat.
+
+Pco,
+
+en crri Hg
+
+en cm Hg
+
+Vi
+cm Hg/min
+
+33,O
+42,6
+31,7
+31,O
+24,o
+
+0
+3O,9
+30,O
+24,o
+31,O
+31 ,O
+
+0,27
+0,'LO
+0,19
+O,20
+0,18
+0,14
+
+1'CH3COOII
+
+15,l
+
+=
+
+0,s g
+
+DECAHBOXYLATION DES A C I D E S
+
+cirvs
+
+52 1
+
+L’EAU:
+Sur la base des yitesses initiales, on pourrait attribuer a
+l’eau un coefficient de 1,3 par rapport B l’acide acetique dans
+1’hypothBse d’une cinetique d’ordre un et de 0,57 dans le cas
+d’une rkaction d’ordre deux.
+TABLEAU V
+T
+
+PCHQCOOH
+
+=
+
+pH,O
+
+en em Hg
+
+en em Hg
+
+35,O
+
+0
+24,o
+304
+24,O
+25,o
+25,o
+
+43,o
+32,O
+31,3
+24,o
+16,O
+
+Cat.. = 0,5 g
+
+27PC
+
+”
+
+0,27
+O,l4
+0,12
+0,14
+0,12
+0,09
+
+-I
+
+1,20
+1,45
+1,30
+1,30
+1,40
+
+Le comportement de l’eau presente cependant quelque
+chose de singulier : alors que les courbes d’inhibition, dues aux
+cetories et A l’anhydride carbonique, font parties cle la m h e
+famille, celle qui correspond a l’eau s’en 4carte comme le moritre
+le fait qu’elle tend a couper les premibres. L’action de l’eau,
+apparemment plus forte que celle des autres corps au debut
+de la reaction semble s’affaiblir a mesure que celle-ci progresse.
+Ainsi qu’on le verra dans l’etude du mecanisme de la reaction,
+il est possible de rendre compte qualitativement de cet effet.
+L’ANf1YI)RIUE ACfiTIQUE
+
+Ides experiences en systkme statique n’ont pas perrnis
+d’obtenir des resultats sur la dkcarhoxylatjon de l’anhydride
+acctique. Une dizaine d’essais effectuds dans des conditions
+divcrses ont rnontre que, dans les conditions experimentales
+adoptees pour la decomposition de I’acide acktique, la rkaction
+est si lerile qu’il est impossible de la suivre jusqu’a son terme.
+hpres chaque essai on constate, en outre, que le catalyseur a
+perdu de son activite et la methode de regeneration employee
+
+522
+
+J . C . K U H I A C O S E ET J. C. JUNGERS
+
+dans les experiences avec l’acide acetique ne lui rend que partiellement son activitk. Par contre, dans les experiences en
+regime dynamique on constate que l’anhydride acetique se
+decarboxyle un peu plus vite que l’acide.
+Les experiences effectukes en systeme statique sur des
+melanges contenant l’anhydride acetique en proportion variable
+et l’acide en quantite constante e t suffisante pour assurer la
+saturation du catalyseur, montrent que la decarboxylation se
+produit apparemment a une vitesse double de celle de I’acide
+acetique pur.
+Cet effet resulte en realite de ce que I’eau produite dans la
+decomposition de l’acide acktique sert a hydrater l’anhydride,
+de sorte que c’est ei‘fectivement ce dernier qui disparait du
+melange; mais comme chaque molecule d’anhydride donne
+naissance a deux molkcules de produit, I’augmentation de
+pression sera deux fois plus grande qu’avec l’acide acetique qui,
+pour deux molecules, ne donne que trois molecules de produit.
+E n l’absence d’eau, comme c’est le cas sur un catalyseur
+degaze dans le vide, l’anhydride acetique se trarisforme suivant
+un autre chemin.
+El) - L ’ A C I D E PROPIONIQUE
+
+Comme l’indiquent les quelques resultats present& dans
+le tableau I B, la decarboxyIation de l’acide propionique,,effectuee a 3OOoC, repond d’une maniere tres satisfaisante h un
+ordre trois en fonction de la concentration couranle. Ccci
+marque une difference tres nette par rapport a l’acide acktiquc.
+Comme pour ce dernier, on constate que la constante de vitesse
+varie d’une expkrience a l’autre : la reaction presente ufi ordrc
+different par rapport a la concentration initiale. La relation
+enlre la vitesse initiale e t la pression initiale est traduite dans
+le graphique 4. Elle est de la m h e forme que pour l’acide
+acetique, niais on note qu’il faut realiser des pressions hien plus
+elevees pour atteindre la vitesse limite qui correspond h la
+saturation du catalyseur : l’acide propionique est donc moins
+fortement adsorhe que I’acide acetique.
+C’est cette diffkrence qui est responsable de l’ordre apparent plus eleve que presente la decarboxylation de l’acide propionique; il resulte d’une adsorption moins complete du reactif
+
+U I k A K B O X Y L A T I O N DES ACIDES GRAS
+
+523
+
+sur le catalyseur et aussi d’une inhibition relativement plus
+marquee de la part des produits.
+Les vitesses mesurees a des pressions suffisantes pour
+assurer la saturation du catalyseur conduisent a une energie
+d’activation de 30 kcal.
+C) - LES ACIDESSUPERIEURS
+Des essais effectues sur l’acide butyrique en systeme
+statique ont montre qu’il ne se produisait pas de reaction
+observable a 350OC. I1 nous a paru contre-indique de poursuivre cette etude a des temperatures plus elevees o h la decomposition des produits etait susceptible de perturber les mesures.
+Nous avons cependant effectue quelques experiences en
+T ‘C
+
+524
+
+J. C. KURIACOSE E T J. C. .JIJNGERS
+
+regime dynamique afin de chiffrer approximativement la
+reactivite de cet acide par rapport a ses homologues inferieurs.
+On constate que la reaction est beaucoup plus lente hien que
+l’energie d’activation soit du m&me ordre (Fig. 7).
+Les resultats obtenus avec les acides valeriques et iso-valeriques sont traduits par les courbes A e t U . La vitesse dc rkaction
+est encore plus petite que pour les termes preckdents. L’energie
+d’activation bien plus faible fournie par ces termes pourrait
+&treinterpretee en admettant, coninie le suggere l’extrapolation
+a partir des termes infkrieurs, que ces acides sont moins fortement adsorb& sur le catalyseur : la vitesse de reaction limite se
+trouverait progressivement reduite par le fai t que le catalyseur
+se depeuple davantage a haute temperature (voir les figures 5
+et 7, courbe en pointillee, relatives a l’acide acetique).
+
+I N T E R P R E T A T I O N DES R E S U L T A T S
+
+L’ORDREDE
+
+LA R I ~ A C T I O N
+
+I1 est extremement difficile sinon impossible de determiner
+a partir de la variation de concentration en fonction du temps
+I’ordre que prcsente sur le catalyseur une rkaction inhibee;
+une telle courbe est, en effet, susceptible de niultiples interpretations auxquelles les limites de precision des Inesures laissent
+encore plus de latitude,
+MPme la variation de la vitesse en fonction de 1:i C O I ~ C C I I tration initiale ne constitue pas un critere suffisarnment net ainsi
+qu’il ressort de l’analogie entre les courbes d’ordre u n el deux
+dans la figure 4.
+I1 semble qu’une des manieres de trancher la question
+pourrait &re de reduire sur le catalyseur la concentration en
+rkactif en le deplaqant par une substance auxiliaire qui peut
+Ptre un produit de la reaction. I1 est indiquc dc n’utiliser d n i l s
+l’analyse cinetique que les vitesses initiales de faqon A exclure
+l’action perturbatrice des autres produits de reaction. Les resultats obtenus en diluant l’acide acetique par l’acetone, l’eau e t
+l’acide benzoi‘que sont presentes dans le graphique 8.
+Les mesures avec l’acide benzoi‘que e t l’eau, qui itihiberit
+fortement la decomposition de l’acide acctique sont justiciables
+
+D l k A R B O X Y L A T I O N DES AC I D ES GHAS
+
+525
+
+aussi bien de l’ordre un que de l’ordre deux. Ilans le cas tlc
+l’acetone par contre, les points se situent dans un domaine ou
+Ics courbes presentent des differences significatives : on voit
+qu’ils s’accordent mieux avec une cinetique d’ordre deux.
+Rien n’oblige de limiter le choix du corps auxiliaire A des
+produits chimiquement inertes. En fait, en utilisant une substance susceptible de rkagir avec l’acide acelique on pourrait
+espkrer vlrifier si la reaction est d’ordre u n par rapport h
+chacuri des reactifs et si la decarboxylatian qui se produit
+concurremnient est d’ordre deux par rapport a l’acide acktiquc.
+Les resultats prksentes dans la figure 9 o n t k t k obtenus
+en soumettant a l’action catalytique des melanges en proportion
+variable d’acide acetique, propionique ou benzoi’que, d’une part,
+et de methanol d’autre part. On voit que les valeurs de la vitesse
+de formation de l’ester, observkes en limitant le degre d’avancement de la reaction a 15 o/o compte sur la base du constituant
+le moins concentrk, se situent d’une manjere extr&mement
+satisfaisante sur les courbes correspondant a une cinktique
+d’ordre deux.
+
+526
+
+J. C. KURIACOSE ET J . C. JUNGEItS
+
+Fig.9
+
+Le maximum de la vitesse correspondrait, dans cette interpretation a un partage egal de la surface catalytique entre le
+methanol et l’acide. I1 s’ensuit que la formation simultankc
+de la cetone, si elle resulte d’une reaction bimoleculaire de
+l’acide, devrait a ce moment 6tre le quart de ce qu’elle est
+avec l’acide pur. En fait, les resultats de la figure 10 relatifs
+aux deux reactions concurrentes s’accordent d’une maniere
+homogene en admettant que l’esterification repond a la cinktique,
+
+et la decarboxylation
+
+ii
+
+la formule
+
+si on adopte pour Je rapport des coefficients d’adsorption acide
+propionique-methanol la valeur 3 (2750 C).
+Des resultats comparables ont ete obtenus avec le mklange
+acide acetique mkthanol. 11s s’accordent avec la cinktiquc
+
+I I ~ C A R B O X Y L A T I O N DES A C I D E S G R A S
+
+0
+
+100 cu3ou
+
+527
+
+Iw cp u5 coou
+Fig.10
+
+proposke et donnent pour le rapport des coefficients d’adsorption
+acide acktique-m6thanol la valeur 4 (2600 C).
+Pour l’acide benzoique le rapport des coefficients d’adsorption est tellement en faveur de l’acide qu’il est impossible
+d’estimer mieux que l’ordre de grandeur (100). Ceci s’accorde
+avec le coniportement de ce corps dans d’autres experiences
+o h il exerce une action inhibitrice marquee (Fig. 8).
+
+LE
+
+MECANISME DE LA REACTION
+
+On pourrail tenter de pousser plus loin I’analyse du phknomkne et de chercher li preciser, au moins dans une certaine
+mesure, le mecanisme intinie du phenomkne. Sous quelle fornie
+les molecules d’acide sont-elles adsorbees ?
+Une premiere hypothese, qui decoule iimmediatement du
+fait que les catalyseurs employ& dans la decarboxylation des
+acides gras presentent un caractere basique prononce (oxydes
+alcalino-terreux, Fe,03, MnO,, ZnO, Tho,...), est d’admettre
+qu’il se forme iriitialement un sel entre I’acide et le catalyseur.
+11 est aise de vkrifier cettc hypothese en soumettant de l’acetate
+
+528
+
+J . C. KURIACOSE ET J. C. J U N G E R S
+
+de thorium a la decomposition thermique : il faut, pour qu’il
+puisse fonctionner comme intermkdaire dans la reaction, qu’il
+se decompose a une tempkrature kgale ou infkrieure h celle qui
+est nkcessaire a la decarboxylation de I’acide. En fait, les
+premieres mesures effectukes sur 10 g de tetraacetate de thorium
+indiquent que ce sel ne commence a se decomposer qu’a partir
+de 2750 C environ. Cependant, apres une periode d’induction
+rclativement longue, la vitesse de reactian s’accroit vertigineusement (fig. 11).
+
+Pour la clartk, les courbes sont dBcalCes sup I’axe des ordonnCes
+
+Si on interrompt la reaction au monient ou la vitesse esl
+maximum, on peut la poursuivre a une vitesse aiskment mesurable a une temperature ou elle ne se declencherait pas
+spontanement (2000 C).
+
+DI~CARROXYLATION DES ACIDES GRM
+
+529
+
+L’allure de cette decomposition est celle d’une rCaction qui
+debutant en certains centres, se produirait sur un front qui se
+dbveloppe a travers le granule pour se reduire progressivement.
+Cette hypothese trouve une confirmation dans le fait que
+lorsqu’on mklange intimement de l’oxyde a de l’acktate de
+thorium, la reaction dkbute d’emblee avec une vitesse mesurable.
+On peut encore exalter la dkcomposition de l’acktate de
+thorium d’une autre maniere; lorsqu’on fait passer de la vapeur
+d’eau sur ce sel on peut en libkrer de l’acide acetique; ce deplacement se produit de faqon mesurable des la temperature de
+l O 0 O C . L’echantillon ainsi debarrasse de 20 o(l de son acide
+se decompose a une vitesse observable, sans periode d’induction
+prealable, dks la temperature de 2000 C.
+Sur la base des valeurs de la vitesse maximum observkes
+a differcntes temperatures on deduit pour la decomposition
+thermique de l’acktate de thorium une energie d’activation de
+30 kcal, comparable a celle de la decarboxylation de l’acide
+libre.
+Les courbes, presentges dans le graphique 7, relatives a la
+decarboxylation de l’acide acetique et a la decomposition de
+l’acetate de thorium se rapportent a des experiences mettant
+en ceuvre, dans le premier cas 10 g de thorine comme catalyseur,
+et dans le second 10 g de thorine sous forme d’acetate (18 g);
+or, on constate que la decomposition de I’acetate, oh on pourrait
+s’attendre A priori que toute la masse prenne part a la rbaction,
+est a peine plus rapide que la decarboxylation de l’acide o h
+la surface de la thorine est catalytiquement active. Mais si on
+se rapporte aux resultats de la figure 11, qui indiquent que la
+dkcomposition de l’acetate est, elle aussi, un phenomene de
+surface se produisant sur un front qui se deplace travers les
+granules, on comprend que les deux phenornenes puissent,
+pour des quantitks equivalentes presenter cles vitesses comparables.
+Bien que qualitatifs ces rksultats s’accordent avec I’hypothese que c’est la decomposition du sel qui constitue l’etape
+determinante dans la dkcarboxylation des acides gras.
+L’adsorption de l’acide sur un oxyde metallique devrait
+donc donner naissance dans un premier stade a un sel basique
+qui, par perte d’eau, donne acces a de nouvelles molkcules
+d’acide. On pourrait representer la suite des ktapes de la maniere
+
+530
+
+J. C. KURIACOSE ET J. C. J U N G E R S
+
+schematique suivante :
+
++0
+
+2 CH,COOH
+
+II
+
+0
+
+II
+
+M . . ... . M
+
++
+
+CH3
+
+CH3 -H,O
+
+I
+I /
+
+I
+
+COO OH HO COO-+
+
+\I
+
+M . . . . . . . . . . . .R I
+CH,
+
+CH3
+
+CH3
+
+C = O
+
+C = O
+
+I
+I
+0
+I/
+
+M
+
+I
+
+0
+
+\I
+
+!
+
+CH,
+
+CH,
+
+I
+I
+I
+c=o c=o
+C=O
+I
+--+
+/
+\
+0
+HO
+0
+0
+\/
+\/
+_.__
+
++CH,COOH--+
+
+........ M
+
+M
+
+........
+
+M
+
+CH,
+
+I
+I OH
+0
+0
+I /
+11 + CH,COCH, + CO,
+M ............. M
+C=O
+
+Ce schema peut &re soumis a un certain nombre de
+vkrifications.
+Si la reaction est effectuke avec une pression suffisante
+d’acide, la salification du catalyseur pourra &re complete en
+surface, puisque l’eau ainsi liberee se trouve initialerneri t en
+concentration relativement nkgligeable. I1 s’ensuit que I’addition
+d’anhydride en melange avec I’acide ne devrait pas causer
+d’accroissement dans la vitesse initiale. C’est ce qu’on a observe,
+en effet, (fig. 7) car l’accroissement apparent de la vitesse trouve
+son interpretation dans le changement de stoechiomktrie de la
+transformation.
+Cette hypothkse permet egalement de comprendre le COIIIportement de l’anhydride pur sur un catalyseur parfaiternerit
+dkshydrate. Des ces conditions l’anhydride sc dkcomposerait
+suivant un autre cheniin; on sait, en effet (”>, qu’il fournil,
+dks la temperature de 300OC du cktene qui est susceptible
+d’empoisonner le catalyseur e t de donner lieu a u s ph0noniknes
+signales ci-dessus.
+(9)
+
+SZWARC
+et MURAAWAKI,
+Trans. Farad. SOC.47, 264 (1931).
+
+53 1
+
+DECAWBOXYLATIONDES ACIDES GRAS
+
+Ce schema conduit aussi a attribuer une action differente
+a I’eau, d’une part, e t a l’anhydride carbonique e t a l’acetone,
+d’autre part, dans l’inhibition de la decarboxylation. E n effet,
+tandis que l’action de l’acktone et de l’anhydride carbonique
+se rkduit a une competition simple avec I’acidc pour occuper
+la surface du catalyseur, l’eau exerce uii effet supplenieritaire
+car par adsorption elle fournit, comme I’acitle, des groupenienls
+hydroxyles. Par suite de I’accroissement de la concentrat’ion en
+hydroxyle due a l’eau, la dissociation de l’acide sur la surface
+el, partant, le degre d’adsorption se trouveront reduits.
+On peut traduire cette hypothkse e t le schkma qui la concretise par les kquilibres suivants.
+Pour l’acide acktique :
+
+ou I)ACOH
+est proportionnel a la concentration de l’acide en
+son1 les fractions de la surface
+phase gazeuse; c,,, et cOEI
+
+:>
+
+1 Xci
+(
+reprksente la surface restke libre. La constante d’equilibre b,
+
+occupee par les groupements acktate et hyclroxyle;
+
+-
+
+n’est autre que le coefficient d’adsorption.
+Pour l’eau, on aura :
+
+Pour l’anhydride carbonique et l’acetone :
+
+La concentration en surface du groupement hydroxyle
+est donc
+
+e l celle du groupement acetate :
+
+532
+
+J. C. KURIACOSE El’ .J. C. J U N G E K S
+
+En admettant que la vitesse est proportionnelle 311 carrb
+de la concentration de groupements acetate a la surface d u
+catalyseur, il vient, lorsque la surface est complktement sa turke.
+2
+
+v -x.
+
+I
+
+bl
+-
+
+___~
+
+________
+
+__
+P*,,IX
+
+_-
+
++
+
+-t db, P,,,, b, Pcoz
+P,,,,
+En regroupant les termes on ohtient :
+---
+
+~
+
++ b, P C E I ~ X H ~
+
+1‘ b2
+
+\r
+
+-<Ic
+
+~
+
+____
+
+[(biPn,-orr
+
+( b_
+l P*corr)2
+- __
+b z P,,20f t’ba PrrXo
+( b , l’coz $- b, P<IrJmxw,%
+)I2
+
+_ _ _ _ . _ _ _ ~ _ ~ -
+
++
+
+Lorsque la reaction est effectuke avec de l’acide auqnel on
+a ajoute initialement une certaine quantite d’eau, la vitcsse i~
+l’origine, alors qu’il n’y a ni anhydride carbonique ni acetone,
+le dernier terme du denominateur disparait et l’expression
+se reduit A la formule generale V
+
+=
+
+k
+
+I’b,,pJ2-
+
+- - -~
+--
+
+(b.&;:
+
+prise dans le cas d’une saturation complete. Dans ce cas le
+coefficient d’adsorption determine dans le tableau garde sa
+signification.
+I1 n’en est plus de meme lorsqu’on opere en presence d’un
+exces d’anhydride carbonique ou d’acktone. I1 est bien evident
+que l’anhydride carbonique, par exemple, est incapable par
+lui-mkme de deplacer l’acide de I’acetate; il ne peut le faire
+qu’en conjonction avec l’eau qui fouriiit les groupeinents
+hydroxyle necessaires. C’est ce qu’exprirne le produit figurant
+au denimonateur.
+Lorsque ce produit est grand par rapport au second terme,
+dQ uniquement a l’eau, on retrouve une expression de la formc
+generale, mais ou il faut cette fois attribuer a la constante b’,
+la signification explicitee ci-dessus. Elle reste fonction de la
+concentration en eau dans la phase gazeuse.
+Le r6le different qu’exercent l’anhydride carbonique et
+l’acetone, d’une part, et I’eau, d’autre part, se manifeste d a m
+les courbes que l’on obtient lorsqu’on met ces produits en
+e w r e dks l’origine dans la dkcomposition de l’acide acttique.
+
+D ~ C A H I W X Y L A T I O N DES ACIDES CRAS
+
+533
+
+Les rksultats de la figure 6 montrent que les experiences
+effectuees arec l’anhydride carbonique et les cetones engendrent
+des courhes de la m&mefamille, tandis que l’eau donne naissance
+B une famille differente. Cette difference se marque d’une
+maniere particulierement nette par le fait que ces courbes
+s’interscctent. Comme cette singularite a uiie portee tr6s grande
+sur l’analyse cinetique nous avons efl‘ectue une double sh-ie
+d’expkriences pour I’etablir d’une maniere certaine. Les resultats son1 raduits dans la figure 12. On a p u verifier aussi que
+
+Temps en minutes
+
+3
+
+~ig.12
+
+cet effet dkcoulait directement du mecanisme propose, car en
+adoptant pour les constantes d’adsorption les valeurs resultant
+de l’analyse cinetique il est possible de rendre compte qualitativement de l’allure de ces courbes. I1 parait d’ailleurs possible
+d’obtenir un accord meilleur e t m&me de rendre compte quantitativement des courbes experimentales, mais il faudrait
+
+533
+
+J. C. K U R I A C O S E ET J . C . J U N G E R S
+
+apporter ti la valeur des constantes qu’a fourni l’analyse cinetique des reajustements que l’on pourrait certes Ikgilinier p a r
+des considerations theoriques actucieuses mais qui ne trouvent
+pas leur justification dans les faits present&.
+
+** *
+Les auteurs tiennent a exprimer leur gratitude a 1’AUCRRI
+pour la bourse d’etude accordee a l’un d’eux (J. C. K.); ils
+remercient egalement le Fonds National de la Recherche
+Scientifique pour le subside qu’il a octroyk ri ce travail.
+
+Laboraforium voor Physische Scheikunde,
+UNIVERSITEIT
+TE LEUVEN.
+
+Medegedeeld aan de Vlaamse Chemisehe Verenigirig
+op 15 mei 1956.
+

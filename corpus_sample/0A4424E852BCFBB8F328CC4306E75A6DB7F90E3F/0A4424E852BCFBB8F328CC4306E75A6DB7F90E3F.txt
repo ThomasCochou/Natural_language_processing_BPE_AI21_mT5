@@ -1,0 +1,1707 @@
+Etude Theorique et Experimentale de la
+Formation d'une Couche Limite par
+Convection Libre dans une Eau a Basse
+1 emperature
+P . VASSEVH et L. HOBILLARII
+Ecole Polyterlirticpe, filontrtrrl, P.Q., ( : a n a h , H 3 C 3A7
+La coiivectioii i1:iturelle iiidiiitc par iiiic plaqiie vcrticdc
+isotlieriiiiqiic iiiiiiicrgke daiis iiiic iiiasse d'eau,
+iiiic tenipkratiire proclie dc soil poiiit de coiigtlatioii, a Ctk Ctiidikc
+analytiqoemeiit ct expCriiiientaleiiieiit. Eii particulier les effcts
+resultant de la noii IinCarite entre la densitt de I'eau et Sd
+tenipkratiirc, lorsque cctte deriiiere cst a i i voisiiiage de 4°C.
+ont &t eraininbs. La teniptrature dc la plaque etait coiiiprise
+ciitre T..\ = 8.0 et 27.2"C. alors cine Is teiiiptratiire dc
+I'eau 'I,, variait eiitre 0°C et 22.2OC. Ides noiiibres de Praiidtl
+de I'tcoiileiiieiit rCsult;iiit Ctaieiit coiiiliris eiitre 6.4 ct 13.7.
+Uiie excelleiitc coiicordaiice eiitrc la soliitioii tliCoricliie ct
+les resultats erpCriiiiciitmx B CtC olxervke.
+
+A study, both aiialytical aiid crperiiiieiital, has Iiceii iiiadc
+tlie natural coiivectioii induced by ail isothermal vertical
+plate iiiiiiiersed iii a large voliiiiie of water at a teiiiperatiirc
+wliicli was close to its freexiiig piiiit. ,\ particular iitteiitioii
+Ii:is beeii paid to the effects rcsiiltiiig from the iioii-hcarit:
+csistiiig betweeii tlie dciisity of water aiid its teiiiperatiire.
+wlieii Ihe latter was close to 4°C. 'l'lie platc teiiiperatiirc
+('l'w) was in tlie raiige froiii 8.0"C to 27.2"C. while the
+water temperature (Ti) varied between 0% and 22.2OC.
+'Hie I'raiidtl iiiiiiibers for the flow were in tlic raiige f r o i i i
+6.4 tti 13.7. Ail ercelleiit agreeiiiciit hetweeii tlic tlieorctic:il
+sdiiti~iii iiiid tlie csperiiiieiital data Iiiis hceii ohscrved.
+
+L
+
+Rmirce hihliogrnphiqzie
+
+'etude de la convection libre ou forcee dans une
+masse d'eau ayant Line temperature proche de son
+point de congelation presente un certain intCr6t tant
+d'un point de vue pratique que d'un point de vue
+theorique. En effet, I'eau ir basse temperature est
+caractkrisee par Line densite, fonction de la temperature, atteignant une valeur maximum a 3.98"C pour
+ensuite dkcroitre au f u r et B mesure que I'on s'doigne
+de cette temperature critique. Le bismuth, I'antimoine
+et le gallium sont des exemples d'autres substances
+posskdant line inversion de leur densite similaire a
+celle de I'eau.
+Le comportement particulier de I'eau a basse temp&
+rature est responsable de nombreux p h h o m h e s physiques naturels importants. Ainsi dans le domaine de
+la convection forcke il a 6th montre p a r Robillard"'
+que lorsqu'un j e t thermique submerge debouchait
+dans une eau ambiante 1 basse tempkrature, I'inversion de la densite de I'eau avait pour effet primordial
+de solliciter le j e t ii monter d'abord, B la sortie de
+I'injecteur, pour ensuite plonger B une distance ult6rieure. Dans le domaine de la convection libre I'effet
+du maximum de densite de I'eau joue Bgalement tin
+i d e important dans la comprehension des mecanismes
+preckdant la formation de la glace 1 la surface des
+r8servoirs d'eau (voir Forbes e t Cooper")) ou dans
+des conduites (Cheng, Takeuchi et Gilpin")). De plus,
+le p h e n o m h e donne Bgalement lieu 1 des transferts
+thermiques convectifs tres particuliers lors du refroidissement d'une masse d'eau a line temperature proche
+du point de congelation (Cheng e t Takeuchi'").
+L'objectif principal de la prhsente investigation est
+de presenter une etude theorique et experimentale du
+phCnom6ne de la convection libre transitoire induite
+p a r la presence d'une plaque verticale isothermique
+semi-infinie, bordant une masse d'eau B basse temp&
+rature. Cette etude constitue une approche simplificatrice aiix nombreux probkmes de convection libre
+existant dans les eaiix a basse temperature et ayant
+une application pratique.
+
+24
+
+011
+
+Le problgme de la convection libre intluite par une
+plaque verticale isothermique bordant une masse de
+fluide infinie 21 fait I'objet dans le passe d'un certain
+nombre d'investigations. La premigre formulation de
+ce problhme est due a Pohlhausen'"; Line etude plus
+detaillee a cependant BtB presentee par Ostrach'" qiii
+a montre en particulier que ce genre d'bcoulement dCpentlait seulement du nombre de Grashof e t que, lorsque ce dernier etait Blev6, I'Ccoulement resultant Ctait
+alors du type de la couche limite. Les effets dus a
+In variation locale d e la viscositk avec la temperature
+lorsque cette dernihre est Blevee, ont CtC calcules p a r
+Hara'". Plus rkcemment Hellums e t Churchill'8*n1ont
+obtenu la premibre solution numerique de ce p r o b l h e
+en resolvant les equations de base sous leur forme transitoire. E n regime permanent la solution obtenue par
+ces auteurs correspondait a la solution exacte d'Ostrach'"'. Les solutions thkoriques de ces divers auteurs
+sont en accord avec les mesures experimentales de
+Schmidt et Beckman"o' e t Eckert et Sochngen'"',
+toutes deux obtenues pour le cas d'un bcoulement d'air.
+Dans toutes les etudes prkc6dentes il a CtC suppos6
+qu'il existait une relation lineaire e n t r e la temperature
+du fluide et sa densite. Dans le cas de I'eau une telle
+hypothese est justifiee pourvu que la temperature soit
+suffisamment Bloignee du point de congelation. Cependant, cette hypothese devient de moins en moins acceptable au f u r et a mesure que la temperature de
+I'eau dbcroit. La relation entre la temperature e t la
+densite devient alors non-linbaire, la densite atteignant un maximum il. 3.98"C pour ensuite diminuer a
+mesure que l'on s'kloigne de ce point particulier.
+P a r m i les travaux les plus recents siir I'effet dli
+maximum de densite de I'eau en convection libre on
+peut citer p a r exemple les travaux de Schenk et
+Schenkels"*', Yen e t G ~ ~ l e a " ~Boger
+',
+e t Westwater'14'
+et Vanier et Tien'l'' qui ont BtudiC experimentalement
+le transfert thermique resultant de la presence d'une
+paroi de glace en contact avec une masse d'eau froide.
+
+T h e Cnnndinn loztrnnl of Chemical Engineering, V o l . 5 9 , February 1981
+
+0
+
+I
+
+2
+
+DOMAIN€ PHYSIOUE REEL
+
+WMAINE NVMERIOUE
+
+Fiqiire 2 - Coiiipi~raisoiicntre Ic iliaillage dii doinailie
+nikriqiic et ccliii du doinaiiie physique rkel.
+
+Ti
+
+WI-
+
+dans laquelle p, est une densite de reference a la temperature T , et p ( T ) le coefficient d’expansion thermique. E n general dans la plupart des applications pratiques on suppose que p ( T ) est une constante, cette
+dernikre Btant kvaluee a une temperature moyenne de
+reference. Cependant, dans le cas d’une eau a basse
+temperature, le coefficient varie considerablement et
+pour une gamme de temperatures comprises entre 0 et
+20°C, il peut 6tre represente p a r l’bquation suivante
+I voir Vasseur et Robillard“.”) :
+P ( T ) = PI
+
++
+
+0 2
+
+T
+
++ B s T‘
+
+(2)
+
+tlans laquelle pl, 8: et puy
+sont des constantes definies
+tlans la Table 1.
+
+Y
+Figiire 1
+
+-
+
+Formulation du p r o b l h e
+
+SystPine de coordoiiii(.es.
+
+Considkrons le cas d’une masse d’eau, initialement
+repos, bordke par une plaque isothermique verticale s’btendant de x = 0 a x = z. La temperature
+initiale de I’eau T , est uniforme e t inferieure a 3.98”C
+et au temps t = 0, la plaque est soudainement soumise a une temperature uniforme T,, (voir figure l ) .
+On suppose que la difference de temperature ( T , , T , )est suffisamment petite en comparaison avec T,,
+pour que l’approximation de Boussinesq puisse 6tre
+utiliske. Selon cette approximation, la variation de
+la densite est negligee dans les termes d’inertie de
+I’equation du mouvement mais elle est prise en consideration dans la composante verticale des termes de
+flottabilitb. Les autres proprietes de l’eau sont supposees constantes e t sont BvaluBes la temperature T,
+du fluide situe 6 I’infini. On suppose de plus que les
+effets de la compressibilit6 e t de la dissipation visqueuse sont nkgligeables et que le nombre de Grashof
+de l’ecoulement est suffisamment eleve pour que 1’6coulement resultant soit du type de la couche limite.
+Les equations de base adimensionnalisees d&rivant la convection naturelle bi-dimensionnelle transitoire resultante sont :
+;IU
+
+La convection libre dans une couche horizontale d’eau
+A basse temperature a 6th dtudiee p a r Yen et Gales""',
+Adrian‘“’, Forbes e t Cooper“’, Sugawarra et aI’l7’
+alors que les cas d e masses d’eau froide contenues
+dans des enceintes fermees ont BtB traitees p a r Cheng
+et T a k e u ~ h i ‘ ~ Gilpin‘lB*lO’
+’,
+e t Robillard et Vasseur‘po‘.
+Toutes ces etudes ont montre que I’effet de la nonlinearit6 de I’eau s u r les champs d’ecoulement, les
+profils de temperature e t les transferts thermiques
+etait considerable.
+La presente investigation est line etude theorique
+et experimentale des profils de temperature e t de
+vitesse induits dans line eau a basse temperature par
+une plaque chauffante verticale. Les resultats prksentes sont une extension des travaux de Schester‘4”,
+Goren“” e t Vanier et Tien‘Is’ qui ont aborde certains
+aspects du present problhme en rksolvant les equations
+de la couche limite, sous leurs formes permanentes,
+6 I’aide des methodes affines.
+Dans les sections suivantes les equations de mouvement et les conditions initiales e t frontihres decrivant
+le present probleme sont presentees. La methode des
+differences finies implicite aux directions alternQs
+utilisee pour resoudre les equations de base est discutee. On decrit ensuite la technique experimentale
+utilisee pour mesurer les temperatures a u voisinage
+de la plaque. Finalement, certains resultats thkoriques
+e t exphrimentaux mettant en evidence I’effet de I’inversion de la densite de l’eau sont discutes.
+
+_a’a 7
+
+a’ + r’ ZL;:
++ u -ax
+
+=
+
+Re
+
++ ’ :a
+
+a,.?
+
+(3)
+
+Analyse thkorique
+Relation e n t r e la densit6 et Is temperature
+
+Pl
+
+La relation entre la densite de I’eau e t sa temperature est donnee par I’bquation suivante :
+
+B:!
+
+P
+
+= P,
+
+I1
+
++ BcncT - T
+
+)]-I
+
+P3
+
+-6.8140 X
+
+I
+
+1.7471 X
+-1.8670 X lo-‘
+
+(1)
+
+The Canadian loicrnal of Chemical Engineering, Vol. 59, February 1981
+
+25
+
+EN REXIGLASS
+
+COMPRESSION
+
+&
+
+W P R m AMTABLES
+DRAIN
+
+Fignre 3 n
+
+- Vile
+
+aaux + aay
+-v
+
+ELEMENT CHAUFFANT
+
+scliCniatiqrie dii inontape expCriineiit:il
+
+1“
+
+PLAQUE ISOLANTE EN MICA
+(6paisseur ; 0.0254 cm 1
+PLAQUE EN LAITON
+
+= o
+
+dans lesquelles P , est le nombre de Prandtl, B =
+est un nombre sans dimension. Les autres variables sont donnBes p a r :
+
+,!j(O)/,!j,
+
+Les conditions initiales e t les conditions frontihres
+sont :
+r = o
+
+Fiqnre 3 b
+
+r > o
+
+u=v=o.
+
+:
+
+e=ii,’=o
+
+u=o
+u=o
+
+:
+
+,g=og).+
+
+:
+
+e=oix=o
+
+(7 I
+
+Vile sclithatique de la plaque cliaiiffiinte ct
+position des sondes tlleriniqnes.
+
+cet axe. Du point de vue numerique il n’est pas possible en t h b r i e de considbrer directement un tel espace.
+Cependant, en pratique, on peut contourner la difficultC, soit en choisissant arbitrairement line distance
+I’ suffisamment grande pour que la solution converge,
+soit en faisant un changement de coordonn6es approprie. Cette dernihre technique a 6th utiliske dans la
+prksente Btude.
+De facon B cotitracter le systhme de coordonnkes
+dans la direction Y, la transformation suivante est
+introduite:
+1-
+
+u=v=e=o
+
+-
+
+=
+
+F(Z)
+
+(8)
+
+dans lequel la fonction F ( Z ) est une fonction quelconque ayant pour propriBtB de contracter I’espace reel
+physique infini en un nouvel espace numdrique fini.
+E n substituant l’dquation (81 dans les Bquations
+( 3 1 , t 4 ) , ( 5 ) et (71, on obtient respectivement:
+
+L’examen des Bquations de base et des conditions initiales et frontihres rBvhle que les paramctres du prBsent problhme sont T,,T,et P,.
+Solution numerique
+Le systhme d’kquations diffbrentielles partielles
+non-IinBaires et couplees dkcrivant le present problhme a BtB rbsolu numhriquement p a r une mBthode aux
+diffkrences finies. Les Bquations relatives au champ
+de vitesse U et a u champ de temperature 0 (Bquations
+(3) et (4) sont de c a r a c t b e parabolique dans le
+temps 7 e t dans la direction de I’axe des X mais sont
+de caracthre elliptique dans la direction de I’axe des
+Y. Ces Bquations peuvent donc 6tre rBsolues numBriquement en utilisant une prockdure similaire B celle dBcrite par Vasseur e t Robillard‘%’.
+Avec le systhme de coordonnhes dBfini B la figure 1,
+le dBveloppement de la couche limite se f a i t le long
+de I’axe des X. Les Bquations & a n t paraboliques dans
+cette direction, on peut en pratique arr6ter les calculs
+B n’importe quelle position le long de cet axe. Toutefois, il est intkressant d’aller 21 une distance suffisamment grande pour que les profils de vitesse e t de
+tempdrature dans la couche limite soient devenus
+affines. Dans la direction Y, les Bquations sont elliptiques et les conditions limites requihrent que I’on
+considhre, en principe, un espace infini le long de
+
+26
+
+au
+ax
+
++
+
+,y
+
+1.7
+
+=
+
+1
+=
+
+0
+
+av = o
+az
+=
+
+u=v=o;
+
+0
+
+iz=o
+e = i i
+
+u=o
+
+: e = O i
+
+u=o
+
+:
+
+F(Z)=O
+
+(121
+
+F(ZI-m
+
+e = o i x=o
+
+Les fonctions de contraction F ( Z ) = a t a n Z, Z variant
+entre 0 e t 7r/2 et F ( Z ) = a h ( l /(1 - 2 ) ) , 2 variant
+entre 0 et 1, ont 6th utilisbes. Dans ces deux expressions, a est une constante qui permet de resserrer
+davantage le maillage dans une rCgion spkcifique de
+I’dcoulement. Les r b u l t a t s obtenus 1 p a r t i r de ces
+deux fonctions de contraction sont comparables dans
+I’ensemble. Cependant, la fonction logarithmique posshde l’avantage de mieux rBpartir le maillage d e la
+solution numdrique dans la region d e la couche limite
+de I’Bcoulement; elle a donc BtC utilisBe d a n s la prBsente mBthode numdrique. Une fois accomplie l’intro-
+
+T h e Cnnadinn Iournal oj Chemical Engineering, Vol. 59, February 1981
+
+I.c
+
+a12
+
+aio
+
+-
+
+Pr = 10.0
+SOWTION EXACTE
+LOOlIRlTHME TRANYTOIRE
+B TLNGENTE PERMANENT
+LOGARITHME PERMANENT
+
+aoe
+
+I
+
+1
+
+Q9
+
+0.8
+
+0
+
+0.7
+
+7)
+Figure 4 - Comparaisoii entre la soliltion exacte d’Ostracli
+et la prtscnte solution nunibrique. a) profils de vitesse;
+
+I
+
+I
+
+Pr = 10.0
+SOLUTION EXACT€
+
+TANGENT€
+MITHME
+
+0.6
+
+8
+0.5
+
+duction d’une fonction de contraction dans les Bquations, l’espace numerique fini est ensiiite couvert avec
+un maillage regulier afin d’appliquer la technique des
+differences finies, Bien que regulier dans I’espace numkrique, le maillage, variable dans l’espace physique
+reel, est tris serre pris de l’origine de l’axe 2, l i oil
+les gradients de vitesse et de temperature sont importants, et il est trBs espace vers 2 + 30, 18 oh les
+caracteristiques de l’ecoulement varient tris lentement (voir figure 2 ) .
+Les equations ( 9 , B ( 1 2 ) ont donc 6t6 resolues numeriquement B l’aide de la methode des differences
+finies implicite aux directions alternees ( ADJ). Un
+schema centre a BtB utilise dans tous les termes des
+equations de conservation sauf pour les termes d’acceleration convective pour lesquels un schema decentre
+amont a 6th employe. Les conditions frontiBres pour
+U, V et 0 ont 6th appliquees de la facon usuelle. Les
+essais numeriques effectubs ont montrk qu’une distance X = 15 Btait suffisante pour permettre aux profils
+de vitesse et de temperature de devenir affines. I1 a
+BtB trouve de plus qu’un maillage de 15 x 15 Btait un
+compromis raisonnable entre la prkision des r6sultats
+et le temps de calcul numerique. Des accroissements
+de temps de I’ordre de AT = 0.15 Btaient iitilises et
+dans la plupart des cas dtudies une solution permanente etait atteinte A T 2: 80. Le temps requis pour
+effectuer un calcul typique Btait de I’ordre de 3 min
+sur un ordinateur IBM 360/70.
+
+Installation expkrimentale
+Le montage experimental utilise dans cette etude a
+6ttB conqu dans le but de mesurer des profils de temp&
+rature au voisinage d’une plaque verticale isothermique
+induisant un Bcoulement nature1 laminaire convectif
+bi-dimensionnel. L’installation consistait essentiellement en un reservoir rectangulaire en plexiglass ayant
+l’un de ses cat& form6 par une plaque verticale chauffante en laiton (voir figure 3a). Le reservoir etait
+place dans une chambre froide h environnement contr618 de facon B maintenir l’eau contenue dans ce
+dernier B la temperature dksirbe. Une micro-sonde
+fix& sur un chariot Btait utilisee pour mesurer les
+profils de temperature dans la couche limite induite
+par la plaque chauffante.
+Les dimensions internes du reservoir ktaient de 53
+cm de largeur par 66 cm de longueur et 46 cm de
+hauteur. Le reservoir Btait renforce lateralement par
+line armature en plexiglass et un joint en caoutchouc
+Btait utilise B la jonction entre la plaque chauffante
+et le reservoir de facon B &miner lea fuites possibles.
+La distance entre l’extremit6 inferieure de la plaque
+
+0.4
+
+0.3
+
+0#2
+
+0.I
+
+0.0
+
+r)
+b). profils de tenipkrature.
+
+chauffante et le fond du reservoir Btait d’environ 4
+cm. Une simulation num8rique sur ordinateur a Bte
+effectude afin de determiner l’influence possible du
+coin infhrieur du r6servoir sur le developpement de
+l’bcoulement. Les resultats obtenus ont indique que,
+dans la limite des conditions experimentales de cette
+etude, les profils de temperature affines dans la couche limite n’ktaient pratiquement pas affect& par la
+pr6sence de ce coin. Ce point a Bt6 Bgalement confirme experitalement lors d’essais pr6liminaires. tel
+que discutC dnns le dernier paragraphe de cette
+sect ion.
+La plaque chauffante utilisee pour obtenir une surface isothermique etait constitub de deux plaques de
+laiton de 23 cm de largeur par 38 cm de hauteur et
+1.27 cm d’kpaisseur (voir figure 3 b). La face de la
+plaque en contact avec I’eau du reservoir avait BtB
+soigneusement machinee puis polie de facon B eliminer
+le plus possible les imperfections prbsentes. Un 618ment chauffant en nichrome, isole par deux plaques
+de mica, Btait place en sandwich entre les deux pieces
+de laiton. La resistance Btait alimentb en courant
+par tin appareil de contrale de temperature proportionel (YSI, modele 72) permettant d’obtenir lea temperatures desirees avec une prkision de l’ordre de
+5 0.001”C. La temperature requise sur la plaque chauffante Btait contrblee B l’aide d’une
+sonde thmoin placde sur cette dernihre. De facon
+a verifier l’uniformitb de la temperature sur la
+surface de la plaque en contact avec I’eau, huit
+autres sondes thermiques Btaient placees ii divers endroits sur cette derniire (voir figure 3b). Les tests
+
+The Canadian lownal of Chemical Engincning, Vol. 59, February 1981
+
+27
+
+Pr = 11.2
+Tw = 2Q0 O C , TI
+NON-LINEAIRE
+LlNEAlRE
+
+--
+
+-
+
+= 5.0 O C
+
+Pr = 11.2
+Tw = 2QO O C , TI t 5.0 OC
+NON-LINEAIRE
+LlNEAlRE
+
+--
+
+-
+
+OD0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+a4
+
+-
+
+-
+
+0.3
+
+-
+
+-
+
+-
+
+-
+
+7)
+Figure 5 - Coniparaison eiitrc la solution linbaire et la solution non linbaire pour T, = Z O O C et T, = 5°C a) profils
+de vitesse; h) profils de tenipCrature.
+
+effectuks ont montrB que les Bcarts maxima de temp&
+rature aiiisi obtenus Btaient de I’ordre de f 0.1”C. I1
+est B remarquer que I’obtention d’une surface B temp&
+rature isothermique aurait pu Bgalement Stre obtenue
+en faisant circuler de I’eau chaude h I’interieur d’une
+plaque creuse : cette technique ayant I’avantage d’amener la plaque B la temperature d6sirBe trhs rapidement. Cependant, le choix de la resistance Blectrique a
+BtB dict6 par le fait que cette dernihre permettait de
+simuler plus facilement des conditions frontihres thermiques variees B la surface de la plaque en vue d’dtudes futures.
+Le reservoir Btait fix6 sur une base mBtallique iso1Be des vibrations. Un systhme de supports ajustables
+permettait de placer avec precision la plaque chauffante dans un plan vertical. La fluide utilise durant
+les essais Btait de l’eau distillke. de facon B minimiser
+la formation de bulles d’air sur la surface de la plaque
+chauffante. Le montage exphrimental Btait install6
+dans une chambre froide a environnement contr818 de
+grande dimension qui maintenait I’eau du reservoir B
+la temperature T Id6sirBe. Cette temperature pouvait
+Btre ajtistee B une valeur comprise entre 0 et 15°C
+avec une precision de I’ordre de f 1°C. Dans le prBsent montage aiicun systeme, autre que I’influence de
+la chambre froide. n’a 6th prBvu pour garder la temp&
+rature T Idu reservoir constante. L’apport thermique
+de la plaque chauffante B la masse d’eau contenue
+dans le reservoir se traduisait par la formation d’une
+couche d’eau relativement plus chaude A la surface
+de ce dernier. L’epaississement de cette couche etait
+directement relie au bilan thermique rBsultant de
+I’apport de chaleur de la couche limite et de la perte
+de chaleur entre la surface libre du reservoir et le
+milieu ambiant de la chambre froide. La formation
+de cette couche d’eaii chaude B la surface du reservoir
+Btait Bvidemment indesirable. Cependant, il semble que
+sa prksence n’ait pas affect6 outre mesure les essais
+effectuks dans cette etude pour les raisons disctitees
+dans le paragraphe suivant.
+La mesure des profils de temperature au voisinage
+de la plaque a Bte effectub B I’aide d’une sonde attachee A un chariot situe au-dessus du reservoir e t pouvant se ddplacer dans les trois directions avec line
+prkision de I’ordre de 0.026 mm. La micro-soride utiIis& (YSI,modele 624) etait du type hypodermique
+et consistait essentiellement en tin long tube droit de
+0.636 mm de diamhtre ayant A son extrBmitB le capteur
+
+28
+
+0.2
+
+0.1
+
+0
+
+0.2
+
+0.4
+
+Q6
+
+Ob
+
+I0
+
+1.2
+
+Id
+
+1.6
+
+77
+thermique. De faqon h minimiser les perturbations
+inhvitables rksultant de I’introduction d’une sonde dans
+un Bcoulement. cette dernihre Btait placBe parallhlement h la plaque tel qu’illustre sur la figure 3a. Le
+fait d’orienter ainsi la sonde avait de plus I’avantage
+de minimiser les erreurs de temperature associkes B
+la transmission de chaleur par conduction le long de la
+sonde, le gradient de temperature important dans la
+couche limite &ant dans une direction perpendiculaire
+B la plaque. Une caractkristique supplbmentaire de la
+sonde qui en a motivC son choix est le fait que la
+longueur de cette dernihre Ctait telle que l’on pouvait
+effectuer des mesiires de profils de temperature B une
+profondeur relativement importante par rapport B la
+surface libre du bassin. I1 en resultait que le temps
+nkessaire h une experience Btait nettement infBrieur
+au temps requis pour que I’epaississement de la couche
+thermique de surface discutke prBcedemment puisse
+affecter les mesures. A ce sujet, il est B remarquer
+que JR temp4rature de I’eau dans le riiservoir etait
+mesuree continuellement h I’aide de 3 sondes tBmoins
+(YSI,modhle 514) placees B diverses hauteurs dans
+le rkservoir par rapport h la surface libre. Avec ce
+systhme il Btait possible de suivre la progression de la
+couche thermique au cows d’un essai et de s’assurer en
+tout temps que la pollution thermique ne devenait pas
+trop importante. La mesure des profils de temperature se faisait le long de la ligne de symetrie verticale
+de la plaque de facon B minimiser I’effet des parois
+de c8tB du reservoir. Ces dernihres auraient pu en
+effet sf fecter le caractere bi-dimensionnel de 1’8coulement en crBant des couches limites additionnellee sur
+les c6tBs de la plaque. Cependant, compte tenu du fait
+que la largeur de la plaque reprhentait en general
+environ 20 fois I’bpaisseur de la couche limite, il a BtB
+estime que cet effet n’Btait pas important. Lea diverses sondes thermiques utilishes dans cette etude
+avaient une constante de temps trhs faible, la constante de temps d’une sonde 6tant le temps requis par
+catte derniere pour detecter 63% d’un changement
+
+The Canadian lournal of Chemical Engineering, Vol. 59, February 1981
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+013211
+
+I
+
+Pr * 13.0
+Tu * 11.0 * C
+TI * 1.0%
+
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+Pr = 12.0
+1. ’ 5.0 .c
+1
+1 * 3.5 .c
+
+aao
+OD05
+
+U
+
+-0010
+
+0.0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+a5
+
+1.0
+
+1.5
+
+20
+
+2.5
+
+50
+
+3.5
+
+1
+
+4.0
+
+9
+
+-omOR
+
+I
+
+I
+
+1
+
+03
+
+1.0
+
+1.5
+
+I
+20
+
+I
+
+zs
+
+I
+
+SD
+
+I
+13
+
+i1
+4a
+
+77
+Figure 6 a
+
+- DCveloppeiiieiit transitoire du
+
+profil de vitesse
+
+pour T,”= ll.O°C et Ti = 1.0%.
+
+brusque de temperature. Toutes les temperatures ont
+4th enregistrees B l’aide d’un t616thermomhtre de precision (YSI, modhle 46) permettant des lectures de
+l’ordre de f 0.01”C.
+La procedure utilisee at1 cours d’un essai typique
+consistait tout d’abord B laisser le reservoir rempli
+d’eau durant tine nuit entiere dans la chambre froide.
+La temperature de cette dernihre Btait selectionnee de
+facon B ce que I’eau contenue dans le bassin atteigne
+la temperature d’equilibre d6siree. Les appareils de
+mesures Btalonnes pour des basses temperatures,
+Btaient maintenus continuellement en dtat de fonctlonnement durant cette periode initiale. Un essai
+donne debutait par la mise en marche du contrbleur
+proportionnel de temperature alimentant en courant la
+resistance Blectrique de la plaque chauffante. Un delai
+d’environ 5 B 15 min dtait requis avant qu’un &at
+permanent du systhme ne soit atteint, ce laps de temps
+&ant fonction des temperatures fix6es pour I’exp6rience en cours. Une fois les conditions experimentales
+stabilisdes, la temperature B diverses positions dans
+la couche limite Btait mesuree B l’aide de la microsonde. Au cours de l’essai, une verification constante
+de la temperature de I’eau du bassin Btait effectuh
+afin de constater 1’6tat de contamination du milieu
+ambiant. Lea mesures de temperature &ant terminkes,
+le courant alimentant la plaque chauffante Btait coupe,
+une nouvelle temperature dans la chambre froide dtait
+selectionnee et le reservoir dtait laisse au repos jusqii’h
+I’experience suivante. La table 2 resume lea different5
+essaia effectties et la gamme des parametres physiques
+etudiea.
+La precision des instruments utilises pour contrbler
+et mesurer les diverses temperatures impliquees dans
+cette Btude a Bt6 discutee dans les paragraphes pr6c6dents. Cependant, de facon B se faire une idee sur le
+degre de precision des mesures obtenues avec le present montage experimental, un certain nombre d’essais
+preliminaires ont btk effectues. En premier lieu, des
+profils de t e m ~ r a t u r eont Bt6 mesures pour tine gamme
+de temperature impliquant une relation lineaire entre
+la densite de l’eau et sa temperature. Les mesures
+obtanues ont 6t6 comparbes avec la solution theorique
+d’Ostrach“‘’, pour le cas d’une plaque immerg& dans
+une masse d’eau infinie, e t un Bcart moyen d’environ
+5 pour cent entre les deux a Bt6 observe. Ce resultat
+semble confirmer le fait que les dimenaions finies du
+reservoir, et en particulier lea effets de coin et de la
+pollution thermique, exerqaient une influence ~econ-
+
+Figure 6 b
+
+- Profils
+
+de vitesse perniaiieiit pour T, G 5.OoC
+et ’I’, = 3.5”C.
+
+daire sur le developpement de la couche limite. En
+second lieu, certains des essais experimentaux de
+Schester‘*” ont Bt6 repris et lea resultats obtenus
+dtaient en general concordants, malgrB que des kcarts
+de I’ordre de
+15 pour cent aient BtB obtenus. Cependant, la solution numerique discutee plus haut concordait beaucoup mieux avec les mesures de cette etude
+qu’avec celles de Schester. En troisihme lieu, des mesures effectuees pour une experience donnee B diffbrentes positions le long de la plaque, c’est-&-dire B differentes valeurs du nombre de Grashof, ont donne
+des resultats trhs constants. En supposant que la
+distribution de tempQrature exacte dans la couche
+limite soit celle p r a i t e par Ostrach“’ il semble que
+les mesures experimentales de temperature de cette
+Btude aient 6th effectuees avec une precision de I’ordre
+d’environ 5 pour cent en moyenne avec des Bcarts
+maximum pouvant atteindre dans certains cas 8 B 10
+pour cent. Cependant, la reproductibilite d’une expBrience d’une journee B I’autre etait considerablement
+meilleure, cette dernihre &ant en moyenne de I’ordre
+de 3 B 4 pour cent.
+
+*
+
+Rtsultnts et disctcssion
+La variation du coefficient d’expansion thermique
+de l’eau p en fonction de la temperature T a 6th represent& dans cette Btude, B l’aide d’un polynbme du
+deuxihme degr6, tel que dbfini dans I’6quation (2).
+Les coefficients pl, 8. et ,& de cette equation ont 6th
+determines B partir des donnees experimentales tabulees par Landolt-Bornstein‘U’ concernant la densite de
+I’eau. A cette fin, la methode des regressions multiples
+
+-
+
+TABLE
+2
+
+VALEURS DES PARAdTRES PHYSIQUES UTILISeS LORS DES
+D I F F ~ R E N TESS.IIS.
+S
+
+1
+9
+
+d
+
+3
+4
+
+5
+
+6
+7
+
+R
+-
+
+9
+10
+11
+12
+13
+
+The Canadian Journal of Chemical Engineering, Vol. 59, February 1981
+
+0
+
+1.o
+1.o
+3.5
+3.74
+3.80
+5.70
+5.84
+6.0
+6.3
+22.14
+22.19
+22.20
+
+20.0
+8.0
+
+11.0
+5.0
+9.0
+9.4
+8.0
+14.5
+~.-
+
+8.9
+9.4
+
+27.2
+27.2
+27.2
+
+13.7
+13.0
+13.0
+12.0
+11.7
+11.7
+11.0
+10.8
+10.6
+10.5
+6.4
+6.4
+6.4
+
+29
+
+1.0
+
+0.9
+
+as
+
+a8
+
+ae
+
+0.7
+
+Pr = 6 . 4
+SOLUTION NUMERIQUE
+Tw
+TI
+X(ml
+222 2219 3Q48
+Q
+27.2 22.20 25.40
+30.48
+@ 272 21.94
+
+ae
+
+8
+0.5
+
+0.3
+
+a3
+
+02
+
+a2
+
+0. I
+
+a1
+
+1.5
+
+1.0
+
+20
+
+ao
+
+2.5
+
+- Coniparaison entre la
+
+solution iiiiiiikriqiie ct iles
+profils de tempkrature expkrimentaux.
+
+a BtB utilisee et les resultats obtenus sont preserites
+dans la table 1. I1 a BtB trouve que pour des temp&
+ratures comprises entre 0 et 20°C, le present polyn6me
+predisait la densite de l'eau avec une erreur inferieure
+B 0.1%. Ce dernier a donc 6ttB utilise.
+I1 eat it noter que les proprietes du fluide peuvent
+6tre dvaluees 21 partir de diverses temperatures de
+reference. Ainsi, dans le cas d'un fluide ayant Line
+relation lineaire densit&temperature, Schester"" a
+Bvalue les proprietes de ce dernier en utilisant une
+temperature moyenne Th1= (T," + T i ) / 2 .Schmidt et
+Beckman"" ont utilise une viscosite cinematique basbe
+sur la temperature de la plaque T,, et ont ainsi obtenu
+une meilleure concordance pour leurs profils de temperature expkrimentaux que pour leurs profils de vitesse. Ostrach'"' a utilise la temperature du fluide I?
+l'infini T I et a obtenu, avec les mesures exphimentales prhckdentes, des resultats leghrement plus pr8s
+de sa theorie. Pour cette raison il a 6ttB decide dans
+cette etude d'utiliser la temperature T I comme ref&
+rence pour Bvaluer toutes lee proprietes de l'eau et
+en particulier le nombre de Prandtl P , et le coefficient
+d'expansion thermique de reference PI.
+Les resultats du mod& numerique et de 1'Wude
+experimentale sont present& et discutes dans les
+sections suivantes :
+ModBle numdrique
+Les Bquations de la couche limite unt Bt6 resolues
+numeriquement pour une gamme de temperatures
+comprises entre 0 et 20°C. Lee resultats obtenus ont
+montre qu'il existait trois regimes distincts d'ecoulement laminaire dans la couche limite B savoir: un
+regime d'boulement unidirectionnel vers le haut ou
+vers le bas et un regime d'boulement inverse. L'exis-
+
+30
+
+1
+
+1
+
+R = 13.0
+
+05
+
+77
+Figure 7
+
+I
+
+-
+
+I4gore 8
+
+-
+
+10
+
+IS
+
+7
+
+1
+
+SOL NUM.
+X
+
+44
+
+na
+
+I
+
+a7
+
+0.4
+
+ao
+
+I
+
+21)
+
+(cml
+
+w
+
+Coniparaison entre lu solution iiniii6r:qnc ct
+divers rksoltats erpCrinieiitaiix.
+
+tence de ces trois regimes d'koulement a deja BtB discutbe dans le passe par Vanier'l''. Ce phenomhne est
+directement relie B la non-linearit6 de l'eau et 1'6tablissement d'un regime particulier d'koulement depend
+essentiellement du rapport entre la temperature T, de
+la plaque et celle du fluide T I . Le cas des Bcoulements
+inverses ne se produit que pour une gqmme Btroite de
+temperatures.
+Le problhme de la convection libre pour le cas d'un
+fluide ayant une relation densit64emperature lineaire
+a BtB rbsolu avec beaucoup de precision dans le passe
+par Ostrach'". Cette theorie, bashe sur la methode
+des profils de vitesse et de temperature affines, a BtC
+utilisee comme reference afin de determiner la validite du modhle numerique propose dans cette etude.
+Les figures 4a et 4b montrent respectivement les
+profils de vitesse U = I r / ( z y / p , / A T ) ' "et de temperature e = (T-TI)/(T,,-Tt) adimensionnels en fonction de la distance adimensionnelle normale B la plaque 7 = y(g/PIAT/u'x)V*. La ligne continue represente dans les deux graphiques la solution exacte
+d'Ostrach"' pour un nombre de Prandtl de 10, cette
+valeur &ant typique de la convection naturelle de
+l'eau. Les resultats obtenus pour les mi3mes conditions,
+a partir de la methode numerique, sont present& sur
+ces figures pour fin de comparaison. Le maillage utilist5 est de 15 x 15 noeuds e t l'accroissement dans le
+temps est AT = .16. Une plage de temperature nettement superieure h 4°C et une valeur A T = (Tw-TI)
+trhs faible Bt6 utilisees afin de simuler une relation
+lineaire entre la temperature et la densite de l'eau.
+Les lignes en pointill6 representent I'lvolution d a m
+le temps des profils de vitesse et de temperature obtenus avec une fonction de contraction logarithmique.
+Au f u r et A mesure que le temps T augmente, la
+solution transitoire converge rapidement vers la solu-
+
+The Canadim Journal of Chemical Engineering, Vol. 59, February 1981
+
+I.o
+
+0.9
+
+3
+
+I:
+
+0.8
+
+‘*O
+
+P r = 10.5 -SOL.
+NUM,
+Tw
+Ti
+0
+9.4
+6.3
+o 8.9
+6.0
+
+O*9tt
+
+Pr =10.8
+
+-SOL.
+
+Tw514.5
+Ti = 5.8
+
+1
+
+NUM.
+
+I
+
+OC
+OC
+
+0.7
+
+0.6
+
+-
+
+0.5
+
+0.5
+
+-
+
+0.4
+
+0.4
+
+-
+
+0.3
+
+0.3
+
+-
+
+0.2
+
+0.2
+
+-
+
+0.6
+
+8
+
+8
+
+h
+
+0
+.
+1
+
+I
+
+QO
+Figure 9
+
+0.5
+
+I
+
+I.o
+
+I5
+
+-
+
+Figure 9h
+
+Coinparaison eiitre la solution niiiiikriqiie et clcs
+profils de tenipkratiire exphiinentaux.
+
+tion permanente d’ostrach, ce phenomhne &ant plus
+rapide dans le cas du profil de temperature que dans
+celui du profil de vitesse. E n outre on a observe dans
+le cas de ce dernier qu’il avait tendance P se developper
+avec le temps jusqu’a une valeur IegBrement sup&
+rieure 1 la solution permanente pour ensuite decroitre
+rapidement vers cette dernihre. Ce phenomhne a d6jh
+BtB observe dans le passe p a r Hellums e t Churchill’”.
+La solution permanente obtenue avec le modhle numerique, en utilisant des fonctions d e contraction logarithmique et tangentielle, est representee par des
+points sur ces graphiques. Les profils de temperature
+permanents sont pratiquement atteints lorsque r =
+55, mais des valeurs T = 80 sont requises pour que
+les profils de vitesse atteignent le mbme degrk de
+permanence. On constate que les profils de vitesse et
+de temperature prkdits p a r la methode numerique
+pour un regime permanent sont en general en excellent
+accord avec la solution exacte d’Ostrach. Cependant,
+dans le cas des profils de vitesse, la solution numerique a tendance ir predire des valeurs Eghrement inferieures ir la solution exacte lorsque la distance r) est
+superieure B environ 3.0. Ces leghres differences sont
+imputables A la difficult6 numerique inherente a l’im-
+
+position de la condition frontiere a l’infini. Les essais
+effectues ont montre dans des tests subsequents que
+les deux fonctions de contraction donnaient ir peu prBs
+les mbmes resultats. Cependant, la fonction logarithmique a BtB choisie dans cette etude car elle permet
+en general d’obtenir une meilleure repart ition des
+points s u r les courbes.
+De facon a dtudier numeriquement l’effet de la nonlinearit6 de I’eau, une serie d e calculs a kt6 effectuee
+dans laquelle la temperature de la plaque etait fix6e
+ir T,,= 20°C alors que la temperature de l’eau Ti variait entre 17.5”C et 0°C. Dans ces calculs les &uations du mouvement ont BtB adimensionnalis6es en utilisant un coefficient d’expansion thermique base s u r
+la temperature du mur, ce qui permet d’hviter la singularite lorsque la temperature du fluide est de 3.98”C.
+Pour chacun des cas Btudies, line solution numerique
+a Bt6 obtenue en supposant successivement une relation
+lineaire entre la densite et la temperature de I’eau et
+une relation non-lineaire. Les resultats obtenus ont
+montre que pour Ti = 17.5”C, les deux solutions
+Btaient approximativement identiques, la densite etant
+representbe avec suff isammerit de precision par une
+relation lineaire. Cependant, au f u r et a mesure que
+
+The Canadian Journal of Chemical Engineering, Vol. 59, February I981
+
+31
+
+1.0
+
+-
+
+as
+
+= 11.0 -SOL.
+a8
+0
+
+Tw* 8.6
+Ti = 5.7
+
+Pr = 11.7
+
+NUM.
+
+-
+
+Tp
+
+OC
+
+0
+
+OC
+
+0
+
+0.7
+
+SOL. NUM
+Ti
+3.74OC
+
+9.0 oc
+9 4 O C 380%
+
+06
+
+8
+
+8
+
+0.5
+
+0.5
+
+-
+
+0.4
+
+0.4
+
+-
+
+0.3
+
+0.3
+
+-
+
+0.2
+
+Q2
+
+-
+
+ai
+
+0.1
+
+-
+
+QO
+
+QO
+
+7)
+Figure 9c
+
+Figiire 9d
+
+la temperature T I decroit, un k a r t entre les deux
+types de solutions apparait, tel qu’illustr8 aux figures
+5a et 5b pour lesquelles Ti = 5°C. Les lignes en traits
+pleins de ces figures representent la solution numerique obtenue avec line relation densite-temperature
+lineaire alors que les lignes en pointille correspondent
+au cas non-linkaire. Les resultats obtenus indiquent
+que les profils de vitesse, tout en demeurant B peu pres
+similaires, sont grandement affectes quantitativement
+par la non-linearit8 entre la densite et la temperature.
+Les Bcarts observes s’accentuent lorsque la temperature de l’eau se rapproche de 0°C. La non-lin6arite
+de l’eau joue donc un r81e considerable sur le developpement des profils de vitesse et de temperature.
+La figure 6a montre le developpement transitoire
+du profil de vitesse U en fonction du temps T pour le
+cas T4,.
+= 11°C et T I= 1°C. On constate qu’au debut
+du mouvement le maximum de densite de l’eau a pour
+effet de provoquer une inversion du profil des vitesses
+dans la couche limite de I’bcoulement. D’une part le
+fluide en contact immediat avec la plaque devient plus
+leger que le fluide environnant et subit une force
+gravitationnelle vers le haut. D’autre part, il existe
+une couche de fluide dont la temperature est proche
+
+de 4°C et qui subit une force gravitationelle vers le
+bas. Le mouvement resultant de ces deux forces contraires donne donc naissance B un Bcoulement inverse.
+trks evident au temps T = 13. Cependant, au fur et a
+mesure que la plaque rechauffe le fluide cet effet s’estompe et a presque compktement disparu au temps
+T = 38. En regime permanent, c’est-8-dire au temps
+T = 63, les effets initiaux du renversement de la
+densite sont anihiles par le cisaillement visqueux et
+l’ecoulement est alors unidirectionnellement dirige
+vers le haut.
+I1 est possible d’obtenir en regime permanent des
+Bcoulements inverses. Cependant, la gamme de temp6ratures T,,.
+et TIdonnant naissance a ce phbnomhe
+est relativement btroite. Un exemple de ce type d’koulement est illustre dans la figure 6b pour les conditions T,, = 6.0”C e t T, = 3.6”C.On remarque que
+dans ce cas les temperatures de la plaque et du fluide
+sont relativement prhs de 3.98O.Cet situ6es de part et
+d’autre de cette valeur correspondant au maximum de
+densit6 de l’eau. L’koulement resultant est alors inverse avec cependant une vitesse 3i proximite de la
+plaque qui est plus grande et dirigee vers le haut.
+Pour une temperature de la plaque plus faible, ces
+
+32
+
+The Canudian Iournal of Chemical Engineering, Vol. 59, February 1981
+
+vitesses deviennent d u mlme ordre de grandeur. Toutefois, dans le cas d'un dcoulement inverse, on peut se
+demander jusqu'h quel point la presente solution numerique correspond a u cas physique decrit lors de la
+formulation du problhme. E n effet, il a BtB suppose
+dans cette analyse que la vitesse de I'ecoulement A la
+position x = 0 Btait nulle. Cette hypothhse revient en
+f a i t a considerer que les profils de vitesses sont affines dans la couche limite. Cependant, les resultats
+experimentaux de Schester'"' pour le cas d'un Bcoulement inverse ont montre qu'ir la position x = 0, il Y
+avait en realit6 une circulation importante de fluide.
+De fait, pour resoudre correctement le cas d'un BCOUlement inverse, il faudrait considerer les equations d e
+Navier Stokes e t d'bnergie plutbt que les equations
+simplifibes d e la couche limite.
+Rdsultats expdrimentaux e t comparaison
+avec la thdorie
+La figure 7 montre les resultats expbimentaux obtenus en mesurant le profil de temperature a u voisinage
+d'une plaque verticale isothermique pour les conditions T,, = 27.2"C, Ti = 22.2"C et P, = 6.4, cette
+gamme de tempSratures correspondant h une situation
+pour laquelle la relation e n t r e la temperature et la
+densite de l'eau est approximativement lineaire. Le
+profil de temperature predit p a r le present modhle
+t h b r i q u e est represent6 p a r la ligne en t r a i t s pleins
+s u r cette figure. Comme on peut le constater, ce profil
+est en excellent accord avec les mesures exphrimentales qui sont groupees en trois series diffkrentes s u r
+ce graphique. Deux series ont Bt6 obtenues B la position x = 30.48 cm le long de la plaque et la troisiGme,
+A x
+25.40 cm. Les profils de temperature e t de
+vitesse dans la couche limite etant affines, ces resultats definissent une courbe universelle. 11s demontrent
+de plus que les mesures effectuees dtaient reproductibles d'une experience A l'autre.
+L'effet du maximum de densite de I'eau s u r les
+profils de temperature induits p a r une plaque verticale isothermique a dkjA BtB Btudie experimentalement
+dans le passe p a r Schester"". La f i g u r e 8 presente des
+resultats typiques obtenus p a r cet auteur ainsi que
+des mesures effectuees dans la presente investigation
+pour des conditions experimentales approximativement similaires. On constate qu'en general la solution
+numerique est en accord avec les resultats obtenus
+par ces deux etudes experimentales distinctes. Cependant, une variation plus importante entre la theorie
+et les experiences est observbe dans le cas des mesures
+effectuees p a r Schester. I1 est A remarquer qu'avec les
+temperatures considCrees dans ce cas, (T,,
+= 8.8"C et
+Ti = 1.0"C). 1'8coulement resultant est unidirectionnellement dirige vers le bas. Les valeurs des positions
+x pour lesquelles les mesures experimentales ont Bt6
+effectuees correspondent donc B un systhme de coordonnees inverse p a r rapport ii celui defini dans la
+figure 1.
+La figure 9 presente un certain nombre d e rdsultats
+experimentaux typiques de profils de temperature
+mesurds pour diverses conditions de temperatures T,,
+et T , . Pour chacun des quatre cas etudies, les temp&
+ratures T,,e t Ti sont telles que 1'6coulement resultant
+Btait unidirectionnellement dirigb vers le haut. Sur
+chacun des graphiques la solution numerique a 6th
+tracee pour fin de comparaison. On remarque que
+l'influence du nombre de Prandtl sur les profils de
+temperature eat relativement faible. Un resultat similaire avait Bt6 observe p a r Ostrach'" pour le cas
+d'un fluide ayant une relation densite-temphrature
+linkaire.
+
+.=
+
+Les profils de temperature pour des regimes d'koulement inverse ont BtB effectues d a n s cette etude,
+mais les resultats obtenus Btaient instables e t n e sont
+donc pas present&. I1 a BtB observe que dans la partie
+de l a couche limite en contact avec la paroi les mesures
+de temperature s e faisaient normalement. Cependant,
+dans la portion externe d e la couche limite, la mesure
+des temperatures fluctuait considkrablement. Ces fluctuations Btaient cependant assez aleatoires et aucune
+periode ni amplitude n'a pu dtre associee it ces oscillations. Ce resultat dejA observe p a r Schester"" provient probablement du f a i t que la gamme d e temperatures requises pour observer un Bcoulement inverse
+est extrdmement etroite. I1 en resulte que la moindre
+fluctuation experimentale de T,,.
+et T , peut causer des
+changements considerables dans les champs de temp&
+r a t u r e e t de vitesse.
+
+Conclztsions
+Dans cette etude la convection libre transitoire d'une
+masse d'eau basse temperature bordee par une paroi
+verticale isothermique a BtB Btudiee numeriquement
+en rbsolvant les equations de la couche limite p a r une
+methode aux differences finies implicite. Les result a t s obtenus indiquent que le maximum de densite de
+I'eau a 3.98"C a pour effet d e modifier considerablement les profils de vitesse e t de temperature affines
+p a r rapport a u cas linkaire. Cette inversion de la densite peut en f a i t donner naissance B des Bcoulements
+unidirectionnellement diriges vers le bas ou vers le
+haut de mdme qu'B des Bcoulements inverses. Un traitement rigoureux de ce dernier type d'kcoulement n&
+cessiterait cependant line solution basbe sur les equations de Navier-Stokes plutbt que siir celles de la
+couche limite, ces dernihres n e pouvant representer
+adequatement toutes les conditions physiques d'un
+Bcoulement inverse.
+Le modde numerique a BtB compare avec des mesures experimentales obtenues dans cette etude de
+mdme qu'avec celles de Schester. Un excellent accord
+entre la solution theorique e t les risultats experimentaux a 6th observe pour tous les cas Btudies.
+
+Hemerciements
+Cette Ctude a &t& faite dann le laboi.utdre il'hudri)ilunamiiiiie clr
+I'Eeole Pulyteehniquc de I'UniversitC d r MontvCal. Elle n 6th iendue
+i w s i h l e ar8c-e k une subvention ilii Cunreil National de Recherche clu
+C'nnncla latibventions NRC A-9001 et NRC A-41971.
+
+Liste des symholes
+(I
+
+=
+
+F
+F'. F"
+
+=
+=
+
+c
+
+G.
+B
+p,
+I
+
+T
+T,
+
+=
+=
+=
+=
+=
+
+=
+
+TO,.
+AT
+
+=
+=
+=
+
+P
+
+=
+=
+
+x . .y
+Lc
+P
+
+=
+=
+=
+=
+
+p f T )ou
+
+=
+
+11.
+
+U.V
+
+X . I', Z
+
+p(e)
+
+AP
+
+=
+
+7
+
+=
+
+Bpi
+
+=
+=
+=
+=
+
+V
+
+The Canudian lozcrnal of Chemical Engineering, Vol. 59, February I981
+
+constante
+fonction definie dans I'equation (8)
+derivee premiere et seconde de la fonction F
+acceleration terrestre locale
+nombre de Crashof local
+conductivite thermique
+nombre de Prandtl
+temps
+temperature de I'eau
+temperature initiale de l'eau
+temperature de la paroi
+( T w- T i ) .differencecaracteristique de temperature
+vitesaes dans les directions x et frespectivement
+vitesses adimensionnaliseesdans les directions X et 'l
+respectivement
+coordonnees
+coordonnees adimensionnalisees
+viscosite dynamique B Ti
+densite de I'eau B T,
+densite de l'eau en fonction de la tenqi6rature
+(Z - pfe)/p
+temps adimensionnalise
+tempbratwe adimensionnalisee
+coefficient d'expansion thermique B la temperature T
+coefficient d'expansion thermique B la temperature Ti
+viscositk cinkmatique A Ti
+
+39
+
+References
+(1) Robillard, L., Ecole Polytechnique de Montreal,
+rapport techniquc no EP77-R-39 (1977).
+( 2 ) Forbes, R.E. e t Cooper, J.W., Trans. ASME, J. Heat
+Transfer 97C, 47 (1975).
+( 3 ) Cheng, K.C..Takeuchi, M. e t Gilpin, R.R., Numerical
+Heat Transfer 1. 101 (1978).
+(4) Cheng, K.C. et Takeuchi, M., Trans. ASME, J. Heat
+Transfer 98C. 58 (1976).
+(5) Pohlhaiisen, E., Zeit. Ang. Math. Mech. 1, 115
+( 1921).
+(6) Ostrach, S., Natl. Advising Conim. Aeronaut., report
+111, 1 (1953).
+(7) Hara, T., Bulletin JSME, 3, no 1 (1968).
+(8) Hellums, J.D. et Churchill, S.W.,
+Chem. Eng. Prngr.
+Symp. Ser. No. 32, 57, 75 (1961).
+(9) Hellunis, J.D. e t Churchill, S.W., AIChE J. H, 690
+(1962).
+(10) Schmidt, E. e t Beckman, W., Tech. Mech. Us. Therniodynamik 10, 1, 341 (1930).
+(11) Eckert, E. et Sochngen, E., Tech. Rep. no 5747,
+A.T.I. no 44580, Air material command, Dayton,
+Ohio (1948).
+(12) Schenk, C. e t Schenkels, A., Chem. Eng. Prog. Synip.
+Ser. No. 84, 66, 117, (1968).
+(13) Yen, Y.C.e t Galea, F., Phys. Fluids 12, 3, 509 (l!Wl).
+
+34
+
+(14) Boger, D.V. et Westwater, J.W., J. Heat Transfer,
+89C, 81 (1967).
+(15) Vanier, R.V. e t Tien, C., Chem. Eng. Progress Symp.
+Ser. No. 32, 64. 240 (1968).
+( 1 6 ) Adrian, R.J., J. Fluid Mech. 69, 4, 753 (1975).
+(17) Sugawarra, M., Fukusako, S. e t Seki, N., Bull.
+J.S.M.E. 18, 21, 714 (1975).
+(18) Gilpin, R.R., Int. J. Heat Mass Transfer 18, 1307
+(1975).
+(19) Gilpin, H.R., lnt. J. Heat Mass Transfer, 20, 693
+(1977).
+(20) Robillard, L. e t Vasaeur, P., Can. J. Civ. Eng. 6 ,
+4, 81 (1979).
+(21) Schester, R.S., Ph.D. thesis, Univ. Minnesota, Mirineapolis (1956).
+(22) Goren, S.L.,Chcni. Eng. Sci. 21, 515, (1966).
+(23) Vasseur, P. et Robillard, L., Fourth Int. IARH
+Synip. on Ice problems, Lulea, Sweden, 257 (1978).
+(24) Vasseur, P. and Robillard, L., Hydraulic Division,
+Ecole Polytechnique de Mnntrhal, Internal Repnit
+(1979).
+(25) Laiidolt-Bornstein, Springer-Verlag, 11, 1, 36 (1969).
+Manuscript received December 7, 1979; accepted for
+publication August 12, 1980.
+
+*
+
+*
+
+*
+
+The Cmadinn Iournal of Chemical Engineering, Vol. 59, February 1981
+

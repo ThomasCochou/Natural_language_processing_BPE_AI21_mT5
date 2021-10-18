@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La religion dans l’espace public post-séculier, une confrontation critique des perspectives de Habermas et de Gauchet</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La religion dans l’espace public post-séculier, une confrontation critique des perspectives de Habermas et de Gauchet</title><author xml:id="author-0000"><persName><forename type="first">Antoon</forename><surname>Braeckman</surname></persName><affiliation>Université de Leuven</affiliation></author><idno type="istex">56C24CF69739352BAA50387A8BFCA3D9EA7F081F</idno><idno type="ark">ark:/67375/6GQ-RF9G7132-8</idno><idno type="DOI">10.1017/S0012217310000120</idno><idno type="PII">S0012217310000120</idno><idno type="article-id">00012</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-03"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="53">53</biblScope><biblScope unit="page" to="72">72</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Dans sa lecture du rôle de la religion dans l’espace public, Habermas fait abstraction du pouvoir de la religion d’instituer symboliquement les communautés. Gauchet part d’une vision de la religion dans laquelle cette dimension est centrale. Je considère toutefois que Gauchet sous-estime également la mesure dans laquelle la religion a conservé ce pouvoir au sein de la société post-séculière.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: This article seeks to demonstrate that in his reading of the role of religion in the public realm, Habermas has overlooked religion’s power to symbolically institute communities. Although Gauchet starts from a vision of religion in which this dimension is central, I contend that he too underestimates the extent in which religion has retained this power within postsecular society.</p></abstract></profileDesc><revisionDesc><change when="2010-03">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La religion dans l’espace public postséculier, une confrontation critique des
+perspectives de Habermas et de Gauchet
+
+ANTOON BRAECKMAN
+
+Université de Leuven
+
+RÉSUMÉ : Dans sa lecture du rôle de la religion dans l’espace public, Habermas fait
+abstraction du pouvoir de la religion d’instituer symboliquement les communautés.
+Gauchet part d’une vision de la religion dans laquelle cette dimension est centrale. Je
+considère toutefois que Gauchet sous-estime également la mesure dans laquelle la religion a conservé ce pouvoir au sein de la société post-séculière.
+ABSTRACT: This article seeks to demonstrate that in his reading of the role of religion
+in the public realm, Habermas has overlooked religion’s power to symbolically institute
+communities. Although Gauchet starts from a vision of religion in which this dimension
+is central, I contend that he too underestimates the extent in which religion has retained
+this power within postsecular society.
+
+1. Présentation
+Au cours de la dernière décennie, la séparation moderne des rôles entre la religion et la politique, dont le principe de séparation de l’Église et de l’État demeure le symbole le plus éloquent, a été mise sous pression. Diverses évolutions
+ont contribué à cette situation, mais la plus importante est l’inﬂuence croissante que les convictions et les mouvements religieux (militants) — qu’ils soient
+juifs, chrétiens ou musulmans — ont acquis dans l’opinion publique. L’essence
+de cette problématisation de la division séculariste entre la religion et la politique se trouve dans le fait que l’on n’accepte plus que la religion soit une
+Dialogue 49 (2010), 53-72.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000120
+
+54
+
+Dialogue
+
+matière purement privée, estimant qu’elle doit assumer sa place légitime dans
+la sphère publique. Cette question a également été abordée par la philosophie
+politique, à tel point que certains chercheurs (Cooke, 2006, p. 189; Cooke,
+2007; Lafont, 2007) suivent l’exemple de Habermas (2005, p. 116) lorsqu’ils
+se réfèrent à la société «post-séculière» : une société moderne qui a abandonné
+son sécularisme originellement militant et est préparée à accepter que la
+religion se voie octroyer une plus grande place au sein de la sphère publique.
+La question primordiale est évidemment de savoir quelle place doit être attribuée à la religion et sur quelle base et il attendu que sur ce point les opinions
+diffèrent. L’intéressant désaccord entre Rawls et Habermas est caractéristique
+à cet égard. Si Rawls considère que la religion ne relève pas de l’espace public,
+Habermas estime quant à lui le contraire, mais sous certaines conditions
+restrictives. Au ﬁl de temps, ce débat a déclenché de nombreuses réactions et
+j’y reviendrai plus avant.
+Le point que je souhaiterais soulever ici se situe toutefois sur un autre plan.
+Cette controverse tend à postuler tacitement une idée particulière de la religion
+qui est loin d’être évidente, mais qui détermine la perspective selon laquelle les
+réponses sont données. Dans ce qui suit, je chercherai avant tout à relever les
+problèmes que pose cette vision implicite de la religion qui fait abstraction
+d’une de ses dimensions fondamentales : son pouvoir d’institution communautaire symbolique. On peut constater notamment que Habermas se concentre
+unilatéralement sur les aspects tant moraux qu’épistémiques de la religion, en
+négligeant son pouvoir permanent d’institution communautaire symbolique.
+En me basant sur les travaux de Marcel Gauchet, philosophe et essayiste politique français, je prétends mettre en exergue cet aspect fondamental de la religion et montrer comment il mène à une évaluation très différente du rôle de la
+religion dans la société post-séculière. Pourtant, je considère que Gauchet
+sous-estime également la mesure dans laquelle la religion a conservé intact son
+pouvoir d’institution communautaire symbolique au sein de la société moderne
+post-séculière. Pour corroborer cette position, je montre comment, dans nos
+sociétés occidentales, des phénomènes relativement hétérogènes comme
+l’importance renouvelée de la religion dans l’espace public, le renouveau de
+certaines formes de nationalisme et la demande associée de reconnaissance des
+droits des groupes et, partant, de formes de pluralisme légal, peuvent préﬁgurer
+de nouvelles transformations de l’espace public qui ne sont pas sans soulever
+de problèmes.
+2. Habermas et la religion dans les frontières de la raison délibérative
+La philosophie politique de Habermas vise à fournir aux principes normatifs de
+l’État démocratique constitutionnel un fondement basé sur sa propre théorie
+discursive. Habermas cherche, plus spéciﬁquement, à reconstruire les présuppositions normatives qui constituent la base de la formation discursive de
+l’opinion et de la volonté qu’il considère comme le cœur de l’État démocratique constitutionnel (Habermas, 1996, p. 5). Un élément crucial de cette
+
+Religion et espace public postséculier 55
+
+formation discursive de l’opinion et de la volonté est la sphère publique, en
+tant que lieu réel de délibération où sont prises les décisions sur la validité des
+normes socialement contraignantes. Car, dans une démocratie constitutionnelle, les seules normes valables sont celles dont ont convenu toutes les parties
+intéressées d’un commun accord et dans un processus libre et ouvert de délibération. En d’autres termes, la formation discursive de l’opinion et de la
+volonté au sein de la sphère publique, à laquelle toutes les parties intéressées
+peuvent en principe contribuer, constitue selon Habermas la base de la légitimité ultime des normes et des principes de la démocratie constitutionnelle.
+Habermas conçoit ces processus délibératifs de formation de l’opinion et de
+la volonté d’après sa théorie discursive. Cela veut dire qu’ils sont conçus conformément au modèle de l’action communicationnelle : ils sont orientés vers
+l’accord rationnel dans lequel, en déﬁnitive, la «force de conviction du meilleur argument» est décisive (Habermas, 1996, p. 103; Habermas, 1998, p. 37).
+C’est précisément parce que dans le processus délibératif (qui suppose une
+situation de discussion idéale) l’accord est formé sur la base d’une argumentation rationnelle que Habermas considère le consensus atteint non seulement
+comme normativement valable, et donc légitime, mais comme acceptable dans
+un sens rationnel, c’est-à-dire défendable d’un point de vue strictement rationnel ou cognitif (Habermas, 1998, p. 43-44). Cela est dû au fait que les normes
+sont justiﬁées du point de vue de la théorie discursive, à l’aide d’une procédure
+qui est analogue à la justiﬁcation discursive des propositions vraies (Habermas,
+1998, p. 38; Cooke, 2000, p. 953). Dans les deux cas, le consensus atteint est
+le résultat d’un échange de motifs rationnels, c’est-à-dire d’arguments ayant
+un contenu cognitif ou épistémique; et cela implique que, dans les deux cas,
+l’«acceptation» est atteinte sur la base de motifs épistémiques (Habermas,
+1998, p. 42). Sur le contenu épistémique des normes légales comme résultat
+des processus délibératifs publics, voir Habermas (1996, p. 121, p. 147, p. 151;
+2005, p. 126), Cooke (2000, p. 952), Geenens (2007, p. 363, p. 365), Lafont
+(2007, p. 253).
+Lorsque Habermas soulève, dans Zwischen Naturalismus und Religion, la
+question de la place de la religion dans la sphère publique, il le fait dans le
+cadre de la théorie discursive que nous venons de décrire. Sa question est
+dès lors formulée de la manière suivante : comment — c’est-à-dire de quelle
+manière et dans quelles conditions — du point de vue de la théorie discursive
+la religion contribuerait-elle ou encore comment serait-elle une menace au
+développement d’une démocratie constitutionnelle et à ses principes normatifs
+sous-jacents? En d’autres termes, comment et dans quelles conditions la religion contribuerait-elle aux processus délibératifs de la formation de l’opinion
+et de la volonté aﬁn de déterminer les normes et les principes de l’État constitutionnel démocratique?
+Dans le cadre de la théorie de la discursivité, on peut préciser comment. Il
+est clair que la religion peut seulement contribuer au processus délibératif de la
+formation de l’opinion et de la volonté à condition qu’elle apporte sa propre
+
+56
+
+Dialogue
+
+contribution cognitive ou épistémique à l’argumentation en cours. Plus particulièrement, la contribution de la religion nécessite l’apport dans le débat
+d’impressions ou d’un contenu cognitif comparable qui, sinon, ne serait pas
+intégré dans ce débat ou, au moins, pas de la même manière. Et, effectivement,
+la religion contribue de cette manière au débat selon Habermas. Il est convaincu que la religion possède sa propre véracité, qu’elle est une source et
+un réservoir important d’intuitions morales et qu’elle dispose de moyens
+d’expression et de sensibilités caractéristiques face à des pathologies sociétales, des échecs individuels, des modes de vie dissolus, etc. (Habermas, 2005,
+p. 115) et craint en particulier que disparaissent ces aspects de notre tradition
+culturelle (Habermas, 2005, p. 116, p. 137). En outre, il soutient que les croyants devraient être en mesure de formuler leurs arguments en langage religieux,
+à condition que ces arguments soient fondés sur le contenu cognitif spéciﬁque
+de la religion (Habermas, 2005, p. 132-133). Il afﬁrme qu’ils ne doivent pas
+traduire leurs propres motifs religieux en arguments séculiers, rationnels, car
+l’on ne peut attendre des croyants qu’ils soient capables de fonder leur position
+indépendamment de leurs convictions religieuses (Habermas, 2005, p. 133).
+Cette traduction lui paraît par ailleurs nécessaire au niveau formel, institutionnel
+de la formation de la volonté publique. Que l’on parle pour une institution
+publique ou en tant que représentant politique, les arguments appuyant la décision prise doivent être rendus de manière séculière et rationnelle, c’est-à-dire
+également accessible à tous les citoyens (Habermas, 2005, p. 133-134). Dans
+une société post-séculière, les normes générales contraignantes ne peuvent
+jamais se baser uniquement et unilatéralement sur des convictions religieuses,
+car cela constituerait une violation du principe de la neutralité philosophique
+de l’autorité politique (Habermas, 2005, p. 140).
+Or, en tant que source séparée d’impressions, la religion peut être pertinente
+pour le processus délibératif de formation de l’opinion et de la volonté ainsi
+que formuler des arguments dans la sphère publique informelle dans son propre
+langage religieux, mais elle peut uniquement le faire lorsqu’un certain nombre
+de conditions sont remplies. Ainsi, Zwischen Naturalismus und Religion examine
+avant tout ces conditions. Plus spéciﬁquement, Habermas essaie de déterminer
+quelles conditions autant la religion que la société séculière devraient remplir
+pour que la religion puisse contribuer au processus délibératif de formation de
+l’opinion et de la volonté démocratiques. Avant tout, le croyant doit accepter la
+société séculière. Cela signiﬁe :
+1) que l’on doit accepter le pluralisme philosophique de la société moderne
+et, donc, admettre que l’opinion de quiconque ne peut jamais, par déﬁnition,
+être partagée par tous;
+2) que le croyant doit reconnaître l’autorité de la science comme ayant le
+monopole de la connaissance de la société;
+3) que le croyant doit accepter les prémisses de l’État constitutionnel, qui
+sont fondées sur la moralité séculière.
+
+Religion et espace public postséculier 57
+
+Cela implique de reconnaître la suprématie de la moralité séculière par rapport à nos propres opinions religieuses ou morales (Habermas, 2001, p. 14).
+Ailleurs, Habermas (2005, p. 269) avance même l’idée que le croyant doit voir
+un lien positif entre son propre ethos et la moralité séculière de la société. Il
+faut comprendre cette moralité, en quelque sorte, comme provenant de notre
+propre ethos religieux; il faut comprendre l’un comme étant conforme à l’autre.
+Le citoyen séculier doit, pour sa part, accepter l’impossibilité de prouver
+l’irrationalité des visions religieuses du monde. Autrement dit, il faut accepter
+la position selon laquelle la religion n’est pas déraisonnable et, partant, qu’elle
+ne peut être considérée comme un phénomène qui est voué à disparaître
+(Habermas, 2005, p. 117-118, p. 145). En outre, et dans la vision de Habermas
+cela revient à la même chose, les gens doivent reconnaître que les convictions
+religieuses peuvent contenir une importante plus-value cognitive, notamment
+en ce qui concerne les intuitions morales (Habermas, 2005, p. 137, p. 145).
+La position de Habermas diffère fondamentalement de celle de Rawls.
+Rawls prétend que des doctrines globales (raisonnables), parmi lesquelles il
+classe les religions (Rawls, 1993, p. 58-66), n’ont pas en elles-mêmes un rôle
+à jouer dans l’espace public : pas dans l’espace public informel de la formation
+d’opinion et encore moins dans le domaine institutionnel formel de la formation de la volonté publique. Selon lui, les religions et les visions du monde
+similaires qui sont expressément centrées sur les valeurs appartiennent à la
+sphère privée. C’est pourquoi les points de vue de ces doctrines globales, si
+elles veulent jouer un quelconque rôle dans le forum public, doivent être
+traduits en langage séculier. Rawls estime que cet acte de traduction est nécessaire car sinon la possibilité d’un «consensus général» (overlapping consensus) entre les diverses doctrines globales — qui constitue le noyau du libéralisme
+politique de Rawls — serait à peine possible (voir entre autres Rawls, 1993,
+p. 217-218, p. 226).
+Sans s’appesantir sur cette discussion entre Habermas et Rawls, qui est
+également abordée à profusion dans la littérature, il est manifeste que la position de Rawls et celle de Habermas s’exposent à un certain nombre de critiques. Habermas fait remarquer avec raison que la traduction des convictions
+religieuses en positions séculières n’est pas du tout simple. Après tout, on ne
+peut attendre des croyants qu’ils fournissent des arguments et des motifs
+indépendants de leurs convictions religieuses pour appuyer leurs positions
+(Habermas, 2005, p. 133). C’est précisément pour cette raison que Habermas
+admet le langage religieux au sein de l’espace public informel. Pourtant,
+l’opinion de Habermas elle-même soulève également des problèmes. En premier lieu, il semble compromettre l’important théorème de la «compréhension
+mutuelle» de sa théorie de l’agent communicationnel. Étant donné qu’il n’est
+plus nécessaire de traduire ses propres opinions religieuses en langage séculier
+à l’intérieur de la sphère publique informelle et qu’il est donc possible d’utiliser
+simplement son propre idiome religieux, la signiﬁcation de ce consensus
+demeure imprécise dans la perspective de la délibération publique. L’action
+
+58
+
+Dialogue
+
+communicationnelle est-elle encore dirigée vers la «compréhension mutuelle»
+(Verständigung) ou aspire-t-elle simplement à comporter le respect formel
+dans le sens d’une reconnaissance mutuelle non substantielle de l’autre en tant
+que personne? De plus, d’autres ont souligné que la solution proposée par
+Habermas de lever la condition restrictive relative aux arguments religieux au
+sein de la sphère publique informelle, mais de l’imposer dans la sphère publique formelle et institutionnelle, est tout aussi exposée aux critiques que celle
+de Rawls. En effet, Habermas suggère qu’il est possible de traduire le même
+contenu (celui des arguments strictement religieux) en utilisant d’autres outils
+épistémiques (séculiers et généralement accessibles) et que, lorsque cette traduction se révèle impossible, les raisons spéciﬁquement religieuses doivent
+être exclues, simplement parce qu’elles ne peuvent être traduites en arguments
+généralement accessibles et rationnels (Lafont, 2007, p. 245).
+Malgré l’intérêt de ce débat, l’élément particulièrement signiﬁcatif est
+l’hypothèse fondamentale commune qui le sous-tend. Selon cette hypothèse,
+la religion se présente avant tout comme une «vision du monde» (Weltbild;
+cf. Habermas, 2005, p. 117) ou, selon la formulation de Rawls, comme une
+«doctrine globale (raisonnable)». Il s’agit d’un ensemble d’opinions, de valeurs
+et de normes plus ou moins cohérentes et, en tant que telles, une source
+distincte de contenu épistémique et cognitif qui est, pour cette même raison,
+important en tant qu’ensemble d’arguments à introduire dans le débat public, à
+condition que certaines conditions soient remplies.
+Comme il a été indiqué ci-dessus, cette hypothèse est liée chez Habermas à
+la perspective de sa théorie discursive. Selon cette perspective, la religion se
+manifeste avant tout comme une source de contenu cognitif, comme un
+ensemble de conceptions présentant une pertinence éthique particulière pour le
+développement d’une vie individuelle et collective, dont les intentions morales
+contiennent une véracité épistémique. C’est pourquoi, aux yeux de Habermas,
+la religion occupe une place légitime dans l’espace public : dans le débat
+public, aucun argument pouvant être pertinent de manière épistémique ou cognitive ne peut être négligé, quelle que soit son origine. De même, et comme un
+effet du regard théoretico-discursive, l’espace public est présenté avant tout
+comme un espace de débat, où des arguments opposés sont échangés et où la
+force non contraignante du meilleur argument prévaut. La situation de discussion idéale imaginée de manière contrefactuelle dans laquelle toutes les parties
+intéressées sont capables de participer sur un pied d’égalité, avec le caractère
+épistémique des arguments fournis, assurent la rationalité de l’accord à atteindre comme le résultat du débat. Cette double réduction, tout d’abord de l’espace
+public vers un espace de discussion et ensuite de la religion vers une source
+d’intuitions morales dont les noyaux cognitifs et épistémiques peuvent constituer des contributions argumentatives dans cette discussion, révèle clairement à quel point le paradigme de l’argumentation scientiﬁque, cognitivement
+fondée, est restée le modèle de réﬂexion de Habermas concernant les processus
+délibératifs moraux et politiques dans la sphère publique (voir, entre autres,
+
+Religion et espace public postséculier 59
+
+Habermas, 1996, p. 16, p. 18-19). Dans Zwischen Naturalismus und Religion,
+Habermas conﬁrme une fois encore ce point de vue. Il suggère même que la
+différence entre les débats politiques et scientiﬁques est purement circonstancielle (Habermas, 2005, p. 267). Finalement, vus sous cet angle, les processus
+délibératifs politiques sont eux-mêmes orientés vers la recherche de la vérité —
+déﬁnie comme un consensus rationnel — et la religion est censée y contribuer
+dans un sens cognitif. Par conséquent, si la religion doit avoir une quelconque
+importance dans l’espace public, elle doit l’être comme source de «plus-value
+cognitive» pour le débat public, qui accepte les règles de l’argumentation rationnelle et — au niveau institutionnel — parle même le langage de la raison
+séculière.
+La question est évidemment de savoir si peuvent réellement être maintenues
+l’idée que défend Habermas de l’espace public, qui est si clairement modélisée
+selon la «république des savants», et son opinion concomitante sur la religion.
+Plus spéciﬁquement, son opinion du rôle de la religion dans l’espace public ne
+conduit-elle pas à une cécité sélective à l’égard d’autres manières possibles
+pour la religion à se manifester aujourd’hui dans l’espace public? Je suis enclin
+à répondre par l’afﬁrmative à ces questions. Dans son idée de la religion, Habermas en arrive à sous-estimer, voire à négliger, l’une des dimensions fondamentales de la religion : son pouvoir d’institution communautaire symbolique. C’est
+précisément dans cette capacité qu’aujourd’hui la religion, suite à la mondialisation et aux ﬂux migratoires à grande échelle qui y sont associés, gagne en pouvoir et en inﬂuence, et présente inopinément un déﬁ pour la démocratie et ses
+processus délibératifs de formation de l’opinion et de la volonté.
+Mais qu’entendons-nous par «pouvoir d’institution communautaire symbolique de la religion»? Pour l’expliquer, il faut se tourner vers les travaux du
+philosophe politique français, Marcel Gauchet, qui inclut cette dimension de la
+religion dans le pilier central de sa philosophie politique en général et de sa
+vision de la démocratie en particulier (Gauchet, 1997)1.
+3. Gauchet : la religion et l’institution symbolique de la société
+Selon Gauchet, la religion n’est pas avant toute autre chose une doctrine globale
+englobant des intuitions morales cognitivement pertinentes, qui peuvent apporter
+une contribution utile au processus délibératif de formation de l’opinion et de la
+volonté. La religion est surtout la forme originale de l’institution communautaire
+symbolique : c’est la manière originale selon laquelle les liens humains forment
+des communautés symboliques, c’est-à-dire des communautés qui sont structurées par un système complexe et cohérent de signiﬁcation. Dans sa forme originale, la religion est dès lors la préﬁguration «négative» du politique et le politique
+doit être compris comme une institution symbolique comparable, mais différemment structurée, de la société. Cette équivalence fonctionnelle entre religion et
+politique reﬂète précisément qu’elles entretiennent dans la conception de Gauchet
+des relations beaucoup plus étroites que dans celle de Rawls ou de Habermas2.
+Pour expliquer cette position, j’examinerai brièvement
+
+60
+
+Dialogue
+
+1) les différentes manières dont la religion et la politique instituent symboliquement les communautés;
+2) les effets de cette situation sur les relations historiques entre religion et
+politique;
+3) l’évaluation par Gauchet du rôle actuel de la religion dans l’espace
+public.
+Dans les sections suivantes, je chercherai à retravailler de manière critique
+les opinions de Gauchet et de Habermas pour procéder à une nouvelle évaluation
+du rôle actuel de la religion dans les sociétés post-séculières.
+Dans le sillage de Pierre Clastres, anthropologue français aujourd’hui
+disparu, Gauchet conçoit la structure de la religion primitive comme une
+«neutralisation» du politique (Gauchet, 2005, p. 12, p. 70)3. On trouve d’un
+côté la société primitive, qui se considère elle-même comme unité en raison
+d’un lien de dépendance qui la lie à une altérité fondatrice antérieure, composée par les ancêtres fondateurs de la société. Cette altérité fondatrice antérieure
+est quant à elle l’origine irrécouvrable de la société; elle lui a imposé sa structure et son ordre immuables. D’après Gauchet, cette structure indique que la
+perspective depuis laquelle la société se conçoit elle-même, est extérieure à la
+société (Gauchet, 2005, p. 64, p. 66). En d’autres termes, la société ne peut se
+constituer en société qu’en se concevant comme instituée par quelque chose ou
+quelqu’un de différent : par une autorité qui a le pouvoir d’instituer la société
+(Gauchet, 2005, p. 74)4. Cela apparaît clairement dans le cas de la religion
+primitive. Celle-ci soutient que les ancêtres ont fondé la communauté et ses
+différenciations sociales fondamentales. En outre, cette structure sociétale religieuse originale indique que lorsque l’altérité constitutive est radicalement
+bannie de la société, la distinction, à l’intérieur de la société, entre les gouverneurs qui établissent (ou changent) l’ordre sociétal et les gouvernés qui sont
+subordonnés à ces gouverneurs ne doit alors pas exister. Dans cette structure de
+religion primitive, la totalité du pouvoir politique (à savoir le pouvoir qui peut
+être utilisé pour forger ou changer la société) est éliminé de la société. C’est la
+raison pour laquelle Gauchet considère la structure de religion primitive comme
+une «neutralisation» du politique (Gauchet, 2005, p. 13). Elle est organisée de
+telle manière qu’elle ne doit pas diviser la société entre gouverneurs et gouvernés. Pourtant, en même temps, il y a un prix à payer. Cette société doit
+se concevoir elle-même comme fondamentalement inaltérable, c’est-à-dire
+«ahistorique». Car personne au sein de la société n’a le droit de prendre la
+place des ancêtres et de changer la société.
+La thèse de Gauchet suit cette analyse, en proposant que la totalité de
+l’histoire politique peut être lue comme un processus de «sortie de la religion»,
+à savoir l’abandon progressif de cette structuration religieuse de la société
+(Gauchet, 1985). Le moment clé de ce processus est l’apparition de l’État,
+c’est-à-dire l’installation d’une structure de pouvoir au sein de la société. À ce
+moment, le fondement externe de la société (qui repose encore dans les
+
+Religion et espace public postséculier 61
+
+ancêtres ou les dieux) reçoit des représentants ou des agents à l’intérieur de la
+société. Ces représentants peuvent désormais gouverner la société en raison de
+leur participation à ses origines surnaturelles. Le résultat est double. La société
+perd son unité originale et se désagrège dans l’opposition entre gouverneurs et
+gouvernés. Mais la société gagne aussi quelque chose : elle acquiert la capacité
+de se changer elle-même. La société devient historique. Ainsi, Gauchet considère l’apparition de l’État comme la naissance réelle du politique (Gauchet,
+2005, p. 18). Ce qui est originellement «neutralisé» par la religion primitive est
+précisément cette manifestation du politique, c’est-à-dire la division au sein de
+la société entre gouverneurs et gouvernés, et la possibilité concomitante de
+changer la société. Ce qui n’est pas neutralisé par la religion primitive et qui ne
+pourrait jamais l’être, selon Gauchet, est ce qu’il appelle «le fait social» luimême (Gauchet, 2005, p. 46 et 48) : le fait que la société ne puisse se concevoir
+elle-même qu’à partir d’une position «extérieure» à elle, c’est-à-dire que la
+société conçoive toujours son ordre et sa signiﬁcation comme quelque chose
+qu’elle emprunte à un «extérieur» (Gauchet, 2005, p. 64).
+Le deuxième moment décisif dans ce processus de sortie de la religion est
+l’avènement de la démocratie moderne. Au cœur de cette révolution se trouve
+la restructuration complète du politique, indépendamment de la religion.
+L’origine de la société n’est plus située dans l’externalité d’une volonté divine
+sacrée; elle est placée maintenant dans la volonté du peuple souverain. En conséquence, l’altérité fondatrice passe de l’extérieur à l’intérieur : d’une origine
+transcendante à une fondation immanente. Dès lors, la structure de la société
+démocratique se dissout, d’une part, dans la structure de l’État ou du pouvoir
+qui exerce le pouvoir au nom du peuple souverain, et, d’autre part, dans la
+pluralité des citoyens qui bâtissent la société civile. De cette manière, la société
+démocratique semble porter sa fondation en son sein. Ce qui est vrai, mais
+néanmoins plus complexe.
+Gauchet indique que, même dans la structure des sociétés démocratiques, la
+structure politique de base de toute société — décelée par sa négation dans les
+sociétés religieuses (Gauchet, 2003, p. 330) — reste parfaitement reconnaissable. En premier lieu, il y a l’idée que chaque société a son fondement, sa
+raison, sa Loi dans un «extérieur» : dans une altérité fondamentale (Moyn,
+2005, p. 181). C’est également le cas dans les sociétés démocratiques. Le peuple
+souverain, au nom duquel le pouvoir est exercé, ne coïncide pas avec ses citoyens
+existants. Mieux encore, la liberté et l’égalité au nom desquelles le pouvoir est
+exercé ne coïncident pas avec leurs liberté et égalité réelles. Ainsi, même dans
+le cas d’une démocratie, la fondation de la société est une altérité; même ici la
+place du pouvoir est «extérieure» à la société. Car c’est au nom du «people
+souverain» (ou au nom de l’«égalité», de la «liberté», des «droits civils», etc.)
+que l’État exerce le pouvoir sur ses citoyens et les fait respecter la loi. L’État
+représente donc la Loi qui doit être appliquée — si nécessaire, par l’emploi de
+la violence (légitime). Par conséquent, l’État est lui-même une altérité par rapport à la société civile (Gauchet, 2005, p. 453). Selon Gauchet, les citoyens se
+
+62
+
+Dialogue
+
+constituent en société précisément en raison de leur représentation par l’altérité
+de l’État : ils construisent une communauté politique qui est discernable pour
+elle-même (Gauchet, 2003, p. 329). Tout comme, dans la religion primitive, la
+société prend naissance en se référant à l’«altérité fondatrice» commune; dans
+des conditions modernes, la société prend naissance parce qu’elle est représentée
+par l’altérité de l’État. Car ni la souveraineté du peuple ni même le peuple
+lui-même ne précèdent leur représentation par l’État. À l’évidence, l’État exerce le pouvoir sur ses citoyens au nom du peuple souverain mais, en fait, aussi
+bien la souveraineté que le peuple ne prennent corps — ne sont institués —
+qu’en étant représentés par l’État5. Et c’est uniquement grâce à cette représentation que les citoyens peuvent s’envisager eux-mêmes comme un peuple et,
+partant, constituer eux-mêmes un peuple (Gauchet, 2005, p. 145). Cela est
+également valable pour les droits et libertés des citoyens. Ils ne peuvent même
+pas apparaître avant leur représentation par l’État. Une fois encore, l’État exerce évidemment le pouvoir sur ses citoyens au nom de leurs droits et libertés.
+Mais en fait, ces droits et libertés ne deviennent réalité — c’est-à-dire ne sont
+institués — qu’en étant représentés par l’État. Et c’est uniquement grâce à cette
+même représentation que les citoyens s’envisagent eux-mêmes comme libres
+et égaux, comme des détenteurs de droits subjectifs. De cette manière, il
+apparaît que toute société est constituée par le pouvoir (Gauchet, 2005, p. 74).
+Toute société se constitue en se référant à une «altérité» comme son origine,
+qui est en même temps sa place de pouvoir : la place de la Loi de la société.
+En se fondant sur ce schéma conceptuel, Gauchet poursuit sa réﬂexion en
+reconstruisant le processus par lequel la solution religieuse est progressivement remplacée par la solution politique, jusqu’au point où la solution politique prévaut (Gauchet, 1997). Ce point est ﬁnalement atteint par l’instauration
+de l’État providence moderne et démocratique, mais son processus de préparation débute d’ores et déjà à l’aube de la modernité. Gauchet signale que le
+«règne d’autonomie», comme il appelle le régime démocratique accompli,
+s’établit à travers trois phases successives.
+La première comprend la création — début du XVIIe siècle — de l’État
+(nation) moderne, souverain. L’État se hisse au-dessus du pouvoir religieux, se
+déclare le seul et unique souverain et ne se légitime plus en se référant à un
+ordre divin supérieur, mais bien à un contrat social entre les citoyens. Gauchet
+désigne Thomas Hobbes comme le principal théoricien de cette phase. La
+deuxième phase englobe la fondation et la justiﬁcation de l’État souverain moderne dans et par les droits subjectifs de ses citoyens. Ce processus se produit
+au cours du XVIIIe siècle et culmine dans la Déclaration d’indépendance américaine (1776), la Constitution américaine (1787) et, bien entendu, la Révolution
+française (1789). Durant la troisième phase, qui se déroule à partir du XIXe
+siècle, la société moderne dans son ensemble se projette dans un futur commun
+: elle se considère elle-même comme une progression collective vers un avenir
+meilleur (Gauchet, 2002, p. 335-339). L’avènement de l’État nation démocratique, au tournant du XIXe siècle, constitue une première incarnation réussie de
+
+Religion et espace public postséculier 63
+
+ce règne d’autonomie accompli. Dans la seconde moitié du XXe siècle,
+l’évolution de l’État nation démocratique vers une autonomie accrue pour tous
+ses citoyens conduit enﬁn à l’instauration de l’État providence (Gauchet, 2002,
+p. 339-340).
+Toutefois, pour comprendre la position de Gauchet sur le rôle actuel de la
+religion dans l’espace public, nous devons expliquer la genèse de ce processus
+historique qui se trouve dans les transformations du rapport entre l’Église et
+l’État. Pour notre propos, un point d’inﬂexion complexe revêt une importance
+capitale : le moment où l’État réussit à chasser la religion de la sphère
+publique, en la vouant à la sphère privée (Gauchet, 1998, p. 59-60). C’est le
+moment — situé par Gauchet au tournant du vingtième siècle — où l’État préside une société civile organisée de manière pluraliste, dans laquelle l’Église
+est l’une des organisations. Du même coup, l’État est investi de la dignité qui
+jusqu’alors avait seulement été réservée à l’Église (Gauchet, 1998, 61-2). Ce
+lien est symptomatique dans le sens où l’État, par sa position prééminente,
+acquiert une telle valeur que le citoyen est prêt à faire des sacriﬁces pour lui6.
+C’est le moment où l’État, comme la religion avant lui, développe au sein de
+la société un «cas de transcendance collective» (Gauchet, 1997, p. 186). Par
+ces formes de transcendance collective, telle que la nation, l’État, la classe, la
+religion, l’idéologie, etc., Gauchet entend tous les phénomènes dans lesquels le
+groupe transcende l’individu et dans lesquels l’individu se considère dès lors
+comme appartenant à un ordre supérieur pourvu d’autorité, pour lequel il fait
+preuve du respect qui lui est dû (Gauchet, 2002, p. 340). Gauchet prétend
+maintenant que, depuis 1975, tous les cas de transcendance collective — qu’il
+s’agisse de religions, d’idéologies ou de l’État (nation) — ont perdu leur signiﬁcation exaltée. Les raisons de ce phénomène sont multiples (Gauchet, 2002,
+p. 344-345). Mais de l’avis de Gauchet, cela est dû fondamentalement à la ﬁn
+du conﬂit entre l’Église et l’État. Jusqu’au milieu des années 70, l’État a été en
+conﬂit avec l’Église pour s’adjuger le contrôle de la société — un conﬂit,
+comme cela a été indiqué, qui remonte aux origines de l’ère moderne. Au cours
+de l’histoire, l’État a conquis peu à peu le pouvoir de l’Église et le triomphe
+ﬁnal de l’État lui a conféré sa dignité et son autorité (Gauchet, 1998, p. 62-63).
+Mais maintenant que ce différend a été réglé, c’est-à-dire depuis que la religion, ou sa version séculière : l’idéologie, n’est plus considérée comme une
+alternative plausible, l’État a perdu, tout comme sa rivale, la dignité dont il
+s’est paré suite à ce conﬂit. Si nous devions qualiﬁer ces diverses séquences de
+dégradation des formes de transcendance collective, la notion de «désenchantement du politique» serait appropriée. Car elles se sont toutes réduites à la
+disparition de la dignité et du respect pour cette dimension au sein de la société
+qui transcende l’individu et par laquelle notre être-ensemble pur et simple est
+transformé en une communauté partagée.
+Selon Gauchet, cette dégradation de la dimension de transcendance dans la
+société conduit à une profonde transformation de la relation entre l’État et
+l’individu (Gauchet, 1998, p. 108). Aujourd’hui, cela s’illustre de manière
+
+64
+
+Dialogue
+
+symptomatique par des préoccupations globales concernant les «droits individuels» (Gauchet, 1998, p. 111). Ces droits ne concernent pas au premier chef
+les droits civils de l’individu, mais les droits dont l’individu se considère
+comme étant le détenteur légitime en tant qu’individu, c’est-à-dire en tant
+qu’être humain; d’où la véritable préoccupation actuelle relative aux «droits de
+l’homme». Ici, Gauchet constate un sérieux décalage par rapport à l’ancienne
+idée classique de citoyenneté. Selon cette notion antérieure, chaque citoyen
+était supposé s’approprier la perspective générale au même titre que sa
+propre perspective particulière. De nos jours, chaque individu cherche à faire
+valoir ses intérêts privés par l’État, dont personne n’est plus prêt à partager la
+perspective (Gauchet, 1998, p. 115). Contrairement à son ancien rôle, le gouvernement n’est plus capable de faire passer des matières d’intérêts supérieurs
+aux intérêts particuliers dans le sens de ce qu’elle considère comme des intérêts de la société en tant que tels. Aujourd’hui, on travaille à partir de l’hypothèse
+selon laquelle le marché des intérêts particuliers contient la réponse à la question politique de savoir quels objectifs doivent être déﬁnis pour la société
+(Gauchet, 1998, p. 117).
+La diminution de la préoccupation pour l’intérêt général, le retour à l’avantplan de l’individu et des droits individuels, et la privatisation du domaine politique ont ﬁnalement transformé la connaissance de soi de l’individu et la
+manière dont l’individu se présente au sein de la société. Il est caractéristique
+de ce changement de position de l’individu que les «croyances se muent en
+identités» (Gauchet, 1998, p. 121). Selon Gauchet, la manière dont nous concevons aujourd’hui «notre identité» est exactement l’opposé de la manière
+dont nous la comprenions hier. Pour devenir soi-même, pour devenir une
+personne, on se dissociait de sa propre particularité. Mon vrai moi était ce que
+je trouvais une fois que j’avais rompu les liens qui me particularisaient.
+Aujourd’hui, au contraire, l’individu veut absolument coïncider avec son soi
+«particulier» : il s’identiﬁe avec sa singularité. Cette identiﬁcation entre
+l’individu et sa singularité est en jeu à différents niveaux. Subjectivement, le
+«vrai soi» est le résultat de l’appropriation subjective de sa singularité sociale.
+Je coïncide avec ma foi, mes origines, mon identité de Québécois ou musulman, noir, homosexuel ou catholique. Politiquement, cette singularité constitue
+également la base de l’obtention d’une position dans l’espace public. En ce
+sens, l’espace public coïncide aujourd’hui avec ces singularités privées devenues publiques. En même temps, l’espace public n’a plus de substantialité
+propre qui se référerait à des objectifs généraux qui transcendent le marché des
+individus singuliers et leurs intérêts privés (Gauchet, 1998, p. 124).
+Tout cela modiﬁe fondamentalement la relation entre les sphères privée et
+publique. La sphère privée formule les valeurs et les objectifs de la société que
+celle-ci se doit d’avaliser à travers la politique, bien qu’elle ne soit plus capable
+de les édicter. En conséquence, la distinction actuelle entre les sphères publique et privée est comparable à la distinction entre le miroir et l’image qu’il
+renvoie. En ce qui concerne le contenu, il n’y a pas de distinction du tout. Parce
+
+Religion et espace public postséculier 65
+
+que, comme il a été indiqué ci-dessus, l’État ou la sphère publique n’a plus de
+substance normative propre. La seule distinction concerne le forum. La sphère
+publique reﬂète les singularités privées et constitue donc le forum sur lequel
+ces singularités privées sont publiquement reconnues et visibles pour elles.
+Aujourd’hui l’État est devenu purement représentatif : il est purement un reﬂet
+de la société civile (Gauchet, 1998, p. 155-156).
+Voilà le contexte dans lequel Gauchet observe de nouvelles manières pour la
+religion de jouer un rôle dans l’espace public. En ce qui concerne la perte de
+signiﬁcation de l’État comme un cas de transcendance collective, sa réduction
+à un outil purement administratif au proﬁt du citoyen individuel et de ses intérêts privés a un effet double. Pour commencer, nous ne lions plus essentiellement notre identité sociale à notre citoyenneté, mais à ce qui nous singularise
+(Gauchet, 1998, p. 121-124). Et c’est là une contribution potentielle de la religion, car elle offre un amalgame distinctif de convictions religieuses, de normes
+morales et de règles sociales de comportement avec lesquelles les individus
+peuvent s’identiﬁer et desquelles ils peuvent tirer leur identité sociale. Ainsi,
+les «croyances» — dans ce cas, religieuses — peuvent effectivement devenir
+des «identités», qui veulent donc également être reconnues (Gauchet, 1998, p.
+129-133). L’effet de cette situation est que l’espace public cesse d’être un
+espace de discussion et devient le lieu où les individus et leurs «communautés
+identitaires» (religieuses) revendiquent une reconnaissance. Mais ce rôle n’est
+pas le seul attribué aujourd’hui à la religion. Car l’État lui-même est empressé
+de répondre à cette demande de reconnaissance des communautés identitaires
+(religieuses). En reconnaissant ces communautés, l’État avalise aussitôt
+implicitement leurs normes et leurs valeurs et compense, en même temps, son
+manque de substance normative. De cette façon, la religion fournit une substance morale et une légitimité normative à l’État, qui a progressivement perdu
+son propre contenu normatif. Seule la religion fait cela explicitement à la demande et dans le cadre d’une société politique séculière; en conséquence, la
+religion (ou sa contribution) est immédiatement «profanée» dans une mesure
+importante (Gauchet, 1998, p. 143-151).
+4. Dépolitisation ou rétablissement des communautés symboliques?
+Selon Gauchet, les processus liés du «désenchantement de l’État» et la mise en
+évidence unilatérale de l’individu et de ses droits offrent alors à la religion la
+possibilité de jouer un nouveau rôle dans l’espace public. D’une part, la religion offre à l’individu les convictions avec lesquelles l’individu peut se manifester comme une identité spéciﬁque sur le forum public et en revendiquer la
+reconnaissance. D’autre part, la religion offre un réservoir d’intuitions morales
+sur lesquelles l’État peut se baser pour acquérir une substance morale et, dès
+lors, une légitimité normative. Dans les deux cas, la religion est instrumentalisée comme un substitut de quelque chose qui a disparu à cause du «désenchantement du politique», à savoir la dépolitisation très poussée, associée à la
+«société des individus» (Gauchet, 2002, p. ix). L’essentiel du diagnostic de
+
+66
+
+Dialogue
+
+Gauchet est que le désenchantement du politique, la disparition de l’engagement
+positif du citoyen dans l’État est responsable de la réintégration de la religion
+dans l’espace public, bien que — et cela rend la situation toute nouvelle —
+dans les limites de l’État démocratique et simplement comme une fonction des
+objectifs profanes de ce dernier ou ceux de ses citoyens.
+Cela montre clairement combien le diagnostic de Gauchet diffère de celui de
+Habermas. Alors que la participation de la religion dans l’espace public est la
+bienvenue chez Habermas, comme une preuve de la reconnaissance de
+l’importance à la fois de la religion et de la sécularité dans la société postséculière, elle est considérée par Gauchet comme un symptôme d’une «société
+d’individus» dépolitisée. Loin d’apporter des contributions épistémiques ou
+cognitives au processus démocratique de la formation de l’opinion et de la
+volonté, le contenu religieux dans l’analyse de Gauchet sert principalement à
+compenser les déﬁciences de la substance sociale et morale provoquées par le
+désenchantement du politique au niveau de l’individu et de l’État. Le seul point
+d’accord signiﬁcatif entre les deux auteurs est que tous deux sont convaincus
+que quel que soit le rôle que la religion joue actuellement dans la sphère publique, elle doit le jouer dans les limites et conformément aux objectifs de l’État
+et de la politique démocratique séculier (Habermas 2005, p. 119-154; Gauchet,
+1998).
+Pourtant, bien que les deux auteurs évaluent de façon différente le rôle
+actuel de la religion dans l’espace public, il faut se demander s’ils ne sousestiment pas tous deux le pouvoir religieux de l’institution communautaire
+symbolique. Par rapport à Habermas, Gauchet a le mérite d’avoir identiﬁé le
+pouvoir d’institution communautaire symbolique de la religion primitive. Mais
+tout cela est d’autant plus remarquable que, dans son analyse du rôle de la
+religion dans la société post-séculière, il ne tient quasiment pas compte de ce
+pouvoir religieux. Gauchet semble supposer que nous, en tant que «peuple
+moderne», pouvons être religieux individuellement, mais que le processus de
+«sortie de la religion» est déﬁnitivement derrière nous (Gauchet, 1997, p. 200207; Ferry et Gauchet, 2004); en d’autres termes, que le combat politique avec
+la religion à propos de l’institution symbolique de la société a été gagné une
+fois pour toutes par l’État moderne, démocratique et séculier7. L’État séculier
+a peut-être déﬁnitivement gagné la bataille contre la religion dans nos États
+nations occidentaux d’aujourd’hui, mais cela ne veut pas nécessairement dire
+que le mécanisme social de l’institution d’une communauté religieuse symbolique a disparu pour de bon. Nous pouvons même conjecturer que, comme la
+religion possédait originellement ce potentiel d’institution de communautés,
+elle est capable de réactiver ce pouvoir dans certaines circonstances — même
+au sein des États nations occidentaux, démocratiques et séculiers.
+En fait, cette hypothèse nous permettrait de comprendre de manière plus
+satisfaisante un certain nombre de phénomènes politiques récents, frappants et,
+à première vue, non liés. Je pense à la montée simultanée, ces dernières années,
+d’un nationalisme militant de droite et de diverses formes de fondamentalisme
+
+Religion et espace public postséculier 67
+
+religieux au sein des démocraties occidentales en Europe et en Amérique du
+Nord. Le terreau et la condition préalable de ces deux phénomènes sont sans
+aucun doute les processus en cours de mondialisation et le désenchantement du
+politique dans les États nations démocratiques, car ceux-ci ne parviennent pas,
+dans leurs capacité d’États providences, à relever les déﬁs de l’économie
+mondialisée et d’autres processus géopolitiques. Toutefois, cette raison n’est
+nullement sufﬁsante pour expliquer pourquoi ces évolutions ont donné lieu au
+nationalisme militant ou au fondamentalisme religieux. Mon hypothèse — que
+je ne peux que formuler ici dans les grandes lignes — est que les deux phénomènes coïncident largement avec la réactivation du pouvoir d’institution
+communautaire symbolique de la religion. Selon moi, cela s’applique indéniablement à l’émergence de diverses formes de militance et de fondamentalisme religieux, qu’il soit à caractère islamique — la forme prédominante dans
+les pays européens — ou à caractère chrétien protestant, comme aux ÉtatsUnis. Mais je pense également que cela s’applique au nationalisme militant
+qui a vu le jour à travers l’Europe au cours des dernières décennies — de
+l’Atlantique à l’Oural — et qui, aux États-Unis, est souvent inextricablement
+mêlé à des formes de fondamentalisme chrétien. Je partage en effet avec Benedict Anderson l’idée que, de toutes les idéologies modernes, le nationalisme
+correspond le mieux ou est le plus étroitement lié à la religion, précisément en
+raison de son pouvoir d’instituer symboliquement les communautés (Anderson,
+1991, p. 5, p. 10-12). Anderson en trouve une preuve convaincante dans le fait
+que le nationalisme est la seule idéologie moderne pour laquelle les gens
+sont prêts à mourir (ibid., p. 143-144). Et, comme nous avons largement eu
+l’occasion de le constater jusqu’ici, cela s’applique aussi à la religion. Tant la
+religion que le nationalisme sont nettement capable de créer une «communauté
+de destin» symbolique, dont l’appartenance est tellement décisive pour
+l’identité des individus concernés qu’ils sont prêts à sacriﬁer sans protester leur
+propre individualité au proﬁt de la communauté. Comme je l’ai indiqué, mon
+hypothèse est que le processus dit de dépolitisation, c’est-à-dire la conjonction
+du désenchantement du politique et de l’émergence de l’individu qui se focalise uniquement sur ses propres droits et intérêts (cf. la «société d’individus»
+de Gauchet), a rendu les liens sociétaux si lâches ou si faibles que les groupes
+qui sont socialement moins forts au sein de la société se raccrochent spontanément au potentiel d’institution communautaire symbolique de la religion ou du
+nationalisme, dans l’espoir de trouver au sein de leur «communauté de destin»
+la protection que la communauté politique n’est plus en mesure d’offrir. C’est
+ce qui se produit actuellement suite à la mondialisation et à la migration associée
+de grands groupes de personnes attirées par l’opulence de l’Occident. Cela donne
+lieu à des situations de conﬂit d’une nature quasiment sans précédent entre les
+membres plus défavorisés des pays prospères et les nouveaux arrivants.
+Les deux groupes se sentent menacés de différentes manières dans cette confrontation. Les groupes socialement plus faibles au sein des sociétés nanties se
+sentent menacés par les immigrants parce qu’ils constituent leurs rivaux
+
+68
+
+Dialogue
+
+immédiats en ce qui concerne les emplois, la sécurité sociale, le logement, etc.
+Quant aux immigrants, ils se sentent menacés parce qu’ils sont partis vers les
+sociétés occidentales avec de grandes espérances mais, à l’arrivée, ils sont bien
+obligés de constater qu’ils sont encore et toujours les premières et principales
+victimes de l’exclusion sociale. Au total, les deux groupes sont susceptibles de
+se retrancher dans des formes d’institution communautaire symbolique qui
+leur donnent un sens de protection — une protection, comme cela a été mentionné, qu’une politique désenchantée dans un environnement socioéconomique
+mondialisé n’est plus capable ou désireuse d’offrir. Comme cela a été souligné,
+les candidats les plus probables sont à la fois la religion — comme cela est attesté par une certaine population immigrante d’origine islamique dans l’Europe
+urbaine ou par des groupes chrétiens socialement et culturellement défavorisés
+dans les États-Unis ruraux — et le nationalisme — comme cela est illustré par
+la montée de la droite nationaliste en Europe qui, au cours des dernières décennies, est parvenue plus que toute autre force à mobiliser d’importants segments
+de la classe ouvrière traditionnelle et de la petite bourgeoisie à l’appui de leurs
+objectifs.
+Si cette hypothèse est exacte, tant Habermas que Gauchet sous-estiment le
+pouvoir religieux d’institution communautaire symbolique de différentes
+manières. Habermas, parce qu’il n’accorde aucune place signiﬁcative à cet
+aspect de la religion dans son approche théoretico-discursive; Gauchet, parce
+qu’il pense que ce potentiel d’institution communautaire de la religion pour les
+démocraties occidentales fait partie du passé.
+5. Vers une nouvelle transformation de l’espace public?
+Aujourd’hui, la nouvelle mobilisation du potentiel religieux et/ou nationaliste
+pour l’institution des communautés symboliques semble transformer l’espace
+public et le rendre vulnérable d’une nouvelle manière. Bien que ces communautés soient généralement des «communautés identitaires» (Gauchet) ou
+symboliques qui, à première vue, revendiquent simplement une reconnaissance
+de la part de l’État et semblent donc reconnaître l’autorité politique normale,
+elles sont en déﬁnitive enracinées dans un rejet problématique de l’essence
+même de la politique démocratique. Car au nom de l’intégrité sociale de leur
+communauté symbolique, elles rejettent l’effet transformationnel du processus
+de formation délibérative de l’opinion et de la volonté (Young, 1997, p. 402).
+Elles n’acceptent pas que le processus démocratique délibératif au sein de
+l’espace public affecte ou modiﬁe d’une quelconque manière la structure, la
+composition, les convictions et les pratiques communes de leur communauté
+symbolique. En ce sens, cela concerne une forme de dépolitisation qui ne découle pas d’une ﬁxation unilatérale de la part de l’individu sur ses propres
+droits, comme le soutient Gauchet, mais qui est essentiellement un rejet — qui
+peut prendre des formes violentes — des véritables principes et règles de la
+démocratie, au nom de l’intégrité d’une communauté symbolique, indépendamment du fait qu’il s’agisse de l’intégrité de la communauté musulmane ou
+
+Religion et espace public postséculier 69
+
+chrétienne ﬁdèle ou encore celle de «notre propre race». La demande de reconnaissance qui provient de ces communautés symboliques est donc paradoxale,
+car elle englobe également une demande de rester en dehors de l’impact de la
+politique démocratique moderne. La demande de reconnaissance est une
+demande d’appartenance à la société moderne, sans que cela puisse comporter
+des effets transformationnels sur l’identité et l’intégrité de la communauté
+symbolique religieuse ou nationale des gens concernés.
+Manifestement, cela ne veut pas dire que la reconnaissance de ces communautés symboliques, y compris la «protection» associée de leur intégrité sociale
+et culturelle, serait ipso facto inadmissible ou non démocratique. L’ensemble du
+débat communautaire, qui a été mené sans interruption au cours des décennies
+passées, exprime à cet égard une sensibilité qui ne pourrait guère être qualiﬁée
+de non démocratique. Mais en même temps, ce débat indique qu’il n’est pas
+clair si et comment un État démocratique peut accepter, à l’intérieur de ses frontières, des communautés symboliques qui se retireraient, dans une certaine
+mesure, des processus démocratiques ou qui seraient capables de s’immuniser
+contre elles. Je me réfère, à ce propos, aux voies qui se sont élevées de tous les
+côtés en faveur du pluralisme légal : une situation dans laquelle les communautés symboliques au sein d’un et même État relèveraient de régimes légaux partiellement différents. Soit dit en passant, ces formes de pluralisme légal existent
+dans certains lieux. Dans certains États de l’est de l’Afrique, par exemple, les
+musulmans peuvent choisir d’être jugés selon la loi séculière ou la Charia —
+une demande qui est également exprimée dans certains quartiers de la communauté musulmane au Royaume-Uni. Des formes comparables de pluralisme
+légal existent aussi dans de nombreux États multilingues, tels que le Canada et
+la Belgique, aﬁn de protéger les minorités linguistiques.
+Mais la question qui se pose, une fois encore, est quel degré de pluralisme
+légal une démocratie peut tolérer; ou, encore, quel degré d’autonomie les communautés symboliques peuvent acquérir dans un État démocratique sans mettre
+en péril la nature démocratique de l’État. Il est clair qu’un penseur comme
+Habermas, qui souligne l’importance des processus délibératifs dans l’espace
+public et qui est un défenseur du patriotisme constitutionnel, n’est pas du tout
+enclin à accorder des droits séparés aux communautés symboliques individuels au sein de l’État (Habermas, 1998, p. 205-210; Habermas, 2005, p. 277,
+p. 305). Mais d’autres, comme Charles Taylor, ne sont pas d’accord (Taylor,
+1995, p. 255-256). Selon ces derniers, la prolifération des sociétés multiculturelles nous forcera à attribuer des droits distincts à des communautés
+symboliques distinctes aﬁn de préserver la possibilité et la praticabilité de
+la coexistence (Taylor, 1995, p. 248). Sans vouloir soutenir l’une ou l’autre
+position, je suis convaincu qu’aujourd’hui nous devons être conscients de la
+possibilité et des signes d’une réactivation du pouvoir religieux et/ou nationaliste
+de l’institution communautaire symbolique au sein de nos sociétés multiculturelles et nous devons dès lors être prêts à tenir compte de cette problématique
+dans notre vision de la démocratie8.
+
+70
+
+Dialogue
+
+Notes
+1 Pour les analyses de la position de Gauchet dans la pensée politique française
+contemporaine, voir Doyle (2003), Moyn (2004 et 2005), Behrent (2004), Doyle
+(2006), Weymans (2005). Un compte rendu de sa propre biographie intellectuelle
+est présenté dans Gauchet (2003).
+2 Une étude du développement intellectuel de Gauchet concernant l’interdépendance
+entre la religion et la politique ﬁgure dans Gauchet (2005; voir également Kalyvas,
+1999).
+3 À cet égard, Gauchet se fonde sur Clastres (1974; voir Gauchet, 2005, p. 91-180).
+Pour une évaluation critique de ce que Gauchet doit à Clastres, voir Moyn (2005).
+4 Cette idée dans Gauchet reprend le concept du «politique» de Lefort : la structure
+sociétale sous-jacente qui institue une distribution particulière de la connaissance,
+de la loi et du pouvoir, et qui apparaît le plus clairement en démêlant la structure
+symbolique du pouvoir (Lefort, 1986, p. 17-30, p. 251-300). Pour examiner le politique chez Lefort, voir Flynn (2005, p. 115, p. 121-122; voir également Doyle,
+2003, p. 77-78).
+5 La structure de la représentation converge donc avec la structure du «supplément
+original» chez Derrida : le dérivé (ici, l’État en tant que représentation de la société)
+est la condition de la possibilité et, dès lors, l’origine (!) de l’original (ici, la société).
+Ce n’est qu’à travers cette représentation que la société est instituée en tant que société. Dans sa lecture de la Déclaration d’indépendance américaine, Derrida a magistralement exposé cette logique de représentation (Derrida, 1984). Pour une élaboration
+similaire de cette logique de représentation, voir Lindahl (2006, p. 893 sq.).
+6 Pour une analyse approfondie de l’État nation poussant les citoyens au sacriﬁce de
+soi, voir Anderson (1991, p. 143-144).
+7 Gauchet (1998, p. 11) est particulièrement clair à ce propos : «Nous somme devenus, en un mot, métaphysiquement démocrates».
+8 Ce texte a été publié auparavant (voir Braeckman, 2009). Nous remercions les éditions
+Springer de nous avoir accordé la permission d’en publier ici la traduction française.
+
+Références bibliographiques
+Anderson, Benedict
+1991 Imagined Communities. Reﬂections on the Origin and Spread of Nationalism, édition révisée, Londres, Verso.
+Braeckman, Antoon
+2009 «Habermas and Gauchet on religion in postsecular society. A critical
+assessment», Continental Philosophy Review, vol. 42, p. 279–296.
+Behrent, Michael
+2004 «Religion, Republicanism, and Depoliticization. Two Intellectual
+Itineraries — Régis Debray and Marcel Gauchet», dans J. Bourg, dir.,
+After the Deluge. New Perspectives on the Intellectual and Cultural
+History of Postwar France, Lanham, Lexington Books, p. 325–349.
+Clastres, Pierre
+1974 La société contre l’État, Paris, Minuit.
+
+Religion et espace public postséculier 71
+Cooke, Maeve
+2000 «Five Arguments for Deliberative Democracy», Political Studies, vol. 48,
+p. 947–969.
+2006 «Salvaging and Secularizing the Semantic Contents of Religion. The
+Limitiations of Habermas’s Postmetaphysical Proposal», International
+Journal for Philosophy of Religion, vol. 60, p. 187–207.
+2007 «A Secular State for a Postsecular Society? Postmetaphysical Political Theory and the Place of Religion», Constellations, vol. 14, p.
+224–238.
+Derrida, Jacques
+1984 Otobiographies. L’enseignement de Nietzsche et la politique du nom
+propre. Paris, Galilée.
+Doyle, Natalie
+2003 «Democracy as Socio-Cultural Project of Individual and Collective
+Sovereignty. Claude Lefort, Marcel Gauchet and the French Debate on
+Modern Autonomy», Thesis Eleven, vol. 75, p. 69–95.
+2006 «The Sacred, Social Creativity and the State», Critical Horizons, vol.
+7, p. 207–238.
+Flynn, Bernard
+2005 The Philosophy of Claude Lefort. Interpreting the Political, Evanston
+(IL), Northwestern University Press.
+Ferry, Luc et Gauchet, Marcel
+2004 Le Religieux après la religion, Paris, Grasset &amp; Fasquelle.
+Gauchet, Marcel
+1985 Le désenchantement du monde. Une histoire politique de la religion,
+Paris, Gallimard.
+1997 The Disenchantment of the World. A Political History of Religion,
+Princeton, Princeton University Press.
+1998 La religion dans la démocratie. Parcours de la laïcité, Paris,
+Gallimard.
+2002 La démocratie contre elle-même, Paris, Gallimard.
+2003 La condition historique. Entretiens avec François Azouvi et Sylvain
+Piron, Paris, Stock.
+2005 La condition politique, Paris, Gallimard.
+Geenens, Raf
+2007 «The Deliberative Model of Democracy. Two Critical Remarks», Ratio
+Juris, vol. 20, p. 355–377.
+Haberrmas, Jürgen
+1996 Between Facts and Norms. Contributions to a Discourse Theory of
+Law and Democracy, Cambridge (MA), MIT Press.
+1998 The Inclusion of the Other. Studies in Political Theory, Cambridge
+(MA), MIT Press.
+2001 Glauben und Wissen. Friedenspreis des Deutschen Buchhandels 2001,
+Frankfurt am Main, Suhrkamp.
+
+72
+
+Dialogue
+2005
+
+Zwischen Naturalismus und Religion. Philosophische Aufsätze, Frankfurt
+am Main, Suhrkamp.
+Kalyvas, Andreas
+1999 «Democracy’s Lifecycle? Marcel Gauchet on Religion and Politics»,
+European Journal of Social Theory, vol. 2, p. 485–496.
+Lafont, Cristina
+2007 «Religion in the Public Sphere. Remarks on Habermas’s Conception of
+Public Deliberation in Postsecular Societies», Constellations, vol. 14,
+p. 239–259.
+Lefort, Claude
+1986 Essais sur le politique. XIXe-XXe siècles, Paris, Seuil.
+Lindahl, Hans
+2006 «Give and Take: Arendt and the Nomos of Political Community»,
+Philosophy and Social Criticism, vol. 32, p. 881–901.
+Moyn, Samuel
+2004 «Of Savagery and Civil Society. Pierre Clastres and the Transformation of French Political Thought», Modern Intellectual History, vol. 1,
+p. 55–80.
+2005 «Savage and Modern Liberty. Marcel Gauchet and the Origins of
+New French Thought», European Journal of Political Theory, vol. 4,
+p. 164–187.
+Rawls, John
+1993 Political Liberalism, New York, Columbia University Press.
+Taylor, Charles
+1995 Philosophical Arguments, Cambridge (MA), Harvard University
+Press.
+Young, Iris Marion
+1997 «Difference as a Resource for Democratic Communication», dans J.
+Bohman et W. Rehg, dir., Deliberative Democracy. Essays on Reason
+and Politics, Cambridge (MA), MIT Press, p. 388–406.
+Weymans, Wim
+2005 «Freedom through Political Representation. Lefort, Gauchet and
+Rosanvallon on the Relationship between State and Society», European
+Journal of Political Theory, vol. 4, p. 263–282.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Imagined Communities. Reflections on the Origin and Spread of Nationalism</title><editor><persName><forename type="first">Benedict</forename><surname>Anderson</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Habermas and Gauchet on religion in postsecular society. A critical assessment</title><author><persName><forename type="first">Antoon</forename><surname>Braeckman</surname></persName></author></analytic><monogr><title level="j">Continental Philosophy Review</title><imprint><date type="published">2009</date><biblScope unit="volume">42</biblScope><biblScope unit="page" from="279">279</biblScope><biblScope unit="page" to="296">296</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">After the Deluge. New Perspectives on the Intellectual and Cultural History of Postwar France</title><editor><persName><forename type="first">Michael</forename><surname>Behrent</surname></persName></editor><editor><persName><forename type="first">dans J.</forename><surname>Bourg</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lanham</pubPlace><date type="published">2004</date><biblScope unit="page" from="325">325</biblScope><biblScope unit="page" to="349">349</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">La société contre l’État</title><editor><persName><forename type="first">Pierre</forename><surname>Clastres</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1974</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Five Arguments for Deliberative Democracy</title><author><persName><forename type="first">Maeve</forename><surname>Cooke</surname></persName></author></analytic><monogr><title level="j">Political Studies</title><imprint><date type="published">2000</date><biblScope unit="volume">48</biblScope><biblScope unit="page" from="947">947</biblScope><biblScope unit="page" to="969">969</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Salvaging and Secularizing the Semantic Contents of Religion. The Limitiations of Habermas’s Postmetaphysical Proposal</title><author><persName><forename type="first">Maeve</forename><surname>Cooke</surname></persName></author></analytic><monogr><title level="j">International Journal for Philosophy of Religion</title><imprint><date type="published">2006</date><biblScope unit="volume">60</biblScope><biblScope unit="page" from="187">187</biblScope><biblScope unit="page" to="207">207</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">A Secular State for a Postsecular Society? Postmetaphysical Political Theory and the Place of Religion</title><author><persName><forename type="first">Maeve</forename><surname>Cooke</surname></persName></author></analytic><monogr><title level="j">Constellations</title><imprint><date type="published">2007</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="224">224</biblScope><biblScope unit="page" to="238">238</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Otobiographies. L’enseignement de Nietzsche et la politique du nom propre</title><editor><persName><forename type="first">Jacques</forename><surname>Derrida</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1984</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Democracy as Socio-Cultural Project of Individual and Collective Sovereignty. Claude Lefort, Marcel Gauchet and the French Debate on Modern Autonomy</title><author><persName><forename type="first">Natalie</forename><surname>Doyle</surname></persName></author></analytic><monogr><title level="j">Thesis Eleven</title><imprint><date type="published">2003</date><biblScope unit="volume">75</biblScope><biblScope unit="page" from="69">69</biblScope><biblScope unit="page" to="95">95</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">The Sacred, Social Creativity and the State</title><author><persName><forename type="first">Natalie</forename><surname>Doyle</surname></persName></author></analytic><monogr><title level="j">Critical Horizons</title><imprint><date type="published">2006</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="207">207</biblScope><biblScope unit="page" to="238">238</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">The Philosophy of Claude Lefort. Interpreting the Political</title><editor><persName><forename type="first">Bernard</forename><surname>Flynn</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Evanston (IL)</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Le Religieux après la religion</title><editor><persName><forename type="first">Luc</forename><surname>Ferry</surname></persName></editor><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Le désenchantement du monde. Une histoire politique de la religion</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1985</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">The Disenchantment of the World. A Political History of Religion</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">La religion dans la démocratie. Parcours de la laïcité</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">La démocratie contre elle-même</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">La condition historique. Entretiens avec François Azouvi et Sylvain Piron</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">La condition politique</title><editor><persName><forename type="first">Marcel</forename><surname>Gauchet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">The Deliberative Model of Democracy. Two Critical Remarks</title><author><persName><forename type="first">Raf</forename><surname>Geenens</surname></persName></author></analytic><monogr><title level="j">Ratio Juris</title><imprint><date type="published">2007</date><biblScope unit="volume">20</biblScope><biblScope unit="page" from="355">355</biblScope><biblScope unit="page" to="377">377</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Between Facts and Norms. Contributions to a Discourse Theory of Law and Democracy</title><editor><persName><forename type="first">Jürgen</forename><surname>Haberrmas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">The Inclusion of the Other. Studies in Political Theory</title><editor><persName><forename type="first">Jürgen</forename><surname>Haberrmas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">Glauben und Wissen. Friedenspreis des Deutschen Buchhandels 2001</title><editor><persName><forename type="first">Jürgen</forename><surname>Haberrmas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Frankfurt am Main</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Zwischen Naturalismus und Religion. Philosophische Aufsätze</title><editor><persName><forename type="first">Jürgen</forename><surname>Haberrmas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Frankfurt am Main</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="article"><analytic><title level="a">Democracy’s Lifecycle? Marcel Gauchet on Religion and Politics</title><author><persName><forename type="first">Andreas</forename><surname>Kalyvas</surname></persName></author></analytic><monogr><title level="j">European Journal of Social Theory</title><imprint><date type="published">1999</date><biblScope unit="volume">2</biblScope><biblScope unit="page" from="485">485</biblScope><biblScope unit="page" to="496">496</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">Religion in the Public Sphere. Remarks on Habermas’s Conception of Public Deliberation in Postsecular Societies</title><author><persName><forename type="first">Cristina</forename><surname>Lafont</surname></persName></author></analytic><monogr><title level="j">Constellations</title><imprint><date type="published">2007</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="239">239</biblScope><biblScope unit="page" to="259">259</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="inbook"><monogr><title level="m">Essais sur le politique. XIXe-XXe siècles</title><editor><persName><forename type="first">Claude</forename><surname>Lefort</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1986</date></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Give and Take: Arendt and the Nomos of Political Community</title><author><persName><forename type="first">Hans</forename><surname>Lindahl</surname></persName></author></analytic><monogr><title level="j">Philosophy and Social Criticism</title><imprint><date type="published">2006</date><biblScope unit="volume">32</biblScope><biblScope unit="page" from="881">881</biblScope><biblScope unit="page" to="901">901</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Of Savagery and Civil Society. Pierre Clastres and the Transformation of French Political Thought</title><author><persName><forename type="first">Samuel</forename><surname>Moyn</surname></persName></author></analytic><monogr><title level="j">Modern Intellectual History</title><imprint><date type="published">2004</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="55">55</biblScope><biblScope unit="page" to="80">80</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Savage and Modern Liberty. Marcel Gauchet and the Origins of New French Thought</title><author><persName><forename type="first">Samuel</forename><surname>Moyn</surname></persName></author></analytic><monogr><title level="j">European Journal of Political Theory</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="164">164</biblScope><biblScope unit="page" to="187">187</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="inbook"><monogr><title level="m">Political Liberalism</title><editor><persName><forename type="first">John</forename><surname>Rawls</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Philosophical Arguments</title><editor><persName><forename type="first">Charles</forename><surname>Taylor</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">Deliberative Democracy. Essays on Reason and Politics</title><editor><persName><forename type="first">Iris Marion</forename><surname>Young</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Bohman</surname></persName></editor><editor><persName><forename type="first">W.</forename><surname>Rehg</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1997</date><biblScope unit="page" from="388">388</biblScope><biblScope unit="page" to="406">406</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Freedom through Political Representation. Lefort, Gauchet and Rosanvallon on the Relationship between State and Society</title><author><persName><forename type="first">Wim</forename><surname>Weymans</surname></persName></author></analytic><monogr><title level="j">European Journal of Political Theory</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="263">263</biblScope><biblScope unit="page" to="282">282</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La pensée sans sujet pensant</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2011</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2011</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La pensée sans sujet pensant</title><author xml:id="author-0000"><persName><forename type="first">Paul</forename><surname>Bernier</surname></persName><affiliation>Université de Moncton</affiliation></author><idno type="istex">D014D3D343FF3C9B645626E917F993C1FFA5C753</idno><idno type="ark">ark:/67375/6GQ-FQDDW62F-X</idno><idno type="DOI">10.1017/S0012217310000715</idno><idno type="PII">S0012217310000715</idno><idno type="article-id">00071</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-12"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="589">589</biblScope><biblScope unit="page" to="602">602</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2011</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>Il existe une tradition, remontant à David Hume, qui nie que la pensée consciente requiert l’existence d’un sujet. Cette thèse, que nous appelons la thèse de la pensée sans sujet, est bien illustrée par la remarque de Lichtenberg selon laquelle Descartes ne pouvait prétendre avoir établi la certitude de «Je pense» mais uniquement celle de «Il y a de la pensée» (Es denkt). Le philosophe américain Bernard Williams a proposé un argument qui montrerait l’incohérence de la thèse de la pensée sans sujet. Mon but principal est de défendre la thèse de la pensée sans sujet en proposant une interprétation qui surmonte le problème posé par Williams.</p></abstract><abstract xml:lang="fr" style="normal"><p>Since Hume, some philosophers deny that conscious thinking requires the existence of a thinking subject. This claim is well illustrated by Lichtenberg’s remark according to which Descartes could not pretend to have established the certainty of “I think” but only that of “Thinking is going on” (Es denkt). Bernard Williams has argued that the claim that there can be thinking without a thinking subject is incoherent. My purpose, in this paper, is to suggest an interpretation of that claim which overcomes the problem raised by Williams.</p></abstract></profileDesc><revisionDesc><change when="2010-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La pensée sans sujet pensant
+
+PAUL BERNIER
+
+Université de Moncton
+
+RÉSUMÉ : Il existe une tradition, remontant à David Hume, qui nie que la pensée consciente requiert l’existence d’un sujet. Cette thèse, que nous appelons la thèse de la
+pensée sans sujet, est bien illustrée par la remarque de Lichtenberg selon laquelle
+Descartes ne pouvait prétendre avoir établi la certitude de «Je pense» mais uniquement
+celle de «Il y a de la pensée» (Es denkt). Le philosophe américain Bernard Williams a
+proposé un argument qui montrerait l’incohérence de la thèse de la pensée sans sujet.
+Mon but principal est de défendre la thèse de la pensée sans sujet en proposant une
+interprétation qui surmonte le problème posé par Williams.
+ABSTRACT: Since Hume, some philosophers deny that conscious thinking requires the
+existence of a thinking subject. This claim is well illustrated by Lichtenberg’s remark
+according to which Descartes could not pretend to have established the certainty of
+“I think” but only that of “Thinking is going on” (Es denkt). Bernard Williams has
+argued that the claim that there can be thinking without a thinking subject is incoherent.
+My purpose, in this paper, is to suggest an interpretation of that claim which overcomes
+the problem raised by Williams.
+
+Bien que l’argument dualiste cartésien ait été largement rejeté, certains philosophes, qui rejettent le dualisme, admettent tout de même que le cogito implique
+l’existence d’un sujet en un sens substantiel1. Il existe cependant une tradition,
+remontant à David Hume, qui nie que la pensée consciente requiert l’existence
+d’un sujet. Cette thèse, que nous appelons la thèse de la pensée sans sujet, est
+bien illustrée par la remarque de Lichtenberg selon laquelle Descartes ne
+pouvait prétendre avoir établi la certitude de «Je pense» mais uniquement celle
+de «Il y a de la pensée» (Es denkt)2. Le philosophe américain Bernard Williams
+a proposé un argument qui montrerait l’incohérence de la thèse de la pensée
+Dialogue 49 (2010), 589–602.
+© Canadian Philosophical Association /Association canadienne de philosophie 2011
+doi:10.1017/S0012217310000715
+
+590
+
+Dialogue
+
+sans sujet3. Mon but dans ce qui suit est de défendre la thèse de la pensée sans
+sujet. Après avoir rappelé le contexte de l’argument du cogito, je précise la
+thèse de la pensée sans sujet et note deux problèmes auxquels elle fait face. Je
+défends ensuite la cohérence de cette thèse en proposant une interprétation qui
+permet de surmonter le principal problème qu’elle rencontre, soit celui posé
+par l’argument de Williams. Je conclus en notant certaines conséquences de
+mon interprétation, notamment pour ce qui concerne la question de la compatibilité entre l’externalisme sémantique et l’autorité de la première personne,
+qui a été abondamment discutée dans la littérature récente4.
+1.
+Dans le contexte de l’application de la méthode du doute hyperbolique, dans sa
+recherche d’un fondement à la connaissance, Descartes dit les choses suivantes
+au début de la deuxième méditation :
+Je suppose donc que toutes les choses que je vois sont fausses; je me persuade que
+rien n’a jamais été de tout ce que ma mémoire remplie de mensonges me représente;
+je pense n’avoir aucun sens; je crois que le corps, la ﬁgure, l’étendue, le mouvement
+et le lieu ne sont que ﬁctions de mon esprit. Qu’est-ce donc qui pourra être estimé
+véritable? Peut-être rien autre chose, sinon qu’il n’y a rien au monde de certain5.
+
+Comme chacun le sait, ce ne sera pas là sa conclusion. Il poursuit un peu plus
+loin en disant :
+Moi donc à tout le moins ne suis-je pas quelque chose? […] Mais je me suis persuadé
+qu’il n’y avait rien du tout dans le monde, qu’il n’y avait aucun ciel, aucune terre,
+aucuns esprits, ni aucun corps; ne me suis-donc pas aussi persuadé que je n’étais
+point6?
+
+Et, il répond à cette question avec le célèbre passage du cogito :
+Non certes, j’étais sans doute, si je me suis persuadé, ou seulement si j’ai pensé
+quelque chose. […] Il n’y a donc point de doute que je suis s’il [scil. le malin génie]
+me trompe; et qu’il me trompe tant qu’il voudra, il ne saura jamais faire que je ne sois
+rien, tant que je penserai être quelque chose. [...] il faut conclure, et tenir pour
+constant que cette proposition : Je suis, j’existe, est nécessairement vraie toutes les
+fois que je la prononce ou que je la conçois en mon esprit7.
+
+Il est notoire que pour Descartes la certitude à laquelle il parvient, que nous
+pouvons appeler la certitude du cogito, garantit l’existence d’au moins une
+chose, à savoir lui-même en tant que sujet pensant8. Autrement dit, la certitude
+du cogito, qui est d’un ordre purement épistémologique et conceptuel, garantirait la vérité d’une thèse ontologique, soit qu’il existe au moins une chose : le
+
+Pensée sans sujet 591
+
+sujet pensant9. Que Descartes croit que la certitude du cogito serait une garantie
+d’une vérité ontologique est assez manifeste dans le passage suivant, qui
+apparaît un peu plus loin dans la deuxième méditation :
+Mais qu’est-ce donc que je suis? Une chose qui pense. […] C’est-à-dire une chose
+qui doute, qui conçoit, qui afﬁrme, qui nie, qui veut, qui ne veut pas, qui imagine
+aussi, et qui sent. […] Ne suis-je pas encore ce même qui doute presque de tout, qui
+néanmoins entends et conçois certaines choses, qui assure et afﬁrme celles-là seules
+être véritables, qui nie toutes les autres […] Enﬁn je suis le même qui sens c’est-à-dire qui
+reçoit et connaît les choses comme par l’organe des sens10 (nous soulignons).
+
+Il importe de noter que lorsque Descartes soutient que la certitude du cogito
+garantit l’existence d’une chose pensante, il n’a pas encore établi à ce stade de
+son argumentation que cette chose pensante doive nécessairement être une
+chose immatérielle. En effet, pour soutenir que cette chose pensante est une
+chose immatérielle, Descartes doit avoir recours à un argument additionnel
+visant à montrer qu’une chose pensante ne pourrait pas être une chose matérielle. Selon cet autre argument, que j’appellerai l’argument dualiste, une chose
+pensante ne pourrait pas être une chose matérielle dans la mesure où il serait
+conceptuellement possible de douter de l’existence d’une chose matérielle,
+alors qu’il serait conceptuellement impossible de douter de l’existence d’une
+chose pensante. Plusieurs ont noté que cet argument dualiste est fallacieux
+dans la mesure où il cherche à établir une thèse métaphysique concernant la
+nature du sujet à partir d’une prémisse purement épistémologique, soit la certitude de l’existence du sujet pensant. Comme plusieurs l’ont noté, la certitude
+du cogito peut garantir l’existence d’une chose pensante sans que cela
+n’implique quoi que soit sur la nature immatérielle ou matérielle de cette chose
+pensante. Autrement dit, on pourrait admettre que le cogito garantit l’existence
+du sujet pensant en un sens substantiel du terme sans pour autant accepter le
+dualisme cartésien.
+Ces quelques remarques devraient permettre de préciser le sens de la thèse
+de la pensée sans sujet que je défends dans ce qui suit. Selon cette thèse, le
+cogito ne garantirait tout simplement pas la vérité de la thèse ontologique de
+l’existence du sujet pensant, en un sens substantiel — même si cette dernière
+est indépendante du dualisme — dans la mesure où il est possible d’interpréter
+l’application du doute hyperbolique sans que cela n’implique l’existence d’un
+sujet en un sens substantiel du terme.
+Il importe donc d’insister sur l’idée qu’à ce stade du cheminement réﬂexif
+de Descartes, dans le contexte du doute hyperbolique, la certitude de cogito,
+qui est purement épistémique et conceptuelle, garantirait non pas la thèse de
+l’existence d’une substance immatérielle mais uniquement celle de l’existence
+d’une chose pensante, quelle qu’en soit la nature matérielle ou immatérielle.
+Ceci permet de comprendre pourquoi certains philosophes contemporains qui
+soutiennent que le sujet pensant est «un objet physique parmi d’autres objets
+
+592
+
+Dialogue
+
+physiques» peuvent accepter l’argument de Descartes jusqu’à ce point, dans la
+mesure où cette partie de l’argument n’implique pas qu’une chose pensante
+soit ou non immatérielle11. Appelons cette thèse selon laquelle la certitude
+du cogito garantit l’existence d’un sujet substantiel la thèse du sujet substantiel. Cette thèse est générale au sens où elle est compatible avec diverses
+interprétations qui varient selon notre compréhension de la nature de ce
+sujet substantiel.
+2.
+Plusieurs philosophes ont contesté la thèse du sujet substantiel12. Dans ce qui
+suit, je m’en tiens uniquement à une version de la thèse de la pensée sans sujet
+telle qu’elle est illustrée par la célèbre remarque de Lichtenberg, selon laquelle
+Descartes aurait du dire «il y a de la pensée» (Es denkt) comme on dit «il pleut»
+de façon impersonnelle13. Selon Lichtenberg, dire cogito serait dire trop car
+nous n’avons de connaissances directes et certaines que de nos sensations, de
+nos imaginations et de nos pensées14. Autrement dit, selon la thèse de la pensée
+sans sujet, dans l’expérience consciente on n’aurait conscience que de contenus de pensées, ou de contenus d’expériences, sans avoir conscience d’un sujet
+de ces pensées, et sans que cela n’implique ou ne présuppose l’existence d’un
+sujet pensant. Si la thèse de la pensée sans sujet est conceptuellement cohérente, alors elle mine de façon évidente l’idée centrale de l’argument du cogito,
+à savoir que la méthode du doute hyperbolique établirait la thèse du sujet
+substantiel. Notons que si selon Lichtenberg dire cogito ou «je pense» c’est
+dire trop, ce doit être au sens où ce serait dire plus que ce que le contexte du
+doute hyperbolique permet de dire. Il importe en effet d’insister sur le contexte
+de l’application systématique du doute hyperbolique pour bien comprendre le
+sens de la remarque de Lichtenberg.
+Telle que je viens de la formuler, la thèse de la pensée sans sujet est confrontée
+à deux problèmes importants qui mettent en question sa cohérence. Premièrement, il paraît tout fait contraire à l’intuition de dire que dans une réﬂexion
+consciente comme celle proposée par Descartes au début de la deuxième méditation, on pourrait faire l’économie du pronom personnel «je» pour concevoir
+ou exprimer une telle réﬂexion. Il semble au contraire beaucoup plus intuitif de
+dire qu’on conçoit une telle réﬂexion consciente à l’aide du pronom en
+première personne «je». Pour bien suivre la réﬂexion philosophique de
+Descartes, il est même essentiel de la reproduire en première personne en
+utilisant justement le pronom «je».
+Le deuxième problème, qui comme on le verra est le plus sérieux des deux,
+est que penser ou dire «il y a de la pensée» c’est penser ou dire quelque chose
+d’extrêmement général et même quelque chose d’extrêmement vague. Dans
+une réﬂexion comme celle proposée par Descartes, il semble que nous soyons
+certain de quelque chose d’un peu plus spéciﬁque et d’un peu plus précis,
+quelque chose qu’on pourrait exprimer uniquement par un usage référentiel du
+pronom «je» et qui nécessiterait donc l’existence d’un sujet pensant au sens de
+
+Pensée sans sujet 593
+
+la thèse du sujet substantiel. Autrement dit, pour reprendre une expression souvent
+utilisée dans la littérature sur la sémantique des indexicaux, un ancrage indexical
+essentiel ferait défaut à la formulation impersonnelle de Lichtenberg15. Et un tel
+ancrage indexical ne pourrait être fourni que par un usage référentiel du
+pronom «je», ce qui nécessiterait l’existence d’un sujet au sens de la thèse du
+sujet substantiel. Considérons tour à tour ces deux problèmes.
+Pour faire face au premier problème, nous pouvons utiliser une suggestion
+de Bernard Williams16, qui a été reprise et défendue par Derek Parﬁt dans le
+contexte de sa conception réductionniste de la métaphysique des personnes,
+conception qui s’oppose justement à la thèse du sujet substantiel17. Selon cette
+suggestion, le pronom «je» doit effectivement apparaître dans l’expression
+d’une réﬂexion consciente comme celle suggérée par Descartes, mais on peut
+dire que le pronom «je» est uniquement mentionné pour identiﬁer le contenu
+de la pensée. Selon cette réponse au premier problème, le pronom «je» ferait
+partie du contenu de la pensée sans que cela n’implique ou ne présuppose
+l’existence d’un sujet au sens de la thèse du sujet substantiel. La thèse de la
+pensée sans sujet semble donc être en mesure de surmonter le premier problème en décrivant ce qui se passe dans une réﬂexion consciente comme
+celle suggérée par Descartes non pas en disant «je pense» ou «j’existe»,
+mais plutôt :
+il est pensé : je pense,
+
+ou encore :
+il est pensé : j’existe.
+
+Cette suggestion permet de surmonter le premier problème, car elle reconnaît
+l’occurrence d’une pensée qu’on peut catégoriser comme étant une pensée
+subjective, mais uniquement dans le sens où cette pensée doit être identiﬁée en
+mentionnant le pronom «je» dans son contenu et, par conséquent, sans nous
+obliger à attribuer cette pensée à un sujet au sens de la thèse du sujet substantiel.
+Comme Parﬁt le souligne : «comme le sujet des expériences n’est mentionné
+que dans le contenu de la pensée, cette phrase n’attribue pas cette pensée à un
+sujet pensant»18. Cette suggestion va tout à fait dans le sens de la remarque de
+Lichtenberg selon laquelle dans l’expérience consciente on n’aurait conscience
+que de contenus de pensées ou d’expériences, sans avoir conscience d’un sujet
+de ces pensées.
+Il est assez facile de comprendre l’intérêt de cette suggestion pour le point
+de vue réductionniste de Parﬁt selon lequel une personne se réduit à un certain
+continuum d’états psychologiques et physiques qui satisfait une certaine relation de connexion. En effet, cette solution au premier problème permet de rendre compte des intuitions de l’argument du cogito de façon compatible avec le
+réductionnisme des personnes. Ceci étant dit, il faut pourtant bien voir que cette
+
+594
+
+Dialogue
+
+solution n’implique pas la thèse réductionniste de Parﬁt. Tout ce qu’elle implique, c’est que dans le contexte de l’argument de Descartes, c’est-à-dire sous la
+contrainte du doute hyperbolique, la seule chose dont on peut être certain est
+qu’il est pensé : je pense, et que cela n’implique ni ne présuppose l’existence
+d’un sujet au sens de la thèse du sujet substantiel. Comme je le précise plus bas
+(section 4), cette solution est compatible avec une grande variété de thèses
+métaphysiques concernant la question de savoir si une telle pensée se produit
+effectivement dans un sujet substantiel ou simplement dans un continuum
+psychophysique au sens de la théorie de Parﬁt. Voilà donc pour la solution du
+premier problème.
+Le deuxième problème est qu’un ancrage indexical essentiel ferait défaut à
+la formulation impersonnelle de Lichtenberg. Cette difﬁculté est beaucoup
+plus sérieuse, car elle se pose même si nous acceptons la solution au premier
+problème. En effet, certaines remarques de Williams suggèrent que cette
+nouvelle version impersonnelle du cogito (soit «il est pensé : je pense» où «je»
+n’est que mentionné) aurait une conséquence qui rendrait incohérente la thèse
+de la pensée sans sujet19. En effet, rien n’exclut logiquement la possibilité qu’à
+un certain temps t il soit pensé : je doute que p et qu’au même temps t il soit
+pensé : je ne doute pas que p. Mais, il serait manifestement incohérent de dire
+qu’il est possible qu’au même temps t il est pensé : je doute et je ne doute pas
+que p. Ainsi, il semble que la formulation révisée de la thèse de la pensée sans
+sujet ne soit pas assez spéciﬁque en ce sens qu’il lui manquerait un ancrage
+indexical essentiel qui exclurait la possibilité qu’au même temps t il soit pensé :
+je doute et je ne doute pas.
+Comme Quassim Cassam l’a noté, le problème de Williams montre que
+l’attribution de pensées en première personne requiert une forme de relativisation20. Diverses suggestions ont été faites pour préciser la forme que pourrait
+prendre une telle relativisation. Par exemple, Parﬁt a suggéré que la pensée
+pourrait être relativisée en l’indexant sur le corps dont elle dépend, ou encore
+qu’elle pourrait être relativisée en l’indexant sur la vie particulière qui contient
+l’occurrence de la pensée exprimée par l’occurrence de la phrase «je pense»21.
+Pour sa part, Cassam a vu dans cette difﬁculté une raison de rejeter la thèse de
+la pensée sans sujet comme étant incohérente, et une raison partielle d’endosser
+sa propre version matérialiste de la thèse du sujet substantiel. Cassam a proposé ce qu’il appelle une relativisation forte, qui correspond à une théorie des
+conditions de possibilité de l’occurrence d’un contenu de pensée où ﬁgure le
+pronom «je». Selon ce point de vue, un tel contenu n’aurait de signiﬁcation
+qu’à condition qu’il soit pensé par un sujet entendu au sens de la version matérialiste de la thèse du sujet substantiel22.
+À mon avis, le principal défaut de ces suggestions, aussi bien celle de Parﬁt
+que celle de Cassam, est de se situer de plein pied dans le domaine de la
+métaphysique des personnes (ou des sujet pensants), plutôt que de se limiter au
+contexte strictement épistémologique où se pose la question de ce dont on peut
+être certain sous la contrainte du doute hyperbolique. C’est un peu comme si
+
+Pensée sans sujet 595
+
+en tentant de solutionner ce problème, dans le cas de Parﬁt, ou en l’invoquant
+pour montrer l’incohérence de la thèse de la pensée sans sujet dans le cas de
+Cassam, on remplaçait la question de Descartes : «de quoi peut-on être certain
+sous la contrainte du doute hyperbolique?» par la question métaphysique :
+«quelle est la nature du sujet pensant?» Quoi qu’il en soit, je ne discuterai pas
+de façon plus détaillée ces suggestions, car je pense qu’il existe une autre solution au deuxième problème, qui a l’avantage d’être plus économique dans la
+mesure où elle se limite au contexte purement épistémologique du doute
+hyperbolique.
+3.
+Comme nous l’avons noté, le problème soulevé par Williams tient au fait qu’un
+ancrage indexical essentiel fait défaut à la formulation impersonnelle de
+l’expression d’une pensée consciente comme
+il est pensé : je doute.
+
+Faute d’un tel ancrage, il est possible qu’au même temps t, il soit pensé : je
+doute et je ne doute pas. Bien évidemment, du point de vue de la thèse du
+sujet substantiel, on peut insister pour dire que le pronom «je» ne doit pas
+uniquement être mentionné dans le contenu de la pensée mais que, s’il doit
+fournir l’ancrage indexical requis, il doit être utilisé de façon référentielle
+pour exprimer la pensée consciente qui se produit dans le contexte de
+l’application du doute hyperbolique. Bien qu’au même temps t, il est possible qu’il soit pensé : je doute et je ne doute pas, il n’est pas possible qu’au
+même temps t :
+je pense : je doute et je ne doute pas,
+
+si tant est que les occurrences de «je» sont utilisées de façon référentielle pour
+désigner un seul et même sujet au sens de la thèse du sujet substantiel.
+Mais, pour être en mesure de défendre la thèse du sujet substantiel face à
+cette difﬁculté, on devrait pouvoir soutenir que c’est uniquement l’usage du
+pronom «je» qui permet de fournir l’ancrage indexical requis. Mais cela n’est
+pas évident. En effet, il est tout à fait plausible que l’ancrage indexical essentiel
+qui fait défaut soit fourni autrement.
+L’idée générale de la solution «impersonnaliste» que je propose est tout
+simplement que dans le contexte de l’application du doute hyperbolique, il est
+tout à fait plausible de supposer que l’occurrence de la pensée consciente
+elle-même puisse servir d’ancrage. Autrement dit, il est tout à fait plausible
+que dans un tel contexte il y ait une référence indexicale à l’occurrence de la
+pensée consciente particulière qui se produit, et cela sans avoir à référer à un
+sujet de cette pensée. Cette stratégie générale peut probablement être développée de diverses façons, mais je me contenterai d’en présenter une version qui
+
+596
+
+Dialogue
+
+me semble plausible, et que j’appellerai la version réﬂexive, ou auto-référentielle, de la pensée sans sujet.
+Le contexte de l’argument du cogito au début de la deuxième méditation en
+est un où l’on adopte une attitude d’introspection de nos pensées et de nos
+expériences conscientes à la recherche de certitudes. Il paraît tout à fait plausible
+que les occurrences de pensées conscientes se produisant dans un tel contexte,
+disons par exemple «il est pensé : je pense», «il est pensé : j’ai mal», «il est
+pensé : je ressens une vive émotion de colère» etc. sont, de par leur caractère
+conscient, auto-référentielles au sens où lorsqu’une telle occurrence de pensée
+consciente se produit, elle réfère du même coup à cette pensée consciente particulière elle-même. Ainsi, pour surmonter le deuxième problème, plutôt que
+de dire que Descartes aurait dû dire «il y a de la pensée» et plutôt que de dire
+qu’il aurait dû dire «il est pensée : je pense», il aurait du dire quelque chose
+comme :
+il est pensé dans cette pensée même : je pense.
+
+Bien que cette formulation traduise bien l’idée centrale que je propose, l’usage
+de l’expression «cette pensée» pourrait suggérer qu’il s’agisse d’une pensée
+démonstrative. Mais je voudrais suggérer qu’elle ne l’est pas. Ainsi, cette
+suggestion peut être formulée de façon un peu plus formelle en disant que
+l’expression «il est pensé : je pense» contient un indexical caché, ce qu’on
+pourrait exprimer ainsi :
+il est pensé [i] : je pense,
+
+où l’indice ‘[i]’ doit être entendu comme indiquant simplement le caractère
+auto-référentiel de cette pensée.
+Il est assez facile de voir que cette solution permet de pallier le défaut
+d’ancrage indexical, principal problème que rencontre la thèse de la pensée
+sans sujet. Car bien qu’il soit possible qu’à un même temps t il soit pensé : je
+doute que p et je ne doute pas que p, il est exclu qu’au même temps t il soit
+pensé [i] : je doute et je ne doute pas que p. Elle respecte l’esprit de la thèse de
+Lichtenberg dans la mesure où elle implique également que nous n’avons de
+connaissances directes et certaines que de nos sensations, de nos imaginations
+et de nos pensées, comme Lichtenberg le suggérait, puisque «je pense»
+constitue le contenu de la pensée occurrente. De plus, comme cette interprétation de la thèse de la pensée sans sujet est parfaitement cohérente, cela montre
+que dans le contexte de l’argument du cogito, c’est-à-dire sous la contrainte
+du doute hyperbolique, Descartes ne pourrait tout simplement pas exclure
+cette possibilité logique, et cela même s’il nous est difﬁcile de le faire, habitués que nous sommes à croire à notre existence en tant que sujets pensants.
+Lichtenberg semble donc avoir raison de dire que Descartes en dit trop au
+sens où il n’aurait pas poussé l’application du doute méthodique à sa limite
+
+Pensée sans sujet 597
+
+hyperbolique, en ne considérant pas la possibilité conceptuelle de la pensée
+sans sujet.
+Cette solution montre que le deuxième problème ne sufﬁt pas pour soutenir
+la thèse du sujet substantiel, car pour ce faire on doit supposer que la seule façon de fournir l’ancrage indexical requis serait d’utiliser le pronom «je» de
+façon référentielle, plutôt que de le mentionner dans le contenu de la pensée.
+Et, comme je l’ai montré, cette supposition est fausse dans la mesure où il est
+possible d’invoquer une autre forme d’ancrage indexical. L’idée générale de
+cette solution «impersonnaliste» est que la pensée consciente puisse elle-même
+servir d’ancrage; la suggestion d’un ancrage auto-référentiel est une façon
+plus spéciﬁque de préciser cette solution générale mais, comme je l’ai noté,
+cette version auto-référentielle, ou réﬂexive, n’est probablement pas la seule
+possible23.
+Cette solution semble de loin préférable à la suggestion de Parﬁt, parce que
+la sienne ne respecte tout simplement pas le contexte du doute hyperbolique.
+Suivre la réﬂexion de Descartes en observant la contrainte du doute hyperbolique paraît rendre illégitime de supposer que «il est pensé : je pense» puisse
+être relativisé en l’indexant sur le corps dont elle dépend, ou en l’indexant
+sur la vie particulière qui contient l’occurrence de la pensée exprimée par
+l’occurrence de la phrase «je pense», dans la mesure où le doute hyperbolique
+remet justement en question l’existence d’un tel corps ou d’un telle vie particulière entendue au sens d’un continuum spatio-temporel.
+Par ailleurs, selon le point de vue de Cassam, un contenu de pensée où ﬁgure
+le pronom «je» comme dans «il est pensé : je pense» n’aurait de sens qu’à
+condition qu’il soit pensé par un sujet entendu dans le sens de la version matérialiste de la thèse du sujet substantiel. Mais ce point de vue présuppose que la
+thèse de la pensée sans sujet est incohérente dans la mesure où la seule façon
+de fournir l’ancrage indexical requis pour solutionner le second problème
+serait par un usage référentiel de «je». Et, comme je l’ai montré, ce présupposé
+est faux puisque l’interprétation auto-référentielle de la thèse de la pensée sans
+sujet permet de résoudre le problème de l’ancrage indexical.
+Certains trouveront peut-être que la notion de pensée auto-référentielle est
+incongrue ou, à tout le moins, bizarre et inusitée. En réponse à ce souci, notons
+premièrement que la ﬂexibilité de la pensée et du langage permet d’imaginer
+facilement des exemples de propositions auto-référentielles : «la proposition
+exprimée par cette phrase même est formée de concepts». Que cette proposition soit vraie ou fausse est un sujet de débats philosophiques, mais elle n’en
+est pas moins intelligible bien qu’auto-référentielle. Un autre exemple de
+pensée auto-référentielle serait le suivant : «ceci est un message enregistré».
+Deuxièmement, on peut concéder que la notion de pensée auto-référentielle
+soit effectivement inusitée, mais il faut se rappeler qu’en proposant la méthode
+du doute hyperbolique Descartes propose un contexte de réﬂexion plutôt inusité,
+tout aussi important qu’il soit. La méthode du doute hyperbolique nous oblige
+à sonder les limites du concevable, et à pousser le doute hyperbolique à
+
+598
+
+Dialogue
+
+l’extrême, il ne faut pas se surprendre d’arriver à une conclusion qui paraisse
+inusitée.
+4.
+J’aimerais discuter dans cette dernière section certaines implications de mon
+interprétation de la thèse de la pensée sans sujet, notamment à propos de la
+compatibilité entre l’externalisme sémantique et l’autorité de la première personne, question abondamment discutée dans la littérature récente24. L’intérêt
+de l’interprétation que je propose est qu’elle une thèse purement épistémologique concernant ce dont il est possible d’être certain sous la contrainte du
+doute hyperbolique. Cette thèse est purement épistémologique en ce sens
+qu’elle est parfaitement muette sur l’existence ou non d’un sujet substantiel et,
+si un tel sujet existe, sur sa nature matérielle ou immatérielle, sur sa réduction
+à un continuum psychophysique à la Parﬁt ou à un continuum neurobiologique,
+comme cela a été suggéré notamment par Antonio Damasio25. Autrement dit,
+que la chose dont on puisse certain sous la contrainte du doute hyperbolique
+soit uniquement qu’il est pensé[i] : je pense n’implique aucunement qu’en
+réalité cette pensée ne serait pas un événement mental dans la vie d’un sujet
+pensant entendu au sens substantiel du terme ou qu’elle ne serait pas un événement mental dans un continuum psychophysique au sens de la thèse réductionniste de Parﬁt, ou dans un continuum neurobiologique au sens du point de vue
+de Damasio. Mais cette interprétation est également compatible avec la possibilité métaphysique qu’il n’existe pas à proprement parler de sujet pensant
+et que les conditions d’utilisation correcte du pronom «je», ou du concept je,
+relèvent uniquement de normes émanant de nos pratiques socio-linguistiques.
+L’interprétation auto-référentielle de la pensée sans sujet est une thèse purement épistémologique concernant ce dont il est possible d’être certain sous la
+contrainte du doute hyperbolique, et une telle thèse est compatible avec une
+grande diversité de théories sur l’existence ou non d’un sujet substantiel et sur
+la nature d’un tel sujet substantiel, s’il existe.
+Autrement dit, selon le point de vue que je présente ici, la morale d’une
+application systématique du doute hyperbolique est que nous ne sommes certains que de bien peu de choses. Nous ne sommes certains que d’occurrences
+de pensées ou d’expériences fugitives. Et nous ne sommes aucunement certains de notre propre existence en tant que sujets pensants au sens de la thèse
+du sujet substantiel. Dans le contexte d’une expérience de pensée comme celle
+que Descartes propose, nous ne pouvons tout simplement pas nous prononcer
+sur l’existence ou non d’un sujet substantiel, sur sa nature matérielle ou immatérielle, sur sa possible réduction à un continuum psychophysique au sens
+de Parﬁt, ou à un continuum neurobiologique au sens de Damasio. La raison
+est simplement que nous ne pouvons pas avoir de connaissances certaines de
+ces choses.
+Finalement, l’interprétation que je propose semble également permettre
+d’appuyer la thèse de la compatibilité entre l’autorité de la première personne
+
+Pensée sans sujet 599
+
+et l’externalisme sémantique, qui a été l’objet de discussions récentes en théorie
+de l’esprit. Je ne peux pas entrer dans les détails de cette discussion ici, mais
+notons simplement que diverses versions de la thèse compatibiliste ont été
+défendues par plusieurs philosophes dont, notamment, Donald Davidson et
+Tyler Burge26. L’idée clé de la thèse compatibiliste est que, lorsqu’un sujet a
+une croyance qu’il exprimerait en disant, par exemple : «je crois que l’eau est
+un liquide», une telle croyance jouirait d’une autorité épistémique spéciale, en
+ce sens qu’elle serait une connaissance qui s’auto-justiﬁe, même si la thèse de
+l’externalisme sémantique est vraie. Selon la thèse de l’externalisme sémantique, la proposition que l’eau est un liquide dépend de conditions extérieures
+à l’occurrence de la croyance, soient des conditions environnementales
+physiques concernant la nature réelle de l’eau, ou encore des conditions environnementales socio-linguistiques qui déterminent les normes d’utilisation du
+mot «eau». Une prémisse centrale pour défendre la thèse compatibiliste est que
+la croyance que l’eau est un liquide s’auto-justiﬁe indépendamment de toutes
+connaissances des conditions externalistes qui déterminent le contenu de la
+proposition que l’eau est un liquide.
+La thèse épistémologique de la pensée sans sujet que je défends ici permet
+d’appuyer cette prémisse clé de la thèse compatibiliste. En effet, la pensée
+réﬂexive «il est pensé[i] : je crois que l’eau est un liquide» s’auto-justiﬁe,
+même si la thèse de l’externalisme sémantique est vraie. Cette pensée s’autojustiﬁe en ce sens qu’elle est certaine sous la contrainte du doute hyperbolique,
+ce qui implique qu’elle est certaine indépendamment de toutes connaissances
+des conditions externalistes qui en déterminent le contenu selon l’externalisme
+sémantique. Comme je l’ai noté, selon l’externalisme sémantique la proposition que l’eau est un liquide dépend de conditions extérieures à la pensée
+occurrente. Mais ici l’on peut étendre l’externalisme en disant que la proposition exprimée par «je crois que l’eau est un liquide» dans «il est pensé[i] : je
+crois que l’eau est un liquide» dépend de conditions extérieures à la pensée
+occurrente elle-même. Et, selon le point de vue métaphysique que l’on souhaite
+endosser, on pourrait dire que ces conditions externalistes sont des conditions
+objectives concernant soit la nature d’un sujet pensant au sens de la thèse
+du sujet substantiel, soit un certain continuum psychophysique à la Parﬁt,
+ou un continuum neurobiologique à la Damasio. Ou, ﬁnalement, si l’on
+souhaite endosser la thèse métaphysique de l’inexistence d’un sujet pensant, on pourrait dire que le contenu du concept je dépend de conditions
+environnementales socio-linguistiques qui déterminent les normes
+d’utilisation du mot «je». Mais, comme je l’ai indiqué, une telle pensée
+impersonnelle est certaine et elle s’auto-justiﬁe indépendamment de toutes
+connaissances de conditions externalistes qui en déterminent le contenu,
+puisque la thèse de la pensée sans sujet implique qu’une occurrence consciente de la pensée «je crois que l’eau est un liquide» est quelque chose de
+certain, dans le contexte du doute hyperbolique, c’est-à-dire dans un contexte où il est nécessaire de faire abstraction de toutes propositions qui
+
+600
+
+Dialogue
+
+pourraient servir de justiﬁcations à l’existence ou non des conditions externalistes qui déterminent son contenu.
+Concluons en disant que certains philosophes contemporains se sont objectés
+à la thèse de la pensée sans sujet en tentant de montrer qu’elle est incohérente,
+dans la mesure où elle n’exclurait pas la possibilité qu’il soit pensé une proposition contradictoire. Ce problème montre que la thèse de la pensée sans sujet
+requiert une relativisation. J’ai noté que la tentative de relativisation suggérée
+par Parﬁt est inacceptable, dans la mesure où elle viole la contrainte du doute
+hyperbolique. J’ai montré que le point de vue de Cassam est également inacceptable car il présuppose l’incohérence de la pensée sans sujet, alors que j’ai
+proposé une interprétation auto-référentielle de cette thèse qui la rend parfaitement cohérente. Finalement, j’ai noté que mon interprétation de la thèse de la
+pensée sans sujet permet d’appuyer une version de la thèse de la compatibilité
+entre l’autorité de la première personne et l’externalisme sémantique.
+Notes
+1 Voir notamment Quassim Cassam, Self and World, Oxford, Clarendon Press, 1997.
+2 Georg Christoph Lichtenberg, Schriften und Briefe, vol. 2, Munich, Carl Hanser
+Verlag, 1971.
+3 Bernard Williams, Descartes. The Project of Pure Inquiry, Londres, Penguin
+Books, 1978, p. 95–101.
+4 Certains articles importants sur cette question sont rassemblés dans Quassim Cassam,
+dir., Self-Knowledge, Oxford, Clarendon Press, 1997; Barry C. Smith, Crispin Wright
+et Cynthia Macdonald, dir., Knowing One’s Own Mind, Oxford, Clarendon Press,
+1997; Peter Ludlow et Norah Martin, dir., Externalism and Self-Knowledge, Stanford
+(CA), CSLI Publications, 1998; Brie Gertler, dir., Privileged Access: Philosophical
+Accounts of Self-Knowledge, Aldershot, Ashgate Publications, 2003, et Anthony
+Hatzimoysis, dir., Self-Knowledge, Oxford, Oxford University Press, 2010.
+5 Descartes, Méditations métaphysiques, édition de Jean–Marie Beyssade et Michelle
+Beyssade, Paris, Flammarion, 1979, p. 79.
+6 Ibid.
+7 Ibid.
+8 Ceci dit, comme un des évaluateurs de ce texte nous l’a signalé, dans les Principes
+de la philosophie, Descartes propose l’idée du cogito d’une façon qui pourrait être
+interprétée comme ne garantissant pas l’existence du sujet pensant, en disant que
+pour penser il faut être. Pour des raisons évidentes, dans ce texte nous suivons
+l’interprétation standard selon laquelle la certitude du cogito garantirait l’existence
+d’un sujet pensant.
+9 La question de savoir si l’existence du sujet serait garantie par un lien inférentiel
+pose des difﬁcultés notoires. Je ne discuterai pas ces difﬁcultés qui ne sont pas vraiment pertinentes puisque, de toute façon, il est clair que dans ce passage Descartes
+prétend que la certitude à laquelle il parvient par l’application du doute hyperbolique garantit l’existence d’au moins une chose : le sujet pensant, et cela quelle
+que soit la nature de cette garantie.
+
+Pensée sans sujet 601
+10 Descartes, Méditations, p. 87.
+11 Ici je pense particulièrement au point de vue de Quassim Cassam, Self and World,
+qui développe certaines idées de Peter Strawson.
+12 Comme on le sait, Hume l’a remise en question dans le Traité de la nature
+humaine. Kant s’en est également dissocié, dans la Critique de la raison pure,
+en interprétant le cogito comme n’impliquant pas l’existence d’une chose pensante au sens de la thèse du sujet substantiel, mais uniquement celle d’un sujet
+transcendantal. De plus, certains philosophes contemporains d’inspiration wittgensteinienne nient que le pronom personnel «je» réfère à une chose pensante
+dans le sens de la thèse du sujet substantiel. Par ailleurs, comme un évaluateur de
+ce texte nous l’a indiqué, il semble que certaines des objections de Hobbes et de
+Gassendi (dans sa Disquisitio Metaphysica de 1644) concernent directement
+cette question; voir également Adam et Tannery, Œuvres de Descartes, Paris,
+Vrin/CNRS, 1964–1976.
+13 L’exemple de Lichtenberg est plutôt : «Es blitzt»; voir G. C., Lichtenberg, Schriften
+und Briefe.
+14 Ibid.
+15 Voir J. Perry, «The Problem of the Essential Indexical», Nous, vol. 13, 1979, p.
+3–22.
+16 Bernard Williams, Descartes. The Project of Pure Inquiry, Londres, Penguin
+Books, 1978, p. 95–101.
+17 Derek Parﬁt, Reasons and Persons, Oxford, Clarendon Press, 1987.
+18 Ibid., p. 225.
+19 Voir B. Williams, Descartes, p. 95–101.
+20 Q. Cassam, Self and World, p. 183.
+21 D. Parﬁt, Reasons and Persons, p. 225–226.
+22 Q. Cassam, Self and World, p. 183 sq.
+23 Une théorie de la conscience comme celle qui a été développée par David Rosenthal
+pourrait être interprétée d’une façon qui permettrait une solution «impersonnaliste»
+différente de celle que je propose ici; voir David M. Rosenthal, «A Theory of
+Consciousness», dans Ned J. Block, Owen J. Flanagan et Güven Guzelderde, dir.,
+The Nature of Consciousness, Cambridge (MA), MIT Press, 1997, p. 729–753.
+Selon une telle solution, ce serait bien la pensée consciente particulière qui donnerait l’ancrage requis mais sans supposer que celle-ci serait auto-référentielle. En
+effet, selon la théorie de Rosenthal, l’occurrence d’une pensée consciente O au
+temps t (disons l’occurrence au temps t de la pensée je doute) est consciente à condition qu’elle soit accompagnée par l’occurrence, au temps t ou juste avant t, d’une
+pensée inconsciente de deuxième ordre O’. On peut interpréter cette théorie en
+proposant que la pensée inconsciente de deuxième ordre serait une pensée impersonnelle qui fait référence de façon démonstrative à l’occurrence de la pensée
+consciente qu’elle accompagne. Ainsi la pensée inconsciente de deuxième ordre
+pourrait être interprétée comme ayant la forme suivante : il est pensé ceci, où «ceci»
+réfère à l’occurrence O de la pensée consciente je doute.
+24 Voir supra note 4.
+
+602
+
+Dialogue
+
+25 Par exemple dans Antonio R. Damasio, Le sentiment même de soi, Paris, Odile
+Jacob, 1999.
+26 Voir Donald Davidson, «Knowing One’s Own Mind». Journal of Philosophy, vol.
+85, 1988.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Self and World</title><editor><persName><forename type="first">Quassim</forename><surname>Cassam</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Schriften und Briefe</title><editor><persName><forename type="first">Georg Christoph</forename><surname>Lichtenberg</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Munich</pubPlace><date type="published">1971</date><biblScope unit="volume">2</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Descartes. The Project of Pure Inquiry</title><editor><persName><forename type="first">Bernard</forename><surname>Williams</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Londres</pubPlace><date type="published">1978</date><biblScope unit="page" from="95">95</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Self-Knowledge</title><editor><persName><forename type="first">Quassim</forename><surname>Cassam</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Knowing One’s Own Mind</title><editor><persName><forename type="first">Barry C.</forename><surname>Smith</surname></persName></editor><editor><persName><forename type="first">Crispin</forename><surname>Wright</surname></persName></editor><editor><persName><forename type="first">Cynthia</forename><surname>Macdonald</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Externalism and Self-Knowledge</title><editor><persName><forename type="first">Peter</forename><surname>Ludlow</surname></persName></editor><editor><persName><forename type="first">Norah</forename><surname>Martin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Stanford (CA)</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Privileged Access: Philosophical Accounts of Self-Knowledge</title><editor><persName><forename type="first">Brie</forename><surname>Gertler</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Aldershot</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Self-Knowledge</title><editor><persName><forename type="first">Anthony</forename><surname>Hatzimoysis</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2010</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">The Problem of the Essential Indexical</title><author><persName><forename type="first">Perry</forename><surname>Voir J.</surname></persName></author></analytic><monogr><title level="j">Nous</title><imprint><date type="published">1979</date><biblScope unit="volume">13</biblScope><biblScope unit="page" from="3">3</biblScope><biblScope unit="page" to="22">22</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Descartes. The Project of Pure Inquiry</title><editor><persName><forename type="first">Bernard</forename><surname>Williams</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Londres</pubPlace><date type="published">1978</date><biblScope unit="page" from="95">95</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Reasons and Persons</title><editor><persName><forename type="first">Derek</forename><surname>Parfit</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1987</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Descartes</title><editor><persName><forename type="first">Voir B.</forename><surname>Williams</surname></persName></editor><imprint><biblScope unit="page" from="95">95</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Self and World</title><editor><persName><forename type="first">Q.</forename><surname>Cassam</surname></persName></editor><imprint><biblScope unit="page" from="183">183</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Reasons and Persons</title><editor><persName><forename type="first">D.</forename><surname>Parfit</surname></persName></editor><imprint><biblScope unit="page" from="225">225</biblScope><biblScope unit="page" to="226">226</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Self and World</title><editor><persName><forename type="first">Q.</forename><surname>Cassam</surname></persName></editor><imprint><biblScope unit="page" from="183">183</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Le sentiment même de soi</title><editor><persName><forename type="first">Antonio R.</forename><surname>Damasio</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1999</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Knowing One’s Own Mind</title><author><persName><forename type="first">Voir Donald</forename><surname>Davidson</surname></persName></author></analytic><monogr><title level="j">Journal of Philosophy</title><imprint><date type="published">1988</date><biblScope unit="volume">85</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

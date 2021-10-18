@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La souffrance en lien avec les écueils de la communication chez les femmes âgées atteintes de cancer incurable</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La souffrance en lien avec les écueils de la communication chez les femmes âgées atteintes de cancer incurable</title><author xml:id="author-0000"><persName><forename type="first">Valérie</forename><surname>Bourgeois-Guérin</surname></persName><email>bourgeois-guerin.valerie@courrier.uqam.ca</email><affiliation>CSSS-CAU Cavendish</affiliation></author><idno type="istex">A4E012CDBDDE8BD0C46F7EA55AE5EC2282210B17</idno><idno type="ark">ark:/67375/6GQ-3FKP4RF2-Z</idno><idno type="DOI">10.1017/S071498081000053X</idno><idno type="PII">S071498081000053X</idno><idno type="article-id">00053</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-12"/><biblScope unit="volume">29</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="529">529</biblScope><biblScope unit="page" to="541">541</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>Among the older population in Canada, the majority of whom are women, incurable cancer is rampant. Having incurable cancer often implies suffering. Studies reveal that communication with one’s circle is therefore often arduous, leading us to believe that it can cause suffering. To our knowledge, there has been no research that specifically explores the suffering related to communication among older women with incurable cancer: this will be the objective of our article. This exploratory qualitative research is in humanistic psychology. It is based on a phenomenological analysis of the conceptual categories that emerged from 19 semi-structured interviews among 10 women aged 65 years and over with incurable cancer. The results reveal both the dynamic of silence, desired in order to prevent increased suffering, and sometimes imposed and a source of further suffering. They also reveal that the absence of listening, the imposition of silence, and the minimization of what these women say, also cause suffering. The consequences of disclosing one’s illness and its suffering are also explored.</p></abstract><abstract xml:lang="fr" style="translated"><p>Dans la population âgée canadienne, majoritairement féminine, le cancer incurable sévit. La communication avec l’entourage est alors souvent ardue, et peut engendrer de la souffrance. À notre connaissance, aucune recherche n’explore spécifiquement les aspects souffrants de la communication chez les femmes âgées atteintes d’un cancer incurable: ce sera l’objectif de cet article. Cette recherche qualitative exploratoire s’inscrit dans le courant de la psychologie humaniste. Cette analyse de catégories conceptualisantes se fonde sur une approche phénoménologique, analysant le verbatim de 19 entrevues semi-dirigées réalisées auprès de dix femmes atteintes d’un cancer incurable et âgées de 65 ans et plus. Les résultats élucident la dynamique du silence tantôt souhaité pour éviter une souffrance accrue, tantôt imposé et source de souffrance. Ils révèlent aussi que le manque d’écoute, l’imposition du silence, et la minimisation de la parole de ces femmes sont souffrants. Les conséquences du dévoilement de sa maladie et ses souffrances sont également explorées.</p></abstract><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>suffering</term></item><item><term>communication</term></item><item><term>seniors</term></item><item><term>cancer</term></item><item><term>silence</term></item><item><term>women</term></item></list></keywords></textClass><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>souffrance</term></item><item><term>communication</term></item><item><term>personnes âgées</term></item><item><term>cancer</term></item><item><term>silence</term></item><item><term>femmes</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2010-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La souffrance en lien avec les écueils de la
+communication chez les femmes âgées
+atteintes de cancer incurable*
+Valérie Bourgeois-Guérin
+CSSS-CAU Cavendish
+ABSTRACT
+Among the older population in Canada, the majority of whom are women, incurable cancer is rampant. Having incurable
+cancer often implies suffering. Studies reveal that communication with one’s circle is therefore often arduous, leading us
+to believe that it can cause suffering. To our knowledge, there has been no research that speciﬁcally explores the suffering
+related to communication among older women with incurable cancer: this will be the objective of our article.
+This exploratory qualitative research is in humanistic psychology. It is based on a phenomenological analysis of the conceptual
+categories that emerged from 19 semi-structured interviews among 10 women aged 65 years and over with incurable cancer.
+The results reveal both the dynamic of silence, desired in order to prevent increased suffering, and sometimes imposed
+and a source of further suffering. They also reveal that the absence of listening, the imposition of silence, and the
+minimization of what these women say, also cause suffering. The consequences of disclosing one’s illness and its suffering
+are also explored.
+
+RÉSUMÉ
+Dans la population âgée canadienne, majoritairement féminine, le cancer incurable sévit. La communication avec l’entourage
+est alors souvent ardue, et peut engendrer de la souffrance. À notre connaissance, aucune recherche n’explore spéciﬁquement
+les aspects souffrants de la communication chez les femmes âgées atteintes d’un cancer incurable: ce sera l’objectif de cet article.
+Cette recherche qualitative exploratoire s’inscrit dans le courant de la psychologie humaniste. Cette analyse de catégories
+conceptualisantes se fonde sur une approche phénoménologique, analysant le verbatim de 19 entrevues semi-dirigées
+réalisées auprès de dix femmes atteintes d’un cancer incurable et âgées de 65 ans et plus.
+Les résultats élucident la dynamique du silence tantôt souhaité pour éviter une souffrance accrue, tantôt imposé et source
+de souffrance. Ils révèlent aussi que le manque d’écoute, l’imposition du silence, et la minimisation de la parole de ces
+femmes sont souffrants. Les conséquences du dévoilement de sa maladie et ses souffrances sont également explorées.
+* Nous remercions l’Agence de la santé publique du Canada qui a subventionné la présente recherche. Les positions exprimées
+ne reﬂètent pas nécessairement les positions de l’Agence de la santé publique du Canada. Nous tenons également à remercier
+Alexandre Carle pour sa contribution à la présente recherche.
+Manuscript received: / manuscrit reçu : 18/06/09
+Manuscript accepted: / manuscrit accepté : 22/06/10
+Keywords: suffering, communication, seniors, cancer, silence, women
+Mots clés : souffrance, communication, personnes âgées, cancer, silence, femmes
+La correspondance et les demandes de tirés-à-part doivent être adressées à / Correspondence and requests for offprints should
+be sent to:
+Valérie Bourgeois-Guérin, Doctorante, M.A.Sc.
+CSSS-CAU Cavendish
+5800 boul. Cavendish, 6e étage
+Côte-St-Luc, QC H4W 2T5
+(bourgeois-guerin.valerie@courrier.uqam.ca)
+
+Introduction
+Faire face à un cancer incurable est souvent vécu comme
+une expérience-limite qui inscrit une coupure dans le
+récit d’une personne et engendre une panoplie d’émotions
+
+(Chicaud, 1998; Clément-Hryniewicz et Paillaud, 2008).
+Face à la maladie, la personne peut tenter de raconter, de
+nommer son expérience. Sa parole peut aussi se lover
+dans un silence protecteur. Parfois, elle se heurtera à un
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 29 (4) : 529–541 (2010)
+doi:10.1017/S071498081000053X
+
+529
+
+530
+
+Canadian Journal on Aging 29 (4)
+
+silence imposé et sera bloquée, tue (Bataille, 2003;
+Gagnon, 2006). Lorsque son auteur est une femme âgée, il
+arrive que cette parole soit minimisée ou ne trouve pas de
+lieu pour être accueillie (Thompson et Thompson, 2004).
+Dans d’autres cas, la maladie et les souffrances qui
+l’accompagnent seront nommées directement par les
+gens qui en sont atteints (Bataille, 2003). Le discours des
+femmes âgées atteintes d’un cancer incurable est multiple, diversiﬁé. Mais pour beaucoup, la communication
+est complexe et peut être source de souffrances. Elle
+mérite que l’on s’y attarde, en donnant aux premières
+concernées la parole sur leur communication.
+La population du Canada est actuellement vieillissante
+et l’espérance de vie augmente continuellement (Statistiques Canada, 2006b). En 2006, plus de 13 pour cent
+de la population canadienne était âgée de 65 ans et plus
+et cette proportion augmente sans cesse (Statistiques
+Canada, 2007). Les femmes ont une espérance de vie plus
+longue que les hommes et sont ainsi plus nombreuses
+chez les aînés. Dans un tel contexte, il est à prévoir que le
+nombre de femmes âgées augmentera dans les années à
+venir. Or, plus on avance en âge, plus les risques de cancer sont élevés (Ferrell, 1999). Conséquemment, le cancer
+chez la femme âgée est fortement répandu et appelé à
+l’être de plus en plus (Ferrell, 1999). Même si plus de 39
+000 femmes de 65 ans et plus sont atteintes d’un cancer
+au Canada (Statistiques Canada, 2009), les études portant
+sur leur expérience psychologique sont, à notre connaissance, pratiquement inexistantes1.
+Pourtant, se savoir atteint d’un cancer incurable est une
+expérience très difﬁcile à vivre, voire une expérience
+traumatique pour plusieurs (Clément-Hryniewicz et
+Paillaud, 2008)2. En effet, le cancer a longtemps été associé à la mort, au ﬂéau dans les sociétés occidentales.
+Encore aujourd’hui, cette maladie est synonyme de dégradation physique et de mort pour plusieurs (Bataille,
+2003). Elle suscite une grande peur et engendre souvent un choc profond. Maintes recherches s’attardent
+au moment charnière de l’annonce du diagnostic de
+cancer par les professionnels de la santé (ClémentHryniewicz et Paillaud, 2008; Garderet, Ollivier, Najman,
+et Gorin, 2006). Toutefois, beaucoup moins se penchent
+sur les discours des personnes atteintes de cancer à
+propos de leur maladie et encore moins sur leur discours après l’annonce du diagnostic. Certains auteurs
+font exception. Bataille (2003), notamment, se penche
+sur la décision d’annoncer ou non la maladie à autrui et
+aux conséquences de ce choix. Il relève le choix de certains de «dissimuler » leur maladie aﬁn de protéger
+l’émotivité de leur entourage. D’autres choisiraient
+plutôt de « dire nettement » (Bataille, 2003), c’est-à-dire
+rapidement et directement qu’ils sont atteints d’un cancer, ce qui leur permettrait de ne pas mentir, de renoncer à certains rôles, de mobiliser leurs énergies pour
+tenter de guérir et de ﬁxer des limites. Enﬁn, l’annonce
+
+Valérie Bourgeois-Guérin
+
+de la maladie impliquerait parfois pour la personne atteinte d’un cancer d’assister à la réaction des gens, de
+subir des comparaisons ou de se faire attribuer
+l’étiquette de « cancéreux ». L’étude de Bataille est intéressante mais elle traite peu de la communication subséquente à l’annonce. Pourtant, les moments où la
+personne apprend à vivre avec la maladie doit subir
+des traitements et où les changements et les pertes se
+multiplient sont souvent des moments longs et souffrants. Plusieurs écueils de la communication peuvent
+alors survenir et engendrer de grandes souffrances.
+Certaines recherches se sont attardées à la communication dans ces moments qui suivent le diagnostic en
+traçant des liens entre les contraintes sociales et
+l’adaptation au fait d’être atteint d’un cancer3. Toutefois elles ne renseignent pas toujours sur la nature des
+écueils de la communication qui peuvent exister, et
+lorsqu’elles le font elles ne nous informent ni sur leurs
+causes, ni sur la souffrance qui peut alors être vécue.
+Écueils possibles de la communication
+Divers éléments peuvent entraver la communication
+des femmes âgées atteintes d’un cancer incurable.
+Dans une société qui fait la promotion du bien vieillir,
+courant dans lequel on valorise parfois excessivement
+le fait de vieillir en santé4, la maladie peut être vue
+comme un échec. Il peut alors être ardu pour la personne âgée d’annoncer qu’elle est malade et de parler
+de ses souffrances. Aussi, certaines personnes ne souhaitent pas dire qu’elles sont malades pour ne pas endosser l’identité de personne atteinte du cancer,
+identité qui serait associée à toute sorte de discriminations5, de représentations et d’imaginaires sociaux négatifs6, voire de stigmatisation (Bataille, 2006; Chapple,
+Ziebland, et McPherson, 2004; Clément-Hryniewicz et
+Paillaud, 2008; Dany, Dutoit, et Favre, 2008; Moulin,
+2005; Pierron, 2007; Rosman, 2004). La crainte de subir
+de la stigmatisation et discrimination aurait un effet sur
+la décision de certains d’annoncer ou non qu’ils sont atteints d’un cancer (Dany et al., 2008). Dans certains
+cas, la parole n’est pas accueillie, ou minimisée, car
+son auteur n’est pas considéré, notamment lorsque la
+personne est infantilisée. Les femmes âgées sont particulièrement susceptibles de vivre l’infantilisation
+(Woodward, 1999) phénomène très souffrant (Thompson
+et Thompson, 2004). Enﬁn, la promotion d’une attitude
+héroïque qui porte à croire que le malade doit combattre, « penser positivement », garder espoir et ne pas
+parler de la maladie pour ne pas l’aggraver (Ben
+Soussan, 2004; Saillant, 1988), pourrait nuire à la
+communication des femmes atteintes du cancer. En
+effet, le fait de parler de leurs souffrances ou des aspects plus difﬁciles de la maladie pourrait ne pas
+correspondre pas à cet idéal d’héroïsme. Cela pourrait les pousser à ranger pareils sujets de conversation
+
+Souffrance et écueils de la communication
+
+dans le tiroir verrouillé de l’indicible (BourgeoisGuérin, 2003). Or, tel que cela sera expliqué plus loin,
+les dangers associés au fait de ne pas se dire sont majeurs.
+
+Cadre conceptuel
+La communication
+La communication est un processus interactif où chacun adresse la parole à l’autre qui peut soit l’accueillir
+soit refuser de l’entendre. Le terme communication tire
+d’ailleurs ses origines du mot latin communicare qui
+signiﬁe « relation », mettre en commun (Winkin, 1981).
+Dans ce processus la mise en récit ainsi que le silence,
+sont d’une importance particulière.
+L’importance de se mettre en récit
+L’individu a besoin de mots pour se dire, de récits pour
+se raconter. Randall et Kenyon (2004) soutiennent
+même que:
+« Not only are stories foundational to our emotions
+(Singer, 1996), pivotal to our relationships
+(Sternberg, 1998), central to our identity (McAdams,
+1996), and essential to our construction of “experience” itself (Gubrium, 2001), but even the “self,”
+it is argued, is narrative in nature.(…). In essence,
+making stories is how we make meaning (Turner,
+1996), which means that it is central to how we
+learn, how we interact with others, how we experience our gender and culture, and most important
+for our purposes here, how we grow old. »
+(Randall et Kenyon, 2004, p. 333–334).
+
+Certains auteurs parlent même de notre existence
+comme d’une « textsistence » (Randall et McKim, 2005
+rapporté dans Randall et Kenyon, 2004), expression
+qui témoigne bien de l’importance accordée à la mise
+en récit dans cette perspective. Les vertus thérapeutiques de la mise en récit sont d’ailleurs bien connues
+en psychologie, l’objectif de plusieurs thérapies étant
+justement d’aider l’individu à se mettre en récit.
+La communication inclut aussi le silence. En effet,
+comme le soulignent Watzlawick, Helmick, et Jackson
+(1981, p. 46): « parole ou silence, tout a valeur de message ». Nous étudierons donc ici la dynamique du
+silence et de la parole dans la communication des
+femmes âgées atteintes d’un cancer incurable.
+La souffrance et la parole: le paradoxe du silence
+Il arrive que le ﬂot de la narration soit bloqué, que le
+récit se heurte à un déﬁ immense qui coupe la parole
+du narrateur. Lorsqu’un événement est vécu comme
+une blessure au cœur de l’identité, cet évènement peut
+devenir inénarrable, c’est-à-dire qu’il est impossible
+pour la personne de l’articuler en narration. La mort,
+
+La Revue canadienne du vieillissement 29 (4)
+
+531
+
+l’horreur et la torture sont toutes des ﬁgures de ce
+genre de situation où la mise en récit est confrontée à
+une blessure qui la met à l’épreuve. La maladie incurable est également souvent vécue comme telle. En effet,
+face à la maladie mortelle, le silence est puissant,
+l’expérience de la menace qu’elle porte étant souvent
+de l’ordre de l’indicible (Gagnon, 2006). Ainsi, la maladie est souvent vécue comme une « rupture de la communication » (Gagnon, 2006, p. 110), la souffrance
+qu’elle porte appelant au silence. Ce silence est à double valence. Tantôt bénéﬁque, il offre un moment de
+réﬂexion, permet de protéger un secret, borde la parole, dira Gagnon (2006). Il porte la possibilité de vivre
+son expérience de souffrance et ainsi de rester dans le
+vivant, mais il porte également le danger d’être mortifère. Effectivement, le silence peut parfois devenir
+lourd, imposé, témoigner d’un malaise face à la parole
+souffrante, d’un refus d’entendre la souffrance d’autrui.
+Le blocage de la communication est parfois tel qu’il
+semble creuser un fossé entre l’expérience de l’individu
+atteint d’un cancer incurable et son environnement. Un
+type particulier de silence peut alors remplir ce creux
+qui divise les gens: un silence imposé. Ainsi certaines
+femmes atteintes de cancer n’arrivent plus à communiquer leur expérience car elles vivent une: « [...] imposition, de l’extérieur et de l’intérieur, d’un interdit sur
+l’évocation du thème de la maladie, chargé symboliquement de dangers multiples, (qui) entraîne le
+blocage des échanges et l’impasse » (Saillant, 1988,
+p. 261). Elles se trouvent alors emmurées dans une
+triste solitude, n’arrivant plus à communiquer avec autrui (Lapointe, 2000; Saillant, 1988). Cette forme de
+silence, peut devenir une « conspiration du silence »
+(Gotman, 1988), quand le silence s’abat sur la personne
+qui fait face à la mort et contribue à son isolement
+(Lapointe, 2000). La conspiration du silence peut avoir
+des effets délétères sur la personne atteinte de cancer
+en l’empêchant d’exprimer ce qu’elle vit. Cette conspiration, qui se fonde parfois sur le déni et la peur de la
+mort peut être une stratégie pour éviter la communication (Bourgeois-Guérin, 2003) ou une protection face
+aux angoisses relatives au mourir d’autrui (De Hennezel,
+1995). Le fait de ne plus pouvoir communiquer peut
+entraîner une aliénation que certaines femmes atteintes
+de cancer associent même à leur dépression (BourgeoisGuérin, 2003). Comme nous le verrons dans ce qui suit,
+l’imposition du silence semble être une ﬁgure de la
+souffrance telle que déﬁnie par Ricœur.
+Paul Ricœur: la souffrance comme diminution de la
+puissance d’agir
+La présente analyse se fonde sur la déﬁnition de la
+souffrance de Ricoeur (1994). L’auteur distingue clairement la douleur de la souffrance à l’aide d’un critère
+
+532
+
+Canadian Journal on Aging 29 (4)
+
+de différenciation que nous retiendrons dans cette étude.
+Il propose que l’on s’accorde pour:
+« […] réserver le terme douleur à des affects ressentis comme localisés dans des organes particuliers du corps ou dans le corps tout entier, et le
+terme souffrance à des affects ouverts sur la réﬂexivité, le langage, le rapport à soi, le rapport à autrui, le rapport au sens, au questionnement […] »
+(Ricoeur, 1994, p. 59)7
+
+Ricœur soutient que la souffrance est « diminution de
+la puissance d’agir » (Ricoeur, 1994, p. 59), que l’on
+peut classer sur deux axes, soit l’axe « soi-autrui » et
+l’axe « agir-pâtir » (Ricoeur, 1994, p. 59). Les signes de
+cette « diminution de la puissance d’agir » s’observent
+dans la parole, l’action, le récit et l’estime de soi. Tel
+que le résume Abiven (1994, p. 206) selon Ricoeur:
+« […] la souffrance est liée à la prise de conscience
+d’une limitation de soi vis-à-vis de soi-même,
+comme vis-à-vis d’autrui. Le noyau dur, le cœur de
+la souffrance a à voir avec la limitation et donc,
+une sorte d’impuissance. Selon cette conception,
+on pourrait alors la déﬁnir comme l’état douloureux d’une conscience réalisant que ce qu’elle vit,
+l’état dans lequel elle se trouve provoque limitation
+de son soi et impuissance. »
+
+L’axe soi-autrui de la souffrance est marqué par la
+séparation. La souffrance donne au soi le sentiment «
+d’exister à vif ». Or, cette expérience atteint:
+« […] l’intentionnalité visant quelque chose, autre
+chose que soi; de là l’effacement du monde comme
+horizon de représentation; où pour le dire autrement, le monde apparaît non plus comme habitable mais comme dépeuplé. C’est ainsi que le soi
+s’apparaît rejeté sur lui-même. » (Ricoeur, 1994,
+p. 60).
+
+Dans l’axe agir-pâtir, on retrouve:
+« […] toutes les blessures qui affectent tour à tour
+le pouvoir dire, le pouvoir faire, le pouvoir (se) raconter, le pouvoir de s’estimer soi-même comme
+agent moral.» (Ricoeur, 1994, p. 62)
+
+L’auteur classe différents types de souffrir dans cet axe:
+l’impuissance à dire, l’impuissance à faire, les atteintes
+portées à la fonction du récit dans la constitution d’une
+identité personnelle et l’impuissance à s’estimer soimême. Cette conception de la souffrance est très pertinente à l’étude de la situation des gens atteints d’une
+maladie incurable, les limitations qui sont alors vécues
+étant souvent nombreuses (Abiven, 1994). Lorsque
+celles-ci s’ajoutent aux limites imposées par le vieillissement, elles forment un ensemble de limites parfois
+très imposant. Les écueils de la communication qui
+guettent alors la personne sont aussi des sources
+potentielles de souffrance.
+
+Valérie Bourgeois-Guérin
+
+Divers aspects de la communication des femmes âgées
+atteintes d’un cancer incurable semblent associés à
+leurs souffrances. La présente recherche cherche à
+répondre aux questions suivantes: Comment la souffrance vécue par les femmes âgées atteintes de cancer
+incurable se lie-t-elle à la communication avec leur entourage? Quelles sont les conséquences de la communication de ces femmes avec leur entourage sur leur
+souffrance?
+
+Méthodologie
+Un devis de recherche qualitative exploratoire a été
+choisi aﬁn de mener cette recherche. La recherche qualitative vise à comprendre en profondeur certaines expériences vécues par l’exploration de différents
+concepts et de leur manifestation dans la réalité des
+personnes interrogées. La recherche qualitative reconnaît l’habileté des gens à analyser et interpréter leur
+monde et leur expérience ainsi que la richesse de cette
+interprétation (Sankar et Gubrium, 1994), ce qui est
+particulièrement pertinent pour l’étude de la souffrance (Kahn et Steeves, 1986). Plus précisément, cette
+recherche qualitative est une analyse de catégories
+conceptualisantes se fondant sur une approche phénoménologique (Paillé et Mucchielli, 2003).
+Échantillonnage
+Le recrutement des participantes s’est fait au Centre
+Hospitalier de l’Université de Montréal, ainsi qu’au
+CSSS Cavendish de Montréal. Le projet a été présenté à
+divers professionnels de la santé aﬁn de solliciter leur
+aide pour le recrutement. Ces derniers ont présenté la
+recherche aux femmes correspondant aux critères
+d’inclusion pour ensuite leur demander si elles accepteraient d’être contactées par l’équipe de recherche
+pour obtenir des renseignements à ce sujet. Les coordonnées de 20 participantes potentielles ont été remises à l’équipe de recherche, qui les a contactées. Six
+ont refusé de participer (pour des raisons de santé ou
+des motifs personnels), une n’a pas pu participer car
+elle était allophone, trois ont changé d’hôpital et n’ont
+pu être jointes et une est décédée quelques jours avant
+que nous la contactions. En tout, dix femmes ont accepté de participer à la recherche et ont été rencontrées.
+L’arrêt du recrutement a été motivé par le vaste
+contenu livré lors des entrevues, la diversité des
+témoignages, des caractéristiques des participantes et
+des problématiques soulevées. (Tableau 1.)
+Les participantes rencontrées étaient âgées de 66 ans
+à 83 ans. Trois d’entre elles étaient âgées de 65 à 70
+ans, cinq de 71 à 75 ans, une de 76 à 80 ans et une de
+81 à 85 ans. Elles étaient atteintes de différents types
+de cancer: sept souffraient d’un cancer du poumon;
+une d’un cancer du sein; une de cancers multiples et
+
+Souffrance et écueils de la communication
+
+La Revue canadienne du vieillissement 29 (4)
+
+533
+
+Tableau 1: Données sociodémographiques
+No attribué
+
+Âge
+
+Langue Maternelle
+
+État civil
+
+Enfants
+
+Religion
+
+Type de cancer
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+72
+71
+69
+83
+66
+71
+72
+65
+72
+78
+
+Français
+Français
+Français
+Français
+Anglais
+Français
+Français
+Français
+Français
+Français
+
+Séparée
+Mariée
+Célibataire
+Veuve
+Mariée
+Célibataire
+Séparée
+Célibataire
+Mariée
+Mariée
+
+6
+2
+0
+2
+3
+0
+3
+1
+4
+5
+
+Catholique
+Catholique
+Catholique
+Juive
+Catholique
+Catholique
+Catholique
+Catholique
+Catholique
+Catholique
+
+Poumon
+Poumon
+Poumon/os
+Foie
+Pancréas
+Poumon
+Poumon
+Sein
+Poumon
+Poumons
+
+une du cancer du pancréas. Une participante était anglophone; les neuf autres, francophones. Neuf participantes étaient de religion catholique et une, de religion
+juive. Quatre des participantes étaient mariées, trois
+étaient célibataires, deux, divorcées ou séparées et une,
+veuve. Enﬁn, huit de ces femmes avaient des enfants.
+Les entretiens
+Des entretiens semi-dirigés ont été réalisés. Ce type
+d’entretien est particulièrement pertinent pour aborder
+les thèmes délicats de cette recherche et permet de recueillir un matériel d’analyse riche et pertinent. Ces entrevues ont été menées au domicile de ces femmes ou
+dans un lieu de leur choix. Elles ont étés de durées variables, puisque l’état de santé des femmes rencontrées
+était précaire et les sujets abordés, délicats. Les entrevues ont donc duré de 40 minutes à 2 h 30. Les participantes ont été rencontrées à une (n = 1) ou deux reprises
+(n = 9) aﬁn d’aborder les différentes thématiques. 19 entrevues ont été réalisées. Elles ont été enregistrées et
+transcrites intégralement. Un numéro fut attribué à
+chaque participante pour préserver leur anonymat.
+Les entrevues ont porté sur l’expérience de la souffrance en lien avec le cancer, le vieillissement, la conception de leur corps, la communication ainsi que les
+représentations de leur passé, présent et futur. Les
+questions ont été posées à l’aide d’un guide d’entretien
+indiquant les thèmes à aborder mais elles furent adressée en respectant le plus possible le rythme, la
+manière de se mettre en récit, les souhaits et les réticences de chacune des participantes. Un court questionnaire sociodémographique a également été rempli
+par chaque participante.
+Analyse des entretiens: analyse constituante des
+données
+Nous avons réalisé une analyse de catégories conceptualisantes, en procédant en premier lieu à lecture et
+relecture des transcriptions des entrevues pour jeter
+les bases de nos catégories (Paillé et Mucchielli, 2003).
+
+Les entrevues ont ensuite été étiquetées à l’aide du
+programme informatique d’analyse qualitative QSR
+N6 par deux codeurs. Puis, le phénomène étudié a ensuite été repéré et délimité aﬁn de rafﬁner et retravailler
+les catégories. Les entrevues ont ﬁnalement été codées
+à nouveau avec ces nouvelles catégories. Nous nous
+sommes assurés de la validité de l’analyse en suivant
+les recommandations de Des Aulniers (1993), comme
+de clariﬁer l’appareil théorique, enregistrer nos entretiens, valoriser des concepts proches de l’expérience
+vécue des participantes, etc. (Des Aulniers, 1993). De
+plus, nous avons vériﬁé que les verbatims contenus
+dans les catégories appuyaient nos analyses. Aussi,
+nous avons procédé à une comparaison inter-juge en
+faisant codiﬁer chaque entrevue par deux personnes
+pour ensuite comparer les codiﬁcations. Enﬁn, nous
+avons respecté les règles d’exhaustivité, de représentativité, d’homogénéité, de pertinence et d’univocité
+dans nos catégorisations et analyses (Mayer et Ouellet,
+2000).
+
+Resultats: Voiler ou dévoiler sa
+maladie et les souffrances qui s’y
+rapportent
+Les résultats mettent en évidence divers enjeux communicationnels liés à la souffrance des femmes rencontrées. Les résultats sont ici présentés en étant combinés
+avec la discussion, approfondis sur le champ aﬁn
+d’alléger la lecture du texte et d’éviter la répétition en y
+revenant dans la discussion. Nous examinerons la dynamique du silence, parfois choisi pour éviter une souffrance accrue, parfois imposé et source de souffrance.
+Le manque d’écoute et l’infantilisation seront également abordés. Enﬁn, nous nous pencherons sur les conséquences du fait de parler et leur lien avec la souffrance
+des femmes âgées atteintes d’un cancer incurable.
+La dynamique du silence
+Les résultats élucident la dynamique paradoxale du
+silence, tantôt souhaité pour éviter une souffrance
+
+534
+
+Canadian Journal on Aging 29 (4)
+
+accrue, tantôt imposé et source de souffrance. Bataille
+(2003) remarque que certaines personnes dissimulent
+qu’elles sont atteintes du cancer pour protéger
+l’émotivité des gens, ne pas les inquiéter, éviter les
+comparaisons et ne pas assister à leur réaction. Nos résultats mettent en évidence que des femmes âgées atteintes d’un cancer incurable décident, pour diverses
+raisons, de ne pas dire à certaines personnes qu’elles
+sont atteintes de cancer. Ces motifs seront analysés aﬁn
+d’en comprendre le sens et d’établir des liens avec la
+souffrance de ces femmes. Nous verrons que les motifs
+d’adopter le silence s’étalent sur un continuum allant
+d’un silence souhaité qui diminue la souffrance à un
+silence imposé qui l’ampliﬁe.
+Un silence choisi pour éviter une souffrance accrue
+Cinq femmes de notre échantillon (les participantes 3,
+4, 6, 7 et 8) ont adopté un silence partiel sur leur maladie en ne l’annonçant pas à certaines personnes de leur
+entourage. Aucune participante n’a gardé pour elle
+seule la nouvelle du cancer. Elles l’ont toutes annoncé
+à leur famille immédiate, mais elles ont en commun
+d’avoir choisi de ne pas révéler leur maladie à tous
+pour diverses raisons, mais principalement pour éviter
+de souffrir davantage.
+Une participante (4) rapporte qu’elle a décidé de ne
+pas parler du cancer parce que cela aurait suscité beaucoup de questions, de visites et d’appels téléphoniques,
+qu’elle n’a pas l’énergie de gérer. Cette participante en
+est à son second cancer, et la première fois, elle avait
+annoncé sa maladie à tout son entourage. Elle avait en
+retour été assaillie d’appels et de visites, ce qu’elle
+avait trouvé épuisant, et qui l’a motivée à ne rien dire
+cette fois-ci. Elle rapporte à ce sujet:
+« […] je ne veux pas qu’ils viennent un après
+l’autre. J’attends d’avoir la force, avant de le dire
+à mes proches. Je vais leur dire plus tard. » (Participante 4, entrevue no 1)
+
+Elle préfère attendre d’être prête, d’avoir plus d’énergie
+avant de parler. C’est aussi, en quelque sorte, pour
+conserver une certaine maîtrise sur son existence et
+pour se protéger qu’elle agit ainsi.
+Dans d’autres cas semblables, les femmes rencontrées
+n’aiment pas que les gens soient curieux à l’égard de ce
+qui leur arrive et décident de protéger leur intimité en ne
+parlant point de leur maladie (participante 7). Ainsi, une
+participante indique, en parlant du fait qu’elle ne dit pas
+aux gens qu’elle est atteinte d’un cancer qu’elle n’aime
+pas qu’ils soient curieux à son égard que: « c’est mes affaires, c’est pas les affaires des autres » (participante 7, entrevue no 1). On remarque dans cet exemple le désir de
+garder pour soi la nouvelle. Cette décision de garder le
+silence sur son état de santé semble être liée à une certaine pudeur, au souhait que son intimité soit respectée.
+
+Valérie Bourgeois-Guérin
+
+Dans un cas similaire, une participante (participante 6)
+dit qu’elle trouve démoralisant que les gens lui demandent périodiquement comment elle va, si sa maladie
+progresse, etc. Elle préfère le silence au discours sur sa
+maladie, qui lui en rappelle l’évolution. Elle choisit
+donc de ne pas dire à beaucoup de gens qu’elle est atteinte d’un cancer, de ne partager son expérience
+qu’avec les gens dont elle est très proche, pour se protéger elle-même. Jusqu’ici, sa décision ressemble à
+celles des autres participantes: aﬁn de se protéger, elle
+veut maintenir un certain contrôle sur le contenu des
+discours pour que la maladie n’envahisse pas le champ
+de la communication. Cependant, cette participante
+considère aussi qu’il est triste de parler du cancer. C’est
+pourquoi elle préfère ne pas le faire. Elle mentionne
+notamment que son neveu lui a dit qu’il n’osait plus
+l’appeler parce qu’il ne savait pas quoi lui dire, qu’il
+avait peur. Elle afﬁrme qu’en conséquence: « Je me suis
+mis dans tête que cette affaire là, là (le cancer), on peut pas le
+dire » (participante 6, entrevue no 2). On voit ici qu’une
+limitation initiale dans le rapport à soi (la tristesse vécue lorsqu’elle parle du cancer) et dans le rapport à autrui (le malaise et l’éloignement de son neveu) explique
+en partie sa décision. La peur et le malaise face à la
+maladie ont dans ce cas engendré un éloignement qui
+semble lui avoir envoyé le message que si elle parle de
+sa maladie, elle suscitera invariablement le même type
+de réaction. Sans être clairement une conspiration du
+silence, cette attitude des gens qui l’entourent semble
+s’ancrer dans le même malaise face à la souffrance et à
+la maladie et a pour conséquence de pousser la participante à taire tout un pan de son expérience.
+Dans un même ordre d’idées, une participante a décidé de parler de sa maladie qu’à sa famille. Elle dit:
+« La maladie, c’est à moi, c’est pas à d’autres.
+C’est ça je me dis moi. Toujours en parler ça
+vient… que ça tombe sur les nerfs. C’est pas mieux,
+c’est toi qui se fait mal. Oui, fait que j’aime mieux
+pas trop, trop en parler de ça. Je garde ça pour
+moi. » (Participante 7, entrevue no 2).
+
+Ici, la participante ne parle pas de sa maladie parce
+qu’elle conçoit que c’est un sujet de conversation qui
+ennuie les gens et qui est difﬁcile à aborder pour ellemême. Dans cet extrait, elle mentionne également que
+la maladie lui appartient, et non aux autres. Or, elle
+ajoute, plus tard dans l’entrevue, qu’elle a toujours été
+comme ça. Lorsqu’elle vit un malheur, elle préfère le
+garder pour elle, car en parler aux autres reviendrait
+selon elle à leur faire vivre sa souffrance, ce qu’elle
+préfère leur épargner. Le fait de parler de la souffrance
+est ici conçu comme étant, d’une certaine manière,
+« contagieux » engendrant d’autres souffrances chez
+l’auditeur réceptif à la souffrance d’autrui. C’est donc
+pour protéger autrui contre cette souffrance qu’il pourrait vivre que cette femme opte pour le silence sur sa
+
+Souffrance et écueils de la communication
+
+maladie et sa souffrance, mais aussi pour se ménager
+elle-même. Ce désir de se protéger et de protéger autrui en ne parlant pas de la maladie est commun à plusieurs des femmes rencontrées.
+Certaines personnes vont également croire que le fait
+de penser à la maladie ou d’en parler peut l’aggraver.
+Une des participantes indique: « Si j’y pensais pas que je
+suis malade, je serais peut-être guérie, tu sais » (participante 8, entrevue no 1). Cette croyance, puisée notamment dans les courants de pensée qui donnent une
+grande place au « bon moral » et à la « pensée positive
+» dans la guérison (Ben Soussan, 2004) n’est pas sans
+altérer la communication au sujet de la souffrance
+et des aspects plus difﬁciles à vivre de la maladie. En
+effet, les discours prônant l’espoir à tout prix et
+l’optimisme ont pour effet pervers d’empêcher
+l’expression de certaines facettes de l’expérience de la
+personne atteinte du cancer, surtout lorsque le cancer
+est incurable. Il semble clair que le revers de certaines
+formes d’optimisme peut être de fausser le rapport à
+soi et aux autres, et de faire basculer l’expérience des
+derniers jours dans l’inénarrable. L’excès d’une pensée
+prônant l’optimisme peut ainsi avoir l’insidieuse conséquence d’augmenter la souffrance.
+Parfois, le « choix » du silence tire explicitement son
+origine d’une situation souffrante, d’une limitation de
+la capacité d’agir. Il s’agit alors clairement d’une impuissance qui en amène une autre. Par exemple, une
+participante a décidé de ne pas parler de sa maladie aux
+gens dans son milieu de travail par crainte de perdre
+son emploi. Le fait de sentir qu’elle doit garder ce secret,
+dissimuler les pertes vécues et inventer des excuses
+pour ses absences répétées ainsi que les pertes de revenu
+qui découlent de sa situation sont à la source d’un stress
+important chez cette participante, qui dit au sujet du fait
+qu’elle ne dit pas qu’elle est atteinte du cancer 8:
+« Puis ça, ça me tue, parce que [...] il faut que je
+me trouve des mensonges crédibles, des mensonges qui ont de l’allure.[...] Moi je suis pas de
+même là, à tout le temps inventer des affaires, puis
+j’haïs ça. » (Participante 8, entrevue no 2)
+
+Ici, le fait de mentir force cette dame à adopter une attitude insincère, inauthentique que cette dernière déteste. Cette même participante, célibataire, souligne
+qu’à son avis, elle ne pourra plus avoir d’amoureux.
+Elle dit à ce sujet:
+« J’ai l’air d’une vieille, qui a une bedaine, qui en
+plus que si elle parle elle va dire qu’elle est malade.
+Il n’y a pas un Québécois qui veut se charger
+d’une femme de même, fait que mon chat est mort.
+Mon bonheur à deux, il est mort. » (Participante 8,
+entrevue no 2]
+
+Elle croit que si elle rencontre un homme et ne lui dit
+pas qu’elle est malade, il ﬁnira par s’en rendre compte
+
+La Revue canadienne du vieillissement 29 (4)
+
+535
+
+et la quittera. D’un autre côté, si elle le lui dit, il ne voudra pas la fréquenter. Ce témoignage est un exemple
+de la menace de discrimination que relevait Bataille
+(2006). C’est pour éviter la discrimination et le rejet
+qu’elle refuse de parler de son cancer, ce qui ressemble
+aussi au contrôle de l’information que divers auteurs
+constatent chez les gens victimes de stigmatisation
+(Dany et al., 2008). Enﬁn, l’attitude adoptée est source
+d’une grande souffrance chez cette femme, pour qui la
+solitude semble difﬁcile à vivre9.
+Ces exemples mettent en évidence que, même si ce
+choix n’est pas toujours fait librement, c’est pour éviter
+une souffrance accrue que ces femmes optent pour le
+silence sur leur maladie. Ce choix du silence est parfois
+libre: il protège l’intimité et donne un pouvoir à la personne dans l’échange. Cependant, ce choix découle
+parfois d’une limitation initiale, d’une incapacité qui
+dérive d’une contrainte interne (ex. la peur de déranger,
+d’être rejeté, de perde son emploi, d’aggraver la maladie). Il est même possible que des contraintes externes
+expliquent ultimement ce choix (représentations sociales négatives de la maladie, discrimination). Dans pareilles situations, le choix du silence ne diminue pas la
+souffrance, pouvant même en être une source.
+Lorsque le silence est imposé et source de souffrance
+Dans certains cas, le silence est explicitement imposé
+de l’extérieur (participantes 1, 8 et 9). Le silence imposé
+peut l’être de manière sournoise, subtile. Le silence «
+choisi » dont il est question ci-dessus pourrait donc,
+dans une certaine mesure, être imposé par des normes
+sociales (ex. la crainte d’être victime de discrimination
+ou de stigmatisation, tel que relevé antérieure-ment).
+Le « silence choisi » est un silence que les femmes nous
+ont dit préférer pour éviter une souffrance accrue. Ce
+que nous appelons ici « silence imposé » correspond au
+témoignage de femmes qui ont vécu l’imposition du
+silence, s’étant fait signiﬁer clairement par leur interlocuteur qu’il refusait de les entendre parler de leur
+maladie ou de leur souffrance.
+Une participante (8) raconte qu’une de ses cousines lui
+a fait parvenir une lettre peu après avoir appris qu’elle
+avait cancer:
+« […] elle m’a écrit une lettre comme quoi elle voulait rien entendre de mes malheurs. Qu’un téléphone
+de malheur, elle voulait pas rien savoir de ça.
+Qu’elle est pas capable de prendre ça, ça la
+dérange, et que si j’ai des affaires plus intéressantes
+à lui parler ça va, mais [qu’elle] a mis des conditions
+parce que si je la vois ça va être pour [...] prendre
+un bon repas, puis de faire une activité, mais que la
+maladie zéro, elle voulait pas entendre parler de ça.
+Donc je me suis dit il y en a probablement d’autres
+qui sont de même, qui veulent pas entendre parler
+de la maladie.» (Participante 8, entrevue no 1).
+
+536
+
+Canadian Journal on Aging 29 (4)
+
+La participante dit ensuite que sa vie est remplie de
+rendez-vous médicaux et qu’elle voit mal comment ne
+pas en parler à ses proches. Ceci est un exemple clair
+de refus d’entendre parler de la souffrance, de la maladie d’autrui. Ce refus, nommé clairement par certains,
+peut évidemment avoir comme effet, tel qu’on le voit
+ici, de renforcer la croyance que parler de la maladie
+est un sujet lourd et dérangeant. De tels refus contribuent à taire l’expression de la souffrance et les discussions au sujet de la maladie. On peut d’ailleurs se
+demander si les autres participantes ayant choisi de
+garder le silence parce qu’il s’agit d’un sujet lourd et
+dérangeant ont perçu un malaise similaire. Sans que ce
+dernier n’ait nécessairement été nommé aussi clairement que dans cet extrait, il aurait pu envoyer le message que l’on ne voulait pas entendre parler de leur
+souffrance et de leur maladie. Évidemment, lorsqu’un
+tel discours est adressé à une personne atteinte d’un
+cancer incurable, il porte aussi le message que l’on
+refuse qu’une grande part de l’expérience vécue par
+cette personne soit partagée. Cela emmure la personne
+dans un silence qui voile tout un pan de son expérience, pourtant souvent source d’une foule de questionnements et de craintes. Lorsque ce message est
+intériorisé, la limitation dans le rapport à autrui,
+l’impuissance à dire à l’autre, risque d’affecter aussi le
+rapport à soi.
+Dans d’autre cas, les femmes rencontrées se sont fait
+dire par autrui, qu’ils ne voulaient pas entendre parler
+de leur maladie, mais elles ont réagi bien différemment
+qu’en intégrant ce message et en cessant d’en parler.
+En effet, certaines femmes atteintes de cancer résistent
+au refus d’entendre de certains, comme l’illustre
+l’extrait qui suit:
+« Bien au commencement, bien le monde que je
+connaissais je leur ai dit. Puis là, quand je l’ai dit,
+il y a une femme qui m’a dit “bien là dis moi pas
+ça, dis moi pas ça”. Je lui ai dit “je m’excuse là
+(voix sarcastique), mais là tu m’as demandé comment j’allais bien je te l’ai dit” (en imitant la dame
+rencontrée). Dis moi pas ça! Elle dit “bien je suis
+pas capable de prendre ça le cancer”, je lui ai dit
+bien prend le pas. C’est pas toi qui l’a, c’est moi
+(rire), c’est aussi simple! »(Participante 1, entrevue
+no 1).
+
+Il est ici clair que cette participante refuse ce silence
+que tente de lui imposer son interlocuteur. Elle lui annonce clairement que s’il veut communiquer avec elle,
+ce sera dans la sincérité, et qu’elle n’hésitera pas à parler de sa maladie, qu’elle refuse de taire cette expérience. La participante 9 rapporte qu’elle répond, elle
+aussi aux gens qui manifestent un malaise à entendre
+sa souffrance ou à entendre parler de sa maladie. Ces
+femmes refusent qu’un silence s’abatte sur leur expérience et décident de foncer, de nommer quand même ce
+
+Valérie Bourgeois-Guérin
+
+qu’elles vivent, comme pour briser un tabou face à la
+maladie, mais peut-être aussi face à la mort et à la souffrance. Ce refus d’entendre la parole portant sur la
+souffrance et le cancer pourrait découler du déni de
+la mort et de la souffrance, répandu dans la société
+nord-américaine actuelle (Bourgeois-Guérin, 2003; Des
+Aulniers, 1999; Thomas, 1991). En effet, le déni de la
+mort peut parfois se tourner vers la personne atteinte
+d’une maladie incurable, devenir un refus d’entendre
+sa parole parce qu’elle est trop éprouvante. Ce genre
+d’attitude renvoie à la conception de la souffrance de
+Ricoeur (1994), qui rappelons-le, déﬁnit la souffrance
+en termes de limitation de soi-même, notamment face
+à autrui. Nous avons ici une ﬁgure de l’atteinte au pouvoir dire que décrit Ricœur.
+Quand la parole n’est pas écoutée, quand son auteur
+est infantilisé
+Manque d’écoute de la part des proches et du personnel
+médical
+Dans d’autres situations, sans que le silence ne soit imposé de manière aussi directe que dans les exemples
+mentionnés précédemment, la parole souffrante des
+participantes n’est pas accueillie. Elle est plutôt détournée de diverses façons. Ainsi, une participante (2)
+rapporte ne pas pouvoir parler de sa maladie et des
+souffrances qui en découlent parce qu’à chaque fois
+qu’elle en parle, son ﬁls insiste pour qu’elle mange davantage ou qu’elle marche, alors qu’elle n’a ni le désir,
+ni l’énergie de le faire. On peut déceler dans son insistance pour qu’elle mange et s’active un moyen de détourner l’attention de l’impuissance et de la mort. Un
+désir de combattre la mort et de taire la souffrance
+semble se manifester par ce genre d’attitude. On devine
+aussi dans l’attitude du ﬁls un malaise à entendre la
+souffrance. Pareille absence d’écoute ressemble au silence imposé car le manque d’écoute s’explique de la
+même façon que le refus d’entendre. Toutefois, ce n’est
+pas toujours une limitation dans le rapport à soi et à
+autrui qui rend compte du manque d’écoute.
+Dans le secteur des soins de santé, ce sont des raisons
+structurelles qui semblent expliquer cette situation.
+Avec le manque d’effectif que l’on connaît, il arrive en
+effet que le personnel médical ne prenne pas le temps
+d’écouter, qu’il ne laisse point le temps à la personne
+souffrante de s’exprimer. Ainsi, une participante rapporte avoir rencontré un psychiatre qui ne lui a consacré que 10 minutes. Elle dit, en parlant de l’écoute du
+personnel médical: « […] l’inﬁrmière pivot elle prend le
+temps, mais les autres ils ont pas le temps, ils ont pas le
+temps, ils sont occupés là. Sont gentils mais pas plus. »
+(Participante 1, entrevue no 1). On voit dans cet extrait
+qu’en général, le personnel médical ne semble pas
+avoir le temps d’écouter la participante, mais qu’il y a
+
+Souffrance et écueils de la communication
+
+des exceptions. À ce propos, il ne faut pas minimiser
+l’importance de la communication avec le personnel
+médical. En effet, diverses participantes rapportent apprécier que le personnel médical les écoute, aimer parler avec les soignants et qu’ils prennent le temps de
+leur fournir des explications (participantes 1, 4, 6 et 9).
+Cela introduit un peu d’humanité dans les soins et permet à ces femmes de parler de leur expérience, autrement qu’en termes strictement médicaux. Cette
+humanisation des soins semble les apaiser. Il arrive
+cependant que la communication entre les femmes âgées
+et le personnel médical soit obscurcie par l’infantilisation.
+Infantilisation
+À ce propos, une participante (1) rapporte avoir été victime à diverses reprises d’infantilisation de la part du
+personnel médical qui l’a suivie. Elle raconte, par exemple, qu’on lui a demandé à répétition si elle avait compris le diagnostic qu’on lui faisait, lors de l’annonce de
+son cancer, comme si elle ne comprenait pas, alors qu’elle
+leur disait clairement qu’elle comprenait très bien ce
+qu’ils lui disaient. L’infantilisation est une manière de ne
+pas écouter l’autre en minimisant sa parole. La communication tronquée est ici source de souffrance puisqu’elle
+met en place un rapport à l’autre altéré, dépourvu de
+considération et de sollicitude qui suppose chez la personne des incapacités qui ne sont pas siennes. Toutefois,
+malgré ce que soutiennent certaines études (Thompson
+et Thompson, 2004), il semble que plusieurs des participantes n’aient pas vécu d’infantilisation. Faut-il expliquer cela par le fait que ces femmes habitent encore chez
+elles et que leurs contacts sont moins fréquents avec le
+personnel médical? Cela peut aussi donner espoir que
+l’infantilisation des femmes âgées soit moins répandue
+que l’on pourrait le croire, ou en déclin.
+Dévoiler: partager son expérience avec autrui et ses
+conséquences
+Toutes les participantes rencontrées ont choisi de parler à certaines personnes de leur maladie et, parfois,
+des souffrances qui s’y rattachent. Cela conﬁrme le
+constat de Bataille (2003), qui soutient que dire et se
+taire sont des expériences qui ne s’excluent pas, mais
+se chevauchent et cohabitent souvent. Certaines ont
+choisi de ne pas partager ce qu’elles vivaient avec tous,
+tel que nous l’avons constaté antérieurement. D’autres
+ont choisi d’en parler ouvertement à chacun des membres de leur entourage (participantes 1, 2, 5, 9 et 10).
+Les motifs qui poussent ces participantes à parler de
+leur maladie sont multiples et parfois contradictoires.
+Ainsi, une participante parle de sa maladie, mais avec
+réserve. Elle dit à ce sujet:
+« […] on en a parlé un peu, mais tu veux pas parler rien que de ça là. À un moment donné, ils le
+savent puis c’est ça. Je ne veux pas tout le temps
+
+La Revue canadienne du vieillissement 29 (4)
+
+537
+
+être trempée là-dedans non plus. […] Ils le savent
+là, puis on fait comme si rien n’était là. La vie continue […] c’est ce que je veux. Je ne veux pas me
+faire prendre en pitié. Je veux rien savoir de ça
+(pleurs). Je veux qu’ils fassent comme d’habitude. »
+(Participante 10, entrevue no 1).
+
+Cette participante parle de sa maladie, mais elle préfère
+que le discours ne porte pas uniquement sur ce sujet.
+Elle désire que les choses soient comme avant, et le fait
+de ne pas parler beaucoup de la maladie, aide à réaliser
+ce désir. Dans un même ordre d’idées, une participante
+afﬁrme qu’elle annonce aux gens qu’elle est atteinte
+d’un cancer pour éviter les questionnements incessants:
+« J’en parle comme ça j’ai la paix là. [...] Une fois
+que les gens savent qu’est-ce que tu as, bien ils te
+laissent tranquille après ça.[...]si tu parles de rien
+ils se demandent pourquoi tu changes, pourquoi tu
+es fatiguée, pourquoi ci, pourquoi ça. Non, ça
+tu leur dis, [...] une fois, puis ça c’est assez. »
+(Participante 1, entrevue no 1).
+
+Cet extrait témoigne aussi du fait que la participante
+fait possiblement savoir qu’elle est atteinte du cancer
+pour éviter qu’on lui parle davantage, donc pour éviter
+une certaine forme de communication, potentiellement anxiogène, particulièrement pour cette participante qui, plus loin dans l’entrevue, indique qu’elle
+préfère ne pas penser à sa maladie. Elle dit aussi aux
+gens qu’elle est atteinte du cancer pour ne pas avoir à
+cacher sa réalité, ce qui rejoint le constat de Bataille
+(2003). Cette participante conçoit qu’il est ennuyant
+d’entendre parler de la maladie:
+« Le monde ils m’appellent, c’est pour avoir des
+nouvelles de maladie, c’est évident là. Il y a ça qui
+a changé un peu là. C’est bien plate mais ils veulent savoir comment je ﬁle. I: Puis vous trouvez ça
+plate? R: Bien pour eux autres oui, voyons! Appeler quelqu’un pour savoir comment qu’a va.
+Quand on sait qu’elle est en chimio! Tu sais. Fait
+que j’essaye, je dis ce qui en est, qu’est-ce que tu
+veux. » (Participante 1, entrevue no 1
+
+Elle choisit tout de même de parler de sa maladie,
+probablement pour les raisons évoquées plus haut,
+toutefois elle souligne qu’elle n’en parle pas beaucoup,
+parce qu’elle trouve que c’est un sujet dérangeant à
+aborder et que d’en parler est inutile, ne changera rien
+à son état de santé.
+Une autre participante (3) rapporte qu’elle parle de sa
+maladie et de la mort avec ses proches. Elle discute
+notamment avec ces derniers de ce qu’il y a après la
+mort. Le fait d’avoir ces discussions semble être apprécié par cette participante qui, en comparant et en
+validant sa vision de la mort et de l’après-mort, tente
+probablement de soulager une certaine angoisse de
+mort, de valider quelques réponses qui s’offrent aux
+
+538
+
+Canadian Journal on Aging 29 (4)
+
+questionnements portant sur ce qui lui arrivera après
+son décès. Cela lui permet possiblement de situer son
+expérience souffrante dans une temporalité et un horizon de sens plus vaste, ce qui peut amener un certain
+soulagement.
+Deux autres participantes parlent de leur mort avec
+leurs proches (5 et 10). Elles le font, notamment pour
+préparer leur après mort et situent ainsi leur mort dans
+un temps qui les dépasse. Ainsi, une participante (10)
+parle à son mari de sa mort et le prépare en lui apprenant à cuisiner, à faire le ménage etc., même si ce dernier n’apprécie pas qu’elle aborde ce sujet. Une autre
+participante (5) dit à son mari qu’elle aimerait qu’il se
+trouve une amoureuse après son décès, elle discute de
+la mort avec ses enfants ce qu’elle semble apprécier.
+Elle met en œuvre différentes pratiques aﬁn de se préparer à mourir et la communication avec ses proches
+va dans ce sens. Toutefois, comme pour la participante
+10, le fait de parler de son cancer à ses proches n’est
+pas facile. Elle en parle donc, mais pas « trop » parce
+qu’elle croit qu’elle pourrait alors être un poids pour
+autrui et parce qu’elle conçoit que les gens n’aiment
+pas aborder ce sujet. Elle dit:
+« To a relative, I’ll be more open than to a friend
+maybe. You know, we will talk a little bit about it,
+but then I don’t want the conversation to be on the
+disease. People don’t like that, you know, and I
+don’t want to burden people like that either, that’s
+not fair. » (Participante 5, entrevue no 1)
+
+Le sujet ne semble pas seulement perçu comme lourd à
+aborder pour les autres, mais aussi pour elle-même.
+Cette même participante mentionne qu’elle n’aime pas
+parler de sa maladie:
+« I don’t want to. I don’t want to. Because if I talk
+about it more, it will push me down more. […]That’s
+how I feel about it, you know. So… I don’t want to
+feel that I’m denying my situation. I don’t deny it, I
+know what I have. I know what I’m dealing with,
+but it doesn’t mean I have to talk about it all the
+time. […] » (Participante 5, entrevue no 1)
+
+Ainsi, sans adopter une attitude de déni, cette participante préfère ne pas trop parler du cancer pour des
+motifs de protection d’autrui, mais aussi d’elle-même.
+Pour ces répondantes, parler de leur expérience semble bénéﬁque, les libère d’une certaine souffrance
+quoiqu’à des degrés divers. Il semble que pour nombre
+de ces participantes le fait de parler de leur maladie
+leur permet aussi de ﬁxer des limites, un seuil au-delà
+duquel le fait de parler deviendrait trop souffrant.
+Une participante (9) rapporte qu’elle parle beaucoup
+de son cancer aux gens qui l’entourent, qu’elle les connaisse ou non. Elle ressent le besoin de parler de son
+expérience lorsqu’elle parle aux gens, et le faire la soulage. Elle dit en parlant de son cancer:
+
+Valérie Bourgeois-Guérin
+« Il faut que j’en parle. Je vois du monde que je,
+que je connais pas puis ils vont commencer à
+jaser. Il faut que je le dise: « J’ai le cancer moi ».
+[...] je suis obligée d’en parler moi. […] Oui, je
+sens le besoin de parler du cancer. Puis ça me fait
+pas plus peur, il faut que ça sorte. Fait que tout le
+monde, la plupart du monde, ils savent tous que
+j’ai le cancer. » (Participante 9, entrevue no 1)
+
+Elle rapporte ensuite que lorsqu’elle parle de sa maladie, les gens l’aident, la supportent, ce qu’elle apprécie
+beaucoup et qui pourrait expliquer en partie son désir
+de parler de sa maladie. Il y aurait effectivement
+certains bénéﬁces découlant du fait de parler du
+cancer, pour certaines participantes. Cela leur permet
+de partager avec les autres (participante 9), de recevoir
+de l’aide (participante 9), de se préparer et de préparer
+les autres (participante 5) et d’éviter de trop en
+parler ou d’avoir à subir de nombreuses questions
+(participante 1).
+
+Conclusion
+Cette recherche exploratoire permet de mieux
+comprendre comment la communication des femmes
+âgées atteintes de cancer incurable se lie à leur souffrance. Les motifs qui justiﬁent l’adoption du silence
+s’échelonnent sur un continuum allant d’un silence
+souhaité qui diminue la souffrance à un silence imposé
+qui ampliﬁe cette dernière. Pour plusieurs participantes le fait d’adopter un silence face à leur maladie
+et à leur souffrance permet de maintenir un certain
+équilibre et parfois de se protéger contre une trop
+grande souffrance, un rejet, une discrimination. Le silence imposé, quant à lui, illustre clairement une souffrance qui tire son origine d’une limitation de soi
+vis-à-vis d’autrui, tel que décrit par Ricoeur (1994). Il
+est imposé de l’extérieur et engendre une souffrance
+chez celui qui le subit. Aussi, le manque d’écoute et
+l’infantilisation sont également sources de souffrance.
+Enﬁn, les femmes rencontrées optent souvent pour
+dire, parler de leur maladie. Pour certaines, cela contribue à donner un sens à leur expérience, à la mettre
+en récit avec autrui, ce qui rejoint ce que plusieurs ont
+écrit sur l’importance de se mettre en récit. Pour
+d’autres, cela permet de parler de ce qu’elles vivent,
+tout en établissant des limites aux discours qui seront
+tenus sur leur maladie et en se protégeant d’une souffrance accrue.
+À la lumière de cette analyse, il semble qu’un élément
+important associé à la souffrance soit le fait d’avoir un
+pouvoir de décision sur la diffusion d’information au
+sujet de son cancer et de sa souffrance, d’exercer une
+certaine autonomie à ce chapitre. Que le silence soit
+choisi ou imposé, le fait de choisir de parler et l’accueil
+réservé à sa parole semble expliquer une part de la
+souffrance vécue. Dans un contexte où la personne n’a
+
+Souffrance et écueils de la communication
+
+souvent pas beaucoup de contrôle sur ce qui arrive à
+son corps ni sur son emploi du temps, il n’est pas surprenant que le fait d’avoir une certaine maîtrise sur ce
+que l’on dira, quand, comment et à qui, revête une
+aussi grande importance.
+Nous avons aussi remarqué que plusieurs participantes conçoivent le cancer et la souffrance comme des
+sujets dérangeants, lourds, inutiles, souffrants ou
+tristes à aborder (participantes 1, 5, 6 et 7). Cela n’a pas
+toujours comme conséquence qu’elles choisissent de
+taire leur maladie. Certaines parlent ouvertement de
+leur maladie, malgré cette perception qu’elles ont du
+fait de parler de la maladie, parce qu’elles ne souhaitent pas dissimuler leur maladie (participantes 1 et 5).
+D’autres (participantes 6 et 7) ne parlent toutefois pas
+de leur maladie, parce qu’elles considèrent que c’est
+triste et dérangeant. Leur perception du cancer comme
+un sujet de conversation difﬁcile à aborder inﬂuence le
+déploiement de leur parole et les pousse à taire leur
+maladie. Nous pouvons nous demander si cette perception n’est pas liée à la vision de la mort dans les
+sociétés occidentales actuelles. En effet, le déni de la
+mort ambiant et le modèle de la belle mort valorisé
+aujourd’hui, selon lequel la belle mort est, entre autres,
+une mort rapide, inconsciente et sans douleur (BourgeoisGuérin, 2003; Thomas, 1991), pourraient engendrer
+un malaise face à l’individu atteint d’une maladie
+incurable. Ce dernier ne pourrait-il pas, aux yeux de
+certains, personniﬁer l’échec de la médecine face à la
+mort et la non-universalité du modèle de la belle mort,
+rappelant que certaines maladies sont longues et souffrantes? N’est-il pas possible que cette vision de la
+mort pousse au silence les personnes atteintes d’un
+cancer incurable qui pourraient parfois intégrer la
+perception des autres au point de ne plus voir la
+pertinence de parler? Cela pourrait porter plusieurs
+personnes atteintes d’un cancer incurable à taire une
+part de ce qu’elles vivent et engendrer une souffrance
+importante (dans le rapport à soi-même, si on se ﬁe à la
+déﬁnition de Ricoeur, 1994). Cela rappelle aussi
+l’importance d’œuvrer aﬁn d’ouvrir un espace social
+ou l’expression de la souffrance, de la maladie et de la
+mort pourrait se déployer.
+En effet, dans plusieurs cas, l’atténuation de la souffrance semble aller de pair avec la possibilité même de
+communiquer; la souffrance se déﬁnissant justement,
+entre autres, par le fait de ne pas pouvoir se dire, se
+raconter (Ricoeur, 1994). Comme le souligne Gagnon
+(2006):
+« La souffrance, […] est un mal qui affecte la capacité d’expression, elle est un sentiment que les
+autres ne comprennent pas ou qu’ils sont indifférents,
+que la parole s’est rompue […]. L’absence de souffrance – ou son atténuation – à l’inverse est une
+conﬁance dans les mots, sentiment d’être compris,
+
+La Revue canadienne du vieillissement 29 (4)
+
+539
+
+possibilité de la communication, de la transparence
+ou d’un rapport direct de soi à l’autre et de soi
+à soi. » (Gagnon, 2006, p. 111).
+
+Toutefois, tel que nous l’avons constaté, toute parole
+n’est pas nécessairement soulageante, à l’instar du silence. Il semble que cela dépende de l’accueil réservé à
+cette parole. L’écoute est-elle véritable? La parole estelle traitée avec respect (notamment au plan des limites de la personne qui partage son expérience)? Le
+pouvoir dire d’autrui est-il véritablement respecté?
+Ces constats mettent en lumière l’importance de communiquer en adoptant une attitude d’écoute véritable
+qui se fonde dans un respect du désir de la personne.
+Tant au niveau des proches que des intervenants psychosociaux ou médicaux, cette habileté communicationnelle est cruciale. En effet, mieux comprendre la
+souffrance de ces femmes contribue à questionner plus
+adéquatement leurs désirs et leurs craintes, à ouvrir un
+espace communicationnel fertile et respectueux.
+Finalement, notons que toutes les femmes rencontrées,
+y compris celles qui ne parlent pratiquement à personne de leur maladie et de leur souffrance, ont accepté de participer à une entrevue où elles allaient être
+appelées à parler de leur souffrance et du cancer. Cela
+porte à croire que le souhait de parler existe chez toutes
+ces femmes, à des degrés divers. Cette volonté de
+s’exprimer semble témoigner d’un désir, d’une recherche de lieu où la parole, le silence et la souffrance pourraient être accueillis, ou encore du souhait de laisser
+une trace, un héritage.
+
+Notes
+1 À notre connaissance seules deux recherches portent
+spéciﬁquement sur les femmes âgées atteintes de cancer.
+Une est axée sur les femmes âgées atteintes de cancer qui
+sont aidantes naturelles et porte sur les répercussions sur
+leur rôle d’aidante. L’autre compare l’ajustement psychologique de ces femmes au fait d’être atteintes du cancer à l’ajustement psychologique de femmes plus jeunes.
+Parrish et Adams (2003), « An Exploratory Qualitative
+Analysis of the Emotional Impact of Breast Cancer and
+Caregiving Among Older Women », Care Management
+Journal, 4 (4), p. 191–197. Roberts, Cox, et Reintgen, (1994),
+« Psychological adjustment to breast cancer in older
+women », Cancer Control, 1, p. 367–371.
+2 Le diagnostic d’un cancer incurable est un événement
+qui est considéré comme un traumatisme potentiel par
+divers auteurs (American Psychiatric Association, 2000;
+Clément-Hryniewicz et Paillaud, 2008).
+3 L’étude de Cordova, Cunningham, Carlson, et Andrykowski
+(2001), notamment, relève certains effets du fait de parler ou
+non de son cancer sur le bien être des gens, avançant que le
+fait de parler de son cancer serait lié à de plus faible taux de
+dépression et un plus important bien être. Une étude de Badr
+et Carmack Taylor (2006) renseigne aussi sur les contraintes
+sociales et la communication des couples dont une personne
+
+540
+
+4
+
+5
+6
+
+7
+
+8
+
+9
+
+Canadian Journal on Aging 29 (4)
+
+est atteinte de cancer, relevant notamment les contraintes
+sociales existant parfois au sein de la communication (tel que
+le déni, l’évitement et les conﬂits).
+Tout le courant de promotion du bien vieillir ne sombre
+heureusement pas dans cet excès, plusieurs études visant
+plutôt à relever les aspects plus constructifs du vieillissement plutôt que de ne le considérer qu’en termes de dégénération. Toutefois, certaines déﬁnitions du bien vieillir
+incluent le concept d’être en santé et autonome (ex. Rowe
+et Kahn, 1997), ce qui ne correspond évidemment pas à la
+réalité de toutes les personnes âgées, particulièrement
+lorsqu’elles sont atteintes d’un cancer incurable.
+Notamment au plan de l’emploi et des ﬁnances (prêts, assurances, etc.), au plan social et affectif, etc.
+Le cancer serait considéré comme une maladie effrayante,
+un ﬂéau, une maladie contagieuse, un ennemi invisible,
+une maladie culpabilisante (dont on est responsable). Il
+serait la ﬁgure du mal, du déclin, de l’affaiblissement, de
+la mutilation et de la dégradation du corps, etc.
+Il est à noter qu’il est certain que les termes « douleur » et
+« souffrance » se recoupent, car tant la douleur purement
+physique que la souffrance purement psychique sont des
+cas limites, distingués ici comme « idéal type ».
+Cet exemple de discrimination ne témoigne évidemment
+pas d’un choix « libre » de garder le silence. Le choix est,
+d’une certaine manière, imposé de l’extérieur par la
+crainte de perdre son emploi. Toutefois, nous l’avons ici
+classé dans la catégorie « silence choisi », puisque la participante décide de ne pas parler pour éviter la souffrance
+accrue qui découlerait d’une perte d’emploi.
+Cette réﬂexion de la participante témoigne aussi d’une
+vision que cette femme a de son corps qui semble être
+particulièrement souffrante. Un article sera consacré à la
+souffrance vécue par les femmes âgées atteintes d’un cancer incurable en lien avec leur expérience de leur corps.
+
+Bibliographie
+Abiven, M. (1994). Au bout du chemin. In J.-M. Von Kaenel et B.
+Ajchbaum-Boffety (Eds.), Souffrances, corps et âme, épreuves
+partagées (Vol. 142, pp. 203–211). Paris: Éditions Autrement.
+American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders, fourth edition, DSM-IVTR. Washington, DC: Author.
+Badr, H., et Carmack Taylor, C.L. (2006). Social constraints
+and spousal communication in lung cancer. PsychoOncology, 15, 673–683.
+Bataille, P. (2003). Un cancer et la vie: les malades face à la maladie. Paris: Balland.
+Bataille, P. (2006). Inégalités, injustices, discriminations: constats, objectifs et ressentis subjectifs des origines et des
+conséquences du cancer. Revue Francophone de PsychoOncologie, 5(2), 95–101.
+Ben Soussan, P. (2004). Le cancer est un combat. RamonvilleSaint-Agne, France: Érès.
+Bourgeois-Guérin, V. (2003). La dépression en contexte de cancer
+en lien avec le statut de la mort et de la maladie grave dans la
+
+Valérie Bourgeois-Guérin
+société québécoise actuelle. Montréal, Quebec, Canada:
+UQAM.
+Chapple, A., Ziebland, S., et McPherson, A. (2004). Stigma,
+shame, and blame experienced by patients with lung
+cancer: Qualitative study. BMJ, 328(7454), 1470.
+Chicaud, M.B. (1998). La crise de la maladie grave. Paris:
+Dunod.
+Clément-Hryniewicz, N., et Paillaud, E. (2008). Quand le mot
+cancer fait trauma, Réﬂexions autour de l’annonce du
+diagnostique de cancer. Psycho-Oncologie, 2(1), 44–48.
+Cordova, L., Cunningham, L.C., Carlson, C.R., et
+Andrykowski, M.A. (2001). Social constraints, cognitive
+processing, and adjustment to breast cancer. Journal of
+Consulting and Clinical Psychology, 69(4), 706–711.
+Dany, L., Dutoit, É., et Favre, R. (2008). Analyse des représentations sociales du cancer et de la souffrance. PsychoOncologie, (2), 53–58.
+Des Aulniers, L. (1993). Pillage en douce ou radicalité attentive? L’ethnobiographie en situation de menace. Recherches qualitatives, 9(automne), 115–136.
+Des Aulniers, L. (1999). Polyculture de la peur aux petits
+soins. Ou: une anthropologue au pays de la clinique. Revue de l’institut de sociologie, (1), 261–273.
+De Hennezel, M. (1995). La mort intime: ceux qui vont mourir
+nous apprennent à vivre. Paris: R. Laffont.
+Ferrell, B.R. (1999). The marriage: Geriatrics and oncology.
+Geriatric Nursing, 20(5), 238–240.
+Gagnon, É. (2006). Les promesses du silence: essai sur la parole.
+Montréal, Quebec, Canada: Éditions Liber.
+Garderet, L., Ollivier, M.-P., Najman, A., et Gorin, N.-C.
+(2006). L’annonce d’une mauvais nouvelle. Revue de la
+littérature. Oncologie, 8(2), 126–131.
+Gubrium, J. (2001). Narrative, experience, and aging. In
+G. Kenyon, P. Clark., et B. deVries (Eds.), Narrative gerontology: Theory, research, and practice (pp. 19–30). New
+York: Springer.
+Gotman, A. (1988). Récits de mort. Ethnologie française, 18(4),
+338–347.
+Kahn, D.L., et Steeves, R.H. (1986). The experience of suffering: Conceptual clariﬁcation and theoretical deﬁnition. Journal of Advanced Nursing, 11(6), 623–631.
+Lapointe, B.J. (2000). Cris et chuchotements: Peur du mourir
+et terreur de mort en soins palliatifs. Frontières, 12(2),
+58–63.
+Mayer, R., et Ouellet, F. (2000). Méthodes de recherche en intervention sociale. Boucherville, Québec, Canada: G. Morin.
+McAdams, D. (1996). Narrating the self in adulthood. In
+J.Birren, G.Kenyon, J.-E.Ruth, J.Schroots, et T.Svensson
+(Eds.), Aging and biography: Explorations in adult
+development (pp. 131–148). New York: Springer.
+
+Souffrance et écueils de la communication
+Moulin, P. (2005). Imaginaire social et cancer. Revue Francophone de Psycho-Oncologie, 4(4), 261–267.
+Paillé, P., et Mucchielli, A. (2003). L’analyse qualitative en sciences humaines et sociales. Paris: Armand Colin.
+Parrish, M.M., et Adams, S. (2003). An exploratory qualitative analysis of the emotional impact of breast cancer
+and caregiving among older women. Care Management
+Journals, 4(4), 191–197.
+Pierron, J.-P. (2007). Représentations du corps malade et symbolique du mal: maladie, malheur, mal?Psycho-Oncologie,
+1(1), 31–40.
+Randall, W.L., et Kenyon, G.M. (2004). Time, story, and
+wisdom: Emerging themes in narrative gerontology.
+Canadian Journal of Aging, 23(4), 333–346.
+Randall, W., et McKim, E. (2005). Toward a poetics of aging:
+The links between literature and life. Narrative Inquiry,
+14(2), 235–260.
+Ricoeur, P. (1994). La souffrance n’est pas la douleur. In J.-M.
+Von Kaenel et B. Ajchbaum-Boffety (Eds.), Souffrances,
+corps et âme, épreuves partagées (Vol. 142, pp. 58–70). Paris:
+Éditions Autrement.
+Roberts, C.S., Cox, C.E., et Reintgen, D.S. (1994). Psychological adjustment to breast cancer by older women. Cancer
+Control, 1(4), 367–371.
+Rosman, S. (2004). Cancer and stigma: Experience of patients
+with chemotherapy-induced alopecia. Patient Education
+and Counseling, 52(3), 333–339.
+
+La Revue canadienne du vieillissement 29 (4)
+
+541
+
+Singer, J. (1996). The story of your life: A process perspective
+on narrative and emotion in adult development. In
+C. Magai et S. McFadden (Eds.), Handbook of emotion,
+adult development, and aging (pp. 443–463). San Diego,
+CA: Academic.
+Statistiques Canada. (2006b). La population Canadienne selon
+l’âge et le sexe. Retrieved décembre 17, 2008, from
+http :// www. statcan . gc . ca / daily - quotidien / 061026
+/dq061026b-fra.htm
+Statistiques Canada. (2007). Portrait de la population canadienne en 2006, selon l’âge et le sexe, Recensement de 2006.
+Ottawa, Ontario, Canada.
+Statistiques Canada. (2009). Incidence du cancer au Canada,
+2005 et 2006 deuxième édition. Retrieved janvier 20, 2010,
+from http://www.statcan.gc.ca/pub/82-231-x/2008001
+/5201792-fra.htm
+Sternberg, R. (Ed.) (1990). Wisdom: Its nature, origins, and
+development. New York: Cambridge University Press.
+Thomas, L.-V. (1991). La mort en question: traces de mort, mort
+des traces. Paris: L’Harmattan.
+Thompson, S., et Thompson, N. (2004). Working with dying
+and bereaved older people. In J. Berzoff et P. Silverman
+(Eds.), Living with dying: A handbook for end-of-life healthcare practitioners (pp. 348–359). New York: Columbia
+University Press.
+Turner, M. (1996). The literary mind. New York: Oxford University Press.
+
+Rowe, J.W., et Kahn, R.L. (1997). Successful aging. The Gerontologist, 37(4), 433–440.
+
+Watzlawick, P., Helmick Beavin, J., et Jackson, D.D. (1981).
+Une logique de la communication. Paris: Seuil.
+
+Saillant, F. (1988). Cancer et culture: produire le sens de la maladie. Montréal, Quebec, Canada: Éditions Saint-Martin.
+
+Winkin, Y. (1981). Le télégraphe et l’orchestre. In Y. Winkin
+(Ed.), La nouvelle communication (pp. 13–26). Paris:
+Seuil.
+
+Sankar, A., et Gubrium, J.F. (1994). Introduction. In J.F.
+Gubrium et A. Sankar (Eds.), Qualitative methods in
+aging research (pp. iv–xvii). Thousand Oaks, CA: Sage
+Publications.
+
+Woodward, K. (1999). Introduction. In K. Woodward (Ed.),
+Figuring age:Women, bodies, generations (pp. v–xxiv).
+Bloomington: Indiana University Press.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Souffrances, corps et âme, épreuves partagées</title><editor><persName><forename type="first">M.</forename><surname>Abiven</surname></persName></editor><editor><persName><forename type="first">J.-M.</forename><surname>Von Kaenel</surname></persName></editor><editor><persName><forename type="first">B.</forename><surname>Ajchbaum-Boffety</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1994</date><biblScope unit="volume">142</biblScope><biblScope unit="page" from="203">203</biblScope><biblScope unit="page" to="211">211</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Diagnostic and statistical manual of mental disorders, fourth edition, DSM-IV-TR</title><editor><orgName>American Psychiatric Association</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Social constraints and spousal communication in lung cancer</title><author><persName><forename type="first">H.</forename><surname>Badr</surname></persName></author><author><persName><forename type="first">C.L.</forename><surname>Carmack Taylor</surname></persName></author></analytic><monogr><title level="j">Psycho-Oncology</title><imprint><date type="published">2006</date><biblScope unit="volume">15</biblScope><biblScope unit="page" from="673">673</biblScope><biblScope unit="page" to="683">683</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Un cancer et la vie: les malades face à la maladie</title><editor><persName><forename type="first">P.</forename><surname>Bataille</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Inégalités, injustices, discriminations: constats, objectifs et ressentis subjectifs des origines et des conséquences du cancer</title><author><persName><forename type="first">P.</forename><surname>Bataille</surname></persName></author></analytic><monogr><title level="j">Revue Francophone de Psycho-Oncologie</title><imprint><date type="published">2006</date><biblScope unit="volume">5</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="95">95</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Le cancer est un combat</title><editor><persName><forename type="first">P.</forename><surname>Ben Soussan</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ramonville-Saint-Agne, France</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">La dépression en contexte de cancer en lien avec le statut de la mort et de la maladie grave dans la société québécoise actuelle</title><editor><persName><forename type="first">V.</forename><surname>Bourgeois-Guérin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal, Quebec, Canada</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Stigma, shame, and blame experienced by patients with lung cancer: Qualitative study</title><author><persName><forename type="first">A.</forename><surname>Chapple</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Ziebland</surname></persName></author><author><persName><forename type="first">A.</forename><surname>McPherson</surname></persName></author></analytic><monogr><title level="j">BMJ</title><imprint><date type="published">2004</date><biblScope unit="volume">328</biblScope><biblScope unit="issue">7454</biblScope><biblScope unit="page" from="1470">1470</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">La crise de la maladie grave</title><editor><persName><forename type="first">M.B.</forename><surname>Chicaud</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Quand le mot cancer fait trauma, Réflexions autour de l’annonce du diagnostique de cancer</title><author><persName><forename type="first">N.</forename><surname>Clément-Hryniewicz</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Paillaud</surname></persName></author></analytic><monogr><title level="j">Psycho-Oncologie</title><imprint><date type="published">2008</date><biblScope unit="volume">2</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="44">44</biblScope><biblScope unit="page" to="48">48</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Social constraints, cognitive processing, and adjustment to breast cancer</title><author><persName><forename type="first">L.</forename><surname>Cordova</surname></persName></author><author><persName><forename type="first">L.C.</forename><surname>Cunningham</surname></persName></author><author><persName><forename type="first">C.R.</forename><surname>Carlson</surname></persName></author><author><persName><forename type="first">M.A.</forename><surname>Andrykowski</surname></persName></author></analytic><monogr><title level="j">Journal of Consulting and Clinical Psychology</title><imprint><date type="published">2001</date><biblScope unit="volume">69</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="706">706</biblScope><biblScope unit="page" to="711">711</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Analyse des représentations sociales du cancer et de la souffrance</title><author><persName><forename type="first">L.</forename><surname>Dany</surname></persName></author><author><persName><forename type="first">É.</forename><surname>Dutoit</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Favre</surname></persName></author></analytic><monogr><title level="j">Psycho-Oncologie</title><imprint><date type="published">2008</date><biblScope unit="volume">2</biblScope><biblScope unit="page" from="53">53</biblScope><biblScope unit="page" to="58">58</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Pillage en douce ou radicalité attentive? L’ethnobiographie en situation de menace</title><author><persName><forename type="first">L.</forename><surname>Des Aulniers</surname></persName></author></analytic><monogr><title level="j">Recherches qualitatives</title><imprint><date type="published">1993</date><biblScope unit="volume">9</biblScope><biblScope unit="issue">automne</biblScope><biblScope unit="page" from="115">115</biblScope><biblScope unit="page" to="136">136</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Polyculture de la peur aux petits soins. Ou: une anthropologue au pays de la clinique</title><author><persName><forename type="first">L.</forename><surname>Des Aulniers</surname></persName></author></analytic><monogr><title level="j">Revue de l’institut de sociologie</title><imprint><date type="published">1999</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="261">261</biblScope><biblScope unit="page" to="273">273</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">La mort intime: ceux qui vont mourir nous apprennent à vivre</title><editor><persName><forename type="first">M.</forename><surname>De Hennezel</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">The marriage: Geriatrics and oncology</title><author><persName><forename type="first">B.R.</forename><surname>Ferrell</surname></persName></author></analytic><monogr><title level="j">Geriatric Nursing</title><imprint><date type="published">1999</date><biblScope unit="volume">20</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="238">238</biblScope><biblScope unit="page" to="240">240</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Les promesses du silence: essai sur la parole</title><editor><persName><forename type="first">É</forename><surname>Gagnon</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal, Quebec, Canada</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">L’annonce d’une mauvais nouvelle. Revue de la littérature</title><author><persName><forename type="first">L.</forename><surname>Garderet</surname></persName></author><author><persName><forename type="first">M.-P.</forename><surname>Ollivier</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Najman</surname></persName></author><author><persName><forename type="first">N.-C.</forename><surname>Gorin</surname></persName></author></analytic><monogr><title level="j">Oncologie</title><imprint><date type="published">2006</date><biblScope unit="volume">8</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="126">126</biblScope><biblScope unit="page" to="131">131</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Narrative gerontology: Theory, research, and practice</title><editor><persName><forename type="first">J.</forename><surname>Gubrium</surname></persName></editor><editor><persName><forename type="first">G.</forename><surname>Kenyon</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Clark.</surname></persName></editor><editor><persName><forename type="first">B.</forename><surname>deVries</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2001</date><biblScope unit="page" from="19">19</biblScope><biblScope unit="page" to="30">30</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Récits de mort</title><author><persName><forename type="first">A.</forename><surname>Gotman</surname></persName></author></analytic><monogr><title level="j">Ethnologie française</title><imprint><date type="published">1988</date><biblScope unit="volume">18</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="338">338</biblScope><biblScope unit="page" to="347">347</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">The experience of suffering: Conceptual clarification and theoretical definition</title><author><persName><forename type="first">D.L.</forename><surname>Kahn</surname></persName></author><author><persName><forename type="first">R.H.</forename><surname>Steeves</surname></persName></author></analytic><monogr><title level="j">Journal of Advanced Nursing</title><imprint><date type="published">1986</date><biblScope unit="volume">11</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="623">623</biblScope><biblScope unit="page" to="631">631</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">Cris et chuchotements: Peur du mourir et terreur de mort en soins palliatifs</title><author><persName><forename type="first">B.J.</forename><surname>Lapointe</surname></persName></author></analytic><monogr><title level="j">Frontières</title><imprint><date type="published">2000</date><biblScope unit="volume">12</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="58">58</biblScope><biblScope unit="page" to="63">63</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Méthodes de recherche en intervention sociale</title><editor><persName><forename type="first">R.</forename><surname>Mayer</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Ouellet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Boucherville, Québec, Canada</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">McAdamsD. (1996). Narrating the self in adulthood. In J.Birren, G.Kenyon, J.-E.Ruth, J.Schroots, et T.Svensson (Eds.), Aging and biography: Explorations in adult development (pp. 131–148). New York: Springer.</title><editor><persName><forename type="first">D.</forename><surname>McAdams</surname></persName></editor><imprint><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">Imaginaire social et cancer</title><author><persName><forename type="first">P.</forename><surname>Moulin</surname></persName></author></analytic><monogr><title level="j">Revue Francophone de Psycho-Oncologie</title><imprint><date type="published">2005</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="261">261</biblScope><biblScope unit="page" to="267">267</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="inbook"><monogr><title level="m">L’analyse qualitative en sciences humaines et sociales</title><editor><persName><forename type="first">P.</forename><surname>Paillé</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Mucchielli</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">An exploratory qualitative analysis of the emotional impact of breast cancer and caregiving among older women</title><author><persName><forename type="first">M.M.</forename><surname>Parrish</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Adams</surname></persName></author></analytic><monogr><title level="j">Care Management Journals</title><imprint><date type="published">2003</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="191">191</biblScope><biblScope unit="page" to="197">197</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Représentations du corps malade et symbolique du mal: maladie, malheur, mal?</title><author><persName><forename type="first">J.-P.</forename><surname>Pierron</surname></persName></author></analytic><monogr><title level="j">Psycho-Oncologie</title><imprint><date type="published">2007</date><biblScope unit="volume">1</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="31">31</biblScope><biblScope unit="page" to="40">40</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Time, story, and wisdom: Emerging themes in narrative gerontology</title><author><persName><forename type="first">W.L.</forename><surname>Randall</surname></persName></author><author><persName><forename type="first">G.M.</forename><surname>Kenyon</surname></persName></author></analytic><monogr><title level="j">Canadian Journal of Aging</title><imprint><date type="published">2004</date><biblScope unit="volume">23</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="333">333</biblScope><biblScope unit="page" to="346">346</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">Toward a poetics of aging: The links between literature and life</title><author><persName><forename type="first">W.</forename><surname>Randall</surname></persName></author><author><persName><forename type="first">E.</forename><surname>McKim</surname></persName></author></analytic><monogr><title level="j">Narrative Inquiry</title><imprint><date type="published">2005</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="235">235</biblScope><biblScope unit="page" to="260">260</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Souffrances, corps et âme, épreuves partagées</title><editor><persName><forename type="first">P.</forename><surname>Ricoeur</surname></persName></editor><editor><persName><forename type="first">J.-M.</forename><surname>Von Kaenel</surname></persName></editor><editor><persName><forename type="first">B.</forename><surname>Ajchbaum-Boffety</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1994</date><biblScope unit="volume">142</biblScope><biblScope unit="page" from="58">58</biblScope><biblScope unit="page" to="70">70</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="article"><analytic><title level="a">Psychological adjustment to breast cancer by older women</title><author><persName><forename type="first">C.S.</forename><surname>Roberts</surname></persName></author><author><persName><forename type="first">C.E.</forename><surname>Cox</surname></persName></author><author><persName><forename type="first">D.S.</forename><surname>Reintgen</surname></persName></author></analytic><monogr><title level="j">Cancer Control</title><imprint><date type="published">1994</date><biblScope unit="volume">1</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="367">367</biblScope><biblScope unit="page" to="371">371</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Cancer and stigma: Experience of patients with chemotherapy-induced alopecia</title><author><persName><forename type="first">S.</forename><surname>Rosman</surname></persName></author></analytic><monogr><title level="j">Patient Education and Counseling</title><imprint><date type="published">2004</date><biblScope unit="volume">52</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="333">333</biblScope><biblScope unit="page" to="339">339</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="article"><analytic><title level="a">Successful aging</title><author><persName><forename type="first">J.W.</forename><surname>Rowe</surname></persName></author><author><persName><forename type="first">R.L.</forename><surname>Kahn</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1997</date><biblScope unit="volume">37</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="433">433</biblScope><biblScope unit="page" to="440">440</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">Cancer et culture: produire le sens de la maladie</title><editor><persName><forename type="first">F.</forename><surname>Saillant</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal, Quebec, Canada</pubPlace><date type="published">1988</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Qualitative methods in aging research</title><editor><persName><forename type="first">A.</forename><surname>Sankar</surname></persName></editor><editor><persName><forename type="first">J.F.</forename><surname>Gubrium</surname></persName></editor><editor><persName><forename type="first">J.F.</forename><surname>Gubrium</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Sankar</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks, CA</pubPlace><date type="published">1994</date><biblScope unit="page" from="">iv</biblScope><biblScope unit="page" to="">xvii</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">Handbook of emotion, adult development, and aging</title><editor><persName><forename type="first">J.</forename><surname>Singer</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Magai</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>McFadden</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>San Diego, CA</pubPlace><date type="published">1996</date><biblScope unit="page" from="443">443</biblScope><biblScope unit="page" to="463">463</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="inbook"><monogr><title level="m">La population Canadienne selon l’âge et le sexe</title><editor><orgName>Statistiques Canada</orgName></editor><idno type="uri">http://www.statcan.gc.ca/daily-quotidien/061026/dq061026b-fra.htm</idno><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="inbook"><monogr><title level="m">Portrait de la population canadienne en 2006, selon l’âge et le sexe, Recensement de 2006</title><editor><orgName>Statistiques Canada</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ottawa, Ontario</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="inbook"><monogr><title level="m">Incidence du cancer au Canada, 2005 et 2006 deuxième édition</title><editor><orgName>Statistiques Canada</orgName></editor><idno type="uri">http://www.statcan.gc.ca/pub/82-231-x/2008001/5201792-fra.htm</idno><imprint><date type="published">2009</date></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="inbook"><monogr><title level="m">Wisdom: Its nature, origins, and development</title><editor><persName><forename type="first">R.</forename><surname>Sternberg</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1990</date></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="inbook"><monogr><title level="m">La mort en question: traces de mort, mort des traces</title><editor><persName><forename type="first">L.-V.</forename><surname>Thomas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="inbook"><monogr><title level="m">Living with dying: A handbook for end-of-life healthcare practitioners</title><editor><persName><forename type="first">S.</forename><surname>Thompson</surname></persName></editor><editor><persName><forename type="first">N.</forename><surname>Thompson</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Berzoff</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Silverman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2004</date><biblScope unit="page" from="348">348</biblScope><biblScope unit="page" to="359">359</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="inbook"><monogr><title level="m">The literary mind</title><editor><persName><forename type="first">M.</forename><surname>Turner</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="inbook"><monogr><title level="m">Une logique de la communication</title><editor><persName><forename type="first">P.</forename><surname>Watzlawick</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Helmick Beavin</surname></persName></editor><editor><persName><forename type="first">D.D.</forename><surname>Jackson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1981</date></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="inbook"><monogr><title level="m">La nouvelle communication</title><editor><persName><forename type="first">Y.</forename><surname>Winkin</surname></persName></editor><editor><persName><forename type="first">Y.</forename><surname>Winkin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1981</date><biblScope unit="page" from="13">13</biblScope><biblScope unit="page" to="26">26</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="inbook"><monogr><title level="m">Figuring age:Women, bodies, generations</title><editor><persName><forename type="first">K.</forename><surname>Woodward</surname></persName></editor><editor><persName><forename type="first">K.</forename><surname>Woodward</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Bloomington</pubPlace><date type="published">1999</date><biblScope unit="page" from="">v</biblScope><biblScope unit="page" to="">xxiv</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

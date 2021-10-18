@@ -1,0 +1,612 @@
+International Journal of Psychology 23 (1988) 489-503
+North-Holland
+
+489
+
+LA FONC-I-IONPSYCHOM~TRIQUEDES ENIGMES
+TRADITIONELLES AFRICAINES *
+Mpey-Nka NGUB’USIM
+UniversitP de Kisangani, Zoiie
+
+Revision r q u e mai 1988
+
+Within the context of the problems raised by the use of tests in Africa, this study attempts to
+demonstrate how traditional practices can improve the situation, by proposing that enigmas be
+used as a psychometric instrument. In fact, this well known and widely used game in Africa is one
+of the major components of the oral tradition and as such, performs various important functions,
+as, for instance, the acquisition and evaluation of basic knowledge and vocabulary, while favoring
+the acquisition of a sense of competition in children. Presenting a new outlook on the practice of
+this traditional game in the African milieu, this paper describes the process by which the author,
+through many experimental studies carried out in a r e , is attempting to build a test measuring
+creativity.
+
+La psychomktrie est, on le sait, l’ensemble des mkthodes, des techniques et des proctdks de mesure, utilists (en psychologie) dans le but
+de savoir si un individu (ou un groupe d’individus) posstide ou pas une
+aptitude, une connaissance ou une habilett (mentale ou manuelle)
+donnk. Dupuis Cattel et Bihet, la psychomitrie est de plus en plus
+associte aux tests, au point d’en devenir parfois synonyme.
+Dans le contexte africain, l’utilisation des tests est cependant un fait
+relativement rkcent. Pourtant, le mouvement g a p e du terrain avec cet
+enthousiasme qui accompagne souvent la dkcouverte d’un nouveau
+champ d’application d’une connaissance. Mais l’engouement envers les
+tests en Afrique n’est pas sans soulever un certain nombre de probltimes.
+I1 s’agit notamment de la conscience grandissante du manque d’adaptation de la plupart de ces instruments importis en milieu africain, aussi
+bien que du doute sur la validit6 des adaptations tenties A partir des
+* Les demandes de tirts-A-part doivent &re a d r e s s k A Mpey-Nka Ngub’usim, Conseiller
+principal B U R S , B.P. 5429, Kinshasa Gombe, Zaire.
+0020-7594/88/$3.50 Q 1988, Elsevier Science Publishers B.V. (North-Holland)
+
+490
+
+M.N.Ngub’usim / Enigma tradi!ionnelles africaines
+
+tests hangers. Les efforts en vue de rtsoudre ces tcueils sont remarquables. Cependant, la plupart des ttudes africaines en ce domaine
+font oeuvre de pionnier avec tout ce que cela suppose B son tour
+c o m e difficultt.
+C‘est B I’intCrieur de cette problimatique qu’il faut situer la prtsente
+etude. Depuis 1973, en effet, nous avons voulu sortir des sentiers battus
+pour essayer de trouver du cat6 des mtthodes traditionnelles africaines
+les traces d’une psychomttrie susceptible d’aider B rtsoudre, peut-Etre
+en partie, le probltme de la nCcessitt d’une meilleure Cvaluation des
+aptitudes des sujets africains. Nous nous sommes inttressC B d e w types
+de lexies : les Cnigmes et les proverbes, qui constituent des proctdts
+priviligits par lesquels s’effectuent la transmission de la sagesse, ainsi
+que l’tvaluation par les adultes de l’acquisition de cette mtme sagesse
+chez les plus jeunes dans les socittb africaines (Mbambi 1974, Ndiyo
+1976).
+Notre hypothbe de base Ctait que ces lexies peuvent &re utilement
+converties et adapttes en psychologie, c o m e techniques d‘ivaluation
+de l’intelligence sous ses diverses formes, dont la criativitt idiationnelle. I1 convient de signaler B propos que les proverbes ont dtjh fait
+l’objet de plusiers tentatives dans ce domaine (Pambu 1977). Par
+contre, en ce qui concerne les tnigmes, les ttudes se sont souvent, B
+notre connaissance, limittes B en analyser les aspects littkraires et
+ludiques.
+Le prQent article se propose donc de dtcrire ce jeu d’enfants bien
+COMU que constituent les Cnigmes, ainsi que la dCmarche qui nous a
+conduit B en faire une technique de mesure de la crtativitt idiationnelle.
+Jeu d’knigmes dam le contexte africain
+Qu’est-ce qu’une tnigme?
+
+Dans le langage courant, tnigme est dite aussi deuinette. C‘est un
+discours dialogui en forme de question-rtponse. La question, dtcrivant
+en terrnes (prkis ou non) un objet, une situation ou un tvtnement,
+incite l’interlocuteur h chercher une rtponse. Les dewc parties (question
+et rtponse) peuvent &re likes I’une B l’autre par une sorte d’analogie
+formelle ou stmantique. Pour cette raison, les linguistes font la distinc-
+
+M.N.Ngub’usim / r i n i p e s trmiitionnel1esajricaines
+
+491
+
+tion entre ce qu’ils appellent w e devinette formelle (ou devinette tout
+court) et une deuinette 6 infirence ou Cnigme (Fa& Nzuzi 1976).
+La devinette formelle est celle oh les d e w parties (interrogation et
+riponse) entretiennent entre elles des relations au niveau de la forme,
+alors que le rapport de contenu n’y est qu’accidentel. Ainsi, la devinette
+se prksente plus c o m e une proposition affirmative que comme une
+question explicite. La rkponse A la devinette n’a pas nkcessairement de
+lien direct (logique) avec le contenu de la devinette. Elle est souvent
+dictte par le modde socio-culture1 en vigueur.
+Exemple : (Ngonga et Mpandanjila 1984)
+(Luba-traduit) - EnoncC : La sauterelle sur le palmier.
+- RCponse: dormir c’est imiter de mourir.
+L’Cnigme (ou devinette A infirence) est par contre une devinette
+formulCe en termes d’interrogation, oh l’analogie entre la partie interrogative et la rCponse reltve plus du contenu que de la forme. I1 y a par
+consbquent dominance de l’analogie stmantique sur l’analogie formelle.
+Ce type de devinette se prtsente sous forme de question explicite
+employant souvent des pronoms interrogatifs :qui, quel, lequel, auquel,
+etc.
+Exemple : (Ndiyo 1976)
+(Selenge-traduit) - EnoncC : Quel est cet arbre qui ne porte que d e w
+fruits?
+- RCponse: La femme.
+Sans entrer dans les dCtails d’une analyse morphologique, on peut
+dire avec Rodegem (1980) que la devinette (en gCnCral) est une lexie,
+c’est-A-dire une unit6 complhe de signification, empruntant tantat la
+forme prosodique, tantat la forme pottique ou encore la forme
+d’onomatopte mimCe ou tonique.
+L‘essentiel de notre travail ayant port6 sur les devinettes A infCrence,
+c’est le terme Cnigme que nous avons prCfCrC et que nous utilisons.
+Pratique traditionnelle et importance des Pnigmes en Afrique
+
+Quoiqu’universelle, la pratique des j e u d’knigmes est observCe avec
+une frkquence particuliere en Afrique en raison notamment du caractkre
+
+492
+
+M.N. Ngub’wirn / i n i p e s trhitionnelles africaines
+
+oral des cultures africaines. On peut Ctablir que le jeu est connu et
+pratiqut par tous les enfants africains.
+Au Burundi, le terme Ibizokozo en Kirundi, dCsigne les tnigmes.
+Chez les Manika (Guinte), les Sonenke (Mauritanie) et les Bambara
+(Mali) le jeu est COMU sous le nom de Taali ou TualC. Les enfants
+Yoruba, aussi bien du BCnin que du Nigtria, parlent de Alo, tandis que
+les Fond du BCnin disent Lo. Les Wolof du Stntgal ou de la
+Mauritanie: Cax. Au Zdire, le jeu d’tnigmes est appelC: mwandamwanda (kishima), sambolk, uitenduweli et n’shinga respectivement en
+kikongo (vihiculaire), lingala, swahili et tshiluba.
+Comme les proverbes, les tnigmes semblent &re l’oeuvre d’auteurs
+anonymes. La similitude des questions et des rtponses qu’on peut
+remarquer B travers plusieurs tribus qui s’ignorent parfois, montre bien
+la cornposante logique et intellectuelle de l’tnigme, en tant qu’oeuvre
+dtcoulant de l’esprit humain.
+Dans sa pratique, l’tnigme reste un jeu B caracttre social tvident. En
+effet, en tant que dialogue, ce jeu requiert une interaction sociale, une
+confrontation entre d e w interlocuteurs :il y a d’un cbtC un dkbiteur
+(questionneur) et de l’autre un rbondant (auditoire). Le rituel du jeu
+consiste B lancer avant de dtbiter la question, m e formule introductive
+d’alerte comparable au “ready ! Play !” qui prtctde les parties de tennis
+ou de volley ball (Centner 1963).
+En situation de jeu, l’annonceur dira en:
+- Kirundi :annonceur : Sokwt ! rtpondant : NinuC ! Lorsque le rCpondant ne trouve pas la rkponse il dira Mpa ! ou Ndangurnane ! pour
+abandonner.
+- Sonenke (Mauritanie) : annonceur : Hyake ! rbondant : AyCe !
+- Manika (GuinCe) : annonceur : NtalitC ! rtpondant : Naarnou ! ou
+Gbogbodou !
+- Bambara (Mali) :annonceur : Tenten ! rkpondant : ten !
+- Kikongo (Zdire) : annonceur : Mwanclu-mwanda ! rtpondant : Gaba !
+- Lingala (ZaYre) :annonceur : SambolC ! rtpondant : Zooba !
+- Kiswahili (Zaire) : annonceur : Kitencluwefi ! rdpondant : TCga !
+- Tshiluba (Zdire) : annonceur : Kwatayi ! rCpondant : Tuukwaci !
+
+Parmi les fonctions attribukes B ce jeu, le divertissement et la
+socialisation sont les plus citb, car traditionnellement, c’est surtout un
+jeu d’un certain age d’enfance oh les aspects Cducatifs priment.
+
+M.N.Ngubiuirn / Enigmes truditionnelles ufricuines
+
+493
+
+La fonction pkdagogique, c’est-&-dire d’acquisition et d’kvaluation
+des connaissances, est ntanmoins prksente. Comme instruments
+pkdagogiques, les Cnigmes favorisent non seulement l’acquisition des
+habitudes morales et intellectuelles, mais aussi l’acquisition du langage
+et du vocabulaire. Par sa dynamique de question-rCponse, l’knigme
+resemble en quelque sorte a une certaine maieutique traditionnelle et
+contribue effectivement & faire acqukrir des connaissances sur le milieu
+nature1 des sujets. Ill y a des Cnigmes qui font appel a: l’histoire, la
+gkographie, l’anatomie, la physiologie, la botanique, la zoologie,
+l’astrologie, etc.
+Comme techniques d’kvaluation des connaissances, les knigmes sont
+pratiqukes pour voir si I’individu rkpondant maitrise bien la tradition
+ou s’il a une bonne mtmoire (culturelle).
+I1 faut signaler dans ce sens surtout, l’atmosphtre de compktition qui
+caractkrise le dkroulement de ce jeu en milieu traditionnel en Afnque.
+Cet aspect compktitif, sans lequel le jeu perd de son attrait, est B placer
+au niveau de l’exactitude de la rkponse B donner, mais aussi & celui de
+la capacitd de chaque joueur d’kmettre, voire d”‘ inventer” d’autres
+knigmes. Ainsi, plus l’individu rkpond exactement A l’inigme, plus il est
+considkri comme intelligent. De mtme, plus il peut trouver des knigmes
+difficiles, plus il est intelligent aussi.
+Dans leur pratique traditionnelle, les Cnigmes comportent des limites
+qu’il nous revient de signaler nCanmoins.
+I
+
+Quelques critiques de I’usage traditionnel des inigmes dans une optique
+psychomttrique
+
+Lorsqu’on approfondit la fonction Cvaluative des Cnigmes, on
+s’aper~oitque la pratique traditionnelle de ces jeux comporte un certain
+nombre de faiblesses.
+I1 y a avant tout des limites d’ordre linguistique. En tant que
+discours dialogut relevant de l’oralit6, l’Cnigme traditionnelle est intimement like B la langue parlCe. Elle subit ainsi des restrictions dues
+aux particularitis ou sptcificitts environmentales linguistiques, de sorte
+que la mtme Cnigme peut connaitre des variations selon la langue dans
+laquelle elle est dtbitke. Cette limite prCsente une difficult6 pour le
+locuteur ktranger A la langue de l’knigme, notamment au niveau de la
+traduction.
+
+494
+
+M.N. Ngub’usim / Enigmes traditionnelles atricaines
+
+Les limites culturelles d’ordre giniral apparaissent aussi h travers les
+restrictions et interdits traditionnels concernant, par exemple, le temps
+de production des inigmes, les partenaires et les riponses culturellement admises c o m e exactes. Plusieurs tribus africaines, c o m e les
+Dogon et les Ngoni (Emy 1973) interdisent de pratiquer les devinettes
+ou les inigmes pendant la journte pour iviter certainement que ne
+soient perturbties les activitis de production. On permet exceptionnellement ce jeu durant la journke, lorsqu’il y a mauvais temps, par exemple
+en cas de pluie. Chez les Hindo du Sankuru (ZaYre), la tradition veut
+que la mkre de l’enfant qui joue a w devinettes pendant la journie
+risque d’stre divorie par les lhpards au champ (Ngonga et Mpandanjila 1984). Certaines cultures interdisent aussi que les devinettes ou
+les inigmes soient jouies avec n’importe quel partenaire. Le groupe de
+joueurs est souhaiti &re homoghe selon le sexe, l’iige ou selon tout
+autre critkre de classification. Par exemple, chez les Dogon ( b y 1973)’
+ce jeu ne peut se pratiquer entre pkre et fille, mkre et fils, gendre et
+beaux-parents, frkres et soeurs nubiles. Dans cette m8me tribu, comme
+dans d’autres, en effet, on Ctablit facilement une relation entre certaines
+formes d’ichange littiraire et la sexualit6 au point que deviner devient
+synonyme de s’accoupler, de se marier et d’enfanter. Par consiquent, le
+jeu de devinettes ou d’knigmes ne peut se pratiquer qu’entre les jeunes
+en voie de s’unir, alors qu’il sera prohibi entre des personnes soumises
+au tabou de l’inceste.
+La culture veut aussi qu’h une tnigme ou h une devinette dibitie ne
+soit ginkralement acceptie qu’une seule riponse “exacte”. C‘est la
+riponse traditionnellement connue et attendue. La consigne de la
+rapidit6 de la riponse et la riduction du temps de rCflexion, qui sont les
+d e w rkgles traditionnelles du jeu, servent justement 1 voir si le ripondant conndt ou se souvient automatiquement de la rkponse traditionnelle. Dans le contexte de la tradition orale, on comprend aisiment que
+le fait d’imposer ainsi une rkponse soit une fason d’assurer une bonne
+transmission de la culture et d’iiminer les interpritations et les conduites diviantes prijudiciables B la continuit6 de la culture des ancstres.
+Perspectives d’une promotion des knigmes au niveau de la psychomktrie
+moderne
+
+Les inigmes, c o m e nous venons de le voir, posskdent des
+caractiristiques qui les rapprochent des instruments d‘kvaluation des
+
+M.N. Ngub’usim / Enigmes rraditionnelles ajricaines
+
+495
+
+aptitudes mentales des individus. Mais dans leur pratique traditionnelle, elles connaissent comme nous l’avons dtjB dit, des restrictions
+notamment le fait de n’accepter qu’une seule rkponse ou interprktation.
+Si cette caracttristique se trouve aussi prtsente dans la plupart des tests
+d’intelligence, les tnigmes traditionnelles ont cependant m e portte
+beaucoup plus limitte par rapport B ces tests. Ces Cnigmes ne deviennent dans ce cas que des instruments de mesure d’un confonnisme
+social, d’une intelligence confinke (culturellement) et surtout d’une
+mtmoire un peu rnkanique.
+Mais alors, comment peut-on Clever ce jeu au rang de la psychomttrie
+moderne?
+Nous dtveloppons ci-aprb les traits caracttristiques qui militent en
+faveur de cette promotion des tnigmes traditionnelles africaines en tant
+que tests.
+
+Les Cnigmes comme techniques de mesure des aptitudes mentales
+En quoi le jeu d’tnigmes est-il rkellement un proctdt d’kvaluation
+d’aptitudes mentales? Trois arguments nous aident B rtpondre A cette
+question :
+(1) Les tnigmes constituent un jeu-test A question-rtponse; d’application individuelle ou collective, orale ou kcrite; avec des consignes
+de passation et un systkme de prkparation du rtpondant; la rtponse
+peut Stre apprkcite en tant que bonne ou mauvaise; et le rtpondant peut Cprouver de la difficult6 A rkpondre B la question-tnigme.
+I1 est entendu ici que cette notion de diffucultk n’est pas similaire B
+celle que lui accorde la psychomktrie classique (Ngub’usim 1979).
+Sous cet angle, l’knigme sollicite l’intelligence du rkpondant en
+relation avec les normes socio-culturelles de rtponse impostes par
+le milieu des joueurs.
+(2) La rkponse B une inigme implique une mtmoire, une symbolisation
+et kventuellement une gtntralisation (dtduction). Le sujet rtpondant doit se rappeler la rkponse traditionnellement admise, la
+dtpasser tventuellement, ou en d d u i r e d‘autres rtponses similaires.
+Ex. (Yansi): Enonck: “Quelle est cette maison dont la porte se
+trouve sur le toit?”
+Rtponse traditionnelle : calebasse (mtmoire)
+Rtponses dtduites : puits, dame-jeanne, bouteille,
+cheminke, grenier, etc.
+
+496
+
+La dkduction est faite B partir de la gknkralisation du sujet de
+I’tnigme (maison, c’est-ldire: espace creux, rkipient, vase, pot,
+etc) et de ses prkdicats (porte = ouverture, passage, canal et toit =
+dessus, haut).
+(3) Pour un sujet qui ne connait pas la clt traditionnelle (rkponse
+traditionnelle) A l’tnigme, la question-higme sollicitera chez lui son
+imagination. La r6ponse qu’un tel sujet peut donner dkpasse en
+valeur celle qui relke de la tradition ou de la mkmoire, car elle est
+dkbarasste des contraintes socio-culturelles qu’impose la tradition
+en cette matitre, C‘est ce type de r6ponse qu’il faut encourager.
+Lorsqu’ainsi, on met l’accent sur l’imagination du sujet et non sur
+ses C O M ~ ~ S S ~ I I Cde~ Sla tradition et sur la mkmoire, le jeu d’tnigme
+cesse d’Etre bn simple jeu d’enfants. I1 porte les caracttristiques
+d’un vtritable jeu de crkativitk idtationnelle.
+
+Similitude entre les higmes et les tests de cr6ativith
+A titre de rappel, on sait que les tests de crkativitk sont, contrairement aux tests d’intelligence, ceux qui mesurent la penste divergente,
+c’est-Mire le type de raisonnement qui sollicite plusieurs solutions h
+un mEme problkme ou plusieurs rkponses li une mbme question posie.
+Tous les tests de crtativitk prksentent gross0 mod0 les caractkristiques
+essentielles suivantes :
+
+- chaque item pose un probl&mevague, mal dCfini et indhtermint. I1
+appartient au sujet rkpondant de reformuler, d’interprkter et de
+chercher 31 comprendre le problhme ;
+- les items sont ouverts; la question incite B une diversit6 de rtponses
+et le sujet y est d’ailleurs explicitement invit6 A travers la consigne de
+“donne2 le plus de r6ponses que vous pouvez a chaque item”.
+- il n’y a ni r6ponse exacte, ni r6ponse fausse au dkpart. La pertinence
+d’une rkponse s’kvalue (aprb la production) en rapport avec sa
+convenance au regard de la question (item) ;
+- les items font souvent appel A des situations plus imaginaires que
+rklles. I1 n’y a pas necksairement de lien direct entre l’objet de
+l’knonck et la rkponse;
+- le temps de passation est prkftrk libre plutat que limitt, pour
+marquer le caracttre ludique de ces tests.
+
+C o m e on peut s’en rendre compte plusieurs des caracthristiques
+ci-dessus se retrouvent dans le jeu d‘knigmes. A titre illustratif, nous
+
+M.N. Ngub’uim / Enigma traditionnellesafricaines
+
+497
+
+pouvons prendre l’exemple de deux tests de crtativitt de Wallach et
+Kogan (1965). Le test d’tnumtration demande au sujet rtpondant de
+dire (CnumCrer) tous les objets COMUS ou ~ C O M U S :
+- qui sont ronds
+- qui font du bruit
+- qui sont carrts
+- qui bougent.
+
+Tandis que le test d’utilisations inhabituelles demande au sujet de dire
+tout ce qu’on peut faire avec:
+- unjournal
+- uncouteau
+- un pneu
+- un bouchon
+- une chaussure.
+
+Construction d’un test de cr4ativitC a partir des Cnigmes
+1. Mode de collecte des matiiaux
+
+Les Cnigmes qui feront partie du test ont CtC rCcoltCes en 1973 A
+l’aide des enquetes que nous avons menCes dam quelques rtgions du
+Zdire : Bas-Zdire (Mbanza-Ngungu, Kisantu), Kinshasa, Equateur,
+Bandundu et Haut-ZaXre. Ces matdriaux ont Cti rkoltts en langues
+vernaculaires locales. Pour les mattriaux recueillis ainsi oralement,
+nous avons veillt A la fidtlitt de leur traduction en francpis en nous
+adressant aux personnes originaires des rtgions de collecte et en
+soumettgnt ensuite leurs traductions A des tvaluateurs neutres. Certaines Cmissions des jeunes A la radio et 2i la ttlkvision nationales nous
+ont aussi servi A recueillir quelques devinettes et tnigmes.
+Les sources Ccrites ont ttC beaucoup moins abondantes : nous avons
+recouru A l’ouvrage de Fa& Nzuzi (1970) pour obtenir les tnigmes luba,
+ainsi qu’au travail de Mbambi Vangu (1974) pour compltter les tnigmes
+du Bas-ZaYre.
+Compte tenu des critkres prtliminaires de stlection (longueur de
+I’Cnonct, facilitt de comprthension du contenu, originalitt de l’knonct,
+
+498
+
+M.N. Ngub’wim / kigmes traaWonnelles africaines
+
+etc.), partant des 381 Cnigmes qUi ont Cti rkolttes au total, nous
+n’avons retenu, aprts filtrage, que 159 Cnigmes qui nous ont semi a w
+premiers essais.
+2. Etudes prdiminaires
+Deux Ctudes paralltles ont CtC menCes au dipart (septembre-octobre
+1973):une sur les koliers de Kinshasa (Colltge Saint Thtophile de
+Lemba) et une autre sur les Cltves de l’kcole secondaire de MbanzaNgungu dans le Bas-ZaYre (de niveau de deuxikme secondaire). Les
+deux Ctudes avaient pour objectif d’attester le caracttre mttrologique
+de jeu d’tnigmes en milieu aussi bien urbain que rural.
+La consistance interne des CnoncCs, la comprChension des consignes
+par les sujets et la validitt de contenu du mattriel ont it6 les premiers
+crittres d’apprkiation des Cnigmes B choisir. Les rdsultats obtenus ont
+Ctt t r b encourageants (Ngub’usim, Kanga et Balangoy 1977, Kanga et
+Luyeye 1977). Les donnks de ces d e w Ctudes nous ont aussi aid6 B
+prkiser les consignes et B tamiser sdvtrement les Cnigmes dont le
+nombre a CtC rCduit A 39 aprts cette deuxihme sklection.
+3. Etude expirimentale
+
+Elle a port6 sur 584 Cltves (342 garsons et 242 filles) d’enseignement
+primaire (5e et 6e primaires) et secondaire Cjusqu’P la 4e annCe) des
+h l e s de Kisangani durant I’aMCe scolaire 1976-1977. La moyenne
+d’iige Ctait de 16,38. L‘objectif de cette Ctude Ctait d‘approfondir
+l’analyse des items (tnigmes) selon les normes que nous avons mises au
+point, compte tenu du fait que l’analyse des items d’un test de crbativitt
+p r k n t e des aspects spwiques par rapport B l’analyse des items d’un
+test &intelligence (Ngub’usim 1979). Nous avons ainsi dtterrnint des
+indices de difficdtt et de discrimination pour chacune de 39 Cnigmes.
+Dautres indices, c o m e l’induction et I’unicitC ont aussi ttt proposCs
+et examinks (Ngub’usim 1980a). C‘est avec tous ces indices que s’est
+effectuk la sdection qui produira la forme dCfiitive du test.
+4. Description du test
+
+La test en lui-mCme comprend au total 15 tnigmes. Chaque Cnigme
+se prisente sous forme d’une phrase relativement simple, descriptive de
+
+M.N . Ngubtrirn / Enigmes traditionnelles africaines
+
+499
+
+Tableau 1
+
+Les 15 Cnigmcs du test.
+I1 rend (laisse) I’eau sale chaque fois qu’il y plonge. Qui estce?
+I1 marche (se promhe) sous la pluie sans se mouillcr. Qui est-ce?
+I1 ne tombe jamais. Rim DC peut le faire tomber. Qui st-ce?
+I1 n’a ni mains (bras), ni pi& (iambes) mais peut monter sur un arbre. Qru estce?
++me
+5 : 11 r a t e toujours c o sur
+~ un autre. ~ uest-ce?
+i
+Enigme 6 : Ils portent tous des chapeaux. Ils sont tous miff& de la m h e manibre. Qui sont-ils?
+h g m c 7 : OD nc comait que son nom ; pasonne ne I’a jamais vu. QUI est-ce?
+Enigme 8: Ce (excellent) chasscur tire toujours au loin sur I’animal. QUI est-ce?
+h g m e 9 : I1 ne pule pas. ne respire pas, ne grossit pas, ne grandit pas, ne se dkplace pas, mais
+vit quand m€me. Qui est-ce?
+h g m c 10: OD le coupe en petiu morceaux, mais il rcdevient toujours enticr. ~ u est-ce?
+i
+9 g m e 11: O n ne peut pas compta le nombrc de ses enfants. Qru est-ce?
+F g m e 12: Sa m&e est noire, lui m h e u t blanc (d‘une autre couleur). Qru est-ce?
+wgme 13: Ce chef est toujours entour6 (au milieu) de ses esclaves. Quiest-ce?
+Enigmc 14 : 11 mange tout sans jamais se rassasier. Qui est-ce?
+h g m e 15 : Cette chose est enceinte, le bcbc qui cst dam son ventre pleure et on I’mtend dehors.
+Quelle est cette chose?
+h g m e 1:
+h g m e 2:
+hgme 3:
+Enigmc 4 :
+
+l’objet de l’inigme. Cette phrase est suivie d’une formule interrogative
+standardiste “qui est-a?” (qui sont-ils). Ces 15 Cnigmes exploitent
+divers domaines se rapportant aux phknomknes de la nature. Le test est
+corrigC selon des critkres de fluiditk, de flexibilitC et d’originalitk des
+sujets (Ngub’usim 1986). Les rbponses des sujets aux Ctudes africaines
+et europkennes ont jusqu’ici donnb 37 catkgories qui nous servent B
+compiler la note de flexibiliti (Ngub’usim, Mingwangodi, Schneider et
+Kakpo, en prkparation).
+Le teit d’higmes (voir le tableau 1) est jusqu’ici utilisi pour des buts
+diagnostique, pronostique et didactique (Ngub’usim 1988). Ce test
+semble peu indiquC pour les enfants en dessous de 7 ans (Malekani
+1984).
+5. Validitk du test
+
+Jusqu’h ce jour, trois type de validit6 du test d’knigmes ont CtC
+considCrCes :la validit6 de contenu, la validitt conceptuelle et la validitC
+concurrente.
+Les premikres applications des Cnigmes sur les Clkves de Kinshasa et
+de Mbanza-ngungu, que nous avons signalCes cornme Ctudes
+prtliminaires, ont aussi dibouchC sur l’analyse et la validit6 de contenu.
+
+500
+
+M.N . Ngub’uim / Enigmes traditionnelles africaines
+
+Ntantu (1977) a approfondi l’examen des tnoncts des Cnigmes et a
+suggtrt l’tlimination et la correction syntaxique de quelques Cnoncts.
+Ce travail a Ctt poursuivi par Ngub’usim jusqu’k la version actuelle du
+test d‘tnigmes.
+La validitt conceptuelle et la validitt concurrente ont aussi fait
+l’objet de diverses Ctudes. Par la validit6 conceptuelle, on a chercht B
+savoir si on pouvait observer ou attester des traits de crkativitt chez des
+sujets ayant les meilleures notes au test d’tnigmes. A ce sujet, sans
+devoir tnumtrer toutes les ttudes ad hoc, nous pouvons signaler les
+plus probantes. Des sujets estimts par leurs condisciples c o m e ayant
+souvent des id& originales en classe ont effectivement eu aux inigmes
+de mdeures performances par rapport aux sujets jug& par les mtmes
+condisciples co&e &ant moins originaux en classe (Ngub’usim 1980).
+Un groupe de 26 adolescents dtlinquants en ditention dans une maison
+de rMucation et 46 enfants de la rue awquels nous avons appliqut le
+test d’knigmes ont rCalist des performances hautement suptrieures B
+celles des groupes tCmoins (Paluku 1986, Ngub’usim 1987).
+Par ailleurs, dans une ttude de Kalutoso (1982), les C16ves dtsignts
+par des enseignants conformistes cornme Ctant des “mauvais tlives”
+ont eu de meilleures notes au test d’higmes par rapport aux tlives
+dtsignts “bons tlives” par les memes enseignants.
+Quant ir la validitt concunente du test, il y a 1P aussi plusieurs
+Ctudes qui ont m i s en lumitre la nature des corrClations entre les
+rtsultats aux higmes et ceux relits a w crithes directs (test de crCativitt
+plus anciens) et indirects (notes scolaires et tests d’intelligence).
+Des corrdations positives sigdicatives ( p < .01)ont CtC observks
+entre la fluiditt et l’originalit&auxCnigrnes et la fluidit6 et l’originalitt
+au test de similitude et au test d’utilisations inhabituelles de Wallach et
+Kogan (Ngub’usim 1980). De mtme, des corrtlations positives sigdicatives ( p < .05) ont ttC observks avec les formes A et B du test de
+Torrance (Kanynda 1976, Ngub’usim 1980).
+La relation entre les rQultats aux tnigmes et les performances des
+sujets aux tests d’intelligence nouS a aussi intkesst, ttant donnt que la
+litttrature B ce sujet rapporte souvent le manque de corrtlation entre
+les breuves de crtativitt et les tests d’intelligence.
+Des corrtlations ntgatives significatives ont CtC obtenues entre les
+tnigmes et le test d’intelligence non verbale de Weil et quatre sous-tests
+de Cattel par Kasongo (1975); et entre les Cnigmes et le PMA de
+Thurstone (Nsengiyumva 1975). Sur quatre sous-tests du WISC-Zaire
+
+M.N.Ngub’uim / E n i g m a troditionnelles afrcaines
+
+501
+
+de J.P. Delvaux, un seul (information) a CtC correlt sigruficativement
+avec les trois notes de crCativitC (fluiditt, flexibilitk et originalitd) aux
+Cnigmes.
+Dans l’ensemble, les diffkrentes Ctudes indiquent des preuves d’une
+validitt conceptuelle et d’une validit6 concurrente du test d’tnigmes sur
+les sujets zdirois.
+L’Ctalo~agedu test d’tnigmes a aussi CtC Cbaucht dans l’ttude de
+Kabeya (1986), sur 200 garqons de 10 B 17 ans, selon la note T. Cette
+premiQe tentative est en train d’ttre complttCe actuellement.
+La fid6litC du test a CtC surtout examinte sous l’aspect de la fidClitC
+des notes de diffirents correcteurs et la fiddlitk de correction chez le
+meme correcteur dans le temps. I1 a CtC dtmontrk que si les instructions
+sont scrupuleusement respecties, les &arts de correction sont moindres.
+I1 reste A voir si le degrt de crCativitC du correcteur m&men’a pas un
+impact sur sa faqon de corriger, tel que suggCrC par la conclusion selon
+laquelle le conformisme et le non conformisme des enseignants influent
+sur leur apprkciation des enfants crtatifs (Torrance 1964, Kalutoso
+1982).
+Conclusion
+Jouer aux Cnigmes est-il seulement un simple divertissement qui
+n’aurait pour but que de dCtendre les esprits?
+Le prksent travail, qui est un rCsumC des Ctudes en cows, montre que
+le jeu d’Cnigmes est plus qu’un simple dtlassement de l’esprit. I1 peut
+&tre considCrC c o m e une vCritable Cpreuve d’aptitudes mentales.
+Cependant, dans sa pratique traditionnelle, l’knigme associte B une
+rtponse unique, culturellement admise, ne mesure gutre que des formes
+Ctroites d’intelligence et de mCmoire mtcanique.
+Lorsqu’on utilise ce jeu dans une optique de la divergence ou de la
+crdativitt en invitant le rkpondant B dormer diverses rkponses qu’il
+considtre c o m e correctes A une Cnigme donnie, le jeu d’tnigmes
+revkle toute la richesse de l’imagination du sujet qu’il peut mettre B
+jour. Par conskquent, ce jeu peut servir non seulement A un but
+diagnostique (le sujet rkpondant fait montre ou pas d’une imagination
+fCconde), mais aussi B un but d’entrainement B l’imagination.
+La stlection que nous avons imposte am Cnigmes qui composent le
+test proposC n’a pour but que de respecter autant que possible les
+normes d’un bon instrument de mesure selon les exigences de la
+
+502
+
+M.N. Ngub'wim / Enigmes traditionnelles africaines
+
+psychomktrie moderne. Cette prockdure ne diminue en rien le caract4re
+mktrologique g6n6ral que renferme ce jeu d'enfants.
+Rkf Crences
+Centner, M.,1962. L'enfant africain et ses jeux, Elisabeth-CmI, Katanga
+Emy, P., 1973.L'cnfant et son milieu en Afriquc nokc, Park, Payot.
+FaiL NZUZ~,
+1976. Devinettes B infbence, We-AfnqUe, pp. 235-244.
+Fa& Nzud, 1970. Nshinga tnigmes luba, Kinshasa, Universitt Lovaniurn.
+Kabeya, K., 1986. Nouvelles considCrations sur la validitt de construit et essai d'ttalonnage du
+test d'&gmcs comme mesure de la crbtivitb idhtionnelle, Mtmokc dc Licence, non pub.,
+Universi3 dc Kisangani, F.P.S.E..
+Kalutoso, K , 1982.L'image de "bon" et " mauvais" cltve c h a les enseignanu de Kisangani ct son
+impact sur la crCa&i3 des Uhres, Mtmoire de Licence, non pub. Universitt dc Kisangani,
+F.P.S.E.
+Kanynda, M.,1975. Etude de la validitt de construct de I'Cpreuve d'knigmes wmme test de
+crhtivitc. MCmoire de Licence, non pub., Universitt de Kisangani, F.P.S.E.
+Kanga. K.V. et N.M. Luyeye. 1977.Etude pdlimirm're B l'klaboration d'une 6preuvc de crbtiviti
+sur base des tnigmes (khantillon du Bas-mre). Etudes zliiroises 1.27-41.
+Kasongo, I., 1975. Etude de la relation entre la crCativitt mesurk par les knigmes et l'intelligmce
+c h a la sujets de 14 B 19 ans, Mtmoire de Licence, non pub., Universitt de Kisangani,
+F.P.S.E.
+Malekani, N.K. 1984.Approche longitudinale des performances m fluiditt des enfanu dc 4 B 6
+ans aprh un test-retest par les Qigmes, Travail de fin de cycle, F.P.S.E. Universitt de
+Kisangani.
+Mbambi, V., 1974. Contribution de la dcvinettc yombe au dhreloppemmt mental de l'enfanf
+Mtmoire de Licence, non pub., Universitt dc Kisangani, F.P.S.E.
+Ndiyo, E,1976. rapport des devinettes et proverbes dans la formation des jeunes scngele dc
+miindornbe, Mhoirc de Licence, non pub., Universitt de Kisangani. F.P.S.E.
+Ngonga, K.M. et M.B. Mpandanjila 1984. Importance des devinettes c h a les &do, monographic, non pub., BASE, Kisangani,
+Ngub'usim. M.N.,K.V. Kanga ct NA. Balangoy, 1977. Etude priminaire B I'klaboration d'une
+Cpreuve de crCativi3 sur base des b i g m a , Revue de Psychologie AppliquCe 27,2,89-99
+Ngub'usim, M.N., 1979.Difficult6 d a items dam une Cpreuve de crCativitC: approche d'un indice,
+RCVUCde P~ychologieAppliqUCe 29, 1.45-51.
+Ngub'usim, M.N., 1980. Etude analytique de quelques jeux verbaux et figuraux du zdire comme
+mcsura de la pens& divergentc, ThtSe dc Doctorat, UNAZA, F.P.S.E., Kisangani.
+Ngub'usim, M.N.,1986. Manuel d'istructions sur l'administration et la correction du test
+d'tnigmes; Kisangani, CEVADE, BASE,
+Ngub'usim, M.N. 1987. Cette crbtivitt qui fait survivre les jeunes de la rue B Kisangani,
+ZakeAfriqUe 215, 261-272.
+Ngub'usim, M.N., 1988.Enigmes traditi~~elles
+africaina comme support A une didactique de la
+crhtivitt B l ' h l e. communication au colloque de l'I.S.P./Mbandaka. avril 1988.
+Ngub'usim, M.N., K. Mungwangodi, W.Schndder et A. Kakpo 1988. Analyse interculturcllc des
+rcpOnscs des sujets zdirois, Mninois et allemands au test d'tnigmes par une approche
+amphibique, (article en prbaration).
+Ntantu, N, 1977. Nouvelles rCflaions sur les tnigmes wmme Cpreuve de crtativitt, Mtmoire dc
+Licence non pub., Universit t de Kisangani. F.P.S.E.
+
+M.N. Ngcrb’usim
+
+/ h i g m e s traditionnelles africuines
+
+503
+
+Nsengiyumva, D., 1975.CrCativitt :ses relations avec les aptitudes primaires, memoire de licence,
+non pub., Universitk de &sangmi, F.P.S.E
+Pambu, W.G.,1977. Pour une Cpreuve d’abstraction mentale utilisant les proverbes africains,
+Ethnopsychologie XXXII, IV, 303-311.
+Paluku, M., 1986. Dilinquance juvkde et crhtiviti. Nouvelles considtrations sur la crkativitt dcs
+sujets d b q u a n t s et celle des sujets ordinaires P partir du test d’tnigmes, Mtmoire de Licence,
+non pub., Universitt de Kisangani, F.P.S.E..
+Rodegem, F.. 1980. De l’apport d‘un genre ludique de la description linguistique, Eltments de
+Recherche sur les langues afncaines, Paris, ACCT, 46-58.
+Torrance, EP., 1962. Guiding creative talent, New-Jersey, Englewood Cliffs, Prentice-Hall, Inc..
+Wallach, MA. and N. Kogan, 1965. Modes of thinking in young children, New-York, Holt
+Rinchart and Winston.
+
+Apres avoir expod la probltmatique de I’usage des tests en Afrique, la presente Ctude propose une
+orientation visant l’amelioration des pratiques traditionnelles d t j i existantes par l’utilisation des
+enigmes. En effet, ce jeu bien COMU en Afrique. et l’une des composantes essentielles de l’art oral
+tra&tionnel, possMe dans cc contexte diverses fonctions d’exercice d’acquisition et d‘tvaluation
+des c o ~ a i ~ s a n ~dee sbase, du vocabulaire et de l’esprit de compttition chez les enfants. En
+apportant un regard nouveau sur la pratique de ce jeu d‘tnigmes en milieu traditionnel africian, le
+p r k n t article explique la dtmarche qui a conduit l’auteur, P travers un certain nombre d’ttudes
+men& au Zai’re, P construire un test de crtativitt qui est encore en phase d‘exptrimentation.
+

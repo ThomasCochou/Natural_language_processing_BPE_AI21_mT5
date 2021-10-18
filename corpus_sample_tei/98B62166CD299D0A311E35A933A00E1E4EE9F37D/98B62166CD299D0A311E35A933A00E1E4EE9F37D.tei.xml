@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">La législation italienne sur les transports publics</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Sage Publications</publisher>
+            <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+            <date type="published">1971</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">La législation italienne sur les transports publics</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Quaranta</surname>
+                        <forename type="first">Alfonso</forename>
+                     </persName>
+                  </author>
+                  <idno type="istex">98B62166CD299D0A311E35A933A00E1E4EE9F37D</idno>
+                  <idno type="ark">ark:/67375/M70-021ZSBPZ-T</idno>
+                  <idno type="DOI">10.1177/002085237103700118</idno>
+                  <idno type="publisher-id">10.1177_002085237103700118</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">International Review of Administrative Sciences</title>
+                  <idno type="hwp">spras</idno>
+                  <idno type="pISSN">0020-8523</idno>
+                  <imprint>
+                     <publisher>Sage Publications</publisher>
+                     <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+                     <date type="published">1971</date>
+                     <biblScope unit="vol">37</biblScope>
+                     <biblScope unit="issue">1</biblScope>
+                     <biblScope unit="page" from="91">91</biblScope>
+                     <biblScope unit="page" to="99">99</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>La l&amp;amp;eacute;gislation italienne
+transports publics
+
+sur
+
+les
+par
+
+Alfonso
+
+QUARANTA,
+
+Conseiller d’Etat
+1. Introduction
+
+-
+
+Distinctions
+
+par moyens m6caniques a parcours
+obligatoire, du transport sur route.
+
+sur
+
+Parmi les services publics essentiels que
+1’Etat doit assumer a notre 6poque, celui du
+transport public de personnes et de marchandises revet une importance particuli6re. 11
+est notoire que ce secteur traverse actuellement
+en Italie une crise profonde et constitue l’un
+des bancs d’essai les plus difficiles des equipes
+gouvernementales. On constate en effet commun6ment que les services publics de transport,
+sous le double aspect de l’organisation et de
+1’efficience, se prdsentent de plus en plus
+obsol6tes et inadapt6s a la necessite imp6rieuse d’assurer un reseau de transport public
+apte h constituer run des principaux instruments pour 1’expansion articul6e et coordonnee
+de 1’~conomie.
+Avant de chercher a identifier les causes
+d’une telle crise, qui affecte tout le secteur,
+il semble opportun d’indiquer synth6tiquement de quelle facon est structure le systdme
+des transports publics, en faisant tout particuli6rement r6f6rence au transport terrestre.
+A ce propos, il faut avant tout faire une
+distinction aff6rente aux moyens par lesquels
+s’effectue le transport des personnes comme
+des marchandises, c’est-h-dire une distinction
+entre transport terrestre, maritime et a6rien.
+Graves et complexes sont les probi6mes
+qui naissent en relation avec le transport
+maritime, et a sa branche particuli6re, la
+navigation int6rieure, ainsi qu’avec le transport
+a6rien, qui par ailleurs n’int6resse que marginalement le transport public national, son
+importance fondamentale 6tant 6vidente dans
+le transport international.
+Quoi qu’il en soit, la crise la plus profonde
+du secteur du transport public, l’un des
+services publics essentiels pour la communaute
+nationale, affecte le transport terrestre, auquel
+il semble opportun de s’arr8ter d’abord.
+’
+
+2. Le transport terrestre
+
+Dans le cadre du transport terrestre, il
+faut distinguer fondamentalement le transport
+
+rail
+
+ou
+
+A) Le premier peut 4 juste raison etre
+consid6r6 comme le service public essentiel
+typique incombant a 1’Etat : on comprend ais6ment l’importance fondamentale, pour un
+d6veloppement politique et économico-social
+de la communaut6, d’un reseau ferroviaire
+national efficient,.
+De fagon gdn6rale, selon la loi du 20 mars
+1865, on distingue les voies ferries publiques
+et priv6es, Sont publiques les voies ferries
+destinies au transport public de personnes
+et de marchandises, et privies celles qu’un
+particulier ou une soci6t6 constituent exclusivement pour 1’exercice permanent ou temporaire d’un commerce, d’une industrie ou d’un
+usage
+
+personnel quelconque.
+
+Les chemins de fer publics peuvent 8tre
+principaux ou secondaires. Les premiers sont
+ceux
+
+qui pr6sentent
+
+une
+
+importance sp6ciale,
+
+la base de l’un des criteres suivants :
+extension sur le territoire national; importance
+du trafic; jonction de centres importants de
+population, soit entre eux, soit avec de grands
+ports fluviaux, maritimes, ou ports de lacs;
+rattachement a des voies ferries 6trangdres;
+exigences militaires. Tous les autres sont
+des voies ferries secondaires, divis6es en
+chemins de fer de premi6re et de seconde
+classe.
+Les chemins de fer priv6s se distinguent
+a leur tour en deux categories. La premi~re
+comprend ceux qui parcourent exclusivement
+des terrains appartenant A leur constructeur,
+sans croiser ou int6resser en quelque fagon
+que ce soit une propriete publique ou priv6e.
+La seconde comprend ceux qui affectent d’une
+mani6re quelconque la propriete d’autrui,
+les voies de communication publiques, les
+cours d’eau publics, les habitats et tout autre
+lieu ou ouvrage public.
+Du point de vue historique, a 1’epoque de
+l’unification nationale, le r6gime predominant
+de gestion des voies ferries publiques n’6tait
+sur
+
+92
+
+pas la gestion directe par 1’Etat, mais le r6gime
+de concession a des particuliers ou a des
+soci6t6s. Ce n’est qu’avec la loi du 22 avril 1905
+que 1’Etat prit directement en charge les trois
+grands r6seaux (méditerranéen, adriatique, sicilien) et d’autres r6seaux mineurs, et que commen~a 1’6tatisation de la majeure partie du
+reseau ferroviaire national. Par la loi du
+7 juillet 1907, que l’on peut considerer comme
+organique des chemins de fer de 1’Etat, on
+établit de fagon g6n6rale que 1’Etat gdre
+directement, au moyen d’une entreprise autonome, les chemins de fer qu’il a constitu6s
+ou rachetis, ainsi que ceux conc6d6s h l’industrie priv6e, quand la concession arrive à
+6ch6ance. Donc, le r6gime normal est celui
+de la gestion directe par 1’Etat de la plus
+grande partie du reseau ferr6 national, a
+cote duquel subsiste toutefois, mais dans des
+limites tres 6troites, comme nous allons le
+voir imm6diatement (par. B) le r6gime des
+chemins de fer conc6d6s k 1’industrie priv6e.
+Dans le r6gime de gestion directe, les chemins de fer exploit6s par 1’entreprise autonome
+sont classifies par I’art. 822 du code civil
+au nombre des biens du domaine. L’entreprise
+autonome, organis6e selon les caract6ristiques
+de 1’entreprise industrielle, est un
+pourvu d’une large autonomie de
+budget et comptable; son conseil d’administration
+r6gi par Ie d6cret-loi du 7 mai 1948,
+est pr6sid6 par
+et par la loi du 5 mai 1961
+le ministre des Transports et de 1’Aviation
+civile; mais on ne peut lui reconnaitre une
+personnalit6 juridique distincte de 1’Etat, car
+il s’agit en substance d’un organe de I’ Etat,
+quoique pourvu d’une grande autonomie de
+gestion. Cependant, les tiches de 1’entreprise
+ne sont pas seulement inh6rentes a la gestion
+du service, mais concernent 6galement la
+construction du reseau ferr6. 11 suffit a cet
+6gard de consid6rer que I’art. 1 de la r6cente
+loi du 27 juillet 1967, lui a attribu6 la comp6tence pour veiller A la construction de nouvelles
+lignes dont elle doit assumer la gestion, si
+leur construction n’a pas dt6 d6ji commenc6e
+a la date d’entr6e en vigueur de la loi.
+
+typiques
+organe
+
+-
+
+-
+
+de services
+la concession
+administrative. Selon 1’art. 10 du T.U. cite,
+des concessions peuvent etre accord6es par
+d6cret du chef de 1’Etat
+pour une dur6e
+inf6rieure a 70 ans
+pour la construction
+et 1’exploitation de voies ferrees publiques
+a l’industrie priv6e, 1 des provinces et a des
+communes, isol6ment ou r6unies en consortiums, sur la base d’un cahier des charges
+special. Les provinces, les communes et les
+consortiums provinciaux et communaux sont
+a leur tour autoris6s a construire et a exploiter les chemins de fer qui leur sont concdd6s
+soit en propre, soit par des socidt6s ou des
+entreprises sous-concessionnaires.
+
+typiques d’exploitation priv6e
+publics a travers l’instrument de
+-
+
+-
+
+Dans le cas ou la concession de la construction ou de 1’exploitation a ete accord6e en
+faveur d’un particulier ou d’une societe, autre
+qu’une societe par actions, il est pr6vu que
+le concessionnaire a la facult6 de cesder à
+une societe par actions les droits et les obligations qui lui incombent tant pour la construction que pour 1’exploitation et 1’entretien.
+L’acte de concession sp6cifle les droits et les
+obligations du concessionnaire; ces dernidres
+sont des obligations en particulier vis-a-vis
+de 1’administration et surtout vis-h-vis des
+tiers usagers du service.
+
+L’Etat, sur la base de dispositions du T.U.,
+intervient en faveur des concessionnaires au
+moyen de subventions et de subsides. Les
+premieres sont accord6es toutes les fois que
+subsiste un int6r8t particulier a la construction
+et a 1’exploitation des chemins de fer, et,
+divisees en annuit6s, sont proportionnelles
+nombre de kilom6tres. Les subsides ont
+
+au
+
+un
+
+caract6re
+
+et sont
+
+en
+
+compl6mentaire et temporaire
+general remboursables, avec les
+
+int6r8ts, durant la concession.
+Vu la nature du service assure par les concessionnaires, des formes peirticuh6res de contr6le
+sont pr6vues, de la part de 1’Etat, sur 1’activite
+des concessionnaires memes.
+
+Les concessions prennent fin par d6ch6ance
+ou le concessionnaire ne remplit pas
+ses obligations, par 6ch6ance ou par r6vocation
+ou rachat. Dans ce dernier cas, le concessionnaire a droit a une indemnite et de faire
+reprendre par 1’Etat le materiel mobile et les
+provisions relatives a 1’exploitation, au prix
+d’estimation.
+au cas
+
+B) Comme nous 1’avons dit plus haut, la
+gestion directe par 1’Etat de la majeure partie
+du reseau ferre national implique que le
+syst6me des concessions A des particuliers
+du service de chemin de fer n’est qu’exceptionnel. Ce syst6me, dans le domaine limite ou
+il subsiste encore, est organis6 par le texte
+unique du 9 mai 1912, qui a d’ailleurs subi
+depuis de profondes modifications.
+
+L’attribution a l’industrie priv6e du service
+de chemin de fer engendre l’une des figures
+
+Dans la categoric des transports publics
+par voie ferr6e, compris dans une acception
+
+6tendue, rentrent quelques formes de transports
+sp6ciaux soumis au r6gime de la concession
+administrative. Pour certaines, la reference
+
+93
+
+aux voies ferrees est certainement mal choisie,
+mais il semble bon d’en parler bri~vement,
+car il s’agit toujours de moyens a traction
+m6canique avec parcours obligatoire, pour
+compl6ter l’information. 11 s’agit en particulier
+des trolleys-bus, des funiculaires terrestres,
+des funiculaires aeriens destinds à l’usage public, des monte-pentes et des pistes de ski,
+et des remonte-pentes à sieges individuels qui
+tous font l’objet de dispositions 16gales ou
+r6glementaires particuli6res. Dans la vaste
+s6rie des transports sur voie ferree rentrent
+en outre les tramways et les chemins de fer
+m6tropolitains. Mais nous en reparlerons
+bri6vement a propos des transports urbains
+et suburbains (paragraphe 3).
+
+Comme nous 1’avons dit, le syst6me normal
+de gestion de ces services de transports est
+celui de la concession administrative. Le choix
+de ce systdme 6tendu k une s6rie de transports
+si divers a suscit6 des critiques dans une partie
+de la doctrine (1). Celle-ci a mis en evidence
+le fait que tant de rapports, et les mesures
+qui les constituent, 6tant pr6sent6s comme des
+concessions administratives, est un des mystères de notre 16gislation. On a relev6 que l’on
+peut concevoir une 16gislation dans laquelle
+1’Etat se r6serve 1’exclusivite de toutes les
+lignes de transport; en ce sens que l’on pourrait penser que d’après 1’art. 43 de la Constitution on se trouve en presence d’une catdgorie
+d’entreprises afferente a un service public
+essentiel et aux caract6res dominants d’int6ret
+g6n6ral. Mais il est difficile d’admettre une
+]6gislation dans laquelle une norme de ce
+genre n’existe pas, dans laquelle manque
+un organe de 1’Etat qui g6re de fagon unitaire
+toutes les entreprises de transport non ferroviaire, et malgr6 cela, dans laquelle tous
+les entrepreneurs de transports de ligne, y
+compris les transporteurs publics, comme les
+entreprises communales, sont n6anmoins assujettis au r6gime de la concession, comme si,
+dans tous le cas, ces services dtaient le propre
+de 1’Etat. En realite, selon M.S. Giannini,
+a la place de la concession on pourrait penser
+a une figure juridique diff6rente, a celle de
+1’autorisation constitutive.
+
+C) L’autre secteur int6ressant le transport
+terrestre est celui qui a lieu sur route, c’est-hdire
+
+au
+
+moyen de « vehicules a traction m6ca-
+
+nique sans rails a, comme il
+r8glement du 29 juillet 1909.
+
+est dit dans le
+
+Les probl6mes aff6rents au r6gime des
+services automobiles pour le transport des
+voyageurs et pour le transport des marchandises sont graves et complexes.
+A l’origine, ces services publics 6taient r6gis
+par le T.U. cit6, du 9 mai 1912, qui accueillait pour cette partie les normes introduites
+par le R.D. du 29 juillet 1909, lesquelles 6taient
+inspir6es par un r6gime juridique analogue
+a celui des concessions ferroviaires. Par la
+suite, la mati6re du transport de marchandises
+par v6hicules automobiles a 6t6 r6gl6e par
+le R.D. du 20 juin 1935, et par le R.D. du 25
+novembre 1935, tandis que celle du transport
+des voyageurs par v6hicules automobiles en
+service de ligne a trouv6 son organisation
+dans la loi fondamentale du 28 septembre 1939
+qui, avec des modifications et des compl6ments ult6rieurs, est encore en vigueur actuellement.
+Pour commencer par le service automobile
+pour le transport de voyageurs, une consid6ration domine la solution legale : les services
+automobiles publics de ligne 6taient appel6s
+a 1’epoque a remplir des fonctions de trafic
+contenues en general dans les limites locales,
+essentiellement compl6mentaires des fonctions
+propres des services sur voie ferr6e. La r6glementation fut en substance pr6par6e en fonction de cette dimension; il est donc tout à
+fait evident que la structure normative qui
+r6git actuellement les services automobiles
+publics de ligne est absolument inadapt6e
+aux temps pr6sents, vu la rapide transformation de 1’6conomie nationale, autrefois fondamentalement agricole, et 6voluant vers des
+formes d’industrialisation progressive.
+
+La loi de 1939 a adapte Ie
+concession administrative. Sont
+
+Venise 8-10 octobre 1962.
+
+de la
+
+effet
+
+sujets
+
+a concession tous les services automobiles
+publics pour voyageurs, bagages et paquets
+agricoles (lignes automobiles) de quelque
+nature et dur6e que ce soit, qui sont enectues
+sur un itin6raire fixe, meme de fagon intermittente. Ces concessions sont accord6es a des
+
+entreprises d’aptitude morale, technique et
+financi6re affirmee, qui ont 6galement l’obligation, 16gislativement sanctionn6e, de transsur demande de 1’administration
+porter
+des postes et til6communications
+les effets
+postaux. La loi pr6voit deux types de conces-
+
+-
+
+unes provisoires, qui constituent
+d’exp6riencp, ont une dur6e maximum
+an, sauf prorogation pour une autre
+
+sions. Les
+une
+
+sorte
+
+d’un
+(1) Cfr. M.S. Giannini, Premesse giuridiche per
+un assetto della disciplina pubblica dei trasporti ai fini
+dell’istituzione delle Regioni, in :&amp;amp;laquo; Atti del Terzo Convegno nazionale dei trasporti urbani e suburbani &amp;amp;raquo;,
+
+r6gime
+en
+
+ann6e,
+
+et sont revocables a tout moment,
+
+définitives, délivrées apr6s une
+complexe et souvent di~cile. La
+jurisprudence du Conseil d’Etat a identifié
+les autres
+instruction
+
+94
+
+toutefois a cote des concessions définitives
+provisoires, un autre type, les concessions
+dites pricaires, qui peuvent Etre accord6es
+sans formalit6s d’instruction particuli6res, s’il
+existe des motifs d’urgence prouv6s qui ne
+permettent aucun atermoiement, ou quand il
+faut pallier des situations momentan6es d’urgence ayant un caract6re de contingence.
+et
+
+Pour les concessions définitives, il est prwu
+que la pr6f6rence est donn6e sur les autres
+aux concessionnaires exp6riment6s,
+de chemins de fer et de tramways concurrents ou dont le service automobile est compl6mentaire, et ceux de services automobiles
+limitrophes; sauf ces prdf6rences, le choix
+du concessionnaire est fait par licitation
+amiable, sur la base d’un cahier des charges
+special. Les concessionnnaires des services
+automobiles subsidiaires ont droit d’exclusivit6 pour la ligne qui leur est concdd6e. Selon
+les cas, ce droit peut 6tre 6galement reconnu
+aux concessionnaires de lignes automobiles
+non subventionn6es par 1’Etat, pour la p6riode
+estim6e opportune par I’autorit6 administrative comp6tente.
+
+aspirants
+
+ceux
+
+A propos des autorit6s pr6pos6es k la délides concessions, le D.P. R. du 28 juin 1955
+a apport6 de profondes innovations a la loi
+de 1939. Il a r6parti ainsi les attributions :
+le maire de la commune int6ress6e 1’accorde
+pour les lignes automobiles urbaines, apr6s
+d6lib6ration conforme du conseil communal,
+si la ligne se trouve enti6rement sur le territoire
+de la commune; l’inspecteur d6partemental
+(maintenant direction d6partementale) ou un
+bureau d6tach6 de la motorisation civile et
+des transports en concession, s’il s’agit de
+lignes automobiles reliant les communes d’une
+m8me province ou reliant une commune
+avec sa gare de chemein de fer, ou avec un
+a6roport voisin, meme situ6s dans des comvrance
+
+diffdrentes, ou s’il s’agit de lignes
+automobiles saisonni6res, d’une dur6e inf6rieure A trois mois, et dont l’itin6raire est
+différent de celui qui est trac6 sur le territoire
+d’une seule commune ; le ministre des Transports et de 1’Aviation civile decide dans tous
+les autres cas, parmi lesquels une importance
+particuli6re est a attribuer aux services de
+grand tourisme, qui ont pour but la mise
+en valeur des caract6ristiques artistiques, panoramiques, historiques, ou autres attractions
+particuli6res des lieux qu’ils rallient, et les
+services d’int6r8t national.
+munes
+
+-
+
+D’autre part, il est pr6vu que 1’Etat intervient
+faveur des entreprises concessionnaires
+à 1’aide de subsides accordds pour 1’installation et ]’exploitation, et d6terniinds sur la
+en
+
+plans financiers dans lesquels on tient
+toutes les d6penses et de toutes
+les recettes pr6vues, ainsi que par des redevances
+a percevoir pour le transport d’effets postaux,
+et par d’autres contributions fixes ou irr6guli6res, prevues par des lois sp6ciales.
+Des normes particuh6res de la loi de 1939
+organisent des pouvoirs de surveillance sur
+1’exploitation des concessionnaires par les
+autorit6s gouvernementales et communales,
+selon le type de concession, des pouvoirs
+d’intervention en cas de catastrophes publiques
+et d’interruption du service pour cause de
+force majeure, ainsi que des formes de garantie
+base de
+
+compte de
+
+pour Ie service en faveur des concessionnaires, des taxes de surveillance et des interventions particuli6res dans la d6termination
+tant des tarifs que des horaires de service.
+Des normes sont enfin pr6vues pour la
+variation ou le remplacement de 1’entreprise
+concessionnaire, pour la cession, le dddit,
+la r6vocation et la d6ch6ance de la concession
+administrative.
+
+D) En ce qui concerne le r6gime des services
+de transport automobile de marchandises,
+la loi du 20 juin 1935, en soumet a autorisation
+administrative l’exploitation par des entreprises
+de transport. 11 ne s’agit en realite seulement
+que des entreprises de transport automobile
+agissant pour leur propre compte ou pour
+le compte de tiers. L’autorisation, qui, comme
+on le sait, supprime une limitation pos6e
+par la ligislation dans l’intdr6t public, A 1’exemple d’une facult6 dej a comprise dans la sph6re
+juridique de l’int6ress6, poursuit des fins
+de police du secteur et en m8me temps des
+fins de tutelle de la s6curit6 technique du
+transport et du trafic. Comme on 1’a relev6
+(M.S. Giannini, op.cit.), elle ne devrait pas
+avoir, par contre, un but de manoeuvre de
+I’dconomie, bien qu’en pratique des interf6rences d’origine corporative ne puissent etre
+dvit6es. La competence pour delivrer 1’autorisation est attribu6e aux maires pour les services
+de place et aux directions d6partementales
+pour la motorisation civile et les transports
+en concession pour les entreprises de transport
+de marchandises pour le compte de tiers.
+3. Indications sur les transports publics urbains
+et suburbains: A) Tramways d traction
+mécanique.. B) services automobiles; C) chemins de fer metropolitains; D) services de
+louage et voitures de place
+Les
+
+probl6mes
+
+des services
+
+publics de
+
+trans-
+
+port de personnes dans le cadre des agglom6rations
+
+urbaines et des
+
+surtout
+
+comme
+
+zones adjacentes,
+cons6quence du ph6nom6ne
+
+95
+
+de l’urbanisation croissante, sont devenus
+ces derniers temps tr6s graves et insolubles
+en substance.
+
+ritoire communal, nous renvoyons A ce
+a dt6 observe au paragraphe 2, lettre B.
+
+D’une part, le ph6nomane de l’urbanisation,
+avec les fortes 6migrations int6rieures, surtout
+du sud vers le nord de 1’Italie, et qui s’est
+v6rifi6 en concordance avec le dweloppement
+industriel des zones septentrionales, d’autre
+part la mont6e continuelle de l’offre d’emploi
+dans les zones plus d6velopp6es et le d6veloppement vraiment exceptionnel de la motorisation individuelle, ont confere un caractere
+dramatique au probl6me du diplacement
+par les transports publics dans le cadre des
+agglom6rations urbaines.
+
+transports publics urbains,
+
+Dans cette
+
+exposition de la situation des
+transports publics en Italie, il semble opportun d’indiquer bri6vement comment sont
+organis6s actuellement sur le plan normatif
+les transports urbains et suburbains.
+
+A) On consid6rera d’abord, tout au moins
+pour leur origine plus ancienne, les tramways
+a traction micanique. Leur r6gime est fondamentalement analogue a celui des chemins
+de fer concdd6s a l’industrie priv6e. Il est
+pr6cis6 dans le T.U. du 9 mai 1912, et dans les
+lois de modification et de compl6ment ult6rieures. La gestion de ce service est generalement confi6e k une entreprise autonome
+communale, ou a une societe constitu6e par
+souscription communale ou encore a des
+consortiums entre communes et provinces.
+La singularite de ce r6gime r6side dans le
+fait que la concession du sol routier est n6cessaire de la part de 1’organisme propri6taire
+(d’habitude la commune) et que, d’autre part,
+la comp6tence pour adopter la mesure qui
+permet 1’exercice du service incombe a la
+direction d6partementale de la motorisation
+civile et des transports en concession, c’est-adire a une autorit6 etatique.
+
+Quant a la nature de la mesure qui permet
+gestion du service, dans le T.U. de 1912 on
+parlait d’autoriser 1’exploitation, mais I’art. 13
+du D.P.R. du 28 juin 1955, en modifiant I’art.
+242 du T.U. cit6, a dispos6 que cc la concession
+de 1’exploitation des tramways ~ incombera a
+l’inspecteur (a pr6sent directeur) d6partemental. 11 semble donc qu’on ait voulu rattacher
+6galement la gestion des tramways au r6gime
+de la concession administrative qui, comme
+on 1’a vu, est typique des services publics
+la
+
+de transport de voyageurs
+cules de ligne.
+
+B) En
+biles de
+
+au
+
+moyen de v6hi-
+
+ce qui concerne les services automoligne effectu6s dans le cadre du ter-
+
+C)
+
+Pour la solution
+
+importance
+
+des
+
+qui
+
+probl6mes des
+tres grande
+
+une
+
+est attach6e aux chemins de fer
+
+Pour ceux-ci, Ie R.D.L. du
+dtablit a 1’art. 1 que, restant
+inchang6s les pouvoirs de surveillance du
+gouvernement sur les services publics de
+transport a traction m6canique en general,
+la concession de lignes mdtropohtaines int6ressant exclusivement un centre urbain était
+du domaine de la commune int6ress6e, à
+1’exclusion expresse de la seule ville de Rome,
+pour laquelle la concession de lignes m6tropolitaines restait r6serv6e au gouvernement.
+Par la suite, par différentes mesures relatives
+a la ville de Rome, les sommes n6cessaires
+pour la construction de lignes m6tropolitaines
+
+mitropolitains.
+10 juillet 1925
+
+ont ete affect6es et
+
+1’exploitation
+
+a
+
+ete
+
+confi6e,
+
+par concession administrative, a la Societe
+des tramways et chemins de fer 6lectriques
+de Rome (STEFER). D’autres mesures normatives ont 6t6 promulgu6es pour la construction de lignes m6tropolitaines dans les villes
+de Milan et de Genes.
+De profondes innovations dans le regi me
+de la construction et de 1’exploitation de
+m6tropolitains ont 6t6 r6cemment introduites
+par la loi du 29 d6cembre 1969, qui a avant
+tout sp6cifi6 que par chemin de fer m6tropolitain on entend un syst6me de transport
+rapide de masse de grande capacite et fr6quence,
+ayant son si6ge propre, qui peut s’effectuer
+sur le territoire d’une ou de plusieurs communes
+limitrophes, et constituant de toute fagon
+avec la commune la plus peupl6e un seul
+complexe urbain ou un unique ensemble
+caractdris6 par des agglomerations urbaines,
+industrielles et sociales communes ou interd6pendantes. Quant a la comp6tence pour
+la construction et 1’exploitation de ces chemins
+de fer, la m8me loi pr6voit qu’elle incombe
+aux communes ou aux consortiums de communes, selon que le trace du chemin de fer
+se d6veloppe dans le cadre du territoire d’une
+ou de plusieurs communes limitrophes. Les
+communes ou les consortiums conservent la
+facult6 d’assumer directement 1’exploitation,
+au
+moyen de leurs entreprises sp6ciales,
+et il est privu que la concession pour 1’exploitation des lignes m6tropolitaines pourra etre
+accord6e uniquement A des organes publics
+ou a des consortiums d’organes publics,
+ou bien i des societcs a capital public pr6dominant. Pour la commune de Rome, on a en
+outre conserv6 les dispositions de la loi du
+24 d6cembre 1959, dans des limites bien d6finies (art. 12).
+
+96
+
+d’importance fondamentale pour
+coordination politique des transports
+publics urbains et suburbains, la nouvelle
+Innovation
+
+une
+
+loi pr6voit que les communes et les consortiums de communes int6ress6s ont ete amen6s
+a presenter un plan des transports publics
+du complexe, pour une meilleure coordination des lignes m6tropolitaines avec les chemins
+de fer et autres moyens de transport. L’approbation du plan incombe A la r6gion, apr6s
+avis des comit6s r6gionaux pour la programmation économique, tandis que les projets
+d’ensemble, les projets finaux et les variantes
+sont approuv6s par le ministre des Transports
+et de 1’Aviation civile. Elle pr6voit en outre
+l’octroi de contributions de 1’Etat pour la
+r6alisation des ouvrages de construction, ainsi
+que des normes pour la stipulation des prets
+et pour 1’6mission d’obligations avec garantie
+de I’Etat. D’autres normes pr6voient enfin
+la possibility d’application de contributions
+d’amelioration et de faciht6s fiscales particuli6res. On a pr6serv6 dans tous les cas les
+pouvoirs de surveillance incombant A 1’autorit6 gouvernementale sur tous les autres
+services publics de transport a traction m6canique, sur la base des normes pr6existantes.
+
+D) Pour compl6ter le tableau sommaire
+des moyens de transport public au niveau
+local, il reste A parler des v6hicules automobiles
+en service de louage et des taxis.
+En
+une
+
+ce
+
+qui
+
+concerne
+
+le
+
+premier service,
+
+d6finition normative pr6cise du service
+
+public
+
+de
+
+louage
+
+manque.
+
+Compte
+
+tenu
+
+toutefois de la fonction de ce service, on peut
+affirmer que les v6hicules en service de louage
+sont ceux qui, en meme temps que leur conducteur, sont mis a la disposition du public, donc
+de qui en fait la demande. Le v6hicule donne
+au
+demandeur sans conducteur ne rentre
+donc pas dans cette cat6gorie. Dans ce cas,
+en effet, on peut parler de location ou de commodat, mais non pas de v6hicule en service
+de louage. Le contraire n’est pas prouv6 par
+le fait que Fart. 1, 2e alinea, lettre a) de la loi
+du 20 juin 1935 comprend parmi les services
+de louage pour le transport de marchandises
+les louages sans chauffeur, en ce sens que la
+d6cision exprim6e, qui constitue une disposition
+
+sp6ciale pour le transport de marchandises,
+
+confirme la r6gle g6ndrale qui, lorsqu’on
+parle de louage, comprend toujours le v6hicule
+avec son chauffeur.
+En
+
+le service de place,
+il faut consid6rer comme des vdhicules affect6s
+A ce service ceux destin6s A effectuer des
+courses a la demande de n’importe qui a l’intérieur du territoire de la province. Les v6hice
+
+qui
+
+concerne
+
+cules affectes A ce service doivent porter,
+outre la plaque d’immatriculation pr6vue pour
+tous les v6hicules par le code de la route,
+une
+plaque portant la mention « Service
+public » et un num6ro chronologique. Chaque
+v6hicule doit 8tre muni d’un taxim~tre, place
+de telle fagon que la lecture de 1’enregistrement
+en soit ais6e, sauf s’il en est exon6r6, parce
+que se trouvant dans des communes de moindre
+importance, a 1’exclusion de celles comprises
+entre les localit6s touristiques de soins et
+de s6jour, ddtermin6es pour chaque province par la chambre de commerce, de 1’industrie et de 1’agriculture, apr6s avis de la direction d6partementale de la motorisation civile
+et des transports en concession, sur la base
+des crit6res de la population, de 1’extension
+territoriale et de l’intensit6 du mouvement
+
+touristique.
+L’institution du service de
+
+place
+
+pour le
+
+transport de marchandises par v6hicules, le
+nombre des autorisations a d6livrer et le
+tonnage sont 6tablis sur ddlib6ration du
+conseil municipal, sujets a approbation par
+le conseil provincial administratif, apres avis
+de la direction d6partementale ou du bureau
+d6tach6 de la motorisation civile et des trans-
+
+ports
+
+en
+
+concession.
+
+4. Indications
+intérieure
+
+sur
+
+les transports par navigation
+
+11 est question ici de cette espece particuli6re du transport maritime qui se réfère à
+la
+
+navigation int6rieure, laquelle
+plus du transport terrestre que
+maritime
+
+sous
+
+Pour la
+et les
+
+qui
+
+a
+
+de la
+
+se
+
+rapproche
+
+du transport
+
+bien des aspects.
+
+navigation
+
+int6rieure
+
+sur
+
+les fleuves
+
+lacs, c’est en general I’autorit6 de 1’Etat
+la competence pour intervenir. Le code
+
+navigation, approuv6
+
+par R.D. du 30
+
+1942, et le r6glement pour la navigation
+int6rieure, approuvd par D.P.R. du 28 juin
+1949, attribuent cette competence au ministre
+mars
+
+Transports et de l’ Aviation civile et aux
+directions d6partementales de la motorisation
+civile et des transports en concession, aux
+des
+
+inspections de port, aux d6l6gations d’abordage
+(et en leur absence aux communes).
+Les services de navigation sont sujets a des
+concessions
+
+trative ;
+
+ou
+
+a
+
+une
+
+autorisation adminis-
+
+particulier, Ie r6gime de la concesen vigueur pour les services de ligne
+
+en
+
+sion est
+de transport de personnes et de choses, pour
+les services publics de remorquage et pour
+les services de halage par moyens m6caniques.
+Tous les autres services, y compris les services
+autres que le service de ligne pour le transport
+
+97
+
+de personnes et de choses et les services de
+remorquage et de halage par des moyens
+non m6caniques, sont soumis au rigime de
+1’autorisation. Les concessions peuvent 8tre
+provisoires (deux ans) et définitives (trente
+ans). Les actes de concession doivent porter
+mention de la nature, de 1’entit6 et de la location des installations ~ terre, le nombre et
+les types de bateaux, des flotteurs et des tracteurs ndcessaires, et les cas de d6ch6ance de
+la concession doivent etre indiqu6s.
+
+aussi administrative, en mati6re de transports
+publics d’int6ret regional. L’art. 117 de la
+Constitution attribue justement aux r6gions
+a statut ordinaire cette competence, tandis
+que pour les r6gions A statut special, les
+dispositions afferentes sont contenues dans
+les statuts.
+
+Pour partir de ces derni6res, il faut observer
+que la Sicile - et le Trentin-Haut Adige ont,
+selon leurs statuts respectifs, la comp6tence
+legislative et administrative sur les communications et sur les transports d’int6r8t regional,
+sauf exception pour les services de ligne qui
+
+Le droit n6 de la concession de services
+navigation int6rieure est transmissible aux
+h6ritiers; sous cet aspect, le r6gime des transports publics par voie d’eau est nettement
+différencié de celui des transports par terre.
+On a par ailleurs pr6vu la necessite de confirmer
+la concession en faveur des h6ritiers du concessionnaire, qui peut 8tre refus6e quand les
+int6ress6s ne sont pas pourvus de la qualite
+technique et 6conomique ndcessaire.
+
+de
+
+La concession
+
+fin par 6ch6ance du
+par d6ch6ance, de
+la m8me fagon, en substance, que pour les
+chemins de fer conc6d6s a l’industrie priv6e;
+en
+particulier, le concessionnaire encourt
+la d6ch6ance quand il ne commence pas à
+assurer le service dans les d6lais fix6s ou qu’il
+1’abandonne ou l’interrompt ou, de toute
+fagon, l’assure&amp;amp;dquo;avec de graves irr6gularit6s qui
+lui sont imputables. La ddchdance comporte
+la confiscation de la caution, 1’acquisition
+des oeuvres et des installations construites
+dans les zones portuaires, sauf si le contraire
+a 6t6 express6ment pr6vu dans le cahier des
+charges, ou la restitution des aires dans 1’etat
+original. L’administration conc6dante peut
+toutefois se r6server, dans une clause sp6ciale
+du cahier des charges, le droit d’acheter à
+prix d’expertise, en cas de d6ch6ance, tout
+ou partie des installations et des ouvrages
+non construits dans les zones portuaires,
+les bateaux et les flotteurs, les tracteurs et
+les autres outillages meubles destin6s a 1’exploitation. De meme, en outre, que pour
+les concessions ferroviaires, a la fin de la
+concession tous les 6quipements fixes sont
+attribu6s gratuitement a 1’Etat. L’administration exerce des pouvoirs de surveillance sur
+le service, particuli6rement en ce qui concerne
+la d6termination des tarifs et assure des
+controles administratifs et comptables sur
+1’entreprise concessionnaire.
+
+1’Etat.
+
+prend
+
+terme, par r6vocation
+
+5. Les transports
+
+une intervention financi6re de
+La Vall6e d’Aoste a la comp6tence
+legislative et administrative limit6e aux trolleybus et aux lignes automobiles locales. La
+Sardaigne a les memes comp6tences pour
+les lignes automobiles et les lignes de tramways.
+Le Frioul-V6n6tie Julienne a la comp6tence
+sur la r6glementation des services publics
+d’int6r8t regional et sur 1’exploitation de ces
+services, ainsi que sur les lignes maritimes
+de cabotage entre les escales de la r6gion.
+
+impliquent
+
+ou
+
+publics dans
+
+le cadre
+
+regional
+
+Des probl~mes nouveaux, non r6solus encore,
+surgissent en rapport avec 1’attribution aux
+regions de competence legislative, et donc
+
+De la disposition contenue dans 1’art. 117
+de la Constitution pour les regions a statut
+ordinaire et des statuts des regions a statut
+special, on d6duisait la regle g6n6rale selon
+.
+
+laquelle tout ce qui concerne les transports
+publics d’int6r8t regional rentre dans les attributions de la region. On a toutefois souligne
+exactement (M.S. Giannini, op. cit.) que la
+16gislation ordinaire en vigueur ne connait
+pas le « transport d’int6r8t r6gional », de sorte
+que naissent des probl6mes délicats pour
+l’identification exacte de ce concept. 11 faut
+retenir a cet 6gard que le constituant a utilise
+1’expression non pas dans son contenu fonctionnel, mais dans son contenu territorial; de
+sorte que les transports d’int6rEt r6gional
+ne sont pas ceux qui relient plusieurs centres
+r6gionaux, mais seulement ceux qui s’effectuent
+dans le cadre de la r6gion. A cet 6gard, la
+jurisprudence (Conseil d’Etat, Sec. IV,
+26 juin 1963, n° 373) a retenu que par transports d’int6ret regional il faut entendre ceux
+qui non seulement s’effectuent enti6rement
+sur le territoire de la r6gion, mais encore
+qui n’impliquent aucune intervention financi6re
+de 1’Etat.
+
+Si l’on accepte cette position, il faudrait
+exclure des attributions r6gionales;
+a) les chemins de fer de 1’Etat ou conc6d6s
+A l’industrie priv6e, encore que d’int6rEt
+r6gional, parce qu’appartenant en exclusivite a 1’Etat;
+b) les lignes automobiles reliant les centres
+de plusieurs r6gions;
+
+98
+
+c)
+
+les
+
+lignes de navigation maritime d’int6r8t
+rdgional, c’est-a-dire les lignes appel6es
+d’int6r8t local, puisque tant la Constitution que les statuts font r6f6rence
+
+aux
+
+transports terrestres;
+
+d)
+
+les lignes de navigation a6rienne pour les
+raisons ci-dessus indiqu6es;
+
+e)
+
+les lignes automobiles de grand tourisme
+pour leur caract6re interr6gional.
+
+A propos des lignes de navigation int6sur fleuves et lacs, comme 1’art. 117
+de la Constitution conf6re aux r6gions des
+attributions seulement en mati6re de navigation sur les lacs, on devrait consid6rer comme
+exclu de la - comp6tence r6gionale tout ce
+qui conceme la navigation fluviale.
+
+rieure,
+
+De toute fagon, les probl6mes afferents à
+la d6limitation du cadre des attributions des
+regions en mati6re de transports publics,
+comme d’ailleurs dans d’autres nombreuses
+mati6res, sont accessibles A toutes les solutions
+et sont l’objet d’6tudes et de mesures normatives en cours de pr6paration pour l’application de la d6centralisation r6gionale. Il nous
+a paru suffisant, pour compl6ter notre dtude,
+d’en faire seulement mention.
+
+6. Considerations finales
+Nous avons, dans les paragraphes pr6cddents,
+essaye de brosser un tableau, n6cessairement
+sommaire, de la 16gislation sur les transports
+
+publics.
+Nous avons aussi mentionn6 le fait qu’actuellement ce secteur est affecte par une crise
+grave, une crise structurale, malgr6 le niveau
+technologique élevé atteint. Et cette crise est
+si s6rieuse que la r6forme de toute l’organisation des transports publics, tant sur le plan
+national que sur le plan local, est pr6sente à
+1’attention des autorit6s gouvernementales et
+des forces syndicales. Ces dernidres se sont
+pos6 le probl6me des transports, avec celui
+du logement et de 1’ecole, comme objectif
+fondamental de leur programme d’action
+dans le cadre des r6formes de structure de
+1’Etat.
+
+Multiples sont les causes qui ont determine
+1’apparition de cette situation de crise, et
+parfois il n’est pas facile de les discerner.
+Nous chercherons ici seulement i en indiquer
+quelques-unes, parmi les plus significatives.
+L’une d’entre elles peut 8tre Iiie A un ph6nomene d’ailleurs positif, le d6veloppement industriel, qui a d6termin6, vu la faron dont il
+
+s’est accru, une concentration d’industries
+dans des zones bien d6termindes et non pas
+une expansion articul6e et rationnelle sur
+1’ensemble du territoire national. D’ou une
+congestion de trafic dans certaines zones,
+par carence d’un d6veloppement parall8le
+et d’un accroissement du r6seau des transports,
+et un apauvrissement ult6rieur d’autres centres
+de trafic. Le d6veloppement industriel de
+
+determine un ph6nom6ne d’urbanisation accentu6e, avec la creation de nouvelles
+agglom6rations a la p6riph6rie des villes;
+d’ou la formation d’un immense trafic de
+mdsse, a caractere pendulaire, par rapport
+auquel aucune intervention efficiente et coordonn6e n’a ete pr6vue.
+ces zones a
+
+de la crise est la lenteur
+la modernisation
+du mat6riel fixe et du materiel mobile. A cet
+6gard, on doit relever pourtant que ces derniers
+temps on assiste dans les chemins de fer de
+I’Etat A une reprise decisive et a une relance
+du syst6me ferroviaire : elles devraient porter
+leurs fruits dans quelques temps. Cette relance
+tient surtout a plus de securite du transport
+par chemin de fer et un gain de confort indiscutable, a 1’e~cience technique du reseau ferr6, A la structure de la Soci6t6 autonome des
+chemins de fer de I’Etat, a la situation commerciale et aux coordinations avec les autres
+syst~mes de transport, afin, sous ce dernier
+aspect, d’6viter une concurrence entre le
+transport par voie ferr6e, par route et a6rien,
+qui ne pourrait que porter prejudice a la
+communaut6 nationale; fait significatif, la
+relance des chemins de fer se fait en r6gime
+de tarifs qui comptent parmi les plus bas
+d’Europe, la charge financi~re 6lev6e retombant
+fondamentalement sur I’Etat. Dans le cadre
+des chemins de fer conc6d6s ! l’industrie
+priv6e, les causes de la crise doivent se chercher
+dans la difficult6 de trouver les financements
+n6cessaires pour une action de modernisation
+des r6seaux et du materiel roulant, dans le
+d6s6quihbre entre les recettes et les d6penses
+et dans la concurrence faite par les autres
+moyens de transport public.
+Une autre
+
+avec
+
+cause
+
+laquelle
+
+on
+
+proc6de A
+
+sont aussi les causes
+
+qui d6tercrise travers6e par le
+profonde
+transport public urbain et suburbain. L’accroissement vraiment imposant de la motorisation individuelle a cr66 des situations,
+surtout dans les grands centres urbains,
+qui frisent la paralysie. L’irrationnel d6veloppement urbain des agglom6rations y a 6galement contribu6, car il n’a pas tenu compte
+de la n6cessit6 fondamentale d’assurer la
+mobilit6 du trafic citadin. En ce qui concerne
+les services automobiles de ligne, on a ddji
+Multiples
+
+minent la
+
+99
+
+qu’une des causes est 1’inadequation de la
+16gislation actuelle, bas6e sur la loi du 28 septembre 1939 qui partait du principe, aujourd’hui absolument hors de la realite, que les
+services automobiles devaient n’avoir qu’une
+
+des transports publics, m6me locaux, constitue
+616ment d’ordre ou de nouveaux troubles.
+
+vu
+
+un
+
+Vu 1’extr8me complexit6 du problame et
+les causes vari6es qui d6terminent 1’6tat de
+crise actuel, il semble difficile de voir les
+rem6des possibles.
+
+fonction de
+
+complement du service ferroviaire.
+a cela 1’616vation des coflts, 1’6tat
+de deficit chronique des entreprises concessionnaires, qui ne survivent parfois que
+grace a d’importantes interventions de 1’Etat,
+les abus dans le secteur, tout aussi pr6judiciables que les abus dans le domaine des transports automobiles de marchandises.
+Ajoutons
+
+Un autre 616ment concourt, de
+
+rale, a d6terminer la crise du
+
+Ce qui pourrait probablement aider A
+r6soudre le malaise, c’est une politique unitaire
+des transports, bas6e sur 1’61imination de
+
+comp6tences concurrentes et sur la concentration des comp6tences en quelques organes;
+pour le moins, il faudrait plus de coordination
+
+fagon g6n6-
+
+secteur du trans-
+
+port public : c’est la pluraht6 excessive des
+organes administratifs auxquels il est confi6,
+et surtout la carence de coordination dans
+leurs actions. Actuellement, diff6rents d6partements minist6riels ont la comp6tence
+administrative dans le domaine des transports,
+le minist6re des Transports et de l’ Aviation
+civile, qui dirige les trois branches des chemins
+de fer, de la motorisation civile et de 1’aviation
+commerciale, le minist6re de la Marine marchande en ce qui concerne le trafic maritime,
+le minist~re des Travaux publics qui est comp6tent pour les routes et les autoroutes, ainsi
+que pour les infrastructures utilis6es par
+1’aviation civile, et le minist6re des Participations d’Etat, auquel est rattach6e la principale
+compagnie de navigation a6rienne, ainsi que
+le plus important groupe d’industries constructrices de materiel roulant ferroviaire. 11
+y a ensuite les comp6tences des organes
+locaux en ce qui concerne le transport dans
+le cadre des villes. La carence de coordination
+dans 1’action de ces organes publics et le
+caract6re fragmentaire de leurs interventions
+peuvent certainement compter au nombre
+des causes de la crise. Une autre inqui6tude
+surgit maintenant, du fait que 1’art. 117 de la
+Constitution, comme on 1’a vu (paragraphe 5
+pr6c6dent) attribue aux regions A statut
+ordinaire la competence legislative et administrative en mati6re de transports d’int6r8t
+rdgional. Il faut se demander en effet si 1’intervention d’un autre organe dou6 de fonctions
+16gislatives et administratives dans le secteur
+
+.
+
+dans 1’action des differents organes administratifs existants, et un conseil sup6rieur des
+transports, dont on souhaite vivement la
+cr6ation, pourrait remplir utilement ce role.
+En substance, 1’Etat devrait articuler son action à travers la coordination n6cessaire avec
+les organes locaux, afin d’avoir une fonction
+d’harmonisation du d6veloppement des transports, grice A des choix clairvoyants dans
+le domaine des investissements et de la 16gislation tarifaire, commerciale et fiscale. Ce n’est
+qu’ainsi que 1’on parviendrait a surmonter
+le concept du service public de transport
+en tant que service compl6mentaire, et a le
+consid6rer au contraire comme un fait int6grant du d6veloppement 6conomique et social.
+11 faudrait
+
+transports,
+
+en
+
+avec
+
+outre ins6rer le probleme des
+toutes ses implications, de
+
+decisive dans la programmation
+nationale afin d’assurer surtout
+la coordination entre la planification industrielle et la planification des transports publics.
+Encore, dans le cadre des probl6mes aff6rents
+au transport urbain et suburbain, une coordination entre la planification urbaine et
+l’organisation des transports publics, sur route
+et souterraine, serait non seulement utile,
+mais meme indispensable. 11 faut en outre
+que le syst6me des plans de transport, pr6vus
+actuellement uniquement pour la construction
+des chemins de fer m6tropolitains (voir cidessus, paragraphe 3, lettre C) soit applique
+de fa~on g6n6rale, afin de permettre une
+vision globale et unitaire des probl6mes qui
+
+fagon plus
+6conomique
+
+surgissent.
+
+</p>
+         </div>
+      </body>
+      <back>
+         <note>
+            <p>(1) Cfr. M.S. Giannini, <hi rend="italic"> Premesse giuridiche per un assetto della disciplina pubblica dei trasporti ai fini dell'istituzione delle Regioni,</hi> in : « Atti del Terzo Con vegno nazionale dei trasporti urbani e suburbani », Venise 8-10 octobre 1962.</p>
+         </note>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">À propos de l'inculturation dans le catholicisme brésilien contemporain</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>SAGE Publications</publisher>
+            <pubPlace>Sage UK: London, England</pubPlace>
+            <date type="published">2008</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">À propos de l'inculturation dans le catholicisme brésilien contemporain</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Mariz</surname>
+                        <forename type="first">Cecília L.</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">Université dÉtat de Rio de Janeiro (UERJ)</orgName>
+                        <email>cemariz@alternex.com.br</email>
+                     </affiliation>
+                  </author>
+                  <author xml:id="author-0001">
+                     <persName>
+                        <surname>Machado</surname>
+                        <forename type="first">Dores C.</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">Institut Universitaire de Recherche dé Rio de Janeiro (IUPERJ)</orgName>
+                        <email>mddcm@ess.ufrj.br</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">0C485FED911A7C2D4BCFF73326DFFBE5F48B777D</idno>
+                  <idno type="ark">ark:/67375/M70-S4HPXFHW-P</idno>
+                  <idno type="DOI">10.1177/0037768608093692</idno>
+                  <idno type="publisher-id">10.1177_0037768608093692</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Social Compass</title>
+                  <idno type="hwp">spscp</idno>
+                  <idno type="pISSN">0037-7686</idno>
+                  <imprint>
+                     <publisher>SAGE Publications</publisher>
+                     <pubPlace>Sage UK: London, England</pubPlace>
+                     <date type="published">2008</date>
+                     <biblScope unit="vol">55</biblScope>
+                     <biblScope unit="issue">3</biblScope>
+                     <biblScope unit="page" from="290">290</biblScope>
+                     <biblScope unit="page" to="303">303</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract xml:lang="fr">
+            <p>
+               <hi rend="italic">La théologie de l'inculturation est une réponse de certains courants chrétiens, en particulier des théologiens catholiques, en réaction aux tensions et dilemmes rencontrés par les missionnaires et les convertis lors des rencontres interculturelles de la période postcoloniale. Dans un contexte historique où l'on défend le droit à la préservation de la diversité culturelle, les activités missionnaires de christianisation sont jugées de manière négative parce qu'elles représentent une menace vis-à-vis de cette diversité. Une théologie surgit alors, acceptant ces critiques, et pour tenter de les dépasser, défend un projet osé qui consiste à articuler la dimension transformatrice de l'évangélisation chrétienne à la lutte pour la préservation de différentes cultures. Les auteurs ne prétendent pas traiter de manière approfondie de cette théologie, ni analyser les diverses nuances de cette discussion aujourd'hui internationale, mais réfléchir à des questions qui alimentent le débat des intellectuels catholiques et des chercheurs en sciences sociales au Brésil.</hi>
+            </p>
+         </abstract>
+         <abstract>
+            <p>
+               <hi rend="italic">The theology of inculturation expresses a response from some Christians, especially Catholic theologians, to the tensions and dilemmas confronted by missionaries and converts at the intercultural encounters of the postcolonialist period. In a historical context in which the right to the preservation of cultural diversity is defended, the missionary activities of Christianisation are negatively evaluated as a threat to this diversity. This has given rise to a theology which, in meets the challenge of this criticisms by attempting to see in the transformative dimension of Christian evangelisation an engagement in the struggle for the preservation of distinct cultures. The authors do not intend to make a deep analysis of this theology nor to consider the different undertones of this discussion, but rather to reflect on some questions which guide the debate of Catholic intellectuals and social scientists in Brazil.</hi>
+            </p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <textClass ana="keyword">
+            <keywords>
+               <term>catholicisme</term>
+               <term>inculturation</term>
+               <term>syncrétisme</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>social
+compass
+55(3), 2008, 290–303
+
+Cecília L. MARIZ et Maria das Dores C. MACHADO
+
+À propos de l’inculturation dans le
+catholicisme brésilien contemporain
+La théologie de l’inculturation est une réponse de certains courants chrétiens,
+en particulier des théologiens catholiques, en réaction aux tensions et dilemmes
+rencontrés par les missionnaires et les convertis lors des rencontres interculturelles de la période postcoloniale. Dans un contexte historique où l’on défend
+le droit à la préservation de la diversité culturelle, les activités missionnaires
+de christianisation sont jugées de manière négative parce qu’elles représentent
+une menace vis-à-vis de cette diversité. Une théologie surgit alors, acceptant
+ces critiques, et pour tenter de les dépasser, défend un projet osé qui consiste
+à articuler la dimension transformatrice de l’évangélisation chrétienne à la
+lutte pour la préservation de différentes cultures. Les auteurs ne prétendent
+pas traiter de manière approfondie de cette théologie, ni analyser les diverses
+nuances de cette discussion aujourd’hui internationale, mais réfléchir à des
+questions qui alimentent le débat des intellectuels catholiques et des chercheurs
+en sciences sociales au Brésil.
+Mots-clés: catholicisme · inculturation · syncrétisme
+The theology of inculturation expresses a response from some Christians, especially Catholic theologians, to the tensions and dilemmas confronted by missionaries and converts at the intercultural encounters of the postcolonialist
+period. In a historical context in which the right to the preservation of cultural
+diversity is defended, the missionary activities of Christianisation are negatively
+evaluated as a threat to this diversity. This has given rise to a theology which,
+in meets the challenge of this criticisms by attempting to see in the transformative dimension of Christian evangelisation an engagement in the struggle for
+the preservation of distinct cultures. The authors do not intend to make a deep
+analysis of this theology nor to consider the different undertones of this discussion, but rather to reflect on some questions which guide the debate of Catholic
+intellectuals and social scientists in Brazil.
+Key words: catholicism · inculturation · syncretism
+
+La théologie de l’inculturation et du syncrétisme
+La théologie de l’inculturation est issue des réflexions des missionnaires jésuites
+qui travaillaient en Asie et en Afrique, insatisfaits du manque d’ouverture du
+DOI: 10.1177/0037768608093692
+http://scp.sagepub.com
+
+© 2008 Social Compass
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 291
+
+catholicisme envers les cultures non européennes (Teixeira, 2001; Rufino,
+2006). D’une manière générale, la tendance est d’associer la naissance de ce
+courant théologique au synode de 1974 et à la 32ème Congrégation Générale de
+la Compagnie de Jésus, qui eut lieu en 1974–1975, lorsque Pedro Arrupe1 était
+le supérieur général de cet Ordre. D’après Teixeira, c’est à partir de ces deux
+évènements que la définition du mot “inculturation”, présentée par Arrupe, est
+devenue la principale référence du débat sur l’évangélisation, dans les groupes
+ayant une tradition culturelle distincte de la matrice chrétienne. D’après ce
+courant théologique,
+L’inculturation est l’incarnation de la vie et du message chrétiens au sein d’une aire culturelle précise, de sorte que cette expérience s’exprime non seulement par des éléments
+propres à la culture en question (mais qui dans ce cas ne serait qu’une adaptation), mais
+également par sa transformation en un principe d’inspiration, en une norme temporelle et
+en une force unificatrice qui transforme et crée à nouveau cette culture, et se trouve ainsi
+à l’origine d’une “nouvelle création”. (Arrupe, 1985: 83)
+
+Néologisme théologique qui ne peut être identifié à d’autres concepts
+familiers aux sciences sociales, le terme inculturation, comme le rappelle
+Faustino Teixeira (2001: 82): “se distingue également des concepts d’adaptation
+et d’accommodation, en vigueur dans le cadre théologique des années 1950 et
+ayant des répercussions claires au sein du Concile du Vatican II (1962–1965)”.
+En effet, bien que l’on reconnaisse l’existence d’un intérêt particulier pour le
+“catholicisme populaire”, l’avis consistant à penser qu’il s’agit d’un type de
+religiosité traversé de distorsions et qui a besoin d’être “purifié” prédomine
+dans ce contexte.
+En ce sens, le discours de Concile du Vatican II a conduit certains courants catholiques du Brésil et d’autres pays d’Amérique Latine à adopter des
+mesures en contradiction avec la religiosité populaire: des images ont été retirées des églises et la dévotion à des saints dont l’existence historique n’a
+pas été scientifiquement prouvée a été abolie—citons Saint Georges et Sainte
+Barbara et les objets de culte des religions afro-brésiliennes où ces deux saints
+sont associés à des orixas.
+Les chercheurs en sciences sociales qui ont analysé le discours et les expériences d’inculturation, au sein de différentes Églises chrétiennes en Amérique
+latine et en Afrique, ont interprété la constitution de cette nouvelle matrice
+théologique comme étant le reflet d’un changement d’attitude vis-à-vis du
+syncrétisme, puisque cette matrice impliquait l’adoption d’un nouveau langage, représentait une tentative de vaincre des préjugés et était un projet de
+création de nouvelles expériences syncrétiques.2 On ne peut ignorer que les
+changements de point de vue et d’attitude des religieux sont influencés par
+les évolutions qui ont lieu dans le monde académique, en particulier, et le
+monde intellectuel, d’une manière plus générale. André Mary (2001: 11) est
+l’un des auteurs qui attirent l’attention sur ce changement d’attitude lorsqu’il
+explique:
+La nouvelle stratégie de l’“inculturation”—un terme ethnothéologique lui-même remarquablement bricolé …—se met à l’écoute des voies ouvertes par le syncrétisme et le
+prophétisme endogènes
+
+292 Social Compass 55(3)
+
+Jusque très récemment, la dévalorisation du syncrétisme était partagée, comme
+le soutient Frisotti (1995), par les “partisans de la pureté religieuse” et “les
+détenteurs de la culture érudite ou scientifique”. Ces deux groupes partageaient
+l’opinion selon laquelle les expériences syncrétiques étaient méprisables. S’ils
+ne les exorcisaient pas, ils cherchaient tout au moins à tolérer et “folkloriser”
+le syncrétisme de la religiosité et de la culture dite populaire. Théologiquement
+parlant, le syncrétisme était “négatif” parce que perçu comme une déformation et une déviation de la foi pure. Les idéaux de “pureté”, d’“authenticité”
+et d’“orthodoxie” qui, dans un contexte précis, étaient également utilisés en
+sciences sociales, reflètent le point de vue de ceux qui, en position de pouvoir,
+s’attribuaient la responsabilité de définir les valeurs et les modèles de comportement des collectivités. Le discours prédominant en sciences sociales était
+celui qui percevait le syncrétisme comme un moyen d’occulter l’oppression
+exercée par la culture coloniale européenne sur les cultures autochtones. Parmi
+les groupes d’intellectuels brésiliens, dont certains étaient liés au Mouvement
+des Noirs (Movimento Negro), cette interprétation du syncrétisme, considéré
+comme oppresseur, a résulté en une critique acharnée du dénommé “métissage brésilien”, célébré par Gilberto Freyre (1933), entre les années 1930 et
+1960, comme étant une valeur centrale de la construction de l’identité nationale de ce pays. Selon ce type de métissage, on considère aussi “blancs” les
+métis (appelés “noirs” aux États-Unis). Dans cette même logique, en appelant
+“Catholique” ceux qui adoptent des pratiques et des croyances syncrétiques,
+on risque d’occulter l’importance des religions africaines au Brésil. La principale critique, mentionnée auparavant, portait sur la célébration de la destruction de l’identité et de la culture des opprimés. Ce type de critique apparaît
+de manière évidente dans le titre du livre de Renato Ortiz (1978) à propos de
+l’umbanda, publié dans les années 1970: A morte branca do feiticeiro negro (La
+mort blanche du sorcier noir).
+Comme nous l’avons déjà mentionné, ce point de vue a été remis en question
+par le milieu académique. Le syncrétisme est aujourd’hui analysé et interprété
+par plusieurs chercheurs comme étant une expérience universelle: toutes les
+cultures et religions sont inévitablement syncrétiques (Benedetti, 1995; Mary,
+2001; Parker, 1996). André Mary (2001: 12) rappelle que le débat sur la postmodernité, qui valorise les aspects culturels, polyphoniques, polysémiques
+et baroques, a beaucoup contribué à la réhabilitation du syncrétisme dans les
+milieux académiques.
+Quoi qu’il en soit, tout comme pour la dévalorisation du syncrétisme
+(Frisotti, 1995), l’attitude positive adoptée par rapport au syncrétisme l’a également été par des secteurs aux idéologies et projets distincts (Benedetti,3 1995).
+Autrement dit, l’adoption d’un langage théologique d’inculturation, soutenu
+par le Vatican, peut également cacher, à travers une esthétique culturellement
+variée, une domination sociale et culturelle déjà existante. On peut argumenter
+qu’il pourrait s’agir d’une stratégie didactique ou communicative ayant pour
+objectif de rendre plus effective la domination culturelle.
+Réexaminons, à présent, l’histoire de ce débat et de cette pratique dans le
+contexte brésilien, afin de comprendre certains aspects de cette diversité.
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 293
+
+Inculturation et théologie de la libération
+Le concept d’inculturation a été, assez rapidement, accepté par le Vatican. En
+1979, le Pape Jean-Paul II utilisait déjà “ce vocable lors d’un discours à la
+Comission Biblique Pontificale (1979)”, auquel il se référait comme étant un
+“joli néologisme” qui “exprimait parfaitement une des composantes du grand
+mystère de l’incarnation”. C’est à partir de ce moment-là que le débat s’est
+développé à l’échelle de plusieurs continents et s’est éloigné des espaces
+réservés à la réflexion des missiologues. Une multiplicité de sens du concept
+d’inculturation circule au sein des courants catholiques et, par conséquent, il
+existe une pluralité d’interprétations du travail pastoral réalisé avec les minorités culturelles.
+L’adoption de ce concept par le Vatican, en des termes très proches de la
+matrice jésuite, montre bien la puissance de la proposition émise par les divers
+secteurs missionnaires considérés par certains auteurs (Montero, 2006) comme
+des “médiateurs privilégiés au sein de l’Église, ce qui leur permet de construire
+une stratégie, ou tout au moins, de disposer d’un espace réservé à la réflexion
+sur l’altérité” (Rufino, 2006: 264).
+Au Brésil, la proposition du Supérieur général, qui consiste à évangéliser les
+peuples se basant sur le dialogue entre les cultures, a été l’objet d’une grande
+réceptivité de la part des groupes missionnaires et du Conseil Missionaire auprès
+des Indiens (Conselho Indigenista Missionário—CIMI4), qui s’est tout de suite
+rallié à cette idée. Rufino (2006) argumente que ce Conseil, bien que rattaché aux
+projets de l’Église de la libération dès sa création, était confronté à des questions
+pastorales et théologiques spécifiques qui pouvaient résoudre les conflits culturels. En ce sens, lors de la Rencontre de Pastorale Sacramentelle, qui eut lieu
+en 1986, le CIMI s’est engagé, institutionnellement, à travailler la problématique
+de la relation entre les agents pastoraux et l’altérité. En guise de délibération
+issue de cette rencontre a été créé le groupe Pastorale Sacramentelle, remanié en
+1991 et qui sera alors appelé “Articulation Nationale du Dialogue Religieux et de
+l’Inculturation” (ANDRI). Les responsables de la pastorale des peuples indiens,
+anticipant les questionnements et réflexions qui seraient au centre du débat au
+début des années 1990, sont devenus les “interlocuteurs qualifiés” au sein de
+l’Église brésilienne et contribuèrent à l’inclusion de la théologie de l’inculturation
+dans l’agenda de la 5ème Conférence Épiscopale d’Amérique Latine (CELAM),
+qui s’est tenue en 1992 à Santo Domingo (Rufino, 2006).
+D’après David Lehmann (1996) et Michael Löwy (2000), les débats et les
+résolutions de Santo Domingo auront été, de fait, empreints de l’hégémonie
+croissante des groupes épiscopaux conservateurs alliés au Vatican. Les réflexions théologiques liées au concept d’inculturation proposé au cours de ce
+congrès tendent, par conséquent, à être conservatrices. Outre l’introduction des
+nouveaux concepts de culture et d’évangélisation, la diffusion de la théologie
+de l’inculturation, au sein de l’Église du continent latino-américain dans son
+ensemble, créait des conditions plus favorables à la politique du Vatican qui
+avait pour objectif de neutraliser la théologie de la libération dans cette région.
+Au début des années 1990, la proposition libératrice, qui dérangeait tant le
+Vatican, était supplantée par les défis dus à la crise du socialisme et au passage
+des mouvements sociaux de la sphère politique au milieu culturel. Tout cela
+
+294 Social Compass 55(3)
+
+contribua au rapprochement, toujours plus évident, entre les agents pastoraux
+de ce courant catholique et les réflexions de la théologie de l’inculturation qui
+offrait de nouveaux recours linguistiques et théoriques pour repenser un contexte historique en mutation.
+David Lehmann (1996) et Luiz Roberto Benedetti (1995) soutiennent qu’il
+n’y aurait pas eu “de glissement de discours” significatif de la part des théologiens de la libération qui se penchaient déjà sur la problématique des rencontres culturelles sans utiliser le concept d’inculturation. D’après Lehmann
+(1996), le fait que les théologiens des années 1980 donnent priorité à la thématique de l’inégalité économique ne doit pas être interprété comme un manque
+d’intérêt pour les questions culturelles. En fin de compte, en 1985, Gustavo
+Gutiérrez—reconnu comme le père de la théologie de la libération—s’est consacré à l’analyse des idées de Bartolomé de Las Casas dans sa thèse de doctorat
+et a critiqué la destruction de la culture locale américaine par les colonisateurs.
+La valorisation culturelle de “l’autre”, du “non chrétien” et la conception élargie du pauvre et de l’opprimé comme étant les “culturellement exclus” seraient
+des éléments qui rapprocheraient cet auteur de la théologie de l’inculturation.
+Pourtant, Lehmann (1996: 71) reconnaît que ce rapprochement est caractérisé
+par des tensions, que l’on peut noter dans les écrits de Gutiérrez où la culture
+des vaincus est considérée comme supérieure à celle des conquérants et où l’on
+relève une critique forte de la conception libérale et individualiste des droits de
+l’homme (Lehmann, 1996: 72).
+Benedetti (1995), quant à lui, met en avant la valorisation du syncrétisme
+et de la religiosité populaire—présents dans les travaux des théologiens de la
+libération au Brésil, tout comme ils l’étaient dans les écrits de Léonardo Boff et
+d’Eduardo Hoornaert à la fin des années 1970 et au début des années 19805—et
+souligne la rupture avec les modèles puristes, qui caractérisent la position officielle de l’Église Catholique et la plupart des institutions chrétiennes. D’après
+Benedetti, bien que les auteurs adoptent le terme de syncrétisme plutôt que celui
+d’inculturation, ils peuvent être considérés comme étant “de gauche”, adoptant des positions qui s’assimilaient au projet d’inculturation défendu dans les
+documents de travail de la CELAM de Santo Domingo, considérée comme politiquement à “droite”, c’est-à-dire conservatrice et peu attentive à la question de
+l’extension des droits sociaux.
+La lassitude conceptuelle de l’inculturation a, sans doute, permis que certains groupes ecclésiastiques, de diverses tendances doctrinaires, partagent un
+même ensemble d’outils, soit assimilé à la politique conservatrice du Vatican,
+soit associé à la théologie de la libération. Ce type de rapprochement avec les
+réflexions de la théologie de libération, dominantes au Brésil dans les années
+1970, peut être conçu comme une tendance critique par rapport à la pratique
+traditionnelle de l’Église Catholique, intégrant, dans ses discours, des analyses réalisées par les sciences sociales. Ces deux courants prêtent, tous deux,
+une attention particulière aux besoins des couches sociales les plus marginalisées, cherchant à élargir les espaces de l’institution pour inclure celles-ci
+et les écouter. Toutefois, alors que la théologie de la libération attribuait une
+importance plus grande à l’oppression politique et économique, la théologie de
+l’inculturation, quant à elle, se préoccupait davantage des relations d’inégalité
+instaurées par les rencontres interculturelles.
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 295
+
+Il est important de rappeler également que, bien que les discours de
+l’inculturation se distinguent de la théologie de libération, ceux-ci se développèrent d’emblée, au Brésil, au sein de courants catholiques ayant des liens
+solides avec la proposition libératrice. Comme Rufino (2006) l’a démontré,
+les concepteurs de la théologie de l’inculturation, rattachés au travail missionnaire auprès des peuples Indiens, partagèrent, pendant une certaine période, le
+langage du courant de la libération. C’est seulement à partir des années 1980
+qu’ils commencèrent à réfléchir, de manière plus systématique, aux limites de
+la catégorie des exclus, pour ensuite penser les asymétries produites par les
+différences culturelles.
+La 8ème Rencontre Interecclésiastique de Base, organisée à Santa Maria
+dans l’état du Rio Grande do Sul du 8 au 12 septembre 1992, est l’évènement
+qui a élargi le débat, au-delà des frontières de la pastorale au service des
+peuples Indiens. Elle s’est déroulée la même année que la rencontre de Santo
+Domingo; la problématique de l’inculturation a été incluse dans les débats des
+auxiliaires, des leaders et des participants des Communautés Écclésiastiques
+de Base (CEB).
+La thématique du “Peuple de Dieu renaissant des cultures opprimées”, traitée lors de cette rencontre, a représenté un moment-clé de l’histoire des interecclésiastiques. Faustino Teixeira (1999), dans son analyse sur la préparation de
+cette rencontre, commente: “Pour de nombreux participants, la focalisation des
+débats sur la thématique culturelle déviait l’attention à donner à la problématique essentielle de la lutte libératrice. Ce thème, à quelques rares exceptions
+près, ne faisait d’ailleurs pas partie de l’agenda des théologiens brésiliens”. Le
+débat autour de cette question lors de la rencontre des CEBs, explique l’auteur
+(Teixeira, 1999: 65),
+produisit un effet aux répercussions importantes sur la vie des communautés et sur leurs
+relations avec la grande Église. Si la thématique “foi et politique” provoquait, avant les
+années 1970 et au début des années 1980, des tensions et un certain malaise, aborder cette
+nouvelle question eut un impact encore plus explosif. L’émergence d’une réflexion qui
+privilégie la question de la culture, plus spécifiquement la culture religieuse, fait place aux
+énergies inaudibles ou étouffées. Il s’agit d’un thème qui émeut les personnes, provoquant
+de vives émotions, et suscite une réflexion sur la question de l’autoritarisme dans la vie
+ecclésiastique.
+
+Cette rencontre a été marquée par de fortes tensions lorsque l’on a empêché
+des leaders de religions indienne et afro-brésilienne (respectivement un pajé et
+un babalorixa) à partager la scène aux côtés de leaders des Églises catholiques
+et autres Églises chrétiennes, évêques et pasteurs, afin de représenter leur
+religion, et qu’il a été considéré que cette invitation “n’avait pas de raison
+d’être” (Teixeira, 1999: 65). Cette décision a été accompagnée de critiques et
+d’accusations de préjugés qui ont eu un impact sérieux, précédemment évoqué
+par Faustino Teixeira. Un débat important a débuté sur le thème de la catholicité des CEBs et de leur rencontre nationale, l’Interecclésiastique. La question
+du pouvoir, tout comme celle de l’identité religieuse et des domaines relevant
+de la compétence théologique, a alors été remise à l’ordre du jour. Les années
+qui suivirent ont été l’occasion de débats, dont l’analyse révéla l’existence de
+différents types de réactions relatives à ces dilemmes et questions.
+
+296 Social Compass 55(3)
+
+Détournements et préoccupations vis-à-vis de l’inculturation
+et de la théologie de la libération
+Bien qu’il existe de nombreuses nuances entre les différentes conceptions
+de l’inculturation, qui sont en dialogue constant avec le contexte historique
+auquel elles se rapportent et qui sont, de cette manière, revues et transformées, on peut identifier deux tendances qui délimitent le débat et les pratiques
+de ceux qui, au début des années 2000, se penchaient sur cette théologie au
+Brésil, dans une optique de “libération”.
+Une conception de l’inculturation bien délimitée est renforcée et l’on redouble d’efforts pour imposer des limites, ainsi qu’établir des paramètres encadrant les expériences d’inculturation. En ce sens, Barros (1999) et Miranda
+(2001b) cherchent à différencier la “véritable” inculturation des formes
+“déformées” ou “erronées” de l’évangélisation et attirent notre attention
+sur l’importance d’une distinction conceptuelle entre les mots: syncrétisme,
+acculturation et inculturation. D’après Miranda (2001b), les “spécificités théologiques” du dernier processus ne permettent pas de restreindre les
+expériences d’évangélisation au langage des sciences sociales. On ne peut
+donc pas interpréter l’inculturation comme étant “un simple syncrétisme”.
+Miranda (2001b: 120), par exemple, rejette et nie, de manière catégorique,
+l’utilité du concept de “syncrétisme” qui, d’après lui, devrait être banni du
+discours théologique, étant donné qu’
+… un syncrétisme erroné peut détourner le sens auquel des générations antérieures
+croyaient. La connotation négative et péjorative du terme est plus courante au sein du
+christianisme … le syncrétisme correct et orthodoxe est aujourd’hui appelé inculturation sans être empreint des lectures négatives du passé, comme c’est le cas du terme
+“syncrétisme”.
+
+Adoptant cette même réflexion, Barros (1999: 181–2), bien que cherchant
+à valoriser l’asymétrie du pouvoir et la dimension oppressive du syncrétisme,
+commente:
+Autrefois, les pères et pasteurs étaient beaucoup plus sévères avec ce que l’on appelle
+“syncrétisme” … Il existe, en effet, un type de syncrétisme qui se confond avec les croyances et n’aide point les personnes. Aucune autorité religieuse n’approuve ce type de
+“syncrétisme confus” … Aujourd’hui, nous sommes d’accord d’aller au-delà d’un “syncrétisme obligé” et de convenance qui est, par nature, superficiel.
+
+Konings (2001: 12) est également soucieux de distinguer la proposition
+d’inculturation des réflexions socio-anthropologiques engagées suite aux rencontres interculturelles, et plus précisément aux expériences d’acculturation.
+Pour ce théologien, l’acculturation constituerait “une adaptation de l’élément
+importé par l’élément récepteur” et, de ce fait, il est possible que lors du processus d’adaptation culturelle, le contenu principal du message chrétien ne
+soit pas assimilé. Dans le cas de “l’inculturation”, ce risque n’a pas lieu d’être,
+puisque cette expérience présuppose “l’assimilation de l’importé par celui qui
+l’accueille”. De plus, l’inculturation, d’après Konings (2001), n’implique pas
+l’imposition d’une culture sur une autre ou l’aliénation culturelle d’une des
+parties. Par conséquent, les principaux agents producteurs d’inculturation ne
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 297
+
+seraient pas des missionnaires ou des représentants hiérarchiques, mais ceux
+qui reçoivent le message chrétien; eux font effectivement de l’inculturation
+une nouvelle incarnation (Konings, 2001: 12). Comme on peut le vérifier, le
+théologien, dans son souci de délimiter les frontières entre théologie et sciences sociales, ne parvient pas à dissiper l’aspect utopique des propositions
+d’inculturation de son groupe.
+Le succès de l’inculturation, compris dans différents discours sur les “détournements” ou “déformations”, est également conditionné par les caractéristiques culturelles des groupes sociaux. Cela signifie qu’il existe des cultures
+qui sont moins permissives vis-à-vis du processus d’inculturation de la foi
+tandis que d’autres l’assimilent plus facilement. Parmi ces dernières, on peut
+citer les cultures des “exclus, socialement sans voix et à qui ‘ce n’est jamais le
+tour’”(Miranda, 2001: 32).
+Le concept d’“inculturation première”, présente chez Konings (2001), transmet l’idée d’une inculturation plus pure, paradigmatique, restaurant ainsi le
+mythe de l’authenticité et d’une supériorité culturelle par rapport aux autres
+cultures. Ceci apparaît clairement dans l’utilisation de ce concept par Ariovaldo
+Silva (2001: 194), pour qui les médias sont les ennemis du projet d’inculturation,
+étant donné qu’ils:
+peuvent renforcer le modèle de la liturgie médiévale et posttridentine, complètement
+étranger à l’“inculturation première”. Le résultat en est que la tentative de Concile Vatican
+II de retrouver le véritable esprit de la liturgie et de son inculturation dans nos communautés
+ecclésiastiques sera tragiquement remise en cause.
+
+La société contemporaine pose différents défis au projet d’inculturation et
+les médias sont, de manière générale, considérés comme l’un des principaux
+obstacles que les défenseurs de cette nouvelle forme d’évangélisation de la
+foi doivent surmonter; plus précisément, la transmission des grands évènements par les médias électroniques finit par éloigner les groupes sociaux de
+l’expérience d’inculturation que l’on prétend développer dans les sociétés
+latino-américaines.
+Le point de vue du prêtre catholique et sociologue Alberto Antoniazzi (1999)
+illustre bien le malaise présent dans plusieurs textes de théologiens catholiques
+au Brésil. Antoniazzi—qui décrit la culture contemporaine comme une “culture post-moderne, urbaine, internationale, fragmentée, à multiples facettes, pas
+nécessairement hostile à la religion, mais peu ouverte à l’essentiel de la religion
+chrétienne”—affirme que
+[d]ans un certain sens, il ne s’agit pas d’une culture supplémentaire. C’est une espèce
+d’“anticulture”, de par la critique radicale qu’elle fait de la tradition, de par la destruction
+des liens communautaires qu’elle provoque et de par l’extrême individualisme qu’elle suscite (Antoniazzi, 1999: 21).
+
+Les auxiliaires des CEBs, Penha Carpanedo et Marcelo Guimarães (1999: 149)
+partagent ce malaise et s’interrogent:
+Les références que nous avons dans le domaine de la communication avec les populations
+sont des références dont nous ne voulons pas, tout comme nous ne voulons pas celles de certains programmes issus de milieux de communication ou de mouvements appelés “spiritualisants”. Comment faire de la liturgie de masse qui ne soit ni “massificatrice”, ni stéréotypée?
+
+298 Social Compass 55(3)
+
+Le monde contemporain comme défi pour l’inculturation apparaît aussi chez
+Konings (2001: 24), qui se demande
+[c]omment inculturer l’esprit de l’homme de Galilée dans un monde de freaks, de hackers,
+dans un monde qui s’est transformé en une grande vitrine où tout est exposé, hors contexte,
+côte à côte? Voilà le grand défi de l’inculturation aujourd’hui.
+
+Le besoin de décentralisation et de dialogue
+Pour les sciences sociales, les questions relatives à l’inculturation reflètent
+l’existence de discordes autour d’un projet religieusement justifié et limité
+par le “marchandage cognitif ” (cognitive bargain), l’acculturation ou le syncrétisme. À ce sujet, les différentes religions n’auraient pas survécu si elles
+n’avaient pas souffert d’acculturations, de syncrétismes ou d’“inculturations”
+de quelque ordre que ce soit. Dans la majorité des cas, les agents sociaux impliqués n’avaient sans doute pas conscience qu’ils vivaient des processus de cette
+nature. Plusieurs religions rejettent probablement l’inculturation comme projet
+et défendent le maintien d’une tradition pure, orthodoxe, sans contact avec des
+cultures différentes. Cependant, toute expression religieuse est le résultat d’un
+type d’acculturation ou de syncrétisme, qu’il s’agisse du christianisme primitif,
+ou du catholicisme médiéval, ou encore de la Réforme, de Concile Vatican II,
+du pentecôtisme ou du renouveau charismatique.
+Bien que les distinctions entre inculturation, syncrétisme et acculturation soient importantes au sein des discours théologiques, elles n’ont toutefois pas de
+sens dans le discours sociologique ou anthropologique, dans la mesure où ces
+disciplines ne disposeraient pas de critères leur permettant d’affirmer s’il y a
+“erreur” ou s’il y a, au contraire, une réelle assimilation du message; auquel cas,
+il s’agirait de critères de vérité et de foi propres à la théologie. Pour les sciences
+sociales, l’inculturation est un type de syncrétisme ou d’acculturation limité et
+légitimé par des critères dictés par la foi ou par une utopie, ou plus précisément,
+par la “lecture” que les théologiens d’un contexte socio-culturel déterminé font
+de cette utopie. Comme ces critères de légitimation sont définis en se basant sur
+la lecture théologique réalisée par des leaders et des représentants hiérarchiques,
+l’inculturation dépendra nécessairement de ces groupes d’autorités religieuses
+ou d’agents religieux, contrairement à ce que pense Konings (2001), comme
+précédemment évoqué.
+D’un autre côté, l’anthropologue Marcos Pereira Rufino (2006: 273–4)
+défend la thèse que, dans la pastorale au service des peuples Indiens (CIMI), le
+débat portant sur l’inculturation aurait déjà beaucoup avancé, laissant derrière
+lui la phase “de l’incarnation de la mission”, que Konings défendrait, et aurait
+fait éclater la catégorie de l’inculturation, au nom d’une nouvelle utopie: la
+création des Églises indiennes. Cette proposition, qui valorise l’“inculturation
+du quotidien”, serait le résultat d’une radicalisation des positions et d’un souci
+d’éviter “la constitution d’un nouveau paradigme évangélisateur qui, entièrement consacré à la compréhension de la culture, propose à nouveau un prosélytisme évangélique, sous une forme plus ‘palpable’ à la sensibilité contemporaine
+au moyen de la technique anthropologique”. Le point central du “glissement
+discursif ” est la reprise du thème de la culture dominante, présente dans la
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 299
+
+théologie de la libération, mais à présent soucieuse de ne pas incorporer les
+différences culturelles dans les inégalités socio-économiques.
+Effectivement, si les options théologiques de Santo Domingo avaient
+l’intention de neutraliser les pastorales libératrices, celles-ci n’ont pas eu cet
+effet, tout au moins, immédiatement. Au contraire, elles ont offert une nouvelle
+perspective de l’inégalité et ont stimulé des réflexions plus importantes sur les
+sources de l’oppression et de l’inégalité.
+Comme nous l’avons déjà précisé, il existe, au sein de la pastorale brésilienne
+au service des Indiens, des positions divergentes lorsqu’il s’agit d’établir une
+hiérarchie entre les valeurs et les formes d’expression de foi des agents pastoraux et des peuples qui doivent être évangélisés. Lors du 3ème Séminaire
+National sur l’inculturation de la liturgie parmi les Peuples Indiens, qui s’est
+tenu en 2004, Paul Suess affirmait que
+[t]ravailler avec cette grande différence culturelle entre les peuples Indiens exige non seulement de diversifier les rites, mais également de décentraliser et de diversifier les ministères.
+La diversité des ministères de l’Église oblige à distinguer les ministères centrés sur
+l’inculturation microstructurelle (équipe de base) et les ministères qui donnent la priorité,
+par leur structure fonctionnelle, à une articulation plus ample (secrétariat national des pastorales; ministère épiscopal). Si l’Église déclare que la finalité de l’inculturation n’est pas
+de créer de nouveaux rites, mais d’adapter le Rite Romain pour qu’il soit compris par les
+peuples Indiens, alors il ne s’agit pas d’inculturation.6
+
+Paulo Suess (2004) ajoute que le projet d’inculturation exige que le missionnaire se “désinculture”, c’est-à-dire qu’il abandonne sa culture pour pouvoir
+comprendre l’autre. Une conséquence de cette expérience serait, d’après Paula
+Montero (2006), une plus grande ouverture œcuménique au sein de la pastorale
+au service des peuples Indiens. En ce sens, une réflexion stimulante vis-à-vis
+des défis posés par le projet d’inculturation dans la contemporanéité peut être
+repérée dans le texte de Faustino Teixeira (2001), qui suggère de centrer le
+débat sur le thème du respect de l’autre et de la différence et, de cette manière,
+d’ouvrir le dialogue non seulement œcuménique, mais également interreligieux.
+C’est seulement à partir d’une attitude d’écoute et de tentative de compréhension de l’autre — de sa culture et, par conséquent, de sa religion, en supposant
+que celle-ci puisse également être “porteuse de Révélation” — que pourrait
+s’ouvrir un espace pour les inculturations, qui ne constitueraient pas uniquement de simples stratégies de conversion et ne réaffirmeraient pas non plus
+l’existence d’ethnocentrismes ou de domination culturelle.
+Cette réflexion ne semble pas avoir été approfondie. La question de
+l’inculturation se fait moins présente dans les débats actuels des théologiens qui
+défendent un catholicisme socialement plus juste. Parmi ceux-ci, nous devons
+rappeler le cas exceptionnel des théologiens liés à la pastorale au service des
+Indiens et dont le débat a pourtant conduit, selon Rufino (2006), à l’implosion
+du concept d’inculturation lui-même, alors que dans les Directrices Générales
+de l’Action évangélisatrice de l’Église au Brésil de 2003 à 2006, la CNBB réaffirme l’importance de l’inculturation. Le terme sera également d’une importance considérable dans le document final de la 5ème Conférence Épiscopale de
+Aparecida en 2007 (Documento de Aparecida ou DA).
+Il est intéressant de noter que les références à l’inculturation sont absentes des
+discours des mouvements catholiques considérés comme étant plus spiritualistes
+
+300 Social Compass 55(3)
+
+et plus conservateurs, comme c’est le cas de la Rénovation Charismatique
+Catholique, qui a beaucoup de succès au Brésil (Theije and Mariz, 2008). Dans
+les documents et textes de la Rénovation charismatique, on ne mentionne pas
+l’inculturation, mais certaines recherches7 révèlent la grande capacité que ce
+mouvement possède, à travers le monde, à dialoguer avec la culture locale.
+Considérations finales
+À la fin du 20ème siècle, l’existence de conflits et les mouvements sociaux
+expriment, avant tout, une lutte pour la reconnaissance de la différence et
+pour le surpassement de la domination culturelle, beaucoup plus qu’une lutte
+pour l’acquisition de moyens matériels. Le manque de “reconnaissance” ou
+d’injustice, en termes culturels, serait vécu comme une expérience d’exclusion
+d’une culture étrangère ou de soumission à celle-ci. L’expérience d’individus ou
+de groupes contraints d’adopter les valeurs d’un groupe dominant qui les méprise
+ou les exclut générerait un sentiment d’oppression subjective qui encourage le
+militantisme dans les mouvements sociaux et politiques contemporains.
+Outre le droit à la liberté de croyances déjà existante dans la charte des Droits
+de l’homme, on lutte pour le droit à la promotion et à la préservation des cultures menacées ou méprisées par la modernité. On aspire non seulement à la
+liberté des croyances, mais également à la valorisation de ces croyances et
+d’expressions culturelles distinctes. Dans un contexte multiculturel, surgissent
+des tensions liées à des discriminations et des cas d’exclusion ou de pertes, dues
+à des spécificités culturelles. Au nom de l’égalité, on plaide alors pour un traitement différencié.
+Les critiques de la part de contemporains des dits “postcoloniaux” et
+l’autocritique occidentale en relation à l’impérialisme culturel et l’ethnocentrisme
+ont alimenté toute une discussion sur la nécessité d’obtenir non seulement des biens
+matériels, mais également la reconnaissance sociale de son identité. Les débats
+portant sur la nécessité de la défense des droits culturels touchent les groupes
+intellectuels chrétiens de l’Église catholique et de quelques Églises protestantes
+qui refondent leurs projets missionnaires. Le concept d’inculturation, conformément à ce qui a déjà été signalé, est le fruit de ce processus d’autocritique. Il
+exprime une démarche réflexive de chrétiens qui dialoguent avec les sciences
+sociales.
+Dans cet article, nous avons réfléchi sur quelques-unes des multiples questions que le projet d’inculturation chrétienne suscite. L’analyse des débats qui
+a lieu au Brésil, à partir de ce projet théologique, nous montre que, dans ce
+pays, la théologie de l’inculturation s’est intégrée au discours de la théologie
+de la libération. Le projet de mobilisation des catholiques, dans la lutte pour
+la récupération de la culture des groupes opprimés et pour la préservation
+de leurs identités culturelles, est inclus dans l’agenda des pastorales de la
+libération. Les défenseurs du projet de l’inculturation, en majorité, prêtent
+attention à ce que l’on nomme les “risques” de ce projet qui, en général,
+sont identifiés comme étant des détournements du message chrétien et des
+“syncrétismes erronés”. Du point de vue sociologique, il est important de
+souligner que celui qui détermine si une inculturation est légitime ou non se
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 301
+
+considère alors à un niveau non seulement théologiquement supérieur, mais
+également culturellement supérieur. Quand on cherche à évaluer si une forme
+d’inculturation est correcte ou erronée, on reproduit peut-être simplement des
+préjugés culturels, d’autres types, exprimés sous de nouvelles formes, mais
+qui continuent d’être des préjugés qui portent en eux une évaluation de supériorité implicite et peuvent provoquer l’émergence de nouveaux sujets culturellement “opprimés” et “exclus”. Les langages multiculturels, ainsi que
+ceux de l’inculturation et de l’échange, ne surmontent pas la question du pouvoir. Ils sont spécialement reliés aux projets qui nécessitent la légitimation de
+la hiérarchie institutionnelle.
+D’après l’analyse de l’anthropologue Marcos Pereira Rufino (2006: 271),
+le grand défi des penseurs de cette théologie réside dans l’articulation entre
+le “respect de l’altérité culturelle et la propagation de l’essentiel du message
+chrétien, à la condition que cette articulation ne soit pas en soi une contradiction en ses propres termes”. Ce dilemme a conduit certains théologiens
+d’orientation libératrice à interpréter que l’inculturation exige un dialogue
+entre la diversité religieuse et les réflexions sur l’Église catholique face à la
+pluralité (Teixeira, 2001). Par rapport à cette argumentation, et, conformément
+à ce qui a déjà été souligné, le débat sur l’inculturation aurait alors résulté,
+parmi certains catholiques de la libération, parmi eux le Conseil CIMI, en une
+plus grande ouverture à “l’autre”, pour le comprendre et non pas le juger.
+NOTES
+1.
+Pedro Arrupe (né en Espagne en 1907 et décédé en Italie en 1991) a été Supérieur
+Général des Jésuites de 1965 à 1983; il est considéré comme étant le rénovateur de la
+Compagnie de Jésus, inspiré par le Concile Vatican II.
+2.
+Au Brésil, nous pouvons, entre autres, citer Pierre Sanchis (2001) dans son étude sur
+la pratique et le discours des Agents de la Pastorale Noire (Agentes de Pastoral Negra
+(APN)) et Melvina Araújo (2000 et 2007) pour sa recherche sur l’action missionnaire
+chez les Indiens.
+3.
+Benedetti (1995: 56) affirme que le syncrétisme “est ‘redouté’ à gauche parce qu’il
+est synonyme de domination et de soumission dans les relations coloniales”. Ce concept
+est également “redouté” à droite: il remet en cause la pureté de la vérité unique et objective. Le syncrétisme est “reconsidéré et récupéré” à gauche par Hoornaert (1978) et Boff
+(1982) à travers le concept d’inculturation. Il est “reconsidéré et récupéré” à droite:
+l’inculturation est perçue comme le processus d’implantation d’une culture chrétienne
+(idée présente dans le Document de Travail de Santo Domingo).
+4.
+Créé en 1972, le CIMI est rattaché à la Conférence Nationale des Évêques du Brésil
+(CNBB). Dès sa fondation, cet organisme a donné la priorité à la lutte pour le droit à la
+diversité culturelle des peuples indiens.
+5.
+Benedetti (1995) se réfère aux livres d’E. Hoornaert (1978) de L. Boff (1982).
+6.
+Voir http://www.cimi.org.br/?system=news&amp;amp;action=read&amp;amp;id=1697&amp;amp;eid=372, consultation du 4 février 2008.
+7.
+Des cas empiriques de syncrétismes et d’acculturations, qui ont eu lieu au sein de
+groupes de la RCC, sont nombreux dans les recherches réalisées dans diverses localités,
+comme le montre Csordas (2007). Au Brésil, les rapports de recherche, tel que celui de
+Steil (2004), en décrivent le processus parmi les charismatiques.
+
+302 Social Compass 55(3)
+
+RÉFÉRENCES
+Antoniazzi, Alberto (1999) “Das ‘missões estrangeiras’ à evangelização global,
+inculturada e ecumênica”, in Costanzo Donegana (ed.) Terceiro Milênio: O desafio
+missionário, pp. 7–54. São Paulo: Ed. Ave-Maria.
+Araújo, Melvina (2007) “A produção de textos sobre os Macuxi pelos missionários da
+Consolata”, Jornadas sobre Alternativas Religiosas en América Latina, Religiones/
+Culturas 14: CD.
+Araújo, Melvina (2000) “A Igreja Católica e a diversidade cultural”, Jornadas sobre
+Alternativas Religiosas en América Latina, Sociedad y Religión en el tercer milenio
+10: CD.
+Arrupe, Pedro (1985) Écrits pour Évangéliser. Paris: DDB.
+Barros, Marcelo (1999) “O mundo exclui, Deus manda incluir: as CEBs e sua vocação
+para o diálogo”, in Secretariado de CEBs para o 10º (ed.) Intereclesial, CEBs:Povo de
+Deus, 2000 anos de cidadania. Texto-base, pp. 178–211. Paulo Afonso: Fonte Viva.
+Benedetti, Luiz Roberto (1995) “As abordagens sobre sincretismo”, in Ervino Schmidt
+and Walter Altman (eds) Inculturação e Sincretismo, pp. 47–56. São Leopoldo:
+IEPG/CONIC.
+Boff, Léonardo (1982) Igreja Carisma e Poder. Petrópolis: Vozes.
+Carpanedo, Penha and Guimarães, Marcelo (1999) “Comunidades que celebram—Um
+jeito novo de celebrar”, in Secretariado de CEBs para o 10º (ed.) Intereclesial, CEBs:
+Povo de Deus, 2000 anos de cidadania. Texto-base, pp. 131–51. Paulo Afonso: Fonte
+Viva.
+CNBB (Conferência Nacional dos Bispos do Brasil) (2003) Diretrizes Gerais da Ação
+Evangelizadora da Igreja no Brasil 2003–2006, Texto aprovado na 41ª. Assembléia
+Geral, Itaici, São Paulo.
+Csordas, Thomas (2007) “Global Religion and the Re-Enchantment of the World: The
+Case of the Catholic Charismatic Renewal”, Antropological Theory 7(3): 295–314.
+Fraser, Nancy (1998) “From Redistribution to Recognition? Dilemmas of Justice in a
+Post-Socialist Age”, in Cynthia Willet (ed.) Theorizing Multiculturalism: A Guide to
+the Current Debate, pp. 19–49. London: Blackwell.
+Freyre, Gilberto (1933) Casa Grande e Senzala. Rio de Janeiro: Maia e Schmidt.
+Frisotti, Heitor (1995) “O que para alguns é Sincretismo?”, in Ervino Schmidt and
+Walter Altman (eds) Inculturação e Sincretismo, pp. 57–68. São Leopoldo: IEPG and
+CONIC.
+Hoornaert, Eduardo (1978) Formação do Catolicismo Brasileiro 1550–1800. Petrópolis:
+Vozes.
+Konings, Johan (2001) “Inculturação da fé no Novo Testamento”, in Sinivaldo Tavares
+(ed.) Inculturação da Fé, pp. 70–82. Petrópolis: Vozes.
+Lehmann, David (1996) Struggle for the Spirit Religious Transformation and Popular
+Culture in Brazil an Latin America. Cambridge: Polity Press.
+Löwy, Michael (2000) A Guerra dos Deuses: Religião e Política na América Latina.
+Petrópolis: Vozes.
+Mary, André (2000) Le bricolage africain des héros chrétiens. Paris: Cerf.
+Miranda, Mário F. (2001a) “Uma inculturação privilegiada da fé”, in Sinivaldo Tavares
+(ed.) Inculturação da Fé, pp. 25–43. Petrópolis: Vozes.
+Miranda, Mário F. (2001b) Inculturação da fé: uma abordagem teológica. São Paulo:
+Ed. Loyola.
+Montero, Paula (2006) “Indios e Missionários no Brasil: para uma teoria da mediação
+cultural”, in Paula Montero (ed.) Deus na Aldeia—missionários, índios e mediação
+cultural, pp. 235–75. São Paulo: Ed. Globo.
+Ortiz, Renato (1978) A morte branca do feiticeiro negro. Petrópolis: Vozes.
+Parker, Cristián (1996) Religião Popular e Modernizaçao capitalista. Petrópolis: Vozes.
+
+Mariz &amp;amp; Machado: Inculturation et catholicisme bresilien 303
+Rufino, Marcos Pereira (2006) “O código da cultura: o CIMI no debate da inculturação”,
+in Paula Montero (ed.) Deus na Aldeia—missionários, índios e mediação cultural,
+pp. 235–75. São Paulo: Ed. Globo.
+Sanchis, Pierre (2001) “Culto e cultura, liturgia e afirmação étnica: a vivência da ‘missa
+afro’ no Brasil”, in Pierre Sanchis (ed.) Fiéis e Cidadãos, pp. 147–80. Rio de Janeiro:
+Ed. UERJ.
+Silva, José Ariovaldo da (2001) “Inculturação e liturgia no Brasil: desafios e perspectivas”, in Sinivaldo Tavares (ed.) Inculturação da Fé, pp. 95–108. Petrópolis: Vozes.
+Steil, Carlos (2004) “Renovação Carismática Católica: porta de entrada ou de saída do
+catolicismo? Uma etnografia do Grupo São José em Porto Alegre (RS)”, Religião e
+Sociedade 24(1): 11–36.
+Suess, Paulo (2004) “Inculturação e Liturgia”, in CIMI (ed.) Relatório do 3º Seminário
+Nacional sobre Inculturação da Liturgia no Meio dos Povos Indígenas, 05/03/2004,
+http://www.cimi.org.br/?system=news&amp;amp;action=read&amp;amp;id=1697&amp;amp;eid=372 (04/02/08)
+Teixeira, Faustino (2001) “Inculturação da fé e pluralismo religioso”, in Sinivaldo Tavares (ed.) Inculturação da Fé, pp. 82–94. Petrópolis: Vozes.
+Teixeira, Faustino (1999) “A caminhada das CEBs nos Encontros Intereclesiais”, in
+Secretariado de CEBs para o 10º (ed.) Intereclesial, CEBs:Povo de Deus, 2000 anos
+de cidadania. Texto-base, pp. 45–73. Paulo Afonso: Fonte Viva.
+Theije, Marjo and Mariz, Cecília L. (2008) “Localizing and Globalizing Processes in
+Brazilian Catholicism: Comparing Inculturation in Liberationist and Charismatic
+Catholic Cultures”, Latin American Research Review 43: 33–54.
+Cecília LORETO MARIZ a obtenu son doctorat en Sociologie à l’Université
+de Boston. Depuis 1994, elle est professeure à l’Université d’État de Rio
+de Janeiro (UERJ). Auteure du livre Coping with Poverty. Pentecostals and
+Base Communities in Brazil Base Communities in Brazil (1994, Temple
+University Press) et de plusieurs articles sur les religions au Brésil, elle
+est aussi l’une des organisatrices (avec C. Steil et M. Reesink) de la collection Maria entre os vivos (2003, UFRGS). ADRESSE: Rua Cesário
+Alvim 55/403, Bloco B, CEP: 22261–030, Rio de Janeiro, Brésil. [email:
+cemariz@alternex.com.br]
+Maria das Dores CAMPOS MACHADO est docteure en Sociologie de
+l’Institut Universitaire de Recherche dé Rio de Janeiro (IUPERJ). Elle est
+actuellement professeure à l’Université Fédérale de Rio de Janeiro. Elle
+est l’auteure des livres: Política e Religião (2006, FGV), Carismáticos e
+Pentecostais: Adesão religiosa e seus efeitos na esfera familiar (1996, Ed.
+Autores Associados/ANPOCS). Elle a également participé à l’organisation
+de la collection Os Votos de Deus (2006, Recife, Massangana). ADRESSE:
+Rua Professor Manuel Ferreira 155/104, CEP: 22451–030, Rio de Janeiro,
+Brésil. [email: mddcm@ess.ufrj.br]
+
+</p>
+         </div>
+      </body>
+      <back>
+         <note>
+            <p>
+               <list type="order">
+                  <item>
+                     <p>1. Pedro Arrupe (né en Espagne en 1907 et décédé en Italie en 1991) a été Supérieur Général des Jésuites de 1965 à 1983; il est considéré comme étant le rénovateur de la Compagnie de Jésus, inspiré par le Concile Vatican II.</p>
+                  </item>
+                  <item>
+                     <p>2. Au Brésil, nous pouvons, entre autres, citer Pierre Sanchis (2001) dans son étude sur la pratique et le discours des Agents de la Pastorale Noire (Agentes de Pastoral Negra (APN)) et Melvina Araújo (2000 et 2007) pour sa recherche sur l'action missionnaire chez les Indiens.</p>
+                  </item>
+                  <item>
+                     <p>3. Benedetti (1995: 56) affirme que le syncrétisme “est `redouté' à gauche parce qu'il est synonyme de domination et de soumission dans les relations coloniales”. Ce concept est également “redouté” à droite: il remet en cause la pureté de la vérité unique et objective. Le syncrétisme est “reconsidéré et récupéré” à gauche par Hoornaert (1978) et Boff (1982) à travers le concept d'inculturation. Il est “reconsidéré et récupéré” à droite: l'inculturation est perçue comme le processus d'implantation d'une culture chrétienne (idée présente dans le Document de Travail de Santo Domingo).</p>
+                  </item>
+                  <item>
+                     <p>4. Créé en 1972, le CIMI est rattaché à la Conférence Nationale des Évêques du Brésil (CNBB). Dès sa fondation, cet organisme a donné la priorité à la lutte pour le droit à la diversité culturelle des peuples indiens.</p>
+                  </item>
+                  <item>
+                     <p>5. Benedetti (1995) se réfère aux livres d'E. Hoornaert (1978) de L. Boff (1982).</p>
+                  </item>
+                  <item>
+                     <p>6. Voir http://www.cimi.org.br/?system=news&amp;action=read&amp;id=1697&amp;eid=372, consultation du 4 février 2008.</p>
+                  </item>
+                  <item>
+                     <p>7. Des cas empiriques de syncrétismes et d'acculturations, qui ont eu lieu au sein de groupes de la RCC, sont nombreux dans les recherches réalisées dans diverses localités, comme le montre Csordas (2007). Au Brésil, les rapports de recherche, tel que celui de Steil (2004), en décrivent le processus parmi les charismatiques.</p>
+                  </item>
+               </list>
+            </p>
+         </note>
+         <div type="references">
+            <listBibl>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">"Das `missões estrangeiras' à evangelização global, inculturada e ecumênica"</title>
+                     <title level="m">Terceiro Milênio: O desafio missionário</title>
+                     <author>
+                        <persName>
+                           <surname>Antoniazzi, Alberto</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Costanzo Donegana</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Antoniazzi, Alberto</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Costanzo Donegana</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <pubPlace>São Paulo</pubPlace>
+                        <publisher>Ed. Ave-Maria</publisher>
+                        <biblScope unit="page" from="7">7</biblScope>
+                        <biblScope unit="page" to="54">54</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">A produção de textos sobre os Macuxi pelos missionários da Consolata</title>
+                     <author>
+                        <persName>
+                           <surname>Araújo, Melvina</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Jornadas sobre Alternativas Religiosas en América Latina, Religiones/ Culturas</title>
+                     <author>
+                        <persName>
+                           <surname>Araújo, Melvina</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Araújo, Melvina (2007) "A produção de textos sobre os Macuxi pelos missionários da Consolata", Jornadas sobre Alternativas Religiosas en América Latina, Religiones/ Culturas 14: CD.</note>
+                     <imprint>
+                        <date type="year">2007</date>
+                        <biblScope unit="vol">14</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">A Igreja Católica e a diversidade cultural</title>
+                     <author>
+                        <persName>
+                           <surname>Araújo, Melvina</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Jornadas sobre Alternativas Religiosas en América Latina, Sociedad y Religión en el tercer milenio</title>
+                     <author>
+                        <persName>
+                           <surname>Araújo, Melvina</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Araújo, Melvina (2000) "A Igreja Católica e a diversidade cultural", Jornadas sobre Alternativas Religiosas en América Latina, Sociedad y Religión en el tercer milenio 10: CD.</note>
+                     <imprint>
+                        <date type="year">2000</date>
+                        <biblScope unit="vol">10</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Écrits pour Évangéliser</title>
+                     <author>
+                        <persName>
+                           <surname>Arrupe, Pedro</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Arrupe, Pedro</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1985</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>DDB</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">O mundo exclui, Deus manda incluir: as CEBs e sua vocação para o diálogo</title>
+                     <title level="m">Intereclesial, CEBs:Povo de Deus, 2000 anos de cidadania. Texto-base</title>
+                     <author>
+                        <persName>
+                           <surname>Barros, Marcelo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Barros, Marcelo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <pubPlace>Paulo Afonso</pubPlace>
+                        <publisher>Fonte Viva</publisher>
+                        <biblScope unit="page" from="178">178</biblScope>
+                        <biblScope unit="page" to="211">211</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">As abordagens sobre sincretismo</title>
+                     <title level="m">Inculturação e Sincretismo</title>
+                     <author>
+                        <persName>
+                           <surname>Benedetti, Luiz Roberto</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Ervino Schmidt</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Walter Altman</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Benedetti, Luiz Roberto</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Ervino Schmidt</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Walter Altman</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1995</date>
+                        <pubPlace>São Leopoldo</pubPlace>
+                        <publisher>IEPG</publisher>
+                        <publisher>CONIC</publisher>
+                        <biblScope unit="page" from="47">47</biblScope>
+                        <biblScope unit="page" to="56">56</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Igreja Carisma e Poder</title>
+                     <author>
+                        <persName>
+                           <surname>Boff, Léonardo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Boff, Léonardo</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1982</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Comunidades que celebram-Um jeito novo de celebrar</title>
+                     <title level="m">Intereclesial, CEBs: Povo de Deus, 2000 anos de cidadania. Texto-base</title>
+                     <author>
+                        <persName>
+                           <surname>Carpanedo, Penha</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Guimarães, Marcelo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Carpanedo, Penha</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Guimarães, Marcelo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <pubPlace>Paulo Afonso</pubPlace>
+                        <publisher>Fonte Viva</publisher>
+                        <biblScope unit="page" from="131">131</biblScope>
+                        <biblScope unit="page" to="51">51</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Diretrizes Gerais da Ação Evangelizadora da Igreja no Brasil 2003-2006, Texto aprovado na 41a</title>
+                     <author>
+                        <persName>
+                           <surname>CNBB (Conferência Nacional dos Bispos do Brasil)</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>CNBB (Conferência Nacional dos Bispos do Brasil)</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2003</date>
+                        <pubPlace>São Paulo</pubPlace>
+                        <publisher>Assembléia Geral, Itaici</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">Global Religion and the Re-Enchantment of the World: The Case of the Catholic Charismatic Renewal</title>
+                     <author>
+                        <persName>
+                           <surname>Csordas, Thomas</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Antropological Theory</title>
+                     <author>
+                        <persName>
+                           <surname>Csordas, Thomas</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Csordas, Thomas (2007) "Global Religion and the Re-Enchantment of the World: The Case of the Catholic Charismatic Renewal", Antropological Theory 7(3): 295-314.</note>
+                     <imprint>
+                        <date type="year">2007</date>
+                        <biblScope unit="vol">7</biblScope>
+                        <biblScope unit="issue">3</biblScope>
+                        <biblScope unit="page" from="295">295</biblScope>
+                        <biblScope unit="page" to="314">314</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">From Redistribution to Recognition? Dilemmas of Justice in a Post-Socialist Age</title>
+                     <title level="m">Theorizing Multiculturalism: A Guide to the Current Debate</title>
+                     <author>
+                        <persName>
+                           <surname>Fraser, Nancy</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Cynthia Willet</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Fraser, Nancy</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Cynthia Willet</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1998</date>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Blackwell</publisher>
+                        <biblScope unit="page" from="19">19</biblScope>
+                        <biblScope unit="page" to="49">49</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Casa Grande e Senzala</title>
+                     <author>
+                        <persName>
+                           <surname>Freyre, Gilberto</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Freyre, Gilberto</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1933</date>
+                        <pubPlace>Rio de Janeiro</pubPlace>
+                        <publisher>Maia e Schmidt</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">O que para alguns é Sincretismo?</title>
+                     <title level="m">Inculturação e Sincretismo</title>
+                     <author>
+                        <persName>
+                           <surname>Frisotti, Heitor</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Ervino Schmidt</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Walter Altman</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Frisotti, Heitor</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Ervino Schmidt</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Walter Altman</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1995</date>
+                        <pubPlace>São Leopoldo</pubPlace>
+                        <publisher>IEPG and CONIC</publisher>
+                        <biblScope unit="page" from="57">57</biblScope>
+                        <biblScope unit="page" to="68">68</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Formação do Catolicismo Brasileiro 1550-1800</title>
+                     <author>
+                        <persName>
+                           <surname>Hoornaert, Eduardo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Hoornaert, Eduardo</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1978</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Inculturação da fé no Novo Testamento</title>
+                     <title level="m">Inculturação da Fé</title>
+                     <author>
+                        <persName>
+                           <surname>Konings, Johan</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Konings, Johan</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                        <biblScope unit="page" from="70">70</biblScope>
+                        <biblScope unit="page" to="82">82</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Struggle for the Spirit Religious Transformation and Popular Culture in Brazil an Latin America</title>
+                     <author>
+                        <persName>
+                           <surname>Lehmann, David</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Lehmann, David</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <pubPlace>Cambridge</pubPlace>
+                        <publisher>Polity Press</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">A Guerra dos Deuses: Religião e Política na América Latina</title>
+                     <author>
+                        <persName>
+                           <surname>Löwy, Michael</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Löwy, Michael</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2000</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le bricolage africain des héros chrétiens</title>
+                     <author>
+                        <persName>
+                           <surname>Mary, André</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Mary, André</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2000</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Cerf</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Uma inculturação privilegiada da fé</title>
+                     <title level="m">Inculturação da Fé</title>
+                     <author>
+                        <persName>
+                           <surname>Miranda, Mário F.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Miranda, Mário F.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                        <biblScope unit="page" from="25">25</biblScope>
+                        <biblScope unit="page" to="43">43</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Inculturação da fé: uma abordagem teológica</title>
+                     <author>
+                        <persName>
+                           <surname>Miranda, Mário F.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Miranda, Mário F.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>São Paulo</pubPlace>
+                        <publisher>Ed. Loyola</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Indios e Missionários no Brasil: para uma teoria da mediação cultural</title>
+                     <title level="m">Deus na Aldeia-missionários, índios e mediação cultural</title>
+                     <author>
+                        <persName>
+                           <surname>Montero, Paula</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Paula Montero</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Montero, Paula</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Paula Montero</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2006</date>
+                        <pubPlace>São Paulo</pubPlace>
+                        <publisher>Ed. Globo</publisher>
+                        <biblScope unit="page" from="235">235</biblScope>
+                        <biblScope unit="page" to="75">75</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">A morte branca do feiticeiro negro</title>
+                     <author>
+                        <persName>
+                           <surname>Ortiz, Renato</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Ortiz, Renato</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1978</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Religião Popular e Modernizaçao capitalista</title>
+                     <author>
+                        <persName>
+                           <surname>Parker, Cristián</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Parker, Cristián</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">O código da cultura: o CIMI no debate da inculturação</title>
+                     <title level="m">Deus na Aldeia-missionários, índios e mediação cultural</title>
+                     <author>
+                        <persName>
+                           <surname>Rufino, Marcos Pereira</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Paula Montero</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rufino, Marcos Pereira</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Paula Montero</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2006</date>
+                        <pubPlace>São Paulo</pubPlace>
+                        <publisher>Ed. Globo</publisher>
+                        <biblScope unit="page" from="235">235</biblScope>
+                        <biblScope unit="page" to="75">75</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Culto e cultura, liturgia e afirmação étnica: a vivência da `missa afro' no Brasil</title>
+                     <title level="m">Fiéis e Cidadãos</title>
+                     <author>
+                        <persName>
+                           <surname>Sanchis, Pierre</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Pierre Sanchis</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sanchis, Pierre</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Pierre Sanchis</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Rio de Janeiro</pubPlace>
+                        <publisher>Ed. UERJ</publisher>
+                        <biblScope unit="page" from="147">147</biblScope>
+                        <biblScope unit="page" to="80">80</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Inculturação e liturgia no Brasil: desafios e perspectivas</title>
+                     <title level="m">Inculturação da Fé</title>
+                     <author>
+                        <persName>
+                           <surname>Silva, José Ariovaldo da</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Silva, José Ariovaldo da</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                        <biblScope unit="page" from="95">95</biblScope>
+                        <biblScope unit="page" to="108">108</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">Renovação Carismática Católica: porta de entrada ou de saída do catolicismo? Uma etnografia do Grupo São José em Porto Alegre (RS)</title>
+                     <author>
+                        <persName>
+                           <surname>Steil, Carlos</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Religião e Sociedade</title>
+                     <author>
+                        <persName>
+                           <surname>Steil, Carlos</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Steil, Carlos (2004) "Renovação Carismática Católica: porta de entrada ou de saída do catolicismo? Uma etnografia do Grupo São José em Porto Alegre (RS)", Religião e Sociedade 24(1): 11-36.</note>
+                     <imprint>
+                        <date type="year">2004</date>
+                        <biblScope unit="vol">24</biblScope>
+                        <biblScope unit="issue">1</biblScope>
+                        <biblScope unit="page" from="11">11</biblScope>
+                        <biblScope unit="page" to="36">36</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Inculturação e Liturgia</title>
+                     <title level="m">Relatório do 3° Seminário Nacional sobre Inculturação da Liturgia no Meio dos Povos Indígenas, 05/03/2004</title>
+                     <idno type="url">http://www.cimi.org.br/?system=news&amp;action=read&amp;id=1697&amp;eid=372</idno>
+                     <author>
+                        <persName>
+                           <surname>Suess, Paulo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Cimi</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Suess, Paulo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Cimi</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2004</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Inculturação da fé e pluralismo religioso</title>
+                     <title level="m">Inculturação da Fé</title>
+                     <author>
+                        <persName>
+                           <surname>Teixeira, Faustino</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Teixeira, Faustino</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sinivaldo Tavares</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Petrópolis</pubPlace>
+                        <publisher>Vozes</publisher>
+                        <biblScope unit="page" from="82">82</biblScope>
+                        <biblScope unit="page" to="94">94</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">A caminhada das CEBs nos Encontros Intereclesiais</title>
+                     <title level="m">Intereclesial, CEBs:Povo de Deus, 2000 anos de cidadania. Texto-base</title>
+                     <author>
+                        <persName>
+                           <surname>Teixeira, Faustino</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Teixeira, Faustino</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Secretariado de CEBs para o 10°</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <pubPlace>Paulo Afonso</pubPlace>
+                        <publisher>Fonte Viva</publisher>
+                        <biblScope unit="page" from="45">45</biblScope>
+                        <biblScope unit="page" to="73">73</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">Localizing and Globalizing Processes in Brazilian Catholicism: Comparing Inculturation in Liberationist and Charismatic Catholic Cultures</title>
+                     <author>
+                        <persName>
+                           <surname>Theije, Marjo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Mariz, Cecília L.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Latin American Research Review</title>
+                     <author>
+                        <persName>
+                           <surname>Theije, Marjo</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Mariz, Cecília L.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Theije, Marjo and Mariz, Cecília L. (2008) "Localizing and Globalizing Processes in Brazilian Catholicism: Comparing Inculturation in Liberationist and Charismatic Catholic Cultures", Latin American Research Review 43: 33-54.</note>
+                     <imprint>
+                        <date type="year">2008</date>
+                        <biblScope unit="vol">43</biblScope>
+                        <biblScope unit="page" from="33">33</biblScope>
+                        <biblScope unit="page" to="54">54</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

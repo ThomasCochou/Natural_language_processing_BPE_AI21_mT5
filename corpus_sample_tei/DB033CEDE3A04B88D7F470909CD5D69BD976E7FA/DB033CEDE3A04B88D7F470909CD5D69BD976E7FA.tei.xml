@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La critique néokantienne de Kant et l’instauration d’une théorie conceptualiste de la perception</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La critique néokantienne de Kant et l’instauration d’une théorie conceptualiste de la perception</title><author xml:id="author-0000"><persName><forename type="first">Arnaud</forename><surname>Dewalque</surname></persName><affiliation>Université de Liège</affiliation></author><idno type="istex">DB033CEDE3A04B88D7F470909CD5D69BD976E7FA</idno><idno type="ark">ark:/67375/6GQ-5C8KXXMZ-4</idno><idno type="DOI">10.1017/S0012217310000557</idno><idno type="PII">S0012217310000557</idno><idno type="article-id">00055</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-09"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="413">413</biblScope><biblScope unit="page" to="433">433</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : L’objectif de cet article est de contribuer à l’exploration de l’arrière-plan historique du conceptualisme contemporain. Il suggère qu’un pas en avant peut être fait en direction d’une compréhension plus prometteuse de cet arrière-plan historique si nous portons notre attention, non pas sur la position ambiguë et controversée de Kant, mais sur la position non ambiguë de certains représentants du néokantisme classique. L’hypothèse défendue ici est que les critiques de l’esthétique transcendantale formulées par les néokantiens Paul Natorp (1854–1924) et Bruno Bauch (1877–1942) peuvent être considérées comme une source historique importante de ce que l’on appelle aujourd’hui le «content conceptualism» (en particulier dans la version qu’en a donnée McDowell), dans la mesure où elles impliquent directement l’idée que les contenus de la perception sont des contenus conceptuels.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT : This paper contributes to explor the historical background of contemporary conceptualism. It suggests that a step forward toward a more promising understanding of this historical background can be made if we focus, not on the much-discussed, controversial position of Kant, but rather on the straightforward position of some main representatives of classical neo-Kantianism. My main hypothesis is that criticisms of Kant’s transcendantal aesthetics coming from Paul Natorp (1854–1924) and Bruno Bauch (1877–1942) may be regarded as a significant historical source for the so-called “content” conceptualism (especially in McDowell’s version), insofar as they imply that the contents of perception are conceptual contents.</p></abstract></profileDesc><revisionDesc><change when="2010-09">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La critique néokantienne de Kant et
+l’instauration d’une théorie
+conceptualiste de la perception
+
+ARNAUD DEWALQUE
+
+Université de Liège
+
+RÉSUMÉ : L’objectif de cet article est de contribuer à l’exploration de l’arrièreplan historique du conceptualisme contemporain. Il suggère qu’un pas en avant
+peut être fait en direction d’une compréhension plus prometteuse de cet arrièreplan historique si nous portons notre attention, non pas sur la position ambiguë et
+controversée de Kant, mais sur la position non ambiguë de certains représentants
+du néokantisme classique. L’hypothèse défendue ici est que les critiques de
+l’esthétique transcendantale formulées par les néokantiens Paul Natorp (1854–
+1924) et Bruno Bauch (1877–1942) peuvent être considérées comme une source
+historique importante de ce que l’on appelle aujourd’hui le «content conceptualism»
+(en particulier dans la version qu’en a donnée McDowell), dans la mesure où elles
+impliquent directement l’idée que les contenus de la perception sont des contenus
+conceptuels.
+ABSTRACT : This paper contributes to explor the historical background of contemporary conceptualism. It suggests that a step forward toward a more promising
+understanding of this historical background can be made if we focus, not on the
+much-discussed, controversial position of Kant, but rather on the straightforward
+position of some main representatives of classical neo-Kantianism. My main
+hypothesis is that criticisms of Kant’s transcendantal aesthetics coming from Paul
+Natorp (1854–1924) and Bruno Bauch (1877–1942) may be regarded as a signiﬁcant historical source for the so-called “content” conceptualism (especially in
+McDowell’s version), insofar as they imply that the contents of perception are
+conceptual contents.
+Dialogue 49 (2010), 413–433.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000557
+
+414
+
+Dialogue
+
+1. Le conceptualisme et son arrière-plan historique
+Dans la philosophie de l’esprit contemporaine, le conceptualisme désigne fondamentalement une certaine conception philosophique d’après laquelle la
+manière dont un individu se représente le monde dépend des concepts qu’il a à
+sa disposition. Selon une terminologie assez largement répandue aujourd’hui,
+l’on pourrait encore formuler l’idée centrale du conceptualisme en disant que
+les capacités représentationnelles d’un individu dépendent de ses capacités
+conceptuelles ou sont équivalentes à elles. Plus simplement, les conceptualistes soutiennent qu’il n’y a pas de représentation sans concepts. Le nonconceptualisme est la conception opposée.
+En dépit de sa complexité et de ses multiples ramiﬁcations, la controverse
+qui oppose, depuis plusieurs années déjà, les non-conceptualistes (Bermúdez,
+Crane, Dretske, Heck, Kelly, Peacocke, Roskies, Tye, etc.) aux conceptualistes (McDowell, Brewer, Bengson et d’autres) est relativement bien connue.
+Je me bornerai ici à rappeler l’essentiel. Cette controverse s’est essentiellement développée sur le terrain de la théorie de la perception. On fait habituellement remonter son origine à l’ouvrage de Gareth Evans, The Varieties of
+Reference, où se trouve introduite la distinction cardinale entre contenu conceptuel et contenu non conceptuel. Selon Evans, la perception produit chez le
+sujet percevant un certain genre d’état mental — ou, comme dit Evans (1982,
+p. 123), un certain genre d’«état informationnel» — qui doit être qualiﬁé de
+«non conceptuel» ou de «non conceptualisé» pour cette raison que son contenu (à savoir la manière dont le monde est représenté à travers cet état mental) est lui-même un contenu non conceptuel (Evans, 1982, p. 227). Dans
+Mind and World, McDowell s’est notablement opposé à cette manière de voir
+et a soutenu que le contenu de la perception est de nature conceptuelle
+(McDowell, 1996, p. 3 sq.; trad. fr., p. 36 sq.). La divergence la plus manifeste
+entre les deux conceptions tient peut-être à la manière de penser l’articulation
+entre perception et jugement empirique. Pour Evans, perception et jugement
+sont des états informationnels différents qui se distinguent précisément par la
+nature de leur contenu : la perception nous fournit des contenus mentaux non
+conceptuels, alors que tout jugement implique une conceptualisation, c’est-àdire le passage d’«un genre d’état informationnel (avec contenu non conceptuel)» à «un autre genre d’état informationnel (avec contenu conceptuel)»
+(Evans, 1982, p. 227). Pour McDowell, en revanche, le passage de la perception au jugement n’implique aucune conceptualisation, puisque le contenu
+perceptuel est d’emblée conceptuel. Le jugement est simplement une prise de
+position judicative lors de laquelle le sujet jugeant assume le contenu conceptuel délivré dans la perception. «Avec un jugement d’expérience», écrit
+McDowell, «on n’introduit pas un nouveau type de contenu; on se contente
+d’assumer [endorse] le contenu conceptuel, ou une partie de ce contenu, qui
+se trouve de toute façon déjà dans l’expérience fondatrice de ce jugement»
+(McDowell, 1996, p. 48–49).
+
+Kant et la théorie conceptualiste 415
+
+Certaines subtilités mises à part, on peut sans doute considérer que la controverse qui oppose conceptualistes et non-conceptualistes dérive en droite
+ligne de l’opposition entre McDowell et Evans, telle que je viens de la retracer
+sommairement. Le débat s’est toutefois profondément complexiﬁé ces
+dernières années, notamment depuis que Richard Heck (2000) y a appliqué la
+distinction entre le point de vue du contenu et le point de vue de l’état mental.
+Conformément à ces deux points de vues, il y a lieu de distinguer deux variétés
+de conceptualisme et, corrélativement, deux variétés de non-conceptualisme.
+Grosso modo, la thèse conceptualiste relative à l’état mental (= «state conceptualism») stipule que la condition sine qua non pour que je puisse percevoir un
+objet a — c’est-à-dire être dans un état mental perceptuel à propos de a — est
+que je possède certains concepts me permettant de déterminer a dans un jugement de la forme «a est F». Le conceptualisme relatif au contenu (= «content
+conceptualism») stipule qu’un contenu de perception est au moins partiellement conceptuel. Bref, le slogan conceptualiste suggéré plus haut, «pas de
+représentation sans concept», peut être compris soit comme énonçant une contrainte portant sur nos états mentaux, lorsque le terme «représentation» est
+entendu au sens d’un acte ou d’un état mental déterminé (le fait de se
+représenter/percevoir), soit comme énonçant une contrainte portant sur les
+contenus de nos états mentaux, lorsque le mot «représentation» est entendu au
+sens d’un contenu de représentation (ce qui est représenté/perçu). Par conceptualisme au sens large, on entend alors la conjonction de ces deux types de
+contraintes dans le cas d’une expérience perceptuelle1.
+Par contraste avec cette forme large de conceptualisme, les réﬂexions suivantes se focaliseront exclusivement sur l’acception «contentuelle» du conceptualisme, soit sur l’idée que le contenu d’une perception est de nature
+conceptuelle ou — ce qui revient au même — est de même genre que le contenu d’un jugement. Pour l’essentiel, c’est précisément cette acception qui est
+au centre des mises au point récentes concernant l’arrière-plan historique du
+conceptualisme. Ces mises au point se sont tout naturellement centrées sur la
+référence à Kant, qui joue, comme on sait, un rôle central chez McDowell.
+Selon ce dernier, la réceptivité kantienne n’est pas une instance fournissant des
+contenus «vierges» auxquels ou sur lesquels s’appliqueraient nos concepts;
+elle est plutôt ce dans quoi s’exercent nos capacités conceptuelles. Autrement
+dit, celles-ci sont simplement «mises à l’œuvre» (drawn into operation) au
+sein même de nos «impressions» (McDowell, 1996, p. 22; trad. fr., p. 55). Pour
+autant que l’on puisse lui attribuer cette idée, Kant apparaît ainsi comme le
+précurseur par excellence du conceptualisme relatif aux contenus de la perception (content conceptualism). Cependant, la position de Kant est sans doute
+beaucoup plus complexe que ne le suggère McDowell. Selon Robert Hanna, la
+théorie kantienne de l’intuition peut en fait être considérée comme «l’origine
+historique cachée des deux camps du débat contemporain entre conceptualistes
+et non-conceptualistes», dans la mesure où une lecture alternative, non conceptualiste, est également compatible avec le texte de la Critique de la raison pure
+
+416
+
+Dialogue
+
+(Hanna, 2005, p. 251). D’autres commentateurs, de leur côté, s’opposent à
+cette idée et défendent une certaine lecture conceptualiste de Kant. C’est le cas,
+tout récemment, de Aaron Grifﬁth, qui soutient que la notion kantienne
+d’intuition empirique n’implique certes aucun «conceptualisme fort», au sens
+où la perception ne requiert pas l’application de concepts empiriques comme
+«chien», «maison», etc., mais implique malgré tout un «conceptualisme plus
+faible», au sens où la perception requiert l’application de catégories (Grifﬁth,
+2010, p. 2 et 6). Je ne discuterai pas la pertinence de ces lectures. Laissant ouverte la question controversée du (non-)conceptualisme de Kant, je voudrais
+seulement suggérer que l’on pourrait obtenir une compréhension plus prometteuse de l’arrière-plan historique du «content conceptualism» en situant
+son origine, non pas chez Kant lui-même, mais dans la critique néokantienne
+de l’esthétique transcendantale.
+Par critique néokantienne, j’entends ici la critique apparue dans ce que l’on
+considère aujourd’hui comme les deux grandes écoles du néokantisme «classique» : l’école de Marbourg, dont les principaux représentants sont Cohen,
+Natorp et Cassirer, et l’école de Bade, représentée notamment par Windelband,
+Rickert, Lask, Cohn et Bauch. La formulation la plus célèbre de cette critique
+réside sans doute dans la thèse du primat de la logique sur l’esthétique. Cette
+thèse est défendue exemplairement, dans l’école de Marbourg, par Paul Natorp
+et, dans l’école de Bade, par Bruno Bauch — ce dernier étant l’auteur d’un très
+important Kant-Buch malheureusement largement tombé dans l’oubli2. Selon
+ces deux auteurs, la théorie de l’intuition ne peut pas précéder mais seulement
+suivre l’étude des «fonctions pures de la pensée» (Natorp, 1929, p. 55), ou
+encore : «L’esthétique transcendantale ne peut être comprise qu’à partir de la
+logique transcendantale» (Bauch, 1923a, p. 110). Bauch parle explicitement,
+en ce sens, d’une «priorité systématique» (systematischen Vorzug) de
+l’analytique transcendantale sur l’esthétique transcendantale (Bauch, 1911,
+p. 61). Mon objectif est de montrer que ce qui est en jeu, derrière ces formules
+quelque peu énigmatiques, ce n’est rien d’autre que l’instauration de quelque
+chose comme une théorie conceptualiste des contenus de perception. En anticipant un peu, on peut dire en effet que la thèse du primat de la logique sur
+l’esthétique revient à soutenir qu’il n’y a jamais d’«intuition aveugle» au sens
+de Kant (Bauch, 1923b, p. 267), qu’il n’y a jamais de perception sans concept
+ou, tout simplement, que nous ne faisons jamais l’expérience d’un «voir non
+conceptuel». Je tâcherai aussi de montrer que l’on trouve préﬁgurée, chez Natorp et chez Bauch, l’idée — centrale chez McDowell (1996, §4) — selon
+laquelle c’est «dans» (in) la réceptivité, et non «sur» (on) elle, que s’exerceraient
+nos capacités conceptuelles.
+Je commencerai par quelques remarques préliminaires destinées à rappeler
+l’orientation générale et la cible de la critique néokantienne de l’esthétique
+transcendantale (section suivante). Je mettrai ensuite en évidence le principe
+général de cette critique, à savoir l’idée que la distinction entre contenu intuitif
+et forme de pensée ne désigne pas une séparation réelle, mais est le résultat
+
+Kant et la théorie conceptualiste 417
+
+d’un processus d’abstraction qui doit être dépassé (section 3). J’examineraialors de façon plus détaillée, aux sections 4 et 5, le développement de cette thèse
+chez Natorp et chez Bauch, de façon à montrer que, chez l’un comme chez
+l’autre, elle aboutit à une théorie conceptualiste des contenus de perception.
+2. Prélude : les grandes lignes de l’exégèse néokantienne
+Avant d’examiner la critique néokantienne de l’esthétique transcendantale de
+Kant, il est peut-être bon de rappeler explicitement que les néokantiens n’ont
+jamais eu la prétention de mettre sur pied une interprétation orthodoxe de Kant.
+Du côté des Marbourgeois, la fameuse conférence prononcée par Natorp en
+1912, sous le titre Kant et l’école de Marbourg, est particulièrement claire à ce
+sujet. Ce qui anime les membres de l’école, par-delà un quelconque «retour à
+Kant», c’est bien la volonté de réviser la doctrine kantienne en la soumettant à
+ce qu’ils considèrent être des «corrections nécessaires» (Natorp, 1912, p. 4;
+trad. fr., p. 41). Du côté de l’école de Bade, Windelband a exprimé un point de
+vue similaire dans les Préludes, qui s’ouvraient sur son célèbre slogan : «Comprendre Kant, c’est le dépasser» (Windelband, 1924, t. 1, p. iv). Toute la question, à ses yeux, est alors précisément de savoir «comment nous devons
+comprendre vraiment Kant pour le dépasser» (p. 148). Cette approche a encore
+été reprise par Bruno Bauch. Dans son Kant-Buch, Bauch s’est donné pour
+objectif de séparer ce qui, chez Kant, possédait une «valeur pérenne»
+(bleibende Wert) et ce qui, à l’inverse, exigeait un «dépassement nécessaire»
+(notwendige Überwindung); l’exégèse historique s’y trouve, selon sa propre
+expression, «au service de l’idéalisme critique» (Bauch, 1929, p. 26).
+L’intention des néokantiens est donc bien de corriger Kant au nom du programme critique lui-même, en adoptant la stratégie qui consiste assez largement à corriger la lettre du texte kantien conformément à l’esprit du criticisme.
+Maintenant, sur quoi portent les corrections néokantiennes? Qu’en est-il,
+plus exactement, de l’esthétique transcendantale? Deux points au moins
+semblent difﬁcilement conciliables, aux yeux des néokantiens, avec l’esprit du
+projet critique.
+1) D’abord, la séparation des deux «souches» (Stämmen) ou des deux
+«sources» (Quellen) de la connaissance : sensibilité et entendement. Cette
+séparation est essentiellement évoquée à deux reprises dans la Critique de la
+raison pure, à savoir à la ﬁn de l’introduction (KrV, A 15/B 293) et au début de
+la logique transcendantale (ibid. A 50/B 74). Comme on sait, cette théorie,
+d’une portée énorme (voir Höffe, 2004, p. 81 sq.), se fonde sur l’idée que toute
+connaissance provient nécessairement d’une «coopération» de la sensibilité et
+de l’entendement. Ainsi, de même que Kant soutient explicitement, au début
+de l’esthétique transcendantale, que toute pensée «doit ﬁnalement se rapporter
+à des intuitions», pour la raison que seule l’intuition peut nous «donner» un
+objet (KrV, B 33), il afﬁrme aussi, au début de la logique transcendantale,
+que la connaissance ne peut résulter que de l’«union» ou de l’«uniﬁcation»
+(Vereinigung) de la sensibilité et de l’entendement (B 75–76).
+
+418
+
+Dialogue
+
+2) Ensuite, ce qui est en cause, c’est aussi la déﬁnition kantienne de la sensibilité en termes d’«affection» (Afﬁzieren). La sensibilité, pour Kant, est «la
+capacité (réceptivité) à avoir des représentations par la manière dont nous
+sommes affectés par des objets» (B 33), «la réceptivité de notre esprit [Gemüt]
+consistant à recevoir des représentations, pour autant qu’il soit affecté d’une
+quelconque manière» (B 75). Une telle déﬁnition, qui du reste se trouvait déjà
+mot pour mot au §3 de la Dissertation de 1770 4, a non seulement une forte
+résonance psychologique, puisqu’elle présente la sensibilité comme une faculté psychique distincte de l’entendement (qui est, de son côté, la faculté de
+produire des représentations), mais elle suggère en outre que la sensibilité serait quelque chose qui nous mettrait en contact avec des objets extérieurs, selon
+un modèle causaliste provenant de l’empirisme classique : les choses — et plus
+exactement les «choses en soi» — seraient donc la cause de nos sensations.
+Ces deux points ont fait l’objet de vives critiques, notamment de la part de
+Bruno Bauch. D’une part, Bauch s’en est pris à la manière dont Kant, dans sa
+doctrine du schématisme, a tenté de rendre compte de l’uniﬁcation de la sensibilité et de l’entendement au moyen du schème conçu comme «troisième
+terme» entre intuition et concept. Pour des raisons qui vont apparaître bientôt,
+la doctrine du schématisme n’est rien d’autre, pour Bauch, qu’une tentative
+manquée consistant à «supprimer [aufheben] l’isolement artiﬁciel [des prétendues “deux sources”] par une soudure artiﬁcielle» (Bauch, 1923a, p. 239). À
+moins d’être corrigée, elle échouerait donc à prendre en charge le problème de
+l’uniﬁcation de la sensibilité et de l’entendement. Elle rassemblerait à la fois
+les idées «les plus précieuses» et «les plus erronées» de Kant; c’est pourquoi la
+doctrine médiatrice du schématisme doit faire, estime Bauch, l’objet de «fortes
+réserves» et d’«objections justiﬁées» (Bauch, 1923b, p. 270–271). D’autre
+part, la déﬁnition de la sensibilité en termes de réceptivité et d’affection est elle
+aussi jugée inacceptable dans la mesure où le concept d’affection renvoie à une
+chose en soi qui serait la cause de nos représentations — ce qui ne serait au
+fond qu’un résidu de la théorie causaliste des empiristes classiques. Si la
+«question cardinale» de Kant consiste à avoir demandé «sur quoi repose et en
+quoi consiste la relation de la connaissance à l’objet» — selon la paraphrase
+que Windelband (1950, p. 462) donne de la célèbre lettre à Marcus Hertz du 21
+février 1772 —, il faut ajouter, selon Bauch, que l’«erreur cardinale» (Kardinalfehler) de Kant tient à sa tentative de fonder le rapport à l’objet en recourant à ce
+qui reste malgré tout un certain type d’«objets», à savoir aux choses en soi
+(Bauch, 1923c, p. 32). Contre la doctrine des choses en soi, Bauch fait ainsi valoir
+le principe de la fondation critique selon lequel les conditions de possibilité de
+l’objet (ou, comme on dirait plutôt, de la référence à l’objet, de la Gegenstandsbezogenheit) ne peuvent pas être à leur tour des objets (ibid.).
+Ces critiques sont, me semble-t-il, tout à fait exemplaires de la position
+néokantienne classique, et sufﬁsent à en tracer provisoirement les contours.
+Disons, pour simpliﬁer, que la plupart des Marbourgeois et des Heidelbergiens
+entendent renoncer à une théorie médiatrice du schématisme (accentuée, à
+
+Kant et la théorie conceptualiste 419
+
+l’inverse, par Martin Heidegger) et à une théorie réaliste de l’affection (admise, par exemple, par Alois Riehl).
+3. La lecture néokantienne de KrV, B 75
+Selon ce qui précède, l’enjeu de la critique néokantienne de l’esthétique transcendantale se réduit en dernière analyse à une question simple : comment
+procéder à l’uniﬁcation de la sensibilité et de l’entendement réclamée par
+Kant? On sait déjà que la réponse n’est pas à chercher du côté d’une conception médiatrice du schématisme comme celle de Heidegger. Mais, d’un autre
+côté, la solution néokantienne ne consiste pas non plus à renoncer purement et
+simplement à la dualité sensibilité-entendement, car cela signiﬁerait renoncer
+à l’un des acquis les plus importants du criticisme. Il s’agit plutôt, en
+l’occurrence, de maintenir la dualité tout en repensant le statut de la distinction
+entre contenu intuitif et forme de pensée5.
+Le point d’achoppement de la plupart des interprétations de Kant, sur ce
+point, réside dans le célèbre passage de la Critique de la raison pure selon
+lequel «des pensées sans contenu sont vides; des intuitions sans concept sont
+aveugles» (B 75). Pour le problème qui nous occupe, la question est : que dit
+ici Kant à propos des intuitions sans concept, c’est-à-dire — si l’on accepte le
+rapprochement — à propos des contenus non conceptuels? Robert Hannah
+(2005, p. 247) évoque trois réponses possibles :
+(i) Les intuitions sans concept n’existent pas (= «the full-strength version
+of conceptualism»).
+(ii) Les intuitions sans concept existent mais sont dépourvues de sens,
+c’est-à-dire n’assument aucune mission représentationnelle (= «a
+weakened version of conceptualism»).
+(iii) Les intuitions sans concept existent et sont pourvues de sens mais leur
+sens est non conceptuel (= «non-conceptualism»).
+Le conceptualisme le plus inﬂuent à l’heure actuelle, écrit Hanna, est le «fullstrength conceptualism» qui est représenté exemplairement par McDowell
+dans Mind and World et, avec quelques variantes, par Bill Brewer. Comme je
+vais tâcher de le montrer à présent, la plupart des néokantiens assument également (i), à l’exception peut-être d’Emil Lask qui assume (ii).
+Même si l’on s’en tient à l’école de Bade, on dénombre au moins quatre
+réécritures de B 75 dues à Cohn, Rickert, Lask et — comme on le verra plus
+tard dans la section 5 — Bauch.
+1) La réécriture proposée par Cohn s’inscrit dans le cadre de sa théorie du
+jugement. Pour qu’un jugement soit évident, soutient Cohn, il faut qu’il renferme une «forme de pensée» (Denkform) et un contenu qui porte le «caractère-de-donné» (Gegebenheit). La dualité forme-contenu est essentielle à la
+théorie du jugement, car «il n’y a pas de jugement dont l’évidence n’aurait pas
+pour parties constitutives la Gegebenheit et la forme de pensée» (Cohn, 1908,
+
+420
+
+Dialogue
+
+p. 117). Le contenu ou matériau sensible est donc bien une condition de la connaissance au même titre que la forme de pensée, mais il reste en tant que tel
+«étranger à la pensée» (denkfremd).
+2) Ce thème de la Denkfremdheit a été repris et développé par Lask dans sa
+théorie des catégories ou des formes catégorielles, c’est-à-dire sur un terrain
+censément plus profond que la théorie du jugement (laquelle ne reçoit qu’une
+place secondaire dans la systématique laskienne). Le matériau sensible est déﬁni
+chez lui comme ce qui est «étranger à la signiﬁcation» (Bedeutungsfremd) —
+ce qui veut dire aussi : «étranger à la valeur et à la validité» (Wert- und
+Geltungsfremd) (Lask, 1910, p. 53; trad. fr., p. 76)6. La connaissance repose
+sur un phénomène logique fondamental — antérieur même au jugement — que
+Lask décrit comme le fait, pour le matériau sensible, d’être «touché» (betroffen),
+«embrassé» (umgriffen) ou «cerné» (umschlossen) par une forme valante. De
+même que l’intuition sans concept était dite «aveugle» chez Kant, le matériau
+sensible, considéré isolément, i.e. sans la forme valante, est ici «logiquement
+nu». L’analogon de la formule kantienne, conclut Lask, pourrait donc être
+formulé comme suit : «La forme sans contenu est vide, le contenu sans forme
+est nu [nackt]» (Lask, 1910, p. 74; trad. fr., p. 94).
+3) Rickert, de son côté, a également développé l’idée que toute connaissance
+repose ultimement sur la dualité forme-contenu. Dans certains de ses cours
+inédits dont on a conservé des notes manuscrites, il propose à son tour une
+troisième réécriture du passage de Kant :
+Un contenu sans forme ne donne aucun sens, car le contenu par soi se trouve en dehors de la sphère logique des valeurs. Il est totalement alogique, donc «aveugle».
+Des formes sans contenu ne donnent certes pas non plus de «sens» susceptible d’être
+vrai ou faux, mais c’est pour une tout autre raison. Elles se trouvent entièrement dans
+la sphère du logique (Rickert, FI, feuillet no 145).
+
+Quelque différentes qu’elles soient, ces trois réécritures du principe kantien
+réafﬁrment clairement la dualité irréductible des conditions de la connaissance
+ou de l’expérience. Cela étant dit, le problème véritable, comme je l’ai suggéré, est moins la dualité elle-même que le statut qu’on lui reconnaît. Toute
+connaissance provient certes de deux sources, mais la question litigieuse est de
+savoir si l’on peut rencontrer, dans l’expérience concrète, un matériau «étranger
+à la pensée» ou «étranger à la signiﬁcation» — bref, un contenu non conceptuel. Lask mis à part (voir Krijnen, 2007, p. 123), les néokantiens répondent
+quasi unanimement par la négative. Considéré isolément, le matériau sensible
+est certes étranger à la pensée, extra-logique. Mais c’est précisément le sens de
+la «clause d’isolement» qui est en cause ici. Le procédé adopté par Kant et
+consistant à «isoler» (KrV, A 22/B 36) l’un de l’autre sensibilité et entendement, ainsi que formes et contenu, n’est rien d’autre, aux yeux des néokantiens, qu’un mode de considération abstrait auquel ne correspond aucune
+séparation réelle. L’isolement a un sens méthodique et non ontique. En clair,
+
+Kant et la théorie conceptualiste 421
+
+l’idée d’un matériau sensible étranger à la pensée apparaît comme le résultat
+d’une abstraction ou d’une considération abstractive. Cela signiﬁe que l’on ne
+fait jamais l’expérience d’un matériau alogique. Le concept de matériau
+alogique, encore une fois, est une simple abstraction vide, une ﬁction théorique.
+Cette thèse est exemplairement défendue par Windelband et Rickert. Dans
+les termes de Windelband, «seule la pensée abstractive [abstrahierende Denken] peut séparer l’un de l’autre la forme et le contenu» (Windelband, 1913,
+p. 15). La même idée est encore exprimée par Rickert au moyen d’une caractérisation que l’on qualiﬁerait volontiers, aujourd’hui, de méréologique : forme
+et contenu ne sont jamais des objets en tant que tels, ce ne sont pas non plus des
+parties ontiques indépendantes, qui pourraient se rencontrer séparément, mais
+ce sont des parties dépendantes, c’est-à-dire des «moments à même l’objet»
+(Momente am Gegenstand) ou des «pré-objets» (Vor-Gegenstände; Rickert,
+1924, p. 15). Bref, on ne trouve jamais, dans l’expérience, de matériau sensible
+alogique, dépourvu de signiﬁcation ou — ce qui est manifestement ici la même
+chose — de charge conceptuelle.
+Ce sont probablement Natorp et Bauch qui, chacun de leur côté, ont développé cette idée de la façon la plus profonde et la plus détaillée. Je voudrais
+montrer à présent qu’ils n’en ont pas seulement fait le principe de leur critique
+de l’esthétique transcendantale, mais qu’ils en ont également tiré une théorie
+conceptualiste de la perception qui anticipe le «full-strength conceptualism»
+contemporain.
+4. Le conceptualisme de Natorp
+Dans Les Fondements logiques des sciences exactes, Natorp revient sur le problème de l’uniﬁcation sensibilité-entendement. Il évoque l’alternative suivante
+(Natorp, 1910, p. 48) :
+a) soit intuition sensible et pensée sont des facteurs étrangers l’un à l’autre,
+et dans ce cas il est nécessaire de postuler un troisième terme pour les
+réunir (la fameuse «racine inconnue» évoquée par Kant en B 29);
+b) soit on met l’uniﬁcation au compte de la pensée elle-même et dans ce
+cas on renonce à faire de l’intuition un facteur étranger à la pensée, et
+on met l’intuition, la perception, le donné, etc., au compte de la pensée
+elle-même.
+La première option, grosso modo, est celle qui sera suivie plus tard par Heidegger et qui conduit à développer le thème de l’imagination et du schématisme; la seconde — qui seule m’intéresse ici — est celle adoptée par Natorp
+et la plupart des néokantiens classiques. Elle consiste à soutenir que l’intuition,
+une fois écartée toute abstraction déformante et considérée in concreto, n’est
+justement pas un «facteur étranger à la pensée» (denkfremde Faktor); elle n’est
+pas hétérogène à la fonction de la pensée, écrit Natorp, car elle n’est rien
+d’autre que «la fonction elle-même dans son exercice, en train de s’accomplir»
+
+422
+
+Dialogue
+
+(die Funktion selbst in ihrer Ausübung, im Vollzug; Natorp, 1912, p. 12; trad.
+fr. p. 50, modiﬁée) — ce qui revient manifestement à dire, comme le fait
+aujourd’hui McDowell (1996, §4), que nos capacités conceptuelles s’exercent
+dans la réceptivité et non pas sur elle. Dans cette optique, la connaissance —
+qui était chez Kant le résultat d’une coopération de la sensibilité et de la
+pensée — ne devient elle-même rien d’autre que l’«accomplissement de la
+pensée» (die Vollendung des Denkens; Natorp, 1904, p. 4).
+On trouve chez Natorp deux types d’arguments en faveur de cette conception,
+qui permettent du même coup d’en clariﬁer le sens et d’en préciser la portée.
+1) Le premier type d’argument consiste à renvoyer la position adverse du
+côté d’une métaphysique précritique. L’exigence est de ne rien admettre
+d’étranger à la pensée, car ce serait construire la connaissance «de l’extérieur»
+(von aussen), ce qui signiﬁerait en ﬁn de compte une «retombée dans un métaphysicisme» (Rückfall in einen Metaphysizismus) (Natorp, 1912, p. 9–10; trad.
+fr., p. 47). Du point de vue des néokantiens, il convient justement de défendre
+ce que Windelband appelle lui-même un certain «anti-métaphysicisme» (Antimetaphysizismus; Windelband, 1924, t. 1, p. 148). La référence à un objet qui
+serait sans être pensé, la référence à un pur donné qui serait extérieur à la pensée, n’a absolument aucun sens pour Natorp et ne serait ﬁnalement qu’un «jeux
+vide avec des mots», car «on ne peut absolument pas demander de façon sensée [mit Sinn] ce que serait ce qui n’est pas pensé, ce qui n’est pas connu, avant
+qu’il soit pensé ou connu. Il n’y a pour la pensée aucun être qui ne soit pas posé
+dans la pensée elle-même» (Natorp, 1910, p. 48–49). Bref, toute référence à un
+objet suppose une détermination par la pensée, aussi minimale soit-elle.
+2) Le second type d’argument est propre à Natorp et prend pour cible
+l’«absolutisme» de l’empirisme classique. À première vue, concèdera-t-on,
+rien ne semble plus éloigné de l’empirisme et d’une véritable théorie de
+l’expérience que l’«idéalisme transcendantal» des marbourgeois. Que l’on
+puisse justement qualiﬁer leur idéalisme d’«absolu», c’est ce que suggère
+l’injonction cohénienne apparemment très radicale selon laquelle il convient
+d’abandonner le «préjugé de l’être-donné» (Cohen, 2005, p. 28). Cela dit, Natorp défend une position plus modérée et s’est explicitement prononcé contre
+le caractère absolutiste attribué à l’idéalisme transcendantal. Retournant
+l’argument, il a suggéré au contraire que l’absolutisme se trouvait plutôt, en
+l’occurrence, du côté de l’empirisme classique, dans la mesure où celui-ci voit
+dans l’expérience une source de data absolus. Or, la théorie de l’intuition
+comme «pensée en exercice» aboutit, selon Natorp, au résultat exactement inverse : l’expérience n’offre aucune donnée absolue, aucune position déﬁnitive;
+elle n’est elle-même constituée que par des «positions hypothétiques» (hypothetische Setzungen; Natorp, 1912, p. 14; trad. fr. p. 52, modiﬁée). Le recours
+à la notion d’hypothèse, dans l’esprit de Natorp, signiﬁe que tout prétendu
+«fait» est le résultat de déterminations révisables, non déﬁnitives. De ce point
+de vue, Natorp n’hésite pas à afﬁrmer que sa théorie de l’expérience est le
+«véritable empirisme» (echte Empirismus, ibid.).
+
+Kant et la théorie conceptualiste 423
+
+Derrière la portée polémique évidente de cette afﬁrmation, on trouve,
+comme je l’ai suggéré, un nouvel argument qui, à mon sens, doit soigneusement être distingué du précédent. L’argument, en effet, ne tient plus seulement
+aux présuppositions métaphysiques de la théorie causaliste de l’affection et à
+l’absurdité qu’il y a (selon Natorp) à parler d’un objet qui ne serait pas pensé.
+Le problème de la théorie de l’expérience développée dans l’empirisme classique tient plutôt à l’incompatibilité entre l’idée d’un «fait donné» et la conception de la pensée comme un processus de détermination par principe inﬁni
+ou inachevable. Par déﬁnition, argumente Natorp, un fait est quelque chose de
+complètement et totalement déterminé. Or, une détermination complète est
+impossible à atteindre, puisque, en vertu de la conception processuelle défendue par Natorp, toute détermination est le résultat d’un processus de pensée
+inﬁni, inachevable. Donc, il est absurde de parler d’un fait comme quelque
+chose de «donné» : un fait n’est jamais donné (gegeben), mais seulement posé
+à l’horizon en tant que problème ou tâche à résoudre (aufgegeben). Par conséquent, conclut-il, la déﬁnition du fait comme détermination totale donnée
+«va à l’encontre de» (widerstreitet) la clause de l’inﬁnité et de l’«inachevabilité»
+(Unvollendbarkeit) du processus de connaissance (Natorp, 1904, p. 6). Pour
+lever la contradiction, il faudrait soit renoncer à la clause d’inachevabilité, soit
+renoncer à la clause de la Gegebenheit. Natorp, qui entend maintenir l’idée que
+la connaissance est une «tâche inﬁnie» (ewige Aufgabe), opte pour la seconde
+solution. L’idée d’une détermination complète devient donc un terminus ad
+quem par principe inatteignable. L’expérience est certes l’espace où s’accomplit
+la pensée, mais toujours à l’inﬁni, sans qu’aucune détermination déﬁnitive ne
+vienne mettre un terme au processus de connaissance. Nous ne pouvons que
+nous approcher, de façon asymptotique, de l’intuition, c’est-à-dire de la détermination complète de l’objet.
+Que retenir de ces développements? Deux choses essentiellement :
+1) D’abord, aux yeux de Natorp, Kant a tout à fait raison de distinguer la
+singularité de l’«intuition» et la généralité des «fonctions de la pensée» (Natorp, 1929, p. 54). Mais si l’on veut suivre la «tendance idéaliste fondamentale
+de sa théorie de l’expérience», alors il faut aller contre la lettre de la Critique
+de la raison pure et admettre que l’intuition n’est que l’«accomplissement»
+(Vollendung) ou la «réalisation» (Realisierung) de la pensée pure. Par conséquent, ce que Kant appelle «intuition» (Anschauung) ne désignerait nullement un manque de détermination, comme le suggère la théorie des deux
+sources, mais plutôt un excès de détermination, à savoir «la détermination dans
+laquelle rien ne reste indéterminé; donc de la pensée, la pensée dans laquelle
+rien ne reste impensé» (p. 55). Voilà la «rectiﬁcation» (Berichtigung, ibid.) de
+la doctrine kantienne qui permettrait, selon Natorp, de résoudre les difﬁcultés
+liées à l’uniﬁcation de la sensibilité et de l’entendement sans faire appel au
+schématisme ou à l’imagination à titre de «troisième terme plus profond».
+2) Ensuite, si l’on s’interroge sur le sens général de cette rectiﬁcation, on ne
+peut pas ne pas relever une très remarquable conséquence de cette théorie, à
+
+424
+
+Dialogue
+
+savoir que Natorp est conduit à défendre une théorie conceptualiste de la perception. En effet, si l’on suit la conception natorpienne, tout ce qui est perçu est
+aussi pensé, déterminé en tant qu’étant tel ou tel — du moins si la perception
+doit assumer une quelconque fonction dans la connaissance7. Si le fait même
+de percevoir peut être doté d’un caractère intentionnel ou référentiel exploitable dans la connaissance, donc si le recours à la perception peut élever une
+quelconque prétention à la validité (argument épistémologique), c’est uniquement parce que la perception est par elle-même la réalisation de constructions
+conceptuelles. Sans doute, percevoir et penser sont deux choses différentes.
+Mais il n’y a pas de perception sans pensée. Cette thèse conceptualiste signiﬁe
+au premier chef le rejet de tout contenu non conceptuel : il n’y a pas de contenu
+perceptuel qui ne soit pas déjà un contenu conceptuel. Percevoir, c’est déjà
+mobiliser ce que McDowell appelle nos capacités conceptuelles. Natorp
+souligne d’ailleurs explicitement que tout ce qui peut être allégué à titre de
+contenu ou de datum perceptuel est déjà conceptuel :
+Après que l’expérience s’est pour nous dissoute dans le processus de détermination
+inﬁni de la pensée, la perception devra subir le même sort, puisque la perception
+n’est qu’une expression plus étroite pour désigner l’expérience. Qu’est-ce qui distingue la perception de la simple détermination de pensée? Absolument rien de contentuel [Schlechterdings nichts Inhaltliches], car ce que nous pouvons aussi toujours
+énoncer en tant que contenu d’une perception donnée est, en tant que contenu énonciatif, nécessairement une détermination de pensée soumise aux lois de l’unité synthétique dans toute direction (Natorp, 1910, p. 95).
+
+L’expression «en tant que contenu énonciatif» ne doit pas tromper : l’idée de
+Natorp n’est pas que le contenu perceptuel est remplacé par un contenu conceptuel lorsque l’on passe de la perception au jugement empirique. C’est plutôt que
+le même contenu est offert dans la perception et disponible pour un énoncé judicatif possible. Ce que nous percevons, nous pouvons toujours aussi le prendre
+comme objet de jugement, sans pour autant avoir affaire à un nouveau contenu.
+Comme je l’ai évoqué plus haut, cette thèse préﬁgure largement, à mon avis,
+la position de McDowell dans la mesure où ce dernier soutient lui aussi
+l’identité du contenu dans la perception et dans le jugement. Toutefois, le fait
+d’annexer la perception à la pensée a une autre conséquence remarquable chez
+Natorp : la perception, étant intégralement composée de déterminations révisables, est elle-même hypothétique et révisable. En cas de doute sur l’objet
+perçu, c’est la cohérence des déterminations conceptuelles totales au sein
+même de la perception qui ﬁxe le sens de cette dernière, qui fait par exemple
+que ma perception s’avère être la perception d’un tronc d’arbre et non d’un
+homme. Contre l’«absolutisme» attribué à l’empirisme classique — ou contre
+ce que l’on appellerait aujourd’hui le «mythe du donné» — Natorp afﬁrme
+ainsi sans détour que la perception, comme la pensée, est quelque chose de
+processuel et d’hypothétique :
+
+Kant et la théorie conceptualiste 425
+Notre perception elle-même [Unser Wahrnehmen selbst] est une construction
+constante de connexions de pensées [ein beständiges Konstruieren gedanklicher
+Zusammenhänge], une tentative [consistant à poser] de possibles liaisons de déterminations de pensée, et le critère de réussite est l’unanimité [Einstimmigkeit] atteinte du
+tout; [c’est elle] qui décide, en cas de doute, ce qui était donné dans la perception
+(Natorp, 1904, p. 8).
+
+5. Le conceptualisme de Bauch
+Bien que Bruno Bauch ne partage pas totalement les thèses de Natorp8, sa
+relecture de l’esthétique transcendantale demeure très proche de la conception
+natorpienne et aboutit à un résultat largement comparable à celui esquissé cidessus. Natorp a lui-même souligné cette parenté dans sa recension critique du
+Kant-Buch de Bauch. Comme les Marbourgeois, remarque-t-il, Bauch considère que le dualisme des conditions de la connaissance n’est «pas tenable»
+(nicht haltbar) et a même, dans une certaine mesure, été «dépassé» (überwunden) par Kant lui-même (Natorp, 1918, p. 433). Pour Bauch comme pour moi,
+écrit encore Natorp (p. 437), le «défaut le plus profond du système kantien
+tient en ceci qu’il reste trop dans l’abstrait, qu’il cherche certes le concret, mais
+ne l’atteint pas complètement».
+Comment se présente donc la lecture de l’esthétique transcendantale forgée
+par Bauch? Quel statut y est-il accordé à la sensibilité? Et qu’en est-il, plus
+particulièrement, de la doctrine des deux sources de la connaissance et de la
+déﬁnition de la sensibilité? La première chose à noter est que les déclarations
+de Kant, selon Bauch, sont «franchement ﬂottantes» (recht schwankende;
+Bauch, 1923a, p. 471). D’un côté, avance Bauch, les expressions utilisées par
+Kant — «capacité» (Fähigkeit), «pouvoirs» (Vermögen), «sources de l’esprit»
+(Grundquelle des Gemüts), etc. — dénotent assurément des «déterminations
+psychologiques» (Bauch, 1923a, p. 147). Mais de l’autre, le fait même que
+Kant postule une racine psychologique plus profonde suggère, comme l’a remarqué Riehl, que la distinction entre sensibilité et entendement n’est pas
+«originairement» psychologique (Bauch, 1911, p. 60). Aussi l’enjeu est-il
+double aux yeux de Bauch.
+1) Il s’agit d’abord de comprendre la distinction sensiblité-entendement
+comme une «dualité logique» (logische Dualität), à savoir comme la séparation des «conditions transcendantales de la connaissance». Vue sous cet angle,
+la division psychologique des facultés est relative au «fait de la connaissance»
+et n’est qu’un «point de départ» destiné à être dépassé, car la critique ne porte
+pas sur la facticité du fait, sur l’existence et la genèse de la connaissance, mais
+bien sur sa «validité» (Geltung; Bauch, 1923a, p. 153). Kant lui-même a élaboré
+la distinction sensibilité-entendement «du point de vue de la validité objective»
+(ibid.) — même si, comme le remarque Rickert, la plus grande partie de la
+Critique de la raison pure est d’ordre «psychologico-transcendantal» et non
+d’ordre «logico-transcendantal» (Rickert, 1909, p. 227; trad. fr., p. 161)9.
+
+426
+
+Dialogue
+
+2) Il s’agit ensuite de soutenir que cette dualité logique, même purgée de
+toute connotation psychologique, ne représente pas encore le «dernier mot» de
+la critique de la raison, mais n’a qu’une valeur «méthodique», c’est-à-dire
+n’est qu’une étape provisoire dans l’élucidation des conditions de validité objective de la connaissance (Bauch, 1923a, p. 147–148). Le célèbre passage de
+KrV (B 75), dans lequel Kant soutient que «des pensées sans contenu sont
+vides» et que «des intuitions sans concepts sont aveugles», suggère précisément, selon Bauch, la nécessité de dépasser le dualisme abstrait sensibilitéentendement (Bauch, 1923a, p. 147–148).
+Encore faut-il s’entendre sur la manière d’effectuer un tel dépassement. Or,
+c’est sur ce point que Bauch pense devoir s’écarter véritablement de Kant.
+Jusqu’ici, en effet, les deux «mises au point» proposées n’avaient d’autre but
+que de remédier à certains ﬂottements de la théorie kantienne dus à l’usage
+d’une terminologie psychologique (le vocabulaire des facultés) et à une approche abstraite (la méthode d’isolement). Mais, à dire vrai, Bauch considère
+que la méthode d’isolement a malgré tout exercé un effet néfaste sur la critique
+kantienne, car elle aurait ﬁnalement amené Kant à considérer sensibilité et
+entendement, non pas comme de pures et simples abstractions — comme des
+moments dépendants à l’intérieur de la connaissance — mais bien comme des
+entités distinctes qui devraient dès lors être réunies au moyen d’un troisième
+terme. Toute la doctrine du schématisme serait née de ce malentendu, à savoir
+de la compréhension «ontique» et non purement «fonctionnelle» de la dualité
+sensibilité-entendement.
+Si la voie du schématisme est ici aussi considérée comme impraticable,
+quelle est la solution proposée par Bauch? Elle est, on va le voir, très proche de
+celle de Natorp. Il n’y a rien à objecter, précise Bauch, contre la «distinction»
+(Unterscheidung) entre intuition et concept proprement dite; l’erreur de Kant
+consisterait simplement à avoir interprété cette distinction logique comme une
+séparation réelle (Bauch, 1923b, p. 270), bref à avoir hypostasié les termes
+distingués. Contre une telle hypostase, Bauch se propose d’interpréter le
+schème, non comme un troisième terme indépendant à côté de l’intuition et du
+concept, mais — ainsi que le fait Kant lui-même dans d’autres passages —
+comme une «méthode» ou une «règle» permettant de «représenter quelque
+chose dans une image» (Bauch, 1923a, p. 238). Or, comme la condition des
+règles réside dans les catégories, dans les concepts purs de l’entendement, cela
+revient du même coup à mettre l’unité de la sensibilité et de l’entendement au
+compte de l’entendement lui-même.
+Bien que Natorp ne partage pas le détail de l’interprétation bauchienne du
+schématisme (voir Natorp, 1918, p. 444), on retrouve bien ici, en déﬁnitive,
+une conception comparable à la théorie natorpienne : l’intuition n’est rien
+d’autre que du concept en application; sensibilité et entendement ne sont jamais séparés concrètement l’un de l’autre. Toute intuition est conceptuelle.
+C’est pourquoi Bauch entend reconnaître «la signiﬁcation fondatrice du
+concept pour l’intuition» (die grundlegende Bedeutung des Begriffs für die
+
+Kant et la théorie conceptualiste 427
+
+Anschauung; Bauch, 1923a, p. 239) ou, comme il l’écrit aussi dans Wahrheit,
+Wert und Wirklichkeit, «la signiﬁcation fondatrice du concept y compris pour
+l’intuitivité la plus concrète et la concrétude la plus intuitive»10. L’uniﬁcation
+de l’esthétique et de la logique est ainsi assumée par l’idée selon laquelle
+l’intuition n’est pas une «instance alogique autonome», mais a elle-même un
+contenu logique. Une fois écartée la version abstraite du schématisme, il devient possible de trouver chez Kant lui-même l’idée de «quelque chose de
+logique dans ce qui est alogique» (Bauch, 1923b, p. 204)11.
+Quelles sont donc à nouveau les implications de cette relecture pour une
+théorie de la perception? Les indications les plus détaillées, à cet égard, se
+trouvent dans Wahrheit, Wert und Wirklichkeit. Ici encore, je relèverai deux
+choses :
+1) Bauch fournit une analyse largement conceptualiste de la perception.
+Sommairement résumée, son argumentation se présente comme suit.
+a) Dans la vie quotidienne, nous sommes immédiatement en contact avec
+des particuliers. Mon vécu est toujours le vécu d’un objet particulier, pourvu de
+déterminations qui lui sont propres. Par exemple, lorsque je m’installe à ma
+table de travail pour écrire, remarque Bauch, l’objet vécu est précisément ma
+table de travail, avec une forme, une couleur, une taille, etc., tout à fait déterminées. Je ne peux naturellement pas m’asseoir à une table en général, mais
+seulement à telle ou telle table particulière. De même, lorsque je marche dans
+la rue, je ne rencontre jamais l’homme en général, mais telle personne particulière «tout à fait déterminée» (ganz bestimmte; Bauch, 1923b, p. 225). Ce que
+nous voyons ou entendons, en un mot, tout objet de perception, est toujours un
+objet «particulier et totalement déterminé» : il a telle ou telle couleur, et non
+pas seulement telle ou telle couleur en général, mais aussi telle ou telle nuance,
+etc. (ibid., p. 233).
+b) En outre, la «caractéristique fondamentale» des particuliers est «une certaine relation à la sensation » (ibid., p. 228).
+c) Or, la sensation n’est elle-même possible que par son «insertion [Einordnung] dans une connexion catégoriale» (ibid., p. 206), ce qui veut dire dans des
+relations de validité. Bauch attribue à cet égard un «très important progrès» à
+Rudolf Hermann Lotze. L’argument de Lotze est bien connu : aussi changeantes que soient les sensations, les «qualités» senties (le rouge, etc.), quant à
+elles, sont éternellement identiques à elles-mêmes — ce qui revient à leur reconnaître une identité logique et donc une forme d’objectivité (Objektivität;
+ibid., p. 240). Lotze aurait ainsi accompli le pas «le plus signiﬁcatif» (bedeutungsvollste) pour résoudre le problème du rapport entre sensation (intuition)
+et concept. Ce que l’on appelle de façon trompeuse la «sensation subjective»
+n’est en fait, écrit Bauch, «jamais simplement subjective», la subjectivité
+n’étant à nouveau qu’une pure et simple «abstraction» (ibid., p. 249). La sensation a plutôt deux «versants» (Seiten) : un versant subjectif, le «sentir de la
+qualité» (la sensation du rouge), et un versant objectif, la «qualité de la sensation» (le rouge senti). Une sensation sans qualité est une impossibilité. Or,
+
+428
+
+Dialogue
+
+toute qualité est objective en vertu de son insertion dans un réseau de relations
+valides (de connexions catégoriales). Qu’est-ce à dire, sinon que nos impressions ont déjà un contenu conceptuel, comme l’afﬁrme de son côté McDowell
+(par exemple, 1996, p. 46; trad. fr., p. 79)? Dans la terminologie de Bauch, le
+concept, en tant que relation de catégories, détermine ce qui est particulier, et
+donc ce qui est l’objet d’une perception sensible possible :
+Sans la légalité catégoriale qui trouve son unité dans le concept lui-même, un objet
+intuitif ne serait pas non plus possible. Lorsqu’une maison, un arbre, un homme nous
+sont «donnés» (gegeben), ce qui nous est «donné», ce n’est justement pas simplement une pluralité de moments «matériels». Ceux-ci sont plutôt toujours déjà «mis
+en forme ». Et sans une telle «mise en forme» (Formung), c’est-à-dire sans insertion
+dans le contexte relationnel général des relations de validité, il ne peut y «avoir»
+(geben) aucun objet intuitif concret (Bauch, 1923b, p. 259).
+
+On assiste donc, ici aussi, à la mise en place d’une théorie conceptualiste selon
+laquelle un matériau sensible «catégorialement vierge» serait non seulement
+une abstraction, mais aussi une contradiction pure et simple, car pour pouvoir
+être ne serait-ce que pensé en tant que matériau, il devrait déjà être soumis aux
+«lois de la pensée objective» (Bauch, 1923b, p. 259)12. Certainement,
+concède Bauch, espace et temps ne sont pas des catégories parmi d’autres.
+Mais ils ne sont rien sans les déterminations catégoriales rassemblées dans les
+concepts (p. 269). D’où la nécessité de revenir à nouveau sur le sens du
+fameux passage ﬁgurant en B 75 pour le préciser et lui ôter déﬁnitivement toute
+ambiguïté :
+La thèse qui est avancée par Kant dans la Critique de la raison pure et que l’on cite
+abondamment, selon laquelle «des pensées sans contenu sont vides, des intuitions
+sans concepts sont aveugles», nécessite donc une précision plus nette, et même en
+un certain sens une rectiﬁcation (Berichtigung). Elle serait précisément fausse si
+elle voulait dire qu’il y aurait en général des «intuitions sans concepts», donc des
+«intuitions aveugles». Une telle intuition aveugle serait une simple abstraction, qui
+peut certes être accomplie formellement dans la réﬂexion, mais qui serait, en tant
+qu’abstraction, totalement nulle (nichtig), en ce sens donc «vide». La «vacuité» des
+pensées sans contenu signiﬁe par contre quelque chose d’autre. Elle n’est pas la
+nullité vide et la vacuité nulle, mais la pure validité, indépendante du contenu
+intuitif, de relations purement catégoriales, mais qui n’ont leur entrelacement
+conceptuel (begrifﬂiche Verﬂechtung) que dans le matériau intuitif (Bauch, 1923b,
+p. 267–268).
+
+Encore une fois, si l’on admet cette interprétation, toute perception est conceptuelle, sans quoi elle ne pourrait pas être une perception, car elle serait perception
+sans objet perçu, donc elle n’existerait tout simplement pas en tant que perception. La validité semble bien être ici prestatrice d’objectivité ou, en tout cas, de
+
+Kant et la théorie conceptualiste 429
+
+référentialité : c’est elle qui fournit la relation à l’objet. Tel est précisément
+l’enseignement que Bauch veut retenir de Kant et de Lotze, et que l’on pourrait
+formuler comme suit : pas de référence à un objet sans validité, pas de Gegenstandsbezogenheit sans déterminations conceptuelles. Les connexions entre contenus valides ne sont évidemment pas elles-mêmes l’objet d’un voir — sauf à
+admettre une «intuition intellectuelle» que Kant avait bannie dans la Critique de
+la raison pure. Mais elles sont conçues ici comme la condition de possibilité de
+la vision et, plus largement, de tout comportement objectivant :
+Certes, avec nos yeux, nous ne voyons jamais qu’un objet visible (sichtbar), non les
+pures relations de validité dans lesquelles et sous lesquelles il se tient justement face
+à nous en tant qu’objet. Mais nous ne pourrions pas non plus le voir sans celles-ci,
+car il ne pourrait justement pas se tenir en face de nous — donc être un objet — sans
+elles. C’est précisément là-dessus que repose le fait que voir un objet est quelque
+chose de plus qu’avoir de simples sensations visuelles, et que différents sujets ont du
+même objet des sensations visuelles elle-mêmes différentes, et peuvent pourtant voir
+le même objet. La vision de l’objet, de même que l’objet vu, ne sont tous deux possibles que sur la base des relations dans lesquelles leur intuitivité doit être construite
+justement pour être objective (gegenständlich), et que la vision doit pouvoir suivre
+justement pour être vision. [...] Seul le concept détermine l’objet de l’intuition
+(Bauch, 1923b, p. 275; nous soulignons).
+
+2) Dans la foulée d’un tel conceptualisme, Bauch entend dénoncer le préjugé
+selon lequel les objets de la perception sont des objets «ﬁxes», déterminés une
+fois pour toute. Le résultat des considérations précédentes est clair : «L’objet
+lui-même n’est intuitif que parce que et dans la mesure où il est aussi déterminé
+catégorialement et conceptuellement» (Bauch, 1923b, p. 276). Or, justement,
+les déterminations catégoriales et conceptuelles sont susceptibles d’être appréhendées et décrites de bien des façons. D’où l’idée que l’objet vécu est
+toujours un faisceau de déterminations ou de propriétés qui peuvent être saisies
+à travers des descriptions variables. Contre le sens commun, Bauch soutient
+donc que l’objet perçu n’est jamais quelque chose de ﬁxe et de déterminé une
+fois pour toutes : «L’objet concret n’est pas quelque chose de ﬁgé et de ﬁxe,
+mais il est relation (Beziehung), structure (Gefüge), système de plusieurs contenus (Inhalte)» (Bauch, 1923c, p. 38). Ce qui est prétendument «donné» dans
+l’expérience : le stylo, la table, la pièce, la maison, l’homme qui y habite, etc.,
+rien de tout cela n’est quelque chose de ﬁxe. Ce n’est chaque fois qu’un faisceau de propriétés, interprétées en un sens non réaliste — ce qui veut dire en
+ﬁn de compte un faisceau de contenus conceptuels valides, dont l’agencement
+est susceptible d’être parcouru diversement.
+6. Conclusion
+Mon intention n’était pas de prendre position dans le débat contemporain qui
+oppose conceptualistes et non-conceptualistes, mais de contribuer à jeter un
+
+430
+
+Dialogue
+
+éclairage nouveau et, je l’espère, plus juste, sur l’arrière-plan historique du
+conceptualisme. J’ai concentré mon attention, à cette ﬁn, sur certains aspects
+représentatifs de la critique néokantienne de l’esthétique transcendantale de
+Kant. Il apparaît que l’enjeu de cette critique est de dépasser ce qui, chez Kant,
+semblait relever encore d’une distinction abstraite entre sensibilité et entendement, et d’uniﬁer ces deux instances sans recourir à une conception médiatrice
+du schématisme ou à l’imagination comme une «racine plus profonde». La
+solution proposée par les néokantiens consiste, en peu de mots, à redéﬁnir la
+sensibilité, l’expérience, l’intuition, etc., comme de la pensée en acte, comme
+l’espace où s’accomplit la pensée elle-même. Conformément à cette interprétation, l’entendement n’exerce pas son pouvoir de détermination sur des contenus sensibles prétendument «vierges» ou «étrangers à la pensée», car de tels
+contenus, aux yeux des néokantiens, ne sont rien d’autre qu’une ﬁction
+théorique (une abstraction). L’entendement exerce plutôt son pouvoir de détermination dans la sensibilité elle-même. Comme je l’ai suggéré, c’est cette
+même stratégie argumentative qui a été réactivée ces dernières années par
+McDowell. Selon ce dernier, la théorie kantienne de la connaissance comme
+coopération de la sensibilité et de l’entendement permet de penser
+«l’engagement inextricable de l’entendement au sein même de ce qui est délivré par la sensibilité»13. Les analyses qui précèdent montrent que la critique
+néokantienne de l’esthétique transcendantale ouvrait déjà largement la voie à
+une telle interprétation. Selon les néokantiens, en effet, seul le conceptualisme
+est compatible, sinon avec la lettre de la Critique de la raison pure, du moins
+avec l’esprit du criticisme. En ce sens, les efforts de Natorp et de Bauch visant
+à instaurer une théorie conceptualiste de la perception peuvent être considérés,
+me semble-t-il, comme une origine historique majeure du conceptualisme
+radical — et, peut-être, difﬁcilement tenable — défendu par McDowell.
+Notes
+1 Cf. la déﬁnition adoptée récemment par Bengson, Grube et Korman, 2010, p. 2.
+Notons que, selon cette déﬁnition, le conceptualisme est parfaitement compatible
+avec l’idée qu’il y a certains états mentaux conscients qui sont non conceptuels. Les
+contraintes liées à la thèse conceptualiste portent seulement sur les états représentationnels et, plus spéciﬁquement, perceptuels (ibid., p. 8). Nous verrons que le
+conceptualisme de Natorp et de Bauch, à l’image de celui défendu par McDowell,
+semble plus radical, dans la mesure où il exclut apparemment l’existence même
+d’un état mental avec contenu non conceptuel.
+2 Ancien étudiant de Rickert à Fribourg, Bruno Bauch a également suivi les cours de
+Windelband à Strasbourg, sur les conseils de Rickert (voir Bauch, 1929, p. 8–9). Il
+a fourni l’interprétation systématique de Kant la plus importante dans l’école de
+Bade. À la suite du «travail préliminaire» accompli dans un petit livre introductif
+sur Kant paru dans la Sammlung Göschen (= Bauch, 1911), il a en effet publié en
+1917 son imposant Kant-Buch, dont Natorp a d’ailleurs écrit une recension détaillée dans les Kant-Studien (= Natorp 1918). Je me référerai ici à la troisième et
+
+Kant et la théorie conceptualiste 431
+
+3
+4
+
+5
+6
+7
+
+8
+9
+10
+11
+
+12
+13
+
+dernière édition (= Bauch, 1923a), qui reprend sans changement le texte de la première édition, simplement augmenté d’un appendice.
+Nous notons KrV, de Emanuel Kant, Kritik der reinen Vernunft, Première édition
+(A) 1781, Seconde édition (B) 1787.
+«La sensibilité est la réceptivité du sujet par laquelle son propre état représentatif
+peut être affecté d’une certaine manière par la présence de quelque objet» (Dissertation, tome II, p. 392 des Gesammelte Schriften, Herausgegeben von der Preußischen Akademie der Wissenschaften, Berlin-Leipzig, Walter de Gruyter, 1900;
+trad. fr. A. Pelletier, Dizertation de 1770, Paris, Vrin, 2007, p. 85).
+Cette stratégie argumentative a été analysée en détail par Krijnen (2007). Je me
+bornerai ici à l’essentiel.
+En note, Lask reconnaît explicitement, sur ce point, sa dette à l’égard de Jonas Cohn.
+On reconnaît là l’argument favori des conceptualistes, usuellement baptisé argument épistémologique, qui s’énonce plus ou moins comme suit : (a) la perception
+sert à justiﬁer des croyances ou des jugements perceptuels, or (b) la perception ne
+peut exercer cette fonction qu’à la condition d’avoir un contenu conceptuel, donc
+(c) la perception a un contenu conceptuel. Cf. aussi Natorp, 1904, p. 4 : «Même
+l’objet de la perception doit pouvoir être pensé si la perception doit fournir une connaissance. Tout sens de l’énoncé d’un fait de perception serait supprimé [aufgehoben], si le perçu ne se laissait pas aussi penser. En réalité [Wirklich], le contenu
+d’un tel énoncé consiste simplement en déterminations de la pensée. Même la
+Gegebenheit, la Wirklichkeit, la Tatsächlichkeit, qui doivent constituer le caractère
+distinctif du datum perceptif, sont des déterminations de pensée» (nous soulignons).
+Voir notamment la déclaration de Bauch, 1923b, p. 209, et les quelques indications
+rassemblées dans Dewalque, 2010, p. 157–158.
+Sur cette distinction, cf. Dewalque, 2006.
+Bauch, 1923b, p. 264 : Die grundlegende Bedeutung des Begriffs auch für die
+konkreteste Anschaulichkeit und anschaulichste Konkretheit.
+Cf. aussi Bauch, 1923a, p. 154 : «Malgré toute dualité originaire entre pensée et
+sensibilité, entre esthétique transcendantale et logique transcendantale, la sensibilité n’est pourtant pas délaissée par tout élément logique [nicht von allem Logischen
+verlassen], et dans la tâche de l’esthétique transcendantale s’annonce déjà l’idée
+d’un élément logique dans ce qui est alogique [der Gedanke eines Logischen im
+Alogischen]. Et ce, non pas seulement parce la sensibilité est créditée d’une participation à la connaissance, non pas simplement non plus parce qu’elle est créditée
+elle-même de principes a priori, mais avant tout parce que les deux lui sont crédités
+précisément à partir du concept de la connaissance lui-même».
+On reconnaît l’argument du premier type utilisé par Natorp.
+McDowell, 1996, 46 : «We must insist that the understanding is already inextricably
+implicated in the deliverances of sensibility themselves» (trad. fr. modiﬁée, p. 79).
+
+Références bibliographiques
+Bauch, Bruno
+1911 Immanuel Kant, Leipzig, Göschen.
+
+432
+
+Dialogue
+1923a
+1923b
+1923c
+
+Immanuel Kant, Berlin-Leipzig, Walter de Gruyter.
+Wahrheit. Wert und Wirklichkeit, Leipzig, Meiner.
+«Das Transzendentale Subjekt. Eine transzendentalphilosophische
+Skizze», Logos, vol. 12, p. 29–49. Réimpression dans W. Flach et H.
+Holzhey, dir., Erkenntnistheorie und Logik im Neukantianismus,
+Hildesheim, Gerstenberg, 1979, p. 572–592.
+1929 Selbstdarstellung, Leipzig, Meiner.
+Bengson, John, Grube, Enrico et Korman, Daniel Z.
+2010 «A New Framework for Conceptualism», Noûs, p. 1–23.
+Cohen, Hermann
+2005
+Logik der reinen Erkenntnis, Werke, Vol. 6.1, éd. H. Holzhey,
+Hildesheim, Georg Olms.
+Cohn, Jonas
+1908 Voraussetzungen und Ziele des Erkennens. Untersuchungen über die
+Grundfragen der Logik, Leipzig, Engelmann.
+Dewalque, Arnaud
+2006 «Analyse noétique et analyse noématique», introduction de H. Rickert,
+Les Deux voies de la théorie de la connaissance. Psychologie transcendantale et logique transcendantale, Paris, Vrin, 2006, p. 7–107.
+2010 Être et jugement. La fondation de l’ontologie chez Heinrich Rickert,
+Hildesheim, Georg Olms.
+Evans, Gareth
+1982 The Varieties of Reference, Oxford, Oxford University Press.
+Grifﬁth, Aaron M.
+2010 «Perception and the Categories: A Conceptualist Reading of Kant’s
+Critique of Pure Reason», European Journal of Philosophy, p. 1–30.
+Hanna, Robert
+2005 «Kant and Nonconceptual Content», European Journal of Philosophy,
+vol. 13, p. 247–290.
+Heck, Richard G.
+2000 «Nonconceptual Content and the “Space of reasons”», The Philosophical Review, vol. 109, p. 483–523.
+Höffe, Ottfried
+2004 Kants Kritik der reinen Vernunft. Die Grundlegung der modernen Philosophie, München, Beck.
+Krijnen, Christian
+2007 «Das konstitutionstheoretische Problem der transzendentalen Ästhetik
+in Kants Kritik der reinen Vernunft und seine Aufnahme im südwestdeutschen Neukantianismus», dans M. Heinz et C. Krijnen, dir., Kant
+im Neukantianismus. Fortschritt oder Rückschritt?, Würzburg, Königshausen et Neumann, p. 109–134.
+Lask, Emil
+1923 Die Logik der Philosophie und die Kategorienlehre, dans Gesammelte
+Schriften II, Tübingen, Mohr, p. 1–282. Traduction française de J.-F.
+
+Kant et la théorie conceptualiste 433
+Courtine, M. de Launay, D. Pradelle et P. Quesne, La logique de la
+philosophie et la doctrine des catégories, Paris, Vrin, 2002.
+McDowell, John
+1996
+
+Mind and World, Cambridge, Harvard University Press. Traduction
+française de C. Alsaleh, L’Esprit et le monde, Paris, Vrin, 2007.
+
+Natorp, Paul
+1904
+1910
+
+Logik in Leitsätzen zu akademischen Vorlesungen, Marburg, Elwert.
+Die logischen Grundlagen der exakten Wissenschaften, Leipzig,
+Teubner.
+
+1912
+
+Kant und die Marburger Schule (Conférence prononcée lors de
+l’assemblée de la Kant-Gesellschaft à Halle an der Saale le 27 avril
+1912), Berlin, Reuther et Reichard. Traduction française d’I. ThomasFogiel, «Kant et l’École de Marbourg», dans E. Cassirer, H. Cohen et
+P. Natorp, L’École de Marbourg, Paris, Cerf, 1998, p. 39–66.
+
+1918
+
+«Bruno Bauchs “Immanuel Kant” und die Fortbildung des Systems des
+Kritischen Idealismus», Kant-Studien, vol. 22, p. 426–459.
+
+1929
+
+Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Idealismus, Göttingen, Vandenhoeck et Ruprecht.
+
+Rickert, Heinrich
+FI
+
+«Form und Inhalt», manuscrit, Archives Rickert, Bibliothèque de
+l’Université de Heidberg, cote: Heid. Hs. 2740/65.
+
+1909
+
+«Zwei Wege der Erkenntnistheorie. Transscendentalpsychologie und
+Transscendental-logik», Kant-Studien, vol. 14, no 2, p. 169–228.
+Traduction française d’A. Dewalque, Les Deux voies de la théorie de la
+connaissance. Psychologie transcendantale et logique transcendantale,
+Paris, Vrin, 2006.
+
+1924
+
+Das Eine, die Einheit und die Eins. Bemerkungen zur Logik des Zahlbegriffs, Tübingen, Mohr.
+
+Windelband, Wilhelm
+1913
+
+Die Prinzipien der Logik, Tübingen, Mohr. Traduction française d’É.
+Dufour, «Les principes de la logique», dans W. Windelband, Qu’est-ce
+que la philosophie? et autres textes, Paris, Vrin, 2002, p. 183–240.
+
+1924
+
+Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte,
+Tübingen, Mohr.
+
+1950
+
+Lehrbuch der Geschichte der Philosophie, éd. H. Heimsoeth, Tübingen, Mohr.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Immanuel Kant</title><editor><persName><forename type="first">Bruno</forename><surname>Bauch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leipzig</pubPlace><date type="published">1911</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Immanuel Kant</title><editor><persName><forename type="first">Bruno</forename><surname>Bauch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Berlin-Leipzig</pubPlace><date type="published">1923</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Wahrheit. Wert und Wirklichkeit</title><editor><persName><forename type="first">Bruno</forename><surname>Bauch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leipzig</pubPlace><date type="published">1923</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Das Transzendentale Subjekt. Eine transzendentalphilosophische Skizze</title><author><persName><forename type="first">Bruno</forename><surname>Bauch</surname></persName></author><ref>Réimpression dans W. Flach et H. Holzhey, dir., Erkenntnistheorie und Logik im Neukantianismus, Hildesheim, Gerstenberg, 1979, p. 572–592</ref></analytic><monogr><title level="j">Logos</title><imprint><date type="published">1923</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="29">29</biblScope><biblScope unit="page" to="49">49</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Selbstdarstellung</title><editor><persName><forename type="first">Bruno</forename><surname>Bauch</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leipzig</pubPlace><date type="published">1929</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">A New Framework for Conceptualism</title><author><persName><forename type="first">John</forename><surname>Bengson</surname></persName></author><author><persName><forename type="first">Enrico</forename><surname>Grube</surname></persName></author><author><persName><forename type="first">Daniel Z.</forename><surname>Korman</surname></persName></author></analytic><monogr><title level="j">Noûs</title><imprint><date type="published">2010</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="23">23</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Logik der reinen Erkenntnis, Werke, Vol. 6.1</title><editor><persName><forename type="first">Hermann</forename><surname>Cohen</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Holzhey</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hildesheim</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Voraussetzungen und Ziele des Erkennens. Untersuchungen über die Grundfragen der Logik</title><editor><persName><forename type="first">Jonas</forename><surname>Cohn</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leipzig</pubPlace><date type="published">1908</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Les Deux voies de la théorie de la connaissance. Psychologie transcendantale et logique transcendantale</title><editor><persName><forename type="first">Arnaud</forename><surname>Dewalque</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Rickert</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2006</date><biblScope unit="page" from="7">7</biblScope><biblScope unit="page" to="107">107</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Être et jugement. La fondation de l’ontologie chez Heinrich Rickert</title><editor><persName><forename type="first">Arnaud</forename><surname>Dewalque</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hildesheim</pubPlace><date type="published">2010</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">The Varieties of Reference</title><editor><persName><forename type="first">Gareth</forename><surname>Evans</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1982</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Perception and the Categories: A Conceptualist Reading of Kant’s Critique of Pure Reason</title><author><persName><forename type="first">Aaron M.</forename><surname>Griffith</surname></persName></author></analytic><monogr><title level="j">European Journal of Philosophy</title><imprint><date type="published">2010</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="30">30</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Kant and Nonconceptual Content</title><author><persName><forename type="first">Robert</forename><surname>Hanna</surname></persName></author></analytic><monogr><title level="j">European Journal of Philosophy</title><imprint><date type="published">2005</date><biblScope unit="volume">13</biblScope><biblScope unit="page" from="247">247</biblScope><biblScope unit="page" to="290">290</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Nonconceptual Content and the “Space of reasons”</title><author><persName><forename type="first">Richard G.</forename><surname>Heck</surname></persName></author></analytic><monogr><title level="j">The Philosophical Review</title><imprint><date type="published">2000</date><biblScope unit="volume">109</biblScope><biblScope unit="page" from="483">483</biblScope><biblScope unit="page" to="523">523</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Kants Kritik der reinen Vernunft. Die Grundlegung der modernen Philosophie</title><editor><persName><forename type="first">Ottfried</forename><surname>Höffe</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>München</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Kant im Neukantianismus. Fortschritt oder Rückschritt?</title><editor><persName><forename type="first">Christian</forename><surname>Krijnen</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Heinz</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Krijnen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Würzburg</pubPlace><date type="published">2007</date><biblScope unit="page" from="109">109</biblScope><biblScope unit="page" to="134">134</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">LaskEmil 1923 Die Logik der Philosophie und die Kategorienlehre, dans Gesammelte Schriften II, Tübingen, Mohr, p. 1–282. Traduction française de J.-F. Courtine, M. de Launay, D. Pradelle et P. Quesne, La logique de la philosophie et la doctrine des catégories, Paris, Vrin, 2002.</title><editor><persName><forename type="first">Emil</forename><surname>Lask</surname></persName></editor><imprint><date type="published">1923</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Mind and World</title><editor><persName><forename type="first">John</forename><surname>McDowell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Logik in Leitsätzen zu akademischen Vorlesungen</title><editor><persName><forename type="first">Paul</forename><surname>Natorp</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Marburg</pubPlace><date type="published">1904</date></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Die logischen Grundlagen der exakten Wissenschaften</title><editor><persName><forename type="first">Paul</forename><surname>Natorp</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Leipzig</pubPlace><date type="published">1910</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">NatorpPaul 1912 Kant und die Marburger Schule (Conférence prononcée lors de l’assemblée de la Kant-Gesellschaft à Halle an der Saale le 27 avril 1912), Berlin, Reuther et Reichard. Traduction française d’I. Thomas-Fogiel, «Kant et l’École de Marbourg», dans E. Cassirer, H. Cohen et P. Natorp, L’École de Marbourg, Paris, Cerf, 1998, p. 39–66.</title><editor><persName><forename type="first">Paul</forename><surname>Natorp</surname></persName></editor><imprint><date type="published">1912</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">Bruno Bauchs “Immanuel Kant” und die Fortbildung des Systems des Kritischen Idealismus</title><author><persName><forename type="first">Paul</forename><surname>Natorp</surname></persName></author></analytic><monogr><title level="j">Kant-Studien</title><imprint><date type="published">1918</date><biblScope unit="volume">22</biblScope><biblScope unit="page" from="426">426</biblScope><biblScope unit="page" to="459">459</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Philosophie. Ihr Problem und ihre Probleme. Einführung in den kritischen Idealismus</title><editor><persName><forename type="first">Paul</forename><surname>Natorp</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Göttingen</pubPlace><date type="published">1929</date></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">RickertHeinrich FI «Form und Inhalt», manuscrit, Archives Rickert, Bibliothèque de l’Université de Heidberg, cote: Heid. Hs. 2740/65.</title><editor><persName><forename type="first">Heinrich</forename><surname>Rickert</surname></persName></editor><imprint><date/></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">Zwei Wege der Erkenntnistheorie. Transscendentalpsychologie und Transscendental-logik</title><author><persName><forename type="first">Heinrich</forename><surname>Rickert</surname></persName></author><ref>Traduction française d’A. Dewalque, Les Deux voies de la théorie de la connaissance. Psychologie transcendantale et logique transcendantale, Paris, Vrin, 2006</ref></analytic><monogr><title level="j">Kant-Studien</title><imprint><date type="published">1909</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="169">169</biblScope><biblScope unit="page" to="228">228</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="inbook"><monogr><title level="m">Das Eine, die Einheit und die Eins. Bemerkungen zur Logik des Zahlbegriffs</title><editor><persName><forename type="first">Heinrich</forename><surname>Rickert</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Tübingen</pubPlace><date type="published">1924</date></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="inbook"><monogr><title level="m">Die Prinzipien der Logik</title><editor><persName><forename type="first">Wilhelm</forename><surname>Windelband</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Tübingen</pubPlace><date type="published">1913</date></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="inbook"><monogr><title level="m">Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte</title><editor><persName><forename type="first">Wilhelm</forename><surname>Windelband</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Tübingen</pubPlace><date type="published">1924</date></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="inbook"><monogr><title level="m">Lehrbuch der Geschichte der Philosophie</title><editor><persName><forename type="first">Wilhelm</forename><surname>Windelband</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Heimsoeth</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Tübingen</pubPlace><date type="published">1950</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

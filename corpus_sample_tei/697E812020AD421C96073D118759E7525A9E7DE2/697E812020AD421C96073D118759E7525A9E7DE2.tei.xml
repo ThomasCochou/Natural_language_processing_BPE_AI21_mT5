@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Adaptation des aînés à la résidence pour personnes âgées: Activité de loisirs et autodétermination</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Adaptation des aînés à la résidence pour personnes âgées: Activité de loisirs et autodétermination</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Emin</forename><surname>Altintas</surname></persName><affiliation>Université Lille Nord de France</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Gaëlle</forename><surname>Majchrzak</surname></persName><affiliation>Université Lille Nord de France</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Claire</forename><surname>Leconte</surname></persName><affiliation>Université Lille Nord de France</affiliation></author><author xml:id="author-0003"><persName><forename type="first">Alain</forename><surname>Guerrien</surname></persName><affiliation>Université Lille Nord de France</affiliation></author><idno type="istex">697E812020AD421C96073D118759E7525A9E7DE2</idno><idno type="ark">ark:/67375/6GQ-7S8VW6XR-8</idno><idno type="DOI">10.1017/S0714980810000589</idno><idno type="PII">S0714980810000589</idno><idno type="article-id">00058</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-12"/><biblScope unit="volume">29</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="557">557</biblScope><biblScope unit="page" to="565">565</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>The purpose of this study was to better understand adjustment and life satisfaction in later life. In particular, it examined the contribution of leisure participation and motivation toward leisure in older people’s adjustment to their nursing homes and their satisfaction with life.. Study results underlined the contribution of participation in leisure activities both to the adaptation of an elderly person to his residence and to life satisfaction. In terms of adaptation to the residence, participation in recreational activities exhibited this mediational sequence: leisure participation → self-determined motivation for leisure → adjustment to nursing homes. This suggests that leisure participation has an indirect effect on older people’s adaptability. Various practical implications of this research emerge for the development of future recreational programs in nursing homes to promote seniors’ adaptation.</p></abstract><abstract xml:lang="fr" style="translated"><p>La présente étude avait pour ambition de contribuer à une meilleure compréhension de l’adaptation et de la satisfaction de vie dans l’âge avancé. Les effets de la participation aux activités de loisirs et de la motivation vis-à-vis des loisirs dans l’adaptation de la personne âgée à sa résidence ont été recherchés. Les résultats de l’étude soulignent la contribution de la participation aux activités de loisirs à la fois à l’adaptation de la personne âgée à sa résidence et à la satisfaction de vie. Pour ce qui est de l’adaptation à la résidence, la contribution de la participation aux activités de loisirs s’organise en une séquence médiationnelle : participation aux loisirs → motivation autodéterminée vis-à-vis des loisirs → adaptation de la personne âgée à sa résidence. Ceci suggère un effet indirect de la participation aux activités de loisirs sur l’adaptation de la personne âgée. Diverses implications pratiques émergent pour l’élaboration de futurs programmes d’activités de loisirs favorisant l’adaptation.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>motivation</term></item><item><term>autodétermination</term></item><item><term>activités de loisirs</term></item><item><term>adaptation psychologique</term></item><item><term>satisfaction de vie</term></item><item><term>personne âgée</term></item><item><term>résidence pour personne âgée</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>motivation</term></item><item><term>self-determination</term></item><item><term>leisure activities</term></item><item><term>psychological adjustment</term></item><item><term>life satisfaction</term></item><item><term>older people</term></item><item><term>nursing home</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2010-12">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Adaptation des aînés à la résidence pour
+personnes âgées: Activité de loisirs et
+autodétermination
+Emin Altintas, Gaëlle Majchrzak, Claire Leconte, and Alain Guerrien
+Université Lille Nord de France
+ABSTRACT
+The purpose of this study was to better understand adjustment and life satisfaction in later life. In particular, it examined
+the contribution of leisure participation and motivation toward leisure in older people’s adjustment to their nursing
+homes and their satisfaction with life.. Study results underlined the contribution of participation in leisure activities both
+to the adaptation of an elderly person to his residence and to life satisfaction. In terms of adaptation to the residence,
+participation in recreational activities exhibited this mediational sequence: leisure participation → self-determined
+motivation for leisure → adjustment to nursing homes. This suggests that leisure participation has an indirect effect on
+older people’s adaptability. Various practical implications of this research emerge for the development of future
+recreational programs in nursing homes to promote seniors’ adaptation.
+
+RÉSUMÉ
+La présente étude avait pour ambition de contribuer à une meilleure compréhension de l’adaptation et de la satisfaction
+de vie dans l’âge avancé. Les effets de la participation aux activités de loisirs et de la motivation vis-à-vis des loisirs dans
+l’adaptation de la personne âgée à sa résidence ont été recherchés. Les résultats de l’étude soulignent la contribution de
+la participation aux activités de loisirs à la fois à l’adaptation de la personne âgée à sa résidence et à la satisfaction de vie.
+Pour ce qui est de l’adaptation à la résidence, la contribution de la participation aux activités de loisirs s’organise en une
+séquence médiationnelle : participation aux loisirs → motivation autodéterminée vis-à-vis des loisirs → adaptation de la
+personne âgée à sa résidence. Ceci suggère un effet indirect de la participation aux activités de loisirs sur l’adaptation de
+la personne âgée. Diverses implications pratiques émergent pour l’élaboration de futurs programmes d’activités de
+loisirs favorisant l’adaptation.
+Manuscript received: / manuscrit reçu : 10/11/09
+Manuscript accepted: / manuscrit accepté : 28/06/10
+Mots clés : motivation, autodétermination, activités de loisirs, adaptation psychologique, satisfaction de vie, personne âgée,
+résidence pour personne âgée
+Keywords: motivation, self-determination, leisure activities, psychological adjustment, life satisfaction, older people, nursing home
+La correspondance et les demandes de tirés-à-part doivent être adressées à / Correspondence and requests for offprints should
+be sent to:
+Emin Altintas, Ph.D.
+PSITEC Lab EA 4072
+Université Lille Nord de France – Lille 3
+BP 60149 – 59653 Villeneuve d’Ascq, cedex
+France
+(emin.altintas@univ-lille3.fr)
+
+Introduction
+Intégrer une résidence pour personnes âgées constitue
+un événement de vie majeur, marqué par la perte d’un
+environnement familier et personnel, de son “chez soi”
+au proﬁt d’un lieu commun de vie, d’accueil. Cela
+implique pour la personne âgée de faire le deuil d’un
+contexte de vie, d’en accepter la perte. Il s’agit par
+ailleurs de s’adapter au nouvel environnement. Ce
+
+changement va généralement de pair avec une perte
+d’autonomie de la personne. En effet, les principales
+raisons qui accompagnent le changement de domicile
+dans l’âge avancé sont l’inadaptation de l’habitat, le
+besoin de se rapprocher de parents ou d’amis, la
+recherche d’un environnement plus sécurisant, ou la
+proximité des services de soutien ou d’aide à la personne (Serow, 1987).
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 29 (4) : 557–565 (2010)
+doi:10.1017/S0714980810000589
+
+557
+
+558
+
+Canadian Journal on Aging 29 (4)
+
+Pour ce changement de lieu de vie, la décision relève
+plus souvent d’une nécessité que d’un choix (Castle,
+2003; Rioux, 2008). L’individu perd son statut antérieur
+pour devenir un nouvel arrivant parmi des personnes
+regroupées non pas autour de valeurs, de croyances ou
+d’idées communes, mais plutôt sur la base d’un dénominateur commun qui se résume à une vulnérabilité
+sur le plan de la santé. Ce nouvel arrivant, déstabilisé
+dans ses repères sociaux, se doit de reconstruire un
+nouveau réseau aﬁn de s’adapter au mieux à un
+environnement étranger et à un nouveau mode de vie
+(Vercauteren et Chapeleau, 1995). L’adaptation implique de développer des comportements nouveaux,
+répondant aux demandes de l’environnement, et qui
+nécessitent de développer de nouvelles habitudes, la
+résolution de problèmes et la gestion d’une anxiété
+élevée (Bizzini, 2004; Freeman et Roy, 2005). Il s’agit
+ainsi pour la personne âgée, confrontée à un événement de vie stressant, de composer avec celui-ci tout
+en maintenant ses effets indésirables à minima. De cette
+approche découle l’idée d’un processus dynamique
+qui implique l’usage de stratégies adaptatives innées
+ou acquises aﬁn de s’adapter aux perturbations que
+créent les événements de vie (Roy et Andrews, 1991,
+2009). L’adaptation à ces situations repose donc sur des
+processus internes qui modulent la relation dynamique
+personne/environnement (Castonguay et Ferron, 1999),
+qui pourraient sous-tendre les actions et conduites
+(Beauvois, 1984) et ainsi favoriser l’adaptation.
+Le modèle proposé par Roy et Andrews (1991, 2009) se
+focalise essentiellement sur l’adaptation des individus
+ou des groupes (famille, communauté ou société) à
+leur environnement, dans le but de promouvoir et de
+favoriser la santé et la qualité de vie. Basée sur la théorie
+générale des systèmes de von Bertalanffy (1968) et la
+théorie des niveaux d’adaptation de Helson (1964), le
+modèle de Roy et Andrews adopte une approche
+holistique de l’individu, qui est considéré comme un
+système adaptatif en interaction constante avec un
+environnement changeant, système qui résulte de
+l’association des dimensions physique, psychique et
+sociale de l’individu. Ces différentes dimensions sont
+interdépendantes, fonctionnent ensemble et forment
+un tout uniﬁé : l’individu est un être bio-psychosocial. Ce système adaptatif est capable de s’ajuster
+aux changements de l’environnement, mais aussi
+d’affecter celui-ci dans le but de favoriser adaptation,
+santé et qualité de vie (Roy et Andrews, 1991, 2009).
+Dans ce modèle, l’adaptation des individus face à
+l’environnement est rendue possible par des processus
+internes de deux types (Freeman et Roy, 2005). Les
+mécanismes régulateurs regroupent l’ensemble des
+réponses adaptatives de type automatique, réﬂexe et
+correspondent à des processus chimiques et endocriniens face aux stimuli. Ils se limitent au seul mode
+
+Emin Altintas et al.
+
+physiologique. Les mécanismes cognitifs, quant à eux,
+désignent les processus adaptatifs conscients, résultant
+de processus complexes liés à la perception, au traitement des informations, à l’apprentissage, au jugement
+et aux émotions (Kérouac, Pepin, Ducharme, et Major,
+2003). Le modèle de Roy et Andrews (1991, 2009) est
+repris par Castonguay et Ferron (1999) dans l’étude de
+l’adaptation dans l’âge avancé. Selon ces derniers, ce
+modèle semble, tant sur le plan théorique qu’empirique,
+indiqué pour l’étude de l’adaptation de la personne
+âgée, et propice à une meilleure compréhension des
+mécanismes d’adaptation mis en jeu dans l’âge avancé.
+Sur cette base, Castonguay et Ferron (1999) conçoivent
+l’adaptation de la personne âgée comme un équilibre
+dynamique entre la personne dans son entièreté et son
+environnement de vie, démarche qui a abouti à la validation d’une échelle d’adaptation de la personne âgée
+à sa résidence (ÉAPAR).
+Le caractère adaptatif des activités de loisirs dans l’âge
+avancé a été régulièrement souligné (Leitner et Leitner,
+2004; Ragheb et Grifﬁth, 1982). L’importance pour la
+personne âgée de participer à des activités de loisirs va
+de pair avec la nécessité d’organiser et de planiﬁer
+celles-ci en fonction des attentes et besoins des participants (Guay, Vallerand, et Losier, 1995; Leitner et Leitner,
+2004; Ragheb et Grifﬁth, 1982). Par ailleurs, la participation aux activités de loisirs dans l’âge avancé est
+associée à une meilleure intégration de la personne au
+groupe (Coleman et Iso-Ahola, 1993; Kelly, Steinkamp,
+et Kelly, 1987), une meilleure satisfaction de vie (Kelly
+et al., 1987), une moindre symptomatologie dépressive
+(Angeleri et al., 1997), un meilleur bien-être (Philippe
+et Vallerand, 2008), à un vieillissement réussi (Rowe et
+Kahn, 1997) et à un meilleur ajustement face à différents événements ou de transitions de vie : altération
+de la santé, retraite ou institutionnalisation (Duke,
+Leventhal, Brownlee, et Leventhal, 2002; Silverstein et
+Parker, 2002). De même, McGuinn et Mosher-Ashley
+(2001) présentent une étude portant sur une population d’aînés vivant en résidence pour personnes âgées
+dont la participation à des activités de loisirs favorise
+une meilleure de satisfaction à vivre dans la résidence
+et donc une meilleure adaptation à la résidence pour
+personne âgée.
+L’activité de loisirs correspond à un moment de la
+journée, librement consenti, dévolu à la pratique d’une
+activité non-obligatoire, dont l’objectif est de procurer
+aux participants divertissements, détente, épanouissement et stimulation (Kelly, 1996). Processus d’aide
+dont l’objet premier est d’améliorer l’accomplissement
+des activités de la vie quotidienne, avec une recherche
+de satisfaction et de plaisir, les activités de loisirs
+impliquent de respecter l’équilibre entre les besoins et
+capacités des participants. Pour ce faire, un grand
+choix d’activités est proposé à la personne âgée aﬁn
+
+Titre résumé: Motivation et adaptation psychologique
+
+d’éveiller chez celle-ci un sentiment de contrôle, augmentant ainsi la motivation autodéterminée pour
+les activités de loisirs (Coleman et Iso-Ahola, 1993;
+Iso-Ahola, 1999; Losier, Bourque, et Vallerand, 1993).
+La théorie de l’autodétermination (Deci et Ryan, 1985)
+distingue trois grandes formes de motivation : la motivation intrinsèque (MI), la motivation extrinsèque
+(ME) et l’amotivation (A). Ces différentes motivations
+sont déﬁnies comme suit : (1) MI : la motivation intrinsèque correspond à la pratique d’une activité pour le
+plaisir, l’intérêt ou la satisfaction qu’elle procure, (2)
+ME : la motivation extrinsèque renvoie à un ensemble
+de comportements effectués pour des raisons instrumentales. Quatre formes de ME sont à distinguer : les
+formes autodéterminées : ME régulée par intégration,
+ME par identiﬁcation, et les formes non autodéterminées : ME par introjection et ME par régulation externe.
+La motivation extrinsèque « autodéterminée » intègre
+la notion de choix, même si le but n’est ni la satisfaction, ni la recherche de plaisir, mais que l’activité est
+bien effectuée pour des raisons instrumentales (car
+valorisée et jugée importante : régulation identiﬁée; ou
+parce qu’en phase avec des objectifs de vie : régulation
+par intégration). Alors que la motivation extrinsèque
+« non autodéterminée » inclut à la fois des raisons externes
+(récompenses externes, punitions ou pressions sociales :
+régulation externe) ou des pressions internes (sentiment
+de culpabilité : régulation introjectée) poussant le sujet
+à agir, et (3) A : l’amotivation correspond à une absence
+de motivation intrinsèque et extrinsèque, c’est-à-dire
+l’absence relative de motivation : aucune raison de continuer l’activité n’est perçue (Vallerand et Fortier, 1998).
+Ces différentes formes de motivation énoncées par
+la théorie de l’autodétermination (Deci et Ryan,
+1985) s’organisent sur un continuum de motivations
+selon leur degré d’autodétermination. Le continuum
+d’autodétermination, ainsi formé par l’agencement des
+différentes motivations, renvoie au locus de causalité
+perçu pouvant être interne (le comportement est perçu
+comme étant volontaire et émis par choix), ou pouvant
+être externe (le comportement est perçu comme étant induit par des forces externes). La motivation intrinsèque
+est associée à un locus interne de causalité et représente
+le plus haut niveau d’autodétermination. D’un moindre
+niveau d’autodétermination sur le continuum, les
+formes autodéterminées de la motivation extrinsèque
+relèvent d’un locus interne de causalité alors que les
+formes non autodéterminées relèvent plutôt d’un locus
+externe de causalité. L’extrémité la moins autodéterminée du continuum est représentée par l’amotivation
+(Deci et Ryan, 1985). Au total, la combinaison de ces
+différentes formes de motivation chez un individu
+pour une activité ou un contexte donné constitue
+l’orientation motivationnelle ou le proﬁl motivationnel
+(Ratelle, Guay, Vallerand, Larose, et Senécal, 2007).
+
+La Revue canadienne du vieillissement 29 (4)
+
+559
+
+En outre, la théorie de l’évaluation cognitive, « sousthéorie » de la théorie de l’autodétermination, pose
+trois besoins psychologiques fondamentaux comme
+déterminants de la motivation. L’individu chercherait activement à combler, par son interaction
+avec l’environnement, ses besoins fondamentaux
+d’autodétermination (besoin d’exercer des choix),
+de compétence (besoin de se sentir efﬁcace) et
+d’appartenance sociale (besoin de se sentir accepté
+et d’entretenir des liens satisfaisants avec les autres).
+Le degré de satisfaction de ces trois besoins psychologiques fondamentaux détermine le proﬁl motivationnel, soit les niveaux de motivation intrinsèque, de
+motivation extrinsèque et d’amotivation (Deci et Ryan,
+1985). Au total, la théorie de l’autodétermination relie
+la motivation à ses conséquences par une séquence
+motivationnelle qui s’organise comme suit : déterminants (le degré de satisfaction des besoins psychologiques fondamentaux) → proﬁl motivationnel
+(combinaison des différentes motivations) → conséquences sur les plans cognitif, comportemental et
+affectif (Vallerand, 1993).
+Une analyse de la littérature portant sur la théorie de
+l’autodétermination fait ressortir un lien entre participation aux activités de loisirs et motivation autodéterminée vis-à-vis des mêmes activités (Coleman et
+Iso-Ahola, 1993; Iso-Ahola, 1999; Losier et al., 1993;
+Vallerand et O’Connor, 1991). Un lien est également
+montré entre motivation autodéterminée, adaptation
+dans divers domaines de vie et satisfaction de vie
+(Deci, Connell, et Ryan, 1989; Deci et al., 2001; Grouzet,
+Vallerand, Thill, et Provencher, 2004; Ratelle, Vallerand,
+Chantal, et Provencher, 2004; Vallerand, 1997;
+Vallerand et O’Connor, 1989). Pour ce qui concerne la
+personne âgée, plusieurs recherches portant sur la
+motivation et ses conséquences ont montré qu’une
+orientation motivationnelle davantage autodéterminée semble faciliter l’adaptation dans différents contextes de vie et la satisfaction de vie (Guay et al., 1995;
+O’Connor et Vallerand, 1994; Vallerand et Bissonnette,
+1992; Vallerand et O’Connor, 1989; Vallerand, O’Connor,
+et Hamel, 1995; Vallerand, Pelletier, et Gagné, 1991), et
+notamment dans le cas de personnes vivant en résidence (Philippe et Vallerand, 2008). Cependant,
+aucune étude n’a à ce jour été publiée, mettant en jeu
+conjointement ces différentes variables : (1) participation aux activités de loisirs, (2) motivation autodéterminée vis-à-vis des activités de loisirs, (3) adaptation
+de la personne âgée à sa résidence et (4) satisfaction
+de vie.
+La présente étude tente d’apporter une meilleure compréhension des facteurs contribuant à l’adaptation de
+la personne âgée à sa résidence et à sa satisfaction de
+vie. Au vue de la littérature, la participation aux activités de loisirs contribuerait à une meilleure adaptation
+
+560
+
+Canadian Journal on Aging 29 (4)
+
+et satisfaction de vie dans l’âge avancé. L’objectif était
+donc double : montrer, dans le cadre spéciﬁque d’une
+population de personnes âgées vivant en résidence, la
+relation entre adaptation, satisfaction de vie et participation aux activités de loisirs, et par ailleurs, mettre à
+proﬁt une lecture motivationnelle (en référence à la
+théorie de l’autodétermination) aﬁn de mieux comprendre cette relation. Conformément aux travaux
+portant sur la relation entre activités de loisirs, motivation et leurs conséquences, un modèle structural a été
+mis à l’épreuve des faits. Celui-ci met en jeu la motivation vis-à-vis des loisirs comme une variable médiatrice de l’inﬂuence de la participation aux activités
+de loisirs sur l’adaptation de la personne âgée à sa
+résidence. Cette dernière inﬂuencerait à son tour la
+satisfaction de vie.
+
+Méthode
+Participants
+Un échantillon de 77 personnes âgées (âge moyen :
+83,12 ± 6,84) composé de 62 femmes et de 15 hommes,
+a été recruté dans des résidences pour personnes âgées.
+Ces structures proposent une offre d’accueil dans des
+chambres-studios et un service d’aide, de soutien qui
+comprend une surveillance continue, un service de
+repas, de ménage et de transport, la présence d’une
+inﬁrmière et d’une aide soignante. Des espaces communs et du personnel (animatrices, aides soignantes et
+inﬁrmières) sont mis à la disposition des résidents
+pour l’organisation d’activités de loisirs. Diverses activités de loisirs pratiquées en groupe sont proposées
+par les résidences : séances de gymnastique, de danse,
+activités manuelles, loto, tournoi de cartes, séances
+de lecture, stimulation cognitive, excursions et sorties
+thématiques.
+Mesures
+Suite à un consentement libre et éclairé, les résidents
+volontaires ont été invités à répondre de manière individuelle au cours d’une entrevue aux énoncés d’un
+questionnaire. Ce dernier était destiné à évaluer respectivement le nombre de participations aux activités
+de loisirs, la motivation vis-à-vis des activités de loisirs, l’adaptation à la résidence et la satisfaction de vie.
+Nombre de participations aux activités de loisirs (Nbre
+de Part.). Au cours de l’entretien, les résidents ont été
+invités à se prononcer sur le nombre de participations,
+pour le mois écoulé, aux activités de loisirs proposées
+par la résidence.
+Motivation vis-à-vis des activités de loisirs. L’échelle
+de motivation vis-à-vis des loisirs (EML, Pelletier,
+Vallerand, Green-Demers, Blais, et Brière, 1996) se
+
+Emin Altintas et al.
+
+présente sous la forme d’une question globale : “Pourquoi pratiquez-vous des loisirs ?” suivie de 28 énoncés.
+Les participants indiquent, au moyen d’une échelle de
+Likert en sept points (1 : Ne correspond pas du tout ; 7 :
+Correspond tout à fait), dans quelle mesure chacun des
+énoncés correspond à l’une des raisons pour lesquelles
+ils pratiquent des loisirs. Cette échelle ambitionne de
+circonscrire sept types de motivation dont les trois
+premières formes (Motivation intrinsèque à la stimulation, Motivation intrinsèque à l’accomplissement,
+Motivation intrinsèque à la connaissance) constituent,
+selon les auteurs, trois types de Motivation Intrinsèque
+(MI) qu’il est possible de regrouper de façon à former
+un seul type de MI, lorsqu’elles ne font pas l’objet
+d’hypothèses spéciﬁques. Les quatre autres formes
+de motivation obtenues par l’EML sont la Motivation
+Extrinsèque par Régulation Identiﬁée (ME RId.), la
+Motivation Extrinsèque par Régulation Introjectée
+(ME RIntr.), la Motivation Extrinsèque par Régulation
+Externe (ME RExt.) et l’Amotivation (A).
+Conformément à la théorie de l’autodétermination et
+à la méthodologie préconisée par Blais, Sabourin,
+Boucher, et Vallerand (1990) ou encore Philippe et
+Vallerand (2008), un indice d’autodétermination (Ind.
+Auto.) pour les activités de loisirs a été calculé aﬁn de
+déterminer la motivation autodéterminée de chaque
+participant vis-à-vis des activités de loisirs. Le coefﬁcient Alpha de Cronbach, calculé à partir des scores de
+nos participants, est très satisfaisant : 0,85.
+Adaptation de la personne âgée à sa résidence. L’échelle
+d’adaptation de la personne âgée à sa résidence (ÉAPAR),
+développée par Castonguay et Ferron (1999), se compose de 17 items. Ces derniers explorent l’interaction
+entre la personne âgée et son environnement, et en
+référence au modèle d’adaptation de Roy et Andrews
+(1991). Pour chaque énoncé, le répondant indique
+(oui/non) si le contenu de celui-ci correspond ou
+non à sa situation de vie au sein de la résidence pour
+trois dimensions : physique, personnelle (5 items,
+exemple : “Mes habitudes de vie s’harmonisent bien
+avec le fonctionnement de la résidence”), sociale
+(7 items, exemple : “Je prends plaisir à participer aux
+activités de la résidence en compagnie d’autres résidents”) et psychologique (5 items, exemple : “J’ai moins
+le goût de vivre qu’avant mon arrivée à la résidence”).
+L’échelle ainsi construite permet le calcul d’un indice
+global d’adaptation de la personne âgée à sa résidence.
+La cohérence interne (Alpha de Cronbach) atteint 0,84
+avec le présent échantillon.
+Satisfaction de vie (Sat. Vie). L’échelle de satisfaction
+de vie (Diener, Emmons, Larsen, et Grifﬁn, 1985) est
+composée de 5 énoncés de type : “En général, ma vie
+correspond de près à mes idéaux” ou “Je suis satisfait
+de ma vie”. Pour chaque énoncé, le répondant dispose
+
+Titre résumé: Motivation et adaptation psychologique
+
+La Revue canadienne du vieillissement 29 (4)
+
+d’une échelle de Likert en 7 points allant de 1 pour
+“fortement en désaccord” à 7 pour “fortement en accord”. Le total des scores pour chaque énoncé donne
+une évaluation de la satisfaction de vie du répondant.
+L’Alpha de Cronbach pour cette échelle, calculé sur
+notre échantillon, est de 0,67.
+
+561
+
+de vie. En outre, des analyses de régression ont été
+réalisées pour déterminer la contribution du nombre
+de participations aux activités de loisirs à l’adaptation
+de la personne âgée à sa résidence et à la satisfaction de
+vie. La variable participation aux activités de loisirs expliquerait 36,11 pour cent de la variance de l’adaptation
+de la personne âgée à sa résidence (R2 = 0.36 ; β = 0.60 ;
+t75 = 6.51 ; p &lt; 0.001) et 8 pour cent de la variance de la
+satisfaction de vie (R2 = 0.08 ; β = 0.28 ; t75 = 2.57 ; p &lt; 0.01).
+De fait, cette variable (Nbre part) semble constituer un
+facteur essentiel de l’adaptation de la personne âgée à
+sa résidence, et contribue également à la satisfaction de
+vie des résidents. Par ailleurs, des corrélations ont été
+calculées entre les scores d’adaptation de la personne
+âgée à sa résidence et les scores aux différentes formes
+de motivation (EML). Des corrélations signiﬁcatives
+apparaissent pour les sous-échelles MI (r = 0.48 ; p &lt; 0.01),
+ME RId (r = 0.41 ; p &lt; 0.01), ME Intr (r = 0.25 ; p &lt; 0.05),
+A (r = −0.40 ; p &lt; 0.01). Ainsi, les formes de motivation
+davantage autodéterminées seraient associées à une
+meilleure adaptation de la personne âgée à sa résidence.
+
+Résultats
+Analyses préliminaires
+Les participants hommes et femmes de l’étude ne diffèrent aucunement pour le nombre de participations
+aux activités (t75 = −0.99 ; ns), l’adaptation à la résidence (t75 = −0.14 ; ns), la satisfaction de vie (t75 = 0.62 ;
+ns), l’indice d’autodétermination vis-à-vis des activités
+de loisirs (t75 = −1.91 ; ns) ou les différentes dimensions motivationnelles. Toutefois, une différence est
+relevée entre hommes et femmes : les femmes sont en
+moyenne plus âgées (t75 = −2.90 ; p &lt; 0,01).
+Le Tableau 1 présente les caractéristiques des participants de l’étude et de leurs réponses : moyennes, écarttypes et corrélations obtenus aux différentes échelles
+de mesure : l’échelle de motivation vis-à-vis des loisirs,
+l’échelle d’adaptation de la personne âgée à sa résidence, l’échelle de satisfaction de vie, ainsi que le nombre de participations lors du mois écoulé aux activités
+de loisirs proposées par la résidence.
+
+Ces traitements ont été complétés par des analyses
+acheminatoires aﬁn de déterminer par l’évaluation
+d’un modèle structural de prédiction, la contribution
+des différentes variables (participations aux activités
+de loisirs et proﬁl motivationnel vis-à-vis des activités
+de loisirs) à l’adaptation de la personne âgée à sa
+résidence et à la satisfaction de vie.
+
+Les analyses de corrélation font apparaître un lien
+entre le nombre de participations aux activités de
+loisirs proposées et les variables : adaptation à la résidence (r = 0.60 ; p &lt; 0.01) et satisfaction de vie (r = 0.28 ;
+p &lt; 0.05). Ainsi, plus les résidents participent aux
+activités de loisirs et plus ils présentent une bonne
+adaptation à la résidence et une meilleure satisfaction
+
+Analyses acheminatoires
+Plusieurs liens signiﬁcatifs apparaissent entre les différentes variables mises en jeu dans l’étude (Tableau 2).
+Les analyses acheminatoires (path analysis), effectuées
+à l’aide du logiciel AMOS 5, permettent d’évaluer le
+
+Tableau 1: Présentation des données de l’étude : Moyenne (M), écart- type (EC) et corrélations entre les variables mises en jeu dans
+l’étude.
+M
+1. Age
+2. Sexe
+3. MI
+4. ME Id
+5. ME Intr
+6. ME Rext
+7. A
+8. Ind Auto
+9. Nbre Part
+10. Ind EAPAR
+11. Ind Sat Vie
+
+EC
+
+1
+
+2
+
+3
+
+83,12
+1,81
+37,44
+11,03
+15,71
+6,38
+7,58
+14,44
+11,06
+13,03
+19.51
+
+6,84
+0,4
+20,36
+9,3
+6,52
+4,26
+8,06
+31,78
+8,94
+2,85
+5.87
+
+1.00
+0,32**
+0,02
+0,03
+−0,01
+0,07
+−0,11
+0,06
+0,08
+−0,02
+0,21
+
+1.00
+0,17
+1.00
+0,16
+0.83**
+0,09
+0.36**
+0,06
+0.26*
+−0,21 −0.52**
+0,22
+0.90**
+−0,11
+0.24*
+0,02
+0.48**
+−0,07
+0.12
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1.00
+0.37**
+0.18
+−0.34**
+0.79**
+0.19
+0.41**
+0.13
+
+1.00
+0.24*
+−0.66**
+0.56**
+0.19
+0.25*
+0.07
+
+1.00
+−0.24*
+0.16
+0.23*
+0.21
+−0.09
+
+1.00
+−0.80**
+−0.21
+−0.40**
+−0.17
+
+1.00
+0.24*
+0.50**
+0.19
+
+1.00
+0.60**
+0.28*
+
+1.00
+0.21
+
+Notes. N = 77 ; **p &lt; 0.01 ; *p &lt; 0.05
+Codage Sexe homme (1) et femme (2); MI: motivation intrinsèque ; ME Id : motivation extrinsèque par regulation identiﬂée ; ME Intr :
+motivation extrinsèque par introjc ME Rext: motivation extrinsèque par régulation externe ; A: amotivation ; Ind Auto : indice
+d’autodétermination ; Nbre Part: nombre de participation aux activités de Ind EAPAR : indice à I’échelle d’adaptation de la personne âgée à sa résidence ; Ind Sat Vie : indice de satisfaction de vie.
+
+562
+
+Canadian Journal on Aging 29 (4)
+
+Emin Altintas et al.
+
+Tableau 2: Résumé des analyses de régression entre les variables : participation aux activités de loisirs (Nbre Part.), indices
+d’autodétermination (Ind. Auto.), d’adaptation à la résidence (Ind. ÉAPAR) et satisfaction de vie (Ind Sat Vie).
+Ind EAPAR
+
+Ind Sat Vie
+
+Ind Auto
+
+t
+Nbre Part
+Ind Auto
+
+β
+
+p
+
+R2
+
+t
+
+β
+
+p
+
+R2
+
+t
+
+β
+
+p
+
+R2
+
+6,51
+4,98
+
+0,60
+0,50
+
+0,001
+0,001
+
+0,36
+0,25
+
+2,57
+1,85
+
+0,28
+0,21
+
+0,012
+0,068
+
+0,08
+0,035
+
+2,09
+
+0,24
+
+0,04
+
+0,06
+
+modèle de prédiction de l’adaptation à la résidence et
+de la satisfaction de vie dans l’âge avancé. Cette technique permet de tester les liens directs et indirects entre les variables du modèle: (1) participation aux
+activités de loisirs, (2) motivation autodéterminée visà-vis des activités de loisirs, (3) adaptation de la personne âgée à sa résidence et (4) satisfaction de vie.
+Plusieurs auteurs (Bollen et Long, 1993; Hoyle, 1995)
+proposent d’évaluer la validité d’un modèle structural
+et l’utilité des variables incluses au moyen de divers
+indices statistiques : le test du Khi-carré (Chi2), l’indice
+d’ajustement comparatif (Cumulative Fit Index : CFI),
+l’indice de qualité d’ajustement (Goodness of Fit Index
+: GFI) et l’indice moyen des erreurs d’approximation
+(Root Mean Square Error of Approximation, RMSEA).
+La séquence causale a été testée au moyen d’une
+analyse acheminatoire (path analysis) : Nbre de Part →
+Ind. Auto → EAPAR → Ind. Sat. Vie. Les résultats obtenus, à savoir un Chi2 (df = 1, N = 77) = 2.241, p = 0.134,
+un GFI = 0.986, un CFI = 0.979, un RMSEA = 0.128 montrent un ajustement insatisfaisant du modèle aux données. Ces résultats notent la nécessité de modiﬁer le
+modèle proposé aﬁn de pouvoir améliorer son ajustement aux données et accroître les indices d’ajustement.
+Le recours aux indices de modiﬁcation suggérant de
+libérer l’effet direct de l’adaptation à la résidence sur la
+satisfaction de vie, les résultats du modèle ainsi modiﬁé montrent une meilleure adéquation du modèle aux
+données : Chi2 (df = 2, N = 77) = 2.241, p = 0.326, GFI =
+0.986, CFI = 0.996, RMSEA = 0.040. L’ajustement du
+modèle aux données semble donc satisfaisant. Toutefois, pour accepter comme modèle ﬁnal (le mieux
+ajusté aux données) ce modèle modiﬁé où le nombre
+de participations aux activités de loisirs prédit la motivation vis-à-vis des loisirs (Nbre de Part → Ind. Auto
+→ EAPAR), il convient de le comparer à un autre
+modèle où la motivation vis-à-vis des loisirs prédit le
+nombre de participation aux activités de loisirs (Ind.
+Auto → Nbre de Part → EAPAR), modèle alternatif
+théoriquement et méthodologiquement possible (Guay
+et al., 1995; Losier et al., 1993; Philippe et Vallerand, 2008).
+Les résultats de ce dernier modèle révèlent des indices
+d’ajustement nettement moins satisfaisants : Chi2 (df =
+2, N = 77) = 5.260, p = 0.072, GFI = 0.968, CFI = 0.945,
+RMSEA = 0.146. Le précédent modèle est préférable.
+
+Selon ce modèle, plus les personnes âgées participent à
+des activités de loisirs, plus leur motivation autodéterminée vis-à-vis des loisirs croît, et plus elles présentent
+de meilleurs niveaux d’adaptation à leur résidence. Les
+activités de loisirs favorisent l’adaptation de la personne
+âgée à sa résidence, relation médiatisée (la médiation
+est partielle) par la motivation autodéterminée vis-à-vis
+des loisirs (Figure 1).
+Analyses complémentaires (méthode du Bootstrap)
+La taille relativement restreinte de l’échantillon (n =
+77) pose le problème de la généralisation des résultats.
+L’usage de la méthode du Bootstrap (Efron, 1982) indique si le faible nombre de participants a biaisé les
+liens évalués dans le modèle. La méthode du Bootstrap
+(s = 1000) permet de calculer un coefﬁcient de régression standardisé du Bootstrap, d’estimer le biais
+d’estimateur et de calculer un intervalle de conﬁance
+Bootstrap pour chacun des liens du modèle (Tableau 3).
+Les résultats indiquent que les biais générés par la
+taille d’échantillon de participants ne sont pas signiﬁcatifs, et ne semblent pas remettre en cause l’estimation
+des liens dans le modèle. Il reste bien sûr qu’un échantillon de participants plus grand aurait été appréciable.
+
+Discussion
+L’étude visait à apporter une meilleure compréhension
+de l’adaptation et de la satisfaction de vie dans l’âge
+avancé. Différents auteurs concèdent à la pratique
+d’activités de loisirs un rôle essentiel dans plusieurs
+
+Figure 1: Analyse acheminatoire du modèle structural de
+l’adaptation à la résidence et de la satisfaction de vie dans
+l’âge avancé.
+
+Titre résumé: Motivation et adaptation psychologique
+
+La Revue canadienne du vieillissement 29 (4)
+
+Tableau 3: Intervalles de conﬁance des estimations des coefﬁcients de régression obtenus à l’aide de la méthode du Bootstrap (s = 1000).
+
+Coefﬁcient de régression
+standardisé estimé
+
+Biais entre la moyenne du
+Bootstrap et le coefﬁcient
+estime
+
+Borne infrieure
+
+Borne supérieure
+
+1. Nbre Part→
+Ind Auto
+2. Nbre Part→
+EAPAR
+3. Nbre Part→
+Sat Vie
+4. Ind Auto→
+EAPAR
+
+Moyennes des coefﬁcients de
+régression standardisés du
+Bootstrap
+
+Intervalle de
+conﬁance del’
+estimation
+
+0,235
+
+0,235
+
+0,000
+
+0,060
+
+0,375
+
+0,512
+
+0,512
+
+0,000
+
+0,380
+
+0,609
+
+0,284
+
+0,286
+
+0,001
+
+0,119
+
+0,438
+
+0,379
+
+0,380
+
+0,002
+
+0,216
+
+0,526
+
+aspects de la vie de la personne âgée. Pour une population vivant en résidence, nos résultats indiquent une
+association signiﬁcative entre le nombre de participations aux activités de loisirs et les différentes variables
+mesurées. La participation aux activités de loisirs en
+résidence pour personnes âgées est associée à une
+meilleure adaptation de la personne âgée à sa résidence
+et une meilleure satisfaction de vie. Les résultats
+d’auteurs tels que Ragheb et Grifﬁth (1982), McGuinn et
+Mosher-Ashley (2001) sont ainsi retrouvés auprès d’une
+population vivant en résidence pour personnes âgées.
+En second lieu, notre objectif d’une meilleure compréhension de l’adaptation à la résidence et de la satisfaction de vie dans l’âge avancé, nous conduit à
+adopter une approche se référant à la théorie de
+l’autodétermination. Il apparaît bien qu’un effet signiﬁcatif de la motivation auto-déterminée vis-à-vis des
+activités de loisirs s’ajoute à celui de la participation
+aux activités de loisirs pour déterminer l’adaptation de
+la personne âgée à sa résidence. Nos résultats décrivent un effet de ces deux variables (nombre de participations et motivation autodéterminée vis-à-vis des
+activités de loisirs) sur l’adaptation et la satisfaction de
+vie, synthétisés dans un modèle structural (Figure 1).
+La participation aux activités de loisirs contribue d’une
+part à l’adaptation de la personne âgée à sa résidence
+et ceci par le bais d’une séquence médiationnelle :
+nombre de participations → motivation autodéterminée → adaptation à la résidence, mais également à la
+satisfaction de vie. En d’autres termes, participer aux
+activités de loisirs en résidence contribue à la motivation autodéterminée vis-à-vis des activités de loisirs,
+
+563
+
+qui à son tour favorise une meilleure adaptation de la
+personne âgée à sa résidence. De fait, la motivation
+autodéterminée médiatise pour partie l’effet de la
+participation aux activités sur l’adaptation dans l’âge
+avancé. Par ailleurs, la participation aux activités de loisirs favorise également une meilleure satisfaction de vie.
+Ces résultats permettent de souligner le caractère
+adaptatif de la participation aux activités de loisirs
+dans l’âge avancé, et plus particulièrement en résidence pour personnes âgées. Toutefois, ces mêmes résultats montrent d’une part l’importance des activités
+de loisirs, mais également soulignent l’importance de
+la nature de l’engagement. En effet, une participation
+aux activités avec un proﬁl motivationnel autodéterminé accentue et renforce les retombées adaptatives
+de ces activités. Ceci conforte la pertinence et l’intérêt
+de la théorie de l’autodétermination pour l’étude
+des populations âgées. Cette lecture motivationnelle
+de l’adaptation de la personne âgée à sa résidence en
+termes d’autodétermination permet d’établir un cahier
+des charges à respecter lors de l’élaboration d’activités
+de loisirs, dans le but de favoriser un engagement davantage auto-déterminé dans l’activité. Il s’agit bien,
+par des activités de loisirs, de soutenir la motivation
+autodéterminée des résidents vis-à-vis des loisirs, et
+donc favoriser l’adaptation de ceux-ci à leur résidence.
+Ceci implique que ces activités soient effectivement
+perçues par les personnes comme sources de satisfaction des besoins d’autodétermination, de compétence
+et d’appartenance sociale.
+En dernier lieu, il convient de souligner quelques
+limites de cette étude transversale. L’usage d’un modèle
+structural correspond à une tentative de représentation simpliﬁée d’une réalité complexe, qui par déﬁnition est réductrice. Dans ce sens, la part de la variance
+expliquée de la motivation autodéterminée vis-à-vis
+des activités de loisirs par la variable participation aux
+activités de loisirs est signiﬁcative mais reste assez
+faible (R2 = 0.06, Figure 1). Il conviendra de parfaire ce
+modèle par l’introduction de variables supplémentaires dans de futures recherches. Il en va de même
+pour le lien, non-signiﬁcatif, entre l’adaptation de la
+personne âgée à sa résidence et la satisfaction de vie.
+Cette absence de contribution de la variable adaptation
+de la personne âgée à sa résidence trouve son explication dans la nature complexe et multidimensionnelle
+du concept de satisfaction de vie (Blais et al., 1990;
+Diener et al., 1985). En effet, la satisfaction de vie correspond à une évaluation subjective de sa vie entière
+dont l’issue dépend d’un ensemble de critères objectifs
+et subjectifs comprenant la santé physique et mentale
+perçue, l’humeur, le soutien social, la personnalité, les
+circonstances de vie. De fait, la satisfaction de vie renvoie à une évaluation globale que le sujet fait de sa vie
+(Pavot, Diener, Colvin, et Sandvik, 1991), et ne peut
+
+564
+
+Canadian Journal on Aging 29 (4)
+
+être réduite à la seule évaluation que la personne fait
+de sa vie actuelle en résidence.
+Nos futures recherches intégreront des variables supplémentaires telles que les perceptions d’autonomie,
+de compétence et d’appartenance sociale (Deci et Ryan,
+1985, 2002; Vallerand, 1997), variables toutes désignées
+par la théorie de l’autodétermination, aﬁn de compléter et rendre plus écologique notre modèle structural
+de l’adaptation et de la satisfaction de vie dans l’âge
+avancé. De même, des variables telles que la santé (objective et/ou perçue), le soutien social ou la satisfaction
+liée au logement enrichiront notre modèle. Enﬁn, une
+étude plus spéciﬁque de la transition de vie qui cette
+fois-ci ne serait plus transversale mais plutôt longitudinale portant sur le passage du domicile en résidence
+pour personnes âgées pourra être riche d’enseignement
+tant sur le plan théorique que dans l’accompagnement
+clinique de nos aînés durant cette phase de leur vie.
+
+Références
+Angeleri, F., Angeleri, V.A., Foschi, N., Giaquinto, S.,
+Nolfe, G., Saginorio, A., et al. (1997). Depression after
+stroke: An investigation through catamnesis. Journal of
+Clinical Psychiatry, 58(6), 261–265.
+Beauvois, J.L. (1984). Sujet de la connaissance et sujet de
+l’action: pour un néocognitivisme en psychologie sociale.
+Cahiers de Psychologie Cognitive, 4, 385–400.
+Bizzini, L. (2004). Adaptations et âge avancé. In J. Richard
+et E. Mateev-Dirkx (Eds.), Psychogérontologie (2nd ed.,
+pp. 91–109). Paris: Masson.
+Blais, M.R., Sabourin, S., Boucher, C., et Vallerand, R.J. (1990).
+Toward a motivational model of couple happiness. Journal of Personality and Social Psychology, 59, 1021–1031.
+Bollen, K.A., et Long, J.S. (1993). Testing structural equation
+models. Newbury Park, CA: Sage.
+Castle, N.G. (2003). Searching for and selecting a nursing
+facility. Medical Care Research and Review, 60(2), 223–247.
+Castonguay, G., et Ferron, S. (1999). Elaboration et validation
+d’un instrument évaluant le degré d’adaptation de la
+personne âgée à sa résidence. Revue canadienne du vieillissement, 18(3), 363–375.
+Coleman, D., et Iso-Ahola, S.E. (1993). Leisure and health:
+The role of social support and self-determination. Journal
+of Leisure Research, 25, 111–128.
+Deci, E.L., Connell, J.P., et Ryan, R.M. (1989). Self-determination
+in a work organization. Journal of Applied Psychology, 74,
+580–590.
+Deci, E.L., et Ryan, R.M. (1985). Intrinsic motivation and
+self-determination in human behavior. New York: Plenum.
+Deci, E.L., et Ryan, R.M. (2002). Handbook of self-determination
+research. Rochester, NY: University of Rochester Press.
+
+Emin Altintas et al.
+Deci, E.L., Ryan, R.M., Gagné, M., Leone, D.R., Usunov, J., et
+Kornazheva, B.P. (2001). Need satisfaction, motivation,
+and well-being in the work organizations of a former
+eastern bloc country. Personality and Social Psychology
+Bulletin, 27, 930–942.
+Diener, E., Emmons, R.A., Larsen, R.J., et Grifﬁn, S. (1985).
+The satisfaction with life scale. Journal of Personality
+Assessment, 49, 71–76.
+Duke, J., Leventhal, H., Brownlee, S., et Leventhal, E.A.
+(2002). Giving up and replacing activities in response to
+illness. Journals of Gerontology Series B: Psychological
+Sciences et Social Sciences, 57B(4), 367–376.
+Efron, B. (1982). The jacknife, the bootstrap and other resampling
+plans. Concepts, issues and application. Philadelphia: SIAM.
+Freeman, S.M., et Roy, C. (2005). Cognitive behavior therapy
+and the Roy adaptation model: Integrating CBT into
+nursing practice. In S.M. Freeman et A. Freeman (Eds.),
+Cognitive behavior therapy in nursing practice (pp. 3–27).
+New York: Springer Publishing Company.
+Grouzet, F.M.E., Vallerand, R.J., Thill, E.E., et Provencher, P.J.
+(2004). From environmental factors to outcomes: A test
+of motivational causal sequence. Motivation and Emotion,
+28, 31–46.
+Guay, F., Vallerand, R.J., et Losier, G.F. (1995). La motivation
+chez les personnes âgées: Inﬂuence de l’évaluation cognitive du contexte social et répercussions sur l’adaptation
+psychologique. Revue Québécoise de Psychologie, 16, 209–235.
+Helson, H. (1964). Adaptation level theory. New York: Harper
+and Row.
+Hoyle, R.H. (1995). Structural equation modelling. Concepts,
+issues, and applications. Thousand Oaks, CA: Sage.
+Iso-Ahola, S.E. (1999). Motivational foundations of leisue.
+In E.L. Jackson et T.L. Burton (Eds.), Leisure studies: Prospects for the twenty-ﬁrst century (pp. 69–79). State College,
+PA: Venture Publishing.
+Kelly, J.R. (1996). Leisure (3rd ed.). Boston: Allyn and Bacon.
+Kelly, J.R., Steinkamp, M.W., et Kelly, J.R. (1987). Later life
+satisfaction: Does leisure contribute? Leisure Sciences, 9,
+189–200.
+Kérouac, S., Pepin, J., Ducharme, F., et Major, F. (2003).
+La pensée inﬁrmière (2nd éd.). Laval, Québec, Canada:
+Beauchemin.
+Leitner, M.J., et Leitner, S.F. (2004). Leisure in later life (3rd
+ed.). Binghamton, NY: Haworth Press.
+Losier, G., Bourque, A., et Vallerand, R.J. (1993). A motivational model of leisure participation in elderly. Journal of
+Psychology, 127(2), 107–124.
+McGuinn, K.K., et Moshler-Ashley, P.M. (2001). Participation
+in recreational activities and its effects on perception of
+life satisfaction in residential settings. Activities, Adaptation et Aging, 25(1), 77–86.
+
+Titre résumé: Motivation et adaptation psychologique
+O’Connor, B.P., et Vallerand, R.J. (1994). Motivation, self-determination, and person environment ﬁt as predictors of
+psychological adjustment among nursing home residents. Psychology and Aging, 9, 189–194.
+Pavot, W., Diener, E., Colvin, C.R., et Sandvik, E. (1991).
+Further validation of the satisfaction with life scale:
+Evidence for the cross-method convergence of wellbeing measures. Journal Personal Assessment, 57(1),
+149–161.
+Pelletier, L.G., Vallerand, R.J., Green-Demers, I., Blais, M.R.,
+et Brière, N.M. (1996). Vers une conceptualisation motivationnelle multidimensionnelle du loisir: Construction
+et validation de l’échelle de motivation vis-à-vis des
+loisirs (EML). Loisir et Société, 19(2), 559–585.
+Philippe, F.L., et Vallerand, R.J. (2008). Actual environments
+do affect motivation and psychological adjustment: A
+test of self-determination theory in a natural setting.
+Motivation and Emotion, 32, 81–89.
+Ragheb, M.G., et Grifﬁth, C. (1982). The contribution of leisure participation and leisure satisfaction to life satisfaction of older persons. Journal of Leisure Research, 14(4),
+295–306.
+Ratelle, C.F., Guay, F., Vallerand, R.J., Larose, S., et Senécal, C.
+(2007). Autonomous, controlled, and amotivated
+types of academic motivation: A person-oriented
+analysis. Journal Educational Psychology, 99, 734–746.
+Ratelle, C.F., Vallerand, R.J., Chantal, Y., et Provencher, P.J.
+(2004). Cognitive adaptation and mental health: A motivational analysis. European Journal of Social Psychology,
+34, 459–476.
+Rioux, L. (2008). L’appropriation territoriale de la chambre.
+Un outil d’évaluation de l’adaptation de la personne
+âgée en maison de retraite. Revue Canadienne du Vieillissement, 22(4), 407–414.
+
+La Revue canadienne du vieillissement 29 (4)
+
+565
+
+Serow, W.J. (1987). Why the elderly move: Cross-national
+comparisons. Research on aging, 9(4), 582–597.
+Silverstein, M., et Parker, M.G. (2002). Leisure activities and
+quality of life among the oldest old in Sweden. Research
+on Aging, 24(5), 528–547.
+Vallerand, R.J. (1993). La motivation intrinsèque et extrinsèque
+en contexte naturel: Implications pour les secteurs de
+l’éducation, du travail, des relations interpersonnelles et
+des loisirs. In R.J. Vallerand et E. Thill (Eds.), Introduction
+à la psychologie de la motivation (pp. 533–581). Montréal,
+Québec, Canada: Éditions Études Vivantes.
+Vallerand, R.J. (1997). Toward a hierarchical model of intrinsic
+and extrinsic motivation. In M.P. Zanna (Ed.), Advances
+in experimental social psychology (pp. 271–360). New York:
+Academic Press.
+Vallerand, R.J., et Bissonnette, R. (1992). Intrinsic, extrinsic,
+and amotivational styles as predictors of behavior: A
+prospective study. Journal of Personality, 60, 599–620.
+Vallerand, R.J., et Fortier, M.S. (1998). Measures of intrinsic
+and extrinsic motivation in sport and physical activity:
+A review and critique. In J.L. Duda (Ed.), Advancements
+in sport and exercise psychology measurement (pp. 81–101).
+Morgantown, WV: Fitness Information Technology.
+Vallerand, R.J., et O’Connor, B.P. (1989). Motivation in the elderly: A theoretical framework and some promising
+ﬁndings. Canadian Psychology, 30, 538–550.
+Vallerand, R.J., et O’Connor, B.P. (1991). Construction et validation de l’échelle de motivation pour les personnes âgées
+(EMPA). Journal International de Psychologie, 26, 219–240.
+Vallerand, R.J., O’Connor, B.P., et Hamel, M. (1995). Motivation in later life: Theory and assessment. International
+Journal of Aging and Human Development, 41, 221–238.
+
+Rowe, J.W., et Kahn, R.L. (1997). Successful aging. The Gerontologist, 37(4), 433–440.
+
+Vallerand, R.J., Pelletier, L.G., et Gagné, F. (1991). On the multidimensional versus unidimensional perspectives of
+self-esteem: A test using the group-comparison approach. Social Behavior and Personality, 19, 121–132.
+
+Roy, C., et Andrews, H.A. (1991). The Roy adaptation model:
+The deﬁnitive statement. Norwalk, CT: Appleton et Lange.
+
+Vercauteren, R., et Chapeleau, J. (1995). Evaluer la qualité de vie en
+maison de retraite., Ramonville Saint-Agne. Editions Erès
+
+Roy, C., et Andrews, H.A. (2009). The Roy adaptation model
+(3rd ed.). Upper Saddle River, NJ: Prentice Hall Health.
+
+von Bertalanffy, L. (1968). General systems theory. New York:
+Braziller.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Depression after stroke: An investigation through catamnesis</title><author><persName><forename type="first">F.</forename><surname>Angeleri</surname></persName></author><author><persName><forename type="first">V.A.</forename><surname>Angeleri</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Foschi</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Giaquinto</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Nolfe</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Saginorio</surname></persName></author></analytic><monogr><title level="j">Journal of Clinical Psychiatry</title><imprint><date type="published">1997</date><biblScope unit="volume">58</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="261">261</biblScope><biblScope unit="page" to="265">265</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Sujet de la connaissance et sujet de l’action: pour un néocognitivisme en psychologie sociale</title><author><persName><forename type="first">J.L.</forename><surname>Beauvois</surname></persName></author></analytic><monogr><title level="j">Cahiers de Psychologie Cognitive</title><imprint><date type="published">1984</date><biblScope unit="volume">4</biblScope><biblScope unit="page" from="385">385</biblScope><biblScope unit="page" to="400">400</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Psychogérontologie</title><editor><persName><forename type="first">L.</forename><surname>Bizzini</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Richard</surname></persName></editor><editor><persName><forename type="first">E.</forename><surname>Mateev-Dirkx</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2004</date><biblScope unit="page" from="91">91</biblScope><biblScope unit="page" to="109">109</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Toward a motivational model of couple happiness</title><author><persName><forename type="first">M.R.</forename><surname>Blais</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Sabourin</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Boucher</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">1990</date><biblScope unit="volume">59</biblScope><biblScope unit="page" from="1021">1021</biblScope><biblScope unit="page" to="1031">1031</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Testing structural equation models</title><editor><persName><forename type="first">K.A.</forename><surname>Bollen</surname></persName></editor><editor><persName><forename type="first">J.S.</forename><surname>Long</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Newbury Park, CA</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Searching for and selecting a nursing facility</title><author><persName><forename type="first">N.G.</forename><surname>Castle</surname></persName></author></analytic><monogr><title level="j">Medical Care Research and Review</title><imprint><date type="published">2003</date><biblScope unit="volume">60</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="223">223</biblScope><biblScope unit="page" to="247">247</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Elaboration et validation d’un instrument évaluant le degré d’adaptation de la personne âgée à sa résidence</title><author><persName><forename type="first">G.</forename><surname>Castonguay</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Ferron</surname></persName></author></analytic><monogr><title level="j">Revue canadienne du vieillissement</title><imprint><date type="published">1999</date><biblScope unit="volume">18</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="363">363</biblScope><biblScope unit="page" to="375">375</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Leisure and health: The role of social support and self-determination</title><author><persName><forename type="first">D.</forename><surname>Coleman</surname></persName></author><author><persName><forename type="first">S.E.</forename><surname>Iso-Ahola</surname></persName></author></analytic><monogr><title level="j">Journal of Leisure Research</title><imprint><date type="published">1993</date><biblScope unit="volume">25</biblScope><biblScope unit="page" from="111">111</biblScope><biblScope unit="page" to="128">128</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Self-determination in a work organization</title><author><persName><forename type="first">E.L.</forename><surname>Deci</surname></persName></author><author><persName><forename type="first">J.P.</forename><surname>Connell</surname></persName></author><author><persName><forename type="first">R.M.</forename><surname>Ryan</surname></persName></author></analytic><monogr><title level="j">Journal of Applied Psychology</title><imprint><date type="published">1989</date><biblScope unit="volume">74</biblScope><biblScope unit="page" from="580">580</biblScope><biblScope unit="page" to="590">590</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Intrinsic motivation and self-determination in human behavior</title><editor><persName><forename type="first">E.L.</forename><surname>Deci</surname></persName></editor><editor><persName><forename type="first">R.M.</forename><surname>Ryan</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1985</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Handbook of self-determination research</title><editor><persName><forename type="first">E.L.</forename><surname>Deci</surname></persName></editor><editor><persName><forename type="first">R.M.</forename><surname>Ryan</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Rochester, NY</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Need satisfaction, motivation, and well-being in the work organizations of a former eastern bloc country</title><author><persName><forename type="first">E.L.</forename><surname>Deci</surname></persName></author><author><persName><forename type="first">R.M.</forename><surname>Ryan</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Gagné</surname></persName></author><author><persName><forename type="first">D.R.</forename><surname>Leone</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Usunov</surname></persName></author><author><persName><forename type="first">B.P.</forename><surname>Kornazheva</surname></persName></author></analytic><monogr><title level="j">Personality and Social Psychology Bulletin</title><imprint><date type="published">2001</date><biblScope unit="volume">27</biblScope><biblScope unit="page" from="930">930</biblScope><biblScope unit="page" to="942">942</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">The satisfaction with life scale</title><author><persName><forename type="first">E.</forename><surname>Diener</surname></persName></author><author><persName><forename type="first">R.A.</forename><surname>Emmons</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Larsen</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Griffin</surname></persName></author></analytic><monogr><title level="j">Journal of Personality Assessment</title><imprint><date type="published">1985</date><biblScope unit="volume">49</biblScope><biblScope unit="page" from="71">71</biblScope><biblScope unit="page" to="76">76</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Giving up and replacing activities in response to illness</title><author><persName><forename type="first">J.</forename><surname>Duke</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Leventhal</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Brownlee</surname></persName></author><author><persName><forename type="first">E.A.</forename><surname>Leventhal</surname></persName></author></analytic><monogr><title level="j">Journals of Gerontology Series B: Psychological Sciences et Social Sciences</title><imprint><date type="published">2002</date><biblScope unit="volume">57B</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="367">367</biblScope><biblScope unit="page" to="376">376</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">The jacknife, the bootstrap and other resampling plans. Concepts, issues and application.</title><editor><persName><forename type="first">B.</forename><surname>Efron</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Philadelphia</pubPlace><date type="published">1982</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Cognitive behavior therapy in nursing practice</title><editor><persName><forename type="first">S.M.</forename><surname>Freeman</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Roy</surname></persName></editor><editor><persName><forename type="first">S.M.</forename><surname>Freeman</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Freeman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2005</date><biblScope unit="page" from="3">3</biblScope><biblScope unit="page" to="27">27</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">From environmental factors to outcomes: A test of motivational causal sequence</title><author><persName><forename type="first">F.M.E.</forename><surname>Grouzet</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">E.E.</forename><surname>Thill</surname></persName></author><author><persName><forename type="first">P.J.</forename><surname>Provencher</surname></persName></author></analytic><monogr><title level="j">Motivation and Emotion</title><imprint><date type="published">2004</date><biblScope unit="volume">28</biblScope><biblScope unit="page" from="31">31</biblScope><biblScope unit="page" to="46">46</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">La motivation chez les personnes âgées: Influence de l’évaluation cognitive du contexte social et répercussions sur l’adaptation psychologique</title><author><persName><forename type="first">F.</forename><surname>Guay</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">G.F.</forename><surname>Losier</surname></persName></author></analytic><monogr><title level="j">Revue Québécoise de Psychologie</title><imprint><date type="published">1995</date><biblScope unit="volume">16</biblScope><biblScope unit="page" from="209">209</biblScope><biblScope unit="page" to="235">235</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">Adaptation level theory</title><editor><persName><forename type="first">H.</forename><surname>Helson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1964</date></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">Structural equation modelling. Concepts, issues, and applications</title><editor><persName><forename type="first">R.H.</forename><surname>Hoyle</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Thousand Oaks, CA</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Leisure studies: Prospects for the twenty-first century</title><editor><persName><forename type="first">S.E.</forename><surname>Iso-Ahola</surname></persName></editor><editor><persName><forename type="first">E.L.</forename><surname>Jackson</surname></persName></editor><editor><persName><forename type="first">T.L.</forename><surname>Burton</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>State College, PA</pubPlace><date type="published">1999</date><biblScope unit="page" from="69">69</biblScope><biblScope unit="page" to="79">79</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">Leisure</title><editor><persName><forename type="first">J.R.</forename><surname>Kelly</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Boston</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">Later life satisfaction: Does leisure contribute?</title><author><persName><forename type="first">J.R.</forename><surname>Kelly</surname></persName></author><author><persName><forename type="first">M.W.</forename><surname>Steinkamp</surname></persName></author><author><persName><forename type="first">J.R</forename><surname>Kelly</surname></persName></author></analytic><monogr><title level="j">Leisure Sciences</title><imprint><date type="published">1987</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="200">200</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">La pensée infirmière</title><editor><persName><forename type="first">S.</forename><surname>Kérouac</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Pepin</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Ducharme</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Major</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Laval, Québec, Canada</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">Leisure in later life</title><editor><persName><forename type="first">M.J.</forename><surname>Leitner</surname></persName></editor><editor><persName><forename type="first">S.F.</forename><surname>Leitner</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Binghamton, NY</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">A motivational model of leisure participation in elderly</title><author><persName><forename type="first">G.</forename><surname>Losier</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Bourque</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author></analytic><monogr><title level="j">Journal of Psychology</title><imprint><date type="published">1993</date><biblScope unit="volume">127</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="107">107</biblScope><biblScope unit="page" to="124">124</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Participation in recreational activities and its effects on perception of life satisfaction in residential settings</title><author><persName><forename type="first">K.K.</forename><surname>McGuinn</surname></persName></author><author><persName><forename type="first">P.M.</forename><surname>Moshler-Ashley</surname></persName></author></analytic><monogr><title level="j">Activities, Adaptation et Aging</title><imprint><date type="published">2001</date><biblScope unit="volume">25</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="77">77</biblScope><biblScope unit="page" to="86">86</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Motivation, self-determination, and person environment fit as predictors of psychological adjustment among nursing home residents</title><author><persName><forename type="first">B.P.</forename><surname>O’Connor</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">1994</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="194">194</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Further validation of the satisfaction with life scale: Evidence for the cross-method convergence of well-being measures</title><author><persName><forename type="first">W.</forename><surname>Pavot</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Diener</surname></persName></author><author><persName><forename type="first">C.R.</forename><surname>Colvin</surname></persName></author><author><persName><forename type="first">E.</forename><surname>Sandvik</surname></persName></author></analytic><monogr><title level="j">Journal Personal Assessment</title><imprint><date type="published">1991</date><biblScope unit="volume">57</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="149">149</biblScope><biblScope unit="page" to="161">161</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">Vers une conceptualisation motivationnelle multidimensionnelle du loisir: Construction et validation de l’échelle de motivation vis-à-vis des loisirs (EML)</title><author><persName><forename type="first">L.G.</forename><surname>Pelletier</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Green-Demers</surname></persName></author><author><persName><forename type="first">M.R.</forename><surname>Blais</surname></persName></author><author><persName><forename type="first">N.M.</forename><surname>Brière</surname></persName></author></analytic><monogr><title level="j">Loisir et Société</title><imprint><date type="published">1996</date><biblScope unit="volume">19</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="559">559</biblScope><biblScope unit="page" to="585">585</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="article"><analytic><title level="a">Actual environments do affect motivation and psychological adjustment: A test of self-determination theory in a natural setting</title><author><persName><forename type="first">F.L.</forename><surname>Philippe</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author></analytic><monogr><title level="j">Motivation and Emotion</title><imprint><date type="published">2008</date><biblScope unit="volume">32</biblScope><biblScope unit="page" from="81">81</biblScope><biblScope unit="page" to="89">89</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="article"><analytic><title level="a">The contribution of leisure participation and leisure satisfaction to life satisfaction of older persons</title><author><persName><forename type="first">M.G.</forename><surname>Ragheb</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Griffith</surname></persName></author></analytic><monogr><title level="j">Journal of Leisure Research</title><imprint><date type="published">1982</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="295">295</biblScope><biblScope unit="page" to="306">306</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Autonomous, controlled, and amotivated types of academic motivation: A person-oriented analysis</title><author><persName><forename type="first">C.F.</forename><surname>Ratelle</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Guay</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Larose</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Senécal</surname></persName></author></analytic><monogr><title level="j">Journal Educational Psychology</title><imprint><date type="published">2007</date><biblScope unit="volume">99</biblScope><biblScope unit="page" from="734">734</biblScope><biblScope unit="page" to="746">746</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="article"><analytic><title level="a">Cognitive adaptation and mental health: A motivational analysis</title><author><persName><forename type="first">C.F.</forename><surname>Ratelle</surname></persName></author><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">Y.</forename><surname>Chantal</surname></persName></author><author><persName><forename type="first">P.J.</forename><surname>Provencher</surname></persName></author></analytic><monogr><title level="j">European Journal of Social Psychology</title><imprint><date type="published">2004</date><biblScope unit="volume">34</biblScope><biblScope unit="page" from="459">459</biblScope><biblScope unit="page" to="476">476</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="article"><analytic><title level="a">L’appropriation territoriale de la chambre. Un outil d’évaluation de l’adaptation de la personne âgée en maison de retraite</title><author><persName><forename type="first">L.</forename><surname>Rioux</surname></persName></author></analytic><monogr><title level="j">Revue Canadienne du Vieillissement</title><imprint><date type="published">2008</date><biblScope unit="volume">22</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="407">407</biblScope><biblScope unit="page" to="414">414</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="article"><analytic><title level="a">Successful aging</title><author><persName><forename type="first">J.W.</forename><surname>Rowe</surname></persName></author><author><persName><forename type="first">R.L.</forename><surname>Kahn</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1997</date><biblScope unit="volume">37</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="433">433</biblScope><biblScope unit="page" to="440">440</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">The Roy adaptation model: The definitive statement</title><editor><persName><forename type="first">C.</forename><surname>Roy</surname></persName></editor><editor><persName><forename type="first">H.A.</forename><surname>Andrews</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Norwalk, CT</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="inbook"><monogr><title level="m">The Roy adaptation model</title><editor><persName><forename type="first">C.</forename><surname>Roy</surname></persName></editor><editor><persName><forename type="first">H.A.</forename><surname>Andrews</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Upper Saddle River, NJ</pubPlace><date type="published">2009</date></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="article"><analytic><title level="a">Why the elderly move: Cross-national comparisons</title><author><persName><forename type="first">W.J.</forename><surname>Serow</surname></persName></author></analytic><monogr><title level="j">Research on aging</title><imprint><date type="published">1987</date><biblScope unit="volume">9</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="582">582</biblScope><biblScope unit="page" to="597">597</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="article"><analytic><title level="a">Leisure activities and quality of life among the oldest old in Sweden</title><author><persName><forename type="first">M.</forename><surname>Silverstein</surname></persName></author><author><persName><forename type="first">M.G.</forename><surname>Parker</surname></persName></author></analytic><monogr><title level="j">Research on Aging</title><imprint><date type="published">2002</date><biblScope unit="volume">24</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="528">528</biblScope><biblScope unit="page" to="547">547</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="inbook"><monogr><title level="m">Introduction à la psychologie de la motivation</title><editor><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></editor><editor><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></editor><editor><persName><forename type="first">E.</forename><surname>Thill</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal, Québec, Canada</pubPlace><date type="published">1993</date><biblScope unit="page" from="533">533</biblScope><biblScope unit="page" to="581">581</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="inbook"><monogr><title level="m">Advances in experimental social psychology</title><editor><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></editor><editor><persName><forename type="first">M.P.</forename><surname>Zanna</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1997</date><biblScope unit="page" from="271">271</biblScope><biblScope unit="page" to="360">360</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">Intrinsic, extrinsic, and amotivational styles as predictors of behavior: A prospective study</title><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Bissonnette</surname></persName></author></analytic><monogr><title level="j">Journal of Personality</title><imprint><date type="published">1992</date><biblScope unit="volume">60</biblScope><biblScope unit="page" from="599">599</biblScope><biblScope unit="page" to="620">620</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="inbook"><monogr><title level="m">Advancements in sport and exercise psychology measurement</title><editor><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></editor><editor><persName><forename type="first">M.S.</forename><surname>Fortier</surname></persName></editor><editor><persName><forename type="first">J.L.</forename><surname>Duda</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Morgantown, WV</pubPlace><date type="published">1998</date><biblScope unit="page" from="81">81</biblScope><biblScope unit="page" to="101">101</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="article"><analytic><title level="a">Motivation in the elderly: A theoretical framework and some promising findings</title><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">B.P.</forename><surname>O’Connor</surname></persName></author></analytic><monogr><title level="j">Canadian Psychology</title><imprint><date type="published">1989</date><biblScope unit="volume">30</biblScope><biblScope unit="page" from="538">538</biblScope><biblScope unit="page" to="550">550</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">Construction et validation de l’échelle de motivation pour les personnes âgées (EMPA)</title><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">B.P.</forename><surname>O’Connor</surname></persName></author></analytic><monogr><title level="j">Journal International de Psychologie</title><imprint><date type="published">1991</date><biblScope unit="volume">26</biblScope><biblScope unit="page" from="219">219</biblScope><biblScope unit="page" to="240">240</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">Motivation in later life: Theory and assessment</title><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">B.P.</forename><surname>O’Connor</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Hamel</surname></persName></author></analytic><monogr><title level="j">International Journal of Aging and Human Development</title><imprint><date type="published">1995</date><biblScope unit="volume">41</biblScope><biblScope unit="page" from="221">221</biblScope><biblScope unit="page" to="238">238</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b48" type="article"><analytic><title level="a">On the multidimensional versus unidimensional perspectives of self-esteem: A test using the group-comparison approach</title><author><persName><forename type="first">R.J.</forename><surname>Vallerand</surname></persName></author><author><persName><forename type="first">L.G.</forename><surname>Pelletier</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Gagné</surname></persName></author></analytic><monogr><title level="j">Social Behavior and Personality</title><imprint><date type="published">1991</date><biblScope unit="volume">19</biblScope><biblScope unit="page" from="121">121</biblScope><biblScope unit="page" to="132">132</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b49" type="inbook"><monogr><title level="m">Evaluer la qualité de vie en maison de retraite</title><editor><persName><forename type="first">R.</forename><surname>Vercauteren</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Chapeleau</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ramonville Saint-Agne</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b50" type="inbook"><monogr><title level="m">General systems theory</title><editor><persName><forename type="first">L.</forename><surname>von Bertalanffy</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1968</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

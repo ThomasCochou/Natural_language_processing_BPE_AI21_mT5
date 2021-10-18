@@ -1,0 +1,2215 @@
+0037-9646 I90 / $2.00 + 0.00
+0 1990 Comit6 van Beheer van het Bulletin V.Z.W.
+
+Bull. SOC.Chim. Bdg. vd. 99 / no3 I 1990
+
+ETUDE DE LA COUPURE DES LIAISONS 0-SI D'ETHERS SlLlClES DU TYPE
+@-omi R * R ~EN PRESENCE D'AGENT NUCLEOPHILE ETIOU D'ACIDE
+R
+
+L. Giral, N. Madit, C. MontginouI*, R. Sagnes et F. SchuB
+Laboratoire de Chimie Organique Structurale et de Chimie Macromoleculaire, UniversitB des Sciences et
+Techniques du Languedoc, Place Eugene Bataillon, 34095 montpellier CBdex. France
+Recelved : 22/12/1989 -Accepted : 24/01/1990
+
+Synopsis .
+We report a study on the hydrolytic instability of the oxygensilicon bond of the following compounds : p-tert-butyldimethylsilyloxytolu&ne,
+p - t r i m 6 t h y l s i l y l o ~ o l u & n e and poly( p-trim6thylsilyloxystyrene). The instability occurs
+in an acidic media : HC1, H2SO4, CF3CO H, BF3 or in presence of a salt : KPF6, KAsF6,
+KSbF6; NaBF4, [CH3(CH2)3] 4NF, [CH3(CH2?3]4NBF4,
+[CH3(CH2)3 ]4NPFg, [CH3(CH2)3] 4N AsF6,
+[CH3(CH2)3]qNSbFg.
+A mixture containing both an acid and a salt from those previously
+discussed can also be used.
+A
+number
+of representative examples is presented. The
+tert-butyldimethylsilylether
+derivatives
+are
+much
+more
+stable
+than
+the
+trimethylsilylethers. It is shown that the rate of reaction is dependent on the
+nucleophilicity of anion used in these salts. This simple procedure undoubtedly extends
+the scope for a preparation of organosilicon resists.
+Compte
+
+tenu
+
+des
+
+travaux
+
+d6jb
+
+realis&
+
+sur
+
+les
+
+resines
+
+microlithographiques(l) l'objectif que nous nous sommes fix6 6tait de trouver de nouvelles
+resines resistantes au plasma oxygene, sensibles aux irradiations W et visibles et
+utilisables en mono ou bicouche afin d'obtenir des resolutions de l'ordre du micron.
+Nous avons 6tB guides dans notre choix par le fait que les resines qui presentent une
+bonne resistance au plasma (oxygene) sont celles qui renferment des entites
+organometalliques et des noyaux aromatiques(2). Pour repondre b cet objectif, nous avons
+retenu pour notre etude des resines renfermant des polystyrenes silicies. En effet,
+sous
+
+irradiation, les resines renfermant des atomes de silicium donnent naissance lors
+
+d'un developpement par plasma oxygsne b de l'oxyde de silicium qui protege la resine
+non irradiee.
+Come type de resine photosensible aux irradiations W et visibles,
+nous avons pris une resine b plusieurs composants renfermant :
+
+-un polystyrthe silicie I substitub en para du cycle aromatique
+par un radical pouvant facilement subir une rupture de la liaison 0-Si en presence d'un
+acide.
+
+-un photosensibilisateur tel qu'un sel de triarylsulfonium
+
+capable
+
+de se d6composer sous irradiation pour donner un acide de Brijnsted HMXn(l) (3),
+-6ventuellement un agent de transfert d'energie come le perylene.
+La presence dans la resine d'un polymere silicie devrait la doter
+d'une bonne resistance b la gravure b sec. L'utilisation, avec ce polymkre, d'un sel
+capable d'Ctre transform6 par photolyse en acide de Brljnsted, devrait permettre d'obtenir,
+par irradiation b une longueur d'onde correspondant au domaine de photosensibilite du
+sel ou de l'agent de transfert d'bnergie, une transformation du polymere silici6 en
+
+un polyd!re non silicie par la coupure de la liaison 0-Si judicieusement choisie b cet
+effet. Le polymere ainsi produit I1 devraient presenter des proprietes physicochimiques
+
+- 147 -
+
+diffbrentes de celles du polymhre silicie, en particulier en ce qui concerne la solubilite
+dans differents solvants et la resistance aux plasmas gazeux reactifs.
+
+r +,
+
+SCH2-r
+
++
+
+ArjSMXn
+
+Q
+
+Q
+
+1
+
+P
+
+p r o d u i t s de d l c o m p o s i t i o n
+
+OH
+
+D.
+Afin de verifier si les liaisons O-SiRlR2R3 presentes dans le
+polym&re utilise pouvaient subir une reaction de coupure dans les conditions que nous
+avons pr6cbdemment dbfinies, nous
+
+nous
+
+sommes propose d'etudier
+
+tout d'abord
+
+le
+
+comportement de modeles choisis pour leurs ressemblances avec les unites monomeres
+lorsqu'ils se trouvent en presence d'agents nucUophiles (MX,, F-,
+) en milieu neutre
+
+...
+
+ou acide.
+
+Ce travail prelimlnaire ainsi realid devait nous permettre de
+choisir le type de polym&re le mieux adapt6 pour notre etude et de verifier alors la
+validit6 de notre choix en entreprenant l'btude de la coupure de la liaisonO-SiRlR2R3
+du polymere ainsi retenu.
+Les
+
+ori ginaux
+
+modsles
+
+uti1ises
+
+p-( tert-butyldimethylsilyloxy) toluene 2 et le ptrimethylsilylo~oluene2.
+
+6
+0
+I
+
+- 148
+
+-
+
+sont
+
+le
+
+1. - ETUDE DES C0III)I"IOHS
+
+DE COuRlRg D E LTAISONS O-SIR1R93 M S LES
+
+wDDgL&s
+
+2
+
+E
+T
+A
+
+FwrEmJs.
+D'aprks les travaux decrits dans la litterat~re(~)( 5 )
+
+(6) ( 7 )
+
+( 8 ) ( 9 ) , peut se rendre compte que la facilite avec laquelle la liaison 0-Si se rompt
+dans les derives du type RC6H50SiRlR2R3 depend de la nature des substituants R, R 1 ,
+R2 et R3 et du milieu dans lequel se trouve ce type de composes. Ceci nous a conduits
+
+A rdaliser l'etude de la coupure de la liaison 0-Si dans les molecules modeles
+
+3 en presence de differents agents de coupure.
+la. - Btude de la r k t i o n de coupure de
+0-Si ( CE3 )$( CH3 13 du p ( t e r t - b u t y m ~ t ~ ~ i ~ ~ ~ )2.
+t o l u ~ n e
+
+la
+
+2
+
+et
+
+liaison
+
+Le compos6 2 original a dtb prepare avec unrendement de 95 % par
+action du chlorotert-butyldimethylsilane s u r le p-cresol 4 en presence d'imidazole dans
+le DMF anhydre B 4OoC. Dans le tableau 1 se trouvent repertoriees les caracteristiques
+des spectres de RMN de ce compose
+
+2.
+
+Le compose
+
+2
+
+a 6tb ensuite mis en presence de
+
+plusieurs reactifs susceptibles de couper la liaison O-Si(CH3)2C(CH3)3.
+etudes ainsi effectuees sur le modele
+de tirer les conclusions suivantes.
+
+4
+
+Les premieres
+
+sont rassemblees dans le tableau 2 et permettent
+
+produits d e
+dbcomposi t i o n
+
+OH
+
+-4
+On note que, come on pouvait s ' y attendre (4), seuls les ions
+fluorures sont capables de couper instantanement toutes les liaisons O-Si(CH3)2C(CH3)3
+presentes dans toutes les molecules du modkle
+MX,'
+
+come PFg'ainsi
+
+2
+
+tandis que les nucleophiles du type
+
+que les acides de BrBnsted de type mineral (HC1) ou organique
+
+(CF3C02H) mis dans les m6mes proportions ne provoquent qu'une coupure partielle des
+liaisons -0-Si(CH3)2C(CH3)3 presentes msme aprks 6 jours de reaction.
+
+- 149 -
+
+TABLEAU 1.
+
+*
+
+- Caracteristiques de RMNlH des compos6s 2, 2, A, Ib et 11.
+
+Spectres de RMNlH pris en solution dans CCl4 (a'), CDC13 (b'), DMOd6 (c').
+Si on ophre en presence du msme nombre de moles du compose 2 et
+
+d'un acide de Lewis tel que le trifluorure de bore (cf. tableau 2) la reaction de coupure
+
+de la liaison -O-Si(CH3)2C(CH3)3
+
+se fait aprhs que se soit forme un complexe intermediaire
+
+5 dont la presence est revelee par le spectre de RMNlH ( c f . tableau 2) du milieu
+reactionnel. Ce complexe fragilise la liaison siliciee et permet par la suite sa rupture
+plus rapidement en presence des traces d'eau presentes dans le milieu reactionnel. Une
+augmentation de la quantite d'bther dans le melange diminue la vitesse avec laquelle
+la liaison -O-Si(CH3)2C(CH3)3 se rompt. En effet dans ce cas, l'exchs d'ether complexant
+
+plus fortement le trifluorure de bore reduit de ce fait la possibilite que ce dernier
+a de pouvoir former avec le compose
+
+2
+
+le complexefr et entraine une diminution de la
+
+vitesse de la reaction de coupure de la liaison -O-Si(CH3)2C(CH3)3.
+
+i$
+
+(iH3fH3
+
+O-Si-C-CH3
+I
+
+1
+
+CH3 CH3
+
+2
+
+5
+
+t"3
+produits de d i r o m p o s i t i o n
+
++
+OH
+
+-4
+
+TABLEAU 2.
+
+- Etude des r e a c t i o n s de coupure de l a l i a i s o n O-Si(CH3)2C(CH3)3 dans l e
+modele 2*.
+empera-
+
+Nombre
+le mole
+de
+nodele
+
+?,25.I d
+
+de
+
+Nature
+
+n moles
+
+THF
+
+:CH3(CH2)3]4NI
+
+,25.10-3
+
+en s o l u t i o n
+
+2,25 m l ) (2,25)
+
+20
+
+I
+
+Temps
+de
+ResultatE
+reactior
+
+Ir e a c t i o r
+instan-
+
+ans T I E :
+
+Remarques
+
+coupure
+totale***
+
+tanbe
+
+= 1 mol.1-1
+
+2,25. I d
+
+,25.lO-3 e t h e r
+
+HC1
+solution
+
+0.2 ml)
+
+6 jours
+
+20
+
+coupure
+part i e l l e
+
+(5)
+
+queuse Q 36 7
+
+'n poids)
+?,25.ld
+
+.
+
+mF6
+
+,25.10-3 acetont
+0,41 g )
+
+?,25.16
+
+k , 5.10-
+
+5.10-
+
+!I,
+
+k , 5.10-
+
+CF3COOH
+
+,23.10-3 e t h e r
+0917 m l )
+
+(5)
+
+BF3 dans
+
+,4.10-3
+
+-
+
+ether**
+
+0,53 ml)
+
+BF3 dans
+
+,4.
+
+ether
+
+0,53 ml) (10)
+
+BF3 dans
+ether
+
+ether
+
+,4.10-3
+0,53 m l )
+
+6 jours coupure
+
+20
+
+partielle
+
+(5)
+
+ether
+
+6
+
+20
+
+jours
+
+coupure
+partielle
+
+20
+
+25 h
+
+50
+
+25 h
+
+50
+
+14 h
+
+168 h,
+
+coupure
+
+tu bout de
+
+partielle
+
+:oupure t o t a l e .
+
+c oupur e
+partielle
+
+(10)
+
+14 h de re-
+
+coupure
+
+i i aprb
+
+partielle
+
+tction, on Blimine
+'apidement l ' e t h e r
+
+mr d i s t i l l a t i o n
+ious pression redui-
+
+,e, l a coupure e s t
+
+I
+
+*
+
+**
+
+***
+
+.otale.
+
+Les r e a c t i o n s , f a i t e s sous a g i t a t i o n , sont t o u t e s s u i v i e s par CCM s u r plaque de g e l de
+s i l i c e 60 F 254 avec c o m e e l u a n t CH2Cl2 - e t h e r (proportion en volume : 4-1) :
+Rf compos62 : 0,7 ; cornpos63 : 0,h.
+Les r e a c t i o n s f a i t e s avec BF3 ont ete egalement s u i v i e s par RMNlH. En suivant a l o r s
+l ' e v o l u t i o n de la r e a c t i o n de coupure des l i a i s o n s s i l i c i e e s du m o d e l e z en presence
+de BF3, on c o n s t a t e que les protons aromatiques du compose 2 qui resonnent sous forme
+de q u a r t e t c e n t r e Q 6,85 ppm donnent un s i g n a l presentant l ' a l l u r e d'un massif a p r e s
+a d d i t i o n au comuos6 2 d'une s o l u t i o n de t r i f l u o r u r e de bore dans l ' e t h e r . A u fur e t a
+mesure que la r k a c t i z n de coupure de l a l i a i s o n 0-Si progresse dans l e temps, ce massif
+evolue pour prendre la forme d ' u n q u a r t e t .
+k BF3 u t i l i s e est en s o l u t i o n dans l ' b t h e r ( 50 % en masse).
+Dans c e t a b l e a u l e terme "coupure t o t a l e " s i g n i f i e qu'au temps de r e a c t i o n indique, la
+concentration en compos.6 modele 2 est e g a l e B zero.
+A p a r t i r des experiences a i n s i r e a l i s b e s sup l e modele
+
+a f f i r m e r que l a l i a i s o n -0-Si(CH3)$(
+par l e modele
+
+2
+
+2,
+
+on peut
+
+CH3)3 du r a d i c a l tert-butyldimethylsilyloxyle port6
+
+presente une grande s t a b i l i t e . Seuls l e s ions f l u o r u r e s F- peuvent rompre
+
+instantanement c e t t e l i a i s o n .
+
+Les nuclkophiles du type MX;
+
+e t l e s a c i d e s de BrBnsted
+
+et de Lewis ne donnent que des coupures p r t i e l l e s au bout d'un temps assez long par
+l e f a i t qu'ils fragilisent c e t t e liaison.
+
+- 151 -
+
+lb. -
+
+Etude de la r h t i o n de coupure de la liaison Mi(CJi3)3
+
+du p-trimt!thyhiIyloxytoldne_l.
+
+Le compos6 2 a Bt6 prepare avec un rendement de 95% selon la methode
+par action de l'hexadthyldisilazane (HMDS) sur
+
+decrite par Langer et C011.(~0)
+
+le p-cresol 8. 3OoC pendant 12 heures. Dans le tableau 1, se trouvent mentionnees les
+caracteristiques des spectres de RMN de ce cornpos.62.
+
+agent do
+
+H H 05 j 3OoC
+
+coupure
+
+OH
+
+0
+
+-4
+
+H3C- fi-CH3
+
+I
+
+C" 3
+
+3
+
+produits de decomposition
+
+'
+
+6-
+
+Des etudes des reactions de coupure de la liaison OSi(CH3)3 du
+modele
+
+2
+
+ont ete faites. Elles ont permis d'identifier les agents de coupure les plus
+
+efficaces et ont donne des indications sur les vitesses relatives de coupure de la liaison
+O-Si(CH313 en fonction des agents de coupure utilises.
+lbl. R h t i o n s de c o u p e de la liaison O-Si(C83)3 du mod&le>
+en presence d'acide et/ou de W 6 .
+
+L'ensemble des reactions de coupure du modele
+
+2
+
+effectuees en
+
+presence d'acide et/ou de KPF6 sont reportees dans le tableau 3. Les resultats obtenus
+montrent que la liaison 0-Si(CH3)3 du radical trimethylsilyloxyle se coupe facilement
+en presence d'acide lorsque ce dernier est en quantite stoechiometrique (reactions 1
+et 2 ) . Par contre lorsque le nombre de moles du compose 3 est superieur 8. celui de l'acide
+(reactions 2 et
+
+A), on
+
+obtient pour des temps de reaction bien different6 une reaction
+
+de coupure de la liaison O-Si(CH3)3 soit totale soit partielle suivant la nature du
+solvant utilis.6. Lorsqu'on ofire avec un nombre de moles de modhle
+de l'acide et dans le dichloromethane (reaction
+
+1 supdrieur 8.
+
+celui
+
+4), l'ajout d'une certaine quantite
+
+d'hexafluorophosphate de potassium provoque la coupure totale et assez rapide de toutes
+les liaisons siliciees. I1 est 8. noter que dans ce cas, le nombre total de moles d'acide
+chlorhydrique et d'hexafluorophosphate de potassium utilise est inferieur 8. celui du
+modhle, ce qui permet de supposer qu'une certaine amplification chimique doit se
+developper dans le milieu reactionnel.
+
+Le tableau 3 mentionne egalement les resultats obtenus en presence
+d'un agent nucleophile tel que l'ion PFg-utilise seul ou en milieu acide. Comme on peut
+le constater d'apres les resultats mentionnes, la reaction de coupure peut Stre totale
+lorsque l'agent de coupure KF'F6 et le modele 2 sont en quantite sensiblement
+stoechiodtrique (reactions 5 et 6) mais le temps de reaction necessaire depend du solvant
+uti1ise.
+
+- 152 -
+
+Par contre, quant on diminue le nombre de moles de sel KPF6 par
+rapport au nombre de moles du modele 2, la coupure de la liaison O-Si(CH3)3 est partielle
+(reactions 7 et 8 ) et l'addition d'une certaine quantite d'acide est alors necessaire
+pour la rendre totale (reaction 9 ) .
+
+On peut noter egalement que pour une mbme concentration en KPF6,
+la reaction de coupure de la liaison O-Si(CH3)3 est d'autant plus rapide que la quantite
+d'acide presente dans le milieu est &levee (reactions 10 L 13).
+Enfin la reaction de contrBle 15 a clairement montre que l'eau
+seule ne peut provoquer la coupure de la liaison O-Si(CH3)3 dans le compose 2.
+
+lb2. R k t i o n s de coupure de la liaison O-SI(CH3)3
+en presence de differents types de nucl6ophiles.
+
+du d e l e
+
+2
+
+Les reactions de coupure de la liaison O-Si(CH3)3 du modele 3
+en presence de differents nuclkophiles en quantite stoechiometrique ou non et d'acide
+en utilisant l'acetone comme solvant ont 6tB realisees. Les resultats ainsi obtenus
+sont reportes dans le tableau 4 et permettent de tirer les conclusions suivantes.
+compose
+
+2
+
+Si on utilise des quantites sensiblement stoechiometriques en
+et en agent de coupure, seul le sel NaBF4 donne une reaction de coupure
+
+partielle, les autres sels donnant toujours des coupures totales. I1 est L noter egalement
+3 (reactions 5
+8)
+que les reactions de coupure de la liaison O-Si(CH3)3 du
+
+-
+
+avec les sels KSbF6 et [CH3(CH2)3]
+
+4NMXn en quantite non stoechiomktrique ne provoquent
+
+que des coupures partielles des liaisons O-Si(CH3)3.
+
+Les coupures totales sont alors
+
+obtenues avec certains sels si on opere ensuite en presence d'une certaine quantite
+d'acide sulfurique. On remarque alors que les reactions de coupure des liaisons O-Si(CH313
+sont d'autant plus rapides que l'anion MXf
+
+est moins nucleophile. La vitesse de la
+
+reaction de coupure varie de la maniere suivante, en fonction de la nature du sel utilise:
+(CH3(CH2)334N SbF6
+
+>
+
+[CH3(CH2)314N AsF6
+
+>
+
+[CH3(CH2)314N PFgV[CH3(CH2)3]4N
+
+BF4.
+
+On peut remarquer Bgalement d'apres les rksultats des experiences
+9 L 11 que la quantite de solvant utilise n'a pas d'influence sur la vitesse de la
+reaction de coupure.
+D'autres
+
+agents de coupure de la liaison O-Si(CH3)3
+
+egalement Btudies. Ainsi si on ajoute au compose
+
+3
+
+ont 6ttB
+
+du fluorure de tetrabutylarmnonium
+
+en quantite stoechiometrique, on provoque m e reaction totale instantanement. Par contre
+aucune coupure de la liaison O-Si(CH3)3 du modele 3 n'est observee si on met en presence
+des quantites stoechiometriques d'azobisisobutyronitrile (AIBN) et de compose
+
+2
+
+et que
+
+l'on chauffe le tout sous atmosphere d'azote L 70°C. Cette derniere reaction a 6t6
+effectuee pour verifier si une telle reaction de coupure pouvait se faire en presence
+de radicaux libres. En effet, lors de la photodecomposition des sels de triarylsulfonium
+contenus dans la resine microlithographique que l'on veut Btudier, on obtient des
+intermediaires reactionnels radicalaires(l) (3) qui auraient pu provoquer la rupture
+de la liaison O-Si(CH3)3.
+
+lb3. Etude cinetique de la rtktion de c o u p e de la liaison
+oSi(CH3)3 du composk mod&le?.
+Les resultazs obtenus precedemment nous ont amenes L Btudier
+l'influence de l'acidite du milieu ainsi que de la nature du sel (KSbF6 et KPF6) s u r
+
+la reaction de coupure du compose 3. Les etudes cinetiques ainsi realisees en utilisant
+comme melange reactionel le modele 3 et un acide ou un sel du type KMXn ou un melange
+des deux ne permettent pas de determiner l'ordre des reactions mais nous aident
+mieux
+comprendre l'evolution de la reaction de coupure de la liaison siliciee en fonction
+
+-153-
+
+du temps.
+
+Ces etudes sont faites dans l'acdtone A 2OoC et sous agitation
+mgnetique. La cinetique de la reaction est suivie en prenant le spectre de RMNlH d'un
+echantillon de melange rkactionnel au coups du temps et en comparant 1'6volution du
+singulet
+
+A
+
+0,2
+
+de silicium
+
+ppm correspondant aux protons des radicaux methyles port&
+
+par l'atome
+
+A celui des quadruplets centres vers 6,8 ppm et attribues aux protons
+
+aromtiques appartenant au modble 3 ou au pcresol3 form6 (cf. tableau 1).
+Tous les spectres de RMNlH ont Bt6 pris avec et sans D20, ce dernier
+&ant utilise pour eliminer le signal correspondant au proton port6 par le groupement
+hydrowle du pcresol4 et qui apparaft vers 7 ppm. Un tel signal peut &re masque par
+le quadruplet des protons aromatiques et par suite risque d'augmenter la valeur de
+l'integration de ces derniers et fausser ainsi les calculs.
+
+I1 est L noter que dans les spectres de RMN du melange reactionnel
+pris au cours du temps, on observe A cat6 de la disparition progressive du signal A
+0,2 ppm l'apparition de d e w singulets autour de 0 ppm. Ceci laisse supposer qu'il se
+forme lors de la reaction de coupure des produits de decomposition contenant un ou
+plusieurs atomes de silicium.
+D'aprbs
+
+les resultats des etudes cinetiques ainsi r6alisees,
+
+repertories dans le tableau 5 et sur les figures 1 A 6 et qui sont en accord avec ceux
+qui ont et.6 rassembles dans les tableaux 3 et 4, plusieurs conclusions peuvent &re
+tirees.
+Les graphes traces (figures 1
+
+A 6) presentent une grande analogie.
+
+On constate que la reaction de coupure de la liaison O-Si(CH3)3 du modble
+
+2
+
+est rapide
+
+dans les premieres minutes puis beaucoup plus lente. Ce type de courbe permet de penser
+que la cinktique d'une telle reaction est du second ordre, ce qui semble atre confirme
+par la t r h forte augmentation de la vitesse de coupure aprbs l'addition d'un second
+
+La reaction de coupure de la liaison O-Si(CH3)3 du modble 2 dans
+l'acetone peut Gtre pratiquement instantanbe dans certains cas en presence d'un nombre
+
+agent de coupure.
+
+de moles de modble
+
+3
+
+superieur 8. celui des ions hydroniums provenant aussi bien de
+
+solutions aqueuses d'acide chlorhydrique ou d'acide sulfurique que de solution acetonique
+de chlorure d'hydrogene. Ceci permet de supposer qu'un certain systhme d'amplification
+chimique se developpe dans le melange reactionnel (reactions 1, 4, 5 et 7 ) .
+Lorsque la quantite d'acide ne permet pas une reaction de coupure
+totale de la liaison O-Si(CH3)3 du modble
+
+2
+
+(reactions 3 et 8 ; fig. 1 et 3), un apport
+
+exterieur d'un sel du type KMXn active la reaction et permet d'obtenir plus rapidement
+la coupure totale de la liaison O-Si(CH3)3 du modble 3.
+D'aprbs les resultats des reactions 5 et 0 on peut affirmer que
+l'eau come on pouvait s'y attendre d'aprbs les resultats Bnoncds dans la litt&rature(5),
+joue un r6le important dans la reaction de coupure des liaisons siliciees. Toutefois
+Come on l'a remarque (cf. reaction 15 du tableau 3), elle ne peut A elle seule produire
+la coupwe.
+
+.
+
+- La reaction de coupure de la liaison O-Si(CH3)3 en presence
+d'acide est beaucoup plus efficace que celle observee avec des agents nuclbophiles.
+En effet, on a constate que les reactions de coupure de la liaison O-Si(CH3)3 du modPle
+realisees en presence d'acide chlorhydrique ou d'acide sulfurique renfermnt 50 % de
+moles d'ions hydronium par rapport au nombre de moles de modele
+
+2
+
+sont infiniment plus
+
+rapides que celles rdalisees avec KSbF6 ou KPF6 utilises dans des proportions identiques
+(reactions 1, 4, 9 et 10 du tableau 5).
+
+-154-
+
+TABLEAU 3.
+
+-
+
+Reactions de coupure de la l i a i s o n O-Si(CH3)3 du modele
+
+2
+
+dans d i f f e r e n t s
+
+milieux ( a ) .
+Nmero
+3e l a
+6actior
+1
+
+Nombre de
+moles du
+modele 2.
+utilisees
+5,5.10-3
+
+(ml)
+
+I -
+
+2 , ~ 10-3
+.
+
+I
+
+acetone
+
+(5)
+
+2,77.10-3
+
+I
+
+30 min.
+
+48 min.
+
+HC1 (C)
+
+coupure
+totale
+
+(0,27.10-3 )
+
+I
+I
+I
+
+(5)
+
+coupure
+25h
+
+partielle
+coupure
+
+I h
+
+totale
+
+47h
+
+totale
+
+coupure
+
+45 min.
+
+mF6
+(5,55.
+
+7
+
+coupure
+totale
+
+)
+
+acetone
+
+6
+
+coupure
+totale (g)
+
+(5,5.10-3)
+
+4
+
+5
+
+10 min.
+
+BF3 dans ether ; 1 , 4 5 m l (b)
+
+(5,5.
+
+Resultat s
+
+r e a c t ion
+
+H C 1 ( C ) ; 0,5 m l )
+
+2
+
+3
+
+Temps de
+
+Agent(s) de coupure
+(Nombre de moles)
+
+Solvant
+
+coupure
+totale
+
+KPF6
+
+coupure
+
+(~46.
+
+part i e l l e
+coupure
+
+8
+
+partielle
+
+I
+
+9
+
+10 min.
+
+2) HC1 ( C ) ( e )
+( 0,055. lom4)
+10
+
+1,8.10-3
+
+acetone
+(7,351
+
+11
+
+1,8.10-3
+
+mF6
+(0,36.10-3 )
+
++
+
+coupure
+
+20h
+
+HC1
+
+(f)
+
+(0,135.
+
+)
+
+I
+
+coupure
+92h
+
+totale
+
+acetone
+
+coupure
+totale
+
+(7,35)
+13
+
+1,8.10-3
+
+acetone
+(7.35)
+
+14
+15
+
+5,55.10-3
+
+5,55.10-3
+
+I
+
+I
+
+mF6
+(0,36.10-3)
+
+(5)
+(5)
+
++
+
+HC1 ( f )
+
+(l,8.
+
+I
+I
+
+acetone
+
+acetone
+
+totale
+eoupure
+
+acetone
+
+13.10-3
+
+coupure
+totale
+
+(7,35)
+
+12
+
+parti e l l e
+
+eau
+
+( 5 ml)
+
+I
+
+r e a c t ion
+nee
+
+48h
+
+coupure
+totale
+
+Pas de
+coupure
+Pas de
+
+48h
+
+coupure
+
+: sous a g i t a t i o n magnetique. L'agent de coupure pese directement dans l e vase r b a c t i o n n e l e s t
+
+) Toutes l e s r e a c t i o n s sont f a i t e s en u t i l i s a n t des solvants anhydres B 2
+
+dissous dans l e solvant de r e a c t i o n avant d ' a j o u t e r le compos63. La r e a c t i o n est a l o r s
+s u i v i e par CCM sup plaque de g e l de s i l i c e 60 F 254 avec c o m e eluant un melange
+d'ether - e t h e r de p e t r o l e (proportions 1-3 en volume) ; Rf : compos6 2 ; 0,8 ; compos6
+4 : 0,44.
+( b ) t W3 u t i l i s d est en s o l u t i o n dans l ' d t h e r L une concentration de 50 % en poids.
+( c ) Concentration de l a s o l u t i o n aqueuse d ' a c i d e chlorhydrique u t i l i s e e : 36 % en poids.
+( d ) La s o l u t i o n d'acide chlorhydrique u t i l i s e e est obtenue H p a r t i r d'une s o l u t i o n de
+9,63 ml de CH2C12 e t de 0,37 m l de s o l u t i o n aqueuse d ' a c i d e chlorhydrique 8. 36 %.
+( e ) Les c h i f f r e s 1) e t 2 ) s i g n i f i e n t que l ' o n r e a l i s e t o u t d'abord la &action en presence
+de r e a c t i f 1) e t qu'ensuite au bout du temps qui est indiqu6 un second produit 2 ) e s t
+ajoutd.
+( f ) On u t i l i s e c o m e s o l u t i o n chlorhydrique une s o l u t i o n obtenue en f a i s a n t b u l l e r du
+chlorure d'hyydroghe dans de l ' a c e t o n e anhydre.
+(g) Dans ce t a b l e a u l e terme "coupure t o t a l e " s i g n i f i e qu'au temps de r e a c t i o n indique, l a
+concentration en compose modhle 3 e s t &gale L zero.
+TABLEAU
+
+4.
+
+-
+
+Reactions de coupure de la l i a i s o n O-Si(CH3)3 du modele
+s e l s du type Nab%,
+
+Numero
+!e l'expdrience
+
+olvant
+cdtone
+
+(2,72.10-3
+
+2
+
+-
+
+I
+
+64 h
+
+5
+
+RBsultats
+
+Coupure
+Coupure
+
+-
+
+5
+
+I
+
+totale***
+47h
+
+Coupure
+totale
+
+-
+
+5
+
+-
+
+5
+
+5
+
+presence d e
+
+partielle
+
+4
+
+reaction
+
+1
+
+3
+
+Temps
+de
+
+'lombre de moles
+d e H7SOb
+introzuites I
+
+1)** NaW4
+'
+1
+
+1
+
+Agent de coupure
+(Nombre de moles)
+
+1 en
+
+KMXn ou [CH3(CH2)& MXn*.
+
+-
+
+5
+
+I
+
+Coupure
+
+64h
+
+totale
+
+r e a c t ion
+
+Coupure
+
+instantan&
+
+totale
+
+I
+
+241130 mir
+
+Coupure
+part i e l l e
+
+Coupure
+parti e l l e
+
+-
+
+241130 mix
+
+Coupure
+partielle
+
+6
+2 ) 13,8.10-5
+
+I
+
+2 h
+
+Coupure
+mrtielle****
+
+7
+
+I
+
+241130 mir
+
+Coupure
+partielle
+
+2 ) 13,8.10-5
+
+Coupure
+totale
+24h30 mir
+
+Coupure
+partielle
+
+8
+2 ) 13,8.10-5
+
+Coupure
+totale
+
+-156-
+
+-
+
+1)** KSbF6
+
+25 h
+
+Coupure
+partielle
+
+(3,63
+
+9
+2) 13,8.10-5
+
+20 min
+
+Coupure
+totale
+
+-
+
+l)** KSbF6
+
+Coupure
+
+25 h
+
+partielle
+
+( 3,63.
+
+7-5
+
+10
+
+2) 13,8.10-5
+
+20 min
+
+Coupure
+totale
+
+-
+
+1)** KSbF6
+
+25 h
+
+Coupure
+partielle
+
+(3,63.
+
+11
+
+10
+2) 13,8.10-5
+
+20 min
+
+Coupure
+totale
+
+*
+
+On opere comme suit : l'agent de coupure pes6 dans le ballon reactionnel, est dissous dans
+l'acetone avant l'ajout de 2,77.10-3 moles de compose 3. Le melange reactionnel est ensui.te laisse sous agitation B 20°C et la reaction est suivie par CCM sup plaque de gel de
+silice 60 F 254 avec comme eluant un melange d'ether - ether de petrole (proportions 1-3
+en volume) ; R f du compose3 : 0,8 ; compose3 : 0,44.
+**Les chiffres 1) et 2) signifient que l'on realise la reaction en presence de reactif 1) et
+qu'ensuite la quantite indiquee d'acide sulfurique B 95 % dissoute dans de l'acetone
+(reactif 2 ) est ajoutee.
+***Dam ce tableau le terme "coupure totale" signifie que le temps de reaction correspondant
+6 cette "coupure totale" est approximtivement le temps auquel la concentration en compose
+modgle 2 s'annule.
+****Le t a u de coupure est plus eleve que celui obtenu lors de l'exp6rience 5-2.
+
+temps de r i a c t i o n I h l
+
+27 h30min
+
+lh
+:
+
+Courbe cin6tique de la r i a c h o n de coupure de l a liaison 0 - 5 1 (CH3) du modhle
+rialishe en prisence de Z.n.tO-3 mole de modhle 2 et de 0.18 10-3 mole J e H2 SO4
+(0.0310-3 mole de KSbFb a 6th ajouti au bout de 27h30min de r i a r t i o n l
+
+- 157-
+
+3
+
+sans 020
+o avec
+
+Fig 2
+-
+
+:
+
+020
+
+Courbe c i n i t i q u e de l a rbaction de coupure de la l i a i s o n
+0 - S i (CH I du m o d i l e 2 realishe en presence de
+
+33
+mole de rnodile 3 e t de 0,27.10-3 mole de HCI en
+2.17
+s o l u t i o n aqueuse ( c o n c e n t r a t i o n 36% en p o i d s l
+
+1
+I
+
+sans 020
+0
+
+avec
+
+020
+
+I
+
+I
+
+.\
+
+i0
+
+:
+
+Courbe clnhtique de l a r h a c t i o n de coupure de l a l i a i s o n - 0 - S I (CH3I3
+d u m o d i l e 2 r i a l i s b e en p r k s e n c e de 2.77.10-3 mole de modele 3 e t
+de 0.51 10-3 mole de HCI p r o v e n a n t de la solution de gaz chlorhydrique
+dissout dans I'ac6tone (O.OZlO-3 mole de KSbF6 a 6 t h ajouth au bout de
+7h30 min de r i a c t i o n l
+
+0 - 9 ICH3J3 restantes
+
+% de liaisons
+
+T
+I
+
+:
+
+Courbe c i n i t i q u e de l a r i a c t i m de coupure de la liaison 0 - S i lCH31 du
+3
+1. r 6 a l i s i e en prisence de 2J7.10T3 mole de m o d d l e j e t de
+1,38.lO-3 mole de KShF6 l0,03.l(r3 mole de H2s0,, a k t 6 ajoutb au bout de
+24 h de r h a c t i o n I
+mod&
+
+% de liaisons
+
+0 - S i (CH313 restantes
+
+4
+
+0
+
+0
+
+sans D20
+avec D 2 0
+
+0
+.
+0
+
+5 % /\
+
+0
+
+4
+
+-temps de r e a c t i o n (hl
+
+lh
+Fig 5
+-
+
+:
+
+Courbe c i n i t i q u e de l a rhaction de coupure de l a liaison 0 - 9 I CH313
+du modele 2 rbalisbe en p r k e n c e de 2.7.10-3 mole de mod& 2
+e t de 1.38.10-3 mole de KPF6 lO,lZ.lO-3 mole de H2S0k a 6tb aJout6 au
+bout de 10h de ri.action1
+
+- 159 -
+
+TABLEAU 5.
+
+- Resultats
+
+des c i n e t i q u e s des r e a c t i o n s de coupure de la l i a i s o n
+O-Si(CH3)3du modble
+
+Vo de la
+
+r6ac t ion
+
+3".
+Resultat :
+
+Agent de coupure
+Agent a c i d e
+(Nombre d e moles)
+
+Rgent nucleophile
+(Nombre de moles)
+
+'
+
+de la
+
+Ygme
+
+-
+
+1
+
+totale******
+I
+
+2
+totale
+1) H ~ ~ o ~ * * * *
+
+3****r
+
+27h30 min
+
+(0,18.10-3)
+~
+
+~~
+
+30 min
+
+coupure
+totale
+
+4
+
+HC1**
+
+( 1,38.10-3 )
+
+reaction
+
+coupure
+
+instantanbe
+
+totale
+
+reaction
+
+HCl**
+
+instantanee
+
+( 0,54.10-3 )
+
+48 min
+
+HCl**
+
+r6action
+
+1) HCl***
+( 1,38.10-3 )
+
+1) HCl***
+( 0,54.10-3 )
+
+2 ) KSbF6
+
+coupure
+
+instantanee
+
+totale
+
+30 min
+
+18
+
+7h30 min
+
+8
+
+30 min
+
+(0,02.10-3 )
+
+-
+
+coupure
+totale
+
+(0,27.10-3 )
+
+-
+
+coupure
+totale
+
+coupure
+totale
+
+1) KSbF6
+
+10 min
+
+18
+
+( 1,38.10-3
+
+24 h
+
+14
+
+l h
+
+coupure
+totale
+
+2 h
+
+54
+
+O*****
+
+5
+
+2 ) H~so~****
+totale
+
+( 0 ~ 2 . 1 0 - 3)
+
+11
+
+KSbF6
+
+coupure
+
+(0,27.10-3 )
+
+totale
+
+*
+
+6
+
+La r e a c t i o n est e f f e c t u e e B 2OoC sous a g i t a t i o n magnetique en operant en presence d e
+2,Tj'.lO-3 mole de com 05.4 3 e t de 5 m l d'acetone e t en s u i v a n t l a r e a c t i o n comme indique
+dans l e t e x t e par M f H . **Concentration aqueuse de l ' a c i d e chlorhydrique u t i l i s 6 : 36 % en poids.
+***L'acide chlorhydrique u t i l i s e provient d'une s o l u t i o n d e c h l o r u r e d'hydrogbne d i s s o u s
+dans l'acetone.
+
+- 160 -
+
+****La solution aqueuse d'acide sulfU-ique utilise a une concentration Bgale B 95 % en poids.
+*****Les chiffres 1) et 2) signifient que l ' o n realise tout d'abord la reaction en presence
+de reactif 1) et qu'ensuite un second produit 2) est ajoutb au melange reactionnel.
+******Dans ce tableau le terme "coupure totale" signifie qu'au temps de reaction indiqud,
+la concentration en compose mod&leA est Bgale 8. zero.
+
+.
+3
+
+-
+
+La reaction de coupure de la liaison O-Si(CH3)3 du modele
+
+est beaucoup plus rapide en presence de sel KSbF6 que de sel KPF6. Ceci est dtl B la
+l'anion PF6'(reactions
+9 et 10).
+La presence conjointe de dix fois moins de moles d'acide
+
+faible nucleophilie des anions SbF6-par rapport
+
+. -
+
+chlorhydrique et de sel KSbF6 (reaction 11) que de mole de composd
+
+3
+
+permet de rkaliser
+
+une reaction de coupure de la liaison O-Si(CH3)3 du modele 2 presque instantanement
+(figme 6) ce qui ne se produit pas si ces agents de coupure sont utilises separement
+dans les m&es
+
+proportions. Ainsi une certaine compl6mentarite d'action existerait entre
+
+les d e w agents de coupure utilises.
+
+F Q 6:
+-
+
+1LA.
+
+5 min
+Courbe cinitique de l a coupure de l a l i a m n
+0-SI ( c H ~ du
+) ~ modile 1 r i a l i s l e en prirence
+de 2 6 7 10-3 mole de moddle 3 , d e 0,27 10-3 mole
+de K S b F 6 et de 0.27 10-3 mole de HCI provenant
+de la solution de gar chlorhydrlque dissout dans
+I'acbtone
+
+- co~cusIoB:
+
+D'apres les resultats report&
+
+dans les tableaux 2 B 5 et s u r
+
+les figures 1 B 6, on peut tirer les conclusions suivantes. La reaction de coupure de
+la liaison O-Si(CH3)2C(CH3)3 du modele 2 n'est totale que lorsqu'elle est realisee en
+presence de ICH3( CH2 31qNF (tableau 2)
+
+.
+
+.
+
+La reaction de coupure de la liaison O-Si(CH3)3 du modele3
+est totale lorsqu'elle est r6alisee en presence de quantites stoechiometriques de KMXn
+(MXn- = SbF6; AsF6; PFZ), (tableau 4),de BF3 dans l'ether et de HC1 (solution aqueuse)
+(tableau 3). Seul le temps de reaction varie en fonction de la nature de l'agent de
+coupure.
+
+- 161 -
+
+.
+
+La reaction de coupure de la liaison O-Si(CH313 du mod&le_l
+
+n'est que partielle lorsque le nombre de mole du compose
+= SbF6, AsF6; PF6; BF;)
+
+sel KMXn ou [CH3(CH2)3'J4NMXn
+
+(MX,
+
+sels KPF6, KSbF6, [CH3(CH2)3]
+
+4 AsF6 et [CHa,(CH2)3]4
+
+3
+
+est superieur $ celui du
+
+utilis6. Toutefois avec les
+
+SbF6, on peut rendre alors cette
+
+reaction de coupure totale si on ajoute au melange reactionnel une certaine quantite
+d'acide. I1 est interessant de noter qu'alors le nombre total de moles d ' i o n s hydronium
+et de sel n'excbde pas celui du modble 3 8. traiter. On constate de plus que la reaction
+de coupwe de la liaison O-Si(CH3)3 du compose 2 est plus rapide en la realisant en
+presence 8. la fois d'un nucleophile du type MX; et d'ions hydronium H30: Nous sommes
+donc conduit B supposer que la reaction de coupure de la liaison O-Si(CH3)3 se fait
+en deux &tapes come l'indique le schema suivant :
+
+0 -SI - CH3
+I
+
+CH3
+
+3
+
+produits de dicomponition
+
+Q-OH
+
+-L
+
+. On remarque que les reactions de coupure des liaisons O-Si(CH3)3
+du modele
+
+l'anion MX;
+
+3
+
+en presence uniquement d'un nucleophile MXn- sont d'autant plus rapides que
+est moins nucleophile mais elles sont dans ce cas moins rapides qu'en milieu
+
+acide. Un resultat semblable a Bte obtenu l o r s des etudes de polymerisation cationique
+de divers composes par des sels du type C6H5S Mxn utilise en tant que photoamorceur
+: on a constate que la reaction de polymerisation etait d'autant plus rapide que l'anion
+etait moins nucl4ophile(l2).
+
+L& quantite de solvant dans le melange reactionnel ainsi que
+la presence de radicau n'influe pas sur la reaction de coupure de la liaison O-Si(CH313
+du modble
+
+3. Toutefois
+
+la nature du solvant utilise semble jouer dans certains cas un
+
+r61e non negligeable. En effet, on remarque que pour des reactions de coupure rkalisees
+en presence d'acide, lorsque le nombre de moles du compose 2 est superieur 8. celui des
+ions hydronium apportes par l'acide, la reaction de coupure de la liaison siliciee du
+modele 3 est soit partielle soit totale suivant la nature du solvant utilise (cf. tableau
+3 reactions 3 et
+
+4 et tableau 5 reaction 6). De plus, le temps au bout duquel toutes
+
+les liaisons siliciees sont coupees varie avec le nombre de moles d'acide utilisees.
+L'ajout d ' u n nucleophile diminue d'ailleurs le temps necessaire pour que la reaction
+de coupure soit totale.
+
+. Dans toutes les reactions de coupure des liaisons 0-Si realisees
+
+en milieu acide, l'eau presente dans le milieu rbctionnel joue un r61e non negligeable
+en faveur d'une reaction de coupure p l u s rapide. Ceci est conforme aux donnees de la
+litteratwe(5 ) .
+
+- 162 -
+
+.
+
+Si on a affaire B une reaction de coupure partielle ou totale
+
+mais dans ce dernier cas non instantanbe de la liaison O-Si(CH3)3 du modble 3, on constate
+que quelle que soit la nature de l'agent de coupure introduit, la reaction est rapide
+au debut et se ralentit par la suite.
+
+. Enfin on remarque qu'il est possible de rkaliser une reaction
+de coupure de toutes les liaisons siliciees en utilisant un nombre de moles d'agent(s)
+de coupure (ions hydronium avec ou sans sel) inferieur B celui du modble
+
+3.
+
+Ceci laisse
+
+supposer qu'une certaine amplification chimique intervient dans le milieu.
+2.
+
+-
+
+Etude qualitative de la r k t i o n de coupure des liaisons O-?d(CH3)3 contenues dans
+
+l e p o l y ( p - t r ~ t h y l s i ~ l o * g s t y r h n e ~b
+) et conclusion.
+SCHz-CHSi,
+
+Q
+
+Les resultat.? precedemment obtenus en phase liquide lors de 1'Btude
+
+des reactions de coupure de la liaison 0-Si dans les modbles 2 et 3 en presence d'acide
+et de nucleophile du type MXn- ont permis de tirer come conclusion que le radical
+trimethylsilyloxyle devait Btre celui qu'il fallait introduire dans le polymbre silici6
+
+I. En effet, dans les conditions dans lesquelles on utilise les sels de triarylsulfonium,
+on a constate que la reaction de coupure de la liaison O-Si(CH3)2C(CH3)3 du radical
+tert-butyldim6thylsilyloxyle ne s'effectue que partiellement.
+
+L'Btude de la reaction de coupure de la liaison O-Si(CH3)3 du
+modble
+
+3
+
+a montre qu'une grande similitude de comportement existait entre les resultats
+
+que nous avons obtenus et c e w qui concernent la polymerisation cationique d'epoxyde
+initiee par des sels de triarylsulfonium associes B divers nucleophiles (AsF6; SbF6;
+BF[)(I2).
+Ces diverses constatations laissent L penser que les sels de
+
+PFg;
+
+triarylsulfonium peuvent atre des agents de coupure pour atteindre le but recherche.
+En effet, la resine constitube par un polymbre tel que l'homopolym&re Ib est un sel
+de triphenylsulfonium (C@5 )3SMXn avec ou sans agent de transfert d'energie devrait
+&re dotde de bonnes proprietes microlithographiques. Le polymbre silicie I b sous l'action
+de l'acide de BriSnsted HMXn lib6r6 lors de l'irradiation UV devrait conduire au poly(phydroxystyrbne) dans les parties irradiees avec une vitesse de reaction voisine de celle
+qui est exigee pour la reaction de modification de structure d'une resine
+microlithographique.
+C'est
+
+pourquoi, nous
+
+avons
+
+realis6
+
+au
+
+prealable une
+
+etude
+
+-
+
+d'un
+qualitative
+de
+la
+reaction
+de
+coupure
+des
+liaisons
+O-Si(CH313
+poly(p-trimethylsilyloxystyr&ne) Ib (& = 56000 ; Mp = 108000; I = 1,93) dont la synthbse
+
+a ete ddcrite par ailleurs(l) (l3).
+
+Les resultats des differentes reactions effectuees sont repertorides
+dans le tableau 6 . 11s montrent une grande analogie de comportement du polym&re Ib et
+du modsle 3 soumis B divers agents de coupure de la liaison O-Si(CH3)3. En effet, la
+
+-163-
+
+TABLEAU
+
+6.
+
+- Etude
+
+-
+
+de la r e a c t i o n de coupure des l i a i s o n s O-Si(CH3)3 du poly(p-trimkthyl-
+
+Agent de coupure
+
+m k r o de
+
+' expkrience
+
+1
+
+THF
+
+(6)
+
+xktone
+2
+
+(5)
+
+Temps d e
+
+HC1**
+nombre de moles)
+
+H2O
+
+-
+
+I I
+
+instantanbe
+
+-
+
+Resultat
+
+I
+
+totale****
+coupwe
+
+Pas de for-
+
+wF6
+( 1,6.
+
+o,11.10-4
+
+3
+scktone
+
+1) 0,11.10-4
+
+(5)
+h***
+
+-
+
+I
+
+I
+
+-
+
+-
+
+prkcipite.
+
+I
+I
+
+-
+
+4h
+
+24 h
+
+I
+
+1
+
+instantanee
+
+coupure
+
+totale
+
+Pas de formation de
+precipite.
+coupure
+totale
+
+scktone
+(10)
+
+5***
+
++
+2 ) o,11.10-4
+
+Eau
+
+(4)
+acktone
+
+-
+
+22h
+
+-
+
+instantanee
+
+II
+
+-
+
+(10)
+
+3 ) 0,11.10-4
+
+*
+
+I1 II
+( 2 ) 0,2 m l l
+
+22 h
+
+-
+
+instantanee
+
+1 I
+
+I
+I
+
+Pas de formation de
+precipite.
+coupure
+
+totale
+Pas de formation de
+precipite.
+Pas de formation de
+precipite.
+coupure
+totale
+
+On op&e a i n s i : B T,7.10-4 mole d ' u n i t k s monodres du p o l y d r e I b dissous dans l e solvant
+approprie, on a j o u t e un ou p l u s i e u r s agents de coupure. L'apparition d'un prkcipit.6 blanc
+indique l a formation du poly(p-hydroxystyr&ne) I1 ( R = H ) . L'kvolution du polym6re est
+s u i v i e par
+( c f . t a b l e a u 1) et
+[ I b ( C C 1 ) * sio 250 cm-l ; 3 sic 1255-1265 cm-l ;
+94 1610 cmI1 ( f i l n )
+1610 cm- ;VOH 305b-&O cm
+
+Y,IH
+
+$4
+
+11
+
+.].
+
+**Concentration de l a s o l u t i o n aqueuse d ' a c i d e chlorhydrique u t i l i s e e : 36 % en poids.
+***Les c h i f f r e s 1, 2, 3 ont la meme s i g n i f i c a t i o n que dans l e t a b l e a u 5.
+****Dam
+ce t a b l e a u l e terme "coupure t o t a l e " s i g n i f i e qu'au temps de r e a c t i o n indique, la
+concentration en compos6 I b est &ale B zero.
+
+-164-
+
+reaction de coupure de toutes les liaisons O-Si(CH3)3 du polymhre Ib necessite la presence
+simultanee d'ions hydronium et d'un nucleophile PFg- 1 orsque les proportions sont telles
+que le nombre de moles d'unite monomhre est superieur au nombre de moles de sel et d'ions
+hydroniums dunis. En effet, l'action de l'acide seul ou du sel seul n'est alors pas
+suffisante pour provoquer la reaction de coupure totale de la liaison O-Si(CH3)3 du
+polymhre Ib meme en presence d'eau. Seuls les ions fluorure (reaction 1) permettent
+d'obtenir instantanement le poly(p-hydroxystyr&ne) lorsque le nombre de moles d'unitd
+monomere est sensiblement &gal au nombre de moles de sel.
+Compte tenu de ces premiers resultats positifs en phase liquide,
+nous allons poursuivre ce travail en etudiant le comportement d ' u n tel polymhre Ib en
+
+phase solide lorsqu'il est soumis en presence d'un sel de triph6nylsulfonium (C6H5)3SMXn
+8 l'action d'un rayonnement W.
+
+3.
+
+- PARTIE ExpERINgATAIE. -
+
+Spectres I.R.
+
+:
+
+Les spectres IR ont ete pris sur un appareil Varian, mod&le 298
+A en solution dans le tetrachlorure de carbone, le dichloromethane, ou en film.
+
+Spectres de RWlg :
+Les spectres de RMN ont ete enregistres SIX les appareils Varian
+T 60 06 EM390 ou BRUCKER WP80. Les solvants utilises sont le tetrachlorure de carbone,
+le chloroforme deutkrie, l'acktone deuteriee et l'eau deutkrike.
+
+Les deplacements
+
+chimiques sont mesures par rapport au signal du t6tram6thylsilane en ppm. Dans la
+description des spectres, les symboles suivants ont et6 utilisks : s (singulet) ; dc
+(doublet centre 8 ) ; de (doublet dlargi) ; tc (triplet centre 8 ) ; q (quadruplet centre
+
+A)
+
+; qe (quadruplet Blargi) ; mc
+
+(multiplet centre 8 ) ; me (multiplet 6largi) ; ma
+
+(massif).
+du p - ( t e r t - b u t y 3 d i m t i t h y l s i ~ ~ ~ ) t 2.
+ol~e
+Dans un tricol muni d ' u n refrigerant, d'une entree d'azote et
+
+-these
+d'un
+
+agitateur mecanique et dch6 au prealable convenablement, on introduit 6,18 g
+
+d'imidazole dissous d a m 70 m l de DMF anhydre, 9,8 g de p-cr6sol
+
+dissous dans 70 m l
+
+de DMF anhydre et 13,7 g de chlorotertbutyldimethylsilane en suspension dans 35 ml de
+DMF anhydre. Une flunee blanche se degage aussitbt et le melange ainsi obtenu est chauff6
+
+L 4OOC. La reaction est suivie
+
+sur
+
+plaque de gel de silice 60 F 254 avec comme Bluant
+
+un melange de dichloromethane et d'6ther (proportion
+
+4-1 en volume)
+
+(Rf
+
+: compose
+
+2
+
+: 0,7 ; composeh : 0,4).
+
+La reaction est terminee au bout d'une heure. Le melange est verse
+alors dans de l'eau glacee et extrait B 1'6ther. La phase organique est ensuite l a d e
+B l'eau jusqu'8 pH neutre et s6chee sup sulfate de magnesium. Par evaporation de la
+
+solution, on obtient un residu qui est ensuite chromatographie sur colonne de silice
+avec comme Bluant un melange d'ether de petrole - ether (proportion 19-len volume) (rdt
+
+;Pa
+
+en compose 2 : 95 % ) . (IR (CC14) : vsic 1258 cm-I
+I6O8 cm-ls
+Les caracteristiques du spectre de RMN sont mentionnees dans le tableau 1.
+-these
+
+du p-trim6t~Isilylo~olu6ne
+3.
+Dans un erlenmeyer rode de 50 ml muni d'une sortie 8 l'air libre
+
+afin d'kliminer le gaz ammoniac qui se forme l o r s de la reaction, on introduit 10,8
+g de p-cresol
+
+3
+
+et 20 g d'hexamethyldisilazane (HMDS). Le melange est lais&
+
+sous
+
+agitation B 3OoC pendant 12 heures. Par distillation (Ebb : 86OC), on recupere le compose
+
+3 desire avec un rendement de 95
+
+%.(IR
+
+(CCl4) :?sic 1255 cm-I ;)lQ 1606 cm-l).Les
+
+caracteristiques du spectre RMNlH sont mentionnees dans le tableau 1.
+
+- 165 -
+
+4.
+
+- mu-.
+
+1. W. AEU-WI These d'Universit8, U.S.T.L., MONTPELLIER, Juin(1987).
+2. G.B. TAyIllfl et T.I. WOLF, Polym. Eng. and. Sci., Mid. Nov., 20, 16, 1087-1092, (1980).
+3. J.V. CRIYELII)et J.H.W. LAM., Macromolecules, 2 (611, 1307-1315, (1977).
+4. Y. GUIKDX, R. R)RlTR, G. Y a A g M et J.W. GI-.,
+Tetrahedron Lett., 3 (42), 4717-
+
+4720 (1984).
+5. C. EABoRIl "Orgenosillcon compounas" Eutt-rth
+and Co, London (1960), chap. 8 et
+9, 301-304.
+6. E. AKERMM, Acta. Chem. Scand., Ser. B, I
+&
+, 298 - 305 (1956).
+7. E. AKERMAU, Acta. Chem. Scand., Ser. B, 2, 373-381 (1957).
+8. A. RADEW, H. UMPARCZYCK et J. EALKIWICZ, J. of. Organometal. Chem., 17, 307 310 (1974).
+9. Y.E. JUHG et C.A., Me. COME., Tetrahedron Lett., 3,2935-2938, (1976).
+10. S.H. IABGER, R.A. FRIEDEL e t A.G. SHARgBT, Jr. Anal. Chem., 29, 770-776, (1956).
+ll. S.H. ~ G E B P.
+, PAETAGlS et J. WEIIDER, Chem. and Ind. (Londox, 1664-1665, (1958).
+12. J.V. CRIYELII) et J.H.W. W.,
+J. of. polym. Sci., Polym. Chem. Ed., 17, 977 - 999,
+(1979).
+U. 11. W I T , F. 3lDHFILS, L. G I W . C. KXJ'IG~OUL, R. SAGlW23 et F. SCHUE ( & paraftre).
+
+-166-
+

@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">La religion dans l’espace public : quelques commentaires sur les positions récentes de Habermas.</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">La religion dans l’espace public : quelques commentaires sur les positions récentes de Habermas.</title><author xml:id="author-0000"><persName><forename type="first">Stéphane</forename><surname>Courtois</surname></persName><affiliation>Université du Québec à Trois-Rivières</affiliation></author><idno type="istex">46FD9AB814D5EB8053357D3335A701497C68E8B1</idno><idno type="ark">ark:/67375/6GQ-672FQ3SG-J</idno><idno type="DOI">10.1017/S0012217310000132</idno><idno type="PII">S0012217310000132</idno><idno type="article-id">00013</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-03"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="91">91</biblScope><biblScope unit="page" to="112">112</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Cet article présente une évaluation d’ensemble des positions récentes de Habermas sur la place de la religion dans l’espace public. Après avoir comparé les positions respectives de Rawls et de Habermas sur cette question, en vue de mieux faire ressortir l’originalité de la contribution de Habermas, l’auteur se propose ensuite de montrer que cette dernière soulève un certain nombre de difficultés au plan théorique et pratique. Au plan théorique, il est démontré que la contribution de Habermas soulève un problème de cohérence par rapport à la conception plus générale qu’il se fait de la démocratie délibérative. Au plan pratique, le bien-fondé du rôle civique attendu des citoyens, tant religieux que laïcs, dans l’espace public ne paraît pas exempt de problèmes.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: This paper aims at providing a general assessment of Habermas’s recent positions on the place of religion in the public sphere. After reviewing and contrasting Rawls’s and Habermas’s respective positions on the issue, it argues that Habermas’s contribution raises some difficulties both theoretical and practical. At the theoretical level, it is shown that Habermas’s contribution poses a problem of coherence with respect to his more general conception of deliberative democracy. At the practical level, the soundness of Habermas’s view of the respective roles expected of religious and secular citizens in the public sphere is brought into question.</p></abstract></profileDesc><revisionDesc><change when="2010-03">Published</change></revisionDesc></teiHeader><text><body><div><p>
+La religion dans l’espace public :
+quelques commentaires sur les positions
+récentes de Habermas.
+
+STÉPHANE COURTOIS
+
+Université du Québec à Trois-Rivières
+
+RÉSUMÉ : Cet article présente une évaluation d’ensemble des positions récentes de
+Habermas sur la place de la religion dans l’espace public. Après avoir comparé les
+positions respectives de Rawls et de Habermas sur cette question, en vue de mieux faire
+ressortir l’originalité de la contribution de Habermas, l’auteur se propose ensuite de
+montrer que cette dernière soulève un certain nombre de difﬁcultés au plan théorique et
+pratique. Au plan théorique, il est démontré que la contribution de Habermas soulève
+un problème de cohérence par rapport à la conception plus générale qu’il se fait de la
+démocratie délibérative. Au plan pratique, le bien-fondé du rôle civique attendu des
+citoyens, tant religieux que laïcs, dans l’espace public ne paraît pas exempt de
+problèmes.
+ABSTRACT: This paper aims at providing a general assessment of Habermas’s recent
+positions on the place of religion in the public sphere. After reviewing and contrasting
+Rawls’s and Habermas’s respective positions on the issue, it argues that Habermas’s
+contribution raises some difﬁculties both theoretical and practical. At the theoretical
+level, it is shown that Habermas’s contribution poses a problem of coherence with respect to his more general conception of deliberative democracy. At the practical level,
+the soundness of Habermas’s view of the respective roles expected of religious and
+secular citizens in the public sphere is brought into question.
+
+Au cours des dernières décennies, la place de la religion dans l’espace public
+de nos démocraties libérales a reçu une attention accrue, tant dans le monde
+universitaire que dans les milieux politiques et les cercles médiatiques. Alors
+Dialogue 49 (2010), 91-112.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000132
+
+92
+
+Dialogue
+
+que les débats universitaires se sont jusqu’à tout récemment centrés sur les
+travaux de John Rawls (1993; 1999) et ceux (par exemple Audi, 1997) qui
+s’inscrivent dans la tradition du libéralisme politique, il semble qu’il faille désormais compter sur une autre contribution majeure. Dans des études récentes,
+Jürgen Habermas (2008a; 2008b; 2008c) s’est à son tour penché sur la place et
+le rôle de la religion dans la sphère publique. En dépit de sa théorie inﬂuente
+de la démocratie délibérative (1997; 1998a; 1998b), il était resté jusqu’à tout
+récemment plutôt muet sur le rôle politique de la religion dans la sphère publique et sur la portée des contributions religieuses aux délibérations démocratiques, à la différence des autres approches majeures de la démocratie
+délibérative (Rawls 1993; 1999; Gutmann et Thompson 1996; 2004, p. 66-78;
+Gutmann, 2003, p. 151-91), laissant ainsi plusieurs questions en suspens. Les
+raisons religieuses, que font valoir non seulement l’Église et les associations
+religieuses, mais également les communautés culturelles issues de l’immigration
+pour défendre ou s’opposer à certaines lois et politiques publiques, sont-elles
+recevables? Doivent-elles inﬂuencer l’opinion publique et les décideurs
+politiques? Ou les délibérations publiques ne doivent-elles admettre comme
+légitimes que les raisons publiques, accessibles à tous, et non les raisons idiosyncrasiques, propres à une communauté de croyance particulière, fondées sur
+une certaine conception du monde, philosophique, morale ou religieuse? À ces
+questions cruciales pour toute théorie de la démocratie délibérative, Habermas
+ne pouvait rester indifférent et se devait de prendre position. C’est précisément
+à cette tâche que sont consacrées ses contributions récentes.
+J’entends dans ce texte proposer une évaluation d’ensemble des positions de
+Habermas sur la place de la religion dans l’espace public. J’entends montrer
+que celles-ci soulèvent un certain nombre de difﬁcultés tant au plan théorique
+que pratique. Au plan théorique, ce qui m’apparaît faire problème est leur
+cohérence à la lumière de la conception plus générale que se fait Habermas de
+la démocratie délibérative. Au plan pratique, c’est le bien-fondé du rôle civique
+attendu des citoyens, tant religieux que laïcs, dans l’espace public. J’exposerai
+ces difﬁcultés et les examinerai en détail dans les troisième et quatrième parties
+de mon texte. Mais au préalable, j’aimerais consacrer la première et la seconde
+parties à un rappel des positions respectives de Rawls et de Habermas sur la
+place de la religion dans l’espace public.
+1.
+La conception actuellement dominante de la place de la religion dans la sphère
+publique est celle à l’œuvre dans les écrits de Rawls sur la raison publique.
+Avec l’idée de raison publique, Rawls (1993, p. 216-217) entend proposer un
+certain modèle de légitimation démocratique — le modèle libéral — c’est-àdire une description de la nature des justiﬁcations auxquelles les lois, les politiques publiques et l’ensemble des décisions politiques doivent en appeler
+ultimement pour être déclarées légitimes. Selon ce modèle, les décisions politiques ne peuvent être légitimement justiﬁées si elles font appel de manière
+
+Religion et espace public 93
+
+partiale aux valeurs promues par une conception particulière du monde —
+morale, philosophique, ou religieuse — qui serait endossée par certains citoyens
+et non par d’autres, puisque dans ce cas l’exercice du pouvoir reviendrait à
+l’imposition forcée d’une telle conception à l’ensemble des citoyens qui n’y
+adhèrent pas. Pour être légitimes, les justiﬁcations doivent être impartiales et
+en appeler à la «raison naturelle» de chacun, c’est-à-dire à des arguments
+publics, accessibles dans une égale mesure à toutes les personnes, ainsi qu’à
+des valeurs, que Rawls appelle les valeurs politiques libérales, ou encore les
+valeurs de la raison publique (ibid., p. 224), qui correspondent aux normes
+constitutionnelles fondamentales d’un État de droit dont il est raisonnable de
+penser qu’elles méritent d’être adoptées par tous les citoyens quelle que soit
+leur vision du monde.
+Le modèle de la raison publique de Rawls offre ni plus ni moins une assise
+théorique à la séparation historique de l’État et de l’Église et à l’indépendance
+du pouvoir politique par rapport aux légitimations religieuses. Cette séparation
+et cette indépendance s’expriment de plusieurs manières dans ce modèle. Tout
+d’abord, elles s’expriment dans les sphères de la société où, selon Rawls, se
+déploie la raison publique. Celle-ci a son siège, non dans la société civile, lieu
+uniquement d’une culture d’arrière-plan («background culture», cf. ibid.,
+p. 215 et 220; 1999, p. 134) faite d’une multitude de visions du monde globales
+(«comprehensive») au caractère non public, mais dans les forums publics
+(1993, p. 215; 1999, p. 133) constitués par l’État et ses organes (parlements,
+tribunaux, etc.), qui forment le lieu de la culture politique publique (1993,
+p. 220; 1999, p. 134 n. 13 et p. 152-156). La raison publique désigne ainsi le
+discours public tenu par les législateurs, les fonctionnaires, les membres du
+pouvoir exécutif, les juges dans leurs décisions, les représentants des partis
+politiques, les candidats au pouvoir, les organisateurs de campagne électorale
+et les membres de partis politiques, et, enﬁn, les citoyens eux-mêmes dans
+leurs rôles d’électeurs ou lorsqu’ils s’engagent dans la plaidoirie politique
+(1993, p. 215 et p. 382 n. 13; 1999, p. 133-134). La séparation entre le domaine
+politique et le domaine religieux s’exprime, en second lieu, dans les thématiques sur lesquelles s’exerce la raison publique. Rawls étend l’exercice de la
+raison publique uniquement à certaines questions très précises qu’il appelle les
+questions constitutionnelles essentielles («constitutional essentials») et les
+questions de justice de base (1993, p. 214; 1999, p. 133) — comme celles de
+savoir qui a le droit de vote ou quelles religions méritent d’être tolérées —, et
+non aux questions religieuses — comme celles de savoir si la vie a un caractère
+sacré ou si l’homosexualité est un vice qui doit être condamné. De plus, ces
+questions ont à être tranchées par des valeurs politiques uniquement — les
+valeurs de la raison publique — et non par des valeurs religieuses. Finalement,
+la séparation entre le domaine politique et le domaine religieux s’exprime dans
+l’idéal de citoyenneté découlant de l’usage de la raison publique : les citoyens
+et les élus accomplissent leur «devoir de civilité» (1993, p. 217; 1999,
+p. 135-36) lorsqu’ils sont à même d’exposer les uns aux autres les raisons pour
+
+94
+
+Dialogue
+
+lesquelles les décisions législatives, ou les programmes et les partis politiques
+qu’ils défendent et pour lesquels ils votent peuvent être soutenus par les valeurs
+politiques de la raison publique.
+En d’autres termes, un citoyen ou un élu n’accomplirait pas son devoir de
+civilité si, pour justiﬁer son accord ou son désaccord avec une décision politique, ou pour justiﬁer son vote, il en appelait à des valeurs non publiques, par
+exemple à des valeurs religieuses puisées au sein de sa vision du monde particulière, valeurs que ne partagent pas les autres citoyens ou auxquelles ils
+n’ont pas accès. Ce citoyen ou cet élu violerait alors le principe de réciprocité
+(1999, p. 132, p. 136-37, p. 141) — l’accessibilité et l’acceptabilité publique
+des raisons offertes aux autres citoyens — sur lequel doit se fonder le devoir de
+civilité ainsi que l’idée même de raison publique. Dans son article «The Idea
+of Public Reason Revisited», Rawls a élargi quelque peu sa conception et, à
+l’intérieur de ce qu’il appelle la «vision large de la culture politique publique»
+(1999, p. 152), il autorise désormais que des raisons puisées dans les visions du
+monde globales de chacun puissent être introduites dans la discussion publique, à la condition cependant que, «au moment opportun», des raisons proprement politiques soient présentées à l’appui des positions défendues. C’est
+ce que Rawls appelle la «clause restrictive» (1999, p. 152).
+L’une des grandes forces du modèle de la raison publique de Rawls, si on le
+compare par exemple à d’autres approches libérales comme celles de Robert
+Audi (1997), est qu’il ne se contente pas d’identiﬁer simplement la raison publique avec l’ensemble des raisons séculières ou non religieuses. En effet,
+comme le note Rawls lui-même (1999, p. 148 n. 40), les raisons séculières offertes à l’appui d’une décision législative ne sont pas acceptables simplement
+en vertu du fait qu’elles sont non religieuses. Les raisons dérivées de visions
+du monde conﬂictuelles — communautaristes, marxistes, naturalistes, etc. —
+ne sont pas, en contexte pluraliste, publiquement acceptables pour tous les
+citoyens même s’il s’agit de raisons séculières. Rawls limite plutôt la raison
+publique à un ensemble plus restreint de raisons séculières, celles qu’il qualiﬁe
+de «proprement politiques» (1999, p. 152) et qui se fondent sur les valeurs et
+sur les idéaux qui animent nos sociétés démocratiques libérales et qui trouvent
+expression dans les principes constitutionnels fondamentaux de ces mêmes sociétés. Dans la mesure où ces principes, ces valeurs et ces idéaux rendent possible un «consensus par recoupement» entre les citoyens, ils forment le
+réservoir de raisons publiquement acceptables dans lequel ils peuvent puiser
+pour rendre raison des décisions législatives et des politiques publiques.
+Mais le modèle de la raison publique de Rawls pose également un certain
+nombre de difﬁcultés. Celle qui est probablement la plus abondamment discutée (McCarthy, 1994, p. 52; Kymlicka, 1995, p. 158-163; Daniels, 1996, p. 151
+et 168-174; Cooke, 2000, p. 960-961; Yates, 2007, p. 881-885) est que Rawls
+demanderait ni plus ni moins aux citoyens d’être des «soi divisés» offrant différents types de raisons à l’appui de leurs croyances selon qu’ils sont dans la
+sphère publique, où doivent n’entrer en jeu que des raisons publiques fondées
+
+Religion et espace public 95
+
+sur des valeurs politiques dont on présume qu’elles pourraient être publiquement acceptées par les autres citoyens selon l’exigence de réciprocité, ou selon
+qu’ils sont dans la sphère privée ou non publique, où cette fois ils peuvent à
+leur gré puiser dans le réservoir de raisons particulières offertes par la vision
+du monde morale, métaphysique ou religieuse à laquelle ils adhèrent. Kymlicka
+a formulé le problème de manière provocante : «Rawls n’a pas expliqué
+pourquoi les gens qui sont communautaristes dans la vie privée devraient être
+libéraux dans la vie politique» (Kymlicka, 1995, p. 162). C’est encore une fois
+ce type d’objection que lui ont adressé des auteurs comme Wolterstorff
+(1997) et Weithman (2002), à partir d’une perspective religieuse. L’objection
+a sans doute été formulée le plus clairement par Wolterstorff : «il revient aux
+convictions religieuses d’un bon nombre des membres religieux de notre société le devoir de baser leurs décisions au sujet des questions fondamentales
+de justice sur leurs convictions religieuses. La question de savoir s’ils doivent
+le faire ou non n’est pas pour eux une option » (Wolterstorff, 1997, p. 105;
+ma traduction).
+2.
+Ce qui précède constitue le point de départ des réﬂexions de Habermas sur la
+place de la religion dans la sphère publique. Elles ont pour particularité de
+tenter de concilier, d’une part, le critère libéral de légitimité démocratique et,
+d’autre part, l’exigence d’inclusion des citoyens religieux confrontés au
+problème de devoir trouver, lorsqu’ils s’engagent dans la plaidoirie politique,
+des raisons publiques séculières à l’appui de leurs croyances religieuses aﬁn de
+rencontrer l’exigence de réciprocité. Tout d’abord, Habermas (2008a, p. 182)
+s’accorde entièrement avec la position libérale et, comme elle, il défend la séparation de l’État et de l’Église ainsi que la priorité des raisons publiques séculières sur les raisons religieuses dans la plaidoirie politique. Cependant,
+Habermas juge la clause restrictive rawlsienne «inacceptable» (2008a, p. 189)
+en ce qu’elle imposerait aux citoyens professant une religion «un fardeau mental et psychologique insupportable» (ibid., p. 188) en leur demandant de «cliver
+leur identité en identité publique et en identité privée dès l’instant où ils
+participent à des discussions publiques» (ibid., p. 189; également 2008c,
+p. 149-50). Il propose plutôt d’amender la clause restrictive de Rawls par une
+«clause institutionnelle de traduction» (2008a, p. 189). Cette clause accepte la
+clause restrictive de Rawls, mais uniquement pour les délibérations politiques
+qui se mènent dans ce que Habermas appelle la «sphère publique formelle»,
+c’est-à-dire au niveau institutionnel des parlements, des cours de justice et de
+l’administration publique, ce qui correspond en gros aux forums publics politiques du modèle de la raison publique de Rawls. Cependant, dans ce que
+Habermas appelle les «espaces publics informels» — qui incluent, non seulement
+les différentes associations de la société civile, mais également les espaces
+«intermédiaires» entre la société civile et les forums publics politiques, ceux
+formés principalement par les médias d’information : journaux, magazines,
+
+96
+
+Dialogue
+
+télévision, radios, etc., qui sont le siège d’une culture politique «non publique»
+chez Rawls (1999, p. 134 n. 13) — l’exigence imposée aux citoyens religieux
+de fournir des raisons publiques séculières à l’appui de leurs croyances et de
+leurs prises de position politiques serait éliminée là où de telles raisons ne seraient pas disponibles. En d’autres termes, les citoyens religieux qui participent à la plaidoirie politique dans de tels forums pourraient à leur guise offrir
+des raisons strictement religieuses à l’appui de leurs positions politiques, sans
+se soucier de devoir offrir en parallèle des raisons publiques séculières et satisfaire l’exigence de réciprocité que requiert de leur part le devoir de civilité.
+Bien entendu, s’ils veulent que leurs positions politiques soient prises en
+compte du point de vue de la raison publique, qu’elles franchissent le seuil
+institutionnel qui les sépare des partis politiques, des parlements, des tribunaux
+et des ministères, et qu’elles inﬂuencent les décideurs politiques, une obligation de traduction séculière s’impose. Mais elle ne reposerait plus entièrement
+sur leurs épaules, comme le suggère le modèle de la raison publique de Rawls,
+mais devrait être partagée avec les citoyens laïcs, de qui Habermas attend
+qu’ils coopèrent aux opérations de traduction aﬁn de soulager leurs concitoyens religieux du poids supplémentaire qu’ils ont à porter en raison de leur
+mode de vie (Habermas, 2008a, p. 189 et 191; 2008b, p. 169; 2008c, p. 150).
+Au premier coup d’oeil, l’amendement qu’apporte Habermas au modèle de
+la raison publique de Rawls n’a rien de bien substantiel. Rawls, pas plus que
+Habermas, n’impose aux citoyens religieux dans la société civile ou dans les
+médias d’information l’obligation de transmettre leurs prises de position politiques dans un langage séculier généralement accessible aux autres citoyens. Il
+serait incompatible avec les libertés de religion, de conscience et d’expression
+d’empêcher les citoyens religieux dans de tels forums de livrer leur message
+politique dans le langage qui leur convient. Le devoir de civilité et l’exigence
+de réciprocité ne sont pour Rawls que des obligations «morales», non «légales» (Rawls, 1993, p. 217; 1999, p. 136) — tout citoyen, quelle que soit son
+allégeance à une vision du monde globale, religieuse ou laïque, se doit de faire
+«comme si», dans sa plaidoirie politique ou au moment d’exercer son vote, il
+était un législateur obéissant aux normes de la raison publique (1999, p. 135).
+Mais il ne s’agit là que d’un idéal, ou, pour reprendre une terminologie kantienne, d’un devoir «large», relevant d’une éthique de la citoyenneté en contexte
+démocratique : il serait assurément déraisonnable que les citoyens se soustraient entièrement à leur devoir de civilité et à l’exigence de réciprocité, mais
+il ne leur revient pas moins le soin de déterminer les circonstances qu’ils jugent
+les plus appropriées pour accomplir leur obligation civique. La clause restrictive de Rawls renvoie pour sa part à une obligation beaucoup plus stricte et elle
+ne peut en toute logique s’appliquer aux citoyens ordinaires, mais seulement
+aux législateurs, aux membres du pouvoir exécutif, aux juges, aux représentants des partis politiques et aux candidats au pouvoir. En d’autres termes, la
+vision large de la culture politique publique de Rawls permettrait aux citoyens
+religieux, dans les tribunes publiques ofﬁcielles de l’État et de ses organisations,
+
+Religion et espace public 97
+
+de recourir à des raisons religieuses pour justiﬁer leur accord ou leur désaccord
+avec les décisions législatives, mais à une condition expresse — c’est là l’objet
+de la «clause restrictive», exprimant une obligation stricte : celle de recourir à
+des raisons séculières publiquement accessibles le «moment venu» — c’est-àdire au moment d’exercer leur vote, d’exposer aux citoyens les raisons pour
+lesquelles il convient de faire la promotion de certaines politiques publiques,
+ou de rendre un jugement public.
+Si cette lecture est juste, Habermas aurait alors tort de juger la clause restrictive inadmissible pour les citoyens religieux, puisque, de manière analogue à
+sa propre approche, elle ne s’applique qu’à leur plaidoirie politique dans la
+«sphère publique formelle». Il n’y aurait, en somme, aucune réelle différence
+entre la clause restrictive rawlsienne et la clause habermassienne de traduction
+institutionnelle pour ce qui est de la ﬁn poursuivie : assurer la neutralité de
+l’État et l’indépendance du pouvoir politique par rapport aux légitimations religieuses. Dans les deux cas, les citoyens religieux qui, comme Weithman et
+Wolterstorff, désirent avoir la possibilité d’asseoir en toute circonstance leur
+plaidoirie politique sur leurs convictions religieuses resteront autant insatisfaits par les options que leur offrent Rawls ou Habermas (pour des conclusions
+qui vont dans le même sens, cf. Boettcher, 2009). La grande différence entre
+les deux approches réside plutôt dans les moyens utilisés, c’est-à-dire dans
+l’obligation morale que Habermas fait, non plus aux citoyens religieux, mais
+aux citoyens laïcs de collaborer avec les premiers pour traduire leurs prises de
+position dans un langage séculier. En d’autres termes, alors que Habermas est
+prêt à exempter les citoyens religieux de leur devoir de civilité et de l’exigence
+de réciprocité dans les forums informels de la société civile ou dans les espaces
+médiatiques, il juge qu’il incombe aux citoyens laïcs, non seulement l’obligation
+de satisfaire à leur devoir de civilité au sens de Rawls, mais également
+l’obligation morale supplémentaire d’encourager les citoyens religieux dans
+leur effort pour traduire leurs prises de position dans un langage séculier. Il
+convient ici d’examiner les raisons que Habermas donne à l’appui de cette
+position pour le moins surprenante.
+Celles-ci sont d’abord historiques. Habermas estime que la modernité occidentale aurait confronté la conscience religieuse à trois déﬁs : celui du pluralisme religieux, celui du monopole exercé par les sciences modernes sur le
+savoir et celui de l’avènement d’une morale égalitaire et universaliste (2008a,
+p. 197-98; 2008c, p. 149). Sous ces trois points de vue, les communautés religieuses auraient fait face à des «dissonances cognitives» que n’auraient pas
+expérimentées les citoyens laïcs, dissonances les ayant obligés à réinterpréter
+de l’intérieur leurs traditions dogmatiques et ayant exigé d’elles des efforts
+d’apprentissage et d’adaptation qui auraient été épargnés aux citoyens laïcs
+(2008a, p. 197). Habermas juge qu’un fardeau «asymétrique» aurait à être
+porté par religieux et laïcs dans nos sociétés : l’État séculier exigerait certaines
+attitudes épistémiques de la part de ses membres que les citoyens laïcs peuvent
+adopter sans peine, alors qu’elles demandent des efforts supplémentaires
+
+98
+
+Dialogue
+
+d’adaptation de la part des citoyens religieux (ibid., p. 191 et 199; 2008c,
+p. 149). C’est pour compenser leur effort d’adaptation à l’État séculier que les
+citoyens laïcs devraient accomplir, pense Habermas, un effort d’adaptation
+complémentaire à l’égard de leurs concitoyens religieux, effort allant au-delà
+de la simple tolérance respectueuse à leur endroit et consistant à surmonter la
+compréhension limitée, purement laïciste, que la modernité séculière se fait
+d’elle-même (2008a, p. 199-201; 2008b, p. 168; 2008c, p. 143).
+Habermas demande ni plus ni moins aux citoyens laïcs de s’ouvrir au
+possible contenu de vérité des assertions religieuses, de ne pas rejeter d’emblée
+la valeur cognitive des contributions religieuses aux débats publics (2008a,
+p. 191 et 200; 2008b, p. 168-169; 2008c, p. 150). Cela ne signiﬁe pas qu’ils
+doivent renoncer à leur attitude épistémique séculière et abandonner le primat
+des raisons séculières sur les raisons religieuses dans les débats publics. Ce qui
+leur est demandé est plutôt d’œuvrer à un quête coopérative de la vérité avec
+leurs concitoyens religieux et à un effort de traduction de leur message aﬁn que
+son contenu puisse se voir exprimé dans une langue publique séculière accessible à tous. Une telle coopération exige, bien entendu, un changement
+d’attitude de la part des citoyens laïcs, qui à une société postséculière (2008a,
+p. 200; 2008b, p. 166) qui attend d’eux qu’ils mettent «à l’épreuve les limites
+de la raison séculière aﬁn de mieux pouvoir les garantir» (2008a, p. 201), de la
+même manière que la modernité occidentale a exigé de la part des citoyens
+religieux un effort de réinterprétation de leurs propres traditions. Mais il s’agit
+là, estime Habermas, du prix à payer pour que le fardeau que l’État séculier a
+imposé historiquement aux citoyens religieux soit également porté de manière
+symétrique par les citoyens laïcs. «L’ethos civique démocratique ne peut être
+également exigé de tous les citoyens que si religieux et laïques passent par des
+processus d’apprentissage complémentaires» (2008a, p. 201; également 2008c,
+p. 148).
+Les raisons données en second lieu par Habermas et qui sous-tendent les
+premières sont cette fois davantage d’ordre sémantique et épistémique. Si les
+citoyens laïcs doivent s’efforcer de traduire le contenu du message religieux
+dans une langue séculière, ce n’est pas simplement pour soulager leurs concitoyens religieux des contraintes d’adaptation que le monde séculier leur a historiquement imposées, mais c’est également parce que Habermas estime que le
+message religieux possède «un statut épistémique qui n’est absolument pas
+irrationnel» (2008b, p. 168), qu’il recèle un potentiel «de signiﬁcation» (ibid.,
+p. 166) ou «de vérité» (ibid., p. 169) que les laïcs doivent s’efforcer de recueillir et de sauvegarder. L’opération de traduction qui leur est demandée n’a donc
+pas qu’une valeur instrumentale, mais une valeur intrinsèque. Habermas craint
+que, si le monde profane adopte une attitude laïciste trop bornée dans son commerce avec les communautés religieuses, il ne coupe «la société séculière de
+ressources importantes pour la fondation du sens» (2008a, p. 190). «Il serait
+déraisonnable d’écarter a priori du revers de la main l’idée selon laquelle
+les religions universelles [...] méritent de conserver leur place dans l’espace
+
+Religion et espace public 99
+
+différencié de la modernité, parce que leur contenu cognitif n’est toujours pas
+tari. On ne peut en tout cas pas exclure qu’elles soient porteuses de potentiels
+sémantiques qui, si on en libère les contenus profanes de vérité, pourraient
+dégager une force d’inspiration valant pour la société dans son entier » (ibid.,
+p. 204). L’attitude civique qu’attend Habermas des citoyens laïcs en est donc
+une d’ouverture au contenu sémantique du message religieux, de «disposition
+à apprendre» des assertions religieuses, pour autant que ces dernières peuvent,
+si elles sont correctement traduites, potentiellement contribuer à l’articulation
+des intuitions profanes et à la clariﬁcation des questions d’intérêt public (2008a,
+p. 190 et 205; 2008b, p. 164). Et c’est pour cette raison que les citoyens laïcs
+ont selon lui la responsabilité morale de collaborer avec les citoyens religieux
+à la traduction du contenu de leur message dans une langue séculière accessible à tous.
+J’entends dans les sections suivantes discuter plus en détail le bien-fondé
+des raisons que donne Habermas pour soutenir ses vues. Comme je l’ai mentionné en introduction, elles me semblent poser un ensemble de problèmes tant
+au plan théorique que pratique. Je commencerai tout d’abord mon examen par
+les problèmes théoriques, lesquels touchent en premier lieu les secondes raisons avancées par Habermas, d’ordre sémantique et épistémique.
+3.
+Jusqu’à ce que paraissent ses essais sur la place de la religion dans l’espace
+public, le discours religieux était à considérer chez Habermas comme une ﬁgure particulière du discours éthico-politique, qui ne représente lui-même que
+l’une des multiples formes que prennent les délibérations publiques au sein de
+sa théorie de la démocratie délibérative (Habermas, 1992, p. 95-110; 1997,
+p. 169-188). Il prend place, en effet, aux côtés des discours sur la justice, ou se
+voit formulé le point de vue déontologique des droits et de la prise en compte
+impartiale des intérêts de chacun, du discours pragmatique, où prime le point
+de vue téléologique de la rationalité des moyens par rapport aux ﬁns, et des
+simples négociations, visant la conciliation équitable d’intérêts divergents. Le
+discours éthico-politique ferait valoir de son côté le point de vue perfectionniste des ﬁns elles-mêmes à réaliser en fonction d’une certaine conception du
+bien. Habermas conçoit cette forme de délibération comme un processus
+herméneutique de compréhension de soi où les membres d’une communauté
+(séculière ou religieuse) sont amenés à s’interroger sur leur identité commune,
+ainsi que sur les valeurs constitutives, les idéaux et les conceptions du bien qui
+la fondent. Il va de soi que de telles délibérations ne peuvent posséder la force
+et l’étendue des discours sur la justice. Ce qui est recherché n’est pas ce qui est
+dans l’intérêt «de tous» du point de vue de l’universalité et de l’impartialité,
+mais ce qui est bon «pour nous», à la lumière de nos valeurs et de nos idéaux
+au sujet de la vie bonne. En d’autres termes, les délibérations éthiques ont une
+dimension inévitablement particulariste, subjective. Leur valeur ne peut se
+mesurer à leur capacité à engendrer des résultats qui reﬂèteront des normes
+
+100
+
+Dialogue
+
+acceptables pour tous, mais uniquement les valeurs et idéaux substantiels
+communément partagés par les membres d’une communauté d’appartenance
+particulière.
+Les essais récents de Habermas attirent cependant l’attention sur deux différences fondamentales entre convictions religieuses et conceptions éthiques
+séculières du bien. Tout d’abord parce que les premières, à la différence des
+secondes, jouiraient d’une sorte d’immunité par rapport à la discussion argumentée : «par leur référence [...] à l’autorité dogmatique d’un noyau intangible
+de vérités révélées, les convictions existentielles qui s’enracinent dans une religion échappent à ce type de discussion argumentée sans réserves auquel se
+livrent ces autres orientations éthiques et conceptions du monde que sont les
+“conceptions séculières du bien”» (Habermas, 2008a, p. 188; 1998c, p. 351
+n. 37 et 39). Alors que jusqu’ici, Habermas considérait les discours sur la justice comme un moyen de surmonter les désaccords axiologiques (1992, p. 149;
+1998c, p. 312-313), c’est-à-dire comme un moyen de poursuivre la recherche
+de consensus à d’autres niveaux de discours que ceux où surgissent de tels
+désaccords, il considère désormais que les différends qui mettent en jeu les
+convictions religieuses devraient préalablement être surmontés par un changement d’attitude de la part des citoyens laïcs, consistant à faire «la différence
+entre les certitudes de foi et les exigences de validité publiquement critiquables» et à s’abstenir «de la prétention rationaliste à distinguer […] dans les
+doctrines religieuses ce qui est raisonnable de ce qui ne l’est pas» (2008a,
+p. 205). Habermas demande ni plus ni moins aux citoyens laïcs de ne pas discuter
+ou juger directement de la valeur de vérité du message religieux, comme ils le
+font pour les autres conceptions séculières du bien, avant que celui-ci n’ait
+bénéﬁcié d’une traduction séculière préalable, traduction à laquelle ils doivent
+eux-mêmes prendre part en collaboration avec les citoyens religieux.
+L’autre différence fondamentale entre convictions religieuses et conceptions
+séculières du bien est que, alors que les secondes seraient, comme nous l’avons
+vu, des conceptions empreintes de subjectivité et de particularité, faisant valoir
+ce qui est bon «pour nous» à la lumière de nos valeurs et de nos idéaux au sujet
+de la vie bonne, les premières recèleraient un contenu de vérité ayant potentiellement une pertinence publique valant pour toute personne. En d’autres termes,
+elles auraient une portée générale ou universelle potentielle équivalente à celle
+visée par les discours sur la justice.
+Ces différences entre convictions religieuses et conceptions séculières du
+bien posent des difﬁcultés importantes de cohérence et de compatibilité avec la
+conception plus générale que se fait Habermas de la démocratie délibérative.
+Deux d’entre elles, en particulier, méritent d’être signalées.
+1) La première concerne la prétention à la vérité des assertions religieuses.
+Habermas afﬁrme ici deux choses difﬁciles à concilier. D’une part, les assertions religieuses auraient une portée épistémique plus forte que les conceptions
+séculières du bien, elles recèleraient un contenu de vérité ayant potentiellement une valeur universelle. D’autre part, cependant, Habermas attend des
+
+Religion et espace public 101
+
+citoyens qu’ils s’abstiennent de juger de ce contenu de vérité, les certitudes de
+foi et les vérités révélées n’étant pas des exigences de validité publiquement
+critiquables.
+Deux problèmes se présentent ici. Le premier est que Habermas ne donne
+aucune raison satisfaisante en mesure d’expliquer pourquoi les assertions religieuses pourraient posséder un potentiel de vérité différent ou plus grand que
+les conceptions séculières du bien. Que les unes et les autres prétendent avoir
+une valeur universelle constitue en fait une pétition de principe puisqu’il est
+dans la nature même des visions du monde, religieuses, morales ou métaphysiques, de mettre en avant une conception particulière du bien prétendant à
+l’universalité, et c’est précisément parce que de telles conceptions perfectionnistes ne peuvent toutes être vraies à la fois que les discours sur la justice sont
+nécessaires. On ne voit pas pourquoi le discours religieux échapperait à cette
+règle. Le second problème est que, à supposer que l’on admette, pour les ﬁns
+de l’argument, qu’il y ait dans le message religieux un contenu de vérité spécial échappant au provincialisme des conceptions séculières du bien dont la
+valeur ou la portée cognitive serait équivalente, disons, aux propositions de la
+science sur le monde ou aux normes publiques de justice, on ne voit pas alors
+pour quelle raison le message religieux devrait être immunisé contre la discussion argumentée. Ceci est en fait complètement contraire à tout ce que Habermas a afﬁrmé jusqu’ici au sujet des rapports entre vérité et justiﬁcation,
+contraire, fondamentalement, à sa théorie de la vérité par consensus dont dérive
+directement sa conception de la démocratie délibérative. Selon cette théorie
+(Habermas, 1987a), la «vérité» (Wahrheit) de nos propositions sur le monde et
+la «justesse» (Richtigkeit) de nos normes d’action forment deux exigences de
+validité universelles qui doivent être honorées dans un discours, théorique ou
+pratique, au moyen de l’argumentation. Un énoncé «vrai» est un énoncé «justiﬁé» dans des conditions idéales de délibération, celles correspondant à une
+situation idéale de parole (Habermas, 1987a, p. 320-328). Si Habermas (2001)
+a récemment apporté des modiﬁcations à sa conception initiale, et juge désormais que la justiﬁcation dans des conditions idéales constitue à elle seule une
+condition nécessaire mais non sufﬁsante à la vérité de nos propositions —
+contrairement à la justesse des normes —, il n’en demeure pas moins attaché à
+l’idée centrale selon laquelle toute assertion ayant un sens cognitif doit d’une
+manière ou d’une autre se plier au cadre d’un jeu argumentatif. Cette idée est à
+ce point importante pour Habermas que, dans sa vieille controverse avec KarlOtto Apel, qui a toujours prétendu que les arguments transcendantaux que tous
+d’eux utilisent pour exposer les conditions de justiﬁcation idéales ne peuvent
+eux-mêmes, sous peine d’autocontradiction, se soumettre circulairement à ces
+mêmes conditions et que leur propre «vérité» doit se mesurer à d’autres standards, Habermas répondait :
+Pour les fondations, il n’y a toujours qu’un et un seul lieu. Il n’existe aucun métadiscours, au sens où un discours supérieur pourrait prescrire des règles à un discours
+
+102
+
+Dialogue
+
+subordonné. Les jeux argumentatifs ne forment aucune hiérarchie. Les discours se
+règlent d’eux-mêmes. Ils sont fondamentalement ouverts (Habermas, 1986, p. 350;
+ma traduction).
+
+Bref, il n’existe ultimement pour Habermas qu’un seul principe qui doit être
+observé dans l’évaluation de tous nos énoncés, celui du discours argumenté. Et
+s’il est prêt à étendre ce principe, non seulement aux énoncés empiriques ordinaires et aux normes morales, mais également, de manière circulaire, aux arguments transcendantaux de la philosophie eux-mêmes, on voit alors difﬁcilement
+au nom de quoi il pourrait aujourd’hui être disposé à immuniser les assertions
+religieuses contre un tel principe.
+2) Habermas répliquerait sans doute ici qu’il n’est pas défavorable à ce que
+les assertions religieuses se soumettent à des discours argumentés, à la condition cependant qu’elles fassent l’objet d’une traduction séculière préalable. Il
+s’agit ici de l’autre difﬁculté que présente sa position. La question se pose, en
+effet, de savoir s’il y a un sens à poser la traduction comme une condition à la
+délibération. On peut en douter pour deux raisons principales.
+La première est que traduction et délibération se sont jusqu’ici présentées
+dans les travaux de Habermas, moins comme deux opérations distinctes et extérieures l’une à l’autre que comme deux moments mutuellement liés d’une
+même opération générale, celle de la discussion argumentée. D’une part,
+comme l’a bien souligné Cooke (2007, p. 228-229), si le but de la délibération
+démocratique est de parvenir à un accord rationnellement motivé sur une question d’intérêt public par une prise en compte et, éventuellement, une transformation des perceptions et des perspectives d’interprétation des participants,
+exiger que les arguments introduits dans les discussions soient, préalablement
+à toute délibération, formulés dans un langage généralement accessible à tous
+serait rendre la procédure délibérative tout à fait inutile, puisque celle-ci a précisément pour rôle d’amener les participants à exprimer leurs points de vue et
+à formuler leurs arguments de telle manière que soient pris en considération les
+points de vue et les arguments de tous les autres selon l’exigence de réciprocité, et donc à rendre leur perspective généralement accessible à tous. La traduction serait ainsi, non pas un corps étranger et antérieur au processus délibératif,
+mais bien l’un de ses éléments internes constitutifs.
+En second lieu, et de manière réciproque, le fait de voir la délibération
+comme une opération postérieure à la traduction de certains contenus sémantiques, qu’ils soient ou non religieux, est contraire aux vues traditionnelles
+exprimées jusqu’ici par Habermas au sujet de la compréhension du sens de nos
+expressions linguistiques. Elle suppose en effet la séparation entre les questions de signiﬁcation et les questions de validité, entre la saisie objective d’un
+contenu sémantique qu’un interprète aurait charge de décrire ou de traduire et
+l’évaluation rationnelle de ce contenu dans un discours à la lumière de certaines exigences de validité. Or Habermas s’est toujours opposé à cette vision
+des choses. L’une des idées majeures qu’il défend d’ailleurs dans rien de moins
+
+Religion et espace public 103
+
+que sa Théorie de l’agir communicationnel est que les interprétations descriptives (portant sur la signiﬁcation) présupposent les interprétations rationnelles
+(portant sur la validité), en d’autres termes, que «comprendre» une expression
+linguistique, c’est connaître ses conditions de validité :
+Pour comprendre une expression [...], l’interprète doit connaître les conditions de sa
+validité; il doit savoir dans quelles conditions la prétention à la validité liée à
+l’expression est acceptable, i.e. devrait normalement être reconnue par un auditeur.
+[...] Les raisons sont faites d’une matière telle qu’on ne saurait absolument pas les
+décrire dans l’attitude d’une tierce personne, i.e. sans réaction ou d’accord, ou de
+refus, ou d’abstention. [...] La description des raisons réclame eo ipso une évaluation, même lorsque celui qui donne une description se voit hors d’état de juger dans
+l’instant de leur solidité (Habermas, 1987b, p. 131-132).
+
+Si ces thèses percutantes, qui sous-tendent toutes les vues actuelles de Habermas
+sur la démocratie délibérative, sont toujours valables, alors il est clair qu’une
+saisie purement descriptive de raisons religieuses en vue de leur traduction
+séculière ne saurait avoir lieu : l’évaluation rationnelle des raisons n’est pas
+une opération extrinsèque et postérieure à leur traduction, mais bien un aspect
+qui lui est immanent.
+La seconde raison de douter du bien-fondé de l’idée de faire de la traduction
+une condition à la délibération est que, comme l’a cette fois clairement mis en
+évidence Lafont (2007, p. 244; 2009, p. 133), les raisons que nombre de citoyens religieux font très souvent valoir pour s’opposer à certaines politiques
+publiques — pensons aux débats relatifs à l’avortement, au mariage entre
+conjoints de même sexe, ou à l’enseignement de la doctrine créationniste dans
+les écoles — sont, précisément, des raisons religieuses. Dans de tels cas de
+conﬂit entre raisons religieuses et raisons publiques séculières, il se pourrait
+que les citoyens, religieux ou laïcs, ne puissent trouver de traduction séculière
+appropriée des raisons religieuses, non cependant par manque d’effort ou
+d’imagination, mais bien parce que les raisons séculières font défaut. À supposer qu’une telle situation se présente — et on peut facilement imaginer les
+nombreux cas de ﬁgure où elle pourrait se présenter — l’obligation morale
+faite par Habermas aux citoyens laïcs de collaborer avec les citoyens
+religieux à la traduction séculière de leur message devient tout à fait vaine
+et inutile : les raisons que les citoyens religieux ont de s’opposer à certaines
+politiques publiques sont, dans de tels cas, des raisons religieuses et c’est
+elles qu’il s’agit d’évaluer, de débattre et de confronter aux normes de la
+raison publique.
+4.
+Je viens de démontrer trois choses. Tout d’abord que les différences entre convictions religieuses et conceptions séculières du bien ne sont étayées par
+Habermas par aucun argument satisfaisant. Ensuite que, à supposer que les
+
+104
+
+Dialogue
+
+convictions religieuses aient un potentiel de vérité spécial, différent des visions
+du monde séculières, rien dans les travaux de Habermas ne permet de justiﬁer
+que des vérités révélées, pas plus que les vérités empiriques de la science ou les
+vérités a priori de la philosophie, soient immunisées contre la discussion argumentée. Finalement, que l’exigence d’une traduction séculière préalable à une
+telle discussion n’est pas cohérente avec l’ensemble des vues de Habermas au
+sujet, non seulement du rôle de la délibération démocratique, mais également
+des rapports entre sens et validité. La principale conséquence que l’on doive
+tirer de tout ceci est que les premières raisons que nous avons examinées,
+d’ordre sémantique et épistémique, avancées par Habermas pour justiﬁer
+l’obligation morale qu’il fait actuellement aux citoyens laïcs de collaborer à la
+traduction séculière du message religieux, tout en professant une abstinence
+épistémique à son endroit, sont insatisfaisantes et ne possèdent aucune assise
+théorique dans ses travaux. J’aimerais maintenant, pour terminer mon évaluation d’ensemble, exprimer quelques commentaires sur les autres raisons,
+d’ordre historique, que donne Habermas à l’appui de ses positions. Cette fois,
+ce ne sont plus des problèmes théoriques, mais bien pratiques qu’elles présentent.
+Habermas juge qu’il incombe aux citoyens laïcs de collaborer avec les citoyens religieux à la traduction séculière de leur message, non seulement parce
+qu’il présume, comme venons de l’examiner, que ce dernier aurait une valeur
+épistémique intrinsèque, mais également pour des raisons historiques, c’est-àdire pour soulager les citoyens religieux de leurs efforts d’adaptation à l’État
+séculier moderne et pour compenser le poids asymétrique qu’ils auraient à
+porter en raison de l’apprentissage particulier que cela exige d’eux en comparaison avec les citoyens laïcs. Deux questions importantes se posent ici :
+1) L’État séculier imposerait-t-il des efforts d’adaptation, sinon inéquitables, à tout le moins asymétriques de la part des citoyens laïcs et religieux?
+2) À supposer que oui, l’obligation faite par Habermas aux citoyens laïcs
+de coopérer aux efforts de traduction du message religieux constitue-t-elle
+une réponse appropriée à ce problème?
+J’entends dans ce qui suit montrer qu’il est tout au moins possible en partie
+de répondre par l’afﬁrmative à la première question, mais que nous devons
+répondre par la négative à la seconde, pour un ensemble de raisons que je vais
+exposer.
+1) Les afﬁliations religieuses sont à considérer comme l’une des sources
+importantes des convictions de conscience des citoyens. Gutmann (2003,
+p. 168-78) et Bou-Habib (2006) ont récemment attiré l’attention sur certaines
+caractéristiques centrales des convictions de conscience. La première est
+qu’elles désignent l’ensemble des «engagements éthiques ultimes» (Gutmann,
+2003, p. 168) dont dépend l’identité d’une personne et sans lesquels elle ne
+
+Religion et espace public 105
+
+saurait se comporter «avec intégrité» (Bou-Habib, 2006, p. 117). Selon
+Gutmann et Bou-Habib, la conduite éthique consciencieuse aurait une valeur
+intrinsèque devant mériter notre considération morale, alors que les croyances
+religieuses qui peuvent parfois la guider ne seraient que des biens dérivés ne
+constituant qu’une expression, parmi d’autres possibles, des convictions de
+conscience. Seconde caractéristique : les convictions de conscience ne sont pas
+de simples préférences auxquelles les individus peuvent renoncer à leur gré, ce
+sont plutôt des «évaluations fortes» (Taylor) soumises à des obligations strictes
+dont dépend l’intégrité morale de celui qui possède de telles convictions.
+Comme l’exprime très bien Gutmann :
+Une constante parmi les différentes conceptions de la conviction de conscience est
+que celle-ci n’est pas un simple caprice ou désir. La conviction de conscience est
+analogue à une loi [...] qui contraint la volonté de celui qui possède une telle conviction. Lorsque la conviction de conscience échoue à contraindre la volonté d’une
+personne parce que la volonté est moralement faible, l’échec est ressenti par celle-ci
+comme un reproche moral (Gutmann, 2003, p. 168; ma traduction).
+
+Dernière caractéristique : les sources des convictions de conscience sont non
+seulement religieuses, mais également séculières (Bou-Habib, 2006, p. 122;
+Gutmann, 2003, p. 168). En d’autres termes, l’autorité éthique d’où émanent
+les obligations faisant l’objet des convictions de conscience peut être externe
+ou interne à la conscience elle-même. Une telle autorité peut être incarnée
+aussi bien par Dieu, la nature ou la raison humaine. Ce qui signiﬁe que, dans
+nos démocraties libérales, les objections de conscience des paciﬁstes ou des
+écologistes athées devraient recevoir la même attention et jouir de la même
+considération que les objections de conscience en provenance des citoyens
+religieux.
+De ces quelques remarques sur les convictions de conscience, on peut
+déduire deux choses. La première est que, conformément à ce qu’afﬁrme
+Habermas, il y a tout lieu de croire que les citoyens religieux ont parfois à
+prendre en charge, en raison de leurs convictions de conscience, un fardeau
+supplémentaire que n’ont pas à prendre en charge la majorité des citoyens dont
+les convictions de conscience se voient d’emblée reﬂétées dans les lois et les
+politiques publiques de nos sociétés libérales. La seconde est que Habermas
+aurait cependant tort de penser que seuls les citoyens religieux s’imposent un
+tel fardeau. Celui-ci doit également être porté par tous les citoyens, autant religieux que laïcs, dont les convictions de conscience ne concordent pas parfaitement avec les normes favorisées par la majorité. Le problème ici n’est pas le
+caractère séculier de l’État libéral, mais plutôt le fait que les normes publiques
+sur lesquelles il se fonde et vers lesquelles convergent les convictions de
+conscience de la majorité peuvent parfois entrer en conﬂit avec certaines
+convictions de conscience minoritaires, dont les sources peuvent aussi bien
+être religieuses que laïques. La question qui se pose est de savoir de quelle
+
+106
+
+Dialogue
+
+manière il est possible d’accorder aux convictions de conscience minoritaires
+une considération égale à celle dont jouissent déjà les convictions de conscience majoritaires, c’est-à-dire les mêmes chances de pouvoir s’exprimer
+sans qu’une loi ou une politique ne vienne représenter un obstacle à leur
+expression.
+2) La réponse que la plupart des sociétés multiculturelles et pluralistes
+comme le Canada, le Royaume Uni, les Etats-Unis et l’Australie ont apportée
+à ce problème, à tout le moins dans le cas des minorités ethniques et religieuses,
+est l’accommodement culturel et religieux (ACR) — qui se présente le plus
+souvent sous forme d’exemption à la loi ou d’un aménagement particulier
+d’horaires et de lieux de travail —, lequel s’est imposé peu à peu comme la
+meilleure façon d’accorder aux convictions de conscience minoritaires une
+considération égale aux convictions de conscience majoritaires. L’objectif de
+l’ACR est de tenter de remédier à de possibles préjudices commis à l’encontre
+de certains groupes dans l’application d’une loi ou d’une norme. Comme les
+lois et politiques publiques sont conçues dans l’intérêt général, elles sont à
+considérer comme prima facie justes et équitables. Mais l’on ne peut savoir
+avec certitude si elles seront justes et équitables dans toutes les situations et si
+elles n’imposeront jamais des fardeaux illégitimes à certains groupes de citoyens présentant des caractéristiques particulières non prévues par la loi. Appartiennent à ces groupes les groupes culturels issus de l’immigration et les
+communautés religieuses et confessionnelles. Aﬁn de savoir si l’impact
+d’une loi ou d’une politique est dans leur cas raisonnable ou s’il risque de
+créer un préjudice, l’ACR devrait être idéalement — et est en règle
+générale — gouverné par un double test (Song, 2007, p. 67 et 75; Bouchard et
+Taylor, 2008, p. 63-64).
+Il convient tout d’abord de connaître la nature des fardeaux qu’une loi ou
+une politique impose et les intérêts qui sont compromis. Il s’agit, en somme, de
+savoir si les membres d’un groupe culturel ou religieux pourraient être victimes, en raison de leurs convictions de conscience, d’une forme de discrimination ou de traitement inéquitable. En second lieu, il convient également de
+savoir si l’accommodement demandé est réaliste — s’il ne représente pas un
+fardeau excessif pour l’institution à laquelle la demande est faite. Pour ce faire,
+il est nécessaire de connaître la ﬁnalité de la loi ou de la politique et la justiﬁcation qui en est donnée. Il se pourrait que la loi ou la politique offre une compréhension inadéquate de certains droits fondamentaux. Mais il se pourrait
+aussi que la loi ou la politique serve à protéger un intérêt public déterminant,
+auquel cas la demande pourrait être rejetée comme imposant un coût excessif.
+Un telle investigation où sont pondérés, d’une part, les fardeaux institutionnels
+imposés par une demande d’accommodement et, d’autre part, les coûts
+qu’aurait à encourir le demandeur si rien n’était fait, peut prendre une voie
+judiciaire. Mais elle peut prendre aussi — et prend très souvent — une voie
+citoyenne, celle du dialogue, de la négociation, de la délibération. Cette dernière
+approche de l’ACR, que l’on peut qualiﬁer de «délibérative», est sans doute
+
+Religion et espace public 107
+
+l’approche actuellement dominante favorisée par de nombreux théoriciens
+politiques (Parehk, 2000, p. 268-273; Young, 2000, p. 16-51; Miller, 2002,
+p. 57-60; Benhabib, 2002; Deveaux, 2006, p. 89-126; Song, 2007, p. 68-84).
+L’ACR, en particulier dans sa variante délibérative, est sans doute la réponse
+la plus appropriée que l’on peut apporter aux fardeaux historiques analysés par
+Habermas qui sont imposés par l’État séculier aux citoyens religieux, puisqu’il
+vise à leur donner une voix publique leur permettant de tester l’équité réelle
+des normes publiques et de mesurer l’impact concret qu’elles ont sur leur contexte de vie. Il permet à la fois d’accorder tout le respect qui est dû à leurs
+convictions de conscience et de prendre pleinement en considération les
+fardeaux particuliers que l’État séculier leur impose, sans cependant compromettre l’intérêt général et délégitimer la portée des normes de la raison publique. L’ACR répond tout à fait aux exigences de ce que Gutmann appelle le
+modèle de «protection à double sens» («two-way protection»; 2003, p. 152153), qui vise à protéger la liberté de conscience et le libre exercice de la religion pour tous les citoyens en échange d’une protection de l’autorité publique
+contre le pouvoir des religions organisées. Ce modèle permet d’éviter tout à la
+fois les défauts d’une séparation trop stricte de l’État et de l’Église (Gutmann,
+2003, p. 178-182) — où l’État est protégé du domaine spirituel au prix d’une
+protection inadéquate des libertés de conscience et de religion des croyants,
+dont les convictions de conscience sont à ce point privées des possibilités
+d’expression publique qu’elles jouissent d’un traitement inéquitable par rapport aux convictions de conscience majoritaires — ainsi que les défauts de la
+«protection à sens unique» (Gutmann, 2003, p. 182-187), laquelle, au contraire
+de la séparation stricte, cherche à maximiser les libertés de conscience et de
+religion ainsi que les accommodements religieux. Sa principale difﬁculté est à
+l’inverse de la précédente : ne parvenir à protéger les libertés de conscience et
+de religion qu’au prix d’une délégitimation des normes de la raison publique.
+Or, si l’ACR parvient très bien, lorsqu’il est guidé par le double test dont nous
+avons parlé, à éviter ces deux extrêmes, il n’est pas sûr que l’obligation faite
+par Habermas aux citoyens laïcs de collaborer à la traduction séculière du message religieux permette de faire aussi bien et puisse représenter la réponse appropriée au problème des fardeaux historiques imposés par l’État séculier aux
+croyants. Le danger est qu’une telle obligation ne parvienne à surmonter la
+présumée asymétrie des fardeaux qu’ont à supporter religieux et laïcs que par
+une nouvelle asymétrie, peut-être plus dommageable pour les deux groupes.
+D’une part, comme nous l’avons vu, Habermas juge la clause restrictive de
+Rawls inadmissible en ce qu’elle imposerait un fardeau insupportable aux citoyens religieux, fardeau consistant pour eux à scinder leur identité en deux et
+à professer publiquement des idées qu’ils ne sont pas prêts à endosser pleinement en privé, selon leurs convictions de conscience religieuses. Pour remédier
+à ce problème, il est prêt à soulager les citoyens religieux de ce fardeau et à les
+exempter de leur devoir de civilité dans les arènes informelles de la société
+civile. En d’autres termes, Habermas est prêt à permettre aux citoyens religieux
+
+108
+
+Dialogue
+
+dans de tels forums de livrer sans aucune retenue leur message dans le langage
+qui leur convient, sans qu’ils aient à se soucier de vériﬁer s’il peut être compris
+et justiﬁé publiquement du point de vue des raisons que pourraient faire valoir
+les citoyens qui ne professent pas leur religion. Une telle absence d’attitude
+civique est-elle avantageuse pour les citoyens religieux? La réponse est clairement qu’elle ne l’est pas, car dans ce cas ils se privent tout simplement de la
+possibilité de se doter d’une voix publique forte qui s’adresse à tous les citoyens, et pas uniquement aux membres de leur communauté de croyance particulière, aﬁn d’expliquer les raisons pour lesquelles telle loi ou politique publique
+représente pour eux un fardeau indu. Accomplir leur devoir de civilité —
+rendre publiquement accessible aux autres citoyens leurs raisons et leurs arguments selon le principe de réciprocité — est en fait pour eux la seule façon, non
+d’offrir une traduction séculière de leurs convictions de conscience, mais de
+faire comprendre à tous ceux qui ne les partagent pas pourquoi, en raison même
+de leurs convictions de conscience, ils peuvent parfois être victimes d’une
+forme de discrimination ou de traitement inéquitable, selon le double test de
+l’ACR dont nous avons parlé.
+Dans les arènes informelles de la société civile où s’amorcent de telles délibérations, le devoir de civilité ne peut certes se présenter aux citoyens religieux comme une obligation stricte et Habermas a tort, comme nous l’avons
+expliqué, d’interpréter en ce sens la clause restrictive de Rawls. Les libertés de
+conscience et de religion leur permettent en effet de livrer leur message dans le
+langage qui leur convient. Il s’agit néanmoins d’un devoir large, ce qui signiﬁe
+qu’il serait pour eux déraisonnable de se soustraire entièrement à leur devoir de
+civilité, en particulier lorsqu’il s’agit de faire connaître aux autres citoyens
+l’impact que les réglementations publiques ont sur leur contexte de vie,
+puisqu’ils se privent alors de la possibilité même de faire entendre leur voix.
+C’est pourtant exactement ce à quoi conduit la solution de Habermas. Elle partage ni plus ni moins les mêmes défauts que la séparation stricte de l’État et de
+l’Église dont nous avons parlé : non seulement le domaine religieux se voit-il
+strictement séparé du domaine public politique — celui de l’État et de ses
+organisations — mais, à l’intérieur même des arènes de la société civile, les
+communautés religieuses et confessionnelles, une fois exemptées de leur devoir
+de civilité, ont toute chance de se replier sur elles-mêmes et de former des enclaves isolées et séparées des canaux publics de délibération où elles auraient la
+possibilité de faire connaître leurs intérêts et leurs besoins aux autres citoyens.
+La solution de Habermas est désavantageuse, non seulement pour les citoyens religieux, mais également pour les citoyens laïcs. Le problème cette fois,
+comme l’a clairement analysé Lafont (2007; 2009), est que l’obligation faite
+aux laïcs de collaborer à la traduction séculière du message religieux, tout en
+s’abstenant de prendre position sur la validité de ce message, n’a pas pour seul
+effet de réparer l’asymétrie des fardeaux que l’État séculier impose aux religieux et aux laïcs, mais provoque elle-même une nouvelle asymétrie : alors
+que les citoyens religieux peuvent, une fois soulagés de leur devoir de civilité,
+
+Religion et espace public 109
+
+livrer sans retenue leur message dans le langage qui leur convient, les citoyens
+laïcs doivent pour leur part faire preuve de retenue à l’endroit du message religieux et, plutôt que de débattre de son contenu, s’ouvrir à son possible contenu de vérité en vue de sa traduction séculière. Le problème que pose une telle
+position est non seulement théorique — celui, que nous avons analysé, consistant à savoir s’il est possible de séparer strictement traduction et délibération —
+mais également et surtout pratique : il consiste, pour les laïcs, à devoir
+s’autolimiter dans l’expression publique de leurs propres convictions de conscience. La position de Habermas engendre, purement et simplement, une nouvelle asymétrie entre religieux et laïcs : elle accorde aux premiers des libertés
+de conscience et d’expression dont ne disposent plus — ou dont ne disposent
+que de manière limitée — les seconds, tout en dispensant les premiers de leur
+devoir de civilité qui repose désormais entièrement sur les épaules des seconds, devoir lui-même conﬁné à la traduction séculière du message religieux.
+La position de Habermas succombe cette fois aux défauts de la «protection à
+sens unique» : en limitant les possibilités offertes aux citoyens laïcs de faire
+valoir publiquement leurs convictions de conscience séculières et de confronter, s’ils en sentent le besoin, les convictions religieuses aux normes de la
+raison publique, elle risque d’entraîner une délégitimation de ces mêmes
+normes et des décisions démocratiques majoritaires. Pour les citoyens laïcs,
+accomplir leur devoir de civilité ne peut consister simplement à offrir une traduction séculière du message religieux en vue de le rendre accessible à tous, il
+doit également consister, conformément au double test de l’ACR dont nous
+avons parlé, à examiner la conformité des positions que font valoir les communautés religieuses et confessionnelles avec les normes de la raison publique
+et, éventuellement, la recevabilité publique de leurs demandes et les fardeaux
+institutionnels qu’elles peuvent entraîner. Un tel examen apparaît d’autant
+moins superﬂu lorsque l’on prend en considération les positions traditionnelles
+que l’Église a fait valoir au cours des dernières décennies, que ce soit à l’endroit
+de la contraception, de l’avortement, du mariage entre conjoints de même sexe
+ou de la doctrine créationniste, lesquelles semblent requérir, du point de vue
+de la raison publique, beaucoup moins une traduction séculière qu’un débat
+public.
+Conclusion
+J’ai tenté dans cette étude de proposer une évaluation d’ensemble des positions
+récentes de Habermas sur la religion dans l’espace public. Je suis parvenu à
+deux conclusions. La première, d’ordre théorique, est que rien dans les travaux
+antérieurs de Habermas, en particulier ceux relatifs à la théorie de la vérité et à
+la démocratie délibérative, ne permet de justiﬁer ses positions actuelles au sujet des convictions de conscience religieuses qui se voient accorder un statut
+épistémique spécial par rapport aux conceptions séculières du bien ainsi qu’une
+immunité par rapport à la discussion argumentée. La seconde conclusion,
+d’ordre pratique, est que la solution de Habermas au problème de l’asymétrie
+
+110
+
+Dialogue
+
+des fardeaux portés par religieux et laïcs dans le monde séculier moderne —
+soulager les religieux de leur devoir de civilité et exiger des laïcs qu’ils collaborent à la traduction séculière du message religieux — n’est pas concluante et
+risque d’engendrer une nouvelle asymétrie. Certes, l’ouverture au possible
+contenu de vérité du message religieux et la disposition à apprendre des assertions religieuses sont des vertus qu’il est souhaitable de voir les laïcs cultiver.
+Mais, comme j’ai tenté de le montrer, de telles vertus tournent à vide si elles ne
+sont pas complétées par d’autres dispositions qui apparaissent non moins essentielles : du côté des citoyens religieux, la disposition à accomplir leur devoir
+de civilité lorsque la situation l’exige, en particulier lorsqu’il s’agit de faire
+connaître à tous les citoyens, autant religieux que laïcs, l’impact que les réglementations publiques ont sur leurs convictions de conscience; du côté des citoyens laïcs, la disposition à confronter les convictions de conscience des
+communautés religieuses ainsi que les demandes qu’elles formulent en leur
+nom aux normes de la raison publique.
+Références bibliographiques
+Audi, Robert
+1997
+
+«Liberal Democracy and the Place of Religion in Politics», dans R.
+Audi et N. Wolterstorff, Religion in the Public Square, Londres,
+Rowman &amp; Littleﬁeld, p. 1–66.
+Benhabib, Seyla
+2002 The Claims of Culture. Equality and Diversity in the Global Era,
+Princeton, Princeton University Press.
+Boettcher, James W.
+2009 «Habermas, Religion and the Ethics of Citizenship», Philosophy and
+Social Criticism, vol. 35, no 1-2, p. 215–238.
+Bouchard, Gérard et Taylor, Charles
+2008 Rapport. Fonder l’avenir: Le temps de la conciliation, Québec, Gouvernement du Québec, http://www.accommodements.qc.ca/documenta
+tion/rapports/rapport-ﬁnal-integral-fr.pdf (document consultéle 23
+février 2010).
+Bou-Habib, Paul
+2006 «A Theory of Religious Accommodation», Journal of Applied Philosophy, vol. 23, no 1, p. 109–126.
+Cooke, Maeve
+2000 «Five Arguments for Deliberative Democracy», Political Studies, vol.
+48, no 5, p. 947–969.
+2007 «A Secular State for a Postsecular Society? Postmetaphysical Political
+Theory and the Place of Religion», Constellations, vol. 14, no 2,
+p. 224–238.
+Deveaux, Monique
+2006 Gender and Justice in Multicultural Liberal States, Oxford, Oxford
+University Press.
+
+Religion et espace public 111
+Daniels, Norman
+1996 «Reﬂective Equilibrium and Justice as Political», dans N. Daniels,
+Justice and Justiﬁcation. Reﬂective Equilibrium in Theory and Practice, Cambridge, Cambridge University Press, p. 144–175.
+Gutmann, Amy
+2003 Identity in Democracy, Princeton, Princeton University Press.
+Gutmann, Amy et Thompson, Dennis
+1996 Democracy and Disagreement, Cambridge (MA), Harvard University
+Press.
+2004 Why Deliberative Democracy?, Princeton, Princeton University Press.
+Habermas, Jürgen
+1986 «Entgegnung», dans A. Honneth et H. Joas, dir., Kommunikatives Handeln, Frankfurt, Suhrkamp, p. 327–405.
+1987a «Théories relatives à la vérité», dans J. Habermas, Logique des sciences sociales et autres essais, Paris, Presses Universitaires de Frabce,
+p. 275–328.
+1987b Théorie de l’agir communicationnel, tome 1, Paris, Fayard.
+1992 De l’éthique de la discussion, Paris, Éditions du Cerf.
+1997 Droit et démocratie. Entre faits et normes, Paris, Gallimard.
+1998a «Trois modèles normatifs de la démocratie», dans J. Habermas,
+L’intégration républicaine, Paris, Fayard, p. 259–274.
+1998b «Du lien interne entre État de droit et démocratie», dans J. Habermas,
+L’intégration républicaine, Paris, Fayard, p. 275–286.
+1998c «Réplique aux intervenants du colloque organisé par la Cardozo Law
+School», dans J. Habermas, L’intégration républicaine, Paris, Fayard,
+p. 289–375.
+2001 «Justesse ou vérité. Le sens de la validité déontologique des jugements
+moraux et des normes», dans J. Habermas, Vérité et justiﬁcation, Paris,
+Gallimard.
+2008a «Religion et sphère publique», dans J. Habermas, Entre naturalisme
+et religion. Les déﬁs de la démocratie, Paris, Gallimard, p. 170–
+211.
+2008b «Les fondements prépolitiques de l’État de droit démocratique», dans
+J. Habermas, Entre naturalisme et religion: Les déﬁs de la démocratie,
+Paris, Gallimard, p. 152–169.
+2008c «Une conscience de ce qui manque», dans J. Habermas, Entre naturalisme et religion: Les déﬁs de la démocratie, Paris: Gallimard, p.
+141–151.
+Kymlicka, Will
+1995 Multicultural Citizenship, Oxford, Oxford University Press.
+Lafont, Cristina
+2007 «Religion in the Public Sphere: Remarks on Habermas’s Conception of
+Public Deliberation in Postsecular Societies», Constellations, vol. 14,
+no 2, p. 239–259.
+
+112
+
+Dialogue
+2009
+
+«Religion and the Public Sphere: What Are the Deliberative Obligations of Citizenship?», Philosophy and Social Criticism, vol. 35, no 1-2,
+p. 127–150.
+McCarthy, Thomas
+1994 «Kantian Constructivism and Reconstructivism: Rawls and Habermas
+in Dialogue», Ethics, vol. 105, p. 44–63.
+Miller, David
+2002 «Liberalism, Equal Opportunities and Cultural Commitments», dans P.
+Kelly, dir., Multiculturalism Reconsidered, Cambridge, Polity Press, p.
+45–61.
+Parekh, Bhikhu
+2000 Rethinking Multiculturalism. Cultural Diversity and Political Theory,
+Cambridge (MA), Harvard University Press.
+Rawls, John
+1993 «The Idea of Public Reason», dans J. Rawls, Political Liberalism, New
+York, Columbia University Press, p. 212–254.
+1999 «The Idea of Public Reason Revisited», dans J. Rawls, The Law of
+Peoples, Cambridge (MA), Harvard University Press, p. 129–180.
+Song, Sarah
+2007 Justice, Gender, and the Politics of Multiculturalism, New York, Cambridge University Press.
+Weithman, Paul J.
+2002 Religion and the Obligations of Citizenship, Cambridge, Cambridge
+University Press.
+Wolterstorff, Nicholas
+1997 «The Role of Religion in Decision and Discussion of Political Issues»,
+dans R. Audi et N. Wolterstorff, Religion in the Public Square, Londres,
+Rowman &amp; Littleﬁeld, p. 67–120.
+Yates, Melissa
+2007 «Rawls and Habermas on Religion in the Public Sphere», Philosophy
+and Social Criticism, vol. 33, no 7, p. 880–891.
+Young, Iris
+2000
+
+Inclusion and Democracy, Oxford, Oxford University Press.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Religion in the Public Square</title><editor><persName><forename type="first">Robert</forename><surname>Audi</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Audi</surname></persName></editor><editor><persName><forename type="first">N.</forename><surname>Wolterstorff</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1997</date><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="66">66</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">The Claims of Culture. Equality and Diversity in the Global Era</title><editor><persName><forename type="first">Seyla</forename><surname>Benhabib</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Habermas, Religion and the Ethics of Citizenship</title><author><persName><forename type="first">James W.</forename><surname>Boettcher</surname></persName></author></analytic><monogr><title level="j">Philosophy and Social Criticism</title><imprint><date type="published">2009</date><biblScope unit="volume">35</biblScope><biblScope unit="page" from="215">215</biblScope><biblScope unit="page" to="238">238</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Rapport. Fonder l’avenir: Le temps de la conciliation</title><editor><persName><forename type="first">Gérard</forename><surname>Bouchard</surname></persName></editor><editor><persName><forename type="first">Charles</forename><surname>Taylor</surname></persName></editor><idno type="uri">http://www.accommodements.qc.ca/documentation/rapports/rapport-final-integral-fr.pdf</idno><imprint><publisher>Cambridge</publisher><pubPlace>Québec</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">A Theory of Religious Accommodation</title><author><persName><forename type="first">Paul</forename><surname>Bou-Habib</surname></persName></author></analytic><monogr><title level="j">Journal of Applied Philosophy</title><imprint><date type="published">2006</date><biblScope unit="volume">23</biblScope><biblScope unit="page" from="109">109</biblScope><biblScope unit="page" to="126">126</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Five Arguments for Deliberative Democracy</title><author><persName><forename type="first">Maeve</forename><surname>Cooke</surname></persName></author></analytic><monogr><title level="j">Political Studies</title><imprint><date type="published">2000</date><biblScope unit="volume">48</biblScope><biblScope unit="page" from="947">947</biblScope><biblScope unit="page" to="969">969</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">A Secular State for a Postsecular Society? Postmetaphysical Political Theory and the Place of Religion</title><author><persName><forename type="first">Maeve</forename><surname>Cooke</surname></persName></author></analytic><monogr><title level="j">Constellations</title><imprint><date type="published">2007</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="224">224</biblScope><biblScope unit="page" to="238">238</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">Gender and Justice in Multicultural Liberal States</title><editor><persName><forename type="first">Monique</forename><surname>Deveaux</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Justice and Justification. Reflective Equilibrium in Theory and Practice</title><editor><persName><forename type="first">Norman</forename><surname>Daniels</surname></persName></editor><editor><persName><forename type="first">N.</forename><surname>Daniels</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">1996</date><biblScope unit="page" from="144">144</biblScope><biblScope unit="page" to="175">175</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Identity in Democracy</title><editor><persName><forename type="first">Amy</forename><surname>Gutmann</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Democracy and Disagreement</title><editor><persName><forename type="first">Amy</forename><surname>Gutmann</surname></persName></editor><editor><persName><forename type="first">Dennis</forename><surname>Thompson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Why Deliberative Democracy?</title><editor><persName><forename type="first">Amy</forename><surname>Gutmann</surname></persName></editor><editor><persName><forename type="first">Dennis</forename><surname>Thompson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Princeton</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Kommunikatives Handeln</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Honneth</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Joas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Frankfurt</pubPlace><date type="published">1986</date><biblScope unit="page" from="327">327</biblScope><biblScope unit="page" to="405">405</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Logique des sciences sociales et autres essais</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1987</date><biblScope unit="page" from="275">275</biblScope><biblScope unit="page" to="328">328</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Théorie de l’agir communicationnel</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1987</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">De l’éthique de la discussion</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Droit et démocratie. Entre faits et normes</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1997</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">L’intégration républicaine</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date><biblScope unit="page" from="259">259</biblScope><biblScope unit="page" to="274">274</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">L’intégration républicaine</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date><biblScope unit="page" from="275">275</biblScope><biblScope unit="page" to="286">286</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">L’intégration républicaine</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date><biblScope unit="page" from="289">289</biblScope><biblScope unit="page" to="375">375</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Vérité et justification</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="inbook"><monogr><title level="m">Entre naturalisme et religion. Les défis de la démocratie</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date><biblScope unit="page" from="170">170</biblScope><biblScope unit="page" to="211">211</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Entre naturalisme et religion: Les défis de la démocratie</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date><biblScope unit="page" from="152">152</biblScope><biblScope unit="page" to="169">169</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">Entre naturalisme et religion: Les défis de la démocratie</title><editor><persName><forename type="first">Jürgen</forename><surname>Habermas</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Habermas</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2008</date><biblScope unit="page" from="141">141</biblScope><biblScope unit="page" to="151">151</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">Multicultural Citizenship</title><editor><persName><forename type="first">Will</forename><surname>Kymlicka</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">Religion in the Public Sphere: Remarks on Habermas’s Conception of Public Deliberation in Postsecular Societies</title><author><persName><forename type="first">Cristina</forename><surname>Lafont</surname></persName></author></analytic><monogr><title level="j">Constellations</title><imprint><date type="published">2007</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="239">239</biblScope><biblScope unit="page" to="259">259</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Religion and the Public Sphere: What Are the Deliberative Obligations of Citizenship?</title><author><persName><forename type="first">Cristina</forename><surname>Lafont</surname></persName></author></analytic><monogr><title level="j">Philosophy and Social Criticism</title><imprint><date type="published">2009</date><biblScope unit="volume">35</biblScope><biblScope unit="page" from="127">127</biblScope><biblScope unit="page" to="150">150</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Kantian Constructivism and Reconstructivism: Rawls and Habermas in Dialogue</title><author><persName><forename type="first">Thomas</forename><surname>McCarthy</surname></persName></author></analytic><monogr><title level="j">Ethics</title><imprint><date type="published">1994</date><biblScope unit="volume">105</biblScope><biblScope unit="page" from="44">44</biblScope><biblScope unit="page" to="63">63</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="inbook"><monogr><title level="m">Multiculturalism Reconsidered</title><editor><persName><forename type="first">David</forename><surname>Miller</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Kelly</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">2002</date><biblScope unit="page" from="45">45</biblScope><biblScope unit="page" to="61">61</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="inbook"><monogr><title level="m">Rethinking Multiculturalism. Cultural Diversity and Political Theory</title><editor><persName><forename type="first">Bhikhu</forename><surname>Parekh</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Political Liberalism</title><editor><persName><forename type="first">John</forename><surname>Rawls</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Rawls</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1993</date><biblScope unit="page" from="212">212</biblScope><biblScope unit="page" to="254">254</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">The Law of Peoples</title><editor><persName><forename type="first">John</forename><surname>Rawls</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Rawls</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1999</date><biblScope unit="page" from="129">129</biblScope><biblScope unit="page" to="180">180</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="inbook"><monogr><title level="m">Justice, Gender, and the Politics of Multiculturalism</title><editor><persName><forename type="first">Sarah</forename><surname>Song</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">Religion and the Obligations of Citizenship</title><editor><persName><forename type="first">Paul J.</forename><surname>Weithman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">Religion in the Public Square</title><editor><persName><forename type="first">Nicholas</forename><surname>Wolterstorff</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Audi</surname></persName></editor><editor><persName><forename type="first">N.</forename><surname>Wolterstorff</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1997</date><biblScope unit="page" from="67">67</biblScope><biblScope unit="page" to="120">120</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="article"><analytic><title level="a">Rawls and Habermas on Religion in the Public Sphere</title><author><persName><forename type="first">Melissa</forename><surname>Yates</surname></persName></author></analytic><monogr><title level="j">Philosophy and Social Criticism</title><imprint><date type="published">2007</date><biblScope unit="volume">33</biblScope><biblScope unit="page" from="880">880</biblScope><biblScope unit="page" to="891">891</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">Inclusion and Democracy</title><editor><persName><forename type="first">Iris</forename><surname>Young</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

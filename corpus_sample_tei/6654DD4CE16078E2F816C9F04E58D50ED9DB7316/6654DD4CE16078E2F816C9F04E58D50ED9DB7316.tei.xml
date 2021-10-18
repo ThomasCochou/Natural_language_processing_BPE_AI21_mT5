@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Connaissance de Dieu et conscience de soi chez Descartes</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Connaissance de Dieu et conscience de soi chez Descartes</title><author xml:id="author-0000"><persName><forename type="first">Murray</forename><surname>Miles</surname></persName><affiliation>Brock University</affiliation></author><idno type="istex">6654DD4CE16078E2F816C9F04E58D50ED9DB7316</idno><idno type="ark">ark:/67375/6GQ-7MK2D7WC-C</idno><idno type="DOI">10.1017/S0012217310000144</idno><idno type="PII">S0012217310000144</idno><idno type="article-id">00014</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-03"/><biblScope unit="volume">49</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="24">24</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ: La méthode analytique par laquelle Descartes établit le premier principe de sa philosophie (cogito, ergo sum) consiste en un procédé cognitif associant intuition directe et inférence non-logique qui diffère significativement du modèle déductif que l’on prête depuis toujours au rationalisme du dix-septième siècle. Cet article démontre que ce même processus analytique est à l’œuvre dans la preuve de l’innéité de l’idée de Dieu, où, pourtant, il y a des doutes majeurs concernant sa légitimité.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: The analytic method by which Descartes established the first principle of his philosophy (cogito, ergo sum) is a unique cognitive process of direct insight and non-logical inference that differs markedly from the deductive model of noetic apprehension long associated with seventeenth-century rationalism. In this paper, it is shown that the same analytic process is at work in the Third Meditation proof of the innateness of the idea of God, where, however, there are serious doubts about its legitimacy.</p></abstract></profileDesc><revisionDesc><change when="2010-03">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Articles
+
+Connaissance de Dieu et conscience de
+soi chez Descartes
+
+MURRAY MILES
+
+Brock University
+
+RÉSUMÉ: La méthode analytique par laquelle Descartes établit le premier principe de sa philosophie (cogito, ergo sum) consiste en un procédé cognitif associant
+intuition directe et inférence non-logique qui diffère signiﬁcativement du modèle
+déductif que l’on prête depuis toujours au rationalisme du dix-septième siècle. Cet
+article démontre que ce même processus analytique est à l’œuvre dans la preuve de
+l’innéité de l’idée de Dieu, où, pourtant, il y a des doutes majeurs concernant sa
+légitimité.
+ABSTRACT: The analytic method by which Descartes established the ﬁrst principle
+of his philosophy (cogito, ergo sum) is a unique cognitive process of direct insight
+and non-logical inference that differs markedly from the deductive model of noetic
+apprehension long associated with seventeenth-century rationalism. In this paper, it
+is shown that the same analytic process is at work in the Third Meditation proof of the
+innateness of the idea of God, where, however, there are serious doubts about its legitimacy.
+
+Dialogue 49 (2010), 1-24.
+© Canadian Philosophical Association /Association canadienne de philosophie 2010
+doi:10.1017/S0012217310000144
+
+2
+
+Dialogue
+
+1. Problème et objectifs
+Il est bien connu que Descartes conclut de (1) la présence, dans tout acte de
+pensée humaine, d’une idée de l’ego qui pense, à (2) la coprésence d’une idée
+au moins implicite d’une substance pensante inﬁnie, Dieu. Une formulation
+plus précise sera donnée ultérieurement, mais disons pour l’instant que la
+forme de l’argument pour l’innéité de l’idée de Dieu dans la Troisième méditation (ci-après la preuve de l’innéité) ressemble à peu près à cela :
+P1 L’idée de l’imparfait présuppose l’idée de la perfection correspondante.
+P2 L’ego possède une idée innée de soi-même en tant que chose imparfaite.
+C Donc, l’ego possède une idée innée de la chose pensante parfaite, Dieu.
+On croirait être en présence d’une déduction logique, et même d’un syllogisme
+(dans un sens large de ce terme). Pourtant, en soumettant à examen l’ordre et
+la manière dont les prémisses et la conclusion sont censées être connues selon
+la théorie de la connaissance de Descartes, l’on se rend compte que la conclusion est déjà implicite dans la deuxième prémisse et qu’elle devient explicite
+grâce à un processus de réﬂexion ni syllogistique ni logique sur cette seule
+prémisse mineure. Voilà le problème fondamental qui surgit de la preuve de
+l’innéité : compte tenu du processus rationnel par lequel Descartes lui-même se
+dit parvenu à la conclusion, s’agit-il véritablement d’un argument, voire d’un
+argument déductif, ou plutôt d’une intuition immédiate?
+Puisque le cogito, ergo sum, dès la parution des Méditations, a fait l’objet de
+ce genre de questionnement, nul n’hésitera à suggérer que trouver la solution à
+notre problème (pourtant jamais formulé, ni à l’époque ni depuis) demande de
+partir de la réponse de Descartes à ceux qui semblaient vouloir faire du cogito
+et du sum la prémisse mineure et la conclusion, respectivement, d’une déduction dont la prémisse majeure supprimée serait omne quod cogitat est. Face à
+cette atteinte présumée au statut de vérité première du cogito, Descartes insista
+sur le fait que ce syllogisme parfaitement correct et rigoureusement démonstratif ne faisait que remettre dans l’ordre «synthétique» de la démonstration
+une connaissance acquise auparavant par la méthode dite «analytique» ou «de
+la découverte» (inveniendi). La conclusion, sum, expliqua-t-il, fut découverte
+en réﬂéchissant sur le seul cogito, tandis que la majeure, omne quod cogitat est,
+ne fut connue de manière explicite qu’après coup, en poursuivant la réﬂexion
+sur le cogito déjà amorcée. En supposant que ce qui vaut pour le cogito, le sum,
+et le principe omne quod cogitat est vaille également pour les prémisses et la
+conclusion de la preuve de l’innéité, il faudra admettre que derrière l’une et
+l’autre des ces deux pièces maîtresses du cartésianisme s’abrite un autre paradigme de la connaissance rationnelle que celle de la procédure déductive ou
+more geometrico qui fut longtemps attribuée au rationalisme du XVIIe siècle.
+
+Connaissance de Dieu 3
+
+Notre premier objectif dans ce qui suit sera de jeter un regard nouveau
+sur le modèle intuitionniste de la connaissance rationnelle chez Descartes.
+L’«analysis» de Descartes est une méthode d’appréhension noétique qui comprend, dans un premier temps, une intuition immédiate d’une vérité absolument certaine, et, dans un deuxième temps, un processus de réﬂexion alogique
+sur les données immédiates de l’intuition. La réﬂexion rend explicite ce que
+l’on a déjà perçu dans l’intuition précédente, sans que l’on s’en soit aperçu. Il
+s’agit en effet d’une méthode ni déductive ni inductive (dans le sens de Hume
+et Mill), dont les origines remontent à l’epagôgê d’Aristote et dont l’inﬂuence
+s’étend jusqu’à la réﬂexion transcendantale de Kant et à la Wesenschau de
+Husserl.
+Notre autre objectif sera d’attirer l’attention sur certaines différences entre
+la preuve de l’innéité et le cogito, ergo sum. La différence de signiﬁcation du
+mot cogito dans l’un et l’autre contexte est tout aussi importante que les parallèles que nous venons de tracer. Dans le cadre du principe fondateur cartésien, cogito exprime une proposition singulière et contingente concernant ce
+que Hume appellerait «matter of fact and existence» (Hume, 1992, p. 195). Ce
+que le doute méthodique met en évidence c’est que cette «vérité de fait»
+(comme dirait Leibniz) touchant la pensée est plus certaine que tout autre jugement du même genre portant sur les choses matérielles ou immatérielles hors
+de l’esprit du sujet. Par contre, dans la prémisse mineure de la preuve de
+l’innéité, le simple mot cogito recouvre deux intuitions de vérités tant universelles que nécessaires — une paire de «vérités de raison» ou, selon le classement de Kant, deux jugements synthétiques a priori — concernant la structure
+formelle de toute pensée humaine — des Bewußtseins überhaupt, dans le langage de Kant. En tant que vérités strictement universelles et nécessaires, il va
+de soi qu’elles ne peuvent aucunement être le résultat de l’expérience interne
+ou de la généralisation empirique; néanmoins, l’introspection en est la condition indispensable, le point de départ nécessaire d’un procédé, d’abord intuitif,
+ensuite réﬂexif, que Descartes appelle analysis et que nous appellerons, soit
+induction intuitive (le terme utilisé communément pour l’epagôgê d’Aristote),
+soit réﬂexion analytique. Quelle que soit la désignation adoptée, un seul et
+même processus d’appréhension noétique fournit d’abord une connaissance
+intuitive de l’existence et de l’imperfection de l’ego, et par la suite, une connaissance de la perfection divine, dont l’idée est innée dans chaque esprit humain, pour aboutir, dans une dernière phase, à la connaissance du principe
+universel selon lequel l’idée de l’imparfait présuppose celle du parfait.
+Dans la prochaine section nous examinerons de plus près l’argument présenté
+de façon approximative dans cette introduction. Puis, dans les troisième et quatrième sections, nous considérerons la manière dont les prémisses sont censées
+être connues selon la doctrine épistémologique cartésienne. La cinquième section sera consacrée au problème posé tout au début, à savoir si la preuve de
+l’innéité est un raisonnement ou bien une intuition. C’est ici qu’une comparaison avec le cogito, ergo sum mènera à des précisions sur le rationalisme de
+
+4
+
+Dialogue
+
+Descartes. La section ﬁnale essayera de porter un regard critique sur l’usage
+que fait Descartes du cogito, ergo sum pour écarter certaines des objections
+suggérées par Gassendi et par Burman à l’application de sa théorie générale de
+l’innéité à l’idée de Dieu en particulier.
+2. La preuve de l’innéité
+Dans l’ «Entretien avec Burman» (1648), la prémisse majeure de la preuve de
+l’innéité se trouve formulée de manière succincte et fertile : «tout défaut ou
+négation présuppose la chose de laquelle le défaut déchoit, que la négation nie»
+(AT V 153).1 D’après ce principe métaphysique universel, aﬁn de parvenir à
+l’idée de quelque chose d’imparfait, il faut soit limiter, soit mettre au négatif,
+l’idée de la perfection correspondante dont on dispose préalablement. Le fait
+que quelque chose de la sorte soit déjà suggéré par le mot, au préﬁxe négatif,
+«imperfection» n’est qu’un hasard; le mot «inﬁni» se forme sur le mot «ﬁni»,
+dont il est la négation, bien que le véritable ordre des idées soit nécessairement
+l’inverse selon le principe universel qu’énonce Descartes. Cet ordre des idées
+est également attesté par la preuve de l’innéité :
+Et je ne me dois pas imaginer que je ne conçois pas l’inﬁni par une véritable idée,
+mais seulement par la négation de ce qui est ﬁni, de même que je comprends le
+repos et les ténèbres, par la négation du mouvement et la lumière : Puisqu’au
+contraire je vois manifestement qu’il se rencontre plus de réalité dans la substance inﬁnie, que dans la substance ﬁnie, et partant que j’ai en quelque façon
+premièrement en moi la notion de l’inﬁni que du ﬁni, c’est-à-dire de Dieu, que
+de moi-même : car comment serait-il possible que je pusse connaître que je doute,
+et que je désire, c’est-à-dire qu’il me manque quelque chose, et que je ne suis pas
+tout parfait, si je n’avais en moi aucune idée d’un être plus parfait que le mien,
+par la comparaison duquel je connaîtrais les défauts de ma nature? (AT VII 45)2
+
+Inutile d’insister sur le fait que derrière la question, «comment serait-il possible etc.», se cache le principe métaphysique universel invoqué dans l’entretien
+avec Burman. Avec le texte de la Troisième méditation sous les yeux, nous
+sommes en mesure de reformuler de façon plus exacte l’argument esquissé
+plus haut.
+(P1) Puisque chaque idée d’un «défaut [ou imperfection] … présuppose la
+chose de laquelle le défaut déchoit»
+(P2) et que l’ego du cogito possède l’idée innée de soi-même comme étant
+une chose pensante ﬁnie ou imparfaite
+(C) il s’ensuit que l’ego possède nécessairement l’idée innée de la chose
+pensante inﬁnie ou parfaite, Dieu.
+Formulé de cette façon, l’argument n’établit strictement que (dans les mots
+de Descartes) «j’ai [...] premièrement en moi la notion de l’inﬁni que du
+
+Connaissance de Dieu 5
+
+ﬁni»; ni l’innéité de l’idée de Dieu ni la nécessité du conséquent (à distinguer
+de la nécessité de la conséquence) n’apparaît clairement. Pour établir
+l’innéité, il faut ajouter deux autres prémisses sous-entendues, à savoir (a)
+que la conscience de soi est innée et (b) que toute idée qui précède une idée
+innée en tant que sa condition est innée à plus forte raison. Or, (b) semblerait
+être une évidence «analytique» dans le sens kantien du mot; et quant à
+(a), c’est ce qui ressort clairement de ce passage antérieur de la Troisième
+méditation :
+Or de ces idées [que je trouve en moi] les unes me semblent être nées avec moi, les
+autres être étrangères et venir de dehors, et les autres être faites et inventées par moimême : Car que j’aie la faculté de concevoir ce que c’est qu’on nomme en général
+une chose, ou une vérité, ou une pensée, il me semble que je ne tiens point cela
+d’ailleurs que de ma nature propre (AT VII 37 sq.).
+
+Ici l’expression «tenir [...] de ma nature propre» est manifestement synonyme
+de «né avec moi» ou «inné»; et puisque «chose» ou «substance» et «pensée»
+sont toutes des idées innées, le concept «chose ou substance pensante», qui en
+est l’amalgame, l’est également. La conclusion peut donc être reformulée de
+manière à mettre en lumière tant l’innéité que la modalité du conséquent
+comme suit : «L’idée d’une chose pensante parfaite est nécessairement innée
+dans tout esprit humain». S’agissant d’une vérité universelle et nécessaire concernant un esprit humain quelconque (überhaupt), ne faut-il pas que les
+prémisses soient, elles aussi, des vérités du même genre? Ceci nous amène à la
+question de savoir comment la majeure et la mineure sont connues, si ce n’est
+pas par l’observation et la généralisation empiriques.3
+3. La seconde prémisse
+Commençons par la seconde, à savoir la prémisse selon laquelle l’ego du cogito possède nécessairement une idée innée de soi-même comme étant une
+chose pensante et imparfaite. Cette proposition singulière et apparemment
+contingente n’est nullement une vérité de fait établie sur la base de l’expérience
+interne. Certes, dans le principe fondateur de Descartes, la prémisse, cogito,
+n’est rien d’autre qu’une vérité empirique — mais non moins certaine, pour
+autant.4 Par contre, dans la preuve de l’innéité, cogito exprime deux intuitions
+a priori qui ont trait à l’essence même ou à la structure constitutive de toute
+pensée humaine en tant que telle : cogito veut dire
+i) je suis conscient de mes actes et de moi-même qui pense
+ii) comme étant un être imparfait ou ﬁni.
+Selon (i), toute pensée humaine (dans le sens large que donne Descartes à ce mot,
+c’est-à-dire tout acte de sensation, d’imagination, de conception intellectuelle,
+
+6
+
+Dialogue
+
+du jugement, d’émotion, ou de volonté) est essentiellement réﬂexive.5 Cela veut
+dire que toute opération de pensée, quel que soit son objet primaire, comporte en
+soi une conscience de (a) l’acte de pensée et (b) de celui qui pense, du sujet pensant. Cette caractéristique sert à différencier l’homme des bêtes qui ne sont pas
+du tout, comme l’a cru Descartes, des machines complexes, mais plutôt des êtres
+capables de sentir le plaisir et la douleur, de percevoir et de poursuivre ou éviter
+les choses perçues, bien qu’elles soient incapables, comme l’a fait remarquer
+Leibniz, de dire «moi», c’est-à-dire, d’apercevoir ce qu’elles sentent ou désirent
+ou craignent ou perçoivent.6 En tant que sujet d’une pensée spéciﬁquement humaine, donc, je suis nécessairement conscient (jusqu’à un certain degré) et de
+mes propres actes et de la substance pensante dont ils sont les accidents, les états
+passagers.7
+La partie (a) du double constat (i), celle qui concerne la conscience des
+actes, ressort clairement de la déﬁnition générale de la pensée. Selon les Principes, le mot cogitatio s’applique à «tout ce qui se fait en nous de telle sorte
+que nous l’apercevons immédiatement par nous-mêmes (illa omnia quae nobis
+consciis in nobis ﬁunt, quatenus eorum in nobis conscientia est)» (I, 9). Cette
+déﬁnition ne se distingue guère de celle des réponses aux secondes objections :
+«tout ce qui est tellement en nous, que nous en sommes immédiatement conscients (illud omne quod sic in nobis est, ut ejus immediate conscii simus)» (AT
+VII 160). Aucune des deux déﬁnitions ne donne un simple éclaircissement du
+sens du mot «cogitatio»; comme dans toute déﬁnition cartésienne, il s’agit
+plutôt de la description de l’essence de la chose même, c’est-à-dire, ici, de la
+structure formelle de toute pensée humaine. En réﬂéchissant sur un certain
+nombre d’actes de perception, d’imagination, de conception, etc., Descartes
+concentre son attention sur la structure nécessaire (au lieu du contenu contingent) de sa pensée; en réﬂéchissant de la sorte, il saisit avec une évidence qui
+est indépassable que tout acte de «pensée» humaine s’accompagne nécessairement d’une conscience, si faible soit-elle, de l’acte lui-même.
+Que toute opération de l’esprit humain inclue la connaissance de cette opération peut être exprimé convenablement par la formule : «toute pensée
+s’accompagne d’une conscience de soi». Il faut bien dire «conscience», et non
+pas «pensée de soi», car dans les déﬁnitions citées plus haut Descartes distingue nettement entre les deux. Alors que «conscience» désigne la connaissance infaillible de ses propres actes, le mot «pensée» s’applique aux actes
+dont les objets sont externes et, dans la majorité des cas, matériels, par conséquent douteux. Or, cette conscience réﬂexive n’est nullement un acte distinct
+de celui par lequel je représente des objets hors de moi; ce n’est pas, en d’autres
+termes, un deuxième acte d’ordre supérieur ayant pour objet l’acte premier,
+celui dont l’objet est une chose réellement existante ou seulement imaginée,
+mais en tout cas représentée comme existant hors de l’esprit. Au contraire, la
+conscience de soi est un élément inhérent ou constitutif d’un seul et même acte,
+dont la structure universelle peut s’exprimer dans la formule : cogito = ego
+cogito me cogitare.8 Cette formule, empruntée à Heidegger, représente une
+
+Connaissance de Dieu 7
+
+rupture radicale avec les prédécesseurs scolastiques de Descartes, notamment
+Thomas d’Aquin, de même qu’avec ses contemporains, parmi eux Leibniz et
+Hobbes, pour qui la conscience de soi est un deuxième acte de pensée qui, s’il
+a lieu (ce qui n’est pas nécessaire), se produit après l’acte dont on est conscient, si bien que la conscience de soi est intimement liée à la mémoire pour
+Leibniz, qui l’appelle carrément «mémoire intellectuelle» pour la distinguer de
+la mémoire empirique de nos perceptions.9
+Rappelons brièvement l’autre partie du premier constat (i) de P2 : à part (a)
+la conscience de l’acte éphémère, tout acte de pensée s’accompagne (b) d’une
+conscience de l’ego, c’est-à-dire de la substance relativement permanente dont
+l’acte est l’accident. Un siècle après Descartes, Hume était sans aucun doute
+parfaitement conscient de (a); mais tout en reconnaissant le fait de la réﬂexivité
+de la perception (son terme pour la cogitatio de Descartes) en tant que vérité
+générale basée sur des impressions intérieures, Hume a tout de même récusé
+avec fermeté l’idée d’un ego ou substance pensante qui serait donnée au regard
+introspectif au même titre que les perceptions individuelles.10 Tout le problème
+se résume à la question si, oui ou non, la théorie huméenne, bien connue sous
+le nom «bundle theory of the mind», est une description partielle et déﬁciente
+de la structure unitaire et complexe de la pensée que Descartes a saisi dans
+toute son universalité, sans rien ajouter de ce qui ne se présente pas de façon
+immédiate et certaine au regard réﬂexif, ni rien omettre de ce qui est immédiatement donné. Selon Descartes:
+il est de soi si évident que c’est moi qui doute, qui entends, et qui désire, qu’il n’est
+pas ici besoin de rien ajouter pour l’expliquer… Enﬁn je suis le même [ego] qui sens,
+c’est-à-dire qui reçois et connais les choses comme par les organes de sens (AT
+IX-A, 23).11
+
+Dans ce bref passage de la Seconde méditation, Descartes soutient sans
+équivoque ni hésitation la thèse (fort controversée depuis Hume) de
+l’intuition immédiate et certaine de l’ego pensant comme substance numériquement identique dans le ﬂux de ses diverses pensées accidentelles.
+L’autre thèse, beaucoup moins discutable, selon laquelle tout acte de pensée
+s’accompagne en fait d’une conscience des actes ou opérations de l’esprit,
+est presque un lieu commun, parfaitement recevable pour Hume, qui remonte en effet à Aristote et n’a jamais été complètement perdu de vue dans
+la tradition aristotélicienne.12
+Venons en maintenant à la seconde partie de la prémisse mineure, la thèse
+selon laquelle l’ego soit conscient de ses actes et de soi (ii) comme étant ﬁnis.
+Précisons d’abord l’idée de ﬁnitude en question. Traditionnellement, les
+marques de l’imperfection humaine les plus fréquentes furent des caractéristiques de l’être humain en chair et en os; l’ignorance, l’erreur et le désir de
+connaissances plus étendues y ﬁguraient, bien sûr, mais d’une manière secondaire par rapport au mal et au péché que commet l’homme corporel, et loin
+
+8
+
+Dialogue
+
+derrière des attributs comme la temporalité et la mortalité. Or, pour le Descartes des cinq premières méditations, qui ignore toujours s’il possède un corps
+matériel ou non, la ﬁnitude humaine se résume à l’existence indubitable d’un
+certain nombre de modes de pensée, tels le doute et le désir, ou bien à l’erreur
+et à la croissance graduelle de la connaissance. Que ces modi cogitandi soient
+tout ce qui reste des marques traditionnelles de l’imperfection humaine s’ensuit
+du fait que, dès la Seconde méditation, un «esprit, un entendement, ou une
+raison» (AT VII 27) remplace l’être humain, composé d’un corps et d’une âme,
+en tant que référent du mot «moi». Le constat (ii) de P2 ne peut pas dépasser
+ce sens restreint de la ﬁnitude sans basculer dans l’incertitude.13
+Il faut insister une fois de plus sur la nécessité exprimée par la thèse que la
+conscience de soi s’accompagne d’une conscience de la ﬁnitude (aussi minime
+soit-elle). Tout comme la réﬂexivité, la ﬁnitude de l’esprit humain est un caractère strictement universel et nécessaire de l’esprit humain, même si celle-ci
+ne peut être reconnue autrement que sur le fond de l’idée de la perfection inﬁnie de Dieu. Le doute, l’erreur, le désir ne sont que des occasions contingentes de la connaissance de cette vérité universelle et nécessaire concernant toute
+pensée qui puisse être nommée «pensée humaine». Il ne s’agit pas du constat
+banal que personne n’est jamais tout à fait à l’abri du doute et de l’erreur
+puisque certaines des perceptions de l’esprit resteront toujours moins claires et
+distinctes que ne le sont le cogito et le sum; il s’agit plutôt de l’intuition certaine qu’un esprit dont toutes les perceptions étaient d’une clarté et distinction
+parfaites ou maximales ne serait pas du tout un esprit humain; loin d’être
+l’image de l’esprit divin, comme l’est le nôtre, un tel esprit ne se distinguerait
+pas du tout de la mens divina.
+4. La première prémisse
+Il est évident qu’en tant qu’expression de deux vérités de raison absolument
+certaines, la seconde prémisse est du type requis pour appuyer une conclusion
+censée exprimer une proposition strictement universelle et nécessaire concernant l’esprit humain. Quant à la première, la formulation même du principe
+«tout défaut … présuppose la chose de laquelle le défaut déchoit» indique qu’il
+s’agit de l’un de ces principes dits «de la lumière naturelle» (AT VII 47 et
+passim), c’est-à-dire de l’une des «notions communes ou axiomes» (Principes
+I, 49) dont le sujet humain peut devenir conscient en réﬂéchissant sur sa propre
+pensée. Certes, P1 ne ﬁgure pas parmi les principes de la lumière naturelle
+énumérés en Principes, I, 49, où Descartes ne cite que quelques exemples,
+notamment «qu’il est impossible qu’une même chose en même temps soit et ne
+soit pas, que ce qui a été fait ne peut n’être pas fait, que celui qui pense ne peut
+manquer d’être ou d’exister pendant qu’il pense». Mais l’idée de Dieu ne ﬁgure pas non plus dans la liste des idées innées dressée dans la Troisième méditation, à savoir «ce que c’est qu’on nomme en général une chose [ou une
+substance], ou une vérité [une proposition claire et distincte], ou une pensée
+[l’objet direct de la conscientia]» (AT VII 38). En attendant de faire un examen
+
+Connaissance de Dieu 9
+
+approfondi de l’objection de Burman, nous supposerons de manière provisoire
+que la phrase qui termine la réponse de Descartes exprime un principe du
+même genre que «le néant ne peut avoir aucuns attributs, ni propriétés ou qualités » (Principes, I, 52) et «le néant ne peut être auteur de quoi que ce soit et
+que le plus parfait ne saurait être une suite et une dépendance du moins parfait»
+(ibid., I, 18). Un tel statut de principe de la raison, qui est essentiel à son rôle
+dans la preuve de l’innéité, est suggéré par un principe précurseur bien connu
+qu’il convient de considérer brièvement ici.
+Nul étudiant en philosophie n’ignore le célèbre principe platonicien selon
+lequel, pour reconnaître que a (une chose) possède F (un attribut) dans une
+mesure qui n’est qu’imparfaite (ou bien qu’a est moins F que b), il faut être
+déjà en possession d’une idée au moins implicite de la F-ité parfaite, laquelle sert
+d’idéal ou standard dont a déchoit (ou dont il déchoit plus que b). En mettant
+ce principe platonicien à côté de celui qu’énonce Descartes à Burman, l’on se
+rend compte que l’idée de la perfection est devenue ce qu’elle n’avait jamais
+été chez Platon ou n’importe quel autre philosophe grec, à savoir l’idée d’une
+perfection absolument inﬁnie. Du reste, Platon emploie le verbe grec endeô
+pour exprimer exactement la même relation que Descartes désigne par le verbe
+latin deﬁcere a ... — une allusion au Phédon (cf. 74d) tout à fait comparable à
+celle de la Cinquième méditation concernant l’afﬁnité entre la conception cartésienne de l’innéité et la théorie platonicienne de la réminiscence (cf. AT VII
+64). Cette continuité de langage renvoie à une autre, celle-ci plutôt philosophique, qui tient du fait que le mot «mesure» (grec, metron, latin, mensura) ait
+une signiﬁcation double : d’une part, «mesure» peut signiﬁer une unité de
+mesure sur la base de laquelle l’on puisse découvrir que a est plus ou moins
+grand (comporte plus ou moins d’unités individuelles de F) que b; d’autre part,
+une mesure peut être un standard idéal de la F-ité auquel a et b puissent être
+comparés de sorte qu’il devienne perceptible que l’un déchoit plus de la F-ité
+parfaite que l’autre. Or, Platon emploie le mot «mesure» dans ce dernier sens,
+et Descartes emboîte le pas, tout en substituant au standard idéal ﬁni de Platon
+une perfection inﬁnie, comme nous l’avons relevé.14
+Tout uniques, uniformes, éternelles, immuables, ingénérables, incorruptibles
+(et ainsi de suite selon la liste des caractères parménidiens de l’être) soient les
+Formes de Platon, il convient de souligner qu’elles n’en sont pas moins des
+choses ﬁnies. Qu’elles soient ﬁnies n’empêche pas que ces universaux transcendants fonctionnent comme des mesures idéales permettant à l’esprit humain de discerner des relations de plus ou de moins parmi les choses particulières
+qui y participent. En adoptant — et adaptant — ce concept platonicien de
+mesure, Descartes ne fait que suivre Thomas d’Aquin, lequel avait déjà employé la perfection inﬁnie de Dieu comme norme idéale, de sorte que, s’agissant
+de Dieu et ses créatures, la paire «parfait-imparfait» coïncide avec d’autres
+comme «inﬁni–ﬁni», «indépendant–dépendent» et «complet–incomplet». Il
+en est de même dans l’œuvre de Descartes, pour qui Dieu est «une substance
+inﬁnie» (AT VII 45) et «souverainement parfaite» (AT VII 66) dont «l’unité, la
+
+10
+
+Dialogue
+
+simplicité, ou l’inséparabilité» des attributs est «une des principales perfections» (AT VII 50; cp. également Principes I, 14, 21 et 22). Dans les Premières
+réponses, Descartes distingue explicitement ce sens strict ou absolu d’«inﬁni»,
+qui s’applique à Dieu seul, au sens large ou relatif du mot. Ainsi, «l’étendue
+des espaces imaginaires, la multitude des nombres, la divisibilité des parties de
+la quantité» sont inﬁnies dans le sens que «sous quelque considération seulement je ne vois point de ﬁn» (AT VII 113). Pour désigner de tels inﬁnis potentiels,
+ou, comme on dirait aujourd’hui, de telles séries transﬁnies, le terme approprié
+est «indéﬁni» (ibid.; cf. également Principes I, 26 sq.). Dans le sens strict ou
+absolu, le mot «inﬁni» s’applique à «ce en quoi de toutes parts je ne rencontre
+point de limites, au quel sens Dieu seul est inﬁni» (ibid.). Donc, tout en prenant
+la «mesure» au sens platonicien comme point de départ, Descartes ﬁnit par la
+transformer tout autant qu’il a modiﬁé la théorie platonicienne de l’anamnêsis en
+y introduisant la doctrine théologique des «semences premières des vérités, déposées [...] dans l’esprit humain» par le créateur divin (AT X 376).15 Considérant
+les antécédents platoniciens et médiévaux du principe énoncé à Burman, il semble tout à fait justiﬁé de supposer provisoirement que P1 ait le même statut épistémologique que, par exemple, ex nihilo nihil ﬁt (cf. AT VII), même s’il occupe
+une place beaucoup moins centrale dans l’œuvre de Descartes.
+En guise de conclusion, ajoutons un mot sur la conception cartésienne de
+l’innéité qui ménagera une transition vers la section suivante. Peu après le célèbre passage de la Troisième méditation où il remarque qu’«on ne doit pas
+trouver étrange que Dieu, en me créant, ait mis en moi cette idée [de lui-même]
+pour être comme la marque de l’ouvrier empreinte sur son ouvrage» (AT VII
+51), Descartes invoque une conception de l’innéité qui témoigne à la fois de la
+théorie traditionnelle d’empreintes ou traces laissées sur l’esprit humain, et
+d’une toute nouvelle théorie, celle-ci propre à Descartes, selon laquelle tout ce
+qui est le fruit de la réﬂexion sur le cogito, par exemple la réﬂexivité et la ﬁnitude de la pensée humaine, est inné.16 Voici le passage en question :
+Mais de cela seul que Dieu m’a créé, il est fort croyable qu’il m’a en quelque façon
+produit à son image et semblance, et que je conçois cette ressemblance (dans laquelle
+l’idée de Dieu se trouve contenue) par la même faculté par laquelle je me conçois
+moi-même; c’est-à-dire que, lorsque je fais reﬂexion sur moi, non seulement je connais que je suis une chose imparfaite, incomplète, et dépendante d’autrui, qui tend et
+qui aspire sans cesse à quelque chose de meilleur et de plus grand que je ne suis, mais
+je connais aussi, en même temps [simul], que celui duquel je dépends, possède en soi
+toutes ces grandes choses auxquelles j’aspire, et dont je trouve en moi les idées, non
+pas indéﬁniment et seulement en puissance, mais qu’il en jouit en effet, actuellement
+et inﬁniment, et ainsi qu’il est Dieu (AT VII 51).
+
+Selon ce texte, celui qui médite entend l’idée de Dieu «en même temps»
+(simul), que l’idée de sa propre dépendance et ﬁnitude. Dans la preuve de
+l’innéité, par contre, l’ordre était inverse (priorem quodammodo in me esse
+
+Connaissance de Dieu 11
+
+perceptionem inﬁniti quam ﬁniti). Dans la section suivante nous verrons que
+Descartes retient l’une et l’autre de ces deux thèses apparemment contradictoires dans une synthèse qui peut être résumée de la manière suivante. Dans
+l’ordre temporel des idées, une connaissance implicite de Dieu est simultanée
+avec l’idée innée de la nature ﬁnie de la pensée et de l’ego qui pense; en
+d’autres termes, elle est implicitement présente à l’esprit du moment même
+que l’est la pensée, c’est-à-dire dès le moment où l’ego se met à penser. Néanmoins, la connaissance implicite de la perfection inﬁnie de Dieu précède
+la conscience explicite de soi-même (cogito) dans l’ordre intemporel de la
+connaissance, ou dans l’ordre logique, puisqu’elle sert de mesure qui rend la
+conscience de la ﬁnitude de la chose pensante possible. C’est cette conscience
+explicite de soi en tant qu’imparfait qui, à son tour, rend possible la connaissance explicite de la perfection de Dieu, laquelle est ainsi ultérieure dans
+l’ordre du temps et à la conscience implicite et à la conscience explicite de
+l’ego ﬁni. Toutefois, puisque l’idée implicite de Dieu précède dans l’ordre
+logique l’idée explicite du «moi» ﬁni qui est innée, il s’ensuit que l’idée implicite de Dieu est innée à plus forte raison.17 Reste à montrer que c’est bien la
+théorie de la connaissance qui est présentée dans la réponse de Descartes à
+ceux qui lui semblaient voir dans le cogito, ergo sum les prémisses d’un syllogisme enthymématique.18
+5. La Méthode analytique
+À la méthode de «synthesis» (AT VII 155f.) employée dans les preuves more
+geometrico des Secondes Réponses, Descartes juxtapose «la voie analytique»
+des Méditations, laquelle est «la plus vraie, et la plus propre pour enseigner»
+(AT VII 156). La similarité entre cette «voie» et le procédé aristotélicien connu
+sous le nom «induction intuitive (epagôgê)» saute aux yeux dans un texte des
+Secondes réponses :
+Mais quand nous apercevons que nous sommes des choses qui pensent, c’est une
+première notion qui n’est tirée d’aucun syllogisme [ex nullo syllogismo]; et lorsque
+quelqu’un dit : Je pense, donc je suis, ou j’existe, il ne conclut pas son existence de
+sa pensée par la force de quelque syllogisme, mais comme une chose connue de soi;
+il la voit par une simple inspection de l’esprit [simplici mentis intuitu]. Comme il
+paraît de ce que, s’il la déduisait par le syllogisme, il aurait dû auparavant connaître
+cette majeure : Tout ce qui pense, est ou existe. Mais, au contraire, elle lui est enseignée de ce qu’il sent en lui-même [apud se experiatur] qu’il ne se peut pas se faire
+qu’il pense, s’il n’existe. Car c’est le propre de notre esprit, de former les propositions générales de la connaissance des particulières (AT VII 140 sq.).
+
+À cette assertion sans ambiguïté selon laquelle le sum n’est nullement la conclusion d’une inférence directe ou indirecte, mais une saisie ou intuition immédiate, Burman objecta que les mots ex nullo syllogismo étaient en
+contradiction avec Principes, I, 10, où Descartes avait écrit, au contraire :
+
+12
+
+Dialogue
+et lorsque j’ai dit que cette proposition : Je pense, donc je suis, est la première et la
+plus certaine qui se présente à celui qui conduit ses pensées par ordre, je n’ai pas pour
+cela nié qu’il ne fallût savoir auparavant ce que c’est que pensée, certitude, existence, et que pour penser il faut être, et autres semblables.
+
+La conclusion que Burman voulut tirer de cet article — à juste titre, dira-t-on
+— est que, loin d’être la première des connaissances, le cogito, ergo sum présuppose des notions primitives, notamment celles de la «pensée» et
+l’«existence», tout autant que la connaissance du lien logique entre elles qui
+nous rend conscients «que pour penser il faut être». Mais Descartes récuse
+cette conclusion en distinguant de ce que nous connaissons explicitement,
+c’est-à-dire avec attention au connu, ce qui est connu sans que l’on s’en aperçoive :
+Avant cette conclusion : je pense, donc je suis, on peut savoir que tout ce qui pense
+existe, car cette majeure est en réalité antérieure à ma conclusion, qui s’appuie sur
+elle. C’est en ce sens que, dans les Principes, l’auteur déclare qu’elle vient la première, puisque justement de façon implicite, la majeure est toujours présupposée et
+vient toujours la première; mais ce n’est pas une raison pour que je connaisse toujours de façon expresse et explicite qu’elle vient la première, et que j’en aie la connaissance avant ma conclusion, puisque justement je prête attention seulement à ce
+que j’expérimente en moi (quod in me experior), comme cogito, ergo sum, sans
+prêter attention à la notion générale que tout ce qui pense existe (AT V 147).
+
+Que les mots cogito, ergo sum expriment une saisie intellectuelle ou intuition
+directe n’exclut point qu’ils résument un vrai procédé, ou mieux, un «progrès»
+de la pensée, un véritable «mouvement» graduel d’explicitation de ce qui est
+implicite dans chaque pensée comme telle. Dans ce progrès, qui n’a rien à voir
+avec la logique formelle, ou la «Dialectique», comme dirait Descartes (voir note
+précédente), ce dont on est à peine conscient dans la conscience de soi, par exemple, ce que c’est que penser ou exister, se fait connaître peu à peu de manière
+explicite. Il en va de même pour le principe universel omne quod cogitat, est, et
+pour toute notion commune du même genre, notamment «le néant ne peut avoir
+aucuns attributs» (voir Principes, I, 11 et 52), principe que Descartes glose de la
+manière suivante : «lors qu’on rencontre quelque [attribut], on a raison de conclure qu’il est l’attribut de quelque substance, et que cette substance existe»
+(Principes I, 52). Tout comme omne quod cogitat, est, ce principe de la lumière
+naturelle surgit à l’occasion d’une réﬂexion sur la proposition singulière et contingente «je pense» ceci ou cela. En effet, lorsque je réﬂéchis avec attention à
+l’existence certaine de mes propres actes de pensée (cogito), je me rends compte,
+sans inférence aucune (malgré le mot «conclure»), de la nécessité de l’existence
+d’une substance pensante ou mens auquel ces actes appartiennent (sum).
+Puisant de manière plus soutenue dans cette même intuition immédiate,
+je parviens ensuite à saisir la proposition générale (mais sans signiﬁcation
+
+Connaissance de Dieu 13
+
+existentielle) «le néant ne peut avoir aucuns attributs», laquelle est tout de
+même connue d’avance dans ce sens précis : faute de connaissance implicite
+du principe général, la transition de l’esprit du cogito au sum ne pourrait nullement se faire. Et ce qui vaut pour nihili nullae sunt proprietates — le vrai
+principe à l’œuvre dans la découverte du cogito, ergo sum — s’applique également au principe omne quod cogitat est que certains citaient pour mettre en
+cause la primauté du cogito, mais qui ne sert en réalité qu’à en fournir la démonstration pour qui ne l’a pas encore aperçu. Ces deux transitions de l’esprit,
+celle (1) du cogito au sum (moyennant une connaissance implicite d’un principe général), et celle (2) de la connaissance implicite à la connaissance explicite du principe universel, font partie d’un seul et même processus d’intuition
+continue qui se déploie graduellement dans le temps. C’est la première transition ou mouvement de la pensée qui explique la présence de la particule «ergo»;
+mais c’est le choix de cette particule logique — tout comme l’usage, à mauvais
+escient, de mots comme «conclure» — qui a induit en erreur tant de lecteurs de
+Descartes, en suggérant, au lieu d’une multiple refocalisation de l’attention à
+l’intérieur d’une seule et même intuition, une inférence logique là où il n’ y a
+ni syllogisme ni inférence immédiate.19
+Avant de nous tourner à nouveau vers la théorie cartésienne de l’innéité,
+résumons l’essentiel de ce qui précède en disant que dans le déroulement d’un
+processus rationnel qui reﬂète, pour reprendre l’expression de Descartes, «le
+propre de notre esprit », la connaissance de l’universel, bien que «plus tôt» que
+la connaissance du particulier «en soi» ou «par nature», comme dirait Aristote
+(cf. An. Post. 71b33-72a5), n’en est pas moins «plus tard» dans l’ordre temporel de la connaissance explicite. Or, cette priorité de l’universel précise le sens
+exact de l’innéité chez Descartes : qu’il s’agisse de concepts généraux ou
+d’axiomes universels, «innée» désigne ce qui est «par nature» implicite dans
+tout acte de pensée, et partant susceptible d’être rendu explicite par une activité
+de réﬂexion sur de tels actes. Voilà la doctrine strictement philosophique derrière l’image pittoresque des vérités éternelles implantées dans l’esprit humain
+par un Dieu créateur, dont la nature toute parfaite garantit que les «semences»
+ou principes de la connaissance humaine reﬂètent parfaitement les principes
+des choses, c’est-à-dire les natures ou essences des êtres matériels ou immatériels hors de l’esprit que Dieu a également créés.20
+Même s’il est impossible d’ignorer certains vestiges de la doctrine platonicienne de l’innéité dans ce récit judéo-chrétien concernant la création des vérités
+éternelles, la conception de base de la connaissance rationnelle n’en reste pas
+moins aristotélicienne.21 C’est en réﬂéchissant sur ses propres pensées particulières, notamment sur le doute et l’erreur auxquels il est susceptible à chaque
+moment du progrès graduel qui l’amène de la connaissance obscure et confuse
+à celle parfaitement claire et distincte, que Descartes comprend qu’il est une
+chose pensante ﬁnie. Ce qui ne semble au début qu’une vérité de fait contingente concernant sa propre conscience de soi en particulier se révèle, grâce à la
+réﬂexion analytique, comme une vérité universelle et nécessaire concernant
+
+14
+
+Dialogue
+
+l’essence même de toute pensée humaine. Mais, insiste Descartes, cette saisie
+parfaitement certaine de la ﬁnitude humaine contient déjà dans son sein la connaissance de la distance inﬁnie qui sépare la mens humana de la mens divina
+et, à ce titre, l’idée de Dieu elle-même. C’est sur ce point que Descartes attire
+l’attention de Burman, en ayant recours au principe de la lumière naturelle
+«tout défaut présuppose la perfection dont il déchoit», principe qui est déjà
+implicite dans la conscience de soi, tout comme le sum, bien qu’aucun des
+deux ne soit capable d’être connu explicitement qu’ultérieurement.
+Aﬁn de conﬁrmer cette interprétation, considérons enﬁn l’objection de Burman et la réponse de Descartes de plus près. Burman s’attaque à la dernière
+phrase de la preuve de l’innéité dans la Troisième méditation : «car comment
+serait-il possible que je pusse connaître que je doute, et que je désire, c’est-àdire qu’il me manque quelque chose, et que je ne suis pas tout parfait, si je
+n’avais en moi aucune idée d’un être plus parfait que le mien, par la comparaison duquel je connaîtrais les défauts de ma nature?» Cette phrase serait selon
+Burman en pleine contradiction avec un passage du Discours de la méthode, où
+Descartes écrivait «qu’il avait vu clairement que c’était une plus grande perfection de connaître que de douter. Voilà donc [ainsi Burman] une connaissance
+qu’il a acquise indépendamment de toute considération de l’être parfait, et la
+connaissance de Dieu n’a pas précédé la connaissance de soi» (AT V 153).
+Si, comme le Discours semble le sous-entendre, il sufﬁt pour comprendre sa
+propre ﬁnitude de comparer le doute à la connaissance, c’est-à-dire comparer
+sa propre perception obscure et confuse à sa propre perception claire et distincte, il n’y a nul besoin de l’idée de Dieu. En réponse, Descartes soutient que
+même en ce passage
+c’est par la perfection de Dieu qu’il a connu sa propre imperfection. Quoique, explicitement, il n’en sait rien, implicitement, c’est bien ainsi qu’il a procédé. Explicitement
+en effet nous pouvons connaître notre imperfection avant la perfection de Dieu, puisque
+nous pouvons tourner notre attention vers nous avant de la tourner vers Dieu, et conclure que nous sommes ﬁnis avant de conclure qu’il est inﬁni. Mais, implicitement, la
+connaissance de Dieu et de ses perfections doit toujours précéder la connaissance de
+nous-mêmes et de nos imperfections : en effet, dans la réalité des choses [«par nature»], la perfection inﬁnie de Dieu est antérieure à notre imperfection, puisque notre
+imperfection est un défaut ou négation de la perfection divine, et que tout défaut ou
+négation présuppose la chose de laquelle le défaut déchoit, que la négation nie (ibid.).
+
+Vu que Descartes explique la priorité de l’inﬁni en termes de la même distinction entre l’implicite et l’explicite dont il se sert pour expliquer la relation entre
+majeure, mineure, et conclusion en défendant la primauté du cogito, il semble
+indéniable que tant la preuve de l’innéité que le cogito, ergo sum sont issus
+d’une unique démarche rationnelle. On pourrait toutefois objecter qu’il n’est
+pas admissible de mettre ainsi en parallèle le couple inﬁni–ﬁni de la preuve de
+l’innéité, d’une part, et le couple universel–particulier du cogito, ergo sum, de
+
+Connaissance de Dieu 15
+
+l’autre. Mais il ressort clairement de la lettre à Clerselier du 23 avril 1649 que
+les deux ne font qu’un pour Descartes :
+Or je dis que la notion que j’ai de l’inﬁni est en moi avant celle du ﬁni, parce que, de
+cela seul que je conçois l’être ou ce qui est [en général], sans penser s’il est ﬁni ou
+inﬁni [en particulier], c’est l’être inﬁni que je conçois; mais, aﬁn que je puisse concevoir un être ﬁni, il faut que je retranche quelque chose de cette notion générale de
+l’être [inﬁni], laquelle par conséquent doit précéder (AT V 356, nous soulignons).
+
+À tort ou à raison, Descartes considère le terme «inﬁni» l’équivalent
+d’«universel» dans ce passage, ou plus exactement, «l’être inﬁni» équivaut à
+ses yeux à «la notion universelle de l’être». Ne faut-il pas en conclure que, sauf
+exception, les paires «inﬁni-ﬁni» et «universel-particulier» coïncident dans la
+métaphysique de Descartes?
+6. Conclusion
+À en croire le témoignage des textes considérés jusqu’ici, Descartes se considérait, face à l’objection de Burman, en possession d’une réponse tout aussi
+juste que celle fournie aux objections contre le cogito, ergo sum. En conclusion, considérons deux raisons de croire qu’il avait tort en ce qui concerne la
+preuve de l’innéité, même si sa défense du cogito ne perd rien de sa force suite
+à l’erreur en question.
+La principale pierre d’achoppement est le fait que l’idée de Dieu soit (comme
+dirait Kant) une notion «transcendante» (cf. Critique de la raison pure, A296/
+B352 sq.). Par conséquent, il est impossible de concevoir comment une telle
+idée puisse être implicite dans la conscience de soi de chaque être ﬁni humain,
+comme le sont, par exemple, «chose» ou «substance», «vérité», «pensée» ou
+divers principes de la lumière naturelle basés sur ces notions-là. Car nous sommes, en ﬁn de compte, nous-mêmes des choses ou substances pensantes, et
+partant des êtres capables de concevoir clairement et distinctement ce qu’est
+une chose ou une substance, ce que sont la pensée, l’existence et la vérité, étant
+donné que nous concevons clairement et distinctement que nous pensons et
+existons et qu’il est vrai que ce qui pense ne peut pas ne pas exister et que, si
+une pensée existe, il faut qu’une substance existe, dont elle est la pensée. Pour
+cette raison, nous sommes en mesure de concevoir ces concepts généraux et
+principes universels en réﬂéchissant sur notre propre pensée, c’est-à-dire, sur
+nous-mêmes. C’est précisément le sens du mot «inné» chez Descartes : concevable sans expérience externe et sans exercice de l’imagination, simplement
+en réﬂéchissant sur sa propre pensée. Mais cette idée de l’innéité rend difﬁcile,
+pour ne pas dire impossible, de concevoir comment une idée comme celle
+d’une substance matérielle ﬁnie pourrait être innée en nous qui sommes des
+substances immatérielles ﬁnies. Et l’objection que souleva Gassendi dans les
+cinquièmes réponses vaut a fortiori pour l’idée transcendante de la perfection
+
+16
+
+Dialogue
+
+inﬁnie de Dieu. Comment pourrions-nous, substances ﬁnies ou imparfaites,
+parvenir à l’idée de la perfection inﬁnie de Dieu en réﬂéchissant sur nousmêmes?22 Descartes, a-t-il développé d’abord, de toutes pièces, une nouvelle
+théorie de l’innéité basée sur sa découverte de la réﬂexivité constitutive de la
+pensée humaine, pour ensuite basculer dans l’incohérence en essayant d’étendre
+cette théorie au delà des cas qui en sont à l’origine en l’appliquant à toute idée
+claire et distincte, y compris celle du corps matériel et de la perfection inﬁnie
+de Dieu, par rapport auxquelles elle n’a plus de sens?23
+Mais une autre objection est tout aussi dévastatrice. Selon Descartes, pour se
+rendre compte de sa propre imperfection, il faut une «mesure» ou norme inﬁnie
+de la perfection. Mais, comme objecta Burman, le Discours indique, au contraire, que la comparaison du doute et de l’incertitude avec l’idéal de la connaissance certaine sufﬁt pour nous convaincre de notre ﬁnitude. Suivant
+l’exemple de Burman, on pourrait objecter que le doute méthodique des Méditations montre que la connaissance de notre propre ﬁnitude ne requiert même
+pas la possession d’une perception claire et distincte actuelle. Descartes
+n’emploie-t-il pas le rêve pour mettre en doute l’ensemble des sciences de la
+nature (la physique, l’astronomie et la médecine), introduisant ensuite le Dieu
+tricheur pour démontrer que les sciences formelles, telles l’arithmétique et la
+géométrie, sont, elles aussi, sujettes au doute, bien qu’à un degré moindre que
+les sciences de la nature? Et si même avant la découverte actuelle d’une vérité
+capable de résister aux rationes dubitandi les plus «extravagantes» il était déjà
+possible de démontrer que les mathématiques pures et a fortiori les sciences
+naturelles (pour ne rien dire de la perception ordinaire) étaient douteuses, ne
+faut-il pas conclure que rien de plus est requis pour la conception de sa propre
+imperfection ou ﬁnitude que l’idée d’une possible vérité apodictiquement certaine, celle d’une vérité qui pourrait résister aux arguments tirés du rêve et du
+Dieu tricheur? Il est loin d’être clair que Descartes ait une réponse à cette objection, qui n’est qu’une autre version de celle de Burman.
+Comment Descartes aurait-il réagi à ces deux objections? Il est peu probable, vu sa parfaite sérénité face aux objections de Gassendi et Burman, qu’il
+s’en soit beaucoup inquiété. À la deuxième, à savoir qu’une norme ﬁnie et
+même hypothétique de ce qui est clair et distinct sufﬁrait pour s’apercevoir de
+sa propre ﬁnitude, il aurait probablement répondu en insistant sur le principe de
+la lumière naturelle que le ﬁni présuppose l’inﬁni. Mais c’est exactement ce
+que Burman voulait contester sur la base de certaines remarques du Discours,
+et ce qui est encore moins évident à la lumière du doute méthodique des Méditations. Quant à la première objection, celle inspirée par Gassendi, il n’y aurait
+rien d’étonnant si Descartes avait tenté d’en tirer un argument en faveur de
+l’innéité. Le fait même que l’idée de Dieu ne puisse pas être comprise selon le
+modèle réﬂexif qui rend intelligible l’innéité de «pensée», «chose», etc. pourrait être avancé comme preuve que cette idée a dû être implantée directement
+dans l’esprit humain par le créateur divin. Pourtant, ce recours au modèle classique de l’innéité pourrait occasionner des réserves tout aussi graves que celles
+
+Connaissance de Dieu 17
+
+qu’il est censé écarter. Il n’en reste pas moins possible que quelque pressentiment de cette objection ait motivé Descartes à retenir la théorie des «semences»
+divines dans son arsenal philosophique.
+Notes
+1 Nos citations renvoient à l’édition des Œuvres de Descartes par C. Adam et P. Tannery
+(AT). Le chiffre romain désigne le tome, le chiffre arabe la page du texte latin des
+Méditations et des Principes de la Philosophie, dont nous fournissons les traductions «autorisées» des tomes IX-1 et IX-2, avec une orthographe modernisée.
+Pour l’«Entretien» nous suivons la traduction de J.-M. Beyssade, 1981, pour la
+correspondance latine et les Cinquièmes objections et réponses, celle de F. Alquié
+(1963-73).
+Comme l’«Entretien» ne fait pas partie des écrits de Descartes — n’étant en effet
+que le récit de Burman d’une conversation qu’il aurait eu avec le philosophe le 16
+avril 1648 à Egmont, mis par écrit après coup par Clauberg et recopié ensuite par
+une main inconnue — il faut en justiﬁer l’usage. Au lieu de reprendre les arguments, avancés depuis des décennies, pour et contre la ﬁabilité de ce texte, nous
+nous bornerons à citer l’«hypothèse d’école» émise par Beyssade dans l’«étude»
+qui clôt son excellente édition : «la qualité d’une interprétation, dans les études
+cartésiennes, se mesure à ce qu’elle est capable de s’assimiler dans l’entretien. Ce
+qui revient, non point à privilégier l’entretien par rapport aux (autres) ouvrages de
+Descartes (cette préférence serait injuste et tendancieuse), mais à privilégier ce
+texte par rapport aux autres (commentaires) sur Descartes, ce qui est juste et fructueux. À chaque carrefour interprétatif litigieux, la direction indiquée par l’entretien
+invite à retourner aux textes antérieurs, authentiques et publiés : pour y chercher
+comment a surgi le thème soumis désormais à l’examen, pour y déceler ce qui annonce les formules chocs rapportées par l’entremise de Burman, pour apprécier
+éventuellement les écarts et, d’abord, les comprendre» (ibid., 158). Pour la position
+avec laquelle Beyssade prend ses distances ici, cf. Alquié, Œuvres, t. 3, p. 766 sq.
+Le maître y dresse une liste de «contradictions» apparentes entre l’«Entretien» et
+les écrits de Descartes proprement dits, stratégie que l’élève cherche à déjouer en
+restaurant, difﬁculté par difﬁculté, la cohérence parfaite entre les deux sources.
+2 Les mots «en quelque façon» ne sont qu’une première allusion à la différence entre
+la connaissance explicite et la connaissance implicite, dont il sera question dans les
+deux sections suivantes.
+3 Le fait que l’idée de Dieu soit innée ressort clairement de la Cinquième méditation,
+où Descartes afﬁrme pouvoir «tirer, pour ainsi dire, son idée [celle du Dieu] du trésor de mon esprit» (AT VII 67) et parle des «véritables idées qui sont nées avec moi,
+dont la première et principale est celle de Dieu» (AT VII 68). La question concerne
+exclusivement la manière dont Descartes parvient à la connaissance de l’innéité de
+cette idée.
+4 Quoi qu’en dise J.-L. Marion, qui semble conclure de la certitude d’une proposition
+à sa nécessité au sens logique (voir, par exemple, Marion, 1989, p. 134 : «l’existence
+première, absolument indubitable et nécessaire, de l’ego comme cogito»). Il ne faut
+
+18
+
+5
+
+6
+
+7
+
+8
+
+Dialogue
+pas oublier que, selon Descartes, la seule chose dont l’existence est nécessaire est
+Dieu.
+Dans les Principes (I, 32), tous les modes de pensée sont divisés entre deux classes :
+«Car toutes les façons de penser que nous remarquons en nous, peuvent être rapportées à deux générales, dont l’une consiste à apercevoir par l’entendement, et
+l’autre à se déterminer par la volonté. Ainsi sentir, imaginer, et même concevoir les
+choses purement intelligibles, ne sont que des façons différentes d’apercevoir
+[c’est-à-dire de percevoir]; mais désirer, avoir de l’aversion, assurer, nier, douter,
+sont des façons différentes de vouloir». Même chose dans les Passions de l’âme (cf.
+I, 17-25), où les émotions sont explicitement reléguées à la première des deux
+classes des Principes. Dans la Troisième méditation (cf. AT VII 37), par contre,
+Descartes divise les pensées en idées au sens stricte (les «perceptions» des deux
+autres classiﬁcations), et volitions, émotions, et jugements, qui sont des idées dans
+un sens large. Difﬁcile à dire si les Passions visent à enlever la contradiction seulement apparente entre les deux catégories des Principes et les quatre des Méditations, ou si cette dernière classiﬁcation représente un vrai changement de position
+vis-à-vis des Méditations. Quoiqu’il en soit, et quel que soit le nombre total de
+genres, ce sont à chaque fois les mêmes six espèces de pensées qui sont rangés sous
+des rubriques différentes.
+En accord avec le bon sens, Leibniz considère les animaux comme étant capables
+de la sensation, de l’appétit, de la mémoire et même d’une forme rudimentaire
+d’induction généralisante malgré leur incapacité de dire moi. Cf. les Principes de
+la nature de la grâce (§5), et la Monadologie (§30). Voir également Russell
+(1976, p. 27), qui a probablement emprunté la doctrine à Leibniz: «It seems natural to suppose that self-consciousness is one of the things that distinguish men
+from animals. Animals, we may suppose, though they have acquaintance with
+sense-data, never become aware of this acquaintance». Toutefois, à la différence
+de Descartes (cf. le prochain paragraphe dans le texte), Russell estime que la
+conscience de soi n’a pas le statut d’un phénomène universel et nécessaire, en
+d’autres mots, qu’elle ne fait pas partie de la structure même de tout acte de pensée. Sinon, il n’écrirait pas : «We are not only aware of things, but we are often
+aware of being aware of them. When I see the sun, I am often aware of my seeing
+the sun [...] When I desire food, I may be aware of my desire for food» (ibid., 26
+sq., nous soulignons).
+Puisqu’il considère la réﬂexivité comme structure constitutive de la pensée en tant
+que telle, Descartes se voit obligé de refuser la capacité de penser à tout être qui ne
+peut pas dire «moi», d’où la doctrine de l’animal-machine. Pour Leibniz (voir la
+note précédente), l’aperception résulte d’un deuxième acte réﬂexif qui peut, mais
+ne doit pas forcément, survenir après un acte de pensée. Voir la note 9 infra.
+Le mot ego est explicite dans Principes I, 10 («ego cogito, ergo sum»), comme déjà
+dans la Deuxième méditation («Ego sum, ego existo»). Le reste de la formule, cogito me cogitare, se trouve à maintes reprises dans les écrits de Heidegger, en commençant par Sein und Zeit (Heidegger, 1977, p. 572). Voir surtout Einführung in die
+Phänomenologische Forschung (Heidegger, 1994, p. 132, p. 255 et p. 261).
+
+Connaissance de Dieu 19
+9 Pour la doctrine de Hobbes à ce propos, voir les quatrièmes objections : «encore
+que quelqu’un puisse penser qu’il a pensé (laquelle pensée n’est rien autre chose
+qu’un souvenir), néanmoins il est tout à fait impossible de penser qu’on pense, ni
+de savoir qu’on sait; car ce serait une interrogation qui ne ﬁnirait jamais : d’où
+savez-vous que vous savez que vous savez que vous savez etc. ?» (AT VII 173;
+CSM II 122 sq.). Ce que Hobbes considère comme une impossibilité est pour Descartes une nécessité; le regressus in inﬁnitum invoqué par Hobbes est évité en faisant de la réﬂexivité une structure essentielle de l’acte unique au lieu d’en faire un
+autre acte (successif ou simultané) qui a le premier pour objet. Leibniz, pour sa part,
+suit Hobbes plutôt que Descartes : ce «n’est pas possible que nous réﬂéchissions
+toujours expressément sur toutes nos pensées; autrement l’esprit ferait réﬂexion sur
+chaque réﬂexion à l’inﬁni sans pouvoir jamais passer à une nouvelle pensée. Par
+exemple, en m’apercevant de quelque sentiment présent, je devrais toujours penser
+que j’y pense, et penser encore que je pense d’y penser, et ainsi à l’inﬁni. Mais il
+faut bien que je cesse de réﬂéchir sur toutes ces réﬂexions et qu’il y ait enﬁn quelque
+pensée qu’on laisse passer sans y penser; autrement on demeurerait toujours sur la
+même chose» (Leibniz, 1875 (V), p. 108). Sa solution au problème du regressus
+consiste à couper court à la série au premier stade. Pour le reste, il dit tout comme
+Hobbes que l’aperception suit le sentiment présent dans le temps, ce qui en fait une
+sorte de souvenir (ou mémoire intellectuelle): «le souvenir présent ou immédiat, ou
+le souvenir de ce qui se passait immédiatement auparavant, c’est-à-dire la conscience ou la réﬂexion, qui accompagne l’action interne, ne saurait tromper naturellement; autrement on ne serait pas même certain qu’on pense à telle ou telle chose»
+(ibid., 220 sq.). Sur la question : structure ou (deuxième) acte, voir Miles, 1999,
+chapitres 8 et 15.
+10 Voir la remarque classique de Hume dans le Treatise (1967, p. 252): «For my part,
+when I enter most intimately into what I call myself, I always stumble on some
+particular perception or other, of heat or cold, light or shade, love or hatred, pain or
+pleasure. I never can catch myself at any time without a perception, and never can
+observe any thing but the perception». Elle est reprise par Russell (1945, p. 567;
+comme par John Stuart Mill avant lui): «the word “I” is really illegitimate; [Descartes] ought to state his ultimate premise in the form “there are thoughts”. The
+word “I” is grammatically convenient, but does not describe a datum».
+11 Le texte latin est plus explicite sur ce point que la traduction «autorisée» des Méditations : «Sed vero etiam ego idem sum qui imaginor [...] Idem denique ego sum qui
+sentio, sive qui res corporeas tanquam per sensus animadverto».
+12 Voir Aristote EN 1170a 29-b1; Mét. XII, 1074b 35-36; Parva Naturalia 448a25 sq.
+et De an. 425b12 sq. Pour ne citer qu’une phrase du passage de la Métaphysique :
+«Mais évidemment la connaissance et la perception et l’opinion ont toujours
+quelque chose de différent pour leur objet, et elles-mêmes seulement latéralement»,
+c’est-à-dire, par concomitance. Pour quelques références clés dans l’œuvre de
+Thomas d’Aquin, voir la dernière section de l’article de Hoenen cité ci-dessous.
+Sur le sens de l’expression en parergo, traduite «latéralement» ici, voir George
+(1981, p. 234): «The mind cannot perceive itself if it does not perceive some other
+
+20
+
+13
+
+14
+
+15
+
+16
+
+17
+
+Dialogue
+thing, and this seems to follow from familiar Aristotelian doctrine : the mind is in
+actuality nothing other than the object which it thinks. While the mind is in a way
+(i.e. potentially) all existing things, it is in actuality only what it actually thinks. But
+a mind devoid of actuality cannot be known to itself. Hence no state of mind can be
+known to us if there is no inexistent object». L’ordre de la connaissance est donc :
+d’abord les choses matérielles et immatérielles hors de l’esprit, ensuite l’acte de
+l’esprit par lequel elles en sont connues. D’ailleurs, pour Aristote, comme pour
+Thomas, Hobbes, Leibniz et Russell (voir note 6 ci-dessus), la conscience concomitante de l’acte est purement contingente.
+C’est donc l’idée de la nécessité d’une conscience minimale (a) de l’acte et (b) de l’ego
+qui pense qui est innovatrice chez Descartes. Mais son côté révolutionnaire consiste en
+l’usage qu’en fait Descartes pour renverser l’ordre traditionnel de la connaissance.
+Désormais, la conscientia, en tant que connaissance absolue de la pensée et de ce qui
+pense, précède et sert de base à toute connaissance de tout objet censé exister hors de
+l’esprit. Pour Aristote et les scolastiques, au contraire, la connaissance des choses sensibles précède et conditionne celle de l’esprit humain, cette dernière étant dépendante
+de la connaissance d’un objet hors de l’esprit sur laquelle la réﬂexion se pratique.
+La mortalité, par exemple, serait soumise à un doute puisque, pour autant que je
+sache au stade de la Deuxième méditation, je n’ai point un corps périssable du tout.
+Cet état des choses change naturellement avec la preuve de l’existence du monde
+dans la Sixième méditation.
+Sur cette notion platonicienne d’une «mesure», voir le Phédon (74d–77a) et surtout le
+République (504c : «rien d’imparfait est la mesure de quelque chose»). À propos de son
+inﬂuence sur Aristote, Augustin, Anselme, et Thomas, cf. Owens, 1985, p. 348 note 44.
+Pour une compilation instructive des «notions communes» dans les écrits de Descartes, cf. Gouhier (1969, p. 272 sq.) : «tout défaut ou négation présuppose la chose
+de laquelle le défaut déchoit, que la négation nie» n’y ﬁgure toutefois pas. Sur la
+doctrine des «semences de la vérité» voir, outre le passage du Discours que nous
+citons, celui des Règles (AT X 376 et AT X 373).
+Sur la théorie réﬂexive («reﬂective») de l’innéité, voir l’étude classique de McRae
+(1972). Clarke (1982, p. 52), qui semble ignorer l’essai de McRae, nomme ce qui
+est au fond la même théorie une «dispositional analysis of innateness». Miles (1999,
+chap. 18) parle d’une «reﬂexive-dispositional theory».
+Le mot simul souligne le fait que la perfection inﬁnie de Dieu n’est connue explicitement que dans et à travers un processus qui rend explicite tout ce qui est encore
+implicite dans le cogito. Toutefois, des vestiges de la théorie des «semences de vérité», pourtant si différente, se font sentir dans le passage cité plus haut, surtout
+dans l’enseignement concernant l’«imago Dei» auquel Descartes fait allusion. En
+somme, la théorie réﬂexive et celle des empreintes subsistent côte à côte dans les
+textes cartésiens. Sont-elles vraiment compatibles en ﬁn de compte?
+On trouve soit simul, soit une expression équivalente, dans deux autres passages
+qui doivent être mentionnés. Dans la Quatrième méditation, Descartes explique
+comment il arrive à comprendre qu’il est «incomplet et dépendant» en disant : «Et
+lorsque [cumque] je considère que je doute, c’est-à-dire que je suis une chose in-
+
+Connaissance de Dieu 21
+complète et dépendante, alors [adeo] l’idée d’un être complet et indépendant, c’està-dire Dieu, se présente à mon esprit [in me occurrit]» (AT VII 53). Ici cumque a le
+même sens que simul, et adeo signiﬁe : «juste là» ou «à ce moment précis» au lieu
+d’«après» ou «par la suite» (inde, deinde). Plus loin dans la même méditation, le mot
+simul réapparaît, mais cette fois c’est l’erreur plutôt que le doute qui occasionne la
+conscience de la ﬁnitude : «en suite de quoi, me regardant de plus près, et considérant quelles sont mes erreurs (lesquelles seules témoignent qu’il y a en moi de
+l’imperfection), je trouve qu’elles dépendent du concours de deux causes, à savoir
+[...] de mon entendement, et ensemble de ma volonté. [...] Car, par exemple, si je
+considère la faculté de concevoir qui est en moi, je trouve tout de suite [statim
+agnosco] qu’elle est d’une forte petite étendue, et grandement limitée [valde ﬁnitum], et tout ensemble [simul] je me représente [formo] l’idée d’une autre faculté
+beaucoup plus ample, et même inﬁnie» (AT VII 56 sq.). En disant que les erreurs
+«seules témoignent qu’il y a en moi de l’imperfection» Descartes exagère; selon le
+passage précédent le doute est aussi une marque infaillible de la ﬁnitude. Et dans un
+autre contexte, Descartes fait remarquer que le fait que sa connaissance «s’accroît
+peu à peu» est «un argument infaillible et très certain de l’imperfection [certissimum
+est imperfectionis argumentum]» (AT VII 47). Soit dit en passant que le verbe formare ne peut pas signiﬁer «former» ou «constituer» ici, pas plus que le verbe occurrere dans le passage précédent peut signiﬁer «survenir» ou quelque chose de
+similaire. Dans le premier cas, l’idée de Dieu serait factice, dans le deuxième elle
+serait adventice. Par conséquent, formare ne peut signiﬁer autre chose que «forger
+par soi-même» dans le sens de «ﬁxer le regard intellectuel» sur quelque chose qui était
+déjà présent à l’esprit implicitement sans être, jusque-là, remarqué explicitement.
+18 Nous avons écrit «ceux qui lui semblaient voir», puisque personne ne souleva
+l’objection dans cette forme précise. Bien sûr, Gassendi insista que le cogito, ergo
+sum présuppose «ce qui pense, existe», mais seulement pour faire valoir que Descartes aurait «déjà épousé un préjugé» (AT IX-A, 205) en établissant son premier
+principe, lequel ne serait pas donc absolument certain. Comme réponse, Descartes
+nia que la proposition «celui qui pense, existe» soit un préjugé, sauf «lorsqu’on la
+profère sans attention, et qu’on croit seulement qu’elle est vraie à cause qu’on se
+souvient de l’avoir ainsi jugé auparavant» (ibid.) — c’est-à-dire, sauf quand elle est
+afﬁrmée sans qu’on perçoive clairement et distinctement l’impossibilité de sa
+fausseté. Mais il proﬁte de l’occasion pour ajouter que «l’erreur qui est ici la plus
+considérable, est que cet auteur suppose que la connaissance des propositions particulières doit toujours être déduite des universelles, suivant l’ordre des syllogismes
+de la Dialectique : en quoi il montre savoir bien peu de quelle façon la vérité se doit
+chercher; car il est certain que, pour la trouver, on doit toujours commencer par les
+notions particulières, pour venir après aux générales» (AT IX-A, 205 sq.). Cette
+remarque semble attribuer à Gassendi une erreur proche de celle que Descartes reproche aux auteurs des Secondes objections, lesquels écrivirent : «vous ne savez
+pas encore que vous êtes une chose qui pense, puisque, selon vous, cette connaissance dépend de la connaissance claire d’un Dieu existant, laquelle vous n’avez pas
+démontrée, aux lieux où vous concluez que vous connaissez clairement ce que vous
+
+22
+
+Dialogue
+
+êtes» (AT VII 125). Les mots «vous concluez» entraînent cette réponse : «si [le
+méditateur] déduisait [la conclusion] par le syllogisme, il aurait dû auparavant connaître cette majeure : Tout ce qui pense, est ou existe. Mais, au contraire, elle lui est
+enseignée de ce qu’il sent en lui-même qu’il ne se peut pas faire qu’il pense, s’il
+n’existe. Car c’est le propre de notre esprit de former les propositions générales de
+la connaissance des particulières» (AT VII 141 sq.). Toutefois, rien n’indique que
+les auteurs des Secondes objections avaient un tel syllogisme en vue! Leur objection concerne «ce que vous êtes» (essence), et non pas «que vous êtes» (existence).
+Descartes s’éloigne de nouveau des intentions des auteurs. De même dans le cas de
+Burman qui, en renvoyant à la contradiction apparente entre les Secondes réponses
+et Principes I, 10, ne veut pas suggérer que la primauté du principe omne quod
+cogitat, est soit celle d’une majeure supprimée. Tout de même, en répondant à ce
+qu’il prend — à tort, semble-il — pour l’erreur commune de Burman, Gassendi, et
+aux auteurs des Secondes objections, Descartes jette une lumière précieuse sur sa
+conception de la rationalité, et partant, sur la preuve de l’innéité.
+19 Voir P. Hoenen qui, contre toute interprétation du cogito, ergo sum comme raisonnement logique, parle fort à propos d’«une intuition virtuellement multiple» (1937,
+p. 468). Nous sommes entièrement d’accord sur ce point fondamental, même si
+nous ne voyons dans l’ergo que l’indice d’une transition de la pensée qui, tout intuitive qu’elle soit, se déroule dans le temps. Hoenen, pour sa part, cherche à établir
+un lien douteux entre l’ergo et la « proposition causale [...] des Stoïciens» (ibid.,
+p. 462, p. 465 et 468) qui, aussi ingénieux soit-il, passe à coté de la rationalité propre
+à la connaissance des premier principes chez Descartes. Sous un angle plus global,
+ce que nous reprocherions à P. Hoenen est une tendance fâcheuse de diminuer
+l’originalité de Descartes au proﬁt d’Aristote et surtout de Thomas d’Aquin.
+À propos du manque de signiﬁcation existentielle mentionné plus haut dans le
+texte, voir Principes (I, 10) sur «ce que c’est que pensée, certitude, existence, et que
+pour penser il faut être, et autres choses semblables» : «notions si simples que
+d’elles-mêmes elles ne nous font avoir la connaissance d’aucune chose qui existe».
+20 Au lieu de dire «implantées dans l’esprit humain par Dieu» on pourrait dire également «par la nature» : «Car par la nature, considérée en général, je n’entends maintenant autre chose que Dieu même, ou bien l’ordre et la disposition que Dieu a
+établie dans les choses créées» (AT VII 80).
+21 Il ne faut pas minimiser l’importance de la différence entre (a) «semences de vérité»
+implantées dans l’esprit humain par un Dieu créateur et (b) «traces» ou empreintes
+laissées dans l’âme par son existence prénatale au royaume des Formes. Ni celle de
+la différence qui relève du fait que, pour Platon, l’idée intellectuelle de l’Egalité, par
+exemple, est obtenue à l’occasion de la perception des choses égales (cf. Phédon
+74b-c). Certes, Descartes parle de l’occasio où un principe de la lumière naturelle
+devient explicite : «il y en a un si grand nombre de telles [vérités éternelles], qu’il
+serait malaisé de les dénombrer. Mais aussi n’est-il pas nécessaire parce que nous ne
+saurions manquer de les savoir, lorsque l’occasion se présente de penser à elles, et
+que nous n’avons point de préjugés qui nous aveuglent (cum occurrit occasio ut de
+iis cogitemus, &amp; nullis praejudiciis excaecamur)» (Principes I, 49). Toutefois, par
+
+Connaissance de Dieu 23
+un geste caractéristique, il substitue aux occasions fournies par la perception des
+sens extérieurs d’autres fournies par la conscience de soi, c’est-à-dire par l’expérience
+interne. Le même geste limite également la ressemblance entre sa théorie et
+l’epagôgê d’Aristote, dont le point de départ est l’aisthêsis, c’est-à-dire la perception ou l’expérience externe. Cependant, le caractère aristotélicien de sa conception
+de la rationalité reste intact en dépit des vestiges du Platonisme qui renvoient à une
+doctrine de l’innéité qu’Aristote rejeta d’emblée.
+22 L’objection de Gassendi mérite d’être citée dans son intégralité : «Il y a une
+difﬁculté considérable concernant comment vous dérivez ces [idées des choses
+corporelles] de vous-même, ou de l’idée que vous avez de vous-même, lorsque vous
+maintenez être incorporel et vous considérer comme tel. Car si vous avez une connaissance d’une substance incorporelle, comment se peut-il que vous ayez quelque
+compréhension d’une substance corporelle?» (AT VII 293). Descartes répond : «Enﬁn il faut remarquer que je n’ai point afﬁrmé que «les idées des choses matérielles
+[ideae rerum materialium] dérivaient de l’esprit», comme vous me voulez ici faire
+accroire; car j’ai montré expressément après qu’elles procédaient souvent des corps,
+et que c’est par là que l’on prouve l’existence des choses corporelles» (AT VII 367).
+Il est sans doute vrai que c’est l’idée sensible ou adventice du corps qui forme le
+point de départ de la preuve de l’existence du monde corporel, tout comme l’explique
+Descartes ici; mais la préoccupation de Gassendi (comme il a bien compris la théorie cartésienne de l’innéité) concerne l’idée innée du corps en tant que «quelque
+chose d’étendu, de ﬂexible et de muable», l’idée dont la perception «n’est point une
+vision, ni un attouchement, ni une imagination [...] mais seulement une inspection
+de l’esprit» (AT VII 31). Il est en effet inconcevable qu’une telle idée puisse être
+l’objet d’une «inspection » dans laquelle l’esprit «se tourne en quelque façon vers
+soi-même, et considère quelques unes des idées qu’il a en soi» (AT VII 73), comme
+cela devrait être le cas selon le modèle réﬂexif de l’innéité des idées et des principes.
+L’impossibilité n’est qu’encore plus frappante dans le cas de l’idée de Dieu.
+23 Sur la théorie reçue de l’innéité, cf. McRae (1972).
+
+Références bibliographiques
+Aristotle
+1949
+
+Butler, R.J.
+1972
+Clarke, D.
+1982
+Descartes
+1964–74
+
+Prior and Posterior Analytics. A revised text with introduction and
+commentary by W.D. Ross. Oxford: Oxford University Press. (Cité
+Post. An.)
+Cartesian Studies. éd. R. J. Butler. Oxford: Blackwell.
+Descartes’s Philosophy of Science. University Park: The Pennsylvania
+State University Press.
+Oeuvres par C. Adam et P. Tannery, nouvelle présentation par B. Rochot
+et P. Costabel, Paris.
+
+24
+
+Dialogue
+1963–73
+1981
+
+Oeuvres philosophiques, éd. F. Alquié, 3 vol., Paris.
+L’Entretien avec Burman. Edition, traduction et annotation par JeanMarie Beyssade. Presses Universitaires de France.
+
+George, R.
+1981 «Kant’s Sensationism». Synthese 47: 229–55.
+Gouhier, H.
+1969 La pensée métaphysique de Descartes. Paris: Vrin.
+Heidegger, M.
+1977 Sein und Zeit. Frankfurt am Main: Vittorio Klostermann Verlag.
+(Gesamtausgabe v. 2)
+1994 Einführung in die Phänomenologische Forschung. Frankfurt am Main:
+Vittorio Klostermann Verlag. (Gesamtausgabe v. 17)
+Hoenen, P.
+1937 «Le Cogito ergo sum comme intuition et comme mouvement de la pensée». Dans Cartesio nel terzo Centenario del «Discorso del metodo».
+Milano: Società editrice «Vita e Pensiero».
+Hume, D.
+1967 A Treatise of Human Nature. Reprinted from the Original Edition in
+three volumes and edited with an Analytical index by L.A. SelbyBigge. Oxford: Oxford University Press.
+1992 An Enquiry concerning Human Understanding. Edited with an Introduction by Antony Flew. Lasalle Illinois: Open Court.
+Kant, I.
+1944 Critique de la raison pure. tr. Tremesaygues et Pacaud. Presses Universitaires de France. (Citéd’après la première [A] et la seconde [B]
+edition).
+Leibniz, G.W.
+1875–90 Die Philosophischen Schriften von Gottfried Wilhelm Leibniz. Hrsg:
+von C.I. Gerhard. 7 vols. Repr. Hildesheim: Georg Olms Verlagsbuchhandlung, 1965.
+Marion, J.-L.
+1989 Réduction et donation. Recherches sur Husserl, Heidegger et la phénoménologie. Presses Universitaires de France.
+McRae, R.
+1972 “Innate Ideas.” Dans Butler 1972: 32–54.
+Miles, M.
+1999 Insight and Inference. Descartes’s Founding Principle and Modern
+Philosophy. Toronto: University of Toronto Press.
+Owens, J.
+1985 An Elementary Christian Metaphysics. Houston: Centre for Thomistic
+Studies.
+Russell, B.
+1945 A History of Western Philosophy. New York: Simon and Shuster.
+1976 The Problems of Philosophy. Oxford: Oxford University Press.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Prior and Posterior Analytics</title><editor><persName><surname>Aristotle</surname></persName></editor><editor><persName><forename type="first">W.D.</forename><surname>Ross</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1949</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Cartesian Studies</title><editor><persName><forename type="first">R.J.</forename><surname>Butler</surname></persName></editor><editor><persName><forename type="first">R. J.</forename><surname>Butler</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1972</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Descartes’s Philosophy of Science</title><editor><persName><forename type="first">D.</forename><surname>Clarke</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>University Park</pubPlace><date type="published">1982</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Descartes 1964–74 Oeuvres par C. Adam et P. Tannery, nouvelle présentation par B. Rochot et P. Costabel, Paris.</title><editor><persName><surname>Descartes</surname></persName></editor><imprint><date type="published">1964</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">Oeuvres philosophiques</title><editor><persName><surname>Descartes</surname></persName></editor><editor><persName><forename type="first">F.</forename><surname>Alquié</surname></persName></editor><imprint><date type="published">1963</date><biblScope unit="volume">3</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">L’Entretien avec Burman</title><editor><persName><surname>Descartes</surname></persName></editor><editor><persName><forename type="first">Jean-Marie</forename><surname>Beyssade</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1981</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Kant’s Sensationism</title><author><persName><forename type="first">R.</forename><surname>George</surname></persName></author></analytic><monogr><title level="j">Synthese</title><imprint><date type="published">1981</date><biblScope unit="volume">47</biblScope><biblScope unit="page" from="229">229</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">La pensée métaphysique de Descartes</title><editor><persName><forename type="first">H.</forename><surname>Gouhier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Sein und Zeit</title><editor><persName><forename type="first">M.</forename><surname>Heidegger</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Frankfurt am Main</pubPlace><date type="published">1977</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">Einführung in die Phänomenologische Forschung</title><editor><persName><forename type="first">M.</forename><surname>Heidegger</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Frankfurt am Main</pubPlace><date type="published">1994</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Le Cogito ergo sum comme intuition et comme mouvement de la pensée</title><editor><persName><forename type="first">P.</forename><surname>Hoenen</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Milano</pubPlace><date type="published">1937</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">A Treatise of Human Nature</title><editor><persName><forename type="first">D.</forename><surname>Hume</surname></persName></editor><editor><persName><forename type="first">L.A.</forename><surname>Selby-Bigge</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1967</date></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">An Enquiry concerning Human Understanding</title><editor><persName><forename type="first">D.</forename><surname>Hume</surname></persName></editor><editor><persName><forename type="first">Antony</forename><surname>Flew</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lasalle Illinois</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Critique de la raison pure</title><editor><persName><forename type="first">I.</forename><surname>Kant</surname></persName></editor><editor><persName><surname>Tremesaygues</surname></persName></editor><editor><persName><surname>Pacaud</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1944</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Die Philosophischen Schriften von Gottfried Wilhelm Leibniz</title><editor><persName><forename type="first">G.W</forename><surname>Leibniz</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hrsg</pubPlace><date type="published">1875</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Réduction et donation. Recherches sur Husserl, Heidegger et la phénoménologie</title><editor><persName><forename type="first">J.-L.</forename><surname>Marion</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1989</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Innate Ideas</title><author><persName><forename type="first">R.</forename><surname>McRae</surname></persName></author></analytic><monogr><title level="j">Dans Butler</title><imprint><date type="published">1972</date><biblScope unit="volume">1972</biblScope><biblScope unit="page" from="32">32</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Insight and Inference. Descartes’s Founding Principle and Modern Philosophy</title><editor><persName><forename type="first">M.</forename><surname>Miles</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Toronto</pubPlace><date type="published">1999</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">An Elementary Christian Metaphysics</title><editor><persName><forename type="first">J.</forename><surname>Owens</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Houston</pubPlace><date type="published">1985</date></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="inbook"><monogr><title level="m">A History of Western Philosophy</title><editor><persName><forename type="first">B.</forename><surname>Russell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1945</date></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">The Problems of Philosophy</title><editor><persName><forename type="first">B.</forename><surname>Russell</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1976</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Cheminements et situations de vie des personnes âgées présentant des troubles mentaux graves : perspectives d’intervenants psychosociaux</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2010</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2010</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Cheminements et situations de vie des personnes âgées présentant des troubles mentaux graves : perspectives d’intervenants psychosociaux</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Bernadette</forename><surname>Dallaire</surname></persName><email>bernadette.dallaire@svs.ulaval.ca</email><affiliation>Professeure agrégée, École de Service social, Université Laval, Québec</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Michael</forename><surname>McCubbin</surname></persName><affiliation>Professeur associé, École de Service social, Université Laval, Québec</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Mélanie</forename><surname>Provost</surname></persName><affiliation>Agente de recherche, GRIOSE-SM, Centre de santé et de services sociaux de la Vieille-Capitale/Centre de recherche Université Laval - Robert-Giffard, Québec</affiliation></author><author xml:id="author-0003"><persName><forename type="first">Normand</forename><surname>Carpentier</surname></persName><affiliation>Chercheur, Institut universitaire de gériatrie de Montréal, Université de Montréal</affiliation></author><author xml:id="author-0004"><persName><forename type="first">Michèle</forename><surname>Clément</surname></persName><affiliation>Chercheure, GRIOSE-SM, Centre de santé et de services sociaux de la Vieille-Capitale/Centre de recherche Université Laval - Robert-Giffard, Québec</affiliation></author><idno type="istex">1AC8692164CDBB83E9B89661589FC1CAF8106A34</idno><idno type="ark">ark:/67375/6GQ-8VHNB5TK-V</idno><idno type="DOI">10.1017/S0714980810000164</idno><idno type="PII">S0714980810000164</idno><idno type="article-id">00016</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2010-06"/><biblScope unit="volume">29</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="267">267</biblScope><biblScope unit="page" to="279">279</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2010</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>Services for elders with severe mental illness (SMI) have major deficiencies, among them a lack of adequate psychosocial services. Some analysts have attributed this situation to “double stigmatization” targeting both ageing and mental illness in our societies. Using qualitative methods (23 semi-directed interviews, theme-based content analysis), our exploratory research aims to understand better the perceptions of psychosocial practitioners working in community and institutional settings about the elderly with SMI and their living situations. Our informants evoke living situations marked by a lack of support (isolation), of resources (financial precariousness/poverty) and of power (learned passivity), traits that are related not only to mental illness per se, but also to long term psychiatric institutionalization. For them, the current situation of elders with SMI is the end product of biographies in which life-course, illness-course and life in services and/or institutions join and, sometimes, become indistinguishable. Implications for psychosocial practices are discussed.</p></abstract><abstract xml:lang="fr" style="translated"><p>Les services offerts aux aînés aux prises avec des troubles mentaux graves (TMG) présentent des lacunes importantes, notamment le manque de services psychosociaux adéquats. Certains ont attribué cette situation à une « double stigmatisation » visant à la fois le vieillissement et la maladie mentale. À partir d’une démarche exploratoire fondée sur des méthodologies qualitatives (23 entrevues semi-dirigées, analyse de contenus thématique), notre recherche vise notamment à mieux connaître les perceptions des intervenants psychosociaux des milieux institutionnels et communautaires sur les personnes âgées atteintes de TMG et sur leurs situations de vie. Les intervenants font état de situations de vie marquées par le manque de soutien (isolement), le manque de ressources (précarité/pauvreté) et le manque de pouvoir (passivité acquise), des traits qui seraient liés non seulement à la maladie mentale elle-même, mais aussi à l’institutionnalisation psychiatrique à long terme. Pour eux, la situation actuelle des aînés avec TMG constitue l’aboutissement d’un parcours où histoire de vie, histoire de maladie et histoire dans les services et/ou les institutions se rejoignent et quelquefois se confondent. Les implications de ces résultats pour la pratique psychosociale sont discutées.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots-clés</head><item><term>personnes âgées</term></item><item><term>troubles mentaux graves</term></item><item><term>intervenants psychosociaux</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>elderly</term></item><item><term>severe mental disorders</term></item><item><term>psychosocial practitioners</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2010-06">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Cheminements et situations de vie des
+personnes âgées présentant des troubles
+mentaux graves : perspectives
+d’intervenants psychosociaux*
+Bernadette Dallaire,1 Michael McCubbin,2 Mélanie Provost,3 Normand Carpentier,4 et
+Michèle Clément5
+ABSTRACT
+Services for elders with severe mental illness (SMI) have major deﬁciencies, among them a lack of adequate psychosocial
+services. Some analysts have attributed this situation to “double stigmatization” targeting both ageing and mental illness
+in our societies. Using qualitative methods (23 semi-directed interviews, theme-based content analysis), our exploratory
+research aims to understand better the perceptions of psychosocial practitioners working in community and institutional
+settings about the elderly with SMI and their living situations. Our informants evoke living situations marked by a lack
+of support (isolation), of resources (ﬁnancial precariousness/poverty) and of power (learned passivity), traits that are
+related not only to mental illness per se, but also to long term psychiatric institutionalization. For them, the current
+situation of elders with SMI is the end product of biographies in which life-course, illness-course and life in services
+and/or institutions join and, sometimes, become indistinguishable. Implications for psychosocial practices are discussed.
+
+RÉSUMÉ
+Les services offerts aux aînés aux prises avec des troubles mentaux graves (TMG) présentent des lacunes importantes,
+notamment le manque de services psychosociaux adéquats. Certains ont attribué cette situation à une « double
+stigmatisation » visant à la fois le vieillissement et la maladie mentale. À partir d’une démarche exploratoire fondée sur
+des méthodologies qualitatives (23 entrevues semi-dirigées, analyse de contenus thématique), notre recherche vise
+notamment à mieux connaître les perceptions des intervenants psychosociaux des milieux institutionnels et
+communautaires sur les personnes âgées atteintes de TMG et sur leurs situations de vie. Les intervenants font état de
+situations de vie marquées par le manque de soutien (isolement), le manque de ressources (précarité/pauvreté) et le
+manque de pouvoir (passivité acquise), des traits qui seraient liés non seulement à la maladie mentale elle-même, mais
+aussi à l’institutionnalisation psychiatrique à long terme. Pour eux, la situation actuelle des aînés avec TMG constitue
+l’aboutissement d’un parcours où histoire de vie, histoire de maladie et histoire dans les services et/ou les institutions se
+rejoignent et quelquefois se confondent. Les implications de ces résultats pour la pratique psychosociale sont discutées.
+1
+
+Professeure agrégée, École de Service social, Université Laval, Québec
+
+2
+
+Professeur associé, École de Service social, Université Laval, Québec
+
+3
+
+Agente de recherche, GRIOSE-SM, Centre de santé et de services sociaux de la Vieille-Capitale/Centre de recherche
+Université Laval - Robert-Giffard, Québec
+
+4
+
+Chercheur, Institut universitaire de gériatrie de Montréal, Université de Montréal
+
+5
+
+Chercheure, GRIOSE-SM, Centre de santé et de services sociaux de la Vieille-Capitale/Centre de recherche Université Laval
+- Robert-Giffard, Québec
+
+* Les auteurs tiennent à remercier les intervenantes et intervenants ayant participé à la recherche dont les résultats sont présentés
+ici, ainsi que les organisations qui ont soutenu leur participation. Ils remercient également le Conseil de la recherche en sciences
+humaines du Canada pour son appui ﬁnancier à cette étude, dont le présent article constitue l’une des retombées.
+Manuscript received: / manuscrit reçu : 02/03/09
+Manuscript accepted: / manuscrit accepté : 05/10/09
+Mots-clés : personnes âgées, troubles mentaux graves, intervenants psychosociaux
+Keywords: elderly, severe mental disorders, psychosocial practitioners
+Adresse de correspondance:
+Bernadette Dallaire
+
+Canadian Journal on Aging / La Revue canadienne du vieillissement 29 (2) : 267–279 (2010)
+doi:10.1017/S0714980810000164
+
+267
+
+268
+
+Canadian Journal on Aging 29 (2)
+
+Bernadette Dallaire et al.
+
+École de Service social
+Pav. Charles-De Koninck
+Université Laval
+Québec, Qc, G1V 0A6.
+Tel.: (418) 656-2131, poste 12899;
+télécopieur: (418) 656-3567 Courriel:
+(bernadette.dallaire@svs.ulaval.ca)
+
+Introduction
+Dans les années récentes, l’Organisation mondiale de
+la santé (Mendonça Lima, Levav, Jacobsson, &amp; Rutz,
+2003), le Ministère de la Santé américain (United States
+Department of Health and Human Services—Substance
+Abuse and Mental Health Services Administration,
+2004) et, au Canada, la Commission sur la santé mentale (Kirby &amp; Keon, 2006) ont tour à tour dénoncé la
+« double stigmatisation » qui marque l’organisation et
+la prestation des services ainsi que les conditions de
+vie « imposées » aux personnes âgées souffrant de
+troubles mentaux graves (TMG). Celles-ci seraient disqualiﬁées d’une part en raison du stigmate associé à la
+maladie mentale (Clément, 2001) et, d’autre part, à
+cause d’attitudes âgistes dans la population et dans les
+milieux de services (Estes &amp; Biney, 1991; Grant, 1996;
+Ragan &amp; Bowen, 2002).
+Pour certains analystes, les problèmes observés dans
+les services trouvent leur source dans une attitude fataliste de la part des professionnels (un « nihilisme
+thérapeutique », selon Butler, 1975). Confrontés à des
+conditions et situations où les pronostics sont peu encourageants et même « sans espoir » (Goldlist, 2000),
+ceux-ci se sentiraient peu outillés pour dispenser une
+aide efﬁcace (Kindiak, Grieve, Randall, &amp; Madsen,
+2004; Lagana &amp; Shanks, 2002). On en sait de plus en
+plus sur les perceptions et leur impact sur l’intervention
+en ce qui concerne les professions médicales et paramédicales. Mais qu’en est-il des membres des professions psychosociales oeuvrant auprès de cette clientèle?
+En particulier, comment perçoivent-ils les caractéristiques et cheminements de vie/de soins des personnes
+âgées aux prises avec des TMG? On peut présumer
+que les enjeux évoqués plus haut s’y présentent de
+manière singulière, étant donné les préoccupations davantage systémiques qui orientent leurs pratiques. Ce
+sont ces questions que l’étude présentée ici aborde.
+
+Une population « discrète », mais
+présentant des besoins importants
+Les aînés souffrant de TMG (principalement la
+schizophrénie, les troubles psychotiques, les troubles bipolaires et les dépressions chroniques) constituent une
+population peu « visible », mais néanmoins importante
+
+— environ 2 pour cent des personnes de 55 ans et plus1
+— et, surtout, en croissance: en raison du vieillissement
+démographique, on prévoit que le nombre de ces personnes doublera dans les trente prochaines années
+(Bartels, Levine, &amp; Shea, 1999; Cohen, 2000; Goldman
+&amp; Manderscheid, 1987). Il s’agit aussi d’une population particulièrement vulnérable. Le cumul des
+problèmes liés à la maladie mentale et à l’avancement
+en âge a des conséquences majeures sur les plans sanitaire, fonctionnel, économique et psychosocial: (a) habiletés sociales inadéquates et capacité d’adaptation et
+de résolution de problèmes limitées (Thompson, 1999);
+(b) somatisation et non-traitement de pathologies physiques (Bartels et al., 2004); (c) guérison plus ardue et
+mortalité plus élevée (National Institute for Mental
+Health in England, 2005; Social Care Institute for
+Excellence, 2006); (d) idéations ou actes suicidaires
+(Osgood, 1992); (e) isolement social et précarité
+économique (Meeks &amp; Murrell, 1997; Royal College of
+Psychiatrists, 2005). À ces conditions, on doit ajouter
+les effets iatrogéniques de l’usage prolongé de médications psychotropes, une vulnérabilité accrue aux abus
+de toutes sortes et des institutionnalisations prématurées ou autrement évitables (National Institute for
+Mental Health in England, 2005; Royal College of
+Psychiatrists, 2005). Évidemment, tous ces facteurs et
+vulnérabilités sont particulièrement prononcés en ce
+qui concerne les aînés ayant souffert de TMG pendant
+une grande partie de la période « adulte » (early onset).
+Si les besoins des aînés aux prises avec un TMG sont
+importants, les services qui leur sont offerts présentent
+des lacunes importantes, tant au Canada et au Québec
+que dans plusieurs autres pays occidentaux. En plus
+des problèmes d’utilisation et d’accessibilité (Lagana &amp;
+Shanks, 2002), les problèmes d’identiﬁcation et de
+réponse clinique aux troubles de santé mentale chez
+les aînés sont bien documentés: non-diagnostics ou diagnostics erronés, réponse limitée à la prescription de
+médication psychotrope, prescription inappropriée
+(Herrick, Pearcey, &amp; Ross, 1997; Mackenzie, Gekoski, &amp;
+Knox, 1999; Voyer, McCubbin, Préville, &amp; Boyer, 2003).
+Au niveau de l’organisation des services, certains analystes craignent que leurs besoins ne soient pas bien
+pris en compte, car les aînés souffrant de troubles mentaux sont, dans certaines juridictions (dont plusieurs
+
+Troubles mentaux graves chez les aînés
+
+régions du Québec), désignés soit comme usagers
+des services généraux de santé mentale, soit comme
+usagers de services gériatriques généraux et se trouvent alors confondus avec l’une ou l’autre de ces
+clientèles (Royal College of Psychiatrists, 2005; Tuokko,
+MacCourt, &amp; Milliken, 2008).
+En toile de fond, les différentes vagues de désinstitutionnalisation qui ont eu lieu à partir des années 1960 dans les
+systèmes de santé mentale ont fait en sorte que plusieurs
+personnes « ex-psychiatrisées » vieillissent maintenant
+dans la communauté ou se retrouvent dans des centres
+d’hébergement ou de soins de longue durée gériatrique
+(certains parlent alors de «transinstitutionnalisation»2),
+ce qui pose des déﬁs aux familles, aux communautés, aux
+gestionnaires d’institutions et aux intervenants (Cohen,
+2000; Depla et al., 2003; Larivière, Gélinas, Mazer, Tallant,
+&amp; Paquette, 2006; Mosher-Ashley, Turner, &amp; O’Neill,
+1991). Ces derniers, qui disposent souvent d’une formation limitée (ou même inexistante) en matière de santé
+mentale et n’ont pas accès à des ressources spécialisées
+(par exemple, un psychiatre ou psychologue consultant),
+voient leur capacité de répondre adéquatement aux
+problématiques de santé mentale/psychiatriques fortement réduite (Coalition canadienne pour la santé mentale
+des personnes âgées, 2006; Meeks &amp; Murrell, 1997). Trop
+souvent, le seul recours disponible est le traitement pharmacologique (Bartels, 2003; Holmes, Bentley, &amp; Cameron,
+2003).3 Quant aux services gérontopsychiatriques, que ce
+soit dans la communauté ou en milieu institutionnel, ils
+manqueraient souvent d’intégration et mettraient l’accent
+sur les problèmes transitoires ou aigus (lesquels conduisent parfois à des hospitalisations), ce qui laisse peu de
+place à la réadaptation.
+Dans le cas des aînés ayant souffert de TMG pendant
+une grande partie de la vie adulte, ces questions se
+posent avec acuité. Leur expérience du vieillissement
+est inﬂuencée non seulement par les conﬁgurations de
+services actuelles, mais aussi par celles qui ont prévalu
+dans le passé. Ainsi au Québec, dans une analyse comparant les conditions de vie et les représentations sociales des aînés avec TMG vivant en résidence d’accueil
+spécialisée à celles des aînés avec déﬁcience intellectuelle (DI) vivant dans le même type d’établissement,
+Dorvil et Benoit (1999)4 ont mis en lumière le fait que
+des historiques de désinstitutionnalisation différents —
+emphase sur les soins pour la clientèle TMG versus
+emphase sur la réadaptation pour la DI — ont conduit
+à des conditions de vieillissement elles aussi différentes. Ainsi, pour les personnes présentant TMG, le
+vieillissement en résidence d’accueil se vivait comme
+une continuité de la « convalescence de santé » dans un
+environnement de cohabitation (modèle des soins),
+alors que pour les personnes avec DI, cette expérience
+signiﬁait plutôt la poursuite des activités telles que le
+travail et les loisirs individuels ou organisés et davan-
+
+La Revue canadienne du vieillissement 29 (2)
+
+269
+
+tage d’accès au logement individuel (modèle de la réadaptation et du maintien de l’autonomie).
+Ces considérations nous interpellent quant à la place
+de la réadaptation et, plus largement, celle des interventions de nature psychosociale dans les pratiques,
+services et programmes s’adressant aux personnes
+souffrant de TMG et qui sont vieillissantes. Au Canada
+et au Québec, les principes énoncés quant aux services
+dispensés aux aînés souffrant de TMG incluent: (a) le
+soutien dans le milieu de vie, (b) le développement et
+préservation de l’autonomie, (c) la prise en compte des
+besoins médicaux, fonctionnels et psychosociaux et (d)
+l’intégration dans la communauté (Coalition canadienne pour la santé mentale des personnes âgées,
+2006; Dallaire, Miranda, Moscovitz, &amp; Guérette, 2003;
+Ministère de la Famille et de l’Enfance, 2001). Dans les
+années récentes, à ces principes se sont ajoutés les concepts inter-reliés d’appropriation du pouvoir d’agir (empowerment), d’inclusion sociale et de rétablissement,
+d’abord développés en fonction d’autres groupes et
+problématiques (surtout la clientèle adulte en santé
+mentale). Les trois concepts font référence à une évolution du rapport entre l’individu et son environnement:
+(a) dans la capacité de prise de décision, de choix et
+d’action [appropriation du pouvoir d’agir], (b) dans
+l’exercice de rôles sociaux et d’activités valorisants à
+l’intérieur de réseaux sociaux/communautés [inclusion sociale] et (c) dans le dépassement des handicaps
+fonctionnels et sociaux à travers un renouvellement de
+la vision du soi et du sens de son existence [rétablissement] (Dallaire &amp; McCubbin, 2008; Onken, Dumont,
+Ridgway, Dornan, &amp; Ralph, 2002; Provencher, 2002).
+Leur application est aujourd’hui considérée comme un
+moyen d’optimiser la qualité de vie et de permettre
+aux personnes âgées atteintes de troubles mentaux
+de gérer au mieux leur quotidien. Cependant, ces orientations sont encore trop peu utilisées dans le cadre
+des services conventionnels de santé mentale offerts
+aux aînés (Bartels et al., 2004; Chiu, Yastrubetskaya, &amp;
+Williams, 1999).
+
+Une exploration empirique
+Un des objectifs de notre recherche était d’examiner les
+perceptions des intervenants psychosociaux des milieux institutionnels et communautaires à propos des
+personnes âgées atteintes de TMG.5 Le choix de nous
+tourner vers ces praticiens (plutôt que, par exemple,
+les personnes âgées avec TMG elles-mêmes) s’explique
+par la nécessité de mieux saisir les croyances, perspectives, expériences relatées, etc. qui se trouvent « en
+amont » des pratiques. Nous ne prétendons pas ici
+« expliquer » la situation actuelle au Québec en matière
+d’interventions et services psychosociaux offerts à cette
+population, mais voulons plutôt documenter la perspective de ceux qui s’y consacrent dans le quotidien.
+
+270
+
+Canadian Journal on Aging 29 (2)
+
+Bernadette Dallaire et al.
+
+Nous avons adopté une démarche de recherche exploratoire fondée sur des méthodologies qualitatives. La
+collecte de données a été réalisée dans des établissements et organisations de la région de Québec, en 2007
+et 2008. Au centre de notre devis: 23 entrevues semidirigées avec des intervenants de disciplines susceptibles d’exercer en tout ou en partie des activités de
+nature psychosociale (fonctions d’accompagnement,
+de gestion de cas, d’animation, etc.) et oeuvrant en milieux institutionnels ou communautaires auprès des
+personnes âgées souffrant de TMG (expérience minimum: 6 mois). Étant donné que dans l’organisation
+des services au Québec, les aînés avec TMG sont
+désignés soit comme usagers des services généraux de
+santé mentale, soit comme usagers de services gériatriques généraux, les professionnels recrutés provenaient de ces deux secteurs (santé mentale-adultes et
+gériatrie). Nous visions une diversité en termes de (1)
+milieux de pratique (institutionnel v communautaire),
+(2) types de professionnels et (3) champs de pratique
+(gériatrie ou santé mentale). Le Tableau 1 qui suit résume les caractéristiques de notre échantillon.
+
+uations des intervenants sur: (1) la vieillesse et les troubles mentaux graves, (2) la situation de vie, les besoins et
+les problèmes des personnes âgées atteintes de TMG, (3)
+les interventions auprès de cette clientèle, incluant leur
+propre pratique et (4) le sens, la place et la pertinence
+des principes d’appropriation du pouvoir d’agir, de rétablissement et d’inclusion sociale dans leur pratique.
+Les entretiens ont été enregistrés sur cassette audio, puis
+transcrits dans leur intégralité. Ces transcriptions ont
+été soumises à une analyse thématique des contenus
+(Mayer, Ouellet, Saint-Jacques, &amp; Turcotte, 2000)
+soutenue par un traitement sous le logiciel NVivo. Le
+codage du matériel combinait l’utilisation d’un système
+de catégories prédéterminées, fondées sur les thèmes
+identiﬁés ci-haut, et l’inclusion de thèmes émergeant du
+matériel. Outre les variables de contenu déjà mentionnées, l’analyse tenait compte aussi du milieu de pratique
+du praticien (communautaire vs institutionnel), de sa
+profession (travail social, sciences inﬁrmières, ergothérapie, etc.) et de son domaine de pratique (gériatrie ou
+santé mentale).
+
+En raison de facteurs contextuels et organisationnels
+(périodes de recrutement, disponibilités, etc.), les milieux communautaires sont légèrement plus représentés que les milieux institutionnels dans notre échantillon
+(14 répondants contre 10). À noter par ailleurs que notre
+échantillon était presque exclusivement féminin (23
+femmes, 1 homme), reﬂétant en cela la forte représentation des femmes dans plusieurs professions d’aide (travail social et sciences inﬁrmières, en particulier). En
+termes d’années d’expérience dans les domaines concernés, la dispersion était de 18 mois à 30 ans pour la
+santé mentale et de 6 mois à 32 ans pour la gériatrie.
+
+Résultats
+
+Le guide d’entretien semi-structuré (préalablement
+prétesté6) portait sur les croyances, perceptions et éval-
+
+Disons d’abord que le tableau 2 ne couvre pas la totalité des contenus descriptifs portant sur les usagers.
+
+Étant donné que nos analyses sont en cours, les résultats présentés ici ne couvrent pas l’ensemble des thèmes
+abordés dans notre matériel. Pour les ﬁns du présent
+article, nous nous centrerons sur les descriptions touchant les clientèles et leurs situations de vie (voir thèmes 1
+et 2 des entretiens). Ces données sont pertinentes car les
+caractéristiques des usagers rencontrés dans la pratique
+quotidienne sont susceptibles d’inﬂuencer les perceptions quant à la population générale des aînés avec
+TMG. Le Tableau 2 qui suit fait le sommaire des proﬁls
+des clientèles tels que décrits par nos répondants.
+
+Tableau 1: Composition de l’échantillon en fonction des domaines de pratique et des milieux*
+Santé mentale (n colonne = 12)
+Milieux institutionnels
+(n ligne = 10)
+Milieux communautaires
+(n ligne = 14)
+
+Gériatrie (n colonne = 12)
+
+4 intervenant(e)s (TS, ES), en Centre hospitalier
+
+6 intervenant(e)s (TS, INF, ERG, REC,
+coordonnateur/chef d’unité), en CHSLD
+3 intervenant(e)s (TS, ERG), en CSSS/Service
+Soutien à domicile
+3 intervenant(e)s (TS, ES, IS), en organisme
+communautaire***
+
+3 intervenant(e)s (TS, IS), en CSSS/Service Santé
+mentale-adultes
+3 intervenant(e)s (INF, ES), en CSSS/Service
+Ressources non-institutionnelles (RNI)**
+2 intervenant(e)s (TS, IS) en organisme communautaire
+
+* Légende: travail social (TS), éducation spécialisée (ES), sciences inﬁrmières (INF), ergothérapie (ERG), récréologie (REC), intervention sociale (IS). Dans le cas de IS, ceci correspond au titre/poste attribué dans les organisations plutôt qu’à une discipline particulière, une désignation que certain(e)s de nos répondant(e)s préféraient utiliser.
+** Les RNI regroupent les ressources de type familial (familles et résidences d’accueil), intermédiaires (résidences de groupe, maisons
+de chambre, appartements supervisés, etc.) et apparentées (ex: appartements autonomes à loyer modique).
+*** Une des entrevues impliquant un organisme communautaire a été réalisée en tandem par deux intervenantes d’une même organisation (à leur demande). C’est pourquoi le total des participants (24) est supérieur au total des entretiens (23).
+
+Troubles mentaux graves chez les aînés
+
+La Revue canadienne du vieillissement 29 (2)
+
+271
+
+Tableau 2: Sommaire des descriptions des clientèles selon les domaines de pratique et les milieux
+Santé mentale
+Milieux institutionnels
+
+Gériatrie
+
+Centre hospitalier:
+
+CHSLD:
+
+•
+•
+
+•
+
+Milieux communautaires
+
+Différentes unités/clientèles: transitoire,
+moyenne et longue durée
+Certaines personnes hébergées depuis de
+nombreuses années (30-40 ans, dans
+certains cas)
+Le CH s’efforce de limiter au maximum
+le N patients de longue durée: certains
+sont redirigés vers les ressources
+non-institutionnelles (foyers supervisés,
+familles d’accueil, etc.) et d’autres vers
+les CHSLD
+
+CSSS/Santé mentale adultes:
+
+•
+•
+•
+
+•
+•
+•
+
+Admission lorsque des problèmes
+physiques ou cognitifs s’ajoutent au TMG
+Plusieurs sous tutelle ou curatelle publique
+Croissance de cette clientèle dans
+les CHSLD: certains viennent de la
+communauté, alors que d’autres sont
+transférés des RNI ou du CH
+
+CSSS/Soutien à domicile:
+
+Personnes vivant de façon autonome
+TMG depuis plusieurs années, mais intensité
+actuelle variable ou stabilisée
+Personnes suivies sont de plus en plus âgées
+
+•
+
+•
+•
+•
+
+Personnes en mesure de vivre chez-elles,
+mais dont la situation nécessite une aide
+ponctuelle ou un soutien à plus long terme
+Entre 10% et 30% aurait un diagnostic de
+TMG
+S’y ajoutent des cas « soupçonnés »
+Critères d’âge abaissés à 60 ans suite à
+l’inclusion des problématiques de TMG
+
+CSSS/Ressources non-institutionnelles:
+
+•
+•
+•
+•
+
+Clientèle qui a été hospitalisée en
+psychiatrie pendant de nombreuses années
+Certains transferts directs de l’hôpital
+vers la RNI
+D’autres ont évolué d’une ressource
+à l’autre avant d’arriver à la RNI
+Âge: 50-80 ans
+Organisations communautaires:
+
+Organisations communautaires:
+
+•
+•
+•
+
+Antécédents d’hospitalisation psychiatrique de
+longue durée (« 20-25 ans »)
+Certains fréquentent la même ressource
+depuis plusieurs années
+Âge: 50 ans et plus
+
+Plutôt, il sert de toile de fond pour situer les éléments
+de contenu abordés plus loin. Il reste que certaines tendances qu’on y observe retiennent l’attention. On voit
+d’abord que plusieurs propos portent sur ce que certains participants appellent les « patients historiques »,
+à savoir les personnes ayant non seulement des antécédents de maladie mais aussi des antécédents
+d’institutionnalisation psychiatrique, quelquefois de
+longue durée (il est question de décennies, dans certains cas). On réfère ici à l’ « ancienneté » de la personne en tant que « malade » dans le système de santé
+mentale, ainsi qu’à son « histoire » dans les services et
+les institutions. À la question Qui sont les clients âgés
+
+•
+•
+
+Personnes vivant de façon autonome
+Interventions sur une base ponctuelle
+
+avec TMG?, on répond bien souvent en termes de provenance (D’où viennent-ils?) et de direction (Où vontils?). À cet égard, il est clair que les cloisons entre les
+différents milieux (institutions, ressources intermédiaires, communauté) et entre les domaines (santé mentale, gériatrie) ne sont pas étanches, et que les personnes
+dont il est question cheminent de l’un à l’autre.
+De l’institution à la communauté ... à l’institution
+D’une part, les descriptions recueillies donnent à voir
+des « patients historiques » qui évoluent dans l’interface
+institution-communauté. (1) De l’institution à l’institution:
+
+272
+
+Canadian Journal on Aging 29 (2)
+
+après plusieurs années/décennies vécues en centre
+hospitalier psychiatrique, certains usagers (les cas les
+plus lourds sur les plans de la pathologie et du
+manque d’autonomie) sont directement transférés
+dans un centre d’hébergement et de soins de longue
+durée (CHSLD)7, lorsqu’ils présentent des maladies
+ou des pertes d’autonomie physique ou cognitives
+trop importantes; on parle ici d’institutionnalisations
+(psychiatrique, puis gériatrique) à long terme et parfois « à vie »8. (2) De l’institution à la ressource intermédiaire: dans une démarche de désinstitutionnalisation
+partielle, d’autres usagers sont passés de l’hôpital
+psychiatrique à une ressource non-institutionnelle;
+parmi eux, certains ont vécu dans une série de ressources intermédiaires (appartements supervisés,
+foyers de groupe, familles d’accueil, etc.), au ﬁl
+de l’évolution de leur condition et de leur degré
+d’autonomie. (3) De l’institution à la communauté: suite
+aux différentes vagues de désinstitutionnalisation qui
+ont eu lieu depuis les années ’70, certaines personnes
+vivent dans la communauté depuis plusieurs années;
+elles font appel aux services Santé mentale adulte ou
+Soutien à domicile des Centres de santé et de services
+sociaux (CSSS) et, dans certains cas, aux organisations
+communautaires.
+Il est important de noter ici que les deux derniers types
+de cheminement – institution → ressource intermédiaire et institution → communauté – n’impliquent pas
+nécessairement une sortie déﬁnitive de l’institution,
+car l’admission dans un CHSLD est un « aboutissement » possible en cas de maladie ou de perte
+d’autonomie importantes. On pourrait donc ajouter un
+quatrième type de parcours, à savoir institution → ressource intermédiaire ou communauté → institution. Il
+semblerait que ce cheminement est loin d’être rare,
+comme l’exprime cette praticienne: « C’est public. Alors
+là c’est un peu comme à l’école. On ne peut plus les refuser.
+C’est souvent des gens qui vont avoir fait plusieurs milieux,
+puis que (…) c’est comme l’aboutissement. » (Coord.,
+CHSLD.) Selon les participants à notre étude, les aînés
+avec TMG seraient de plus en plus présents et « visibles » dans les milieux de type CHSLD9, ce qui vient
+très probablement transformer les conditions
+d’intervention dans ces établissements et inﬂuencer les
+perceptions.
+De la santé mentale à la gériatrie: vieillissement
+biologique et organisationnel
+Les cheminements des « patients historiques » se situent aussi dans l’interface entre santé mentale et gériatrie, plus précisément le passage de la catégorisation
+« santé mentale adultes » au créneau « personnes âgées ».
+Pour des raisons d’ordres biologique, psychosocial ou
+organisationnel, ce passage peut être précoce, ou au
+contraire tardif. Du point de vue des intervenants, ceci
+
+Bernadette Dallaire et al.
+
+signiﬁe des transformations dans les clientèles rencontrées. Par exemple, dans les milieux communautaires,
+certains praticiens en santé mentale mentionnent un
+« vieillissement » de leur clientèle alors que d’autres,
+oeuvrant au soutien à domicile, évoquent quant à eux
+un « rajeunissement »:
+On se rend compte que la clientèle en santé mentale [elle] vieillit, moi j’te dirais que des fois j’ai
+l’impression de faire du soutien domicile, que je
+joue le rôle de l’intervenante de soutien à domicile
+qui doit pallier à presque tout, c’était pas ça avant.
+Donc le visage de la clientèle en santé mentale
+tend à changer. (Intervenante sociale [IS], CSSS/
+Santé mentale [SM])
+(…) j’ai une clientèle d’une moyenne d’âge de 85
+ans, et ça tend à rajeunir, étant donné qu’on ouvre
+la porte aux problèmes de santé mentale, bien on
+peut les prendre à partir de 60 ans…nos critères
+s’élargissent dans le fond… Avant c’était l’équipe
+santé mentale qui gérait ça, mais maintenant nous
+autres on les prend rendu à un certain âge. (Travailleuse sociale [TS], CSSS/Soutien à domicile
+[SAD])
+
+Soulignons toutefois que pour les aînés qui présentent
+un TMG sans autre maladie ou perte d’autonomie signiﬁcative et qui vivent dans la communauté, l’admission
+aux services de soutien à domicile est plus ardue («
+c’est des gens qui ne cotent pas assez, parce que
+le problème physique [n’]est pas assez important » –
+Éducatrice spécialisée [ES], Organisation communautaire [OC]). Leur entrée dans la clientèle « âgée » est
+alors retardée.
+Du côté des milieux institutionnels, certains parmi les
+intervenants rencontrés estiment que la présence d’un
+TMG implique une entrée précoce dans le « vieil âge »:
+on parle ici surtout d’un vieillissement physique qui
+est en partie la conséquence du TMG – par exemple,
+des maladies physiques causées par les habitudes de
+vie ou par un manque de suivi médical. Ces conditions,
+lorsqu’elles s’aggravent, entraînent quelquefois des institutionnalisations gériatriques elles aussi précoces:
+« Sont beaucoup plus jeunes. On a souvent de cette
+clientèle-là, en santé mentale, qui entre ici à 50, 60 ans.
+Alors que notre clientèle va rentrer à 80, 90 ans en
+général. » (Coordonnatice, CHSLD)
+Qu’il vienne tôt ou tard, le vieillissement physique,
+fonctionnel ou organisationnel (c.-à-d., le passage
+d’une clientèle à l’autre) des personnes atteintes de
+TMG implique des adaptations pour les milieux
+d’intervention et les intervenants eux-mêmes: « (…)
+avec la désinstitutionalisation qu’il y a eu il y a plusieurs années, ils se retrouvent désorganisés complètement, la médication n’est plus adéquate, ils n’ont plus
+de médecin, ça c’est des problématiques nouvelles
+qu’on a. » (TS, CSSS/SAD) Ainsi, dans les milieux de
+
+Troubles mentaux graves chez les aînés
+
+services destinés aux aînés, les clients souffrant de
+TMG seraient parfois accueillis avec appréhension, car
+ils sont perçus comme étant plus «lourds»:
+Souvent il y a des références qui arrivent et c’est
+écrit « problème de santé mentale », le monde est
+découragé, mais c’est pas parce que t’as un
+problème de santé mentale que tu as nécessairement besoin de plus de soins. (TS, CSSS/SAD)
+(…) parmi le personnel, c’est sûr que quand je leur
+présente des fois … une prochaine admission puis
+que je mentionne … troubles de personnalité, personnes très demandantes, … trouble obsessif-compulsif … souvent on va avoir des commentaires
+comme « ah! Seigneur! », « ah mon Dieu pas un
+autre! » (…) c’est la lourdeur de la tâche aussi. (…)
+dans l’ensemble la personne qui s’en vient, c’est …
+une personne supplémentaire, elle va demander
+du temps par rapport à l’ensemble de la tâche…
+(TS, CHSLD)
+
+Notons cependant que selon certains participants, la
+« lourdeur » varierait en fonction de la nature du trouble.
+Ainsi, les clients présentant un trouble de personnalité
+limite constitueraient une catégorie d’usagers particulièrement problématique (« On a de plus en plus de
+troubles borderline. (…) Tu sais, les gens qu’ils ne veulent plus d’eux autres dans la société, qu’est-ce qui
+reste… ce sont des majeures. » – Coord., CHSLD). Par
+contre, le passage du temps aurait des effets positifs
+dans le cas des personnes schizophrènes ou présentant
+des psychoses (« … rendu à 80 ans, on connait mieux leur
+maladie qu’à 20 ans (…) les gens psychotiques ﬁnissent par
+plus se connaître, ﬁnissent par connaître leurs éléments
+déclencheurs aussi. » – Chef d’unité, CHSLD). On évoque
+alors une diminution ou une stabilisation des
+symptômes en raison de l’évolution naturelle de la
+maladie, grâce à la médication, ou grâce à un apprentissage de la « gestion de la maladie », avec le temps.
+Manque de soutien, manque de ressources, manque
+de pouvoir: des conséquences de l’institutionnalisation
+psychiatrique
+Lorsqu’il est question de décrire les situations de vie
+des usagers, certaines caractéristiques semblent faire
+consensus parmi les intervenants de l’ensemble des
+milieux visités dans le cadre de notre recherche (tant
+gériatriques que de santé mentale, tant communautaires qu’institutionnels).
+C’est le cas de l’isolement social et de l’absence ou
+l’effritement des réseaux sociaux (en particulier familiaux), qui seraient le résultat du TMG (problèmes dans
+les habiletés sociales, comportements inappropriés,
+paranoïa, etc.), des stigmates et tensions entourant la
+maladie mentale, du passage du temps (les proches et
+les parents vieillissent eux-mêmes, ou bien décèdent)
+
+La Revue canadienne du vieillissement 29 (2)
+
+273
+
+et du retrait physique imposé par les hospitalisations
+psychiatriques. Certains évoquent aussi l’opprobre autrefois associé à l’internement (« …si tu recules mettons soixante-dix ans en arrière, quand on disait tu
+étais à Saint Michel-Archange (…) c’était pas bien vu
+(…) la famille a probablement voulu se dissocier de ça. ».
+– Inﬁrmière [Inf.], CSSS/Ressource non-institutionnelle [RNI]). On note aussi que la « distance » entre le
+réseau et la personne est quelquefois voulue par cette
+dernière (« C’est plus leur indépendance qu’ils veulent
+garder (…) plus je reste autonome, moins les gens vont
+écorniﬂer ce que je fais, ou vont porter un jugement… »
+– Directrice, OC). Pour cette intervenante d’une RNI,
+l’isolement de plusieurs clients est une donnée déterminante quant à la nature et l’ampleur de ses tâches et
+responsabilités:
+Il y a certaines personnes que je n’ai aucune personne à contacter en cas de mortalité par exemple,
+ou encore d’urgence. (…) et puis ceux qui en ont,
+on nous a avisés de les appeler seulement s’ils
+étaient morts. (…) Ils sont vraiment abandonnés.
+[Cela] fait que tout, tout, tout repose sur moi, qu’ils
+soient hospitalisés, il y a personne pour prendre de
+leurs nouvelles, c’est comme si je représentais leur
+seule et unique famille (…) (Inf., CSSS/RNI)
+
+Le manque de ressources matérielles est également
+une situation de vie rapportée par une majorité de participants. Comme l’isolement social, la précarité ﬁnancière et la pauvreté seraient la conséquence des longues
+périodes passées en institution autant que de la condition psychiatrique. Selon certains, la pauvreté est
+quelquefois extrême (« Une des pires choses, c’est ça.
+(…) les conditions matérielles sont épouvantables. » –
+TS, OC). L’incapacité de gagner un revenu de travail et
+d’accumuler des revenus de retraite dans la période
+adulte conﬁne l’individu dans un statut d’« assisté »
+(aide sociale, puis pension de vieillesse). Elle limite les
+choix, notamment en matière de services (« (…) on a
+beaucoup de clients qui doivent diminuer leurs plans
+de services parce qu’ils ont des dettes à payer ou des
+problèmes ﬁnanciers. » – TS, OC). Les choix sont aussi
+considérablement limités en ce qui concerne les milieux de vie:
+C’est comme si cette clientèle-là était comme obligée de vivre dans des conditions primitives ou
+moins intéressantes que la clientèle des personnes
+âgées normales, là. (IS, CSSS/SM)
+Il y a des gens qui sont condamnés à aller vivre,
+excuse l’expression, mais des fois c’est des trous.
+Excusez mais les chambres et pension c’est des
+trous la plupart du temps (…) C’est sûr que encore
+là, il fallait qu’ils sortent de [centre hospitalier psychiatrique] dans des milieux autour de [centre hospitalier psychiatrique], donc ils n’en sortent jamais
+de ce, ils tombent jamais dans un milieu normalisant. (TS, Centre hospitalier [CH])
+
+274
+
+Canadian Journal on Aging 29 (2)
+
+En matière de logement, les deux praticiens cités cihaut établissent également un lien direct entre la
+source des revenus (assistance sociale) et le fait d’être
+conﬁné à certains types de milieux de vie. Notamment, les « chambres et pensions » semblent constituer une des rares options disponibles et/ou
+« accueillantes » pour plusieurs aînés avec TMG vivant dans la communauté. Ces établissements privés,
+qui ont pour clientèle principalement des personnes
+à très faible revenu, sont connus comme étant aussi
+des lieux qui accueillent des personnes souffrant
+de troubles mentaux (presque par « tradition »,
+pourrait-on dire). Plusieurs sont situés dans des secteurs adjacents aux centres hospitaliers psychiatriques et leurs résidents de longue date sont souvent
+des personnes désinstitutionnalisées depuis plusieurs années10. Les tarifs demandés par les responsables de ces résidences privées seraient ajustés en
+fonction des montants accordés par l’aide sociale et
+par la pension de sécurité de la vieillesse (« tous les
+établissements qui les reçoivent dans le privé connaissent exactement le barème » - TS, CH). Or, étant
+donné que la deuxième est plus généreuse que la
+première, certains propriétaries « tendent à aller vers
+une clientèle de personnes âgées pour pouvoir augmenter leur revenu » (IS, CSSS/SM). Dans un cas
+comme dans l’autre, il en résulte que les dépenses
+consacrées au logement accaparent une part importante du revenu des « pensionnaires ». Ceci
+s’appliquerait également à certains milieux gérés
+par le secteur public. Ainsi, cette intervenante d’un
+organisme communautaire fait un constat similaire,
+cette fois à propos des résidences et familles d’accueil
+régies par le ministère de la Santé: « (…) à chaque
+fois qu’ils ont une indexation de leur aide sociale ou
+de leur pension, (…) le gouvernement, le ministère,
+augmente leurs cotisations pour habiter en famille
+d’accueil ou en résidence. » Dans la grande majorité
+des cas, le résultat est le même: une fois le loyer
+payé, il reste très peu pour les autres dépenses (vêtements, cigarettes, loisirs, etc.), ce qui engendre des «
+frustrations ».
+À l’isolement et à la précarité/pauvreté, certains
+participants ajoutent une ultime séquelle de
+l’institutionnalisation psychiatrique: une passivité
+et des « comportements routiniers » qui peuvent
+parfois être assimilés à l’atténuation des symptômes
+positifs du TMG avec l’avancement en âge (en particulier chez les personnes schizophrènes), ou encore
+au vieillissement lui-même (« C’est un peu plus, en
+règle générale, plus laborieux de développer de nouvelles avenues, des nouvelles activités avec des personnes plus âgées (…) » ― TS, CH), mais que des
+répondants identiﬁent clairement comme étant un
+trait appris/acquis dans la routine, la discipline et le
+
+Bernadette Dallaire et al.
+
+non-pouvoir imposés par la vie en institution (une
+forme de sur-adaptation aux conditions asilaires, en
+somme):
+(…) c’est des gens qui ont souvent marché au doigt
+et à l’œil, hein à [centre hospitalier psychiatrique],
+quand t’es quatre-vingts sur l’unité là, faut que ça
+roule, fallait que ça soit comme ça, les bains sont
+à telle heure, les repas c’est à telle heure. (Inf.,
+CSSS/RNI)
+(…) après avoir passé 20-25 ans à [centre hospitalier psychiatrique], on a à peu près niet autonomie, puis niet pouvoir. (…) Et plus… plus
+l’institutionnalisation est longue, et moins ils veulent
+prendre du pouvoir sur leur vie. Donc, on part, on
+part de loin. » (TS, OC)
+
+Ainsi, paradoxalement, ces clients âgés peuvent être
+quelquefois « lourds » (notamment en raison des
+problèmes de comportement et de « désorganisations »)
+mais demander peu (« (…) ils [ne] sont pas habitués de
+demander beaucoup, le peu de chose qu’ils ont demandé, ils l’ont peut-être par eu. » — TS, OC) en raison
+de cette passivité induite et, on le devine, de leurs
+attentes réduites.
+
+Discussion
+Les résultats présentés ici sont partiels, car nos analyses
+se poursuivent. Ils doivent de surcroît être considérés
+en tenant compte des limites inhérentes au devis méthodologique utilisé dans notre étude (et qui excluent
+tout généralisation), notamment: (1) la petite taille de
+notre échantillon; (2) le fait que le recrutement a été
+réalisé dans une seule ville et ses environs; (3) le fait
+que nous n’avons pas inclus des milieux de services
+privés (par ex., des centres d’hébergement privés); (4)
+les biais possibles liés à l’auto-sélection des répondants
+(par exemple, la possibilité que ceux qui ont accepté de
+participer aient des expériences plus ardues et des perceptions « colorées » par ces expériences).
+Néanmoins, ils font ressortir des dimensions jusqu’ici
+peu examinées. Ainsi, alors que la littérature existante
+porte surtout sur les perceptions et attitudes observées
+chez les professionnels médicaux et paramédicaux,
+notre étude revêt un caractère original en raison du
+type de professionnels et des domaines concernés, à
+savoir des intervenants psychosociaux des domaines
+de la gériatrie et de la santé mentale. Nos résultats suggèrent également des pistes pour tracer un portrait différent des aînés avec TMG: les témoignages desquels
+ils sont tirés portent non seulement sur les problèmes
+et vulnérabilités qui marquent la situation actuelle des
+aînés avec TMG (largement documentés dans la littérature – voir entre autres Bartels et al., 2004; Cohen,
+2000; Meeks &amp; Murell, 1997), mais aussi sur la dimension diachronique, c’est-à-dire les cheminements de
+
+Troubles mentaux graves chez les aînés
+
+ces personnes, leurs parcours dans la communauté et/
+ou les institutions.
+Les perceptions formulées par les intervenants psychosociaux que nous avons rencontrés soulèvent des
+constats et enjeux importants quant à la situation des
+aînés souffrant de TMG, particulièrement en ce qui
+concerne ceux qui ont dû composer avec la maladie
+durant une grande partie de leur vie adulte. Ainsi, les
+descriptions que nous avons analysées font état d’un
+manque de soutien (isolement), d’un manque de ressources (précarité/pauvreté et options de milieux de
+vie limitées ou inadéquates) et d’un manque de pouvoir (passivité induite/apprise): autant de situations
+de vie qui seraient les conséquences non seulement de
+la maladie mentale elle-même, mais aussi (selon certains, surtout) de l’institutionnalisation psychiatrique
+à long terme. Ces évaluations faites par les participants
+à l’étude apportent un éclairage nouveau sur les
+problèmes et vulnérabilités physiques, mentaux et
+psychosociaux déjà documentés dans la littérature.
+Ainsi, les propos recueillis évoquent non seulement
+le cumul vieillissement-maladie mentale et ses
+conséquences, mais aussi un autre cumul, qui concerne cette fois les répercussions psychosociales des
+« réponses » institutionnelles et professionnelles qui
+ont marqué les parcours de vie des personnes aux
+prises avec un TMG et qui sont maintenant vieillissantes. En cela, cette portion de nos résultats fait écho
+à l’analyse de Dorvil et Benoit (1999) sur l’impact à
+long terme des modalités et contextes de prise en
+charge qui ont marqué les premières vagues de désinstitutionnalisation dans le secteur de la santé mentale.
+Ces caractérisations doivent être mises en parallèle
+avec les descriptions des cheminements de ces clientèles. Comme nous l’avons vu plus haut, ces personnes, que l’on situe dans une « histoire » dont elles
+ne maîtrisent pas toujours (rarement, en fait) les tenants et les aboutissants, sont également déﬁnies à
+travers l’évolution de leur maladie/de leur autonomie
+et leur trajectoire dans les services et les institutions.
+Pour les intervenants rencontrés, la situation actuelle
+des aînés avec TMG constitue l’aboutissement d’un
+parcours où histoire de vie, histoire de maladie et histoire dans les services et/ou les institutions se rejoignent et quelquefois se confondent.
+Ces constats se prolongent dans des enjeux qui touchent
+l’intervention et l’organisation des services. Ici, deux
+éléments de contexte semblent inﬂuencer à la fois les
+perceptions et les pratiques: d’une part, le vieillissement de la population désinstitutionnalisée et, d’autre
+part, le phénomène de la transinstitutionalisation.
+En particulier, se posent des questions importantes
+entourant le soutien dans la communauté pour les
+
+La Revue canadienne du vieillissement 29 (2)
+
+275
+
+personnes âgées souffrant de TMG. Les propos que
+nous avons recueillis font état de situations de vie dans
+la communauté qui sont au mieux précaires et, au pire,
+difﬁciles. Ils nous interpellent: comment faire en sorte
+que ces personnes puissent non seulement être « maintenues » dans la communauté, mais qu’aussi elles puissent y vieillir dans des conditions acceptables? Comment
+prévenir la perte d’autonomie précoce, ultime perte de
+pouvoir? Par extension, il faut s’interroger sur les facteurs qui interviennent dans les prises de décision, particulièrement en matière de placement en institution
+gériatrique de type CHSLD. La condition des personnes
+est-elle le principal facteur impliqué? Le manque de réseaux de soutien familial/social et le manque de ressources ﬁnancières et de logements adaptés sont-ils
+également en cause? Il s’agit ici de prévenir des hospitalisations ou des institutionnalisations gériatriques
+prématurées et/ou autrement évitables.
+En lien avec ce qui précède, les enjeux actuels concernent aussi la présence croissante des aînés avec TMG
+dans les milieux de vie substitut de type CHSLD. Aux
+États-Unis, la Substance Abuse and Mental Health Services Administration afﬁrmait en 2004 que “nursing
+homes have become the new mental institutions for
+older adults affected by mental health problems”. Si
+cela est le cas également au Québec, les déﬁs
+d’intervention sont également majeurs: ils touchent
+notamment l’accès à des ressources de santé mentale
+internes ou externes, l’accès à de la formation en santé
+mentale pour les intervenants et la gestion de la cohabitation entre différents types de clientèle (personnes
+avec TMG, personnes aux prises avec la démence, personnes présentant des pertes d’autonomie physique et
+des maladies chroniques).11
+
+Conclusion: S’affranchir du «nihilisme»?
+« (…) c’est comme si ceux là, il y a des fois que la société ne savait pas quoi en faire. » Comme cette citation
+l’illustre, les perceptions et discours exprimés par les
+participants à notre étude sont indissociables de leurs
+expériences quotidiennes auprès de clientèles particulièrement atteintes ou vulnérables aux plans physique,
+mental et psychosocial. Cependant, elle témoigne aussi
+d’une conscience, chez les praticiens que nous avons
+rencontrés, du fait que les conditions de vie qui sont le
+lot de plusieurs personnes âgées souffrant de TMG,
+ainsi que l’état actuel des soutiens et services qui leur
+sont offerts, sont en bonne partie la résultante de
+dynamiques systémiques et macrosociales passées et
+actuelles. Elle fait écho également à la double stigmatisation dénoncée par plusieurs acteurs sociaux: « quoi
+faire », en effet, de ces personnes d’abord exclues en
+raison de leur maladie mentale, puis en raison de leur
+âge?
+
+276
+
+Canadian Journal on Aging 29 (2)
+
+La réadaptation psychosociale représente un déﬁ particulier en ce qui les concerne. Du point de vue des intervenants, une telle réadaptation est-elle faisable dans
+le contexte actuel? Et en amont: est-elle pensable? Ceci
+est particulièrement vrai à propos de la place attribuée
+aux approches «habilitantes» telles que le rétablissement, l’appropriation du pouvoir d’agir et l’inclusion
+sociale, qui sont actuellement au cœur de la réadaptation psychosociale en santé mentale.
+Les constats rapportés par les participants à notre
+étude – en particulier ce qui concerne l’isolement social
+et le manque de soutien, la précarité et la pauvreté,
+ainsi que la passivité induite par l’institutionnalisation
+psychiatrique – peuvent à première vue être perçus
+comme des sources ou des signes de désespérance
+dans l’intervention. Cependant, on peut aussi les envisager comme des points d’appui, des leviers, pour
+l’intervention psychosociale. S’agit-il d’intervenir en
+dépit de ces manques? Devrait-on plutôt agir sur eux?
+Les prochaines étapes de nos analyses porteront sur
+ces dimensions, à savoir les discours concernant les
+pratiques psychosociales elles-mêmes. Plus particulièrement, nous examinerons comment nos informateurs perçoivent et évaluent les interventions
+s’adressant aux aînés avec TMG, incluant leurs propres
+pratiques. Dans cette démarche, nous porterons une
+attention particulière à la place accordée aux approches
+fondées sur des notions telles le rétablissement,
+l’appropriation du pouvoir d’agir et l’inclusion sociale,
+dans les perceptions et discours de ces intervenants.
+
+Bernadette Dallaire et al.
+
+2
+
+3
+
+4
+
+5
+
+Notes
+1 Notons cependant que les données de prévalence font
+objet de débats. Ainsi, selon les études, les groupes d’âges
+considérés varient: certaines portent sur les 55 ans et plus,
+d’autres sur les 60 ans et plus ou les 65 ans et plus. Les
+conditions incluses dans la notion de « trouble mental
+grave » varient également; certaines incluent les troubles
+de personnalité (personnalité limite, par exemple) et
+l’alcoolisme dans les TMG, alors que d’autres réservent
+l’appellation à la schizophrénie, aux troubles psychotiques, aux troubles bipolaires et aux dépressions chroniques. De plus, les données de prévalence diffèrent selon
+la version du Diagnostic and Statistical Manual (DSM) utilisée pour établir les critères diagnostiques des conditions.
+Par exemple, en ce qui concerne la schizophrénie, les Epidemiologic Catchment Area Studies (Robins &amp; Regier, 1991)
+réalisées aux États-Unis au début des années ’90 ont montré une prévalence à vie de 0.3 pour cent et une prévalence annuelle de 0.2 pour cent chez les 65 ans et plus.
+Cependant, ces évaluations ont été remises en question
+par Palmer, Heaton, et Jeste (1999), qui ont évoqué notamment des limites liées aux critères diagnostiques du DSMIII (par exemple, le fait que les symptômes négatifs n’y
+étaient pas inclus) et au sous-échantillonnage dans les
+secteurs présentant un fort pourcentage de personnes
+
+6
+
+7
+
+8
+
+9
+
+souffrant de maladie mentale (par exemple, les « public
+housing »). Ces auteurs considèrent que la prévalence de
+la schizophrénie chez les 65 ans et plus, ainsi sous-estimée, est probablement plus élevée. À cet égard, Cohen
+(1990) évalue que ce TMG touche environ 1 pour cent des
+65 ans et plus.
+La notion de transinstitutionnalisation réfère au passage
+d’une institution à une autre. Dans les cas évoqués
+ci-haut, il s’agit d’une migration de l’hôpital psychiatrique vers le centre d’hébergement et de soins de longue
+durée. Voir United States Department of Health and Human Services—Substance Abuse and Mental Health Services Administration (2004) sur cette question.
+Des études canadiennes et américaines réalisées dans des
+résidences pour personnes âgées en perte d’autonomie
+ont montré une tendance à la sur-prescription de médication neuroleptique (Bronskill et al., 2004; Voyer et al.,
+2003) et un recours peu fréquent à des ressources psychologiques ou psychiatriques (Fenton et al., 2004): or, ces
+réponses cliniques viseraient surtout les résidents présentant des comportements « dérangeants », alors que les
+signes «tranquilles» de maladie mentale (retrait social,
+léthargie) entraîneraient peu de prescriptions ou de
+références.
+On notera que leur étude ne portait pas spéciﬁquement
+sur les personnes âgées. Les données concernant ces
+dernières ont été extraites d’un projet plus large portant
+sur les attitudes des Montréalais à l’égard des personnes
+« classées malades mentales ou déﬁcientes intellectuelles »
+en général, donc tous groupes d’âges confondus.
+Notre projet visait également à examiner les perceptions
+et évaluations des praticiens psychosociaux quant aux interventions qui sont destinées à cette clientèle (incluant
+leurs propres pratiques) et à connaître la place des notions
+de rétablissement, d’appropriation du pouvoir d’agir et
+d’inclusion sociale dans ces perceptions et évaluations.
+Les résultats de ce second volet de l’étude feront l’objet
+d’un autre article.
+Le prétest a été effectué auprès d’une participante. Étant
+donné que (a) cette entrevue n’a pas révélé la nécessité
+d’apporter des changements au guide d’entretien et que
+(b) nous disposions d’un bassin de recrutement restreint,
+le contenu de cette première entrevue a été inclus dans le
+matériel d’analyse.
+Suite aux dernières réformes dans les services au Québec,
+ces établissements sont maintenant nommés « centres
+d’hébergement » (CH). Cependant, nous conservons ici
+l’appellation « Centre d’hébergement et de soins de
+longue durée » aﬁn de bien les distinguer des centres hospitaliers (autres CH).
+Un répondant a même évoqué le cas de certains « orphelins de Duplessis » ayant passé leur vie entière en institution: ces personnes, placées d’abord dans des orphelinats
+(où ils ont notoirement subi de la maltraitance et des abus
+de toutes sortes), se sont retrouvées par la suite en institution psychiatrique, puis en CHSLD.
+Les constats exprimés par les intervenants interrogés
+sont appuyés par des compilations que nous avons
+obtenues (CSSS de la Vieille-Capitale, services
+d’hébergement et de soins de longue durée, 2007. Résultat de la compilation par site – Santé mentale). Celles-ci indiquent
+
+Troubles mentaux graves chez les aînés
+qu’au printemps 2007, dans les CHSLD de la ville de
+Québec, les aînés présentant un TMG représentaient
+entre 16.1 pour cent et 42.7 pour cent des résidents,
+selon l’établissement. La dépression était le diagnostic
+le plus fréquent dans cinq CHSLD sur huit (entre 27.6%
+et 52.2% des cas de TMG dans ces centres), mais notons
+que dans l’ensemble, les diagnostics de schizophrénie
+étaient loin d’être anecdotiques (entre 4.9% et 39.1%
+des cas identiﬁés). À ceux-ci s’ajoutaient, dans des proportions variables, les diagnostics relatifs aux troubles
+bipolaires, compulsifs, anxieux, paranoïaques, de personnalité limite, de personnalité antisociale et passiveagressive, ainsi que l’alcoolisme.
+10 Les études portant sur les conditions de logement des
+personnes aux prises avec un TMG font référence aux
+« ghettos d’ex-psychiatrisés » qui ont émergé dans les
+milieux urbains dans la foulée des différentes vagues
+de désinstitutionnalisation, au Québec et ailleurs en
+Occident. Ces ghettos sont la plupart du temps situés
+dans des secteurs urbains où les logements sont en
+mauvais état, mais peu coûteux (voir Talbott, 2002 sur
+cette question).
+11 Il est intéressant de noter ici que certains acteurs des
+milieux des CHSLD ont déjà entamé des analyses et des
+démarches concrètes à ce niveau. Notamment, dans un
+centre de Québec, on a récemment innové en procédant à
+un « regroupement des résidents selon leur proﬁl clinique »
+et en offrant aux intervenants des formations adaptées à
+ces proﬁls — dans ce cas, démence versus problèmes psychiatriques (Voir Matteau, 2008).
+
+Références Bibliographiques
+Bartels, S. J. (2003). Improving the system of care for older
+adults with mental illness in the United States. Findings
+and recommendations for the President’s New Freedom
+Commission on Mental Health. American Journal of
+Geriatric Psychiatry, 11, 486–497.
+Bartels, S. J., Forester, B., Mueser, K.T., Miles, K. M., Dums, A.
+R., Pratt, S. I., et al. (2004). Enhanced skills training and
+health care management for older persons with severe
+mental illness. Community Mental Health Journal, 40,
+75–90.
+Bartels, S. J., Levine, K. &amp; Shea, D. (1999). Community-based
+long-term care for older persons with severe and persistent mental illness in an era of managed care. Psychiatric
+Services, 50, 1189–1197.
+Bronskill, S. E., Anderson, G. M., Sykora, K., Wodchis, W. P.,
+Gill, S., Shulman, K. I., et al. (2004). Neuroleptic drug
+therapy in older adults newly admitted to nursing
+homes: Incidence, dose, and specialist contact. Journal of
+the American Geriatric Society, 52, 749–755.
+Butler, R. N. (1975). Psychiatry and the elderly: An overview.
+American Journal of Psychiatry, 132, 893–900.
+Chiu, E., Yastrubetskaya, O., &amp; Williams, M. (1999). Psychosocial rehabilitation of elderly with mental disorders: A
+neglected area in the psychiatry of old age Current Opinion in Psychiatry, 12, 445–447.
+
+La Revue canadienne du vieillissement 29 (2)
+
+277
+
+Clément, M. (2001). L’exclusion des personnes atteintes de
+maladie mentale: Ancienne problématique, nouvelles
+réalités. In DorvilH. &amp; MayerR. (Eds.), Problèmes sociaux,
+Tome 1: Théories et méthodologies (489–509). Québec,
+Québec, Canada: Presses de l’Université du Québec.
+Coalition canadienne pour la santé mentale des personnes
+âgées/Canadian Coalition for Seniors’ Mental Health.
+(2006). National guidelines for seniors’ mental health. The
+assessment and treatment of mental health issues in long-term
+care homes (focus on mood and behaviour symptoms).
+Toronto, Ontario, Canada: Canadian Coalition for Seniors’
+Mental Health.
+Cohen, C. I. (1990). Outcome of schizophrenia into later life:
+An overview. The Gerontologist, 30, 790–797.
+Cohen, C. I. (2000). Directions for research and policy on
+schizophrenia and older adults: Summary of the GAP
+Committee report. Psychiatric Services, 51(3), 299–302.
+CSSS de la Vieille-Capitale, services d’hébergement et de
+soins de longue durée. (2007). Résultat de la compilation
+par site—Santé mentale. [Document] (série de tableaux).
+Québec: CSSS de la Vieille-Capitale.
+Dallaire, B., &amp; McCubbin, M. (2008). Parlons d’inclusion sociale. La théorie et la recherche à propos des personnes
+aux prises avec des handicaps psychosociaux. In E. Gagnon,
+Y. Pelchat &amp; R. Édouard (Eds.), Politiques d’intégration,
+rapports d’exclusion (pp. 251–266). Québec, Québec, Canada:
+Les Presses de l’Université Laval.
+Dallaire, B., Miranda, D., Moscovitz, N., &amp; Guérette, A.
+(2003). Les interventions communau-taires auprès des personnes âgées aux prises avec des troubles mentaux graves:
+Revue critique de la littérature empirique et théorique. Rapport soumis au Fonds québécois sur la société et la culture. Québec, Québec, Canada: Bibliothèque nationale
+du Québec (ISBN: 2-9807929-X).
+Depla, M., Pols, J., de Lange, J., Smits, C. H. M., de Graaf, R.
+&amp; Heeren, T. J. (2003). Integrating mental health care into
+residential homes for the elderly: An analysis of six
+Dutch programs for older people with severe and persistent mental illness. Journal of the American Geriatrics
+Society, 51(9), 1275–1279.
+Dorvil, H. &amp; Benoit, M. (1999). Représentations sociales et
+conditions de vie des personnes âgées classées malades
+mentales ou déﬁcientes intellectuelles en résidence
+d’accueil. Santé mentale au Québec, 14, 228–252.
+Estes, C. L., &amp; Biney, E. A. (1991). The biomedicalization
+of aging: Dangers and dilemmas. In MinklerM. &amp;
+Estes C. L. (Eds.), Critical perspectives of aging: The political
+moral economy of growing old (pp. 117–134). New York:
+Baywood.
+Fenton, J., Raskin, A., Gruber-Baldini, A., Srikumar Menon,
+A., Zimmerman, S., Kaup, B., et al. (2004). Some predictors of psychiatric consultation in nursing home residents. American Journal of Geriatric Psychiatry, 12,
+297–304.
+
+278
+
+Canadian Journal on Aging 29 (2)
+
+Goldlist, B. (2000). Mental health management is no waste of
+clinical acumen: Prognosis for elderly patients is as favourable as for younger ones. Geriatrics and Aging, 3(4).
+Retrieved March 30, 2010, from http://www.geriatricsa
+ndaging.ca
+Goldman, H. H., &amp; Manderscheid, R. W. (1987). Epidemiology of chronic mental disorders. In MenningerW. W. &amp;
+HannahG. (Eds.), The chronic mental patient (Vol. 2).
+Washington, DC: American Psychiatric Press.
+Grant, L. D. (1996). Effects of ageism on individual and health
+care providers’ response to healthy aging. Health &amp;
+Social Work, 21, 9–15.
+Herrick, C. A., Pearcey, L. G., &amp; Ross, C. (1997). Stigma and
+ageism: Compounding inﬂuences in making an accurate
+mental health assessment. Nursing Forum, 32(3), 21–26.
+Holmes, J., Bentley, K., &amp; Cameron, I. (2003). A UK survey of
+psychiatric services for older people in general hospitals.
+International Journal of Geriatric Psychiatry, 18, 716–721.
+Kindiak, D. H., Grieve, J. L., Randall, G. E. &amp; Madsen, V. A.
+(2004). Social work practice in community psychogeriatric programs. In HoloskoM. J. &amp; FeitM. D. (Eds.), Social
+work practice with the elderly (519–545). Toronto, Ontario,
+Canada: Canadian Scholars’ Press.
+Kirby, M. J. L., &amp; Keon, M. J. (2006). De l’ombre à la lumière. La
+transformation des services concernant la santé mentale, la
+maladie mentale et la toxicomanie au Canada. Rapport du
+Comité sénatorial permanent des affaires sociales, des
+sciences et de la technologie. Ottawa, Ontario, Canada:
+Sénat du Canada.
+Lagana, L. &amp; Shanks, S. (2002). Mutual biases underlying the
+problematic relationship between older adults and mental health providers: Any solution in sight? International
+Journal of Aging and Human Development, 55(3), 271–295.
+Larivière, N., Gélinas, B., Tallant, B. &amp; Paquette, I. (2006).
+Adjustment to community residential settings over time
+among older adults with serious mental illnesses.
+Psychiatric Rehabilitation Journal, 29(3), 189–196.
+Mackenzie, C. S., Gekoski, W. L. &amp; Knox, V. J. (1999) Do
+family physicians treat older patients with mental health
+disorders differently from younger patients? Le médecin
+de famille canadien, 45, 1219–1224.
+Matteau, H. (2008). Comment gérer les problèmes de comportement dans un centre d’hébergement en regroupant
+les résidents selon leurs proﬁls cliniques. Transphère.
+L’exploration des sphères d’activité du Centre de santé et de
+services sociaux de la Vieille-Capitale, 4(2), 10–12.
+Mayer, R., Ouellet, H., Saint-Jacques, M.-C. &amp; Turcotte, D.
+(2000). Méthode de recherche en intervention sociale. Montréal, Quebec, Canada: Gaëtan Morin éditeur.
+Meeks, S., &amp; Murrell, S. A. (1997). Mental illness in late life:
+Socioeconomic conditions, psychiatric symptoms, and
+adjustment of long-term sufferers. Psychology and Aging,
+12, 296–308.
+
+Bernadette Dallaire et al.
+Mendonça Lima, C. A., Levav, I., Jacobsson, L. &amp; Rutz, W;
+World Health Organi-zation/European Regional Ofﬁce,
+Task Force on Destigmatization. (2003). Stigma and discrimination against older people with mental disorders
+in Europe. International Journal of Geriatric Psychiatry, 18,
+679–682.
+Ministère de la Famille et de l’Enfance. (2001). Le Québec et ses
+aînés: engagés dans l’action. Engagements et perspectives
+2001-2004. Québec, Québec, Canada: Gouvernement du
+Québec.
+Mosher-Ashley, P. M., Turner, B. F. &amp; O’Neill, D. (1991).
+Attitudes of nursing and rest home administrators
+toward deinstitutionalized elders with psychiatric
+disorders. Community Mental Health Journal, 27(4),
+241–253.
+National Institute for Mental Health in England. (2005). Facts
+for champions. London: Department of Health. Retrieved
+March 31, 2009, from http://kc.nimhe.org.uk/upload/
+keyfacts12[1][1].4.5withlogos.doc
+Onken, S., Dumont, J. M., Ridgway, P., Dornan, D. H. &amp;
+Ralph, R. O. (2002). Mental health recovery: What helps and
+what hinders? A national research project for the development
+of recovery facilitating system performance indicators. Rapport préparé pour le National Technical Assistance Center for State Mental Health Planning, National
+Association of State Mental Health Program Directors
+(NASMHPD). Washington, DC: NASMHPD.
+Osgood, N. J. (1992). Suicide in later life: Recognizing the
+warning signs. New York: Lexington.
+Palmer, B. W., Heaton, S. C., &amp; Jeste, D. V. (1999). Older
+patients with schizophrenia: Challenges in the coming
+decades. Psychiatric Services, 50(9), 1178–1183.
+Provencher, H. L. (2002). L’expérience du rétablissement:
+Perspectives théoriques. Santé mentale au Québec, 1,
+35–64.
+Ragan, A. M., &amp; Bowen, A. M. (2002). Improving attitudes
+regarding the elderly population: The effects of information and reinforcement for change. The Gerontologist, 41,
+511–515.
+Robins, L. N. &amp; Regier, D. A. (Eds.). (1991). Psychiatric disorders in America: The epidemiologic catchment area study.
+New York: Free Press.
+Royal College of Psychiatrists. (2005). Caring for people who
+enter old age with enduring or relapsing mental illness. London: Royal College of Psychiatrists Council Report
+CR110.
+Social Care Institute for Excellence. (2006). Practice guide 3:
+Assessing the mental health needs of older people. London
+(UK): Social Care Institute for Excellence. Retrieved
+March 2, 2009, from http://www.scie.org.uk/publicatio
+ns/practiceguides/practiceguide02/index.asp
+Talbott, J.A. (2002). Deinstitutionalization: Avoiding the disasters of the past. Psychiatric services, 55(10), 1112–1115.
+
+Troubles mentaux graves chez les aînés
+Thompson, R. (1999). Home care of the elderly with mental
+health needs. Nursing Times, 95(10), 10–16, 48–49.
+Tuokko, H., MacCourt, P. &amp; Milliken, J. (2008). Understanding
+the needs of caregivers of mentally ill older adults: Hearing
+their voices to inform services. Victoria, Canada: University
+of Victoria Centre on Aging.
+United States Department of Health and Human Services—
+Substance Abuse and Mental Health Services Adminis-
+
+La Revue canadienne du vieillissement 29 (2)
+
+279
+
+tration. (2004). Community integration for older adults
+with mental illnesses: Overcoming barriers and seizing
+opportunities. Rockville, MD: Center for Mental Health
+Services, Substance Abuse and Mental Health Services
+Administration.
+Voyer, P., McCubbin, M., Préville, M. &amp; Boyer, R. (2003). Factors in duration of anxiolytic, sedative and hypnotic use
+by elderly, and implications for nursing. Canadian Journal of Nursing Research, 35, 126–149.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="article"><analytic><title level="a">Improving the system of care for older adults with mental illness in the United States. Findings and recommendations for the President’s New Freedom Commission on Mental Health</title><author><persName><forename type="first">S. J</forename><surname>Bartels</surname></persName></author></analytic><monogr><title level="j">American Journal of Geriatric Psychiatry</title><imprint><date type="published">2003</date><biblScope unit="volume">11</biblScope><biblScope unit="page" from="486">486</biblScope><biblScope unit="page" to="497">497</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">Enhanced skills training and health care management for older persons with severe mental illness</title><author><persName><forename type="first">S. J.</forename><surname>Bartels</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Forester</surname></persName></author><author><persName><forename type="first">K.T.</forename><surname>Mueser</surname></persName></author><author><persName><forename type="first">K. M.</forename><surname>Miles</surname></persName></author><author><persName><forename type="first">A. R.</forename><surname>Dums</surname></persName></author><author><persName><forename type="first">S. I.</forename><surname>Pratt</surname></persName></author></analytic><monogr><title level="j">Community Mental Health Journal</title><imprint><date type="published">2004</date><biblScope unit="volume">40</biblScope><biblScope unit="page" from="75">75</biblScope><biblScope unit="page" to="90">90</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Community-based long-term care for older persons with severe and persistent mental illness in an era of managed care</title><author><persName><forename type="first">S. J.</forename><surname>Bartels</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Levine</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Shea</surname></persName></author></analytic><monogr><title level="j">Psychiatric Services</title><imprint><date type="published">1999</date><biblScope unit="volume">50</biblScope><biblScope unit="page" from="1189">1189</biblScope><biblScope unit="page" to="1197">1197</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Neuroleptic drug therapy in older adults newly admitted to nursing homes: Incidence, dose, and specialist contact</title><author><persName><forename type="first">S. E.</forename><surname>Bronskill</surname></persName></author><author><persName><forename type="first">G. M.</forename><surname>Anderson</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Sykora</surname></persName></author><author><persName><forename type="first">W. P.</forename><surname>Wodchis</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Gill</surname></persName></author><author><persName><forename type="first">K. I.</forename><surname>Shulman</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatric Society</title><imprint><date type="published">2004</date><biblScope unit="volume">52</biblScope><biblScope unit="page" from="749">749</biblScope><biblScope unit="page" to="755">755</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Psychiatry and the elderly: An overview</title><author><persName><forename type="first">R. N</forename><surname>Butler</surname></persName></author></analytic><monogr><title level="j">American Journal of Psychiatry</title><imprint><date type="published">1975</date><biblScope unit="volume">132</biblScope><biblScope unit="page" from="893">893</biblScope><biblScope unit="page" to="900">900</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Psychosocial rehabilitation of elderly with mental disorders: A neglected area in the psychiatry of old age</title><author><persName><forename type="first">E.</forename><surname>Chiu</surname></persName></author><author><persName><forename type="first">O.</forename><surname>Yastrubetskaya</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Williams</surname></persName></author></analytic><monogr><title level="j">Current Opinion in Psychiatry</title><imprint><date type="published">1999</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="445">445</biblScope><biblScope unit="page" to="447">447</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Problèmes sociaux, Tome 1: Théories et méthodologies</title><editor><persName><forename type="first">M.</forename><surname>Clément</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Dorvil</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Mayer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec, Québec, Canada</pubPlace><date type="published">2001</date><biblScope unit="page" from="489">489</biblScope><biblScope unit="page" to="509">509</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">National guidelines for seniors’ mental health. The assessment and treatment of mental health issues in long-term care homes (focus on mood and behaviour symptoms)</title><editor><orgName>Coalition canadienne pour la santé mentale des personnes âgées/Canadian Coalition for Seniors’ Mental Health</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Toronto, Ontario, Canada</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Outcome of schizophrenia into later life: An overview</title><author><persName><forename type="first">C. I</forename><surname>Cohen</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">1990</date><biblScope unit="volume">30</biblScope><biblScope unit="page" from="790">790</biblScope><biblScope unit="page" to="797">797</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Directions for research and policy on schizophrenia and older adults: Summary of the GAP Committee report</title><author><persName><forename type="first">C. I</forename><surname>Cohen</surname></persName></author></analytic><monogr><title level="j">Psychiatric Services</title><imprint><date type="published">2000</date><biblScope unit="volume">51</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="299">299</biblScope><biblScope unit="page" to="302">302</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Résultat de la compilation par site—Santé mentale</title><editor><orgName>CSSS de la Vieille-Capitale, services d’hébergement et de soins de longue durée</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec</pubPlace><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Politiques d’intégration, rapports d’exclusion</title><editor><persName><forename type="first">B.</forename><surname>Dallaire</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>McCubbin</surname></persName></editor><editor><persName><forename type="first">E.</forename><surname>Gagnon</surname></persName></editor><editor><persName><forename type="first">Y.</forename><surname>Pelchat</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Édouard</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec, Québec, Canada</pubPlace><date type="published">2008</date><biblScope unit="page" from="251">251</biblScope><biblScope unit="page" to="266">266</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Les interventions communau-taires auprès des personnes âgées aux prises avec des troubles mentaux graves: Revue critique de la littérature empirique et théorique</title><editor><persName><forename type="first">B.</forename><surname>Dallaire</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Miranda</surname></persName></editor><editor><persName><forename type="first">N.</forename><surname>Moscovitz</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Guérette</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec, Québec, Canada</pubPlace><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">Integrating mental health care into residential homes for the elderly: An analysis of six Dutch programs for older people with severe and persistent mental illness</title><author><persName><forename type="first">M.</forename><surname>Depla</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Pols</surname></persName></author><author><persName><forename type="first">J.</forename><surname>de Lange</surname></persName></author><author><persName><forename type="first">C. H. M.</forename><surname>Smits</surname></persName></author><author><persName><forename type="first">R.</forename><surname>de Graaf</surname></persName></author><author><persName><forename type="first">T. J</forename><surname>Heeren</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatrics Society</title><imprint><date type="published">2003</date><biblScope unit="volume">51</biblScope><biblScope unit="issue">9</biblScope><biblScope unit="page" from="1275">1275</biblScope><biblScope unit="page" to="1279">1279</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Représentations sociales et conditions de vie des personnes âgées classées malades mentales ou déficientes intellectuelles en résidence d’accueil</title><author><persName><forename type="first">H.</forename><surname>Dorvil</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Benoit</surname></persName></author></analytic><monogr><title level="j">Santé mentale au Québec</title><imprint><date type="published">1999</date><biblScope unit="volume">14</biblScope><biblScope unit="page" from="228">228</biblScope><biblScope unit="page" to="252">252</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Critical perspectives of aging: The political moral economy of growing old</title><editor><persName><forename type="first">C. L.</forename><surname>Estes</surname></persName></editor><editor><persName><forename type="first">E. A</forename><surname>Biney</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Minkler</surname></persName></editor><editor><persName><forename type="first">C. L</forename><surname>Estes</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1991</date><biblScope unit="page" from="117">117</biblScope><biblScope unit="page" to="134">134</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="article"><analytic><title level="a">Some predictors of psychiatric consultation in nursing home residents</title><author><persName><forename type="first">J.</forename><surname>Fenton</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Raskin</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Gruber-Baldini</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Srikumar Menon</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Zimmerman</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Kaup</surname></persName></author></analytic><monogr><title level="j">American Journal of Geriatric Psychiatry</title><imprint><date type="published">2004</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="297">297</biblScope><biblScope unit="page" to="304">304</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">Mental health management is no waste of clinical acumen: Prognosis for elderly patients is as favourable as for younger ones</title><author><persName><forename type="first">B.</forename><surname>Goldlist</surname></persName></author></analytic><monogr><title level="j">Geriatrics and Aging</title><imprint><date type="published">2000</date><biblScope unit="volume">3</biblScope><biblScope unit="issue">4</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="inbook"><monogr><title level="m">The chronic mental patient</title><editor><persName><forename type="first">H. H.</forename><surname>Goldman</surname></persName></editor><editor><persName><forename type="first">R. W</forename><surname>Manderscheid</surname></persName></editor><editor><persName><forename type="first">W. W.</forename><surname>Menninger</surname></persName></editor><editor><persName><forename type="first">G.</forename><surname>Hannah</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">1987</date><biblScope unit="volume">2</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Effects of ageism on individual and health care providers’ response to healthy aging</title><author><persName><forename type="first">L. D</forename><surname>Grant</surname></persName></author></analytic><monogr><title level="j">Health &amp; Social Work</title><imprint><date type="published">1996</date><biblScope unit="volume">21</biblScope><biblScope unit="page" from="9">9</biblScope><biblScope unit="page" to="15">15</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">Stigma and ageism: Compounding influences in making an accurate mental health assessment</title><author><persName><forename type="first">C. A.</forename><surname>Herrick</surname></persName></author><author><persName><forename type="first">L. G.</forename><surname>Pearcey</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Ross</surname></persName></author></analytic><monogr><title level="j">Nursing Forum</title><imprint><date type="published">1997</date><biblScope unit="volume">32</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="21">21</biblScope><biblScope unit="page" to="26">26</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">A UK survey of psychiatric services for older people in general hospitals</title><author><persName><forename type="first">J.</forename><surname>Holmes</surname></persName></author><author><persName><forename type="first">K.</forename><surname>Bentley</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Cameron</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2003</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="716">716</biblScope><biblScope unit="page" to="721">721</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="inbook"><monogr><title level="m">Social work practice with the elderly</title><editor><persName><forename type="first">D. H.</forename><surname>Kindiak</surname></persName></editor><editor><persName><forename type="first">J. L.</forename><surname>Grieve</surname></persName></editor><editor><persName><forename type="first">G. E.</forename><surname>Randall</surname></persName></editor><editor><persName><forename type="first">V. A</forename><surname>Madsen</surname></persName></editor><editor><persName><forename type="first">M. J.</forename><surname>Holosko</surname></persName></editor><editor><persName><forename type="first">M. D</forename><surname>Feit</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Toronto, Ontario, Canada</pubPlace><date type="published">2004</date><biblScope unit="page" from="519">519</biblScope><biblScope unit="page" to="545">545</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">De l’ombre à la lumière. La transformation des services concernant la santé mentale, la maladie mentale et la toxicomanie au Canada</title><editor><persName><forename type="first">M. J. L.</forename><surname>Kirby</surname></persName></editor><editor><persName><forename type="first">M. J</forename><surname>Keon</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Ottawa, Ontario, Canada</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">Mutual biases underlying the problematic relationship between older adults and mental health providers: Any solution in sight?</title><author><persName><forename type="first">L.</forename><surname>Lagana</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Shanks</surname></persName></author></analytic><monogr><title level="j">International Journal of Aging and Human Development</title><imprint><date type="published">2002</date><biblScope unit="volume">55</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="271">271</biblScope><biblScope unit="page" to="295">295</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">Adjustment to community residential settings over time among older adults with serious mental illnesses</title><author><persName><forename type="first">N.</forename><surname>Larivière</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Gélinas</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Tallant</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Paquette</surname></persName></author></analytic><monogr><title level="j">Psychiatric Rehabilitation Journal</title><imprint><date type="published">2006</date><biblScope unit="volume">29</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="196">196</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Do family physicians treat older patients with mental health disorders differently from younger patients?</title><author><persName><forename type="first">C. S.</forename><surname>Mackenzie</surname></persName></author><author><persName><forename type="first">W. L.</forename><surname>Gekoski</surname></persName></author><author><persName><forename type="first">V. J</forename><surname>Knox</surname></persName></author></analytic><monogr><title level="j">Le médecin de famille canadien</title><imprint><date type="published">1999</date><biblScope unit="volume">45</biblScope><biblScope unit="page" from="1219">1219</biblScope><biblScope unit="page" to="1224">1224</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Comment gérer les problèmes de comportement dans un centre d’hébergement en regroupant les résidents selon leurs profils cliniques</title><author><persName><forename type="first">H.</forename><surname>Matteau</surname></persName></author></analytic><monogr><title level="j">Transphère. L’exploration des sphères d’activité du Centre de santé et de services sociaux de la Vieille-Capitale</title><imprint><date type="published">2008</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="10">10</biblScope><biblScope unit="page" to="12">12</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="inbook"><monogr><title level="m">Méthode de recherche en intervention sociale</title><editor><persName><forename type="first">R.</forename><surname>Mayer</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Ouellet</surname></persName></editor><editor><persName><forename type="first">M.-C.</forename><surname>Saint-Jacques</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Turcotte</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal, Quebec, Canada</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="article"><analytic><title level="a">Mental illness in late life: Socioeconomic conditions, psychiatric symptoms, and adjustment of long-term sufferers</title><author><persName><forename type="first">S.</forename><surname>Meeks</surname></persName></author><author><persName><forename type="first">S. A</forename><surname>Murrell</surname></persName></author></analytic><monogr><title level="j">Psychology and Aging</title><imprint><date type="published">1997</date><biblScope unit="volume">12</biblScope><biblScope unit="page" from="296">296</biblScope><biblScope unit="page" to="308">308</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="article"><analytic><title level="a">Stigma and discrimination against older people with mental disorders in Europe</title><author><persName><forename type="first">C. A.</forename><surname>Mendonça Lima</surname></persName></author><author><persName><forename type="first">I.</forename><surname>Levav</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Jacobsson</surname></persName></author><author><persName><forename type="first">W</forename><surname>Rutz</surname></persName></author><author><orgName>World Health Organi-zation/European Regional Office, Task Force on Destigmatization</orgName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2003</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="679">679</biblScope><biblScope unit="page" to="682">682</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">Le Québec et ses aînés: engagés dans l’action. Engagements et perspectives 2001-2004</title><editor><orgName>Ministère de la Famille et de l’Enfance</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec, Québec, Canada</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Attitudes of nursing and rest home administrators toward deinstitutionalized elders with psychiatric disorders</title><author><persName><forename type="first">P. M.</forename><surname>Mosher-Ashley</surname></persName></author><author><persName><forename type="first">B. F.</forename><surname>Turner</surname></persName></author><author><persName><forename type="first">D.</forename><surname>O’Neill</surname></persName></author></analytic><monogr><title level="j">Community Mental Health Journal</title><imprint><date type="published">1991</date><biblScope unit="volume">27</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="241">241</biblScope><biblScope unit="page" to="253">253</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">Facts for champions</title><editor><orgName>National Institute for Mental Health in England</orgName></editor><idno type="uri">http://kc.nimhe.org.uk/upload/keyfacts12[1][1].4.5withlogos.doc</idno><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">Mental health recovery: What helps and what hinders? A national research project for the development of recovery facilitating system performance indicators</title><editor><persName><forename type="first">S.</forename><surname>Onken</surname></persName></editor><editor><persName><forename type="first">J. M.</forename><surname>Dumont</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Ridgway</surname></persName></editor><editor><persName><forename type="first">D. H.</forename><surname>Dornan</surname></persName></editor><editor><persName><forename type="first">R. O</forename><surname>Ralph</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Suicide in later life: Recognizing the warning signs</title><editor><persName><forename type="first">N. J</forename><surname>Osgood</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="article"><analytic><title level="a">Older patients with schizophrenia: Challenges in the coming decades</title><author><persName><forename type="first">B. W.</forename><surname>Palmer</surname></persName></author><author><persName><forename type="first">S. C.</forename><surname>Heaton</surname></persName></author><author><persName><forename type="first">D. V</forename><surname>Jeste</surname></persName></author></analytic><monogr><title level="j">Psychiatric Services</title><imprint><date type="published">1999</date><biblScope unit="volume">50</biblScope><biblScope unit="issue">9</biblScope><biblScope unit="page" from="1178">1178</biblScope><biblScope unit="page" to="1183">1183</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="article"><analytic><title level="a">L’expérience du rétablissement: Perspectives théoriques</title><author><persName><forename type="first">H. L</forename><surname>Provencher</surname></persName></author></analytic><monogr><title level="j">Santé mentale au Québec</title><imprint><date type="published">2002</date><biblScope unit="volume">1</biblScope><biblScope unit="page" from="35">35</biblScope><biblScope unit="page" to="64">64</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="article"><analytic><title level="a">Improving attitudes regarding the elderly population: The effects of information and reinforcement for change</title><author><persName><forename type="first">A. M.</forename><surname>Ragan</surname></persName></author><author><persName><forename type="first">A. M</forename><surname>Bowen</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2002</date><biblScope unit="volume">41</biblScope><biblScope unit="page" from="511">511</biblScope><biblScope unit="page" to="515">515</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="inbook"><monogr><title level="m">Psychiatric disorders in America: The epidemiologic catchment area study</title><editor><persName><forename type="first">L. N.</forename><surname>Robins</surname></persName></editor><editor><persName><forename type="first">D. A</forename><surname>Regier</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="inbook"><monogr><title level="m">Caring for people who enter old age with enduring or relapsing mental illness</title><editor><orgName>Royal College of Psychiatrists</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="inbook"><monogr><title level="m">Practice guide 3: Assessing the mental health needs of older people</title><editor><orgName>Social Care Institute for Excellence</orgName></editor><idno type="uri">http://www.scie.org.uk/publications/practiceguides/practiceguide02/index.asp</idno><imprint><publisher>Cambridge</publisher><pubPlace>London (UK)</pubPlace><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">Deinstitutionalization: Avoiding the disasters of the past</title><author><persName><forename type="first">J.A.</forename><surname>Talbott</surname></persName></author></analytic><monogr><title level="j">Psychiatric services</title><imprint><date type="published">2002</date><biblScope unit="volume">55</biblScope><biblScope unit="issue">10</biblScope><biblScope unit="page" from="1112">1112</biblScope><biblScope unit="page" to="1115">1115</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="article"><analytic><title level="a">Home care of the elderly with mental health needs</title><author><persName><forename type="first">R.</forename><surname>Thompson</surname></persName></author></analytic><monogr><title level="j">Nursing Times</title><imprint><date type="published">1999</date><biblScope unit="volume">95</biblScope><biblScope unit="issue">10</biblScope><biblScope unit="page" from="10">10</biblScope><biblScope unit="page" to="16">16</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="inbook"><monogr><title level="m">Understanding the needs of caregivers of mentally ill older adults: Hearing their voices to inform services</title><editor><persName><forename type="first">H.</forename><surname>Tuokko</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>MacCourt</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Milliken</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Victoria, Canada</pubPlace><date type="published">2008</date></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="inbook"><monogr><title level="m">Community integration for older adults with mental illnesses: Overcoming barriers and seizing opportunities</title><editor><orgName>United States Department of Health and Human Services—Substance Abuse and Mental Health Services Administration</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Rockville, MD</pubPlace><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">Factors in duration of anxiolytic, sedative and hypnotic use by elderly, and implications for nursing</title><author><persName><forename type="first">P.</forename><surname>Voyer</surname></persName></author><author><persName><forename type="first">M.</forename><surname>McCubbin</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Préville</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Boyer</surname></persName></author></analytic><monogr><title level="j">Canadian Journal of Nursing Research</title><imprint><date type="published">2003</date><biblScope unit="volume">35</biblScope><biblScope unit="page" from="126">126</biblScope><biblScope unit="page" to="149">149</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

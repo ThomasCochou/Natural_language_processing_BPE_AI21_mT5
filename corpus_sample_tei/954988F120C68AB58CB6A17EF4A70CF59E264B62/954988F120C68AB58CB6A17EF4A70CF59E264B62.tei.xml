@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Wittgenstein et l’«arrière-plan» de l’intentionnalité</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Wittgenstein et l’«arrière-plan» de l’intentionnalité</title><author xml:id="author-0000"><persName><forename type="first">Denis</forename><surname>Sauvé</surname></persName><affiliation>Cégep de Saint-Hyacinthe</affiliation></author><idno type="istex">954988F120C68AB58CB6A17EF4A70CF59E264B62</idno><idno type="ark">ark:/67375/6GQ-MB5X0BVS-L</idno><idno type="DOI">10.1017/S0012217309090271</idno><idno type="PII">S0012217309090271</idno><idno type="article-id">09027</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="313">313</biblScope><biblScope unit="page" to="335">335</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : John Searle, Hubert Dreyfus et Charles Taylor défendent la thèse voulant qu’il y ait des formes de «compréhension» ou de «savoir» (ou, peut-être, de «connaissance») qui, contrairement aux formes courantes, ne sont pas de nature représentationnelle ou conceptuelle mais sont plutôt du type des «savoir-faire». Cet article examine l’argument avancé en faveur de cette thèse (l’«argument de la régression», comme il est désigné ici) ainsi que l’affirmation de ces auteurs suivant laquelle les Recherches philosophiques de Wittgenstein démontrent que celui-ci, au moins implicitement, l’acceptait. Les conclusions qui découlent de cet examen sont, d’une part, que l’argument n’est pas concluant et, de l’autre, qu’il aurait été récusé par l’auteur des Recherches.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT : A thesis held by John Searle, Hubert Dreyfus and Charles Taylor is that there is a kind of “understanding” or “knowledge” that differs from ordinary knowledge in being by nature non-representational or non-conceptual and rather a kind of “know-how.” The aim of this article is to examine the argument in support of their common thesis (which I call the “regress argument”) and their claim that it was endorsed, at least implicitly, by Wittgenstein in the Philosophical Investigations. This examination shows that the argument is not convincing and that Wittgenstein would have rejected it.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Wittgenstein et l’«arrière-plan» de
+l’intentionnalité
+
+DENIS SAUVÉ
+
+Cégep de Saint-Hyacinthe
+
+RÉSUMÉ : John Searle, Hubert Dreyfus et Charles Taylor défendent la thèse
+voulant qu’il y ait des formes de «compréhension» ou de «savoir» (ou, peut-être, de
+«connaissance») qui, contrairement aux formes courantes, ne sont pas de nature
+représentationnelle ou conceptuelle mais sont plutôt du type des «savoir-faire». Cet
+article examine l’argument avancé en faveur de cette thèse (l’«argument de la
+régression», comme il est désigné ici) ainsi que l’afﬁrmation de ces auteurs suivant
+laquelle les Recherches philosophiques de Wittgenstein démontrent que celui-ci, au
+moins implicitement, l’acceptait. Les conclusions qui découlent de cet examen sont,
+d’une part, que l’argument n’est pas concluant et, de l’autre, qu’il aurait été récusé par
+l’auteur des Recherches.
+ABSTRACT : A thesis held by John Searle, Hubert Dreyfus and Charles Taylor is that
+there is a kind of “understanding” or “knowledge” that differs from ordinary knowledge
+in being by nature non-representational or non-conceptual and rather a kind of
+“know-how.” The aim of this article is to examine the argument in support of their
+common thesis (which I call the “regress argument”) and their claim that it was endorsed,
+at least implicitly, by Wittgenstein in the Philosophical Investigations. This examination
+shows that the argument is not convincing and that Wittgenstein would have rejected it.
+
+D’après une opinion que partagent, entre autres, John Searle, Charles Taylor et
+Hubert Dreyfus, il existe une forme de «compréhension» — expression
+qu’utilisent Taylor et Dreyfus — qui ne se réduit pas à la présence chez un
+sujet d’états mentaux représentationnels (de croyances, de désirs, etc.). Ou
+encore, pour employer le vocabulaire de Searle, il y a des «capacités mentales»,
+Dialogue 48 (2009), 313-335. Printed in the U.S.A.
+© 2009 Canadian Philosophical Association /Association canadienne de philosophie
+doi:10.1017/S0012217309090271
+
+314
+
+Dialogue
+
+du type des «savoir-faire» (knowledge-how), qui ne se ramènent pas à la
+possession d’un «savoir propositionnel» (knowledge-that) ou à des «états
+intentionnels». Une autre thèse commune aux trois auteurs est que ces
+capacités mentales non intentionnelles (ou non représentationnelles) constituent
+l’«arrière-plan» nécessaire des états mentaux intentionnels (des désirs, des
+croyances, etc.); elles forment, comme dit Searle, «les préconditions du
+fonctionnement des états intentionnels» (1983, p. 143; trad. fr. 1985, p. 174).
+Dans ce qui suit il ne sera pas question, du moins explicitement, de la thèse de
+l’«arrière-plan de l’intentionnalité» comme la désigne Searle. Je m’intéresserai
+davantage à un argument qu’avancent, avec quelques variations, les trois auteurs
+à l’appui de la thèse selon laquelle il existe une forme de «compréhension» ou
+de «savoir» non propositionnel; cet argument est inspiré, disent-ils, des idées
+du second Wittgenstein, en particulier dans ses Recherches philosophiques. Je
+le nommerai l’«argument de la régression». Après l’avoir examiné, je poserai
+la question de savoir si, comme ils le prétendent, il est effectivement possible
+de l’attribuer à l’auteur des Recherches. Mes conclusions seront largement
+négatives : bien qu’il présente un intérêt certain, je ne crois pas que l’argument
+soit concluant (ce qui, bien sûr, ne veut pas dire que des capacités de ce genre
+n’existent pas); de plus, rien n’indique que Wittgenstein l’aurait endossé : on a
+au contraire, à mon avis, de bonnes raisons de croire qu’il aurait rejeté une (au
+moins) de ses prémisses1.
+Je commencerai par exposer l’argument de la régression dans la première
+section, où seront cités des passages des Recherches auxquels renvoie Taylor
+qui peuvent laisser croire que l’interprétation de ces auteurs est exacte. Dans la
+section suivante, après avoir analysé cet argument, je formulerai des remarques
+critiques pour ensuite, dans la dernière section, donner des raisons de rejeter
+l’interprétation que font ces auteurs de Wittgenstein2.
+1. L’argument de la régression
+Dreyfus présente cet argument dans un ouvrage qu’il consacre à une critique
+du projet de recherche dit de l’«intelligence artiﬁcielle» — sommairement le
+projet de représenter des domaines plus ou moins étendus du savoir au moyen
+de systèmes de symboles utilisables par un ordinateur (et de simuler, en ce
+sens, l’intelligence humaine). Le problème auquel se heurte tôt ou tard ce
+genre de recherche, dit Dreyfus, est qu’il semble que l’on doive aussi communiquer à l’ordinateur une représentation de notre «compréhension commune
+d’arrière-plan ordinaire (everyday commonsense background understanding)»
+(1992, p. xi) pour qu’il puisse «interpréter» et appliquer correctement le
+«savoir» qu’on entend lui transmettre — ce qui, dit-il, est impossible : «[…]
+rendre explicite grâce à une représentation symbolique notre compréhension
+préconceptuelle d’arrière-plan de ce qu’est [entre autres] un être humain me
+semble une tâche irréalisable» (ibid., p. xii). La raison est la suivante : «ma
+thèse, qui doit beaucoup à Wittgenstein, est que, lorsqu’on analyse le comportement humain en termes de règles, celles-ci doivent toujours contenir une
+
+Wittgenstein et l’intentionnalité 315
+
+condition ceteris paribus, c’est-à-dire qu’elles s’appliquent “toutes choses
+étant égales par ailleurs” et ce que signiﬁent les expressions “toutes choses” et
+“égales” dans une situation donnée ne peut jamais être explicité pleinement
+sans régression» (ibid., p. 57). Ainsi, «lorsque nous rendons compte de nos
+actions [en élaborant des systèmes de règles], nous devons toujours à un
+moment ou un autre en revenir à nos pratiques de tous les jours et dire simplement
+“c’est ce que nous faisons” ou bien “c’est en cela que consiste le fait d’être un
+être humain”» (ibid.). Cet arrière-plan de nos pratiques, «[…] est nécessairement,
+d’après l’argument, sous peine d’une régression, quelque chose que nous ne
+pouvons jamais connaître (know) explicitement» (ibid.). Notre «compréhension
+d’arrière-plan» ne consiste pas en un savoir «explicite» qui pourrait être
+représenté au moyen de systèmes de règles; il s’agit plutôt d’«une sorte de
+savoir-faire [know-how]» (ibid., p. xi).
+L’argument de la régression, tel qu’il ﬁgure chez Searle, ne concerne pas
+seulement des systèmes de règles comme chez Dreyfus mais, plus généralement,
+ce qu’il appelle le «réseau» des états intentionnels (dont les règles apparaissent
+comme un cas particulier). Voici ce que dit Searle à ce sujet :
+L’argument le plus simple en faveur de la thèse [selon laquelle il existe un arrière-plan
+mental non intentionnel] est que si vous tentez de suivre les ﬁls [reliant un état
+intentionnel à un autre] dans le réseau, la tâche est inﬁnie. Non pas simplement parce
+que vous ne savez pas où vous arrêter, mais parce que tout nouvel état intentionnel
+laisse place à un éventail indéﬁniment large d’interprétations à moins que
+l’interprétation correcte ne soit ﬁxée par quelque chose qui n’est pas un état intentionnel. Ainsi, si je comprends la phrase «le dîner est servi», je dois comprendre que
+le dîner est quelque chose que l’on mange. De plus, je dois savoir qu’il est ingéré par
+la bouche et non par une oreille ou un orteil […]. La liste des croyances [que je dois
+avoir] s’allonge indéﬁniment [et] chacune de ces autres croyances est elle-même
+sujette à un éventail indéﬁniment large d’autres interprétations, et cela a pour
+conséquence qu’il doit y avoir un point où s’arrête cette série. Elle s’arrête à ma
+simple aptitude à me débrouiller avec le monde [with my simple ability to cope with
+the world]. Comme le soutient Wittgenstein, qui avance un argument similaire, la
+compréhension [de la phrase] est ﬁxée par une façon d’agir non fondée [ungrounded] —
+nous savons tout simplement comment agir […] (1994, p. 549).
+
+Searle soutient effectivement ailleurs que la compréhension linguistique (la
+saisie de la signiﬁcation) suppose l’existence chez les locuteurs d’un savoir
+non propositionnel (1983, p. 145 sq.; trad. fr. 1985, p. 176 sq.); mais il aurait
+pu remplacer ici l’exemple de la phrase «le dîner est servi» par celui d’un état
+intentionnel dont le contenu est que le dîner est servi (par exemple la croyance
+correspondante). L’argument serait alors le suivant : tout état intentionnel
+(tel la croyance que le dîner est servi) peut recevoir un nombre indéﬁni
+d’«interprétations», chacune de celles-ci étant elle-même à son tour un état
+intentionnel également sujet à un très grand nombre d’«interprétations» et ainsi
+
+316
+
+Dialogue
+
+de suite; mais cette série doit prendre ﬁn quelque part et elle prend ﬁn avec la
+capacité (non intentionnelle ou non représentationnelle) de «se débrouiller
+avec le monde». Comme il l’écrit à un autre endroit, «celui qui tente […] de
+suivre les ﬁls dans le réseau [des états intentionnels] va éventuellement
+atteindre un fond [bedrock] de capacités mentales qui ne sont pas […] des états
+intentionnels (des représentations) [mais des savoir-faire non intentionnels]»
+(1983, p. 143; trad. fr. 1985, p. 174, modiﬁée). Searle emprunte apparemment
+ici à Wittgenstein l’image du «fond» que l’on peut trouver dans l’une des
+remarques des Recherches sur le concept de «suivre une règle»; mais on peut
+douter qu’ici elle ait le même sens que chez Wittgenstein (je reviendrai sur ce
+point plus loin).
+Quel est dans ce cas le sens de «régression»? À lire le texte de Dreyfus, ce
+n’est pas très clair; on pourrait même se demander s’il y a véritablement
+«régression». Un peu après le passage que j’ai cité, Dreyfus écrit que lorsqu’on
+entend spéciﬁer les conditions d’application d’une règle, il faut «faire appel à
+ce qui est normal ou typique» et c’est pourquoi on ne peut «éviter une régression inﬁnie de restrictions (qualiﬁcations) nécessaires pour appliquer cette
+connaissance [exprimée par la règle] à une situation spéciﬁque» (1992, p. 59).
+Prenons un exemple. Quelqu’un pourrait suivre la règle : «quand je viens de
+prendre un repas, je ne me remets pas à table (pour manger à nouveau) dix
+minutes plus tard». Or la règle ne s’applique peut-être pas dans une situation
+où la personne a été victime d’un enlèvement et où ses ravisseurs l’invitent à
+partager avec eux leur repas (elle craint en effet pour sa vie, elle ne veut pas les
+contredire, etc.). La règle est ainsi valable, elle décrit correctement son comportement, parce que, entre autres «restrictions», la personne ne se trouve pas,
+«normalement», dans la situation de quelqu’un qui a été enlevé. Un autre cas
+«anormal», qui rendrait la règle inapplicable, serait celui dans lequel elle a des
+raisons de croire que la nourriture va devenir bientôt (peut-être temporairement)
+très rare dans l’environnement où elle se trouve — disons au cours d’un
+voyage d’exploration ou durant la traversée d’un désert (elle voudrait faire
+quelques «réserves», etc.). On pourrait peut-être multiplier les exemples
+«à l’inﬁni» — il ne semble pas y avoir une liste bien déterminée de «restrictions» limitant l’application de la règle, mais il ne semble pas y avoir pour
+autant régression.
+Dreyfus donne ailleurs l’exemple de la règle qu’«on doit tenir ses
+promesses». Il ne s’agit pas, dit-il, d’«une règle stricte dont les conditions
+d’application sont énoncées dans la règle elle-même. Il s’agit [plutôt] d’une
+règle assortie d’une condition ceteris paribus [a ceteris paribus rule]» (1991,
+p. 75). Il existe effectivement des «exceptions» à la règle; par exemple : la
+personne ayant fait la promesse est malade, ce qui l’empêche de la tenir. Mais,
+dit Dreyfus, «si on essayait de déﬁnir chaque exception, par exemple le fait
+d’être malade, on serait encore obligé de faire intervenir de nouvelles conditions ceteris paribus» (ibid.). Ce qui veut apparemment dire qu’on peut rendre
+explicites les conditions d’application de la règle en lui ajoutant entre autres la
+
+Wittgenstein et l’intentionnalité 317
+
+précision «à moins que la personne soit malade», mais cette dernière condition
+comporte également une condition ceteris paribus qui pourrait être rendue
+explicitement, par exemple en ajoutant entre autres la nouvelle précision
+(ou «restriction») : «à moins que la personne (malade) ait fait la promesse de
+prêter à quelqu’un un livre (disons) et non pas de l’accompagner au cinéma»,
+laquelle, pour être valable, est également assujettie à une condition ceteris
+paribus et ainsi de suite. Il y aurait bien en ce sens régression. Toutefois, si je
+le lis correctement, Dreyfus ne semble pas vouloir soutenir ici (contrairement
+à ce que pourrait suggérer l’expression «a ceteris paribus rule») que certaines
+règles sont «strictes» et d’autres pas : toute règle est assortie d’une (ou de
+plusieurs) condition(s) ceteris paribus (si ce n’était pas le cas, il n’y aurait pas
+régression).
+La raison pour laquelle il y a régression chez Searle paraît différente. Tout
+état intentionnel peut être interprété (c’est-à-dire compris) de multiples façons,
+dit-il; ces interprétations, étant elles-mêmes des états intentionnels, se prêtent
+aussi à toutes sortes d’interprétations, lesquelles sont également des états
+intentionnels, donc susceptibles de beaucoup d’interprétations, etc. Pour prendre
+son exemple, la phrase «le dîner est servi» (ou la croyance correspondante)
+n’admet pas seulement une interprétation (il n’y a pas qu’une façon de la
+comprendre) : on peut imaginer différentes manières de comprendre les mots
+«dîner» ou «servir». Habituellement, les gens pensent que le dîner est quelque
+chose que l’on mange (c’est l’interprétation que la plupart qualiﬁeraient de
+«correcte»), bien que d’autres interprétations soient possibles. Il y a par ailleurs
+beaucoup d’interprétations différentes de l’expression «manger quelque
+chose» : on dit normalement que la nourriture est ingérée par la bouche, mais
+on pourrait avoir une compréhension différente du verbe «manger» (le verbe
+pourrait signiﬁer «ingérer par les oreilles» comme dans l’exemple de Searle).
+D’autre part, chez ceux qui partagent l’interprétation courante de ce qu’est
+manger (ingérer par la bouche), certains peuvent avoir une compréhension de
+ce qu’est une bouche (ou de ce que signiﬁe «ingérer») qui diffère de celle des
+autres et ainsi de suite3.
+Les deux formes de la régression, chez Dreyfus et chez Searle, peuvent
+survenir ensemble et les deux versions de l’argument, en ce sens, sont
+compatibles. Pour reprendre l’exemple de Dreyfus, une personne «sait» ce qu’est
+une promesse, elle possède (dirait Searle) une compréhension de ce qu’est
+une promesse conforme à l’interprétation courante, si elle lui associe une idée
+d’obligation — donc (pourrait dire Dreyfus) si elle agit conformément à une
+règle disant quelque chose tel que «on doit respecter ses promesses». Searle
+ajouterait qu’il existe différentes interprétations de ce qu’est une promesse,
+mais soutiendrait peut-être que, quelle que soit l’interprétation, celle-ci doit
+comporter au moins une certaine idée d’obligation (sinon on ne pourrait pas
+parler d’une «interprétation» de ce qu’est la promesse). D’autre part, la règle
+ne s’applique que dans certaines situations considérées comme «normales»
+ou «typiques», comme le soutient Dreyfus (Searle dirait probablement pour
+
+318
+
+Dialogue
+
+sa part que des situations que certains perçoivent comme «normales» ne le
+seraient pas pour d’autres). Par ailleurs, Searle dirait qu’un énoncé des
+conditions d’application de la règle considérées comme «normales» (par
+exemple, entre autres conditions : une personne malade n’est pas tenue de
+respecter les promesses qu’elle a faites avant de le devenir) peut aussi recevoir
+toutes sortes d’interprétations (comment comprendre les expressions «personne»
+ou «être malade»?), ce qui est aussi vrai des expressions apparaissant dans
+l’énonciation de ces interprétations et ainsi de suite. Il pourrait effectivement
+soutenir que les conditions d’application (ou «restrictions» associées à une
+règle) dont parle Dreyfus peuvent être considérées comme une expression
+de la compréhension que l’on en a (elles constituent une «interprétation»
+particulière de la règle).
+Que pense (ou qu’aurait pensé) Wittgenstein de cet argument? Taylor,
+contrairement à Searle et Dreyfus, cite des passages des Recherches qui suggèrent
+que leur auteur acceptait peut-être au moins les prémisses initiales de l’argument
+(1995, p. 166-167). Wittgenstein donne en effet dans les Recherches des
+exemples de règles (un concept central de l’ouvrage) en faisant remarquer (entre
+autres choses) qu’il peut y en avoir beaucoup d’interprétations. Taylor cite trois
+passages des Recherches. Dans le premier, Wittgenstein présente l’exemple
+d’un panneau indicateur en bordure d’une route sur lequel on a peint une ﬂèche
+(ou une main dont l’index indique une direction). Celui-ci, dit Wittgenstein,
+peut être compris (ou interprété) par certaines personnes d’une autre culture, ou
+des personnes dont l’éducation diffère de la nôtre, de façon telle qu’elles vont
+le «suivre» (comme on dit «suivre une règle») en agissant d’une manière peut-être
+complètement différente de la façon courante. Même si on ajoutait d’autres
+panneaux (ou d’autres instructions) destinés à «expliquer» ce que «signiﬁe» le
+premier panneau, il n’y aurait pas, dit-il, «seulement une interprétation» de ces
+derniers, ni par conséquent une seule manière de «suivre» le premier panneau
+(1969a, §85)4. Taylor ne dit cependant pas s’il y a régression (partant de
+l’interprétation du premier panneau) ou si Wittgenstein afﬁrme seulement qu’on
+peut imaginer une multiplicité d’interprétations du premier tableau et des
+instructions sur la façon de le suivre. On a plus clairement un cas de régression
+avec le deuxième exemple : supposons, dit Wittgenstein, que nous voulions donner
+à quelqu’un une «explication» du nom propre «Moïse». L’explication pourrait
+être celle-ci : «Par “Moïse” je comprends l’homme, si un tel homme a existé, qui
+a mené les Israélites hors d’Égypte, peu importe quel était son nom [véritable]
+et peu importe ce qu’il a fait ou n’a pas fait» (ibid., §87). Néanmoins, cette
+explication, dit-il, pourrait laisser des «doutes» dans l’esprit des auditeurs : que
+faut-il entendre (par exemple) par les mots «Égypte» ou «Israélites»? — des
+questions «qui [n’auraient] pas de terme même si nous en venions à des mots
+tels que “rouge”, “foncé” ou “sucré”» (ibid.) — des mots (veut apparemment
+dire Wittgenstein) qui pourraient appartenir, selon certains, à une sorte de
+«vocabulaire de base» (il n’emploie pas lui-même cette expression) et ne pourraient pas en ce sens se prêter à toutes sortes d’interprétations. Enﬁn, le troisième
+
+Wittgenstein et l’intentionnalité 319
+
+passage cité par Taylor ne laisse pas non plus voir clairement (peut-être comme
+le premier) en quel sens il y a régression : on enseigne à un élève à former des
+suites de nombres en obéissant à des instructions de la forme «plus n» (cf. ibid.,
+§185). Si on lui demande d’écrire la suite de nombres correspondant aux
+instructions (c’est-à-dire à la règle) «plus 2», il obéit de la façon correcte jusqu’à
+1000 mais commet, semble-t-il, ensuite une «erreur» : il écrit «1000, 1004,
+1008, 1012» au lieu de «1000, 1002, 1004,…». Wittgenstein fait remarquer :
+«nous pourrions dire peut-être dans un cas semblable qu’il est naturel [pour
+l’élève] de comprendre l’ordre [“plus 2”] comme nous comprenons l’ordre :
+“Ajoute 2 jusqu’à 1000, 4 jusqu’à 2000, 6 jusqu’à 3000, etc.”» (ibid.). Un cas tel
+que celui-là, ajoute Wittgenstein, ressemble à celui de quelqu’un qui réagirait
+naturellement au geste consistant à pointer du doigt dans une direction en
+regardant dans la direction opposée (il fait peut-être ici allusion à une situation
+telle que celle du premier exemple). Et, comme il le suggère apparemment aussi
+dans ce passage, on peut encore se représenter beaucoup d’interprétations
+alternatives des instructions (ou de la règle) «plus 2». Bref, il semble que les
+exemples de Wittgenstein servent entre autres à illustrer l’idée qu’on peut toujours
+donner d’une règle (et de tout ce qui a un contenu représentationnel, symbolique
+ou propositionnel) beaucoup d’interprétations — la plupart «non naturelles»
+(en tout cas pour la majorité de ceux qui la suivent) ou «déviantes», comme dit
+Taylor. Il est possible également (et il est plausible de croire) que, pour Wittgenstein (et, je supposerai aussi, pour Taylor), il y ait effectivement régression pour
+la raison suivante : si on peut donner beaucoup d’interprétations d’une règle
+(ou de tout ce qui est doué d’un contenu représentationnel), il semble que ce
+soit aussi le cas de ces interprétations elles-mêmes (puisqu’elles possèdent
+également un tel contenu).
+Taylor écrit à propos de ces exemples : «si, pour comprendre des instructions ou savoir comment suivre une règle, nous devons savoir que toutes ces
+lectures déviantes [de la règle] sont déviantes et si cela signiﬁe que nous devons avoir des pensées déjà formulées à cet effet, alors nous avons besoin d’un
+nombre inﬁni de pensées dans nos têtes pour suivre même les instructions les
+plus simples» (1995, p. 166). Ce qui est, bien sûr, impossible. La capacité de
+suivre une règle doit donc faire intervenir un «savoir» d’un autre genre, non
+formulé ou «inexplicite» (unarticulated), une forme de «compréhension»
+du type des savoir-faire. Et, ajoute Taylor, comme tout savoir-faire, cette
+compréhension se démontre (se manifeste) dans les comportements de ceux qui
+la possèdent : «Notre compréhension est elle-même incarnée. C’est-à-dire que
+notre savoir-faire incarné (bodily know-how) et la manière dont nous agissons
+et nous nous mouvons peuvent encoder des composantes de la compréhension
+de nous-mêmes et du monde» (ibid., p. 170). Ainsi, la façon dont nous comprenons des instructions, par exemple l’ordre «plus 2», se manifeste dans des
+actions consistant à les suivre et non pas seulement — et pas nécessairement —
+dans des explications verbales que nous serions en mesure de donner sur la
+manière dont nous les suivons. Ainsi nous pouvons dire, lorsque nous nous
+
+320
+
+Dialogue
+
+trouvons «à court» d’explications, que la capacité de «donner des raisons pour
+notre pratique de suivre une règle a atteint son terme» (ibid., p. 167). Taylor
+cite un autre passage des Recherches : si, dit Wittgenstein, on me demande
+«“ai-je des raisons [Gründe]?”, la réponse sera : j’aurai bientôt épuisé les raisons.
+Et alors je vais agir sans raison» (1969a, §211). Ou encore, un peu plus
+loin : «si j’ai épuisé les justiﬁcations (Begründungen), alors j’ai atteint le fond
+[…] et je suis enclin à dire : “c’est ainsi que j’agis [quand je suis la règle]”»
+(ibid., §217). L’expression qu’emploie Wittgenstein dans ce passage, «donner
+des raisons (ou des justiﬁcations)», signiﬁe apparemment : «donner des raisons pour lesquelles nous suivons la règle comme nous la suivons» ou, autrement dit, «expliquer comment nous la comprenons (ou l’interprétons)». Dire
+en effet comment nous l’interprétons revient à justiﬁer notre façon particulière
+de la suivre. Nous avons donc atteint le «fond» («bedrock», dans la traduction
+anglaise des Recherches) et nous avons épuisé nos raisons en ce sens que nous
+ne pouvons démontrer notre compréhension (ou interprétation) de la règle
+autrement que par nos actions — lesquelles sont une expression de notre
+compréhension commune d’arrière-plan. (Il semble que ce soit aussi à ce
+passage des Recherches que Searle fait allusion dans le texte cité plus haut où
+il était question d’un «fond de capacités mentales [non intentionnelles]».)
+2. L’argument est-il convaincant?
+Les deux versions de l’argument, chez Searle et Dreyfus, partent d’une même
+idée de ce en quoi consiste le problème de la régression (comme je le
+désignerai dans ce qui suit) et la solution dans les deux versions est similaire,
+quoique Searle — que je suivrai surtout ici — soit plus explicite sur ce point
+que Dreyfus. Taylor suggère une solution du problème différente (au moins
+pour une part); je dirai plus loin en quoi celle-ci consiste.
+Suivant la conclusion de l’argument, il existe une forme de «compréhension
+d’arrière-plan» ou des «capacités mentales» non intentionnelles qui viennent
+mettre ﬁn à la régression. Les savoir-faire mentaux en lesquels consistent
+cette «compréhension» ou ces «capacités» forment l’«arrière-plan» des états
+intentionnels (ce pourquoi, semble-t-il, on les qualiﬁe de «mentaux»), mais il
+s’agit de savoir-faire non représentationnels ou non intentionnels. Il existe
+aussi des savoir-faire représentationnels ou, plus précisément, propositionnels (des
+expressions que n’emploient pas les trois auteurs). Un exemple de «savoir-faire
+représentationnel» serait l’aptitude qu’a une personne à préparer un certain
+type de plat parce qu’elle peut suivre une recette, un ensemble d’instructions ou
+de règles (donc de propositions) qu’elle garde présentes à l’esprit lorsqu’elle le
+prépare. Un exemple de savoir-faire non représentationnel serait la capacité de
+se déplacer d’un lieu vers un autre en marchant (comme dit Searle, on n’applique
+pas inconsciemment des règles, les «règles de la marche», quand on se déplace
+en marchant) — une capacité innée selon lui. Certains savoir-faire acquis sont
+également de nature non représentationnelle : les capacités, dans ce cas, ont été
+acquises par l’intériorisation de règles, mais avec la pratique celles-ci, dit
+
+Wittgenstein et l’intentionnalité 321
+
+Searle, sont devenues «inutiles» (le savoir-faire non représentationnel a, pour
+ainsi dire, pris le relais; 1983, p. 150 sq.; trad. fr. 1985, p. 182 sq.). La conclusion
+de l’argument ne concerne évidemment que les savoir-faire (mentaux) non
+représentationnels (ou d’arrière-plan), qu’ils soient innés ou acquis.
+En quoi, donc, consiste la solution du problème de la régression? Quand,
+selon Searle dans un des passages cités plus haut, nous suivons le «ﬁl» des
+états intentionnels nous atteignons «éventuellement» un «fond» de capacités
+non intentionnelles. Si tel est le cas, doit alors exister — on peut présumer —
+un dernier état intentionnel qui met ﬁn à la série (ces états ne peuvent être en
+nombre inﬁni) et, «après» ou «au-delà» de ce dernier état, on trouve des
+savoir-faire non intentionnels. Searle estime probablement qu’il existe non pas
+un seul mais plusieurs «ﬁls parallèles» (bien que certains s’entrecroisent) dans
+le réseau des états intentionnels, l’«extrémité» de chacun étant constituée par
+un dernier état intentionnel (puisqu’un «ﬁl» ne peut être inﬁniment long).
+Cependant, il ne dit pas ici quelle relation voir entre un «dernier» état et les
+savoir-faire non intentionnels censés venir «ensuite». Dans l’autre texte cité, il
+écrit que l’interprétation d’un état intentionnel (la façon dont il est compris) est
+«ﬁxée» soit par un autre état intentionnel (l’état suivant dans la série), soit, là
+où la série prend ﬁn, «par quelque chose qui n’est pas un état intentionnel», en
+l’occurrence «par une façon d’agir non fondée» — «non fondée» apparemment
+au sens où une capacité non intentionnelle (telle que la capacité de marcher)
+n’est pas «fondée» sur des règles ou d’autres états représentationnels (son
+exercice ne consiste pas en l’application de règles). L’interprétation des états
+qui mettent ﬁn à chacune des suites d’états intentionnels est ainsi «ﬁxée» par
+notre «simple aptitude à [nous] débrouiller avec le monde», c’est-à-dire (on
+peut encore présumer) par un ensemble de savoir-faire non intentionnels.
+Searle veut apparemment dire que l’interprétation, dans le cas d’un «dernier»
+état intentionnel, est «ﬁxée» par l’action faisant usage d’une certaine capacité
+non intentionnelle. Et la conclusion de l’argument s’ensuit : il doit exister de
+semblables capacités.
+Pour mieux saisir la différence entre le «dernier» d’une série d’états
+intentionnels et les états intentionnels «ordinaires», on pourrait imaginer un être
+doté d’un intellect plus «simple» que le nôtre pour ce qui concerne ses capacités
+mentales, en particulier conceptuelles — disons celui d’un chimpanzé. Supposons
+que celui-ci est apte à obéir à des ordres du type «va en marchant (ou en
+courant) jusqu’à la porte (ou la fenêtre) et ouvre (ou ferme)-la». Admettons
+qu’il peut aussi être le sujet d’états intentionnels, par exemple celui qui
+s’exprimerait par la phrase : «je désire aller en marchant jusqu’à la porte et
+l’ouvrir». Et supposons que les capacités de courir et de marcher, d’ouvrir et de
+fermer des portes ou des fenêtres sont chez lui des savoir-faire non intentionnels
+et que, en raison de ses capacités conceptuelles limitées, il n’associe pas à son
+concept d’une porte ou d’une fenêtre d’autres états intentionnels spéciﬁant (entre
+autres) ce qu’est pour lui une porte ou une fenêtre (c’est-à-dire la façon dont
+il comprend ces concepts). Un état intentionnel dont le contenu propositionnel
+
+322
+
+Dialogue
+
+est je vais en marchant jusqu’à la porte et l’ouvre serait alors analogue chez lui
+à un «dernier» état chez un être humain, donc mettant un terme à une série
+d’états intentionnels. Ce qui «ﬁxerait» l’interprétation du contenu propositionnel
+serait l’action de marcher jusqu’à la porte et de l’ouvrir et non pas (par
+hypothèse) d’autres contenus propositionnels. L’interprétation de (c’est-à-dire
+la façon dont il comprend) l’état intentionnel s’exprimant par la phrase «je
+désire aller en marchant jusqu’à la porte et l’ouvrir» serait «ﬁxée» par son
+comportement et en dernière instance par les capacités d’arrière-plan dont celui-ci
+est l’exercice. Chez un humain (adulte normal), si l’état intentionnel n’est pas
+le dernier d’une série, l’interprétation est «ﬁxée» par d’autres états intentionnels
+(dans le contenu desquels ﬁgurent entre autres les concepts porte et ouvrir).
+Si ma lecture des textes de Searle est correcte, on pourrait formuler
+l’argument de la manière suivante :
+L’interprétation d’un état intentionnel est ﬁxée soit par d’autres états intentionnels,
+soit par des capacités non intentionnelles. Mais ce ne sont pas tous les états intentionnels
+dont l’interprétation peut être ﬁxée par d’autres états intentionnels (sinon il y aurait
+régression). Donc il faut que l’interprétation de certains de ceux-ci soit ﬁxée par des
+capacités non intentionnelles (lesquelles par conséquent existent).
+
+Une autre formulation, un peu plus explicite, pourrait être :
+Ce ne sont pas tous les états intentionnels dont l’interprétation peut être ﬁxée par
+d’autres états intentionnels (il y aurait autrement régression). Il faut donc que
+l’interprétation, pour l’état ultime d’une série, soit ﬁxée par quelque chose qui ne
+requiert pas une interprétation, en l’occurrence par des capacités d’arrière-plan, qui
+mettent ainsi ﬁn à la régression. Donc celles-ci existent.
+
+Je supposerai que cette formulation de l’argument reﬂète de façon, je l’espère,
+pas trop inadéquate les idées de Searle (et peut-être également de Taylor et de
+Dreyfus). On peut penser à deux objections qui pourraient lui être opposées.
+Premièrement, on pourrait soutenir que l’argument est incomplet en ce sens
+qu’il ne dit pas pourquoi l’interprétation d’un état intentionnel est ﬁxée soit
+par d’autres états intentionnels, soit par des capacités d’arrière-plan : pourquoi
+précisément ces deux possibilités? Deuxièmement, l’argument suppose que
+tout état intentionnel doit être interprété (il doit y avoir quelque chose qui
+«ﬁxe» son interprétation). Mais est-ce que «interprétation», dans l’expression
+«l’interprétation est ﬁxée par…», signiﬁe la même chose quand on parle d’une
+«interprétation» par des états intentionnels et quand on parle d’une «interprétation»
+par des capacités d’arrière-plan?
+En ce qui concerne le second point, il semble effectivement que l’interprétation
+d’un état intentionnel «ordinaire» (non ultime) soit pour Searle «ﬁxée» par
+d’autres états intentionnels en un sens grosso modo semblable à celui dans
+lequel on dit qu’une déﬁnition («explicite» ou «implicite») ﬁxe la signiﬁcation
+
+Wittgenstein et l’intentionnalité 323
+
+d’un terme ou d’une expression : ces autres états intentionnels (analogues à des
+déﬁnitions) étant donnés, la façon dont sera interprété ou compris le premier
+état, c’est-à-dire ses «conditions de satisfaction» (pour employer son expression),
+seront aussi ﬁxées. Par exemple, les conditions de satisfaction (le contenu) du
+désir de fermer la fenêtre sont normalement déterminées, au moins en partie,
+par le contenu (la signiﬁcation) des concepts fermer et fenêtre (les conditions
+de satisfaction vont varier suivant la manière, entre autres, dont ceux-ci seront
+compris). Si les conditions de satisfaction ne sont pas ﬁxées par des états
+représentationnels, elles le seront donc selon lui par des capacités d’arrière-plan,
+c’est-à-dire par des états non représentationnels dispositionnels. Mais si c’est
+le cas, alors (suivant cette objection) il n’y a plus lieu de parler d’«interprétation»
+ou de «compréhension», expressions du vocabulaire psychologique qui ne
+conviennent pas pour parler d’états dispositionnels du cerveau n’ayant pas la
+structure de représentations : ces états (des savoir-faire non représentationnels)
+ont, sans doute, une réalité au plan neurobiologique, mais non également
+(comme c’est le cas pour les états intentionnels) au plan psychologique (comme
+Searle l’écrit à un endroit, «[…] lorsque nous parlons de l’arrière-plan, nous
+parlons d’une certaine catégorie de causalité neurophysiologique»; 1995,
+p. 129; trad. fr. 1998, p. 169-170).
+Searle répondrait peut-être que l’usage, dans l’argument, des expressions
+«interprétation» et «compréhension» (ou «conditions de satisfaction» et «contenu»)
+est, en réalité, facultatif. Si le désir est celui de fermer la fenêtre et qu’il s’agit
+d’un état intentionnel «ordinaire», on dira que la façon dont il est réalisé (ce
+qui se manifeste à travers le comportement satisfaisant le désir) est ﬁxée par
+des états intentionnels (par tous les états intentionnels, pourrait-il dire, dans
+lesquels surviennent entre autres les concepts fermer et fenêtre) ou, autrement
+dit, que sa réalisation varie suivant que tels concepts plutôt que tels autres
+concepts se trouvent associés aux concepts fenêtre et fermer. Si en revanche le
+désir est le dernier d’une série d’états intentionnels, on dira que la façon dont
+il est satisfait (lorsqu’il l’est) est ﬁxée par des états non intentionnels du cerveau
+ou bien qu’elle varie suivant le type d’état en question. Dans les deux cas,
+l’expression «fixé par» signifie grosso modo la même chose que «est
+causalement déterminé par» (ou «est causalement dépendant de») — elle n’est
+donc pas ambiguë. Searle (si je le comprends bien) pourrait ajouter que la réponse
+à la première objection (ci-dessus) s’ensuit : la façon dont est satisfait le désir est
+ﬁxée soit par des états intentionnels du cerveau, soit par des états non intentionnels
+(la capacité de marcher, pour prendre encore cet exemple, est un état dispositionnel
+et non intentionnel du cerveau); et il semble qu’il n’y ait en effet que ces deux
+possibilités : un état du cerveau considéré comme la cause (ou une des causes)
+d’un comportement est soit intentionnel (donc «psychologiquement réel»), soit
+non intentionnel (et «psychologiquement non réel»).
+Il découle de la solution de Searle que le dernier d’une série d’états intentionnels ne peut être une croyance mais seulement un désir (ou un état tel qu’un
+souhait ou une intention), c’est-à-dire un état dont la condition de satisfaction
+
+324
+
+Dialogue
+
+consiste en une action de la part du sujet du désir (du souhait ou de l’intention)
+puisque son contenu propositionnel doit représenter (être la représentation de)
+l’exercice d’une certaine capacité d’agir (quand l’état intentionnel s’exprimerait
+par exemple par la phrase «je désire aller en marchant jusqu’à la porte»). Il suit
+également de cette solution qu’il doit exister autant de types de savoir-faire non
+intentionnels qu’il y a d’états ultimes différents dans le réseau (si le dernier
+d’une série est le désir de se déplacer en marchant d’un endroit vers un autre,
+alors doit lui correspondre un certain savoir-faire non intentionnel, en
+l’occurrence la capacité de marcher d’un endroit vers un autre). Il semble
+s’ensuivre également que les concepts primitifs, qui confèrent, directement
+ou indirectement, leur contenu représentationnel à tous les autres états
+intentionnels (non ultimes ou non primitifs), sont des concepts d’actions (ils
+s’exprimeraient dans un langage par des verbes dénotant des actions). On
+pourrait avoir comme exemples de concepts primitifs les concepts marcher,
+manger et tourner la tête et (peut-être) ouvrir une porte et fermer une fenêtre
+(les actions de marcher, manger et tourner la tête seraient des exercices de
+savoir-faire intentionnels innés et les actions d’ouvrir une porte et de fermer
+une fenêtre des exercices de savoir-faire non intentionnels acquis); cependant, les
+concepts table, porte et fenêtre (auxquels, dans un langage, correspondraient
+des substantifs) ou rouge et sucré (auxquels correspondraient des adjectifs) ne
+pourraient pas être des concepts primitifs — une conséquence qui ne paraît pas
+très plausible.
+Comme je l’ai indiqué au début de la présente section, la solution du
+problème de la régression selon Taylor semble différente de celle de Searle.
+Prenons l’exemple, dans les Recherches, de l’explication de la signiﬁcation
+du mot «Moïse» (ci-dessus, section 1). L’interlocuteur ﬁctif des Recherches
+pose dans le passage suivant le problème de ce qu’on pourrait appeler la
+«régression des explications», une variante du problème de la «régression
+des interprétations» : «Mais [demande l’interlocuteur] comment une explication [que quelqu’un me donne de la signiﬁcation du mot “Moïse”] peutelle m’aider à comprendre si elle n’est pas après tout la dernière? L’explication
+n’est dans ce cas jamais terminée, de sorte que je ne comprends toujours pas
+et ne comprendrai jamais ce que [celui qui la donne] veut dire […]» (1969a,
+§87). La question soulevée, comme le fait justement remarquer Taylor, est la
+suivante : «[Parce que] toute explication laisse des problèmes potentiels non
+résolus [par exemple, que devons-nous comprendre par les mots “Égypte”
+ou “Israélites”?], elle a besoin d’autres explications pour l’appuyer. [Or]
+d’autres explications auraient le même défaut et ainsi la tâche d’expliquer à
+quelqu’un [la signiﬁcation du mot] serait littéralement sans ﬁn» (1995,
+p. 166). Comment, dans ces conditions, peut-il y avoir compréhension (ou
+communication au moyen d’un langage)? Mais en réalité, dit Taylor dans
+son interprétation de la réponse de Wittgenstein à son interlocuteur, nous
+n’avons pas «à résoudre toutes les questions potentielles [sur la signiﬁcation
+du mot] avant que nous nous comprenions […]. La compréhension existe
+
+Wittgenstein et l’intentionnalité 325
+
+toujours sur un arrière-plan de choses tenues pour acquises, auxquelles,
+simplement, nous nous ﬁons» (ibid., p. 167). Bien que les explications demeurent
+toujours d’une certaine manière «incomplètes», celui à qui elles sont adressées
+est en mesure de comprendre ce que le mot signiﬁe s’il a en commun avec celui
+qui les donne un arrière-plan de «choses tenues pour acquises». Néanmoins
+cet arrière-plan, dit Taylor, «n’est pas le lieu des questions déjà résolues».
+Lorsque survient un malentendu, qui rend nécessaire une nouvelle explication
+(ou une explication plus élaborée), «ce qui doit être dit pour dissiper le
+malentendu rend explicite (articulates) une partie de l’arrière-plan de celui
+qui donne l’explication qui peut n’avoir jamais encore été explicitée
+auparavant» (ibid.). L’arrière-plan n’est pas en effet, dit-il, constitué de
+croyances non conscientes qui pourraient éventuellement devenir (ou redevenir)
+conscientes, des croyances que l’explication est supposée «rendre explicites».
+(Je suppose ici que Taylor fait, comme Searle, la distinction entre des états
+intentionnels conscients et des états intentionnels non conscients mais
+pouvant, plus ou moins facilement, devenir conscients.) En rendant explicite
+une partie de son arrière-plan, celui qui fournit les explications ne traduit
+pas dans une expression quelque chose qui se trouve déjà présent sous une
+forme non consciente et qu’il s’agirait de rendre conscient; il semble plutôt
+qu’il traduise sous une forme conceptuelle (ou représentationnelle) quelque
+chose qui ne l’est pas (l’arrière-plan étant une ensemble de savoir-faire non
+représentationnels). Mais, d’un autre côté, l’arrière-plan pour Taylor n’est
+pas simplement constitué d’états dispositionnels du cerveau doués seulement
+(comme pour Searle) d’une réalité «neurophysiologique». Au contraire, dit
+Taylor, l’arrière-plan «incorpore [une forme de] compréhension, c’est-à-dire
+une saisie des choses qui, bien qu’inexplicite, nous permet de formuler des
+raisons et des explications quand nous sommes mis au déﬁ de le faire» (ibid.,
+p. 168). Autrement dit, pour Taylor, «le “fond” (bedrock) sur lequel reposent
+nos explications explicites est un mode de compréhension et prête ainsi aux
+choses une sorte de sens inexplicite (makes a kind of unarticulated sense of
+things)» (ibid.).
+Il semble d’après ce passage que Taylor et Searle s’accordent pour dire que
+l’arrière-plan (ou la «compréhension d’arrière-plan») est ce qui met un terme à
+la régression des explications (ou des interprétations). Taylor semble aussi
+penser comme Searle que c’est l’arrière-plan qui «ﬁxe l’interprétation» des
+états intentionnels (les explications que nous donnons, qui vont parfois rendre
+explicite une partie de notre arrière-plan, montrent comment nous interprétons
+tel ou tel concept). Mais Taylor estime également que de nouvelles explications sont toujours possibles — elles sont dans certains cas nécessaires pour
+écarter un malentendu — et elles vont parfois consister à repousser plus loin la
+frontière entre le réseau des états intentionnels et l’arrière-plan non intentionnel.
+Bref, pour lui, le dernier d’une série d’états intentionnels n’est que provisoirement
+(si on peut dire) le dernier; il reste toujours possible qu’une partie plus étendue
+de l’arrière-plan soit rendue explicite.
+
+326
+
+Dialogue
+
+Il semble que Taylor et Searle aient des conceptions différentes de l’arrièreplan. Ils considèrent tous deux l’arrière-plan comme un ensemble de savoir
+faire non intentionnels, mais Taylor ajoute que l’arrière-plan peut être
+«explicité», une afﬁrmation à laquelle s’objecterait sûrement Searle. Pour
+Searle (si je le lis correctement), nous ne pouvons pas «rendre explicite» (disons) notre capacité non intentionnelle de marcher en formulant des «règles de
+la marche» (si c’est bien ce que Taylor veut dire), parce que nous ne suivons
+pas inconsciemment des règles (les «règles de la marche») quand nous nous
+déplaçons en marchant : on ne peut rendre explicites des règles, dirait Searle,
+que si elles sont effectivement suivies — donc s’il s’agit de «règles implicites», ou «inconscientes» pour employer sa terminologie, des règles ayant par
+conséquent une réalité psychologique. Si l’arrière-plan est un ensemble de
+savoir-faire non intentionnels (n’ayant pas d’autre réalité que neurophysiologique), alors, dirait Searle, on peut avoir quelques difﬁcultés à comprendre en quoi consiste ce quelque chose qu’il s’agit de rendre explicite (lorsque
+quelqu’un donne à quelqu’un d’autre des explications, comme dans
+l’exemple de Wittgenstein) et à comprendre la nature de l’opération par
+laquelle il est rendu explicite.
+Mais admettons que Taylor soit en mesure de répondre à cette objection. Le
+résultat de la présente section pourrait se résumer comme suit : l’argument de
+la régression n’est pas convaincant parce qu’il existe deux solutions possibles
+(au moins) du problème de la régression — celles de Searle et de Taylor —
+donc deux variantes de la conclusion de l’argument correspondant à leurs
+conceptions respectives de l’arrière-plan. Autrement dit, on n’a pas démontré
+l’existence de l’arrière-plan si on peut en avoir deux conceptions différentes et
+apparemment incompatibles, celle de Searle et celle de Taylor. Je montre dans
+ce qui suit que Wittgenstein n’aurait pas non plus considéré que l’argument est
+concluant mais pour une raison différente.
+3. Y a-t-il un problème de la régression?
+Récapitulons. Le problème de la régression, pour Searle, Dreyfus et Taylor,
+vient du fait que tout état intentionnel requiert une interprétation. La solution
+revient à postuler l’existence d’un «savoir» non représentationnel, c’est-à-dire
+de capacités d’arrière-plan qui servent à ﬁxer l’interprétation des états
+intentionnels «ultimes» et, indirectement, celle de tous les autres états. Il semble
+que les capacités d’arrière-plan mettent ﬁn à la régression en ce sens qu’elles
+ﬁxent l’interprétation des états intentionnels mais n’ont pas elles-mêmes
+besoin d’être interprétées. Si je le lis correctement, elles ne requièrent aucune
+interprétation, selon Searle, parce que, contrairement aux états intentionnels,
+elles ne sont pas de nature représentationnelle (n’ayant qu’une réalité
+neurophysiologique).
+Je pense que Wittgenstein considérerait pour sa part que l’argument de la
+régression n’est pas convaincant pour la raison suivante : il rejette, à mon avis,
+la supposition fondamentale sur laquelle il repose — la supposition donnant
+
+Wittgenstein et l’intentionnalité 327
+
+naissance au problème de la régression selon laquelle tout état intentionnel
+requiert une interprétation. C’est la lecture que, pour terminer, je me propose
+de défendre : il n’y a pas pour lui de «problème de la régression», de sorte
+qu’aucune «solution» n’est nécessaire.
+J’ai cité plus haut des passages des Recherches auxquels se réfère Taylor,
+dont la lecture la plus plausible semble être au contraire que, pour Wittgenstein,
+il y a bel et bien régression puisqu’il dit à ces endroits que tout contenu
+représentationnel (ou tout élément constitutif d’un tel contenu) peut se prêter à
+beaucoup d’interprétations (voir section 1 ci-dessus). Pour prendre l’exemple
+du mot «Moïse», l’explication de ce que signiﬁe le mot ne s’arrêterait pas (ou
+ne s’arrêterait pas nécessairement) même si l’on parvenait à des mots tels que
+«rouge», «foncé» ou «sucré» (dont on pourrait croire que ce sont des termes
+primitifs et, donc, qu’ils ne sont pas sujets à interprétation — ce qu’apparemment
+nie Wittgenstein). Cependant, Wittgenstein semble faire une distinction que ne
+font pas Searle, Dreyfus ou Taylor entre les deux afﬁrmations suivantes:
+1) Nous pouvons toujours donner (ou penser à) différentes interprétations d’un
+contenu propositionnel, quel qu’il soit; autrement dit, il y a toujours plusieurs
+interprétations possibles d’un tel contenu.
+2) Nous devons avoir (nous avons nécessairement) prête, pour ainsi dire, dans
+nos esprits une interprétation d’un contenu propositionnel (quand, en particulier,
+le contenu est celui de l’un de nos propres états intentionnels).
+
+L’afﬁrmation (1), pour Wittgenstein, est vraie alors que (2) est fausse; donc (2)
+ne suit pas de (1). Si, comme c’est effectivement le cas, il peut y avoir différentes
+interprétations, par exemple, des mots «Moïse», «Égypte» ou «Israélites» (ou
+«rouge», «foncé» et «sucré»), il ne s’ensuit pas que leurs utilisateurs sont (ou
+doivent nécessairement être) en mesure de dire comment ils les comprennent
+ou qu’ils ont nécessairement, consciemment ou non, présente dans leur esprit
+une de ces interprétations. Mais seule l’afﬁrmation (2) entraîne une régression :
+si un utilisateur de «Moïse» doit avoir présente dans son esprit, consciemment
+ou non, une telle interprétation, alors il doit aussi avoir quelque part dans son
+esprit une interprétation des mots «Égypte» ou «Israélites» (s’ils ﬁgurent dans
+son interprétation de «Moïse») et ainsi de suite indéﬁniment.
+La distinction entre les deux afﬁrmations est implicite, il me semble, dans
+le passage au sujet du mot «Moïse». L’interlocuteur, dit Wittgenstein, fait la
+supposition qu’«une explication [du mot] resterait […] suspendue en l’air si
+une autre [par exemple l’explication des mots “Égypte” ou “Israélites”] ne la
+soutenait pas» — la supposition, précisément, qui donne lieu au problème de la
+régression (puisque ce serait vrai également des mots «Égypte» et «Israélites»
+invoqués dans l’explication du mot «Moïse», etc.). La réponse de Wittgenstein
+à son interlocuteur est que l’explication d’un mot peut parfois s’appuyer sur
+une autre, mais qu’«aucune [explication] n’en exige une autre — à moins que
+nous en ayons besoin pour prévenir un malentendu» (1969a, §87). Un malentendu
+
+328
+
+Dialogue
+
+(ou une «incompréhension») peut rendre nécessaires de nouvelles explications,
+mais celles-ci vont toujours prendre ﬁn en un point ou un autre — pas
+nécessairement le même pour tous les locuteurs — en l’occurrence quand la
+personne va se mettre à utiliser le mot comme les autres, parce qu’elle a
+compris les explications, mais sans que cela signiﬁe nécessairement qu’elle
+soit en mesure d’exprimer verbalement sa compréhension (ou interprétation)
+des explications ou qu’elle ait maintenant dans son esprit des états intentionnels
+correspondant à cette compréhension (ou interprétation). L’important, veut
+dire Wittgenstein, est la façon dont elle emploie le mot (qui démontre la
+compréhension qu’elle en a) et non son aptitude à exprimer verbalement la
+façon dont elle le comprend ou la présence quelque part dans son esprit de
+quelque chose en quoi consisterait cette compréhension.
+On trouve la même idée sous une forme plus explicite dans un passage des
+Recherches qui précède celui qui vient d’être cité. Wittgenstein fait d’abord
+remarquer qu’on peut toujours assigner beaucoup d’interprétations à une
+«déﬁnition ostensive» (comme à toute autre règle). Ainsi le mot «deux» peut
+être déﬁni par le geste de montrer deux objets (ou plusieurs paires d’objets) en
+prononçant les mots «ceci est appelé “deux”»; mais il n’y a pas, dit-il, seulement
+une façon de comprendre (ou interpréter) cette déﬁnition : celui qui la donne
+pourrait vouloir déﬁnir un mot qui désigne non pas un nombre, mais une
+couleur ou une longueur (il pourrait vouloir «montrer» non pas un nombre
+mais une couleur ou une longueur). Pour écarter tout risque de malentendu, la
+déﬁnition ostensive pourrait se formuler plutôt comme suit : «ce nombre est
+appelé “deux”», par opposition à «cette couleur est appelée “deux”» ou à «cette
+longueur est appelée “deux”». Wittgenstein écrit ensuite ceci :
+Mais est-ce seulement de cette façon que peut être compris (auffassen) [le mot «nombre» dans la déﬁnition «ce nombre est appelé “deux”»]? — Eh bien, nous devons
+simplement l’expliquer [à son tour]. — Donc l’expliquer au moyen d’autres mots! Et
+qu’en est-il de la dernière explication dans cette chaîne? (Ne dites pas : «Il n’y a pas
+une “dernière” explication». C’est comme si vous vouliez dire : «Il n’y a pas une
+dernière maison sur cette rue; on peut toujours en construire une nouvelle».)
+Que le mot «nombre» soit ou non nécessaire dans la déﬁnition ostensive de «deux»
+dépend de ce que [celui à qui je la donne] la comprenne (auffasst) ou non autrement
+que de la façon dont je le souhaitais. […] Et la façon dont il comprend l’explication
+se montre dans la manière dont il fait usage du mot expliqué (1969a, §28).
+
+On peut d’après ce passage concevoir qu’une personne comprenne ce que
+signiﬁe «deux» sans qu’il soit nécessaire de lui donner la seconde déﬁnition
+(«ce nombre est appelé “deux”»); la première déﬁnition («ceci est appelé
+“deux”») pourrait sufﬁre. La personne pourrait manifester sa compréhension
+(que «deux» est le nom du nombre deux) par la manière dont elle emploie le
+mot (en l’appliquant entre autres correctement à des paires d’objets). Il est
+même parfaitement imaginable qu’elle comprenne ce que «deux» veut dire,
+
+Wittgenstein et l’intentionnalité 329
+
+comme le démontre son emploi du mot, simplement par l’observation de
+l’usage que les autres en font, sans qu’on lui ait présenté une déﬁnition. Un peu
+plus loin dans les Recherches, Wittgenstein dit qu’il est tout à fait concevable
+que quelqu’un ait appris à jouer un jeu (par exemple les échecs) de façon
+exclusivement «pratique», en observant les autres jouer, sans avoir jamais
+entendu quelqu’un énoncer les règles du jeu («sans jamais apprendre ou formuler
+des règles», comme dit Wittgenstein; 1969a, §31). Il pourrait manifester sa
+«compréhension» (sa compétence au jeu d’échecs) en jouant d’une façon qui
+montre qu’il «obéit» effectivement aux règles. Il n’est pas nécessaire de
+supposer que la possession de cette compétence revienne à avoir dans son esprit
+des règles non formulées du jeu. De façon analogue, il n’est pas nécessaire de
+supposer que celui qui utilise correctement le mot «deux», sans avoir jamais
+entendu prononcer le mot «nombre», sait que deux est un nombre (ou interprète
+«deux» comme un nom de nombre) au sens où il posséderait, peut-être
+inconsciemment, dans son esprit le concept d’un nombre (lequel lui permettrait
+d’interpréter correctement la déﬁnition «ceci est appelé “deux”»).
+L’erreur qui est commise quand on suppose que tout contenu intentionnel
+(entre autres toute règle, par exemple la déﬁnition ostensive de «deux») requiert
+une interprétation ou que toute explication (par exemple des mots «Égypte» ou
+«Israélite») en appelle une autre est similaire, dit Wittgenstein dans le passage
+cité, à celle de croire qu’il n’y a pas une dernière maison sur une rue parce qu’il
+est toujours possible d’en construire une nouvelle. L’erreur, comme il le dit
+dans le Cahier bleu, est un cas particulier d’une autre qui consiste à supposer
+que la chaîne des raisons n’a pas de ﬁn (1969b, p. 14-15). L’exemple dans ce
+passage du Cahier bleu (plus explicite que celui des Recherches) est celui des
+raisons d’obéir de telle ou telle façon à un ordre (la raison pour laquelle
+on obéit comme on le fait à un ordre pourrait être la compréhension que l’on
+en a — la façon dont on l’interprète). Il écrit ceci :
+[On pourrait penser] que, si on comprend un ordre et on y obéit, il doit y avoir une
+raison pour laquelle on y obéit comme on le fait et même une chaîne de raisons se
+prolongeant à l’inﬁni. C’est comme si on disait : «peu importe où vous êtes, vous
+devez y être arrivé en partant d’un autre endroit, et de cet endroit en partant d’un
+autre, et ainsi de suite ad inﬁnitum». […] Si par contre vous aviez dit «peu importe
+où vous êtes, vous auriez pu y arriver en partant d’un autre endroit dix mètres plus
+loin […] et ainsi de suite à l’inﬁni» vous auriez indiqué en disant cela la possibilité
+inﬁnie [de remonter d’un lieu à un autre]. Ainsi l’idée d’une chaîne inﬁnie des raisons
+résulte d’une confusion semblable à celle-ci : qu’une ligne d’une certaine longueur
+consiste en un nombre inﬁni de parties parce qu’elle est indéﬁniment divisible,
+c’est-à-dire parce qu’il n’y a pas de ﬁn à la possibilité de la diviser […] (ibid.).
+
+Si l’on est prêt à reconnaître que les raisons «réelles» que peut donner
+quelqu’un, par opposition aux raisons seulement «possibles», ont une ﬁn alors,
+dit Wittgenstein, «[on n’est] plus révolté par l’idée d’un cas dans lequel il n’y
+
+330
+
+Dialogue
+
+a aucune raison pour obéir à l’ordre comme on le fait» (ibid., p. 15) — ou par
+l’idée qu’il y a un terme à la série des raisons.
+Une autre confusion, comme on peut lire au même endroit, est celle entre les
+raisons et les causes : quand on est arrivé à la ﬁn de la chaîne des raisons et que
+quelqu’un pose encore la question «pourquoi?» (Pourquoi obéir de cette façon
+à l’ordre? Pourquoi comprendre ainsi et non autrement les mots «Égypte» ou
+«Israélite»?), on peut être enclin à répondre en citant une cause (de la façon
+dont on y a obéi, de la façon dont on comprend et emploie les mots). Il est tout
+à fait possible (et légitime) dans un cas semblable de chercher la cause comme
+le ferait un scientiﬁque, mais les causes et les raisons sont, dit Wittgenstein,
+deux espèces de choses absolument dissemblables. Wittgenstein semble dans
+ce passage — peut-être de façon un peu moins évidente — vouloir dire également ceci : parce que nous confondons les raisons et les causes, nous sommes
+conduits à penser que la chaîne des raisons est inﬁnie comme est inﬁnie la
+chaîne des causes et des effets, ce qui nous incite à nouveau à croire qu’il doit
+y avoir une raison pour laquelle nous obéissons de cette façon à l’ordre.
+Revenons au passage des Recherches cité par Taylor (et auquel Searle fait
+apparemment allusion) où il est question du «fond» (bedrock) auquel on
+parvient quand on a épuisé les «justiﬁcations» (section 1). Le texte se lit (plus
+complètement) comme suit :
+«Comment puis-je suivre une règle?» — si ceci n’est pas une question au sujet des causes,
+alors c’en est une au sujet de la justiﬁcation du fait que ce soit ainsi que je la suis.
+Si j’ai épuisé les justiﬁcations, alors j’ai atteint le fond [dem harten Felsen : le roc
+dur] et ma bêche se courbe. Je suis alors enclin à dire : «c’est ainsi que j’agis [quand
+je suis la règle]» (1969a, §217).
+
+Pour Searle (comme pour Taylor et Dreyfus) l’arrière-plan est le «fond» sur
+lequel repose le réseau des états intentionnels — comme l’énonce la seconde
+thèse mentionnée au tout début : pas d’intentionnalité sans un arrière-plan non
+intentionnel. Comme le dit Taylor, l’arrière-plan non intentionnel «est plus fondamental [que nos représentations en ce sens] que nos représentations [nos
+états intentionnels] ne sont compréhensibles que sur l’arrière-plan que procure
+cette compréhension [non représentationnelle]» (1995, p. 170). Or il semble
+que l’image du «fond» dans ce passage des Recherches signiﬁe autre chose.
+Lorsqu’on a épuisé les justiﬁcations (explications, raisons ou interprétations),
+dit Wittgenstein, on a atteint le «fond» (le «roc dur») en ce sens qu’il n’y a rien
+«au-delà» — non pas parce qu’aucune autre justiﬁcation n’est possible (il est
+toujours possible d’imaginer de nouvelles justiﬁcations ou interprétations,
+comme le dit l’afﬁrmation (1) ci-dessus) mais parce que, dans le cas présent,
+on ne conçoit pas — la personne qui suit la règle ne conçoit pas — de nouvelles
+justiﬁcations ou raisons. Comme on peut lire dans les Fiches, «ce n’est pas que
+ce symbole ne puisse plus être interprété, mais : je n’interprète pas. Je n’interprète
+pas parce que je me sens à l’aise [dans cette manière de le comprendre]» (1970,
+
+Wittgenstein et l’intentionnalité 331
+
+§234). Il est même tout à fait possible (comme on a vu) que nous n’ayons
+aucune justiﬁcation de la façon dont nous suivons une règle et que nous puissions
+seulement dire : c’est de cette façon-là que nous agissons quand nous la
+suivons. (Wittgenstein, un peu plus loin, propose une autre image : «quand je
+suis une règle, je ne choisis pas [entre différentes façons de la suivre]. Je suis
+la règle les yeux fermés (blind)» (ibid., §219).) On peut noter en passant que le
+texte n’exclut pas qu’on puisse découvrir la cause de la façon dont est suivie la
+règle et une cause de cette dernière cause et ainsi de suite à l’inﬁni — mais,
+bien entendu, une cause n’est pas une raison (je n’indique pas une raison de la
+suivre comme je la suis lorsque je mentionne la cause de la manière dont je la
+suis).
+En somme, comme dit Wittgenstein dans un des passages souvent cités et
+commentés des Recherches sur le concept de «suivre une règle», «[…] il y a
+une compréhension (Auffassung) d’une règle qui n’est pas une interprétation,
+mais qui se manifeste d’une application à l’autre par ce que nous appelons
+“suivre la règle” et “enfreindre la règle”» (1969a, §201). Quelqu’un peut
+«comprendre» («saisir» le contenu de) la règle «ceci est appelé “deux”» (par
+exemple) et, en ce sens, comprendre «deux» comme le nom d’un nombre sans
+avoir présente à l’esprit (consciemment ou inconsciemment, comme dirait
+Searle) une «interprétation» du mot «deux» — sans avoir en particulier à
+l’esprit le concept d’un nombre : il sufﬁt qu’il agisse en suivant la règle — la
+compréhension (la maîtrise) de la règle n’exige rien d’autre. La façon dont il la
+comprend (qui lui est propre ou qu’il a en commun avec les autres locuteurs)
+va se manifester dans l’application, correcte ou erronée, qu’il en fait (il va
+démontrer sa compréhension aussi bien dans l’application correcte qu’il va
+faire de la règle que, par exemple, dans la manière dont il va se corriger quand
+il va en faire une application incorrecte). L’action (la façon particulière de la
+suivre) est constitutive de la compréhension5. Comme on lit à un autre endroit
+dans les Recherches, «l’application [la manière dont elle est suivie] demeure
+un critère de la compréhension [de la règle]» (ibid., §146).
+4. Conclusion
+Une conséquence qui, apparemment, découle des vues de Wittgenstein (que je
+n’ai exposées ici que de façon très sommaire6) est qu’il existe également pour
+lui, comme, semble-t-il, pour Searle (voir section 2), des contenus ou concepts
+primitifs en ce sens, comme on vient de voir, que la possession du concept
+deux, par exemple, ne suppose pas nécessairement celle du concept d’un
+nombre ni, peut-être, la possession d’autres concepts, si du moins on pense à
+des usages élémentaires du mot «deux» (quand par exemple le locuteur
+possède simplement la capacité de l’appliquer correctement à des paires
+d’objets et peut dire «deux» en montrant, disons, deux pommes, ensuite, à une
+autre occasion, deux chaises, deux maisons, etc.). Les mots «rouge», «foncé»
+et «sucré» (pour reprendre ces exemples) pourraient aussi en ce sens exprimer pour
+Wittgenstein des concepts primitifs : il peut y en avoir, sans doute, beaucoup
+
+332
+
+Dialogue
+
+d’interprétations (comme le dit l’afﬁrmation (1) ci-dessus) mais, pour au moins
+certains de leurs usages, il est possible que ceux-ci jouent effectivement le rôle
+de «concepts ultimes» (ce pourrait être vrai par exemple de l’usage du mot
+«rouge» par un enfant qui n’a pas encore appris à utiliser le mot «couleur»)7.
+Les points les plus importants, peut-être, dans ce qui précède étaient les
+suivants.
+i) Les trois auteurs (et peut-être en particulier Searle et Taylor) soutiennent, à
+mon avis avec raison, que, pour Wittgenstein, tout contenu représentationnel, toute expression linguistique (tout symbole, etc.) peut se prêter à de
+multiples interprétations. (Il est vrai que les exemples de Wittgenstein concernent surtout les règles, mais il semble que celles-ci ne représentent effectivement qu’un exemple, parmi d’autres, de ce qui possède un contenu
+représentationnel.)
+ii) Du fait qu’une règle puisse recevoir beaucoup d’interprétations, il
+résulte d’une certaine manière une «régression» en ce sens qu’une règle
+peut être interprétée au moyen d’une autre règle et celle-ci au moyen
+d’une autre et ainsi de suite indéﬁniment. Néanmoins, il ne s’ensuit pas
+pour Wittgenstein, contrairement à ce qu’afﬁrment les trois auteurs,
+qu’il doive y avoir interprétation. Comme il le fait remarquer à un endroit, «[…] je dois parfois, avant de l’appliquer, interpréter la règle.
+[…] [Mais] interpréter a une ﬁn» (1989, VI §38).
+iii) Enﬁn, si parfois aucune interprétation n’est requise ou s’il y a nécessairement un terme au processus d’interprétation, il est plausible de
+supposer qu’il existe des contenus ou concepts primitifs (ou des «règles
+de base») et, sur ce point, Wittgenstein pourrait être plutôt d’accord
+avec Searle (si, bien sûr, ma lecture de Searle est juste)8.
+Notes
+1 Un autre auteur pour lequel il y a un «argument de la régression» dans les Recherches est Robert Brandom (1994, p. 20 sq.). Je ne traiterai pas dans ce qui suit de
+cette version de l’argument (sa conclusion diffère de celle de l’argument dans les
+versions de Searle, Dreyfus et Taylor).
+2 Sur la notion d’«arrière-plan de l’intentionnalité» chez Searle, voir mon article
+(Sauvé, 2006). Je développe dans ce qui suit (et corrige pour une part) l’interprétation
+de quelques-unes des remarques des Recherches qu’esquisse cet article.
+3 Donald Davidson, dans «Animaux rationnels», un article traitant des conditions
+auxquelles on peut attribuer des «pensées» (à des animaux, des être humains, etc.),
+dit apparemment quelque chose de semblable mais ne mentionne pas le problème
+de la régression (2001 [1982]; trad. fr. 1991). Est-ce que l’on peut légitimement
+attribuer à un chien la pensée exprimée (par exemple) par la phrase «le chat est
+monté sur l’arbre», demande Davidson? Cela supposerait que le chien puisse penser
+qu’un certain animal est un chat ou que tel ou tel objet est un arbre. Ce qui n’est pas
+possible à moins de dire (par exemple) «que le chien a de nombreuses croyances
+
+Wittgenstein et l’intentionnalité 333
+
+4
+5
+
+6
+
+7
+
+8
+
+générales au sujet des arbres; que ce sont des choses qui poussent, qu’ils ont besoin
+de terre et d’eau, qu’ils ont des feuilles ou des aiguilles, qu’ils brûlent [etc.]» (2001,
+p. 98; trad. fr. 1991, p. 66). Quoiqu’il n’y ait pas «de liste bien arrêtée de choses
+[qu’une créature] possédant le concept d’arbre doit croire, […] nous n’avons, sans
+de nombreuses croyances générales, aucune raison d’identiﬁer une croyance
+comme croyance au sujet d’un arbre […].» (ibid., trad. modiﬁée). Searle ajouterait
+qu’on peut en dire autant du concept d’eau, de terre ou de feuille : on ne possède
+pas le concept de terre ou d’eau sans avoir des croyances générales au sujet de l’eau
+ou de la terre, ce qui nous entraîne donc dans une régression. Searle ferait
+probablement aussi remarquer qu’il peut y avoir plus d’un système de croyances au
+sujet des arbres — par conséquent, plusieurs manières de comprendre (ou «interpréter») la phrase «le chat est monté sur l’arbre».
+Je traduis toutes les citations de Wittgenstein.
+Il existe des «accompagnements» plus ou moins caractéristiques (ibid., §152) de la
+compréhension : le fait de pouvoir énoncer la règle, d’être apte à expliquer la façon
+dont on la comprend, à donner des exemples de la façon dont on l’applique, etc.,
+mais de tels accompagnements ne sont pas constitutifs de la compréhension.
+Je défends une interprétation des remarques des Recherches sur le concept de
+«suivre une règle» dans Sauvé (1998). J’exploite dans cet article certaines des idées
+de Searle à propos de l’arrière-plan de l’intentionnalité (non cependant l’idée d’une
+«régression des interprétations») dans une lecture de ces passages des Recherches.
+On pourrait se demander si ces concepts sont «primitifs» également au sens où ils
+serviraient à ﬁxer la signiﬁcation de tous les autres concepts (non primitifs) comme
+c’est le cas, semble-t-il, pour Searle. Un passage des Fiches suggère apparemment
+une réponse positive. Wittgenstein écrit : «avec les mots : “ce nombre est la continuation correcte de cette série”, je pourrais amener quelqu’un à nommer à l’avenir
+ceci ou cela “continuation correcte”. C’est-à-dire que je lui enseigne à continuer
+une série (une série élémentaire) sans employer une expression de la “loi de la
+série” […]» (1970, §300). Comme il l’explique au paragraphe suivant, celui à qui
+l’on enseigne à développer la série, parce qu’il ne connaît pas la «loi de la série»,
+agit «sans raison» : «Il doit continuer ainsi sans raison. Non pas parce qu’on ne peut
+pas encore lui rendre compréhensible la raison mais parce que — dans ce système —
+il n’y a aucune raison. (“La chaîne des raisons a une ﬁn.”)» (ibid.). Pour revenir au
+paragraphe précédent, il ajoute ensuite ceci : «[…] sans employer une expression
+de la “loi de la série”, mais aﬁn plutôt d’obtenir un substrat pour la signiﬁcation des
+règles algébriques ou de quelque chose de semblable» (ibid.; je souligne). Wittgenstein
+veut apparemment dire ceci : ce que signiﬁent les expressions algébriques qui
+pourraient être enseignées ensuite (pour qu’on puisse peut-être, entre autres,
+formuler la «loi de la série») dépendrait, au moins en partie, de la signiﬁcation des
+mots employés pour énoncer la série — la signiﬁcation de ces derniers formerait le
+«substrat» de la signiﬁcation des expressions algébriques.
+Une autre similitude entre les vues de Searle et de Wittgenstein qui semble découler
+de ce qui précède est la suivante. Pour Searle, le contenu conceptuel (ou propositionnel) d’un état ultime (un désir ou une intention, comme on a vu plus haut) est
+
+334
+
+Dialogue
+ﬁxé par une capacité non intentionnelle (innée ou acquise); autrement dit, les conditions de satisfaction du désir (le type de comportement réalisant le désir, la façon
+dont il sera satisfait) sont déterminées par un certain état dispositionnel du cerveau
+(si le désir est réalisé, la façon dont il le sera est déterminée par l’état en question).
+Pour Wittgenstein, lorsqu’une règle est une «règle de base», la façon dont elle est
+suivie (son contenu) n’est pas déterminée par une «interprétation» (il n’y a pas de
+«raison» pour laquelle elle est suivie comme elle l’est) bien que, manifestement, il
+y ait une cause de la façon dont elle est suivie (ﬁxant, en ce sens, la manière dont
+elle est «comprise» ou «interprétée»); celle-ci consiste probablement selon lui (au
+moins pour une part) en une capacité non intentionnelle (acquise) : la capacité de
+suivre la règle en question (sans doute un certain état non intentionnel du cerveau).
+(La raison pour laquelle, pour Wittgenstein, il existe des «règles de base» n’est
+toutefois pas la même que celle pour laquelle il existe des «états ultimes» selon
+Searle.)
+
+Références bibliographiques
+Brandom, R.
+1994
+Davidson, D.
+1991
+
+Making it Explicit, Cambridge (MA), Harvard University Press.
+
+«Animaux rationnels», trad. fr. de Pascal Engel dans D. Davidson,
+Paradoxes de l’irrationalité, Combas, Éditions de l’Éclat, 1991, p. 63-75.
+2001 «Rational Animals», dans D. Davidson, Subjective, Intersubjective,
+Objective, Oxford, Oxford University Press, p. 95-105 [1982].
+Dreyfus, H.L.
+1991 Being-in-the-World. A Commentary on Heidegger’s Being and Time,
+Division 1, Cambridge (MA), MIT Press.
+1992 What Computers Still Can’t Do. A Critique of Artiﬁcial Reason, Cambridge
+(MA), MIT Press.
+Searle, J.R.
+1983 Intentionality, Cambridge (MA), Cambridge University Press, 1983.
+1985 L’intentionnalité, trad. fr. de C. Pichevin, Paris, Édition de Minuit.
+1994 «Searle», dans S. Guttenplan, dir., A Companion to the Philosophy of
+Mind, Oxford, Blackwell, 1994, p. 544-49.
+1995 The Construction of Social Reality, New York, Free Press.
+1998 La construction de la réalité sociale, trad. fr. de C. Tiercelin, Paris,
+Gallimard.
+Taylor, Ch.
+1995 «To Follow a Rule» dans Ch. Taylor, Philosophical Arguments,
+Cambridge (MA), Harvard University Press, p. 165-180.
+Sauvé, D.
+1998 «La source du paradoxe de Wittgenstein au sujet des règles», Canadian
+Journal of Philosophy, vol. 28, no 1, p. 51-79.
+2006 «L’arrière-plan de l’intentionnalité selon John Searle», Dialogue, vol. 45,
+no 1 p. 3–27.
+
+Wittgenstein et l’intentionnalité 335
+Wittgenstein, L.
+1969 a Philosophische Untersuchungen, Francfort, Suhrkamp.
+1969 b The Blue and the Brown Books, Oxford, Blackwell.
+1970 Zettel, Berkeley, University of California Press.
+1989 Bemerkungen über die Grundlagen der Mathematik, Francfort,
+Suhrkamp.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Making it Explicit</title><editor><persName><forename type="first">R</forename><surname>Brandom</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA),</pubPlace><date type="published">1994</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Paradoxes de l’irrationalité</title><editor><persName><forename type="first">D</forename><surname>Davidson</surname></persName></editor><editor><persName><forename type="first">Pascal</forename><surname>Engel</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Davidson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Combas</pubPlace><date type="published">1991</date><biblScope unit="page" from="63">63</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">Subjective, Intersubjective, Objective</title><editor><persName><forename type="first">D</forename><surname>Davidson</surname></persName></editor><editor><persName><forename type="first">D.</forename><surname>Davidson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">2001</date><biblScope unit="page" from="95">95</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Being-in-the-World. A Commentary on Heidegger’s Being and Time, Division 1</title><editor><persName><forename type="first">H.L</forename><surname>Dreyfus</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="inbook"><monogr><title level="m">What Computers Still Can’t Do. A Critique of Artificial Reason</title><editor><persName><forename type="first">H.L</forename><surname>Dreyfus</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="inbook"><monogr><title level="m">Intentionality</title><editor><persName><forename type="first">J.R</forename><surname>Searle</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1983</date></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">L’intentionnalité</title><editor><persName><forename type="first">J.R</forename><surname>Searle</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Pichevin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1985</date></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="inbook"><monogr><title level="m">A Companion to the Philosophy of Mind</title><editor><persName><forename type="first">J.R</forename><surname>Searle</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Guttenplan</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Blackwell</pubPlace><date type="published">1994</date><biblScope unit="page" from="544">544</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">The Construction of Social Reality</title><editor><persName><forename type="first">J.R</forename><surname>Searle</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="inbook"><monogr><title level="m">La construction de la réalité sociale</title><editor><persName><forename type="first">J.R</forename><surname>Searle</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Tiercelin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="inbook"><monogr><title level="m">Philosophical Arguments</title><editor><persName><forename type="first">Ch</forename><surname>Taylor</surname></persName></editor><editor><persName><forename type="first">Ch.</forename><surname>Taylor</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">1995</date><biblScope unit="page" from="165">165</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">La source du paradoxe de Wittgenstein au sujet des règles</title><author><persName><forename type="first">D</forename><surname>Sauvé</surname></persName></author></analytic><monogr><title level="j">Canadian Journal of Philosophy</title><imprint><date type="published">1998</date><biblScope unit="volume">28</biblScope><biblScope unit="page" from="51">51</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">L’arrière-plan de l’intentionnalité selon John Searle</title><author><persName><forename type="first">D</forename><surname>Sauvé</surname></persName></author></analytic><monogr><title level="j">Dialogue</title><imprint><date type="published">2006</date><biblScope unit="volume">45</biblScope><biblScope unit="page" from="3">3</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Philosophische Untersuchungen</title><editor><persName><forename type="first">L</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Francfort</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">The Blue and the Brown Books</title><editor><persName><forename type="first">L</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1969</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="inbook"><monogr><title level="m">Zettel</title><editor><persName><forename type="first">L</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Berkeley</pubPlace><date type="published">1970</date></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Bemerkungen über die Grundlagen der Mathematik</title><editor><persName><forename type="first">L</forename><surname>Wittgenstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Francfort</pubPlace><date type="published">1989</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

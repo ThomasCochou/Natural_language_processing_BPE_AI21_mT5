@@ -1,0 +1,772 @@
+Makromol. Chem. 184,1529- 1546(1983)
+
+1529
+
+Orientierungsverhalten von segmentierten Polyetherurethanen
+in Abhangigkeit von der Dehnung und den verwendeten
+Losungsmitteln
+Herrn Prof. Dr. Cantow zum 60. Geburtstag gewidmet
+
+Karin Hoffmann, Richard Bonart*
+Institut fur Angewandte Physik, Universitat Regensburg,
+Universitatsstrafle 31, D-8400 Regensburg, BRD
+(Eingangsdatum: 29. Dezember 1982)
+
+SUMMARY:
+The solvent influence on two-phase structures resulting from drying films of segmented polyetherurethanes of different hard segment contents and molecular weights was investigated by
+infrared dichroism measurements of the orientational behaviour of the hard segments. A low
+density of physical crosslinking and/or minor association in solution leads to a lamellae
+structure resulting in an inhomogeneous distribution of stress at elongation. The formation of
+lamellae is impeded, if the solution shows pronounced formation of associates. Destruction of
+the lamellae can be monitored by studying the orientational behaviour for repeated deformations and by means of orientation-extension-hysteresis experiments. Stress-strain diagrams
+exhibit no contradictions to the discussed structural transformations by the influence of different solvents.
+
+Einleitung
+Segmentierte Polyurethane bestehen aus linearen Ketten alternierender harter und weicher
+Segmente, die sich raumlich entmischen und so zur Domanen- und Lamellen-Bildung aus Hartsegmenten fuhren. Die harten Domanen und Lamellen wirken als multifunktionale Netzstellen
+in der Matrix der Weichsegmente, die bei Raumtemperatur als Schmelze vorliegt.
+
+Da Entmischungsrad, sowie Domanen-, bzw. LamellengrdBe einen wesentlichen
+EinfluB auf die elastischen Eigenschaften des Materials haben, ist die Korrelation zwischen Dominenbildung und chemischer Rezeptur, der Probenpraparation l ) , sowie
+der EinfluD der Ldsungsmittel Gegenstand intensiver Untersuchungen.
+Die kinetischen Voraussetzungen zur Ausbildung von Domanen und Lamellen bei
+vorgegebener chemischer Rezeptur sind iiber die Probenpraparation und iiber die
+Beeintrachtigung der Assoziatbildung in Losung durch Verwendung unterschiedlicher Ldsungsmittel beeinfluobar.
+In der vorliegenden Arbeit wird mit Hilfe von IR- und FT-IR-dichroitischen Messungen die Hartsegmentorientierung untersucht . Anhand des Orientierungsverhaltens
+der Hartsegmente bei Dehnung sollen Riickschliisse auf die Hartphasenmorphologie
+gezogen und somit Erkenntnisse iiber den EinfluB des Losungsmittels auf die bei der
+Folienherstellung entstehende Zweiphasenstruktur gewonnen werden.
+0025-116X/83/$03.00
+
+1530
+
+K. Hoffmann, R. Bonart
+
+Tab. 1. Einige Herstellungsbedingungen bzw. Merkmale der untersuchten PolyetherurethanProben
+~~
+
+Probe Nr.
+
+Einsatzverhaltnis a)
+WS:MDI:KV
+
+Anteil Hartsegment in Gew.-%
+
+Ldsungsmittel b,
+
+Ia
+Ib
+I1a
+IIb
+
+1:1 3 7 :0,57
+1:1,57:0,57
+1:2:1
+1:2:1
+
+17
+17
+21,65
+21,65
+
+DMF
+DMF: DMA
+DMF
+DMF: DMA
+
+~~
+
+c
+
+1 :2 (Vol.)
+
+;
+I
+
+1 :2 (Vol.)
+
+WS: Weichsegment; MDI: 4,4'-Methylenedi(phenylisocyanat); KV: Kettenverliingerer.
+DMF: N,N-Dimethylformamid; DMA: N,N-Dimethylacetamid.
+
+a)
+
+b,
+
+Expenmenteller Teil
+Zur Untersuchung kamen Polyetherurethane auf der Basis von 4,4'-Methylenedi(pheny1isocyanat), (MDI). Als Weichsegment (WS) fand Polytetramethylenglykol vom Molekulargewicht
+2000 Verwendung. Mit Ethylendiamin als Kettenverliingerer wurden zwei Probensorten mit
+unterschiedlichem Einsatzverhaltnis (WS : MDI :Kettenverliingerer) hergestellt *).
+Beide Polyurethane lagen zunilchst in N,N-Dimethylformamid (DMF) Lbsung vor. Einem
+Teil der beiden DMF-Lbsungen wurde N,N-Dimethylacetamid (DMA) als besseres Lasungsmittel zugesetzt (Volumverhaltnis DMF: DMA = 1 :2). Die unterschiedlichen Merkmale der Proben sind in Tab. 1 zusammengefdt.
+Die Losungen wurden auf Glastrilger ausgegossen. Die Zeit zum Antrocknen der Folien aus
+reinen DMF-Losungen wurde durch Abdecken rnit durchlocherten Aluminiumfolien auf etwa
+15 h ausgedehnt. Dies entspricht etwa der Antrockenzeit der Losungen rnit DMA-Zusatz ohne
+irgendeine Abdeckung.
+Die Trockentemperatur betrug 50 "C. Nach weiterer Lagerung der Folien bei 50 "C im Vakuum fur mehr als zwei Wochen, wurden die ungefahr 10 pm dicken Folien mit kochendem, destilliertem Wasser abgelost. Die Bestimmung der Foliendicke erfolgte mittels eines Alpha-StepProfilometers der Firma Tencor Instruments.
+Die Absorptionen der fiir das Hartsegment typischen chemischen Gruppen wurden mit einem
+IR-Spektrometer von Perkin Elmer (Modell 580) fur zwei verschiedene Polarisationsrichtungen,
+parallel und senkrecht zur Verstreckrichtung, untersucht.
+Die Messungen erfolgten 15 min nach aufgebrachter Dehnung, bzw. Entlastung, um Hauptrelaxationseffekte wahrend der Messung auszuschlieoen.
+An jeder der vier Probensorten wurden drei Versuchsreihen durchgefuhrt:
+I. Eine schrittweise Deformation der Folienstreifen bis etwa 700 - 800% rnit anschlieoender
+Entlastung und erneuter mehrfacher Wiederholung des MeRvorgangs. Hierbei wurden die Absorptionen fur beide Polarisationsrichtungen fur jeden Dehn- und Entlastungsschritt aufgenommen.
+2. Die Entlastung erfolgt nach dem ersten Dehnschritt. Bei erneuter Deformation wird die
+Dehnungsamplitude jeweils erhdht.
+3. In einer dritten Versuchsreihe wurden die Absorptionen mittels eines Fourier Spektrometers (FT-IR-Spektrometer von Nicolet) wahrend der Dehnung (Dehngeschwindigkeit 0,055
+c d s ) bei standigem Wechsel der Polarisationsrichtung registriert. Der angeschlossene Computer ermoglichte die gleichzeitige Speicherung der Spannungs-Dehnungswerte.Durch eine solche
+Versuchsdurchfuhrung lassen sich die Orientierungen vor Abklingen der Hauptrelaxationen ermitteln. Zur Auswertung kamen vornehmlich die Streckschwingungen freier und Wasserstoffbrucken-assoziierter Carbonylgruppen (1 735 cm - 1639 cm - I ) , sowie die assoziierten
+
+-'
+
+~~
+
+*)
+
+Die Synthesen wurden von Herrn Dipl. Chem. L. Engelhardt durchgefuhrt.
+
+Orientierungsverhalten von segmentierten Polyetherurethanen in Abhiingigkeit . . .
+
+1531
+
+(N-H)-Streckschwingungen (3 400 cm - 3 100 cm-'). Freie (N-H)-Schwingungen sind im
+undeformierten Zustand kaum vorhanden. Ihr Anteil wiichst auch mit der Dehnung nur langsam. Sie werden fur die Auswertungen in dieser Arbeit nicht herangezogen.
+
+Ergebnisse und Diskussion
+Orientierung
+Orientierungsbestimmungen mittels IR-Dichroismus sind fur Zweiphasensysteme
+von groRer Bedeutung, da die Orientierung einzelner chemischer Gruppen bestimmt
+werden kann. So lassen sich Aussagen uber Orientierungen und ihre Anderungen getrennt fur beide Phasen gewinnen.
+Die Theorie des IR-Dichroismus wird in der Literatur ausfuhrlich behandelt2s3-@,
+so daR im Rahmen dieser Arbeit nur Prinzipielles kurz erlautert werden soll.
+Die Orientierung einzelner chemischer Gruppen steht zwangslaufig mit der Orientierung der Polymerketten bezuglich einer Referenzrichtung (z. B. Streckrichtung) in
+Zusammenhang, so daR man aus der Orientierung der chemischen Gruppen die
+Orientierung der Ketten, bzw. der Kettensegmente im Zweiphasensystem, ableiten
+kann.
+Orientierung einer chemischen Gruppe fuhrt bei Bestrahlung mit unterschiedlich linear polarisiertem Licht geeigneter Wellenlange zu unterschiedlichen Extinktionen
+fur die gewahlten Polarisationsrichtungen, meist parallel (11) und senkrecht ( I ) zur
+Verstreckrichtung. Das Extinktionsverhtdtnis, auch dichroitisches Verhaltnis genannt,
+
+ist somit ein MaR fur die Anisotropie einer chemischen Gruppe in einem Material ( A
+bezeichnet die integrale Extinktion).
+1st der Winkel zwischen Kettenachse und ubergangsmoment bekannt, l a t sich fur
+den Fall idealer einachsiger Orientierung der Polymerketten parallel zur Referenzrichtung das dazugehdrige dichroitische Verhaltnis Do ausrechnen. In diesem Fall liegen
+die Ubergangsmomente der Gruppenschwingung auf einem Kegel des Halbwinkels a
+um die Kettenachse, bzw. Referen~richtung~)
+verteilt, und man erhllt:
+Do = 2cot2a
+
+(2)
+
+In der Praxis findet man fur Polymere keine ideal einachsige Ausrichtung der Ketten in Verstreckrichtung, deshalb beschreibt man die Orientierung durch den Faktorf
+als Anteil ideal orientierter Polymerketten und (1 - fl als Anteil solcher mit beliebiger Orientierung8). Es wird dann
+D=
+
+fcos2 a + (1/3) (1 - f)
+(1/2)fsinZ a + (1/3) (1 - f)
+
+Diese Gleichung wird praktischerweise umgeformt in:
+
+(3)
+
+K. Hoffmann, R. Bonart
+
+1532
+Doi2
+
+0 - 3
+
+(4)
+
+f=D,-i.D+2
+
+Hier ist D (Gl. (1)) das gemessene dichroitische Verhaltnis. Die Orientierung lPDt
+sich ebenso durch eine mittlere Orientierung aller Ketten bezuglich der Referenzrichtung darstellen. Dabei wird diese mittlere Orientierung durch einen Kegel des Halbwinkels 0 um die Referenzrichtung beschrieben, und es ergibt sich:
+
+D=
+
+2 cotZa cos2 (8)
+cot2, sin2 (8) + (1
+
++ sin2 (8)
+
++ cos2 (8))/2
+
+Es IaDt sich so auch die mittlere Orientierung der Kettensegmente bezuglich der Referenzachse errechnen, die mit einer allgemein anwendbaren Orientierungsverteilungsfunktion f modellunabhlingig verknupft ist9-") :
+
+Unsere Modellvorstellungen zum Orientierungsverhalten der Domanen und Lamellen in segmentierten Polyurethanen unter EinfluB der Dehnung wurden in einer fruheren Arbeit l ) beschrieben. Diese Modellvorstellungen liegen auch dieser Arbeit zugrunde.
+Je nach GroBe der Hartsegmentgebilde unterscheiden wir zwischen globularen und
+lamellenartigen Domanen. Im weiteren werden erstere als Domanen, letztere als Lamellen bezeichnet.
+Fur die Domanen fallt der grdBte Durchmesser mit der Richtung der Hartsegmente
+zusammen. Er ist in etwa mit der mittleren Hartsegmentlange gleichzusetzen. Bei
+groDer seitlicher Aggregationstendenz der Hartsegmente bilden sich lamellenartige
+Domanen, bzw. Lamellen, aus. Hier liegt der grdBte Durchmesser quer zur Richtung
+der Hartsegmente und kann ein Vielfaches der Hartsegmentlange betragen.
+Das Orientierungsverhalten der Domanen und Lamellen unter dem EinfluD der
+Dehnung ist prinzipiell unterschiedlich (Abb. 1): Bei geknauelten Weichsegmenten
+kann die Matrix als Kontinuum aufgefaDt werden, ohne Spannungskonzentrationen
+an einzelnen Ketten. Die Matrix deformiert sich affin. Folglich orientieren sich die
+
+-Dehnung
+KONTINUUMSUNO MOLEKULWMECHANISCHFS
+MCMENT
+
+KONTINUUMS MECHANISCHES
+
+MOMENT
+
+_Hartsegment
+
+DOMANE
+
+/
+
+LAMELLE
+
+Weichsegment
+
+Abb. 1 . Kontifluumsmechanisches (k) und
+molekularmechanisches
+(m) Drehmoment der
+Weichsegmentmatrix
+auf Domanen und Lamellen von Polyetherurethanen als Folge
+einer Dehnung
+
+Orientierungsverhaltenvon segmentierten Polyetherurethanen in Abhangigkeit. . .
+
+1533
+
+Domanen und Lamellen pseudoaffin, d. h. jeweils der grdl3te Durchmesser dreht sich
+in Verstreckrichtung. Die Orientierung der Hartsegmente wird daher bestimmt durch
+die Griil3e der im Zweiphasensystem vorliegenden Domanen und Lamellen:
+Die Hartsegmente in den Domanen orientieren sich fur jede Dehnung positiv,
+solche in Lamellen, zumindest bei anfanglicher Dehnung, negativ.
+Hiihere Dehnungen haben volle Streckung eines Teils der Weichsegmente zur
+Folge.
+Damit kommt die molekularmechanische Kraftubertragung durch die einzelne
+Kette ins Spiel. Die Ketten versuchen, sich als Ganzes in Streckrichtung zu legen. Dies
+bedingt die Zerstorung der Lamellen, in denen die Hartsegmente transvers zum grol3ten Durchmesser und somit zur Streckrichtung liegen. Die Bruchstucke orientieren
+sich wie die Domanen positiv, da ihre Langsachse wieder mit den Hartsegmenten zusammenfallt.
+Zur Untersuchung der Hartsegmentphase eignen sich vor allem die (C=O)- und
+(N-H)-Gruppen des Harnstoffs und Urethans, die intermolekulare Wasserstoffbrucken von Hartsegment zu Hartsegment innerhalb der harten Phase bilden.
+Da sich aber auch Wasserstoffbrucken der (N-H)-Gruppen zum Ethersauerstoff
+des Weichsegments ausbilden, sind die (N-H)-Gruppen nahezu quantitativ Wasserstoffbrucken-assoziiert .
+Im Vergleich dazu zeigen die Carbonylschwingungen des Urethans einen deutlichen
+Anteil nicht assoziierter Gruppen (1. Bande, Abb. 2), die teils von einzelnen Urethangruppierungen in der Weichsegmentmatrix herruhren, teils im Ubergangsgebiet zwi-
+
+Abb. 2. Auflosung einer Absorptionshiillkurve von Polyetherurethanen in ihre Einzelbanden
+(0:
+MeRpunkte; Extinktion = dekadisches AbsorptionsvermOgen
+log, 0 (I011))
+
+0
+
+o1800
+
+1760
+
+1720
+
+I680
+
+WELLENZAHL in cm-1
+
+16<0
+
+1600
+
+K.Hoffmann, R.Bonart
+
+1534
+
+schen Domiinen oder Lamellen zum Weichsegment zu finden sind, da die Uretbangruppen an den Enden der Hartsegmente lokalisiert sind.
+Freie (C=O)-Schwingungen der Harnstoffgruppen entstehen beim Abscheren oder
+der ZerstBrung von Lamellen. Da sich die Harnstoffgruppen zuniichst vornehmlich
+innerhalb von Domiinen und Lamellen befinden, ist der Anteil freier Harnstoffcarbonylschwingungen durch einzelne, in der Weichsegmentmatrix dispergierte Hartsegmente vergleichsweise gering.
+Zur Auswertung der sich stark uberlappenden Banden im Carbonyl- und im
+(N-H)-Bereich, wurde die IR-Hullkurve in ihre Komponenten zerlegt. Dies wurde
+durch eine GauR-Lorentz-Produktfunktion realisiert. Hierzu wurde ein BandenAnpassungs-Programm von Pitha und Jones12)benutzt, das von H. Hummel 13) ergltnzt und abgewandelt wurde.
+In diesem Programm wird die Extinktion Ai der Einzelbande dargestellt durch:
+Ai ( i )= A ,
+
+1
+
+1
+
++ f i ' ( i - ii0)2
+
+-&G
+
+- sio)Z
+
+(7)
+
+mit A , = Maximalextinktion, Ii/2 = reziproke Halbwertsbreite des Lorentzanteils,
+g i / 2 = reziproke l/e-Breite des GauRanteils, Ci0 = Bandenursprung.
+Die Analyse des Carbonylbereichs ergab mehr Carbonylbanden als die drei unmittelbar aus der Hullkurve ersichtlichen Peaks vermuten lassen (Abb. 2). Fur die assoziierten Carbonylschwingungen des Harnstoffs lassen sich deutlich zwei Banden finden, die dehnungsabhangig sind (Bande 4 und Bande 5 in Abb. 2). Sie lassen sich mit
+der dehnungsbedingten Bildung von gespaltenen und einfachen Wasserstoffbrucken
+deuten. Eine dritte, ebenso dehnungsabhangige Carbonylschwingung des Harnstoffs
+k6nnte ihre Ursache in der Existenz freier Harnstoffcarbonylschwingungen haben (3.
+Bande in Abb. 2).
+Die Diskussion des Auftretens mehrerer Banden im Carbonylbereich des Harnstoffs und des Urethans sol1 Gegenstand einer gesonderten Arbeit sein.
+Die ubergangsmomente liegen fur die (N-H)- und die Harnstoff-C=O-Streckschwingungen in Richtung der Bindungsachsen, so daR Do mit dem Ubergangsmomentenwinkel a = 90" Null wird 14). Fur die Urethan-C=O-Streckschwingung wird
+a = 79" angen~mrnen'~).
+
+Orientierungsverhalten bei stufenweiser Erhtrhung der Dehnung
+Verstreckt man die Proben I a und IIa (Tab. 1) stufenweise und bestimmt die
+Orientierung nach jedem Dehnschritt aus den IR-Absorptionsmessungen, so findet
+man eine ausgepragte Negativorientierung der Hartsegmente fur beide Proben. Trotz
+des relativ geringen Anteils an Hartsegment in den Materialien haben sich durch das
+Hinausz6gern der Antrockenzeit hinreichend groRe Lamellen ausbilden k6nnen, die
+sich bei Dehnung unter der Wirkung kontinuumsmechanischer Krlfte mit ihrer
+Liingsachse in Richtung der Verstreckung drehen (Abb. l), also negative Orientierung
+der sie bildenden Hartsegmente zeigen. Dies 1 a t sich sowohl an den Wasserstoffbriicken-assoziierten Carbonylschwingungen des Harnstoffs, als auch an den assoziierten (N-H)-Schwingungen zeigen (Abbn. 3 und 4, durchgezogene Linien).
+
+Orientierungsverhalten von segmentierten Polyetherurethanen in Abhangigkeit . . .
+
+1535
+
+Abb. 3. Hartsegmentorientierungfbei stufenweise erhohter Dehnung E , bestimmt mit den asx -),
+I1 a
+soziierten Harnstoffcarbonylbanden fur die Polyetherurethan-Proben I a ((-0-),
+I b ( - - x - -) und I1 b ( - - o - -); (4.und 5 . Bande der Abb. 2);f-Werte unter - 0,5 weisen auf eine unsymmetrische Verteilung der Ubergangsmomente bezuglich der
+jeweiligen Kettenrichtung hin
+0.51
+
+,! ,,’P DEHNUNG E in 56
+I
+
+Abb. 4. Hartsegmentorientierung f bei stufenweise erhdhter Dehnung, anhand der Wasserstoffbriicken-assoziierten (N-H)-Bande fur die Polyetherurethan-Proben: I a (x -1.
+IIa(-0-),
+Ib(--x--)undIIb(--0--)
+
+Die negative Hartsegmentorientierung, die mit Hilfe der (N-H)-Schwingungen bestimmt wird, ist weniger ausgepragt, da die gemessene Gesamtorientierung durch die
+Wasserstoffbrucken der positiv orientierten einzelnen Urethangruppen in isolierten
+Diisocyanatblocken, in kleinen Domanen und an einzelnen Hartsegmenten in der
+Weichsegmentmatrix (Abb. 5 ) starker beeinflufit wird, als das bei der Gesamtorientierung der Harnstoffcarbonylgruppen der Fall ist, deren Orientierung nur durch positiv
+orientierte Domanen mitbestimmt wird.
+Entsprechend dem geringeren Hartsegmentgehalt in Probe I a sollte sich eine etwas
+geringere Negativorientierung als bei Probe IIa zeigen. Dies ist zu erwarten, da sich
+dem geringeren Gewichtsanteil des Hartsegments entsprechend weniger grolje Lamellen ausbilden konnen. Dennoch zeigen die Menergebnisse Gegenteiliges.
+Aus den assoziierten, sowie aus den nicht assoziierten Urethancarbonylschwingungen errechnet sich ein geringfiigig positiver Orientierungsfaktor f,da hier die Gesamt-
+
+K. Hoffmann, R. Bonart
+
+1536
+
+orientierung, neben der Positivorientierung der kleinen Domanen, stark durch die der
+Diisocyanatbldcke und die der einzelnen Hartsegmente in der Weichsegmentmatrix
+beeinflufit wird.
+
+Abb. 5 . Domanen, isolierte Hartsegmente
+und Diisocyanatbltickein der Weichsegmentmatrix von Polyetherurethanen
+(HS = Hartsegment; WS = Weichsegment)
+
+Das vorliegende Resultat ist durch eine unterschiedliche Synthese der Materialien
+erklarbar. Herstellungsbedingt enthllt Probe I a mehr Wasser als Probe I1 a. Durch
+extrem hohe Storungsfreiheit aufgrund hoher stochiometrischer Genauigkeit hat
+Probe IIa ein haheres Molekulargewicht. Bereits in der DMF-Losung liegen so grolje
+Assoziate vor, dal3 sie eine Trubung der Losung verursachen. Durch das Vorhandensein solcher Assoziate wird die Beweglichkeit der Ketten beim Trockenvorgang eingeschrankt, d. h. die Lamellenbildung wird automatisch mitbeeintrachtigt, sofern ein
+Material bereits in grofier Zahl physikalische Vernetzungen in der Losung aufweist.
+Aufierdem ist zu vermuten, dalj die Matrix in weniger geknauelter Form vorliegt. Zumindest teilweise sind einzelne Weichsegmente mehr oder weniger gestreckt, so daR
+von Anfang an molekularmechanische Krafte auf die Lamellen einwirken.
+Einwirkung von DMA auf das Orientierungsverhalten
+Fiigt man den Substanzen in DMF-Losung als weiteres Losungsmittel DMA zu, so
+verschwindet die Trubung von Probe Ha. Offensichtlich werden durch das Hinzufugen des besseren Losungsmittels Assoziate in der Losung verkleinert oder zerstort.
+Dies gilt naturlich gleichermaen fur die Losung der Probe Ib. Die DMF-Lbsung von
+I a zeigt keine Triibung und hat daher schon von vorneherein kleinere Assoziate. Ein
+Zusatz von DMA erhoht die Beweglichekit der Ketten wahrend des Trockenvorgangs
+und fordert die Ausbildung von Lamellen. Dies beeinflufit das Orientierungsverhalten
+in zweierlei Weise (Abbn. 3 und 4, gestrichelte Kurven):
+a) Fur beide Proben stellt man eine starker negative Orientierung fest.
+b) Die Lage der grdfiten Negativorientierung verschiebt sich zu hoheren Deformationen und erstreckt sich uber einen weiteren Dehnungsbereich.
+
+Orientierungsverhaltenvon segmentierten Polyetherurethanen in Abhangigkeit . . .
+
+1537
+
+Diese Ergebnisse lassen zwei Deutungsmoglichkeiten zu:
+1) Die Anzahl der Lamellen hat sich vermehrt. Es sind weniger Hartsegmente in
+kleineren Domanen mit Positivorientierung, die die Negativorientierung der Lamellen
+kompensieren. Gleichzeitig bedingt eine wachsende Lamellenzahl auch eine Verbreiterung des Bereichs grORter Negativorientierung.
+Da an jeder der Lamellen kontinuumsmechanische und molekularmechanische
+Krafte in unterschiedlicher Weise durch das Weichsegment angreifen, werden die Lamellen vergleichbarer GroBe keinesfalls alle gleichzeitig zerstort. Der Ablauf ist eher
+als kontinuierlich fortschreitend zu bezeichnen. Jeweils nur solche Lamellen scheren
+ab oder werden zerstort, die einer besonders groRen Spannung ausgesetzt sind. Die
+Zerstorung fuhrt zur lokalen Spannungsentlastung und damit zwangslaufig zur Spannungserhohung an anderen Lamellen, die dann dem Einflulj der molekularmechanischen Krafte ausgesetzt sind.
+2) Fernerhin ware auch die Vergbrjerung von Einzellamellen denkbar, deren seitliche Ausdehnungen so groB werden, darj auch die Hauptachsenlange eines Bruchstiicks noch, verglichen mit der Hartsegmentlilnge, hinreichend groR ist und somit negative Orientierung zeigen kann. Wegen des geringen Hartsegmentanteils wird aber
+die erste Deutung von ausschlaggebender Bedeutung sein.
+Die Annahme, darj durch verbesserte kinetische Bedingungen fur die Lamellenbildung mehr Hartsegmente in Lamellen angelagert werden, wird durch die Verringerung der Positivorientierung sowohl der freien, aber mehr noch durch die der assoziierten Urethancarbonylgruppen bestatigt (Abb. 6 ) .
+Die positive Gesamtorientierung dieser Gruppen wird durch einzelne Urethangruppen und kleine Domanen oder Einzelhartsegmente in der Weichsegmentmatrix hervorgerufen, die unter dem Zwang der Weichsegmentorientierung bei Deformationseinflurj stehen (vgl. Abb. 5 ) . Dennoch laRt sich aus dem Orientierungsverlauf dieser
+Urethancarbonylgruppen indirekt auf das Lamellenverhalten schlienen, da dieselben
+Gruppen auch in den Lamellen zu finden sind.
+Solange der groRte Teil der Lamellen noch erhalten ist, ist das Anwachsen der Positivorientierung der Urethancarbonylgruppen gehemmt, da das Orientierungsverhalten der Gruppen in der Weichsegmentmatrix durch die Orientierung in den Lamellen
+kompensiert wird. Sobald die maximale Negativorientierung der Lamellen durchschritten ist, also eine sich standig erhohende Zahl von Lamellenbruchstucken zur
+Positivorientierung Anlarj gibt, beobachtet man verstarktes positives Orientierungsverhalten der Urethancarbonylgruppen.
+
+Abb. 6 . Hartsegmentorientierungf
+bei stufenweise erhohter Dehnung,
+bestimmt mit der assoziierten Carbonylschwingung der Urethangruppe fur die Proben:
+IIa (PO-),
+Ia ( p x - ) ,
+I b ( - - x - -) und I I b
+( - - 0 - -). (2. Bande der Abb. 2)
+
+0
+
+100
+
+200
+
+300
+
+LOO
+
+500
+
+600
+
+700
+
+MHNUNG E in%
+
+1538
+
+K. Hoffman, R. Bonart
+
+Bemerkenswert ist, dalj sich durch Zusatz von DMA die Strukturen der Proben I
+und I1 einander angeglichen haben miissen. Die Diagramme, ( - -x - -) und
+( - - o - -) in Abb. 3, unterscheiden sich in ihrem Verlauf so wenig, daD die Abweichung lediglich auf die unterschiedlichen Hartsegmentgehalte zuriickgefiihrt werden
+kann .
+Nach Entlastung zeigen alle Proben Positivorientierung der Hartsegmente. Diese
+Orientierung ist stabil und auch nach Tagen noch unvermindert zu messen. Dabei ist
+die Restorientierung der Urethancarbonylgruppen weniger stark ausgepragt als die
+der Harnstoffcarbonylgruppen, da die Urethanorientierung durch kleine Domanen,
+einzelne Hartsegmente und Diisocyanatbldcke im relaxierenden Weichsegment kompensiert wird.
+
+Orientierungst'erhalten bei Mehrfachdehnung
+Durchlauft man die stufenweise Deformation rnit anschlieoender Entlastung mehrmals, so beobachtet man deutlich unterschiedliche Verhaltensweisen fur die Proben
+I a und IIa.
+
+Probe I a (Abb. 7)
+Die Hartsegmente der Probe I a zeigen bei stufenweise erhdhter Dehnung ohne
+Zwischenentlastung zunehmend negatives Orientierungsverhalten bis zu einer Dehnung von etwa 2009'0, d. h. die Lamellen drehen sich rnit ihren Langsachsen in Streckrichtung und verursachen so die negative Ausrichtung der Hartsegmente, aus denen
+sie aufgebaut sind.
+Beim Einsetzen der Lamellenzerstorung durch wachsenden molekularmechanischen EinfluD der Weichsegmente bei hdheren Dehnungen, werden die Lamellen teilweise zerstort. Die Bruchstiicke haben eine Langsachse, die rnit der Richtung der
+Hartsegmente zusammenfallt, zeigen daher unter dem EinfluR weiterer Dehnung Positivorientierung. Dieses auRert sich in einer Verringerung der Negativorientierung.
+Bei einer Dehnung ab etwa 475% dominiert die Positivorientierung.
+Bei 550% Dehnung wird die Probe entlastet. Die positive Orientierung erhdht sich
+deutlich iiber die positive Endorientierung unter Belastung. AuDerdem ist eine bleibende Restdehnung zu beobachten.
+Diese Orientierungserhohung ist nur so zu erklaren, daD eine merkliche Anzahl Lamellen bei der Dehnung nicht zerstort werden, sondern sich unter dem RelaxationseinfluR des Weichsegments beim Entlasten mit ihrer Langsachse wieder aus der Verstreckrichtung herausdrehen. Auf diese Weise verstlrken die Hartsegmente in den
+Lamellen die Positivorientierung der Domanen und Lamellenbruchstiicke.
+Bei erneuter Dehnung werden die Lamellen wieder unter dem kontinuumsmechanischen EinfluR der Matrix mit ihrer Langsachse in Verstreckrichtung gedreht, folglich
+nimmt die Orientierung zunachst wieder ab, bis der Lamellenzerfall seinen Fortgang
+nimmt. Verglichen rnit dem ersten Deformationsdurchgang ist der Bereich maximaler
+Negativorientierung in Richtung hoherer Dehnungen verschoben.
+
+Orientierungsverhalten von segrnentiertenPolyetherurethanen in Abhangigkeit. . .
+
+1539
+
+Die Struktur der Probe I a bewirkt wahrend des ersten Durchgangs eine inhomogene Spannungsverteilung an den Lamellen, die sich dann nach Zerstdrung besonders
+belasteter Lamellen homogener auf alle ubrigen Hartphasenelemente verteilt. Diese
+Homogenisierung ist die Ursache der Verbreiterung des Dehnbereichs maximaler Negativorientierung. Die an der einzelnen Lamelle angreifenden Krafte sind beim zweiten Deformationsdurchgang geringer geworden, so daR die Lamellenzerstdrung teilweise erst bei hdheren Dehnungen einsetzt.
+Die Endorientierung im zweiten Durchgang liegt wiederum unter dem Orientierungswert nach erneuter Entlastung der Probe, allerdings ist der Unterschied geringer. Es sind daher auch nach der zweiten Dehnung noch hinreichend viele unzerstdrte
+Lamellen vorhanden, die durch Zuruckdrehen die Positivorientierung anwachsen lassen.
+Zwischen dem zweiten und dritten Deformationsdurchgang beobachtet man eine
+weit weniger grol3e Verschiebung der Diagramme zur positiven Richtung als nach der
+ersten Dehnung. Dies beruht auf zweierlei Ursachen:
+1) Die Zahl der Lamellen ist durch die erste Dehnung stark reduziert worden.
+2) Die beobachtete Negativorientierung bei der zweiten Dehnung wird nicht nur
+durch die Positivorientierung der von Anfang an vorhandenen kleineren Domanen,
+sondern zusatzlich durch die der bereits entstandenen Lamellenbruchstiicke kompensiert.
+Die Lamellenzahl vermindert sich bei jedem weiteren Dehnungsdurchlauf, und die
+Positivorientierung kleiner Hartphasenelemente bleibt weitgehendst nach Entlastung
+erhalten. Die Abstande der Orientierungsdiagramme voneinander verringern sich.
+Forschreitende Verminderung der Anzahl unzerstdrter Lamellen zeigt sich deutlich
+durch die Verflachung des Orientierungsabfalls bei jeder erneuten Dehnung.
+
+Beim neunten Durchgang orientieren sich die Hartsegmente zu Beginn der Dehnung nur zdgernd, d. h. dehnungsbedingte Negativorientierung noch vorhandener
+Lamellen wird kompensiert, bis weitere Lamellenzerstdrung den positiven Anstieg der
+Domanen uberwiegen laRt (Abb. 7, Kurve 9).
+Erst der zehnte Deformationsdurchgang zeigt sofort eintretende Positivorientierung.
+Jeder weitere Durchgang bewirkt keine bemerkenswerten Orientierungsveri%nderungen mehr, lediglich geringfiigige Verschiebungen zu positiveren Werten. Die verbleibende Restdehnung nimmt kaum merklich zu. Es stellt sich ein Sattigungswert der
+Orientierung ein, wobei jede weitere Dehnung der Proben meist schnell zum Bruch
+des Materials fuhrt.
+Nach dem ersten Deformationsdurchgang ist der grdnte Zuwachs an bleibender
+Restdehnung zu verzeichnen. Bei jeder weiteren Dehnung wird ein systematisch abnehmender Betrag zusatzlich entstandener Restdehnung beobachtet. Neben der Dehnungskristallisation der Weichsegmente scheint die Anzahl der bei jedem Durchgang
+zerstdrten Lamellen in unmittelbarem Zusammenhang zur auftretenden Restdehnung
+zu stehen. Je grdRer die Zahl der zerstdrten Lamellen ist, umso grdBer ist der Zuwachs der Restdehnung nach einer Deformation (Abb. 7).
+
+K. Hoffmann, R. Bonart
+
+1540
+
+___._.--.--.//’/
+
+!-.
+
+.
+
+0.3OA-
+
+O
+
+-0.2
+
+/’
+
+/*
+
+DEHNUNG E in%
+
+-05J
+
+Abb. 7
+
+Abb. 8
+
+Abb. 7. Orientierungsverhaltenfder Hartsegmente der Polyetherurethan-Probe Ia bei Mehrfachdehnung
+Abb. 8. Orientierungsverhaltenf der Hartsegmente der Polyetherurethan-Probe I1 a bei dreifacher Dehnung
+
+Probe IIa (Abb. 8)
+Bei Durchfiihrung der entsprechenden Versuchsreihe mit der Probe I1 a gelangt
+
+man zu betrachtlich anderen Ergebnissen.
+Durch den hoheren Hartsegmentgehalt sowie durch das Vorhandensein grol3er Assoziate, liegt eine hohe Dichte physikalischer Vernetzungen vor. Es sind mehr, aber
+kleinere Lamellen entstanden. Folglich stellt sich eine gleichmPBigere Verteilung der
+Spannungen auf eine gronere Anzahl spannungstragender Lamellen und Domanen
+ein. Gleichzeitig verursachen die kleineren Lamellen eine weniger ausgepragte Negativorientierung. Ferner wirken die molekularmechanischen Krafte gestreckter Weichsegmente den kontinuumsmechanischen der geknluelten Matrix entgegen und beeintrachtigen somit die Drehung der Lamellenhauptachsen in die Verstreckrichtung.
+Gleich wahrend des ersten Deformationsdurchgangs wird der grbRte Teil aller Lamellen zerstort. Wegen der geringeren Belastung vieler kleiner Lamellen wird ihr Zerstorungsbereich zu hoheren Dehnungen verschoben, und der Bereich maximaler Negativorientierung wird im Vergleich zum Verlauf bei I a verbreitert. Nach Entlastung
+bleibt eine hdhere Restdehnung, als dies bei I a der Fall ist.
+Der Orientierungswert nach Entlastung sinkt unter die Endorientierung der Dehnung, d. h. die Zahl noch vorhandener Lamellen reicht nicht aus, die Orientierungsrelaxation kleinerer Hartphasengebilde zu kompensieren.
+Der zweite Dehnungsdurchgang zeigt nur noch zu Anfang einen Abfall der Orientierung, sie bleibt dann uber ungefahr 150% Dehnung in etwa konstant. In diesem
+Bereich wird die negative Orientierung der Lamellen durch die Positivorientierung
+kleinerer Einheiten der harten Phase in der Weichsegmentmatrix kompensiert. Die
+Zerstdrung weiterer Lamellen im Bereich der konstant verlaufenden Orientierung
+filhrt schlienlich zum Anwachsen der Orientierung in positiver Richtung. Beim dritten
+Durchgang findet man von Anfang an einen positiven Anstieg der Orientierung, der
+
+Orientierungsverhalten von segmentierten Polyetherurethanen in Abhangigkeit. . .
+
+1541
+
+schnell einem Endwert zustrebt. Bei weiteren Dehnversuchen reiBen diese Proben
+schon bei ca. 200% Dehnung.
+Aufgrund der durch die Synthese entstandenen Assoziate in der Losung der Probe
+IIa wird die Lamellenbildung behindert. Es kommt zu mehrfach beobachteten inneren Spannungen bei der Strukturausbildung, die eine wenig geknauelte Matrix vermuten lassen, in der es gestreckte Weichsegmente gibt (siehe Abb. 15b weiter unten).
+Eine von aurjen aufgebrachte Spannung bewirkt daher eine schnell aufeinanderfolgende Zerstorung vieler Elemente der harten Phase, von denen groBere Gebilde wie
+Lamellen besonders betroffen sind. Es stellt sich beim ersten Deformationsdurchgang
+eine Strukturveranderung dahingehend ein, dal3 eine harte Phase vornehmlich aus
+Domanen und Lamellenbruchstucken resultiert, die schnell ihre positive Endorientierung erreicht hat.
+Auch das Weichsegment zeigt bei Entlastung positive Restorientierung (Abb. 9). Es
+ist einleuchtend, darj ein solches orientiertes Material mechanisch kaum belastbar ist
+und schnell reirjt.
+Verhaitensanderungendurch An wendung eines DMF/DMA-Gemisches:
+Fiihrt man die gleichen Versuchsreihen mit Folien aus Losungen des DMF/DMAGemisches durch, so zeigt sich zwischen Probe I a und Probe I b im wesentlichen
+gleichartiges Verhalten mit intensivierter Negativorientierung (siehe Abb. 3), da
+durch die offenbar grdrjere Beweglichkeit der Ketten bei der Folienherstellung auf
+Kosten der Domanen mehr Hartsegmente an Lamellen gebunden werden.
+Der Einflurj des Zusatzes von DMA auf die Ldsung der Probe IIa bewirkt dagegen
+eine deutliche Verhaltensanderung, die nur in einer weitgehenden Veranderung der
+Anfangsstruktur eine Erklarung finden kann.
+
+DEHNUNG E In%
+
+Abb. 9
+Abb. 9. Orientierungfdes Weichsegments in der Polyurethan-ProbeI1 a fur zwei Dehnungen.
+(1. Dehnungsdurchgang: o - 0,2. Dehnungsdurchgang: x - x .) Nach dem ersten Durchgang
+zeigt das Weichsegment eine bleibende positive Orientierung
+Abb. 10. Hartsegmentorientierung f der Polyurethan-Probe I1 b bei mehrfacher Dehnung.
+Zusatz von N,N-Dimethylacetamid bewirkt eine Strukturumwandlung (vgl. Abb. 8)
+
+1542
+
+K. Hoffmann, R. Bonart
+
+Die hohe Dichte physikalischer Netzstellen in der Ldsung scheint durch Zusatz von
+DMA betrachtlich heruntergesetzt zu werden. Die neu entstandene Struktur entspricht offenbar in etwa der von Probe I b (siehe Abb. 3).
+Probe IIb liirjt sich jetzt vergleichsweise haufig dehnen (Abb. 10) und zeigt hierbei
+zu Beginn eines jeden Durchgangs eine zunachst flacher werdende Verminderung der
+Orientierung. Die Lamellen werden unter Einwirkung der nun inhomogener an den
+Lamellen angreifenden Krafte nicht alle in gleicher Weise belastet und zerstdrt. Vielmehr zeigt sich jetzt auch bei diesem Material, daR die Lamellen beim ersten Dehnungsdurchgang nur teilweise zerstdrt werden. Jede weitere Dehnung bewirkt weitere
+Zerstorung, ahnlich wie in Probe I a (siehe Abb. 7).
+
+Hystereseversuche mit wachsender Dehnung
+In einer weiteren Versuchsreihe llBt sich der Vorgang der Lamellenzerstorung noch
+verdeutlichen. Die Proben I a und IIa wurden um eine Dehnstufe verstreckt, entlastet, erneut verstreckt und dabei die Dehnungsamplitude systematisch erhdht.
+Aus dem Diagramm ftir Probe I a (Abb. 11) 1Ut sich ersehen, daR bis in die Nahe
+der Dehnung fur maximale Negativorientierung vergleichsweise wenig Lamellen zerstdrt werden. Die Orientierungsdiagramme liegen sehr dicht ubereinander, d. h. erfahren nur eine geringfugige Verschiebung (Abb. 11, Kurven 1 - 4). Nur bei einer relativ geringen Zahl von Lamellen reicht die Belastung zur Zerstdrung aus. Erst nach
+Uberschreiten der Dehnung, die fur die maximale Negativorientierung charakteristisch ist, registriert man eine deutlich wachsende Verschiebung der Kurven in die positive Richtung. Gleichzeitig ist zu beobachten, daR erst jetzt im entlasteten Zustand
+der Probe eine merklich bleibende Restdehnung auftritt. Nach Zerstdrung der wenigen, anfanglich sehr belasteten Lamellen hat sich die Spannung gleichmaig auf eine
+
+9
+
+0.5 0.L -
+
+Orientierungsverhalten von segmentierten Polyetherurethanen in Abhangigkeit . . .
+
+1543
+
+grdfiere Anzahl Lamellen verteilt, so daL3 diese nun vermehrt zerstort werden und sich
+somit die Orientierungsveranderung bei jedem Deformationsdurchgang intensiviert.
+Bei Probe IIa (Abb. 12) mit von vorneherein gleichmafligerer Belastung vieler kleiner Lamellen, werden diese gleich vom Anfang der Dehnung systematisch zerst6rt
+und tragen somit nicht mehr zur Negativorientierung bei. Die Verschiebung der Kurven zum Positiven ist schon vor Erreichen der maximalen Negativorientierung in der
+Hiillkurve deutlich griifier als bei Probe Ia.
+FT-IR- Untersuchenen wahrend der Dehnung
+Alle Proben wurden ferner mit einem Fourierspektrometer wahrend der Dehnung
+untersucht. Neben den Spektren wurden vom Rechner die Spannungs-Dehnungswerte registriert.
+Die aus diesen Messungen errechneten Orientierungswerte (Abb. 13) differieren erwartungsgemM von denen mit dem IR-Spektrometer ermittelten. Die schnellen Messungen erlauben quasi eine Momentaufnahme wahrend des Dehnungsvorgangs.
+Wie wir friiher schon feststellten l ) , sind Orientierungsvorgange der Lamellen zeitabhangig. Die von den Lamellen bendtigte Zeit zum Erreichen ihrer maximalen
+Orientierung ist bei der Durchfiihrung von FT-IR-Messungen nicht gegeben. Daher
+ist die Orientierung, die sich wahrend der Dehnung aufzubauen vermag, weniger ausgepragt.
+Die Verzogerung der Umorientierung der Lamellen hat ihre Ursache in der immer
+gleichzeitigen Existenz kontinuumsmechanischer und molekularmechanischer Krafte.
+Bedingt durch die in dieser Versuchsreihe stetig fortschreitenden Dehnung, kommt es
+nicht zu einem dehnungstypischen Gleichgewichtszustand zwischen beiden Arten der
+Kraftiibertragung, wie dies durch das Relaxationsverm6gen der Weichsegmentmatrix
+bei der stufentveisen Dehnung der Fall ist.
+LO E
+
+z 30b
+
+04
+0
+
+-0
+
+I
+
+100
+
+200
+
+xa
+
+m
+
+5w
+
+m
+
+DEWNG E
+
+Abb. 13
+
+in%
+
+Abb. 14
+
+Abb. 13. Hartsegmentorientierung f wahrend des Dehnungsvorgangs, gemessen mit einem
+I I a (PO-),
+Ib
+FT-IR-Spektrometer fur die Polyetherurethan-Proben I a (-x-),
+(--x--)undIIb(--0--)
+Abb. 14. Spannungs-Dehnungs-Diagramme fur die Polyetherurethan-Proben I a (PX-),
+I1 a (-0-),
+I b ( - - x - -) und I1 b ( - - o - -)
+
+m
+
+8M
+
+1544
+
+K. Hoffmann, R. Bonart
+
+Wird die Dehnung, vornehmlich bei geringen Dehngraden, festgehalten, werden
+molekularmechanische Krafte, also die Kraftstange, durch die Relaxationen der
+Weichsegmente in ihrer Wirkung gehemmt oder abgebaut, bevor sie zerstdrend wirken. Damit erhoht sich die kontinuumsmechanische Wirkung der Matrix auf die Lamellen, und die Orientierung intensiviert sich.
+Bei gleichmiil3igerer Verteilung der Spannung auf die Hartsegmentelemente, wie
+dies bei Probe IIa gegeben ist, ist die zeitliche Verzogerung zum Erreichen maximaler,
+der jeweiligen Dehnung entsprechender Orientierung weit weniger auffallig.
+
+Spannungs-Dehnungs-~e~ungen
+
+Zur Diskussion der Spannungs-Dehnungs-Diagramme (Abb. 14) sol1 die Spannungsverteilung, die einer vorgegebenen Dehnung entspricht, noch einmal anhand
+von zwei modellartigen Strukturvorstellungen unterschieden werden.
+1 . Es liegen viele, relativ kurze Ketten aus weichen und harten Segmenten vor, die
+in der Losung lediglich zu geringer Assoziatbildung neigen. Dies ermoglicht beim Verdampfen des Losungsmittels durch eine relativ groRe Bewegungsmoglichkeit der
+Hartsegmente den Aufbau von Lamellen in einer stark geknauelten Weichsegmentmatrix (Probe Ia).
+Modellartig lal3t sich eine solche Struktur durch isolierte Lamellen veranschaulichen, wobei jeder Lamelle ein eigenes Weichsegmentknauel zuzuordnen ist (Abb.
+15 a), d. h. die Struktur wird durch weitgehendst voneinander unabhangigen Untereinheiten aus Lamellen und zugehdrigen Matrixanteilen dargestellt.
+Innerhalb jeder Untereinheit bestehen Wechselwirkungen zwischen Weichsegmenten und Lamelle, die bei hinreichender Belastung die Zerstorung verursachen.
+Wird eine solche Struktur makroskopisch belastet, so resultiert daraus eine hohe
+punktuelle Belastung einiger der voneinander relativ unabhangigen Lamellen und
+fuhrt letztlich zu deren Zerstorung. Erst wenn dieser Zerstorungsprozess stattgefunden hat, greift die Spannung auf andere Lamellen in der Struktur uber.
+
+Abb. 15. a) Strukturmodell
+I: Die Lamellen liegen in
+einer geknauelten Weichsegmentmatrix und sind
+weitgehendst unabhangig
+voneinander.
+b) Strukturmodell 11: Lamellenartige Domanen, die bei
+Dehnung durch teilweise
+entknauelte Weichsegmente
+stark voneinander abhangig
+werden
+
+Orientierungsverhaltenvon segmentierten Polyetherurethanen in Abhangigkeit . . .
+
+1545
+
+2. In der Losung liegen bereits grofie Assoziate vor. Die Kinetik beim Verdampfen
+des Losungsmittels ist stark beeintrachtigt und somit die Ausbildung grofier Lamellen
+behindert (Probe I1 a).
+Modellartig lafit sich ein daraus resultierender Strukturaufbau durch lamellenartige
+Domanen oder kleine Lamellen symbolisieren, die miteinander durch die Weichsegmente verbunden sind (Abb. 15b). Die Matrix kann nicht mehr ausschliefilich durch
+ein Knauel von Weichsegmenten dargestellt werden. Vielmehr existieren jetzt eine
+Reihe von Weichsegmenten, die die lamellenartigen Domanen in mehr oder minder
+gestreckter Form untereinander verbinden. Die Gesamtstruktur wird in diesem Fall
+aus voneinander abhangigen Untereinheiten aufgebaut.
+In diesem Strukturmodell sind innere Spannungen vor dem Aufbringen einer makroskopischen Deformation durchaus erklarbar. Sie fuhrten bei Probe I1 a zu schwachen Orientierungen ohne aufiere Belastung. Um von mdglichst gleichen Anfangsbedingungen ausgehen zu kdnnen, fanden Proben mit Vororientierung keine Verwendung bei weiteren Versuchsdurchfiihrungen.
+Die makroskopische Belastung des zweiten Strukturmodells fiihrt zu Spannungen,
+die gleichzeitig nahezu an allen Untereinheiten angreifen. Zwar ist durch die homogenere Spannungsverteilung die Belastung der einzelnen Lamellen geringer, fuhrt aber
+schliefilich zu einer nahezu gleichzeitigen Zerstorung sehr vieler Lamellen.
+Die Spannungs-Dehnungs-Diagramme (Abb. 14) bestatigen die modellartige Strukturvorstellung bezuglich der untersuchten Proben:
+Vom Strukturaufbau her entsprechen die Proben I a und I b dem ersten Strukturmodel1 (Abb. 15a). Der Zusatz von DMA verbessert die Kinetik in der Losung von I a
+noch und bedingt eine weitere Vergrofierung der Lamellen bei gleichzeitiger Verminderung der Anzahl spannungstragender Elemente. Im Spannungs-Dehnungs-Diagramm (Abb. 14) liegen die Spannungswerte der Probe I a geringfiigig unter denen der
+Probe I b. Die gemessene Spannung steigt, sofern die von aufien aufgebrachte Belastung durch eine verminderte Anzahl von Kraftstrangen aufgenommen wird.
+Die Struktur der Probe IIa entspricht dem zweiten Strukturmodell (Abb. 15b).
+Aufgrund der angenommenen, relativ homogenen Spannungsverteilung auf viele Lamellen zeigt Probe IIa die niedrigsten Spannungswerte aller untersuchten Proben
+(Abb. 14).
+Durch Zusatz von DMA werden in der Losung bestehende Assoziate zerstort und
+damit die Lamellenbildung verbessert, sowie ihre Unabhangigkeit voneinander erhoht, so d& ein Strukturaufbau entsteht, der dem der Proben I entspricht. Deformation bewirkt jetzt inhomogene Spannungsverteilung an den grofieren Lamellen. Als
+Folge davon zeigt der anfangliche Spannungsverlauf von Probe I1b doppelt so hohe
+Spannungswerte wie die fur Probe IIa gemessenen (Abb. 14).
+Allen Proben gemein ist der nur sehr langsam steigende Spannungsverlauf zwischen
+80 und 450% Dehnung. Alle Orientierungsdiagramme zeigen in diesem Bereich Zerstorung von Lamellen durch Kraftstrlnge. Jede Zerstorung bewirkt punktuelle Spannungsentlastung, was ein rasches Ansteigen der Gesamtspannung verhindert. Fur
+hohe Dehnungen, bei denen sich in allen Proben positive Orientierung als dominierend zeigt, ist in allen Spannungs-Dehnungs-Kurven ein verstarktes Anwachsen der
+Spannungswerte bis zum Bruch zu beobachten.
+
+1546
+
+K. Hoffmann, R. Bonart
+
+In diesem Bereich richten sich nicht nur DomBnen und Lamellenbruchstiicke positiv aus, sondern, als Folge der hohen Dehnung, ist ebenso eine starke Orientierung
+des Weichsegments zu beobachten (siehe Abb. 9). Dies erklart die nun schneller anwachsende Gesamtspannung.
+Da die Hartsegmentgehalte in den Proben nur wenig differieren, zeigen die Spannungs-Dehnungs-Kurven nahezu gleichen Verlauf, sobald sich die anfangs vorliegenden Strukturunterschiede unter EinfluD der Deformation vermindert, bzw. einander
+angeglichen haben.
+
+Die Autoren danken der Deutschen Forschungsgemeimchaft fur die Finanzierung dieser Arbeit. Unser Dank gilt auch den Herren Priv. Doz. Dr. K . Holland-Moritz und Dr. W. Stuch, Institut fur Physikalische Chemie der Universitat Koln, fur ihre wertvolle Hilfe bei der Durchfuhrung der Messungen am dortigen Fourierspektrometer, sowie Herrn Prof. Dr. Rupprechf, Institut fur Pharmazie der Universitat Regensburg, der uns freundlicherweise das InfrarotSpektrometer zur Durchfiihrung der Messungen zur Verfiigung stellte.
+
+R. Bonart, K. Hoffmann, Colloid Polym. Sci. 260, 268 (1982)
+H. W. Siesler, K. Holland-Moritz, ,,Infrared and Raman Spectroscopy of Polymers",
+Marcel Dekker, New York 1980
+3, B. E. Read, ,,Ultra-violet, Visible and Infra-red Dichroism", in: ,,Structure and Properties
+of Oriented Polymers", I. M. Ward, Applied Science, London 1975, S. 150
+4, R. Zbinden, ,,Infrared Spectroscopy of High Polymers", Academic Press, New York 1964
+3 B. Jasse, J. L. Koenig, J. Macromol. Sci., Rev. Macromol. Chem. 17, 61 (1979)
+6, J. Dechant, ,,UltrarotspektroskopischeUntersuchungen an Polymeren", Akademie Verlag,
+Berlin 1972
+') R. D. B. Fraser, J. Chem. Phys. 21, 1511 (1953)
+*) R. D. B. Fraser, J. Chem. Phys. 24, 89 (1956)
+9, R. S. Stein, J. Polym. Sci. 31, 327 (1958)
+lo) R. S. Samuels, ,,Structured Polymer Properties", Wiley-Interscience, New York 1974
+11) P. H. Hermans, ,,Contributions to the Physics of Cellulosic Fibers", Elsevier, Amsterdam
+1946, S. 138
+12) J. Pitha, R. N. Jones, NRC Bull. no. 12, (1968)
+13) H. Hummel, ,,IR-spektroskopische Untersuchungen von H-Brucken-Assoziaten an Losungen mit (N-H)- und (C=O)-Gruppen", Diplomarbeit, Universitat Regenburg (1979)
+14) L. J. Bellamy, ,,The Infrared Spectra of Complex Molecules", Methuen, London 1962
+l)
+2,
+

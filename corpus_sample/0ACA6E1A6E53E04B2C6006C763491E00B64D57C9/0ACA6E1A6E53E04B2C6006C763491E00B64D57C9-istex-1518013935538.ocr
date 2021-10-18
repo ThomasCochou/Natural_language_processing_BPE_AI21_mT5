@@ -1,0 +1,2287 @@
+Nonlinearity 10 (1997) 19753. Printed in the UK PH: SO951-7715(97)63946—8
+
+Algorithmes formels appliqués a l’étude de la cyclicité d’un
+polycycle algébrique générique a quatre sommets
+hyperboliques
+
+Formal algorithms applied to the study of the cyclicity of a
+generic algebraic polycycle with four hyperbolic crests
+
+A Jacquemard, F Z Khechichine-Mourtada et A Mourtada
+Laboratoire de Topologie UMR CNRS 5584, Université de Bourgogne, Dijon, France
+
+Recu le 5 avril, presentation deﬁnitive le 1 juillet 1996
+Recommande par R S MacKay
+
+Résumé. Poursuivant les travaux entrepris par Mourtada, on montre qu’une famille de champs
+de vecteurs avec un polycycle algebrique generique a quatre sommets hyperboliques possede une
+cyclicite maximale de cinq cycles limites. Cette cyclicite est atteinte dans un ouvert connexe
+en les parametres dont le bord contient en particulier une ligne generique de singularites de
+type queue d’aronde. On donne egalement une estimation asymptotique du volume de cet
+ouvert, ainsi qu’un exemple explicite de famille polynomiale de champs de vecteurs remplissant
+les conditions ci-dessus et possedant cinq cycles limites. Les methodes employees sont tres
+diverses: raisonnements geometriques (la theorie des catastrophes de Thom et la théorie des
+singularites algebriques), developpements de Puiseux, le nombre de racines majore par la regle
+de Descartes et calcule exactement par des suites de Sturm, et d’autres methodes spéciﬁques
+au calcul formel comme par exemple la decomposition cylindrique algebrique et les resolutions
+de systemes algebriques via la construction de bases de Gr'obner. Les calculs ont ete effectués]L
+formellement, c’est-a-dire sans faire appel a la moindre approximation numerique, en utilisant
+le systeme de calcul formel AXIOMi.
+
+Abstract. Following on from the work of Mourtada, we show that a family of vector ﬁelds
+with a generic algebraic polycycle of four hyperbolic apices possesses a maximum capacity of
+four limit cycles. This cyclicity is attained in an opening connecting the parameters which the
+edge contains, in particular a generic line of singularities of dovetail type. We also give an
+asymptotic estimation of the volume of this opening, as well as an explicit example of a family
+of polynomial vector ﬁelds replicating the above-described conditions and possessing ﬁve limit
+cycles. The methods employed are very diverse: geometrical arguments (Thom’s theory of
+catastrophes and the theory of algebraic singularities), developments from Puiseux, the number
+of major roots by Descartes’ law and calculated exactly by Sturm series, and other speciﬁc
+methods of formal calculus, such as for example the cylindrical algebraic decomposition and the
+resolution of algebraic systems via the construction of Grobner bases. The calculations have been
+executed formally, that is to say without making the least appeal to numerical approximation,
+in using the formal calculus system AXIOM.
+
+AMS classiﬁcation scheme numbers: 58F14, 13P05, 13P10, 14D04, 34C05, 34D30
+T Avec le soutien du GDR CNRS 1026 MEDICIS, Ecole Polytechnique, Palaiseau, France et du CR1 de l’Universite
+de Bourgogne, Dijon, France.
+
+i AXIOM est un logiciel de NAG.
+
+0951-7715/97/010019+35$19.50 © 1997 IOP Publishing Ltd and LMS Publishing Ltd 19
+
+20 A Jacquemard er al
+1. La présentation du probléme
+
+Beaucoup de mathérnaticiens qui travaillaient sur le léeme probleme de Hilbert,
+conjecturaient qu’ zme perturbation quelconque d’zm polycycle hyperbolique er ge’nérique
+c) k sommets crée cm plus k cycles limites. Dans [Mo], il est prouVe que cette conjecture
+est vraie pour k g 3 mais fausse pour tout k 2 4. Sa demonstration repose sur le résultat
+suivant: il existe une famille stable a quatre parametres déforrnant un polycycle hyperbolique
+a quatre somrnets et ayant cinq cycles limites proches du polycycle. Nous nous proposons
+de donner ici une demonstration de ce resultat par des methodes de calcul formel, qui non
+seulement assurent l’eXistence des cinq cycles limites, mais aussi permettent de caractériser
+de maniere tres explicite dans quelles conditions ces cinq cycles limites apparaissent.
+
+1.1. Déﬁnitions
+Notons (E0) l’equation differentielle
+
+J'C=f(x)
+
+et
+3 3
+X0 = f1(x)i + f2(x)i
+8x1 3x2
+
+le champ de vecteur associé, avec x = (x1, x2) 6 R2, 3% = Bx/at, f(x) = (fl (x), f2(x)),
+f : R2 —> R2 etant une application C k , ou analytique, ou polynomiale. On dit qu’un point
+p = (x1, x2) est un point de selle hyperbolique de l’équation différentielle (E0) (ou du
+champ X0), si f(p) = 0 et si Df(p) a deuX valeurs propres reelles m > 0 > ,uz. On
+appelle rapport d’hyperbolicité du point de selle p le rapport r = lug/Ml |.
+
+Un résultat classique de la théorie des singularités d’équations differentielles dit qu’il
+existe un changement de coordonnées y = g0(x) au voisinage de p de meme classe de
+différentiabilité que f qui transforme l’equation differentielle (E0) en l’equation (E1):
+y = g(y) avec g1(y) = my et g2(y) = y2[,LL2 + O(y)] (voir la ﬁgure 1).
+
+Figure 1.
+
+On appelle la trajectoire ou l’orbite de (E0) par un point q = (x1, x2) l’irnage par une
+application y : Iq —> R2, Iq étant un intervalle de R contenant 0, y(0) = q et Vt e I ,
+1}(t) = f (y(t)). Une trajectoire réguliere (respectivernent singuliere) est une trajectoire par
+un point q tel que f (q) 75 0 (respectivernent f (q) = 0 auquel cas y E q et [q = R).
+
+Un cycle C de (E0) est une orbite reguliere fermee: EIT e I ; tel que y(T) = q. Un
+cycle limite C; de (E0) est un cycle isolé parmi les cycles. Un polycycle hyperbolique F est
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 21
+
+une union d’un nombre ﬁni de points de selles hyperboliques Pi et de trajectoires regulieres
+yi qui relient Pi a PHI (une notation cyclique!)
+
+Une transversale a au champ X0 en un point q est l’image par une application
+differentiable (notee encore a) a 2] — e, e[—> R2 telle que 0(0) 2 q et Vs e] — e, e[,
+le systeme {(aa/as) (s), X(a (s))} soit une base de R2. (On dit alors que s est un parametre
+sur 0.)
+
+Soit 0+ = Ono’s] la demi-transversale a X0 passant par un point régulier go e m (voir
+la ﬁgure 2). Le polycycle F est dit monodromique si la trajectoire par tout point q 6 0+
+voisin de qo recoupe 0+ en un point q’. Posons q = 0(s) et q’ = 0(s’). On deﬁnit alors
+l’application premier retour p (ou application de Poincare) et l’application déplacement 8
+relatives a a par p(s) = s’ et 8(s) = p(s) — s. Les cycles limites voisins du polycycle F
+correspondent aux points ﬁxes isoles de p et aux zeros isoles de 8.
+
+ 
+
+Figure 2.
+
+\
+
+Soit donc F un polycycle hyperbolique a quatre sommets (Pi)i=1M4 tangent a un
+champ analytique du plan X0 d’équation différentielle it = f (x) et soit F une deformation
+analytique a m parametres de f
+
+leszlRm—HRZ
+(Xal)'—>F(Xa)\)
+
+avec F (x, 0) = f (x). Notons (Xi) la famille de champs de vecteurs associes a l’équation
+differentielle
+
+(EA) : it = F(x, A).
+Soit V un voisinage de 0 dans Rm sufﬁsament petit pour que pour tout )L e V:
+
+(i) a soit une transversale a (X A),
+(ii) une application premier retour pk soit deﬁnie sur une partie de U et
+(iii) les valeurs propres des singularites Pi()t) ne s’annulent pas.
+
+Notons ri()\.) les rapports d’hyperbolicite des points de selle Pi()\.) et riao = ri(0). On a
+alors le résultat suivant.
+
+Théoréme 1.1 [Mo]
+
+Il existe desfonctions ti continues sur V et un changement de paramétre x = \[I(s, A) 2 \[IA (s)
+sur 0 tels que l’application déplacement 8x 2 pi — id air les mémes racines (comptées avec
+multiplicité) que l’application
+
+r20»)
+
+Aux) = [[[W + n (m + awn“) + mm“) + W) — x(1+l<x,A)).
+
+22 A Jacquemard er al
+
+Les fonctions ti mesurent la deformation le long de yi de la connection entre les sommets
+Pi()t) et B+1()\.) (voir la ﬁgure 3).
+
+0
+
+5'1
+
+ 
+
+'4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 3.
+
+La fonction l a le comportement asymptotique suivant note A:
+8”]
+x”
+
+Vn E N,
+3x”
+
+—>0
+
+ 
+
+quand
+(x, A) —> (0, 0)-
+
+Déﬁnissons sur (RH)4 la relation suivante: deuX elements (Mi) et (1),) de (RH)4 sont
+equivalents si (1),) est obtenu a partir de (Mi) par la double inversion
+
+l l l l
+(“lau29u3au4)l—) 7979797
+M4 M3 M2 M1
+ou par permutation circulaire, ou par plusieurs compositions de ces deuX operations. Notons
+p(U) la classe d’un element U 2 (Mi) 6 (RM)4 et
+H1={Ue(R+*)4;u1=1} H2={u1u2= 1 ou mm: 1}
+H3 = {M1M2M3 =1} H4 = {M1M2M3M4 =1}
+4
+G = (R+*)4\ U p(Hi)-
+i=1
+
+L’ensemble G est un ouvert saturé et dense dans (R+*)4. La relation d’equivalence est
+donc une propriété générique. Désignons par R0 = (r130, rzao, r10, r40) le quadruplet des
+rapports d’hyperbolicité riao des sommets du polycycle F et notons p(F) = p(R0). On a
+alors le résultat suivant.
+
+Théoréme 1.2 [Mo]
+Si p(F) C G, alors l’application AA 0 auplus cinq racines pour tour A E V. Par conséquent,
+tome déformation Xx du champ X0 crée cm plus cinq cycles limites voisins du polycycle F.
+
+Dans toute la suite, on suppose que p(F) C G.
+
+Cyclicite’ d’un polycycle alge’brique ge’ne’rique 23
+1.2. Le diagramme dc bifurcation
+
+Notons M = {(x, A) €]0, e[><V|A(x, A) = 0},
+C = {A(x, A) = Ea, A) = 0}
+3x
+
+712R x R’" —> R’" la projection 71(x, A) = A, S = 71(C) et D = V \ S.
+
+D’apres le theoreme 1.2, l’application 71' M est propre de degré g 5. Dans la theorie
+des déploiements de singularités différentiables, M est appelé l’ensemble catastrophe. C
+est le sous-ensemble singulier de M pour la projection 71, S est l’ensemble de bifurcation
+et l’ensemble D est un ouvert. Ce n’est pas le cas ici a cause de la presence de plusieurs
+bords non differentiables qui sont le polycycle F et les sous-polycycles a trois, deuX ou un
+sommets. Pour remedier a cela, on pose S = 71(C) U Sb avec
+
+S _ A e V tel que Elx e 0|A(x, A) = 0 et l’orbite positive
+b _ ou negative par xconverge vers un sommet R
+
+et D = V \ S.
+
+Designons par (Dj) les composantes connexes ouvertes de D et (Sk) la stratiﬁcation
+naturelle de S. Le diagramme de bifurcation de la famille de champs de vecteurs (X A) (ou
+de la famille d’applications AA) est la partition de V = UZNZ, avec N; 2 Dj ou Sk.
+
+Remarque. La relation d’équivalence entre champs de vecteurs induisant cette partition
+est l’équivalence topologique orbitale sur un voisinage tubulaire du polycycle qui ne tient
+pas compte des connexions non monodromiques.
+
+Il est clair que, sur chaque strate N1, le comportement de AA est constant (nombres de
+racines distinctes et multiplicité des racines). Le type de la strate N; est ainsi déﬁni.
+
+Soit (Xi), A E V C R”, (XM), ,u E W C R“ deuX deformations de X0 et A1(x, A),
+A2(x, a) les applications associees par le theoreme 1.1. Soit (Nil) et (NJ?) les diagrammes
+de bifurcation des equations A1 = 0 et A2 = 0. On dit qu’une application (,1) : V —> W
+preserve les diagrammes de bifurcation des familles (X A) et (X M) si
+
+¢<Nﬁ> c U N}
+
+jEIi
+
+ou les strates (N 1.2) sont de meme type que la strate Nil. On dit que les deuX diagrammes
+de bifurcation sont homeomorphes si (,1) est un homéomorphisme qui envoie toute strate sur
+une strate de meme type.
+
+Une famille (Xi) est dite ge’nérique si, pour toute famille (X M), il existe (f) : W —> V
+qui preserve les diagrammes de bifurcation. Une famille générique (X A) est dite stable si la
+dimension m1 de l’espace des parametres est minimale parmi celles des familles generiques.
+Remarquons que, grace au theoreme 1.1, on peut remplacer partout une famille de champs
+de vecteurs (Xi) par une famille d’applications AA. Maintenant, la propriété generique
+p(F) C G et les propriétés asymptotiques A de la fonction reste l permettent de montrer
+le theoreme suivant.
+
+Théoréme 1.3 [M0]
+La de’formation a huit paramétres:
+
+AA’MOC) : [[[xrroﬂh + A1]rz,o+ltz + A2]r3,o+ﬂ3 + A3]r4,o+lt4 + A4 _ x
+
+avec A 2 (Al) 6 V1 C R4 et a = (W) 6 V2 C R4 est ge’nérique.
+
+24 A Jacqaemard et al
+
+Le but est désormais de construire des familles stables. La condition p(F) C G signiﬁe
+qu’on eVite des degenérescences naturelles qu’on peut expliquer géométriquement: une
+degenerescence apparait lorsqu’une application de Dulac est tangente a l’identite, ou bien
+lorsqu’une composition particuliere de telles applications de Dulac est tangente a l’identite.
+Ceci laisse a croire (et c’est ce qui a motive la conjecture) que, dans chaque composante
+connexe de G, il existe une unique famille stable. ll n’en est rien et le probleme est encore
+plus complexe: non seulement il n’y a pas qu’une seule famille stable sur une composante
+connexe S2 de G mais la cyclicité (le nombre maximum de cycles limites proches du
+polycycle perturbe) n’est pas la meme pour toutes les familles generiques qui deforment un
+polycycle F tel que p(F) 0 S2 75 Q. La preuve de ces afﬁrmations a été faite par l’etude
+d’un cas particulier. Notons
+
+s2 = {a e (R+*)4,u1 < 1, a2 < Lilli/£2143 > 1, mm <1}
+9(u)=(u1—1)(u2 —1)(u3 — 1) — 4(u1u2u3 — 1)
+91:“; 6 meat) > 0}
+
+$22 = {a 6 meat) < 0}
+
+(la fonction 6(a) est ce que [Mo] appelle le cinquieme parametre cache).
+Remarquons que si p(F) 0 S21 75 Q alors p(F) 0 S22 2 Q et inversement. On dispose
+du resultat suivant.
+
+Théoréme 1.4 [Mo]
+(i) Si p(F) 0 S21 75 Q alors les deformations ge’ne’riqaes ale F creent exactement cinq cycles
+limites v0isins da polycycle F.
+
+(ii) Si p(F) 0 S22 75 Q alors les deformations ge’ne’riqaes ale F creent exactement tr0is
+cycles limites v0isins ale F et les familles a qaatre parametres saivantes:
+
+(*) Aux) = [[[x’w + MY” + MY” + 1131’” + A4 — x
+sont ales familles stables.
+
+Malheureusement, il n’y a pas unicite des familles stables sur S21 comme le montre le
+résultat suivant et la difﬁculté est uniquement au niveau de la topologie des diagrammes de
+bifurcation, la cyclicite maximale étant la meme: cinq cycles limites.
+
+Théoréme 1.5 [Mo]
+Il existe an ensemble analytiqae 20 C S21 ferme’ et d’inte’riear vide tel qae S21 \ 20 a deax
+composantes connexes am, a); et tel qae
+
+(i) si p(F) 0 (S21 \ 20) 75 Q alors lesfamilles a qaatres parametres (*) sont desfamilles
+stables et
+
+(ii) si p(F1) C col et p(F2) C (1)2 les diagrammes ale bifurcation ales familles stables
+associees (*)1 et (>102, ne sont pas h0me’0m0rphes.
+
+1.3. L’application: an exemple caracteristiqae
+Prenons a = (é, %, 7, %) et R0 = (2,3,8, %) e p(a) = p(F). On Veriﬁe facilement que
+p(F) 0 (S21 \ 20) 75 Q. Les résultats ci-dessus montrent que le diagramme de bifurcation
+des cycles limites au voisinage du polycycle F dans toute la famille (X M) est induit par le
+diagramme de bifurcation des racines de la famille
+
+Aux) = [[[x2 + A113 + A218 + A311” + A4 — x.
+Or ce diagramme est le meme que celui de la famille polynomiale
+
+mime) = [1x2 + a13 + 1218 + c — [x + c117
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 25
+
+en conservant toutefois les conditions suivantes (issues du fait que les exposants sont reels
+et donc que les elevations a puissances doivent se faire sur des arguments positifs).
+
+Conditions C.
+Une racine positive x de 19 est zme abscisse de cycle limite si er seulement si
+
+C1 x2+a>0
+C Cg [[x2+a]3+b] >0
+C3 x+d>0.
+
+Nous nous proposons maintenant de chercher pour quels parametres cette famille
+générique presente cinq cycles limites, et décrire explicitement le diagramme de bifurcation.
+L’articulation de l’article est la suivante.
+
+Dans la section 2, par des methodes analytiques (developpements de Puiseux) et
+des majorations de nombre de racines (theoremes de Budan-Fourier et Descartes) nous
+cherchons des conditions de domination entre les parametres pour obtenir pas moins de trois
+racines. Nous montrons (corollaire 2.5) que des conditions de domination bien précises sont
+nécessaires. Aussi, dans ce cas, il existe un éclatement approprié montrant que le probleme
+initial est lie a celui de la recherche de racines d’une famille a trois parametres de polynomes
+de degre sept (proposition 11.6).
+
+Dans la section 3, le comptage exact des racines de la famille de polynomes de degré
+sept se fait par une méthode effective, basée sur l’algorithme de decomposition cylindrique
+algébrique. En deux étapes (comptage du nombre maximal de racines, puis decomposition
+de l’ensemble de l’espace des parametres ou le nombre de racines positives est maximal), on
+obtient un ouvert correspondant a une cyclicite de cinq cycles limites (proposition 3.2). On
+montre ensuite que cet ouvert est connexe (proposition 3.3). Enﬁn, par des considerations
+sur l’eclatement de la proposition 2.6, on donne une estimation asymptotique du volume de
+l’ouvert (proposition 3.6).
+
+Nous décrivons dans la section 4 le diagramme de bifurcation de la famille,
+principalement au moyen de calculs de bases de Grobner. Nous montrons en particulier
+qu’au bord de l’ouvert aux cinq cycles limites existe une ligne générique de points singuliers
+de type queue d’aronde (sections 4.2 et 4.6). Nous montrons aussi comment utiliser les suites
+de Sturm formelles pour trouver certaines lignes de bifurcations (section 4.5).
+
+Dans la section 5, pour ﬁnir, nous donnons un exemple explicite de champ de vecteurs
+polynomial qui présente une cyclicité de cinq cycles limites.
+
+2. L’etude préliminaire des racines de (($132 + (1)3 + b)8 + c — (a: + d)7
+
+Nous commencons ici la recherche d’un ouvert en les parametres pour lequel le polynome
+p = ((x2 + a)3 + b)8 + c — (x + d)7 admet un nombre maximal de racines positives
+satisfaisant les conditions C. Notre premier but est de montrer que, sauf si (a, b, c, d) sont
+lies par des rapports de domination bien précis, le polynome p admet au plus trois racines
+reelles satisfaisant C (proposition 2.2). Dans un deuxieme temps, nous concentrons notre
+attention sur le cas non traite par la proposition 2.2. Nous montrons qu’alors le probleme
+a quatre parametres peut se ramener a un probleme a trois parametres seulement. Pour
+cela nous donnons un eclatement établissant que le lieu des zeros de p est alors localement
+homéomorphe a un cone de base le lieu des zeros d’un polynome q7, de degré sept en sa
+variable, et dependant de trois parametres (proposition 2.6).
+
+Avant de commencer la demonstration de la proposition 2.2, il convient de ﬁxer la
+terminologie. Tout d’abord, étant données deux fonctions polynomiales f et g, on notera
+
+26 A Jacqnemord et all
+
+f >> g pour signiﬁer que g est négligeoble devant f au voisinage de 0. Ensuite, appelons
+une condition de domination entre les parametres chaque condition (par exemple a << d2,
+1) et 6 restant non compares) intervenant dans la preuve de la proposition 2.2. Pour une
+condition de domination donnee, certains monomes de p sont négligeables devant d’autres
+(dans notre exemple, ad2x4 << d4x4). Par contre d’autres monomes ne sont négligeables
+devant aucun autre et ne peuvent etre eliminés tant que l’on n’impose pas des contraintes
+supplémentaires sur les parametres restés libres. Nous convenons d’appeler Pnisenx-snpport
+correspondant a la condition de domination tout polynome obtenu en éliminant des monomes
+que l’on sait negligeables pour la condition donnée. Nous n’imposons pas de condition
+d’unicite au PuiseuX-support. Nous verrons dans la suite qu’il sufﬁt dans la plupart des cas
+d’en connaitre un avec sufﬁsamment peu de monomes pour parvenir a des conclusions. Par
+contre, nous appelons polynomes de Pnisenx les polynomes apparaissant effectivement au
+cours de l’algorithme de resolution de PuiseuX (voir [B-K] et [W]) une fois qu’une pente
+est choisie sur le polygone de Newton.
+Ceci pose, notre methode generale est la suivante.
+
+(i) On ﬁxe une condition de domination.
+
+(ii) On choisit formellement la variable x et un parametre principal l (dans notre
+exemple, on prendra l = d, mais dans d’autres cas l peut etre une puissance rationnelle
+d’un parametre).
+
+(iii) On ﬁxe les autres parametres a une valeur réelle.
+
+(iV) On effectue une resolution de PuiseuX en (x, l).
+
+(V) On en tire une majoration du nombre de racines réelles positives en examinant le
+debut des developpements des racines complexes de la resolution de PuiseuX: il sufﬁt pour
+cela de voir si le premier terme du developpement fourni par la resolution est reel positif.
+Cette majoration se fait a partir de regles du type de celle de Descartes. D’autre part, cette
+majoration etant a chaque fois indépendante des parametres que nous avons dﬁ ﬁxer en (iii),
+elle sera generale pour la condition de domination choisie en (i).
+
+Remarques. (i) Nous n’aurons pas besoin d’effectuer une resolution de PuiseuX complete,
+car l’information cherchée apparait a l’examen du premier ou du deuxieme polynome de
+PuiseuX.
+
+(ii) Le premier polynome de PuiseuX se construit sur des monomes de p non
+négligeables, donc se construit toujours sur n’importe quel PuiseuX-support associe a la
+condition de domination.
+
+(iii) Dans certains cas, nous pourrons meme conclure directement sur un PuiseuX-support
+(lorsqu’il a peu de monomes) sans avoir a determiner le premier polynome de Puiseux,
+puisque ce dernier ne peut avoir plus de monomes. De meme il ne sera pas toujours
+nécessaire de préciser quel est le parametre principal l choisi pour la resolution.
+
+(iV) Signalons enﬁn, qu’en fait, nous travaillerons non pas sur p lui-meme mais sur sa
+dériVee aﬁn de réduire la complexite.
+
+Rappelons les theoremes suivants (voir [Mi], Tome 4).
+
+Théoréme (Descartes)
+
+Soit nn polynome d coeﬁ‘icients re’els p = a0 + alx + .. . + anx” ovec noon 75 0. Alors le
+nombre r de ses rocines positives comptées ovec lenr mnltiplicite’ est r = 1) —2k 012 v de’signe
+le nombre de changements de signes de la suite [610, all, . . . , an] et k nn entier notnrel.
+
+Théoréme (Budan—Fourier)
+Soit nn polynome o‘ coeﬁ‘icients re’els de degre’ n, et soient a et 1), ovec a < b, denx nombres
+re’els tels que p(a)p(b) 75 0. De’signons par v(x) le nombre de changements de signe dons
+
+Cyclicite’ d’un polycycle ulge’brique generique 27
+
+la suite [p(x), p’(x), .. . , p(”)(x)]. Alors le nombre de zeros de p duns l’intervulle [61,17],
+comptes uvec leur multiplicite’, est de la forme v(u) — 11(1)) — 2k Du k est un entier nuturel.
+
+Dans le meme esprit nous utiliserons 1e lemme suivant.
+
+Lemme 2.1
+Un polynéme de la forme x6 + ax + b uvec b 75 0 admet uu plus deux racines reelles (non
+nulles), compte tenu de leur multiplicite’.
+
+Preuve. Designons par 12+ 1e nombre de changements de signes de la suite
+(1), a, 0,0, 0,0, 1) (correspondant au polynome p) et par 1), 1e nombre de changements
+de signes de la suite (1), —u, 0, 0, 0, 0, 1) (correspondant au polynome p(—x)). On observe
+facilement que, dans toutes les conﬁgurations de signes possibles pour a et 1), 12+ + u, g 2.
+Par consequent 1e nombre de racines (non nulles) de p avec multiplicite est au plus deuXD
+
+Nous allons maintenant examiner differents cas, suivant les rapports relatifs des ordres des
+parametres a, b, c, d au voisinage de 0.
+
+2.1. L’e’tude des cus produisunt peu de racines
+
+Dans un premier temps, aﬁn d’eliminer 1e parametre c, nous allons estimer 1e nombre de
+racines de la derivee de p proches de 0 satisfaisant C. Ceci nous permet de lancer une
+discussion suivant les ordres respectifs des parametres (a, I) et d) au voisinage de l’origine,
+et de resoudre tout de suite certaines conﬁgurations ﬂagrantes dans lesquelles 1e nombre de
+racines positives satisfaisant C est faible.
+
+Proposition 2.2
+Lorsque les ordres respectifs de a, b, c et d ne sontpus tels que a ~ d2 et d ~ [)7 le polynéme
+p admet uu plus trois racines reelles multiplicite’ comprise uu voisinuge de 0.
+
+Demonstration. Aﬁn de simpliﬁer les ecritures il est utile d’introduire 1a notation e =
+b + a3 dans tout ce qui suit. Envisageons maintenant les cas suivants.
+
+Le cas I u << d2
+
+La derivee du polynome p admet dans ce cas comme PuiseuX-support
+—7x6 + (48e7 — 42d + - - -)x5 — 105d2x4 + (96ae7 — 140d3 + - - -)x3
+—105d4x2 + (48a2e7 — 42d5 + - - -)x — 7d6.
+
+La discussion, motivee par les differentes formes possibles du polygone de Newton, est
+alors 1a suivante.
+
+(i) Si un coefﬁcient d’au moins un monome xi de degre impair du polynome ci-dessus
+est d’ordre strictement inferieur a celui de d6", 1e polygone de Newton possede au moins
+une rupture de linearite, et un PuiseuX-support est construit sur un polynome du type
+
+—7x6 + 615365 + 613363 + ulx + u0
+
+avec a0 = 7a?6 (voir 1a ﬁgure 4).
+
+Dans ce cas i1 y a deuX types de pentes possibles, strictement inferieures ou strictement
+superieures a l’ordre de d. Or 1e monome en x3 disparait a la fois dans le premier cas
+(poser d = Me, a 2 pm2 avec )L et ,u tendant vers 0) et dans le deuxieme cas (poser
+x 2 Ad, a 2 ,ud2 avec )L et ,u tendant vers 0). Ainsi on est ramene a chercher les racines
+positives d’un polynome du type —7x6+u5x5 +u1x —a0 dont 1a variation de signes (puisque
+
+28 A Jacquemard er al
+
+ 
+
+Figure 4.
+
+do > 0) est au plus deux. Et par la regle de Descartes, il n’admet que deuX racines positives
+au plus (multiplicité comprise).
+
+(ii) Si l’ordre de chaque coefﬁcient de xi vaut celui de d6’i , l’ordre de x est supérieur ou
+égal a celui de d et, en posant x = yd — d, on obtient comme PuiseuX-support (a coefﬁcient
+multiplicatif non nul pres) le polynome
+
+7dy6 — 48e7y5 + 240e7y4 — 480e7y3 + 480e7y2 — 24Oe7y + 4867
+soit 7dy6 — 4867 (y — l)5 (voir la ﬁgure 5).
+
+ 
+
+Figure 5.
+
+On compare alors d et 67:
+
+(i) si d 2 67, on obtient un polynome de PuiseuX du type y6 + My — l)5. Appliquons
+lui le theoreme Budan—Fourier pour calculer le nombre maximal de racines sur l’intervalle
+[1, +00]. La variation de la suite des dérivées prises en +00 est nulle et, en la valeur l,
+cette suite est [1, 6, 30, 120, 360, 120A+720, 720]. La variation 12(1) est au plus deux, donc
+si d > 0, le nombre de racines positives du polynome derive est borne par deuX compte
+tenu de la multiplicité. Si d < 0, il nous faut borner le nombre de racines sur [—00, —l].
+Dans ce cas on peut directement borner le nombre de racines negatives, en remarquant que
+le polynome transformé par y I—> —y, y6 — My + l)5, présente une variation de signes
+de ses coefﬁcients d’au plus 1. La regle de Descartes donne alors une borne d’une racine
+strictement negative pour le polynome derive.
+
+(ii) Si d >> 67, alors revenons au polynome derive. Tous les monomes sont alignés et le
+premier polynome de la resolution de PuiseuX est —7(x + d )6. Poursuivant la resolution en
+posant x = yd — d, on obtient pour le deuxieme polynome de PuiseuX —d5 (7d y6 + 4867),
+qui possede au plus une racine, simple.
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 29
+
+Ceci termine le cas d2 << at
+
+Le cas II a >> d2
+
+La deriVée du polynome p admet dans ce cas comme PuiseuX-support:
+—7x6 + (4867 + 3024a3e6 + 9072a6e5 — 42d + - - -)x5 — 105d2x4
++(96ae7 + 1008a4e6 — 140d3 + - - -)x3 — 105(14):2
++(48a2e7 — 42d5 + - - -)x — 7d6.
+
+La discussion est analogue au premier cas traité.
+
+(i) Si un coefﬁcient d’au moins un monome xi de degré impair du polynome ci-dessus
+est d’ordre strictement inférieur a celui de d6’i, le polygone de Newton possede au moins
+une rupture de linéarité et on obtient un PuiseuX-support du type
+
+—7x6 + 615365 + 613363 + alx + a0
+avec a0 = 7d6. Mais on remarque que, si x2 >> a, les terrnes en x3 et en x disparaissent,
+alors que si x2 2 a ou x2 << a, les termes en x5 et en x3 disparaissent. On est donc ramené
+a une situation analogue a celle traitée au cas 1.
+
+(ii) Si l’ordre de chacun des coefﬁcients de xi est au moins égal a celui de d7’i, l’ordre
+de x est supérieur ou égal a celui de d et, en posant x = yd — d, on obtient comme
+PuiseuX-support le polynome
+
+—7d6y6 + 9072a6d5e5y5 — 45360a6d5e5y4 + 1008a4d3e5(e + 90a2d2)y3
+—3024a4d3e5(e + 30612512»)2 + 48a2de5(e2 + 63a2d2e + 945a4d4) y
+—48a2de5(e2 + Zlazdze + 189a4d4).
+On compare alors 6 et azdz.
+(i) Si 6 2 czde ou si 6 << azdz, le premier polynome de PuiseuX est
+—7d6y6 — 9072a6d5e5
+dont le nombre de racines est borne par un. Le nombre de racines positives du polynome
+
+derive est donc borne par un.
+(ii) Si 6 >> azdz, le premier polynome de PuiseuX se construit sur
+
+—7d6y6 + 48a2de7 y — 48a2de7.
+On peut alors appliquer le lemme 2.1 et ainsi on borne le nombre de racines (tous signes
+confondus) par duex. 11 en est de méme du polynome derive.
+
+Le cas III a ~ d2
+
+La dériVée du polynome p admet dans ce cas un PuiseuX-support du type
+—7x6 + (4867 + 3024a3e6 + 9072a6e5 — 42d + - - -)x5 — 105d2x4
++(96ae7 + 1008a4e6 — 140d3 + - - -)x3 — 105(14):2
++(48a2e7 — 42d5 + - - -)x — 7d6
+(i) Si un coefﬁcient d’au moins un monome xi de degré impair du polynome dériVé est
+
+d’ordre strictement inférieur a celui de d6’i, le polygone de Newton possede au moins une
+rupture de linéarité, et un PuiseuX-support est construit sur un polynome du type
+
+—7x6 + 615365 + 613363 + alx + a0
+
+30 A Jacquemard er al
+
+avec a0 = 7d6. (Remarquons que cette situation se produit si et seulement si d << 67). La
+discussion est analogue a celle faite au cas 1.
+
+(ii) Si d >> 67, l’ordre du coefﬁcient de chaque xi est exactement celui de d6’i, donc
+l’ordre de x est supérieur ou egal a celui de d. On pose donc x = yd — d et on obtient
+comme PuiseuX-support le polynome
+
+—7d6y6 — 48d(d2 + a)2e7 — 10086135136512 + a)e6 — 907Za6d565
+
+qui est du type —y7 + )L avec A. non nul. 11 n’y a donc qu’une seule racine au plus.
+
+(iii) Si d 2 e7, puisque e = b + a3 et que a 2 d2, on en déduit que 6 2 b, d 2 [)7 et
+1) >> a3. On utilise alors les lemmes 2.3 et 2.4 suivants pour terminer la demonstration de
+la proposition.
+
+Pour commencer, éliminons le cas dans lequel a est négatif.
+
+Lemme 2.3
+Si a < 0, a 2 d2 er d 2 b7, [6 polynéme admet cm plus trois racines re’elles voisines de ze’ro
+satisfaisant aux conditions C.
+
+Pour cela montrons que la dériVee admet au plus deuX racines supérieures a —d et V—a.
+Introduisons les notations simpliﬁcatrices d = ,Bb7 et a = —a2b14 avec 05 > 0. Aussi,
+comme l’ordre de x est au moins celui de 127, on pose x = b7 y et on obtient un polynome
+derive:
+
+r0 2 —7y6 + (—42}? + 48)y5 — 105ﬁ2y4 + (—960;2 — 140nm3
+—105,84y2 + (48054 — 42,35» — m6.
+
+DiVisons l’etude en trois cas:
+
+(i) si 05 + ,8 g 0. Cela signiﬁe que ,8 est négatif et que |,B| 2 lal. Les racines
+satisfaisant les conditions C sont celles qui sont superieures ou égales a —,B. On considere
+alors le polynome r0 (z — ,8), c’est-a-dire
+
+—7z6 + 48z5 — 240ﬁz4 — 96012 — 5ﬁ2)z3 + 96;?(3052 — sleazy2
++4801 — mm + ﬁxaz — 5ﬁ2)z — 48m — Wax + m2.
+
+Aussi, compte tenu de LB | > lal, la variation de signe est au plus un. La regle de Descartes
+assure donc l’eXistence d’au plus une racine strictement supérieure a —,8 pour r0. Les
+racines égales a —,8 sont obtenues si et seulement si 05 = —,B. Alors, le polynome se
+factorise en
+
+—z2(7z4 — 48z3 + 240ﬁz2 — 384ﬁ2z + 192,33).
+
+Nous avons donc la racine double z = 0 et eventuellement une autre racine positive (de la
+regle de Descartes). Dans ce cas nous devons remonter au polynome p lui-meme.
+
+Mais alors le polynome p a un PuiseuX-support (apres les memes transformations que
+celles faites sur le polynome derive) du type
+
+—z7 + 826 — 48ﬁz5 + 96ﬁ2z4 — 64ﬁ3z3 + 5.
+
+Si 5 etait nul, cela signiﬁerait que le terme de plus bas degré de p(z — d) serait nul et
+on aurait dans ce cas la racine exacte —d d’ordre trois, et eventuellement une seule racine
+
+strictement superieure a —d. Hors ce cas (exclus), le nombre de racines satisfaisant les
+conditions C est borne par deuX.
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 31
+
+(ii) Si 05 + 8 > 0 et ,8 < 0. Aﬁn de satisfaire les conditions C, nous devons nous
+intéresser aux racines supérieures a 05. Posons y = z + 05 et h = 05 + ,8. La derivée s’ecrit
+
+—7z6 — 6(7h — 8)z5 — 15(7h2 — 160024 — 4(35h3 — 96a2)z3
+—3(35h4 — 64043)z2 — 42h5z — 7h6.
+
+\ \
+
+Calculons son discriminantJr par rapport a z: sa factorisation sans-carre a coefﬁcient
+multiplicatif pres est du type (05 — ,8)(a + ,8)r6 (oz, ,8), r6 étant un polynome de degré 12 en
+05 et de degré 13 en ,8.
+
+Eclatons en dehors de 05 = 0 par ,8 2 A05. Le discriminant de a’10r6(oz, Act) a pour
+factorisation sans-carré a coefﬁcient multiplicatif pres
+
+(A — 1)(A +1)()x2 +1)(125)x4 + 26212 + 125)(125)x8 — 708A6 + 193414 — 70812 +125)
+
+et ses seules racines reelles sont —1 et 1. Il sufﬁt donc de connaitre la situation sur la ﬁbre
+r6(a, 0) = Ola > 0, et au voisinage de la partie du bord du domaine 05 = +00 et 05 = 0
+pour la connaitre sur le secteur 05 > 0, 0 g )L < 1.
+
+Pour )L = 0, le polynome se factorise a coefﬁcient multiplicatif non nul pres en
+
+(u + 1)[7om5 + (35a — 48)”4 + (70a — 192)”3 + (70a — 192)”2 + 350m + 7a]
+
+avec z 2 am. Or, le deuxieme facteur a une variation de signe de ses coefﬁcients de zero ou
+deuX et donc le polynome admet au plus deuX racines en u positives et donc en z positives.
+Ce résultat s’étend sur chaque composante connexe precompacte du secteur semi-ouvert.
+
+Les cas au voisinage de 05 = +00 ou 05 = 0 ont deja ete etudies, puisque ils relevent
+des cas a << d2 ou a >> d2, dans lesquels le nombre de racines strictement positives en y de
+la derivee est majore par deuX, multiplicite comprise, et que la derivee n’admet jamais de
+racine nulle. 11 en est donc de meme pour le nombre de racines positives en 2. Le nombre
+de cycles limites est donc majoré par trois.
+
+(iii) Si 05 + ,8 > 0 et ,8 > 0. Comme dans le cas precedent, nous reprenons le polynome
+en z = y — 05, et nous regardons le discriminant en 2. Nous éclatons par ,8 = A0; et nous
+retrouvons la factorisation sans-carre precedente, sachant que le resultant de r6 et 05 — ,8
+n’introduit pas de nouvelle valeur )L critique. Mais ici, la valeur )L = 1 est a considerer.
+Nous allons etudier directement la situation sur le niveau singulier )L = 1. Le polynome se
+factorise en
+
+—(z + 2002M4 + (56a — 48)z3 + (168a2 — 480022 + 224a3z + 112054].
+
+Les racines —2a sont negatives, donc on peut les ignorer. Soit elles restent stables, soit elles
+disparaissent au voisinage de A. = 1. Le polynome de degre quatre admet un discriminant
+de signe constant, nul en 05 =  Mais en 05 = g le polynome se factorise a coefﬁcient
+multiplicatif pres en (u2 — 2M — 1)2 avec u = gz et possede donc deuX racines positives et
+deuX negatives.
+
+11 y a par consequent au total quatre racines negatives, qui restent stables ou disparaissent
+au voisinage de A. = 1 et 05 =  Le nombre de racines positives reste au maximum de
+deuX et ce résultat s’étend aux composantes precompactes de {0 g A, 0 < 05}. Vers les
+composantes du bord, on retrouve les cas deja etudies précédemment. La majoration du
+
+nombre de cycles limites est donc trois, comme annoncé. D
+
+Retournons maintenant au cas a > 0, a 2 d2 et d 2 127.
+
+T Tous les discriminants factorisés calculés ici sont en moins d’une minute avec le systéme AXIOM.
+
+32 A Jocqnemord er ol
+
+Lemme 2.4
+Si a > 0, a 2 d2, d 2 127, er (6 + 178) >> 1249, [6 polynome odmet on plus nne rocine re’elle.
+Le premier polynome de PuiseuX se construit sur
+
+—x7 + (—7d + 8127 + - - -)x6 — 2151sz + (—35513 + 24ab7 + - - -)x4 — 35d4x3
++(—21d5 +24a2b7 + - - -)x2 — 7d6x — d7 + c +128 + - - -.
+
+Si le terrne de plus bas degré est d’ordre strictement inférieur 2‘1 d7, c’est-il-dire ici 2‘1 [249, le
+premier polynome de PuiseuX sera —x7 + )L et admet donc au plus une seule racine réelle
+strictement positive.
+
+Corollaire 2.5
+
+Une condition ne’cessoire pour que le polynome p odmette plus de trois rocines re’elles
+sotisfoisont les conditions C est a > 0, a 2 d2, d 2 b7 er c = —b8 + 51249 ovec E borné.
+(C’est un simple corollaire des propositions précédentes.)
+
+2.2. Le choix déﬁnitif des porométres d’éclotement
+
+Puisque a est positif et que a ~ 1214, on decide de choisir le parametre w = 611/14. 11
+s’ensuit que d = 8107,12 2 ,8w, 6 = —88w8 + 1/84911)49 et 8 et 8 ne tendant ni vers zero
+ni vers l’inﬁni. D’autre part, puisque l’ordre de x est au moins celui de d, on effectue le
+changement de variable x = 87107 y. Ainsi, le polynome p se transforme en
+_35‘82184y3 + (—21181485 + 24,821)y2 _ 7,8786); _ 87 + 14849 + 8‘87)w49
++28‘B60314y2 +1)6w90 + _ _ _-
+D’autre part, les conditions C s’expriment ainsi:
+
+C1: toujours Vériﬁée,
+C21 (.342y6 + 3828y4 + 3.314))2 +1)w42 + 8w > 0, c’est-il-dire 8 > 0 et
+C32 (.37); + (3)107 > 0, c’est-z‘I-dire ,87y + 8 > 0.
+
+Nous pouvons écrire
+
+190ml, 12, c, d) = w49p7<y, .3, 8, y) + w90¢(y, w, .3, 8, y)
+Rappelons que les parametres (,8, 8, y) sont dans un borné, que les racines y se trouvent
+donc dans un borne et par consequent ¢(y, w, 8, 8, y) admet une majoration uniforme.
+D’autre part les zéros de 1049197 (y, 8, 8, y) présentent une structure conique, ce qui nous
+permettra de réduire le nombre de parametres i1 trois.
+
+Pour diminuer encore la complexité des calculs qui suivront, introduisons les nouveaux
+
+parametres (en remarquant que ni 8 ni 8 ne peuvent s’annuler)
+
+h = 52
+
+k = an”
+
+42
+g:(1+.381/)86
+
+avec la condition h > 0.
+
+L’introduction du parametre h, racine de 8, permet de travailler avec des nombres
+algébriques de degré deuX dans les section 4 et 5. Sans cela, le degré des extensions
+algébriques serait quatre, ce qui augmente considérablement la complexité.
+
+Ainsi le polynome p7 deVient 8498’4q7 avec
+
+q7 = —h2y7 + (—7k + 8)h2y6 — 21k2h2y5 + (—35%2 + 24k2h)y4
+—35k4h2y3 + (—21%2 + 2415‘) y2 — 71(6th + (—k7 + 8gk6)h2
+
+Cyclicite’ d’zm polycycle olge’brique ge’ne’rique 33
+
+et la condition C3 equivaut a ‘87 y +8 > 0, c’est-a-dire a y > —k (les deuX autres conditions
+ont deja été Vériﬁées). Rappelons aussi que le parametre g est borne.
+Pour une utilisation ulterieure, calculons le jacobien du changernent de parametres:
+D(a, b, c, d) _ D(a, b, c, d) D(w, 8, ,8, y)
+D(w,h,k,g) _ D(wa5,.3, y) D(w,h,k,g)
+
+ 
+
+avec
+D(aa b; C:  = 
+D(w, h, k, g)
+Dan, 8, .3, y) _ $84
+D(w,h, k, g) _ p34
+d’ou
+D(a,b, c, d) :_ wmﬁ
+D(w, h, k, g) kg
+Maintenant, élirninons le cas dans lequel k < 0. Posons y = —k + z avec k négatif. Le
+
+polynome q7 deVient
+
+—h2z7 + 8h2z6 — 48kh2z5 + 24k2h(5h + 1)z4 — 32k3h(5h + 3)z3
+
++24k4(h +1)(5h +1)z2 — 48k5(h + l)2z + 8k6[(g +1)h2 + 3h + 3].
+Comme k est negatif, la variation de signes est majoree par deuX. Donc le nombre de cycles
+
+limites est aussi majore par deuX.
+Résurnons les études précédentes.
+
+Proposition 2.6
+Lorsque
+
+8
+
+c = {flaws + 8(gk6 — 1)  1049
+
+d = 7107
+ﬂ
+ovec h > 0, k > 0 et pour w > 0 ossez petit, le premier polynome de Puiseux de p, et done
+p lui-meme, odmettent le meme nombre de racines simples positives que le polynome q7. De
+plus le premier terme du developpement osymptotique de ces racines simples positives est
+donne’ por
+k
+Jh
+
+oz) y est rocine simple positive de q7.
+
+3. L’estimation du nombre de racines par décomposition cylindrique algébrique
+
+Dans cette section, nous étudions les bifurcations des racines du polynome q7 en fonction
+des trois parametres h, k et g. Dans une premiere étape, nous cherchons a détecter pour
+quelles valeurs des parametres le nombre maximal de racines reelles (sans distinction de
+signe) est atteint (proposition 3.1). Ceci fait, nous afﬁnons le travail en nous intéressant aux
+
+34 A Jacquemard et al
+
+seules racines positives, c’est-a-dire a celles correspondant aux cycles limites du probleme
+initial (proposition 3.2). Puis, nous montrons la connexité du lieu dans lequelle le nombre de
+racines positives est maximal (proposition 3.3). Enﬁn, retournant au probleme initial avec
+quatre parametres, nous calculons une estimation asymptotique du volume correspondant
+au nombre de cycles maximal (proposition 3.6).
+
+Contrairement a la section precedent, dans lequelle nous cherchions des majorations
+du nombre de racines positives aﬁn d’eliminer des cas, nous souhaitons montrer qu’un
+nombre de racines est effectivement atteint. Nous ne pouvons donc plus utiliser des regles
+de majoration comme celles de Descartes ou Budan—Fourier. Nous avons besoin d’une
+méthode tres precise, celle des suites de Sturm, qui permet de calculer exactement le nombre
+de racines dans un intervalle donné.
+
+Rappelons ces deﬁnitions ([Mi], V.4).
+
+Déﬁnition
+La suite de Sturm associe’e a un polynome p” E K[x] (K corps) sans-carres de degre’ n, est
+la suite de polynomes pn, 1),,71, ...,pn,i, . .. avec i g n de’ﬁnie par [9,1,1 2 1); et
+
+pi = —reste de la division euclidienne de pi+2 pal” Pi+1 0 < i < n — 2.
+Déﬁnition
+Supposons que K = R. Et soit x0 un nombre re’el qui n’est pas une racine du polynome 1)”.
+
+0n appelle variation en x0 relativement a la suite de Sturm associee a 1),, le nombre V(xo)
+de variations de signes de la suite 1),, (x0), [9,1,1 (x0), . . . , p0(x0).
+
+Le théoréme de Sturm
+Si a et 1) sont deux reels tels que a < I) et qui ne sont pas des racines du polynome p, alors
+le nombre de racines re’elles de 1) dans l’intervalle [a, 12] est egal a V(a) — V(b).
+
+Remarque. Le theoreme reste valide lorsque a ou b sont inﬁnis.
+
+\
+
+On peut donc penser dans un premier temps a calculer la suite de Sturm formelle
+de q7, c’est-a-dire la suite de Sturm de q7 dans (@(h, k, g)[x]. Ensuite, considérer tous
+les changements possibles de signes en +00 et 0 des polynomes de cette suite. Mais la
+complexité de la variété algébrique des zeros des coefﬁcients du plus haut degre ou du plus
+bas degre est telle que cette methode n’est pas viable (outre l’aspect combinatoire dﬁ au
+nombre de polynomes déﬁnissant cette variété, il y a de nombreuses singularités d’un type
+autre que le croisement normal). Nous utiliserons la suite de Sturm forrnelle seulement
+dans la section 4.5 pour donner une parametrisation explicite d’une ligne particuliere de
+bifurcations.
+
+Pour resoudre notre probleme de comptage de racines, nous effectuerons donc une
+decomposition cylindrique algebrique du complementaire du discriminant (qui se calcule
+d’ailleurs a partir du dernier polynome de la suite de Sturm formelle). Ensuite, dans chaque
+cellule créée par la decomposition nous pourrons calculer exactement le nombre de racines
+positives du polynome en evaluant la variation de la suite de Sturm formelle pour un point
+particulier de la cellule.
+
+Nous procederons en deux etapes. Tout d’abord nous allons chercher des conditions sur
+les parametres aﬁn d’obtenir un nombre de racines maximal. Puis, nous rafﬁnerons cette
+decomposition en nous intéressant aux bifurcations de signe des racines, mais seulement au
+voisinage des cellules ou le nombre de racines est maximal. Cette maniere de procéder, en
+deux passes, est algorithmiquement beaucoup plus efﬁcace que la decomposition directe du
+complementaire du discriminant et du lieu des racines nulles, car elle enleve la complexite
+algebrique apportée par les bifurcations de signe pour les cellules a petit nombre de racines.
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 35
+3.1. Mise en place de la décomposition
+
+Par continuite des racines en fonction des coefﬁcients de q7 le nombre de racines d’un
+signe donne est constant tant que l’on ne traverse pas le lieu des zeros du discriminant
+D de q7 par rapport a la variable x. On va donner des composantes connexes (non
+nécessairement maximales) du complémentaire de D(h, k, g) = 0 en effectuant une
+decomposition cylindrique algébrique dans le quadrant k > 0, h > 0.
+
+On commence par eliminer les cellules non precompactes du quadrant: celles qui vont
+a l’inﬁni en k, h, g, celles qui coupent h = 0 ou celles qui coupent k = 0. Dans ces cas
+particuliers, il est facile de montrer, en se ramenant aux cas vus dans la section 2.1 que le
+nombre de racines est inférieur ou égal a trois.
+
+Maintenant, on examine seulement les cellules précompactes du quadrant. La
+decomposition cylindrique algebrique consiste a projeter iterativement sur des espaces
+de dimension inférieure en mettant en evidence les lieux critiques de ces projections,
+puis a examiner tous les cas réguliers. Les cellules ainsi créées ne sont generalement
+pas maximales, car beaucoup de points critiques des projections proviendront en fait des
+bifurcations des racines complexes.
+
+Projetons d’abord sur le plan g = 0. Les points critiques de cette projection sont les
+racines doubles en g de D = 0. Ils se projettent sur le discriminant Dg de D par rapport
+a g. Dg est un polynome de degre 55 en k et 140 en h, et se factorise sur Q[k, h], outre
+des facteurs triviaux, en des polynomes Q-irreductibles Tg avec multiplicité trois et Bg
+avec multiplicité deux. Remarquons que cette factorisation n’a pas été possible directement
+avec un algorithme de factorisation classique, ni via un calcul de la partie sans-carrés du
+polynome, vu la taille et la complexite des coefﬁcients de Dg. II a fallu tram/er d’abord le
+polynome Tg. Pour cela, on a effectue des coupes a k constant (en pratique k = 1, 2. . .),
+puis factorise ces coupes dans Z[h]. Ces factorisations faisant toutes apparaitre un facteur de
+multiplicité trois et un facteur de multiplicité deux, on a dispose d’une famille de polynomes
+T1, T2, . .. e Z[h] apparaissant avec la multiplicité trois (des considerations arithmétiques
+permettant d’autre part de regler le probleme des constantes multiplicatives). Ainsi on
+se ramene a un probleme d’interpolation formelle dans (Z[h])[k], le nombre de coupes
+nécessaires etant de toute maniere borne par 55. En fait, avec seulement quatre valeurs
+de k distinctes, l’interpolation fournit un polynome de degré trois en h qui divise Dg. On
+constate ensuite que ce polynome Tg est facteur d’ordre trois dans Dg, et on applique ensuite
+un algorithme de factorisation classique sur le quotient.
+
+Projetons maintenant sur g = k = 0. On doit regarder les points critiques en h constitues
+de
+
+discriminantk(Tg) = 0 discriminantk(Bg) = 0 résultantk(Bg, Tg) = 0.
+
+(i) Discriminantk(Tg) comporte trois facteurs irreductibles sur (@[h] non triviaux donnant
+trois racines positives.
+
+(ii) Discriminantk(Bg), une fois enlevé un facteur trivial puissance de h, donne un
+polynome de degré 620. Le calcul de ce discriminant est tres long: 125 heures-CPU sur
+un IBM RSéOOO 41 MHz. La factorisation est evidemment la aussi impossible directement,
+on trouve le facteur (h + 1)98 par simple observation des coefﬁcients, ensuite on calcule la
+factorisation du polynome restant de degré 522 avec les algorithmes classiques utilises par
+AXIOM (en environ quatre heures CPU). On obtient alors cinq facteurs Q[h]—irréductibles
+avec des multiplicites comprises entre un et six et des degrés 3, 6, 24, 26 et 138. Le facteur
+de degré 138 a pose quelques difﬁcultés pour le calcul de ses racines positives et a ce jour
+seul AXIOM (parmi les systemes de calcul formel existants) muni d’un espace memoire
+adressable de 135 MOctets est capable de faire ce travail directement (il est amusant de
+
+36 A Jacquemard er al
+
+noter que la difference de complexite entre la suite de Sturm du polynome et de sa dériVee
+est importante). La difﬁculté ne Vient pas du degre du polynome, mais du fait que certaines
+racines sont extremement proches (la distance minimale entre les racines h est de 7 x 10’6),
+ce qui se traduit par une augmentation considerable de la taille des coefﬁcients dans la suite
+de Sturm. Ce discriminant donne 27 autres racines positives.
+
+(iii) Résultantk(Bg, Tg) est de degre 158 et comporte un facteur non triVial ou non deja
+connu qui donne sept nouvelles racines positives.
+
+3.2. L’examen des cellules du complémentaire du discriminant
+
+11 se fait en choisissant entre chaque h critique une valeur réguliere h, rationnelle, puis
+en calculant au dessus de cette valeur réguliere les racines k de la projection au moyen
+d’un algorithme de resolution utilisant une suite de Sturm. La valeur k = 0 doit aussi etre
+consideree comme une valeur singuliere puisqu’elle represente le bord du quadrant. On
+peut noter que, si le nombre de ces valeurs singulieres est inferieur a deuX, on est sﬁr de ne
+pas avoir de cellule précompacte dans le quadrant et on peut donc passer immédiatement
+a un h suivant. Entre chaque k critique au dessus de h,, on choisit un k, rationnel non
+critique et on calcule les racines g de Dg = 0. Lorsque le nombre de ces valeurs critiques
+est inferieur a deuX, on peut passer directement a la valeur reguliere de k suivante. Entre
+chacune de ces g critiques on choisit un rationnel g, non critique. Enﬁn, pour chaque point
+rationnel h,, k,, g, non critique, on calcule le nombre de racines (simples) de q7 evalué en
+ce point, qui est donc un polynome a coefﬁcients rationnels lui aussi. Une suite de Sturm
+donne alors ce nombre de racines.
+Le codage d’une cellule se fera ainsi:
+
+(i) la valeur rationnelle reguliere hr,
+
+(ii) la valeur réguliere rationnelle kr,
+
+(iii) les valeurs singulieres en k entourant k, (pour h, ﬁxeﬁ,
+
+(iV) la valeur reguliere rationnelle g,,
+
+(V) les valeurs singulieres en g entourant g, (pour (h,, k,) ﬁxes) et
+(Vi) le nombre de racines (et on precisera meme leur signe).
+
+Remarquons que les valeurs singulieres v sont connues avec une approximation, mais
+la tolerance de resolution 6 étant ﬁxe, ces valeurs critiques sont en fait représentées sous
+la forme d’un intervalle séparant [v — e, v + e] dans lequel il n’y a qu’une seule valeur
+critique. Entre deuX tels intervalles on est certain qu’il n’y a que des valeurs régulieres.
+Pour s’assurer que le degre de tolerance est sufﬁsant, il sufﬁt de calculer au long de la
+decomposition cylindrique les distances minimales des racines en h, k et g, nombre que
+nous appellerons pincement de la decomposition. ll sufﬁt de Veriﬁer in ﬁne que ce pincement
+est supérieur a 26, e pouvant etre vu comme la grosseur du trait du trace du discriminant.
+Dans ces conditions, la decomposition algorithmique effectuée est ﬁdele et exacte.
+
+Le choix des valeurs régulieres n’est pas indifferent. Une méthode particulierement
+efﬁcace consiste a utiliser les developpements en fraction continue. Etant donne un
+intervalle [c,, c+] de valeurs critiques, on effectue un developpement en fraction continue
+de (6, + c+)/2, et on tronque le developpement lorsqu’il donne une valeur comprise entre
+(3c, + c+)/4 et (c, + 3c+)/4. Ainsi on éVite d’avoir des le depart des dénominateurs
+trop grands. Ces dénominateurs engendrant ensuite une part de complexité importante
+dans les suites de Sturm, cette methode permet de reduire tres fortement le temps de
+
+T 11 y en a toujours puisqu’on prend des composantes précompactes.
+
+Cyclicite’ d’zm polycycle alge’briqae ge’ne’riqae 37
+
+decomposition. Le programmme de decomposition fourni permet d’enoncer le résultat
+suivant dans la section 6.
+
+Proposition 3.1
+
+Dans le quadrant h > 0, k > 0, le nombre maximal ale racines simples ale q7 est cinq, et
+les cellules obtenaes par decomposition cylindrique alge’briqae oz) ce nombre maximal est
+atteint sont obtenaes pour des valeurs ale h comprises entre
+
+—16«@ +131
+125
+et
+
+16«/é+ 131
+125 ‘
+
+Nota bene: l’intervalle ci-dessus n’est pas optimal puisque la borne inférieure de l’intervalle
+est atteinte pour des valeurs de g negatives (et, comme alors g g k / 8, une des racines est
+negative).
+
+3.3. La decomposition relative aux racines positives en nombre maximal
+
+Nous allons maintenant nous intéresser aux racines positives de q7. Les bifurcations de
+signes des racines se font evidemment sur l’hyperplan 8g — k = 0. Rappelons que, si
+k > 8g, alors le polynome q7 a une racine negative au moins puisque ses valeurs en —00 et 0
+sont de signes contraires. Nous allons par consequent rafﬁner la decomposition cylindrique
+en examinant le lieu critique de (8g — k)Dg(h, k, g) = 0. Les composantes critiques
+nouvelles sont formées par l’intersection de l’hyperplan avec le lieu du discriminant, qui a
+pour equation Dg (h, k, k/8) = 0. Notons D0(h, k) = Dg(h, k, k/8). Les nouvelles valeurs
+critiques en h sont donc les racines du discriminant de D0 par rapport a k. Notons L la
+liste de ces valeurs critiques positives.
+
+Cette decomposition cylindrique rafﬁnee pour distinguer des cellules suivant leur nombre
+de racines positives, s’effectue ainsi. On fait la liste de toutes les cellules maximales, c’est-
+a-dire celles correspondant a cinq racines réelles. Parmi ces cellules on distingue:
+
+(i) (cellules dites h-intactes) si entre deux valeurs critiques hi et hi“ pour la
+decomposition precedente il n’y a pas de valeur critique de L, on prend alors la valeur
+reguliere rationnelle h, de la premiere decomposition, et on resout en k l’equation
+D001“ k) = 0;
+
+(ii) (cellules dites h—k-intactes) si aucune des valeurs k trouvees ci-dessus ne se trouve
+entre les bornes singulieres en k correspondant a h,, alors pour (h,, k,) on regarde si [Cr/8
+est entre des bornes singulieres en g:
+
+si oui, on decoupe cette cellule en g en remplacant la borne singuliere inferieure en g par
+k, / 8, et en prenant comme point de reference de la cellule un point (hr, kr, (k, / 8 + MS)/2)
+011 MS est une approximation rationnelle de la borne singuliere superieure en g;
+
+sinon, on laisse la cellule intacte, son nombre de racines positives est deja connu d’apres
+la premiere passe;
+
+(iii) (cellules h-intactes et k-scindées) on decoupe alors en autant de sous-intervalles en
+k et on recommence une decomposition en g au-dessus de chaque valeur reguliere k; en k;
+on ajoute comme valeur g-critique la valeur k; / 8 aux solutions de D(h,, k;, g) = 0;
+
+(iv) (cellules h-scindees) si entre deux valeurs critiques hi et hi“ pour la decomposition
+precedente il y a des valeurs critiques de L, on decoupe l’intervalle [hi, hi+1] a chaque
+
+38 A Jocquemord et ol
+
+\
+
+nouvelle valeur critiqueJr et on applique la methode precedente a chaque sous-intervalle
+nouvellement cree.
+
+Remarquons que, puisqu’on est intéresse seulement par les cellules ou il y a cinq racines
+positives, il sufﬁt de proceder a la decomposition rafﬁnee uniquement pour des valeurs de
+h comprises entre
+
+—16«/5+ 131
+
+125
+et
+
+16% + 131
+125 I
+Signalons pour terminer que discriminant k(D0) est de degre 186 et comporte quatre facteurs
+non triviauX qui donnent sept autres racines positives. Lorsqu’on se limite aux racines situees
+dans l’intervalle
+
+46% +131 16% +131
+125 ’ 125
+
+il ne reste plus que quatre racines nouvelles.
+Le programme completi de decomposition permet d’enoncer la proposition suivante.
+
+Proposition 3.2
+Le polynome q7 odmet Cinq racines positives sur 68 cellules obtenues pour des voleurs de h
+situe’es dons l’intervolle
+
+16%+131
+
+0’ 125
+
+oz) ho est la plus petite rocine positive du polynome 93338875h6 — 42457422h5 —
+9307937lh4 — 33l38308h3 + 36666357h2 + 2l839538h + 962875.
+
+Rappelons que cette proposition fait appel a des calculs formels dans lesquels aucune
+approximation numérique n’a lieu. En effet, les seuls nombres apparaissant dans nos
+calculs sont des rationnels ou des nombres algébriques. Ces nombres algebriques sont
+soit representés par radicauX soit corocterises par leur polynome minimal et un intervalle
+rationnel d’isolation (ou d’autres méthodes, comme la variation des signes des derivées en
+tirant parti du lemme de Thom [C-R]).
+
+3.4. La connexite’ de l’ouvert aux Cinq racines positives
+
+On va montrer ici que l’ensemble reunion des cellules de la decomposition dans laquelle
+le nombre de racines positives est cinq est connexe. On commence par prouver que les
+cellules§ dont les centres ont un meme h, regulier sont connectees par des lignes continues
+avec nombre de racines positives constant, en prenant comme constituants de ces lignes des
+segments joignant les centres. Comme g > k/ 8 est convexe, il sufﬁt de montrer que le
+discriminant evalue le long de ces lignes ne s’annule pas. On calcule facilement les racines
+par rapport au parametre de la ligne (par resolution d’une equation polynomiale de degre 28).
+
+T On pourrait eviter de recalculer certains points en regardant 01] se trouvent les points (hr, kr, gr) dans les
+rafﬁnements de decomposition, mais si on regarde la complexite de programmation par rapport a la perte de temps
+en recalcul d’un tout petit nombre de cellules, on constate que ce n’est pas interessant ici
+
+i Voir la section 6.
+
+§ Voir la section 6.
+
+Cyclicite’ d’zm polycycle olge’brique ge’ne’rique 39
+
+Ensuite on constate que l’on peut joindre le centre de la premiere cellule au centre de
+la derniere par une ligne polygonale qui reste dans le complémentaire du discriminant et
+qui ne traverse pas l’hyperplan des racines nulles. On peut par exemple choisir une ligne
+constituee de seulement deuX segments de droite: le premier joignant le centre de la cellule
+l (correspondant a une valeur de h maximale) a celui de la cellule 58, 1e second joignant
+le centre de la cellule 58 a celui de la derniere (correspondant a une valeur de h minimale).
+
+Proposition 3.3
+Le polynome q7 odmet cinq racines simples positives sur un ouvert connexe (95.
+
+Corollaire 3.4
+Le polynome p odmet cinq racines positives sur un ouvert connexe (9;.
+
+En effet, pour w assez petit (93‘ est un cone topologique sur O5. Cette afﬁrmation découle
+de l’etude de la stabilité du diagramme de bifurcation faite dans la section 4.6.
+
+3.5. Le volume de l’ouvert (9;
+
+Notons (7)5 l’adhérence de (95 dans R3. C’est un fermé borne: il ne touche aucun des niveauX
+h = 0, h = +00, k = 0 et k = +00, d’apres l’étude preliminaire faite dans la section 2.
+C’est donc un compact de R3. Soit B une boule fermée incluse dans {w > 0, h > 0, k > 0}
+telle que ()5 C BO. Considérons le voisinage
+
+A,7 = {(h, k, g) e Blldiscriminantx(q7)| + lg — k/8l < 27}.
+
+A cause de la compacité, le volume de A,7 peut etre rendu arbitrairement petit des que 27 est
+assez petit. Designons par CI) l’application (61,1), 6, d) I—> (w, h, k, g). D’apres la section 2,
+l’inverse de son jacobien est du type:
+
+w70\|I(h, k).
+
+11 est non nul sur 8. Donc CI) est un C 1-diffeomorphisme. D’autre part, d’apres les ecritures
+établies dans la section 2.2
+3
+h i "’49 90 71
+p(-xa 0; by Ca  : TQ70’; ha k3  + w  (I) (ma ha k3 
+
+Sur chaque composante connexe Hi de [3 — A", il existe une minoration de la distance
+minimale entre les racines (simples) de q7, ainsi qu’une minoration de la plus petite racine
+positive. Ces minorations sont strictement positives. La convergence en w etant uniforme
+d’apres l’écriture ci-dessus, il existe wi tel que, pour 0 < w < wi, p ait le meme nombre de
+racines positives. Soit 106‘ le plus petit des wo, wi. Alors sur chaque composante Hi, pour
+tout w < 106‘, p(x, <I>’1(w, h, k, g)) et q7(h, k, g) ont meme nombre de racines strictement
+positives.
+
+Soit Qlw l ’ensemble des (h, k, g) e B 011 q7(x, h, k, g) et p7(x, CID’1(w, h, k, g)) ont
+meme nombre de racines strictement positives. Notons 1325” 2 ﬁlm 0 O5. Comme le volume
+de A,7 peut etre rendu arbitrairement petit, on peut enoncer lemme 3.5
+
+Lemme 3.5
+Pour tom v > 0, il existe my > 0 tel que pour tour to < my
+5
+|volume(Q}w) — volume((’)5)| < v.
+
+Fixons v assez petit. Le volume de l’ouvert F5 2 (194(6);F ﬂ {0 < w < wu}) en fonction
+des parametres A = (a, b, c, d) est donne par
+
+D(a, 17, c, d)
+d)» 2
+F5 ;ﬂ{0<w<wv}
+
+—d dh dk d.
+D(w,h,k,g) w® ® ®g
+
+ 
+
+40 A Jacquemard et al
+
+11 est donc égal a
+
+[0,2151 
+
+Or pour w < my, on a
+
+D(a, b, c, d)
+— dh ® dk ® dg —
+W5,” 05
+
+D(w, h, k, g)
+011 M est une borne du jacobien sur 135w U {w} x (95.
+Le terme jacobien étant \V(h, k)w70, la deuxieme intégrale est
+
+D(a, b, c, d)
+D(w, h, k, g)
+
+ 
+
+dh ®dk ® dg) dw
+
+D(a, b, c, d)
+
+— < UM
+D(w, h, k, g)
+
+ 
+
+ 
+
+dh®dk®dg
+
+ 
+
+1070/ mm, k)| dh (23> dk (23> dg.
+Os
+
+Ainsi
+fen;
+
+D(a, b, c, d)
+
+—dh dk d
+D(w,h,k,g) ® (88
+
+ 
+
+2 w70( |\V(h, k)| dh ® am dg + WM) 9 E [—1, 1]-
+Os
+
+Soit
+w70(M’ + 611M).
+
+On en deduit que le volume de l’ouvert F = (134(6);F ﬂ {0 < w < wu}) a pour estimation
+volume((’)5)]l_4[w7l]g)”.
+
+Supposons maintenant que (a, b, c, d) soit astreint a rester dans une boule euclidienne de
+rayon e. Comme
+
+\llN
+
+k 2
+
+az+b2+c2+d22b22 lw
+dehi
+
+ 
+
+w varie entre 0 et ye (avec y constant). Ainsi le volume est d’ordre 671, a comparer avec
+le volume de la boule, qui est d’ordre 64.
+
+Proposition 3.6
+Le volume de l’ouvert aux cinq cycles limites intersecte’ avec zme boule euclidienne en les
+
+parametres (a, b, c, d) de rayon e est d’ordre €71.
+
+En particulier, ceci permet d’afﬁrmer que la determination precise d’un tel ouvert par des
+methodes numériques approchées opérant sur les parametres (a, b, c, d) est illusoire.
+
+4. La description géométrique de l’ouvert 05
+
+En reprenant les méthodes usuelles en theorie des catastrophes de Thom, nous allons décrire
+la géométrie de l’ouvert (95 au voisinage des points les plus interessants de son bord, c’est-
+a-dire ceuX ou la multiplicité des racines est maximale. Du diagramme de bifurcation
+du polynome q7 nous déduirons facilement, vu la structure conique, le diagramme de
+bifurcation du polynome 197, et nous en deduirons enﬁn l’isomorphisme entre le diagramme
+de bifurcation de 197 et celui de p.
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 41
+
+Effectuons maintenant la stratiﬁcation habituelle en théorie des catastrophes par
+ensembles singuliers de codirnension croissante. Soit 22 la surface (singuliere) de R x R3
+donnee par
+
+22 = {(x, A) tel que q7(x, A) = 0 et 3q7/8x = 0}.
+
+Notons S22 la projection de 22 dans l’espace des parametres R3. S22 est le lieu ou se
+projettent toutes les racines de q7 de multiplicité superieure ou égale a 2, c’est-a-dire,
+(puisque nous sornrnes dans le cas algebrique) le lieu du discriminant de q7 par rapport a x.
+Ce lieu contient généralernent des strates S23, S24, . . . etc, Veriﬁant 9,41 C S2,, sur lesquelles
+se projettent les singularités de q7 de multiplicité 2 3, 2 4, . . ..
+
+4.1. L’emde de Qi,i 2 4
+
+La construction d’une base de Grobner pour la famille de polynomes de Q[x, h, k, g]q7,
+3q7/8x, . . ., 34q7/3x4 conduit au polynome triVial l, donc le systeme
+
+617 = 0
+
+% _
+
+3x
+(5)
+
+3447 _
+
+W _
+n’adrnet pas de solution. Ceci montre qu’il n’eXiste pas de singularité quintuple du polynome
+q7, par consequent les sous-ensembles S2,, avec i 2 4, sont tous réduits a l’ensernble Vide.
+
+4.2. L’émde de S24
+S24 est la projection dans l’espace des parametres de 24 donnée par le systeme
+617 = 0
+
+%
+3x
+
+=()
+(5%)
+
+3347
+3x3 _
+Dans ce cas aussi le resolution s’effectue Via le calcul d’une base de Grobner, mais on notera
+que ce calcul s’effectue de maniere beaucoup plus rapide si l’on rajoute aux polynomes les
+parties sans-carres de résultants comme
+3247
+
+resultantx q7, 7 resultantx , 7
+3x 8x3
+
+3x2
+
+qui sont notoirement dans l’idéal.
+On obtient ainsi tres rapidement une base constituee de trois formes lineaires et d’un
+polynome reciproque de degre deuX en la seule variable h, scindé sur R. S24 est donc
+constitue de deuX points qu’on notera m = (hl, k1, g1) et ,u2 2 (kg, k2, g2) correspondants
+
+a deuX abscisses x1 et x2 avec
+935 1589
+_7 i + 7
+504 600
+
+% 3347)
+
+Xi:
+
+42 A Jacquemard er al
+
+25 262
+
+kiz—ihi 7
+63 +315
+
+aveci=lou2et
+_ 3981 4707404
+g‘ _ 625 ‘ 546875
+
+h _ —16«@+131 h _16«@+131
+1— 125 2— 125
+
+étant les deuX racines reelles du polynome
+125h2 — 262k + 125.
+
+On vériﬁe tres facilement qu’en (x1, ,ul) et (x2, ,uz) la famille
+{(17, 8q7/8x, 32q7/8x2, a3q7/ax3}
+
+est de rang quatre dans R x R3, et ceci montre, en vertu de la théorie des catastrophes de
+Thom, qu’en ces deuX points le polynome q7 admet une singularité quadruple generique de
+type queue d ’aronde. Et dans le diagramme de bifurcation local de ce type de singularites,
+chacun de ces deuX points est l’aboutissement de deuX lignes de triples et d’une ligne de
+self-intersection de plis (racines doubles). Nous préciserons un peu plus loin une connection
+de ces deuX points quadruples par une ligne de triples.
+
+En ces deuX points quadruples le polynome q7 se factorise en (x — xi)4Rm (x), 011
+Rm (x) est un polynome de degre trois en x qui admet une racine reelle non nulle, distincte
+de xi. Ainsi, dans un ouvert bordé par le diagramme de bifurcation de la queue d’aronde
+oil on a quatre racines simples provenant du point quadruple, il se projette une racine du
+polynome Rm distincte des precedentes, et par consequent nous avons alors au total cinq
+racines reelles simples non nulles.
+
+Au voisinage du point quadruple (x2, ,uz) le polynome RM2 possede une racine
+strictement positive: RM2(0) est de meme signe que q7 (0, Mg) qui reste au voisinage de
+ce point strictement positif (g > k/8), alors que Ruz(oo) est négatif. Ainsi ,uz est point
+adherent d’un ouvert sur lequel on a cinq racines simples strictement positives. Comme
+nous savons d’apres la section 3.4 que la partie ou q7 admet cinq racines simples positives
+est connexe, cela etablit que le bord de (95 contient une singularite de type queue d’aronde.
+
+4.3. L’émde de S23
+S23 est la projection dans l’espace des parametres de 23 donnée par le systeme
+
+47 = 0
+% _
+(S3) ax _
+3247 _
+W _
+En introduisant comme pour l’étude de S24 certains résultants pour accélérer les calculs de
+bases de Grobner, on obtient apres factorisation d’une base de Grobner l’equivalence entre
+(S3) et les cas suivants:
+
+(i) ou bien h est racine du polynome l25h2 — 262k + 125 et nous retrouvons S24;
+(ii) ou bien h = 1 et nous obtenons trois points triples réguliers et génériques; et
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 43
+
+(iii) ou bien h 75 l, h 75 hl et h 75 kg. Alors (S3) se réduit au systeme
+
+XZXT
+(5’3) 8 = 87
+rg=0
+
+\
+
+011
+
+xT 2 [119070018118 + (352447218 + 18375010117
++(128595618 + 84553010116 + (—628689618 — 10926146k — 96000)h5
++(—919220418 + 7880194k — 446208)h4
++(—485805618 + 8356754k + 3721728)h3
++(—90493218 + 5357198k — 3878400)h2
++(2182250k — 2138880)h + (393750k — 480000)] /[7
+x(h —1)(h +1)(125112 — 2621; +125)
+x (125114 + 708113 + 1934112 + 708h + 125)]
+gT = [(1481230818 + 875k)h9 + (6196402818 + 863110118
++(9959014818 + 3956410117 + (7472833218 — 155918868k — 1960)h6
++(2386162818 — 61768854k — 14112)h5
++(71442018 — 31038462k + 57007800)h4
++(—109544418 — 8522724k + 5833728)h3
++(—23814018 — 340452k — 2005176)h2
++(511875k — 1125600)h + (109375k + 25000)] /[56
+x18(h — 1)(h +1)(125114 + 708113 +1934112 + 708h + 125)]
+Tg = (33339618 — 15312518)116 + (133358418 — 624750k2)h5
++(200037618 — 97034718)114 + (133358418 — 420870818 + 161280010113
++(33339618 — 97034718 + 47308810112
++(—62475018 + 1612800k — 589824)h — 15312518.
+
+Ceci nous fournit une semi-parametrisation par h (paramétrisation modulo l’equation
+implicite Tg = 0)J[. On Veriﬁe qu’en tout point 011 elle est deﬁnie la famille
+
+{x —xT9g —gT9 Tg}
+
+est de rang trois dans R x R3. De plus les points quadruples sont adherents 2‘1 l’ensernble
+de lignes ainsi déﬁnies.
+En conclusion:
+
+(i) en dehors des points quadruples, S23 est une reunion de lignes de racines triples
+génériques du polynome q7, et donc, en vertu de la théorie des catastrophes de Thorn,
+chaque point de ces lignes est l’aboutissernent de deuX lignes de plis (singularités doubles
+d6 617); et
+
+(ii) Chaque point de S24 est point d’accurnulation de points triples de S23.
+
+T Ce polynérne Tg est déja apparu lors de la decomposition cylindrique algébrique cornme facteur de multiplicité
+trois d’un discriminant itéré.
+
+44 A Jacquemard er all
+
+4.4. L’emde de S22
+S22 est la projection dans l’espace des parametres de 22 donnée par le systeme
+
+617 = 0
+(52) am _
+
+3x
+
+11 est difﬁcile de trouver une semi-parametrisation de S22, mais l’étude de la famille
+{q7, 3q7/3x} montre qu’en dehors des strates k = 0, h = 0 et de S23, elle est de rang
+deuX dans R x R3. Par consequent, hors de ces singularites, S22 se presente comme une
+sous-variété de R3 de codimension un. Elle comporte cependant une strate particulierement
+intéressante qu’on notera S222, lieu des self-intersections de plis, et on va voir qu’on peut la
+caractériser localement au voisinage des points quadruples comme variété semi-algébrique
+avec un nombre d’equations et d’inéquations minimal.
+
+4.5. L’e’mde de S222
+
+Pour cette etude, nous allons utiliser la suite de Sturm formelle du polynome q7. On
+remarque d’abord que les coefﬁcients de plus haut degre en x de la suite de Sturm formelle
+(q7, q6, q5, q4, q3, q2, q1, q0) calculée dans le corps des fractions (@(h, k, g) ne s’annulent
+pas en les points quadruples jusqu’au polynome q3 inclus. De plus le coefﬁcient de plus
+haut degre du polynome qz presente un zero isole en ,ul et ,uz. Dans un petit voisinage
+pointe de ces points quadruples, la suite de Sturm existe donc au moins jusqu’au siXieme
+terme.
+
+Comme S222 est la reunion des lignes dans l’espace des parametres R3 011 se projettent
+deuX racines réelles doubles distinctes du polynome q7, ceci veut dire que pour no 6 S222,
+PMO s’écrit exactement sous la forme (x —x’)2(x —x”)2RMO (x). Et donc le PGCD entre q7
+et 3q7/3x est exactement (x — x’) (x — x”). Autrement dit, ce PGCD est de degre deuX et
+de discriminant strictement positif. Or le PGCD est au signe pres le dernier terme non nul
+de la suite de Sturm. Par suite, au voisinage des points quadruples, S222 se caractérise par
+
+8617 . . .
+q1 = 0 PGCD (q7, ax) = qz d1scr1m1nantx (qz) > 0.
+Mais l’eXpression formelle de ql est clx+c?, ou cl et c? peuvent etre choisis dans QM, k, g].
+En resume, dans un voisinage de chaque point quadruple, S222 est caractérisée par le systeme
+semi-algébrique
+
+cl = 0
+(5/2) C? = 0
+discriminantx (qz) > 0.
+
+Les resultants de cl et c? par rapport a k et g comportent chacun trois facteurs non
+
+triviauX. Chaque couple de facteurs (l’un pour k, l’autre pour g) fournit une intersection
+complete (les facteurs correspondant au resultant par rapport a k comportent les variables
+(h, g), ceuX correspondant au resultant par rapport a g comportent les variables (h, k))
+déﬁnissant une courbe algébrique. Seules deuX intersections completes ainsi creées passent
+par les points quadruples. L’une d’entre elles est bien sﬁr S23. Pour l’autre, on effectue un
+developpement local (developpement en la variable h — hi, it coefﬁcients dans (Qt/6]) au
+voisinage de chaque point quadruple. On constate que le discriminant de qz reste positif
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 45
+pour h g kg et on obtient ainsi un developpement analytique local de S222. Par exemple,
+pour p12, la ligne de self-intersections de plis admet le developpement suivant:
+
+k:b+%@—hﬂ+ﬁ®—MV+£M—Mf+m
+
+g=g+¢m—wg+ﬁm—mf+@m—mf+m
+
+avec h g kg et avec
+
+ 
+
+ 
+
+1 643 541477
+a .___4444, _ 4444444
+
+k 6720 2 2520000
+
+2 236239 28143287
+Olkz— [12+—
+
+100800 8400000
+
+3 49120872007723 58530398719929607
+Cl 2 —
+
+k 2016000000000 2 1764000000000000
+
+1 2951688 502264131
+CK :—— —
+
+g 21875 2 2734375
+
+2 _ 5131839830517 873395504486079
+
+g _ 2734375000 2 — 341796875000
+3 11969002196974886163 41571974746986684369
+
+“ ::" 2 1220703125000000
+
+ 
+
+ 
+
+g 478515625000000
+
+Ainsi, on connait localement de maniere explicite la geometrie au voisinage de chaque
+
+point quadruple. Les memes methodes s’appliquent (avec plus de facilite) pour etudier la
+
+situation sur le plan 8g — k = 0 oil se trouvent deuX points triples et un point de self-
+intersection.
+
+4.6. Le diagramme de bifurcation de 1)
+
+Nous venons de voir qu’en tout point du diagramme de bifurcation la situation est générique.
+Reprenons comme dans la section 3.5 une boule fermée B contenant (95. La partie M5 du
+diagramme de bifurcation qui borde (95 est compacte, donc M5 est globalernent generique.
+Mais
+
+g 49
+k7
+donc pour w assez petit, pw’ 9 est une perturbation de 197. Son diagramme de bifurcation
+est donc isomorphe a celui de 197, par suite il existe un homeomorphisme ¢w envoyant strate
+sur strate. On peut prolonger ¢w hors d’un voisinage tubulaire de M5 par l’identité et, en
+recollant par partition de l’unite, on obtient ainsi un homeomorphisme (/3w qui envoie O5
+sur 135w (en reprenant les notations de la section 3.5). On en déduit que l’ensernble (93‘ 011
+
+p admet cinq racines réelles positives est un cone sur (95 et que le bord de (93‘ contient une
+ligne générique de points singuliers de type queue d’aronde.
+
+ 
+
+c170, w, h, k, g) + w90¢(y, <1>71<w, 4. k, g»
+
+4
+
+h
+p(x,a,b,c,d)==
+
+5. Un exemple explicite d’un champ polynomial
+
+L’idee de depart pour construire cet exemple consiste a prendre un champ Hamiltonien avec
+un polycycle a quatre sommets, ce polycycle entourant une singularite de type centre (voir
+la ﬁgure 6). On prend comme Hamiltonien H = (x2 — 1)(y2 — 1). Le champ correspondant
+est
+
+3H3 8H3
+H=7i—7*
+
+3y 8x 3x 3y-
+
+46 A Jacquemard er all
+
+P L_(_’_,Jhl
+
+11?le
+J “ﬂ L
+
+ 
+
+ 
+
+X
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 6.
+
+Ensuite on perturbe ce champ de facon a ce que les points de selle admettent des rapports
+d’hyperbolicité correspondant a l’exemple caractéristique qu’on Vient d’étudier. Prenons
+une perturbation X0 de la forme
+
+x = 2m2 —1)f(x,y)
+y' = 2x<1—y2>
+
+avec f (x, y) 2 f0 + flx + f2 y + f3xy. Le calcul des rapports d’hyperbolicité montre que
+pour avoir r1 = 1/3, r2 = 1/2, r3 = 7 et r4 = 1/8, 1a fonction f doit s’ecrire
+
+(X0)
+
+1
+f(x, y) 2 man + 139x +181y +141xy).
+
+Le portrait de phase du champ est alors de la forme dans la ﬁgure 7.
+
+y_,,/
+P2 P1
+
+7.,
+J
+
+P
+
+ 
+
+if,
+"L;
+
+ﬂ P4
+
+ 
+
+m1
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+1
+
+Figure 7.
+Dans l’etape suivante on perturbe (X0) de facon a casser les connections entre les points
+de selle. Soit
+Xx = X0 + MXl + MXz + A3X3 + A4X4
+
+une deformation de (X0), les X (i 2 1) étant choisis de maniere a préserver toutes les
+connections en dehors de la ieme.
+
+a a
+X1=<x2—1)7 +<1+y>i
+3x 3y
+
+3 a
+X2=(x—1>i+<1—y2)i
+8x 3y
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 47
+8 8
+X3 = (x2 —1)7 +(1—y>i
+3x 3 y
+8 8
+X4 = 0: +1)7 +<1— y2><
+8x 3 y
+On appelle a (A) (respectivernent b()\.), C(A) et d (M) la translation qui mesure la deformation
+
+de la connection entre P1 et P2 (respectivernent entre P1 et P4, entre P4 et P3, et entre P3
+et P2). Voir la ﬁgure 8.
+
+.N
+
+ 
+
+am
+
+ 
+
+N1
+
+do)
+
+ 
+
+ 
+
+ 
+
+A) X
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘1
+
+ 
+
+Figure 8.
+
+La deformation X 2 est generique au sens dans lequel
+
+det (0(00»), 170»), CU»), do” (0)) 7’5 0-
+00m A2, A3, A4)
+
+Plus précisernent on va montrer que la matrice
+(Mam, MA), C(A), d()\)) (0))
+D()¥1a)¥2a)¥3a)¥4)
+
+est diagonale. Montrons le pour la fonction a(A) (pour les fonctions MA), C(A) et d (A), la
+demonstration est sirnilaire).
+
+Rappelons que 61(0) 2 12(0) 2 C(0) = d (0) = 0. La fonction a etant analytique (X2 est
+analytique en A), on peut ecrire
+
+ = )LICK1()\.) + )LZCK2()\.) + A3063  + A4C€4()\.).
+
+Montrons que les fonctions 052, 053 et 054 appartiennent a l’ideal maximal 2m des gerrnes
+de fonctions analytiques nulles en A = 0. Posons X2 = (0, A2, 0,0). La famille X2 pour
+A 2 X2 s’écrit alors sous la forme X0 + A2X2. Pour y = l ce champ est horizontal;
+on a a()~t2) = )LZCK2(;\.Z) = 0. Comme A2 est quelconque, on a 052012) 2 0 et ainsi 052
+appgrtient a 97:. Le meme raisonnement, en considerant respectivernent X3 = (0, 0, A3, 0)
+et A4 = (0, 0, 0, A4), mene a la conclusion
+
+0Q) = A1061()\)+ MA)
+avec m1, 0, 0, 0) = 0 er a = O(||A||2)-
+Montrons maintenant que 051(0) 75 0. Pour cela on considere la deformation
+Xx = X0 + MXI
+pour laquelle on a a(A) = AlalOtl, 0, 0,0). Voir la ﬁgure 9.
+
+48 A Jacquemard er al
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P1. M
+1 am
+PAM
+-1
+X
+-1
+P3 P4
+Figure 9.
+Y
+P1,}.1
+‘  y=l+T A.
+-1_\_¥--X-NJ -x.-_\.\..\_\.\  F1 0 1
+"4 .. . ...... .. a 0‘) y=1_ To)“l
+P111
+-1
+X
+-1
+Pg P4
+Figure 10.
+
+X A est donnée par le systeme d’équations différentielles
+5: = (x2 —1)(2yf(x,y)+ A1)
+A .
+y = (1+ y)(2x(1— y) + A1)-
+
+Les deuX singularités P3 et P4 ne varient pas avec A1, mais P1 et P2 V0nt se déplacer 1e
+long des deuX droites x = :|:1 autour de y = 1 des que A1 75 0.
+On pose alors y = 1 + u (u inﬁniment petit par rapport 2‘1 A1). Le systeme Ci-dessus
+
+s ’ écrit,
+
+X 5c 2 (x2 —1)(2f(x,1+u)+A1+2uf(x,1+u))
+* a = (2 + u)(—2xu + M).
+dans les nouvelles variables, avec
+1
+, 1 = 7 392 280 (9 .
+f(x +u) 224( + x + (u))
+
+Ce terme étant une fonction linéaire en x d’une part, et la constmction de la fonction f
+entrainant f(1, 1) = 1/r1 = 3 > 0 et f(—1, 1) = r2 = % > 0 d’autre part, permettent de
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 49
+
+conclure que pour tout x e [—1, 1] f(x, 1 + u) > 0. Par consequent pour tout x e] — 1, 1[
+et A1 et u petits, J'c est du meme signe que le terme (x2 — 1) donc strictement ne’gatif.
+Pour connaitre le signe de it, on va faire un eclatement de M par A1 en posant u = 1A1.
+Ll est alors de la forme it = A1(1+ 1A1)(—2x‘5 +1), donc pour 7: petit Ll est du signe de A1.
+Prenons par exemple A1 > 0. Pour tout 7: 6 [—7:0, '50], sur la bande delimitee par x = :|:1
+et u = 1 :I: roll le champ sera dirigé comme sur la ﬁgure 10.
+P1 et P2 seront déplacés en P10») et P20») comme sur la ﬁgure 10. Par suite:
+
+|a()\)| > 2ro|)\1|-
+Ce qui veut dire que |oc1()t)| > 2170, et par consequent 051(0) 75 0. La matrice
+
+(0(00»), 170»), CU»), £100) (0))
+Donn A2, A3, A4)
+
+est donc diagonale et la famille X A admet par consequent cinq cycles limites.
+
+6. Le programme AXIOM de décomposition cylindrique algébrique
+
+Le programme que nous donnons ci-dessous determine une decomposition cylindrique
+algébrique du complémentaire du discriminant, adaptée au lieu des racines positives en
+nombre maximal, en deuX passes:
+
+(i) passe 1: trouver les cellules ou il y a un nombre de racines maximal et estimer ce
+nombre; et
+
+(ii) passe 2: trouver les cellules ou il y a cinq racines positives, sachant qu’elles ne
+peuvent s’obtenir que pour certaines valeurs du parametre h.
+
+\
+
+Vu le faible nombre de cellules a reconsiderer lors de la passe 2, nous presentons ici
+un programme simpliﬁe par rapport au programme optimal decrit dans la section 3. Ce
+programme peut parfois recalculer des centres de cellules qui n’ont pas besoin de l’etre lors
+de la passe 2, mais il a l’avantage d’etre considérablement moins complexe. Le lecteur
+trouvera dans [J-S] une reference complete du langage AXIOM.
+
+preliminaires: deﬁnitions de types
+FracInt :=Fraction Integer
+PolyFracInt : =Polynomial FracInt
+Cellule : =Record<centre : Record(H : FracInt , K : FracInt , G : FracInt) , ,
+interH : List FracInt ,,
+interK : List FracInt ,,
+interG : List FracInt ,,
+racines : List Float ,,
+NombreRac ines : Integer , ,
+
+NombreRacPos : Integer)
+
+procedures auxiliaires
+— — donne les bornes singuliéres encadrant une valeur réguliere
+bornesSingulieres(X:Fractiontion INT,HX:List Fraction INT):List FracInt ==
+if HX = I] then return I]
+I else
+I Mini:=reduce(max,[i for i in HX I i < X])
+I Maxi:=reduce(min,[i for i in HX I i > X])
+
+I [Mini ,Maxi]
+
+50 A Jacquemard er al
+
+— — donne une Valeur entre deux bornes avec une faible complexité rationnelle
+valinter(bornes:List FracInt):FracInt ==
+
+local i: Integer
+
+local c,d: FracInt
+
+local 5: Stream FracInt
+
+c : =(bornes . 1+bornes . 2)/2
+
+d:=abs (bornes.2 7bornes.1)/4
+
+s : =convergents ( cont inuedFract ion(c))
+
+i:=1
+
+(repeat if abs(s.i7c) < d then return s.i else i:=i+1)::FracInt
+
+phase 0 (pour mémoire): Chargement des données a partir de ﬁchiers:
+
+q7:=. .. 7 7 polynome de degré sept
+
+q0:=. .. 7 7 discriminant
+
+TG:=. ..
+
+BG:=. ..
+
+Hcritq0:=. .. 7 7 liste de points critiques pour le discriminant
+
+D0:=numerator((eval(q7,G=K/8)/K**4/H**2) : :Polynomial Integer
+
+HcritD0:=. .. 7 7 liste de points critiques pour la projection sur g = 
+7 7 listes de Valeurs régulieres
+
+Hreg:=[valinter([Hcritq0(i) ,Hcritq0(i+1)]) for i in 1. . ((# Hcritq0)*1)] : :List FraCInt
+HcO:=sort(concat(Hcritq0,HcritD0))
+
+Hreg0:= [valinter( [Hc0(i) ,Hc0(i+1)]) for i in 1. .((# HCO)*1)] : :List FraCInt
+
+7 7 initialisations
+
+NombreRacMaX:=O 7 7 Nombre maximal de racines
+
+NbCell:=O 7 7 Nombre de cellules avec cinq racines
+
+NbCellPos:=O 7 7 Nombre de cellules avec cinq racines positives
+
+expos:=20: :Integer 7 7 exposant ﬁxant 1a tolerance de resolution
+ListeCellules:=[]$List Cellule
+
+pincement : =1
+
+phase 1: détermination des cellules avec nombre maximal de racines
+for h in Hreg repeat
+interH:=bornesSingulieres(h,Hcritq0)
+KTcrit : =solve(eval(TG ,H=h) , 1/10**expos)
+KBcrit : =solve(eval(BG ,H=h) , 1/10**expos)
+Kcrit:=concat(KTcrit,KBcrit)
+Kfcrit:=[right7hand side(i) for i in Kcrit] : :List FracInt
+Kfcrit:=concat([0] , [i for i in Kfcrit i > 0])
+if #(Kfcrit) < 2 then iterate 7 7 pas de cellule précompacte
+Kfcrit:=sort(Kfcrit)
+7 7 distance minimale entre deux racines
+mk:=reduce(min,[abs(Kfcrit.i 7 Kfcrit.(i+1)) for i in 1..((# Kfcrit)71)])
+if mk < pincement then pincement:=mk
+Kreg:=[valinter([Kfcrit.i,Kfcrit. (i+1)]) for i in 1. . ((# Kfcrit)*1)] : :List FraCInt
+for k in Kreg repeat
+I interK:= bornesSingulieres(k,Kfcrit)
+I Gcrit:=solve(eval(q7, [K=k,H=h]) , 1/10**expos)
+
+I if #(Gcrit) < 2 then iterate 7 7 pas de cellule précompacte
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique 51
+
+I chr t =[right7hand side(i) for i in Gcrit] :List PolyFracInt :List FracInt
+I chrit:=concat([0],[i for i in chrit I i > 0])
+I chrit:=sort(chrit)
+
+I if (# chrit) = 1 then chrit:=concat([100],chrit)
+I mg =reduce(min,[abs(chrit.i 7 chrit.(i+1)) for i in 1..((# chrit)71)])
+
+I if m <1 incement then incement =m
+g P P g
+
+H
+
+Greg =[valinter([chrit.i,chrit.(i+1)]) for i in 1..((# chrit)*1)]::LiSt FraCInt
+I NbCell:=NbCell + (# Greg)
+
+I for g in Greg repeat
+
+interG:=bornesSingulieres(g,chrit)
+Xcrit:=solve(eval(q0,[G=g,K=k,H=h]),1/10**expos)::List Equation PolyFracInt
+X:=[right7hand side(i) for i in Xcrit] :List Float
+
+XP:=[X for X in X X :> 0]
+
+C:Cellule:=[[h,k,g] ,interH,interK,interG,X,(# X),(# XP)]
+
+if (# X) :> NombreRacMaX then NombreRacMaX = (# X)
+
+ListeCellules:=concat([C],ListeCellules)
+
+output(”nombre total de cellules: ”, NbCell)
+
+output(”pincement de la decomposition (1ere phase): ",pincement :Float)
+output(”nombre maximal de racines: ",NombreRacMaX)
+
+ListeCellules
+
+phase 2: détermination des cellules avec Cinq racines positives
+ListeCellulesPos:=[]$List Cellule
+
+NbCellPos:=O
+
+for h in HregO I (125*h**27262*h+125) <1 0 repeat
+KTcrit:=solve(eval(TG,H=h),1/10**expos)
+KBcrit:=solve(eval(BG,H=h),1/10**expos)
+KDcrit:=solve(eval(DO,H=h),1/10**expos)
+Kcrit =concat(concat(KDcrit,KTcrit),KBcrit) :List Equation PolyFracInt
+Kfcrit:=[right7hand side(i) for i in Kcrit] :List PolyFracInt :List FracInt
+Kfcrit:=[i for i in Kfcrit i > 0]
+if #(Kfcrit) < 2 then iterate 7 7 pas de cellule précompacte
+Kfcrit:=sort(Kfcrit)
+7 7 distance minimale entire deux racines
+mk:=reduce(min, [abs(Kfcrit.i 7 Kfcrit.(i+1)) for i in 1..((# Kfcrit)71)])
+if mk <1 pincement then pincement =mk
+Kreg:=[valinter([Kfcrit.i,Kfcrit.(i+1)]) for i in 1..((# Kfcrit)*1)]::LiSt FraCInt
+for k in Kreg repeat
+
+I Gcrit:=solve(eval((G7K/8)*q7,[K=k,H=h]),1/1O**expos)::List Equation PolyFracInt
+
+I chr t =[right7hand side(i) for i in Gcrit] :List PolyFracInt :List FracInt
+I chrit:=sort(chrit)
+I if (# chrit) < 2 then iterate 7 7 pas de cellule avec Cinq racines positives vers g inﬁni
+
+I mg =reduce(min,[abs(chrit.i 7 chrit.(i+1)) for i in 1..((# chrit)*1)])
+
+I if mg <1 pincement then pincement =mg
+
+I Greg =[valinter([chrit.i,chrit.(i+1)]) for i in 1..((# chrit)*1)]::LiSt FraCInt
+I for g in Greg repeat
+
+Xcrit:=solve(eval(q0,[G=g,K=k,H=h]),1/10**expos)::List Equation PolyFracInt
+
+X:=[right7hand side(i) for i in Xcrit] :List Float
+
+52 A Jacquemard er al
+
+XP:=[X for X in X I X :> 0]
+if (# XP)=5 then
+c:Ce11u1e:=[[h,k,g] ,,
+bornesSingulieres(h,Hc0),,
+bornesSingulieres(k,Kfcrit),,
+bornesSingulieres(g,chrit),,
+x,(# X),(# XP)]
+NbCellPos:=NbCellPos+1
+
+ListeCellulesPos:=concat([C],ListeCellulesPos)
+
+output(”nombre total de cellules: ”, NbCellPos)
+output(”pincement minimal de la decomposition: ",pincement::Float)
+ListeCellulesPos
+
+7 7 chargement des résultats dans un ﬁchier
+ofile:File List Cellule =open(”CellulesMaXiPos.res”,"output”)
+write!(ofile,ListeCellulesPos)
+
+close!(ofile)
+
+6.1. Re’sultats
+
+Nous donnons ci-dessous les centres (h, k, g) des 68 cellules 01‘1 1e polynome possede cinq
+racines positives. Les centres des cellules 1, 58 et 68 qui sont support d’une ligne polygonale
+inscrite dans le complementaire du discriminantr sont marques d’un *.
+
+ 
+
+ 
+
+ 
+
+521* 5&6
+
+4’ 18’ 29 4’ 1 9’ 97
+
+314; 313i
+
+26’11’27 26’17’18
+
+2;; 23; 29;
+
+6’ 8’ 27 6’ 11’ 18 6’ 1’ 21
+
+4,21; 4,22; 422,6;
+
+37’ 18’ 14 37’ 29’ 16 37’ 69’ 18
+
+2;; £1; £9;
+
+14’ 7’ 13 14’ 17’ 15 14’ 47’ 16
+
+@30371 @22 ﬁg); @411 ﬁg;
+467’ 6025’ 167 467’ 123’ 59 467’ 41’ 11 467’ 9’ 14 467’ 122’ 17
+14$; SAL“; 5,41; 5,41; Eﬂi
+55’ 1161’ 21 55’ 3841’ 11 5’ 2’ 12 5’ 15’ 14 55’ 106’ 17
+ﬁg; $5461; $21 3g; $141;
+55’ 921’ 12 55’ 10770’ 12 55’ 1 ’ 12 55’ 23’ 13 5’ 1’ 16
+§1961; cw; 22; g2;
+
+14’ 3844’ 12 14’ 986’ 12 14’ 43’ 13 14’ 122’ 15
+
+$744; 13%; s1; s2;
+
+9’ 1447’ 13 9’ 71’ 13 9’ 2’ 13 9’ 1 0’ 16
+
+ 
+
+ 
+
+T Voir 1a section 3.4.
+
+Cyclicite’ d’zm polycycle alge’brique ge’ne’rique
+
+4;
+N
+
+t
+
+47 29 1
+11a 4’ 3
+
+405 1063 :|
+
+1H
+
+m’ 2061’ 1
+
+N
+
+g 532 1
+55> 1031> 12
+
+417 650 1
+54> 1259> 12
+
+I
+I—l I—l
+
+g 691 1
+49’ 1301’ 13
+1) E 1
+13’ 691’ 13
+1
+
+m 754 1
+183’ 1413’ 153
+
+ 
+
+Références
+
+[1]
+[2]
+
+ 
+
+m m 1
+511’ 254’ 13
+Q m 1
+463’ 349’ 13
+
+48 113 1
+
+5’ 19’ 13]
+
+1) ﬂ 1
+13’ 77’ 13
+
+m m 2
+183’ 238’ 329
+
+]*
+
+[B-K] Brieskorn E et Knorrer H 1986 Plane Algebraic Curves (Birkhauser)
+[C-R] Coste M et Coste-Roy M F 1988 Thom’s lemma, the coding of real algebraic numbers and the
+
+ 
+
+ﬂ 1 1
+511’2’ 13
+g £4 1
+463’667’ 13
+E a 1
+55’41’ 13
+ﬂ 316 1
+54’71’ 13
+5 17 1
+6’5’3 *
+E Q 1
+9’ 115’ 13
+m m 1
+13’340’ 14
+
+53
+
+m 53 1
+
+511’ 108’47
+
+@ 1 1 g m 1
+463’ 2’ 13 463’ 163’ 15
+e 1 1 e 2 1
+5’2’ 13
+
+417 1 1 417 ﬂ 1
+54’ 103’ 14 54’ 136’ 15
+
+ 
+
+g 1566 1
+49’ 2953’ 14
+
+computation of the topology of semi-algebraic sets J. Symbolic Computation 5
+
+[3]
+[4]
+[5]
+
+de Bourgogne
+
+[6]
+
+[J-S] Jenks R D et Sutor R S 1992 AXIOM (Berlin: Springer)
+[Mi] Mignotte M 1989 Mathematiques pour le calculformel (Paris: PUF)
+[Mo] Mourtada A 1990 Polycycles hyperboliques generiques a 3 ou 4 sommets These de Doctorat. Universite
+
+[W] Walker R 1978 Algebraic Curves (Berlin: Springer)
+

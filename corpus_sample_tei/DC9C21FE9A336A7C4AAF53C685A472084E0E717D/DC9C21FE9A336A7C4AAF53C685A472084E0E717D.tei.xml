@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 5-7-2019-->
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a" type="main" xml:lang="fr">Aspects cognitifs en logique intensionnelle et théorie de la vérité</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>ISTEX</authority>
+        <publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher>
+        <pubPlace>New York, USA</pubPlace>
+        <availability>
+          <licence>
+            <p>Copyright © Canadian Philosophical Association 2009</p>
+          </licence>
+          <p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p>
+        </availability>
+        <date>2009</date>
+      </publicationStmt>
+      <notesStmt>
+        <note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+        <note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct type="inbook">
+          <analytic>
+            <title level="a" type="main" xml:lang="fr">Aspects cognitifs en logique intensionnelle et théorie de la vérité</title>
+            <author xml:id="author-0000">
+              <persName>
+                <forename type="first">Daniel</forename>
+                <surname>Vanderveken</surname>
+              </persName>
+              <affiliation>Université du Québec à Trois-Rivières</affiliation>
+            </author>
+            <idno type="istex">DC9C21FE9A336A7C4AAF53C685A472084E0E717D</idno>
+            <idno type="ark">ark:/67375/6GQ-BLT1X7SL-M</idno>
+            <idno type="DOI">10.1017/S0012217309090064</idno>
+            <idno type="PII">S0012217309090064</idno>
+            <idno type="article-id">09006</idno>
+          </analytic>
+          <monogr>
+            <title level="j">Dialogue</title>
+            <title level="j" type="abbrev">Dialogue</title>
+            <idno type="pISSN">0012-2173</idno>
+            <idno type="eISSN">1759-0949</idno>
+            <idno type="publisher-id">DIA</idno>
+            <imprint>
+              <publisher>Cambridge University Press</publisher>
+              <pubPlace>New York, USA</pubPlace>
+              <date type="published" when="2009"/>
+              <biblScope unit="volume">48</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page" from="103">103</biblScope>
+              <biblScope unit="page" to="128">128</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>2009</date>
+      </creation>
+      <langUsage>
+        <language ident="fr">fr</language>
+      </langUsage>
+      <abstract xml:lang="fr" style="translated">
+        <p>RÉSUMÉ : Dans l’optique de la recherche d’un critère plus fin d’identité propositionnelle pour une analyse adéquate du sens et de la pensée, je propose une révision de l’ontologie de la théorie des types de sens et de dénotations de Frege et Church, et je formule une logique naturelle prédicative des propositions qui explique leur forme logique en termes d’actes de prédication. Je définis en outre la notion plus subjective de vérité selon un agent ainsi qu’une nouvelle notion d’implication propositionnelle forte. La logique intensionnelle ainsi préconisée explique pourquoi les agents humains sont pourvus d’une rationalité minimale. Je conclus par la présentation d’une nouvelle axiomatisation de la logique épistémique minimale.</p>
+      </abstract>
+      <abstract xml:lang="fr" style="normal">
+        <p>ABSTRACT: In the search for a more fine-grained criterion of propositional identity in order to provide an adequate analysis of sense and thought, I propose a revision of the ontology of the Frege and Church theory of types of sense and denotation, and I set up a natural predicative propositional logic that explains their logical form in terms of acts of predication. I also define a more subjective notion of truth according to an agent and a new strong propositional implication. The intensional logic thus set forth explains why human agents possess a minimal rationality. I conclude by proposing a new axiomatisation of a minimal epistemic logic.</p>
+      </abstract>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2009">Published</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+Aspects cognitifs en logique
+intensionnelle et théorie de la vérité
+
+DANIEL VANDERVEKEN
+
+Université du Québec à Trois-Rivières
+
+RÉSUMÉ : Dans l’optique de la recherche d’un critère plus ﬁn d’identité propositionnelle pour une analyse adéquate du sens et de la pensée, je propose une révision de
+l’ontologie de la théorie des types de sens et de dénotations de Frege et Church, et je
+formule une logique naturelle prédicative des propositions qui explique leur forme
+logique en termes d’actes de prédication. Je déﬁnis en outre la notion plus subjective de
+vérité selon un agent ainsi qu’une nouvelle notion d’implication propositionnelle forte.
+La logique intensionnelle ainsi préconisée explique pourquoi les agents humains sont
+pourvus d’une rationalité minimale. Je conclus par la présentation d’une nouvelle
+axiomatisation de la logique épistémique minimale.
+ABSTRACT: In the search for a more ﬁne-grained criterion of propositional identity in
+order to provide an adequate analysis of sense and thought, I propose a revision of the
+ontology of the Frege and Church theory of types of sense and denotation, and I set up
+a natural predicative propositional logic that explains their logical form in terms of
+acts of predication. I also deﬁne a more subjective notion of truth according to an agent
+and a new strong propositional implication. The intensional logic thus set forth explains why human agents possess a minimal rationality. I conclude by proposing a new
+axiomatisation of a minimal epistemic logic.
+
+1. L’ontologie formelle de la logique intensionnelle
+En philosophie contemporaine, les propositions ont une double nature qu’il
+convient à tout prix de respecter. D’une part, elles sont des sens d’énoncés
+pourvus de conditions de vérité : elles sont vraies en une circonstance quand
+Dialogue 48 (2009), 103-128. Printed in the U.S.A.
+© 2009 Canadian Philosophical Association /Association canadienne de philosophie
+doi:10.1017/S0012217309090064
+
+104
+
+Dialogue
+
+elles représentent un fait y existant. Ainsi la logique propositionnelle exige
+l’élaboration de la théorie de la vérité. D’autre part, les propositions sont aussi
+les contenus de nos pensées conceptuelles. Elles sont les contenus de nos actes
+mentaux (jugements, engagements, tentatives) et illocutoires (assertions,
+promesses et questions) ainsi que de nos attitudes (croyances, désirs et intentions) à propos des objets et faits. Pour bien analyser la forme logique des
+propositions il faut tenir compte du fait qu’elles sont en principe exprimables
+en parlant lors de tentatives d’accomplissement d’actes illocutoires. La théorie
+de la vérité doit donc être compatible avec la théorie du succès et de la satisfaction des actes illocutoires1.
+Cela impose à la logique propositionnelle une série de conditions nouvelles
+d’adéquation que l’on a jusqu’à présent fort négligées. Les agents humains ont
+des capacités cognitives restreintes. Ils ne peuvent faire qu’un nombre ﬁni
+d’actes de référence et de prédication. Qui plus est, ils ne sont pas omniscients
+ni parfaitement rationnels dans l’usage du langage et l’exercice de la pensée,
+même s’ils font toujours preuve d’une cohérence minimale et de capacités
+créatives dont il faut rendre compte. Dans mon optique, les unités premières de
+la communication sont des actes illocutoires élémentaires si bien que les forces,
+les sens et les dénotations sont les trois composantes de base de la signiﬁcation
+des énoncés. Comme Frege l’avait déjà remarqué, pareilles composantes sont
+logiquement liées2. Premièrement, il y a une relation de correspondance entre
+les sens et les dénotations qui est au fondement même du lien existant entre le
+langage et le monde. Des dénotations correspondent à certains sens en certaines circonstances possibles. Ainsi les concepts d’objets individuels qui sont
+les sens d’expressions référentielles comme «Napoléon», «la reine de Belgique»
+ont des objets individuels comme dénotations : ils s’appliquent à au plus un
+individu en chaque circonstance. Les propriétés d’objets individuels qui sont les
+sens de prédicats comme «est sage» ont des ensembles de concepts individuels
+comme dénotation : elles sont possédées en chaque circonstance par un certain
+nombre d’individus subsumés sous des concepts. Enﬁn les propositions qui
+sont les sens des énoncés sont soit vraies, soit fausses en chaque circonstance
+où des objets correspondent à leurs concepts.
+Les locuteurs sont libres : leurs actes ne sont pas déterminés. Le futur est
+donc ouvert et le temps ramiﬁé en logique du langage et de l’action. Comme
+Belnap, je pense que les circonstances possibles de la théorie de la vérité sont
+des paires m/h d’un moment de temps m et d’une histoire h à laquelle ce moment appartient3. Chaque moment m représente un état possible complet du
+monde actuel à un instant. Notre monde étant indéterministe, plusieurs moments co-instantanés peuvent suivre un même moment qui appartient alors à
+différentes histoires représentant chacune un cours possible d’histoire de ce
+monde actuel. Quand il y a différentes continuations historiques possibles d’un
+moment, sa continuation historique réelle future est alors indéterminée. Cependant, comme Occam l’a remarqué, si le monde continue après un moment, il
+continuera d’une seule façon. La continuation historique de chaque moment
+
+Aspects cognitifs 105
+
+non ﬁnal sera donc unique4. L’indéterminisme ne peut empêcher cela. Dans
+cette optique, une proposition est vraie à un moment quand elle est alors vraie
+selon l’histoire propre à ce moment5. Grâce aux histoires, la logique peut distinguer des notions modales et historiques importantes comme la vérité à un
+moment, la vérité établie et la nécessité historique. Certaines propositions sont
+vraies à un moment selon toutes les histoires. Leur vérité est alors établie.
+Telles sont les propositions passées et celles attribuant des attitudes à des
+agents. Contrairement au passé, le futur est ouvert. Le monde peut continuer de
+différentes façons après les moments indéterministes. La valeur de vérité de
+bien des propositions futures dépend des histoires considérées.
+Comme les contenus propositionnels sont toujours exprimés avec une force
+illocutoire, chaque proposition qui est le sens d’un énoncé élémentaire en un
+contexte d’énonciation est également dans la structure profonde logique du
+langage le contenu de l’acte illocutoire élémentaire que le locuteur de ce contexte tenterait d’accomplir s’il y utilisait littéralement cet énoncé. Les énoncés
+élémentaires de tous les types syntaxiques qu’ils soient déclaratifs ou non
+expriment des propositions. Ainsi les deux énoncés déclaratif et impératif
+«Vous reviendrez demain» et «Revenez demain, s’il vous plaît!» expriment en
+chaque contexte une assertion et une demande avec le même contenu propositionnel. Ils sont logiquement liés en vertu des conditions de vérité des propositions qui sont leur sens.
+Sur la base de ces considérations, je préconise une ontologie formelle à la
+Frege et Church beaucoup plus riche que celle de Russell6 dont la logique intensionnelle7 stratiﬁe de la façon suivante les types de sens et de dénotation de
+l’univers du discours.
+1) Il y a deux types primitifs de dénotations : le type e des objets individuels
+et le type t des valeurs de vérité.
+Les individus sont des objets particuliers comme les corps matériels et les personnes qui sont localisés dans l’espace-temps et persistent dans des cours possibles d’histoire du monde. Ce sont les objets du type le plus simple. Ils
+appartiennent à l’ensemble Ue des individus. L’ensemble Ut des valeurs de
+vérité contient le vrai et le faux.
+2) Il y a deux types primitifs de sens : le type c des concepts d’objets individuels et le type r des attributs d’individus parmi lesquels les propriétés
+d’individus et les relations binaires entre individus.
+Beaucoup d’attributs d’individus du langage quotidien sont intensionnels : ils
+sont satisfaits par des suites d’individus subsumés sous certains concepts sans
+être satisfaits par les mêmes suites d’individus subsumés sous d’autres concepts. Ainsi aimer est une relation intensionnelle. César aimait son ﬁls adoptif,
+Brutus, sans pour autant aimer celui qui allait le poignarder le jour de sa mort.
+
+106
+
+Dialogue
+
+Les dénotations correspondant aux attributs d’individus sont donc des ensembles de suites de concepts individuels (ou d’objets subsumés sous pareils
+concepts) plutôt que des suites d’individus8.
+3) Chaque type est un sous-type de types plus généraux.
+Si α et β sont des types d’entités de l’univers du discours alors il existe le type
+dérivé plus général α È β de toutes les entités qui sont du type α ou β. L’ensemble
+UαÈβ des entités de type α È β est l’union Uα È Uβ de l’ensemble Uα des entités
+de type α et de l’ensemble Uβ des entités de type β. Ainsi les concepts et les
+attributs d’objets individuels ont le type plus général c È r des constituants des
+propositions de premier ordre9.
+Comme en logique intensionnelle classique, on trouve les deux autres opérations :
+4) Si α et β sont des types d’entités, (αβ) est le nouveau type dérivé des
+entités qui sont des fonctions de l’ensemble des entités de type α dans
+l’ensemble des entités de type β.
+L’ensemble Uαβ =def Uα → Uβ. Ainsi (t(tt)) est le type des fonctions de vérité
+binaires et (e(et)) celui des (fonctions caractéristiques des) ensembles de paires
+d’individus.
+5) Finalement, à chaque type α d’entités correspond le nouveau type dérivé
+#α des entités qui sont des intensions dont les extensions sont de type α.
+Une intension de type #α est une fonction de l’ensemble Circonstances des
+circonstances possibles dans l’ensemble des entités de type α10. Ainsi
+l’ensemble U#α = Circonstances → Uα. Par exemple, les conditions de vérité à
+la Carnap sont des intensions du type #t : ce sont des fonctions qui associent à
+chaque circonstance possible une seule valeur de vérité.
+Selon mon ontologie formelle, tous les types d’entités de premier ordre de la
+logique intensionnelle peuvent être obtenus en appliquant les trois opérations
+précédentes aux types primitifs de dénotation et sens. Carnap nous a appris que
+chaque sens auquel correspond des entités de type α possède une intension
+caractéristique de type #α, à savoir la fonction qui associe à chaque circonstance possible l’entité qui est la dénotation réelle de ce sens en cette circonstance. Malencontreusement, la logique contemporaine a eu tendance à
+identiﬁer les sens avec leur intension caractéristique. Ainsi les propositions
+sont réduites à leurs conditions actuelles de vérité : le type p des propositions
+est #t et l’ensemble des propositions Up =def Circonstances → Ut. Les propositions dites strictement équivalentes, celles qui sont vraies en les mêmes circonstances possibles, sont alors identiﬁées. Il n’existe plus qu’une seule proposition
+nécessairement vraie et qu’une seule proposition nécessairement fausse.
+
+Aspects cognitifs 107
+
+Ce qui est absurde. La plupart des propositions strictement équivalentes n’ont
+pas la même valeur cognitive. Elles ne sont pas substituables salva felicitate
+lors de l’usage du langage et de l’exercice de la pensée. Celui qui afﬁrme (ou
+croit) que Louvain est une cité n’afﬁrme (ou ne croit) pas pour autant que c’est
+une cité et pas une hypoténuse. Voilà pourtant deux assertions (et croyances)
+dont les contenus propositionnels sont vrais en les mêmes circonstances. La
+philosophie du langage et de l’esprit exige une logique propositionnelle plus
+ﬁne selon laquelle différents sens peuvent être pourvus de la même intension.
+2. Identité propositionnelle et assignations possibles de dénotations aux
+sens
+Aﬁn de tenir compte de leur double nature, j’ai élaboré une logique naturelle
+des propositions selon la prédication qui explique leur type logique en considérant les actes de prédication que nous faisons en les exprimant. J’ai d’abord
+procédé dans Meaning and Speech Acts à l’analyse prédicative des propositions élémentaires les plus simples et de leurs fonctions de vérité. Ensuite, j’ai
+analysé les propositions généralisées11, les propositions modales logiques et
+historiques12, les propositions temporelles et d’action13 ainsi que les propositions attribuant des croyances14, désirs15 et autres attitudes16 aux agents. Voici
+les principes fondamentaux de ma logique prédicative élargie qui sera formulée
+dans mon prochain livre Propositions, Truth and Thougth.
+Les constituants propositionnels sont des sens et non pas des dénotations.
+Comme Frege l’a souligné, nous ne pouvons nous référer à des objets sans les
+subsumer sous des concepts et sans prédiquer d’eux des attributs. Quand nous
+parlons littéralement, nous exprimons les attributs et les concepts qui sont les
+sens des expressions prédicatives et référentielles que nous utilisons dans le
+contexte d’énonciation. Qui plus est, nous nous référons aux objets qui tombent
+sous ces concepts. Il arrive que tels objets n’existent pas. Cela ne nous empêche
+pas d’avoir à l’esprit des contenus propositionnels. Si l’on admet le rôle indispensable des concepts en toute référence, on peut expliquer la signiﬁcation et
+l’usage des noms propres et descriptions déﬁnies dépourvus de dénotation. Ils
+contribuent bien à déterminer des contenus propositionnels dépourvus de
+valeur de vérité selon certains (Frege et Strawson) et faux selon d’autres (Russell).
+L’argument de Frege contre la référence directe est valide dans l’optique où les
+propositions sont les véritables contenus de la pensée conceptuelle. D’un point
+de vue cognitif, la proposition que l’étoile du matin est l’étoile du matin est fort
+différente de celle que l’étoile du matin est l’étoile du soir. Nous savons a
+priori la vérité de la première alors que nous avons appris par l’observation la
+vérité de la seconde. La même différence cognitive existe entre la proposition
+que Hesperus est Hesperus et celle que Hesperus est Phosphorus (deux noms
+propre de Vénus). Frege explique clairement cette différence cognitive en
+identiﬁant les constituants propositionnels avec les sens et non les dénotations
+des expressions référentielles. Il préserve ainsi la rationalité minimale des
+locuteurs17. Nous pouvons ignorer que Hesperus porte l’autre nom propre et
+
+108
+
+Dialogue
+
+croire que Hesperus n’est pas Phosphorus. Mais nous n’avons jamais la croyance absurde que Hesperus n’est pas Hesperus. Nous ne pouvons être à ce
+point incohérents18. Il n’y a pas de propositions singulières contenant de purs
+objets individuels dans l’ontologie formelle que je préconise, contrairement à
+ce que Russell, Quine, Davidson, Kaplan, Kripke et d’autres soutiennent en
+défendant la référence directe et l’externalisme. Tous les objets de référence
+sont des objets subsumés sous des concepts.
+Il arrive souvent qu’un nom propre soit introduit dans la langue suite à un
+baptême initial19. Un certain locuteur a alors initialement donné ce nom à un
+objet auquel il pensait ou qu’il percevait en faisant une déclaration d’appellation.
+Ensuite la communauté linguistique a adopté le nom en continuant de l’utiliser
+pour se référer au même objet. Pareille introduction des noms propres n’exige
+aucunement un lien de référence directe du locuteur initial à l’objet nommé.
+À bien y réﬂéchir, quiconque donne un nom à un objet le subsume sous un concept. C’est particulièrement clair lors d’une découverte conceptuelle; le locuteur
+déﬁnit alors l’objet (par exemple, le nombre π) en exprimant le concept qui
+s’applique à lui (le nombre égal à 10/3). En cas de perception de l’objet nommé,
+le locuteur qui baptise cet objet le perçoit alors comme étant ce tel et tel ici
+maintenant. Lors d’un baptême religieux, par exemple, le prêtre donne le nom à
+cet enfant qu’il asperge d’eau bénite20. Par la suite, les locuteurs de la langue
+n’ayant pas à l’esprit le concept initial peuvent toujours se référer au même objet
+via le concept d’être l’objet dorénavant nommé par ce nom dans leur langue21.
+Les propositions ont une structure ﬁnie de constituants. Comprendre une
+proposition c’est avant tout comprendre quels attributs certains objets de référence doivent posséder en une circonstance pour que cette proposition y soit
+vraie. En pensant et en parlant, nous prédiquons toujours en un certain ordre un
+nombre positif d’attributs de nos objets de référence. L’ordre de prédication
+importe dans la seule mesure où il affecte les conditions de vérité. On fait la
+même prédication en pensant que Cicéron est Tullus et que Tullus est Cicéron.
+Car la relation d’identité est par nature symétrique. Les propositions élémentaires servent à faire une seule prédication. Ainsi la proposition élémentaire
+que le maire de Rome admire le pape prédique la relation d’admiration du
+maire de Rome et du pape dans l’ordre suivant : le premier admire le second.
+Les constituants propositionnels de pareille prédication sont la relation
+d’admirer et les concepts d’être le maire de Rome et d’être le pape. Ses conditions de vérité actuelles caractéristiques sont la fonction qui associe le vrai aux
+seules circonstances où l’individu qui est le maire de Rome admire celui qui
+est le pape22. Les ensembles de constituants propositionnels des propositions
+élémentaires de premier ordre sont du type (c È r)t. Comme leurs éléments
+sont liés par une prédication, ces ensembles de constituants propositionnels
+contiennent un seul attribut de degré n et un nombre k ≤ n de concepts individuels. Ce sont des ensembles ﬁnis appartenant à (Uc È Ur).
+Une explication adéquate des conditions de vérité doit tenir compte de la
+façon effective dont nous les comprenons. Comprendre les conditions de vérité
+
+Aspects cognitifs 109
+
+d’une proposition, ce n’est pas savoir en quelles circonstances possibles elle
+est vraie. Il nous arrive souvent d’exprimer des propositions dont nous ignorons la valeur de vérité. Considérons les propositions élémentaires les plus
+simples : celles qui attribuent une propriété extensionnelle à un individu sous
+un concept. En les comprenant nous savons juste qu’elles sont vraies en chaque
+circonstance possible où l’individu qui tombe sous leur concept possède leur
+propriété caractéristique. Nous ne savons pas en vertu de notre compétence les
+dénotations actuelles de nombreux attributs et concepts en de multiples circonstances. Il nous arrive souvent de nous référer à un objet via un concept sans
+être capables de l’identiﬁer. Celui qui recherche un meurtrier peut juste se référer à quiconque dans le monde est ce meurtrier. Notre connaissance du monde
+n’est pas seulement incomplète. Certaines de nos croyances sont fausses. Le
+meurtrier présumé est parfois innocent. L’objet de référence dans ce cas n’est
+pas la dénotation du concept que nous avons à l’esprit. Qui plus est, les objets
+peuvent posséder les propriétés de multiples façons. Tout dépend de l’arrièreplan. Celui qui pense qu’une personne est blessée ne sait pas pour autant de
+quelle façon elle l’est. Comme nous ignorons bien des propriétés essentielles
+que les objets de référence possèdent réellement en toute circonstance possible,
+il nous arrive d’être incohérents. Nous avons découvert tardivement que les
+baleines sont essentiellement des mammifères. Avant on croyait qu’elles étaient
+des poissons.
+Nous concevons les attributs et les concepts sans pour autant identiﬁer leur
+dénotation actuelle. D’un point de vue cognitif, beaucoup pourraient bien avoir
+selon nous telles ou telles dénotations en maintes circonstances. Nous sommes
+capables en vertu de notre compétence d’assigner des dénotations possibles
+aux constituants propositionnels. Le chef de police au début de son enquête
+ignore souvent l’identité du meurtrier qu’il recherche. Mais il peut à tout le
+moins penser à différents suspects. Il peut aussi penser qu’il s’agit peut-être
+d’un suicide et alors qu’il n’y a aucun meurtrier. Quiconque conçoit des concepts et attributs leur assigne ainsi des dénotations possibles de type approprié
+(parfois aucune dénotation) dans les circonstances qu’il considère. En tout
+usage et interprétation possible du langage, il y a donc des assignations possibles
+de dénotation aux constituants propositionnels autres que l’assignation réelle
+de la logique classique qui associe à chacun en chaque circonstance sa dénotation actuelle. Ces assignations possibles de dénotation sont des fonctions du
+même type que l’assignation réelle. Selon chacune tout concept individuel a
+comme dénotation un ou aucun individu et toute propriété un ensemble (parfois vide) d’individus subsumés sous des concepts en chaque circonstance
+possible.
+Quiconque se réfère à un objet individuel via un concept présuppose que cet
+objet existe et est unique; il a des croyances à son propos. Seuls des individus
+ayant certaines propriétés pourraient alors selon cet agent tomber sous pareil
+concept et il se trouve beaucoup d’autres attributs que cet objet de référence ne
+pourrait alors avoir selon lui. Certaines assignations possibles de dénotation
+
+110
+
+Dialogue
+
+sont incompatibles avec les croyances de tout agent qui a à l’esprit des concepts et des attributs. Supposons que le chef de police au début de ses investigations est persuadé qu’un membre du village est le meurtrier. Dans ce cas,
+toutes les assignations possibles de dénotation à des sens selon lesquelles un
+étranger est ce meurtrier sont incompatibles avec ce que le chef de police croit
+alors.
+Nos interprétations possibles respectent bien entendu les postulats de signiﬁcation en assignant des dénotations possibles aux sens et des conditions de
+vérité possibles aux propositions. Non seulement elles assignent comme dénotation aux concepts individuels un ou aucun individu et aux attributs de degré
+n des ensembles de suites de n concepts individuels en chaque circonstance
+possible. Mais en outre elles respectent leur nature logique. Nous savons tous
+a priori que les objets qui tombent sous certains concepts (le concept d’être le
+meurtrier recherché) ont certaines propriétés (avoir causé la mort). Nous savons
+aussi que les individus auxquels nous nous référons via des concepts différents
+sont identiques quand ces concepts ont alors la même dénotation. Nos interprétations associent donc à la relation d’identité entre individus en chaque circonstance un ensemble de paires de concepts s’y appliquant au même individu.
+Toutes les assignations possibles de dénotation aux constituants propositionnels respectent leur forme logique. L’ensemble Val de toutes les assignations
+possibles de constituants propositionnels (que j’appellerai aussi leurs évaluations possibles) a une certaine structure logique. C’est un sous-ensemble
+propre de l’ensemble des fonctions de ((Uc × Circonstances) → Ue) È ((Ur ×
+Circonstances) → (Uc)n). Il contient bien entendu l’évaluation standard
+réelle de la logique (symboliquement l’assignation val*) assignant à tout attribut
+et concept en chaque circonstance la dénotation actuelle qu’il y possède23.
+Les agents humains qui n’ont pas directement accès aux objets individuels
+et dont les capacités cognitives sont restreintes ne peuvent maîtriser l’évaluation
+réelle. Cependant, ils ont des croyances au cours de leur existence. Quand ils
+ont à l’esprit des attributs et concepts, certaines assignations possibles de dénotation sont compatibles avec ce qu’ils croient alors et d’autres, par contre, ne
+le sont pas. À chaque agent a et moment m correspond en toute interprétation
+possible l’ensemble non vide Val(a,m) ⊆ Val de toutes les assignations possibles de dénotation aux constituants propositionnels qui sont compatibles avec
+ce que cet agent a croit à ce moment m. Les agents humains sont minimalement
+cohérents. Ils ne peuvent croire qu’un même objet a et n’a pas la même propriété en une même circonstance. Ainsi certaines assignations possibles de dénotation aux constituants sont compatibles avec ce que chaque agent croit à
+chaque moment. Car nul agent ne peut tout croire des objets auxquels il pense.
+Qui plus est, pour qu’un agent ait une croyance, il faut que certaines assignations possibles de dénotation soient incompatibles avec ce qu’il croit. Autrement il n’aurait alors aucun sens à l’esprit.
+Dans mon optique, la plupart des propositions sont d’abord et avant
+tout vraies (ou fausses) en des circonstances possibles selon des assignations
+
+Aspects cognitifs 111
+
+possibles de dénotation à leurs constituants. Car leur valeur de vérité change
+en différentes circonstances possibles et selon différentes assignations possibles de dénotation à leurs constituants. Considérons les propositions élémentaires. Par hypothèse, une proposition élémentaire attribuant une propriété
+extensionnelle (par exemple la propriété d’être socialiste) à un individu subsumé sous un concept (le prochain président de la république) est vraie en une
+circonstance selon une assignation possible de dénotation quand l’individu qui
+tombe selon cette assignation sous ce concept appartient en cette circonstance
+à l’ensemble de concepts qu’elle assigne comme dénotation à cette propriété.
+Sa valeur de vérité dépend bien à la fois des circonstances et des assignations
+possibles de dénotation considérées. Il en va de même pour les autres propositions élémentaires ou complexes. Ainsi la négation ¬P d’une proposition P est
+vraie en une circonstance selon une assignation possible de dénotation quand
+la proposition P n’y est pas vraie selon cette même assignation. La proposition
+modale íP qu’il est absolument nécessaire que P est vraie en une circonstance
+selon une assignation possible de dénotation quand la proposition P est vraie
+selon cette assignation en toute circonstance possible. La proposition future
+qu’il sera le cas que P est vraie en une circonstance m/h quand la proposition
+P est vraie selon cette assignation en un moment postérieur m’ selon l’histoire h.
+Et ainsi de suite pour les autres propositions selon les postulats de signiﬁcation
+bien connus.
+Selon toute assignation possible de dénotation aux constituants chaque
+proposition est par conséquent vraie en un certain ensemble particulier (parfois
+vide) de circonstances possibles. Chaque assignation lui associe donc ce que
+j’appellerai une certaine condition possible de vérité qui lui est propre. Supposons qu’une proposition est vraie selon une assignation possible de dénotation en un certain ensemble de circonstances possibles. Cette proposition serait
+alors vraie en toutes et seulement ces circonstances possibles si cette assignation associait à chacun de ses constituants en toute circonstance sa dénotation
+réelle. Comme leurs valeurs de vérité diffèrent selon bien des assignations possibles de dénotation, la plupart des propositions ont un grand nombre de conditions possibles de vérité parmi lesquelles il y a bien entendu leurs conditions
+de vérité actuelles, les seules que l’on considère en logique modale traditionnelle. Pour qu’une proposition soit vraie en une circonstance, il faut selon la
+conception classique de la vérité par correspondance qu’elle y soit vraie selon
+les assignations qui associent à ses constituants leur dénotation réelle. C’est
+donc l’assignation réelle val* de dénotation aux concepts et attributs, associant à chacun sa dénotation actuelle en toute circonstance, qui détermine les
+conditions de vérité actuelles de chaque proposition. Pour qu’une proposition
+soit vraie en une circonstance il faut et il sufﬁt en logique prédicative qu’elle y
+soit vraie selon l’évaluation réelle. Voilà ma déﬁnition de la vérité qui est conforme à la tradition.
+Comme on l’a vu, certaines assignations possibles de dénotation sont compatibles avec ce que des agents croient à certains moments. D’autres ne le sont
+
+112
+
+Dialogue
+
+pas. Cela permet à la logique prédicative de déﬁnir avec précision la notion
+plus subjective de vérité selon un agent. Pour qu’une proposition soit vraie en
+une circonstance selon un agent a à un moment m il faut d’abord que cet agent
+ait alors à l’esprit tous ses concepts et attributs. Il faut en outre que cette proposition soit vraie en cette circonstance selon toutes les assignations possibles
+de dénotation à ses constituants compatibles avec ce que croit alors cet agent.
+Les croyances ont des conditions de vérité bien déterminées; elles sont pour
+cette raison exprimables. Quiconque a une croyance sait comment les objets
+doivent être dans la réalité pour que sa croyance soit vraie. Il doit donc être
+capable de concevoir ses attributs et ses concepts24. Pour qu’un agent, par
+exemple, croie à un moment que l’assassin de Dupont soit tel ou tel autre suspect
+il faut et il sufﬁt que l’un de ces deux suspects soit cet assassin selon toutes
+les assignations possibles de dénotation compatibles avec ses croyances à ce
+moment. Il arrive souvent que l’assignation réelle ne soit pas compatible avec
+ce qu’un agent croit à un moment. Cet agent a alors des croyances fausses. Il
+arrive aussi que les assignations possibles de dénotation compatibles avec ses
+croyances violent des propriétés essentielles. Cet agent a alors des croyances
+impossibles.
+Nous ignorons les conditions de vérité actuelles de la plupart des propositions, pour la bonne raison que nous ignorons les dénotations actuelles de la
+plupart de leurs constituants. Pour savoir leur valeur de vérité, il nous faut le
+plus souvent observer comment les objets qu’elles représentent sont dans le
+monde. Il y a peu de propositions élémentaires analytiquement vraies (comme
+celle que la mère de Dupont est une femme) dont nous savons a priori la valeur
+de vérité. Peu en effet attribuent à des objets de référence une relation essentielle que nous savons a priori qu’ils entretiennent rien qu’en appréhendant
+leur forme logique. Des propriétés essentielles d’agents humains comme celles
+d’avoir telle mère ou tel code génétique ne déterminent aucun postulat de
+signiﬁcation. La plupart des propositions complexes ont également beaucoup
+de conditions possibles de vérité différentes. Considérez les propositions
+disjonctives, passées, futures et de possibilité. Pour que la proposition passée
+selon laquelle le pape Benoit XVI s’est blessé soit vraie en une circonstance, il
+sufﬁt que le pape se soit blessé en au moins une circonstance antérieure.
+Comme Wittgenstein l’a souligné dans le Tractatus, il y a deux cas limites
+de conditions de vérité. Parfois la vérité d’une proposition est compatible avec
+toutes les façons possibles dont les objets pourraient être. D’autres fois, elle
+n’est compatible avec aucune. Wittgenstein appelle la proposition une tautologie dans le premier cas et une contradiction dans le second. Dans mon optique,
+en plus des façons possibles dont les objets pourraient être dans la réalité, il y
+a les façons possibles dont nous pouvons considérer qu’ils soient. Certaines
+possibilités subjectives (par exemple que les baleines sont des poissons) violent des propriétés essentielles d’objets de référence. Elles ne sont aucunement
+objectives. La logique prédicative considère aussi bien les possibilités subjectives que les objectives. Une proposition est objectivement possible quand elle
+
+Aspects cognitifs 113
+
+est vraie en au moins une circonstance possible selon l’assignation réelle de
+dénotation. Elle est subjectivement possible quand elle est vraie en une circonstance possible selon au moins une évaluation possible. Selon ma terminologie,
+les véritables tautologies sont vraies en chaque circonstance selon toutes les
+assignations possibles de dénotation à leurs constituants et les contradictions
+selon aucune. Les tautologies sont donc un cas fort particulier de propositions
+nécessairement vraies. Leur seule condition possible de vérité est la condition
+universelle de vérité. Elles sont vraies selon chaque assignation possible de
+dénotation en toutes les circonstances possibles. C’est pourquoi elles sont en
+outre analytiquement et a priori vraies. De même, les contradictions sont un
+cas fort particulier de propositions nécessairement fausses. Leur seule condition possible de vérité est la condition vide de vérité. Selon chaque assignation
+possible de dénotation elles sont fausses en toute circonstance possible. Voilà
+pourquoi elles sont aussi analytiquement et a priori fausses.
+Le nouveau critère d’identité propositionnelle. Les propositions identiques
+ont la même structure de constituants et leur vérité en chaque circonstance est
+compatible avec les mêmes assignations possibles de dénotation à leurs constituants. Ainsi l’ensemble Up des propositions fait partie de l’ensemble (Uc
+È Ur) × (Circonstances → Val). En théorie des modèles, chaque proposition
+P est une paire dont le premier terme (en symboles id1P) contient les ensembles
+de constituants propositionnels qui servent à faire ses prédications25. Son
+second terme (id2P) est la fonction caractéristique associant à chaque circonstance possible l’ensemble des assignations possibles de dénotation selon
+lesquelles elle est vraie en cette circonstance.
+D’un point de vue logique, les conditions possibles de vérité sont des fonctions d’assignations possibles de dénotation dans des ensembles de circonstances possibles. Deux assignations possibles de dénotation associant à tous les
+constituants d’une proposition les mêmes dénotations en les mêmes circonstances lui associent par hypothèse la même condition possible de vérité. Il
+importe donc seulement, pour déterminer les conditions possibles de vérité
+d’une proposition, de bien distinguer les assignations possibles différentes de
+dénotation à ses propres constituants. Chaque langue naturelle étant humaine,
+elle contient dans son lexique un nombre ﬁni de prédicats exprimant des relations entre un nombre maximal n d’individus. Pour déﬁnir le type p des propositions exprimables en cette langue, il sufﬁt donc de considérer les seules
+assignations possibles de dénotation à des concepts et à des attributs de degré
+k ≤ n. Par déﬁnition, pareilles assignations possibles de dénotation à des constituants propositionnels ont le type νn tel que ν0 =def (c#e) È r#t, ν1 =def (c#e)
+È (r#t) È r#(ct) et νn+1 =def νn È r#(c ... (ct) ...) où (c ... (ct) ...) est une suite de
+n + 1 concepts individuels. Quand n est le degré maximal des prédicats d’une
+langue naturelle, le type p des propositions exprimables en cette langue est
+donc (((c È r)t)t)((#(νnt))t).
+Mon critère d’identité propositionnelle est plus ﬁn que celui des logiques
+modales, temporelles et intensionnelles. Des propositions strictement
+
+114
+
+Dialogue
+
+équivalentes ayant différentes structures de constituants sont dorénavant distinguées. Nous ne faisons pas les mêmes prédications en les exprimant. Qui
+plus est, à la différence de la logique de l’implication analytique de Parry26, la
+logique prédicative distingue des propositions strictement équivalentes ayant
+la même structure de constituants. Considérons la proposition élémentaire
+nécessairement fausse selon laquelle la plus grande baleine est un poisson et la
+conjonction selon laquelle cette baleine est et n’est pas un poisson. Elles font
+toutes deux une seule prédication attribuant à la plus grande baleine la propriété d’être un poisson. Et elles sont toutes deux fausses en chaque circonstance possible. Cependant elles n’ont pas la même valeur cognitive. Nous
+pouvons croire la première mais pas la seconde. Pareilles propositions n’ont
+pas les mêmes conditions possibles de vérité. La première est vraie selon certaines assignations possibles. La seconde, par contre, n’est vraie selon aucune.
+L’ensemble des propositions est récursif. Les propositions élémentaires sont
+les plus simples : elles servent à faire une seule prédication. Chacune contient
+1
+n
+un seul ensemble de constituants propositionnels {Rn,ce,..., ce } avec un attribut
+Rn de degré n et un nombre 0 ≤ k ≤ n de concepts individuels. Chacune est vraie
+en chaque circonstance m/h selon les seules assignations possibles de dénotan
+1
+tion val ∈ Val telles que val(Rn,m/h) est le vrai quand n = 0 et &lt;ce,..., ce &gt; ∈
+val(Rn,m/h) selon un ordre ﬁxe de prédication quand n &gt; 0}.
+Toutes les autres propositions sont plus complexes : elles sont obtenues en
+appliquant aux propositions plus simples des opérations qui changent la structure de constituants ou les conditions de vérité. Les fonctions de vérité sont les
+opérations propositionnelles les plus simples. Elles composent des propositions complexes dont les seules prédications sont celles de leurs arguments et
+dont la valeur de vérité en une circonstance dépend des seules valeurs de vérité
+de leurs arguments en cette même circonstance. Ainsi la conjonction (P ∧ Q) et
+la disjonction (P ∨ Q) servent à faire les prédications de leurs arguments P et Q :
+id1(P ∧ Q) = id1(P ∨ Q) = id1P È id1Q. Elles diffèrent par leurs conditions possibles de vérité. La disjonction est vraie en chaque circonstance selon toutes les
+assignations possibles de dénotation à ses constituants selon lesquelles au
+moins l’un de ses deux arguments y est vrai. Ainsi id2(P ∨ Q) (m/h) = id2P(m/h)
+È id2Q(m/h). Par contre, la conjonction n’est vraie en chaque circonstance que
+selon les assignations possibles de dénotation selon lesquels ses deux arguments y sont vrais : id2(P ∧ Q) (m/h) = id2P(m/h) ∩ id2Q(m/h).
+À la différence des fonctions de vérité, la quantiﬁcation et les opérations
+modales, temporelles et épistémiques changent aussi bien la structure de constituants que les conditions de vérité. Quand nous pensons que tous les objets
+sont tels que Dieu en a connaissance, nous attribuons à Dieu la propriété
+d’omniscience, à savoir qu’Il a connaissance de tout. La propriété d’omniscience
+est une généralisation universelle de la relation de connaissance selon la
+logique intensionnelle des attributs27. Chaque proposition généralisée sert à
+faire de nouvelles prédications attribuant des généralisations des attributs de
+ses arguments. Et sa vérité en chaque circonstance dépend de la vérité en cette
+
+Aspects cognitifs 115
+
+même circonstance de l’une de ces nouvelles prédications. Dieu a connaissance de tous les objets si et seulement si Dieu est omniscient. Les opérations
+modales, temporelles et épistémiques gardent les anciennes prédications et en
+ajoutent de nouvelles. Elles sont en outre intensionnelles : leur valeur de vérité
+en une circonstance dépend cette fois de la valeur de vérité de leurs arguments
+en d’autres circonstances. Prenons l’exemple de la nécessité logique í. Quand
+nous pensons qu’il est absolument nécessaire que Dieu ne fasse aucune erreur,
+nous faisons plus qu’attribuer à Dieu la propriété de ne pas se tromper. Nous
+Lui attribuons aussi la propriété modale d’infaillibilité, à savoir de ne se
+tromper en aucune circonstance possible. La propriété d’infaillibilité est la nécessitation de la propriété de ne pas se tromper. Un objet de référence possède
+selon une évaluation la nécessitation d’une propriété en une circonstance
+quand, selon cette évaluation, il possède cette propriété en toute circonstance.
+La proposition modale íP, qu’il est absolument nécessaire que P, fait davantage
+de prédications que P. Elle prédique des attributs modaux comme la nécessitation des attributs de ses arguments28. Ainsi id1(íP) ⊇ id1(P)29. En outre, cette
+proposition modale est vraie en une circonstance selon une assignation possible de dénotation quand la proposition P est vraie selon cette assignation en
+chaque circonstance possible; val ∈ id2(íP)(m/h) quand val ∈ id2(P)(m’/h’)
+pour tout m’/h’.
+La proposition qu’il est tautologique que P (en symboles TautologiqueP)
+et celle que P a la structure de constituants de Q (en symboles (P ý Q)) sont
+des propositions modales nouvelles. La première TautologiqueP est vraie
+en une circonstance selon une assignation possible de dénotation quand P est
+vraie en chaque circonstance selon toutes les assignations possibles. Ainsi
+id1(TautologicalP) = id1íP. Mais id2(TautologicalP)(m/h) = Val quand
+
+∩
+
+id2P(m/h) = Val. Autrement, id2(TautologicalP) (m/h) = ∅. De
+même, la proposition (P ý Q) est vraie en une circonstance selon une assignation possible de dénotation quand toutes les prédications de Q sont des prédications de P. Ainsi id1(P ý Q) = id1íP È id1íQ. En outre, id2(P ý Q) (m/h) = Val
+quand id1P ⊇ id1Q et est ∅ autrement.
+Les propositions attribuant des attitudes à des agents enrichissent également
+la structure de constituants. Quand nous pensons que le pape croit que Dieu
+existe, nous faisons plus qu’attribuer à Dieu la propriété d’exister; nous Lui
+attribuons également la propriété d’être existant selon le pape. La propriété
+d’être tel et tel selon un agent est une propriété épistémique bien différente de
+celle d’être tel et tel. D’une part, les agents peuvent croire à tort qu’un objet a
+une propriété. D’autre part, les objets ont bien des propriétés que les agents
+ignorent. Cependant lorsqu’un agent croit qu’un objet est tel et tel, l’objet en
+question a alors la propriété épistémique d’être tel et tel selon cet agent. En
+outre, la proposition attribuant cette croyance à cet agent est alors vraie.
+Certes il nous arrive d’avoir réellement des croyances à certains moments en
+ce monde. Cependant nous pourrions en avoir eu d’autres. Souvent d’ailleurs
+m ’/ h ’∈Circonstance
+
+116
+
+Dialogue
+
+d’autres agents nous attribuent des attitudes que nous n’avons pas réellement.
+Il faut donc considérer d’autres assignations possibles de dénotation que la
+réelle dans l’analyse des conditions de vérité des propositions attribuant des
+croyances. Dans mon approche, tout agent a a à l’esprit à chaque moment m un
+certain ensemble val(a,m) de constituants propositionnels selon chaque assignation possible de dénotation val30. Quand cet ensemble n’est pas vide, l’agent
+a alors des croyances à leur propos. En logique épistémique traditionnelle31 ce
+sont des circonstances possibles qui sont compatibles avec les croyances d’un
+agent à un moment. On dit qu’un agent croit à un moment une proposition
+quand cette proposition est vraie en toutes les circonstances possibles qui sont
+compatibles avec ses croyances à ce moment. Il en résulte que selon la logique
+épistémique traditionnelle tout agent est censé croire toutes les propositions
+nécessaires. De plus aucun agent ne peut avoir de croyances impossibles à
+moins de croire n’importe quoi. Cependant il est bien clair que les agents humains sont ni parfaitement rationnels ni totalement irrationnels. Il nous faut
+une logique épistémique intermédiaire qui soit compatible avec la philosophie
+analytique de l’esprit et la psychologie.
+En logique prédicative c’est une relation de compatibilité entre des assignations possibles de dénotation qui sert à déterminer la nature des croyances des
+agents. À chaque agent a et moment m correspond en chaque modèle l’ensemble
+non vide Croyance a (val) ⊆ Val des assignations possibles de dénotation aux
+m
+constituants qui sont compatibles avec les croyances que cet agent possède à ce
+moment selon l’évaluation val. L’ensemble Croyance a (val) est l’ensemble enm
+tier Val de toutes les assignations possibles de dénotation quand aucun constituant propositionnel n’appartient à val(a,m). Un agent n’a aucune attitude
+quand il n’a aucun sens à l’esprit. Autrement, l’ensemble Croyancea (val) est
+m
+un sous-ensemble propre non vide de Val. Quand un agent a à l’esprit des concepts et attributs, il respecte toujours les postulats de signiﬁcation les gouvernant. Il y a donc toujours des assignations possibles de dénotation compatibles
+avec ce qu’il croit alors32.
+Quiconque a une croyance croit qu’il a cette croyance. La relation de compatibilité épistémique Croyance a est donc transitive33. Mais, comme bien des
+m
+croyances sont fausses, elle n’est pas réﬂexive. Elle n’est pas non plus symétrique34. Cependant val(a,m) ⊂ val’(a,m) en tout modèle quand val’ ∈ Croyance a (val).
+m
+Par hypothèse, l’ensemble Croyancea (val*) servant à déterminer les croym
+ances que l’agent a possède réellement au moment m est l’ensemble particulier
+Val(a,m) dont j’ai parlé plus haut. Bien entendu, les attributs épistémiques de
+la forme aRn (selon aRn) satisfont en tout modèle le postulat de signiﬁcation :
+a
+1
+n
+&lt;c e ,...,c e &gt; ∈ val(aRn,m/h) quand pour toute assignation val’ ∈ Croyancem (val),
+n
+1
+&lt;c e,...,c e &gt; ∈ val’(Rn,m/h). Dans mon approche, un agent croit une proposition
+en une circonstance m/h quand cette proposition est vraie selon lui au moment
+m en la circonstance m/hm. Il nous arrive d’avoir des croyances dirigées vers le futur,
+de prévoir comment seront les choses. Dans ce cas, nos croyances sont dirigées
+
+Aspects cognitifs 117
+
+vers le futur actuel. Je partage la conception d’Occam plutôt que celle de Peirce
+et de Belnap. Quand un agent croit à un moment que les choses seront telles et
+telles, sa croyance sera vraie si et seulement si les choses sont telles et telles à
+un moment postérieur dans la continuation historique actuelle de ce moment.
+Les autres continuations historiques possibles n’importent pas.
+Sur la base de ces considérations, j’analyse de la façon suivante les propositions attribuant des croyances. D’une part, la proposition que l’agent a croit que
+P (en symboles aCroitP) a une structure de constituants plus riche que celle de
+P. Elle prédique des mêmes objets dans le même ordre les mêmes attributs Rn
+que P et en outre les attributs épistémiques correspondants de la forme aRn35.
+D’autre part, la proposition aCroitP est vraie en une circonstance m/h selon
+l’évaluation possible val quand premièrement, l’agent a à l’esprit au moment m
+selon val tous les concepts et attributs de P et deuxièmement, cette proposition
+est vraie au moment m selon toutes les assignations possibles de dénotation qui
+sont compatibles avec ce que cet agent croit alors selon val. Autrement dit,
+aCroitP est vraie en une circonstance m/h selon val si et seulement si id1P ⊆
+val(a,m) et P est vrai en m/hm selon tout val’∈ Croyancea (val). Ainsi la vérité
+m
+des propositions de croyances est bien établie. Quiconque croit quelque chose
+à un moment a alors cette croyance peu importe comment le monde continue.
+3. Les notions de vérité et d’implication forte en logique intensionnelle
+Selon la tradition philosophique d’Aristote à Tarski36, la vérité est basée sur la
+correspondance. Les propositions vraies représentent comment les objets sont
+dans la réalité. Elles correspondent à des faits existants. Les objets ont des
+propriétés et entretiennent des relations en chaque circonstance possible. Les
+propositions y ont donc une valeur de vérité bien déterminée dépendamment
+de la dénotation réelle de leurs attributs et concepts. Notre vie en ce monde
+dure un intervalle de temps borné. Le moment présent (qui représente la nature
+entière maintenant selon Whitehead) est actuel ainsi que tous les moments qui
+le précèdent. Ils représentent des états complets du cours actuel d’histoire de
+notre monde. Ce monde étant indéterministe, il existe maintes continuations
+historiques possibles du moment présent représentant différents cours d’histoire
+possibles. L’une d’entre elles, la ﬁne ligne rouge ﬂr, comme l’appelle Belnap,
+représente le cours actuel de ce monde. Nous ignorons quelle est cette histoire
+particulière. Nous savons juste qu’il en existe une seule laquelle s’arrête maintenant si le monde ne continue pas. Les circonstances actuelles sont des paires
+m/ﬂr dont le moment de temps m appartient au cours actuel d’histoire de ce
+monde. Les propositions vraies en une circonstance actuelle représentent donc
+des faits existant à un instant dans ce monde. Nous considérons beaucoup de
+circonstances possibles inactuelles en pensant et en parlant. Cela arrive quand
+nous pensons à ce qui se passera dans le futur et aussi à ce qui aurait pu se
+passer maintenant. Pareilles circonstances inactuelles appartiennent à des cours
+d’histoire possibles de ce monde. Elles font aussi partie, comme le dit
+Wittgenstein, de l’espace logique de la réalité. Les propositions qui sont vraies
+
+118
+
+Dialogue
+
+en une circonstance possible (actuelle ou non) représentent des faits possibles
+qui existeraient si le cours possible d’histoire du monde auxquelles elles appartiennent était le cours réel.
+En chaque circonstance possible les choses sont comme elles sont. Cependant elles pourraient avoir beaucoup d’autres propriétés et entretenir bien
+d’autres relations. En plus de la façon dont les choses sont, il y a les multiples
+façons possibles dont elles pourraient être. Néanmoins, pour qu’une proposition soit vraie en une circonstance, il faut bien que les choses y soient comme
+elle les représente. Autrement, elle ne correspondrait pas à la réalité. Dans cet
+ordre d’idées, une proposition est vraie en une circonstance quand elle est
+vraie selon toutes les assignations possibles de dénotation qui associent à ses
+constituants leur dénotation réelle. Dans ce cas, sa vérité en cette circonstance
+est compatible avec l’assignation standard réelle val* de dénotation aux constituants propositionnels. Ainsi la proposition P est vraie en la circonstance m/h
+quand val* ∈ id2Pm/h. Toutes les lois classiques de la théorie de la vérité
+suivent de cette déﬁnition concise de la vérité.
+Aspects cognitifs en théorie de la vérité. Comme je l’ai déjà expliqué, nos
+croyances dépendent des dénotations que les concepts et attributs que nous
+avons à l’esprit pourraient selon nous avoir dans la réalité. À chaque agent a et
+moment m correspond l’ensemble particulier Val(a,m) = Croyancea (val*) de
+m
+toutes les assignations possibles de dénotation aux constituants propositionnels qui sont compatibles avec ce que cet agent croit alors réellement. Quand
+l’agent a est conscient au moment m l’ensemble Val(a,m) est restreint : Val(a,m)
+≠ Val. Nous pouvons dorénavant déﬁnir avec exactitude la notion plus subjective de vérité selon un agent en logique intensionnelle : une proposition P est
+vraie selon un agent a à un moment m en une circonstance m’/h’ quand cet
+agent a à l’esprit à ce moment tous ses constituants et cette proposition P est
+vraie selon lui à ce moment en cette circonstance selon toutes les assignations
+possibles de dénotation compatibles avec ce qu’il croit alors. En bref quand,
+premièrement, id1P ⊆ val*(a,m) et, deuxièmement, Val(a,m) ⊆ id2P(m’/h’). En
+particulier, l’agent a croit la proposition P en une circonstance m/h quand cette
+proposition est vraie selon lui au moment de cette circonstance, c’est-à-dire
+quand id1P ⊆ val*(a,m) et Val(a,m) ⊆ id2P(m/hm).
+Sans doute les agents humains se trompent. Cependant ils ont des certitudes.
+Quiconque pense une tautologie P sait a priori qu’elle est nécessairement vraie.
+Car id2P(m/h) = Val. De même quiconque pense une contradiction Q sait a
+priori qu’elle est nécessairement fausse. Car id2Q(m/h) = ∅. Les notions de
+tautologie et de contradiction sont à la fois épistémiques, logiques et métaphysiques. Pourquoi nous arrive-t-il de croire en la fausseté de propositions nécessairement vraies non tautologiques et en la vérité de propositions nécessairement
+fausses non contradictoires? Elles ont d’autres conditions possibles de vérité
+que la condition universelle et la condition vide de vérité. En plus des possibilités objectives il y a les possibilités subjectives. Selon certains agents à
+certains moments bien des propositions pourraient être vraies. Pour que la
+
+Aspects cognitifs 119
+
+proposition P puisse être vraie selon l’agent a en la circonstance m/h, il faut et
+il sufﬁt que cet agent ait à l’esprit à ce moment tous ses constituants et que cette
+proposition P soit vraie au moment m selon au moins une assignation possible
+de l’ensemble Val(a,m).
+Dans mon optique, la logique du langage impose donc différentes limites à
+la réalité et à la pensée. D’une part, les propositions nécessairement fausses
+(celles qui sont fausses en toute circonstance possible) représentent des faits
+impossibles qui ne pourraient aucunement exister dans la réalité. On n’a nul
+besoin en sémantique formelle de circonstances impossibles où pareils faits
+existeraient. Les circonstances possibles sont bien des possibilités objectives à
+la Belnap. Certes, il nous arrive de représenter des faits impossibles et de
+penser à tort qu’ils existent. Cependant ces faits impossibles n’existent en aucune circonstance. En toute circonstance où il y a des baleines, ce sont des
+mammifères et non des poissons. Ainsi beaucoup de nos façons possibles de
+représenter les objets ne correspondent pas à des façons possibles dont ces
+objets pourraient être. Certains faits subjectivement possibles sont objectivement impossibles. Leur représentation exige des assignations possibles de dénotation aux attributs qui ne respectent pas leurs attributs essentiels.
+L’implication propositionnelle forte. Nous, les êtres humains, ne sommes
+pas parfaitement rationnels. Non seulement, nous sommes parfois incohérents.
+Mais en outre, nous ne faisons pas toutes les inférences valides. Nous croyons
+des propositions sans pour autant croire toutes leurs conséquences logiques.
+Néanmoins nous ne sommes pas totalement irrationnels. Nous sommes
+pourvus de raison et faisons preuve d’une rationalité minimale en pensant
+et en parlant. Premièrement, nous sommes minimalement cohérents. Nous
+savons a priori que les propositions contradictoires sont nécessairement
+fausses. C’est pourquoi nous n’exprimons jamais une contradiction avec
+l’intention d’établir une correspondance avec la réalité. Nous ne pouvons ni
+croire ni tenter de faire quelque chose de contradictoire. En outre, nous tirons
+toujours certaines inférences théoriques et pratiques valides. Comme nous
+savons a priori que les tautologies sont nécessairement vraies, nous savons a
+priori que certaines propositions ne peuvent être vraies sans que d’autres ne le
+soient également. Dans ce cas, nous ne pouvons les croire sans pour autant
+croire les autres. Qui plus est quand elles représentent des actions nous ne
+pouvons tenter de faire les actions que représentent les premières sans tenter de
+faire celles que représentent les secondes37.
+Il existe en logique modale une importante relation d’implication stricte due
+à C. I. Lewis que Hintikka a utilisée en logique épistémique. Une proposition
+en implique strictement une autre quand cette autre est vraie en toute circonstance possible où elle est vraie. Quiconque croit une proposition ne croit pas
+pour autant toutes celles qu’elle implique strictement. Comme nous ignorons
+quelles propositions sont nécessairement vraies, nous ignorons lesquelles sont
+liées par l’implication stricte. Il faut une implication logique beaucoup plus
+ﬁne que l’implication stricte pour expliquer les croyances.
+
+120
+
+Dialogue
+
+La logique prédicative dispose de cette nouvelle relation d’implication propositionnelle, que j’ai appelée l’implication forte. Une proposition implique
+fortement une autre quand premièrement, elle contient toutes ses prédications
+et deuxièmement, elle l’implique tautologiquement en ce sens qu’elle ne peut
+être vraie en une circonstance selon une assignation possible de dénotation
+sans que l’autre y soit également vraie selon la même assignation. En bref, la
+proposition P implique fortement Q (en symboles (P Q) quand id1P ⊇ id1Q et,
+en toute circonstance m/h, id2P(m/h) ⊆ id2Q(m/h). Contrairement à l’implication
+stricte, l’implication forte est connue a priori. Quand une proposition en implique fortement une autre, nous ne pouvons l’exprimer sans pour autant savoir
+grâce à notre compétence logique qu’elle l’implique nécessairement. Car en
+l’exprimant nous avons par hypothèse à l’esprit toutes les propositions élémentaires de l’autre. Nous faisons tous les actes correspondants de référence et de
+prédication. Et quand nous comprenons ses conditions de vérité, nous comprenons ipso facto que toutes les assignations possibles de dénotation à ses
+constituants compatibles avec sa vérité sont par hypothèse compatibles avec la
+vérité de l’autre. Ainsi la croyance est compatible avec l’implication forte
+plutôt que la stricte en logique prédicative.
+4. Axiomatisation d’une logique épistémique prédicative minimale
+La langue idéographique L de cette logique minimale contient dans son
+lexique une série de constantes individuelles nommant des objets individuels
+ou des agents, de prédicats exprimant des relations de degré n pour certains
+nombres naturels n et les expressions syncatégorématiques : ∧, ¬, í, ý, Tautologique,
+Croit, ( et ).
+Les règles de formation de L sont habituelles. Les suites d’un prédicat
+de degré n Rn et de n constantes individuelles t1,...,tn sont les formules propositionnelles élémentaires. Si a est une constante individuelle et Ap et Bp des
+formules propositionnelles, alors ¬Ap, íAp, TautologiqueAp, aCroitAp, (Ap ý
+Bp) et (Ap ∧ Bp) sont de nouvelles formules propositionnelles plus complexes.
+(Ap ý Bp) signiﬁe que la première proposition contient toutes les propositions
+élémentaires de la seconde.
+J’utiliserai les règles d’abréviation habituelles pour l’élimination des
+parenthèses et les connecteurs ∨ de disjonction, ⇒ d’implication matérielle, ⇔
+d’équivalence matérielle, de possibilité et —∈ d’implication stricte. Voici
+des règles d’abréviation pour de nouvelles notions :
+Même structure de constituants : Ap ýí Bp =df (Ap } Bp) ∧ (Bp } Ap)
+Implication analytique : Ap → Bp =df (Ap } Bp) ∧ (Ap —∈ Bp)
+Implication forte : Ap Bp =df (Ap } Bp) ∧ Tautologique (Ap ⇒ Bp)
+Identité propositionnelle : Ap = Bp = df (Ap Bp) ∧ (Bp Ap)
+
+On peut aisément construire une sémantique formelle appropriée pour la
+langue L sur la base des considérations précédentes sur le type logique
+
+Aspects cognitifs 121
+
+des propositions38. Voici une axiomatisation que je conjecture complète des
+formules propositionnelles valides. Mes axiomes sont toutes les instances
+dans L des schémas suivants :
+Ceux de la logique classique des fonctions de vérité
+Ceux de la logique modale de S5
+
+Schémas de tautologies
+1)
+2)
+3)
+4)
+
+TautologiqueAp ⇒ íAp
+TautologiqueAp ⇒ Tautologique Tautologique Ap
+¬TautologiqueAp ⇒ Tautologique ¬Tautologique Ap
+TautologiqueAp ⇒ (Tautologique (Ap ⇒ Bp) ⇒ TautologiqueBp)
+
+Schémas d’identité propositionelle
+5) Ap = Ap
+6) Ap = Bp ⇒ (C ⇒ C*) où C* et C sont des formules propositionnelles qui
+diffèrent au plus par le fait qu’une occurrence de Bp en C* remplace une
+occurrence de Ap en C.
+7) Ap = Bp ⇒ Tautologique(Ap = Bp)
+8) ¬(Ap = Bp) ⇒ Tautologique ¬ (Ap = Bp)
+Schémas de croyance
+9) (aCroitAp ∧ aCroitBp) ⇒ (aCroit(Ap ∧ Bp))
+10) TautologiqueAp ⇒ ¬aCroit ¬Ap
+11) aCroitAp ⇒ ((Ap Bp) ⇒ (aCroitBp))
+12) aCroitAp ⇔ (aCroitaCroitAp)
+13) aCroitAp ⇒ aCroit Ap
+Schémas de composition propositionnelle
+14)
+15)
+16)
+17)
+18)
+19)
+20)
+
+Ap ý Bp ⇒ Tautologique (Ap ý Bp)
+¬(Ap ý Bp) ⇒ Tautologique ¬(Ap ý Bp)
+Ap ý Ap
+(Rnt1...tn ý Ap) ⇒ (Ap = Rnt1...tn)
+(Ap ý Bp) ⇒ ((Bp ý Cp) ⇒ (Ap ý Cp))
+(Ap ∧ Bp) ý Ap
+(Ap ∧ Bp) ý Bp
+
+122
+
+Dialogue
+
+21)
+22)
+23)
+24)
+25)
+26)
+27)
+28)
+29)
+
+(Cp ý Ap) ⇒ ((Cp ý Bp) ⇒ (Cp ý (Ap ∧ Bp)))
+¬Ap ýí Ap
+TautologiqueAp ýí íAp
+(Ap ý Bp) ýí í(Ap ∧ Bp)
+íAp ý Ap
+aCroitAp ý íAp
+í¬Ap ýí íAp
+í(Ap ∧ Bp) ýí (íAp ∧ íBp)
+ííAp ýí íAp
+
+(30), (31) et (32) s’obtiennent en mettant aCroit à la place de í en (27), (28) et (29).
+
+Mes deux règles d’inférence sont :
+
+La règle du Modus Ponens : de deux formules de la forme Ap et (Ap ⇒ Bp) inférer Bp.
+La règle de la tautologisation : d’un théorème Ap inférer TautologiqueAp.
+
+5. Principales lois valides
+5.1. Loi pour la structure de constituants
+Chaque proposition est composée des propositions élémentaires de ses arguments ╞ Ap ý Bp quand Bp fait partie de Ap.
+Lois de rationalité minimale. Les agents humains sont parfois incohérents.
+¬♦A p ⇒ aCroit ¬A p
+Ils ne sont pas non plus logiquement omniscients. Ils ne connaissent pas
+toutes les vérités nécessaires.
+Ainsi
+■A p ⇒ aCroitA p
+et même
+TautologiqueA p ⇒ aCroitA p .
+Pour croire une tautologie un agent doit avoir à l’esprit ses constituants.
+Cependant nul ne peut avoir à l’esprit une tautologie sans savoir qu’elle est
+nécessairement vraie.
+TautologiqueA p ⇒ (aCroitA p ⇒ aCroitTautologiqueA p )
+Lois d’implication tautologique. La notion de tautologie étant plus forte que celle
+de vérité nécessaire, l’implication tautologique est beaucoup plus ﬁne que la stricte.
+TautologiqueA p ⇒■A p
+
+Aspects cognitifs 123
+
+Mais
+■A p ⇒ TautologicalA p .
+Ainsi
+(A p ⎯ ∈ Bp ) ⇒ Tautologique(A p ⇒ Bp ).
+Seules des tautologies peuvent impliquer tautologiquement d’autres tautologies.
+((TautologicalBp ) ∧ Tautological (A p ⇒ Bp )) ⇒ Tautological A p
+Ainsi
+■A p ⇒ (Bp ⎯ ∈ A p ).
+Mais
+■A p ⇒ Tautological (Bp ⇒ A p ).
+De même seules des contradictions peuvent impliquer tautologiquement
+d’autres contradictions.
+Nous croyons des propositions sans pour autant avoir à l’esprit toutes celles
+qu’elles impliquent tautologiquement.
+Car
+(Tautological (A p ⇒ Bp )) ⇒ (A p⎬ Bp )).
+C’est pourquoi les engagements psychologiques et illocutoires engendrés
+par l’implication tautologique ne sont pas forts mais faibles.
+Tautologique (A p ⇒ Bp ) ⇒ (aCroitA p ⇒ aCroitBp )
+Cependant quand une proposition en implique tautologiquement une autre,
+il n’est pas possible de croire simultanément en la vérité de la première et en la
+fausseté de la seconde.
+Tautologique (A p ⇒ Bp ) ⇒ (aCroitA p ⎯ ∈¬aCroit ¬Bp )
+Lois d’implication forte. C’est l’implication propositionnelle la plus ﬁne.
+(P
+
+Q ⇔ ((P ∧ Q) = P)
+
+Elle engendre des engagements psychologiques forts.
+(A p
+
+Bp ⇒ (aCroitA p ⇒ aCroitBp ))
+
+Il y a deux raisons pour lesquelles une proposition n’implique pas fortement
+une autre. L’autre peut avoir des sens dont elle est dépourvue.
+¬(A p }Bp ) ⇒ ¬(A p
+
+Bp )
+
+124
+
+Dialogue
+
+Dans ce cas, on peut avoir à l’esprit la première sans la seconde39. Elle peut
+aussi ne pas l’impliquer tautologiquement.
+¬Tautologique(A p ⇒ Bp ) ⇒ ¬(A p
+
+Bp )
+
+Dans ce cas, on peut ignorer qu’elle implique l’autre.
+L’implication forte est une véritable relation d’équivalence. Elle est antisymétrique. Deux propositions qui s’impliquent chacune fortement sont identiques. Elle est aussi plus ﬁne que l’implication analytique qui n’est pas
+tautologique.
+Les règles d’introduction et d’élimination de la déduction naturelle
+engendrent de l’implication forte quand leurs prémisses contiennent les
+propositions élémentaires de leur conclusion. Ainsi les lois d’élimination
+de la nécessité, de la conjonction et de l’implication matérielle sont valides
+pour .
+(A p ∧ Bp )
+
+Ap
+
+(A p ∧ Bp )
+
+Bp
+
+Ap
+
+Ap
+
+(A p ∧ (A p ⇒ Bp ))
+
+Bp
+
+Il en va de même pour les lois d’introduction de la négation et de la disjonction :
+Ap
+
+O p ⇒ (A p
+
+¬A p )
+
+où Op est la contradiction et
+((A p
+
+C p ) ∧ (Bp
+
+C p )) ⇒ (A p ∨ Bp )
+
+C p.
+
+Par contre, la loi d’introduction de la disjonction n’est pas valide pour .
+Ap
+
+( A p ∨ Bp )
+
+L’implication forte est donc plus ﬁne que l’entailment de la logique de la
+pertinence. L’implication forte est aussi paraconsistante.
+(A p ∧ ¬A p )
+
+Bp
+
+Une contradiction n’implique pas fortement toutes les autres. Car
+l’implication forte est ﬁnie. Chaque proposition implique fortement un nombre
+ﬁni d’autres propositions. Enﬁn l’implication forte est décidable. La ﬁnitude et
+la décidabilité de l’implication forte conﬁrment le fait qu’elle est connue a
+priori en vertu de la compétence.
+
+Aspects cognitifs 125
+
+5.2. Lois d’identité propositionnelle
+Le critère d’identité propositionnelle que je préconise exige donc plus que
+l’équivalence stricte et analytique et la co-entailment. Contrairement à la
+logique de la pertinence :
+A p = (A p ∧ (A p ∨ Bp ))40.
+Cependant il exige moins que l’isomorphisme intensionnel de la logique
+hyperintensionnelle41. Les lois booléennes d’idempotence, de commutativité,
+de distributivité et d’associativité des fonctions de vérité restent bien des lois
+valides d’identité propositionnelle.
+(A p ∧ Bp ) = (Bp ∧ A p )
+¬(A p ∨ Bp ) = (¬A p ∧ ¬Bp )
+(A p ∧ (Bp ∨ C p )) = ((A p ∧ Bp ) ∨ (A p ∧ C p ))
+■(A p ∧ Bp ) = (■A p ∧ ■Bp )
+Il en va de même pour des lois classiques de réduction :
+¬¬A p = A p
+■■A p = ■A p
+Tout comme l’ordre de la prédication, l’ordre et la réitération d’applications
+d’opérations propositionnelles n’affectent pas toujours la forme logique. Les
+croyances des agents respectent les postulats de signiﬁcation des tables de
+vérité. On a absolument besoin en logique épistémique de lois valides du
+genre :╞aCroit(Ap ⇔ Bp) ⇔ aCroit (Bp ⇔ Ap)42.
+Notes
+1 Sur la logique illocutoire voir mon chapitre «Success, Satisfaction and Truth in the
+Logic of Speech Acts and Formal Semantics», dans S. Davis et B. Gillan, dir.,
+Semantics A Reader, Oxford, Oxford University Press, 2004, p. 710-734, ainsi que
+mon livre Meaning and Speech Acts (2 volumes), Cambridge, Cambridge University Press 1990 et 1991, 2009.
+2 G. Frege, «On Sense and Reference» [1892], dans P. Geach et M. Black, dir., Translations
+from the Philosophical Writings of Gottlob Frege, Londres, Blackwell, 1966, p. 56-78.
+3 Voir N. Belnap et al., dir., Facing the Future. Agents and Choice in Our Indeterminist World, Oxford, Oxford University Press, 2002.
+4 A. N. Prior, Past, Present and Future, Oxford, Oxford University Press, 1967.
+5 On peut caractériser avec précision l’histoire propre à chaque moment. Quand un
+moment est ﬁnal, il appartient alors par hypothèse à une seule histoire. Quand, par
+
+126
+
+6
+
+7
+
+8
+9
+
+10
+11
+
+12
+
+13
+
+14
+15
+
+16
+17
+18
+19
+20
+
+Dialogue
+contre, il continue, tous les moments qui appartiendront à sa continuation historique actuelle auront d’ofﬁce la même continuation historique actuelle. Ainsi, pour
+qu’une histoire soit propre à un moment, il faut que tous les moments de cette histoire aient la même histoire propre.
+Sur l’opposition entre l’ontologie de Frege et Church et celle de Russell, voir
+D. Kaplan «How to Russell a Frege-Church», Journal of Philosophy, vol. 71, 1975,
+p. 716-729.
+La logique intensionnelle a été fondée par Alonzo Church «A Formulation of the
+Logic of Sense and Denotation», dans P. Henle et al., dir., Structure Method and
+Meaning, New York, Liberal Arts Press, 1951.
+Voir D. Lewis, «General Semantics», dans D. Davidson et G. Harman, dir., Semantics of Natural Language, Dordrecht, Reidel, 1972.
+La présente théorie des types est cumulative. Contrairement à A. N. Whitehead et
+B. Russell (Principia Mathematica, Cambridge, Cambridge University Press,
+1910), j’admets des ensembles dont les éléments ont différents types.
+La notion d’intension vient de Rudolf Carnap (Meaning and Necessity, Chicago,
+University of Chicago Press, 1956).
+«Quantiﬁcation and the Logic of Generalized Propositions», dans C. Martinez,
+U. Rivas et al., dirs., Truth in Perspective, Recent Issues on Logic, Representation
+and Ontology, Aldershot, Ashgate, 1997.
+Formal Ontology, Propositional Identity and Truth With an Application of the Theory of Types to the Logic of Modal and Temporal Propositions, Cahiers
+d’Épistémologie, no 294, Université du Québec à Montréal, 2003-03, et «Propositional Identity, Truth according to Predication and Strong Implication», dans mon
+livre Language, Thought &amp; Action, New York, Springer, 2005.
+«Attitudes, tentatives et action», dans D. Vanderveken et D. Fisette, dir., Actions,
+rationalité et décision — Action, Rationality &amp; Decision (Cahiers de Logique et
+d’épistémologie, vol. 6), Londres, College Publication, 2008, p. 39-73.
+«Croyances, certitudes et rationalité minimale des agents humains», Psychologie
+de l’interaction, no 21 et 22, 2006, p. 13-44.
+Voir mon article «Belief and Desire : A Logical Analysis», à paraître dans les actes
+du colloque international Computers and Philosophy organisé à Laval en mai
+2006.
+D. Vanderveken, «Fondements de la logique des attitudes», Manuscrito, vol. 30,
+no 2, 2007, p. 351-398.
+La notion de rationalité minimale est due à Christopher Cherniak (Minimal Rationality, Cambridge (MA), The MIT Press, 1986.
+Cet exemple a été donné par David Kaplan lors d’une conférence à McGill.
+Voir Saul Kripke (Naming and Necessity, Cambridge (MA), Harvard University
+Press, 1980) et sa théorie causale de la référence.
+Le concept exprimé par ce tel et tel à un moment d’énonciation est rigide. Il
+s’applique en toute circonstance à l’objet qui est alors tel et tel. Voir D. Kaplan,
+«Dthat», dans P. French et al., Contemporary Perspectives in the Philosophy of
+Language, Minneapolis, University of Minnesota Press, 1979.
+
+Aspects cognitifs 127
+21 Le fait que différents locuteurs utilisant le même nom propre pour se référer
+au même objet ont souvent différentes représentations mentales ou différentes
+perceptions de l’objet ne leur empêche pas d’avoir à l’esprit un même concept, par
+exemple, l’objet appelé par ce nom dans leur discours.
+22 Dans ma terminologie, prédiquer ce n’est pas juger. C’est juste appliquer un attribut à des objets de référence au sens de l’application fonctionnelle. En exprimant
+un contenu propositionnel on fait une ou plusieurs prédications, quelle que soit la
+force illocutoire de l’énonciation.
+23 Que faire des concepts dépourvus de dénotation en certaines circonstances? On
+peut considérer les assignations possibles de dénotation comme étant des fonctions
+partielles qui n’assignent pas de valeur à de tels concepts en pareilles circonstances.
+On peut aussi identiﬁer arbitrairement leur dénotation avec l’individu vide u en
+pareilles circonstances.
+24 Un agent tout à fait incapable d’exprimer sa croyance ne pourrait pas déterminer
+dans quelles conditions elle est vraie. Une croyance inexprimable aurait des conditions de vérité tout à fait indéterminées. Ce ne serait donc pas une véritable croyance; elle n’aurait pas de contenu propre. Pour croire que Louvain n’est pas une
+hypoténuse il faut savoir ce qu’est une hypoténuse.
+25 Pareils ensembles contiennent un seul attribut de degré n et un nombre 0 ≤ k ≤ n de
+concepts individuels.
+26 W. T. Parry, «Comparison of Entailment Theories», The Journal of Symbolic Logic,
+vol. 37, 1972, p. 441-442.
+27 Voir G. Bealer, Quality and Concept, Oxford, Oxford University Press, 1982 sur la
+généralisation et la nécessitation d’attributs.
+28 La prédication de 2e ordre n’est pas nécessaire en logique des propositions
+généralisées et modales. On peut rester dans le premier ordre en considérant les
+nouveaux attributs prédiqués comme étant des généralisations et des nécessitations
+d’attributs de 1er ordre.
+29 Plus exactement, id1(íP) = *[id1(P)] où * est une opération sur ensembles de propositions telle que, pour n’importe quel ensemble Γ1 et Γ2 ⊆ Up, Γ1 ⊆ *(Γ1), *(Γ1 È Γ2)
+= (*Γ1) È (*Γ2) et **Γ1 = *Γ1.
+30 L’ensemble val(a,m) est vide quand selon val l’agent a n’existe pas ou est inconscient au moment m.
+31 Voir J. Hintikka, Knowledge and Belief, Ithaca (NY), Cornell University Press,
+1962.
+32 Supposons que selon l’assignation val l’agent a croit au moment m que les concepts
+et attributs de val(a,m) ont telles et telles dénotations en telles et telles circonstances possibles. Une assignation possible de dénotation val’ est compatible avec
+ce que l’agent a croit alors selon val (en symboles : val’ ∈ Croyance a (val)) quand
+m
+selon val’ les mêmes concepts et attributs ont les mêmes dénotations en les mêmes
+circonstances. Ainsi l’agent a croit au moment m selon une assignation val que
+l’objet u tombe sous le concept ce en la circonstance m/h quand u ∈ val’(ce,m/h)
+a
+selon toute assignation val’ ∈ Croyancem (val). De même, l’agent croit à un moment m selon une assignation val que seuls certains objets pourraient tomber sous
+
+128
+
+33
+34
+
+35
+
+36
+37
+38
+39
+40
+
+41
+42
+
+Dialogue
+un concept ce en la circonstance m/h, quand seul un de ces objets ∈ val’(ce,m/h)
+a
+selon chaque assignation compatible val’ ∈ Croyance m (val). Quand, par contre,
+l’agent a n’a pas à l’esprit un concept ce ou qu’il ignore quel objet tombe sous ce
+concept en une circonstance m’/h’ alors une assignation compatible val’ peut assigner à ce concept ce une autre dénotation val’(ce,m’/h’) ≠ val(ce,m’/h’) que val.
+Si val’ ∈ Croyance a (val) et val’’∈ Croyance a (val’) alors val’’ ∈ Croyance a
+m
+m
+m
+(val).
+Car l’agent a peut avoir de nouvelles croyances selon des assignations compatibles
+a
+val’ ∈ Croyance m (val). Il peut croire selon val’ que certains concepts et attributs de
+val(a,m) ont des dénotations en d’autres circonstances que celles considérées par
+val. Il peut aussi avoir à l’esprit d’autres constituants.
+Plus précisément, id1(aCroit P) = ⊗a [id1(P)] où, pour chaque agent a, ⊗a est une
+opération telle que *(Γ1) ⊆ ⊗a Γ1 et ⊗a (Γ1 È Γ2) = ⊗a Γ1 È ⊗a Γ2 et ⊗a ⊗a Γ1 = ⊗a
+Γ1.
+A. Tarski, «The Semantic Conception of Truth and the Foundations of Semantics»,
+Philosophy and Phenomenological Research, vol. 4, 1944, p. 341-376.
+Voir le chapitre «Attempt copula Success and Action Generation», dans D. Vanderveken, Logic, Action &amp; Thought (voir supra note 12).
+Cette sémantique formelle est présentée dans «Croyances, certitudes et rationalité
+minimale des agents humains» (voir supra note 14).
+L’implication forte n’obéit donc pas à la règle du Modus Tollens. ⊭(Ap Bp) ⇒
+(¬Bp ¬Ap).
+Selon M. Dunn, A. R. Anderson, N. Belnap et M. Dunn (Entailment. The Logic of
+Relevance and Necessity, Princeton, Princeton University Press 1992), il est infortuné que les énoncés A et A ∧ (A ∨ B) s’impliquent réciproquement en logique de
+la pertinence. Car beaucoup de ces énoncés ne sont pas synonymes.
+M. J. Cresswell, «Hyperintensional Logic», Studia Logica, vol. 34, 1975,
+p. 25-38.
+Ce texte a été présenté aux Entretiens de l’académie internationale de philosophie
+des sciences sur les Aspects philosophiques dans les sciences cognitives, à Paris en
+juin 2002.
+
+</p>
+      </div>
+    </body>
+  </text>
+</TEI>

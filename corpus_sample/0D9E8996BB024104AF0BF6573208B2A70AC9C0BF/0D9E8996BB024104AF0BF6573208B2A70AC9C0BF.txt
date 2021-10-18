@@ -1,0 +1,655 @@
+International Journal of Psychology 25 (1990) 305-316
+North-Holland
+
+305
+
+TRADUCI’ION ET VALIDATION CANADIENNEFRANCAISE
+DE L’ECHELLE DE L’ESTIME DE SOI DE ROSENBERG
+Evelyne F. VALLIERES et Robert J. VALLERAND
+Unrocrsiti
+
+du Quibcc Ci Montriol, Canada
+
+RCvision rque en janvier 1990
+
+Since the early days of psychology, the self-concept and more specifically global self-esteem has
+been addresscd by numerous researchers in the field. Among the widely used instruments for
+measuring global self-esteem, Rosenberg’s Self-Esteem scale (RSE) has displayed high levels of
+validity and reliability (Harter 1983; Wylie 1974). Through a brief (10 items) and direct approach,
+the RSE can be answered quickly by different age and social groups. Considering the good
+psychometric properties of the RSE mentioned above, and the importance of self-esteem for
+research in psychology. the purpose of the present four studies was to translate and validate in
+French the RSE Internal consistency (study 1) and confirmatory factor analyses through LISREL
+VI (study 2) were conducted with a French-Canadian junior college student population in order to
+verify the internal consistency and the unidimensional factorial structure of the scale. In addition,
+the construct validity (study 3) and temporal stability (study 4) of the scale were assessed.
+Although the present findings are preliminary in nature, they nevertheless support the reliability
+and validity of the Rosenberg’s Self-Esteem xale in French.
+
+Historiquement, peu de domaines d’ttude ont soutenu autant l’attention des chercheurs en psychologie que celui du concept de soi (Baldwin 1897; Cooley 1902; Harter 1983; James [1890] 1963; Mead 1934;
+Rosenberg 1965, 1979, 1986, 1987). Ainsi, en 1982 Ostrow estimait aux
+environs de sept mille le nombre d’articles publits sur le concept de soi.
+Cet article a C t t rMigt alors que 1e premier auteur ttait subventionnt par le Fonds pour la
+Formation des Chercheurs et I’Aide a la Recherche (FCAR-Qutbec) et que Ie second auteur Ctait
+subvcntionnt par le Conseil de Rccherches en Sciences Humaincs du Canada, le Conseil
+QuCbcCois de la Recherche Sociale. Ie Fonds pour la Formation des Chercheurs et I’Aide & la
+i
+remercier le Rofesseur
+Recherche (FCAR) et I’UniversitC du Qutbcc B Montrtal. Nous tenons !
+RenC I’Ecuyer et un tvaluateur anonyme pour leurs commentaircs judicieux sur une vmion
+anttrieurc de cet article.
+Les demandes de ti&-B-part doivent ttre adrcssies B R.J. Vallerand, Laboratoire de P s y c h o b
+gie Sociale. UnivcrsitC du Qutbcc & Montrtal, C.P. 8888. Station ‘A’, Montdal. QC, Canada H3C
+3P8.
+0020-7594/90/$03.50
+
+6 1990 - Elsevier Science Publishers B.V. (North-Holland)
+
+306
+
+E.F. Valli~res,RJ. Vallemd / Echelle ak I‘Estimr ak Soi
+
+Parmi ceu-ci, approximativement 90% portaient plus spkifiquement
+sur l’estime de soi (Rosenberg 1986).
+La popularitt de l’estime de soi globale repose moins sur sa valeur
+prtdictive comportementale que sur son association B des facteurs de
+santt mentale telle que dtmontrte par de nombreuses kvidences empiriques (Bachman et al. 1967; Harter 1983; Rosenberg 1965, 1986;
+Rosenberg et Simmons 1972; Wylie 1974). En effet, une faible estime
+de soi est rtgulitrement associte & la dkpression chez des populations
+normales tant adultes qu’adolescentes (Bachman 1970; !<aplan et
+Pokorny 1969; Luck et Heiss 1972; Rosenberg 1965; Rosenberg et
+Simmons 1972), A des indicateurs psychologiques et psychophysiologiques d’anxittt (Bachman 1970; Kaplan et Pokorny 1969; Luck et
+Heiss 1972; Rosenberg 1965; Rosenberg et Simmons 1972), A des
+niveaux inftrieurs de satisfaction de vie (Andrews et Withney 1976;
+Campbell 1981; Crandall 1973) et ti des Ctats affectifs nCgatifs tels que
+l’irritabilitt, l’impulsivitt agressive et l’anomie (Bachman et al. 1967;
+Rosenberg 1985). Enfin, des recherches rkcentes indiquent que les
+individus ayant une faible estime d’eux-mbmes sont plus susceptibles
+de ressentir des sentiments de culpabilitt, de crainte morbide de l’Cchec
+et qu’ils sont plus vulntrables & diffirents probltmes psychologiques
+(Carmines 1978; Rosenberg 1985).
+Plusieurs dtfinitions conceptuelles de l’estime de soi globale ont Ctt
+propostes, et panni cellesci, celle de Rosenberg (1979, 1985) appar&t
+sans doute comme rune des plus dignes d’inttret (Harter 1983). Selon
+Rosenberg (1985)l’estime de soi ClevCe est un indicateur &acceptation,
+de tolCrance et de satisfaction personnelle B 1’Cgard de soi tout en
+excluant les sentiments de supkrioritk et de perfection. De plus, l’estime
+de soi Clevde implique le respect pour soi-meme. Rosenberg difftrentie
+d e w n i v e a u de respect, soit les niveaux inconditionnel et conditionnel.
+Le respect inconditionnel suppose que l’individu se respecte en tant
+qu’etre humain, indeendamment de ses qualitts ou accomplissements
+alors que le respect conditionnel comporte une congruence entre les
+standards personnels de compttence, de moralitt, d’excellence et les
+sentiments d’accomplissement ti l’tgard de ces standards. Selon Rosenberg, l’absence d’un respect conditionnel diffkrentie la personne ayant
+une estime de soi ClevCe de celle possCdant une faible estime de soi.
+Parmi les instruments de mesure qui tentent de capter la notion
+gtntrale de l’estime de soi globale, notons cew de Coopersmith (1967),
+de Piers et Harris (1969)et le ‘Rosenberg’s Self-Esteem Scale’ (RSE) de
+
+E.F. Valliires. R.J. Vallerand / Echelie de I‘Estinu de Soi
+
+307
+
+Rosenberg (1965) (voir Harter 1983, et Wylie 1974, pour une critique
+de ces instruments). Le RSE est un instrument de nature unidimensionnelle, construit B partir d’une conception phCnomCnologique de l’estime
+de soi et qui permet de capter la perception globale des sujets quant B
+leur propre valeur. Cet instrument de 10 items permet d’Cvaluer B quel
+point l’individu se considtre gCnCralement c o m e une personne de
+valeur, c o m e possCdant un certain nombre de belles qualitCs, comme
+ayant une attitude positive B 1’Cgard de lui-mtme, c o m e ne se
+considtrant pas comme un tchec, un inutile, ou un bon B rien. Cet
+instrument posstde des indices de fidClitC et de validitt trts acceptables. Construit originellement selon une approche Guttman, le RSE a
+dCmontrC un coefficient de reproduction de 0.90, permettant d’infdrer
+ainsi I’unidimensionnalitC de l’instrument (Rosenberg 1965). Lors des
+Cvaluations de la stabilitt temporelle de l’instrument (test-retest), les
+rCsultats ont indiquC une corrilation de 0.85 pour un intervalle de deux
+semaines (Silber et Tippett 1965). Comme soutien B la validitC de
+construit de l’instrument, des relations nCgatives significatives ont CtC
+dCmontrCes entre le RSE et la prksence de sentiments de dkpression et
+de symptames psychosomatiques (Kaplan et Pokorny 1969; Rosenberg,
+1965), des indices d’instcuritC personnelle (Rosenberg 1965) et le
+dtsinttressement parental (Rosenberg 1965), ainsi que par des relations
+positives significatives entre le RSE et la participation B des activitCs
+para-scolaires et B un programme enrichi pour des Ctudiants de milieux
+Cconomiques dCfavorisCs (Hunt et Hardt 1969).
+Le RSE a suxitC I’intCrtt de nombreux chercheurs et il s’avtre l’un
+des instruments les plus utilisds dans les milieux anglophones (Harter
+1983; Wylie 1974). I1 se distingue tant par sa britvett de passation que
+par la gCnCralitC des items qui repose sur une Cvaluation trts globale
+des sentiments positifs ou ndgatifs que peut avoir le sujet quant B sa
+personne. En conclusion, les qualitCs psychomCtriques du RSE supportent son utilisation en recherche en psychologie.
+Etant donnC l’importance que revet le concept de l’estime de soi
+pour la recherche en psychologie, et B la lumitre des qualitCs
+psychomitriques du RSE telles que mentionnkes ci-haut, il est apparu
+opportun aux prCsents auteurs qu’un tel instrument soit traduit et
+validC en franpis. Le but premier des prisentes Ctudes Ctait donc de
+traduire et de valider le RSE en franpis, tout en tentant d’obtenir des
+indices dCmontrant que ses qualitis psychomdtriques Ctaient Cquivalentes B la version anglaise. Un deuxitme but des Ctudes Ctait de
+
+308
+
+E.F. Vallilns. RJ. Vallerand / Echelle de I%srime de Soi
+
+vtnfier de fason plus rigoureuse la structure unidimensionnelle de
+l'instrument par des analyses de cohtrence interne et plus particulidrement par une analyse factorielle confirmatoire B l'aide du logiciel
+LISREL VI (Joreskog et Sarbom 1984). Sphifiquement, la cohtrence
+interne de l'instrument fut examink lors de l'itude 1, alors que la
+vtrification de la structure factorielle de l'instrument constituait l'objet
+de l'ttude 2. Afin de nous assurer de la validitt de construit de
+l'instrument, des analyses de corrtlation avec d'autres construits psychologiques pertinents furent conduites lors de l'ktude 3. Enfin, la
+stabilitt temporelle de l'instrument fut vtnfik lors de l'ttude 4. L'ensemble de ces ttudes devrait permettre d'ttablir de f a p n prtliminaire
+les qualitb psychomttriques de la version canadienne-fransaise du
+
+RSE.
+Etude 1
+
+Le but de cette ttude Ctait de d h l o p p e r une version franqaise de l'kchellc de
+l'Estime de Soi de Rosenberg (1965) et de vkrifier ses qualitts psychomttriques dc
+cohtrmce interne. Nous anticipions que l'kchelle dc 1'Estime de Soi (EES)dtmontrerait
+un indict de cohtrmce interne t d s acceptable.
+
+L'EES fut traduitc en frantps en suivant ccrtaines des proddures issues du
+proccssus mtthodologique prccOnisC pour la validation trans-culturelle de questionnaires psychologiques (voir Vallaand (1989) pour des informations plus complttes).
+Lon d'une pmnitre ttapc. deux versions traduites furcat e f f e c t u k par deux perSOMCS, incluant le premier auteur. Lon dc la seconde ttapc. un comitk, constitut de
+chercheurs en psychologie sociale et incluant les auteurs des deux versions traduites.
+analysa les d e w versions du questionnaire en portant une attention Spcciale sur
+l'utilisation d'un langage simple. En effet, I'EES devait ttre suffisamment polyvalente
+pour pouvoir Ctre complttCe par des populations &ages et de milieux d i f f h t s . Le
+comitt tvalua chacun des items des traductions paralltles et les compara aux items de
+la version originale afm de stlectionna les items les plus p r h de l'esprit de la version
+originale et pour constitua la version expdrimcntale. Lorsque dtsaccord il y avait,
+ceiui-ci Ctait discutc ct rtsolu par conscn!sus.
+Un deuxitme point B souligner c o n m e l'tchelle utiLiSCt pour ce questionnaire. Tel
+que mmtionnt ci-haut, le questionnaire original fut dtvelopp! selon une approchc
+Guttman. Selon cette apprcche, quoique I'Cchelle cornportat quatre points, ceux-ci ont
+ktk comptabilids de manitre B obtenir des scores dichotomiques. Afin de prendre
+avantage du maximum de variance possible et d'tlargir 1 s possibilitcs d'utilisation de
+techniques statistiques plus sophistiquk (McIver et Carmines 1981). les etudes subst-
+
+E.F. VaI1ih.s. RJ. Vallerand / Ehelle de I'Estime & Soi
+
+309
+
+Tableau 1
+L'hhelle de I'Estime dc Soi (EES).
+Pour chacune d a wacttristiqua ou descriptions suivanta, indiqua A quel point chacune est vraic
+pour vous en cncerclant le chiffre approprid.
+Tout A fait en
+dtsaccord
+
+Pluti3t en
+dtsaccord
+
+Plutat en
+accord
+1
+2
+3
+1. Je pense que jc suis une pcrsonne de valeur,
+au moins tgal(c) A n'importc qui d'autre
+2. Je pense que j c pOSSWe un ccrtain nombre
+de beUa qualitb
+3. Tout bien considtrt. je suis portqe) A me
+considdrer c o m e un(e) ratqe)
+4. Jc sui capable de h i r e l
+a choses aussi bicn
+que la majoritt d a gens
+5 . Jc Scns peu de raisons d'Ctrc ficr(c) de moi
+6.J'ai une attitude positive vis-A-vismoi-mime
+7. Dans I'ensemblc, jc suis satisfait(c) dc moi
+8. J'aimerais avoir plus dc respect pour moi-mime
+9. Parfois je me sens vraimcnt inutile
+10. 11 m'anivc de penser que j e suis un(e) bon(ne) A rien
+
+Tout A fait en
+accord
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+1
+1
+
+2
+2
+2
+
+1
+
+2
+
+1
+1
+1
+
+2
+2
+2
+
+3
+3
+3
+3
+3
+3
+3
+
+4
+4
+4
+4
+4
+4
+4
+
+quentes on1 utilid la version originale en l'adaptant h une Cchellc de type Likert
+(Bachman ct O'Malley 1977; McIver et Carmines 1981; OMalley et Bachman 1979).
+C'est d'aillcurs sous cctte dernitrc formc quc McIver et Carmines (1981) I'ont valid&
+auprts d'un large Cchantillon d'ttudiants de niveau secondaire et qu'ils ont virifit ct
+soutenu la structure unidimcnsionnelle de I'instrument par le biais d'une analyse
+factorielle cxploratoire.
+Pour la validation trans-culturelle, les prtsents auteurs ont priftri I'utilisation de
+l'khelle de type Likert tout en conservant ct en inversant la formulation des quatre
+points dc la version originale. L'inversion des quatre points s'est faitc dans le but de
+facilitcr la comprthcnsion de I'Cchelle, le facteur de dtsirabilitt sociale &ant contrblt
+par la prkence de la formulation A la ntgative de cinq des dix tnoncts. L'EES s'halue
+donc sur une tchclle allant de (1) 'Tout h fait en d h m r d ' h (4) 'Tout h fait en
+accord', les points milieux Ctant reprtsentts par (2) 'Plutbt en dtsaccord' et (3) 'Plutbt
+en accord'. Les items formules ntgativcment (3, 5 , 8, 9 et 10) doivent &re recodb de
+manitre h ce que Ic score total varic dc 10 a 40. Les items tels que traduits et les
+consignes p r t s e n t h aux sujets apparaissent au tableau 1.
+L'EES fut distribute A un groupe de 56 Ctudiants de niveau collCgial(19 h o m e s , 37
+femmes) dont la moyennc &age Ctait de 18.88 ans. Les sujets ont rtpondu au
+questionnaire en classe au debut d'un cours de philosophic. Lors de la prhcntation du
+questionnaire, si prtsence du professeur il y avait, celle-ci n'interftrait en aucune
+manitre dans le dtroulement de la proctdure expc5rimentale. En prkentant I t questionnaire, l'exptkimentateur informa Ies sujets que les renseignements fournis ne seraient
+utilists qu'h des fins de recherche ct qu'ils seraient trait& confidenticllement et
+anonymenen t.
+
+310
+
+E.F. Vallilres, RJ. vakrand 1 Echelle de I‘Esrime & Soi
+
+RPsultats et Discussion
+
+La moycnnc dc I’EES pour lcs hommes et les femmes Ctait de 32.66 avec un
+kart-type de 5.69.Cette moyenne est iquivalente B une estime de soi moyennement
+tlevte, puisque les scores possibles vont de 10 h 40, 40 reprbentant le niveau le plus
+tlevt d’estimc de soi alors quc 10 indique le niveau le plus faible d‘estime de soi. Une
+moyennc telle que celle obtenue reprtsmtc un niveau d’estime de soi auquel on peut
+s’attendre c h a une population normalc d’btudiants dc niveau collkgial et correspond au
+niveau obtenu lors de I’ttude dc McIver et Carmines (1981)conduite avec des ktudiants
+de niveau secondaire. Afm de vtrificr si les moyennes des hommes et des femmes
+difftraient significativement, un test-t fut effectud. Les rtsultats n’ont indiqut aucune
+difftrence significative. Enfin, le coefficient standardid dc cohtrence interne (Alpha de
+Cronbach) de 0.70 apparait satisfaisant.
+
+Etude 2
+
+Cette seconde etude avait pour but de verifier la structure factorielle unidirnensionnelle de I’EES avec un nouvel khantillon de sujets par le biais d’unc analyse factoriellc
+confirmatoire avec le logiciel LISREL VI. Alors que la structure unidimensionnelle de
+la version anglaise avec I’tchclle dc type Likert fut soutenuc par le biais des rtsultats
+d’une analyse factorielle exploratoire (McIver et Carmines 1981). une analyse factorielle
+confirmatoire par le biais du logiciel LISREL VI constitue un test beaucoup plus
+sivtre. Ce type d’analyse permet une tvaluation plus formelle de la structure unidimensionnelle postulte grace h I’analyse dc la matrice de covariance des d o n n k
+recueillies. A cet Cgard, une valeur statistique du chitarrt et un indice AGFI (‘Adjusted Goodness of Fit Index’) sont sptcifiis lors dc cette analyse. Ces indices
+permettent de dtterminer si Ies donntes et la structure factorielle propode correspondent (voir Blais et al. 1989; Pelletier et Vallcrand sous presse; Vallcrand et d. 1989,
+pour plus d’information h ce sujet). Tel quc propod par Rosenberg (1965), nous
+postulions que le modtle h un seul facteur atteindrait un niveau d’adtquation suffisamment acceptable pour confirmer la structure unidimensionelle de I’EES.
+MPthode
+
+Le questionnaire fut administrt B un nouvel khantillon de 308 ttudiants de niveau
+colligial(l30 hommes et 178 femmes) dont la moyenne d’Pge etait de 18.14 ans. et dans
+des conditions iquivalenta B celles ayant prtsidt lors de I’ttude 1.
+L‘analyse factorielle confirmatoire avec lc logiciel LISREL VI (Jareskog et Sarbom
+1984), fut rtalisCe avec Ics donntcs recueillies. C o m e nous I’avons mentionnt plus
+haut, par I t biais de Cette analyse m e valeur statistique du chitarrt et un indice
+d’adquation A G N sont ditermints. Grace A la valeur du chi-carrt, il devient possible
+d’ivaluer le niveau de correspondance existant entre la structure factorielle proposke et
+
+E.F. ValliJres, R.J. Vallerand / Echelle de I'Estimr dr Soi
+
+311
+
+une structure factorielle saturte, laquelle inclut toutes les sources possibles de variance
+et de covariance entre les variables. Dans le cadre de ce type d'analyse, l'hypothbe
+
+nulle postule que la matrice de covariance des d o n n k devrait correspondre B la
+structure factorielle telle que propode. Ainsi, advenant que le chi-carrt obtenu soit
+non-significatif, l'hypothtse nulle pourra Stre retenue. Par contre, un chi-carrt significatif n'tlimine pas n h s a i r e m e n t I'hypothtse nulle, puisque le chi-carrk calcule par
+LISREL est un indice t r h Stvtre susceptible aux variations que l'on peut observer dans
+la distribution normale des variables observtcs, et augmentant de valeur A mesure que
+s'accroit le nombre de sujets i n c h dans les khantillons. Pour pallier B ces anomalies,
+LISREL rapporte un sccond indice ajustt, le AGFI, qui tient compte tant de la
+grandeur de l'khantillon que du chi-carrt et qui peut varier de 0.00 B 1.00 (1.00
+rbvtlant une structure s'harrnonisant parfaitement aux d o n n h ) . Enfin. un troisitme
+indice peut ftre utilid pour mieux juger de l'addquation du modtle propost, en
+I'occurrence l'estimt de variance rtsiduelle (Root mean square residual: RM.S.R.).
+Lorsque ce dernier indice se rapproche de 0.00, ceci signifie que la variance moyenne
+rtsiduelle incluse dans la matrice de covariance peut itre considtree c o m e nulle, et
+que le modde postult peut donc Ctre jug6 approprit.
+Rbultats et Discusion
+
+La moyenne obtenue sur I'EES pour ce deuxitme khantillon etait de 32.78 avec un
+kart-type de 5.69, moyenne et h r t - t y p e quivalents A ceux obtenus avec le premier
+khantillon. Les rtsultats du test-t pour vtrifier la prtsence d'une diffirence entre les
+hommes et les femmes ttaient non significatifs et le coefficient de cohirence interne
+ttait de 0.89, rtsultat beaucoup plus satisfaisant que celui obtenu lors de l'ttude 1. Les
+rtsultats de l'analyse factorielle confirmatoire conduite par le biais du logiciel LISREL
+VI ont indiqut un chi-carrt significatif (80.22,d.1. = 32. p > 0.001)mais relativement
+peu tlevk. De plus, le niveau d'adtquation AGFI Ctait fort acceptable (0.91) puisque
+t r b p r b de 1.00, alors que les saturations sur chacun des items ttaient hautement
+significatives (voir tableau 2). Enfin, l'estimt de variance rtsiduelle &ant t r b faible
+(0.03),nous pouvons conclure que ces rhultats supportent la structure unidimensionnelle de I'EES telle que postulk.
+
+Tableau 2
+Saturation des Cnoncts sur I'khelle de 1'Estime de Soi pour I'analyse factonelk confirmatoire.
+Enon&
+Saturations
+
+1
+
+0.40
+
+-
+
+2
+
+3'
+
+4
+
+5'
+
+6
+
+7
+
+8'
+
+9'
+
+10 '
+
+0.48
+
+-0.55
+
+0.46
+
+-0.58
+
+0.64
+
+0.59
+
+-0.45
+
+-0.56
+
+-0.58
+
+-
+
+Note. Chi-carrC 80.22. d.1. = 32, p < O.OOO1, AGFI 0.91. R.M.S.R = 0.03. Lcs estimations
+rapporth dans ce tableau provimncnt de la matrice de covariance et sont toutes significativcs
+(Valeur-T>2.00). Lorsqu'un parambtrc a unc valeur-Tc2.00, ceci signifie que I'ajout de ce
+param6trc au moddlc ne rtduit en rien le chi-carrk de fason significative.
+Les items 3, 5, 8, 9, 10 sont des inoncb formulb nkgativernent d'oh le signe neatif.
+
+312
+
+E. F. Vdlilns. R.?. V d l e r d / Echclle & I'EstinU de Soi
+
+Les rkultats rapport& dam les dewr ttudes prtctdentes dtmontrent que le Nveau
+de c o h t m c e interne et la structure unidixnensionnellc de I'EESsont trk acceptables et
+comparables B ceux de la version anglaise. Cependant, dans le contexte d'unc validation trans-culturelle il importe de s'assurcr que la validit6 de construit de I'instrument
+traduit mesure le construit tel quc d t f i par le cadre thhrique dc la version originale.
+Lors dc la validation de la version anglaise, rappelons que l'estime de soi Clevte ttait
+relite ntgativement h la prcsenCe de sentiments de dtpression et dc symptames
+psychosomatiques (Kaplan et Pokorny 1969; Rosenberg 1965) et qu'elle ttait relite
+positivement B la participation B des activith para-scolaires (Rosenbcrg 1965) et B un
+programme enrichi pour Ctudiants de milieux socidconomiques dtfavorisCS (Hunt et
+Hardt 1969). Le but de la p r h t e Ctude visait justement B Ctudier la validitt de
+construit de I'EES.et B vtrifier si la version f r a n w Ctait asscz sensible pour dttccter
+Ics relations de l'estime de soi en rapport avcc d'autres construits psychologiques. dont
+la dtpression ct la satisfaction de vie qui sont dcux variables susccptibles &&re
+modtrtment r e l i b B I'estime de soi. Dans la p r h n t e ttude, I'estime de soi devrait etrc
+relict ntgativement B la dtpression et positivement B la satisfaction de vie, puisque
+cette dernitre variable impliquc une tvaluation globale subjective de la qualit6 de vie
+selon les crittres ~ C I S O M C ~ Sdes individus (Bliis et al. 1989; Shin ct Johnson 1978).
+
+Selon d a proctdwes identiques aux d e w prtctdentes ttudes. 115 autrcs sujets
+ttudiants de niveau coll&al(43 bommes. 72 femmes) dont 1'Iige moyen ttait de 18.15
+ans ont rcpOndu B I'EESainsi qu'h la version abrtgte du questionnaire de dbression
+(Alpha,=0.85) de Beck et Beck (1972) traduit par Bourque et Beaudette (1982) ainsi
+qu'h I'Echcllc de satisfaction de vie (Alpha = 0.90) dc Diener et al. (1985) traduitc et
+validte en f r a n H s par Blais et al. (1989).
+Rksultats et Discussion
+
+La moyenne obtenue sur I'EES Ctait de 32.26 avcc un &-type
+de 5.52. Lc
+coefficient dc cohtrence interne ttait de 0.90 et les rcSultats du test-t ont rtvtlt B
+nouveau I'absence d'unc difftrmce signifcative cntre les h o m e s et l e i femmes.
+Les rhultats obtcnus 10s des analyses de corrtlations indiquent que I'EES ttait
+relice positivement h la satisfaction de vie ( n = 115, r = 0.20, p 0.01). alors que la
+corrklation ntgative avec la dCpression Ctait tclle que postulct ( n -112. r -0.32.
+p-0.001). Ces rhultats vont dans le sens prtdit par l a hypothtses puisque les
+corrtlations ne sont que modtrtment signiricatives. En effet. des corrtlations trop
+6levks entre ces difftrentes variables impliqueraient que celles-ci mesurent B peu prtS
+le meme construit et dtmontreraient I'invaliditt de I'estime de soi tclle que mesude par
+I'EES.En conclusion. ces rhultats soutiennent les relations postulh cntre I'EESct
+d'autres concepts psychologiques, telles que d h o n t r k avcc la version originale, et ils
+offrent un support B la validitt de construit de l'EES.
+
+-
+
+-
+
+E.F. VaIli&ru, RJ. VaIlerand / EchelIe L I'Esiimr L Soi
+
+313
+
+Les rtsultats des Ctudes 1. 2 et 3 ont pennis de dtmontrer que I'EES possodait un
+niveau dc cohtrence interne acceptable, une structure factoriclle unidimensionnelle
+tellc que postul& et que sa validitt dc construit ttait trts satisfaisante. Ccpcndant. sa
+stabilitt temporellc n'a pas encore Ctt ttudiCe. Le but de la p r b t e ttude consistait
+donc h vtrificr la stabitit6 temporelle (test-retest) de I'EES. II ttait privu que la
+corrtlation obtenue entre le test et le retest atteindrait un niveau trts Clevt et
+significatif, dimontrant un haut niveau dc stabilitt temporclle.
+
+Des p r d u r e s identiqua h celles utilistcs lors d a Ctudes prbddcntes ont Ctt
+utilis6es pour la conduite de cette dcmitrc Ctude. Soiante autres ttudiants de niveau
+coll&al(37 h o m e s et 23 femmes) dont I*& moyen ttait dc 20.55 ans. ont rtpondu A
+I'EESh deux reprises en classe A I'inttrieur d'unc pCriode de trois semaines.
+Rksultats et Discursion
+
+La moyenne h I'EESlors de la premitre passation Ctait de 32.02 avec un kart-type
+de 4.88 alors que la moymne sur le retest Ctait dc 32.74 avec un h r t - t y p c dc 5.23. Les
+rtsultats des analyses dc cohtrencc interne (alpha dc Cronbach) pour Ic test et le retest
+ttaicnt dc 0.83 et 0.88 respcctivement. Enfin. I'indice de corrtlation test-retest Ctait de
+0.84 (p <0.001). r e p r b t a n t un indice de stabilitt temporelle trts acceptable
+dtmontrant ainsi quc I'cstime dc soi telle que mesurtc par I'EES et tcl que prtdit par le
+cadre thtorique. est une variable relativement stable.
+
+Discussion gdndrale
+
+Le but des quatre ttudes du prtsent article Ctait de valider une
+version en langue fransaise de l'hhelle de 1'Estime de Soi. En gtntral,
+les rtsultats dtmontrent que les qualitts psychomttriques de cette
+khelle sont acceptables et se comparent favorablement h la version
+anglaise. En regard des indices de fidClitC de l'EES, notons d'abord que
+l'indice de cohtrence interne qui Ctait d'un niveau acceptable lors de la
+premibre Ctude (alpha=0.70) a atteint des niveaux plus que satisfaisants lors des Ctudes ulttrieures (0.89, 0.90, 0.83 et 0.88). De plus, la
+corrklation pour le test-retest ( r = 0.84) appardit t r t s adCquate tout en
+Ctant dquivalente h celle de la version anglaise.
+Au niveau de la validit6 de I'EES, les rtsultats sont plut6t encourageants. En effet, d'une part les rtsultats obtenus lors de l'analyse
+
+314
+
+E.F. Vallidres. R J . Vallerand / Echelle de I‘Estime de Soi
+
+factorielle confirmatoire indiquent et supportent la structure unidimensionnelle de l’instrument et, d’autre part, les corrtlations entre
+I’EES et la dtpression et la satisfaction de vie vont dans le sens prtdit
+conceptuellement. En effet, des corrtlations trop Clev&s entre ces
+difftrents instruments auraient signifit une tquivalence entre ces
+difftrents construits. Toutefois, des corrtlations modtrtes et dans la
+direction approprite (positive avec la satisfaction de vie et ntgative
+avec la dtpression) supportent la validitt de construit de I’ESS.
+Dam I’ensemble, ces premiers rtsultats supportent la validitt et la
+fidtlitt de I’EES. 11s doivent cependant &re p e r p s cornme prdliminaires
+puisqu’ils ont Ctt tirts d‘une population normale d’ttudiants de niveau
+colldgial. C‘est dans ce contexte spdcifique que les rtsultats doivent etre
+interprttts et des recherches ulttrieures seront ntcessaires pour tvaluer
+plus compl2tement les qualitts psychomttriques de l’instrument, entre
+autre, auprb de populations plus agtes ainsi qu’auprks de populations
+cliniques. De plus, il serait inttressant de verifier la validitt de construit
+de I’EES A I’aide de difftrentes mCthodes exptrimentales, telles qu’en
+laboratoire ou sur le terrain. Ainsi il serait possible d’identifier le riile
+que pourrait jouer l’estime de soi globale, en interaction avec d’autres
+variables, sur le cornportement humain et social. Enfin, notons que
+l’examen de la valeur p r act i v e de I’EES, relativement li des variables
+telles que la dtpression, pourrait faire l’objet d’ttudes fort inttressantes.
+En s o m e , I’EES dtmontre des proprittts psychomttriques qui
+pourraient en faire un instrument tr2s pertinent pour les recherches
+futures dans divers domaines. Grice A sa bri2vetC de passation (10
+tnoncks), l’EES est un instrument facile A administrer ou A ajouter lors
+d’exptrimentations varites et devrait, de ce fait, faire avancer nos
+connaissances dans les domaines oh l’estime de soi appardt c o m e une
+variable importante.
+
+Andrew. F.M.et S.B. Withncy, 1976. Social indicators of well-being. New York: Plenum Rcss.
+Bachman, J.G.,1970. Youth in transition: The impact of family background and intelligence on
+tenth-grade boys, Vol. 2. Ann Arbor, MI: Institute for Social Research.
+Bachman, J.G.et P.M. OMalley, 1977. Self-esteem in young men: A longitudinal analysis of the
+impact of educational and occupational attainment. Journal of Personality and Social Psychology 35. 365-380.
+
+E.F. VdlilrcJ.RJ. Vaiierand / Echelie de I'Estimr de Soi
+
+315
+
+Bachman. J.G., R.L. Kahn, M.T. Mednick. T.N. Davidson et L.D. Johnston, 1967. Youth in
+transition: Blueprint for longitudinal study of adolescent boys, Vol. 1. Ann Arbor, MI:
+Institute for Social Research.
+Baldwin. J.M.. 1897. Social and ethical interpretations in mental development. New York:
+MacMillan.
+Beck. A.T. et R.W. Beck, 1972.Screming depressed patients in family practice: A rapid technique.
+Postgraduate Mcdecine 52. 81-85.
+Blais, M.R. RJ. VaUaand. L.G. PeUetier et N.M.Brihre. 1989. L'khclle de satisfaction de vie:
+Validation canadienne-franpiaix du 'Satisfaction with Life Scale'. Revue Canadienne des
+Sciences du Comportement 21. tl0-233.
+Bourque, P. et D. h u d e t t e , 1982. Etude psychomktriquc du qUeSti0Mak de dtprcssion de Beck
+auprts d'un khantillon d'ttudiants universitaircs francophones. Revue Canadienne des Sciences du Comportcment 14.211-218.
+Campbell, A., 1981.The sense of well-being in Ameriu~New York: McGraw-Hill.
+Carmines. E.G., 1978. Psychological origins of adolescent political attitudes: Self-esteem, political
+salience, and political involvement. American Politics Quarterly 6, 167-186.
+Cooley, C.H.. 1902. Human nature and the social order. New York: Charles Scribner's Sons.
+Coopersmith, S.. 1967.The antecedents of self-esteem. San Francisco, CA: W.H. Freeman.
+Crandall, R,1973. 'The measurement of self-esteem and related constructs'. In: J.P. Robinson et
+P.R Shaver (cds.), Measures of social psychological attitudes. Ann Arbor, MI: Institute for
+Social Research. pp. 45-168.
+Diener. E., R.A. Emmons, R.J. Larsen et S. Griffin. 1985. The Satisfaction with Life Scale.
+Journal of Personality Assessment 49. 71-76.
+Haner, S.. 1978. Effectance motivation reconsidered: Toward a developmental model. Human
+Development 1. 34-64.
+Harter. S., 1982.The perceived competence scale for children. Child Development 53, 87-97.
+Harta, S.. 1983. 'Developmental perspectives on the self-system'. In: E.M. Heathrington (ed.),
+Socialization, personality and social development: Handbook of child psychology, Vol. 4.New
+York: Wiley. pp. 275-383.
+Harter. S.. 1985. 'Competence as a dimension of self-evaluation: Toward a comprehensive model
+of selfworth'. In: R.L. Leahy (4.). The development of the self. New York: Academic Prcss.
+pp. 55-121.
+Hunt, D.E. et R.H. Hardt. 1969. The effect of upward bound programs on the attitudes.
+motivation, and academic achievement of negro students. Journal of Social Issues 25. 117-129.
+James, W., 1963. Psychology. New York: Fawcett (originally published, 1890).
+Joreskog, K.G. et D.arbom, 1984. Lisrel VI. Chicago, IL: National Educational Ressources.
+Kaplan. H.B. et A.D. Pokorny, 1969. Selfderogation and psycho-social adjustment. Journal of
+Nervous and Mental D i m 149.421-434.
+Luck. P.W. et J. Heiss. 1972. Social determinants of self-esteem in adults males. Sociology and
+Social R m h 57.69-84.
+MacGuire. WJ. et A. Padawer-Singer, 1976. Trait salience in the spontaneous self-concept.
+Journal of Pmonality and Social Psychology 33. 743-754.
+McIver, J.P. et EG.Carmines. 1981. Unidimmsiond scaling. Sage University Paper series on
+Quantitative Applications in the Social Sciences. 07-024.Beverly Hills. CA and London: Sage.
+Mead G.H., 1934. Mind, self, and society. Chicago, IL: University of Chicago Press.
+OMallcy, P.M. et J.G. Bgchman, 1979. Self-esteem and education: Sex and cohort comparaisons
+among high school seniors. Journal of Personality and Social Psychology 37, 1153-1159.
+Pelletier, L.G. et R J . Vderand, sous pressc. L'CcheUe revis& de conscience de soi: Une
+traduction ct une validation canadienne-franMse du 'Revised Self-consciousness Scale'.
+Rewe Canadienne des Sciences du Comportement.
+
+316
+
+E. F. Vaililnr. RJ. Vailerand / Echelle & I'Estimr de Soi
+
+Piers, E et D. Harris. 1969. The PiemHarris Children's Self-Concept Scale. Nashville, TN:
+counselor Recordings and Tests.
+Rosenbcrg, M.. 1965. Society and the adolacent Self-image. Princeton. NJ: Princeton University
+RCSS.
+
+Rosenbcrg, M..1979. Concaving the self. N m York: Basic.
+Rosenbcrg, M.. 1985. 'Selfconapt and psychol0gical Wd-bcing in adolescence'. In: R Leaby
+(4.
+The
+).
+development of the self. N m York: Academic Press. pp. 205-246.
+Roscnbcrg M..1986. 'Self-concept from middle childhood Ihrougb adolescmce'. In: Jeny Sub et
+Anthony G m w a l d (edr), Psychological prrspectives on the self. Vol. 3. Hillsdale, NJ:
+Erlbaum. pp. 107-136.
+Roscnberg M. et RG. Simmons, 1972 Black and white s elfa ta m : The urban school child.
+Washington, DC:American Sociological Association.
+Shin, D.C. ct D.M.Johnson, 1978. Avowed happiness as an overall assessment of the quality of
+life. Social Indicators Rcauuch 5. 475-492.
+Sibcr. E. et J.S. Tippett, 1965. Selfcstam: Clinical assessment and measurement validation.
+Psychological Reports 16. 1017-1071.
+Vallerand RJ.. 1989. Vat une dthodologie de validation trans-culturelle dc quationnaircs
+psychologiques: Implications pour la recherche en h g U e frmpise. Psychologic Canadiennc
+30,662-680.
+Vallerand RJ.. M.R Blais, N. B r i h et LG. Pcllctier. 1989. Construction ct validation de
+I'khclle de motivation en Mucation (EME). Revue Canadimne des Sciences du Comportcmen1 21.323-349.
+
+W y k R. 1974. The self-concept: A review of methodological considerations and measuring
+instrummt.~,Vol. 1. Lincoln. NE: University of Nebraska Press.
+Wylie, R., 1979. The selfconcept: Theory and research on selected topics, Vol. 2. Licoh, NE:
+University of Nebraska Press.
+
+Dts les dCbuts de la psychologie, la chmbcurs dans Ic domaine r sont inttrascS au concept dc
+soi ct plus pPrticuli~entA I'esthe de soi globale. Parmi les instruments Uristant en langue
+anglpisC pour me~umle consvUit de I'CS~~UIC
+de d dobale. le 'SClf-EsrCrm Scale' (ME) de
+Rosarberg (1965) a d h o n t d der indices de validitt et de fidClitt trb tlev& (Harter 1983; Wylie
+1974). W A sa britvett (10 items). c'ert un instrument facile A adminisuer. qui peut Ctrc complttt
+par d a sujets de g r o u p d'9ger et de milieux diffhents. ktant donnt l
+a qualit& psychoduiques
+du 'Self-Esteem W e ' ct I'inrtrtt que swcitc I'ahde soi d m les rechmhcs en psychologie. le
+but des pdsentes t t u d a ttait dc traduirc ct de validcr unc version (L'hclle de I'btime de Soi:
+EES) du 'Self-Esteem Scale' de Rosenbag CII I a n p Iran+.
+La conduitc de quatre Ctuda
+aup& d'unc population d'ttudiants canadiear-franpis de nivcau colldgial llow a permis d'tvplucr
+Ic nivcau de c o b h c e interne (Ctudc 1). ct la structure factonelk unidimensionncllede I'insuument (ttude 2) par Ie biais d'une d y s e factorielle confirmatoire (LISREL VI). La validitt dc
+constnrit ct la stabilitt tempofelle (test-retest) ont ttt tvalucto lors de la conduitc dcs ttudes 3 et
+4 respectivemcnt. M a l e la nature pn9iminOirr de c u rQultats, ccux-ci supportent, dans I'msemble. la vpliditt et la fidtlitt de I'kchclle de I'Estime de Soi en fran#s.
+

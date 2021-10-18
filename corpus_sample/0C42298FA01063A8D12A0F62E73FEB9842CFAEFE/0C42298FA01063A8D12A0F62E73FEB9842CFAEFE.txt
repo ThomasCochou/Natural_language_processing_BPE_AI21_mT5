@@ -1,0 +1,1158 @@
+Ex mental
+
+Exp Brain Res (1982) 48:345-354
+
+Bratn
+Research
+9 Springer-Verlag 1982
+
+Etude des Neurones D~glutiteurs Pontiques chez la Brebis
+I. Activit~ et Localisation*
+
+A. Car et M. Amri
+Laboratoire de Neurophysiologieg6n6rale, Facult6 des Scienceset Techniques Saint-J6r6me, F-13397 Marseille C6dex 13, France
+
+Summary. The activity of pontine swallowing neurons (PSNs) at the level of the trigeminal (Vth)
+motor nucleus were studied in sheep anaesthetized
+with halothane.
+Electromyographic (EMG) recordings from different muscles innervated by the Vth nerve have
+shown that the mylohyoid (MH), the anterior body
+of the digastric (Dig) and the medial pterygo~d (Pt)
+muscles discharged at about the same time during
+swallowing induced by stimulating (short train of
+shocks at 30 Hz or 500 Hz) the superior laryngeal
+nerve. In contrast, the masseter and temporal muscles remained "silent", indicating that these muscles
+were not concerned with reflexly induced swallowing.
+Using extracellular tungsten microelectrodes, the
+Vth motor nucleus region was explored. The activity
+of 193 PSNs was recorded. These neurons have been
+classified into two groups:
+1) The discharge of Group I PSNs (179 neurons)
+persisted after motor paralysis (Flaxedil, 2 mg/kg)
+indicating a centrally patterned activity. 123 PSNs
+were normally "silent" and activated only when
+swallowing occurs. Swallowing activation was characterized by a variable burst of spikes (one to seven
+spikes) at low frequency ( - 50 Hz) during the period
+of EMG activity of MH, Dig and Pt muscles. These
+neurons were identified as a motoneurons supplying
+swallowing muscles. 56 were antidromically activated
+by motor nerve stimulation (MH-Dig mainly); they
+were located in the posterior part of the Vth motor
+nucleus (ventro-medial region). Other PSNs (56
+neurons) could fire spontaneously. They exhibited a
+long lasting swallowing activation (10-35 potentials)
+beginning before or during swallowing (EMG sig* Ce travail a fait l'objet d'une note pr61iminaire: J Physiol(Paris)
+76:39 A (1980)
+Tirets gz part: Dr. A. Car (adresse susnomm6e)
+
+nal); in addition, their discharge frequency was
+always higher than 50 Hz ( - 90 Hz: 43 neurons; > 90
+Hz: 13 neurons). Following electrical stimulations of
+motor nerves, an antidromic potential could be
+evoked for only two PSNs, but for 26 other neurons a
+field potential was recorded. On the other hand,
+these PSNs were located in the Vth motor nucleus or
+in the reticular formation, very close to it. The
+functional significance of these neurons is not clear;
+they might correspond either to motoneurons of
+smaller size (~ or 7) or to interneurons.
+2) Group II neurons (14 neurons) discharged
+during and/or after the EMG activity of the swallowing muscles (MH, Dig and Pt). The response was
+characterized by a variable burst of spikes and was
+always suppressed after motor paralysis, indicating a
+sensory patterned activity (feed-back mechanism).
+Most of these neurons were recorded from a region
+corresponding to the supratrigeminal nucleus.
+Key words: Swallowing - Pontine swallowing neurons - Trigeminal motor nucleus - Unit activity
+(extracellular microelectrodes) - Sheep
+
+R6sum6. Chez le mouton anesth6si6 (fluothane),
+nous avons 6tudi6 l'activit6 du r6seau neuronique
+pontique actif lors de dOglutitions d6clench6es par
+stimulation du neff laryng6 sup6rieur ou de la r6gion
+du faisceau solitaire bulbaire (courtes salves de chocs
+30 Hz ou/a 500 Hz).
+L'enregistrement de l'activit6 61ectromyographique (EMG) des muscles innerv6s par le noyau
+moteur du trijumeau (nMV) montre que les muscles
+mylohyoidien (MH), digastrique ant6rieur (Dig) et
+pt6rygoidien m6dian (Pt) d6chargent en phase lors
+du stade buccopharyng6 de la d6glutition; par contre,
+les muscles masseter et temporal ne sont pas actifs.
+0014-4819/82/0048/0345/$ 2.00
+
+346
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit6 et Localisation
+
+L'exploration au moyen de micro61ectrodes m6talliques extracellulaires de la r6gion du nMV a
+permis de distinguer deux groupes de neurones actifs
+au moment de la d6glutition.
+Les neurones du groupe I (179 neurones) ont une
+activation d6glutitrice qui persiste chez l'animal profond6ment curaris6: ils appartiennent donc au centre
+d6glutiteur rhombenc6phalique. La plupart (123 neurones) d6chargent (un h sept potentiels) h basse
+fr6quence (< 50 Hz) pendant I'EMG des muscles
+d6glutiteurs. I1 s'agit de motoneurones a en rapport
+avec les muscles MH, Dig et Pt. Un grand nombre
+(56) ont pu ~tre envahis antidromiquement par stimulation des nerfs moteurs (nerf du MH-Dig surtout).
+Ces motoneurones ont 6t6 localis6s dans la partie
+post6rieure du nMV (r6gion ventro-m6diane). Les
+autres neurones du groupe I (56 neurones) d6chargent ~tune frdquence sup6rieure g 50 Hz (___90 Hz: 43
+neurones; > 90 Hz: 13 neurones). Par ailleurs, leur
+activation d6glutitrice est plus fournie (10 ~ 35
+potentiels) et d6bute pendant ou avant I'EMG des
+muscles d6glutiteurs. Seulement deux neurones ont
+pu ~tre envahis antidromiquement par stimulation du
+neff du MH-Dig; mais 26 6taient situ6s dans des
+zones off l'on recueitlait des potentiels de champ
+antidromiques. De plus, ces neurones ont 6t6 localis6s dans le nMV ou dans la r6ticul6e voisine. La
+signification de ces cellules n'apparaft pas clairement:
+elles pourraient correspondre soit ~t des motoneurones de plus petite taille (a ou y) soit h des
+interneurones.
+Les neurones du groupe II (14 neurones) ont une
+d6charge d6glutitrice qui se produit pendant et/ou
+apr6s I'EMG des muscles d6glutiteurs. Cette
+d6charge est supprim6e apr6s curarisation compl6te
+de l'animal: elle est donc due ~ u n processus de
+r6aff6rentation. Les neurones du groupe II 6taient
+pour la plupart situ6s dans la r6gion du nucleus
+supratrigeminalis.
+Mots cl~s: D6glutition - Neurones d6glutiteurs pontiques - Noyau moteur du trijumeau - Activit6 unitaire (micro61ectrodes extracellulaires) - Brebis
+
+In~oducfion
+
+La d6glutition est une fonction qui est enti6rement
+programm6e par un r6seau neuronique contenu dans
+le rhombenc6phale et appel6 <<centre d6glutiteur~>.
+Des travaux ant6rieurs (Doty 1968; Car et Roman
+1970; Jean 1972a, b, 1978) ont montr6 qu'une partie
+importante de ce r6seau 6tait situ6e dans le bulbe
+
+rachidien. En particulier, les interneurones qui programment la s6quence motrice de d6glutition sont
+localis6s dans la r6gion du noyau du faisceau solitaire, 1,5 ~ 4 mm en avant de l'obex (Jean 1972a, b).
+Mais il existe d'autres neurones d6glutiteurs dans le
+pont, au niveau du noyau moteur du trijumeau
+(nMV). Ce dernier noyau contient les corps cellulaires des motoneurones innervant les muscles mylohyoidien (MH), digastrique ant6rieur (Dig), pt6rygo'dien (Pt), masseter (Mas) et temporal (Tp). Les
+donn6es bibliographiques sur le r61e de ces muscles
+au cours de la d6glutition sont peu nombreuses et
+souvent contradictoires (voir les revues de Doty
+1968; Dubner et al. 1978). Par ailleurs, il n'existe
+notre connaissance qu'un seul travail traitant de
+l'activit6 unitaire des neurones pontiques au cours de
+la d6glutition: il s'agit du travail de Sumi (1977b) sur
+les motoneurones du muscle MH (technique de la
+fibre isol6e). Dans le pr6sent mdmoire, nous nous
+proposons d'6tudier au moyen de micro61ectrodes
+extracellulaires l'activit6 unitaire des neurones d6glutiteurs pontiques.
+
+Techniques
+
+Techniques Chirurgicales
+L'anesth6sie est induite par l'injection intrajugulaire d'une solution de Nesdonal (Thiopental sodique). L'animal respire ensuite
+un m61ange d'air atmosphdrique (60%) et d'oxyg~ne (40%)
+contenant des vapeurs de Fluothane (2%).
+Le muscle MH est mis ~t nu grgtce ~t une incision sagittale
+effectu6e sous la mgchoire, en avant du larynx. Les muscles Pt
+m6dian et Dig sont d6gagds au niveau de leurs insertions sur le
+bord ventral et post6rieur de la m~choire. Enfin, les muscles Tp
+(partie sup6rieure) et Mas (partie antdrieure) ont 6t6 pr6par6s au
+cours de certaines exp6riences (6tude rnacrophysiologique).
+Le nerf laryng6 sup6rieur (NLS) est d6gag6 grace ~t une
+approche ventro-m6diane au niveau du larynx. Le neff des muscles
+M[-I et Dig est pr6par6 par vole transmandibulaire avant sa
+division en deux rameaux innervant les muscles MH et Dig. Pour
+acc6der au neff du Pt, il convient d'enlever la partie post6rieure de
+la mfichoire jusqu'au uiveau de l'articulation temporo-mandibulaire, puis de r6cliner largement vers l'avant le muscle Pt m6dian.
+I1 s'agit l~t d'une intervention traumatisante, aussi ce neff n'a-t-il
+6t6 pr6par6 qu'au cours de quelques exp6riences de contr61e.
+Enfin, le neff du Mas a toujours 6t6 d6gag6 juste avant ses
+ramifications terminales.
+Pour mettre ~ nu le bulbe rachidien et le pont, on tr6pane le
+cfftne au niveau de la suture pari6to-occipitale. Le cervelet est
+enlev6 ~tl'aide d'un suceur en verre branch6 sur une pompe ~tvide.
+A la fin du temps chirurgical, la t~te de l'animal est fix6e dans
+un appareil de contention d6riv6 du cadre de Horsley et Clarke, et
+positionn6e de fa~on ~ ce que le plan tangent au plancher du 4e
+ventricule soit sensiblement parall61e au plan horizontal de l'appareil st6r6otaxique. Durant la phase exp6rimentale, l'anesth6sie est
+diminu6e (1% de Fluothane), afin de ne pas perturber la d6glutition. Pour 6viter les ph6nom6nes douloureux, routes les plaies sont
+alors r6guli6rement infiltr6es par un anesth6sique local (Procaine
+
+2%).
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit6 et Localisation
+
+Techniques de Stimulation
+La stimulation des nerfs est r6alis6e ~ l'aide d'61ectrodes bipolaires
+en platine. La stimulation des structures profondes est effectu6e
+grace g une 61ectrode bipolaire concentrique constitu6e d'un tube
+en acier verui au four, de 0,4 mm de diambtre, et d'un fil central
+6maill6 de 100 ~m coup6 g environ 1 mm de la sortie du tube.
+Les 61ectrodes de stimulation sont relides par l'interm6diaire
+d'une unit6 d'isolement HF ~ un stimulateur 61ectronique (type
+WPI Instruments) fournissant des impulsions rdglables en intensit6, dur6e et frdquence.
+
+Techniques de ROception
+L'activit6 61ectromyographique (EMG) des muscles innerv6s par
+le V a toujours 6t6 enregistr6e en m6thode bipolaire grace g des
+ills de cuivre 6maill6 implantds directement dans le muscle.
+L'activit6 unitaire des neurones pontiques a 6t6 recueillie en
+d6rivation extracellulaire au moyen de micro61ectrodes de tungst6ne d'un diam6tre de 1 ~tm ~tla pointe (imp6dance: 9 5 12 M~
+1000 Hz).
+Tousles ph6nom6nes 61ectriques, convenablement amplifi6s,
+sont visualis~s sur l'6cran d'un oscilloscope conventionnel (Tektronix 565) ou ~ m6moire (Tektronix 51113), et photographi6s
+(Camera Grass type C4).
+
+Contrdles Histologiques
+En cours d'exp6rience, les sites de r6ception et de stimulation sont
+marqu6s par 61ectrocoagulation (250 ~A pendant 5 s environ). Les
+contr61es histologiques sont ensuite effectuds soit sur des coupes
+color6es (technique de Kliiver et Barrera 1953) de 10 a 25 ~m
+d'6paisseur, soit sur des coupes non color6es de 50 ~m d'6paisseur
+effectudes en cong~lation.
+
+Curarisation
+La plupart de nos exp6riences ont 6t6 effectu6es sur des pr6parations partiellement curarisdes par des injections intraveineuses
+d'une solution dilu6e de gallamine (Flaxedil). Ce proc6d6 permettait d'dviter d'6ventuels mouvements qui auraient g~n6 les enregistrements microphysiologiques, tout en conservant un indice discret
+de la d6glutition (faible signal EMG sur les muscles ddglutiteurs).
+Par ailleurs, afin de pr6ciser la signification de certaines r6ponses
+unitaires pontiques, nous avons parfois effectual une curarisation
+profonde de l'animal (Flaxedil ~ la dose de 2 mg/kg). L'administration d'une telle dose de Flaxedil supprime l'indice musculaire de la
+d6glutition, aussi le test de curarisation n'a-t-il pas 6t6 pratiqu6 de
+fa~on syst6matique sur tous les neurones d6glutiteurs enregistr6s.
+
+Crit~res d'identification des Motoneurones
+Pour identifier les motoneurones des muscles innerv6s par le V,
+nous avons stimul6 diff6rents nerfs moteurs. Le neff des muscles
+MH-Dig a r6guli6rement 6t6 sfimul6; par contre, le neff du Pt,
+d'un acc~s tr6s difficile (voir Techniques Chirurgicales) et le nerf
+du Mas n'ont 6t6 stimul6s qu'au cours de quelques expdriences de
+contr61e.
+Pour conclure g l'invasion antidromique d'un neurone, les
+crit6res classiques ont 6t6 retenus, notamment l'existence dans un
+d61ai convenable d'une collision entre l'influx antidromique et
+l'influx orthodromique de la d6charge spontan6e (voir Barillot et
+al. 1980; Lipski 1981).
+
+347
+
+R6sultats
+Les r6sultats que n o u s
+o b t e n u s chez 48 b r e b i s .
+
+allons r a p p o r t e r
+
+o n t 6t6
+
+Etude Macrophysiologique
+C e t t e 6 t u d e e f f e c t u d e au m o y e n de la t e c h n i q u e
+6 1 e c t r o m y o g r a p h i q u e ( E M G ) a p o u r but: (1) d e
+pr6ciser quels s o n t les m u s c l e s i n n e r v d s p a r le V qui
+sont actifs au cours de la d 6 g l u t i t i o n ; (2) d e l o c a l i s e r
+dans le p o n t le r 6 s e a u n e u r o n i q u e i m p l i q u 6 dans la
+c o m m a n d e de ces muscles.
+L ' e n r e g i s t r e m e n t des activit6s E M G des m u s c l e s
+innerv6s p a r le n o y a u m o t e u r d u V m o n t r e que les
+muscles M H , D i g et P t m 6 d i a n s o n t actifs l o t s d e la
+d6glutition d 6 c l e n c h 6 e p a r s t i m u l a t i o n (0,5 ~ 1 V; 0,2
+ms) du N L S avec des c o u r t e s salves d e chocs ~ 30 H z
+(Fig. 1A). Les d 6 c h a r g e s E M G se p r o d u i s e n t sensib l e m e n t en p h a s e d a n s les trois m u s c l e s et d u r e n t
+e n t r e 200 et 300 ms; la l a t e n c e est v a r i a b l e (100-300
+ms). P a r c o n t r e , d a n s nos c o n d i t i o n s e x p 6 r i m e n t a l e s ,
+nous n ' a v o n s j a m a i s o b s e r v 6 d ' a c t i v a t i o n d6glutitrice
+dans les m u s c l e s M a s et Tp.
+P o u r localiser les n e u r o n e s p o n t i q u e s i m p l i q u 6 s
+dans la c o m m a n d e des m u s c l e s d 6 g l u t i t e u r s , n o u s
+avons stimul6 avec u n e aiguille fine c o a x i a l e la r6gion
+du n M V , et e n r e g i s t r 6 I ' E M G des m u s c l e s M H , D i g
+et Pt. D e s r 6 p o n s e s ?~ c o u r t e l a t e n c e (2 ms e n v i r o n
+p o u r le D i g et le Pt; 3 - 4 m s p o u r le M H ) o n t 6t6
+o b s e r v 6 e s e n s t i m u l a n t p a r choc u n i q u e ( 1 - 4 V; 0,2
+ms) la r6gion du p o n t situ6e 14-15 m m en a v a n t d e
+l ' o b e x , 4-5 m m en lat6ralit6, 5 - 6 m m e n p r o f o n d e u r
+et c o r r e s p o n d a n t ~ la p a t t i e p o s t 6 r i e u r e du n M V
+(Fig. 1B). Ces r 6 p o n s e s qui s u i v e n t des f r d q u e n c e s d e
+s t i m u l a t i o n tr~s 61ev6es s o n t dries /~ l ' e x c i t a t i o n
+directe des m o t o n e u r o n e s des m u s c l e s d6glutiteurs.
+P a r ailleurs, la s t i m u l a t i o n p a r d e u x o u trois chocs
+1000 H z de la r6ticul6e p r o c h e des b o r d s v e n t r o m 6 d i a n et p o s t 6 r i e u r du n M V est s u s c e p t i b l e d ' a c t i ver ces m ~ m e s m o t o n e u r o n e s p a r v o i e s y n a p t i q u e .
+L a l a t e n c e des E M G est 16g~rement s u p 6 r i e u r e (1 m s
+environ) ~ celle des r 6 p o n s e s m o t r i c e s d i r e c t e s (Fig.
+
+1C).
+Etude Microphysiologique
+C o m p t e t e n u des r6sultats f o u r n i s p a r l ' 6 t u d e m a c r o p h y s i o l o g i q u e , n o u s a v o n s e x p l o r 6 a v e c des m i c r o 61ectrodes m 6 t a l l i q u e s guid6es s t 6 r 6 o t a x i q u e m e n t la
+r6gion du p o n t c o r r e s p o n d a n t ~ la p a r t i e p o s t 6 r i e u r e
+du n M V . N o u s nous s o m m e s p a r t i c u l i ~ r e m e n t int6ress6s aux n e u r o n e s activ6s l o t s d e d 6 g l u t i t i o n s
+
+348
+
+A. Car et M. Amri: Neurones Ddglutiteurs Pontiques. Activit6 et Localisation
+
+A
+MH
+Dig
+
+, ,,,L = ,
+
+-1
+
+..
+
+-r
+
+TT-
+
+. . . . .
+
+9
+
+Pt
+Mas
+St
+
+9 0 0 O0
+
+150rnS
+
+B
+
+C
+
+DigT ~
+
+[R
+
+Pt - . ~
+
+7
+
+"=
+
+i
+
+5mS
+
+lOrnS
+
+Fig. 1A-C. EMG activity of muscles
+innervated by the trigeminal nerve. MH
+= mylohyoid EMG; Dig = anterior
+digastric EMG; Pt = median pterygoYd
+EMG; Mas = masseter muscle EMG; St
+= stimulation. A Swallowing induced by
+stimulating (0.5 V, 0.2 ms) the ipsilateral
+superior laryngeal nerve with five shocks
+at 30 Hz (stimulus marked by dots).
+Note synchronous EMG discharge in
+MH, Dig and Pt muscles, and absence of
+response in Mas muscle. B Single shock
+stimulation (4 V; 0.2 ms) of the posterior
+part of the Vth motor nucleus (dot on
+map; for abbreviations see Fig. 6). Note
+short latency of EMG responses evoked
+in swallowing muscles (2 ms for Dig and
+Pt). C EMG response of Dig muscle
+produced by stimulating the Vth motor
+nucleus in 1, and the very close reticular
+formation in 2 (three shocks at 1,000
+Hz). Note the short latency difference
+(i ms)
+
+A
+1
+
+MH
+
+I
+
+NPt_
+
+II
+
+I
+
+El
+
+J I" 1
+
+II
+
+J
+
+I : i.:.
+
+,[
+
+I ,L ~. ~.~_ ~ _1
+
+i~
+
+ii
+
+Ii
+
+St
+MH
+
+2
+
+NP
+St
+60mS
+
+MH
+
+1
+
+B
+-
+
+~-
+
+-
+
+"
+
+'
+
+NP
+st
+
+2
+MH
+
+Dig
+
+-'"
+
+NP_
+
+~'-
+
+st
+
+-
+
+'
+
+'
+
+-
+
+:--
+
+'"
+
+"
+
+-'
+
+&
+I
+
+Fig. 2A, B. Effect of deep curarization
+upon activity of pontine swallowing
+neurons. MH, Dig and St: see Fig. 1. N P
+unit activity of pontine neurons (negativity upwards). A Group I neuron; B
+group II neurons (recording site on map,
+abbreviations in Fig. 6). For A and B"
+1: swallowing activity induced by
+stimulating the superior laryngeal nerve
+(three shocks at 500 Hz); 2: effect of
+deep curarization (gallamine 2 mg/kg;
+stimulation with four shocks at 500 Hz).
+Note that swallowing activation persists
+in A and disappears in B
+
+60mS
+
+d6clench6es par stimulation du NLS ou de la r6gion
+du faisceau solitaire bulbaire (courtes salves ~i 30 Hz
+ou ~ 500 Hz; 2-5 V; 0,2 ms), 3-4 mm en avant de
+l'obex (voir Car et Roman 1970). Le d6clenchement
+de la d6glutition a toujours 6t6 appr6ci6 grace
+l'enregistrement de l'activit6 EMG des muscles MH,
+Dig et Pt. Sur les trac6s cependant, cette activit6 est
+tres souvent att6nu6e du fait d'une curarisation
+partielle de l'animal (voir Techniques). Dans certains
+cas meme, une curarisation complete a 6t6 pratiqu6e,
+
+mais toujours apr6s qu'aient 6t6 test6s les param6tres
+de stimulation (du NLS ou du bulbe) permettant
+d'obtenir une d6glutition.
+
+Activitd des Neurones D~glutiteurs Ponliques. Au
+moment de la d6glutition 193 neurones pontiques ont
+pr6sent6 une activation. I1 peut s'agir soit de neurones qui ne sont pas actifs spontan6ment, et qui se
+mettent ~ d6charger lorsque l'animal d~glutit, soit de
+neurones qui dmettent des potentiels spontan6ment,
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit~ et Localisation
+
+Les neurones du groupe I (179 neurones) ont une
+activation d6glutitrice qui persiste chez l'animal curaris6 (Fig. 2A). L'histogramme des fr6quences de
+d6charge de ces neurones au moment de la d6glutition (Fig. 3) montre qu'ils constituent une population
+h6t6rog~ne. La plupart (123 neurones) d6chargeaient
+faible fr6quence (frdquences moyenne et instantan6e _< 50 Hz). Ces neurones n'6taient g6n6ralement
+pas actifs spontan6ment; au moment de la d6glutition, ils pr6sentaient une ddcharge peu fournie (un
+sept potentiels d'action) dont la dur6e n'exc6dait pas
+180 ms, et qui 6tait contemporaine de I'EMG des
+muscles d6glutiteurs (Fig. 4A). Cinquante de ces
+neurones ont pu ~tre envahis antidromiquement
+(Fig. 4A') par stimulation du neff des muscles MHDig (latence moyenne: 1,47 4- 0,36 ms; vitesse de
+conduction moyenne: 54 _+ 14 m/s). Seulement six
+neurones ont pr6sent6 une activation antidromique,
+par stimulation du neff du Pt (latence moyenne:
+1,10 _+ 0,26 ms; vitesse de conduction moyenne: 43 _+
+10 m/s); mais il faut se souvenir que la stimulation de
+ce neff n'a 6t6 test6e que sur une faible proportion de
+neurones (35). Par ailleurs, pour 56 neurones on
+enregistrait un potentiel de champ de grande amplitude lots de la stimulation des nerfs moteurs.
+Les autres neurones d6glutiteurs du groupe I (56
+neurones) ont une fr6quence de d6charge sup6rieure
+50 Hz (voir Fig. 3). Pour 43 neurones, la frdquence
+(moyenne et instantan6e) n'exc6dait pas 90 Hz; pour
+
+N 84
+
+50
+
+I
+
+I
+0
+
+11)
+
+30
+
+50
+
+'
+
+I
+
+90
+
+l0
+
+[
+
+'
+
+llO
+
+349
+
+130 F
+
+Fig. 3. Histogram of firing rates of pontine swallowing neurons
+(group I). N = number of units; F = mean firing rate during
+swallowing. Total number of units: 162. Seventeen neurons
+discharging at low and irregular frequency (1-2 spikes) were not
+considered in the diagram. Note that 65% of the swallowing
+neurons fired at rates ranging from 20 to 50 Hz
+
+et dont la fr6quence de d6charge s'acc616re au
+moment de la d6glutition. Ces neurones ont 6t6
+class6s en deux groupes selon les effets de la curarisation profonde.
+
+A
+MH--
+
+Dig
+NF
+
+St
+
+9
+
+,
+
+60mS
+
+.
+
+B
+MH
+D=g
+NP
+St
+
+.
+
+.
+
+.
+
+.
+
+F
+
+'
+
+'I
+
+~
+
+I ~
+
+'
+
+40mS
+
+*
+
+A'
+
+B
+
+J
+
+I
+
+Iz00s
+5mS
+
+Fig. 4A-B, A'-B'. Activity of group I
+swallowing neurons, recorded from
+lightly curarized animals. Recording
+sites indicated by black circles on map
+(abbreviations in Fig. 6). MH, Dig, NP
+and St: see preceding figures. A Swallowing activation by stimulating (0.5 V;
+0.2 ms) the superior laryngeal nerve at
+30 Hz (four shocks). Note low firing
+rate. A' Collision test between orthodromic spike of swallowing discharge
+and antidromic spike induced by
+stimulating the MH-Dig nerve (1 V; 0.1
+ms). Antidromically evoked spike on
+horizontal line (shock artifacts at dots).
+Swallowing activity on vertical record.
+Note absence of antidromic potential
+when a spontaneous spike precedes the
+nerve stimulation during adequate time
+interval (approximately 2 ms). B Swallowing induced by stimulating superior
+laryngeal nerve (four shocks at 30 Hz;
+only the last shock is indicated by a dot).
+Note the discharges of two swallowing
+neurons (spikes of different amplitudes).
+B' Collision test for the small amplitude
+neuron by stimulating the MH-Dig
+nerve. Note absence of antidromically
+evoked spike just after the occurrence of
+a spontaneous spike
+
+350
+
+A. Car et M. Amri: Neurones Ddglutiteurs Pontiques. Activit6 et Localisation
+
+A
+MH
+
+D~g
+NP
+St
+
+9
+
+9
+
+9
+
+9
+
+a
+
+6OmS
+
+9
+
+B
+MH
+Dig
+
+!
+
+NP ~ . . , . = . . , = . . . L . , . . . . . , , -
+
+.
+
+.
+
+.
+
+.
+
+I t l lLlt[Ht lllll ll.t ....
+.
+
+.
+
+!F-C F .......
+
+st
+
+9
+
+,
+
+,
+
+-
+
+,
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+,
+
+9
+
+V~
+
+.
+
+.
+
+ll!i!lj
+ClnlliFllii
+)T]3I F
+
+VII~
+
+.
+
+.
+
+.
+
+.
+
+Fig. SA, B. Group I swallowingneurons
+firing at rates up to 50 Hz. A and B
+recorded from different animals. The
+recording sites are indicated by black
+circles respectivelyin A' and B'
+(abbreviations in Fig. 6). MH, Dig, NP
+and St: see preceding figures. Swallowing induced by stimulating (4 V; 0.2 ms;
+30 Hz) the faseiculus solitarius area,
+3 mm in front of obex. Note (1) long
+lasting discharge (250-300 ms) before
+and during EMG activity; (2) frequency
+of spikes, higher in B than in A
+
+Fig. 6A-C. Localization of group I swallowing neurons. From A to C: Transverse sections of pons, 1 mm distant from one another, in
+rostro-caudal direction. A and B: Sections through the posterior part of the Vth motor nucleus; C: section including the most anterior part
+of the facial nerve descending root. Circles represent neurons firing at maximum rate of 50 Hz (filled and half filled circles: neurons
+antidromically activated by stimulating respectively MH-Dig nerve and Pt nerve; open circles: other neurons). Triangles represent neurons
+with firing rates higher than 50 Hz (open triangles: <--90 Hz; filled triangles: > 90 Hz). Abbreviations: bc = braehium conjunctivum; cp =
+pedunculus cerebralis; CR = corpus restiformis; Flm= fasciculus longitudinalis medialis; FR = formatio reticularis; GVII = genu nervi
+facialis; MV = nucleus motorius nervi trigemini; NOS = nucleus olivaris superior; NSV = nucleus supratrigeminalis; NTspV = nucleus
+tractus spinalis nervi trigemini; PSV = nucleus prineipalis sensibilis nervi trigemini; TPy = traetus pyramidalis; TspV = tractus spinalis
+nervi trigemini; VI = nucleus nervi abducentis
+
+13 n e u r o n e s la f r 6 q u e n c e 6tait plus 61ev6e ( f r 6 q u e n c e
+m o y e n n e jusqu'~t 130 Hz; f r 6 q u e n c e i n s t a n t a n 6 e
+j u s q u ' ~ 250 Hz). Ces n e u r o n e s p r 6 s e n t a i e n t parfois
+u n e activit6 s p o n t a n 6 e ; leur a c t i v a t i o n d6glutitrice
+(10-35 p o t e n t i e l s d ' a c t i o n ) d 6 b u t a i t p e n d a n t o u a v a n t
+I ' E M G des muscles d6glutiteurs, et durait g6n6ralem e n t 200-300 ms (Fig. 5). E n ce qui c o n c e r n e les
+
+effets de la s t i m u l a t i o n des nerfs m o t e u r s , s e u l e m e n t
+deux n e u r o n e s d 6 c h a r g e a n t ~ f r 6 q u e n c e i n t e r m 6 diaire o n t p u 6tre e n v a h i s a n t i d r o m i q u e m e n t p a r
+s t i m u l a t i o n d u n e f f du M H - D i g (latence 1,5 ms; Fig.
+4B-B'). P o u r 26 n e u r o n e s , la s t i m u l a t i o n des neffs
+m o t e u r s p r o v o q u a i t u n p o t e n t i e l de c h a m p a n t i d r o mique.
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit6 et Localisation
+
+351
+
+A
+Mas ~
+NP"
+St
+
+" " - ' ' - - - - ~ ' ~ ~
+]
+
+I
+
+~r
+
+[
+
+--
+
+-[
+
+-
+
+[
+
+o*ee|
+
+-]
+
+]50mS
+
+B
+
+!i
+ls
+
+150mS
+
+Les neurones du groupe II (14 neurones) ont une
+activation d6glutitrice qui disparaR apr6s la curarisation profonde de l'animal (Fig. 2B). La fr6quence et
+le nombre de potentiels d'action sont tr6s variables;
+ces deux param6tres varient souvent d'une d6glutition ~t l'autre. Par ailleurs, ces neurones ne sont
+jamais envahis antidromiquement par stimulation
+des nerfs moteurs.
+
+Localisation des Neurones D~glutiteurs Pontiques.
+Pour des raisons techniques, nous n'avons pas pu
+localiser t o u s l e s neurones d6glutiteurs pontiques
+enregistr6s. Des marquages 61ectrolytiques ont 6t6
+effectu6s pour 35 neurones du groupe I. Les r6sultats
+sont consign6s sur les sch6mas de la Fig. 6:
+Les neurones ~ faible fr6quence de d6charge ( _
+50 Hz; 13 neurones) occupent la r6gion ventrom6diane du nMV; ceux envahis antidromiquement
+par stimulation du nerf du MH-Dig sont localis6s
+dans la portion la plus caudale du noyau. A remarquer qu'un point marqu6 est situ6 en dehors du nMV
+sous ta racine descendante du facial.
+Les neurones d6chargeant ~ plus de 50 Hz (22
+neurones) occupent sensiblement la rn~me zone que
+celle des neurones du groupe I, mais certains sont
+inclus dans le nMV, alors que d'autres sont localis6s
+la limite inf6rieure du noyau ou dans la substance
+r6ticul6e voisine. Par ailleurs, six neurones sont
+situ6s dans la r6ticul6e en arri6re du nMV, sous la
+racine descendante du facial.
+Pour ce qui est des neurones du groupe II, un seul
+neurone a 6t6 localis6 par 61ectrocoagulation (Fig.
+2B): il 6tait situ6 dans le noyau supratrigeminalis (audessus du nMV). Dix autres neurones ont 6t6 enregistr6s en des points dont les coordonn6es st6r6otaxiques semblaient correspondre ~ cette m6me r6gion.
+
+Fig. 7A, B. Activity of a masseter motoneuron during swallowing. Animal
+lightly curarized. Recording site indicated by black circle on map (dorsolateral region of Vth motor nucleus; for
+abbreviations, see Fig. 6). MH, Dig,
+Mas, NP and St: see preceding figures.
+A Swallowing elicited by stimulating the
+fasciculus solitarius area of the medulla
+(3 V; 0.2 ms; 30 Hz). Note the inhibition
+of the spontaneous activity of the neuron
+during the stimulation and during
+swallowing (EMG of MH Dig muscles).
+B Rhythmic discharges of the same
+neuron during chewing movements following repetitive stimulation of frontoorbital cortex (12 V; 0.2 ms; 30 Hz).
+Note the neuronal activation related to
+jaw closing movement (Mas EMG)
+
+Neurones Activ~s par Stimulation du Nerf du Mas.
+Nous avons recueilli l'activit6 de dix neurones envahis antidromiquement par stimulation du neff du Mas
+(latence voisine de i ms); pour trois autres neurones,
+on enregistrait un potentiel de champ de grande
+amplitude. Ces neurones pr6sentaient g6n6ralement
+une activit6 spontan6e. Cette activit6 n'6tait pas
+modifi6e lors de la d6glutition pour quatre neurones;
+par contre, pour les neuf autres, on observait une
+inhibition qui durait plusieurs centaines de millisecondes (Fig. 7). Cet effet se maintenait apr6s curarisation de l'animal.
+
+Discussion
+
+Les Muscles Actifs Lors de la D~glutition
+Chez le mouton anesth6si6, trois muscles innerv6s
+par le V (MH, Dig ant6rieur, Pt m6dian) sont actifs
+lors de la d6glutition. L'ensemble des donn6es bibliographiques (voir les revues de Doty 1968 et de
+Dubner et al. 1978) font 6tat de la participation
+obligatoire du MH h l'acte d6glutiteur chez toutes les
+esp6ces 6tudi6es (chat, chien, lapin, singe et
+homme). En ce qui concerne le Dig ant6rieur, les
+donn6es de la litt6rature sont plus parcellaires:
+d'apr6s Doty et Bosma (1956), ce muscle serait
+inactif chez le chat et le chien; il pourrait par contre
+d6charger chez le singe, en m6me temps que le MH.
+Ce dernier fait semble confirm6 chez l'homme (Hrycyshyn et Basmajan 1972; Munro 1972, 1974). Enfin,
+pour ee qui est du Pt m6dian, Doty (1968) signale une
+participation de ce muscle ~ la d6glutition chez le
+chat (d6charge contemporaine de celle du MH); ceci
+serait 6galement le cas chez l'homme (Moller 1966,
+
+352
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit6 et Localisation
+
+1976). Ainsi, nos r6sultats semblent en accord avec
+ceux des auteurs qui ont 6tudi6 la d~glutition chez le
+singe et chez l'homme. Quant au r61e de ta d6charge
+synchrone de ces trois muscles lors du stade buccopharyng6 de la d6glutition, nous pensons que la
+contraction du Pt m6dian associ6e ~t celle du Dig
+antdrieur a pour but de stabiliser la m~choire pour
+permettre h la musculature suprahyoidienne (MH
+notamment), qui s'ins6re sur la mfichoire, de tirer sur
+l'os hyoide et de provoquer ainsi le mouvement
+ascensionnel du larynx.
+Par ailleurs, nous n'avons pas recueilli d'activit6
+EMG dans les muscles Mas et Tp lors de la d6glutition. Doty et Bosma (1956) ont fait la meme observation chez le chien, le chat et le singe anesth6si6. Par
+contre, Moller (1966), Me Namara et Moyers (1973),
+Lowe (1976) ddcrivent des ddcharges d6glutitrices
+dans les muscles assurant la fermeture de la m~choire
+(Mas notamment) chez l'homme et le singe. Mais,
+ces d6charges ne s'observent que lors de la d6glutition de liquide ou d'un bol alimentaire (Mc Namara
+et Moyers 1973). De plus, l'activit6 de ces muscles
+semble tr~s sensible h l'anesth6sie (Kuroda et Mc
+Namara 1972). Ces faits peuvent, dans une certaine
+mesure, expliquer nos r6sultats obtenus dans des
+conditions exp6rimentales particuli~res puisqu'il
+s'agit de d6glutitions <~h vide>> d6clenchdes chez
+l'animal anesth6si6.
+
+Neurones Pontiques Actifs ~ la D~glutition
+Neurones du Groupe L Comme les neurones bulbaires (voir Jean 1972a) les neurones pontiques du
+groupe I ont une activation d6glutitrice qui persiste
+chez l'animal curaris6; ils appartiennent doric bien au
+r6seau neuronique central qui programme la d6glutition. Ces neurones constituent une population h6t6rog~ne. Ceux dont la fr6quence de d6charge n'exc~de pas 50 Hz (123 neurones) sont tr~s certainement
+des motoneurones a en rapport avec les muscles
+d6glutiteurs (MH, Dig, Pt). En effet, mis h part un
+neurone, tousles neurones que nous avons marqu6s
+6taient localis6s dans le nMV. Par ailleurs, 90% des
+neurones enregistr6s 6taient envahis antidromiquement par la stimulation des nerfs moteurs, ou bien
+6taient situ6s dans des zones og l'on recueillait des
+potentiels de champ antidromiques de grande amplitude. Quarante-huit pour cent au moins (ceux envahis antidromiquement par stimulation du nerf des
+muscles MH-Dig) sont des motoneurones innervant
+les muscles MH et Dig ant6rieur. Ces motoneurones
+occupent le p61e post6rieur du nMV (r6gion ventrom6diane; voir Fig. 6), ce qui est en accord avec les
+donn6es neuroanatomiques (Mizuno et al. 1975;
+
+Batini et al. 1976; Matsuda et al. 1978; Mizuno et al.
+1981), et 61ectrophysiologiques (Landgren et Olsson
+1976; Desantis et al. 1978; Sasamoto 1979). Par
+ailleurs, Mizuno et al. (1975), Matsuda et al. (1978)
+signalent que les motoneurones du Dig sont plus gros
+que ceux du MH; cette diff6rence de taille des
+motoneurones pourrait rendre compte des 6carts de
+vitesse de conduction que nous avons mesur6s (54 +
+14 m/s).
+La signification des autres neurones du groupe I
+(fr6quence de ddcharge sup6rieure h 50 Hz; 56
+neurones) n'apparaR pas clairement. Ces neurones
+sont localis6s dans le nMV ou dans la r6ticul6e
+adjacente; par ailleurs, leur activation d6glutitrice
+commence plus t6t et dure plus longtemps que celle
+des motoneurones (voir Fig. 4B). II est vraisemblable
+qu'un grand hombre (ceux d6chargeant jusqu'h 90
+Hz tout au moins) sont des motoneurones. Certes,
+seulement deux neurones ont pu ~tre envahis antidromiquement par stimulation du neff du MH-Dig,
+mais 46% environ 6taient situ6s dans des zones o3
+l'on recueillait des potentiels de champ antidromiques. I1 pourrait s'agir de motoneurones a de plus
+petite taille, ou de motoneurones ,/ en rapport
+notamment avec le Pt. D'apr~s les donn6es bibliographiques en effet (Dubner et al. 1978) le Dig ant6rieur
+contient peu de fuseaux neuromusculaires, alors que
+le Pt m6dian en renferme beaucoup. Mais, il se
+pourrait que des neurones d6glutiteurs pontiques
+(par exemple ceux localis6s ~ l'ext6rieur du nMV et
+d6chargeant h fr6quence 61ev6e; voir Fig. 5B) soient
+des interneurones. Diff6rents travaux histologiques
+et 61ectrophysiologiques signalent l'existence d'interneurones autour du nMV, notamment dans la substance r6ticul6e sous le bord ventrom6dian et ventrolat6ral du noyau (Sessle 1977; Mizuno et al. 1978),
+ainsi que dans le nMV (Denavit et al. 1972; Sessle
+1977). Sur le plan fonctionnel, on peut imaginer que
+les interneurones pontiques qui sont situ6s gt proximit6 des motoneurones distribuent l'excitation aux
+motoneurones d6glutiteurs. Ils seraient ainsi inclus
+darts une liaison bulbopontique reliant le centre
+d6glutiteur bulbaire h l'6tage moteur pontique. On
+comprendrait alors pourquoi la stimulation de la
+r6ticul6e proche du nMV est susceptible d'activer par
+voie synaptique les motoneurones en rapport avec les
+muscles d6glutiteurs (voir R6sultats, 6tude macrophysiologique). Mais il se pourrait que certains
+interneurones pontiques soient des interneurones
+inhibiteurs pour les motoneurones du Mas dont
+l'activit6 disparaR pendant la d6glutition (voir Fig. 7,
+et Discussion, motoneurones du Mas). Enfin, il
+pourrait s'agir, notamment pour les neurones localis6s sur le bord ventro-m6dian du nMV, de neurones
+commissuraux. En effet, Mizuno et al. (1978) injec-
+
+A. Car et M. Amri: Neurones D6glutiteurs Pontiques. Activit6 et Localisation
+
+tant de la peroxydase dans le nMV chez le chat
+observent des neurones marqu6s, contralat6ralement, dans la r6ticul6e adjacente au bord ventromddian du nMV.
+Neurones du Groupe IL Ces neurones ont une
+activation d6glutitrice qui est supprim6e par la curarisation. I1 s'agit donc d'activit6s de r6aff6rentation, du
+m~me type que celles que nous avons recueillies dans
+le relais pontique des aff6rences du NLS (Car et al.
+1975; Jean et al. 1975). L'activit6 des neurones du
+groupe II a surtout 6t~ recueillie dans la r6gion du
+noyau supratrigeminalis, c'est-~-dire entre le relais
+des aff6rences du NLS et le nMV. Le noyau supratrigeminalis regoit des influx d'origines diverses (Jerge
+1963); nous avons nous-m~mes observ6 des activations /~ br6ve latence pour diff6rentes modalit6s de
+stimulation (voir Fig. 2B; et Amri et Car 1982).
+
+Motoneurones du Mas
+Le muscle Mas ne pr6sente pas d'activit6 EMG au
+moment de la d6glutition (voir Fig. 1). De plus,
+l'activit6 spontan6e des motoneurones de ce muscle
+est inhib6e pendant la d6glutition. Cet effet se
+maintient apr~s curarisation de l'animal. Ces r6sultats sont en accord avec ceux obtenus chez le lapin
+par Sumi (1977a, b) grfice ~ l'enregistrement de
+I'EMG du muscle Mas ou de l'activit6 de fibres
+motrices destin6es ~ ce muscle.
+D'apr~s les donn6es bibliographiques, deux
+structures sont susceptibles d'intervenir dans l'inhibition des motoneurones du Mas: (1) le noyau supratrigeminalis dont les neurones exercent leur action
+inhibitrice directement sur les motoneurones du
+nMV (Goldberg et Nakamura 1968; Kidokoro et al.
+1968; Kawamura et Takata 1971); (2) la substance
+r6ticul6e m6diane du bulbe (4-7 mm en avant de
+l'obex) qui peut agir sur les motoneurones du Mas
+soit directement, soit par l'interm6diaire d'une vole
+polysynaptique (Nakamura et al. 1976; Takatori et
+al. 1981).
+En ce qui concerne la d6glutition, il est vraisemblable que l'effet inhibiteur sur les motoneurones du
+Mas est dfi g la mise en jeu d'interneurones de la
+r6ticulde bulbaire, puisque les neurones du noyau
+supratrigeminalis ne pr6sentent pas d'activation
+d6glutitrice chez l'animal curaris6.
+
+Remerciements. Les auteurs remercient M. le Professeur C.
+Roman pour ses suggestions critiques lors de l'61aboration du
+manuscrit et M. D. Catalin pour son assistance technique.
+
+353
+
+R6f6rences
+Amri M, Car A (1982) Etude des neurones ddglutiteurs pontiques
+chez le brebis. II. Effets de la stimulation des affErences
+p6riph6rique et du cortex fronto-orbitaire. Exp Brain Res 48:
+355-361
+Barillot JC, Bianchi AL, Dussardier M, Gauthier P (1980) Study
+of the validity of the collision test. Application to the bulbospinal respiratory neurons. J Physiol (Paris) 76:845-858
+Batini C, Buisseret-Delmas C, Corvisier J (1976) Horseradish
+peroxidase localization of masticatory muscle motoneurons in
+cat. J Physiol (Paris) 72:301-309
+Car A, Roman C (1970) D6glutitions et contractions oesophagiennes r6flexes produites par la stimulation du bulbe rachidien.
+Exp Brain Res 11:75-92
+Car A, Jean A, Roman C (1975) A pontine primary relay for
+ascending projections of the superior laryngeal nerve. Exp
+Brain Res 22:197-210
+Denavit-Saubie N, Corvisier J (1972) Cat trigeminal motor
+nucleus: rhythmic units firing in relation to opening movements of the mouth. Brain Res 40:500-503
+Desantis M, Limwongse V, Rigamonti D (1978) Somatotopy in
+the trigeminal motor nucleus of the rat: field potentials
+recorded in the neuron pool after retrograde transport of
+horseradish peroxidase. Neurosci Lett 10:95-98
+Doty RW (1968) Neural organization of deglutition. In: Handbook of physiology, section VI, vol IV. Alimentary canal.
+American Physiological Society, Washington, pp 861-1902
+Doty RW, Bosma JF (1956) An electromyographic analysis of
+reflex deglutition. J Neurophysiol 19:44-60
+Dubner R, Sessle B J, Storey A (1978) The neural basis of oral and
+facial function. Plenum Press, New York
+Goldberg LJ, Nakamura Y (1968) Lingually induced inhibition of
+masseteric motoneurones. Experientia 24:371-373
+Hrycyshyn AW, Basmajian JV (1972) Electromyography of oral
+stage of swallowing in man. Am J Anat 133:333-340
+Jean A (1972a) Localisation et activit6 des neurones d6glutiteurs
+bulbaires. J Physiol (Paris) 64:227-268
+Jean A (1972b) Effet de 16sions localisdes du bulbe rachidien sur le
+stade oesophagien de la d6glutition. J Physiol (Paris) 64:
+50%516
+Jean A (1978) Localisation et activit6 des motoneurones oesophagiens chez le mouton. Etude par micro61ectrodes. J Physiol
+(Paris) 74:737-742
+Jean A, Car A, Roman C (1975) Comparison of activity in pontine
+versus medullary neurons during swallowing. Exp Brain Res
+22:211-220
+Jerge CR (1963) The function of the nucleus supratrigeminalis. J
+Neurophysiol 26:393-402
+Kawamura Y, Takata M (1971) The role of trigeminal afferents in
+the control of masseter motoneuron activity. In: Dubner R,
+Kawamura Y (eds) Oral facial sensory and motor mechanisms. Appleton-century crofts, Meredith corporation, New
+York, pp 333-348
+Kidokoro Y, Kubota K, Shuto S, Sumino R (1968) Possible
+interneurons responsible for reflex inhibition of motoneurons
+of jaw-closing muscles from the inferior dental nerve. J
+Neurophysiol 31:709-716
+Klfiver A, Barrera E (1953) A method for the combined staining
+of cell and fibers in the nervous system. J Neuropathol 6:
+264-281
+Kuroda T, Mc Namara JA (1972) The effect of ketamine and
+phencyclidine on muscle activity in non human primates.
+Anesth Analg (Cleve) 51:710-716
+Landgren S, Olsson KA (1976) Localization of evoked potentials
+in the digastric, masseteric, supra- and intertrigeminal subnuclei of the cat. Exp Brain Res 26:299-318
+
+354
+
+A. Car et M. Amri: Neurones Ddglutiteurs Pontiques. Activit6 et Localisation
+
+Lipski J (1981) Antidromic activation of neurones as an analytic
+tool in the study of the central nervous system. J Neurosci
+Methods 4:1-32
+Lowe AA (1976) Neural mechanisms involved in tongue motility.
+Ph.D. Thesis, Universit6 de Toronto (cit6 d'apr6s Dubner et
+al. 1978)
+Matsuda K, Uemura M, Kume M, Matsushima R, Mizuno N
+(1978) Topographical representation of masticatory muscles
+in the motor trigeminal nucleus in the rabbit: a HRP study.
+Neurosci Lett 8 : 1 4
+Mc Namara JA, Moyers RE (1973) Electromyography of the oral
+phase of deglutition in the rhesus monkey (macaca mulatta)
+Arch Oral Biol 18:995-1002
+Mizuno N, Konishi A, Sato M (1975) Localization of masticatory
+motoneurons in the cat and rat by means of retrograde axonal
+transport horseradish peroxidase. J Comp Neurol 164:
+105-116
+Mizuno N, Sakashi N, Kazuo I, Nakamura Y, Konishi A (1978)
+Commissural interneurons for masticatory motoneurons: a
+light and electron microscope study using the horseradish
+peroxidase tracer technique. Exp Neurol 59:254-262
+Mizuno N, Matsuda K, Iwahori N, Uemura-Sumi M, Kume N,
+Matsushima R (1981) Representation of the masticatory
+muscles in the motor trigeminal nucleus of the macaque
+monkey. Neurosci Lett 21:19--22
+Moller E (1966) The chewing apparatus: an electromyograpbic
+study of the action of the muscles of mastication and its
+correlation to facial morphology. Acta Physiol Scand [Suppl
+280] 69:1-229
+
+Moller E (1976) Human muscle patterns. In: Sessle B J, Hannam
+AG (eds) Mastication and swallowing: Biological and clinical
+correlates. Univ Toronto Press, Toronto, pp 128--144
+Munro RR (1972) Coordination of activity of the two bellis of the
+digastric muscle in basic jaw movements. J Dent Res 51:
+1663-1667
+Munro RR (1974) Activity of the digastric muscle in swallowing
+and chewing. J Dent Res 53:530-537
+Nakamura Y, Nozaki S, Takatori M, Kikuchi M (1976) Possible
+inhibitory neurons in the bulbar reticular formation involved
+in the cortically evoked inhibition of the masseteric motoneuron of the cat. Brain Res 115:512-517
+Sasamoto K (1979) Motor nuclear representation of masticatory
+muscles in the rat. Jpn J Physiol 29:73%747
+Sessle BJ (1977) Identification of alpha and gamma trigeminal
+motoneurons and effects of stimulation of amygdala, cerebellum and cerebral cortex. Exp Neurol 54:303-322
+Sumi T (1977a) Modification of cortically evoked rhythmic jaw
+movements by reflex deglutition in rabbits. Jpn J Physiol 27:
+391-398
+Sumi T (1977b) Interrelation between rhythmic mastication and
+reflex deglutition as studied on the unitary activity of trigeminal motoneurons in rabbits. Jpn J Physiol 27:687-699
+Takatori M, Nosaki S, Nakamura Y (1981) Control of trigeminal
+motoneurons exerted from bulbar reticular formation in cat.
+Exp Neurol 72:122-140
+
+Re~u Janvier 17, 1982
+

@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="https://xml-schema.delivery.istex.fr/formats/ns1.xsd"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">La Dynamique du système des collectivités territoriales</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Sage Publications</publisher>
+            <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+            <date type="published">1974</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="other"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-7474895G-0">other</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="other">
+               <analytic>
+                  <title level="a" type="main">La Dynamique du système des collectivités territoriales</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Bassand</surname>
+                        <forename type="first">Michel</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="department">Département de Sociologie</orgName>
+                        <orgName type="institution">Université de Genève</orgName>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">92A000121E417AE1C6EA0150F8BEC44A5995E538</idno>
+                  <idno type="ark">ark:/67375/M70-Q6ZLZ4ZM-N</idno>
+                  <idno type="DOI">10.1177/001139217402200113</idno>
+                  <idno type="publisher-id">10.1177_001139217402200113</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Current Sociology</title>
+                  <idno type="hwp">spcsi</idno>
+                  <idno type="pISSN">0011-3921</idno>
+                  <imprint>
+                     <publisher>Sage Publications</publisher>
+                     <pubPlace>Sage CA: Thousand Oaks, CA</pubPlace>
+                     <date type="published">1974</date>
+                     <biblScope unit="vol">22</biblScope>
+                     <biblScope unit="issue">1-3</biblScope>
+                     <biblScope unit="page" from="299">299</biblScope>
+                     <biblScope unit="page" to="329">329</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.3.20" when="2021-10-05">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="en">en</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2021-10-05" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>13. SOCIAL ECOLOGY
+La
+
+1
+Dynamique du syst&amp;amp;egrave;me des collectivit&amp;amp;eacute;s territoriales
+
+MICHEL BASSAND
+
+D&amp;amp;eacute;partement de Sociologie,
+
+1. PROBLEMATIQUE
+1.1L’approche
+
+Universit&amp;amp;eacute; de Gen&amp;amp;egrave;ve
+
+ET METHODE
+
+systémique
+
+La notion de systeme 6tant fondamentale pour rendre compte aussi bien
+de la dynamique interne que de la dynamique externe des collectivit6s
+territoriales, nous nous permettons d’en d6velopper, quelque peu, certains
+
+aspects.
+La notion de systeme fait intervenir, au minimum, quatre criteres
+essentiels.
+Le premier, quasi evident, implique qu’un systeme est un ensemble
+d’616ments divers lies de telle mani6re que la modification de l’un d’eux
+modifie les autres.
+Le deuxieme fait appel aux id6es d’ordre, de hi6rarchie, de centralit6,
+impliquant celle d’invariance et, par consdquent, celle de structure.
+Le troisi6me critere comprend l’id6e d’environnement et, par cons6quent,
+d’ouverture et de fermeture. Pr6cisons ce qu’implique l’idee d’un systeme
+ouvert. Il ne signifie pas seulement qu’il dchange avec son environnement,
+mais que cet 6change est un facteur essentiel A sa viabilit6, alors que pour
+un syst6me ferme, 1’entr6e d’616ments ext6rieurs a des effets perturbants
+et d6sorganisants. D’of ils tendent a 1’entropie, c’est-A-dire, au d6clin. En
+revanche, les systemes ouverts tendent a la niguentropie, c’est-à-dire, à
+1’organisation; en bref, ils vivent des changements et ils maintiennent leur
+identite en integrant des differences croissantes.
+Comme le montrent, entre autres, des auteurs tels E. Morin, E. Enriquez
+et Y. Barrel, la notion de syst6me ouvert implique, 6galement, des possibilit6s auto-organisatrices en se servant des deviations, des 6carts, des
+differences pour cr6er un nouvel 6tat; mais, 6videmment, toute deviance ne
+porte pas en elle innovation et changement.
+1. Cet article constitue la synth&amp;amp;egrave;se de plusieurs analyses publi&amp;amp;eacute;es
+mentionn&amp;amp;eacute;es dans la bibliographie.
+
+s&amp;amp;eacute;par&amp;amp;eacute;ment
+
+et
+
+300
+
+L’6v6nement est donc A la fois
+
+qui provoque le changement dans le
+systeme
+qui
+systeme. Ce qui signifie encore que ce n’est
+de la d6sorganisation que peut exister l’organisation.
+qu’a partir
+En fait, les systemes sociaux ne sont ni totalement ouverts, ni totalement
+ferm6s, il vaut mieux parler d’une oscillation entre ouverture et fermeture;
+l’une et 1’autre sont une question de degr6.
+Pour rendre compte des ph6nom~nes sociaux, un quatri6me critere doit
+encore etre introduit: c’est celui de finalit6, les systemes sociaux sont
+t6l6ologiques. On d6finit au moins trois cat6gories teleologiques :
+a) le syt6me atteint son but en se comportant de mani6re relativement
+constante dans une plus ou moins vaste gamme d’environnements;
+b) le systeme parvient au but en modifiant son comportement si 1’environneet ce
+
+ment
+
+se
+
+ce
+
+maintient le
+
+modifie;
+
+c) le meme but est atteint a partir de conditions initiales differentes et par
+voies differentes. C’est ce qu’on appelle l’équifinalité. Ce type de systeme est 6videmment le plus adaptif.
+Ces quatre criteres constituent les premices permettant de construire, de
+maniere plus sp6cifique encore, un systeme social.
+En effet, a partir de ces crit6res, nous d6finissons les deux dimensions
+suivantes:
+a) la dimension fins-moyens
+Tout syst~me social est porteur d’un projet collectif dominant, d’un
+modele culturel, caract6ris6s par un ensemble structur6 de fins et de
+moyens. Pour progresser vers ces objectifs, il cree, exploite et mobilise
+ses ressources propres et celles qui lui sont fournies par d’autres syst6mes environnants. Cette proposition n’exclut pas 1’existence d’acteurs porteurs de projets plus ou moins contradictoires avec le projet
+dominant.
+b) la dimension interne-externe
+Du fait qu’un systeme social est ouvert, donc en interaction avec
+d’autres syst6mes, sa comprehension implique qu’on prenne en consideration ses facteurs internes et externes.
+Le croisement de ces deux dimensions permet de distinguer quatre
+sous-syst~mes (Graphique 1) qui forment, selon notre terminologie,
+la matrice sociale.
+L’economique est essentiellement le sous-système qui cr6e, 6change,
+pr6l6ve des ressources. Le culturel est le lieu of s’61aborent les modeles
+culturels.
+C’est dans le politique que certains projets ou modèles culturels sont
+choisis au detriment d’autres, et que sont mobilisees des ressources pour
+les r6aliser. Finalement, c’est par le sous-syst6me socio-ginitique que
+s’opere la reproduction biologique et sociale des acteurs.
+
+301
+
+Chacun des sous-syst6mes identifi6s se caract6risent par un ou plusieurs
+processus et fonctions typiques. Nous proposons les d6finitions suivantes:
+1’economie assume principalement une fonction d’adaptation; le politique
+proc6de au choix des fins a leur realisation et a la regulation des contradictions ; le socio-g6n6tique assume la reproduction et le culturel se caract6rise par des fonctions de cohesion.
+Ces sous-syst6mes sont faits chacun d’un ensemble de groupes, organisations et institutions qui tendent a s’autonomiser et partant a devenir
+
+asynchroniques,
+
+donc contradictoires.
+
+GRAPHIQUE
+
+1
+
+LA MATRICE SOCIALE
+
+Cette matrice sociale, sans le concept de rapport de classes sociales,
+serait r6duite a un syst6me m6canique. Les classes sociales a la fois sont
+produites et produisent la matrice sociale. Elles lui sont inh6rentes.
+Nous distinguons, dans tous syst6mes, deux classes sociales principales:
+la classe dominante et la classe dominee. D’autres classes se greffent sur
+ces classes principales, qui sont donc subdivis6es en un nombre de fractions et couches a pr6ciser dans le concret.
+Les classes sociales se définissent empiriquement et objectivement
+d’abord en fonction du processus de production, dans son double aspect
+de relation de propriete et de controle 6conomique reels (non n6cessairement juridique) des moyens de production d’une part, et de la relation
+reelle des producteurs avec l’objet et les moyens de travail. Cependant, les
+rapports de classe ne se cantonnent pas au sous-systeme economique, ils
+r6gissent les autres sous-syst6mes et le systeme social en entier. Les classes
+sociales constituent des acteurs sociaux (ou des syst~mes d’action) de toute
+
+premi6re importance.
+Cette division de base qui d6coule de la conception, de l’organisation et
+de 1’ex6cution de la production se traduit, egalement, par des in6galit6s
+de revenu, d’instruction, de participation politique, etc.
+
+302
+
+systeme social comprend n6cessairement une «enveloppe spatiotemporelle», produite par sa matrice sociale et son syst6me de classes. De
+ce fait, le temps et 1’espace ont une signification socio-economique,
+politique et culturelle.
+Nous distinguons deux types de temps et d’espace plus ou moins en
+correlation. A un espace support (ou contenant) correspond un temps contenant ; à un espace distance (ou de relation) correspond un temps de mise
+en situation, de d6placement.
+L’articulation de la matrice sociale, des rapports de classes et de 1’espacetemps constitue la structure sociale, Cette derniere, 6videmment, fonctionne et change.
+Le processus fondamental du systeme social c’est la communication. En
+effet, les quatre sous-syst6mes, parce que divers et contradictoires, sont
+en perp6tuelle communication entre eux et avec leur environnement.
+Cette communication prend la double forme d’echanges et d’une chaine
+quasi illimit6e d’adaptations et de readaptations aux perturbations qui
+accompagnent les 6changes.
+Ce mouvement fait intervenir la notion de d6s6quilibre et d’6quilibre.
+Des lors, il faut distinguer:
+les r6troactions negatives, c’est-A-dire les actions qui contribuent à
+maintenir 1’equilibre menace ;
+les r6troactions positives, c’est-A-dire celles qui amplifient le d6s6quilibre
+et entrainent une apparition d’un nouveau systeme. Le systeme social
+comprend toujours une combinaison de ces deux processus qui nous
+permettent de d6finir la reproduction. Selon la prédominance de l’un sur
+1’autre, la reproduction sera:
+simple: il s’agit de la reconstitution de l’ ancien;
+complexe: c’est la reconstitution de 1’ancient mais en laissant croire qu’il y
+a eu changement;
+des transformations sensibles ont eu lieu, mais la spécificité du
+ilargie:
+systeme subsiste.
+l’idie de ritablissement de l’équilibre implique celle d’jvolution et
+Donc,
+d’adaptation du systeme. Tout en fonctionnant, le systeme change.
+Le double processus de diffirenciation-intigration est, lui aussi, fondamental. Le premier signifie que les parties d’un systeme en fonctionnement
+tendent a se distinguer, a affirmer leur singularite et leur autonomie tout
+en remplissant des fonctions pour le systeme total. Dans la mesure ou il
+y a differenciation, le systeme social, s’il veut se maintenir en tant que tel,
+doit recourir a un processus d’int6gration destine a relier les elements
+Un
+
+-
+
+-
+
+dif6renci6s.
+Mentionnons un dernier processus important: la hiérarchisation. Nous
+avons caracterise le systeme social par un incessant mouvement d’6change.
+
+303
+
+sch6matiquement, ce qui circule entre les divers sous-syst6mes peut
+en 6nergie et information. Comme les parties du systeme
+ne sont pas toutes egalement dot6es en information et en 6nergie, et
+comme ce sont les parties les plus riches en information qui controlent
+les autres parties, il en r6sulte que dans le systeme social s’instaurent,
+entre ses parties, des controles successifs et cumulatifs qui s’agencement
+entre eux d’une mani6re hi6rarchique. Les parties riches en 6nergie jouent
+un r6le de conditionnement de l’action; les parties riches en information se
+placent en haut de la hi6rarchie et jouent le r6le de contr6le de I’action. En
+d’autres termes, dans un systeme social, c’est 1’economique qui est le
+determinant en derniere instance de 1’action, mais c’est le culturel qui en
+assume le controle et qui en donne les orientations. C’est dans les termes
+que nous venons de poser qu’il faut analyser les collectivites territoriales.
+Tres
+
+etre dichotomise
+
+aux autres types de groupe, nous les d6finissons comme un
+d’acteurs qui se sont appropri6s un espace donnd et qui ont
+codifi6 leurs rapports dans une institution politique. A 1’heure actuelle, un
+des probl6mes des collectivites territoriales est que l’institution politique
+s’adapte lentement aux transformations du systeme des acteurs et de leur
+appropriation de 1’espace. D’ou un d6calage qui empeche a 1’ institution
+politique d’assumer pleinement ses fonctions; ce qui est, 6videmment,
+source de tensions et de conflits.
+Dans la plupart des societes prom6th6ennes, nous distinguons, au minimum, trois types de collectivites territoriales: les Etats-Nations, les regions
+et les localit6s. Les uns comme les autres se d6finissent par une matrice
+sociale, des rapports sociaux et une enveloppe spatio-temporelle specifiques. A l’int6rieur d’un Etat-Nation, regions et localites forment, l’une
+et 1’autre, un systeme plus ou moins hi6rarchis6 selon le modele centrep6riph6rie et cela en termes d’une combinatoire d’aspects socio-politiques,
+socio-6conomiques, socio-culturels et demographiques. D’ailleurs, ce
+meme modele regit plus ou moins les rapports politiques de ces trois
+niveaux: dans certaines soci6t6s, les regions et localites sont plutot la
+r6sultante d’une volont6 decentralisatrice de 1’Etat-Nation qui leur octroie
+une autonomie politique plus ou moins grande: dans d’autres, c’est l’inverse qui se produit: FEtat-Nation d6coule de la volont6 des r6gions et des
+localit6s. Il va de soi que la nature de ce systeme complexe varie avec les
+transformations de la societe qui les englobe.
+
+Par
+
+rapport
+
+systeme
+
+L’organisation spatiale de la Suisse
+C’est en fonction de la problematique que nous venons d’esquisser que
+nous allons examiner le systeme des collectivites territoriales suisses.
+D’embl6e, pr6cisons que nous en 6tudierons que tres subsidiairement les
+1.2
+
+304
+
+aspects proprement politiques; ceux-ci sont fait l’objet d’une analyse
+s6par6e (Bassand M., 1975 (b), 1974 (b)).
+
+Quelles sont, sous-jacents aux nombreux indicateurs foumis par les
+recensements, les principales dimensions du systeme des collectivit6s
+territoriales ? En quoi le systeme des r6gions differe-t-il de celui des localit6s ?
+Dans quelle mesure ces deux syst~mes suisses different-ils de ceux d’autres
+soci6t6s? Comment ces systemes 6voluent-ils? Peut-on parler d’un d6veloppement in6gal?
+Telles sont, entre autres, les questions auxquelles nous allons tenter de
+r6pondre. Mais, avant d’entrer en mati6re, comment se pr~sente 1’organisation territoriale de la Suisse? D’abord, un mot sur son histoire. Contrairement a celle de nombreuses societes europ6ennes, 1’ancienne Conf6d6ration helv6tique a ete d’abord une ligue de communes rurales et urbaines
+dont certaines se sont 6rig6es en v6ritables Etats souverains avec leurs
+allies et leurs sujets (J. Meylan et ss p. 20).
+
+Tableau 1.
+
+Quelques caracteristiques des
+
+cantons suisses
+
+305
+Tableau 1. Suite
+
+Ce n’est qu’a la fin du 1 8i£me siecle et apres de nombreuses tribulations
+que la Suisse devint une confederation d’Etats territoriaux. Au vu de
+1’6volution de ces trente dernieres annees, de nombreux observateus pensent
+que la Suisse entre dans une nouvelle phase de son histoire. «L’habitude
+contractee par les cantons de confier a 1’Etat federal tous les probl6mes
+qu’ils ne peuvent maitriser ou les taches nouvelles int6ressant 1’ensemble
+du pays, la mobilit6 accrue des Conf6d6r6s, les dimensions amplifi6es des
+organismes 6conomiques et d’autres facteurs font que la Suisse marche de
+maniere pr6cipit6e et irresistible vers la centralisation» (J. Rohr, p. 227).
+En 1976, la Suisse comprend vingt-cinq cantons et demi-cantons. On
+devrait dire vingt-six puisque, depuis 1974, un nouvel Etat cantonal - le
+Jura - est en voie de formation (Bassand M., 1975 (a)).
+A considerer le Tableau 1, il apparait que ces vingt-cinq Etats sont
+d’une diversit6 extreme tant par leur date d’entr6e dans la Conf6d6ration,
+2. En fonction des
+
+communes
+
+de 10.000 habitants et
+
+plus.
+
+306
+que leur envergure et densite d6mographiques, le nombre de leurs communes, la dimension m oyenne de celles-ci et le degr6 d’urbanisation que nous
+consid6rons comme un indicateur de developpement socio-economique.
+Qu’en est-il de l’organisation communale?
+En 1970, la Suisse comptait 3.072 communes tres diversement reparties
+entre les cantons (Tableau 1) et de dimension tres inegale: une d’entre
+elles (Zurich) a d6pass6 le cap des 500.000 habitants, 240 n’atteignent pas
+le seuil des 100 habitants.
+La dimension moyenne de la population des communes suisses est de
+1.804 habitants contre 2.381 et 6.342 pour la Republique f6d6rale allemande et l’Italie; contre 1.804 et 1.276 pour l’Autriche et la France (J.
+
+Meylan et ss.).
+Quant a la dimension moyenne de la population des communes de
+chaque canton, elle est tres variable et a evolue tres sensiblement: disons
+que plus un canton est urbanise, plus la dimension moyenne des communes
+s’est aggrandie. Ainsi, si nous consid6rons quelques cantons extremes, de
+1860 A 1970, la moyenne genevoise est respectivement de 1.763 habitants
+et 7.369, quant a celle de Fribourg, elle est de 373 habitants a 646. Entre
+1860 et 1970, le nombre des communes a diminue de 167 unites. Cette disparition est essentiellement le fait de communes de moins de 500 habitants:
+on en compte 102 qui ont fusionn6 avec des communes plus grandes.
+Quant a la r6partition de la population suisse par rapport aux 3.072
+communes existantes, on peut observer, en 1850 et 1970, un vaste processus de concentration. En 1850, 6,4 % de la population vivait dans le 0,2 %
+des communes de 10.000 habitants et plus, par contre, 68,2 % de la population r6sidait dans le 93,7 % des communes de moins de 2.000 habitants.
+En 1970, la situation a litt6ralement bascule : 45,3 % de la population vit
+dans 3 % des communes de 10.000 habitants; 22,3 % de la population
+habitent 81 % des communes de moins de 2,000 personnes (Tableau 2 et
+Tableau 3).
+1.3 La méthode
+Notre analyse porte sur le syst~me des cantons et des communes suisses.
+Nous avons fait ce choix, non pas parce que nous consid6rons ces entit6s
+comme 6tant les plus pertinentes pour analyser 1’organisation spatiale de
+la Suisse, mais parce qu’elles sont les seules pour lesquelles nous disposons
+d’informations statistiques. Ainsi, d’une part, nous examinerons les vingt-
+
+cinq cantons et demi-cantons et, d’autre part, un 6chantillon de communes
+que nous avons s6lectionn6es en fonction du contexte socio-6conomique
+cantonale.
+Nous avons retenu les
+
+communes
+
+des cantons
+
+ruraux
+
+de
+
+Schwytz (30),
+
+307
+
+(20), Obwald (7), Nidwald (11), celles du canton de Berne (492) que
+subdivis6es en trois regions : le Jura, le Mittelland et l’Oberland, celles du canton urbain de Gen6ve (45) et celles des agglomerations
+urbaines de Zurich (63), Berne (36) qui se situe dans le Mittelland, Lausanne (33) et Bale (23), soit au total 724 communes.
+Cet ensemble de collectivites territoriales a ete analyse, en 1941 et 1960,
+avec les memes variables que nous avons traitees par une analyse en composantes principales.
+Nous avons selectionne nos variables de mani6re a ce qu’elles soient le
+moins possible redondantes entre elles, mesurables sur une echelle d’intervalles, existent pour les ann6es 1941 et 1960 et puissent etre consid6r6es
+comme les indicateurs des sous-syst6mes economiques, politiques, culturels et socio-g6n6tiques que nous avons d6finis pr6c6dement.
+Uri
+
+nous avons
+
+Tableau 2. L’urbanisation de la Suisse entre 1850 et 1970
+
+1
+
+Degr6 d’urbanisation
+
+en
+
+%.
+
+2
+
+Nombre de villes.
+D’apr~s l’ Annuaire statistique federal.
+
+Tableau 3. Evolution des
+
+communes
+
+suisses entre 1850 et 1970
+
+1. Pourcentage de la population residant dans des communes de
+habitants.
+2. Pourcentage des communes de
+habitants par rapport au nombre total des
+communes suisses (N).
+...
+
+...
+
+D’apr8s l’ Annuaire statistique de la Suisse.
+
+308
+
+premi6res raisons nous sont impos6es par 1’analyse en comprincipales. La troisieme d6coule du fait qu’un des objectifs de
+posantes
+cette etude consiste a mesurer 1’evolution des systemes territoriaux de
+Suisse; il s’agissait donc de trouver le maximum de donn6es identiques
+aussi espac6es que possible dans le temps. Il nous est vite apparu que les
+publications du Recensement federal de 1941 6taient les plus anciennes a
+Les deux
+
+contenir des donn6es nombreuses par commune et par canton et définies
+de maniere identique A celle du Recensement federal de 1960. C’est sur
+cette base que nous avons arr8t6 les dates de 1941 et 1960. A l’époque of
+nous r6alisions cette etude, les donn6es du recensement de 1970 n’6taient
+pas encore disponibles.
+Au d6but de notre analyse, nous comptions une cinquantaine de
+variables, mais en fonction des quatre imp6ratifs mentionn6s ci-dessus,
+nous n’en avons garde, finalement, que dix-neuf. Pour chacune d’elles,
+nous indiquons, outre leur definition, le sous-syst6me qu’elles sont sens6es
+mesurer.
+
+a)
+
+b)
+c)
+d)
+
+Croissance demographique. Croissance d6mographique en 10 ann6es.
+Ce taux en pour mille est calcul6 en rapportant la difference de la
+population entre 1930-1941 et 1950-1960 ~ la population de 1930 et A
+celle de 1950. Socio-g6n6tique.
+Hommes. Population masculine par rapport a la population totale
+(en pour mille). Socio-genetique.
+Mari6s. Population mari6e par rapport a la population de 20 ans et
+plus (en pour mille). Socio-g6n6tique.
+Divorces. Population divorc6e par rapport a la population de 20 ans
+
+et plus (en pour mille). Socio-g6n6tique.
+e) Indigenes. Population n6e dans la commune de domicile par rapport à
+la population totale (en pour mille). Culturel.
+f) Etrangers. Population n6e a 1’etranger par rapport h la population
+totale (en pour mille). Culturel.
+g) Protestants. Population protestante par rapport a la population totale
+(en pour mille). Culturel.
+h) 15 a 19 ans. Population de 15 a 19 ans par rapport A la population
+totale (en pour mille). Socio-g6n6tique.
+i) 20 a 39 ans. Population de 20 A 39 ans par rapport A la population
+totale (en pour mille). Socio-g6n6tique.
+j) 65 ans et plus. Population de 65 ans et plus par rapport A la population
+totale (en pour mille). Socio-g6n6tique.
+k) Population active. Population active r6sidente par rapport h la population r6sidente de 15 ans et plus (en pour mille). Economie.
+1) Population active feminine. Population active feminine par rapport
+a la population active residente (en pour mille). Economie.
+
+309
+
+m)
+
+n)
+o)
+
+Femmes actives. Population active f6minine par rapport a la population feminine de 15 ans a 65 ans (en pour mille). Economie.
+Agriculteurs. Population active dans 1’agriculture par rapport 2L la
+population active totale (en pour mille). Economie.
+Tertiaires. Population active du commerce, de la banque, des assurances, etc., par rapport A la population active totale (en pour mille).
+
+Economie.
+
+p) Natalite. Naissances par rapport a la population totale (en pour mille).
+Socio-g6n6tique.
+q) Nuptialit6. Mariages par rapport A la population totale (en pour mille).
+Socio-g6n6tique.
+r) Participation. Votants aux 6lections nationales par rapport au total
+des électeurs inscrits (en pour mille). Politique.
+s) Socialistes. Voix au parti socialiste par rapport au total des voix
+exprimees dans le cadre des elections nationales (en pour mille).
+Politique.
+Nous sommes conscients que les indicateurs des sous-systemes politiques
+culturels sont peu nombreux. De meme, nous n’avons pas d’indicateurs
+des rapports sociaux. Pour le canton de Geneve et pour le Jura, nous
+avons combl6 cette lacune en proc6dant A une recherche d’indicateurs politiques, culturels et sociaux suppl6mentaires. Nous en parlerons plus loin
+lorsque nous pr6senterons les resultats de ces recherches. De meme, pour
+les 25 cantons, nous avons proc6d6 A une analyse de leur systeme en 1900
+et 1960 avec des indicateurs un peu plus nombreux et varies que les 19
+d6finis ci-dessus.
+et
+
+2.
+
+LES
+
+CARACTERISTIQUES
+
+ET LES TRANSFORMATIONS DU SYSTEME SPATIAL
+
+DE LA SUISSE
+
+2.1 Le
+
+systeme des
+
+cantons
+
+pr6sentons les resultats d’une analyse 16g6rement
+diff6rente du modele que nous avons esquisse ci-dessus. I1 s’agit du traitement des vingt-cinq cantons et demi-cantons par vingt et un indicateurs
+differents de ceux de la liste de dix-neuf mentionn6e pr6c6demment. Cette
+analyse a ete effectuee pour les ann6es 1900 et 1960.
+La comparaison des resultats de ces deux analyses (Tableaux 4 et 5) fait
+apparaitre des changements sensibles, mais aussi une continuite certaine:
+sur le premier facteur, douze variables ont le meme coefficient factoriel
+(avec une difference de + ou -0.1). Ce facteur est bi-polaire et oppose,
+d’une part, des variables indiquant un haut niveau de developpement
+Pour commencer,
+
+310
+
+socio-6conomique (((Urbanisation», «Commerce», etc.), une hdtdrog6n6it6
+socio-culturelle 6lev6e (oSocialistes», «Protestants», «Etrangers», etc.) et
+une anomie aigue (&amp;lt;cSuicide&amp;gt;&amp;gt;,
+((Divorc6s~)); d’autre part, des variables
+d6signant une situation inverse (&amp;lt;cAgriculteurs», «lndigènes», «lndépendants», etc.).
+Nous sommes donc en face d’un facteur mesurant le niveau de d6veloppement socio-economique des cantons d6finissant, en quelque sorte, leur
+stratification socio-6conomique, dont un pole est urbain et l’autre rural.
+Entre 1900 et 1960, le pourcentage expliquant la variance passe de 43 a 53.
+Le nombre des variables avec un coefficient factoriel de + ou -0.5 auget «Dimension moyenne des
+mente de 15 a 17: les variables uNatalit6&amp;gt;&amp;gt;
+m6nages~&amp;gt; accentuent leur poids au pole rural, les variables femmes
+actives», Population active» en font de meme sur le pole urbain.
+
+Fait int6ressant, sur la meme p6riode, la variable &amp;lt;dndustrie» perd
+importance; elle n’a plus un coefficient factoriel sup6rieur A 0.5.
+
+Tableau 4.
+
+1
+
+Profils factoriels des cantons
+
+1900
+
+R6sidents n6s dans leur commune de domicile.
+% de couples dont les conjoints n’ont pas la meme religion.
+8
+Femmes actives par rapport aux femmes en age de travailler.
+4 Population des villes de 10.000 habitants sur population totale.
+2
+
+son
+
+311
+Pour ce qui est du 26me facteur, la seule variable commune est celle
+relative aux classes d’age («65 ans et plus»). Quant au 36me facteur, nous
+retrouvons, aussi bien en 1900 qu’en 1960,1’opposition entre les variables
+«Industrie» et «Commerce». Au-dela de ces trois facteurs, il n’est plus
+possible de d6celer d’autres r6gularit6s.
+I1 ne fait donc pas de doute que c’est le premier facteur qui constitute le
+meilleur indicateur du d6veloppement in6gal des cantons ou de leur structuration en termes du modele centre-p6riph6rie. La hi6rarchisation des
+cantons en fonction des valeurs factorielles de ce premier facteur confirme
+cette affirmation (Tableau 6): les cantons de B~le-Ville, Bale-Campagne,
+Schaffouse, Neuchatel, Zurich et Geneve ont le rang le plus 6lev6 et ceux
+de Obwald, Nidwald, Fribourg, Valais, Appenzell IR, Uri ont le rang le
+plus bas. Sur ces douze cantons extremes, seulement deux d’entre eux, en
+60 ans, ont change de statut socio-dconomique de maniere sensible: Geneve
+perd trois rangs, Schaffouse en gagne cinq.
+Tableau 5.
+
+1
+
+Profils factoriels des cantons 1960
+
+R6sidents n6s dans leur
+
+de domicile.
+pas la meme religion.
+3
+Femmes actives par rapport aux femmes en age de travailler.
+4
+Population des villes de 10.000 habitants sur population totale.
+commune
+
+a % de couples dont les conjoints n’ont
+
+312
+Les cantons qui progressent le plus, selon cette echelle socio-economique,
+ceux de Berne, Vaud, Soleure, Argovie, le Tessin et le Valais. Ceux qui
+r6gressent le plus sont Appenzell et St-Gall. 11 est 6galement intdressant de
+noter que, toujours sur la meme pdriode, 1’6cart entre les deux cantons les
+plus extremes s’est accentu6 formidablement. En 1900, cet 6cart 6tait de
+1000 environ, en 1960 de 2.900.
+Est-ce qu’une telle analyse d6pendrait des p6riodes et des variables
+choisies? Non, a en croire les resultats de 1’analyse avec les 19 variables
+d6finies pr6c6demment et pour une p6riode plus courte, c’est-~.-dire, 1941 à
+1960. En effet, nous aboutissions a des resultats tres semblables (Tableaux 7
+et 8). Ces analyses nous permettent de caract6riser le systeme regional
+suisse aussi bien en 1941 qu’en 1960, par 5 dimensions independantes :
+sont
+
+a)
+b)
+c)
+d)
+e)
+
+D6veloppement socio-economique,
+Classes d’age,
+’
+
+Secteur
+
+tertiaire,
+Population active,
+
+Participation 6lectorale.
+
+Tableau 6. Rang des cantons suisses
+
+economique
+
+sur
+
+le facteur diveloppement socio-
+
+313
+
+Tableau 7.
+
+Plus
+est
+
+Profils factoriels des cantons suisses en
+
+1941
+
+canton est developpe socio-6conomiquement, plus sa
+h6t6rog6ne et ses sous-cultures nombreuses et moins il
+un
+
+population
+compte de
+
+jeunes.
+La dichotomie rural-urbain recouvre,
+
+outre, l’opposition historique
+catholiques
+protestants.
+En 1941, le facteur 2 indique que plus le pourcentage des personnes
+agees d’un canton est important, moins sa croissance demographique est
+rapide.
+En 1960, cette situation change dans le sens que la croissance demographique s’associe aussi a la croissance socio-economique donc sur le
+facteur 1. Le secteur tertiaire caracterise le troisieme facteur. La population active, d’une part, et la participation 6lectorale, d’autre part, sont deux
+autres dimensions sp6cifiques du systeme des cantons suisse.
+En bref, une seule difference notable se manifeste donc en 1941 et 1960:
+alors qu’ils étaient independants en 1941, les poles de croissance demographique se confondent en 1960 avec les poles du d6veloppement socio6conomique. Il apparait, en outre, que les disparit6s intercantonales
+entre cantons
+
+II
+I
+
+et cantons
+
+en
+
+314
+Table 8.
+
+Profils factoriels des cantons suisses en
+
+1960
+
+restent stables. Les seuls cantons dont le statut change profond6ment, sont
+ceux qui sont contigus a une grande agglomeration urbaine. Tel est le cas
+des cantons de Bale-Campagne et d’Argovie qui recueillent le &amp;lt;&amp;lt;trop-plein»
+des poles de croissance de Bale et Zurich.
+Notre analyse montre donc, clairement, que le systeme des cantons
+
+suisses etait d6jA, en 1900, structure selon le modele centre-p6riph6rie. Les
+de G. Gaudard 6tablissent que cette situation date de fort longtemps. :Le premier element important de differenciation spatiale a ete
+d’ordre naturel. Il a privil6gi6 1’etablissement des hommes dans des regions
+plus basses et a l’intersection des voies de communication impos6es par le
+relief. L’in6galit6 de l’ouverture economique qui en est resultee s’est r6percutee sur la marche des affaires. Les choix intervenus lors de la R6forme
+proc6d6rent, pour une part, de la disponibilit6 aux id6es ext6rieures et du
+poids des corporations relativement a celui de 1’aristocratie patricienne»
+(Gaudard, p. 159). Avec l’industrialisation, le perfectionnement des
+moyens de communication, le clivage entre cantons urbains et cantons
+ruraux s’accentua. Les premiers se constituerent en poles de croissance
+travaux
+
+315
+mettant en branle
+
+un vaste mouvement de concentration economique et
+Il faut bien souligner que cette croissance de certains
+d6mographique.
+cantons se fit aux d6pens des autres. La faiblesse relative de certaines
+zones est de nature a favoriser une emigration au profit des regions plus
+opulentes, ce qui «concourt a une aggravation de 1’ecart intercantonal
+absolu» (Gaudard, p. 67).
+Entre 1900 et 1960, il ne fait pas de doute que cette disparite n’a pas
+cess6 de s’amplifier. Certes, quelques cantons ont am6lior6 leur position
+dans le systeme regional suisse, mais d’autres ont aussi singuli6rement
+r6gress6. Quant aux cantons les plus favorises et a ceux qui l’étaient le
+moins, non seulement ils maintiennent leur position, mais encore la distance qui les separait s’aggrandit. En bref, non seulement le modele centrep6riph6rie regit bien l’organisation spatiale de la Suisse, mais encore les
+in6galit6s et les rapports de domination-d6pendance que ce modele implique ne cessent de croitre.
+
+2.2 Le
+
+systeme des
+
+communes
+
+La comparaison des resultats de 1’analyse des cantons de 1941-1960, avec
+celle de 1900-1960 n’avait pas seulement pour objectif de corroborer la
+seconde, mais surtout de permettre une confrontation du systeme des
+communes avec celui des cantons. Le modele centre-p6riph6rie decele dans
+l’analyse des cantons de 1941-1960, regit-il aussi le systeme des communes
+suisses?
+L’existence de ces variables au niveau communal nois permet de
+repondre a cette question. Nous avons donc trait6, toujours avec une
+analyse en composantes principales, les dix-neuf indicateurs 6conomiques,
+d6mographiques, politiques et culturels mesurant les communes de 13
+ensembles differents :
+-
+
+5 agglomerations urbaines: Bale (al6manique et moiti6 catholique et
+moiti6 protestante), Geneve (romande et moiti6 catholique et moiti6
+protestante), Lausanne (romande et protestante) et Zurich et Berne
+
+(al6maniques et protestantes);
+regions rurales catholiques et alemaniques : les cantons d’Uri,
+Schwytz, Obwald et Nidwald;
+3 regions du canton de Berne dont le niveau de developpement socio6conomique est moyen; ces trois regions sont le Jura, le Mittelland et
+l’Oberland. La premiere est romande et plutot catholique alors que les
+deux suivantes sont protestantes et al6maniques.
+Nous avons effect6, finalement, la meme analyse pour les 162 communes
+suisses qui, en 1960, avaient plus de 5.000 habitants; par la suite, nous
+-
+
+-
+
+4
+
+316
+
+317
+
+318
+
+intitulerons cet ensemble de Villes. Soit, au total, 13 ensembles de comqui, avec les memes indicateurs, ont ete analys6es en 1941 et 1960.
+Nous donnons un aperru tres general de ces 26 analyses car il ne nous est
+dvidemment pas possible d’en presenter, ici,1’ensemble des r6sultats. Dans
+le tableau 9, nous avons indique sur quels axes factoriels (repr6sentds par
+leur num6ro d’ordre) le coefficient factoriel d’une variable d6passe le seuil
+de + ou -0.5. Pour ce faire, nous n’avons pris en consid6ration que les
+cinq premi6res composantes. Dans le cas ou une variable apparait sur
+plusieurs facteurs, le chiffre entre guillemets repr6sente le facteur sur lequel
+le coefficient factoriel est le plus 6lev6. Les chiffres entre parenthèses repr6sentent le facteur sur lequel une variable atteint un coefficient factoriel
+maximum mais variant entre + ou -0.4 et 0.5.
+Que ressort-il des resultats de ces analyses?
+Nous avons repere les ensembles de deux ou plusieurs variables qui,
+avec un coefficient factoriel superieur a + ou -0.5, se manifestent avec
+une certaine recurrence, c’est-à-dire, apparaissent sur au moins cinq facteurs des cent trente retenus. Au total, nous avons d6nombr6 six groupes
+de variables ayant cette r6gularit6. Examinons-les successivement.
+munes
+
+a) Nous intitulons le premier
+
+groupe de
+
+facteur genevois de 1960
+variables qu’il comprend.
+
+premier
+
+est
+
+socio-economique (SE).
+un exemple typique par
+
+Le
+les
+
+huit variables apparaissent fr6quemment, ensemble, il est important de signaler qu’elles ne le font pas toujours et, surtout pas avec
+les memes coefficients factoriels. Par contre, mis a part deux cas, les
+variables «Agriculteurs», &amp;lt;cTertiaires», «Etrangers» et les deux taux d’activit6 feminine sont toujours ensemble et oppos6s par les memes signes.
+C’est en raison de la forte similitude de ce groupe de variables, avec les
+premiers facteurs des analyses des cantons, que nous l’intitulons socio6conomique. Comme pour les cantons, ce groupe de variables signifie
+que le systeme des communes se caract6rise par un pole urbain A un
+pole rural.
+Nous intitulons le deuxi6me groupe de variables socio-démographique
+
+Si
+
+b)
+
+en
+
+ces
+
+319
+
+c)
+d)
+
+1 (SD 1) par le fait de l’opposition de la variable «65 ans et plus», la
+variable e20 a 39 ans» et/ou «Maries».
+Le troisi6me groupe de variables est egalement de nature sociodimographique (SD 2); il diff6re du précédent par le fait qu’il oppose les
+variables «15-19 ans» a «20-39 ans» et/ou «65 ans et plus» et/ou ((Mari6s)&amp;gt;.
+Assez r6guili6rement, se manifeste un groupe de deux indicateurs
+variant de maniere concomitante; ce sont les variables «Croissance
+demographique» et «20-39 ans». Nous qualifions cet ensemble de
+
+e)
+
+croissance dimographique (CD).
+La variable «Population active» (AC)
+
+- qui d6finit le cinquième groupe manifeste frequemment avec les variables «20-39 ans» et/ou ((Mari6s)).
+La variable «Protestants» (PRO) apparait tant6t au pôle urbain, tant6t
+au pole rural du groupe socio-economique. Dans les regions cathose
+
+f)
+
+liques (Uri, Schwytz, Obwald, Nidwald), la variable protestants»
+apparait toujours au pole urbain. Dans les regions protestantes (Mittelland, Oberland, Berne, Zurich, Lausanne), la variable «Protestants»
+fait partie du pole rural. Elle n’est pas liee au groupe des variables sociodconomiques pour Geneve, Bale et le Jura et les Villes. Dans ces quatre
+cas, les confessions catholique et protestante sont profess6es chacune
+par la moiti6, environ, de la population.
+Nous constatons, ainsi, que des 19 variables prises en consid6ration dans
+analyses, 15 sont comprises dans ces six ensembles de variables. Les
+~&amp;gt;
+quatre restantes sont les variables ((Natalit6)&amp;gt;, ((Nuptialit6)&amp;gt;, «Participation»
+et «Socialistes». Nous n’avons pas retenu les deux derni6res du fait qu’elles
+étaient manquantes dans plus de la moitie des analyses. Notons, cependant, que dans les cas ou elle etait disponible, la variable «Socialistes»
+s’associe au pole urbain du groupe intitul6 socio-economique. En revanche,
+la variable participation ne manifeste aucune regularite. I1 en va de
+meme avec les variables «Natalite» et «Nuptialite».
+Le Tableau 10 permet de situer 1’apparition de ces six groupes de
+variables par rapport aux cinq premiers facteurs des 26 analyses. Lorsque
+dans un facteur, un de ces six groupes n’apparait pas, nous avons simplement mentionnd la ou les variables qui ont le coefficient factoriel le plus
+6lev6, mais a la condition qu’il d6passe une valeur sup6rieure a + ou -0.5.
+Ce tableau r6v6le deux constantes. Premi6rement, le groupe intitul6 socio6conomique apparait, a une exception pres, sur les premiers facteurs. Dans
+quelques cas, ce groupe apparait seul, mais, dans la plupart des cas, il est
+accompagn6 d’un des cinq groupes restants (SD 1, SD 2, CD, AC, PRO),
+mais il n’est pas possible de d6gager une regularite de ces variations concomitantes.
+La deuxi6me constante est moins forte que la premiere : les groupes de
+
+ces
+
+320
+
+321
+
+322
+variables que nous avons intitul6s socio-ddmographique 1 et socio-d6mographique 2 se manifestent, principalement, sur le deuxieme facteur. C’est
+syst6matiquement le cas pour les agglomerations urbaines.
+Ces deux constantes mises A part, nos analyses mettent en relief une
+grande diversite des regions analysdes.
+Le Tableau 10 fait egalement apparaitre des diffirences sensibles entre
+rigions rurales et agglomirations urbaines. Pour les premieres, pour ainsi
+dire, toutes les variables se manifestent sur le premier facteur avec des
+coefficients factoriels sup6rieurs a + ou -0.5.
+Pour les agglomerations urbaines et pour les Villes, les six groupes de
+variables ont tendance A se manifester sur plus de deux facteurs, voire sur
+les cinq facteurs retenus; tel est, plus particuli6rement, le cas de Geneve en
+1960. Ce resultat indique donc que dans les cantons ruraux, le systeme des
+communes n’est différencié que par la dimension socio-6conomique qui
+determine les sous-systemes d6mographiques et culturels. En d’autres
+termes, la specialisation du sol est relativement peu accentu6e, alors que
+dans les agglomerations urbaines, le systeme des communes est beaucoup
+plus differencie et segregatif.
+Considerons les r6sultats de ces analyses du point de vue du changement
+entre 1941 et 1960. Examinons d’abord les valeurs moyennes de quelques
+indicateurs qui sont apparus particuli6rement importants dans l’analyse
+ci-dessus (Tableau 11).
+Ces quelques moyennes indiquent, fort clairement, la stagnation
+d6mographique des communes des cantons ruraux, du Mittelland et de
+l’Oberland, la croissance moderee de celle du Jura, alors que celles des
+agglomerations urbaines accusent litt6ralement un bond. A ces variations
+plus ou moins grandes correspondent 1’augmentation du tertiaire, de celle
+de population 6trang6re et de la diminution de la population protestante.
+Lorsqu’on compare les profils factoriels de ces diverses entit6s, les changements sont 6galement importants. En fait, seuls les deux premiers facteurs
+d6notent une certaine permanence, alors que les autres changent du tout
+au tout. Ainsi, par exemple, pour les communes du canton et de 1’agglom6ration de Berne, le profil du premier et du deuxi6me facteur ne change
+pour ainsi dire pas; pour d’autres ensembles de communes (Oberland,
+Jura, agglomeration de Geneve), seul le premier facteur reste constant.
+Ainsi, en bref, 1’element vraiment stable que nous pouvons constater, c’est
+la dimension socio-economique. Seule l’analyse des Villes fait exception A
+cette r6gle: les profils de 1941 et 1960 n’ont rien de commun, c’est dire la
+profonde mutation qui a transforme le systeme urbain dans ce laps de
+
+temps.
+Pour terminer cette presentation, mentionons que pour Geneve et le
+Jura nous avons poursuivi notre analyse en ajoutant a nos dix-neuf
+
+323
+
+324
+
+de variables indicatrices des sous-syst6mes polirapports sociaux.
+L’introduction de ces nouvelles variables ne modifie que peu les resultats
+ci-dessus. Dans le Jura, les variables socio-6conomiques et d6mographiques
+fusionnent dans un seul facteur et il apparait un facteur «culturel» opposant
+les communes francophones, catholiques, d6mo-chr6tiennes et s6paratistes
+variables
+
+tiques
+
+une
+
+vingtaine
+
+et culturels et des
+
+pro-bernoises.
+socio-6conomique et sociod6mographique restent s6par6s, mais, sur ce dernier, viennent s’ adjoindre
+les variables religieuses et politiques. Sur le pole «jeune» de ce facteur,
+apparaissent les variables catholiques et d6mo-chr6tiennes, alors que sur
+l’autre, s’y polarisent les variables protestantes, lib6rale et radicale.
+aux communes
+
+germanophones, protestantes
+
+et
+
+Dans le canton de Geneve, les deux facteurs
+
+3.
+
+CONCLUSION
+
+Quelles sont les principales dimensions du systeme territorial suisse?
+Varient-elles selon que 1’on consid6re les systemes cantonal ou communal?
+Dans quel sens ces syst6mes 6voluent-ils? En quoi se distinguent-ils de
+ceux d’autres Etats-Nations industrialis6s?
+Nous nous trouvons dans la situation paradoxale ou les syst6mes
+cantonal et communal, que nous les consid6rions dans le temps et dans
+1’espace, sont a la fois un et divers.
+Expliquons-nous. Si nous considerons le premier facteur de nos analyses
+du systeme cantonal en 1900, 1941 et 1960 ainsi que celui des syst6mes de
+communes de regions plus ou moins urbanis6es en 1941 et 1960, nous
+retrouvons toujours le meme profil que nous avons intitul6 socio-6conomique ; dans pres de la moiti6 de nos analyses, le deuxi6me facteur a un
+profil socio-d6mographique, dans une plus petite fraction de systemes
+communaux encore, le troisieme ou quatrieme facteurs peuvent etre
+qualifi6s de religieux. Au dela, nous ne constatons plus aucune r6gularit6.
+En bref, le facteur 1 surtout, mais, aussi, dans une certaine mesure, le
+facteur 2, expriment 1’unite des syst6mes cantonal et communal de la
+Suisse, alors que les facteurs suivants mettent en relief leur diversit6.
+Nous pouvons formuler ce fait en d’autres termes. Nous avons distingu6,
+dans notre analyse, six ensembles de variables dont celui des variables
+socio-6conomiques, socio-d6mographiques, croissance d6mographique,
+protestants, etc. Dans certains cas, ces six groupes sont quasiment tous
+agenc6s sur le premier facteur, alors que dans d’autres, ils se r6partissent
+plus ou moins 6galement sur les cinq facteurs.
+Peut-on expliquer cette variation? Nous pouvons. en tout cas, formuler
+une
+
+hypoth6se.
+
+325
+Tableau 12. Risumi d’une silection de recherches
+d’agglomerations urbaines.
+
+Plus le
+
+d’icologie factorielle
+
+systeme des collectivites cantonales ou communales se caracterise
+d’6trangers, d’actifs dans le tertiaire et un pourcentage moyen de protestants voisin de 50 %, plus les groupes de variables
+socio-economiques, socio-demographiques et religieuses sont r6partis sur
+trois facteurs et plus. Inversement, plus le systeme est homogene du point
+de vue religieux, moins les taux moyens d’actifs dans le tertiaire et d’etrangers
+sont 6lev6s et plus les variables se regroupent en grand nombre sur le
+premier facteur.
+Quelle est la signification du regroupement des variables sur un ou
+plusieurs facteurs?
+par
+
+un
+
+taux moyen dlev6
+
+326
+Tableau 13. Risumi d’une silection de recherches
+systemes de collectivitis locales.
+
+d’ecologie factorielle de
+
+chaque facteur repr6sente une dimension relativement ind6pendante d’un systeme, plus ce dernier ce caracterise par un nombre 6lev6
+de facteurs sociologiquement significatifs, plus la segregation des unit6s est
+accentuee et diverse. Ansi, la s6gr6gation entre les communes genevoises
+tend d s’operer en termes socio-6conomiques, de classes d’age et religieux,
+alors que dans un canton tres faiblement urbanis6 comme celui d’Uri, ces
+trois dimensions ont fusionn6 sur un seul facteur; les communes ne different
+significativement les unes des autres qu’en termes socio-6conomiques.
+Comme
+
+327
+Tres bri6vement resume, il apparait, par les travaux que nous avons
+effectu6s en Suisse, que la systeme des localites d’une region est plus ou
+moins s6gr6gatif selon son niveau de d6veloppement socio-economique et
+son h6t6rog6n6it6 culturelle.
+Comment se presentent les systemes territoriaux d’autres Etats-Nations
+industrialis6s?
+Nous n’avons pas trouv6 des analyses vraiment comparables aux notres.
+Dans les Tableaux 12 et 13, nous avons resume, partiellement a partir des
+travaux de D.W.G. Timms et B.J.L. Berry, des recherches, d’une part, sur
+la partition de 1’espace d’agglom6rations urbaines et, d’autre part, sur le
+systeme des villes de quelques soci6t6s industrialis6es.
+Nous
+
+sommes
+
+tout a fait conscients que cette recension n’est pas exhaus-
+
+mentionnons, pourtant, un 6chantillon important de recherches
+tive ;
+effectuees avec une grande h6t6rog6neit6 m6thodologique et theorique dans
+le champ de l’icologie sociale. Malgr6 cela, nous sommes frapp6s de la
+convergence de nos resultats avec ceux de ces travaux. En effet, pour ainsi
+dire, tous les syst~mes 6tudi6s ont au moins, en commun, les trois dimennous
+
+sions suivantes:
+
+socio-économique, socio-dimographique (classes d’âge,
+(religion, ethnie, langue, race) qui, notons-le
+en passant, correspondent A trois des quatre sous-systemes que nous
+avions 61abor6s dans notre problematique.
+Pour terminer cette etude, revenons a la dimension qui reste constante
+que ce soit en 1900, 1941 et 1960, que ce soit aux niveaux des systemes des
+cantons ou des communes et, quant a ceux-ci, que leur contexte soit rural
+ou urbain. Nous voulons parler de la dimension socio-economique. Que
+signifie cette dimension? Elle est l’indicateur du modele centre-p6riph6rie
+qui regit non seulement les rapports internationaux mais encore les
+rapports internes des regions des Etats-Nations et ceux des localit6s d’une
+region qu’elle soit centrale, comme les grandes agglomerations urbaines,
+ou p6riph6rique, comme les cantons ruraux. Ainsi, que ce soit au niveau
+des Etats-Nations, des regions, des localites ou des quartiers, pour n’en
+rester qu’aux systemes des collectivites territoriales, nous constatons l’omnipr6sence de ce modele centre-p6riph6rie, il constitue quasiment l’instructure familiale) et culturelle
+
+variante des soci6t6s industrielles avancees. Pour autant que nos donn6es
+laissent juger, ce modele est fond6 sur un 6change in6gal entre le
+centre et la p6riph6rie, mais aussi sur une dependance et une marginalisation de la p6riph6rie par rapport au centre. Les ecarts entre 1’un et 1’autre
+ne cessent de s’accentuer. Plus encore, ce modele semble etre fonctionnel
+nous en
+
+par rapport aux societes industrielles avanc6es; qu’il nous suffise de
+donner deux exemples; les regions p6riph6riques constituent des reservoirs
+de main-d’oeuvre bon marche ou des zones d’investissement indispensables
+
+328
+a 1’extension des agglomerations urbaines; dans celles-ci, les quartiers
+degrades, les taudis, etc., en fournissant du logement bon march6, ne font
+non seulement pas augmenter les salaires des travailleurs urbains, mais
+encore leur degradation constitue un processus indispensable A la r6novation urbaine, c’est-d-dire, a l’aggrandissement des poles tertiaires, des
+
+m6tropoles.
+
+REFERENCES
+
+Andorka, R., Analysis of development of Villages and Towns in Hungary, 8&amp;amp;egrave;me Congr&amp;amp;egrave;s
+mondial de sociologie. Toronto, 1975, p. 8.
+Barrel, Y., La reproduction sociale, &amp;amp;eacute;d. Anthropos, Paris, 1973.
+Bassand, M., ’Villes et campagnes du Jura’, in V.A., Analyse socio-d&amp;amp;eacute;mographique
+r&amp;amp;eacute;gionale, CRAR, Gen&amp;amp;egrave;ve, 1969.
+Bassand, M., Christe, E., Valette, M., Quelques aspects du d&amp;amp;eacute;veloppement r&amp;amp;eacute;gional en
+Suisse, Dpt. de Sociologie, Gen&amp;amp;eacute;ve, 1974 (a) (ron&amp;amp;eacute;o), 85 p.
+Bassand, M., Urbanisation et pouvoir politique. Le cas de la Suisse, Lib. de l’Universit&amp;amp;eacute;,
+Gen&amp;amp;egrave;ve, 1974 (b).
+Bassand, M., D&amp;amp;eacute;veloppement urbain et logement, C.E.R.E.S., Gen&amp;amp;egrave;ve, 1974 (c).
+Bassand, M., Le syst&amp;amp;egrave;me des collectivit&amp;amp;eacute;s r&amp;amp;eacute;gionales et locales en Suisse, 8&amp;amp;egrave;me Congr&amp;amp;egrave;s
+de l’AIS, Toronto, 1974 (d), p. 20.
+Bassand, M., ’The Jura Problem’, Journal of Peace Research, N&amp;amp;deg; 2,1975 (a), pp. 139-150.
+Bassand, M., Le syst&amp;amp;egrave;me politique local suisse, Dpt. de Sociologie, Gen&amp;amp;egrave;ve, 1975 (b),
+(ron&amp;amp;eacute;o), 50 p.
+Berry, B.J.L. (ed.), City Classification Handbook: Methods and Applications, J. Wiley,
+New York, 1972.
+Berry, B.J.L., ’Latent Structure of the American Urban System, with International
+Comparison’, in Berry, B.J.L. (ed.), 1972, op. cit., pp. 11-60.
+Enriquez, E., ’Probl&amp;amp;eacute;matique du changement’, Connections, n&amp;amp;deg; 4, 1972.
+Gaudard, G., Les disparit&amp;amp;eacute;s &amp;amp;eacute;conomiques r&amp;amp;eacute;gionales en Suisse, Ed. Universitaires,
+Fribourg, 1973.
+Janson, C.-G., ’The Spatial Structure of Newark’, Acta Sociologica 11, 1968, pp. 144169.
+
+Janson, C.-G., Swedish Municipalities, 8&amp;amp;egrave;me Congr&amp;amp;egrave;s mondial de sociologie, Toronto,
+
+1974, 33 p.
+Jones, F.L., ’Social Area Analysis’, British Journal of Sociology 19, 1968, pp. 424-444.
+Meyer, D.R., ’Classification of U.S. Metropolitan Areas by the Characteristics of their
+Nonwhite Populations’, in Berry, B.J.L., 1972, op. cit., pp. 61-93.
+Meylan, J., Gottraux, M., Dahinden, Ph., Communes suisses et autonomie communale,
+Imprimerie populaire, Lausanne, 1972.
+Morin, E., Le paradigme perdu, Seuil, Paris, 1974.
+,
+Poulantzas, N., Les classes sociales dans le capitalisme aujourd’hui Ed. Seuil, Paris, 1974.
+Ray, D.M., et Murdie, R.A., ’Canadian and American Urban Dimension’, in Berry,
+B.J.L., 1972, op. cit., pp. 181-210.
+Rees, P.H., ’Problems of Classifying Subareas within Cities’, in Berry, B.J.L., 1972,
+op. cit., pp. 265-330.
+
+,
+Rocher, R., T. Parsons et la sociologie am&amp;amp;eacute;ricaine P.U.F., Paris, 1972.
+Rohr, J., La Suisse contemporaine, A. Colin, Paris, 1972.
+Sweetser, F.L., ’Factor Structure as Ecological Structure in Helsinki and Boston’,
+Acta Sociologica, 8, 1965, pp. 202-225.
+
+329
+
+Sweetser, F.L., ’The uses of factorial ecology in classification’, in Archer, M.S., Current
+Research in Sociology, Mouton, La Haye, 1974, pp. 317-343.
+Timms, D.W.G., The Urban Mosaic, Cambridge University Press, 1971.
+,
+Touraine, A., Production de la Soci&amp;amp;eacute;t&amp;amp;eacute; Ed. Seuil, Paris, 1973.
+
+</p>
+         </div>
+      </body>
+      <back>
+         <note>
+            <p>1. Cet article constitue la synthèse de plusieurs analyses publiées séparément et mentionnées dans la bibliographie.</p>
+         </note>
+         <div type="references">
+            <listBibl>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Analysis of development of Villages and Towns in Hungary, 8ème Congrès mondial de sociologie</title>
+                     <author>
+                        <persName>
+                           <surname>Andorka, R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Andorka, R.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1975</date>
+                        <pubPlace>Toronto</pubPlace>
+                        <biblScope unit="page" from="8">8</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">La reproduction sociale</title>
+                     <author>
+                        <persName>
+                           <surname>Barrel, Y.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Barrel, Y.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1973</date>
+                        <pubPlace>Paris</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">'Villes et campagnes du Jura'</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1969</date>
+                        <pubPlace>Genève</pubPlace>
+                        <publisher>CRAR</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Quelques aspects du développement régional en Suisse</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Christe, E.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Valette, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Christe, E.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Valette, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Genéve</pubPlace>
+                        <publisher>Dpt. de Sociologie</publisher>
+                        <biblScope unit="page" from="85">85</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Urbanisation et pouvoir politique</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Genève</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Développement urbain et logement</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Genève</pubPlace>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le système des collectivités régionales et locales en Suisse</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Toronto</pubPlace>
+                        <biblScope unit="page" from="20">20</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'The Jura Problem'</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Journal of Peace Research</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Bassand, M., 'The Jura Problem', Journal of Peace Research , N° 2,1975 (a), pp. 139-150.</note>
+                     <imprint>
+                        <date type="year">1975</date>
+                        <biblScope unit="page" from="139">139</biblScope>
+                        <biblScope unit="page" to="150">150</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le système politique local suisse</title>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Bassand, M.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1975</date>
+                        <pubPlace>Genève</pubPlace>
+                        <publisher>Dpt. de Sociologie</publisher>
+                        <biblScope unit="page" from="50">50</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m" type="main"/>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <pubPlace>New York</pubPlace>
+                        <publisher>J. Wiley</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">'Latent Structure of the American Urban System, with International Comparison'</title>
+                     <author>
+                        <persName>
+                           <surname>Berry, B.J.L.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Berry, B.J.L.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <biblScope unit="page" from="11">11</biblScope>
+                        <biblScope unit="page" to="60">60</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'Problématique du changement'</title>
+                     <author>
+                        <persName>
+                           <surname>Enriquez, E.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Connections</title>
+                     <author>
+                        <persName>
+                           <surname>Enriquez, E.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Enriquez, E., 'Problématique du changement', Connections, n° 4, 1972.</note>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <biblScope unit="issue">4</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Les disparités économiques régionales en Suisse</title>
+                     <author>
+                        <persName>
+                           <surname>Gaudard, G.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gaudard, G.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1973</date>
+                        <pubPlace>Fribourg</pubPlace>
+                        <publisher>Universitaires</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'The Spatial Structure of Newark'</title>
+                     <author>
+                        <persName>
+                           <surname>Janson, C.-G.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Acta Sociologica</title>
+                     <author>
+                        <persName>
+                           <surname>Janson, C.-G.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Janson, C.-G., 'The Spatial Structure of Newark', Acta Sociologica 11, 1968, pp. 144-169.</note>
+                     <imprint>
+                        <date type="year">1968</date>
+                        <biblScope unit="vol">11</biblScope>
+                        <biblScope unit="page" from="144">144</biblScope>
+                        <biblScope unit="page" to="169">169</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Swedish Municipalities</title>
+                     <author>
+                        <persName>
+                           <surname>Janson, C.-G.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Janson, C.-G.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Toronto</pubPlace>
+                        <biblScope unit="page" from="33">33</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'Social Area Analysis'</title>
+                     <author>
+                        <persName>
+                           <surname>Jones, F.L.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">British Journal of Sociology</title>
+                     <author>
+                        <persName>
+                           <surname>Jones, F.L.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Jones, F.L., 'Social Area Analysis', British Journal of Sociology 19, 1968, pp. 424-444.</note>
+                     <imprint>
+                        <date type="year">1968</date>
+                        <biblScope unit="vol">19</biblScope>
+                        <biblScope unit="page" from="424">424</biblScope>
+                        <biblScope unit="page" to="444">444</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">'Classification of U.S. Metropolitan Areas by the Characteristics of their Nonwhite Populations', in Berry</title>
+                     <author>
+                        <persName>
+                           <surname>Meyer, D.R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Meyer, D.R.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <publisher>B.J.L.</publisher>
+                        <biblScope unit="page" from="61">61</biblScope>
+                        <biblScope unit="page" to="93">93</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Communes suisses et autonomie communale</title>
+                     <author>
+                        <persName>
+                           <surname>Meylan, J.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gottraux, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Dahinden, Ph.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Meylan, J.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Gottraux, M.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Dahinden, Ph.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <pubPlace>Lausanne</pubPlace>
+                        <publisher>Imprimerie populaire</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Le paradigme perdu</title>
+                     <author>
+                        <persName>
+                           <surname>Morin, E.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Morin, E.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Seuil</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Les classes sociales dans le capitalisme aujourd'hui</title>
+                     <author>
+                        <persName>
+                           <surname>Poulantzas, N.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Poulantzas, N.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Seuil</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'Canadian and American Urban Dimension', in Berry</title>
+                     <author>
+                        <persName>
+                           <surname>Ray, D.M., et</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Murdie, R.A.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title/>
+                     <author>
+                        <persName>
+                           <surname>Ray, D.M., et</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Murdie, R.A.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Ray, D.M., et Murdie, R.A., 'Canadian and American Urban Dimension', in Berry, B.J.L. , 1972, op. cit., pp. 181-210.</note>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <biblScope unit="page" from="181">181</biblScope>
+                        <biblScope unit="page" to="210">210</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">'Problems of Classifying Subareas within Cities', in Berry</title>
+                     <author>
+                        <persName>
+                           <surname>Rees, P.H.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rees, P.H.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <publisher>B.J.L.</publisher>
+                        <biblScope unit="page" from="265">265</biblScope>
+                        <biblScope unit="page" to="330">330</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">T. Parsons et la sociologie américaine</title>
+                     <author>
+                        <persName>
+                           <surname>Rocher, R.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rocher, R.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>P.U.F.</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">La Suisse contemporaine</title>
+                     <author>
+                        <persName>
+                           <surname>Rohr, J.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rohr, J.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1972</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>A. Colin</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article">
+                  <analytic>
+                     <title level="a" type="main">'Factor Structure as Ecological Structure in Helsinki and Boston'</title>
+                     <author>
+                        <persName>
+                           <surname>Sweetser, F.L.</surname>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Acta Sociologica</title>
+                     <author>
+                        <persName>
+                           <surname>Sweetser, F.L.</surname>
+                        </persName>
+                     </author>
+                     <note type="content">Sweetser, F.L., 'Factor Structure as Ecological Structure in Helsinki and Boston' , Acta Sociologica, 8, 1965, pp. 202-225.</note>
+                     <imprint>
+                        <date type="year">1965</date>
+                        <biblScope unit="vol">8</biblScope>
+                        <biblScope unit="page" from="202">202</biblScope>
+                        <biblScope unit="page" to="225">225</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">'The uses of factorial ecology in classification', in Archer, M.S., Current Research in Sociology</title>
+                     <author>
+                        <persName>
+                           <surname>Sweetser, F.L.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Sweetser, F.L.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1974</date>
+                        <pubPlace>Mouton</pubPlace>
+                        <publisher>La Haye</publisher>
+                        <biblScope unit="page" from="317">317</biblScope>
+                        <biblScope unit="page" to="343">343</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">The Urban Mosaic</title>
+                     <author>
+                        <persName>
+                           <surname>Timms, D.W.G.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Timms, D.W.G.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1971</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book">
+                  <monogr>
+                     <title level="m">Production de la Société</title>
+                     <author>
+                        <persName>
+                           <surname>Touraine, A.</surname>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Touraine, A.</surname>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1973</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Seuil</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

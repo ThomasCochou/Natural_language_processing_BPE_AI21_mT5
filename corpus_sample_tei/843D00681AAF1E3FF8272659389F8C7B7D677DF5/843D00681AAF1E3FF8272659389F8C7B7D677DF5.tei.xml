@@ -1,0 +1,2736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Les activités de groupe des centres de jour pour personnes âgées correspondent-elles aux besoins des différents profils de participants ?</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Association on Gerontology 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Les activités de groupe des centres de jour pour personnes âgées correspondent-elles aux besoins des différents profils de participants ?</title><author xml:id="author-0000" corresp="yes"><persName><forename type="first">Jacinthe</forename><surname>Savard</surname></persName><email>jacinthe.savard@uottawa.ca</email><affiliation>Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill</affiliation><affiliation>Clinique universitaire interprofessionnelle de réadaptation, Université d’Ottawa</affiliation></author><author xml:id="author-0001"><persName><forename type="first">Paule</forename><surname>Lebel</surname></persName><affiliation>Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill</affiliation><affiliation>Centre d’expertise sur la santé des personnes âgées et des aidants (CESPA), Institut universitaire de gériatrie de Montréal</affiliation></author><author xml:id="author-0002"><persName><forename type="first">Nicole</forename><surname>Leduc</surname></persName><affiliation>Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill</affiliation><affiliation>Groupe de recherche interdisciplinaire en santé (GRIS), Faculté de médecine, Université de Montréal</affiliation></author><author xml:id="author-0003"><persName><forename type="first">François</forename><surname>Béland</surname></persName><affiliation>Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill</affiliation><affiliation>Groupe de recherche interdisciplinaire en santé (GRIS), Faculté de médecine, Université de Montréal</affiliation></author><author xml:id="author-0004"><persName><forename type="first">Howard</forename><surname>Bergman</surname></persName><affiliation>Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill</affiliation><affiliation>Groupe de recherche interdisciplinaire en santé (GRIS), Faculté de médecine, Université de Montréal</affiliation><affiliation>Division of Geriatric Medicine, McGill University et Jewish General Hospital, Montréal</affiliation></author><idno type="istex">843D00681AAF1E3FF8272659389F8C7B7D677DF5</idno><idno type="ark">ark:/67375/6GQ-8NF80JMN-Q</idno><idno type="DOI">10.1017/S0714980809090035</idno><idno type="PII">S0714980809090035</idno><idno type="article-id">09003</idno></analytic><monogr><title level="j">Canadian Journal on Aging / La Revue canadienne du vieillissement</title><title level="j" type="abbrev">Can. J. Aging</title><idno type="pISSN">0714-9808</idno><idno type="eISSN">1710-1107</idno><idno type="publisher-id">CJG</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">28</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="27">27</biblScope><biblScope unit="page" to="49">49</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="normal"><p>This study was carried out to explore the fit between health and functional characteristics of Day Program participants and the types of program activities they were offered in Day Programs. The subjects were 132 participants from 5 Day Programs in Montreal. Four different participant profile groups were identified using cluster analysis. A classification of program activities was created by a panel of experts. Participation in these activities was studied for each profile group, and compared to recommended activities for such client groups outlined through examination of the literature and consultation with our panel of experts. Results showed only partial correspondence between program activities and participants’ needs. This correspondence seemed higher for individuals with physical health problems or mobility impairments and weaker for those presenting depressive symptoms or cognitive impairments. These results suggest a need to review activity program components and determine ways to match better these with client needs to optimise the benefits of Day Program participation.</p></abstract><abstract xml:lang="fr" style="translated"><p>Cette étude exploratoire cherche à vérifier l’adéquation entre les activités offertes par les centres de jour et les caractéristiques d’autonomie et de santé des utilisateurs. Cent trente-deux participants de cinq centres de jour de Montréal ont participé à cette étude. Des analyses en regroupement ont permis de distinguer quatre profils de participants. Une classification des activités en centres de jour a été établie à l’aide d’un groupe d’experts. La participation à ces activités a été étudiée pour chaque profil et comparée aux activités recommandées par notre groupe d’experts ainsi que dans les écrits. Les résultats démontrent une concordance partielle entre les activités offertes et les besoins des participants. Cette concordance apparaît plus grande pour les personnes qui présentent des problèmes de santé physique ou des incapacités d’origine motrice et plus faible pour celles qui présentent des symptômes dépressifs ou des atteintes cognitives. Ces résultats renforcent la nécessité de revoir la planification des activités pour assurer une offre de services qui tient davantage compte des besoins des participants et, ainsi, optimiser les bénéfices de la participation à un centre de jour.</p></abstract><textClass xml:lang="fr"><keywords scheme="keyword"><list><head>Mots clés</head><item><term>centre de jour</term></item><item><term>personnes âgées</term></item><item><term>soutien à domicile</term></item><item><term>activités thérapeutiques</term></item></list></keywords></textClass><textClass><keywords scheme="keyword"><list><head>Keywords</head><item><term>Adult Day Care</term></item><item><term>Adult Day Services</term></item><item><term>frail seniors</term></item><item><term>community long-term care</term></item><item><term>therapeutic activities</term></item></list></keywords></textClass></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Les activités de groupe des centres de jour
+pour personnes âgées correspondent-elles
+aux besoins des différents proﬁls de
+participants ?*
+Jacinthe Savard,1,2 Paule Lebel,1,3 Nicole Leduc,1,4 François Béland,1,4
+et Howard Bergman1,4,5
+ABSTRACT
+This study was carried out to explore the ﬁt between health and functional characteristics of Day Program participants
+and the types of program activities they were offered in Day Programs. The subjects were 132 participants from 5 Day
+Programs in Montreal. Four different participant proﬁle groups were identiﬁed using cluster analysis. A classiﬁcation
+of program activities was created by a panel of experts. Participation in these activities was studied for each proﬁle
+group, and compared to recommended activities for such client groups outlined through examination of the literature
+and consultation with our panel of experts. Results showed only partial correspondence between program activities
+and participants’ needs. This correspondence seemed higher for individuals with physical health problems or mobility
+impairments and weaker for those presenting depressive symptoms or cognitive impairments. These results suggest a
+need to review activity program components and determine ways to match better these with client needs to optimise the
+beneﬁts of Day Program participation.
+
+RÉSUMÉ
+Cette étude exploratoire cherche à vériﬁer l’adéquation entre les activités offertes par les centres de jour et les
+caractéristiques d’autonomie et de santé des utilisateurs. Cent trente-deux participants de cinq centres de jour de Montréal
+ont participé à cette étude. Des analyses en regroupement ont permis de distinguer quatre proﬁls de participants. Une
+classiﬁcation des activités en centres de jour a été établie à l’aide d’un groupe d’experts. La participation à ces activités a
+été étudiée pour chaque proﬁl et comparée aux activités recommandées par notre groupe d’experts ainsi que dans les
+écrits. Les résultats démontrent une concordance partielle entre les activités offertes et les besoins des participants. Cette
+concordance apparaît plus grande pour les personnes qui présentent des problèmes de santé physique ou des incapacités
+d’origine motrice et plus faible pour celles qui présentent des symptômes dépressifs ou des atteintes cognitives. Ces
+résultats renforcent la nécessité de revoir la planiﬁcation des activités pour assurer une offre de services qui tient
+davantage compte des besoins des participants et, ainsi, optimiser les bénéﬁces de la participation à un centre de jour.
+1
+
+Groupe de recherche SOLIDAGE, Faculté de médecine, Université de Montréal et Université McGill
+
+2
+
+Clinique universitaire interprofessionnelle de réadaptation, Université d’Ottawa
+
+3
+
+Centre d’expertise sur la santé des personnes âgées et des aidants (CESPA), Institut universitaire de gériatrie de Montréal
+
+4
+
+Groupe de recherche interdisciplinaire en santé (GRIS), Faculté de médecine, Université de Montréal
+
+5
+
+Division of Geriatric Medicine, McGill University et Jewish General Hospital, Montréal
+
+* Pour mener à bien cette étude, la première auteure a reçu une bourse de recherche doctorale de la Société Alzheimer du Canada
+et une du groupe de recherche SOLIDAGE (ﬁnancé par les Instituts de recherche en santé du Canada). Cette étude utilise des
+données du projet SIPA, ﬁnancé par le Fonds pour l’adaptation des services de santé de Santé Canada, la Fondation canadienne
+de recherche sur les services de santé et le ministère de la Santé et des Services sociaux du Québec. Les auteurs remercient Luc
+Dallaire et John Fletcher, coordonnateurs de recherche du projet SIPA, pour leur aide précieuse relative à la gestion et à la
+transmission des données. De plus, ils remercient Anne-Marie Boivin, Christian-Paul Gaudet, Mélanie Léonard, Manon Pouliot
+et Tina Tenenbaum, coordonnateurs des centres de jour à l’étude, pour avoir partagé des informations sur le fonctionnement
+de leur centre de jour ainsi que Jacinthe Auger, Lucie Bernier, Françoise Hébert, Jacinthe Labbé, Thérèse Lafontaine, Odette
+Descarries et Tina Tenenbaum qui ont participé au groupe d’experts sur les activités en centres de jour.
+Manuscript received: / manuscrit reçu : 20/12/07
+Manuscript accepted: / manuscrit accepté : 8/12/08
+Mots clés : centre de jour, personnes âgées, soutien à domicile, activités thérapeutiques
+Canadian Journal on Aging / La Revue canadienne du vieillissement 28 (1) : 27–49 (2009)
+doi:10.1017/S0714980809090035
+
+27
+
+28
+
+Canadian Journal on Aging 28 (1)
+
+Jacinthe Savard et al.
+
+Keywords: Adult Day Care, Adult Day Services, frail seniors, community long-term care, therapeutic activities
+Requests for offprints should be sent to: / Les demandes de tirés-à-part doivent être adressées à:
+Jacinthe Savard
+Coordonnatrice, Clinique universitaire interprofessionnelle de réadaptation
+Université d’Ottawa
+451, chemin Smyth
+Ottawa (Ontario) K1H 8M5
+(jacinthe.savard@uottawa.ca)
+
+Introduction
+Parmi l’ensemble des services gérontologiques et gériatriques mis en place pour répondre aux besoins de la
+population vieillissante, on trouve le centre de jour (CJ),
+un service offert aux personnes âgées qui présentent
+des incapacités et qui demeurent à domicile. Les interventions en CJ comprennent des activités de surveillance de l’état de santé, des activités d’enseignement et
+de prévention, des activités de réadaptation visant essentiellement le maintien des capacités, des interventions psychosociales et de loisirs ainsi que du répit et
+du soutien aux familles (Gutman, Milstein, Killam,
+Lewis, et Hollander, 1993b ; Regroupement des centres
+d’hébergement et de soins de longue durée de la région
+de Montréal, 2005). Elles sont offertes principalement
+sous forme d’activités de groupe, bien que certaines interventions individuelles soient aussi réalisées.
+Les interventions du CJ sont une composante importante des services de soutien à domicile. Elles contribuent à améliorer le bien-être psychologique et la
+qualité de vie des personnes âgées ainsi qu’à diminuer
+le stress et le sentiment de fardeau de leur personne de
+soutien (Baumgarten, Lebel, Laprise, Leclerc, et Quinn,
+2002 ; Schacke et Zank, 2006 ; Strain, Chappell, et
+Blandford, 1987 ; Zank et Schacke, 2002 ; Zarit, Stephens,
+Townsend, et Greene, 1998). De plus, lorsque le maintien à domicile n’est plus possible, l’utilisation du CJ
+préalable au placement en institution aurait un effet
+protecteur sur le déclin cognitif de personnes atteintes
+de démence lors du placement (Wilson et al., 2007).
+Plusieurs études ont décrit les caractéristiques des utilisateurs de CJ (Cefalu, Ettinger, et Espeland, 1996 ;
+Cohen-Mansﬁeld, Lipson, Brenneman, et Pawlson,
+2001 ; Gutman, Milstein, Killam, Lewis, et Hollander,
+1993a) ainsi que les types d’activités offertes dans divers modèles de CJ (Conrad et Guttman, 1991 ; Conrad,
+Hughes, Hanrahan, et Wang, 1993 ; Gutman et al.,
+1993b ; Jarrott, Zarit, Berg, et Johansson, 1998). Par exemple, aux États-Unis, Conrad et Guttman ont comparé
+les centres qui reçoivent 30 pour cent et plus de clients
+atteints de démence à ceux qui en reçoivent moins de
+30 pour cent. Ils ont observé que les centres qui en
+accueillent plus de 30 pour cent offrent en général moins
+de services cliniques comme les soins dentaires et les
+
+examens auditifs et plus de services tels l’assistance
+aux soins personnels et aux ﬁnances ; le répit et le soutien
+aux familles ; les activités récréatives thérapeutiques
+(thérapie par l’art, musicothérapie) ; les activités de
+divertissement comme les fêtes, les sorties, les groupes
+sociaux ; les activités de loisirs ou passe-temps comme
+les jeux et l’artisanat. Jarrott et al. (1998) ont, pour leur
+part, comparé les activités organisées dans les CJ suédois et américains qui offrent des services à la clientèle
+atteinte de démence. Ils ont trouvé que la clientèle des
+CJ est similaire dans les deux pays, mais que les centres
+américains fournissent une plus grande variété de
+services, comme les services de podiatrie et les groupes
+de soutien aux aidants qui ne sont pas offerts dans
+les centres suédois. Toutefois, ces études n’ont pas
+cherché à savoir si les activités proposées à chacun des
+participants variaient en fonction des caractéristiques
+individuelles des clients.
+Des guides publiés aux États-Unis (Goldston, 1989 ;
+Lindeman, Corby, Downing, et Sanborn, 1991 ; National Institute on Adult Day Care, 1990 ; Nissenboim
+et Vroman, 1998) décrivent comment mettre en place
+un CJ. Sauf les guides destinés précisément aux CJ
+pour la clientèle atteinte de démence (Lindeman et al.,
+1991 ; Nissenboim et Vroman, 1998), ces guides présentent les types d’activités à organiser, sans préciser la
+clientèle visée par chaque type d’activités. Au Canada,
+le seul guide recensé, le cadre de référence pour les CJ
+proposé par l’Association des centres d’accueil du
+Québec (ACAQ, 1991), regroupe la clientèle des CJ en
+six sous-programmes :
+-
+
+incapacités fonctionnelles d’origine motrice ;
+incapacités fonctionnelles d’origine sensorielle ;
+incapacités fonctionnelles d’origine cognitive ;
+facteurs socio-environnementaux ;
+santé physique ;
+santé mentale.
+
+Pour chacun des sous-programmes, ce cadre de référence propose une liste d’activités de groupe et
+d’activités individuelles qui peuvent être organisées
+par les CJ. Ces derniers peuvent adapter ces suggestions en fonction des besoins particuliers de leur clientèle et des ressources dont ils disposent. Aucune
+étude n’a été effectuée pour vériﬁer dans quelle mesure
+
+Activités des centres de jour pour personnes âgées
+
+ces activités sont réellement offertes dans les CJ. Ce
+cadre de référence n’a pas non plus été mis à jour
+depuis 1991.
+L’objectif général de la présente étude est d’évaluer
+l’adéquation entre les activités proposées par les CJ et
+les caractéristiques de santé et d’autonomie des utilisateurs. Elle comporte trois objectifs spéciﬁques : 1) établir, à l’aide d’analyses en regroupement, les proﬁls de
+participants des CJ ; 2) étudier et catégoriser les activités qui leur sont offertes ; 3) comparer les activités offertes aux membres de chacun des proﬁls préalablement
+déterminés à celles suggérées par le cadre de référence
+de l’ACAQ (1991) et aux recommandations d’un groupe
+d’experts. Il s’agit d’une étude exploratoire qui cherche
+à combler une lacune dans les études actuelles. En effet,
+bien que les CJ organisent majoritairement des activités
+de groupe, il arrive qu’ils offrent des programmations
+différentes pour les divers jours de la semaine ou
+encore, dans les centres sufﬁsamment importants, deux
+ou trois activités simultanées pour divers groupes de
+clients, ce qui leur permet de personnaliser l’offre de
+services. Une combinaison d’activités mieux adaptées
+aux besoins de chaque participant pourrait avoir une
+inﬂuence sur la capacité du CJ d’atteindre ses objectifs.
+
+Méthode
+L’étude s’appuie principalement sur une analyse secondaire de données recueillies de juin 1999 à mars 2001
+dans le cadre du projet de démonstration SIPA, qui
+consistait en l’expérimentation d’un modèle de services intégrés pour les personnes âgées qui présentent
+des incapacités (Béland et al., 2006a ; 2006b). Le projet
+SIPA a été mené auprès de 1 230 personnes âgées qui
+résidaient sur deux territoires de Centre local de services communautaires (CLSC) de la région de Montréal.
+Environ la moitié de ces personnes a reçu les services
+intégrés évalués dans le cadre du projet SIPA, alors que
+l’autre moitié continuait de recevoir les services de
+soutien à domicile habituels de leur CLSC.
+Population à l’étude
+Les personnes admises au projet SIPA devaient être
+âgées de 65 ans et plus, vivre à domicile au début de
+l’étude, accepter de participer à une étude randomisée
+sur les services intégrés pour personnes âgées et pouvoir s’exprimer en français ou en anglais avec les membres du projet SIPA, ou avoir un proche en mesure de
+le faire. Elles devaient aussi présenter des incapacités
+fonctionnelles, indiquées par un résultat de –10 ou
+moins au Système de mesure de l’autonomie fonctionnelle (Hébert, Carrier et Bilodeau, 1988 ; Desrosiers,
+Bravo, Hébert, et Dubuc, 1995).
+Parmi les personnes toujours à domicile et suivies par
+l’équipe de recherche SIPA à la ﬁn de la première phase
+
+La Revue canadienne du vieillissement 28 (1)
+
+29
+
+du projet en mai 2000, 140 avaient participé aux activités d’un CJ pendant la période d’observation. Huit de
+ces participants ont dû être exclus des analyses en raison d’un trop grand nombre de données manquantes.
+L’échantillon ﬁnal comprend donc 132 personnes
+âgées. La seule différence statistiquement signiﬁcative
+entre les caractéristiques démographiques et de santé
+des sujets inclus et exclus concerne le lien avec la personne de soutien : pour les sujets exclus, la personne
+de soutien n’est jamais le conjoint, alors qu’elle l’est
+pour 28 pour cent des sujets inclus.
+Caractéristiques des centres de jour
+Les caractéristiques des cinq CJ qui offrent des services
+sur le territoire des deux CLSC de l’étude ont été
+décrites plus en détail dans un article précédent
+(Savard, Leduc, Lebel, Béland, et Bergman, 2007) et
+sont résumées ci-après.
+Le nombre de personnes âgées inscrites varie de 25 à
+45 personnes par jour, selon les centres. Le nombre
+moyen de présences réelles par jour varie de 18,1 à
+28,7. Chaque personne peut être inscrite de une demijournée à trois journées par semaine, selon ses besoins
+et les politiques de chacun des centres. Exceptionnellement, une personne a pu être inscrite à raison de quatre journées par semaine. La durée de chaque visite
+varie de 4,5 à 6 heures par jour pour les personnes inscrites à la journée et de 2 à 3,5 heures pour celles inscrites à la demi-journée, dans les centres qui offrent ce
+type de fréquentation. Le coût de chaque participation
+varie de 5 à 17 dollars par jour et couvre les frais de
+transport et de repas. Ces CJ peuvent compter sur un
+personnel variant de 4,7 à 7,9 équivalents temps complet (ETC), qui comprend, en plus du personnel administratif et de soutien (coordonnateurs, secrétaires,
+chauffeurs), des membres des professions suivantes :
+inﬁrmières (cinq centres), ergothérapeutes (cinq centres), physiothérapeutes ou thérapeutes en réadaptation physique (quatre centres), intervenants en loisirs
+(quatre centres) ou éducateurs spécialisés (deux centres), intervenants psychosociaux (quatre centres), préposés aux bénéﬁciaires (quatre centres).
+Bien que chacun des centres décrive ses critères
+d’admission de façon légèrement différente, ce sont
+tous des centres qui visent le soutien à domicile des
+personnes âgées présentant des incapacités. Deux centres acceptent les personnes de 60 ans et plus, deux autres les admettent à partir de 65 ans, alors qu’un autre
+exige un proﬁl gériatrique sans mentionner un âge
+minimum.
+Aucun des centres à l’étude ne se déﬁnit comme un
+centre pour personnes atteintes de démence. Toutefois,
+quatre des cinq CJ regroupaient les personnes atteintes de troubles cognitifs lors de certaines journées
+
+30
+
+Canadian Journal on Aging 28 (1)
+
+particulières. Le cinquième formait, cinq jours par semaine, un groupe spéciﬁque pour les personnes qui
+ont des atteintes cognitives importantes. Dans ce
+groupe, on pouvait mener les mêmes types d’activités
+que lors des groupes habituels, mais en les adaptant
+aux capacités cognitives de la clientèle.
+Collecte de données
+Les caractéristiques des participants ont été recueillies
+par l’équipe de recherche SIPA à l’aide de questionnaires complétés par entrevue. Pour les personnes
+âgées incapables de répondre elles-mêmes au questionnaire, un substitut a été utilisé. L’équipe de recherche SIPA a aussi réalisé un relevé de l’utilisation des
+services de santé des participants à partir des bases de
+données des organismes et des établissements de santé
+(Régie de l’assurance maladie du Québec, Agence de la
+santé et des services sociaux de Montréal, hôpitaux,
+CLSC, CJ, etc.). Pour les CJ, ce relevé comprenait les
+données d’utilisation recueillies à l’aide du logiciel
+JEDI1 par quatre des cinq CJ et des informations similaires colligées dans les dossiers des clients pour le
+cinquième centre qui n’utilisait pas ce logiciel.
+Période d’observation
+Les données relatives aux caractéristiques des personnes âgées ont été collectées de mai à novembre
+2000. Les données obtenues des CJ sur les présences et
+les activités réalisées couvraient les années 2000 et
+2001. Pour chaque individu, l’information a été relevée
+pour une période de six mois allant de trois mois avant
+à trois mois après la date du questionnaire. Cette période
+a été retenue en raison de deux facteurs importants.
+Puisque cette étude s’intéresse aux liens entre les
+proﬁls des individus et les activités auxquelles ils ont
+participé et que les caractéristiques de santé des personnes âgées sont susceptibles de changer rapidement,
+une courte période d’observation devait être privilégiée. Elle devait toutefois être sufﬁsamment longue
+pour englober un échantillon représentatif des activités offertes à chaque participant, malgré les absences
+qui peuvent être fréquentes pour certains d’entre eux.
+Variables à l’étude
+Caractéristiques des participants
+Les participants sont décrits à l’aide de variables sociodémographiques, d’indicateurs de santé et de variables
+d’utilisation des services de santé. Neuf de ces variables (âge, sexe et sept indicateurs de santé), traitées
+sous une forme dichotomique, ont servi à la détermination des proﬁls de participants lors des analyses en
+regroupement. Les autres variables ont été utilisées
+pour la description de l’échantillon et pour la validation nomologique des proﬁls créés.
+
+Jacinthe Savard et al.
+
+Les variables sociodémographiques retenues sont
+l’âge, le sexe, l’état civil, l’éducation, le pays de naissance, la langue d’usage et la cohabitation avec une
+personne de soutien. Elles ont été choisies parce que
+des études antérieures ont démontré des différences
+dans l’utilisation des CJ en fonction de ces variables
+(Baumgarten et al., 2002 ; Henry et Capitman, 1995 ;
+Savard et al., 2007 ; Zarit, Stephens, Townsend, Greene,
+et Leitsch, 1999).
+Les indicateurs de l’état de santé considérés sont ceux
+qui permettront de faire des liens avec les divers sousprogrammes décrits dans le cadre de référence (ACAQ,
+1991), sauf le sous-programme lié aux facteurs socioenvironnementaux pour lequel il n’y a pas de données
+correspondantes ﬁables. Ainsi, les variables suivantes
+ont été retenues : la capacité fonctionnelle, la présence
+de troubles sensoriels, la présence de troubles cognitifs,
+le nombre et le type de problèmes de santé physique
+ainsi que la présence de symptômes de dépression.
+Les variables d’utilisation des services de santé qui ont
+été saisies sont les suivantes : le fait de recevoir les services intégrés du projet SIPA ou les services habituels
+du CLSC (groupe contrôle), la fréquence de la participation au CJ, la fréquence de l’aide du CLSC pour ses
+activités de vie quotidienne ou domestique pendant la
+période d’observation, la présence et le nombre de jours
+d’hospitalisation ainsi que la présence d’hébergement
+temporaire pendant la période d’observation.
+Les neuf variables ayant servi à la détermination des
+proﬁls de participants lors des analyses en regroupement ont été opérationnalisées de la façon suivante :
+Les variables sociodémographiques considérées sont
+l’âge et le sexe. Deux groupes d’âge ont été créés : les 85
+ans et plus et les 84 ans et moins. Des analyses antérieures nous indiquaient que les personnes de 85 ans
+et plus étaient moins nombreuses à utiliser le CJ. Ce
+critère semble donc intéressant pour distinguer les divers groupes de participants.
+La capacité fonctionnelle est évaluée par la Section des
+soins personnels du Older American Resources and
+Services (OARS) (Fillenbaum, 1988). Cette échelle
+comporte sept énoncés qui évaluent la capacité
+d’accomplir ses soins personnels (s’habiller, manger,
+contrôler ses sphincters, etc.) et sept énoncés qui évaluent la capacité d’accomplir diverses tâches de la vie
+domestique (utiliser le téléphone, magasiner ou faire
+l’épicerie, préparer les repas, etc.). Les résultats possibles vont de 0 à 28, un résultat plus élevé indiquant
+une plus grande autonomie. Deux groupes ont été
+créés : les personnes plus autonomes que la moyenne
+(19 et plus au OARS) et les personnes moins autonomes (18 et moins au OARS). Des analyses antérieures nous indiquaient que les personnes âgées ayant
+
+Activités des centres de jour pour personnes âgées
+
+un résultat de 19 ou plus au OARS étaient moins nombreuses à utiliser le CJ.
+Nous avons évalué la présence de troubles sensoriels
+en demandant aux répondants s’ils avaient aucune, un
+peu ou beaucoup de difﬁculté à reconnaître des personnes, à lire ou à entendre, même en utilisant les aides
+techniques appropriées (lunettes, appareil auditif) le
+cas échéant. Pour les analyses, une variable dichotomique a été créée : aucune ou peu de difﬁculté pour
+chacune de ces trois activités ou beaucoup de difﬁculté
+pour au moins une des trois activités.
+La présence de troubles cognitifs est mesurée par le
+Short Portable Mental Status Questionnaire (SPMSQ)
+(Pfeiffer, 1975). Ce questionnaire comporte 10 questions
+évaluant principalement la mémoire et l’orientation.
+Pfeiffer suggère qu’un résultat de trois erreurs ou plus
+indique un déﬁcit cognitif possible pour une personne
+qui a une éducation de niveau secondaire. Il propose
+de permettre une erreur de plus aux personnes qui
+n’ont pas fréquenté l’école secondaire et une erreur de
+moins à ceux qui ont fréquenté le collège ou l’université.
+Il recommande aussi d’accorder une erreur de plus
+aux Afro-Américains. Cette correction pour l’origine
+ethnique a été adaptée au contexte multiethnique de
+Montréal, et une erreur de plus est accordée aux personnes qui ne sont pas nées au Canada. En utilisant les
+critères suggérés par Pfeiffer, Foreman (1987) a obtenu
+un coefﬁcient de prévision d’un test positif de 0,89.
+Pour les personnes qui n’avaient pas la capacité de
+répondre au SPMSQ (difﬁculté de communication liée
+à la connaissance de la langue ou à un problème de
+santé), la présence de troubles cognitifs est notée lorsque le questionnaire indique qu’un substitut est utilisé parce que la personne souffre de troubles cognitifs
+ou, à la question sur les problèmes de mémoire tirée de
+l’étude Established Populations for Epidemiological Studies
+of the Elderly (EPESE) (Cornoni-Huntley, Brook, Ostfeld, Taylor, et Wallace, 1986), lorsque le substitut
+mentionne que la personne souffre de la maladie
+d’Alzheimer ou de problèmes de mémoire attestés par
+un médecin.
+Pour évaluer la santé physique des personnes âgées, le
+questionnaire demandait aux répondants d’indiquer
+s’ils présentaient l’une ou l’autre des 16 conditions tirées de l’étude EPESE (Cornoni-Huntley et al., 1986) et,
+dans l’afﬁrmative, si ce problème était conﬁrmé par un
+médecin. Ces conditions incluent la présence de : haute
+tension ; maladie du cœur ; problèmes de circulation ;
+accident vasculaire cérébral (AVC) ; diabète ; problèmes
+respiratoires ; rhumatisme ou arthrite (douleur aux articulations ou aux os) ; tumeur ou cancer ; problèmes
+émotionnels ; maladie de Parkinson ; problèmes de mémoire ou maladie d’Alzheimer ; problèmes de vessie,
+de reins ou de prostate ; cataractes ; glaucomes ; pro-
+
+La Revue canadienne du vieillissement 28 (1)
+
+31
+
+blèmes d’estomac (gastrite, ulcères, hernie hiatale) ;
+fracture de la hanche ou de la jambe récente (dans la
+dernière année). Pour créer un indicateur de l’état de
+santé physique, nous avons exclu deux de ces conditions, soit la présence de problèmes émotionnels et la
+présence de problèmes de mémoire ou de la maladie
+d’Alzheimer. Nous avons regroupé la présence de cataractes et de glaucomes pour indiquer la présence de
+problèmes aux yeux. Parmi ces 13 conditions, nous
+avons retenu le nombre de problèmes de santé attestés
+par un médecin comme premier indicateur de la santé
+physique. Pour les analyses, deux groupes ont été créés :
+les personnes qui ont davantage de problèmes que la
+médiane (cinq ou plus) et les autres (quatre ou moins).
+Cette distinction semble cliniquement signiﬁcative pour
+les responsables de CJ. Deux autres indicateurs de
+santé physique ont été retenus : la présence d’un
+problème qui entraîne des incapacités locomotrices
+(AVC, Parkinson et fracture de la hanche ou de la jambe
+récente) et la présence d’au moins un autre problème
+parmi les suivants : maladie du cœur ; problèmes
+respiratoires ; diabète ; tumeur ; problèmes de vessie,
+de reins ou de prostate ; problèmes d’estomac. Les
+problèmes articulaires ou de rhumatisme n’ont pas été
+considérées comme des problèmes qui entraînent des
+incapacités locomotrices : les personnes âgées peuvent
+présenter ces problèmes sans limitation de leurs capacités locomotrices.
+La santé psychologique a été mesurée par l’échelle de
+dépression gériatrique, version courte (EDG) (Bourque,
+Blanchard, et Vézina, 1990 ; Sheikh et Yesavage, 1986).
+Les résultats possibles pour la forme courte vont de 0 à
+15. Un résultat de 6 ou plus indique la présence possible de dépression. Cette donnée n’est disponible que
+pour les personnes qui répondaient elles-mêmes au
+questionnaire, soit 97 des 132 sujets. Lorsque le résultat
+à l’EDG n’est pas présent, la personne est considérée
+comme n’ayant pas de symptômes dépressifs. La question de l’EPESE portant sur les troubles émotifs, qui
+demande si la personne souffre de problèmes émotionnels (nervosité, dépression, anxiété ou insomnie) et qui
+était disponible pour tous les sujets, n’a pas été retenue.
+En effet, cette question est trop générale et ne peut
+représenter une estimation adéquate de la présence de
+signes dépressifs.
+Activités au centre de jour
+Les activités auxquelles chaque individu participait à
+chacune de ses présences en CJ ont été colligées. Pour
+quatre des cinq CJ, cela s’est fait à partir du registre
+quotidien des activités du logiciel JEDI. Ce logiciel permet à chaque CJ de créer sa propre liste d’activités puis
+d’attribuer à chaque client la liste des activités auxquelles il est censé participer à chacune de ses visites.
+Le logiciel génère ensuite, pour chaque jour, la liste des
+
+32
+
+Canadian Journal on Aging 28 (1)
+
+clients de la journée avec les activités associées à chacun. À la ﬁn de chacune des journées, les intervenants
+suppriment les participants absents et les activités annulées et, pour chaque client présent, éliminent les activités auxquelles il n’a pas participé, ajoutent les
+activités non prévues auxquelles il a participé puis
+sauvegardent ces informations dans le registre quotidien d’activités.
+Pour le centre qui n’utilisait pas ce logiciel, les mêmes
+informations ont été recueillies à partir du registre des
+présences et de l’horaire des activités consignés au
+dossier des clients. Dans ce cas, les présences, les absences et les activités spéciales comme les fêtes ou les
+sorties sont inscrites chaque jour sur le registre de
+présences de chaque participant. Toutefois, l’horaire
+des activités prévues pour chacun est révisé seulement
+périodiquement et la non-participation occasionnelle à
+une activité (par exemple si une personne manque le
+groupe d’exercices pour rencontrer individuellement
+l’inﬁrmière) n’est pas enregistrée.
+Puisque les cinq CJ ne colligeaient pas tous quotidiennement les activités individuelles réalisées auprès des
+personnes âgées, il faut noter que seules les activités de
+groupe sont considérées dans cette étude. De même,
+les activités d’accueil et les périodes de repos n’ont pas
+été prises en compte. Bien que seulement certains centres inscrivaient ces activités dans leurs registres statistiques, presque tous les offraient. Il aurait donc été
+inadéquat de calculer un nombre précis de présences à
+ces activités seulement pour les centres qui les enregistraient.
+Les variables pour l’étude et la catégorisation des activités sont les 107 activités de groupe recensées dans
+les registres d’activités.
+Pour que nous puissions comparer les activités offertes
+à celles recommandées, les variables utilisées sont liées
+aux huit catégories d’activités établies à l’étape de la
+catégorisation des activités. Le fait pour une personne
+d’avoir bénéﬁcié ou non de chacune de ces catégories
+d’activités a été enregistré. De plus, le nombre de jours
+pendant lesquels chaque individu a participé à chacune des catégories d’activités a été dénombré. Si le
+registre des activités contenait deux activités de la
+même catégorie le même jour, une seule participation à
+cette catégorie était enregistrée pour cette journée.
+Pour qu’il soit possible de tenir compte de la variation
+de participation des individus (certains n’avaient
+qu’une ou deux présences au CJ pendant la période de
+26 semaines et d’autres en comptaient jusqu’à 95), le
+nombre de participations à chacune des catégories
+d’activités a ensuite été calculé en pourcentage des
+jours de présence au CJ. Cette variable donne une indication de l’intensité de l’exposition à chacune des catégories d’activités (elle ne tient cependant pas compte
+
+Jacinthe Savard et al.
+
+de la durée de chacune des activités au cours d’une
+journée). Enﬁn, le fait d’avoir participé au CJ à
+l’intérieur d’un groupe spéciﬁque pour les personnes
+qui ont des atteintes cognitives a aussi été relevé.
+Analyse des données
+Proﬁls de participants
+Pour décrire les participants, nous avons d’abord calculé des statistiques descriptives (moyenne, fréquence)
+pour l’ensemble des participants. Puis, nous avons effectué des analyses en regroupement pour créer des
+proﬁls de participants ayant un ensemble de caractéristiques similaires en considérant les variables suivantes : âge, sexe, capacités fonctionnelles, nombre de
+problèmes de santé, présence de problèmes sensoriels
+importants, de troubles cognitifs, de problèmes de
+santé qui entraînent des incapacités locomotrices,
+d’autres problèmes de santé et de symptômes dépressifs. Comme cela a été suggéré par Everitt, Landau et
+Leese (2001), nous avons comparé les résultats de plusieurs méthodes d’analyses en regroupement, soit
+deux méthodes hiérarchiques (Ward, distance moyenne) et une méthode d’optimisation (méthode des
+nuées dynamiques ou K-means). Nous avons utilisé
+les résultats des méthodes hiérarchiques pour déterminer les nombres de groupes possibles, nombres qui
+furent entrés comme paramètre dans les analyses avec
+la méthode des nuées dynamiques.
+Nous avons ensuite effectué deux séries d’analyses de
+variance (ANOVA) pour établir les différences signiﬁcatives dans les caractéristiques des membres de chacun des groupes créés par ces analyses. La première
+série, qui portait sur les variables déjà incluses dans les
+analyses en regroupement, a conﬁrmé que les différences observées étaient statistiquement signiﬁcatives pour toutes ces variables. La seconde série, qui
+concernait les variables sociodémographiques et les
+variables d’utilisation des services non incluses dans
+les analyses en regroupement, nous a servi à tester la
+validité nomologique des proﬁls créés.
+Si les proﬁls créés représentent vraiment des groupes
+de participants ayant des caractéristiques de santé et
+d’autonomie semblables, les proﬁls devraient différer
+quant à la cohabitation avec une personne de soutien
+de même que pour la majorité des variables d’utilisation
+des services de santé. Toutefois, le pourcentage
+d’individus recevant les services intégrés du projet
+SIPA ne devrait pas varier selon les proﬁls, puisque la
+sélection des individus pour le groupe expérimental
+du projet SIPA était aléatoire. Les proﬁls pourraient
+aussi différer en ce qui a trait au niveau d’éducation,
+puisque la présence de certaines conditions de santé
+est corrélée avec l’éducation, et à la proportion
+d’immigrants, si ces derniers diffèrent dans les types
+
+Activités des centres de jour pour personnes âgées
+
+de problèmes qui les amènent à demander des services
+de soutien à domicile.
+Étude et catégorisation des activités
+La catégorisation des activités a nécessité plusieurs
+étapes : 1) validation des données ; 2) regroupement
+des activités similaires portant des noms différents ; 3)
+regroupement des activités selon leurs buts.
+Pour valider les données et préciser les caractéristiques
+des activités enregistrées, nous avons rencontré les coordonnateurs des cinq centres à l’étude en 2004 et leur
+avons demandé des précisions sur les activités de
+l’année 2000. Bien que des biais de rappel soient toujours possibles, ceux-ci sont minimisés par le fait que
+les objectifs des CJ et les programmes d’activités
+avaient peu changé pendant cette période. Ces rencontres nous ont permis de constater que la majorité des
+centres inscrivaient dans leurs registres statistiques les
+activités spéciﬁques auxquelles les participants assistaient, tels que artisanat, exercices, échanges (ﬁgure 1,
+modèle 1). Toutefois, pour certains groupes de participants, deux centres inscrivaient plutôt le nom d’un
+groupe de participants prédéterminés, alors que plusieurs activités pouvaient se dérouler à l’intérieur de ce
+groupe (ﬁgure 1, modèle 2). Les rencontres nous ont
+aussi permis de réaliser que des activités similaires
+portaient des noms différents dans les registres statistiques des divers centres (par exemple, les activités
+« mémo », « méli-mélo », « intello » et « cognitif » étaient
+toutes des activités de stimulation cognitive).
+Les activités similaires portant des noms différents ont
+donc été regroupées. Pour les inscriptions effectuées
+
+La Revue canadienne du vieillissement 28 (1)
+
+33
+
+selon le modèle 2, les activités réalisées ont été calculées en fonction des informations recueillies auprès
+du responsable du centre sur l’horaire type de ces
+groupes. Par exemple, pour un groupe répit qui comportait à chaque séance des exercices physiques et
+de la stimulation cognitive, ainsi que des activités
+d’artisanat bricolage ou des jeux physiques en alternance, nous avons inscrit des présences aux exercices
+physiques et à la stimulation cognitive pour chaque
+présence à ce groupe et des présences aux activités
+d’artisanat et aux jeux physiques pour 50 pour cent des
+présences à ce groupe. Cette étape nous a permis de
+réduire la liste d’activités de 107 à 40 activités différentes.
+Les 40 activités résultant de ce premier processus de
+réduction ont ensuite été regroupées en fonction de
+leurs buts, à l’aide d’un groupe d’experts. L’ensemble
+des responsables de CJ de la région de Montréal a été
+invité à participer à ce groupe. Sept de ces personnes,
+parmi les plus engagées dans les activités de la table de
+concertation des CJ de la région et ayant en moyenne
+17,8 années d’expérience en CJ, ont accepté l’invitation.
+Elles ont participé à une rencontre au cours de laquelle
+des catégories d’activités ont été créées au moyen d’une
+méthode adaptée de la technique du groupe nominal
+(Delbecq, Van De Ven, et Gustavson, 1975) qui comportait trois étapes.
+Premièrement, le groupe d’experts a été invité à générer une liste de buts pour les interventions en CJ.
+Deuxièmement, chaque expert a été appelé à choisir,
+dans cette liste, un maximum de huit buts qu’il considérait comme les buts principaux des CJ. Seuls les buts
+
+Figure 1 : Deux modèles d’horaire d’activités en centres de jour et lien avec le registre des activités
+
+34
+
+Canadian Journal on Aging 28 (1)
+
+qui ont reçu plus de 50 pour cent des votes ont été conservés. Après ce vote, sept buts ont été retenus.
+Troisièmement, le groupe d’experts a été appelé à voter
+sur les buts de chacune des 40 activités recensées dans
+les CJ à l’étude à partir des sept buts choisis précédemment. Même s’il est possible qu’une activité permette
+d’atteindre plusieurs buts, chaque participant ne devait
+choisir qu’un seul but par activité. Lors de l’analyse
+des résultats du vote, lorsqu’il y avait dispersion des
+votes, un maximum de deux buts a été conservé pour
+chaque activité. Cela a mené à une classiﬁcation comprenant huit grandes catégories d’activités.
+Adéquation des activités
+Avant de se prononcer sur l’adéquation des activités
+pour chaque proﬁl de participants, nous avons dû
+compiler les types d’activités dont ont bénéﬁcié les
+membres de chaque proﬁl puis déterminer les activités
+recommandées pour chacun.
+Pour chaque proﬁl de participants, des statistiques descriptives ont été calculées 1) pour le pourcentage
+d’individus ayant participé à chacune des catégories
+d’activités et 2) pour les individus ayant participé aux
+activités d’une catégorie donnée, la moyenne de
+l’intensité d’exposition à cette catégorie d’activités.
+Puis, des ANOVA nous ont permis d’établir les différences signiﬁcatives entre les divers proﬁls de participants pour la participation et l’intensité d’exposition
+à chaque type d’activités.
+Les activités recommandées pour chaque proﬁl de participants ont été déterminées de deux manières :
+d’abord à partir des recommandations d’activités pour
+les divers sous-programmes incluses dans le cadre de
+référence des CJ (ACAQ, 1991), puis à partir des activités recommandées par le groupe d’experts consulté.
+Pour chaque sous-programme décrit dans le cadre de
+référence, les membres du groupe d’experts devaient
+indiquer, par ordre de priorité, les cinq activités qu’il
+serait le plus pertinent d’offrir. Soulignons qu’au moment de se prononcer sur ces activités le groupe
+d’experts n’avait pas accès à la liste des activités recommandées par le cadre de référence, mais qu’il venait d’étudier la liste des 40 activités offertes par les CJ
+de cette étude. Lors de l’analyse des résultats du vote,
+les activités ont d’abord été associées à la catégorie
+d’activités à laquelle elles appartenaient, selon les résultats obtenus à l’étape précédente. L’importance de
+chacune des catégories d’activités pour chaque sousprogramme a été déterminée à l’aide d’un système de
+points, qui accordait cinq points chaque fois qu’une catégorie apparaissait en première position, quatre points
+pour chaque deuxième position, etc.
+Les analyses statistiques ont été effectuées à l’aide du
+logiciel SPSS pour Windows, version 13.0.
+
+Jacinthe Savard et al.
+
+Résultats
+Description de l’échantillon
+Les principales caractéristiques des participants sont
+présentées au tableau 1. La moyenne d’âge de
+l’échantillon est de 80,7 ans (± 6,8). Les participants
+sont en majorité des femmes (72,7 %) et des veuves ou
+veufs (49,2 %). L’étude ayant été menée dans deux
+quartiers à caractère multiethnique de la ville de Montréal, on observe que 56,1 pour cent des participants
+sont nés dans un pays autre que le Canada. Ces immigrants vivent au Canada depuis plusieurs années
+(moyenne de 35,1 ans ± 18,8) et seuls 5,4 pour cent
+d’entre eux sont au Canada depuis moins de dix ans.
+Près de 89 pour cent des participants ont nommé une
+personne de soutien principale. On note que 35 pour
+cent des participants sont mariés et que le conjoint est
+la personne de soutien principale de 80 pour cent des
+personnes mariées et de 28 pour cent de l’échantillon
+total. Les enfants le sont pour 43,2 pour cent des participants, et environ 60 pour cent d’entre eux n’habitent
+pas avec le parent dont ils prennent soin.
+Les participants de cette étude présentent en moyenne
+3,6 (± 2,3) problèmes de santé physique parmi les 13
+conditions incluses dans cette variable. Les capacités
+fonctionnelles des participants sont très variées, les résultats allant de 3 à 28 à l’échelle des soins personnels
+du OARS. Les troubles cognitifs sont présents chez
+28,0 pour cent des participants, et près du tiers de
+l’échantillon a au moins un problème sensoriel important. De plus, 43,3 pour cent de ceux qui ont répondu à
+l’EDG présentent des symptômes de dépression.
+Ces personnes sont inscrites à leur CJ à raison de 1,5
+(± 0,7) fois par semaine en moyenne ; toutefois, les
+présences réelles sont en moyenne d’un peu moins
+d’une fois par semaine (23,2 ± 18,6 présences en 26 semaines d’observation). Près des deux tiers des participants reçoivent de l’aide à domicile de leur CLSC pour
+les activités quotidiennes ou domestiques, et ce, en
+moyenne à raison de 2,0 (± 2,3) fois par semaine.
+Proﬁls de participants
+Les analyses en regroupement nous ont permis de
+classer les clients qui possèdent des caractéristiques
+similaires en quatre groupes (tableau 2). Les résultats
+obtenus avec la méthode des nuées dynamiques
+(K-means), qui fait partie des méthodes dites d’optimisation des regroupements, sont présentés. Selon
+Everitt et al. (2001), ce type de méthode permet d’augmenter l’homogénéité à l’intérieur des groupes et
+d’accroître ainsi la distance entre les groupes. C’est
+aussi ce que nos données ont démontré. Les méthodes
+hiérarchiques (Ward, distance moyenne) ont créé des
+groupes moins contrastés.
+
+Activités des centres de jour pour personnes âgées
+
+La Revue canadienne du vieillissement 28 (1)
+
+35
+
+Tableau 1 : Caractéristiques des participants (n = 132)
+Moyenne et écart type ou pourcentage
+Caractéristiques sociodémographiques
+Âge
+Sexe (proportion de femmes)
+État civil - célibataire (jamais marié)
+- marié ou conjoint de fait
+- veuf
+- séparé ou divorcé
+Éducation - aucune
+- primaire
+- secondaire
+- école technique ou de métiers
+- universitaire
+- ne sait pas ou refus de répondre
+Pays de naissance - Canada
+- autre
+Langue
+- français à la maison et avec professionnels1
+- anglais à la maison et avec professionnels1
+- anglais ou français avec les professionnels (pas à la maison)
+- autre langue à la maison, langue avec les professionnels est manquante
+- autre langue (ni anglais ni français) même avec les professionnels
+Lien personne âgée - personne de soutien - aucune personne de soutien
+- conjoint
+- autre corésident (enfant)
+- autre, non corésident (enfant)
+
+80,7
+72,7
+12,9
+34,8
+49,2
+3,0
+3,0
+31,8
+40,9
+9,8
+11,4
+3,0
+43,9
+56,1
+
+± 6,8
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+
+55,0
+20,6
+18,3
+2,3
+3,8
+11,4
+28,0
+23,5
+37,1
+
+%
+%
+%
+%
+%
+%
+%
+% (17,4 %)
+% (25,8 %)
+
+Indicateurs de santé
+Capacités fonctionnelles selon l’OARS2
+Présence de troubles sensoriels
+Présence de troubles cognitifs
+Nombre de problèmes de santé physique
+Présence de problèmes de santé qui entraînent des incapacités locomotrices
+Présence d’autres problèmes de santé physique
+Présence de symptômes dépressifs3
+Présence de symptômes dépressifs4
+
+18,4
+29,6
+28,0
+3,6
+47,7
+75,8
+43,3
+31,8
+
+± 6,1
+%
+%
+± 2,3
+%
+%
+%
+%
+
+Variables d’utilisation des services
+SIPA (vs contrôle)
+Fréquence d’inscription au CJ (nombre de jours par semaine)
+Aide du CLSC pour AVD ou AVQ5
+Fréquence de cette aide (nombre de fois par semaine)
+Présence d’au moins un épisode d’hospitalisation
+Jours d’hospitalisation
+Présence d’au moins un épisode d’hébergement temporaire
+
+55,3 %
+1,50 ± 0,71
+62,1 %
+2,0 ± 2,3
+25,0 %
+5,9 ± 19,3
+8,7 %
+
+1
+2
+3
+4
+5
+
+Ces personnes utilisent le français ou l’anglais à la maison, parfois en plus d’une autre langue.
+Les résultats possibles à l’OARS vont de 0 à 28, un résultat plus élevé indique une plus grande autonomie.
+n = 97 car disponible seulement pour les personnes qui répondent elles-mêmes au questionnaire.
+n = 132 : les individus dont les résultats sont manquants sont considérés comme ne présentant pas de symptômes dépressifs.
+AVQ : activités de vie quotidienne; AVD: activités de vie domestique.
+
+Les groupes 1 et 2 sont surtout composés surtout de
+personnes plus autonomes que la moyenne, alors que
+les groupes 3 et 4 comprennent majoritairement des
+personnes moins autonomes que la moyenne. Le
+groupe 1 comporte principalement des femmes qui
+présentent peu d’incapacités, sont relativement intactes au plan cognitif, mais semblent posséder une
+
+plus grande fragilité en raison d’un âge avancé, d’un
+grand nombre de problèmes de santé et de symptômes
+dépressifs. Pour s’y référer ultérieurement à l’aide
+d’une caractéristique principale, nous retiendrons la
+fragilité. Le groupe 2 est composé principalement de
+femmes un peu plus jeunes que la moyenne. En général, les problèmes de santé des membres de ce groupe
+
+36
+
+Canadian Journal on Aging 28 (1)
+
+Jacinthe Savard et al.
+
+Tableau 2 : Différences entre les caractéristiques des membres des groupes formés par les analyses en regroupement
+Variables
+
+Groupe 1
+n = 35 Moyenne
+et écart type ou
+pourcentage
+
+Variables utilisées pour créer les groupes
+Âge (% de 85 et +)
+49 %
+Sexe (% de femmes)
+83 %
+OARS (% plus autonomes que
+71 %
+la moyenne)
+Problèmes sensoriels
+51 %
+Troubles cognitifs
+6%
+Prob.→ incapacités locomotrices
+49 %
+Prob. santé autre
+100 %
+Nombre prob. santé (% de 5 ou +)
+83 %
+Troubles dépressifs
+80 %
+
+Groupe 2
+n = 45 Moyenne
+et écart type ou
+pourcentage
+
+Groupe 3
+n = 23 Moyenne
+et écart type
+ou pourcentage
+
+Groupe 4
+n = 29 Moyenne
+et écart type ou
+pourcentage
+
+ANOVA p
+
+22 %
+91 %
+87 %
+
+65 %
+87 %
+0%
+
+7%
+21 %
+24 %
+
+0,000*
+0,000*
+0,000*
+
+16
+22
+13
+53
+11
+16
+
+57 %1
+74 %
+56 %
+78 %
+48 %
+0%
+
+3%
+28 %
+93 %
+79 %
+24 %
+24 %2
+
+0,000*
+0,000*
+0,000*
+0,000*
+0,000*
+0,000*
+
+84,5 ± 5,2
+11,9 ± 4,9
+4,7 ± 2,7
+
+77,3 ± 6,4
+15,2 ± 4,7
+3,3 ± 1,56
+
+0,000*
+0,000*
+0,000*
+
+35 %
+4%
+22 %
+
+59 %
+17 %
+24 %
+
+0,000*
+0,002*
+0,075
+
+61
+30
+9
+83
+57
+
+31
+59
+10
+69
+90
+
+0,173
+
+%
+%
+%
+%
+%
+%
+
+Valeur des variables continues ou combinées
+Âge
+82,3 ± 6,8
+79,6 ± 6,6
+20,8 ± 4,5
+21,8 ± 4,9
+AVQ + AVD selon l’OARS 3
+Nombre de prob de santé / 13
+5,6 ± 1,5
+2,4 ± 1,7
+Prob.→ incapacités locomotrices
+- AVC
+29 %
+9%
+- Parkinson
+0%
+0%
+- fracture récente
+20 %
+4%
+Variables pour la validation nomologique des groupes
+Éducation
+- aucune ou primaire
+29 %
+33 %
+- secondaire ou technique
+60 %
+53 %
+- universitaire
+11 %
+13 %
+Pays naissance autre que Canada
+51 %
+38 %
+Cohabitation avec personne de
+34 %
+38 %
+soutien
+Fréquence d’inscription au CJ
+1,46 ± 0,64
+1,40 ± 0,73
+Aide du CLSC pour AVD ou AVQ
+69 %
+56 %
+Fréquence de l’aide (nombre de
+1,6 ± 2,0
+1,6 ± 2,1
+fois par semaine)
+Avec épisode d’hospitalisation
+22,8 %
+13,3 %
+Jours d’hospitalisation
+4,7 ± 15,0
+0,4 ± 1,2
+Avec épisode d’héb. temporaire
+2,9 %
+8,9 %
+SIPA (vs contrôle)
+68,8 %
+53,3 %
+
+1,55 ± 0,72
+43 %
+1,8 ± 2,4
+
+1,64 ± 0,78
+79 %
+3,2 ± 2,5
+
+0,539
+0,036*
+0,013*
+
+34,8 %
+6,1 ± 14,2
+17,4 %
+47,8 %
+
+37,9 %
+15,6 ± 34,1
+6,9 %
+48,3 %
+
+0,068
+0,009*
+0,273
+0,306
+
+Caractéristique distinctive
+du groupe
+
+Incapacités d’origine Incapacités
+cognitive
+d’origine motrice
+
+Personnes
+fragiles
+
+Utilisateurs
+précoces
+
+%
+%
+%
+%
+%
+
+%
+%
+%
+%
+%
+
+0,001*
+0,000*
+
+1
+
+Dont 31 % chez des personnes avec atteinte cognitive et 26 % chez des personnes sans atteinte cognitive.
+Ces 24 % qui présentent des signes de dépression ont tous aussi une atteinte neurologique (AVC, Parkinson).
+3 Les résultats possibles à l’OARS vont de 0 à 28, un résultat plus élevé indique une plus grande autonomie.
+* p &lt; 0,05.
+2
+
+sont peu nombreux. Par exemple, cinq personnes n’ont
+que des troubles cognitifs, quatre n’ont que des
+problèmes de vision et un autre problème de santé (ex. :
+haute tension artérielle ou rhumatisme), deux n’ont
+que des symptômes dépressifs et trois n’ont aucun
+problème de santé parmi la liste de 13 problèmes
+présentés. Seulement cinq membres de ce groupe ont
+un nombre de problèmes de santé plus élevé que la
+moyenne et ils sont plus autonomes que la moyenne
+
+(OARS de 25 à 28). Ce sont des personnes qui semblent
+fréquenter le CJ plus tôt dans le processus d’apparition
+des incapacités. Bien que ce terme ne reﬂète pas nécessairement la réalité de chacun des individus du groupe,
+nous les qualiﬁerons d’utilisateurs précoces. Le groupe
+3 est surtout composé de femmes plus âgées, peu autonomes et qui présentent, pour la plupart, des troubles
+cognitifs. La caractéristique distinctive de ce groupe
+serait les incapacités d’origine cognitive. Le groupe 4
+
+Activités des centres de jour pour personnes âgées
+
+est surtout composé d’hommes plus jeunes et moins
+autonomes que l’ensemble de l’échantillon, qui ont
+principalement des problèmes de santé qui entraînent
+des incapacités locomotrices, soit les AVC, la maladie
+de Parkinson ou les fractures de la hanche ou de la
+jambe récentes. La caractéristique distinctive de ce
+groupe serait les incapacités d’origine motrice. Les
+ANOVA conﬁrment les différences entre les caractéristiques des membres de chacun des groupes pour chacune des variables ayant servi à créer la classiﬁcation.
+Elles indiquent aussi des différences signiﬁcatives pour
+un ensemble de variables n’ayant pas été utilisées dans
+la création des regroupements : pays de naissance, cohabitation avec une personne de soutien, aide reçue du
+CLSC et nombre de jours d’hospitalisation.
+Catégories d’activités en centres de jour
+Selon le groupe d’experts, les activités en CJ visent sept
+principaux buts : 1) maintien des capacités physiques ;
+2) maintien de l’autonomie fonctionnelle ; 3) maintien
+des fonctions cognitives ; 4) amélioration de l’affect ; 5)
+amélioration de la qualité du réseau de soutien (par le
+soutien direct aux proches aidants) ; 6) prévention et
+promotion de la santé ; 7) intégration sociale (ce qui
+comprend le maintien ou le réapprentissage des habiletés sociales et la participation à la communauté).
+
+La Revue canadienne du vieillissement 28 (1)
+
+37
+
+Près de 90 pour cent des individus ont participé à des
+groupes d’intégration sociale et à des groupes
+d’exercices physiques. Ces activités sont les plus
+fréquentes, puisqu’en moyenne les personnes qui ont
+pris part à ces activités l’ont fait lors de 72 à 78 pour
+cent de leurs présences au CJ. Suivent les sports et jeux
+physiques, les activités fonctionnelles, les activités de
+prévention et de promotion de la santé ainsi que les
+activités de stimulation cognitive qui rejoignent de 65 à
+77 pour cent des individus lors de 35 à 46 pour cent de
+leurs présences. Enﬁn, les activités qui rejoignent le
+moins grand nombre de participants sont les groupes
+spéciﬁques pour un problème physique commun et les
+activités musicales et de réminiscence, auxquels ont
+participé respectivement 50 pour cent et 45 pour cent
+des individus lors de 36 à 43 pour cent de leurs
+présences.
+On peut aussi noter que 26 pour cent des individus ont
+pris part aux activités du CJ lors des journées ou des
+groupes destinés aux personnes qui ont des troubles
+cognitifs. En moyenne, les participants ont bénéﬁcié
+d’activités appartenant à 5,6 (± 1,7) catégories différentes parmi les 8 catégories étudiées.
+Différences entre les proﬁls de participants
+
+Participation aux activités
+
+Les membres du groupe 1 sont parmi les plus nombreux à avoir bénéﬁcié de groupes spéciﬁques pour un
+problème physique commun et d’activités fonctionnelles, mais ils sont moins nombreux à participer aux
+journées destinées aux personnes atteintes de troubles cognitifs. Ceux du groupe 2 sont parmi les plus
+nombreux à avoir bénéﬁcié de groupes d’exercices
+généraux et d’activités fonctionnelles. Ils sont aussi
+peu nombreux à prendre part aux journées destinées
+aux personnes qui ont des troubles cognitifs. Ceux du
+groupe 3 sont parmi les plus nombreux à avoir bénéﬁcié de groupes d’exercices généraux et parmi les
+moins nombreux dans les groupes pour un problème
+physique commun et aux activités fonctionnelles.
+Ils sont par contre plus nombreux à participer aux
+journées destinées aux personnes atteintes de troubles cognitifs. Ceux du groupe 4 sont parmi les moins
+nombreux à avoir bénéﬁcié de groupes d’exercices
+généraux et parmi les plus nombreux dans les groupes
+spéciﬁques pour un problème physique commun.
+Comme ceux du groupe 3, ils sont parmi les moins
+nombreux à participer aux activités fonctionnelles
+et parmi les plus nombreux à prendre part aux
+journées destinées aux personnes atteintes de troubles cognitifs.
+
+Le tableau 5 présente le nombre d’individus qui ont
+bénéﬁcié de chacune des catégories d’activités puis,
+pour ceux qui ont proﬁté des activités de la catégorie,
+la moyenne de l’intensité d’exposition.
+
+En ce qui concerne l’intensité de l’exposition aux activités, on note des différences signiﬁcatives pour quatre catégories d’activités : les exercices physiques, les
+groupes spéciﬁques, la stimulation cognitive ainsi que
+
+Le regroupement des activités en fonction de leurs buts
+(un maximum de deux buts par activité) a mené à la
+création de huit catégories d’activités. Ces catégories,
+ainsi que les buts assignés à chacune, sont présentées
+au tableau 3. On note qu’aucune des activités recensées
+dans cette étude ne vise le soutien direct aux proches
+aidants : un seul centre offrait des groupes de soutien
+ou d’éducation pour les aidants, mais il n’enregistrait
+pas les présences des aidants dans le registre des activités du participant au CJ. Enﬁn, la dernière colonne
+du tableau 3 présente les activités associées à chacune
+des catégories d’activités ainsi que le nombre de CJ qui
+organisaient ces activités.
+Recommandations d’activités
+Les activités recommandées pour la clientèle de chacun des six sous-programmes selon le cadre de référence (ACAQ, 1991) sont présentées au tableau 4.
+Pour chaque catégorie d’activités, le rang indique le
+degré de priorité à lui accorder dans chacun des sousprogrammes selon le groupe d’experts.
+
+38
+
+Canadian Journal on Aging 28 (1)
+
+Jacinthe Savard et al.
+
+Tableau 3 : Activités en centres de jour, selon leurs buts
+Nom de la catégorie
+(nombre de CJ qui l’offrent)
+
+But de ces activités
+(commentaires sur la classiﬁcation)
+
+Activités
+(nombre de CJ qui l’offrent)
+
+A. Exercices physiques (5)
+
+1. Maintien des capacités physiques
+
+Exercices généraux (5)
+Musique et mouvement (2)
+Groupe de marche (2)
+Exercices adaptés (assis) (1)
+Exercices en piscine (1)
+
+B. Groupes spéciﬁques
+pour un problème
+physique commun (4)
+
+1. Maintien des capacités physiques
+2. Maintien de l’autonomie fonctionnelle
+
+Groupe
+Groupe
+Groupe
+Groupe
+Groupe
+Groupe
+
+C. Activités fonctionnelles (5)
+
+2. Maintien de l’autonomie fonctionnelle
+4. Amélioration de l’affect
+(Ces activités ont en commun qu’elles
+permettent de réaliser quelque chose.)
+
+Arts plastiques ou artisanat (5)
+Cuisine (4)
+Horticulture (2)
+Beauté (coiffure, maquillage, soins des ongles) (1)
+Thérapie animale (1)
+
+D. Stimulation cognitive (5)
+
+3. Maintien des fonctions cognitives
+
+Stimulation cognitive (5)
+Stimulation sensorielle (1)
+
+E. Activités musicales ou
+de réminiscence (5)
+
+3. Maintien des fonctions cognitives
+4. Amélioration de l’affect
+(Dans les écrits scientiﬁques, la réminiscence
+est utilisée pour améliorer l’affect chez les
+personnes dépressives (Frazer et al., 2005)
+et l’affect et les fonctions cognitives chez celles
+avec troubles cognitifs (Woods et al., 2005).)
+
+Musique ou musicothérapie (4 CJ, dont un CJ qui a
+plusieurs groupes distincts : composition musicale,
+exploration sonore, lames sonores, écoute musicale)
+Réminiscence (3)
+Chant (2)
+
+F. Sports et jeux physiques (5)
+
+1. Maintien des capacités physiques
+7. Intégration sociale
+(Le groupe d’experts mentionne ces activités
+comme un moyen de maintenir les capacités
+physiques pour le sous-programme d’incapacités
+fonctionnelles d’origine motrice et comme un
+moyen de favoriser l’intégration sociale pour les
+sous-programmes des incapacités fonctionnelles
+d’origine cognitive ou sensorielle.)
+
+Jeux physiques (jeux de sac de sable, curling adapté,
+volleyball adapté, quilles adaptées, etc.) (5)
+
+G. Intégration sociale (5)
+
+4. Amélioration de l’affect
+7. Intégration sociale
+(La description des activités des groupes de
+valorisation et de croissance indique bien
+qu’ils visent les deux objectifs d’affect et
+d’intégration : discuter de thèmes affectifs
+(ex. : exprimer des émotions en groupe,
+accepter les pertes physiques ou
+psychologiques), acquérir des stratégies
+de communication efﬁcaces pour faciliter
+l’intégration à un réseau social, etc.)
+
+Jeux de table (cartes, scrabble, bingo, etc.) (5)
+Sorties (5)
+Fêtes, dîners d’anniversaire ou spectacles (4)
+Infos communautaires ou psychosociales (4)
+Échanges (période formelle) (3)
+Valorisation et croissance (appartenance, santé
+mentale, bien-être) (3)
+Actualités (2)
+Journal (2)
+Ordinateur – Internet (2)
+Activités spirituelles (messe, pastorale, préparation
+des fêtes juives) (2)
+Valorisation par des tâches utiles au CJ ou au
+CLSC auquel le participant est afﬁlié (1)
+Participation à la communauté (1)
+Comité planiﬁcation clients (1)
+Poésie – écriture (1)
+
+H. Prévention et promotion
+de la santé (4)
+
+6. Prévention et promotion de la santé
+
+Info santé (4)
+Relaxation dirigée (2)
+Cuisine santé (1)
+Prévention des chutes (1)
+
+Parkinson (3)
+AVC (2)
+diabète (1)
+arthrite (1)
+de dextérité manuelle (1)
+de douleur (1)
+
+Activités des centres de jour pour personnes âgées
+
+les sports et les jeux physiques. Celles-ci vont toutes
+dans le sens d’une plus grande régularité de participation pour les membres des groupes 3 et 4. Ces derniers
+ont aussi participé à un moins grand nombre de catégories d’activités que ceux des proﬁls 1 et 2.
+Comparaison avec les activités recommandées
+Les membres du groupe 1 ont plusieurs problèmes de
+santé physique. Ils sont aussi nombreux à présenter
+des symptômes dépressifs et des incapacités d’origine
+sensorielle, tout en étant majoritairement plus autonomes que la moyenne. Les activités auxquelles ils ont
+participé ont donc été comparées aux activités recommandées pour les trois sous-programmes suivants :
+incapacités fonctionnelles d’origine sensorielle, santé
+physique et santé mentale (tableau 6). On observe que
+les activités recommandées de façon prioritaire pour
+ces sous-programmes sont aussi des activités dont ont
+bénéﬁcié la majorité des membres de ce groupe, à
+l’exception des activités de réminiscence qui peuvent
+être bénéﬁques pour les personnes atteintes de dépression et auxquelles seulement la moitié du groupe a
+participé. On note aussi que les groupes spéciﬁques
+auxquels ils ont pris part sont liés à des problèmes
+physiques. On ne relève aucun groupe spéciﬁque pour
+les problématiques sensorielles comme cela a été recommandé dans le cadre de référence.
+Les membres du groupe 2 sont majoritairement plus
+jeunes que l’ensemble des participants à l’étude et
+présentent peu de problèmes de santé. Ces caractéristiques ne permettent pas de les lier à un sous-programme particulier des CJ. Les besoins de chacun de
+ces individus sont associés à des sous-programmes différents. La comparaison avec les activités recommandées n’est donc pas possible pour ce groupe.
+Les membres du groupe 3 présentent, pour la plupart,
+des atteintes cognitives. Les activités auxquelles ils ont
+participé ont donc été comparées aux activités recommandées pour le sous-programme lié aux incapacités
+fonctionnelles d’origine cognitive (tableau 7). On observe ici que les activités dont ont bénéﬁcié la majorité
+des membres de ce groupe sont les exercices physiques,
+les activités d’intégration sociale ainsi que les sports et
+les jeux physiques. Malgré le fait que les activités de
+stimulation cognitive et de réminiscence sont jugées
+prioritaires pour cette clientèle par le groupe d’experts
+consulté, un faible pourcentage des membres de ce
+groupe a participé à ce type d’activités. On note par
+ailleurs que ceux qui ont pris part à de la stimulation
+cognitive l’ont fait avec une certaine régularité (67 %
+de leurs présences).
+Les membres du groupe 4 présentent presque tous des
+problèmes de santé qui entraînent des incapacités locomotrices. Les activités auxquelles ils ont participé ont
+
+La Revue canadienne du vieillissement 28 (1)
+
+39
+
+donc été comparées aux activités recommandées pour
+le sous-programme lié aux incapacités fonctionnelles
+d’origine motrice (tableau 8). On observe que les membres de ce groupe ont participé en grande majorité aux
+activités d’intégration sociale, aux exercices physiques
+et aux groupes spéciﬁques pour un problème physique
+commun. Ces activités sont aussi celles qui sont
+recommandées de façon prioritaire pour ce groupe.
+On note aussi que tous les membres de ce groupe ont
+bénéﬁcié d’exercices physiques, que ce soit dans des
+groupes d’exercices physiques généraux ou dans des
+groupes spécifiques pour un problème physique
+commun.
+
+Discussion
+Bien que largement présents dans la gamme des services de soutien à domicile, les CJ ont été peu étudiés
+au Canada. Les études canadiennes recensées à ce jour
+portent essentiellement sur leur structure (Gutman et al.,
+1993a, 1993b ; Ross-Kerr, Warren, et Godkin, 1995 ;
+Strang, Greschuk, McIlveen, Gadacz, et Neufeld, 1992 ;
+Tourigny, Côté, Laberge, Paradis, et Joubert, 1993) ou
+sur leurs résultats (Baumgarten et al., 2002 ; Strain et al.,
+1987), et très peu d’attention est apportée au processus
+d’intervention, les auteurs se limitant à décrire de façon succincte les activités offertes.
+Dans cette étude exploratoire, nous avons cherché à
+vériﬁer l’adéquation entre les activités proposées dans
+les CJ et les caractéristiques de santé et d’autonomie
+des utilisateurs aﬁn de combler une lacune dans les
+études actuelles. Ce type de recherche est important et
+probablement préalable aux études sur l’efﬁcacité
+des CJ. En effet, une combinaison d’activités mieux
+adaptées aux besoins de chaque participant pourrait
+avoir une inﬂuence sur la capacité des CJ à atteindre
+leurs objectifs, qui sont liés au maintien des capacités
+physiques, cognitives, affectives et d’intégration
+sociale, au répit offert aux familles et, ultimement, au
+maintien dans la communauté. Comme peu de chercheurs se sont intéressés à ce sujet jusqu’à maintenant,
+nous n’avons pas trouvé une classiﬁcation reconnue
+des activités offertes en CJ. Les activités sont décrites
+et regroupées de façon différente dans chaque étude,
+en fonction des préférences des auteurs plutôt qu’en
+raison de fondements théoriques. Nous avons fait
+appel à un groupe d’experts pour créer la classiﬁcation
+utilisée dans la présente étude. Malgré certaines différences, cette classiﬁcation rejoint globalement celle
+proposée dans le manuel d’activités de Norman et
+Horton (1996), ce qui lui apporte une certaine validité
+apparente. Ainsi, cette étude présente une méthode
+originale et structurée qui pourrait servir de référence
+pour des études similaires auprès d’un plus grand
+nombre de CJ.
+
+Incapacités
+fonctionnelles
+d’origine motrice
+
+B. Groupes
+spéciﬁques
+
+D. Stimulation
+cognitive
+
+C. Activités
+fonctionnelles
+
+Groupe d’activités
+pour : hémiplégie,
+sclérose en plaques,
+arthrite, Parkinson
+
+A. Exercices
+physiques
+
+Rang 4
+
+Groupe de tâches :
+menuiserie, horticulture,
+artisanat, cuisine,
+enseignement et
+entraînement AVQ
+
+Rang 2
+
+Classes d’exercices :
+générale, groupe
+d’ambulation, groupe
+de préhension
+Rang 1
+
+Activités
+
+Sous-programmes
+
+Rang 3/4
+
+Groupe de soutien
+Exercices pour les yeux
+Stratégies de
+communication :
+discrimination par le
+toucher, les odeurs,
+stratégie d’écoute,
+lecture labiale,
+exercices de mémoire
+et de concentration
+Rang 2
+
+Rang 5 : moyen de
+valorisation pour
+cette clientèle
+
+Incapacités
+fonctionnelles
+d’origine sensorielle
+
+Gymnastique des
+fonctions cérébrales :
+réminiscence,
+orientation à la réalité,
+stimulation sensorielle
+Rang 1
+
+Groupe de tâches :
+cuisine, artisanat
+adapté, tâches
+domestiques (ex. :
+préparer les
+serviettes de table).
+Intégrer AVQ dans la
+routine au CJ : se
+vêtir et se dévêtir,
+utiliser la toilette, etc.
+Rang 3
+
+Rang 6
+
+Classe d’exercices
+générale
+
+Incapacités
+fonctionnelles
+d’origine cognitive
+
+Rang 2
+
+Rang 6
+
+Facteurs socioenvironnementaux
+
+Rang 7
+
+Santé mentale
+
+Rang 4/5
+
+Rang 2
+
+Rang 4/5
+
+Groupe spéciﬁque
+pour certaines
+pathologies : diabète
+
+Rang 2
+
+Groupe de
+prévention en
+santé mentale
+
+Rang 3
+
+Classe d’exercices
+générale
+
+Santé physique
+
+Tableau 4 : Activités recommandées en centres de jour pour les divers sous-programmes (ACAQ, 1991) et rangs de priorité établis par le groupe d’experts
+
+40
+Canadian Journal on Aging 28 (1)
+Jacinthe Savard et al.
+
+I. Soutien au
+réseau d’aide
+
+Avec aidant : suivi du
+programme d’exercice
+à domicile
+Rang 6
+
+Rang 5
+
+Groupe d’information
+santé : tension artérielle,
+médicaments, hygiène
+des pieds, alimentation
+
+Avec aidant : suivi
+des stratégies de
+communication
+Rang 7
+
+Rang 3/4
+
+Rang 1
+
+Rang 3
+
+H. Prévention et
+promotion de
+la santé
+
+Groupe psychosocial :
+vivre avec un
+handicap visuel,
+vivre avec un
+handicap auditif,
+information sur
+ressources
+disponibles
+
+Groupe psychosocial :
+remotivation, deuil,
+estime de soi, vivre
+avec un handicap
+(groupe de soutien),
+information sur services
+communautaires
+
+G. Intégration
+sociale
+
+Rang 6
+Mentionnés au
+rang 5 comme
+exercices physiques
+
+Mentionnés au
+rang 1 comme
+exercices physiques
+
+F. Sports et jeux
+physiques
+
+E. Activités
+musicales ou de
+réminiscence
+
+Avec aidant :
+enseignement
+et soutien
+Rang 4
+
+Rang 5 : Fournir
+encadrement dans les
+activités
+
+Groupe de valorisation
+et de socialisation
+(peut inclure jeux,
+zoothérapie,
+musique, etc.)
+
+Mentionnés au rang
+5 comme intégration
+sociale
+
+Dans le cadre, incluses
+avec stimulation
+cognitive et avec
+groupe psychosocial
+Rang 2
+
+Rang 4
+
+Rencontre avec
+aidant
+
+Rang 3
+
+Rang 1
+
+Groupes
+psychosociaux :
+échanges sur des
+préoccupations
+courantes
+(vieillissement,
+stress, testament),
+socialisation (jeux,
+chants, excursions),
+groupe de
+préparation à
+l’hébergement,
+groupe de
+réinsertion sociale
+
+Rang 5
+
+Groupe
+psychosocial :
+prévention des
+situations
+potentielles de
+détresse,
+revalorisation du
+rôle social et
+estime de soi,
+groupe
+d’entraide à la
+suite d’un deuil,
+groupe lié aux
+problèmes de
+consommation
+d’alcool ou de
+médicaments
+Rang 1
+
+Avec aidant :
+enseignement
+(insuline, pilulier)
+Rang 6
+
+Avec aidant :
+enseignement
+et soutien
+Rang 6
+
+Groupe d’information
+santé : nutrition,
+médication, sécurité,
+vie saine, information sur
+certaines pathologies
+Rang 1
+
+Rang 4/5
+
+Groupe
+d’information
+santé :
+relaxation,
+médication
+Rang 4/5
+
+Groupe psychosocial :
+adaptation au
+vieillissement,
+relaxation, information
+sur services
+communautaires
+
+Rang 3
+
+Activités des centres de jour pour personnes âgées
+La Revue canadienne du vieillissement 28 (1)
+41
+
+42
+
+Canadian Journal on Aging 28 (1)
+
+Jacinthe Savard et al.
+
+Tableau 5 : Activités au centre de jour pour l’ensemble des participants et pour les quatre proﬁls de participants
+(Pourcentage d’individus qui ont bénéﬁcié de chaque type d’activités et moyenne de l’intensité de l’exposition pour ceux qui en ont bénéﬁcié)
+Activités au CJ
+
+Pour les 132
+participants
+
+Groupe 1 :
+Personnes
+fragiles
+(n = 35)
+
+Groupe 2 :
+Utilisateurs
+précoces
+(n = 45)
+
+Groupe 3 :
+Incapacités
+d’origine
+cognitive (n = 23)
+
+Groupe 4 :
+Incapacités
+d’origine
+motrice (n = 29)
+
+A. Exercices physiques
+
+91 %
+78 % ± 23
+50 %
+43 % ± 29
+73 %
+35 % ± 15
+65 %
+46 % ± 33
+45 %
+36 % ± 26
+77 %
+36 % ± 17
+92 %
+72 % ± 24
+58 %
+17 % ± 13
+67 %
+35 % ± 24
+26 %
+5,6 ± 1,7
+
+89 %
+0,71 ±
+69 %
+0,33 ±
+86 %
+0,33 ±
+51 %
+0,37 ±
+49 %
+0,34 ±
+74 %
+0,32 ±
+100 %
+0,67 ±
+51 %
+0,21 ±
+71 %
+0,33 ±
+9%
+5,9
+
+96 %
+0,74 ±
+49 %
+0,37 ±
+80 %
+0,34 ±
+73 %
+0,35 ±
+51 %
+0,36 ±
+84 %
+0,33 ±
+93 %
+0,71 ±
+76 %
+0,16 ±
+78 %
+0,37 ±
+16 %
+6,0
+
+100 %
+0,92 ±
+23 %
+0,66 ±
+65 %
+0,37 ±
+57 %
+0,67 ±
+39 %
+0,38 ±
+74 %
+0,44 ±
+83 %
+0,74 ±
+57 %
+0,18 ±
+52 %
+0,32 ±
+52 %
+4,9
+
+79 %
+0,79 ±
+52 %
+0,60 ±
+55 %
+0,39 ±
+76 %
+0,58 ±
+38 %
+0,40 ±
+69 %
+0,42 ±
+86 %
+0,76 ±
+38 %
+0,13 ±
+59 %
+0,37 ±
+41 %
+5,1
+
+B. Groupes spéciﬁques
+C. Activités fonctionnelles
+D. Stimulation cognitive
+E. Activités musicales ou
+de réminiscence
+F. Sports et jeux physiques
+G. Intégration sociale
+Évènements spéciaux
+H. Prévention et promotion
+de la santé
+Journées pour troubles cognitifs
+Nombre de catégories d’activités
+
+%1
+%
+%
+%
+%
+%
+%
+%
+%
+
+0,25
+0,20
+0,17
+0,28
+0,27
+0,16
+0,25
+0,14
+0,22
+
+0,20
+0,22
+0,12
+0,26
+0,26
+0,15
+0,22
+0,12
+0,23
+
+0,16
+0,41
+0,19
+0,40
+0,28
+0,16
+0,27
+0,17
+0,31
+
+0,26
+0,35
+0,16
+0,36
+0,27
+0,19
+0,25
+0,10
+0,26
+
+ANOVA
+
+0,037*
+0,005*
+0,006*
+0,004*
+0,023*
+0,658
+0,092
+0,003*
+0,633
+0,962
+0,452
+0,031*
+0,074
+0,494
+0,010*
+0,381
+0,117
+0,842
+0,000*
+0,019*
+
+1
+
+Ce résultat signiﬁe, par exemple, que ceux qui ont participé à des exercices physiques y ont participé en moyenne à 78 pour cent
+de leurs présences au CJ.
+* p &lt; 0,05.
+
+L’analyse en regroupement a nous permis de déterminer quatre proﬁls de participants et d’examiner les
+activités dont ont bénéﬁcié les membres de chacun de
+ces proﬁls. L’importance de considérer de tels groupes
+vient de la nécessité de prendre en compte les multiples caractéristiques des participants dans la programmation des activités. Par exemple, les personnes qui
+ont des atteintes cognitives peuvent avoir des besoins
+différents selon leur niveau de capacités fonctionnelles.
+Les différences statistiquement signiﬁcatives observées
+dans l’utilisation des services de santé et dans les types
+d’activités dont ont bénéﬁcié les membres de chacun
+des groupes confèrent une certaine validité apparente
+à ces regroupements. Il y aurait certes lieu de tester
+leur robustesse en vériﬁant s’ils peuvent être reproduits
+dans d’autres études. Ils permettent tout de même
+d’apporter un éclairage intéressant sur les liens entre
+les activités en CJ et les caractéristiques des utilisateurs.
+Parmi les éléments mis en lumière par les différentes
+analyses de cette étude, on note tout d’abord que les
+quatre proﬁls de participants déterminés par les analyses en regroupement ne correspondent que partiellement
+aux six sous-programmes décrits dans le cadre de référence (ACAQ, 1991). D’autres observations nous
+
+amènent aussi à remettre en question l’existence réelle
+de ces sous-programmes dans les CJ. Par exemple,
+dans les recommandations de notre groupe d’experts,
+les activités de deux sous-programmes (incapacités
+fonctionnelles d’origine motrice et santé physique)
+semblaient relativement similaires. Ensuite, les données empiriques ne démontrent aucune activité particulière pour les personnes qui présentent des
+difﬁcultés sensorielles. On remarque aussi que les divers sous-programmes de ce cadre de référence distinguent davantage les individus en fonction de
+l’origine de leurs difﬁcultés que de leur niveau fonctionnel. Cependant, lorsque l’on planiﬁe des activités
+de groupe, il semble important de tenir compte du
+niveau fonctionnel pour planiﬁer des activités qui
+présentent le niveau de stimulation approprié aux capacités des participants.
+On constate que les membres du groupe 2, qualiﬁés
+d’utilisateurs précoces, semblent fréquenter le CJ en
+raison d’un problème qui diffère pour chaque personne, mais avant que les incapacités liées à cette condition ne deviennent importantes (87 % sont dans la
+moitié la plus autonome de l’échantillon). On peut se
+demander si cette clientèle a réellement besoin de
+fréquenter un CJ ou si elle pourrait fréquenter des
+
+Activités des centres de jour pour personnes âgées
+
+La Revue canadienne du vieillissement 28 (1)
+
+43
+
+Tableau 6 : Correspondance entre l’exposition aux diverses activités pour les membres du groupe 1 (personnes fragiles ; n = 35) et
+les activités recommandées
+Activités
+
+Recommandation
+pour incapacités
+d’origine
+sensorielle
+
+Recommandation
+pour santé
+physique
+
+G. Intégration sociale
+H. Prévention et promotion
+de la santé
+B. Groupes spéciﬁques
+C. Activités fonctionnelles
+E. Activités musicales ou
+de réminiscence
+A. Exercices physiques
+F. Sports et jeux physiques
+I. Soutien au réseau d’aide
+
+Rang 1
+Rang 3/4
+
+Rang 4/5
+Rang 1
+
+Rang 2
+Rang 3/4
+Rang 6
+
+Recommandation
+pour santé
+mentale
+
+Personnes du
+groupe 1 qui
+ont bénéﬁcié
+d’activités de
+cette catégorie
+(pourcentage)
+
+Pour ceux qui ont
+bénéﬁcié des activités
+de la catégorie,
+intensité relative
+d’exposition (moyenne
+et écart type)
+
+Rang 1
+Rang 4/5
+
+100 %
+71 %
+
+0,67 ± 0,25
+0,33 ± 0,22
+
+Rang 2
+Rang 4/5
+
+Rang 4/5
+Rang 2
+Rang 3
+
+69 %
+86 %
+49 %
+
+Rang 5
+
+Rang 3
+
+Rang 7
+
+Rang 7
+
+Rang 6
+
+Rang 5
+
+89 %
+74 %
+ND
+
+0,33 ± 0,20
+0,33 ± 0,17
+0,34 ± 0,27
+0,71 ± 0,25
+0,32 ± 0,16
+ND
+
+ND : données non disponibles
+
+sociale sont celles dont ont bénéﬁcié le plus grand
+nombre d’individus. Ces activités correspondent aux
+besoins d’un grand nombre de personnes âgées qui
+fréquentent les CJ. En effet, les activités d’intégration
+sociale sont recommandées pour tous les sous-programmes, tant dans le cadre de référence de l’ACAQ
+(1991) que par le groupe d’experts consulté, bien
+qu’elles ont un rang de priorité moindre pour les sousprogrammes de santé physique et d’incapacités fonctionnelles d’origine cognitive. Selon ces mêmes sources,
+les exercices physiques sont aussi indiqués pour un
+grand nombre de sous-programmes, malgré le fait que
+le degré de priorité de ce type d’activités ne soit élevé
+que pour deux des sous-programmes (incapacités
+fonctionnelles d’origine motrice et santé physique).
+De plus, ces deux types d’activités sont facilement
+
+ressources plus légères (groupes communautaires et
+associatifs) pour laisser les places en CJ aux personnes
+qui ont des besoins plus importants. Cependant, surtout pour les personnes qui présentent une atteinte
+cognitive, plusieurs chercheurs recommandent que
+l’utilisation du CJ débute à un stade plus précoce de la
+maladie aﬁn de vraiment contribuer au soutien à domicile. Lorsque le répit aux proches arrive tardivement
+dans le processus de maladie, les niveaux de stress
+et de fardeau sont déjà élevés, et les démarches
+d’hébergement sont souvent en cours et ne peuvent
+être retardées (Gaugler, Kane, Kane et, Newcomer,
+2005 ; Gaugler et Zarit, 2001 ; Gottlieb et Johnson, 2000 ;
+Zarit et al., 1999).
+En ce qui concerne les activités offertes, on constate
+que les exercices physiques et les activités d’intégration
+
+Tableau 7 : Correspondance entre l’exposition aux diverses activités pour les membres du groupe 3 (incapacités d’origine cognitive ;
+n = 23) et les activités recommandées
+Activités
+
+Recommandation pour
+incapacités d’origine
+cognitive
+
+D. Stimulation cognitive
+E. Activités musicales ou de
+réminiscence
+C. Activités fonctionnelles
+I. Soutien au réseau d’aide
+G. Intégration sociale
+F. Sports et jeux physiques
+A. Exercices physiques
+
+Rang 1
+Rang 2
+
+ND : données non disponibles
+
+Rang 3
+Rang 4
+Rang 5
+Rang 6
+
+Personnes du groupe 3 qui ont
+bénéﬁcié d’activités de cette
+catégorie (Pourcentage)
+57 %
+39 %
+65
+ND
+83
+74
+100
+
+%
+%
+%
+%
+
+Pour ceux qui ont bénéﬁcié des activités
+de la catégorie, intensité relative
+d’exposition (Moyenne et écart type)
+0,67 ± 0,40
+0,38 ± 0,28
+0,37 ± 0,19
+ND
+0,74 ± 0,27
+0,44 ± 0,16
+0,92 ± 0,16
+
+44
+
+Canadian Journal on Aging 28 (1)
+
+Jacinthe Savard et al.
+
+Tableau 8 : Correspondance entre l’exposition aux diverses activités pour les membres du groupe 4 (incapacités d’origine motrice ;
+n = 29) et les activités recommandées
+Activités
+
+Recommandation
+pour Incapacités
+d’origine motrice
+
+Personnes du groupe 4 qui ont
+bénéﬁcié d’activités de cette
+catégorie (Pourcentage)
+
+Pour ceux qui ont bénéﬁcié des activités
+de la catégorie, intensité relative
+d’exposition (Moyenne et écart type)
+
+A.
+F.
+B.
+G.
+C.
+H.
+
+Rang 1
+Rang 2
+Rang 3
+Rang 4
+Rang 5
+
+79 %
+52 %
+69 %
+86 %
+55 %
+59 %
+
+0,79 ± 0,26
+0,60 ± 0,35
+0,42 ± 0,19
+0,76 ± 0,25
+0,39 ± 0,16
+0,37 ± 0,26
+
+Rang 6
+
+ND
+
+ND
+
+Exercices physiques
+Sports et jeux physiques
+Groupes spéciﬁques
+Intégration sociale
+Activités fonctionnelles
+Prévention et promotion
+de la santé
+I. Soutien au réseau d’aide
+
+ND : données non disponibles
+
+réalisables en groupe et probablement facilement acceptées par les participants des CJ.
+Les exercices physiques et les jeux physiques ne faisaient pas partie des activités prioritaires pour la clientèle atteinte de démence selon le groupe d’experts
+consulté pour cette recherche. Nos données démontrent que, dans la réalité, les responsables de CJ les
+offrent régulièrement à cette clientèle. Les guides
+d’activités pour les personnes atteintes de démence
+leur donnent raison. Selon ces guides, les activités
+physiques qui demandent peu d’apprentissage
+favorisent la participation. De plus, elles permettent
+de stimuler le maintien des capacités physiques et de
+prévenir l’incapacité excessive ; d’amener une saine
+fatigue qui diminue l’agitation et l’errance ; de faire
+vivre des succès ; et d’avoir du plaisir et de célébrer la
+vie (Lindeman et al., 1991 ; Nissenboim et Vroman,
+1998).
+Dans les cinq CJ à l’étude, les groupes spéciﬁques sont
+tous des groupes d’exercices physiques pour un diagnostic ou un problème physique commun. Les groupes
+spéciﬁques pour la santé mentale et les incapacités
+d’origine sensorielle ne semblent pas être offerts. S’ils
+existent, ils ne sont pas traités comme tels dans les données statistiques des CJ et n’ont pas été mentionnés
+lors de nos rencontres avec les coordonnateurs des cinq
+CJ à l’étude visant à préciser les caractéristiques des
+activités recensées dans chacun des centres. Certains
+groupes d’intégration sociale (ex. : groupe de valorisation) visaient certainement la prévention et la promotion de la santé mentale, mais n’étaient pas propres à
+un groupe d’individus ayant démontré des besoins
+particuliers.
+Lorsque l’on s’intéresse aux différences entre les hommes et les femmes, on observe que, parmi les quatre
+proﬁls de participants déterminés, les hommes se retrouvent principalement dans un groupe de personnes
+
+moins autonomes, qui présentent un plus grand nombre de problèmes entraînant des incapacités locomotrices. Les femmes, pour leur part, se regroupent dans
+trois groupes distincts, ce qui laisse suggérer qu’elles
+ont une plus grande variété de raisons de fréquenter
+un CJ. Cela est cohérent avec les résultats d’une
+première étude qui indiquaient que les hommes
+participent davantage au CJ lorsqu’ils ont fait un
+AVC et lorsqu’ils sont moins autonomes (Savard
+et al., 2007).
+Comme on pouvait s’y attendre, les membres du
+groupe 3 (incapacités d’origine cognitive) sont proportionnellement plus nombreux que ceux des autres
+groupes à avoir participé aux journées destinées aux
+personnes atteintes de troubles cognitifs. Ce qui étonne,
+c’est que 41 pour cent des membres du groupe 4 (incapacités d’origine motrice) ont pris part à ces journées,
+alors que seulement 28 pour cent d’entre eux ont des
+troubles cognitifs. Lorsque l’on analyse les données
+pour l’ensemble des personnes qui présentent une atteinte cognitive, on observe un résultat similaire : la
+participation à ces journées est constatée pour 57 pour
+cent des personnes qui ont une atteinte cognitive et
+pour 14 pour cent des personnes sans ce type d’atteinte.
+Les membres du groupe 4 sont majoritairement moins
+autonomes que la moyenne de l’échantillon. Est-il possible que les lourdes pertes d’autonomie soient faussement associées à des pertes cognitives ? Il est aussi
+possible que notre étude sous-estime le nombre de personnes atteintes de troubles cognitifs. En effet, il se peut
+que le SPMSQ ne dépiste pas bien toutes les formes
+de troubles cognitifs. Par exemple, contrairement au
+mini-examen de l’état mental (Folstein, Folstein, et
+McHugh, 1975), il n’y a aucune question sur les praxies
+ou la planiﬁcation motrice dans le SPMSQ.
+Les données démontrent que les activités de stimulation cognitive sont offertes autant aux membres du
+
+Activités des centres de jour pour personnes âgées
+
+groupe 3 (incapacités d’origine cognitive) qu’à ceux
+des autres groupes. Un résultat similaire est observé
+lorsque l’on compare l’ensemble des personnes qui ont
+des atteintes cognitives à celles qui n’en ont pas. Cela
+contraste avec les recommandations du cadre de référence de l’ACAQ et du groupe d’experts, qui ne proposent ces activités que pour les personnes qui
+présentent des troubles cognitifs. Il est possible que
+des activités de stimulation cognitive de niveau avancé
+soient intéressantes pour des personnes sans atteinte
+cognitive et qu’elles puissent aussi être effectuées sous
+forme de jeux favorisant l’intégration sociale. Malheureusement, les données dont nous disposions pour
+cette étude ne nous permettaient pas de différencier les
+divers types de stimulation cognitive. De plus, bien
+que les études à ce sujet soient encore insufﬁsantes
+(Pope, Shue, et Beck, 2003), il existe certaines données
+voulant que la stimulation cognitive puisse aider à
+prévenir l’apparition de déﬁcits cognitifs (Wilson,
+Mendes de Leon, Barnes, Schneider, Bienias et al.,
+2002).
+Par ailleurs, on peut remettre en question le fait que
+seulement 76 pour cent des personnes qui ont des atteintes cognitives et 57 pour cent des personnes du
+groupe 3 (ce qui comprend 74 % de personnes ayant
+des atteintes cognitives) ont participé à des activités de
+stimulation cognitive. En effet, ce type d’activités est
+présenté comme prioritaire pour cette clientèle par le
+groupe d’experts consulté, et la recherche a aussi démontré l’utilité de la stimulation cognitive pour cette
+clientèle (Knapp et al., 2006 ; Spector, Orrell, Davies, et
+Woods, 2000 ; Spector et al., 2003). Pourquoi cet écart ?
+Il y a sans doute la difﬁculté chez les intervenants en CJ
+à animer des activités de stimulation cognitive en
+groupe avec des personnes de niveaux cognitifs différents ou qui ont des atteintes très importantes. Ces
+intervenants doivent aussi tenir compte de l’ensemble
+des besoins et des goûts des clients, comme des besoins
+prioritaires liés à leur état de santé physique ou leur
+manque d’intérêt à participer à la stimulation cognitive. Il peut aussi exister une certaine perception chez
+les intervenants en CJ voulant que la stimulation cognitive ne donne pas de résultats avec les personnes atteintes de troubles cognitifs. En effet, l’orientation à la
+réalité et la stimulation cognitive ont fait l’objet de critiques en raison de l’application trop mécanique de ces
+techniques dans le passé (Spector et al., 2000).
+On observe aussi que peu de personnes ont bénéﬁcié
+des activités de réminiscence. Compte tenu des effets
+bénéﬁques de ce type d’activités pour des personnes
+dépressives (Anderson, 2002 ; Bohlmeijer, Smit. et
+Cuijpers, 2003 ; Frazer, Christensen, et Grifﬁths, 2005)
+et des personnes qui ont des troubles cognitifs (Woods,
+Spector, Jones, Orrell, et Davies, 2005), on aurait pu
+s’attendre à ce qu’un grand nombre de membres du
+
+La Revue canadienne du vieillissement 28 (1)
+
+45
+
+groupe 1 (dont 80 % présentent des symptômes dépressifs) et du groupe 3 (dont 74 % ont des atteintes
+cognitives) aient participé à des activités de réminiscence. Est-ce parce que ce type d’activités est mal connu
+des intervenants en CJ ? Est-ce en raison de leur difﬁculté à regrouper les participants qui ont des besoins
+homogènes pour ce type d’activités ? Est-il possible
+que de telles activités aient été offertes à l’intérieur
+d’activités répertoriées comme activités sociales et non
+comme activités de réminiscence ? Ce sont là des questions importantes auxquelles les données de cette
+étude ne permettent pas de répondre. On peut tout de
+même recommander que les CJ s’assurent d’avoir sufﬁsamment d’intervenants formés à l’intervention psychosociale pour animer ce type d’activités de groupe.
+La socialisation apportée par le CJ (Webb, 1989) de
+même que les exercices (Frazer et al., 2005) offerts à la
+majorité des participants des CJ sont certes bénéﬁques
+pour les personnes qui présentent des symptômes dépressifs. Toutefois, d’autres approches ayant démontré
+des résultats probants (réminiscence, thérapie cognitive behaviorale, voir Frazer et al., 2005) pourraient
+certainement être intégrées aux services proposés à
+cette clientèle. Compte tenu de la grande proportion
+de participants en CJ qui ont des symptômes dépressifs,
+il serait approprié que les responsables de CJ apportent
+une attention particulière aux services offerts à cette
+population.
+Avant de terminer, nous souhaitons ajouter un mot sur
+la fréquence de la participation aux diverses activités.
+Sauf pour les exercices physiques et les activités
+d’intégration sociale, les sujets de cette étude participent aux autres catégories d’activités en moyenne pendant moins de 50 pour cent de leurs présences en CJ.
+Considérant que leur présence réelle au CJ est d’un
+peu moins d’un jour par semaine en moyenne, on peut
+se demander si l’intensité d’exposition aux diverses activités proposées par les CJ est sufﬁsante pour engendrer les effets bénéﬁques escomptés de chacune
+d’elles. Toutefois, ces données moyennes ne permettent
+pas de porter un jugement. Il y aurait surtout lieu de
+s’assurer d’une intensité d’exposition sufﬁsante aux
+catégories d’activités prioritaires pour chaque proﬁl de
+participants.
+Nos données font ressortir très peu de différences dans
+l’intensité d’exposition à diverses activités en fonction
+des caractéristiques des participants, à l’exception de
+leur degré d’autonomie. Les membres des proﬁls 3 et 4
+(moins autonomes), lorsqu’ils participent aux exercices physiques, à la stimulation cognitive, aux sports et
+aux jeux physiques ainsi qu’à des groupes spéciﬁques,
+le font avec plus de régularité. Puisque les exercices
+physiques, les sports et jeux physiques et les groupes
+spéciﬁques sont bénéﬁques pour les personnes atteintes
+
+46
+
+Canadian Journal on Aging 28 (1)
+
+d’incapacités d’origine motrice et que la stimulation
+cognitive de même que les sports et jeux physiques
+sont recommandés pour les individus ayant des incapacités d’origine cognitive, ces résultats sont encourageants. Toutefois, on aurait pu s’attendre à trouver
+d’autres différences qui auraient mieux reﬂété les besoins variés des divers proﬁls de participants.
+Limites de l’étude
+Les statistiques colligées par les CJ comportent certaines imprécisions. Par exemple, certaines données
+sont enregistrées sous le nom d’un groupe qui pouvait
+contenir plusieurs types d’activités (par exemple,
+groupe répit) et nous avons fait des inférences sur les
+présences à chaque type d’activités à partir du pourcentage approximatif d’activités de chaque type à l’intérieur
+du groupe. Puisqu’il est possible que la répartition
+réelle des activités ait varié légèrement par rapport à celle
+décrite, ou que certaines activités effectuées occasionnellement n’aient pas été mentionnées dans la description du groupe, ces données sont moins précises que
+celles pour lesquelles les présences sont enregistrées
+pour chaque type d’activités. Ces variations ne semblent cependant pas majeures et ne devraient pas affecter les conclusions de l’étude.
+À l’époque où cette étude a été menée, on constatait
+un manque d’homogénéité dans les données consignées
+par les CJ concernant l’état de santé des usagers.
+Ainsi, l’analyse secondaire de données recueillies
+dans le cadre d’une étude plus large sur les services
+intégrés aux personnes âgées nous a permis d’obtenir
+des données valides tant sur les caractéristiques des
+individus que sur leurs présences en CJ. Toutefois,
+l’échantillon n’est pas pleinement représentatif de
+l’ensemble de la population qui fréquente les CJ
+québécois.
+Premièrement, ce n’est pas un échantillon aléatoire des
+personnes fréquentant les cinq centres étudiés. Toutefois, selon les responsables de ces cinq centres, les caractéristiques des participants à cette étude seraient
+assez semblables à celles de la clientèle de leur CJ, à
+l’exception de la proportion de personnes qui ont des
+atteintes cognitives, qui semble légèrement plus élevée
+dans la clientèle de leur CJ (de 30 à 40 %) que chez les
+participants à cette étude (28 %).
+Deuxièmement, cet échantillon n’inclut que des personnes de 65 ans et plus. Ces dernières ont été recrutées majoritairement parmi les clients des services à
+domicile des CLSC. Bien que certains CJ montréalais
+acceptent d’autres types de clients, ceux de plus de 65
+ans forment plus de 90 pour cent de leur clientèle et
+plus de 85 pour cent y sont dirigés par les services de
+soutien à domicile de leur CLSC (Regroupement des
+
+Jacinthe Savard et al.
+
+centres d’hébergement et de soins de longue durée de
+la région de Montréal, 2005).
+Troisièmement, cet échantillon ne comprend que des
+personnes fréquentant l’un des cinq CJ d’un secteur
+bien délimité de l’île de Montréal. La population des
+deux territoires de CLSC sur lesquels le projet s’est
+déroulé est plus multiethnique que celle de l’ensemble
+de l’île de Montréal (44 à 48 % d’immigrants contre
+28 % pour Montréal) (Agence de la santé et des services sociaux de Montréal, 2004a ; 2004b). Il s’agit
+donc d’un échantillon d’une grande métropole à
+composition multiethnique comme on en observe de
+plus en plus dans les différentes métropoles des pays
+occidentaux. Enﬁn, malgré cette limite, les résultats
+sont possiblement, au moins en partie, représentatifs
+des activités des CJ de la région de Montréal, les responsables des CJ de cette région ayant entrepris une
+réﬂexion commune sur les orientations des CJ (Regroupement des centres d’hébergement et de soins de
+longue durée de la région de Montréal, 2001 ; 2005).
+On peut cependant penser que des résultats différents auraient pu être obtenus dans les CJ des régions rurales de la province, puisqu’en plus de
+desservir une population aux caractéristiques différentes ceux-ci doivent souvent adapter leur programmation en fonction des possibilités de transport sur
+un vaste territoire. On notera toutefois qu’il est important d’offrir des services adéquats aux personnes
+âgées de la région métropolitaine, puisque 46 pour
+cent des personnes âgées du Québec vivent dans la
+région métropolitaine de Montréal (Institut de la
+statistique du Québec, 2005-2006 ; 2007).
+
+Conclusion
+Les résultats de la présente étude seront utiles aux gestionnaires de CJ et aux planiﬁcateurs de services pour
+les personnes âgées. Ils démontrent une concordance
+partielle entre les activités offertes en CJ et les besoins des
+utilisateurs. Cette concordance apparaît plus grande
+pour les personnes présentant des problèmes de santé
+physique ou des incapacités d’origine motrice. Bien
+qu’ils mériteraient d’être conﬁrmés par des études plus
+poussées, les éléments mis en lumière dans cette étude
+soulèvent des questions sur l’adéquation entre la programmation d’activités et les objectifs visés, en particulier
+pour les personnes atteintes de troubles cognitifs et
+celles ayant des symptômes dépressifs. Ils renforcent la
+nécessité de revoir la planiﬁcation des activités pour
+assurer une offre de services qui tient davantage
+compte des besoins des participants et des interventions
+démontrées efﬁcaces. Les résultats de cette étude ciblent
+quatre proﬁls de participants qui pourraient servir de
+point de départ à cette révision de la programmation
+des activités.
+
+Activités des centres de jour pour personnes âgées
+
+Dans le futur, des recherches plus approfondies sur les
+liens entre les types d’activités offertes en CJ et l’atteinte
+des objectifs des CJ seraient pertinentes. De plus,
+puisqu’une fréquentation régulière du CJ semble
+nécessaire pour induire des effets bénéﬁques, des recherches sur les liens entre les activités offertes et la
+participation au CJ constituent une étape préalable essentielle.
+Enﬁn, cette étude fait ressortir l’importance d’adopter
+une classiﬁcation des activités des CJ qui permettrait
+d’avoir un recueil de données plus ﬁable et, subséquemment, d’obtenir une meilleure comparaison entre les CJ.
+
+Note
+1 Le logiciel JEDI (pour Jonction et diffusion informatiques,
+l’entreprise qui a créé ce logiciel) est un système de bases
+de données et de rapports périodiques créé sur la plateforme Access de Microsoft et conçu spécialement pour recueillir des données sur les clients, les activités et les
+présences en CJ.
+
+Références
+Agence de la santé et des services sociaux de Montréal.
+(2004a). Portrait de la population: Centre de santé Côtedes-Neiges, Métro et Parc Extension. Récupéré le 28 juillet 2007 de http://www.santemontreal.qc.ca/pdf/
+PDF_CSSS/pop_05.pdf.
+Agence de la santé et des services sociaux de Montréal.
+(2004b). Portrait de la population: Centre de santé Nord
+de l’Île et Saint-Laurent. Récupéré le 28 juillet 2007 de
+http://www.santemontreal.qc.ca/pdf/PDF_CSSS/
+pop_06.pdf.
+Anderson, A. J. (2002). Treatment of depression in older adults
+[Electronic Version]. International Journal of Psychosocial
+Rehabilitation, 6, 69–78. Récupéré le 8 mai 2006 de http://
+psychosocial.com/current_2002/OLDER_Adults.html.
+Association des centres d’accueil du Québec (ACAQ).
+(1991). Le centre de jour: un cadre de référence. Montréal:
+auteur.
+Baumgarten, M., Lebel, P., Laprise, H., Leclerc, C., et Quinn,
+C. (2002). Adult day care for the frail elderly: Outcomes,
+satisfaction, and cost. Journal of Aging and Health, 14(2),
+237–259.
+Béland, F., Bergman, H., Lebel, P., Clarﬁeld, A. M., Tousignant,
+P., Contandriopoulos, A. P., et al. (2006a). A system of
+integrated care for older persons with disabilities in
+Canada: Results from a randomized controlled trial.
+Journal of Gerontology Series A: Biological Sciences and Medical Sciences, 61(4), 367–373.
+Béland, F., Bergman, H., Lebel, P., Dallaire, L., Fletcher,
+J., Contandriopoulos, A. P., et al. (2006b). Des services
+
+La Revue canadienne du vieillissement 28 (1)
+
+47
+
+intégrés pour les personnes âgées fragiles (SIPA): Expérimentation d’un modèle pour le Canada. Revue canadienne du vieillissement, 25(1), 5–42.
+Bohlmeijer, E., Smit, F., et Cuijpers, P. (2003). Effects of reminiscence and life review on late-life depression: A metaanalysis. International Journal of Geriatric Psychiatry,
+18(12), 1088–1094.
+Bourque, P., Blanchard, L., et Vézina, J. (1990). Étude psychométrique de l’Échelle de dépression gériatrique. Revue
+canadienne du vieillissement, 9(4), 348–355.
+Cefalu, C. A., Ettinger, W. H., et Espeland, M. (1996). A study
+of the characteristics of the dementia patients and
+caregivers in dementia-nonspeciﬁc adult day care programs. Journal of the American Geriatrics Society, 44(6),
+654–659.
+Cohen-Mansﬁeld, J., Lipson, S., Brenneman, K. S., et Pawlson,
+L. G. (2001). Health status of participants of adult day care
+centers. Journal of Health and Social Policy, 14(2), 71–89.
+Conrad, K. J., et Guttman, R. (1991). Characteristics of Alzheimer’s versus non-Alzheimer’s adult day care centers. Research on Aging, 13(1), 96–116.
+Conrad, K. J., Hughes, S. L., Hanrahan, P., et Wang, S. (1993).
+Classiﬁcation of adult day care: A cluster analysis of services and activities. Journal of Gerontology, 48(3), S112–122.
+Cornoni-Huntley, J., Brook, D. B., Ostfeld, A., Taylor, J. O., et
+Wallace, R. B. (1986). Established populations for epidemiological studies of the elderly, resources data book: National
+Institutes of Health: NIH no. 86–2443.
+Delbecq, A. L., Van De Ven, A. H., et Gustavson, D. H. (1975).
+Group techniques for program planning: A guide to nominal
+group and delphi processes. Glenview, IL: Scott, Foresman
+and Company.
+Desrosiers, J., Bravo, G., Hébert, R., et Dubuc, N. (1995). Reliability of the revised functional autonomy measurement
+system (SMAF) for epidemiological research. Age and
+Ageing, 24(5), 402–406.
+Everitt, B. S., Landau, S., et Leese, M. (2001). Cluster analysis
+(4th ed.). London: Arnold.
+Fillenbaum, G. G. (1988). Multidimensional functional assessment of older adults: The Duke Older American Resources
+and Services procedures. Hillsdale, NJ: Lawrence Erlbaum
+Associates.
+Folstein, M. F., Folstein, S. E., et McHugh, P. R. (1975). Minimental state: A practical method for grading the cognitive state of patients for the clinician. Journal of Psychiatric
+Research, 12(3), 189–198.
+Foreman, M. D. (1987). Reliability and validity of mental status questionnaires in elderly hospitalized patients. Nursing Research, 36(4), 216–220.
+Frazer, C. J., Christensen, H., et Grifﬁths, K. M. (2005). Effectiveness of treatments for depression in older people.
+Medical Journal of Australia, 182(12), 627–632.
+
+48
+
+Canadian Journal on Aging 28 (1)
+
+Gaugler, J. E., Kane, R. L., Kane, R. A., et Newcomer, R. (2005).
+Early community-based service utilization and its effects on institutionalization in dementia caregiving. The
+Gerontologist, 45(2), 177–185.
+Gaugler, J. E., et Zarit, S. H. (2001). The effectiveness of adult
+day services for disabled older people. Journal of Aging
+and Social Policy, 12(2), 23–47.
+Goldston, S. M. (1989). Adult day care: A basic guide. Owings
+Mills, MD: National Health Publishing (a division of
+Williams &amp; Wilkins).
+Gottlieb, B. H., et Johnson, J. (2000). Respite programs for caregivers of persons with dementia: A review with practice
+implications. Aging and Mental Health, 4(2), 119–129.
+Gutman, G. M., Milstein, S., Killam, J., Lewis, D., et Hollander,
+M. J. (1993a). Les centres de soins de jour pour adultes
+en Colombie-Britannique: Caractéristiques des clients,
+raisons de l’aiguillage et raisons de l’omission de se
+présenter. Rapports sur la santé, 5(3), 321–333.
+Gutman, G. M., Milstein, S., Killam, J., Lewis, D., et Hollander,
+M. J. (1993b). Les centres de soins de jour pour adultes
+en Colombie-Britannique: Modèles, caractéristiques et
+services. Rapports sur la santé, 5(2), 189–207.
+Hébert, R., Carrier, R., et Bilodeau, A. (1988). Le système de
+mesure de l’autonomie fonctionnelle (SMAF). La revue de
+gériatrie, 13(4), 161–167.
+Henry, M. E., et Capitman, J. A. (1995). Finding satisfaction in
+adult day care: Analysis of a national demonstration of
+dementia care and respite services. Journal of Applied
+Gerontology, 14(3), 302–320.
+Institut de la statistique du Québec. (31 janvier 2007). Données démographiques régionales: Estimation de la population
+des régions métropolitaines de recensement selon le groupe
+d’âge et le sexe, Québec, au 1er juillet des années 1996 à 2006.
+Récupéréle 3 juillet 2007 de http://www.stat.gouv.
+qc.ca/donstat/societe/demographie/dons_regnl/regional/index.htm.
+Institut de la statistique du Québec. (2005–2006). Données générales sur la population du Québec: Population par année
+d’âge et par sexe, Québec, le 1er juillet 2005 – révisé et Population par année d’âge et par sexe, Québec le 1er juillet 2006 –
+provisoire. Récupéré le 3 juillet 2007 de http://www.stat.
+gouv.qc.ca/donstat/societe/demographie/struc_
+poplt/index.htm.
+Jarrott, S. E., Zarit, S. H., Berg, S., et Johansson, L. (1998).
+Adult day care for dementia: A comparison of programs
+in Sweden and the United States. Journal of Cross-Cultural Gerontology, 13(2), 99–108.
+Knapp, M., Thorgrimsen, L., Patel, A., Spector, A., Hallam,
+A., Woods, B., et al. (2006). Cognitive stimulation therapy for people with dementia: Cost-effectiveness analysis. British Journal of Psychiatry, 188, 574–580.
+Lindeman, D. A., Corby, N. H., Downing, R., et Sanborn, B.
+(1991). Alzheimer’s day care: A basic guide. Washington,
+DC: Hemisphere Publishing Corp.
+
+Jacinthe Savard et al.
+National Institute on Adult Day Care. (1990). Standards and
+guidelines for adult day care. Washington, DC: National
+Council on Aging.
+Nissenboim, S., et Vroman, C. (1998). The positive interactions
+program of activities for people with Alzheimer’s disease. Baltimore, MD: Health Professions Press.
+Norman, J. L., et Horton, E. R. (1996). Adult day care therapeutic activity manual: A continuous quality improvement approach. Gaithersburg, MD: Aspen Publishers.
+Pfeiffer, E. (1975). A short portable mental status questionnaire for the assessment of organic brain deﬁcit in elderly patients. Journal of the American Geriatrics Society,
+23(10), 433–441.
+Pope, S. K., Shue, V. M., et Beck, C. (2003). Will a healthy lifestyle help prevent Alzheimer’s disease. Annual Review of
+Public Health, 24, 111–132.
+Regroupement des centres d’hébergement et de soins de
+longue durée de la région de Montréal. (2001). Les centres
+de jour aujourd’hui. et demain! Document III: Synthèse des
+consultations et propositions d’orientations. Montréal: Regroupement des centres d’hébergement et de soins de
+longue durée de la région de Montréal.
+Regroupement des centres d’hébergement et de soins de
+longue durée de la région de Montréal. (2005). Cadre de
+référence régional pour le programme Centre de jour. Montréal: Regroupement des centres d’hébergement et de
+soins de longue durée de la région de Montréal.
+Ross-Kerr, J. C., Warren, S., et Godkin, M. D. (1995). Evaluation of adult day programs in Alberta: Final report. Edmonton: Alberta Health, Long Term Care Branch.
+Savard, J., Leduc, N., Lebel, P., Béland, F., et Bergman, H.
+(2007). L’utilisation des services de centres de jour par
+les personnes âgées qui présentent des incapacités. Revue canadienne du vieillissement, 26(3), 255–274.
+Schacke, C., et Zank, S. R. (2006). Measuring the effectiveness
+of adult day care as a facility to support family caregivers of dementia patients. Journal of Applied Gerontology,
+25(1), 65–81.
+Sheikh, J. I., et Yesavage, J. A. (1986). Geriatric depression
+scale (GDS): Recent evidence and development of a
+shorter version. Clinical Gerontologist, 5, 165–173.
+Spector, A. E., Orrell, M., Davies, S. P., et Woods, B. (2000).
+Reality orientation for dementia. Cochrane Database of
+Systematic Reviews. 2000, Issue 3. Art. No.: CD001119.
+DOI: 10.1002/14651858. CD001119.pub2. Last update 30
+August 2005. Récupéré le 23 novembre 2006 de http://
+www.mrw.interscience.wiley.com.proxy.bib.uottawa.
+ca/cochrane/clsysrev/articles/CD001119/frame.html.
+Spector, A., Thorgrimsen, L., Woods, B., Royan, L., Davies, S.,
+Butterworth, M., et al. (2003). Efﬁcacy of an evidencebased cognitive stimulation therapy programme for
+people with dementia. British Journal of Psychiatry, 183,
+248–254.
+
+Activités des centres de jour pour personnes âgées
+Strain, L. A., Chappell, N. L., et Blandford, A. A. (1987).
+Changes in life satisfaction among participants of adult
+day care and their informal caregivers. Journal of Gerontological Social Work, 11(3–4), 115–129.
+Strang, V., Greschuk, J., McIlveen, K., Gadacz, R. R., et Neufeld,
+A. (1992). Adult day care: An evaluation study. Edmonton:
+Victorian Order of Nurses, Edmonton Branch.
+Tourigny, A., Côté, L., Laberge, A., Paradis, M., et Joubert, P.
+(1993). Évaluation du programme québécois des centres de
+jour. Québec: Centre hospitalier de l’Université Laval,
+Unité de recherche en santé communautaire, Centre de
+santé publique de Québec.
+Webb, L. C. (Ed.) (1989). Planning and managing adult day care:
+Pathways to success. Owings Mills, MD: National Health
+Publishing (a division of Williams &amp; Wilkins).
+Wilson, R. S., McCann, J. J., Li, Y., Aggarwal, N. T., Gilley, D.
+W., et Evans, D. A. (2007). Nursing home placement, day
+care use, and cognitive decline in Alzheimer’s disease.
+American Journal of Psychiatry, 164(6), 910–915.
+Wilson, R. S., Mendes de Leon, C. F., Barnes, L. L., Schneider,
+J. A., Bienias, J. L., et al. (2002). Participation in cogni-
+
+La Revue canadienne du vieillissement 28 (1)
+
+49
+
+tively stimulating activities and risk of incident Alzheimer disease. Journal of the American Medical
+Association, 287, 742–748.
+Woods, B., Spector, A., Jones, C., Orrell, M., et Davies, S.
+(2005). Reminiscence therapy for dementia. [update of
+Cochrane Database Syst Rev. 2000 ;(4):CD001120 ; PMID:
+11034700]. The Cochrane Database of Systematic Reviews
+(2), CD001120.
+Zank, S. et Schacke, C. (2002). Evaluation of geriatric day care
+units: Effects on patients and caregivers. Journal of Gerontology, Serie B: Psychological Sciences and Social Sciences,
+57(4), 348–357.
+Zarit, S. H., Stephens, M. A., Townsend, A., et Greene, R.
+(1998). Stress reduction for family caregivers: Effects of
+adult day care use. Journals of Gerontology, Serie B: Psychological Sciences and Social Sciences, 53, S267–277.
+Zarit, S. H., Stephens, M. A. P., Townsend, A., Greene, R., et
+Leitsch, S. A. (1999). Patterns of adult day service use by
+family caregivers: A comparison of brief versus sustained use. Family Relations: Interdisciplinary Journal of
+Applied Family Studies, 48(4), 355–361.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Agence de la santé et des services sociaux de Montréal. (2004a). Portrait de la population: Centre de santé Côte-des-Neiges, Métro et Parc Extension. Récupéré le 28 juillet 2007 de http://www.santemontreal.qc.ca/pdf/PDF_CSSS/pop_05.pdf.</title><editor><orgName>Agence de la santé et des services sociaux de Montréal</orgName></editor><idno type="uri">http://www.santemontreal.qc.ca/pdf/PDF_CSSS/pop_05.pdf</idno><imprint><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="inbook"><monogr><title level="m">Agence de la santé et des services sociaux de Montréal. (2004b). Portrait de la population: Centre de santé Nord de l’Île et Saint-Laurent. Récupéré le 28 juillet 2007 de http://www.santemontreal.qc.ca/pdf/PDF_CSSS/pop_06.pdf.</title><editor><orgName>Agence de la santé et des services sociaux de Montréal</orgName></editor><idno type="uri">http://www.santemontreal.qc.ca/pdf/PDF_CSSS/pop_06.pdf</idno><imprint><date type="published">2004</date></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="article"><analytic><title level="a">Treatment of depression in older adults [Electronic Version]</title><author><persName><forename type="first">A. J</forename><surname>Anderson</surname></persName></author></analytic><monogr><title level="j">International Journal of Psychosocial Rehabilitation</title><imprint><date type="published">2002</date><biblScope unit="volume">6</biblScope><biblScope unit="page" from="69">69</biblScope><biblScope unit="page" to="78">78</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="inbook"><monogr><title level="m">Le centre de jour: un cadre de référence</title><editor><orgName>Association des centres d’accueil du Québec (ACAQ)</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">Adult day care for the frail elderly: Outcomes, satisfaction, and cost</title><author><persName><forename type="first">M.</forename><surname>Baumgarten</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Lebel</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Laprise</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Leclerc</surname></persName></author><author><persName><forename type="first">C</forename><surname>Quinn</surname></persName></author></analytic><monogr><title level="j">Journal of Aging and Health</title><imprint><date type="published">2002</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="237">237</biblScope><biblScope unit="page" to="259">259</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">A system of integrated care for older persons with disabilities in Canada: Results from a randomized controlled trial</title><author><persName><forename type="first">F.</forename><surname>Béland</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Bergman</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Lebel</surname></persName></author><author><persName><forename type="first">A. M.</forename><surname>Clarfield</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Tousignant</surname></persName></author><author><persName><forename type="first">A. P.</forename><surname>Contandriopoulos</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology Series A: Biological Sciences and Medical Sciences</title><imprint><date type="published">2006</date><biblScope unit="volume">61</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="367">367</biblScope><biblScope unit="page" to="373">373</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="article"><analytic><title level="a">Des services intégrés pour les personnes âgées fragiles (SIPA): Expérimentation d’un modèle pour le Canada</title><author><persName><forename type="first">F.</forename><surname>Béland</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Bergman</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Lebel</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Dallaire</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Fletcher</surname></persName></author><author><persName><forename type="first">A. P.</forename><surname>Contandriopoulos</surname></persName></author></analytic><monogr><title level="j">Revue canadienne du vieillissement</title><imprint><date type="published">2006</date><biblScope unit="volume">25</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="5">5</biblScope><biblScope unit="page" to="42">42</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Effects of reminiscence and life review on late-life depression: A meta-analysis</title><author><persName><forename type="first">E.</forename><surname>Bohlmeijer</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Smit</surname></persName></author><author><persName><forename type="first">P</forename><surname>Cuijpers</surname></persName></author></analytic><monogr><title level="j">International Journal of Geriatric Psychiatry</title><imprint><date type="published">2003</date><biblScope unit="volume">18</biblScope><biblScope unit="issue">12</biblScope><biblScope unit="page" from="1088">1088</biblScope><biblScope unit="page" to="1094">1094</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="article"><analytic><title level="a">Étude psychométrique de l’Échelle de dépression gériatrique</title><author><persName><forename type="first">P.</forename><surname>Bourque</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Blanchard</surname></persName></author><author><persName><forename type="first">J</forename><surname>Vézina</surname></persName></author></analytic><monogr><title level="j">Revue canadienne du vieillissement</title><imprint><date type="published">1990</date><biblScope unit="volume">9</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="348">348</biblScope><biblScope unit="page" to="355">355</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">A study of the characteristics of the dementia patients and caregivers in dementia-nonspecific adult day care programs</title><author><persName><forename type="first">C. A.</forename><surname>Cefalu</surname></persName></author><author><persName><forename type="first">W. H.</forename><surname>Ettinger</surname></persName></author><author><persName><forename type="first">M</forename><surname>Espeland</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatrics Society</title><imprint><date type="published">1996</date><biblScope unit="volume">44</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="654">654</biblScope><biblScope unit="page" to="659">659</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Health status of participants of adult day care centers</title><author><persName><forename type="first">J.</forename><surname>Cohen-Mansfield</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Lipson</surname></persName></author><author><persName><forename type="first">K. S.</forename><surname>Brenneman</surname></persName></author><author><persName><forename type="first">L. G</forename><surname>Pawlson</surname></persName></author></analytic><monogr><title level="j">Journal of Health and Social Policy</title><imprint><date type="published">2001</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="71">71</biblScope><biblScope unit="page" to="89">89</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="article"><analytic><title level="a">Characteristics of Alzheimer’s versus non-Alzheimer’s adult day care centers</title><author><persName><forename type="first">K. J.</forename><surname>Conrad</surname></persName></author><author><persName><forename type="first">R</forename><surname>Guttman</surname></persName></author></analytic><monogr><title level="j">Research on Aging</title><imprint><date type="published">1991</date><biblScope unit="volume">13</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="96">96</biblScope><biblScope unit="page" to="116">116</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="article"><analytic><title level="a">Classification of adult day care: A cluster analysis of services and activities</title><author><persName><forename type="first">K. J.</forename><surname>Conrad</surname></persName></author><author><persName><forename type="first">S. L.</forename><surname>Hughes</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Hanrahan</surname></persName></author><author><persName><forename type="first">S</forename><surname>Wang</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology</title><imprint><date type="published">1993</date><biblScope unit="volume">48</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="112">S112</biblScope><biblScope unit="page" to="122">122</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="inbook"><monogr><title level="m">Established populations for epidemiological studies of the elderly, resources data book</title><editor><persName><forename type="first">J.</forename><surname>Cornoni-Huntley</surname></persName></editor><editor><persName><forename type="first">D. B.</forename><surname>Brook</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Ostfeld</surname></persName></editor><editor><persName><forename type="first">J. O.</forename><surname>Taylor</surname></persName></editor><editor><persName><forename type="first">R. B</forename><surname>Wallace</surname></persName></editor><imprint><publisher>Cambridge</publisher><date type="published">1986</date><biblScope unit="page" from="86">86</biblScope><biblScope unit="page" to="2443">2443</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="inbook"><monogr><title level="m">Group techniques for program planning: A guide to nominal group and delphi processes</title><editor><persName><forename type="first">A. L.</forename><surname>Delbecq</surname></persName></editor><editor><persName><forename type="first">A. H.</forename><surname>Van De Ven</surname></persName></editor><editor><persName><forename type="first">D. H</forename><surname>Gustavson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Glenview, IL</pubPlace><date type="published">1975</date></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Reliability of the revised functional autonomy measurement system (SMAF) for epidemiological research</title><author><persName><forename type="first">J.</forename><surname>Desrosiers</surname></persName></author><author><persName><forename type="first">G.</forename><surname>Bravo</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Hébert</surname></persName></author><author><persName><forename type="first">N</forename><surname>Dubuc</surname></persName></author></analytic><monogr><title level="j">Age and Ageing</title><imprint><date type="published">1995</date><biblScope unit="volume">24</biblScope><biblScope unit="issue">5</biblScope><biblScope unit="page" from="402">402</biblScope><biblScope unit="page" to="406">406</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Cluster analysis</title><editor><persName><forename type="first">B. S.</forename><surname>Everitt</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Landau</surname></persName></editor><editor><persName><forename type="first">M</forename><surname>Leese</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="inbook"><monogr><title level="m">Multidimensional functional assessment of older adults: The Duke Older American Resources and Services procedures</title><editor><persName><forename type="first">G. G</forename><surname>Fillenbaum</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Hillsdale, NJ</pubPlace><date type="published">1988</date></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">Mini-mental state: A practical method for grading the cognitive state of patients for the clinician</title><author><persName><forename type="first">M. F.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">S. E.</forename><surname>Folstein</surname></persName></author><author><persName><forename type="first">P. R</forename><surname>McHugh</surname></persName></author></analytic><monogr><title level="j">Journal of Psychiatric Research</title><imprint><date type="published">1975</date><biblScope unit="volume">12</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="198">198</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">Reliability and validity of mental status questionnaires in elderly hospitalized patients</title><author><persName><forename type="first">M. D</forename><surname>Foreman</surname></persName></author></analytic><monogr><title level="j">Nursing Research</title><imprint><date type="published">1987</date><biblScope unit="volume">36</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="216">216</biblScope><biblScope unit="page" to="220">220</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="article"><analytic><title level="a">Effectiveness of treatments for depression in older people</title><author><persName><forename type="first">C. J.</forename><surname>Frazer</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Christensen</surname></persName></author><author><persName><forename type="first">K. M</forename><surname>Griffiths</surname></persName></author></analytic><monogr><title level="j">Medical Journal of Australia</title><imprint><date type="published">2005</date><biblScope unit="volume">182</biblScope><biblScope unit="issue">12</biblScope><biblScope unit="page" from="627">627</biblScope><biblScope unit="page" to="632">632</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">Early community-based service utilization and its effects on institutionalization in dementia caregiving</title><author><persName><forename type="first">J. E.</forename><surname>Gaugler</surname></persName></author><author><persName><forename type="first">R. L.</forename><surname>Kane</surname></persName></author><author><persName><forename type="first">R. A.</forename><surname>Kane</surname></persName></author><author><persName><forename type="first">R</forename><surname>Newcomer</surname></persName></author></analytic><monogr><title level="j">The Gerontologist</title><imprint><date type="published">2005</date><biblScope unit="volume">45</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="177">177</biblScope><biblScope unit="page" to="185">185</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">The effectiveness of adult day services for disabled older people</title><author><persName><forename type="first">J. E.</forename><surname>Gaugler</surname></persName></author><author><persName><forename type="first">S. H</forename><surname>Zarit</surname></persName></author></analytic><monogr><title level="j">Journal of Aging and Social Policy</title><imprint><date type="published">2001</date><biblScope unit="volume">12</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="23">23</biblScope><biblScope unit="page" to="47">47</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="inbook"><monogr><title level="m">Adult day care: A basic guide</title><editor><persName><forename type="first">S. M</forename><surname>Goldston</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Owings Mills, MD</pubPlace><date type="published">1989</date></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="article"><analytic><title level="a">Respite programs for caregivers of persons with dementia: A review with practice implications</title><author><persName><forename type="first">B. H.</forename><surname>Gottlieb</surname></persName></author><author><persName><forename type="first">J</forename><surname>Johnson</surname></persName></author></analytic><monogr><title level="j">Aging and Mental Health</title><imprint><date type="published">2000</date><biblScope unit="volume">4</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="119">119</biblScope><biblScope unit="page" to="129">129</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="article"><analytic><title level="a">Les centres de soins de jour pour adultes en Colombie-Britannique: Caractéristiques des clients, raisons de l’aiguillage et raisons de l’omission de se présenter</title><author><persName><forename type="first">G. M.</forename><surname>Gutman</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Milstein</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Killam</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Lewis</surname></persName></author><author><persName><forename type="first">M. J</forename><surname>Hollander</surname></persName></author></analytic><monogr><title level="j">Rapports sur la santé</title><imprint><date type="published">1993</date><biblScope unit="volume">5</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="321">321</biblScope><biblScope unit="page" to="333">333</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Les centres de soins de jour pour adultes en Colombie-Britannique: Modèles, caractéristiques et services</title><author><persName><forename type="first">G. M.</forename><surname>Gutman</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Milstein</surname></persName></author><author><persName><forename type="first">J.</forename><surname>Killam</surname></persName></author><author><persName><forename type="first">D.</forename><surname>Lewis</surname></persName></author><author><persName><forename type="first">M. J</forename><surname>Hollander</surname></persName></author></analytic><monogr><title level="j">Rapports sur la santé</title><imprint><date type="published">1993</date><biblScope unit="volume">5</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="189">189</biblScope><biblScope unit="page" to="207">207</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Le système de mesure de l’autonomie fonctionnelle (SMAF)</title><author><persName><forename type="first">R.</forename><surname>Hébert</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Carrier</surname></persName></author><author><persName><forename type="first">A</forename><surname>Bilodeau</surname></persName></author></analytic><monogr><title level="j">La revue de gériatrie</title><imprint><date type="published">1988</date><biblScope unit="volume">13</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="161">161</biblScope><biblScope unit="page" to="167">167</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">Finding satisfaction in adult day care: Analysis of a national demonstration of dementia care and respite services</title><author><persName><forename type="first">M. E.</forename><surname>Henry</surname></persName></author><author><persName><forename type="first">J. A</forename><surname>Capitman</surname></persName></author></analytic><monogr><title level="j">Journal of Applied Gerontology</title><imprint><date type="published">1995</date><biblScope unit="volume">14</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="302">302</biblScope><biblScope unit="page" to="320">320</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="inbook"><monogr><title level="m">Données démographiques régionales: Estimation de la population des régions métropolitaines de recensement selon le groupe d’âge et le sexe, Québec, au 1er juillet des années 1996 à 2006</title><editor><orgName>Institut de la statistique du Québec</orgName></editor><idno type="uri">http://www.stat.gouv.qc.ca/donstat/societe/demographie/dons_regnl/regional/index.htm</idno><imprint><date type="published">2007</date></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="inbook"><monogr><title level="m">Données générales sur la population du Québec: Population par année d’âge et par sexe, Québec, le 1er juillet 2005 – révisé et Population par année d’âge et par sexe, Québec le 1er juillet 2006 – provisoire</title><editor><orgName>Institut de la statistique du Québec</orgName></editor><idno type="uri">http://www.stat.gouv.qc.ca/donstat/societe/demographie/struc_poplt/index.htm</idno><imprint><date type="published">2006</date></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="article"><analytic><title level="a">Adult day care for dementia: A comparison of programs in Sweden and the United States</title><author><persName><forename type="first">S. E.</forename><surname>Jarrott</surname></persName></author><author><persName><forename type="first">S. H.</forename><surname>Zarit</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Berg</surname></persName></author><author><persName><forename type="first">L</forename><surname>Johansson</surname></persName></author></analytic><monogr><title level="j">Journal of Cross-Cultural Gerontology</title><imprint><date type="published">1998</date><biblScope unit="volume">13</biblScope><biblScope unit="issue">2</biblScope><biblScope unit="page" from="99">99</biblScope><biblScope unit="page" to="108">108</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b33" type="article"><analytic><title level="a">Cognitive stimulation therapy for people with dementia: Cost-effectiveness analysis</title><author><persName><forename type="first">M.</forename><surname>Knapp</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Thorgrimsen</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Patel</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Spector</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Hallam</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Woods</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychiatry</title><imprint><date type="published">2006</date><biblScope unit="volume">188</biblScope><biblScope unit="page" from="574">574</biblScope><biblScope unit="page" to="580">580</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">Alzheimer’s day care: A basic guide</title><editor><persName><forename type="first">D. A.</forename><surname>Lindeman</surname></persName></editor><editor><persName><forename type="first">N. H.</forename><surname>Corby</surname></persName></editor><editor><persName><forename type="first">R.</forename><surname>Downing</surname></persName></editor><editor><persName><forename type="first">B</forename><surname>Sanborn</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">1991</date></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="inbook"><monogr><title level="m">Standards and guidelines for adult day care</title><editor><orgName>National Institute on Adult Day Care</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Washington, DC</pubPlace><date type="published">1990</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">The positive interactions program of activities for people with Alzheimer’s disease</title><editor><persName><forename type="first">S.</forename><surname>Nissenboim</surname></persName></editor><editor><persName><forename type="first">C</forename><surname>Vroman</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Baltimore, MD</pubPlace><date type="published">1998</date></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">Adult day care therapeutic activity manual: A continuous quality improvement approach</title><editor><persName><forename type="first">J. L.</forename><surname>Norman</surname></persName></editor><editor><persName><forename type="first">E. R</forename><surname>Horton</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Gaithersburg, MD</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b38" type="article"><analytic><title level="a">A short portable mental status questionnaire for the assessment of organic brain deficit in elderly patients</title><author><persName><forename type="first">E</forename><surname>Pfeiffer</surname></persName></author></analytic><monogr><title level="j">Journal of the American Geriatrics Society</title><imprint><date type="published">1975</date><biblScope unit="volume">23</biblScope><biblScope unit="issue">10</biblScope><biblScope unit="page" from="433">433</biblScope><biblScope unit="page" to="441">441</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b39" type="article"><analytic><title level="a">Will a healthy lifestyle help prevent Alzheimer’s disease</title><author><persName><forename type="first">S. K.</forename><surname>Pope</surname></persName></author><author><persName><forename type="first">V. M.</forename><surname>Shue</surname></persName></author><author><persName><forename type="first">C</forename><surname>Beck</surname></persName></author></analytic><monogr><title level="j">Annual Review of Public Health</title><imprint><date type="published">2003</date><biblScope unit="volume">24</biblScope><biblScope unit="page" from="111">111</biblScope><biblScope unit="page" to="132">132</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b40" type="inbook"><monogr><title level="m">Les centres de jour aujourd’hui. et demain! Document III: Synthèse des consultations et propositions d’orientations</title><editor><orgName>Regroupement des centres d’hébergement et de soins de longue durée de la région de Montréal</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal</pubPlace><date type="published">2001</date></imprint></monogr></biblStruct><biblStruct xml:id="b41" type="inbook"><monogr><title level="m">Cadre de référence régional pour le programme Centre de jour</title><editor><orgName>Regroupement des centres d’hébergement et de soins de longue durée de la région de Montréal</orgName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Montréal</pubPlace><date type="published">2005</date></imprint></monogr></biblStruct><biblStruct xml:id="b42" type="inbook"><monogr><title level="m">Evaluation of adult day programs in Alberta: Final report</title><editor><persName><forename type="first">J. C.</forename><surname>Ross-Kerr</surname></persName></editor><editor><persName><forename type="first">S.</forename><surname>Warren</surname></persName></editor><editor><persName><forename type="first">M. D</forename><surname>Godkin</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Edmonton</pubPlace><date type="published">1995</date></imprint></monogr></biblStruct><biblStruct xml:id="b43" type="article"><analytic><title level="a">L’utilisation des services de centres de jour par les personnes âgées qui présentent des incapacités</title><author><persName><forename type="first">J.</forename><surname>Savard</surname></persName></author><author><persName><forename type="first">N.</forename><surname>Leduc</surname></persName></author><author><persName><forename type="first">P.</forename><surname>Lebel</surname></persName></author><author><persName><forename type="first">F.</forename><surname>Béland</surname></persName></author><author><persName><forename type="first">H</forename><surname>Bergman</surname></persName></author></analytic><monogr><title level="j">Revue canadienne du vieillissement</title><imprint><date type="published">2007</date><biblScope unit="volume">26</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="255">255</biblScope><biblScope unit="page" to="274">274</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b44" type="article"><analytic><title level="a">Measuring the effectiveness of adult day care as a facility to support family caregivers of dementia patients</title><author><persName><forename type="first">C.</forename><surname>Schacke</surname></persName></author><author><persName><forename type="first">S. R</forename><surname>Zank</surname></persName></author></analytic><monogr><title level="j">Journal of Applied Gerontology</title><imprint><date type="published">2006</date><biblScope unit="volume">25</biblScope><biblScope unit="issue">1</biblScope><biblScope unit="page" from="65">65</biblScope><biblScope unit="page" to="81">81</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="article"><analytic><title level="a">Geriatric depression scale (GDS): Recent evidence and development of a shorter version</title><author><persName><forename type="first">J. I.</forename><surname>Sheikh</surname></persName></author><author><persName><forename type="first">J. A</forename><surname>Yesavage</surname></persName></author></analytic><monogr><title level="j">Clinical Gerontologist</title><imprint><date type="published">1986</date><biblScope unit="volume">5</biblScope><biblScope unit="page" from="165">165</biblScope><biblScope unit="page" to="173">173</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">Reality orientation for dementia</title><author><persName><forename type="first">A. E</forename><surname>Spector</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Orrell</surname></persName></author><author><persName><forename type="first">S. P.</forename><surname>Davies</surname></persName></author><author><persName><forename type="first">B</forename><surname>Woods</surname></persName></author></analytic><monogr><title level="j">Cochrane Database of Systematic Reviews</title><imprint><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="article"><analytic><title level="a">Efficacy of an evidence-based cognitive stimulation therapy programme for people with dementia</title><author><persName><forename type="first">A.</forename><surname>Spector</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Thorgrimsen</surname></persName></author><author><persName><forename type="first">B.</forename><surname>Woods</surname></persName></author><author><persName><forename type="first">L.</forename><surname>Royan</surname></persName></author><author><persName><forename type="first">S.</forename><surname>Davies</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Butterworth</surname></persName></author></analytic><monogr><title level="j">British Journal of Psychiatry</title><imprint><date type="published">2003</date><biblScope unit="volume">183</biblScope><biblScope unit="page" from="248">248</biblScope><biblScope unit="page" to="254">254</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b48" type="article"><analytic><title level="a">Changes in life satisfaction among participants of adult day care and their informal caregivers</title><author><persName><forename type="first">L. A.</forename><surname>Strain</surname></persName></author><author><persName><forename type="first">N. L.</forename><surname>Chappell</surname></persName></author><author><persName><forename type="first">A. A</forename><surname>Blandford</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontological Social Work</title><imprint><date type="published">1987</date><biblScope unit="volume">11</biblScope><biblScope unit="issue">3–4</biblScope><biblScope unit="page" from="115">115</biblScope><biblScope unit="page" to="129">129</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b49" type="inbook"><monogr><title level="m">Adult day care: An evaluation study</title><editor><persName><forename type="first">V.</forename><surname>Strang</surname></persName></editor><editor><persName><forename type="first">J.</forename><surname>Greschuk</surname></persName></editor><editor><persName><forename type="first">K.</forename><surname>McIlveen</surname></persName></editor><editor><persName><forename type="first">R. R.</forename><surname>Gadacz</surname></persName></editor><editor><persName><forename type="first">A</forename><surname>Neufeld</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Edmonton</pubPlace><date type="published">1992</date></imprint></monogr></biblStruct><biblStruct xml:id="b50" type="inbook"><monogr><title level="m">Évaluation du programme québécois des centres de jour</title><editor><persName><forename type="first">A.</forename><surname>Tourigny</surname></persName></editor><editor><persName><forename type="first">L.</forename><surname>Côté</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Laberge</surname></persName></editor><editor><persName><forename type="first">M.</forename><surname>Paradis</surname></persName></editor><editor><persName><forename type="first">P</forename><surname>Joubert</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Québec</pubPlace><date type="published">1993</date></imprint></monogr></biblStruct><biblStruct xml:id="b51" type="inbook"><monogr><title level="m">Planning and managing adult day care: Pathways to success</title><editor><persName><forename type="first">L. C.</forename><surname>Webb</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Owings Mills, MD</pubPlace><date type="published">1989</date></imprint></monogr></biblStruct><biblStruct xml:id="b52" type="article"><analytic><title level="a">Nursing home placement, day care use, and cognitive decline in Alzheimer’s disease</title><author><persName><forename type="first">R. S.</forename><surname>Wilson</surname></persName></author><author><persName><forename type="first">J. J.</forename><surname>McCann</surname></persName></author><author><persName><forename type="first">Y.</forename><surname>Li</surname></persName></author><author><persName><forename type="first">N. T.</forename><surname>Aggarwal</surname></persName></author><author><persName><forename type="first">D. W.</forename><surname>Gilley</surname></persName></author><author><persName><forename type="first">D. A</forename><surname>Evans</surname></persName></author></analytic><monogr><title level="j">American Journal of Psychiatry</title><imprint><date type="published">2007</date><biblScope unit="volume">164</biblScope><biblScope unit="issue">6</biblScope><biblScope unit="page" from="910">910</biblScope><biblScope unit="page" to="915">915</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b53" type="article"><analytic><title level="a">Participation in cognitively stimulating activities and risk of incident Alzheimer disease</title><author><persName><forename type="first">R. S.</forename><surname>Wilson</surname></persName></author><author><persName><forename type="first">C. F.</forename><surname>Mendes de Leon</surname></persName></author><author><persName><forename type="first">L. L.</forename><surname>Barnes</surname></persName></author><author><persName><forename type="first">J. A.</forename><surname>Schneider</surname></persName></author><author><persName><forename type="first">J. L.</forename><surname>Bienias</surname></persName></author></analytic><monogr><title level="j">Journal of the American Medical Association</title><imprint><date type="published">2002</date><biblScope unit="volume">287</biblScope><biblScope unit="page" from="742">742</biblScope><biblScope unit="page" to="748">748</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b54" type="article"><analytic><title level="a">Reminiscence therapy for dementia. [update of Cochrane Database Syst Rev. 2000 ;(4):CD001120 ; PMID: 11034700]</title><author><persName><forename type="first">B.</forename><surname>Woods</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Spector</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Jones</surname></persName></author><author><persName><forename type="first">M.</forename><surname>Orrell</surname></persName></author><author><persName><forename type="first">S</forename><surname>Davies</surname></persName></author><ref>CD001120</ref></analytic><monogr><title level="j">The Cochrane Database of Systematic Reviews</title><imprint><date type="published">2005</date><biblScope unit="issue">2</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b55" type="article"><analytic><title level="a">Evaluation of geriatric day care units: Effects on patients and caregivers</title><author><persName><forename type="first">S.</forename><surname>Zank</surname></persName></author><author><persName><forename type="first">C.</forename><surname>Schacke</surname></persName></author></analytic><monogr><title level="j">Journal of Gerontology, Serie B: Psychological Sciences and Social Sciences</title><imprint><date type="published">2002</date><biblScope unit="volume">57</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="348">348</biblScope><biblScope unit="page" to="357">357</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b56" type="article"><analytic><title level="a">Stress reduction for family caregivers: Effects of adult day care use</title><author><persName><forename type="first">S. H.</forename><surname>Zarit</surname></persName></author><author><persName><forename type="first">M. A.</forename><surname>Stephens</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Townsend</surname></persName></author><author><persName><forename type="first">R</forename><surname>Greene</surname></persName></author></analytic><monogr><title level="j">Journals of Gerontology, Serie B: Psychological Sciences and Social Sciences</title><imprint><date type="published">1998</date><biblScope unit="volume">53</biblScope><biblScope unit="page" from="267">S267</biblScope><biblScope unit="page" to="277">277</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b57" type="article"><analytic><title level="a">Patterns of adult day service use by family caregivers: A comparison of brief versus sustained use</title><author><persName><forename type="first">S. H.</forename><surname>Zarit</surname></persName></author><author><persName><forename type="first">M. A. P.</forename><surname>Stephens</surname></persName></author><author><persName><forename type="first">A.</forename><surname>Townsend</surname></persName></author><author><persName><forename type="first">R.</forename><surname>Greene</surname></persName></author><author><persName><forename type="first">S. A</forename><surname>Leitsch</surname></persName></author></analytic><monogr><title level="j">Family Relations: Interdisciplinary Journal of Applied Family Studies</title><imprint><date type="published">1999</date><biblScope unit="volume">48</biblScope><biblScope unit="issue">4</biblScope><biblScope unit="page" from="355">355</biblScope><biblScope unit="page" to="361">361</biblScope></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>

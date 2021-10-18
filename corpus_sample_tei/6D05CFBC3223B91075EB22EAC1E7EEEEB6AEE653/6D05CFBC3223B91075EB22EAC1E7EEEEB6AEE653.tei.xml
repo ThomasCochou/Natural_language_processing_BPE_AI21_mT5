@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">Les Démêlés de Merleau-Ponty avec Freud: des pulsions à une psychanalyse de la Nature</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© The Author 2009. Published by Oxford University Press on behalf of the Society for French Studies. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="Copyright" when="2009">2009</date>
+            <date type="published">2009</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">Les Démêlés de Merleau-Ponty avec Freud: des pulsions à une psychanalyse de la Nature</title>
+                  <author xml:id="author-0000">
+                     <persName>
+                        <surname>Beaulieu</surname>
+                        <forename type="first">Alain</forename>
+                     </persName>
+                     <affiliation>
+                        <orgName type="institution">Université Laurentienne (Canada)</orgName>
+                     </affiliation>
+                     <affiliation role="corresp">
+                        <email>abeaulieu@laurentian.ca</email>
+                     </affiliation>
+                  </author>
+                  <idno type="istex">6D05CFBC3223B91075EB22EAC1E7EEEEB6AEE653</idno>
+                  <idno type="ark">ark:/67375/HXZ-FV16P324-Z</idno>
+                  <idno type="DOI">10.1093/fs/knp065</idno>
+                  <idno type="publisher-id">knp065</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">French Studies</title>
+                  <idno type="publisher-id">frestu</idno>
+                  <idno type="hwp">frestu</idno>
+                  <idno type="pISSN">0016-1128</idno>
+                  <idno type="eISSN">1468-2931</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2009</date>
+                     <biblScope unit="vol">63</biblScope>
+                     <biblScope unit="issue">3</biblScope>
+                     <biblScope unit="page" from="295">295</biblScope>
+                     <biblScope unit="page" to="307">307</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <head>Résumé</head>
+            <p>Avec la phénoménologie, la psychanalyse constitue l'autre point d'entrée dans l'œuvre de Maurice Merleau-Ponty qui demeure sans doute le seul philosophe français d'importance à avoir entretenu un dialogue ininterrompu avec la pensée freudienne. Merleau-Ponty n'adopte pas la perspective clinicienne et son point de vue sur la psychanalyse n'est pas toujours orthodoxe. C'est une lecture tantôt critique, tantôt intempestive, de la démarche freudienne à laquelle il nous convie. Le nouveau défi consiste à soutenir que la phénoménologie husserlienne et la psychanalyse freudienne n'entretiennent qu'un minimum de contradictions, et à la limite qu'elles abordent les mêmes domaines d'étude à travers une problématisation incessante de la conscience. Nous verrons comment le lexique merleau-pontien se développe au contact de la psychanalyse (pulsion, ambiguïté, chiasma, investissement, culture–nature, etc.) et comment aussi la psychanalyse permet à Merleau-Ponty de faire avancer ses thèses phénoménologiques (monde, autrui, corps propre, perception, chair, etc.). Pour ce faire, nous analyserons la percée des années 1940 (distinction entre pulsions et instincts), ainsi que les recherches des années d'enseignement à la Sorbonne (psychologie de l'enfant) et au Collège de France (psychanalyse de la nature).</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="heading">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="s1">
+            <head>Introduction</head>
+            <p>Plusieurs commentaires ont analysé des aspects spécifiques des rapports de Maurice Merleau-Ponty au freudisme.<hi rend="superscript">
+                  <ref type="fn" target="#FN1">1</ref>
+               </hi> Nous souhaitons ici donner une cohérence à l'entièreté du parcours de Merleau-Ponty en la situant dans le contexte de la psychanalyse freudienne. Si la tentative de renouvellement de la phénoménologie à la lumière des thèses psychanalytiques, de même que la réforme de la théorie des pulsions constituent des aspects relativement bien connus de la pensée de Merleau-Ponty, il n'en va pas de même de ses études consacrées à la psychologie de l'enfant et à la psychanalyse de la nature. En effet, les cours de Merleau-Ponty sur l'enfant demeurent le plus souvent, et injustement, relégués au second plan par la littérature secondaire, tandis qu'on commence à peine à reconnaître toute la richesse de l'invention merleau-pontienne d'une psychanalyse de la nature. C'est en vue de combler la lacune reliée à la fragmentation de la compréhension des liens de la pensée de Sigmund Freud au travail de Merleau-Ponty que nous analyserons cette dernière dans une perspective holistique qui inclut la phénoménologie, les pulsions, l'enfant et la nature. Ce qui permettra de dégager une nouvelle unité dans l'œuvre de Merleau-Ponty.</p>
+         </div>
+         <div xml:id="s2">
+            <head>Phénoménologie et psychanalyse</head>
+            <p>Merleau-Ponty avoue candidement: ‘je ne suis ni analysé, ni analyste.’<hi rend="superscript">
+                  <ref type="fn" target="#FN2">2</ref>
+               </hi> Son intérêt pour la psychanalyse demeure cependant constant, mais aussi étrangement extérieur à elle en étant fortement marqué par la phénoménologie husserlienne.<hi rend="superscript">
+                  <ref type="fn" target="#FN3">3</ref>
+               </hi> On ne saurait expliquer l'attrait simultané de Merleau-Ponty pour Edmund Husserl et Freud en se contentant de rappeler la fameuse ‘année 1900’ qui voit paraître les <hi rend="italic">Logische Untersuchungen</hi> de Husserl et la <hi rend="italic">Traumdeutung</hi> de Freud, ni même en invoquant les similarités dans les parcours de Husserl et Freud qui les amènent à délaisser leur formation ‘objectiviste’ (mathématiques pour l'un, médecine biologique pour l'autre) à la faveur de l'exploration d'un ‘autre monde’ sans attache objective (phénoménal pour le premier, psychique pour le second). De plus, on ne peut inscrire Merleau-Ponty dans le courant de la psychiatrie phénoménologique qui a été le destin dominant de la rencontre entre la phénoménologie et la psychanalyse. L'intérêt de Merleau-Ponty pour la psychanalyse n'est pas simplement d'ordre historico-théorique pas plus qu'il ne débouche sur un art thérapeutique. Le défi nouveau consiste plutôt à soutenir que la phénoménologie et la psychanalyse n'entretiennent qu'un minimum de contradictions, et à la limite qu'elles abordent le même domaine d'étude à travers une problématisation incessante de la conscience.</p>
+            <p>Comme on le sait, l'inconscient ne joue aucun rôle dans la phénoménologie husserlienne où tout est en quelque sorte donné à la conscience. Conformément au ‘principe des principes’,<hi rend="superscript">
+                  <ref type="fn" target="#FN4">4</ref>
+               </hi> tout ce qui apparaît originairement à l'intuition est une source pour la connaissance. Puisqu'on ne peut avoir un accès direct aux contenus non conscients (compris en un sens freudien), ceux-ci ne peuvent être connus du phénoménologue. Ce qui n'empêche pas Merleau-Ponty de tenter une interprétation psychanalytique du travail husserlien d'introspection en tirant de nouvelles conséquences du fait que les phénomènes soient, comme le souligne Husserl, ‘caractérisés comme irréels’ et que ‘la “fiction” constitue l’élément vital de la phénoménologie'.<hi rend="superscript">
+                  <ref type="fn" target="#FN5">5</ref>
+               </hi> Husserl a toujours distingué l'accès au monde phénoménal de tout psychologisme non rigoureux et de toute ‘construction psychique’ qu'il renvoie à l'arbitraire pseudo-scientifique.<hi rend="superscript">
+                  <ref type="fn" target="#FN6">6</ref>
+               </hi> Et pourtant l'investigation freudienne des productions inconscientes, non totalement issues de la conscience volontariste, pourrait bien reconduire à un tel niveau d'irréalité fondamentale. C'est du moins le pari que relève Merleau-Ponty en pensant l'inconscient comme une non présence irréductible où s'entremêlent le réel et l'imaginaire.<hi rend="superscript">
+                  <ref type="fn" target="#FN7">7</ref>
+               </hi>
+            </p>
+            <p>Les écrits de Merleau-Ponty opèrent un double geste audacieux: rendre le freudisme compatible avec le projet husserlien visant à décrire le monde ‘fantasmagorique’ des phénomènes, tout en refusant d'adhérer à la partition entre l'inconscient et le conscient qui constituent non pas deux ‘scènes’, mais plutôt les deux faces d'une même médaille. Ce qui ne peut se réaliser qu'à condition que la phénoménologie perde son statut de ‘science rigoureuse’ où la conscience entre en contact avec des ‘intuitions donatrices originaires’. Il y a une sorte de synonymie entre, d'une part, l'identité Husserl–Freud produite par Merleau-Ponty, et d'autre part, l'affirmation selon laquelle percevoir n'est pas connaître. Le croisement des pensées de Husserl et Freud ouvre, en outre, sur une zone de brouillage de la conscience désormais dépourvue de toute transparence à elle-même. Une série d'analyses novatrices naît de cette rencontre qui permet à Merleau-Ponty d'étudier les états où la conscience, sans être dépassée (Martin Heidegger), demeure néanmoins privée de toute substance prédéfinie. Ces analyses concernent l'enfance, l'univers du sommeil et du rêve, la relation avec la corporéité, l'entre-appartenance avec autrui, la perception hallucinée, l'intégration dans la nature, etc., bref tous les états de présence–absence à soi où, fait capital, subsiste l'attache à l'expérience commune du monde. Freud n'a cessé de situer son questionnement à la frontière entre les gestes les plus familiers et la plus parfaite étrangeté à soi. En ce sens, il serait la source d'inspiration majeure pour Merleau-Ponty. Mais voilà que Merleau-Ponty décèle une logique similaire à l'œuvre chez Husserl. Ce qui l'amène à provoquer l'histoire des idées jusqu'à associer un Freud ‘dé-clinicisé’ au mouvement phénoménologique.</p>
+            <p>On ne peut terminer cette brève introduction sans mentionner deux autres éléments marquants dans le rapport de Merleau-Ponty aux psychanalystes. Tout d'abord, on doit à Merleau-Ponty d'avoir introduit à la francophonie les importants travaux de Mélanie Klein. Non seulement cette dernière a-t-elle été une référence de premier ordre dans les cours de Merleau-Ponty consacrés à la psychologie des enfants (nous y reviendrons), mais elle lui fournit aussi la distinction centrale entre ambivalence et ambiguïté,<hi rend="superscript">
+                  <ref type="fn" target="#FN8">8</ref>
+               </hi> c'est-à-dire entre l'expérience de la disjonction exclusive (ex.: moi–mère) et l'expérience fusionnelle des opposés qui demeure pour Merleau-Ponty constitutive du monde. Et deuxièmement, il faut rappeler la profonde amitié qui a lié (tardivement) Merleau-Ponty à Jacques Lacan. Sur le plan biographique, on raconte que Lacan aurait versé des larmes devant la sépulture de Merleau-Ponty en 1961 alors qu'il serait demeuré insensible à la mort de son propre père survenue quelques mois plus tôt.<hi rend="superscript">
+                  <ref type="fn" target="#FN9">9</ref>
+               </hi> Sur un plan plus théorique, outre le fait que Lacan ait consacré quelques textes à Merleau-Ponty,<hi rend="superscript">
+                  <ref type="fn" target="#FN10">10</ref>
+               </hi> il faut signaler que le modèle merleau-pontien de réversibilité du dedans–dehors, envers–endroit, senti–sentant, etc. a été une source d'inspiration pour la topologie lacanienne des années 1960. En ce sens, les paradoxes lacaniens qui font émerger tout un réseau de contradictions apparentes (‘ce qu'on regarde, c'est ce qui ne peut pas se voir’, ‘il n'y a pas de rapport sexuel’, ‘aimer c'est donner ce que l'on n'a pas’, ‘l'objet <hi rend="italic">a</hi> se manifeste dans son absence’, etc.) peuvent être lus comme des prolongements de la pensée merleau-pontienne. Ajoutons toutefois que Merleau-Ponty a toujours résisté à la thèse de Lacan selon laquelle l'inconscient serait structuré comme un langage rendu transparent et intelligible par la vision du psychanalyste.<hi rend="superscript">
+                  <ref type="fn" target="#FN11">11</ref>
+               </hi> Pour Merleau-Ponty, le primat est toujours accordé à la perception ‘semi-consciente’ au détriment des idéaux de transparence et d'intelligibilité.<hi rend="superscript">
+                  <ref type="fn" target="#FN12">12</ref>
+               </hi>
+            </p>
+         </div>
+         <div xml:id="s3">
+            <head>Pulsions et instincts (les années 1940)</head>
+            <p>L'entrée de Merleau-Ponty sur la scène philosophique est marquée, entre autres, par un retour à Freud visant à neutraliser les dérives béhavioristes qui réduisent le fonctionnement de la psychè humaine à une série d'habitudes empiriquement apprises.<hi rend="superscript">
+                  <ref type="fn" target="#FN13">13</ref>
+               </hi> Pensons ici aux travaux réalisés dans la lignée du pavlovien John Watson. Freud peut nous aider, croit Merleau-Ponty, à penser le comportement autrement qu'en appliquant la grille behavioriste qui explique le comportement humain en termes de conditionnement et d'automatisme. Délivrer l'existence de la mécanique béhavioriste revient aussi à clarifier la distinction entre instinct (<hi rend="italic">Instinkt</hi>) et pulsion (<hi rend="italic">Trieb</hi>) qui a animé une partie des recherches freudiennes et continue encore aujourd'hui à alimenter les discussions. Toute la question consiste à savoir si ce qui habite l'inconscient a une nature biologique. Si c'est le cas, la réalité humaine serait tout entière somatique et il n'y aurait rien de ‘métaphysique’ en l'homme, rien au-delà ou en-deça du corps physique. Dans cette optique matérialiste (par rapport à laquelle Merleau-Ponty prend ses distances, comme nous le verrons), on décrit les motivations dans les termes d'une physiologie des instincts et rien d'essentiel ne distingue alors le comportement humain de celui de l'animal. Si toutefois on pose l'existence d'une poussée irréductible à la mécanique corporelle des réflexes, alors intervient la notion ambiguë de ‘pulsion’ située à mi-chemin du spirituel et du somatique. Il s'agit toutefois d'une convention à laquelle Freud lui-même, et quelques-uns de ses traducteurs, ne demeurent pas toujours fidèles. En effet, dans une lettre à Wilhelm Fliess datant du 15 octobre 1897, Freud utilise le terme <hi rend="italic">Instinkt</hi> pour décrire la poussée humaine de procréation, et la <hi rend="italic">Standard Edition</hi> des œuvres de Freud traduit indistinctement <hi rend="italic">Instinkt</hi> (dont on ne trouve qu'une demi-douzaine d'occurrences dans l'œuvre freudienne) et <hi rend="italic">Trieb</hi> par l'anglais <hi rend="italic">instinct</hi>.<hi rend="superscript">
+                  <ref type="fn" target="#FN14">14</ref>
+               </hi> Peut-être aurait-il mieux fallu créer le néologisme de <hi rend="italic">pulsion</hi> (inexistant dans la langue anglaise) ou rendre le sens de poussée inhérent au verbe <hi rend="italic">treiben</hi> (pousser) par <hi rend="italic">drive</hi> qui, en anglais, n'échappe que secondairement et métaphoriquement à l'idée d'une action extérieure (<hi rend="italic">to drive a car</hi>) ou à celle d'une contrainte (<hi rend="italic">you drive me crazy</hi>). Ce qui dans tous les cas aurait cependant pour effet d'altérer la pensée freudienne.</p>
+            <p>Dans ses travaux des années 1940, Merleau-Ponty en vient graduellement à réaffirmer dans ses propres termes l'opposition entre instinct et pulsion.<hi rend="superscript">
+                  <ref type="fn" target="#FN15">15</ref>
+               </hi> Ce qui lui permet de reformuler la réponse freudienne apportée à la question du rapport entre la relation entre le corps et l'esprit en s'inspirant librement de la distinction husserlienne établie entre le corps physique (<hi rend="italic">Körper</hi>) et le corps vivant ou corps propre (<hi rend="italic">Leib</hi>).<hi rend="superscript">
+                  <ref type="fn" target="#FN16">16</ref>
+               </hi> Le texte de référence issu du corpus freudien est ici ‘Pulsions et destins des pulsions’.<hi rend="superscript">
+                  <ref type="fn" target="#FN17">17</ref>
+               </hi> Au début de cet essai, Freud distingue excitations pulsionnelles et excitations physiologiques. Les deux types de stimulations ont la capacité d'agir sur le psychique, mais seules les excitations pulsionnelles trouvent leur origine à l'intérieur de l'organisme. Les pulsions (de vie, de mort, sexuelles, d'agression, etc.) ne proviennent pas du monde externe (ex.: un objet de désir) et leur satisfaction ne peut jamais être atteinte de manière définitive. Contrairement à l'excitation physiologique qui peut être satisfaite (temporairement à tout le moins) par la force de l'instinct (ex.: combler la faim, la soif, etc.), l'excitation pulsionnelle ne peut jamais être assouvie complètement, bien que la psychanalyse freudienne puisse exercer sur elle un contrôle partiel. La pulsion est un concept-limite ayant une double nature psychique et somatique qui impose un plus grand défi à l'analyse que le simple instinct biologique. Non seulement les pulsions sont-elles complexes par leur source interne et leur caractère psychosomatique, mais elles le sont également par le destin qui les gouverne et qui peut les amener à être renversées en leur contraire, retournées sur l'objet de désir, refoulées ou sublimées.<hi rend="superscript">
+                  <ref type="fn" target="#FN18">18</ref>
+               </hi> L'une des tâches du psychanalyste consiste précisément à identifier l'alliance psychosomatique toujours particulière des pulsions et à en sonder les métamorphoses.</p>
+            <p>Un danger subsiste, cependant, qui est de confondre la doctrine des pulsions avec une forme de mécanique causale téléologiquement orientée. Cette confusion est issue d'une lecture trop rapide du texte freudien qui explique le plus souvent, il est vrai, le comportement pulsionnel en termes d'échange énergétique (investissement, résistance, transfert, refoulement et retour du refoulé, transformation du latent en manifeste, etc.). Si, pour Merleau-Ponty, Freud est un allié de premier ordre pour comprendre la structure du comportement, il faut aussi montrer que cette énergétique demeure irréductible à une physique du corps. Ce dont discute Merleau-Ponty dans une section de <hi rend="italic">La Structure du comportement</hi> intitulée ‘Contre la pensée causale en psychologie: interprétation du Freudisme en termes de structure’. Il souligne d'emblée les équivoques possibles inhérentes à la doctrine freudienne des pulsions: ‘Ce que nous voudrions nous demander […] c'est si les conflits mêmes dont il [Freud] parle, les mécanismes psychologiques qu'il a décrits, la formation des complexes, le refoulement, la régression, la résistance, le transfert, la compensation, la sublimation exigent vraiment le système de notions causales par lequel il les interprète.’<hi rend="superscript">
+                  <ref type="fn" target="#FN19">19</ref>
+               </hi> La psychanalyse mobilise-t-elle une grille interprétative ‘scientifiquement’ conçue? Y a-t-il une correspondance entre chaque traumatisme et une attitude déterminée? Y a-t-il un symbolisme prédéfini qui domine le monde des rêves? Bien entendu, Merleau-Ponty souhaite sauver le freudisme de ce type d'interprétation objectiviste qui réduit la psychè humaine à une simple mécanique. La vie psychique n'obéit pas à la même logique de fonctionnement que la réalité somatique. Un détour par les ‘métaphores énergétiques’<hi rend="superscript">
+                  <ref type="fn" target="#FN20">20</ref>
+               </hi> est inévitable, mais ce ne sont précisément que des métaphores et elles ne sauraient en aucun cas déboucher sur une ‘science exacte’ de l'homme. En d'autres termes, l'existence échappe à la connaissance: les énergies pulsionnelles se laissent saisir qualitativement sans se laisser expliquer à la manière d'une réalité physique. L'intuition demeure donc toujours première par rapport à l'idéal de mesure. Dans <hi rend="italic">La Structure du comportement</hi>, Merleau-Ponty écorche au passage Watson et la méthode béhavioriste en soulignant bien le fait que le comportement échappe au mécanisme et au finalisme.<hi rend="superscript">
+                  <ref type="fn" target="#FN21">21</ref>
+               </hi> Mais il ne parvient pas à développer une alternative valable quant au mode particulier de fonctionnement et à la compréhension des ambiguïtés de l'existence. Ce qu'il fera par la suite à l'aide de la doctrine husserlienne de l'incarnation afin de libérer définitivement l'énergétique freudienne des positions physiologistes avec lesquelles elle risque d'être confondue. Il ne s'agit pas pour Merleau-Ponty, comme le fera Paul Ricoeur, d'assimiler le discours psychanalytique sur l'‘appareil psychique' à une herméneutique.<hi rend="superscript">
+                  <ref type="fn" target="#FN22">22</ref>
+               </hi> Ce type d'approche compréhensive qui considère la psychanalyse comme un art de l'interprétation demeure, pour Merleau-Ponty, trop abstrait parce que purement discursif et désincarné. La doctrine freudienne est à la fois autre chose et plus qu'un déchiffrage infini de symboles. Afin de surmonter le modèle de l'échange économique, il est impératif pour Merleau-Ponty de maintenir une attache avec l'expérience de la corporéité charnelle.</p>
+            <p>Dans le chapitre de <hi rend="italic">Phénoménologie de la perception</hi> intitulé ‘Le corps comme être sexué’, Merleau-Ponty pousse sa réflexion encore plus loin en montrant comment Freud peut être considéré comme un allié dans son entreprise phénoménologique. Il reprend certains acquis antérieurs et innove par rapport à ses anciens thèmes de réflexion en abordant de front la question de la sexualité: ‘Chez Freud lui-même, le sexuel n'est pas le génital […] la libido n'est pas un instinct, c'est-à-dire une activité orientée naturellement vers des fins déterminées.’<hi rend="superscript">
+                  <ref type="fn" target="#FN23">23</ref>
+               </hi> Merleau-Ponty considère désormais la sexualité décrite par Freud comme une expérience existentielle, vitale et atmosphérique. ‘Prise ainsi, c'est-à-dire comme atmosphère ambiguë, la sexualité est coextensive à la vie. Autrement dit, l’équivoque est essentielle à l'existence humaine.'<hi rend="superscript">
+                  <ref type="fn" target="#FN24">24</ref>
+               </hi> Les analyses freudiennes des rêves, des gestes, des paroles, des attitudes, des symptômes, etc. reconduisent invariablement à la vie sexuelle. Mais la réalité de ces ‘objets’ d'analyse, tout comme ce vers quoi ils sont orientés, ne se laissent approcher que par une sorte d'intuition constituante. C'est pourquoi Merleau-Ponty n'hésite pas à affirmer: ‘on aurait tort de croire que la psychanalyse […] s'oppose à la méthode phénoménologique.’<hi rend="superscript">
+                  <ref type="fn" target="#FN25">25</ref>
+               </hi> En outre, Merleau-Ponty présente la doctrine freudienne comme venant ajouter une dimension aux descriptions husserliennes du corps vivant (<hi rend="italic">Leib</hi>). L'aspect sexuel de l'existence, refoulé ou occulté par Husserl, est pleinement assumé par Merleau-Ponty qui demeure ainsi fidèle à ses deux maîtres à penser tout en ouvrant de nouvelles avenues à leur expérience respective du corporel en faisant de la sexualité une modalité du corps propre. En tant qu'expression d'une manière d'être-au-monde, la sexualité n'est pas considérée par Merleau-Ponty comme une relation entre deux corps physiques, mais plutôt, pour reprendre une notion freudienne réhabilitée par Merleau-Ponty, comme un investissement originaire et désirant (désir entendu en un sens classique associé au manque) entre les êtres et le monde qui leur apporte une valeur ou une signification libidinale.<hi rend="superscript">
+                  <ref type="fn" target="#FN26">26</ref>
+               </hi> Merleau-Ponty ouvre ainsi la perspective d'une érotisation du monde où les regards s'interpénètrent à la manière des fils qui font tenir un tissu. ‘Il faut’, écrit Merleau-Ponty, ‘qu'il y ait un Eros ou une Libido qui anime un monde original.’<hi rend="superscript">
+                  <ref type="fn" target="#FN27">27</ref>
+               </hi> Bref, la description du monde sexuel et la variété des manières d'exister qui le compose font partie intégrante d'une phénoménologie de la perception.</p>
+         </div>
+         <div xml:id="s4">
+            <head>Psychologie de l'enfant (les années Sorbonne: 1949–52)</head>
+            <p>Avant d'être élu au Collège de France, Merleau-Ponty a occupé la chaire de psychologie de l'enfant et de pédagogie à la Sorbonne.<hi rend="superscript">
+                  <ref type="fn" target="#FN28">28</ref>
+               </hi> Les sources utilisées par Merleau-Ponty dans ces cours sont nombreuses. Elles vont des psychologues et psychanalystes (Freud, Jean Piaget, Klein, Lacan, etc.) jusqu'aux phénoménologues (Husserl, Heidegger, Max Scheler, etc.) en passant par les anthropologues, les linguistes et les ‘gestaltistes’. Les thèmes de prédilection développés par Merleau-Ponty dans ses ouvrages antérieurs (autrui, langage, perception, corps propre, etc.) sont revisités et appliqués au monde de l'enfance, c'est-à-dire à ce stade préindividuel, prélangagier et fusionnel où la conscience est, plus qu'à aucun autre moment de l'existence, en processus de formation. On reconnaît évidemment les préoccupations de Merleau-Ponty pour l'univers de la préobjectivité où les identités (de soi, des autres, des choses, etc.) entrent dans une zone d'indétermination. À ce titre, l'expérience du monde chez l'enfant devient paradigmatique pour les descriptions phénoménologiques. Ce ne sont pas les philosophes de formation devenus phénoménologues qui se voient attribuer le titre de ‘Fonctionnaires de l'Humanité’,<hi rend="superscript">
+                  <ref type="fn" target="#FN29">29</ref>
+               </hi> et encore moins les Présocratiques qui fournissent, selon la thèse heideggerienne bien connue, l'exemple oublié d'une pensée authentique. C'est plutôt l'enfant avec ses perceptions singulières, présent de manière universelle en l'homme, qui devient la référence pour l'expérience phénoménologique. Ce privilège accordé à l'enfance durant la période 1949–52 est clairement affirmé ici: ‘L'enfant n'est pas […] un “adulte en miniature”, avec une conscience semblable à celle de l'adulte, mais inachevée, imparfaite […] L'enfant possède un autre équilibre, il faut traiter la conscience enfantine comme un phénomène positif.’<hi rend="superscript">
+                  <ref type="fn" target="#FN30">30</ref>
+               </hi> Ailleurs il ajoute: ‘Quand un enfant commence à parler, son langage est beaucoup plus intéressant et significatif que lorsque nous parlons avec un système de mots et un système d'idées déjà établis.’<hi rend="superscript">
+                  <ref type="fn" target="#FN31">31</ref>
+               </hi>
+            </p>
+            <p>Plusieurs descriptions surprenantes dans les cours de Merleau-Ponty à la Sorbonne, comme par exemple celles qui concernent le rapport phénoménologique de la femme enceinte à son enfant, valent le détour.<hi rend="superscript">
+                  <ref type="fn" target="#FN32">32</ref>
+               </hi> Nous nous limiterons cependant à quelques éléments nouveaux concernant Freud. Fait unique dans l'itinéraire merleau-pontien, on y retrouve certaines positions critiques à l'égard du freudisme. Merleau-Ponty juge par exemple comme ‘insuffisantes’, ‘inauthentiques’ et ‘non convaincantes’ les ‘hypothèses’ freudiennes relatives au totémisme présentées dans <hi rend="italic">Totem et tabou</hi>. Que le totémisme s'explique par un parricide originaire, voilà ce qui ne repose sur ‘aucune preuve historique’.<hi rend="superscript">
+                  <ref type="fn" target="#FN33">33</ref>
+               </hi> À maintes reprises, Merleau-Ponty reprend cette critique en opposant à Freud certaines études anthropologiques qui lui permettent d'invalider l'universalité supposée du complexe d'Œdipe.<hi rend="superscript">
+                  <ref type="fn" target="#FN34">34</ref>
+               </hi> Pour ce faire, Merleau-Ponty s'appuie notamment sur les analyses du célèbre anthropologue Bronislaw Malinowski et considère le complexe d'Œdipe comme un produit de la civilisation occidentale difficilement transposable aux autres cultures ou au reste de l'humanité.</p>
+            <p>À cet argument critique s'ajoute le fait que la psychanalyse freudienne, même si elle considère comme cruciales les premières années de la vie, a moins cherché à comprendre la réalité de l'enfance pour elle-même qu'à ouvrir des voies de guérison de la psychè adulte<hi rend="superscript">
+                  <ref type="fn" target="#FN35">35</ref>
+               </hi> (ce que Freud pourrait admettre). Le fonctionnement psychologique, c'est-à-dire les mécanismes de censure, la verbalisation des conflits, la proximité à l'inconscient, les rapports entre le réel et l'imaginaire, etc., sont pourtant bien différents chez l'enfant et chez l'adulte (ce que Klein et d'autres ont perçu mieux que Freud). Merleau-Ponty commente abondamment ces différences. En somme, le freudisme s'adresse en premier lieu à l'adulte occidental et il demeure moins efficace pour comprendre le vécu de l'enfance de même que celui des cultures extra-occidentales.</p>
+            <p>Merleau-Ponty juge la doctrine freudienne comme incomplète et imparfaite. Toutefois, en marge de ces critiques, il maintient un profond attachement à l'inventeur de la psychanalyse. Les vues freudiennes sur le totémisme paraissent certes dogmatiques et naïves, mais Merleau-Ponty se montre élogieux devant l'ouverture par Freud d'une nouvelle voie de réflexion sur la culture. Direction que les anthropologues ont pu corriger ou améliorer. ‘Malgré son dogmatisme’, écrit Merleau-Ponty, ‘Freud a le mérite de poser des amorces; il a eu l'intuition de ce qui, dans les phénomènes pathologiques, se rapprochait des faits sociologiques.’<hi rend="superscript">
+                  <ref type="fn" target="#FN36">36</ref>
+               </hi> Merleau-Ponty relativise aussi sa critique en soulignant que, même si sa distinction entre psychologie de l'enfant et psychologie de l'adulte souffre d'un manque de nuance, Freud demeure ‘<hi rend="italic">l'un des premiers à prendre l'enfant au sérieux</hi>’.<hi rend="superscript">
+                  <ref type="fn" target="#FN37">37</ref>
+               </hi> En outre, Merleau-Ponty réactualise ses anciennes thèses qui font de Freud un penseur de l'incarnation ayant rompu avec la perspective physiologique tout en proposant une alternative au causalisme et au finalisme afin de mieux approcher l'existence.<hi rend="superscript">
+                  <ref type="fn" target="#FN38">38</ref>
+               </hi>
+            </p>
+            <p>Un texte de 1951 intitulé ‘L'Homme et l'adversité’<hi rend="superscript">
+                  <ref type="fn" target="#FN39">39</ref>
+               </hi> résume assez bien la position de Merleau-Ponty par rapport à Freud durant les années d'enseignement à la Sorbonne. Tous les thèmes principaux du freudisme merleau-pontien s'y trouvent rassemblés, notamment en ce qui concerne la rupture avec la théorie des instincts à la faveur d'une approche plus ‘spiritualiste’ où l'inconscient charnel est associé à une dynamique des pulsions en mesure de contester les dichotomies de l'âme et du corps, du moi et d'autrui. C'est d'ailleurs dans ce bref essai, en dialogue avec Freud, que Merleau-Ponty présente pour la première fois la notion de ‘chiasma’.<hi rend="superscript">
+                  <ref type="fn" target="#FN40">40</ref>
+               </hi>
+            </p>
+            <p>La question de la culture s'impose graduellement comme l'un des motifs centraux des cours de Merleau-Ponty sur l'enfance. Merleau-Ponty la définit comme une médiation entre la vie psychique et la vie sociale. L'abandon du causalisme et du finalisme signe la fin de l'explication du comportement par une origine unique (psychique ou sociale) et ouvre sur une perspective ‘chiasmique’ qui amène Merleau-Ponty à se réclamer d'une forme de culturalisme.<hi rend="superscript">
+                  <ref type="fn" target="#FN41">41</ref>
+               </hi> Est-ce à dire que le monde phénoménologique doit être considéré comme un produit culturel? Qu'au-delà ou à côté de la culture, il n'y rien, aucune nature? Merleau-Ponty apportera des éléments de réponse à ces questions dans une optique encore plus étrangement freudo-husserlienne: tout n'est pas culture et il y a de la nature, tout n'est pas civilisationnel et il y a de la vie sauvage. Et cette nature sauvage doit maintenant être psychanalysée.</p>
+         </div>
+         <div xml:id="s5">
+            <head>Vers une psychanalyse de la nature (les années Collège de France: 1952–61)<hi rend="superscript">
+                  <ref type="fn" target="#FN42">42</ref>
+               </hi>
+            </head>
+            <p>Avant d'en arriver aux leçons de 1956–60 consacrées à la nature, disons un mot au sujet du cours de 1954–55 intitulé ‘Le Problème de la passivité: le sommeil, l'inconscient, la mémoire’ qui offre la première confrontation détaillée avec le texte de Freud, en particulier avec la <hi rend="italic">Traumdeutung</hi>. Avant 1954, Merleau-Ponty se référait au ‘freudisme’ et à la ‘psychanalyse freudienne’ sans commenter le détail des cas étudiés par Freud. Avec le cours sur la passivité, il scrute les analyses freudiennes, n'hésite pas à exercer sur elles une certaine violence interprétative, et en tire la conception d'une zone de brouillage entre les états de veille et de sommeil. Le rêve inconscient et la réalité consciente ne forment pas un couple d'opposés, mais ils entretiennent une indépassable relation d'ambiguïté laissant apparaître une seule (in)conscience à la fois présente et absente à elle-même. En d'autres termes, le <hi rend="italic">je pense</hi> (du psychanalyste/herméneute) n'est pas premier par rapport au <hi rend="italic">je rêve</hi> (du patient). La veille est elle-même une conscience onirique diffuse. Merleau-Ponty critique les fausses prétentions de la ‘rêverie herméneutique’ qui croit détenir les clés d'interprétation du rêve. ‘Il n'est pas question’, soutient Merleau-Ponty, ‘de subordonner la vie éveillée à la vie onirique’. Et plus loin: ‘Les deux modalités [réel et onirique] empiètent l'une sur l'autre. Nos relations de la veille avec les choses et surtout avec les autres ont par principe un caractère onirique: les autres nous sont présents comme des rêves, comme des mythes.’<hi rend="superscript">
+                  <ref type="fn" target="#FN43">43</ref>
+               </hi> Ce qui confirme l'aspect non clinique de la perspective merleau-pontienne sur la psychanalyse.</p>
+            <p>La déhiérarchisation des rapports entre la veille et le sommeil est réalisée au nom d'une semi-conscience mythique et partiellement aculturée. Elle permet à Merleau-Ponty de revitaliser la nature. La nature merleau-pontienne se distingue bien sûr de la <hi rend="italic">res extensa</hi> étudiée par les sciences physiques. En ce sens, Merleau-Ponty demeure fidèle à la conversion du regard réclamée par la méthode husserlienne qui appelle une ‘mise entre parenthèses’ des objectivités (<hi rend="italic">bloße Sachen</hi>). Dans les <hi rend="italic">Ideen</hi>, Husserl avait d'ailleurs lui-même ouvert la voie à une nouvelle méditation sur la nature ‘charnelle’ et ‘sentie’ composée non pas d'entités sensibles et isolées dans l'espace tridimensionnel, mais plutôt de sensations kinesthésiques à travers lesquelles l'homme, l'animal, les plantes, et tout le vivant communiquent dans le monde fusionnant.<hi rend="superscript">
+                  <ref type="fn" target="#FN44">44</ref>
+               </hi> Dans un texte tardif de 1959 intitulé ‘Le Philosophe et son ombre’,<hi rend="superscript">
+                  <ref type="fn" target="#FN45">45</ref>
+               </hi> Merleau-Ponty rend hommage à la conception husserlienne de la nature où l'âme est ‘entrelacée’ avec la matière animée.<hi rend="superscript">
+                  <ref type="fn" target="#FN46">46</ref>
+               </hi> Merleau-Ponty évoque alors la vie anonyme d'un être brut et sauvage qu'il rattache, incidemment, au monde de l'enfant et à une certaine conception romantique (plus précisément schellingienne) de la nature.<hi rend="superscript">
+                  <ref type="fn" target="#FN47">47</ref>
+               </hi>
+            </p>
+            <p>Les cours de Merleau-Ponty sur la nature prolongent non seulement les méditations husserliennes, mais ils s'inspirent à nouveau de l'anthropologie qui se donne également comme tâche d'étudier la vie sauvage et mythique.<hi rend="superscript">
+                  <ref type="fn" target="#FN48">48</ref>
+               </hi> Merleau-Ponty participe au mouvement de revitalisation de la nature en retirant à ‘l'homme rationnel et cultivé’ le privilège sur la perception pour mieux situer la vision anonyme dans le monde. Du point de vue du monde non mécanique et vivant, l'homme, l'animal et la nature en général vivent dans un rapport d'‘<hi rend="italic">Ineinander</hi>'. Il y a un ‘entrelacement humanité–animalité’, dont la pensée mythique détient les secrets, et qui considère erronée la définition de l'homme comme un l'animal doué de raison.<hi rend="superscript">
+                  <ref type="fn" target="#FN49">49</ref>
+               </hi> La philosophie merleau-pontienne de la nature pense une ‘participation de l'animal à notre vie perceptive’ et une ‘participation de notre vie perceptive à l'animalité’ qui empêchent de ‘concevoir hiérarchiquement les rapports entre les espèces ou entre les espèces et l'homme’.<hi rend="superscript">
+                  <ref type="fn" target="#FN50">50</ref>
+               </hi> Toutes les espèces, incluant l'homme, sont animées dans la Nature charnelle, par un ensemble de mouvements pulsionnels et sensoriels.</p>
+            <p>L'étude de la nature, et non celle de Dieu ou de l'homme, constitue le préambule pour l'ontologie merleau-pontienne<hi rend="superscript">
+                  <ref type="fn" target="#FN51">51</ref>
+               </hi> qui, comme on le sait, est demeurée à l'état de projet. L'analyse de la vie naturelle devait ouvrir sur une ontologie de l'être brut<hi rend="superscript">
+                  <ref type="fn" target="#FN52">52</ref>
+               </hi> distincte de toute ‘métaphysique de la présence’. La nature merleau-pontienne n'est peuplée ni de matière physique ni d'entités métaphysiques, mais de figures mythiques, de consciences oniriques, d'investissements corporels, de devenirs non humains, de forces imaginaires et d'énergie libidinales latentes et situés à la frontière du visible et de l'invisible. C'est pourquoi Merleau-Ponty a cru bon de présenter son étude de la psychè de cette vie primitive et impersonnelle dans les termes d'une ‘psychanalyse de la Nature’.<hi rend="superscript">
+                  <ref type="fn" target="#FN53">53</ref>
+               </hi> C'est pourquoi aussi Merleau-Ponty en vient à opposer sa ‘psychanalyse <hi rend="italic">ontologique</hi>’ (impersonnelle et charnelle) à la psychanalyse existentielle<hi rend="superscript">
+                  <ref type="fn" target="#FN54">54</ref>
+               </hi> (individuelle).</p>
+            <p>Le cycle des cours sur la nature culmine dans une explication avec la psychanalyse sur le statut à accorder au corps libidinal,<hi rend="superscript">
+                  <ref type="fn" target="#FN55">55</ref>
+               </hi> et Freud demeure omniprésent dans les notes de travail jointes au <hi rend="italic">Visible et l'invisible</hi> où on peut lire notamment: ‘La philosophie de Freud n'est pas une philosophie du corps mais de la chair.’<hi rend="superscript">
+                  <ref type="fn" target="#FN56">56</ref>
+               </hi> L'état d'ébauche des dernières notes de Merleau-Ponty ne permet pas de déterminer avec précision la place et le rôle du freudisme dans une telle ‘psychanalyse ontologique de la nature’.<hi rend="superscript">
+                  <ref type="fn" target="#FN57">57</ref>
+               </hi> On sait tout de même que les cas étudiés par la psychanalyse freudienne sont déjà habités par une présence animale (l'homme aux loups, l'homme aux rats, le cheval du petit Hans, etc.). On perçoit aussi clairement, chez le dernier Merleau-Ponty, une tentative visant à radicaliser cette perspective afin de désanthropomorphiser la psychanalyse qui n'aspire plus à sonder les conflits enfouis dans la profondeur de la psychè individuelle et humaine, mais plutôt à explorer les soubassements de la vie naturelle, extra-personnelle, sauvage et mythique. Le mythe fondateur n'est plus Œdipe, mais il renvoie maintenant à la Chair comme ‘cinquième élément’ ajouté à la partition des naturalistes ioniens.<hi rend="superscript">
+                  <ref type="fn" target="#FN58">58</ref>
+               </hi> Du premier au dernier Merleau-Ponty, le bouleversement de l'opposition entre psychique et corporel se transporte du côté de la division entre humanité et naturalité. Peut-être pourrions-nous y voir alors, bien qu'aucun texte ne rende explicite cette affirmation, un certain tournant jungien dans le rapport de Merleau-Ponty à la psychanalyse.</p>
+         </div>
+         <div xml:id="s6">
+            <head>Conclusion</head>
+            <p>Merleau-Ponty n'est pas l'unique philosophe français à proposer une réinterprétation du freudisme, mais il est sans doute le seul à faire de Freud un complice de chaque instant qui l'accompagne dans les étapes les plus décisives de sa pensée. Jusqu'à la fin, Merleau-Ponty témoigne de son admiration pour l'œuvre freudienne en cherchant inlassablement à montrer et/ou à créer des liens de convergence entre la psychanalyse et la phénoménologie qui lui permettent d'ébranler les convictions de l'‘idéologie scientiste'.<hi rend="superscript">
+                  <ref type="fn" target="#FN59">59</ref>
+               </hi> Incidemment, cette critique de l''idéologie scientiste', développée au nom d'une expérience plus ‘charnelle’ de l'être humain avec lui-même et avec le monde, est non seulement dirigée contre la psychanalyse matérialiste, mais aussi contre le matérialisme dialectique et le stalinisme.<hi rend="superscript">
+                  <ref type="fn" target="#FN60">60</ref>
+               </hi> Comme on a pu le voir, une partie du lexique merleau-pontien se développe au contact de la psychanalyse (pulsion, ambiguïté, chiasma, investissement, rapports culture–nature, etc.) et la psychanalyse lui permet de faire avancer ses thèses phénoménologiques (sur le monde, les relations avec autrui, le corps propre, la perception, la chair, etc.). Husserl a pu fournir à Merleau-Ponty l'impulsion nécessaire à une expérimentation du monde de la vie et de la nature. Freud lui a permis d'envisager l'expérience sexuelle comme soustraite à tout déterminisme biologique. Ce qui amène Merleau-Ponty à érotiser le monde phénoménal husserlien et à rendre charnel le monde psychique freudien. De cette conjonction, fondamentale dans l'œuvre merleau-pontienne, nait l'exploration d'un monde où tous les regards se croisent et s'investissent mutuellement pour ainsi donner tout son sens à l'univers chiasmique que l'on habite et que l'on anime, qui nous habite et qui est lui-même animé.</p>
+         </div>
+      </body>
+      <back>
+         <div type="fn-group">
+            <note place="inline" n="FN1">
+               <ref>1</ref>
+               <p>Une première version de cet article a été présentée au colloque ‘100 Years of Merleau-Ponty: A Centenary Conference’ à l'Université de Sofia (Bulgarie) le 14 mars 2008.</p>
+            </note>
+            <note place="inline" n="FN2">
+               <ref>2</ref>
+               <p>M. Merleau-Ponty, Parcours deux: 1951–1961 (Lagrasse, Verdier, 2000), p. 211 (abréviation: PD).</p>
+            </note>
+            <note place="inline" n="FN3">
+               <ref>3</ref>
+               <p>Ce qui n'a pas empêché les thèses de Merleau-Ponty de contribuer au renouvellement de la pratique psychanalytique. Voir à ce sujet Martin Dillon, ‘The Implications of Merleau-Ponty's Thought for the Practice of Psychotherapy’, Journal of Phenomenological Psychology, 14.1 (1983), 21–41; Dillon, ‘Merleau-Ponty and the Psychogenesis of the Self’, Journal of Phenomenological Psychology, 9.2 (1980), 84–98.</p>
+            </note>
+            <note place="inline" n="FN4">
+               <ref>4</ref>
+               <p>E. Husserl, Idées directrices pour une phénoménologie, I, trad. P. Ricoeur (Paris, Gallimard, 1950), §24 (abréviation: ID-I).</p>
+            </note>
+            <note place="inline" n="FN5">
+               <ref>5</ref>
+               <p>Husserl, ID-I, p. 7 et p. 227.</p>
+            </note>
+            <note place="inline" n="FN6">
+               <ref>6</ref>
+               <p>Voir, entre autres, Husserl, ID-I, p. 75.</p>
+            </note>
+            <note place="inline" n="FN7">
+               <ref>7</ref>
+               <p>Sur la conception merleau-pontienne de l'inconscient, voir Renaud Barbaras, ‘Le Conscient et l'inconscient’, in Notions de philosophie, éd. par D. Kambouchner, I (Paris, Gallimard, 1995), pp. 489–551; Jacques Garelli, ‘La Remise en cause de l'inconscient freudien par Merleau-Ponty et Simondon, selon deux notes inédites de Merleau-Ponty’, Chiasmi international, 7 (2006), 75–89; Jean-Bertrand Pontalis, ‘Note sur le problème de l'inconscient chez Merleau-Ponty’, Les Temps modernes, 184 (1961), 287–303; repris dans Pontalis, Après Freud (Paris, Gallimard, 1968), pp. 76–97.</p>
+            </note>
+            <note place="inline" n="FN8">
+               <ref>8</ref>
+               <p>Voir notamment M. Merleau-Ponty, Nature: cours au Collège de France 1956–1960 (Paris, Seuil, 1994), p. 347 (abréviation: N); id., PD, p. 340; id., Merleau-Ponty à la Sorbonne: résumé de cours 1949–1952 (Grenoble, Cynara, 1988), p. 305 et p. 359 (abréviation: MPS).</p>
+            </note>
+            <note place="inline" n="FN9">
+               <ref>9</ref>
+               <p>Elisabeth Roudinesco, Jacques Lacan: esquisse d'une vie, histoire d'un système de pensée (Paris, Fayard, 1993), p. 368.</p>
+            </note>
+            <note place="inline" n="FN10">
+               <ref>10</ref>
+               <p>J. Lacan, ‘Maurice Merleau-Ponty’, Les Temps modernes, 184 (1961), 245–54; repris dans Lacan, Autres écrits (Paris, Seuil, 2001), pp. 178–82; id., ‘Du regard comme objet a’ (1964), in Lacan, Le Séminaire XI: les quatre concepts fondamentaux de la psychanalyse (Paris, Seuil, 1973), pp. 65–109.</p>
+            </note>
+            <note place="inline" n="FN11">
+               <ref>11</ref>
+               <p>Merleau-Ponty, PD, p. 212 et pp. 273–75. Cette dernière référence est tirée d'une intervention de Merleau-Ponty au VIe colloque de Bonneval consacré à l'inconscient et organisé en 1960 par Henry Ey. Les actes ont été publiés dans Henry Ey (éd.), L'Inconscient (Paris, Desclée de Brouwer, 1966). Le récit de ces joutes théoriques qui réunissaient représentants des sociétés de psychanalyse, philosophes et psychiatres est donné par Roudinesco, Histoire de la psychanalyse, II (Paris, Seuil, 1994), pp. 317–28.</p>
+            </note>
+            <note place="inline" n="FN12">
+               <ref>12</ref>
+               <p>Sur les rapports théoriques entre Lacan et Merleau-Ponty, nous renvoyons à Bernard Baas, ‘L’Élaboration phénoménologique de “l'objet a”: Lacan avec Kant et Merleau-Ponty', in Baas, De la chose à l'objet: Jacques Lacan et la traversée de la phénoménologie (Leuven, Peeters, 1998), pp. 41–87; Guy Félix Duportail, ‘Le Chiasme d'une amitié: Lacan et Merleau-Ponty’, Chiasmi international, 6 (2005), 345–67; Alexandra Renault, ‘Merleau-Ponty et Lacan: un dialogue possible?’, dans Merleau-Ponty aux frontières de l'invisible, éd. par M. Cariou et al. (Milan, Mimesis, 2003), pp. 117–29.</p>
+            </note>
+            <note place="inline" n="FN13">
+               <ref>13</ref>
+               <p>Sur la critique du béhaviorisme, voir notamment M. Merleau-Ponty, La Structure du comportement, 6e éd. (Paris, PUF, 1967), pp. 196–99 (abréviation: SC); id., PD, pp. 211–12 et p. 276.</p>
+            </note>
+            <note place="inline" n="FN14">
+               <ref>14</ref>
+               <p>Le responsable de la traduction anglaise explique ce choix dans la préface générale aux œuvres de Freud. Voir James Strachey (éd.), The Standard Edition of the Complete Psychological Works of Sigmund Freud, I (London, Hogarth Press, 1966), pp. xxiv–xxvi.</p>
+            </note>
+            <note place="inline" n="FN15">
+               <ref>15</ref>
+               <p>Sur la conception merleau-pontienne de la pulsion, voir Joseph Kockelmans, ‘The Function of Psychology in Merleau-Ponty's Early Works’, Review of Existential Psychology and Psychiatry, 18 (1982–83), 119–42; Renaud Barbaras, ‘Pulsion et perception’, Alter, 9 (2001), 13–26; Nathalie Depraz, ‘Pulsion, instinct, désir: que signifie Trieb chez Husserl? A l’épreuve des perspectives de Freud, Merleau-Ponty, Jonas et Scheler', Alter, 9 (2001), 113–25.</p>
+            </note>
+            <note place="inline" n="FN16">
+               <ref>16</ref>
+               <p>Sur le Leib chez Husserl, voir notamment E. Husserl, Idées directrices pour une phénoménologie, II, trad. E. Escoubas (Paris, PUF, 1982), pp. 91–136 et pp. 205–27 (abréviation: ID-II); Idées directrices pour une phénoménologie, III, trad. D. Tiffeneau (Paris, PUF, 1993), pp. 139–51 (abréviation: ID-III).</p>
+            </note>
+            <note place="inline" n="FN17">
+               <ref>17</ref>
+               <p>S. Freud, ‘Pulsions et destins des pulsions’, in Freud, Métapsychologie (Paris, Gallimard, 1968), pp. 11–43 (abréviation: M).</p>
+            </note>
+            <note place="inline" n="FN18">
+               <ref>18</ref>
+               <p>Freud, M, p. 24.</p>
+            </note>
+            <note place="inline" n="FN19">
+               <ref>19</ref>
+               <p>Merleau-Ponty, SC, p. 192.</p>
+            </note>
+            <note place="inline" n="FN20">
+               <ref>20</ref>
+               <p>Ibid., p. 194.</p>
+            </note>
+            <note place="inline" n="FN21">
+               <ref>21</ref>
+               <p>Ibid., pp. 196–99.</p>
+            </note>
+            <note place="inline" n="FN22">
+               <ref>22</ref>
+               <p>P. Ricoeur, ‘Énergétique et herméneutique: le problème épistémologique du freudisme’, in Ricoeur, De l'interprétation: essai sur Freud (Paris, Seuil, 1965), pp. 75–169.</p>
+            </note>
+            <note place="inline" n="FN23">
+               <ref>23</ref>
+               <p>M. Merleau-Ponty, Phénoménologie de la perception (Paris, Gallimard, 1945), p. 185 (abréviation: PP).</p>
+            </note>
+            <note place="inline" n="FN24">
+               <ref>24</ref>
+               <p>Merleau-Ponty, PP, p. 197.</p>
+            </note>
+            <note place="inline" n="FN25">
+               <ref>25</ref>
+               <p>Ibid., p. 184.</p>
+            </note>
+            <note place="inline" n="FN26">
+               <ref>26</ref>
+               <p>Sur l'appropriation par Merleau-Ponty de la notion freudienne d'investissement (Besetzung), voir Merleau-Ponty, PD, p. 5; M. Merleau-Ponty, Signes (Paris, Gallimard, 1960), p. 288 (abréviation: S); id., Le Visible et l'invisible (Paris, Gallimard, 1964), p. 290 et p. 309 (abréviation: VI).</p>
+            </note>
+            <note place="inline" n="FN27">
+               <ref>27</ref>
+               <p>Merleau-Ponty, PP, p. 182. Voir aussi Merleau-Ponty, VI, p. 281 qui évoque ‘le rapport de Kopulation où deux intentions ont une seule Erfüllung’. Ce qui n'est pas sans rappeler la Paarung ou l'‘accouplement originel' husserlien; voir Husserl, Méditations cartésiennes (Paris, Vrin, 1992), §51. Sur les rapports entre Eros et Psyché, voir David M. Levin, ‘Eros and Psyche: A Reading of Merleau-Ponty’, Review of Existential Psychology and Psychiatry, 18 (1982–83), 219–39.</p>
+            </note>
+            <note place="inline" n="FN28">
+               <ref>28</ref>
+               <p>Les notes de cet ensemble de huit cours ont été rassemblées dans Merleau-Ponty, MPS; réédité sous le titre Psychologie et pédagogie de l'enfant: cours de Sorbonne 1949–1952 (Lagrasse, Verdier, 2001). Ces deux éditions utilisent la même pagination. Quelques versions sensiblement différentes de ces cours ont été reproduites dans les 2 volumes de Parcours (Lagrasse, Verdier, 1997 et 2000).</p>
+            </note>
+            <note place="inline" n="FN29">
+               <ref>29</ref>
+               <p>E. Husserl, La Crise des sciences européennes, trad. G. Granel (Paris, PUF, 1976), p. 23.</p>
+            </note>
+            <note place="inline" n="FN30">
+               <ref>30</ref>
+               <p>Merleau-Ponty, MPS, p. 171.</p>
+            </note>
+            <note place="inline" n="FN31">
+               <ref>31</ref>
+               <p>Merleau-Ponty, interventions suite à la conférence L'Homme et l'adversité (1951), dans PD, p. 338.</p>
+            </note>
+            <note place="inline" n="FN32">
+               <ref>32</ref>
+               <p>Merleau-Ponty, MPS, pp. 101–02.</p>
+            </note>
+            <note place="inline" n="FN33">
+               <ref>33</ref>
+               <p>Ibid., p. 94.</p>
+            </note>
+            <note place="inline" n="FN34">
+               <ref>34</ref>
+               <p>Ibid., pp. 116–27 et pp. 290–91. Pour une autre critique de l'interprétation subjectiviste du destin œdipien par la psychanalyse freudienne, voir Jean-Pierre Vernant, ‘Œdipe sans complexe’, Raison présente, 4 (1967), 3–20.</p>
+            </note>
+            <note place="inline" n="FN35">
+               <ref>35</ref>
+               <p>Notons tout de même S. Freud, ‘La Sexualité infantile’, in Freud, Trois essais sur la théorie sexuelle, trad. P. Koeppel (Paris, Gallimard, 1987), pp. 91–140.</p>
+            </note>
+            <note place="inline" n="FN36">
+               <ref>36</ref>
+               <p>Merleau-Ponty, MPS, p. 291.</p>
+            </note>
+            <note place="inline" n="FN37">
+               <ref>37</ref>
+               <p>Ibid., p. 351.</p>
+            </note>
+            <note place="inline" n="FN38">
+               <ref>38</ref>
+               <p>Ibid., pp. 334–35, p. 349 et p. 505.</p>
+            </note>
+            <note place="inline" n="FN39">
+               <ref>39</ref>
+               <p>Merleau-Ponty, ‘L'Homme et l'adversité’, in S, pp. 284–308 (voir principalement pp. 284–94).</p>
+            </note>
+            <note place="inline" n="FN40">
+               <ref>40</ref>
+               <p>Merleau-Ponty, S, p. 294.</p>
+            </note>
+            <note place="inline" n="FN41">
+               <ref>41</ref>
+               <p>Merleau-Ponty, MPS, pp. 380–81 et p. 396.</p>
+            </note>
+            <note place="inline" n="FN42">
+               <ref>42</ref>
+               <p>Une partie seulement des notes de cours au Collège de France a été publiée: M. Merleau-Ponty, Nature: cours du Collège de France 1956–1960 (Paris, Seuil, 1994) (abréviation: N); Notes des cours au Collège de France 1958–1959 et 1960–1961 (Paris, Gallimard, 1996); Notes de cours sur ‘L'Origine de la géométrie’ de Husserl 1959–1960 (Paris, PUF, 1998); L'Institution: la passivité: notes de cours au Collège de France 1954–1955 (Paris, Belin, 2003) (abréviation: IP). Voir aussi Résumés des cours: Collège de France 1952–1960 (Paris, Gallimard, 1968). Les inédits sont conservés à la Bibliothèque Nationale de France.</p>
+            </note>
+            <note place="inline" n="FN43">
+               <ref>43</ref>
+               <p>Merleau-Ponty, IP, pp. 204–05 et p. 268.</p>
+            </note>
+            <note place="inline" n="FN44">
+               <ref>44</ref>
+               <p>Husserl, ID-II et ID-III; E. Husserl, La Terre ne se meut pas, trad. D. Franck (Paris, Minuit, 1989).</p>
+            </note>
+            <note place="inline" n="FN45">
+               <ref>45</ref>
+               <p>Merleau-Ponty, ‘Le Philosophe et son ombre’, in S, pp. 201–28. Voir aussi Merleau-Ponty, ‘Husserl et la notion de Nature’, in PD, pp. 215–34.</p>
+            </note>
+            <note place="inline" n="FN46">
+               <ref>46</ref>
+               <p>Husserl, ID-II, p. 151. L'entrelacement traduit ici l'allemand Verflechtung.</p>
+            </note>
+            <note place="inline" n="FN47">
+               <ref>47</ref>
+               <p>Merleau-Ponty, ‘Le Philosophe et son ombre’, in S, voir p. 215, p. 220, p. 225 et p. 228. Cette phénoménologie de la nature pourrait être complétée en comparant les ‘archi-objets’ de Husserl (ID-II, p. 41) aux ‘ultra-choses’ qui peuplent le monde des enfants selon Merleau-Ponty (MPS, pp. 242–44).</p>
+            </note>
+            <note place="inline" n="FN48">
+               <ref>48</ref>
+               <p>Merleau-Ponty, ‘De Mauss à Claude Lévi-Strauss’, in S, pp. 143–57, voir en particulier p. 151. Notons que Freud évoquait l'idée d'une ‘psychanalyse sauvage’ en l'attribuant de manière péjorative aux psychanalystes naturalistes qui réduisent la sexualité au somatique en croyant pouvoir guérir les maux dès la première séance. Voir S. Freud, ‘De la psychanalyse “sauvage”’, dans Œuvres complètes, X, trad. A. Bourguignon (Paris, PUF, 1993), pp. 201–13.</p>
+            </note>
+            <note place="inline" n="FN49">
+               <ref>49</ref>
+               <p>Merleau-Ponty, N, pp. 269–77.</p>
+            </note>
+            <note place="inline" n="FN50">
+               <ref>50</ref>
+               <p>Ibid., p. 375.</p>
+            </note>
+            <note place="inline" n="FN51">
+               <ref>51</ref>
+               <p>Ibid., p. 370.</p>
+            </note>
+            <note place="inline" n="FN52">
+               <ref>52</ref>
+               <p>Ibid., p. 282; Merleau-Ponty, VI, p. 139, p. 209 et p. 223.</p>
+            </note>
+            <note place="inline" n="FN53">
+               <ref>53</ref>
+               <p>Merleau-Ponty, VI, p. 321.</p>
+            </note>
+            <note place="inline" n="FN54">
+               <ref>54</ref>
+               <p>Cette référence à la psychanalyse existentielle vaut aussi bien pour Jean-Paul Sartre que pour l'orthodoxie freudienne et, de manière autocritique, pour le premier Merleau-Ponty.</p>
+            </note>
+            <note place="inline" n="FN55">
+               <ref>55</ref>
+               <p>Merleau-Ponty, N, pp. 343–52.</p>
+            </note>
+            <note place="inline" n="FN56">
+               <ref>56</ref>
+               <p>Merleau-Ponty, VI, p. 324.</p>
+            </note>
+            <note place="inline" n="FN57">
+               <ref>57</ref>
+               <p>Les commentaires au sujet de la psychanalyse ontologique de Merleau-Ponty en sont à leurs premiers balbutiements. Voir par exemple: Emmanuel de Saint Aubert, ‘La “Promiscuité”: Merleau-Ponty à la recherche d'une psychanalyse ontologique’, Archives de philosophie, 69.1 (2006), 11–35; Alexandra Renault, ‘L'Ontologie merleau-pontyenne de la chair dans son rapport à la métapsychologie freudienne des pulsions’, Alter, 9 (2001), 171–95.</p>
+            </note>
+            <note place="inline" n="FN58">
+               <ref>58</ref>
+               <p>Merleau-Ponty, VI, p. 184.</p>
+            </note>
+            <note place="inline" n="FN59">
+               <ref>59</ref>
+               <p>M. Merleau-Ponty, ‘Préface’, in Angelo Hesnard, L'Œuvre et l'esprit de Freud et son importance dans le monde moderne (Paris, Payot, 1960), pp. 5–10; repris dans Merleau-Ponty, PD, pp. 276–84.</p>
+            </note>
+            <note place="inline" n="FN60">
+               <ref>60</ref>
+               <p>M. Merleau-Ponty, Humanisme et terreur (Paris, Gallimard, 1947); id., Les Aventures de la dialectique (Paris, Gallimard, 1955); ainsi que les chapitres ‘Autour du marxisme’ et ‘Marxisme et philosophie’, in M. Merleau-Ponty, Sens et non-sens (Paris, Nagel, 1965), pp. 173–241.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

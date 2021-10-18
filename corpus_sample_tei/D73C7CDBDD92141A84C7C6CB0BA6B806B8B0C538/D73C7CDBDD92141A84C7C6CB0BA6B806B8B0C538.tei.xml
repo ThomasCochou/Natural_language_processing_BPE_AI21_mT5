@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:ns1="http://standoff.proposal"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="https://xml-schema.delivery.istex.fr/formats/tei-istex.xsd"
+     xml:lang="EN">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a" type="main">L’inclusion des Particularismes Extra-Hexagonaux dans la Dernière Édition du <hi rend="italic">Grand Robert</hi> : Réalité ou Mirage de la Francophonie ?</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>ISTEX</authority>
+            <publisher>Oxford University Press</publisher>
+            <availability>
+               <licence>© 2009 Oxford University Press. All rights reserved. For permissions, please email: journals.permissions@oxfordjournals.org</licence>
+            </availability>
+            <date type="e-published">2009</date>
+            <date type="Copyright" when="2009">2009</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="content-type"
+                  source="research-article"
+                  scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note>
+            <note type="publication-type"
+                  scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title level="a" type="main">L’inclusion des Particularismes Extra-Hexagonaux dans la Dernière Édition du <hi rend="italic">Grand Robert</hi> : Réalité ou Mirage de la Francophonie ?</title>
+                  <author xml:id="author-0000" role="corresp">
+                     <persName>
+                        <surname>Verreault</surname>
+                        <forename type="first">Claude</forename>
+                     </persName>
+                  </author>
+                  <author xml:id="author-0001">
+                     <persName>
+                        <surname>Galarneau</surname>
+                        <forename type="first">Annie</forename>
+                     </persName>
+                  </author>
+                  <idno type="istex">D73C7CDBDD92141A84C7C6CB0BA6B806B8B0C538</idno>
+                  <idno type="ark">ark:/67375/HXZ-9Z7Z2KZ2-W</idno>
+                  <idno type="DOI">10.1093/ijl/ecp021</idno>
+                  <idno type="publisher-id">ecp021</idno>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">International Journal of Lexicography</title>
+                  <idno type="publisher-id">lexico</idno>
+                  <idno type="hwp">lexico</idno>
+                  <idno type="pISSN">0950-3846</idno>
+                  <idno type="eISSN">1477-4577</idno>
+                  <imprint>
+                     <publisher>Oxford University Press</publisher>
+                     <date type="published">2009</date>
+                     <date type="e-published">2009</date>
+                     <biblScope unit="vol">22</biblScope>
+                     <biblScope unit="issue">3</biblScope>
+                     <biblScope unit="page" from="259">259</biblScope>
+                     <biblScope unit="page" to="280">280</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef type="ODD" url="https://xml-schema.delivery.istex.fr/tei-istex.odd"/>
+         <appInfo>
+            <application ident="pub2tei" version="1.0.46" when="2020-05-18">
+               <label>pub2TEI-ISTEX</label>
+               <desc>A set of style sheets for converting XML documents encoded in various scientific publisher formats into a common TEI format.
+                        <ref target="http://www.tei-c.org/">We use TEI</ref>
+               </desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p>Since the 1970s, French dictionaries have opened up to the French-speaking world, notably by including a number of words and usages characteristic of the many non-Metropolitan varieties of French. Tentative at first, this opening up has intensified with each re-edition to the point that today dictionaries compiled in France can give the impression that they reflect the entirety of French as used throughout the <hi rend="italic">francophonie</hi>. This is the case, for instance, with the new <hi rend="italic">Grand Robert de la langue française</hi>, which was received and presented in this way by reviewers in the Québec media. Using the introductory note of the two editions and the overhaul that the <hi rend="italic">Grand Robert</hi> has undergone to date, this article first briefly recalls how the dictionary's interest in non-Metropolitan features came about and developed over time, then examines the conception of the French language that the compilers have come to adopt. On the basis of an analysis of a random sample of the nomenclature, which includes a number of Québecisms, this conception is then compared with the lexicographical practices adopted in the work as a whole. Finally, it shows how, as things stand at present, the opening up of French dictionaries to the French-speaking world can have the perverse effect of producing and maintaining a linguistic mirage.</p>
+         </abstract>
+         <textClass ana="subject">
+            <keywords scheme="subject">
+               <term>Articles</term>
+            </keywords>
+         </textClass>
+         <langUsage>
+            <language ident="fr">fr</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2020-05-18" who="#istex" xml:id="pub2tei">formatting</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="intro" xml:id="SEC1">
+            <head>1. Introduction</head>
+            <p>Depuis les années 1970, les dictionnaires français se sont ouverts à la francophonie en incluant dans leur nomenclature de nombreux mots et emplois caractéristiques des diverses variétés de français non hexagonales. D’abord timide, cette ouverture s’est intensifiée au fil des rééditions, si bien qu’aujourd’hui les dictionnaires faits en France peuvent donner l’impression de refléter l’ensemble du français qui a cours aux quatre coins de la francophonie. C’est le cas notamment du dernier <hi rend="italic">Grand Robert de la langue française</hi> (<ref type="bibr" target="#B12">Robert 2001</ref>) qui a été reçu et présenté comme tel par les chroniqueurs qui ont rendu compte de sa parution dans les médias québécois (<hi rend="italic">cf</hi>. Bourgault-Côté <ref type="bibr" target="#B14">2001</ref>, Le Cours <ref type="bibr" target="#B20">2001</ref>, Précourt <ref type="bibr" target="#B25">2001</ref>).</p>
+            <p>Jusqu’à maintenant, peu de spécialistes se sont penchés sur ce phénomène. Parmi eux, certains ont pu regretter la place encore timide que les dictionnaires français réservent aux particularismes extra-hexagonaux ou émettre des réserves concernant leur traitement (notamment pour ce qui est de l’étymologie et des définitions) mais, dans l’ensemble, ils ont accueilli cette ouverture assez favorablement (<hi rend="italic">cf</hi>. Thibault <ref type="bibr" target="#B28">2005</ref>, Moreau <ref type="bibr" target="#B22">1999</ref>, Poirier <ref type="bibr" target="#B23">1986</ref> 
+               <ref type="bibr" target="#B24">1988</ref>, Dugas <ref type="bibr" target="#B16">1979</ref>, Juneau <ref type="bibr" target="#B19">1977</ref>). Et pourtant, l’inclusion de particularismes extra-hexagonaux dans les dictionnaires français ne va pas de soi et n’est pas sans conséquences quant à la représentation que ces ouvrages véhiculent de la langue française.</p>
+            <p>En nous fondant sur le discours préliminaire des deux éditions et de la dernière refonte que le <hi rend="italic">Grand Robert</hi> a connues à ce jour (Robert 1951–1970, <ref type="bibr" target="#B11">1985</ref> et <ref type="bibr" target="#B12">2001</ref>), que nous prendrons ici à témoin, nous rappellerons d’abord brièvement comment cet intérêt pour les particularismes extra-hexagonaux y est apparu et s’y est développé, puis nous dégagerons la conception que ses auteurs semblent en être venus à se faire de la langue française. Nous confronterons ensuite cette conception avec la pratique lexicographique adoptée dans l’ouvrage à partir d’un échantillon de la nomenclature, incluant un certain nombre de québécismes. Enfin, à partir de ce témoignage, nous montrerons comment, dans l’état actuel des choses, l’ouverture des dictionnaires français à la francophonie peut avoir comme effet pervers de produire ou d’entretenir un mirage linguistique.</p>
+         </div>
+         <div xml:id="SEC2">
+            <head>2. Le <hi rend="italic">Grand Robert</hi> et l’émergence d’une préoccupation pour les particularismes extra-hexagonaux</head>
+            <div xml:id="SEC2.1">
+               <head>2.1. La première édition de 1951-1970</head>
+               <p>Dans sa brève introduction à la première édition de l’ouvrage, Paul Robert écrivait :
+<cit>
+                     <quote>
+                        <p>Si j’ai relégué au second plan maints avantages immédiats pour me consacrer à une entreprise aussi ardue, c’est qu’un profond espoir m’animait : celui de rendre service à bon nombre de mes contemporains, en France et à l’étranger. (Robert 1951–1970, vol. 1, p. iii)</p>
+                     </quote>
+                  </cit>
+Il faudra cependant attendre la parution du <hi rend="italic">Supplément</hi>, en 1970, pour percevoir une véritable préoccupation pour la variation géographique du français.</p>
+               <p>Dans la présentation signée par Alain Rey, on trouve en effet une allusion claire aux besoins particuliers des locuteurs francophones, variables d’un endroit à l’autre, aussi bien à l’intérieur qu’à l’extérieur de la France :
+<cit>
+                     <quote>
+                        <p>[…] à vocabulaire égal, le pêcheur breton n’aura pas besoin des mêmes mots que le métallurgiste parisien, ni l’avocat du Québec que son confrère genevois. (Robert 1951–1970, <hi rend="italic">Supplément</hi>, p. x)</p>
+                     </quote>
+                  </cit>
+C’est aussi dans le <hi rend="italic">Supplément</hi> que la marque <hi rend="italic">Région</hi>., pour <hi rend="italic">régional</hi> ou <hi rend="italic">régionalisme</hi> (<hi rend="italic">cf</hi>. p. xiii et xvi), fait son apparition, mais cette étiquette est réservée pour identifier les seuls emplois régionaux français :
+<cit>
+                     <quote>
+                        <p>[…] régional (<hi rend="italic">Région</hi>.) veut dire que le terme n’est pas courant dans toute la France. (Robert 1951–1970, <hi rend="italic">Supplément</hi>, p. xiii)</p>
+                     </quote>
+                  </cit>
+               </p>
+               <p>La première édition du <hi rend="italic">Grand Robert</hi> ne témoigne donc pas d’une grande préoccupation pour les particularismes extra-hexagonaux. Ainsi, pour ce qui est des canadianismes, seul <hi rend="italic">débarbouillette</hi> y est mentionné comme tel, mais dans l’exemple illustrant le terme <hi rend="italic">canadianisme</hi> qui fait son apparition dans le <hi rend="italic">Supplément</hi> :
+<cit>
+                     <quote>
+                        <p>‘Débarbouillette’ <hi rend="italic">est un canadianisme qui équivaut à</hi> ‘gant de toilette’. (Robert 1951–1970, <hi rend="italic">Supplément</hi>)</p>
+                     </quote>
+                  </cit>
+Dans les volumes précédents, on trouvera aussi le célèbre <hi rend="italic">coureur de bois</hi>, mais dans un exemple servant à illustrer <hi rend="italic">coureur</hi> ‘celui, celle qui va et vient, qui se déplace, parcourt un lieu’, et sans que ce canadianisme ne soit présenté comme tel :
+<cit>
+                     <quote>
+                        <p>On appelait les trappeurs du Canada les Coureurs de bois. (Robert 1951–1970, vol. 1, sous <hi rend="italic">coureur</hi>)</p>
+                     </quote>
+                  </cit>
+               </p>
+            </div>
+            <div xml:id="SEC2.2">
+               <head>2.2. La deuxième édition de 1985, refondue en 2001</head>
+               <p>En 1985, l’ouvrage connaîtra une deuxième édition, entièrement revue et enrichie par Alain Rey et résolument plus ouverte à l’ensemble des locuteurs francophones :
+<cit>
+                     <quote>
+                        <p>[…] nous avons visé […] la communication d’une image sociale : celle de la culture francophone classique et contemporaine à travers le kaléidoscope des mots. (Robert <ref type="bibr" target="#B11">1985</ref>, vol. 1, p. xviii)</p>
+                     </quote>
+                  </cit>
+Une telle visée ne pouvait que déboucher sur une prise en compte accentuée de la variation géographique du français :
+<cit>
+                     <quote>
+                        <p>À la variété des signes selon les usages sociaux s’ajoute leur variété géographique, en général appréhendée sous l’étiquette de ‘régionalisme’. Sur ce plan, le <hi rend="italic">Grand Robert</hi>, après plusieurs dictionnaires français, et notamment le <hi rend="italic">Petit Robert</hi>, tente de faire évoluer la description. Il inclut non seulement des régionalismes de France, mais aussi des mots du terroir employés en Belgique, en Suisse, au Québec, ainsi que des termes ou des sens institutionnels et propres aux États. […] Cette ouverture sur les usages géographiques du français hors de France est indispensable si l’on prétend décrire ‘le français’, comme est indispensable l’inclusion des régionalismes de France même […]. (Robert <ref type="bibr" target="#B11">1985</ref>, vol. 1, p. xxiii)</p>
+                     </quote>
+                  </cit>
+               </p>
+               <p>Cette volonté de tenir compte des particularismes extra-hexagonaux a été maintenue dans la dernière refonte que l’ouvrage a connue (Robert <ref type="bibr" target="#B12">2001</ref>), dont la présentation est, à quelques détails près, identique à celle de la deuxième édition de 1985.</p>
+               <p>L’émergence, à partir des années 1960, de cette réalité – sinon linguistique, du moins politique (<hi rend="italic">cf</hi>. Deniau <ref type="bibr" target="#B15">2001</ref>) – qu’on appelle la francophonie et qui est aujourd’hui en plein essor a certes dû jouer un rôle important dans le virage francophone que le <hi rend="italic">Grand Robert</hi> a pris en 1985. Des impératifs commerciaux ont sans doute aussi favorisé ce tournant, surtout après le succès remporté par la deuxième édition du <hi rend="italic">Petit Robert</hi> (PR 1977), qui avait déjà entrouvert ses colonnes aux canadianismes, aux belgicismes, aux helvétismes et, dans une mesure moindre, aux africanismes.</p>
+               <p>Quoi qu’il en soit, un tel virage suppose une conception de la langue française qui est passablement différente de celle qu’avait Paul Robert au moment où son projet prenait forme.</p>
+            </div>
+         </div>
+         <div xml:id="SEC3">
+            <head>3. Représentation de la langue française selon les auteurs du <hi rend="italic">Grand Robert</hi>
+            </head>
+            <div xml:id="SEC3.1">
+               <head>3.1. La conception de Paul Robert</head>
+               <p>Le projet initial de Paul Robert, il faut le souligner, avait avant tout pour but d’actualiser le monument lexicographique que Littré (<ref type="bibr" target="#B7">1863–1877</ref>) avait légué à la France dans le dernier tiers du <hi rend="smallCaps">xix</hi>
+                  <hi rend="superscript">e</hi> siècle :
+<cit>
+                     <quote>
+                        <p>Je n’entends certes pas dire que le célèbre <hi rend="italic">Dictionnaire de la langue française</hi> ait perdu ses droits à la place d’honneur sur le rayon le plus accessible de nos bibliothèques. Un tel ouvrage est irremplaçable, mais il a vieilli à bien des égards et le besoin d’une mise à jour s’impose depuis longtemps déjà : rappelons qu’il fut composé et publié de 1846 à 1872. […] Tout en conservant aux créateurs de la langue classique la place éminente qui leur appartient sans conteste, je me suis efforcé, avec l’aide de quelques amis, de reprendre et de poursuivre l’œuvre de dépouillement commencée par Littré. (Robert 1951–1970, vol. 1, p. iii–iv.)</p>
+                     </quote>
+                  </cit>
+Marchant sur les pas de Littré, Paul Robert allait à son tour privilégier essentiellement le discours d’auteurs français, depuis l’époque classique jusqu’au milieu du <hi rend="smallCaps">xx</hi>
+                  <hi rend="superscript">e</hi> siècle, et, dans son esprit, la langue française restait associée aux seuls Français :
+<cit>
+                     <quote>
+                        <p>La plupart des Français utilisent moins de 5.000 mots alors qu’un dictionnaire général en comporte de 40 à 50.000. À côté du vocabulaire commun en principe à tous, il existe une série de langues particulières plus ou moins incomprises hors des milieux sociaux ou professionnels qui les emploient. Le vocabulaire de ces diverses langues, qui figure, en grande partie à la nomenclature des lexiques ordinaires, noyé dans les colonnes alphabétiques, devient accessible à chacun, si on le rattache au fonds commun à tous les Français. (Robert 1951–1970, vol. 1, p. v)</p>
+                     </quote>
+                  </cit>
+               </p>
+            </div>
+            <div xml:id="SEC3.2">
+               <head>3.2. La conception d’Alain Rey</head>
+               <p>C’est donc sous la direction d’Alain Rey que le <hi rend="italic">Grand Robert</hi> a amorcé puis accentué son virage francophone, d’abord dans le <hi rend="italic">Supplément</hi> à la première édition, paru en 1970, puis dans la deuxième édition de 1985, refondue en 2001.</p>
+               <p>La signification de la marque <hi rend="italic">régional</hi>, introduite dans le <hi rend="italic">Supplément</hi> sous la forme abrégée <hi rend="italic">Région</hi>. pour identifier les termes non ‘courant[s] dans toute la France’ (Robert 1951–1970, <hi rend="italic">Supplément</hi>, p. xiii.), a été sensiblement élargie dans la deuxième édition :
+<cit>
+                     <quote>
+                        <p>[…] <hi rend="italic">régional</hi> (mot ou emploi particulier au français parlé dans une ou plusieurs régions, mais qui n’est pas d’usage général ou qui est senti comme propre à une région). – <hi rend="italic">régional</hi> désigne les emplois propres à une région géographique (partie de la France, pays francophones) qui ne sont pas connus dans l’ensemble de la francophonie. Dans certains cas où le mot, le sens était normalisé (institutionnel), on a employé la formule : ‘en français de …’, suivie du nom de la zone concernée. (Robert <ref type="bibr" target="#B11">1985</ref>, vol. 1, p. liv ; <hi rend="italic">cf</hi>. aussi Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. lxxii)</p>
+                     </quote>
+                  </cit>
+Exception faite des mots et des emplois qui ne sont pas à strictement parler des régionalismes mais qui désignent des réalités propres ou associées à une région donnée, auxquels fait allusion la dernière phrase de la citation précédente et dont nous tiendrons également compte ici, il faut donc déduire que tous les emplois non accompagnés de la marque <hi rend="italic">Régional</hi> sont ‘connus dans l’ensemble de la francophonie’, comme l’indique encore le passage suivant :
+<cit>
+                     <quote>
+                        <p>Ces marques [d’usage] sont de diverses natures et esquissent – très grossièrement – une configuration des usages de la langue. Dans l’espace d’abord, en opposant aux emplois neutres, qui sont compris et employés dans l’ensemble de la francophonie active, des emplois qualifiés de régionaux ou rapportés à une communauté précise (‘en français d’Afrique’, en ‘français des Antilles’, par exemple). Ces marques correspondent à l’élargissement de la nomenclature par rapport à la norme ‘centrale’: termes régionaux de France (du Nord, de l’Est, de l’Ouest, du domaine franco-provençal, d’Occitanie…), de Belgique, de Suisse romande, du Québec et des lieux où le français est une langue apprise, non maternelle (français d’Afrique, du Maghreb, des Antilles). (Robert <ref type="bibr" target="#B11">1985</ref>, vol. 1, p. xl ; <hi rend="italic">cf</hi>. aussi Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, pp. lii–liii)</p>
+                     </quote>
+                  </cit>
+Cet extrait indique aussi que, parmi les diverses variétés nationales de français, seule celle de France semble ne pas posséder de faits de langue qui lui sont propres, en dehors de ses régionalismes internes, comme le montre le <ref type="table" target="#T1">tableau 1</ref>. À cet égard, l’absence de la nomenclature du terme <hi rend="italic">francisme</hi>, pourtant bien attesté dans la documentation linguistique depuis le milieu des années 1980, est significative, comme l’est tout autant la présence de <hi rend="italic">belgicisme</hi> ou <hi rend="italic">belgisme</hi>, d’<hi rend="italic">helvétisme</hi> ou <hi rend="italic">suissisme</hi>, de <hi rend="italic">canadianisme</hi> ou <hi rend="italic">québécisme</hi>, d’<hi rend="italic">africanisme</hi> et de <hi rend="italic">sénégalisme</hi>
+                  <ref type="fn" target="#NT1">
+                     <hi rend="superscript">1</hi>
+                  </ref>, autres termes qui lui font pendant.
+<table xml:id="T1" rend="float">
+                     <head type="label">Tableau 1:</head>
+                     <head>Les variétés de français et leurs particularismes (d’après Robert <ref type="bibr" target="#B11">1985</ref> et <ref type="bibr" target="#B12">2001</ref>)</head>
+                     <row>
+                        <cell role="td" rows="1" cols="1">
+                           <graphic url="ecp021i3"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Une telle conception envisage donc le français essentiellement à partir des usages qui ont cours en France, considérés comme communs à l’ensemble des francophones de tous les autres horizons, auxquels s’ajoute, selon les régions, un stock plus ou moins considérable de particularismes, ce qu’illustre la <ref type="fig" target="#F1">figure 1</ref>, sur laquelle nous reviendrons plus loin.
+<figure xml:id="F1">
+                     <head type="label">Figure 1:</head>
+                     <figure>
+                        <figDesc>Représentation du français (d’après Robert <ref type="bibr" target="#B11">1985</ref> et <ref type="bibr" target="#B12">2001</ref>).</figDesc>
+                     </figure>
+                     <graphic url="ecp021f1"/>
+                  </figure>
+               </p>
+               <p>Elle conduit aussi à croire que le <hi rend="italic">Grand Robert</hi>, avec l’ouverture qu’il manifeste à l’endroit des particularismes extra-hexagonaux, est de nature à répondre aux besoins de tous les locuteurs francophones, qu’ils soient de France ou d’ailleurs :
+<cit>
+                     <quote>
+                        <p>La nomenclature du <hi rend="italic">Grand Robert</hi> […] est soumise à une conception précise des besoins de l’utilisateur. Celui-ci, que le français soit pour lui langue maternelle ou langue étrangère bien maîtrisée, doit pouvoir trouver dans son dictionnaire la totalité des mots de la conversation courante, la quasi-totalité de ceux qui sont employés dans un périodique général d’information, et une grande partie de ceux que l’on trouve dans les textes littéraires effectivement lus ou écoutés. (Robert <ref type="bibr" target="#B11">1985</ref>, vol. 1, p. xxii ; <hi rend="italic">cf</hi>. aussi Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. xxvii)</p>
+                     </quote>
+                  </cit>
+Mais est-ce bien le cas ? Pour répondre à cette question, nous adopterons le point de vue des Québécois que nous sommes et nous examinerons maintenant un échantillon aléatoire de la nomenclature de l’ouvrage, tant québécoise que non québécoise.</p>
+            </div>
+         </div>
+         <div xml:id="SEC4">
+            <head>4. Regard québécois sur la pratique lexicographique du <hi rend="italic">Grand Robert</hi>
+            </head>
+            <div xml:id="SEC4.1">
+               <head>4.1. Emplois réputés être des particularismes québécois ou canadiens</head>
+               <p>À partir des canadianismes et québécismes figurant dans le mémoire de maîtrise qu’Annie Galarneau (<ref type="bibr" target="#B18">1999</ref>) a consacré aux nord-américanismes dans le <hi rend="italic">Nouveau Petit Robert</hi> (NPR), à partir de la version informatisée du <hi rend="italic">Trésor de la langue française</hi> (TLFi) et de la deuxième version du <hi rend="italic">Petit Robert</hi> sur CD-ROM (NPR-CD), ainsi qu’à partir de dépouillements personnels, nous avons établi une première liste de particularismes canadiens et québécois susceptibles de figurer dans le Robert <ref type="bibr" target="#B12">2001</ref>. Parmi eux, nous avons ensuite retenu tous ceux qui figuraient dans l’une ou l’autre des tranches alphabétiques suivantes de l’ouvrage : C, L, M, N, O et P. Cet échantillon, qui comprend au total 160 emplois (<hi rend="italic">cf</hi>. <ref type="app" target="#APP1">Annexe</ref>), servira à illustrer nos propos qui concerneront d’abord la composition de la nomenclature canadienne et québécoise, puis le traitement auquel elle a donné lieu.</p>
+               <div xml:id="SEC4.1.1">
+                  <head>4.1.1. Composition de la nomenclature canadienne et québécoise</head>
+                  <p>Si les unités qui constituent la nomenclature canadienne et québécoise sont le plus souvent des lexèmes – qu’il s’agisse de mots simples (<hi rend="italic">crédit</hi> ‘unité de valeur dans l’enseignement universitaire’<hi rend="superscript">2</hi>; <hi rend="italic">maskinongé</hi> ‘poisson d’eau douce du Canada, apparenté au brochet’; <hi rend="italic">piton</hi> ‘jeton rond’; etc.) ou construits (<hi rend="italic">baise-la-piastre</hi> ‘avare’, sous <hi rend="italic">piastre</hi> ; <hi rend="italic">coureur de bois</hi> ‘chasseur et trappeur’, sous <hi rend="italic">coureur</hi> ; <hi rend="italic">niaiser</hi> ; etc.) –, d’autres correspondent plutôt à des collocations (<hi rend="italic">c’est correct</hi> ‘ça va bien’, sous <hi rend="italic">correct</hi> ; <hi rend="italic">faire chantier</hi> ‘abattre et scier des arbres’, sous <hi rend="italic">chantier</hi> ; <hi rend="italic">les chars</hi> ‘le train’, sous <hi rend="italic">char</hi> 1 ; etc.). On trouve aussi un bon nombre d’appellations ayant valeur de noms propres (<hi rend="italic">la Belle Province</hi> ‘le Québec’, sous <hi rend="italic">province</hi> ; <hi rend="italic">les Cantons de l’Est</hi>, sous <hi rend="italic">canton</hi> ; <hi rend="italic">les Maritimes</hi>, sous <hi rend="italic">maritime</hi> ; etc.), ainsi que diverses abréviations de termes désignant des poids et des mesures (<hi rend="italic">lb</hi>, sous <hi rend="italic">livre</hi> 2 ; <hi rend="italic">pi</hi>, sous <hi rend="italic">pied</hi> ; <hi rend="italic">po</hi>, sous <hi rend="italic">pouce</hi> ; etc.).</p>
+                  <p>Cette nomenclature est par ailleurs composée non seulement de véritables particularismes canadiens ou québécois (<hi rend="italic">niaiseux</hi> ‘niais, sot’ et <hi rend="italic">casse-tête</hi> ‘puzzle’, par exemple), mais aussi de nombreux mots et emplois qui, sans être des particularismes au sens strict, renvoient à des réalités proprement canadiennes ou québécoises (<hi rend="italic">cégep</hi> ‘collège d’enseignement général et professionnel, situé entre le secondaire et l’université’; <hi rend="italic">comté</hi> ‘subdivision territoriale administrative’, sous <hi rend="italic">comté</hi> 1 ; <hi rend="italic">le Protecteur du citoyen</hi> ‘fondé de pouvoir de l’Assemblée nationale, nommé pour un mandat de cinq ans, ayant pour fonction de défendre les droits du citoyen face à l’administration gouvernementale’, sous <hi rend="italic">protecteur</hi> ; etc.).</p>
+                  <p>Elle touche en outre divers secteurs de l’activité humaine : politique (<hi rend="italic">conservateur</hi> ‘membre du parti [<hi rend="italic">sic</hi>] conservateur’), administration (<hi rend="italic">canton</hi> ‘division cadastrale de cent milles carrés environ’; <hi rend="italic">province</hi> ‘État fédéré doté d’un gouvernement propre, souverain dans le domaine de ses compétences’), éducation (<hi rend="italic">polyvalente</hi> ‘école dispensant une formation générale commune et offrant un éventail de cours assez complet pour permettre aux élèves de se composer un programme individuel d’après leurs options’, sous <hi rend="italic">polyvalent</hi> ; <hi rend="italic">professeur agrégé</hi> ‘[professeur] rattaché au personnel permanent d’une université’, sous <hi rend="italic">professeur</hi>), télécommunications (<hi rend="italic">canal de télévision</hi> ‘chaîne’, sous <hi rend="italic">canal</hi> ; <hi rend="italic">courriel</hi> ‘courrier électronique’), géographie et climat (<hi rend="italic">nordique</hi> ‘qui est relatif aux régions et habitants situés dans toute la partie septentrionale de l’hémisphère boréal’; <hi rend="italic">poudrerie</hi> ‘neige chassée par le vent […]’, sous <hi rend="italic">poudrerie</hi> 1), faune et flore (<hi rend="italic">cocotte</hi> ‘pomme de pin’, sous <hi rend="italic">cocotte</hi> 3 ; <hi rend="italic">maskinongé</hi> ‘poisson d’eau douce du Canada, apparenté au brochet’; <hi rend="italic">pimbina</hi> ‘fruit de l’obier ou viorne’), poids et mesures (<hi rend="italic">pied</hi> ‘mesure valant 12 pouces, soit, [<hi rend="italic">sic</hi>] 30,48 cm’; <hi rend="italic">pinte</hi> ‘mesure de capacité […] valant 2 chopines ou un quart de gallon, soit 1,136 litre’; <hi rend="italic">pouce</hi> ‘douzième partie du pied, subdivisée en huit lignes, soit 2,54 cm’), us et coutumes (<hi rend="italic">chantier</hi> ‘exploitation forestière’; <hi rend="italic">corvée</hi> ‘travail en commun, entre voisins ou amis, occasionnel et gratuit’; <hi rend="italic">salon mortuaire</hi> ‘[endroit] où sont exposés les morts, avant l’enterrement’, sous <hi rend="italic">mortuaire</hi> et <hi rend="italic">salon</hi>), etc.</p>
+                  <p>Dans l’ensemble, la nomenclature canadienne et québécoise répond donc relativement bien aux critères ayant présidé à la sélection des particularismes extra-hexagonaux dans l’ouvrage :
+<cit>
+                        <quote>
+                           <p>Le choix de ces termes, étrangers à la norme ‘centrale’ du français, est délicat. Deux principes ont commandé la sélection : celui de la représentativité et celui de l’intérêt socio-culturel. (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. xxvii)</p>
+                        </quote>
+                     </cit>
+Il subsiste néanmoins bien des emplois qui ne répondent ni à l’un ni à l’autre de ces critères et qui contribuent à donner une mauvaise idée de ce qui particularise la variété québécoise de français. C’est le cas notamment de <hi rend="italic">capot</hi> ‘manteau à capuchon’ (sous <hi rend="italic">capot</hi> 1), qui ne se dit plus guère de nos jours, de <hi rend="italic">chanter matines</hi> ‘chanter le matin [en parlant d’un coq]’ (sous <hi rend="italic">chanter</hi> et <hi rend="italic">matines</hi>), création attestée seulement sous la plume de l’écrivain Jacques Ferron (<hi rend="italic">cf</hi>. Seutin et Clas), de <hi rend="italic">frotter la chanterelle</hi> ‘jouer du violon’ (sous <hi rend="italic">chanterelle</hi> 1), qui est peut-être une autre création d’auteur, de <hi rend="italic">avoir une corneille à plumer avec qqn</hi> ‘avoir une affaire à régler avec qqn’ (sous <hi rend="italic">corneille</hi>), attesté seulement dans le <hi rend="italic">Glossaire du parler français au Canada</hi> (GPFC), paru en 1930, puis repris en 1980 dans le <hi rend="italic">Dictionnaire de la langue québécoise</hi> de Léandre Bergeron, de <hi rend="italic">cité parlementaire</hi> ‘ensemble des bâtiments du parlement’ (sous <hi rend="italic">cité</hi>), qui ne fait pas le poids par rapport à <hi rend="italic">colline parlementaire</hi>, de <hi rend="italic">constituante</hi> ‘université ou institut de recherches faisant partie de l’université [<hi rend="italic">sic</hi>] du Québec’ (sous <hi rend="italic">constituant</hi>) et de <hi rend="italic">nordisme</hi> ‘ensemble des attitudes mentales ou des activités exprimant un engagement en faveur du Nord’, tous les deux peu usités en dehors de certains milieux spécialisés. C’est aussi le cas de quelques termes tout à fait inusités et dont on s’explique mal la présence dans l’ouvrage : <hi rend="italic">doc</hi> ‘disque optique compact’ (sous <hi rend="italic">CD-ROM</hi>) et <hi rend="italic">label</hi> ‘étiquette’, par exemple.</p>
+                  <p>La nomenclature canadienne et québécoise mériterait donc d’être revue et actualisée. Ainsi, on ne peut que s’étonner devant la présence de noms de certains partis politiques aujourd’hui disparus (<hi rend="italic">Crédit social</hi>, <hi rend="italic">Ralliement des créditistes</hi> et <hi rend="italic">le parti de l’Union nationale</hi>), alors que ceux de partis beaucoup plus représentatifs de la dynamique politique actuelle sont absents (<hi rend="italic">Parti libéral du Canada</hi>, <hi rend="italic">Bloc québécois</hi>, <hi rend="italic">Parti libéral du Québec</hi> et <hi rend="italic">Action démocratique du Québec</hi>).</p>
+               </div>
+               <div xml:id="SEC4.1.2">
+                  <head>4.1.2. Traitement de la nomenclature canadienne et québécoise</head>
+                  <p>Le traitement auquel a été soumise cette nomenclature est problématique à maints égards, à commencer par l’indication de la prononciation des unités qui la composent<ref type="fn" target="#NT3">
+                        <hi rend="superscript">3</hi>
+                     </ref>, et il serait trop long d’évoquer ici tous les problèmes qui se posent (pour une vue d’ensemble, <hi rend="italic">cf</hi>. Galarneau <ref type="bibr" target="#B18">1999</ref>). Nous nous limiterons à ceux qui concernent l’identification des particularismes canadiens et québécois, leur marquage socio-stylistique et leur définition.</p>
+                  <div xml:id="SEC4.1.2.1">
+                     <head>4.1.2.1. Identification des particularismes canadiens et québécois</head>
+                     <p>L’identification des particularismes canadiens et québécois varie selon que le caractère régional de ces derniers porte sur le signe-nommant ou sur la chose-nommée.</p>
+                     <p>Ceux dont le caractère régional porte sur le signe-nommant, et qui constituent de ce fait de véritables régionalismes, sont identifiés au moyen d’une marque topolectale qui peut revêtir diverses formes. On trouve d’abord la marque <hi rend="italic">Régional</hi>, suivie, entre parenthèses, de l’indication <hi rend="italic">Canada</hi> (<hi rend="italic">chaudière</hi> ‘seau métallique’; <hi rend="italic">chrétien</hi> ‘humain [en parlant de qqch.]’; <hi rend="italic">niaiseux</hi> ‘niais, sot’; etc.). Dans certains cas, <hi rend="italic">Canada</hi> peut être accompagné du nom d’une ou de plusieurs autres régions, ce qui signifie que le particularisme n’est pas exclusif à l’aire canadienne (<hi rend="italic">chaud</hi> ‘ivre’, qui est donné comme usité aussi dans l’Ouest de la France ; <hi rend="italic">poser un acte, un geste</hi> ‘commettre [un acte, un geste], l’accomplir’, sous <hi rend="italic">poser</hi>, qui l’est comme usité aussi en Belgique ; etc.). À cet égard, l’adjectif <hi rend="italic">cru</hi> ‘humide et froid (temps, atmosphère)’ (sous <hi rend="italic">cru</hi> 2) constitue un cas plutôt révélateur du point de vue adopté : donné comme usité dans le Nord, dans l’Est et dans d’autres régions de France, en Belgique, en Suisse et au Canada, il n’en reste pas moins accompagné de la marque <hi rend="italic">Régional</hi>. On trouve aussi, le plus souvent à l’intérieur de parenthèses, les marques <hi rend="italic">Au Canada</hi> ou <hi rend="italic">Franç. du Canada</hi>, et <hi rend="italic">Au Québec</hi>, <hi rend="italic">En franç. du Québec</hi> ou <hi rend="italic">Franç. du Québec</hi>, équivalant respectivement à ‘En français du Canada’ et à ‘En français du Québec’ (<hi rend="italic">cf</hi>. <hi rend="italic">piastre</hi> ‘dollar’, <hi rend="italic">niaiser</hi> ‘faire le niais, le niaiseux’, <hi rend="italic">patates frites</hi> (sous <hi rend="italic">patate</hi>), <hi rend="italic">piton</hi> ‘bouton de commande (d’un appareil), touche’ et <hi rend="italic">catalogne</hi> ‘étoffe dont la trame est faite de bandes de tissus généralement multicolores’). Enfin, l’identification des particularismes canadiens et québécois peut prendre la forme d’un commentaire (<hi rend="italic">cf</hi>. <hi rend="italic">laveuse</hi> qui, sans être identifié comme un canadianisme, est néanmoins donné comme ‘cour[ant] en français du Canada’, ce qui suppose qu’il ne l’est pas dans d’autres variétés).</p>
+                     <p>Quant aux particularismes dont le caractère régional porte sur la chose-nommée et qui, par conséquent, ne sont pas de véritables régionalismes, ils sont souvent identifiés au moyen de la tournure ‘Au Canada’ ou ‘Au Québec’, placée immédiatement devant la définition dont elle est séparée par une virgule ; cette tournure équivaut alors à ‘En référence au Canada’ ou à ‘En référence au Québec’ (<hi rend="italic">cf</hi>. <hi rend="italic">comté</hi> ‘subdivision territoriale administrative’ et <hi rend="italic">cégep</hi> ‘collège d’enseignement général et professionnel, situé entre le secondaire et l’université’). Ce procédé, qui n’est nulle part explicité dans l’ouvrage, n’est cependant pas systématique. Dans bien des cas en effet, ces particularismes sont identifiés tantôt au moyen du même système de marquage que celui déjà utilisé pour identifier ceux dont le caractère régional porte sur le signe-nommant (<hi rend="italic">cf</hi>. <hi rend="italic">cours collégial</hi> ‘cours de formation générale et professionnelle, situé entre le secondaire et l’université’, sous <hi rend="italic">collégial</hi>, identifié au moyen de la marque ‘(Au Québec)’), tantôt par une marque insérée à l’intérieur de parenthèses habituellement réservées à des renseignements de nature historique, comme dans les deux exemples suivants :
+<cit>
+                           <quote>
+                              <p>
+                                 <hi rend="bold">protonotaire</hi> n. m. (Canada, 1795) Fonctionnaire chargé de l’enregistrement des actes dans un bureau régional.</p>
+                              <p>
+                                 <hi rend="bold">provincial</hi> adj. (Canada, 1867) Qui concerne le gouvernement d’une province (opposé à <hi rend="italic">fédéral*</hi>).</p>
+                           </quote>
+                        </cit>
+                     </p>
+                     <p>Si l’idée d’identifier différemment les particularismes dont le caractère régional porte sur le signe-nommant et ceux dont ce caractère porte sur la chose-nommée est fondée d’un point de vue théorique, la pratique qui en découle n’est pas encore au point. Ainsi, bien des Québécois interpréteront peut-être comme des régionalismes des faits qui n’en sont pas et qui sont essentiels à leur expression, avec le risque que cette mauvaise interprétation accentue davantage leur insécurité linguistique.</p>
+                  </div>
+                  <div xml:id="SEC4.1.2.2">
+                     <head>4.1.2.2. Marquage socio-stylistique des particularismes canadiens et québécois</head>
+                     <p>Si la majorité des particularismes figurant dans notre échantillon sont non marqués dans l’usage québécois (<hi rend="italic">casse-croûte</hi> ‘café, restaurant ou bar où l’on sert des repas rapides’, <hi rend="italic">ciné-parc</hi> ‘cinéma en plein air’, <hi rend="italic">mitaine</hi> ‘moufle’ et <hi rend="italic">pharmacie</hi> ‘établissement commercial comprenant une pharmacie, un débit de tabac, et parfois un comptoir où l’on sert des rafraîchissements, des repas légers, et où l’on vend des produits de beauté et de menus articles’, par exemple), d’autres le sont, notamment du point de vue socio-stylistique. Parmi ceux-ci, certains sont accompagnés d’une marque et d’autres non.</p>
+                     <p>Lorsqu’elles sont présentes, les marques socio-stylistiques ne conviennent guère au contexte québécois ; c’est le cas notamment des marques <hi rend="italic">Pop</hi>. et <hi rend="italic">Fam</hi>., employées de façon mutuellement exclusive dans l’ouvrage. Ainsi, <hi rend="italic">piastre</hi> ‘dollar’ est donné comme populaire, c’est-à-dire comme ‘un mot […] courant dans la langue parlée des milieux populaires (parfois argot ancien répandu), qui ne s’emploierait pas normalement dans un milieu social élevé’ (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. lxxii), tandis que <hi rend="italic">cenne</hi> n. f. ‘cent’, dont l’usage est pourtant tout à fait comparable, est donné comme familier, c’est-à-dire comme ‘un mot […] appartenant à l’usage parlé ou écrit de la langue quotidienne : conversation, etc., mais qui ne s’emploierait pas dans les circonstances solennelles’ (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. lxviii). En réalité, ces deux mots s’entendent autant dans la langue des personnes peu ou non scolarisées que dans celle des personnes qui le sont davantage, du moins lorsque celles-ci se trouvent dans des situations non formelles de communication. Pour rendre compte de ces deux aspects, il faudrait donc recourir à une double marque, par exemple à <hi rend="italic">Pop. ou fam</hi>., à la condition bien entendu d’accepter de qualifier de populaires les mots et les emplois qui se rencontrent avant tout dans la langue des locuteurs peu ou non scolarisés, et de familiers ceux qui se rencontrent dans la langue des personnes plus scolarisées quand elles se trouvent en situation non formelle de communication. Dans le même ordre d’idées, le marquage de certains emplois est inexact. Ainsi, <hi rend="italic">char</hi> ‘voiture automobile’ (sous <hi rend="italic">char</hi> 1) est donné à tort comme vieilli ou rural ; dans les faits, cet emploi relève lui aussi de la langue populaire ou familière. Ainsi encore, <hi rend="italic">sou</hi> est donné comme familier alors qu’il relève plutôt de la langue soignée.</p>
+                     <p>En revanche, certains mots ne sont accompagnés d’aucune marque socio-stylistique alors qu’ils auraient mérité de l’être. Citons par exemple <hi rend="italic">chaud</hi> ‘ivre’, <hi rend="italic">chauffer</hi> ‘conduire une automobile’ (sous <hi rend="italic">chauffer</hi> 1), <hi rend="italic">niaiser</hi> ‘faire le niais, le niaiseux’ et <hi rend="italic">piton</hi> ‘bouton de commande (d’un appareil), touche’, qui ne sont pas, dans l’usage québécois, ‘d’emploi normal pour une personne cultivée’ (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. liv), sauf si celle-ci se trouve dans une situation non formelle de communication.</p>
+                  </div>
+                  <div xml:id="SEC4.1.2.3">
+                     <head>4.1.2.3. Définition des particularismes canadiens et québécois</head>
+                     <p>Les définitions (ou les renvois qui en tiennent lieu) des particularismes canadiens et québécois font difficulté<ref type="fn" target="#NT4">
+                           <hi rend="superscript">4</hi>
+                        </ref>.</p>
+                     <p>Il arrive d’abord qu’elles soient formulées dans une métalangue qui s’adresse essentiellement aux locuteurs ‘centraux’, c’est-à-dire qu’elles sont composées de termes inusités ou peu connus hors de France, sinon partout du moins au Québec (<hi rend="italic">mitaine</hi>, qui renvoie à <hi rend="bold">moufle</hi>; <hi rend="italic">pharmacie</hi>, défini par ‘établissement commercial comprenant une pharmacie, un <hi rend="bold">débit de tabac</hi>, et parfois un comptoir où l’on sert des rafraîchissements, des repas légers, et où l’on vend des produits de beauté et de menus articles’; <hi rend="italic">optométriste</hi>, par <hi rend="bold">réfractionniste</hi>; etc.)<ref type="fn" target="#NT5">
+                           <hi rend="superscript">5</hi>
+                        </ref>. Par ailleurs, il y a parfois peu de rapport entre le défini et le renvoi tenant lieu de définition. Ainsi, dans la mesure où <hi rend="italic">camp</hi> désigne une cabane de bois construite en forêt, souvent destinée à abriter des chasseurs et des pêcheurs, le renvoi à <hi rend="italic">villa</hi> étonnera plus d’un Québécois pour qui ce dernier mot évoque une résidence luxueuse<ref type="fn" target="#NT6">
+                           <hi rend="superscript">6</hi>
+                        </ref>. Il en va de même pour le renvoi à <hi rend="italic">pavillon</hi> qui tient lieu de définition à <hi rend="italic">camp de chasse</hi> et à <hi rend="italic">camp de pêche</hi>; dans l’usage québécois, <hi rend="italic">pavillon</hi> évoque en effet un édifice beaucoup plus vaste.</p>
+                     <p>Enfin, les définitions sont souvent inadéquates. Par exemple, définir <hi rend="italic">chauffer</hi> par ‘conduire (une automobile)’ ou <hi rend="italic">chaudière</hi> par ‘seau métallique’ est trop restrictif ; on peut chauffer aussi un autobus, un camion, un tracteur ou tout autre véhicule automobile, et il existe aussi des chaudières en plastique. Ainsi encore, définir <hi rend="italic">magasiner</hi> par ‘aller dans les magasins pour faire divers achats’ est insuffisant ; on peut magasiner sans nécessairement acheter, par exemple en comparant les prix d’un magasin à l’autre en vue d’un achat éventuel ou simplement en faisant du lèche-vitrines. Il en va de même pour <hi rend="italic">chaloupe</hi>, qui est défini par ‘petit bateau à rames’, mais qui désigne plutôt une embarcation non pontée, à rames ou à moteur.</p>
+                  </div>
+               </div>
+            </div>
+            <div xml:id="SEC4.2">
+               <head>4.2. Emplois supposés ‘communs’</head>
+               <p>Comme nous l’avons vu, la description proposée dans le <hi rend="italic">Grand Robert</hi> repose sur une vision de la langue qui suppose que tous les mots et emplois non identifiés comme des particularismes sont ‘neutres’, c’est-à-dire ‘compris et employés dans l’ensemble de la francophonie active’ (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. xl). Nous avons donc examiné un certain nombre de ces emplois supposés ‘communs’ à la lumière de l’ensemble de la documentation disponible au Trésor de la langue française au Québec, que dirige le professeur Claude Poirier à l’Université Laval, et dans la banque de données <hi rend="italic">Eureka.cc</hi>.</p>
+               <div xml:id="SEC4.2.1">
+                  <head>4.2.1. Emplois inusités au Québec</head>
+                  <p>Il ressort d’abord que bon nombre des emplois supposés être ‘employés dans l’ensemble de la francophonie active’ (Robert <ref type="bibr" target="#B12">2001</ref>, vol. 1, p. xl) sont tout à fait inusités au Québec ; citons par exemple <hi rend="italic">verbaliser</hi> ‘émettre une contravention’, <hi rend="italic">papillon</hi> ‘avis de contravention’, <hi rend="italic">fléché</hi> ‘qui est indiqué par des flèches, jalonné de panneaux indiquant la route à suivre (en parlant d’une destination, d’un parcours)’, <hi rend="italic">bouquiner</hi> ‘lire’ (chez nous, ce verbe a plutôt le sens de ‘aller dans une librairie pour regarder, acheter des livres’), <hi rend="italic">avoir les deux pieds dans le même sabot</hi> ‘être gauche, maladroit’ (sous <hi rend="italic">pied</hi>; nous disons plutôt <hi rend="italic">avoir les deux pieds dans la même bottine</hi>), <hi rend="italic">fumer comme un Suisse, comme un dragon, comme un sapeur</hi> ‘fumer beaucoup’ (nous disons plutôt <hi rend="italic">fumer comme une cheminée</hi>, expression absente de la plupart des dictionnaires français). Ces exemples, qui sont étrangers à l’usage québécois et qui pourraient facilement être multipliés, démontrent que le terme de <hi rend="italic">francisme</hi>, bien qu’encore absent de la plupart des dictionnaires<ref type="fn" target="#NT7">
+                        <hi rend="superscript">7</hi>
+                     </ref>, correspond à quelque chose de réel, pour peu que l’on porte sur la langue française un regard non ‘central’ (sur cette question, <hi rend="italic">cf</hi>. notamment Verreault <ref type="bibr" target="#B29">1996</ref>, et Wauthion <ref type="bibr" target="#B30">2001</ref>).</p>
+               </div>
+               <div xml:id="SEC4.2.2">
+                  <head>4.2.2. Emplois usités au Québec</head>
+                  <p>La majorité des emplois réputés ‘communs’ sont bien sûr usités aussi au Québec. Dans bien des cas cependant, la description proposée ne rend pas compte de l’usage québécois. Par exemple, <hi rend="italic">balade</hi> ‘action de se balader, de se promener sans but précis’ est donné comme familier, tandis que cet emploi ressortit plutôt à la langue soignée ou littéraire de notre côté de l’Atlantique. Par exemple encore, dans l’usage québécois, l’opposition entre <hi rend="italic">japper</hi> et <hi rend="italic">aboyer</hi> ne repose ni sur l’intensité des cris poussés ni sur l’âge du chien qui les pousse ; le premier est tout simplement courant alors que le second se rencontre plutôt dans la langue soignée ou littéraire. Citons encore le cas de <hi rend="italic">capoter</hi>, qui est si marqué chez nous qu’on ne saurait l’entendre sans sursauter dans la bouche d’un lecteur de nouvelles qui nous apprendrait que des négociations ont capoté, et celui de <hi rend="italic">doigt de pied</hi>, qu’aucun Québécois n’emploierait à la place d’<hi rend="italic">orteil</hi>, sauf pour plaisanter.</p>
+               </div>
+            </div>
+         </div>
+         <div type="conclusion" xml:id="SEC5">
+            <head>5. Conclusion</head>
+            <p>Que retenir de tout ce qui précède ? Certainement pas que le <hi rend="italic">Grand Robert</hi> est un mauvais dictionnaire. Au contraire, il s’agit d’un très bon dictionnaire, mais d’un dictionnaire qui décrit avant tout une partie – et une partie seulement – du français ‘central’, autrement dit, en termes moins euphémiques, une partie des usages qui ont cours en France. Nous tenons d’ailleurs à rappeler ici que nous avons choisi cet ouvrage comme témoin d’une vision de la langue et d’une pratique lexicographique qui ne lui sont pas exclusives; elles se rencontrent aussi dans d’autres dictionnaires, notamment dans <hi rend="italic">Le Nouveau Petit Robert</hi> (NPR), dans <hi rend="italic">Le Petit Larousse illustré</hi> (PLI), et même dans le <hi rend="italic">Dictionnaire universel francophone</hi> (DUF).</p>
+            <p>La conception de la langue qui sous-tend cette pratique lexicographique (<hi rend="italic">cf</hi>. <ref type="fig" target="#F1">figure 1</ref>), qui est celle à laquelle les locuteurs francophones ont longtemps été habitués et qui suppose que tout ce qui leur est commun est déjà connu, présente deux faiblesses (<hi rend="italic">cf</hi>. Mercier et Verreault <ref type="bibr" target="#B21">2002</ref>). D’une part, elle ne distingue pas le français comme langue et le français de France comme variété dominante de cette langue ; de l’autre, elle ne peut que projeter une image partielle et inexacte du fonctionnement du français à l’échelle de la francophonie.</p>
+            <p>La <ref type="fig" target="#F2">figure 2</ref>, que nous reprenons de Mercier et Verreault (<ref type="bibr" target="#B21">2002</ref>), représente une autre conception qui nous semble davantage apte à rendre compte du fonctionnement réel du français. Elle part du principe que toutes les communautés socioculturelles de la grande communauté linguistique francophone ont le français en partage, mais qu’en raison de l’histoire singulière de chacune de ces communautés, le français s’y est développé d’une façon particulière, pour donner naissance à des variétés partiellement distinctes. S’il est question de variétés distinctes de français, c’est que la différence ne se résume pas à l’inventaire plus ou moins développé de particularismes, mais qu’elle s’étend aussi, plus profondément, à l’organisation même de ces éléments spécifiques avec ceux qui ne sont pas réputés être des particularismes. Ainsi, l’usage de <hi rend="italic">déranger</hi>, <hi rend="italic">embêter</hi>, <hi rend="italic">emmerder</hi> ou <hi rend="italic">importuner</hi> n’est pas moins québécois que celui de <hi rend="italic">achaler</hi>, <hi rend="italic">bâdrer</hi> ou <hi rend="italic">écœurer</hi>. Les Québécois ont spontanément accès à toutes ces ressources, parmi lesquelles ils savent choisir en fonction de la situation de communication et de l’effet visé.
+<figure xml:id="F2">
+                  <head type="label">Figure 2:</head>
+                  <figure>
+                     <figDesc>Le français et sa représentation (d’après Mercier et Verreault, <ref type="bibr" target="#B21">2002</ref>)<ref type="fn" target="#NT8">
+                           <hi rend="superscript">8</hi>
+                        </ref>.</figDesc>
+                  </figure>
+                  <graphic url="ecp021f2"/>
+               </figure>
+            </p>
+            <p>Cette nouvelle représentation permet de bien dissocier le <hi rend="italic">français</hi> comme langue, c’est-à-dire comme moyen d’expression partagé par l’ensemble des francophones, du <hi rend="italic">français de France</hi> comme l’une des variétés actuelles de cette langue et, pour diverses raisons, dominant toutes les autres. Elle invite également à considérer les variétés extra-hexagonales de français comme des variétés fonctionnelles au même titre que la variété de France. Enfin, elle ne peut que déboucher sur une remise en question de la pratique lexicographique qui caractérise actuellement les dictionnaires français, de plus en plus ouverts à la francophonie, pratique dont il faut certes se réjouir mais qui a maintenant atteint ses limites et qui ne sera jamais satisfaisante ; elle risque au contraire d’entretenir un mirage de la langue parlée par l’ensemble des francophones plutôt que d’en fournir une image réelle. Le seul moyen de dissiper ce mirage serait de tout mettre en œuvre pour que chaque communauté francophone puisse décrire l’ensemble de ses usages linguistiques et non seulement ceux qui lui sont particuliers, comme n’a pas manqué de le souligner encore tout récemment Pierre Rézeau (<ref type="bibr" target="#B26">2008</ref> : 216).</p>
+         </div>
+      </body>
+      <back>
+         <note place="inline" n="NT1">
+            <p>1 Mentionnons encore ivoirisme, utilisé dans la présentation de l'ouvrage (cf. Robert 1985, vol. 1, p. xxiii, et Robert 2001, vol. 1, p. xxviii), mais absent de la nomenclature.</p>
+         </note>
+         <note place="inline" n="NT2">
+            <p>2 Les indications de sens que nous fournissons correspondent aux définitions telles que libellées dans le Robert 2001 ; l'absence d'indication de sens signifie que l'emploi décrit n'est pas défini dans l'ouvrage.</p>
+         </note>
+         <note place="inline" n="NT3">
+            <p>3 Par exemple, quand il désigne une automobile, char est prononcé [] ou [] dans l'usage québécois, jamais [∫ar] comme cela est indiqué dans l'ouvrage.</p>
+         </note>
+         <note place="inline" n="NT4">
+            <p>4 Plusieurs particularismes canadiens et québécois ne sont accompagnés d'aucune définition (laveuse-essoreuse et laveuse-sécheuse, sous laveur ; les Martitimes, sous maritime ; professeur titulaire, sous professeur ; etc.), ce qui soulève d'autres problèmes.</p>
+         </note>
+         <note place="inline" n="NT5">
+            <p>5 Le gras indique les termes qui sont inusités au Québec.</p>
+         </note>
+         <note place="inline" n="NT6">
+            <p>6 Contrairement à ce qui est indiqué dans l'ouvrage, camp d'été n'a pas le sens de ‘chalet, villa' au Québec; ce terme désigne plutôt un endroit fréquenté par les enfants pendant les vacances estivales, où ils peuvent s'adonner à diverses activités de plein air et à divers autres loisirs.</p>
+         </note>
+         <note place="inline" n="NT7">
+            <p>7 À ce jour, il ne figure que dans le DFP et le DUF.</p>
+         </note>
+         <note place="inline" n="NT8">
+            <p>8 Pour simplifier les choses, cette figure ne rend pas compte du fait que des emplois valorisés ou non marqués, tant dans le français de France que dans celui du Québec, peuvent aussi constituer des articularismes (le francisme chiropraxie et le québécisme chiropratique, par exemple).</p>
+         </note>
+         <note place="inline" n="NT9">
+            <p>9 Dans cette annexe, les définitions sont celles du Grand Robert.</p>
+         </note>
+         <div type="references">
+            <div type="references">
+               <biblStruct type="book" xml:id="B1">
+                  <monogr>
+                     <title level="m">Dictionnaire de la langue québécoise</title>
+                     <author>
+                        <persName>
+                           <surname>Bergeron</surname>
+                           <forename type="first">L</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1980</date>
+                        <pubPlace>Montréal-Nord</pubPlace>
+                        <publisher>VLB éditeur</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B2">
+                  <monogr>
+                     <title level="m">Dictionnaire universel francophone</title>
+                     <imprint>
+                        <date type="year">1997</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>AUPEL-UREF et Hachette Edicef</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B3">
+                  <monogr>
+                     <title level="m">Glossaire du parler français au Canada</title>
+                     <imprint>
+                        <date type="year">1968</date>
+                        <pubPlace>Québec</pubPlace>
+                        <publisher>Les Presses de l’Université Laval. (GPFC)</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B4">
+                  <monogr>
+                     <title level="m">Le Petit Larousse illustré en couleurs</title>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Larousse</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B5">
+                  <analytic>
+                     <title level="a" type="main">
+                        <hi rend="italic">Le Petit Robert sur CD-ROM. Version électronique du</hi> Nouveau Petit Robert</title>
+                  </analytic>
+                  <monogr>
+                     <title level="m" type="main">Le Petit Robert sur CD-ROM. Version électronique du Nouveau Petit Robert</title>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Dictionnaires Le Robert et VUEF. (NPR-CD)</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B6">
+                  <monogr>
+                     <title level="j">Le TLF informatisé</title>
+                     <note type="comment">
+                        <ref type="uri">http://atilf.atilf.fr/tlf.htm</ref> (TLFi)</note>
+                     <imprint>
+                        <date/>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B7">
+                  <monogr>
+                     <title level="m">Dictionnaire de la langue française</title>
+                     <author>
+                        <persName>
+                           <surname>Littré</surname>
+                           <forename type="first">É</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1863</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Librairie Hachette et Cie</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B8">
+                  <monogr>
+                     <title level="m">Le Nouveau Petit Robert. Dictionnaire alphabétique et analogique de la langue française</title>
+                     <author>
+                        <persName>
+                           <surname>Rey-Debove</surname>
+                           <forename type="first">J</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Rey</surname>
+                           <forename type="first">A</forename>
+                           <genName>(dir.)</genName>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1993</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Dictionnaires Le Robert. (NPR)</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B9">
+                  <monogr>
+                     <title level="m">Dictionnaire alphabétique et analogique de la langue française. Les mots et les associations d’idées</title>
+                     <author>
+                        <persName>
+                           <surname>Robert</surname>
+                           <forename type="first">P</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1951</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Société du Nouveau Littré et Le Robert</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B10">
+                  <monogr>
+                     <title level="m">Le Petit Robert. Dictionnaire alphabétique et analogique de la langue français</title>
+                     <author>
+                        <persName>
+                           <surname>Robert</surname>
+                           <forename type="first">P</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1977</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Société du Nouveau Littré</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B11">
+                  <monogr>
+                     <title level="m">Le Grand Robert de la langue française. Dictionnaire alphabétique et analogique de la langue française</title>
+                     <author>
+                        <persName>
+                           <surname>Robert</surname>
+                           <forename type="first">P</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1985</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Le Robert</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B12">
+                  <monogr>
+                     <title level="m">Le Grand Robert de la langue française. Dictionnaire alphabétique et analogique de la langue française</title>
+                     <author>
+                        <persName>
+                           <surname>Robert</surname>
+                           <forename type="first">P</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Dictionnaires Le Robert</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B27">
+                  <monogr>
+                     <title level="m">Richesses et particularités de la langue écrite du Québec</title>
+                     <author>
+                        <persName>
+                           <surname>Seutin</surname>
+                           <forename type="first">É</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Clas</surname>
+                           <forename type="first">A</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1979</date>
+                        <pubPlace>Montréal</pubPlace>
+                        <publisher>Université de Montréal</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B13">
+                  <monogr>
+                     <title level="m">Dictionnaire du français plus à l’usage des francophones d’Amérique</title>
+                     <editor>
+                        <surname>Shiaty</surname>
+                        <forename type="first">AE</forename>
+                     </editor>
+                     <imprint>
+                        <date type="year">1988</date>
+                        <pubPlace>Montréal</pubPlace>
+                        <publisher>Centre Éducatif et Culturel inc. (DFP)</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </div>
+            <div type="references">
+               <biblStruct type="book" xml:id="B14">
+                  <analytic>
+                     <title level="a" type="main">‘L’infini recèle 26 lettres. “Le Grand Robert” ou la langue française revue et corrigée’</title>
+                     <author>
+                        <persName>
+                           <surname>Bourgault-Côté</surname>
+                           <forename type="first">G</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="m">Le Soleil</title>
+                     <imprint>
+                        <date type="year">2001</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B15">
+                  <monogr>
+                     <title level="m">La francophonie</title>
+                     <author>
+                        <persName>
+                           <surname>Deniau</surname>
+                           <forename type="first">X</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Presses Universitaires de France</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B16">
+                  <analytic>
+                     <title level="a" type="main">‘Les canadianismes au <hi rend="italic">Petit Robert</hi> 1978’</title>
+                     <author>
+                        <persName>
+                           <surname>Dugas</surname>
+                           <forename type="first">J-Y</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Meta</title>
+                     <note type="content">DugasJ-Y‘Les canadianismes au Petit Robert 1978’Meta197924.3395410</note>
+                     <imprint>
+                        <date type="year">1979</date>
+                        <biblScope unit="vol">24.3</biblScope>
+                        <biblScope unit="page" from="395">395</biblScope>
+                        <biblScope unit="page" to="410">410</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <bibl type="other" xml:id="B17"/>
+               <biblStruct type="book" xml:id="B18">
+                  <monogr>
+                     <title level="m">
+                        <hi rend="italic">Traitement des nord-américanismes et prise en compte du contexte nord-américain dans le</hi> Nouveau Petit Robert</title>
+                     <author>
+                        <persName>
+                           <surname>Galarneau</surname>
+                           <forename type="first">A</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <publisher>Mémoire de maîtrise, Université Laval</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B19">
+                  <monogr>
+                     <title level="m">Problèmes de lexicologie québécoise. Prolégomènes à un Trésor de la langue française au Québec</title>
+                     <author>
+                        <persName>
+                           <surname>Juneau</surname>
+                           <forename type="first">M</forename>
+                        </persName>
+                     </author>
+                     <imprint>
+                        <date type="year">1977</date>
+                        <pubPlace>Québec</pubPlace>
+                        <publisher>Les Presses de l’Université Laval</publisher>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B20">
+                  <analytic>
+                     <title level="a" type="main">‘Le Grand Robert pour les gourmets de la langue’</title>
+                     <author>
+                        <persName>
+                           <surname>Le Cours</surname>
+                           <forename type="first">R</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="m">La Presse</title>
+                     <imprint>
+                        <date type="year">2001</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B21">
+                  <analytic>
+                     <title level="a" type="main">‘Opposer français “standard” et français québécois pour mieux se comprendre entre francophones ? Le cas du <hi rend="italic">Dictionnaire québécois français</hi>’</title>
+                     <author>
+                        <persName>
+                           <surname>Mercier</surname>
+                           <forename type="first">L</forename>
+                        </persName>
+                     </author>
+                     <author>
+                        <persName>
+                           <surname>Verreault</surname>
+                           <forename type="first">C</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Le Français moderne</title>
+                     <note type="content">MercierLVerreaultC‘Opposer français “standard” et français québécois pour mieux se comprendre entre francophones ? Le cas du Dictionnaire québécois français’Le Français moderne200270.187108</note>
+                     <imprint>
+                        <date type="year">2002</date>
+                        <biblScope unit="vol">70.1</biblScope>
+                        <biblScope unit="page" from="87">87</biblScope>
+                        <biblScope unit="page" to="108">108</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B22">
+                  <analytic>
+                     <title level="a" type="main">‘Pluralité des normes et des appartenances. Convergences et divergences en situation pédagogique’</title>
+                     <author>
+                        <persName>
+                           <surname>Moreau</surname>
+                           <forename type="first">ML</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Terminogramme</title>
+                     <note type="content">MoreauML‘Pluralité des normes et des appartenances. Convergences et divergences en situation pédagogique’Terminogramme199991–924163</note>
+                     <imprint>
+                        <date type="year">1999</date>
+                        <biblScope unit="vol">91–92</biblScope>
+                        <biblScope unit="page" from="41">41</biblScope>
+                        <biblScope unit="page" to="63">63</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B23">
+                  <analytic>
+                     <title level="a" type="main">‘Les avenues de la lexicographie québécoise’</title>
+                     <author>
+                        <persName>
+                           <surname>Poirier</surname>
+                           <forename type="first">C</forename>
+                        </persName>
+                     </author>
+                     <editor>
+                        <surname>Boisvert</surname>
+                        <forename type="first">L</forename>
+                     </editor>
+                     <editor>
+                        <surname>Poirier</surname>
+                        <forename type="first">C</forename>
+                     </editor>
+                     <editor>
+                        <surname>Verreault</surname>
+                        <forename type="first">C</forename>
+                     </editor>
+                  </analytic>
+                  <monogr>
+                     <title level="m">La lexicographie québécoise : bilan et perspectives</title>
+                     <imprint>
+                        <date type="year">1986</date>
+                        <pubPlace>Québec</pubPlace>
+                        <publisher>Les Presses de l’Université Laval</publisher>
+                        <biblScope unit="page" from="269">269</biblScope>
+                        <biblScope unit="page" to="280">280</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B24">
+                  <analytic>
+                     <title level="a" type="main">‘Problèmes et méthodes d’un dictionnaire général du français québécois’</title>
+                     <author>
+                        <persName>
+                           <surname>Poirier</surname>
+                           <forename type="first">C</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Revue québécoise de linguistique théorique et appliquée</title>
+                     <note type="content">PoirierC‘Problèmes et méthodes d’un dictionnaire général du français québécois’Revue québécoise de linguistique théorique et appliquée19887.11354</note>
+                     <imprint>
+                        <date type="year">1988</date>
+                        <biblScope unit="vol">7.1</biblScope>
+                        <biblScope unit="page" from="13">13</biblScope>
+                        <biblScope unit="page" to="54">54</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B25">
+                  <analytic>
+                     <title level="a" type="main">‘Le Grand Robert de a à zzz’</title>
+                     <author>
+                        <persName>
+                           <surname>Précourt</surname>
+                           <forename type="first">D</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="m">Le Devoir</title>
+                     <imprint>
+                        <date type="year">2001</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B26">
+                  <analytic>
+                     <title level="a" type="main">‘La variation en français et les dictionnaires généraux : cercle vicieux ou cercle vertueux’</title>
+                     <author>
+                        <persName>
+                           <surname>Rézeau</surname>
+                           <forename type="first">P</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="m" type="main">‘La variation en français et les dictionnaires généraux : cercle vicieux ou cercle vertueux’</title>
+                     <imprint>
+                        <date type="year">2008</date>
+                        <pubPlace>Québec</pubPlace>
+                        <publisher>Gouvernement du Québec</publisher>
+                        <biblScope unit="page" from="215">215</biblScope>
+                        <biblScope unit="page" to="216">216</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B28">
+                  <analytic>
+                     <title level="a" type="main">‘Le traitement des régionalismes dans les notices étymologiques du <hi rend="italic">Trésor de la langue française</hi> : l’exemple du vocabulaire de G. Guèvremont’</title>
+                     <author>
+                        <persName>
+                           <surname>Thibault</surname>
+                           <forename type="first">A</forename>
+                        </persName>
+                     </author>
+                     <editor>
+                        <surname>Buchi</surname>
+                        <forename type="first">É</forename>
+                     </editor>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Actes du Séminaire de méthodologie en étymologie et histoire du lexique (Nancy/ATILF, année universitaire 2005/2006)</title>
+                     <note type="comment">
+                        <ref type="uri">http://www.atilf.fr</ref>
+                     </note>
+                     <note type="content">ThibaultABuchiÉ‘Le traitement des régionalismes dans les notices étymologiques du Trésor de la langue française : l’exemple du vocabulaire de G. Guèvremont’Actes du Séminaire de méthodologie en étymologie et histoire du lexique (Nancy/ATILF, année universitaire 2005/2006)2005NancyATILFhttp://www.atilf.fr</note>
+                     <imprint>
+                        <date type="year">2005</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="book" xml:id="B29">
+                  <analytic>
+                     <title level="a" type="main">‘Inclusion, reconnaissance et identification des francismes dans les dictionnaires québécois : problèmes et méthodes à la lumière de l’expérience du <hi rend="italic">Dictionnaire québécois d’aujourd’hui</hi>’</title>
+                     <author>
+                        <persName>
+                           <surname>Verreault</surname>
+                           <forename type="first">C</forename>
+                        </persName>
+                     </author>
+                     <editor>
+                        <surname>Lavoie</surname>
+                        <forename type="first">Thomas</forename>
+                     </editor>
+                  </analytic>
+                  <monogr>
+                     <title level="m">Français du Canada – Français de France. Actes du quatrième colloque international de Chicoutimi, Québec, du 21 au 24 septembre 1994</title>
+                     <imprint>
+                        <date type="year">1996</date>
+                        <pubPlace>Tübingen</pubPlace>
+                        <publisher>Max Niemeyer Verlag</publisher>
+                        <biblScope unit="page" from="199">199</biblScope>
+                        <biblScope unit="page" to="208">208</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct type="article" xml:id="B30">
+                  <analytic>
+                     <title level="a" type="main">‘Le <hi rend="italic">francisme</hi> est-il une notion lexicologique pertinente ?’</title>
+                     <author>
+                        <persName>
+                           <surname>Wauthion</surname>
+                           <forename type="first">M</forename>
+                        </persName>
+                     </author>
+                  </analytic>
+                  <monogr>
+                     <title level="j">Le Français moderne</title>
+                     <note type="content">WauthionM‘Le francisme est-il une notion lexicologique pertinente ?’Le Français moderne200169.17785</note>
+                     <imprint>
+                        <date type="year">2001</date>
+                        <biblScope unit="vol">69.1</biblScope>
+                        <biblScope unit="page" from="77">77</biblScope>
+                        <biblScope unit="page" to="85">85</biblScope>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </div>
+         </div>
+         <div type="appendices">
+            <div xml:id="APP1">
+               <head>Annexe</head>
+               <p>Emplois identifiés comme québécois ou canadiens dans le Robert <ref type="bibr" target="#B12">2001</ref>, traités dans les articles commençant par les lettres C, L, M, N, O et P<ref type="fn" target="#NT9">
+                     <hi rend="superscript">9</hi>
+                  </ref>
+               </p>
+               <p>
+                  <hi rend="italic">avoir une corneille à plumer avec qqn</hi> ‘avoir une affaire à régler avec qqn’ (sous <hi rend="italic">corneille</hi>)</p>
+               <p>
+                  <hi rend="italic">baise-la-piastre</hi> n. m. ‘avare’ (sous <hi rend="italic">piastre</hi>)</p>
+               <p>
+                  <hi rend="italic">c’est correct</hi> ‘ça va bien’ (sous <hi rend="italic">correct</hi>)</p>
+               <p>
+                  <hi rend="italic">cabane à sucre</hi> ‘bâtiment construit à l’intérieur d’une propriété agricole dans une forêt d’érables et destiné à la fabrication du sucre et du sirop d’érable’ (sous <hi rend="italic">cabane</hi>)</p>
+               <p>
+                  <hi rend="italic">cabane</hi> n. f. ‘bâtiment construit à l’intérieur d’une propriété agricole dans une forêt d’érables et destiné à la fabrication du sucre et du sirop d’érable’</p>
+               <p>
+                  <hi rend="italic">cacaoui</hi> n. m. ‘petit canard sauvage’</p>
+               <p>
+                  <hi rend="italic">camp d’été</hi> ‘chalet, villa’ (sous <hi rend="italic">camp</hi> ; aussi sous <hi rend="italic">chalet</hi>)</p>
+               <p>
+                  <hi rend="italic">camp de bûcherons</hi> ‘exploitation forestière’ (sous <hi rend="italic">camp</hi>)</p>
+               <p>
+                  <hi rend="italic">camp de chasse</hi> ‘pavillon’ (sous <hi rend="italic">camp</hi>)</p>
+               <p>
+                  <hi rend="italic">camp de pêche</hi> ‘pavillon’ (sous <hi rend="italic">camp</hi>)</p>
+               <p>
+                  <hi rend="italic">camp</hi> n. m. ‘chalet, villa’ (aussi sous <hi rend="italic">chalet</hi>)</p>
+               <p>
+                  <hi rend="italic">canal de télévision</hi> ‘chaîne’ (sous canal)</p>
+               <p>
+                  <hi rend="italic">canot</hi> n. m. ‘embarcation légère, non pontée, marchant soit à l’aviron, soit à la pagaie’</p>
+               <p>
+                  <hi rend="italic">canoter</hi> v. intr. ‘faire du canot ou canoë’</p>
+               <p>
+                  <hi rend="italic">canton</hi> n. m. ‘division cadastrale de cent milles carrés environ’</p>
+               <p>
+                  <hi rend="italic">capot</hi> n. m. ‘manteau à capuchon’ (sous <hi rend="italic">capot</hi> 1)</p>
+               <p>
+                  <hi rend="italic">carré</hi> n. m. ‘place carrée’ (sous <hi rend="italic">carré</hi> 2)</p>
+               <p>
+                  <hi rend="italic">carriole</hi> n. f. ‘voiture d’hiver hippomobile, montée sur patins, assez élégante, recherchée pour sa stabilité dans la neige’</p>
+               <p>
+                  <hi rend="italic">casse-croûte</hi> n. m. invar. ‘café, restaurant ou bar où l’on sert des repas rapides’</p>
+               <p>
+                  <hi rend="italic">casse-tête</hi> n. m. invar. ‘puzzle’</p>
+               <p>
+                  <hi rend="italic">catalogne</hi> n. f. ‘étoffe dont la trame est faite de bandes de tissus généralement multicolores’</p>
+               <p>
+                  <hi rend="italic">catalogne</hi> n. f. ‘tapis fait de cette étoffe’</p>
+               <p>
+                  <hi rend="italic">cédrière</hi> n. f. ‘terrain planté de cèdres ou de thuyas’</p>
+               <p>
+                  <hi rend="italic">cégep</hi> n. m. ‘collège d’enseignement général et professionnel, situé entre le secondaire et l’université’</p>
+               <p>
+                  <hi rend="italic">cenellier</hi> n. m. ‘aubépine’</p>
+               <p>
+                  <hi rend="italic">cenne</hi> n. f. ‘centième partie […] du dollar’ (sous <hi rend="italic">cent</hi> 2)</p>
+               <p>
+                  <hi rend="italic">cenne</hi> n. f. ‘pièce de monnaie valant un cent’ (sous <hi rend="italic">cent</hi> 2)</p>
+               <p>
+                  <hi rend="italic">cent</hi> n. f. ‘centième partie […] du dollar’ (sous <hi rend="italic">cent</hi> 2)</p>
+               <p>
+                  <hi rend="italic">cent</hi> n. f. ‘pièce de monnaie valant un cent’ (sous <hi rend="italic">cent</hi> 2)</p>
+               <p>
+                  <hi rend="italic">chalet</hi> n. m. ‘maison de campagne située près d’un lac ou d’une rivière’</p>
+               <p>
+                  <hi rend="italic">chaloupe</hi> n. f. ‘petit bateau à rames’</p>
+               <p>
+                  <hi rend="italic">chanter matines</hi> ‘chanter le matin [en parlant d’un coq]’ (sous <hi rend="italic">chanter</hi> ; aussi sous <hi rend="italic">matines</hi>)</p>
+               <p>
+                  <hi rend="italic">chantier</hi> n. m. ‘exploitation forestière’</p>
+               <p>
+                  <hi rend="italic">chantier</hi> n. m. ‘habitation pour les bûcherons dans la forêt’</p>
+               <p>
+                  <hi rend="italic">char</hi> n. m. ‘voiture automobile’ (sous <hi rend="italic">char</hi> 1)</p>
+               <p>
+                  <hi rend="italic">char</hi> n. m. ‘voiture de chemin de fer’ (sous <hi rend="italic">char</hi> 1)</p>
+               <p>
+                  <hi rend="italic">chaud</hi> adj. ‘ivre’</p>
+               <p>
+                  <hi rend="italic">chaudière</hi> n. f. ‘seau métallique’</p>
+               <p>
+                  <hi rend="italic">chauffer</hi> v. tr. ‘conduire une automobile’ (sous <hi rend="italic">chauffer</hi> 1)</p>
+               <p>
+                  <hi rend="italic">chaufferette</hi> n. f. ‘appareil de chauffage d’une automobile’</p>
+               <p>
+                  <hi rend="italic">chèque visé</hi> ‘chèque certifié’ (sous <hi rend="italic">chèque</hi>)</p>
+               <p>
+                  <hi rend="italic">chevreuil</hi> n. m. ‘cerf de Virginie’</p>
+               <p>
+                  <hi rend="italic">chiropratique</hi> n. f. ‘chiropraxie’ (sous <hi rend="italic">chiropraxie</hi>)</p>
+               <p>
+                  <hi rend="italic">chopine</hi> n. f. ‘mesure de capacité pour les liquides valant une demi-pinte, ou deux demiards, soit 0,568 litre’</p>
+               <p>
+                  <hi rend="italic">chrétien</hi> adj. ‘humain [en parlant de qqch.]’</p>
+               <p>
+                  <hi rend="italic">ciné-parc</hi> n. m. ‘cinéma en plein air’</p>
+               <p>
+                  <hi rend="italic">cité parlementaire</hi> ‘ensemble des bâtiments du parlement’ (sous <hi rend="italic">cité</hi>)</p>
+               <p>
+                  <hi rend="italic">claques</hi> n. f. plur. ‘caoutchoucs’ (sous <hi rend="italic">claque</hi> 1)</p>
+               <p>
+                  <hi rend="italic">cocote</hi> n. f. ‘pomme de pin’ (sous <hi rend="italic">cocotte</hi> 3)</p>
+               <p>
+                  <hi rend="italic">cocotte</hi> n. f. ‘pomme de pin’ (sous <hi rend="italic">cocotte</hi> 3)</p>
+               <p>
+                  <hi rend="italic">collégial</hi> n. m. ‘cours de formation générale et professionnelle, situé entre le secondaire et l’université’</p>
+               <p>
+                  <hi rend="italic">comté</hi> n. m. ‘subdivision territoriale administrative’ (sous <hi rend="italic">comté</hi> 1)</p>
+               <p>
+                  <hi rend="italic">comté</hi> n. m. ‘circonscription électorale’ (sous <hi rend="italic">comté</hi> 1)</p>
+               <p>
+                  <hi rend="italic">conciergerie</hi> n. f. ‘immeuble d’habitation’</p>
+               <p>
+                  <hi rend="italic">conseil exécutif</hi> ‘[institution politique canadienne]’ (sous <hi rend="italic">conseil</hi>)</p>
+               <p>
+                  <hi rend="italic">conseil législatif</hi> ‘[institution politique canadienne]’ (sous <hi rend="italic">conseil</hi>)</p>
+               <p>
+                  <hi rend="italic">conservateur</hi> n. ‘membre du parti [<hi rend="italic">sic</hi>] conservateur’</p>
+               <p>
+                  <hi rend="italic">conservateur</hi> n. ‘membre du parti de l’Union nationale’</p>
+               <p>
+                  <hi rend="italic">constituante</hi> n. f. ‘université ou institut de recherches faisant partie de l’université [<hi rend="italic">sic</hi>] du Québec’ (sous <hi rend="italic">constituant</hi>)</p>
+               <p>
+                  <hi rend="italic">corniche</hi> n. f. ‘tablette de cheminée’</p>
+               <p>
+                  <hi rend="italic">correct</hi> ‘en réponse ou avec le verbe <hi rend="italic">être</hi>’</p>
+               <p>
+                  <hi rend="italic">corvée</hi> n. f. ‘travail en commun, entre voisins ou amis, occasionnel et gratuit’</p>
+               <p>
+                  <hi rend="italic">cottage</hi> n. m. ‘pavillon, maison individuelle’</p>
+               <p>
+                  <hi rend="italic">couque</hi> n. m. ‘cuisinier (sur un navire, dans une communauté)’ (sous <hi rend="italic">couque</hi> 2)</p>
+               <p>
+                  <hi rend="italic">coureur de bois</hi> ‘chasseur et trappeur’ (sous <hi rend="italic">coureur</hi>)</p>
+               <p>
+                  <hi rend="italic">coureur des bois</hi> ‘chasseur et trappeur’ (sous <hi rend="italic">coureur</hi>)</p>
+               <p>
+                  <hi rend="italic">courriel</hi> n. m. ‘courrier électronique’</p>
+               <p>
+                  <hi rend="italic">cours collégial</hi> ‘cours de formation générale et professionnelle, situé entre le secondaire et l’université’ (sous <hi rend="italic">collégial</hi>)</p>
+               <p>
+                  <hi rend="italic">crédit</hi> n. m. ‘unité de valeur dans l’enseignement universitaire’</p>
+               <p>
+                  <hi rend="italic">Crédit social</hi> ‘[parti politique canadien]’ (sous <hi rend="italic">crédit</hi>)</p>
+               <p>
+                  <hi rend="italic">créditiste</hi> adj. ‘relatif [au Crédit social, à la doctrine de ce parti politique]’</p>
+               <p>
+                  <hi rend="italic">créditiste</hi> n. ‘membre du Parti [<hi rend="italic">sic</hi>] du crédit [<hi rend="italic">sic</hi>] social’</p>
+               <p>
+                  <hi rend="italic">créditiste</hi> n. ‘partisan de la doctrine économique du crédit [<hi rend="italic">sic</hi>] social’</p>
+               <p>
+                  <hi rend="italic">crosse</hi> n. f. ‘sport, héritier de l’ancienne crosse française et d’un jeu amérindien, voisin du hockey’</p>
+               <p>
+                  <hi rend="italic">cru</hi> adj. ‘humide et froid (temps, atmosphère)’ (sous <hi rend="italic">cru</hi> 2)</p>
+               <p>
+                  <hi rend="italic">doc</hi> n. m. ‘disque optique compact’ (sous <hi rend="italic">CD-ROM</hi>)</p>
+               <p>
+                  <hi rend="italic">école polyvalente</hi> ‘école dispensant une formation générale commune et offrant un éventail de cours assez complet pour permettre aux élèves de se composer un programme individuel d’après leurs options’ (sous <hi rend="italic">polyvalent</hi>)</p>
+               <p>
+                  <hi rend="italic">école secondaire polyvalente</hi> ‘école dispensant une formation générale commune et offrant un éventail de cours assez complet pour permettre aux élèves de se composer un programme individuel d’après leurs options’ (sous <hi rend="italic">polyvalent</hi>)</p>
+               <p>
+                  <hi rend="italic">faire chantier</hi> ‘abattre et scier des arbres’ (sous <hi rend="italic">chantier</hi>)</p>
+               <p>
+                  <hi rend="italic">frotter la chanterelle</hi> ‘jouer du violon’ (sous <hi rend="italic">chanterelle</hi> 1)</p>
+               <p>
+                  <hi rend="italic">homme de chantier</hi> ‘ouvrier forestier’ (sous <hi rend="italic">chantier</hi>)</p>
+               <p>
+                  <hi rend="italic">la Belle Province</hi> ‘le Québec’ (sous <hi rend="italic">province</hi>)</p>
+               <p>
+                  <hi rend="italic">label</hi> n. m. ‘étiquette’</p>
+               <p>
+                  <hi rend="italic">laveuse</hi> n. f. ‘machine à laver’ (sous <hi rend="italic">laveur</hi>)</p>
+               <p>
+                  <hi rend="italic">laveuse-essoreuse</hi> n. f. [non défini] (sous <hi rend="italic">laveur</hi>)</p>
+               <p>
+                  <hi rend="italic">laveuse-sécheuse</hi> n. f. [non défini] (sous <hi rend="italic">laveur</hi>)</p>
+               <p>
+                  <hi rend="italic">lb</hi> ‘symbole [de <hi rend="italic">livre</hi>]’ (sous <hi rend="italic">livre</hi> 2)</p>
+               <p>
+                  <hi rend="italic">le parti</hi> [<hi rend="italic">sic</hi>] <hi rend="italic">conservateur</hi> ‘parti politique canadien’ (sous <hi rend="italic">conservateur</hi>)</p>
+               <p>
+                  <hi rend="italic">le parti de l’Union nationale</hi> ‘parti politique’ (sous <hi rend="italic">national</hi>)</p>
+               <p>
+                  <hi rend="italic">le Protecteur du citoyen</hi> n. m. ‘fondé de pouvoir de l’Assemblée nationale, nommé pour un mandat de cinq ans, ayant pour fonction de défendre les droits du citoyen face à l’administration gouvernementale’ (sous <hi rend="italic">protecteur</hi>)</p>
+               <p>
+                  <hi rend="italic">les cantons</hi> [<hi rend="italic">sic</hi>] <hi rend="italic">de l’Est</hi> ‘[région du] Québec’ (sous <hi rend="italic">canton</hi>)</p>
+               <p>
+                  <hi rend="italic">les chars</hi> ‘le train’ (sous <hi rend="italic">char</hi> 1)</p>
+               <p>
+                  <hi rend="italic">les Maritimes</hi> n. f. pl. [non défini] (sous <hi rend="italic">maritime</hi>)</p>
+               <p>
+                  <hi rend="italic">les Provinces maritimes</hi> [non défini] (sous <hi rend="italic">maritime</hi>)</p>
+               <p>
+                  <hi rend="italic">ligne</hi> n. f. ‘mesure de longueur, huitième partie du pouce (3,175 mm)’</p>
+               <p>
+                  <hi rend="italic">livre</hi> n. f. ‘unité de poids valant 16 onces, ou 0,45359 kg’ (sous <hi rend="italic">livre</hi> 2)</p>
+               <p>
+                  <hi rend="italic">magasinage</hi> n. m. ‘action de magasiner’ (sous <hi rend="italic">magasinage</hi> 2)</p>
+               <p>
+                  <hi rend="italic">magasiner</hi> v. intr. ‘aller dans les magasins pour faire divers achats’</p>
+               <p>
+                  <hi rend="italic">marier</hi> v. tr. ‘épouser, se marier avec’</p>
+               <p>
+                  <hi rend="italic">maskinongé</hi> n. m. ‘poisson d’eau douce du Canada, apparenté au brochet’</p>
+               <p>
+                  <hi rend="italic">maudit</hi> ‘en manière d’apostrophe’ (sous <hi rend="italic">maudire</hi>)</p>
+               <p>
+                  <hi rend="italic">maudits Français</hi> [non défini] (sous <hi rend="italic">maudire</hi>)</p>
+               <p>
+                  <hi rend="italic">mi</hi> ‘abrév[iation de <hi rend="italic">mille</hi>]’ (sous <hi rend="italic">mille</hi> 2)</p>
+               <p>
+                  <hi rend="italic">milage</hi> n. m. ‘mesure en milles’ (sous <hi rend="italic">millage</hi>)</p>
+               <p>
+                  <hi rend="italic">milage</hi> n. m. ‘nombre de milles parcourus’ (sous <hi rend="italic">millage</hi>)</p>
+               <p>
+                  <hi rend="italic">millage</hi> n. m. ‘mesure en milles’</p>
+               <p>
+                  <hi rend="italic">millage</hi> n. m. ‘nombre de milles parcourus’</p>
+               <p>
+                  <hi rend="italic">mille</hi> n. m. ‘[mesure de longueur] […] valant 5 280 pieds, soit 1 609 m’ (sous <hi rend="italic">mille</hi> 2)</p>
+               <p>
+                  <hi rend="italic">ministre</hi> n. m. ‘chef du gouvernement et chef du Conseil des ministres (chef du parti politique majoritaire à l’Assemblée nationale, ou d’une coalition)’</p>
+               <p>
+                  <hi rend="italic">mitaine</hi> n. f. ‘moufle’</p>
+               <p>
+                  <hi rend="italic">musique à bouche</hi> ‘harmonica’ (sous <hi rend="italic">musique</hi>)</p>
+               <p>
+                  <hi rend="italic">niaiser</hi> v. intr. ‘faire le niais, le niaiseux’</p>
+               <p>
+                  <hi rend="italic">niaiseux</hi> adj. ‘niais, sot’</p>
+               <p>
+                  <hi rend="italic">niaiseux</hi> n. ‘niais, sot’</p>
+               <p>
+                  <hi rend="italic">nordicité</hi> n. f. ‘caractère nordique’</p>
+               <p>
+                  <hi rend="italic">nordique</hi> adj. ‘qui est relatif aux régions et habitants situés dans toute la partie septentrionale de l’hémisphère boréal’</p>
+               <p>
+                  <hi rend="italic">nordique</hi> n. ‘personne qui vit dans le Nord, dans les régions boréales ou qui, par mentalité, est attaché [<hi rend="italic">sic</hi>] au Nord’</p>
+               <p>
+                  <hi rend="italic">nordisme</hi> n. m. ‘ensemble des attitudes mentales ou des activités exprimant un engagement en faveur du Nord’</p>
+               <p>
+                  <hi rend="italic">nordiste</hi> n. ‘personne qui vit dans le Nord, dans les régions boréales ou qui, par mentalité, est attaché [<hi rend="italic">sic</hi>] au Nord’</p>
+               <p>
+                  <hi rend="italic">patates frites</hi> ‘[frites]’ (sous <hi rend="italic">patate</hi>)</p>
+               <p>
+                  <hi rend="italic">patente</hi> n. f. ‘dispositif quelconque’</p>
+               <p>
+                  <hi rend="italic">patente</hi> n. f. ‘invention’</p>
+               <p>
+                  <hi rend="italic">patente</hi> n. f. ‘brevet d’invention’</p>
+               <p>
+                  <hi rend="italic">pd</hi> ‘abrév[iation de <hi rend="italic">pied</hi>]’ (sous <hi rend="italic">pied</hi>)</p>
+               <p>
+                  <hi rend="italic">pembina</hi> n. m. ‘fruit de l’obier’ (sous <hi rend="italic">pimbina</hi>)</p>
+               <p>
+                  <hi rend="italic">pharmacie</hi> n. f. ‘établissement commercial comprenant une pharmacie, un débit de tabac, et parfois un comptoir où l’on sert des rafraîchissements, des repas légers, et où l’on vend des produits de beauté et de menus articles’</p>
+               <p>
+                  <hi rend="italic">pi</hi> ‘abrév[iation de <hi rend="italic">pied</hi>]’ (sous <hi rend="italic">pied</hi>)</p>
+               <p>
+                  <hi rend="italic">piastre</hi> n. f. ‘billet de un dollar’</p>
+               <p>
+                  <hi rend="italic">piastre</hi> n. f. ‘dollar’</p>
+               <p>
+                  <hi rend="italic">piastre</hi> n. f. ‘symbole de l’argent’</p>
+               <p>
+                  <hi rend="italic">pied</hi> n. m. ‘mesure valant 12 pouces, soit, [<hi rend="italic">sic</hi>] 30,48 cm’</p>
+               <p>
+                  <hi rend="italic">pied-de-roi</hi> n. m. ‘règle pliante graduée en pieds, en pouces et en lignes, mesurant habituellement deux pieds’</p>
+               <p>
+                  <hi rend="italic">pimbina</hi> n. m. ‘fruit de l’obier ou viorne’</p>
+               <p>
+                  <hi rend="italic">pinte</hi> n. f. ‘mesure de capacité […] valant 2 chopines ou un quart de gallon, soit 1,136 litre’</p>
+               <p>
+                  <hi rend="italic">piton</hi> n. m. ‘bouton de commande (d’un appareil), touche’</p>
+               <p>
+                  <hi rend="italic">piton</hi> n. m. ‘jeton rond’</p>
+               <p>
+                  <hi rend="italic">pitonnage</hi> n. m. ‘le fait de pitonner’</p>
+               <p>
+                  <hi rend="italic">pitonner</hi> v. intr. ‘appuyer sur, manœuvrer un piton, un bouton, une touche’</p>
+               <p>
+                  <hi rend="italic">pitonner</hi> v. intr. ‘manœuvrer un ensemble de touches (pour composer un code, entrer des données au clavier d’un ordinateur, etc.’</p>
+               <p>
+                  <hi rend="italic">pitonner</hi> v. intr. ‘zapper’</p>
+               <p>
+                  <hi rend="italic">po</hi> ‘abrév[iation de <hi rend="italic">pouce</hi>]’</p>
+               <p>
+                  <hi rend="italic">polyvalente</hi> n. f. ‘école dispensant une formation générale commune et offrant un éventail de cours assez complet pour permettre aux élèves de se composer un programme individuel d’après leurs options’ (sous <hi rend="italic">polyvalent</hi>)</p>
+               <p>
+                  <hi rend="italic">portage</hi> n. m. ‘action de porter une embarcation d’un cours d’eau à l’autre, d’une partie d’un fleuve à un [<hi rend="italic">sic</hi>] autre’</p>
+               <p>
+                  <hi rend="italic">portager</hi> v. intr. ‘porter son embarcation là où la navigation est impossible’</p>
+               <p>
+                  <hi rend="italic">poser un acte, un geste</hi> ‘le commettre, l’accomplir’ (sous <hi rend="italic">poser</hi>)</p>
+               <p>
+                  <hi rend="italic">pouce</hi> n. m. ‘douzième partie du pied, subdivisée en huit lignes, soit 2,54 cm’</p>
+               <p>
+                  <hi rend="italic">poudrer</hi> v. intr. ‘être chassée par le vent (souvent en rafales), en parlant de la neige’ (sous <hi rend="italic">poudrer</hi> 2)</p>
+               <p>
+                  <hi rend="italic">poudrerie</hi> n. f. ‘neige chassée par le vent (souvent en rafales […])’ (sous <hi rend="italic">poudrerie</hi> 1)</p>
+               <p>
+                  <hi rend="italic">professeur agrégé</hi> ‘[professeur] rattaché au personnel permanent d’une université’ (sous <hi rend="italic">professeur</hi>)</p>
+               <p>
+                  <hi rend="italic">professeur titulaire</hi> [non défini] (sous <hi rend="italic">professeur</hi>)</p>
+               <p>
+                  <hi rend="italic">protonotaire</hi> n. m. ‘fonctionnaire chargé de l’enregistrement des actes dans un bureau régional’</p>
+               <p>
+                  <hi rend="italic">province</hi> n. f. ‘État fédéré doté d’un gouvernement propre, souverain dans le domaine de ses compétences’</p>
+               <p>
+                  <hi rend="italic">pruche</hi> n. f. ‘conifère du genre <hi rend="italic">Tsuga</hi>’</p>
+               <p>
+                  <hi rend="italic">pte</hi> ‘abrév[iation de <hi rend="italic">pinte</hi>]’ (sous <hi rend="italic">pinte</hi>)</p>
+               <p>
+                  <hi rend="italic">Ralliement des créditistes</hi> ‘[autre nom donné au parti du Crédit social]’ (sous <hi rend="italic">créditiste</hi>)</p>
+               <p>
+                  <hi rend="italic">salon funéraire</hi> ‘[endroit] où sont exposés les morts, avant l’enterrement’ (sous <hi rend="italic">salon</hi>)</p>
+               <p>
+                  <hi rend="italic">salon mortuaire</hi> ‘[endroit] où sont exposés les morts, avant l’enterrement’ (sous <hi rend="italic">mortuaire</hi>; aussi sous <hi rend="italic">salon</hi>)</p>
+               <p>
+                  <hi rend="italic">se mettre chaud</hi> ‘s’enivrer’ (sous <hi rend="italic">chaud</hi>)</p>
+               <p>
+                  <hi rend="italic">senellier</hi> n. m. ‘aubépine’ (sous <hi rend="italic">cenellier</hi>)</p>
+               <p>
+                  <hi rend="italic">sou</hi> n. m. ‘centième partie […] du dollar’ (sous <hi rend="italic">cent</hi> 2)</p>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>

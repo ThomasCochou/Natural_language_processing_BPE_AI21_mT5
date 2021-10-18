@@ -1,0 +1,1450 @@
+Organic Magnetic Resonance, 1976, Vol. 8 pp. 461 to 468.
+
+Deplacements chimiques induits en RMN par un
+reactif lanthanidique
+I-Application a l’analyse conformationnelle de sulfites cycliques
+Louis Cazaux,” GCrard Chassaing et Pierre Maroni
+Laboratoire de Synthese et Physicochimie Organique, Universite‘ Paul Sabatier, 31077 Toulouse CPdex, France
+(Received 25 July 1975; accepted 30 October 1975)
+
+isombres de rotation d’un groupement non complexant
+(p. ex. alkyle5s6), la dtfinition de l’orientation par
+rapport a un cycle d’un groupe polaire exocyclique (p. ex.
+OH) directement lit au lanthanide, et Cventuellement de
+son isomtrie de
+Notre contribution portera sur les moltcules de
+sulfites cycliques reprtsenttes dans le Tableau 2 par leur
+conformation priviltgite en solution dans CCI, et non
+complextes (cf. Partie exptrimentale). On distinguera
+des conformations anancombres chaises a S=O ax
+(composts 1 a 6 ) , chaises a S=O t q (7 B 13), flexibles
+(14 a 16) et les tquilibres conformationnels (17 et 18).
+A I’aide d’une mtthode simple d’analyse des dtplacements chimiques induits par le rtactif lanthanidique,
+nous nous proposons au cours de ce travail (i) de
+confirmer (ou d‘infirmer) en prtsence du chtlate Eu(fod),
+la structure conformationnellement rigide des composis
+1 a 12 et de localiser le lanthanide; (ii) de dtduire pour
+cette strie de composts quelques facteurs influenGant
+l’tquilibre de complexation; (iii) de caracttriser I’orientation priviltgite des groupes isopropyles en libre
+rotation du sulfite 13; et surtout (iv) de dtfinir la
+nouvelle position des tquilibres conformationnels des
+moltcules complextes 14 a 18, en mettant en tvidence,
+dans chaque cas, une conformation priviltgite.
+
+Abstract-The chemical shifts induced by Eu(fod), in several series
+of 6-membered cyclic sulfites give the parameters Kc and A S R of the
+complexation equilibrium for an assumed 1 : I stoicheiometry. The
+equilibrium constant Kc decreases with increasing bulk of the C-4
+and C-6 substituents and polarity of the C-5 substituent, which
+corresponds to the increase of the i.r. stretching frequency vS=O.
+Thus axial S=O will be more tightly complexed than equatorial
+S=O. It can be predicted that when a conformational equilibrium
+exists without shift reagent, displacement towards an axial S=O
+form will occur with the reagent. Use of the A S R pseudocontact
+equation confirms the following: (i) ax S=O chair forms are
+stabilized; (ii) eq S=O chairs with two eq C-4 and C-6 substituents
+show an equilibrium with a few percent of the ax S=O flexible conformation, particularly in the absence of an ax C-5 substituent;
+(iii) twist forms with a 2-5 axis, intermediate S=O and tr-uns-4,
+6-di-tert-Bu substituents give a boat form with 0 at the prow and
+ax S-0 ; (iv) the conformational equilibrium of trans-5-trrt-butyl2-0x0-1, 3 , 2-dioxathiane (chair with ax tert-Bu and S=O CT 70%)
+is completely displaced towards that form; (v) ris-4,4,6-trimethyl-2oxo-l,3,2-dioxathiane, which exists as an equilibrium in which the
+three types of S=O occur, is complexed essentially in the twist
+Most of these results are
+form with a 1-4 axis and ax S-0.
+supported by the coupling constants analysis for the ratio
+R,/S, = I .
+Rksumk-Les
+dtplacements chimiques induits par Eu(fod), sur
+plusieurs series de sulfites cycliques a six chainons permettent de
+dCterminer les parametres K , et AsR de I’tquilibre de complexation
+pour une stoechiometrie supposee 1 : 1. La constante d’tquilibre
+apparente Kc decrolt lorsque la substitution en 4 et 6 et la polarite
+du substituant en 5 augmentent en relation avec une augmentation
+de la frequence d’elongation vS=O en infrarouge. Ainsi, le groupe
+S-0 ax s’associera plus fortement que S=O tq. Lorsqu’un
+equilibre conformationnel existe en l’absence de reactif lanthanidique, on peut prevoir qu’il evoluera avec h i vers une forme
+S=O ax. L‘exploitation des AsRa I’aide de 1’6quation de pseudocontact confirme ces previsions: (i) les formes chaises a S=O ax
+sont stabilisees; (ii) les chaises a S=O Cq avec deux substituants eq
+en 4 et 6 presentent un equilibre avec quelques pourcents de conformation flexible a S=O ax, surtout en l’absence de substituant ax
+en 5 ; (iii) les formes croisees d’axe 2-5 a S=O intermediaire et
+f-Bu trans en 4 et 6 Cvoluent vers un bateau 0 en proue et S=O ax;
+(iv) le t-Bu-5 0 x 0 2 dioxathianne-l,3,2 trans, chaise A t-Bu et S=O
+axiaux pour -70%, a son equilibre conformationnel complttenient
+deplace vers cette forme; (v) le trimethyl-4,4,6 0x0-2 dioxathianne-l,3,2 cis, Cquilibre oh interviennent les trois types de S=O,
+s’associe essentiellement en conformation croisee d’axe 1-4 et a
+groupe S=O ax. La plupart de ces resultats ont tte Btayes par
+l’analyse des constantes de couplage pour le rapport R,/S, = 1.
+
+CHOIX DE LA METHODE D’ANALYSE
+
+I1 est gtntralement admis (voir p. ex. Rtfs 8,9b et 1Oc)
+que I’addition d’un rtactif lanthanidique (R) trbs coordinant a un substrat organique (S) posstdant un centre
+suffisamment dur peut conduire aux tquilibres de
+complexation suivants :
+RS,-1
+S RS, K ~ O K,
+U = [RS,]/[RS,_J[S]
+(1)
+
++ +
+
+De plus, on doit envisager a priori deux tquilibres de
+dimirisation:
+
+R
+
+= [R2]/[RI2
+(2)
+K, = [S,]/[S]2
+(3)
+Dans de nombreux t r a ~ a u x , ~ le. ~ deplacement
+~,~~
+chimjque induit par le lanthanide (abrtviation DIL
+equivalent de I’anglais LIS) pour le substrat totalement
+complex6 (AsR) est donnt par la pente de la partie
+lintaire de la courbe 8, =f ( p ) avec p < 5 . b , est le
+DIL relatif au proton i pour chaque position de I’tquilibre
+de complexation correspondant au rapport p = R,/S,,
+des concentrations en rtactif (variable) et en substrat
+(constante). Cette mtthode est en fait trbs approchte
+car elle repose sur l’hypothbse de seul complexe 1 : I de
+type RS.
+
+INTRODUCTION
+
+des chtlates de lanthanides en chimie
+organique a permis de dtterminer aistment de nombreuses
+structures rigides.l Toutefois leur application A I’ttude
+d’tdifices conformationnellement mobiles pose des
+problbmes dificilenient solubles sans approximations.
+Parmi ceux-ci, on peut citer I’tvolution de la position
+d’un iquilibre entre plusieurs conformations d’un mCme
+cycle sous l’effet de la c ~ m p l e x a t i o n , ~la- ~rtpartition des
+L‘UTILISATION
+
+* Author to whom
+
+all correspondence should be addressed.
+
+(c, Heyden & Son Limited.
+Printed in Northern Ireland.
+
++R+
+
+R,
+
+s + s %. s,
+
+461
+
+KI,
+
+462
+
+L. CAZAUX,
+G. CHASSAING
+et P. MARONI
+
+Une seconde approche faisant intervenir les trois
+equilibres ( l ) ( n = 1 et 2) et (2) a CtC dtcrite par Reubensb
+et tout rkcemment par Shapiro.”” Les auteurs simulent
+sur ordinateur la courbe 6, = f ( p ) t r a d e pour des
+valeurs de p allant jusqu’a 12 en faisant varier systtmatiquement les valeurs de K,, K,, K,,, A, et A,, ces deux
+derniers paramktres Ctant les DIL des complexes RS et
+RS2, respectivement. Quoique plus tlaborte, cette
+mCthode est d’un emploi limit6 par l’importance du
+temps de calcul sur ordinateur. Dans les quelques cas
+d’alcools et de cCtones cycliques oh l’tquilibre (2) de
+dimtrisation du rCactif a t t t pris en compte, il a CtC
+conclu qu’aucune autoassociation d’Eu(fod), n’intervenait: les courbes exptrimentales sont, en effet, bien
+simultes sur les bases des deux seuls Cquilibres impliquant
+les complexes RS et RS,.
+Dans ces conditions, des calculs ont t t t faitslo” pour
+Cvaluer l‘erreur comniise sur la dttermination de rC, et A,
+(hypothkse des deux complexes RS et RS,) en faisant
+l’approximation de l’existence du seul complexe RS.
+Pour la p-chlorophCnyl-3 trimCthyl-3,5,5 cyclohexanone,
+oh la participation du complexe RS, est importante
+(Kl = 222; K2 = 63), il apparait que les AsIt et les K ,
+(hypothkse du seul complexe RS) restent proportionnels
+respectivement aux A, et K, sur l’ensemble des onze
+protons ou groupes de protons CtudiCs: Al/Asr, =
+1,205 & 0,0015; KJK, cv 2.
+Comme le but principal d’un travail du type de celui que
+nous entreprenons reste la dttermination des structures
+en accordant les As,, exptrimentaux aux ASR calculks
+par la formule de McConnell et Robertson13 AsR =
+Cte x f ( O , , r , ) , 0, et r , ttant des paramitres structuraux,
+on voit que la proportionnalitk qui existe entre As,< et A,
+modifiera seulement la constante de cette equation.
+Cette remarque peut expliquer que les rCsultats ainsi
+obtenus a l’aide de As,,tvaluts par la pente de la droite
+6 = f ( p ) soient gtntralement trks satisfaisants; elle
+justifie, d’autre part, la position de certains auteurs
+comme Roberts et ~ 1 qui
+. ~prennent uniquement en
+considtration une stoechiomttrie 1 : 1.
+Tout en nous rangeant dans cette catkgorie, nous
+prCfkrerons utiliser la mtthode dtcrite par Chuche et uZ.l4
+qui permet de dtterminer, en mCme temps que Asn, une
+constante d‘tquilibre de complexation apparente K,.
+On se place dans les conditions initiales oh R,, = So e!0,2
+mol 1-1 et par dilution progressive on mesure difftrentes
+valeurs de 6, telles que
+(4)
+
+En tracant la courbe 6, = f(2/s,jS,) onvCrifie que nous
+avons bien une droite dont le coefficient de corrtlation
+est gCnkralement voisin de 0,999; l’ordonnte B I’origine
+permet alors de calculer Asrt et la pente Kc. Nous avons
+vtrifit aussi, dans plusieurs cas, que les As,t obtenus
+pour les diffkrents protons par cette mtthode ou par la
+pente de di = f ( p ) sont proportionnels.
+D’autres approximations sont encore nCcessaires pour
+exploiter les ASK au moyen de la formule de McConnell
+et Robertson
+Asn
+
+= K(3 COS’
+
+O1 - l ) / ~ t
+
+(5)
+
+Oiest I’angle entre I’axe magnttique principal du complexe
+et le vecteur de longueur r, joignant le lanthanide A
+
+I’atome complex&. K est une constante de proportionnalitt qui dipend notamment de la tempkrature.
+En choisissant cette formule, on suppose que seul un
+mCcanisme de pseudocontact intervient dans l’ttablissement du complexe. C’est en gCnCral le cas dans les
+conditions opkratoires habituelles avec Eu(fod), et des
+systkmes satur6s.l De plus, le calcul lui-m&me n’est
+rigoureux que pour un complexe substrat-sel
+de
+lanthanide A symttrie a ~ i a l e . ~ .Or
+’ ~ des dttermiliations
+de structure de ces complexes aux rayons X montrent
+qu’il n’en n’est pas exactement ainsi.16 D’autre part,
+I’orientation de I’axe magnttique est assimilte a la
+direction R + site de c~mplexation.~
+Quoi qu’il en soit,
+la formule de McConnell et Robertson a donnC d’excellents rCsultats sur des structures figkes dont la gtomttrie
+est bien connue par des techniques aussi indiscutables
+que les rayons X. Ce qui justifie son succks, niais on doit
+garder en mtmoire que la strie d’approximations faites
+peut, dans certains cas, conduire B des rtsultats errones.
+Un autre problime intervient au niveau du modble de
+complexe servant au calcul des A,,,; deux types de
+modeles ont CtC proposCs:l6” (i) un modele dynamique
+qui conduit i calculer les Askt de chaque atome considkrt
+pour les difftrentes orientations possibles du rtactif par
+rapport au substrat et a en faire la moyenne; (ii) un
+modkle statique tenant compte d’une position unique et
+moyenne du lanthanide.
+Nous avons utilise pour notre part le modkle statique
+en nous servant du programme de calcul ittratif
+d’ApSimon.17 Les coordonnkes carttsiennes des protons
+dans les diffkrentes conformations que peut adopter un
+sulfite cyclique ont CtC calcultes B I’aide du programme
+COORD.
+PARTIE EXPERIMENTALE
+La preparation des dix-huit sulfites schematises dans le Tableau 2
+a tt6 realisee par cyclisation des /I-diols correspondants au moyen
+du chlorure de thionyle. Pour les composks les plus stables 1 a 6 , on
+a employe la mtthode classique, en presence de pyridine’* mettant
+en jeu une equilibration en faveur presque exclusivement des
+isomeres en conformation chaise a S=O ax; les trois sulfites 14 a
+16 ont CtB kgalement synthetises selon cette mkthode. Pour les
+composes thermodynamiquement defavorists 7-13, 17 et 18, un
+prockde nouveau de preparation utilisant la trikthylamine a CtB
+mis au ~ 0 i n t . lOn
+~ obtient un melange (-50/50) d‘isomeres a S=O
+axial et equatorial facilement fractionne par distillation sur un
+simple vigreux. La purification des sulfites a S=O eq est effectuee
+par recristallisation dans I’kther de petrole. Dans le cas o t ~nous
+partons d’un melange de P-diols diastereoisomeres une distillation
+sur colonne a bande tournante Nester-Faust de 100 plateaux
+thkoriques est necessaire, ou bien une separation par chromatographie sur couche mince de silice. La purete des produits obtenus
+est contr8lte par CPV: elle est toujours supkrieure a 98%. Les
+caracteristiques physiques des produits sont les suivantes (Eb er F
+en “C): 1, Eb, = 58; 2,Eb2 = 40, nuz5 = 1,4392; 3,Eb,, = 146,
+F = 62; 4, F = 92; 5, F = 148; 6, Ebzo= 90, nDz5= 1,4425;
+7, F = 45; 8, F = 94; 9, F = 74; 10, F = 134; 11, F = 138;
+12, F = 180; 13, Eb,,, = 90, F = 75; 14, F = 46; 15, F = 45;
+16, F = 76; 17, F: = 37; 18, F = 39.
+La conformation de ces difftrentes molecules a ktt determinee
+dans CCI, et CH,CN surtout gr2ce aux techniques IR et RMN;
+elle est decrite par ailleurs: lZo
+2, 7;213 14;23 3, 5, 8, 15, 16;23)24
+6 , 18;25,26 13.27 1 7 . 2 8 . 2 ’ 9-12.18
+Parmi Ies sulfites ttudiks ici, 1, 2, 7 et 18 ont fait dBja I’objet de
+complexation par Eu(dpm),?O les ai mesurts pour p = 0,48 n’ont
+cependant pas Btt utilises pour une analyse structurale pouss6e.
+En ce qui nous concerne, nous avons utilisd Edfod), en s’assurant
+qu’il presente un seul pic t-Bu;l°C dans le cas contraire, une sublimation est nkcessaire. Le sel d‘europium est mis en solution dans
+CCI, sec afin d’obtenir une solution 0,2 M qui sera conservee sur
+tamis moltculaire dans u n recipient fermB par un bouchon a jupe
+1
+
+,
+
+463
+
+Dkplacements chimiques induits en R M N par un reactif lanthanidique
+
+L’analyse des spectres RMN de certains sulfites, notamment 13
+et 18, en presence d’Eu(fod),, a present6 quelques difficultts:
+l’attribution de chacun des methyles geminks en position 5 pour le
+compose 13 ou 4 pour 18 a necessite en particulier l’enregistrement
+de spectres en augmentant progressivement le rapport R,/So de 0
+jusqu’a 1. On peut ainsi suivre correctement I’evolution des divers
+massifs: la differenciation des deux mCthyles se fait alors sur la
+base du couplage a longue distance entre le methyl axial et Ies
+protons axiaux vicinaux releve pour R,/So N 0,4.
+
+RESULTATS ET DISCUSSION
+Constantes d’Cquilibres K ,
+FIG. 1. Reprtsentation du sulfite et de l’europium dans le
+tritdre orthonorme de rCf6rence. Axe des x defini par la
+__f
+
+direction O=S;
+
+axe des y contenu dans le plan O=S-0,
+4
+
+(la projection de S=O, sur y est positive) a l’exception des
+composes tert-butyles (O=S-O1);
+axe des z oriente de sorte
+que le reptre soit de sens direct.
+place dans un refrigerateur. La duree de conservation n’excede pas
+24 heures. On introduit 0,5 ml de cette solution dans le tube RMN
+contenant
+M de sulfite de facon que R, = So. Puis on ajoute
+six fois 0,25 mi de CCl, sur tamis molCculaire a l’aide d‘une seringue
+Hamilton. L‘erreur de mesure sur les dkplacements chimiques est de
++0,01 ppm. A chaque dilution, et a concentration S, sans adjonction de Eu(fod),, les spectres ont BtB enregistrts sur spectromttre
+Varian A 60 5. la tempkrature de la sonde (30 “C) et avecle TMS comme reference interne. Une fois les di mesurks, d G A s E / K cet le
+ont Bte detercoefficient de corrklation de la droite 6, =f(l/mo)
+mints par une methode de regression linkaire. L‘application de la
+formule de McConnell et Robertson a Bte menee comme suit.
+Les gkomttries des moltcules utilisees dans ce travail sont calculees
+a partir des moddes Dreiding griice au programme COORD.
+Pour les conformations chaises a S=O ax, nous avons pris les
+valeurs concordantes dktermides a partir des rayons X31 et par
+diffraction e l e c t r o n i q ~ e pour
+~ ~ le trimtthylene sulfite (1). Le
+meilleur accord entre As, calcults et experimentaux a B t B recherche
+a l’aide du programme iteratif d’ApSim0n.l’ Dans un premier
+R = 3A
+essai, l’europium est situe sur I’axe de la liaison S=O
+de cet oxygtne (cf. Fig. 1): cette valeur communement admise1.17.33.34avoisine celle determinee par rayons X de chtlates de
+sulfoxydes.lF”
+L‘atome de chlore n’etant pas un centre complexant pour le
+reactif ~ t i l i s 6cette
+, ~ ~ localisation de l’europium a donne d’excellents
+resultats pour tous les sulfites chaises a S=O ax. Pour quelques
+chaises a S=O eq, il a &ti5ntcessaire de prendre plusieurs valeurs de
+depart hors de cet axe mais dans le plan de symetrie du cycle. AprBs
+deux ou trois essais, I’itkration converge pour une position de
+l’europium entre l’axe de la liaison S=O et l’axe de l’orbitale libre
+du soufre avec R N 3 8, (cf. Tableau 1). Les meilleures coordonntes
+de l’europium pour les conformations prtctdentes sont ensuite.
+essaytes pour 1es formes flexibles et les Cquilibres conformationnels.
+Les parametres de 1’6quilibre de complexation sont donnds dans
+les differents tableaux ainsi que le facteur de reliabilitk (Re) determine au moyen de la formule
+Re
+
+=
+
+[F
+
+1
+
+(A,, exp - AsR calc.)2/z AsR exp2
+
+TABLEAU
+1. COORDONNEES
+DE L’EUROPIUM
+
+EN
+
+8, POUR
+
+CYCLIQUES
+
+1
+2,334
+5
+6
+7,9,11
+OU
+
+& l o , 12
+13
+14
+15
+16
+17
+18
+
+-4,173
+-4,426
+-4,450
+-4,092
+-2,415
+-4,450
+-4,450
+-4,453
+-4,580
+-4,284
+-4,773
+-4,439
+-3,852
+
+-0,332
+-0,164
+-0,000
+-0,411
+- 1,539
+0,000
+0,000
+-0,106
+0,224
+-0,685
+-0,207
+-0,606
+-1,100
+
+0,511
+0,231
+0,000
+0,257
+2,424
+0,000
+0,000
+0,529
+0,824
+-0,303
+0,207
+0,968
+2,074
+
+LES SULFITES
+
+Les valeurs de KOsont rassemblkes dans le Tableau 2; ce sont les
+moyennes calculees sur l’ensemble des protons d’une m o l h l e .
+
+Pour les composts 1 a 13 en conformation chaise
+anancomkre, nous n’observons aucune variation de
+constante de couplage avec l’addition d’Eu(fod),; en
+premikre approximation, il n’y a pas de modification de
+conformation par la complexation quelle que soit
+I’orientation du groupe S=O sur le cycle.
+Dans le cas de diastCrCoisomkres, le sulfite en conformation chaise A S=O axial 5 a une constante de complexation plus forte que son isomkre a S=O Cq 12. Par
+contre, les formes flexibles (15 ou 16) et chaise a S=O
+t q (12) ont des constantes trks voisines.
+KC(ax) > K,(tq) N &(flexible)
+Ce rtsultat est inverse de celui not6 par ShapirolOc pour
+une sCrie de cyclohexanols :
+&(ax) < K1(tq)
+D’autre part, une substitution croissante par des
+groupements alkyles diminue la constante d’association;
+ce phCnomkne est trks net sur les sulfites a S=O Cq
+(7 9 -+ 11 13). Un effet identique est obtenu par
+introduction en position 5 de groupes de plus en plus
+polaires (H C 1 - +NO,). Ces observations sont a
+rapprocher du fait qu’en spectrophotomCtrie IR la
+frCquence d’klongation du vibrateur S=O subit une
+augmentation concommitante;36 or cette augmentation
+-+
+
+-+
+
+-+
+
++
+
+-
+
+est liCe a la diminution de charge du dipole S - 0.37
+L’oxygkne devient donc moins dur et il est normal que
+l’tnergie de complexation djminue. De meme, on peut
+expliquer la plus faible Cnergie de complexation d’un
+sulfite a S=O Cq, par rapport A celle de son isomkre a
+S=O ax, en considtrant que le nombre d’onde d’un
+groupe Cquatorial (vS=O t q _N 1240 cm-’) est plus fort
+que celui d’un groupe axial (vS=O ax N 1190 cm-l).,’
+Le mCme phCnomkne se produit aussi avec le groupe
+P=O dans le cas d’un dioxaphosphorinane en inversion
+de chaise (cf. p. 467): on peut, en effet, relier l’intgalitt
+vP=O ax < vP=O eq39avec la stabilisation de la chaise
+P=O ax en prtsence d’Eu(fod)3.2
+En conclusion, les constantes d’tquilibre Kc; ne
+permettent de dtterminer a priori la configuration du
+groupe S=O que dans le cas d’isomkres car elles sont
+trop influenctes par la substitution. En particulier, elles
+indiquent qu’un sulfite en tquilibre conformationnel,
+pour lequel ce facteur ne joue pas, sera trks dCplacC vers
+une forme a S=O axial. Ainsi les fortes constantes
+d’tquilibre des composts 17 et 18 montrent qu’ils ne
+doivent pas @enter la conformation chaise S=O
+Cquatorial qui existe en l’absence du rtactif lanthanidique.
+DCplacements chimiques induits ASR
+
+Nous donnerons dans les Tableaux 3, 4 et 5 les Asn
+expkrimentaux et calculCs a l’aide de l’tquation de
+
+464
+
+L. CAZAUX,
+G . CHASSAING
+et P. MARONI
+
+TABLEAU
+2. CONSTANTES
+D'EQUILIBRES Kc
+
+L S IIS
+
+DES SULFITES CYCLIQUES E T U D I E S ~
+
+>1500
+
+0
+
+> 1500
+
+I1
+
+S
+>*
+
+0
+
+C'
+500 i150
+
+280 i 50
+
+Les sulfites cycliques sont represent& dans leur conformation prc5fkrentielle en solvant CCI, sans reactif lanthanidique.
+
+McConnell et Robertson pour chaque proton ou groupe
+de protons ainsi que la constante K de cette kquation et
+le facteur de reliabilitk (Re) sur les A,,,.
+
+SuIJites cycliques en conformation chaise 6 S=O ax 1 A 6
+(Tableau 3 ) . Les dkplacements chimiques AsE observCs
+pour les protons axiaux en 4 et 6 (10,7 & 0,2)A I'exception
+de ceux du composk 5 et pour les protons en 5 tquatorial
+( 3 3 & 0,3) et axial (4,5 & 0,Z)sont a peu prbs constants
+d'une molkcule a l'autre. L'introduction de substituants
+aliphatiques ou polaires n'entraine done que peu de
+dkformation de la chaise du trimtthylbne sulfite (1) prise
+comme rkfkrence. Les valeurs de ASH.calculkes A l'aide
+du programme d'ApSimon conduisent A une valeur de Re
+trbs petite pour les composks 1 A 4. Elle augmente un peu
+TABLEAU
+3. AsR CALCULES
+ET EXPERIMENTAUX (en ppm)
+K ET Re DES SULFITES A S - 0 AX
+H-6e
+ou
+H-4a Me-4e
+Me-6e
+ou
+ou
+ou
+Me-4a t-Bu-4e H-5a H-5e H-6a t-Bu-6e
+
+pour le composk 5 plus encombre par deux groupements
+t-Bu en 4 et 6 et un chlore en 5 , ce qui peut s'expliquer
+par une Ikgbre dtformation du dossier de la chaise; il
+pourrait en &re de mCme avec le composk 6 qui possbde
+TABLEAU
+4. A S R EXPERIMENTAUX ET
+K ET Re DES SULFITES A
+
+Sulfite
+
+3,49
+3,16
+7calc. c 2,81
+d 2,96
+-- 15% c
+3,29
+exp.
+3,42
+9calc. d 2,60
+exp.
+2,79
+llcalc. d 2,21
+exp.
+2,70
+u
+
+b
+
+H-4e
+
+o,e 3,83
+
+ou
+
+calc.
+exp.
+calc.
+exp.
+calc.
+exp.
+calc.
+exp.
+calc.
+exp.
+calc.
+exp.
+
+10,96
+10,9
+10,76
+10,7
+10,76
+10,75
+10,76
+10,6
+11,44
+11,7
+7,18
+7,lO
+
+4,70
+
+4,s
+2,49
+2,4
+2.49
+2,2
+2,49
+2,35
+1,72
+1,56
+2,77
+2,81
+
+4,75
+4,7
+4,43
+4,4
+
+3,67
+3,6
+3,26
+3,4
+3,26
+3,2
+- 3,26
+- 3,3
+- 3,08
+- 3,7
+4,77 3,45
+4,26 3,88
+
+10,87
+10,9
+10,62
+10,7
+10,62
+10,75
+10,62
+10,6
+11,04
+11,7
+10,60
+10,81
+
+4,74
+4,s
+2,53
+2,4
+2,53
+2,2
+2,53
+2,35
+1,69
+1,56
+2,45
+2,12
+
+H-4a
+
+13 calc.
+
+K
+
+uJ 3,85
+
+Re
+
+-896
+
+0,009
+
+exp.
+
+-928
+
+0,015
+
+Scalc.
+exp.
+10calc.
+exp.
+12calc.
+exp.
+
+~
+
+928
+
+0,029
+
+-928
+
+0,018
+
+-1037
+
+0,070
+
+-880
+
+0,053
+
+3,86
+a
+a
+a
+
+3,64
+3,81
+2,83
+2,75
+3,33
+3,39
+
+R-4e
+
+CALCULES
+
+s-0
+
+(en ppm)
+
+6Q
+
+H-5a H-5e
+ou
+ou
+Me-5a Me-5e H-6a R-6e
+
+1,94 3,30
+1,05 21,50
+1,54 17,OO
+2,44 5,22
+1,88 5,40
+2,30 5,40
+2,14 4 3 9
+1,98 5,06
+1,53 3,90
+1,26 4,20
+Me 2,12
+Me 1,91 2,45
+H 1,34
+Me 1 3 7
+Me 1,85 2,62
+H 1,80
+Me 1,23
+Me 1,94 3,26
+H 2,06
+2,Ol 1,95 1,57 1,43 1,48 1,51 -
+
+2,29
+2,38
+3,02
+2,76
+2,40
+2,67
+2,43
+2,34
+2,07
+2,lO
+
+3,79
+3,46
+3,05
+3,39
+3,68
+3,42
+2,98
+3,13
+2,53
+2,70
+
+1,71 3,95
+1,76 4,OO
+1,69 3,86
+2,39
+2,82
+136
+2,Ol
+2,19
+2,27
+
+3,95
+3,81
+3,07
+2,91
+3,61
+3,39
+
+K
+
+Re
+
+1,93 -700
+1,27 -700
+1,92 -700
+2,54 -10640,068
+1,93
+0,082
+2,30
+1,84 -936 0,055
+1,64
+1,56 -796 0,070
+1,26
+2,20
+1,77 -736 0,234
+1,37
+I ,78
+1,94 -739 0,123
+1,92
+1,23
+1,94
+2,06
+2,02 -748 0,071
+1,95
+1,26 -567 0,060
+1,37
+1,53 -668 0,043
+1,51
+
+(a)Chaise a S=O C q , Eu sur I'axe de S=O, R = 3 A;(b) bateau
+a S-0 ax, R = 3 A; (c) bateau & S=O ax, R=3,5 A; (d) chaise a
+S=OCq,Eu horsdeI'axedeS=O; (e)i-Prtel quecp(H-i-Pr,H-4a)=
+180" (111); (f) rp (H-i-Pr, H-4a) = 60" (I).
+
+465
+
+Diplacements chimiques induits en RMN par un reactif lanthanidique
+
+TABLEAU
+5. ASR (ppm), K
+
+H-4a ou
+Me-4a ou
+t-Bu-4a
+
+Sulfite
+14calc.
+exp.
+15 calc.
+exp.
+16 calc.
+exp.
+1, calc.
+exp.
+a
+b
+
+18 calc.
+
+C
+
+d
+e
+exp.
+
+ET
+
+2,45
+1,67
+1,25
+1,28
+3,18
+2,88
+11,35
+10,73
+4,4 1
+1,02
+1,61
+2,43
+2,09
+2,43
+
+Re
+
+DES SULFlTES EN EQUILIBRE CONFORMATIONNEL AVEC PARTlCIPATION DE FCRKES FLEXIBLES
+
+H-4e ou
+Me-4e
+
+H-5a ou
+t-Bu-5a
+3,34
+3,58
+1,93
+2,36
+
+-‘L,98
+4,90
+2,93
+2,60
+0,89
+1,14
+4,95
+5,28
+3,05
+3,21
+1,50
+6,97
+3,73
+3,60
+
+-
+
+1,95
+2,48
+5,18
+6,85
+10,99
+5,61
+7,98
+8.20
+
+H-5e
+
+H-6a
+
+H-6e ou
+Me-6e
+
+5,49
+5,87
+2,91
+2,62
+4,07
+4,66
+3,60
+3,64
+2,58
+3,41
+3,36
+3,47
+
+10,42
+10,40
+5,95
+6,40
+6,09
+6,30
+10,56
+10,73
+5,96
+4,48
+2,46
+6,Ol
+3,76
+3,58
+
+I ,62
+1,41
+1,16
+1,32
+1,30
+1,75
+5,OO
+5,28
+3,05
+3,35
+1,51
+2,88
+2,59
+2,91
+
+(a) Chaise a S=O eq, Eu sur l’axe de S=O a R = 3 A; (6) chaise a S=O kq, ELIhors de l’axe de S=O a R
+proue et S=O ax (9); ( d ) bateau a 0 en proue et S=O ax (11); (e) croiste d’axe 1-4 a S=O ax (10).
+
+les deux interactions diaxiales-l,3 Me- - -S=O et
+Me- - -H.
+L‘europium est dtfini par ses coordonntes, qui sont
+rassemblCes dans le Tableau 1, et reprtsentt sur la Fig. 1
+par rapport au trikdre orthonormt de rtfirence. Sa
+position, proche de I’axe de la liaison S=O, entre 2,7 et
+3 A de cet oxygkne varie peu d’un sulfite a l’autre.
+
+SuFtes cycliques. en conformation chaise it S=O tq 7 A 13
+(Tubleau 4). Les rksultats expCrimentaux sont moins
+homogknes qu’avec les sulfites chaises a S=O ax.
+Notamment, nous n’observons pas des dtplacements
+chimiques voisins d‘un composC a l’autre pour chaque
+type de proton. Dans l’hypothkse d’une conformation chaise a S=O t q , il semble donc que I’encombrement sttrique et la polariti des substituants modifie
+beaucoup la position de l’europium. On peut Cgalement
+envisager que la stoechiomttrie varie avec ces facteurs
+et que les AsR mesurts ne soient plus proportionnels aux
+A,. Mais on peut, aussi, mettre en doute I’hypothtse
+prtctdente d’autant plus que l’knergie de complexation
+est, nous l’avons vu a propos des constantes d’tquilibres,
+favorable a une forme S=O ax.
+Dans le cas des sulfites 7 A 12, les constantes de
+couplage relevies sont identiques avec ou sans Eu(fod),;
+aucune modification du dossier de la chaise n’intervient
+donc, en raison vraisemblablement de la prtsence de deux
+substituants dikquatoriaux en 4 et 6. Par contre, un
+relkvement de la partie 0-S-0
+est possible conduisant
+a la forme bateau a S=O ax et a l’tquilibre conformationnel suivant:
+0
+
+Par constquent, nous avons dfi prendre en compte dans
+nos calculs cette forme bateau. Plusieurs essais ont CtC
+rtalists pour la conformation bateau du composC 7 en
+faisant varier la position de l’europium dans des limites
+raisonnables: tous ont abouti des valeurs de AsR pour
+H-Sa trks suptrieures a la valeur expirimentale (5,4ppm).
+Nous donnons dans le Tableau 4 deux jeux de A S R pour
+l’ensemble des protons en situant l’europium sur l’axe de
+la liaison S=O A R = 3 A (b) et 3,s A ( c ) de I’oxygkne:
+
+=
+
+K
+
+Re
+
+- 958
+
+0,068
+
+-555
+
+0,066
+
+-520
+
+0,090
+
+-1083
+
+0,063
+
+-1100
+-1400
+-433
+-1000
+-564
+
+0,399
+0,205
+0,317
+0,499
+0,052
+
+3 A; (c) bateau a S en
+
+des valeurs respectives de 21,s et 17,O ppm sont ditermintes pour AH-Sa. Comme la valeur correspondante
+pour la chaise B S=O Cq avec I’europium sur I’axe de
+S=O a R = 3 A (a) Cgale 3,3 ppm, on serait amen6 a
+conclure que l’tquilibre prCctdent peut comporter de
+10 A 15% de forme bateau. Cependant I’ensemble des
+AsR ne serait pas satisfaisant; aussi avons-nous rechercht
+une autre position de l’europium sur la chaise a S=O t q ,
+hors de l’axe de S=O quoique dans le plan de symttrie
+de la molkcule et toujours a R
+3 A (d). L’accord avec
+les AsR exp. est meilleur sur l’ensemble des protons
+except6 sur H-4a: mais AH-Sa calc. est encore infirieur
+a la valeur expirimentale. 1 a 2 % de forme bateau
+amiliorent Ies resultats. Quoiqu’iI en soit, nous atteignons les limites de la mCthode d’analyse utiliste ici:
+elle nous permet dans ce cas de ditecter un iquilibre
+chaise S=O t q
+bateau S=O ax dont la proportion de
+forme bateau est infirieure a 15% sans que nous
+puissjons prtciser davantage ni exclure quelques pourcents de la forme croiste a S=O ax qui en dtrive par
+une 1tg6re dtformation.
+Pour les sulfites 9, 11 et 13, un Cquilibre de m&metype
+intervient certainement car la valeur calculCe de AH-5a
+(ou AMe-Sa) est encore inftrieure A la mesure exptrimentale. Cependant, il suffit de moins de 2 de forme
+bateau pour expliquer la variation de O,64 ppm observte
+sur le Me-5a du composC 13 (AMe-Sa calculke pour les
+bateaux b et c: 64,2 et 43,2ppm, respectivement).
+L‘importante interaction poupe-proue Me-Sa . . . S=O ax
+complex6 est donc rtpulsive.
+D’autre part, les composts 8, 10 et 12 a chlore axial en
+5, dont I’interaction CI-5a.. . S=O ax complext est
+forctment trks rCpulsive, prksentent des Asrt qui s’interpr6tent bien avec une seule conformation chaise a
+S=O 6q et un complexe de type a.
+
+Cas du compose‘ 13. Nous avons voulu tester notre
+mCthode d’analyse sur cette moltcule dont la substitution
+importante tend a la figer dans l’unique conformation
+chaise a S=O Cq; de plus, nous savons que les mtthyles
+de I’isopropyle en libre rotation occupent la position
+priviltgite (I) schtmatiste sur la Fig. 2. Une deuxikme
+conformation (11) A mithyles vis-a-vis est eliminte en
+raison de la double interaction diaxiale-1,3 Me . . . Me
+avec les substituants en 5; Ia troisi6me (111) Vest sur la
+
+466
+
+L. CAZAUX,
+G. CHASSAING
+et P. MAKONI
+
+/I
+
+FIG. 3. Cycle de pseudorotation des sulfites cycliques
+
+base de la petite constante de couplageJ(He4a, H-i-Pr) N
+2 HzZ7 observCe sur le spectre du produit complexC.
+Enfin, I’identification des mtthyles en 5 a CtC faite en
+considkrant que le singulet de plus grande largeur 8
+H>
+
+I
+
+FIG. 2
+
+mi-hauteur appartenait au Me-5a seul capable de
+prtsenter un couplage A longue distance avec H-4a et
+H-6a. Dans ces conditions, nous avons calcule les Asn
+dans I’hypothbse d’une conformation chaise dont les
+isopropyles sont Cquatoriaux mais dont I’orientation du
+S=O et des methyles de I’isopropyle ne serait pas
+connue; d’autre part, nous avons supposC inconnue
+l’attribution des mCthyles en 5. Le meilleur rCsultat
+(Re = 0,123) correspond bien 2 la conformation attendue
+et a la bonne attribution des mtthyles en 5 ; il I’emporte
+sur celui (Re = 0,234) correspondant 21 la conformation
+(111) de l’isopropyle telle que l’angle ditdre p(H-i-Pr,
+H-4a) est de 180”.
+MalgrC ses approximations, la mCthode simplifiee
+utilisCe conduit, donc, A des rCsultats trbs satisfaisants
+dans le domaine de l’analyse conformationnelle; elle
+nous semble de ce fait particulibrbment inttressante
+pour 1’Ctude d’equilibres dont l’une des formes peut
+Ctre priviltgiCe par complexation.
+Su@tes en conformation flexible anancornbe 14 d 16
+(Tableau 5 ) . Par l’ttude des spectres RMN et IR, nous
+
+six chainons,
+
+avons montrC que les sulfites 14,2315 et MZ4qui posddent
+de fortes interactions diaxiales-l,3 dans la conformation
+chaise, adoptent une conformation flexible essentiellement croisCe d’axe 2-5 a groupe S=O intermkdiaire oh
+ces interactions sont minimales. Pour le composC 14,
+nous dtcelons sur le spectre IR a c8t6 de la bande
+principale ii 1221 cm-l deux bandes B 1193 et 1207 cm-1
+dans CCl, (e20 %) qui diminuent dans I’acCtonitrile
+( E 10 %); nous les avons attributesz3B un groupe S=O
+axial sur des formes chaise et flexible indiquant l’existence
+d’un Cquilibre conformationnel.
+Afin de faciliter la comprehension de l’analyse suivante,
+nous reprksentons sur la Fig. 3 le cycle de pseudorotation
+des sulfites cycliques a six chainons.
+Au sommet et a la base de la reprtsentation, nous
+notons deux conformations croisCes a groupe S=O
+intermtdiaire des orientations Cq et ax. La partie gauche
+contient les formes bateau ou croisCe B S=O ax tandis
+que la partie droite prtsente les mCmes formes a S=O Cq.
+L’Cquilibre conformationnel de la moltcule 14 non
+complexCe est facilement dCplacC, en particulier sous
+I’effet d’un solvant polaire; nous allons supposer qu’il
+en sera de m&me par complexation au profit d’une
+conformation privilCgite. Dans cette hypothbse, nous
+avons test6 diffkrentes conformations 1, et 4 a 9 par le
+programme itCratif en prenant l’europium sur l’axe de la
+liaison S=O A R = 3 A de I’oxygbne. Nous trouvons,
+dans tous les cas, un facteur de reliabilitk supCrieur a
+0,300 sauf pour la conformation 7 2i tert-butyles Cq et
+S=O ax (Re =- 0,068). La forme chaise I dont l’un des
+t-Bu et le S=O sont axiaux ainsi que la forme croisCe 6
+5 t-Bu pseudo tquatoriaux interviennent donc peu dans
+l’tquilibre du produit complexC. La prtftrence pour une
+forme A S=O ax recoupe nos resultats antkrieurs
+
+Dtplacenients chimiques induits en RMN par un reactif lanthanidique
+
+TABLEAU
+6. CONSTANTES
+DE COUPLAGE (Hz)
+DU COMPOSE
+
+14
+
+AVEC ET SANS
+
+ET DIEDRES (DEGRES)
+
+Eu(fod),
+
+6
+
+notamment sur les constantes d’kquilibre. L’existence du
+bateau 7 trouve sa confirmation dans I’evolution des
+constantes de couplage en ajoutant Eu(fod), (cf.
+Tableau 6).
+Cependant, bien que la correspondance entre les angles
+dikdres et les constantes de couplage soit bonne d’aprks
+la courbe de Karplus, aussi bien pour 6 que pour 7, nous
+ne pouvons Climiner complktement la presence d’une
+conformation autre que 7 a I’ttat complexC.
+Une analyse fine du spectre R M N des composis
+chloris 15 et 16 pour un rapport rtactif/substrat (R,/So)
+&gala 1 n’a pu Ctre rCalisCe pour en dCduire avec prCcision
+les constantes de couplage : d’ailleurs celles-ci n’auraient
+pas eu la mCme signification qu’avec le compose 14 car
+les constantes de complexation des deux produits chlorCs
+sont trks faibles.
+Nous disposons donc du seul rCsultat de l’effet de DIL
+que nous avons analyst comme precedemment. Or, il
+conduit aussi a des conformations privilCgiCeset bateau
+a S=O ax de type 7 pour les deux composes 15 et 16:
+
+\w
+s-0
+
+a-
+
+r2
+
+15
+
+16
+
+SutJitesen e‘quilibue conformationnel chaise +Jexible 17 et
+18 (Tableau 5). Van Woerden et Havinga2ninterprktent
+le spectre R M N du compost 17 (F = 38”) non complex6
+en termes d’iquilibre d’inversion de chaise: la forme
+chaise a groupes S=O et t-Bu axiaux (I) reprisenterait
+environ 70 dans CCI, d’aprks la mCthode des largeurs
+de bande; Wood et a1.3n ont, de plus, observC une
+importante variation du moment dipolaire avec le
+solvant. Une Ctude en rtsonance du 13C29rCvkle que la
+mCme forme (I) aurait un poids identique dans CDCI,
+mais 2 cat6 ou a la place de la chaise a S=O et t-Bu
+equatoriaux (11) pourrait intervenir une forme croisee
+(111). Nous avons Cgalement mis en C ~ i d e n c une
+e ~ ~forme
+croisCe de type 6 par spectrophotomttrie IR dans CCI, et
+CH,CN a cBtC de la chaise (I) et d’une forme a S=O t q ,
+vraisemblablement la chaise (II), celle-ci prenant beaucoup d‘importance au dttriment de (I) dans le solvant
+polaire. Nous sommes, donc, bien en prCsence d‘un
+
+467
+
+Cquilibre conformationnel trks mobile. Avec Eu(fod),
+dans CCI,, on peut s’attendre A ce qu’il soit trks diplact
+vers la chaise a S=O ax (I) C’est effectivement ce que
+1’011 observe puisque cette conformation fournit le meilleur facteur de reliabilitk sur les AslL (0,063); de plus, les
+constantes de couplages attendues sont compatibles avec
+celles mesurCes: J4e,5e
+= 2 Hz et J40,5e
+= 3,5 Hz.
+En utilisant, Cgalement, les constantes de couplage,
+Bentrude et a1.2 observe aussi, dans le cas du t-Bu-5-t
+mCthyl-2 0x0-2-r dioxaphosphorinane- 1,3,2 en Cquilibre
+d’inversion de chaise, une croissance de la concentration
+a l’tquilibre de l’isomkre A P=O axial allant de 22 A 59 %
+lorsque le rapport Eu(fod),/S, augmente de 0 a 0,7.
+Remarquons a propos de composCs de ce type qu’aucune
+conformation flexible n’a CtC identifiie dans les solvants
+usuels avec ou sans rCactif l a n t h a n i d i q ~ e . ~ ~
+Avec le composi 18, nous avons aussi dCtectC un
+Cquilibre conformationnel dans CCI, en l’absence de
+rCactif lanthanidique : l’analyse des diplacements chimiques en R M N du protonz6 nous permet d’exclure la
+prtsence d’une conformation unique chaise a S=O Cq et
+l ’ i n f r a r ~ u g enous
+~ ~ indique que les trois types d’orientation du S=O (axiale, Cquatoriale et intermidiaire)
+coexistent; avec mCme, dans CCl, a la concentration
+M/20, une forte proportion de S-0 ax difficilement
+attribuable. Dans l’adtonitrile, la forme a S-0 Cq
+(sans doute chaise) devient trks prkdominante. On peut
+supposer que la complexation par Eu(fod),, qui favorise
+en gCnCral grandement l’orientation axiale du S-=0,
+fournira quelques prCcisions sur la conformation a S=O
+ax inconnue. En considkrant la forte constante de
+complexation (Kc E l500), on pourrait penser a une
+chaise a S=O ax 1. Mais une telle forme est thermodynamiquement improbable (trois interactions diaxiales-l,3 : 2 Me - - - S=O et 1 Me - - - Me). De plus, elle
+est exclue par la prCsence d’une grande constante de
+couplage de 12 Hz a c6tC d’une petite de 3 Hz: toutes les
+deux restent a peu prks invariables avec l’addition
+d’Eu(fod), jusqu’a R, = So. Cette condition permet
+d’iliminer aussi une forme croisie d’axe 2-5 de type 12.
+Ainsi, quatre conformations seulement demeurent compatibles: la chaise a S-0 Cq 2, les deux bateaux a 0 en
+proue 11 et a S en proue 9 et la croisCe d’axe 1-4 10;
+les trois dernikres ont le groupe S=O axial. Pour
+chacune d’entre elles, les Asrt ont CtC calculCs comme
+prCcCdemment; aprks itbation, toutes les conformations
+essayCes ont des facteurs de reliabilitC>0,200 A l’exception
+de 10 pour laquelle il vaut 0,052. Dans cecas, Al’europium
+est situC (cf. Fig. 4) entre l’orbitale du soufre et la liaison
+S=O, plus proche toutefois de cette dernikre. Cette
+conformation croisCe 10 prisente un avantage sur la
+forme 11, image de 7, qui pridomine dans les composCs
+14 a 16: une diminution de l’interaction diaxiale-1,3
+Me - - - S=O inhtrente au sulfite 18 et inexistante pour
+les produits 14 a 16.
+H
+
+FIG. 4. Conformation croiske 10 d u sulfite 18.
+
+468
+
+L. CAZAUX,
+G. CHASSAING
+et P. MARONI
+
+CONCLUSION
+
+5. J. D. Roberts, G. E. Hawkes, J. Husar, A. W. Roberts et
+
+L’analyse conformationnelle dans CCI4 de plusieurs
+dries de sulfites cycliques complexCs par Eu(fod), nous a
+permis de mettre en tvidence les rCsultats suivants.
+Tout d’abord, la mCthode simplifike utiliske pour
+Cvaluer les paramktres K , et Asn de I’tquilibre de
+complexation a CtC testCe avec S U C C ~ Sdans le cas des
+sulfites 1 et 13 de structure connue et s’est rCvCl6e
+suffisamment efficace pour mener a bien cette analyse.
+D’une part, I’obtention de la constante d’Cquilibre
+apparente Kc, impossible dans la technique de mesure
+des b, la plus employke, fournit des renseignements
+interessants sur la configuration du soufre dans le cas de
+diasterCoisomkres en conformation chaise et sur I’evolution des Cquilibres conformationnels sous l’effet de la
+complexation. Cette constante d’tquilibre, sensible a la
+substitution en 4 et 6 et a la polarit6 du substituant en 5 ,
+dCcroit en relation avec une augmentation de la frCquence
+d’ilongation v S=O en infrarouge. Pour deux diastirtoisomeres en conformation chaise: Kc(S=O ax) >
+Kc (S=O Cq). Un tquilibre conformationnel oh participe
+une forme a S=O ax sera donc dCplacC entikrement vers
+cette forme (compost 17). Une forme chaise a S=O
+Cq en l’absence de rCactif lanthanidique conduira a un
+Cquilibre comformationnel avec quelques pourcents d’une
+conformation flexible a S=O ax en prCsence de celui-ci
+(sulfites 7, 9, 11 et 13), sauf si une contrainte les maintient dans leur structure primitive (8, 10 et 12). Les
+molicules 14 a 16 en conformation croisCe d’axe 2-5 et a
+S=O intermtdiaire sans Eu(fod)s adopteront, sous l’effet
+de la complexation, une forme flexible a S=O ax; il en
+sera de mCme pour le composk 18 prkalablernent en
+tquilibre conformationnel.
+D’autre part, les conformations ont CtC prCcisCes par
+I’exploitation des Aslt au moyen de 1’Cquation de
+McConnell et Robertson. Dans chaque cas, les resultats
+sont en accord avec les prCvisions prkcidentes notarnment
+sur l’tvolution des Cquilibres conformationnels : les
+sulfites 14 a 16 existent dans la conformation bateau 7 a 0
+en proue et S=O ax 7 et le composC 18 en conformation
+croisCe 10 d’axe 1-4 substituants mtthyles Cquatoriaux
+ou pseudotquatoriaux et S=O ax. Pour ce dernier
+composC, on peut identifier raisonnablement la forme
+10 a la forme la plus stable en l’absence d’Eu(fod),
+dkcelee par spectrophotomttrie 1R.
+Chaque fois que cela a CtC possible, les conformations
+des produits complexts ont Ct6 confirmtes par l’examen
+des constantes de couplage.
+Ntanmoins, ces mCthodes ne sont pas assez prtcises
+pour exclure la participation en faible quantitC d’autres
+conformations.
+
+D. W. Roberts, Tetrahedron 30, 1833 (1974).
+6. K . L. Servis et D. J. Bowler, J Am. Chem. Soc. 97, 80 (1975).
+7. R. M. Wing, J. J. Vebel e t K. K. Andersen, J. Am. Chem. SOC.
+95, 6046 (1973).
+8. J. K. M. Sanders, S. W. Hanson et D. H. Williams, J. Am.
+Chem. Soc. 94, 5325 (1972).
+9. (a) J. Reuben et J. S. Leigh, J. Am. Chem. Soc. 94,2789 (1972);
+(b) J. Reuben, 1. Am. Chem. Soc. 95,3534 (1973); (c) J. Reuben
+in J. Emsley, J. Feeney et L. H. Sutcliffe (Eds). Progress in
+N M R Spectroscopy, Vol. 9, Pergamon Press, Oxford, 1973,
+p. 431.
+10. (a) B. L. Shapiro et M. D. Johnston Jr, J . Am. Chem. SOC.94,
+8185 (1972); (b) B. L. Shapiro, M. D. Johnston Jr, P. I. R.
+Towne, A. D. Godwin, H. L. Pearce, T. W. Proulx et M. J.
+Shapiro, in J. W. Emsley, J. Feeney et L. H. Sutcliffe (Eds),
+Progress in N M R spectroscopy, Vol. 9, Pergamon Press, Oxford
+1973, p. 227; (c) M. D. Johnston Jr, B. L. Shapiro, M. J.
+Shapiro, T. W. Proulx, A. D. Godwin et H. L. Pearce, J . Am.
+Chem. Soc. 97, 542 (1975).
+11. D. R. Kelsey, J. Am. Chem. Soc. 94, 1764 (1972).
+12. I. Armitage, G. Dunsmore, L. D. Hall et A. G. Marshall,
+Can. J. Chem. 50,2119 (1972).
+13. H. M. McConnell et R. E. Robertson, J . Chem. Phys. 29, 1361
+(1958).
+14. J. Bouquant et J. Chuche, Tetrahedron Lett. 2337 (1972).
+15. G. E. Hawkes, D. Leibfritz, D. W. Roberts et J. D. Roberts,
+1. Am. Chem. Soc. 95, 1659 (1973).
+16. (a) J. J. Vebel et R. M. Wing, J . Am. Chem. SOC.94, 8910
+(1972); (b) R. M. Wing, J. J. Vebel et K. K. Andersen, J. Am.
+Chem. SOC.95, 6046 (1973).
+17. J. W. ApSimon et H. Beierbeck, Tetrahedron Lett. 581 (1973).
+18. J. Asselineau, S. Bory et E. Lederer, Bull. Soc. Chim. Fr.
+1524 (1955).
+19. L. Cazaux, G . Chassaing et P. Maroni, Tetrahedron Lett.
+2517 (1975).
+20. C. H. Green et D. G. Hellier, J. Chem. SOC.Perkin Trans. 2
+458 ( I 972).
+21. L. Cazaux et 1’. Maroni, B d . Sac. Chim. Fr. 773 (1972).
+22. L. Cazaux et P. Maroni, C. R. Acad. Sci. Ser. C. 272, 1660
+(1971).
+23. G . Chassaing, These Doctorat de spicialiti, Toulouse, 1972.
+24. (a) M. C . Vertut, J. P. Fayet, G. Chassaing et L. Cazaux,
+C . R. Acad. Sci. Ser. C. 276, 843 (1973); (b) P. Maroni,
+L. Cazaux, G. Chassaing, I. Prejner et Tran le Trang, Bull.
+Soc. Chim. Fr. 1238 (1975).
+25. S. Sarel et V. Usiele, Israel J. Chem. 6, 885 (1968).
+26. P. Maroni, L. Cazaux, J. P. Gorrichon, P. Tisnes et J. G. Wolf,
+Bull. Soc. Chim. Fr. 1253 (1975).
+27. L. Cazaux et P. Maroni, Tetrahedron Lett. p. 3661 (1969).
+28. H. F. Van Woerden et E. Havinga, Rec. Trav. Chim. Pays-Bas
+86, 348 (1967).
+29. G. W. Buchanan, J. B. Stothers et G. Wood, Can. J. Chem.
+51, 3746 (1973).
+30. G. Wood, G. W. Buchanan et H. H. Miskow, Can. J. Chem.
+50, 521 (1972).
+31. C. Altona, H. J. Geise et C. Romers, Rec. Trau. Chim.Pays-Bas
+85, 1197 (1966).
+32. V. A. Naoumov, N. M. Zoripov et L. F. Chatroukov, Z z .
+Struct. Khim. 11, 579 (1970).
+33. P. Finocchiaro, A. Recca, P. Maravigna et G. Montaudo,
+Tetrahedron 30, 4159 (1974).
+34. K. L. Williamson, D. R. Clutter, R. Emch, M. Alexander,
+A. E. Burroughs, C. Chua et M. E. Bogel, J. Am. Chem. SOC.
+96, 1471 (1974).
+35. J . K. M. Sanders et D. H. Williams, J . Am. Chem. Soc. 93,
+641 (1971).
+36. Rtsultats non publits.
+37. R. J. Gillespie et E. A. Robinson, Can. J. Chem. 41,2074 ( I 963).
+38. G. Wood, G. W. Buchanan et M. H. Miskow, Can. J . Chem.
+50, 521 (1972).
+39. J. P. Majoral et J. Navech, Spectrochim. Acta 28A, 2247 (1972).
+
+BIBLIOGRAPHIE
+1 . A. F. Cockerill, G. L. 0. Davies, R. C. Harden et D. M.
+Rackman, Chem. Rev. 73, 553 (1973).
+2. W. G. Bentrude, H. W. Tan et K. C. Yee, J. Am. Chem. Soc.
+94, 3264 (1972).
+3. J. Bouquant, M. Wuilmet, A. Maujean et J. Chuche, Chem.
+Commun. 778 (1974).
+4. K . L. Servis, D. J. Bowler et C. Tshii, J . Am. Chem. Soc. 97,
+73 (1975).
+

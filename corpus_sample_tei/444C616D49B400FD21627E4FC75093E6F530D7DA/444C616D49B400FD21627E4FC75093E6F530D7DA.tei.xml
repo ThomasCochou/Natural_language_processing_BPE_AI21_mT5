@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Version 1.2 générée le 6-7-2019--><TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xml:lang="fr" type="research-article"><teiHeader><fileDesc><titleStmt><title level="a" type="main" xml:lang="fr">Comment comprendre les émotions morales</title></titleStmt><publicationStmt><authority>ISTEX</authority><publisher scheme="https://scientific-publisher.data.istex.fr">Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><availability><licence><p>Copyright © Canadian Philosophical Association 2009</p></licence><p scheme="https://loaded-corpus.data.istex.fr/ark:/67375/XBH-G3RCRD03-V">cambridge</p></availability><date>2009</date></publicationStmt><notesStmt><note type="research-article" scheme="https://content-type.data.istex.fr/ark:/67375/XTP-1JC4F85T-7">research-article</note><note type="journal" scheme="https://publication-type.data.istex.fr/ark:/67375/JMC-0GLKJH51-B">journal</note></notesStmt><sourceDesc><biblStruct type="inbook"><analytic><title level="a" type="main" xml:lang="fr">Comment comprendre les émotions morales</title><author xml:id="author-0000"><persName><forename type="first">Christine</forename><surname>Clavien</surname></persName><affiliation>Université de Lausanne</affiliation></author><idno type="istex">444C616D49B400FD21627E4FC75093E6F530D7DA</idno><idno type="ark">ark:/67375/6GQ-V4BC4Z3T-C</idno><idno type="DOI">10.1017/S001221730999014X</idno><idno type="PII">S001221730999014X</idno><idno type="article-id">99014</idno></analytic><monogr><title level="j">Dialogue</title><title level="j" type="abbrev">Dialogue</title><idno type="pISSN">0012-2173</idno><idno type="eISSN">1759-0949</idno><idno type="publisher-id">DIA</idno><imprint><publisher>Cambridge University Press</publisher><pubPlace>New York, USA</pubPlace><date type="published" when="2009"/><biblScope unit="volume">48</biblScope><biblScope unit="issue">3</biblScope><biblScope unit="page" from="601">601</biblScope><biblScope unit="page" to="618">618</biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><profileDesc><creation><date>2009</date></creation><langUsage><language ident="fr">fr</language></langUsage><abstract xml:lang="fr" style="translated"><p>RÉSUMÉ : Cet article a pour objet de questionner la possibilité de l’existence des émotions morales et d’en déchiffrer la notion. Je commence par relever brièvement les faiblesses de différentes lectures philosophiques des émotions morales avant de poursuivre sur une voie à première vue prometteuse qui consiste à en fournir une explication fonctionnaliste évolutionnaire : les émotions morales auraient pour fonction évolutive de soutenir les relations sociales coopératives. Après analyse, il apparaît cependant que cette approche présente également d’importantes faiblesses. En fin de compte, je propose d’abandonner l’idée d’émotion intrinsèquement morale au profit d’une solution «minimale» : la «moralité» est une appellation attribuée aux émotions (ou plus justement aux épisodes émotionnels) lorsqu’elles apparaissent dans des contextes moralement pertinents.</p></abstract><abstract xml:lang="fr" style="normal"><p>ABSTRACT: The two main goals of this paper are to question the possibility of the existence of moral emotions and to decipher the notion of moral emotion. I start with a brief critical analysis of various philosophical understandings of moral emotions before setting out an evolutionary line of approach that seems promising at first glance: according to the functional evolutionary approach, moral emotions have the evolutionary function of sustaining cooperation. It turns out ultimately that this approach has its own drawbacks. I finally propose to give up the idea of moral property intrinsic to some emotions; “moral” seems instead merely to label emotions (or more precisely emotional episodes) when they occur in morally relevant contexts.</p></abstract></profileDesc><revisionDesc><change when="2009">Published</change></revisionDesc></teiHeader><text><body><div><p>
+Comment comprendre
+les émotions morales
+
+CHRISTINE CLAVIEN
+
+Université de Lausanne
+
+RÉSUMÉ : Cet article a pour objet de questionner la possibilité de l’existence des émotions
+morales et d’en déchiffrer la notion. Je commence par relever brièvement les faiblesses de
+différentes lectures philosophiques des émotions morales avant de poursuivre sur une voie
+à première vue prometteuse qui consiste à en fournir une explication fonctionnaliste évolutionnaire : les émotions morales auraient pour fonction évolutive de soutenir les relations
+sociales coopératives. Après analyse, il apparaît cependant que cette approche présente
+également d’importantes faiblesses. En ﬁn de compte, je propose d’abandonner l’idée
+d’émotion intrinsèquement morale au proﬁt d’une solution «minimale» : la «moralité» est
+une appellation attribuée aux émotions (ou plus justement aux épisodes émotionnels)
+lorsqu’elles apparaissent dans des contextes moralement pertinents.
+ABSTRACT: The two main goals of this paper are to question the possibility of the existence of moral emotions and to decipher the notion of moral emotion. I start with a
+brief critical analysis of various philosophical understandings of moral emotions before setting out an evolutionary line of approach that seems promising at ﬁrst glance:
+according to the functional evolutionary approach, moral emotions have the evolutionary function of sustaining cooperation. It turns out ultimately that this approach has its
+own drawbacks. I ﬁnally propose to give up the idea of moral property intrinsic to some
+emotions; “moral” seems instead merely to label emotions (or more precisely emotional
+episodes) when they occur in morally relevant contexts.
+
+1. Introduction
+Depuis que les émotions ont retrouvé leurs lettres de noblesse en philosophie
+(notamment grâce aux travaux de Ronald de Sousa, 2003), on se laisse volontiers
+Dialogue 48 (2009), 601-618.
+© Canadian Philosophical Association /Association canadienne de philosophie, 2009
+doi:10.1017/S001221730999014X
+
+602
+
+Dialogue
+
+séduire par l’idée qu’il existe des émotions morales et qu’elles sont une composante essentielle de la moralité. Mais lorsque l’on cherche à comprendre
+dans le détail en quoi consiste une émotion morale, les difﬁcultés surgissent.
+Le lecteur se trouve rapidement confronté à un foisonnement d’interprétations
+possibles. Cet article concerne la question de savoir s’il existe des entités de ce
+genre et, si c’est le cas, d’en comprendre la nature; dans le cas contraire (c’est
+d’ailleurs la conclusion à laquelle j’arriverai), il s’agira alors de saisir le sens
+de la notion d’émotion morale.
+Je commencerai par passer en revue quelques lectures possibles des émotions morales. Aucune de ces lectures ne paraissant pleinement convaincante,
+j’aborderai par la suite le problème d’un point de vue plus empirique en consultant l’explication classique de l’évolution des émotions morales : selon cette
+explication ces dernières auraient pour fonction biologique de soutenir les
+relations sociales coopératives. Après une analyse détaillée de cette position
+(sections 3-6), j’en soulèverai les faiblesses (section 7). Pour terminer, je
+proposerai d’abandonner l’idée de l’existence d’émotions intrinsèquement
+morales et développerai une «solution minimale» qui rend compte de l’usage
+courant de la notion d’émotion morale.
+2. Quelques tentatives de rendre compte des émotions morales
+À première vue, la notion d’émotion morale semble référer à l’ensemble des
+émotions intrinsèquement morales, l’idée étant que, parmi les émotions
+existantes, certaines possèdent d’une manière ou d’une autre la propriété de la
+moralité et, à ce titre, méritent cette appellation. Il y a bien des manières de
+comprendre cette idée.
+Premièrement, on pourrait opter pour une version essentialiste et penser que
+certaines émotions sont morales dans leur essence propre par opposition à des
+émotions immorales (pour cette distinction, voir Deonna, 2007; Dumouchel,
+2004). Comme émotions morales on aurait par exemple l’amour du prochain,
+la culpabilité ou la compassion. Comme émotions immorales, on pourrait
+compter l’amour propre fustigé par Rousseau (1762 [1999]), la jalousie ou le
+ressentiment dénigrés par Nietzsche (1887 [2000]) ou encore la vanité décriée
+par Hobbes (1651 [2000]). Puisque ces émotions sont morales ou immorales
+par essence, l’expérience des premières serait toujours morale et l’expérience
+des secondes toujours immorale. Cette caractérisation est cependant peut convaincante, car elle est sujette à d’innombrables contre-exemples. Par exemple,
+il n’est pas évident d’accepter qu’il soit moral d’éprouver de la compassion
+pour Hitler ou pour une mouche qui a perdu une aile. Inversement, tous les
+épisodes de jalousie ne sont pas forcément immoraux1.
+Une seconde lecture consisterait à considérer certaines émotions comme
+intrinsèquement morales en vertu du rôle prépondérant qu’elles jouent dans
+la pensée et l’activité morale. À cet effet, on pourrait s’inspirer de différentes
+théories qui mettent en valeur le rôle des émotions dans le phénomène
+moral.
+
+Émotions morales
+
+603
+
+Il y a les théories qui considèrent les émotions comme des moyens heuristiques pour détecter la moralité de situations ou comportements. En d’autres
+termes, cette approche consiste à attribuer une fonction précise à certaines
+émotions : celle de révéler des valeurs morales ou la conformité d’une situation
+à des normes morales. Christine Tappolet (2000) ou Sabine Döring (2007)
+entre autres comparent les émotions aux expériences perceptuelles; selon elles,
+les émotions révèlent une réalité axiologique et possèdent des conditions
+d’adéquation. Par exemple, l’admiration morale est adéquate si et seulement si
+cette personne est réellement admirable.
+Une autre manière de comprendre l’apport des émotions dans le phénomène
+moral revient à considérer les jugements moraux comme des expressions de
+réactions émotionnelles particulières (Ayer, 1936 [1946]; Prinz, 2006). Condamner moralement une action reviendrait par exemple à exprimer un dégoût
+moral déclenché à la vue de cette action.
+Il y a également les théories qui considèrent certaines émotions comme des
+critères d’individuation de la moralité. Selon Allan Gibbard (1990 [2002]) par
+exemple, les jugements moraux se caractérisent par le fait qu’ils portent précisément sur les émotions de colère et de culpabilité. Par exemple, condamner
+moralement une de nos propres actions reviendrait à exprimer notre conviction
+selon laquelle il est justiﬁé de se sentir coupable d’avoir agit de cette manière.
+Admettons que certaines émotions soient un élément essentiel au phénomène
+de la moralité, que ce soit par leur fonction de révélateur d’une réalité morale,
+de constituant du jugement moral ou de critère de la moralité (cette liste n’est
+probablement pas exhaustive). Dès lors, on peut se poser la question de savoir
+si ce rôle prépondérant accordé à certaines émotions, c’est-à-dire le fait que
+sans elles nous serions incapables de distinguer le bien du mal, permet de les
+considérer comme intrinsèquement morales2. Il ne semble pas que cela soit
+une raison sufﬁsante. Une simple analogie permet d’en comprendre la raison. Le
+phénomène de la moralité semble non seulement nécessairement lié à certaines
+émotions mais également à d’autres facultés comme la capacité réﬂexive ou la
+capacité à comprendre quels sont les besoins d’autrui; sans ces facultés, on voit
+mal comment un individu pourrait être capable d’évaluer moralement une
+situation. Mais ce n’est pas pour autant que l’on considère la capacité réﬂexive
+comme morale. Notre capacité réﬂexive peut être utilisée dans différents contextes; parfois elle est utilisée pour réﬂéchir à des questions morales (c’est en
+ce sens que l’on parle de réﬂexion morale), mais cela ne lui confère pas la
+propriété d’être morale. Il en va de même pour les émotions.
+On pourrait objecter ici que certaines émotions apparaissent uniquement
+dans des contextes moraux et à ce titre, on peut les considérer comme intrinsèquement morales. Mais alors le lecteur est en droit d’attendre une liste et une
+description précise de ces entités si particulières. Or c’est quelque chose que
+l’on peine à trouver dans la littérature.
+Des tentatives allant dans ce sens ont été faites dans un domaine plus
+empirique. Depuis quelques années, une nouvelle approche gagne du terrain
+
+604
+
+Dialogue
+
+et il se pourrait qu’elle s’avère utile à montrer l’existence d’émotions intrinsèquement morales. Il s’agit d’adopter une perspective fonctionnaliste
+évolutionnaire. Dans la suite de cet article, je présenterai cette approche en
+détail avant d’en relever les faiblesses et de proposer une autre piste de
+solution.
+3. L’émotion morale comme objet de sélection
+Pour peu que l’on veuille faire de la morale un phénomène signiﬁcatif à l’échelle
+humaine, les lectures proposées ci-dessus doivent admettre que tout être
+humain «standard» est capable de ressentir ces émotions morales (du moins
+dans des circonstances normales); en d’autres termes, ces émotions sont censées
+être universelles à l’échelle humaine. De plus, lorsqu’il s’agit d’expliquer
+leur présence universelle à l’échelle humaine, il n’y a guère d’autre possibilité
+que d’imaginer l’existence de certains facteurs héréditaires et de constantes
+environnementales qui régissent la production des émotions morales chez
+les êtres humains, ou du moins qui en permettent le développement avec une
+très haute probabilité. Si l’on ajoute à cela une perspective évolutionnaire, cela
+nous mène directement à l’idée que les mécanismes sous-jacents aux émotions
+morales sont des produits de l’évolution naturelle et ont probablement été
+sélectionnés parce qu’ils produisent un avantage sélectif. Plus précisément,
+comme le fait remarquer Luc Faucher, «l’expression “émotions morales” semble
+suggérer en effet qu’un groupe d’émotions a été sélectionné pour répondre aux
+problèmes du domaine moral» (2007, p. 113). On trouve ici non seulement
+l’idée que les émotions morales sont des entités sufﬁsamment homogènes pour
+pouvoir être des objets de sélection, mais qu’elles ont de plus toutes été sélectionnées pour la même raison; en d’autres termes, les émotions morales pourraient être comprises comme une seule sorte d’objet de sélection. Dès lors, la
+tâche est de déterminer en vertu de quelle fonction elles ont été sélectionnées,
+ou dit autrement, en réponse à quels problèmes de notre environnement elles
+ont évolué. Si l’on parvient à expliquer cela, on disposera du même coup d’un
+bon critère pour déﬁnir les émotions morales.
+4. L’interprétation évolutionnaire classique du phénomène émotionnel
+Avant de présenter l’hypothèse évolutionnaire classique relative à ce qui confère la moralité aux émotions, il me paraît important de dire quelques mots sur
+le phénomène émotionnel en général. Ce dernier est souvent conçu selon
+un modèle tripartite (Gibbard, 1990 [2002]) : certaines causes typiques vont
+déclencher certaines réactions physiologiques et phénoménologiques typiques,
+lesquelles sont liées à des tendances typiques à l’action. Par exemple, un épisode de colère est une réaction à un ensemble de circonstances comme le fait
+de subir des injures ou recevoir des insultes. Cet épisode de colère se caractérise par un certain état du système neuronal et endocrinien, par une expression
+faciale et une phénoménologie spéciﬁque à la colère. Enﬁn, un sujet en colère
+sera motivé à commettre des actes punitifs.
+
+Émotions morales
+
+605
+
+Selon les théoriciens évolutionnaires, ces différents états sont l’expression
+d’un «plan génétique» propre à toute émotion. Quant au plan dans le détail
+(c’est-à-dire, pour une émotion particulière, l’ensemble de ses causes, son type
+d’expression et ses tendances à l’action), il sera en partie génétiquement déterminé et en partie modulé par les inﬂuences de l’environnement et par les expériences personnelles des sujets. Certaines émotions plus élémentaires comme les
+formes primitives de colère ou de peur sont profondément ancrées dans nos
+gènes alors que des émotions plus sophistiquées comme la honte ou la culpabilité
+ne se développent pleinement que sous certaines conditions culturelles. Cette
+explication rend compte du fait que certaines émotions se rencontrent dans
+n’importe quelle culture humaine3 alors que d’autres s’expriment de manière
+plus locale4.
+5. La fonction coordinatrice et coopérative des émotions morales
+Les auteurs évolutionnaires pensent généralement que les émotions morales
+ont évolué parce qu’elles permettaient de renforcer la coopération et la coordination entre les personnes d’un groupe social (Gibbard, 1990 [2002]; Fessler
+et Haley, 2003; Trivers, 1985). En d’autres termes, elles ont été sélectionnées
+pour leurs effets bénéﬁques sur la vie sociale : leur fonction biologique
+consiste à coordonner les actions et les attentes des gens sur un modèle coopératif.
+D’autre part, ces auteurs pensent souvent en termes d’émotions complémentaires. Par exemple, l’émotion complémentaire de la colère morale (que l’on
+peut comprendre comme une catégorie assez large incluant des émotions
+comme le ressentiment ou l’indignation) pourrait être la culpabilité. Elles sont
+complémentaires parce que les actions punitives que la colère nous pousse à
+commettre (il s’agit des expressions typiques de la colère) concordent avec les
+punitions que l’on est prêt à supporter lorsque l’on se sent coupable. Ainsi, si
+ces deux émotions sont répandues dans une population, elles favoriseront grandement les interactions saines et coopératives5.
+Robert Trivers par exemple pense que la culpabilité implique un jugement
+selon lequel il est justiﬁé que nous soyons punis; plus précisément cette émotion
+sert à inhiber nos mécanismes défensifs, à accepter la punition et à favoriser les
+expressions d’excuses, tout cela ayant évidemment pour effet de rétablir les
+bons rapports avec la personne en colère (1985, p. 389). Poursuivant dans la
+même voie, Dan Fessler et Kevin Haley (2003) défendent l’idée que la culpabilité est causée lorsque l’on comprend qu’un de nos comportements pourrait
+causer du tort à une relation de coopération mutuelle. Cette émotion nous
+pousserait ensuite à des gestes de compensation pour le tort causé aﬁn de réinstaurer un rapport de conﬁance.
+Cette approche évolutionnaire fonctionnaliste nous fournit un critère simple
+(la coordination des interactions sociales coopératives) qui devrait permettre
+de déﬁnir une liste des principales émotions morales.
+
+606
+
+Dialogue
+
+6. Une liste des principales émotions morales
+Le critère d’identiﬁcation des émotions morales étant posé, il s’agit de déterminer quelles émotions le remplissent. Cette question fait l’objet de débats.
+Certains auteurs considèrent que seules des émotions négatives6 peuvent vraiment prétendre entrer dans cette catégorie. C’est la position défendue par Allan
+Gibbard. Pour lui, la moralité, dans son sens restreint, est conceptuellement
+liée à deux émotions : la culpabilité et la colère. Il reconnaît bien la pertinence
+morale d’une série d’autres émotions comme l’admiration, le respect, la pitié,
+la bienveillance (1990 [2002], p. 291), mais, selon lui, ces dernières joueraient
+plutôt un rôle de soutien et pourraient uniquement être considérées comme
+morales dans la mesure où elles permettent de soutenir l’action et afﬁner les
+deux émotions morales par excellence : la colère et la culpabilité7. La raison
+qui le pousse à accorder une telle place à la colère et à la culpabilité vient de ce
+que ces deux émotions sont corrélées. Comme nous l’avons vu plus haut, les
+causes de la colère morale sont les mêmes que celles de la culpabilité et les
+tendances à l’action de la culpabilité sont complémentaires à celles de la colère :
+la culpabilité calme la colère et cette alchimie permet de restaurer la coordination et la coopération. Selon Gibbard, ce couple d’émotions est extrêmement
+puissant pour nous motiver à coopérer et ne pas tricher dans le cadre de relations sociales et coopératives. D’autre part, il est convaincu que ces deux émotions négatives sont nettement plus puissantes que les émotions positives
+comme la bienveillance ou le respect pour maintenir la coordination sociale
+(ibid., p. 257-269)8. Voyons s’il est justiﬁé de croire cela.
+Le choix de la colère (comprise dans son aspect indignation) comme
+émotion morale par excellence semble assez justiﬁé. Du moins, un bon nombre de données empiriques le conﬁrment. On peut montrer par exemple que la
+colère décourage la tricherie dans le contexte des relations sociales parce
+qu’elle est associée à une tendance à punir (étant entendu que la punition est
+une expression typique de la colère). C’est du moins dans ce sens que vont les
+résultats des recherches menées en anthropologie évolutionnaire (Boyd et al.,
+2003) et en économie expérimentale (Fehr et Fischbacher, 2003) sur la punition altruiste. La punition altruiste consiste à sacriﬁer une partie de ses ressources pour punir des comportements opportunistes sans que des bénéﬁces
+ultérieurs en retour ne puissent être attendus. Du point de vue théorique, il est
+clair qu’en forçant les opportunistes à coopérer (sous menace de sanction), la
+punition altruiste engendre des effets bénéﬁques pour la coopération et l’entraide
+au sein de grands groupes. Des expériences empiriques simulant des interactions sociales (où l’on demande à des sujets humains de pratiquer différents jeux
+comme le dilemme du prisonnier, le jeu de la conﬁance ou le jeu du bien public)
+ont montré que s’ils ont la possibilité de punir les conduites opportunistes, les
+gens se comportent souvent comme des altruistes punisseurs, c’est-à-dire qu’ils
+sont prêts à punir les opportunistes à leurs propres frais et sans attente de
+bénéﬁces en retour (Fehr et Gächter, 2002; Fehr et Fischbacher, 2004).
+
+Émotions morales
+
+607
+
+L’existence d’un lien étroit entre l’émotion de la colère et cette tendance à
+pratiquer la punition altruiste a également été relevée par Fehr et Gächter. À la
+ﬁn d’une session de jeu de bien public, ils ont distribué un questionnaire aux
+sujets leur demandant de s’imaginer quel degré de colère ils ressentiraient en
+tant que victime d’une action opportuniste ou quelle émotion ils s’attendraient
+à ce que l’autre joueur ressente s’ils étaient eux-mêmes opportunistes. Les
+résultats montrent que la punition est corrélée avec une forte colère dirigée
+contre les opportunistes et que ces derniers anticipent les réactions de colère.
+Ces observations soutiennent l’idée que la colère est un facteur important sousjacent à la punition altruiste, et par conséquent, qu’elle a un rôle crucial à jouer
+pour le maintien de groupes coopératifs.
+Qu’en est-il de la culpabilité? Au contraire de la colère, il y a peu de recherches sur la culpabilité. Cela est probablement dû au fait que le concept de
+culpabilité est plus vague que celui de colère. En consultant la littérature, on
+se trouve confronté à diverses déﬁnitions parfois peu compatibles entre elles.
+Cette confusion terminologique nous impose de prendre comme objet de
+recherche une classe assez ﬂoue incluant des émotions proches comme le
+remords, le regret, voire même certaines formes de honte. Mais cela n’empêche
+pas de se demander si ce type d’émotions favorise la coopération et la coordination. Fessler et Haley (2003) pensent que la culpabilité9 induit une punition
+subjective en réaction à la transgression de normes et de ce fait, incite les individus à suivre ces normes. Dans une société régie par des normes, une telle
+émotion a pour effet de réguler les comportements pro-sociaux.
+Dans le même ordre d’idée, les économistes Samuel Bowles et Herbert Gintis
+(2002) ont mené des expériences de jeu de bien public aﬁn d’explorer le rôle de
+la culpabilité et de la honte sur les comportements pro-sociaux. Dans le cadre de
+leurs expériences, ils ont concentré leur attention sur les réponses données par les
+sujets qui ont été punis pour leur manque de volonté coopérative. Leur étude montre que le comportement des gens est inﬂuencé de manière signiﬁcative par leurs
+sentiments de culpabilité, de honte et de regret. Eux aussi en déduisent que ce type
+d’émotions joue un rôle central dans les relations coopératives10.
+Enﬁn, dans une étude basée sur la comparaison entre des personnes en bonne
+santé et des patients souffrant de troubles de régulation du comportement
+social, Jennifer Beer et al. (2003) ont montré que la déﬁcience du comportement social chez ces patients est corrélée avec l’absence d’émotions comme la
+honte ou l’embarras.
+Jusqu’ici dans les grandes lignes, Gibbard semble avoir raison. Toutefois, en
+science évolutionnaire et psychologie sociale, on ne trouve pas uniquement des
+explications de la colère et de ses émotions complémentaires. Les théoriciens
+se réfèrent également à d’autres émotions négatives comme le dédain, le dégoût11 ou des émotions positives comme l’amour, la gratitude, la ﬁerté,
+l’admiration ou l’élévation (Fessler et Haley, 2003; Haidt, 2003).
+Par exemple, selon le primatologue Frans de Waal (1996 [1997]), si l’on
+veut trouver les éléments clefs de la moralité et comprendre comment la pensée
+
+608
+
+Dialogue
+
+et le comportement moral sont apparus au cours de l’évolution, il faut chercher
+des indices dans l’étude des espèces analogues à la nôtre, comme les primates
+ou plus particulièrement les grands singes. Même si ces derniers ne peuvent
+pas être considérés comme des êtres moraux à part entière, ils font preuve d’un
+sens de la régulation sociale convergeant avec les règles qui régissent le comportement humain. De Waal montre également que la capacité de l’empathie
+cognitive (la faculté de comprendre les besoins et les émotions d’autres individus) et l’émotion de sympathie qui en résulte peuvent être observées chez les
+grands singes; les chimpanzés par exemple s’engagent dans des activités de
+consolation. L’empathie et la sympathie semblent également essentiels pour
+le bon fonctionnement de leur vie sociale (c’est pourquoi de Waal les qualiﬁe
+de proto-morales); elles promeuvent la cohésion, la coopération et les liens
+sociaux (Flack et de Waal, 2000).
+De manière plus générale, Jonathan Haidt (2003) distingue quatre familles
+d’émotions morales qui pourraient jouer un rôle fonctionnel signiﬁcatif en
+matière de coordination et de coopération : la famille des émotions condamnatrices (dédain, colère, dégoût), la famille des émotions qui impliquent la conscience de soi (honte, embarras, culpabilité), la famille des émotions déclenchées
+par la souffrance d’autrui (compassion) et enﬁn la famille des émotions élogieuses envers autrui (gratitude, élévation)12. Selon Haidt, ces émotions sont
+déclenchées par des causes désintéressées et incitent à produire des actions prosociales. Parmi elles, les émotions les plus typiquement morales sont l’élévation,
+la compassion, la colère et la culpabilité.
+Le cas de l’élévation est particulièrement intéressant. Il semblerait qu’il
+s’agisse de l’émotion complémentaire du dégoût social; c’est un sentiment
+positif et chaleureux ressenti lorsque nous sommes témoins d’actes que nous
+considérons comme moralement bons et qui nous incite à aider et nous rapprocher d’autrui (Haidt, 2000). Haidt et ses collègues ont mené plusieurs
+expériences psychologiques sur l’émotion d’élévation. Les résultats montrent
+que lorsque les gens sont témoins d’actions moralement admirables, ils ressentent un fort désir d’être l’auteur d’actions similaires et de se rapprocher des
+gens qui se comportent ainsi13.
+Notons qu’en comparaison avec les émotions négatives comme la colère,
+la tristesse ou la peur, les émotions positives ont été un peu négligées dans la
+littérature évolutionnaire. Selon Barbara Fredrickson (2000 et 2003) qui a consacré plusieurs années à l’étude des émotions positives, la raison tient au fait
+qu’en comparaison des émotions négatives, il est plus difﬁcile de les différencier les unes des autres, si bien que leur étude n’est pas aisée. La colère et la
+peur sont facilement reconnaissables parce que chacune est liée à une expression faciale paradigmatique. En revanche les expressions faciales des émotions
+positives sont très similaires (elles s’expriment toutes par le sourire de Duchenne). De plus, les scientiﬁques étudient généralement les émotions en les
+associant à des tendances à l’action qui leurs sont propres; par exemple, la
+colère incite à l’attaque ou à la punition alors que la peur pousse à la fuite. Ces
+
+Émotions morales
+
+609
+
+tendances à l’action caractéristiques facilitent les scénarios explicatifs de
+l’évolution de ces émotions en termes d’adaptation. Malheureusement, il n’est
+pas aussi évident que les changements physiologiques et les tendances à
+l’action associées aux émotions positives soient favorables à la survie.
+Pour cette raison, Fredrickson propose d’abandonner ce cadre d’analyse
+étroit lorsqu’il s’agit d’étudier les émotions positives. Selon elle, les émotions
+positives ne résolvent aucun problème de survie immédiat. Par contre, elles
+exercent une inﬂuence profonde et durable sur la santé et le bien-être des gens,
+ainsi que sur leur capacité à gérer des situations difﬁciles, ce qui est également
+très favorable d’un point de vue évolutionnaire. Ainsi au niveau social, les
+émotions positives sont également un facteur de cohésion signiﬁcatif. Concernant la question des émotions moralement pertinentes, Fredrickson pense que
+la ﬁerté, la gratitude ou l’élévation incitent les gens à agir en faveur d’autrui.
+En créant une chaîne d’événements chargés d’une valence positive, elles
+peuvent déclencher et soutenir des spirales de comportements sociaux capables
+de faire d’une communauté une organisation sociale morale et harmonieuse
+(2003, p. 335).
+En bref, une émotion positive comme l’élévation pourrait bien être un instrument aussi puissant que la colère ou la culpabilité pour maintenir la coopération
+et les comportements pro-sociaux. Dans un contexte social, elle est évolutionnairement avantageuse pour la communauté autant que pour les membres individuels de cette communauté puisqu’elle permet d’augmenter le taux d’assistance
+mutuelle; et au niveau individuel, elle fournit énergie et bien-être.
+Pour conclure, à la lumière des analyses évolutionnaires récentes, il semblerait que la liste des émotions morales (si l’on accepte le critère de la coopération et de la coordination) soit assez large et inclut à la fois des émotions
+négatives et positives. Il est ainsi difﬁcile de donner raison à Gibbard lorsqu’il
+donne la priorité à la colère et à la culpabilité. Même si ces émotions semblent
+être des conditions nécessaires à la coopération, nous avons de fortes raisons
+de penser que la réduction de la moralité à ces deux émotions et plus généralement au domaine du sanctionnable est par trop réductrice. En revanche, il
+apparaît que la liste des émotions morales, même si elle ne semble pas close
+(certaines émotions pertinentes n’ont peut-être pas encore fait l’objet d’analyses
+évolutionnaires et il est probable que de nouvelles émotions morales surgissent
+au ﬁl de l’évolution), peut être assez clairement limitée en la restreignant aux
+émotions qui favorisent la coordination et la coopération.
+7. Les limites de la perspective fonctionnaliste évolutionnaire
+La méthode fonctionnaliste évolutionnaire semble à la fois simple et efﬁcace
+pour saisir la réalité des émotions morales. Il est donc tentant de lui accorder
+du crédit, d’autant plus qu’elle permet de répondre à une critique générale
+dirigée contre les défenseurs de l’existence des émotions morales. Selon cette
+critique, si l’on jette un œil aux différentes positions morales qui ont été défendues au cours de l’histoire de la philosophie, force est de constater que les
+
+610
+
+Dialogue
+
+penseurs ne s’accordent pas sur la liste des émotions morales paradigmatiques.
+Cela semble suggérer que nul ne sait quelles sont ces fameuses émotions morales (Dumouchel, 2004). Il faut avouer que cette objection reste assez superﬁcielle : une absence de consensus n’implique pas que toutes les tentatives
+de déﬁnir les émotions morales soient erronées. Mais surtout, le théoricien
+évolutionnaire peut répondre que son analyse fournit précisément un moyen
+de décider, parmi les différentes positions existantes, lesquelles sont plus plausibles.
+Malgré ses avantages, la position fonctionnaliste évolutionnaire peut susciter un certain nombre d’objections. Je vais en présenter quelques-unes qui, à
+l’exception de la première, me paraissent être en mesure d’ébranler sérieusement cette position.
+Une première objection pourrait consister à relever le fait que toutes les
+occurrences des émotions morales n’ont pas pour effet de produire de la coordination et de la coopération. On peut par exemple être en colère de manière
+complètement injustiﬁée et cela ne favorisera certainement pas les bons rapports sociaux. Mais à cette objection, on pourrait répondre que les théories
+évolutionnaires ne traitent pas des situations particulières mais plutôt des effets
+sur le long terme de l’occurrence régulière des émotions considérées. Si une
+émotion a évolué pour remplir une fonction particulière (en l’occurrence
+renforcer la coopération) il ne s’ensuit pas que toutes ses occurrences remplissent effectivement cette fonction14. En d’autres termes, il se peut qu’une émotion morale soit mal appliquée. Notons à ce propos une implication directe :
+l’approche fonctionnaliste évolutionnaire n’est pas compatible avec une
+version essentialiste des émotions morales.
+Une seconde objection consiste à s’inquiéter des conséquences d’une interprétation des émotions morales en termes de coopération et de coordination.
+Si l’on associe cette interprétation à l’idée que les émotions morales jouent le
+rôle de jugement moral ou de critère d’identiﬁcation de la moralité (deux positions parfaitement compatibles avec l’approche fonctionnaliste évolutionnaire), il semblerait que le phénomène de la moralité se trouve réduit à celui de
+la coopération; or c’est un peut court comme analyse de la moralité. En réalité,
+le dogme de l’émotion morale comme ﬂeuron de la coopération semble luimême critiquable. L’idée selon laquelle les émotions sont morales seulement
+si elles ont un rôle signiﬁcatif à jouer en matière de coopération et de coordination ouvre la porte aux contre-exemples.
+Tout d’abord, il n’est pas certain que l’on aimerait considére comme morales
+favorisent la coordination et la coopération. C’est le cas par exemple du dégoût
+moral. Une instanciation caractéristique de cette émotion est la réaction face à
+l’inceste. Or il n’est pas du tout certain que ce type de réactions peut inciter
+d’une quelconque façon à la coopération (cf. Faucher, 2007). L’hypothèse explicative la plus convaincante attribue au dégoût face à l’inceste des racines
+évolutionnaires différentes : on sait que les couples consanguins ont une plus
+haute probabilité d’engendrer des enfants qui souffrent de maladies graves, si
+
+Émotions morales
+
+611
+
+bien que, sur le long terme, ce genre d’unions s’avère défavorable dans l’ordre
+biologique. Ce phénomène a favorisé l’émergence, dans beaucoup d’espèces,
+de dispositions rendant improbables les relations sexuelles entre proches parents. On peut observer chez certains animaux le phénomène de dispersion des
+petits après le sevrage; chez les êtres humains, c’est le mécanisme de dégoût
+face à l’inceste qui a évolué. Ainsi, si le dégoût est une émotion morale,
+l’explication de l’évolution des émotions morales en termes de coordination et
+de coopération ne semble être au mieux que partielle.
+D’autres émotions qui, de fait, favorisent la coopération et la coordination
+peuvent avoir évolué pour d’autres raisons. Le souci d’autrui ou la bienveillance par exemple, semblent plutôt résulter de la sélection de parentèle
+(Hamilton, 1964). Leur fonction biologique serait donc essentiellement de
+soutenir la propre descendance ou plus généralement, les individus proches
+parents (Lahti, 2003).
+Si l’on prend le problème à l’inverse, certaines émotions semblent favoriser particulièrement les interactions sociales alors même que de l’avis du
+sens commun, elles sont complètement étrangères à la moralité. Prenons
+l’exemple du sentiment de soumission : savoir se soumettre à plus fort que
+soi favorise clairement la coordination des relations sociales et toute une
+gamme de relations de coopération (même si cette coopération procède de
+manière inégale). Il en va de même d’autres émotions comme l’assurance de
+soi par exemple.
+En ﬁn de compte, il me semble que les difﬁcultés liées à la recherche d’un
+critère évolutionnaire pour déterminer quelles sont les émotions morales
+relèvent du fait que la catégorie d’émotion morale comprise comme une seule
+sorte d’objet de sélection pose problème. À l’instar du dégoût social ou de la
+bienveillance, il est plus probable que les émotions considérées comme morales
+aient émergé pour des raisons qui restent propres à chacune d’entre elles et pas
+forcément parce qu’elles favorisent la coordination et la coopération (même
+s’il semblerait que ce soit le cas pour la plupart d’entre elles)15. Cette tension
+liée à une déﬁnition des émotions morales en fonction de leur capacité à
+garantir la coopération et la coordination est d’autant plus problématique qu’il
+semblerait que certaines émotions contribuent davantage à la coopération que
+d’autres. Dans ces conditions, il faudrait introduire une gradation entre les
+émotions morales, mais, ce faisant, il n’y aurait plus aucun sens de penser que
+certaines émotions sont intrinsèquement morales; on ne peut pas être plus ou
+moins intrinsèquement moral.
+Ma dernière critique est d’ordre général et concerne la manière dont la théorie fonctionnaliste évolutionnaire rend compte des émotions cognitivement
+complexes. Nous avons vu à la section 4 que les approches évolutionnaires
+classiques établissent une distinction entre les émotions basiques (colère, peur,
+tristesse, etc.), profondément ancrées dans nos gènes et les émotions plus
+sophistiquées comme la honte ou la culpabilité, qui ne peuvent être forgées
+que dans certains environnements culturels. Quoique cette distinction soit fort
+
+612
+
+Dialogue
+
+utile, il me semble qu’elle n’est pas pensée jusqu’au bout par les tenants de
+l’approche évolutionnaire classique. Il est délicat de parler de «plan génétique»
+pour des émotions cognitivement complexes qui s’apprennent dans un contexte
+culturel (à ce propos, cf. Deonna, 2007). Il est vrai que, d’un point de vue global,
+les émotions complexes sont des résultats de la sélection naturelle au même
+titre que tout ce qui concerne la physiologie et les comportements des êtres
+biologiques. De plus, on peut admettre que ces émotions fonctionnent sur
+le modèle tripartite mentionné à la section 4. On peut également concéder
+qu’elles sont fondées sur des mécanismes plus simples qui rendent possible leur
+développement. La culpabilité par exemple peut faire appel aux mécanismes du
+dégoût et de la peur. En revanche, il est peu sensé de considérer les émotions
+complexes comme des objets de sélection génétique, précisément parce que leur
+base génétique est minimale. Ce qui est sélectionné n’est rien de plus que les
+capacités basiques sur lesquelles repose leur construction culturelle. La raison
+pour laquelle des émotions comme la culpabilité ou l’élévation se retrouvent
+dans la plupart des cultures de ce monde tient probablement davantage aux
+contraintes environnementale — dynamiques sociales, psychologie et physiologie des individus, etc. — strictes auxquelles tous les êtres humains sont confrontés. Or, étant donné le manque de plan génétique détaillé je vois mal
+comment on pourrait considérer ces émotions comme des «objets de sélection».
+Sachant cela, il paraît spécieux d’afﬁrmer que toutes les émotions morales ont
+été sélectionnées en raison de leur fonctionnalité biologique. Une alternative
+serait de réﬂéchir en termes d’adaptation culturelle et de fonctionnalité structurelle (au lieu de fonction biologique) : une émotion peut être développée dans
+un cadre culturel si son activation régulière dans la population est favorable aux
+individus et/ou à la société en général. Mais cette solution ne résout pas les difﬁcultés mentionnées plus haut relatives à la focalisation sur les dynamiques de
+coopération et de coordination.
+8. En faveur d’une lecture minimale
+En ﬁn de compte, argumenter en faveur de l’existence d’émotions intrinsèquement morales paraît s’apparenter à la tâche de Sisyphe. Au lieu de concentrer
+l’attention sur l’existence d’entités morales de ce type, il vaudrait sans doute
+mieux s’intéresser à la manière dont nous faisons usage de la notion d’émotion
+morale. C’est la voie qui sera empruntée dans cette section. Je suggère
+d’abandonner l’idée que notre usage du terme «émotion morale» réfère à un
+objet clairement déﬁnissable. Il semble plus pertinent d’adopter une lecture
+minimale. Celle-ci peut se décliner en deux variantes dont chacune se divise en
+deux sous-variantes.
+La première variante de la lecture minimale consiste à dire que la moralité
+est une caractérisation que l’on applique à un ensemble d’émotions; plus précisément, c’est simplement à l’aide de nos outils conceptuels que nous classons une pluralité d’objets sous l’appellation «émotion morale» 16. Il y a deux
+manières d’attribuer cette appellation.
+
+Émotions morales
+
+613
+
+a1) Nous pouvons le faire en fonction d’un certain nombre de critères qui
+nous paraissent décisifs. Par exemple, on pourrait décider qu’une émotion peut être considérée comme morale si elle remplit la condition
+d’être systématiquement déclenchée par des situations qui, aux yeux
+des sujets, impliquent le bien-être et les besoins fondamentaux d’un ou
+plusieurs individus.
+a2) Une autre manière serait d’attribuer l’appellation «moral» aux émotions
+qui sont généralement impliquées dans un contexte moralement pertinent. Par exemple la gratitude est morale parce qu’elle est souvent
+déclenchée à la vue d’une action moralement bonne; ou alors la sympathie est morale parce qu’elle induit régulièrement des comportements
+moraux17.
+Cette lecture des émotions morales est intéressante dans la mesure où elle est
+moins contraignante. La notion d’émotion morale devient une entité pratique
+en usage dans nos réﬂexions morales mais pour laquelle il n’est pas important
+de trouver une corrélation ontologique exacte.
+Une seconde variante de la solution minimale, plus convaincante encore en ce
+qu’elle n’admet pas les contre-exemples, revient à attribuer le qualiﬁcatif de moral,
+non aux émotions elles-mêmes mais uniquement aux occurrences d’émotions qui
+b1) soit remplissent les critères déﬁnis,
+b2) soit interviennent dans des contextes que l’on considère comme
+moraux.
+Il me semble que la position de Luc Faucher (2007, p. 113-114) illustre assez
+bien (b1), l’utilisation de critères externes pour classer les épisodes émotionnels sous l’enseigne de la moralité (même s’il ne parle par explicitement
+d’épisodes émotionnels). Les critères qu’il invoque sont le fait d’être déclenché dans des contextes sociaux où les agissements des uns ont des effets sur
+d’autres individus, d’être motivé par la conformité ou la non-conformité à une
+norme et enﬁn d’être désintéressé.
+Il importe de remarquer ici que le choix de critères de moralité dépend
+directement d’une conception préalablement ﬁxée de ce qu’est la moralité. Cette
+remarque est également valable pour (a1). Mais dès lors que l’on dispose déjà
+d’une déﬁnition de la moralité, on peut se demander dans quelle mesure il est
+encore pertinent de déﬁnir, de surcroît, un ensemble de critères propres aux
+épisodes émotionnels moraux. Pour cette raison, la deuxième manière (b2)
+d’attribuer le label de la moralité à ces épisodes me paraît plus pertinente : les
+épisodes émotionnels deviennent moraux en quelque sorte par effet de répercussion, lorsqu’ils sont impliqués dans des contextes où des questions de nature
+morale sont posées. Par exemple, un épisode émotionnel pourrait être considéré
+comme moral s’il révèle au sujet la conformité d’une situation à une norme
+morale qu’il s’est ﬁxée ou qu’il a internalisée.
+
+614
+
+Dialogue
+
+9. Conclusion
+Dans cet article, j’ai tâché de montrer qu’il n’est pas judicieux de parler
+d’émotions spéciﬁquement morales. Je ne nie pas que certaines émotions
+jouent un plus grand rôle que d’autres dans notre vie morale (par exemple la
+culpabilité, la honte, la colère ou l’élévation) mais cela n’est pas sufﬁsant pour
+les considérer comme intrinsèquement morales. D’autre part, il me paraît utile
+de laisser la possibilité aux occurrences de n’importe quelle émotion de devenir morales en fonction du contexte dans lequel elles apparaissent. La solution
+minimale adoptée en ﬁn de compte revient à considérer séparément chaque
+épisode émotionnel et lui attribuer l’appellation «moral» s’il apparaît dans
+un contexte moralement pertinent. Cela implique que pour pouvoir identiﬁer
+les épisodes émotionnels moraux, il faut que l’on se soit fait au préalable une
+idée de ce qu’est un contexte moralement pertinent. Selon cette approche, les
+émotions morales ne peuvent donc pas servir de critère d’identiﬁcation de la
+moralité18.
+Notes
+1 On trouvera même des auteurs qui considèrent la jalousie comme une émotion
+morale paradigmatique pour peu qu’elle soit ressentie dans les bonnes circonstances
+(Kristjansson, 2002).
+2 Notons qu’il n’est pas certain que tous les auteurs mentionnés ci-dessus défendent
+une telle position.
+3 Par exemple les émotions basiques déﬁnies par Paul Ekman et Wallace Friesen
+(1989) : colère, dégoût, peur, joie, tristesse et surprise.
+4 Par exemple, dans les cultures japonaises on trouve l’émotion «amae» qui consiste
+à se sentir agréablement dépendant de l’amour d’autrui, ou dans l’île du Paciﬁque
+Ifaluk, les gens font l’expérience de l’émotion «fago», un mélange de compassion,
+d’amour et de tristesse (voir Niiya et al. 2006).
+5 «Take guilt and resentment: if one person resents an action of another and the other
+does not feel the corresponding guilt, we may expect trouble. Guilt makes possible
+the acknowledgment of wrong, and such modes of reconciliation as restitution,
+compensation, apology, and forgiveness. One’s chances of damaging conﬂicts are
+reduced, then, if one feels guilty when guilt and its normal accompaniments are
+demanded by others, and if one demands guilt and its normal accompaniments only
+when others are prepared to feel guilty. Hence it tends to be advantageous for an
+individual to coordinate his guilt with the resentment of others and his resentment
+with the guilt of others» (Gibbard, 1990 [2002], p. 67-68).
+6 Il y a plusieurs manières de déﬁnir les émotions positives et négatives. Je suivrai ici
+Aaron Ben-Ze’ev (2000, p. 72) pour qui les émotions positives incluent un sentiment plaisant ainsi que le désir de maintenir la situation qui en est la cause (et vice
+versa pour les émotions négatives). Cela implique de considérer comme négatives
+des émotions comme la sympathie ou la compassion.
+7 Notons que cette conception de la moralité centrée sur deux émotions est assez
+gênante car elle pousse Gibbard à admettre que les individus de sociétés qui ne
+
+Émotions morales
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+14
+
+15
+16
+
+17
+
+18
+
+615
+
+connaissent pas l’une de ces émotions (ou les deux) sont incapables de penser et
+agir moralement (du moins au sens étroit du terme). Or même si la colère morale
+semble se trouver dans toutes les cultures, il n’est pas certain que ce soit le cas pour
+la culpabilité (à ce propos, voir Scherer et Wallbott, 1994; Fessler et Haley, 2003).
+Je pense toutefois qu’il y a une raison plus profonde à ce choix de restreindre le champ des
+émotions morales. Cela tient à la position que Gibbard défend en philosophie morale :
+pour se démarquer des faiblesses philosophiques d’une autre position sentimentaliste,
+l’émotivisme défendu par Alfred Ayer (1936 [1946]), Gibbard fait de la colère et de la
+culpabilité un critère simple d’individuation de la morale. Je ne m’attarderai toutefois
+pas sur cette question ici (pour plus de détails, cf. Clavien, 2009).
+En réalité ils utilisent le terme de «honte» mais ils en donnent une description plus
+proche de ce que l’on entend généralement par culpabilité : ils parlent d’une émotion
+négative déclenchée par la prise de conscience qu’autrui sait que nous avons agi de
+manière moralement répréhensible.
+La clef de leur argumentation consiste à montrer que le comportement coopératif
+ne peut pas être expliqué par le seul fait de craindre la punition en cas de noncoopération.
+À première vue, il peut sembler étrange de compter le dégoût parmi les émotions
+morales. On pourrait se demander s’il ne vaudrait pas mieux parler d’indignation
+plutôt que de dégoût moral. Il semblerait que non, car dans une expérience utilisant
+l’imagerie cérébrale par résonnance magnétique (Moll et al., 2005), des chercheurs
+en neurosciences ont pu montrer que le dégoût ordinaire et le dégoût moral activent
+à peu près les mêmes zones du cerveau (à ce propos, cf. aussi Faucher, 2007).
+Les termes utilisés par Haidt pour ces quatre familles d’émotions sont : «othercondemning family», «self-conscious family», «other-suffering family» et «otherpraising family».
+Pour une explication fonctionnelle similaire relative à la pertinence morale de
+l’émotion de gratitude, voir McCullough et al. (2001).
+En effet l’évolution est une affaire de probabilité; un trait ne doit pas être adaptatif
+dans toutes ses occurrences pour être sélectionné, il sufﬁt qu’il le soit assez souvent
+pour pouvoir être transmis avec une grande probabilité à la génération suivante
+(Sober, 2000, chap. 7.1).
+Un certain nombre d’auteurs évolutionnaires semblent d’ailleurs sensibles à cette
+réalité (notamment Haidt).
+La raison pour laquelle nous avons l’impression qu’il existe des émotions intrinsèquement morales tient au fait que (pour des raisons évidentes) certaines émotions
+sont systématiquement impliquées dans des contextes moraux.
+John Rawls (1971 [1997], p. 576) semble défendre une telle position. Selon lui, le
+ressentiment par exemple est une émotion morale parce qu’on l’éprouve dans les
+situations où nous sommes victime d’une injustice (sous-entendu que le fait d’être
+victime d’une injustice est une situation moralement mauvaise).
+Tous mes remerciements à Luc Faucher et Daniel Schulthess pour avoir pris le
+temps de lire les versions antérieures de cet article. Leurs commentaires m’ont été
+d’une grande aide.
+
+616
+
+Dialogue
+
+Références bibliographiques
+Ayer, Alfred
+1936 Language, Truth, and Logic, New York, Dover Publications [1946].
+Beer, Jennifer S., Erin A. Heerey, Dacher Keltner, Donatella Scabini et Robert T.
+Knight
+2003 «The Regulatory Function of Self-Conscious Emotion: Insights from
+Patients with Orbitofrontal Damage», Journal of Personality and
+Social Psychology, vol. 85, no 4, p. 594-604.
+Ben-Ze’ev, Aaron
+2000 The Subtlety of Emotions, Cambridge (MA), MIT Press.
+Bowles, Samuel, Gintis, Herbert
+2002 «Prosocial Emotions», Santa Fe Working Paper, &lt;http://www.santafe.
+edu/research/publications/working-papers.php&gt; (page consultée le
+6 octobre 2006).
+Boyd, Robert, Herbert Gintis, Samuel Bowles et Peter J. Richerson
+2003 «The Evolution of Altruistic Punishment», Proceedings of the National
+Academy of Sciences of the United States of America, vol. 100, no 6,
+p. 3531-3535.
+Clavien, Christine
+2009 «Gibbard’s Expressivism: an Interdisciplinary Critical Analysis», Philosophical Psychology, vol. 22, no 4, p. 465-484.
+Deonna, Julien
+2007 «Evolution, émotion et morale; les exemples de la honte et de la
+culpabilité», dans C. Clavien et C. El-Bez, dir., Morale et évolution
+biologique. Entre déterminisme et liberté, Lausanne, Presses Polytechniques et Universitaires Romandes, p. 142-164.
+de Sousa, Ronald
+2003 «Emotion», Stanford Encyclopedia of Philosophy, &lt;http://www.plato.
+stanford.edu&gt; (page consultée le 2 octobre 2005).
+de Waal, Frans
+1996 Le bon singe. Les bases naturelles de la morale, Paris, Bayard [1997].
+Döring, Sabine
+2007 «Seeing What to Do: Affective Perception and Rational Motivation»,
+Dialectica, vol. 61, no 3, p. 363-394.
+Dumouchel, Paul
+2004 «Y a-t-il des sentiments moraux?», Dialogue, vol. 43, no 3, p. 471-489.
+Ekman, Paul, Friesen, Wallace
+1989 «The Argument and Evidence About Universals in Facial Expressions
+of Emotion», dans H. Wagner et A. Manstead, dir., Handbook of Social
+Psychophysiology, New York, John Wiley and Sons, p. 143-164.
+Faucher, Luc
+2007 «Les émotions morales àla lumière de la psychologie évolutionniste:
+le dégoût et l’évitement de l’inceste», dans C. Clavien et C. El-Bez, dir.,
+
+Émotions morales
+
+617
+
+Morale et évolution biologique. Entre déterminisme et liberté, Lausanne, Presses Polytechniques et Universitaires Romandes, p. 108-141.
+Fehr, Ernst et Urs Fischbacher
+2003 «The Nature of Human Altruism», Nature, vol. 425, p. 785-791.
+2004 «Social Norms and Human Cooperation», Trends in Cognitive
+Sciences, vol. 8, no 4, p. 185-190.
+Fehr, Ernst et Simon Gächter
+2002 «Altruistic Punishment in Humans», Nature, vol. 415, p. 137-140.
+Fessler, Daniel et Kevin Haley
+2003 «The Strategy of Affect: Emotions in Human Cooperation», dans
+P. Hammerstein, dir., Genetic and Cultural Evolution of Cooperation,
+Cambridge (MA), MIT Press, p. 7-36.
+Flack, Jessica et Frans de Waal
+2000 «Any Animal Whatever: Darwinian Building Blocks of Morality
+in Monkeys and Apes», Journal of Consciousness Studies, vol. 7,
+p. 1-29.
+Fredrickson, Barbara
+2000 «Cultivating Positive Emotions to Optimize Health and Well-Being»,
+Prevention &amp; Treatment, vol. 3, p. 1-25.
+2003 «The Value of Positive Emotions», American Scientist, vol. 91,
+p. 330-335.
+Gibbard, Allan
+1990 Wise Choices, Apt Feelings. A Theory of Normative Judgment, Oxford,
+Oxford University Press [2002].
+Haidt, Jonathan
+2000 «The Positive Emotion of Elevation», Prevention &amp; Treatment, vol. 3,
+p.1-4.
+2001 «The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach
+to Moral Judgment», Psychological Review, vol. 108, no 4, p. 814-834.
+2003 «The Moral Emotions», dans R. J. Davidson, K. R. Scherer et H. Hill
+Goldsmith, dir., Handbook of Affective Sciences, p. 852-870.
+Hamilton, William
+1964 «The Genetical Evolution of Social Behavior (I and II)», Journal of
+Theoretical Biology, vol. 7, p. 1-52.
+Hobbes, Thomas
+1651 Léviathan, Paris, Gallimard [2000].
+Kristjansson, Kristjan
+2002 Justifying Emotions. Pride and Jealousy, London, New York, Routledge.
+Lahti, David
+2003 «Parting with Illusions in Evolutionary Ethics», Biology and Philosophy,
+vol. 18, no 5, p. 639-651.
+McCullough, Michael E., Shelley D. Kilpatrick, Robert A. Emmons et David B. Larson
+2001 «Is Gratitude a Moral Affect?», Psychological Bulletin, vol. 127, no 2,
+p. 249-266.
+
+618
+
+Dialogue
+
+Moll, Jorge, Ricardo de Oliveira-Souza, Fernanda Tovar Moll, Fátima Azevedo Ignácio,
+Ivanei E. Bramati, Egas M. Caparelli-Dáquer et Paul J. Eslinger
+2005 «The Moral Afﬁliations of Disgust: A Functional MRI Study», The
+Cognitive Behavioral Neurology, vol. 18, no 1, p. 68-78.
+Nietzsche, Friedrich
+1887 La généalogie de la morale, Paris, Livre de Poche [2000].
+Niiya, Yu, Ellsworth, Phoebe, Yamaguchi, Susumu
+2006 «Amae in Japan and the United States: an exploration of a ‘culturally
+unique’ emotion», Emotion, vol. 6 n°2, p. 279-295.
+Prinz, Jesse
+2006 «The Emotional Basis of Moral Judgments», Philosophical Exploration,
+vol. 9, no 1, p. 29-43.
+Rawls, John
+1971 Théorie de la Justice, Paris, Seuil [1997].
+Rousseau, Jean-Jacques
+1762 Emile ou de l’éducation, Paris, Gallimard [1999].
+Scherer, Klaus et Harald Wallbott
+1994 «Evidence for Universality and Cultural Variation of Differential Emotion
+Response Patterning», Journal of Personality &amp; Social Psychology,
+vol. 66, p. 310-328.
+Sober, Elliott
+2000 Philosophy of Biology (second edition), Boulder: Westview Press.
+Tappolet, Christine
+2000 Émotions et valeurs, Paris, Presses Universitaires de France.
+Trivers, Robert
+1985
+
+Social Evolution, Menlo Park, Benjamin Cummings.
+
+</p></div></body><back><div><listBibl type="references"><biblStruct xml:id="b1" type="inbook"><monogr><title level="m">Language, Truth, and Logic</title><editor><persName><forename type="first">Alfred</forename><surname>Ayer</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1936</date></imprint></monogr></biblStruct><biblStruct xml:id="b2" type="article"><analytic><title level="a">The Regulatory Function of Self-Conscious Emotion: Insights from Patients with Orbitofrontal Damage</title><author><persName><forename type="first">Jennifer S.</forename><surname>Beer</surname></persName></author><author><persName><forename type="first">Erin A.</forename><surname>Heerey</surname></persName></author><author><persName><forename type="first">Dacher</forename><surname>Keltner</surname></persName></author><author><persName><forename type="first">Donatella</forename><surname>Scabini</surname></persName></author><author><persName><forename type="first">Robert T.</forename><surname>Knight</surname></persName></author></analytic><monogr><title level="j">Journal of Personality and Social Psychology</title><imprint><date type="published">2003</date><biblScope unit="volume">85</biblScope><biblScope unit="page" from="594">594</biblScope><biblScope unit="page" to="604">604</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b3" type="inbook"><monogr><title level="m">The Subtlety of Emotions</title><editor><persName><forename type="first">Aaron</forename><surname>Ben-Ze’ev</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b4" type="article"><analytic><title level="a">Prosocial Emotions</title><author><persName><forename type="first">Samuel</forename><surname>Bowles</surname></persName></author><author><persName><forename type="first">Gintis</forename><surname>Herbert</surname></persName></author></analytic><monogr><title level="j">Santa Fe Working Paper</title><imprint><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b5" type="article"><analytic><title level="a">The Evolution of Altruistic Punishment</title><author><persName><forename type="first">Robert</forename><surname>Boyd</surname></persName></author><author><persName><forename type="first">Herbert</forename><surname>Gintis</surname></persName></author><author><persName><forename type="first">Samuel</forename><surname>Bowles</surname></persName></author><author><persName><forename type="first">Peter J.</forename><surname>Richerson</surname></persName></author></analytic><monogr><title level="j">Proceedings of the National Academy of Sciences of the United States of America</title><imprint><date type="published">2003</date><biblScope unit="volume">100</biblScope><biblScope unit="page" from="3531">3531</biblScope><biblScope unit="page" to="3535">3535</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b6" type="article"><analytic><title level="a">Gibbard’s Expressivism: an Interdisciplinary Critical Analysis</title><author><persName><forename type="first">Christine</forename><surname>Clavien</surname></persName></author></analytic><monogr><title level="j">Philosophical Psychology</title><imprint><date type="published">2009</date><biblScope unit="volume">22</biblScope><biblScope unit="page" from="465">465</biblScope><biblScope unit="page" to="484">484</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b7" type="inbook"><monogr><title level="m">Morale et évolution biologique. Entre déterminisme et liberté</title><editor><persName><forename type="first">Julien</forename><surname>Deonna</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Clavien</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>El-Bez</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lausanne</pubPlace><date type="published">2007</date><biblScope unit="page" from="142">142</biblScope><biblScope unit="page" to="164">164</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b8" type="article"><analytic><title level="a">Emotion</title><author><persName><forename type="first">Ronald</forename><surname>de Sousa</surname></persName></author></analytic><monogr><title level="j">Stanford Encyclopedia of Philosophy</title><imprint><date type="published">2003</date></imprint></monogr></biblStruct><biblStruct xml:id="b9" type="inbook"><monogr><title level="m">Le bon singe. Les bases naturelles de la morale</title><editor><persName><forename type="first">Frans</forename><surname>de Waal</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1996</date></imprint></monogr></biblStruct><biblStruct xml:id="b10" type="article"><analytic><title level="a">Seeing What to Do: Affective Perception and Rational Motivation</title><author><persName><forename type="first">Sabine</forename><surname>Döring</surname></persName></author></analytic><monogr><title level="j">Dialectica</title><imprint><date type="published">2007</date><biblScope unit="volume">61</biblScope><biblScope unit="page" from="363">363</biblScope><biblScope unit="page" to="394">394</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b11" type="article"><analytic><title level="a">Y a-t-il des sentiments moraux?</title><author><persName><forename type="first">Paul</forename><surname>Dumouchel</surname></persName></author></analytic><monogr><title level="j">Dialogue</title><imprint><date type="published">2004</date><biblScope unit="volume">43</biblScope><biblScope unit="page" from="471">471</biblScope><biblScope unit="page" to="489">489</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b12" type="inbook"><monogr><title level="m">Handbook of Social Psychophysiology</title><editor><persName><forename type="first">Paul</forename><surname>Ekman</surname></persName></editor><editor><persName><forename type="first">Wallace</forename><surname>Friesen</surname></persName></editor><editor><persName><forename type="first">H.</forename><surname>Wagner</surname></persName></editor><editor><persName><forename type="first">A.</forename><surname>Manstead</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>New York</pubPlace><date type="published">1989</date><biblScope unit="page" from="143">143</biblScope><biblScope unit="page" to="164">164</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b13" type="inbook"><monogr><title level="m">Morale et évolution biologique. Entre déterminisme et liberté</title><editor><persName><forename type="first">Luc</forename><surname>Faucher</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>Clavien</surname></persName></editor><editor><persName><forename type="first">C.</forename><surname>El-Bez</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Lausanne</pubPlace><date type="published">2007</date><biblScope unit="page" from="108">108</biblScope><biblScope unit="page" to="141">141</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b14" type="article"><analytic><title level="a">The Nature of Human Altruism</title><author><persName><forename type="first">Ernst</forename><surname>Fehr</surname></persName></author><author><persName><forename type="first">Urs</forename><surname>Fischbacher</surname></persName></author></analytic><monogr><title level="j">Nature</title><imprint><date type="published">2003</date><biblScope unit="volume">425</biblScope><biblScope unit="page" from="785">785</biblScope><biblScope unit="page" to="791">791</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b15" type="article"><analytic><title level="a">Social Norms and Human Cooperation</title><author><persName><forename type="first">Ernst</forename><surname>Fehr</surname></persName></author><author><persName><forename type="first">Urs</forename><surname>Fischbacher</surname></persName></author></analytic><monogr><title level="j">Trends in Cognitive Sciences</title><imprint><date type="published">2004</date><biblScope unit="volume">8</biblScope><biblScope unit="page" from="185">185</biblScope><biblScope unit="page" to="190">190</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b16" type="article"><analytic><title level="a">Altruistic Punishment in Humans</title><author><persName><forename type="first">Ernst</forename><surname>Fehr</surname></persName></author><author><persName><forename type="first">Simon</forename><surname>Gächter</surname></persName></author></analytic><monogr><title level="j">Nature</title><imprint><date type="published">2002</date><biblScope unit="volume">415</biblScope><biblScope unit="page" from="137">137</biblScope><biblScope unit="page" to="140">140</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b17" type="inbook"><monogr><title level="m">Genetic and Cultural Evolution of Cooperation</title><editor><persName><forename type="first">Daniel</forename><surname>Fessler</surname></persName></editor><editor><persName><forename type="first">Kevin</forename><surname>Haley</surname></persName></editor><editor><persName><forename type="first">P.</forename><surname>Hammerstein</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Cambridge (MA)</pubPlace><date type="published">2003</date><biblScope unit="page" from="7">7</biblScope><biblScope unit="page" to="36">36</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b18" type="article"><analytic><title level="a">Any Animal Whatever: Darwinian Building Blocks of Morality in Monkeys and Apes</title><author><persName><forename type="first">Jessica</forename><surname>Flack</surname></persName></author><author><persName><forename type="first">Frans de</forename><surname>Waal</surname></persName></author></analytic><monogr><title level="j">Journal of Consciousness Studies</title><imprint><date type="published">2000</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="29">29</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b19" type="article"><analytic><title level="a">Cultivating Positive Emotions to Optimize Health and Well-Being</title><author><persName><forename type="first">Barbara</forename><surname>Fredrickson</surname></persName></author></analytic><monogr><title level="j">Prevention &amp; Treatment</title><imprint><date type="published">2000</date><biblScope unit="volume">3</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="25">25</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b20" type="article"><analytic><title level="a">The Value of Positive Emotions</title><author><persName><forename type="first">Barbara</forename><surname>Fredrickson</surname></persName></author></analytic><monogr><title level="j">American Scientist</title><imprint><date type="published">2003</date><biblScope unit="volume">91</biblScope><biblScope unit="page" from="330">330</biblScope><biblScope unit="page" to="335">335</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b21" type="inbook"><monogr><title level="m">Wise Choices, Apt Feelings. A Theory of Normative Judgment</title><editor><persName><forename type="first">Allan</forename><surname>Gibbard</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Oxford</pubPlace><date type="published">1990</date></imprint></monogr></biblStruct><biblStruct xml:id="b22" type="article"><analytic><title level="a">The Positive Emotion of Elevation</title><author><persName><forename type="first">Jonathan</forename><surname>Haidt</surname></persName></author></analytic><monogr><title level="j">Prevention &amp; Treatment</title><imprint><date type="published">2000</date><biblScope unit="volume">3</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="4">4</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b23" type="article"><analytic><title level="a">The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment</title><author><persName><forename type="first">Jonathan</forename><surname>Haidt</surname></persName></author></analytic><monogr><title level="j">Psychological Review</title><imprint><date type="published">2001</date><biblScope unit="volume">108</biblScope><biblScope unit="page" from="814">814</biblScope><biblScope unit="page" to="834">834</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b24" type="article"><analytic><title level="a">The Moral Emotions</title><author><persName><forename type="first">Jonathan</forename><surname>Haidt</surname></persName></author><author><persName><forename type="first">R. J.</forename><surname>Davidson</surname></persName></author><author><persName><forename type="first">K. R.</forename><surname>Scherer</surname></persName></author><author><persName><forename type="first">H.</forename><surname>Hill Goldsmith</surname></persName></author></analytic><monogr><title level="j">Handbook of Affective Sciences</title><imprint><date type="published">2003</date><biblScope unit="page" from="852">852</biblScope><biblScope unit="page" to="870">870</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b45" type="article"><analytic><title level="a">The Genetical Evolution of Social Behavior (I and II)</title><author><persName><forename type="first">William</forename><surname>Hamilton</surname></persName></author></analytic><monogr><title level="j">Journal of Theoretical Biology</title><imprint><date type="published">1964</date><biblScope unit="volume">7</biblScope><biblScope unit="page" from="1">1</biblScope><biblScope unit="page" to="52">52</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b25" type="inbook"><monogr><title level="m">Léviathan</title><editor><persName><forename type="first">Thomas</forename><surname>Hobbes</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1651</date></imprint></monogr></biblStruct><biblStruct xml:id="b26" type="inbook"><monogr><title level="m">Justifying Emotions. Pride and Jealousy</title><editor><persName><forename type="first">Kristjan</forename><surname>Kristjansson</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>London, New York</pubPlace><date type="published">2002</date></imprint></monogr></biblStruct><biblStruct xml:id="b27" type="article"><analytic><title level="a">Parting with Illusions in Evolutionary Ethics</title><author><persName><forename type="first">David</forename><surname>Lahti</surname></persName></author></analytic><monogr><title level="j">Biology and Philosophy</title><imprint><date type="published">2003</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="639">639</biblScope><biblScope unit="page" to="651">651</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b28" type="article"><analytic><title level="a">Is Gratitude a Moral Affect?</title><author><persName><forename type="first">Michael E.</forename><surname>McCullough</surname></persName></author><author><persName><forename type="first">Shelley D.</forename><surname>Kilpatrick</surname></persName></author><author><persName><forename type="first">Robert A.</forename><surname>Emmons</surname></persName></author><author><persName><forename type="first">David B.</forename><surname>Larson</surname></persName></author></analytic><monogr><title level="j">Psychological Bulletin</title><imprint><date type="published">2001</date><biblScope unit="volume">127</biblScope><biblScope unit="page" from="249">249</biblScope><biblScope unit="page" to="266">266</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b29" type="article"><analytic><title level="a">The Moral Affiliations of Disgust: A Functional MRI Study</title><author><persName><forename type="first">Jorge</forename><surname>Moll</surname></persName></author><author><persName><forename type="first">Ricardo de</forename><surname>Oliveira-Souza</surname></persName></author><author><persName><forename type="first">Fernanda Tovar</forename><surname>Moll</surname></persName></author><author><persName><forename type="first">Fátima Azevedo</forename><surname>Ignácio</surname></persName></author><author><persName><forename type="first">Ivanei E.</forename><surname>Bramati</surname></persName></author><author><persName><forename type="first">Egas M.</forename><surname>Caparelli-Dáquer</surname></persName></author><author><persName><forename type="first">Paul J.</forename><surname>Eslinger</surname></persName></author></analytic><monogr><title level="j">The Cognitive Behavioral Neurology</title><imprint><date type="published">2005</date><biblScope unit="volume">18</biblScope><biblScope unit="page" from="68">68</biblScope><biblScope unit="page" to="78">78</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b30" type="inbook"><monogr><title level="m">La généalogie de la morale</title><editor><persName><forename type="first">Friedrich</forename><surname>Nietzsche</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1887</date></imprint></monogr></biblStruct><biblStruct xml:id="b46" type="article"><analytic><title level="a">Amae in Japan and the United States: an exploration of a ‘culturally unique’ emotion</title><author><persName><forename type="first">Yu</forename><surname>Niiya</surname></persName></author><author><persName><forename type="first">Ellsworth</forename><surname>Phoebe</surname></persName></author><author><persName><forename type="first">Yamaguchi</forename><surname>Susumu</surname></persName></author></analytic><monogr><title level="j">Emotion</title><imprint><date type="published">2006</date><biblScope unit="volume">6 n°2</biblScope><biblScope unit="page" from="279">279</biblScope><biblScope unit="page" to="295">295</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b31" type="article"><analytic><title level="a">The Emotional Basis of Moral Judgments</title><author><persName><forename type="first">Jesse</forename><surname>Prinz</surname></persName></author></analytic><monogr><title level="j">Philosophical Exploration</title><imprint><date type="published">2006</date><biblScope unit="volume">9</biblScope><biblScope unit="page" from="29">29</biblScope><biblScope unit="page" to="43">43</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b32" type="inbook"><monogr><title level="m">Théorie de la Justice</title><editor><persName><forename type="first">John</forename><surname>Rawls</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1971</date></imprint></monogr></biblStruct><biblStruct xml:id="b34" type="inbook"><monogr><title level="m">Emile ou de l’éducation</title><editor><persName><forename type="first">Jean-Jacques</forename><surname>Rousseau</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">1762</date></imprint></monogr></biblStruct><biblStruct xml:id="b35" type="article"><analytic><title level="a">Evidence for Universality and Cultural Variation of Differential Emotion Response Patterning</title><author><persName><forename type="first">Klaus</forename><surname>Scherer</surname></persName></author><author><persName><forename type="first">Harald</forename><surname>Wallbott</surname></persName></author></analytic><monogr><title level="j">Journal of Personality &amp; Social Psychology</title><imprint><date type="published">1994</date><biblScope unit="volume">66</biblScope><biblScope unit="page" from="310">310</biblScope><biblScope unit="page" to="328">328</biblScope></imprint></monogr></biblStruct><biblStruct xml:id="b47" type="inbook"><monogr><title level="m">Philosophy of Biology</title><editor><persName><forename type="first">Elliott</forename><surname>Sober</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Boulder</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b36" type="inbook"><monogr><title level="m">Émotions et valeurs</title><editor><persName><forename type="first">Christine</forename><surname>Tappolet</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Paris</pubPlace><date type="published">2000</date></imprint></monogr></biblStruct><biblStruct xml:id="b37" type="inbook"><monogr><title level="m">Social Evolution</title><editor><persName><forename type="first">Robert</forename><surname>Trivers</surname></persName></editor><imprint><publisher>Cambridge</publisher><pubPlace>Menlo Park</pubPlace><date type="published">1985</date></imprint></monogr></biblStruct></listBibl></div></back></text></TEI>
